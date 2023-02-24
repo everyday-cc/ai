@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/02/19/ringcentral-dia
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/19/ringcentral-dials-in-strategic-partnerships-with-aws-and-avaya/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     width: 1200
     height: 698
     isCached: true
+
+related:
+  - title: "Hugging Face Expands Cloud Partnership With AWS"
+    excerpt: "The newly announced integration will allow developers to deploy a neural network hosted by Hugging Face to SageMaker with just a few clicks."
+    publishedDateTime: 2023-02-22T14:32:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/hugging-face-expands-cloud-partnership-with-aws/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/hugging-face-expands-cloud-partnership-with-aws/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hugging-face-expands-cloud-partnership-with-aws/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 39
 
 secured: "1/AuY4yrWUi1ZmTtimdBNnoIieU4N5pemc2EJ/21T9ZER53rN9ZAO0gIXIwk8EUihoNqR7Ih0rhkKAd267qdSiIgaDrGHRlbFGyC9Y9Rwb6nC2aP7vtAGLSOVjWRIjsT7ImtTOJSZmqm5QFzeSeT6dX0wxj28OnQ3OBAwL3WGHEc4gJQqWoarbxnyN7KfeQPjg8UDkGCfCHcABpMUQhVSr/bWLgEYJqDnfjfhT70Vw+72tq5C/ya6V2fbkpkqJGghK4pLFd6RsekOsZ78vXFKI2VrT9OCrZS1g2DEwusnetyBKpausBfUh7EyPSy0fMHjnoxoOh0Ed4dTMZpNYM8I5X564m2mt+p1KqtXBIHW0bPx9G0bjEkAYCdRmMFZiLhNvMZzO1ff0/1l+dJUJhv3SjSNiQt987q0AGVd4Lu/SCtVENEiexs5kcvVCLP+R7iwGoYVf37Rgu98aoGKDM6CcINmHswoRtTC1sOblkqZTVMDgeKHJl3Q9Usjus8BDOpWzIp+HxuK3w3VA5exVvdoQ==;SUMi4zYxl7h6dpyRRhz5lg=="
 ---

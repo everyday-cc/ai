@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-mor
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp"
 type: article
 quality: 92
-heat: 252
+heat: 162
 published: true
 
 provider:
@@ -33,213 +33,90 @@ images:
     isCached: true
 
 related:
-  - title: "What Chatbot Bloopers Reveal About the Future of AI"
-    excerpt: "Microsoft’s new chatbot for Bing has displayed some strange behavior, proving that AI is more fallible than tech companies let on."
-    publishedDateTime: 2023-02-16T17:00:00Z
-    webUrl: "https://www.wired.com/story/bing-chatbot-errors-ai-future"
-    ampWebUrl: "https://www.wired.com/story/bing-chatbot-errors-ai-future/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bing-chatbot-errors-ai-future/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/5f0fb43a92cb35f94cf6a0ed/master/w_450,h_400,c_limit/Carve_Fast%20Forward%20newsletter.jpg"
-        width: 450
-        height: 400
-        isCached: true
-  - title: "Generative AI Tools Like ChatGPT and Dall-E Are Everywhere: What You Need to Know"
-    excerpt: "Even crazier: The illustrations created by CNET artists and others for our crowdsourced novella back then could be done today by AI tools like Dall-E 2 in minutes ... The platforms are based on what are called large language models (LLMs) or sometimes ..."
-    publishedDateTime: 2023-02-18T12:00:00Z
-    webUrl: "https://www.cnet.com/science/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-are-everywhere-what-you-need-to-know/"
+  - title: "Generative AI Like ChatGPT Is Popping Up Everywhere. Your Questions Answered"
+    excerpt: "A neural network is a type of machine learning system that can be ... may lie in new ways of collaborating with AI to accentuate what both biological and artificial intelligence do best. Simple, really: Information isn't knowledge. LLMs are kind of ..."
+    publishedDateTime: 2023-02-23T20:55:00Z
+    webUrl: "https://www.cnet.com/science/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 84
+    quality: 88
     images:
       - url: "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
         isCached: true
-  - title: "ChatGPT AI robots writing church sermons causing hell for pastors"
-    excerpt: "‘I can’t do everything I’m supposed to do,’ and start passing ideas off as their own.” Hershael York, the Kentucky pastor and professor, said some of the greatest sermons contain elements of anguish. “Artificial intelligence can imitate that to ..."
-    publishedDateTime: 2023-02-17T21:55:00Z
-    webUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/"
-    ampWebUrl: "https://nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/17/chatgpt-ai-robots-writing-sermons-causing-hell-for-pastors/amp/"
+  - title: "ChatGPT’s Biggest Competition: Here Are The Companies Working On Rival AI Chatbots"
+    excerpt: "The roaring success of ChatGPT, an artificial intelligence chatbot created by U.S. non-profit OpenAI, has sparked a frantic rush to get new AI products to market, a frenzy that is consuming tech’s biggest behemoths and countless startups as they fight ..."
+    publishedDateTime: 2023-02-23T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/amp/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+  - title: "It’s AI powered slaughterbots, not ChatGPT, that should worry us"
+    excerpt: "ethics has changed. What are killer robots, exactly? In formal parlance they are called Lethal Autonomous Weapons Systems (LAWS). Also known as slaughterbots, they use AI to identify, select, and eliminate targets without human intervention. Conventional ..."
+    publishedDateTime: 2023-02-22T09:37:00Z
+    webUrl: "https://www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361"
+    ampWebUrl: "https://www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/02/ai-preaching.gif?w=1024"
-        width: 1024
-        height: 682
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/02/22/its_ai_powered_slaughterbots_not_chatgpt_that_should_worry_us.jpg"
+        width: 750
+        height: 393
         isCached: true
-  - title: "How will AI change mathematics? Rise of chatbots highlights discussion"
-    excerpt: "Machine learning tools already help mathematicians to formulate new theories and solve tough problems. But they’re set to shake up the field even more."
-    publishedDateTime: 2023-02-17T15:41:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-00487-2"
+  - title: "Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet"
+    excerpt: "Google, with Bard, and OpenAI, with ChatGPT are making AI chatbot technology previously restricted to test labs more accessible to the general public. How do these Large Language Model (LLM) programs work?"
+    publishedDateTime: 2023-02-23T23:02:00Z
+    webUrl: "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 71
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-00487-2/d41586-023-00487-2_24034960.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "The AI Arms Race Is Changing Everything"
-    excerpt: "Now we have company. While you’re reading this sentence, artificial intelligence (AI) programs are painting cosmic portraits, responding to emails, preparing tax returns, and recording metal songs. They’re writing pitch decks, debugging code ..."
-    publishedDateTime: 2023-02-16T12:00:00Z
-    webUrl: "https://time.com/6255952/ai-impact-chatgpt-microsoft-google/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 69
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
-  - title: "You.com thinks the future of AI chatbots is (gasp) images"
-    excerpt: "You.com's futuristic YouChat 2.0 AI chatbot has migrated to adding charts, graphs, code, and more inside of its AI-powered search engine."
-    publishedDateTime: 2023-02-16T09:45:00Z
-    webUrl: "https://www.pcworld.com/article/1513995/the-future-of-ai-chatbots-is-gasp-images.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2023/02/Youchat-1.png?w=1024"
-        width: 1023
-        height: 562
-        isCached: true
-  - title: "No, the AI chatbots (still) aren’t sentient"
-    excerpt: "Experts say that personification and projections of sentience on Microsoft and Google chatbots distract from the real issues."
-    publishedDateTime: 2023-02-17T16:30:00Z
-    webUrl: "https://www.popsci.com/technology/chatgpt-google-chatbot-sentient/"
-    ampWebUrl: "https://www.popsci.com/technology/chatgpt-google-chatbot-sentient/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/chatgpt-google-chatbot-sentient/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/02/17/chatbots-alive.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "ChatGPT: how to use the viral AI chatbot that everyone’s talking about"
-    excerpt: "Can ChatGPT be used for essay writing? The use of ChatGPT has been full of controversy, with many onlookers considering how the power of AI will change everything from search engines to novel writing. Essay writing for students is one of the most obvious ..."
-    publishedDateTime: 2023-02-17T19:20:00Z
-    webUrl: "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
+      name: The Verge
+      domain: theverge.com
     quality: 47
-  - title: "China ushers in golden era of AI, chatbots"
-    excerpt: "Chinese tech companies are ramping up efforts to make a foray into the fast-growing artificial intelligence-generated content sector and roll out AI-powered chatbots or products similar to ChatGPT, which has taken the world by storm since its launch in November due to its advanced conversational capabilities."
-    publishedDateTime: 2023-02-16T23:49:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202302/17/WS63eeb668a31057c47ebaf430.html"
+  - title: "No, I didn’t test the new Bing AI chatbot last week. Here’s why | The AI Beat"
+    excerpt: "I’m not just another journalist writing a column about how I spent last week trying out Microsoft Bing’s AI chatbot. No, really. I’m not another reporter telling the world how Sydney, the internal code name of Bing’s AI chat mode, made me feel all ..."
+    publishedDateTime: 2023-02-20T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/no-i-didnt-test-the-new-bing-ai-chatbot-last-week-heres-why-the-ai-beat/"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 44
+  - title: "Amazon enters chatbot wars with AI startup partnership"
+    excerpt: "Amazon.com’s cloud unit is expanding a partnership with artificial intelligence startup Hugging Face, which is developing a ChatGPT rival, the latest move as the biggest technology firms line up allies in an attention-getting market for generative AI ..."
+    publishedDateTime: 2023-02-21T22:37:00Z
+    webUrl: "https://www.latimes.com/business/story/2023-02-21/amazons-aws-hugging-face-ai-deals-chatgpt"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
     quality: 39
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202302/17/63eeb668a31057c4b4b5451f.jpeg"
-        width: 721
-        height: 480
-        isCached: true
-  - title: "AI Chatbots Are Coming to Search Engines. Can You Trust Them?"
-    excerpt: "Google, Microsoft and Baidu are using tools similar to ChatGPT to turn Internet searches into a conversation. How will this change humanity’s relationship with machines?"
-    publishedDateTime: 2023-02-16T17:26:00Z
-    webUrl: "https://www.scientificamerican.com/article/ai-chatbots-are-coming-to-search-engines-can-you-trust-them/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/3422100C-5B37-4D27-9059451B6DF67DCF.jpg"
-        width: 790
-        height: 496
-        isCached: true
-  - title: "How AI chatbots in search engines will completely change the internet"
-    excerpt: "The progress of artificial intelligence models over the past few years has been faster than almost anyone expected. Some advances have left society scrabbling to adapt. Teachers are struggling to stop students using chatbots to write their essays, artists ..."
-    publishedDateTime: 2023-02-17T14:49:00Z
-    webUrl: "https://www.newscientist.com/article/2360135-how-ai-chatbots-in-search-engines-will-completely-change-the-internet/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/02/17133154/SEI_144311959.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0a2487d/2147483647/strip/true/crop/5472x2873+0+98/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F77%2F91%2Ff67ffdcc4bd9bb2739eaaca111c4%2Famazon-affordable-housing-02458.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "AI Chatbot Spontaneously Develops A Theory of Mind"
-    excerpt: "The GPT-3 large language model performs at the level of a nine year old human in standard Theory of Mind tests, says psychologist."
-    publishedDateTime: 2023-02-17T22:01:00Z
-    webUrl: "https://www.discovermagazine.com/mind/ai-chatbot-spontaneously-develops-a-theory-of-mind"
+  - title: "What are ‘robot rights,’ and should AI chatbots have them?"
+    excerpt: "AI chatbots are all the rage. From ChatGPT to Bing’s new AI-powered search engine and Google’s new Bard chatbot, people are obsessed with seeing how they can replace tasks with AI and test its limits."
+    publishedDateTime: 2023-02-22T19:00:00Z
+    webUrl: "https://www.grid.news/story/technology/2023/02/22/what-are-robot-rights-and-should-ai-chatbots-have-them/"
     type: article
     provider:
-      name: Discover Magazine
-      domain: discovermagazine.com
-    quality: 37
-    images:
-      - url: "https://images.ctfassets.net/cnu0m8re1exe/2Ukq3G1YoWvId1IKyl1IMk/d786b8c5753797fb9cddbb5763e5cc99/shutterstock_670374046.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "How open AI chatbots are effective marketing companions?"
-    excerpt: "Marketers have long hoped for a radical technology advance, a game-changing AI intervention that would slickly bring them nearer to their target audience. ChatGPT and Google Bard, an AI chatbot with generative language that was created by OpenAI will completely transform how you communicate with customers."
-    publishedDateTime: 2023-02-19T14:25:00Z
-    webUrl: "https://www.livemint.com/technology/how-open-ai-chatbots-are-effective-marketing-companions-11676816312574.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
+      name: grid
+      domain: grid.news
     quality: 36
-  - title: "From chatbots to facial recognition, here's how AI impacts your daily life"
-    excerpt: "Artificial intelligence has changed many aspects of our lives already, but how, where, and should you be worried? Let's find out."
-    publishedDateTime: 2023-02-16T12:30:00Z
-    webUrl: "https://interestingengineering.com/innovation/how-ai-impacts-your-life"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 34
-  - title: "How AI chatbots could change online search"
-    excerpt: "ChatGPT and chatbots like it do not work like conventional online search. Today, Google and Bing work by sending out web crawlers, a type of bot (autonomous programme), to roam the internet and collect information,"
-    publishedDateTime: 2023-02-16T19:46:00Z
-    webUrl: "https://www.economist.com/the-economist-explains/2023/02/16/how-ai-chatbots-could-change-online-search"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 17
-  - title: "What Alphabet Chart Is Saying As Big Tech Turns Its Attention to AI Chatbots"
-    excerpt: "As big tech increasingly turns its attention to the next chapter of artificial intelligence, out top technical and fundamental analysts take a deeper look at the potential impact on Alphabet and Microsoft."
-    publishedDateTime: 2023-02-17T20:08:00Z
-    webUrl: "https://www.thestreet.com/video/what-googl-chart-is-saying-as-msft-big-tech-focus-in-on-ai-chatbots"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 14
 
 secured: "44G8CCJPGaxBS1bhPFbVLQndm6DjQA5yEN3SPqlp8LcygkdB5TUErWSZqatKiUf1gESK3F2ZPIt7v2Ffm4b72sf73Dex2+ftDZ+6zeV2vYgpXL1NF64SRvCX8Y5a/OppsR+iF29bY/6LRid74QqNJTqm2SuxP2rVfnULf40mwWbGrg9Fl+TDCV1xsQHFEYuUX3a6rA9u/TNEzhtr9KNdKkdZ81emhcDqAGy3/xwxSC4L2Ht+oxBZkdGY93fNywQ3VYjicLfIKd/GBvPxf/FBDA8OoCoZmgGA3BC4DKEyAvBWhiUwMI1idk9VSLiScuBbHaZMwNXS8bTp16FQDrmRdMYkABV69gKxw7T//fnjgZ7ESZ+6eZN2ppOPQaPUth6cBw29CSDYNsiPAGQCkKcAIZXBBWywGax8baa+jibEllYm4IaoYn6babvLf0xsSFdLNI5dJKK7cyCMpDowBa+TPC9jUwTGfPpKw6WXsbgM4A1svd+TBWodGvT+VVgJWJqPrrwxYyQN9AUUdi7w4K6l+Q==;8bk0oKrtRUBUEFcUKBBQUA=="
 ---

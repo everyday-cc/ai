@@ -1,30 +1,26 @@
 ---
 category: news
-title: "Investing in ChatGPT's AI Revolution: Where to Begin"
+title: "Investing in ChatGPT's AI revolution: Where to begin"
 excerpt: "IBM has provided AI solutions for large businesses for many years under the Watson brand. In particular, management is excited about the long-term prospects of large language models for AI -- exactly the type of artificial intelligence that ChatGPT uses."
-publishedDateTime: 2023-02-08T18:48:00Z
-originalUrl: "https://www.fool.com/investing/2023/02/08/where-to-begin-investing-in-chatgpt-ai-revolution/"
-webUrl: "https://www.fool.com/investing/2023/02/08/where-to-begin-investing-in-chatgpt-ai-revolution/"
+publishedDateTime: 2023-02-09T14:04:00Z
+originalUrl: "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/"
+webUrl: "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://g.foolcdn.com/editorial/images/719846/2-technicians-and-data-center-racks.jpg"
-    width: 2384
-    height: 1257
+  - url: "https://www.gannett-cdn.com/authoring/images/motleyfool/2023/02/08/USAT/69885703007-2-technicians-and-data-center-racks.jpg?auto=webp&crop=2224,1256,x159,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 678
     isCached: true
 
-secured: "CBrH48IjhxB2vNKOoYUTJ4fyazxPi69m96iBNLrjkw3Uw0XoKE+h2sKc7yRrfw/PvocVhIr03ONBIrFg/rGi8ycmMA0WI86pTmifbGGT4p5Imdr41+YkHiDpBYYskNrqOoC0I/vlr2ddHH7Jbfxg2cpm825hbiW2TVIj5P9CVPjxZjlX4M4dUzLKJK8YiIFgToYEDy0blw3z0mUjAKw+jZO7VKrbDD56P/X3yhcjs/UG9MFzm01SH4fTdIKBpUXplzj5pYsfBI4VQSNDcGHC4Swvwb3pAziB6BwnAXb5IewtpUn/3uF9lFZjHqH1CWgkqi7mGX85E2KR/f9D1953hZaAXvhp75Jyo7e++63pPvs=;+FxkTJLLjHdsDt5w6zQt9Q=="
+secured: "NuOBoLmxB8VJO/BkXPQq9r+kz6tGHwo06quHpMWpy6OgTAs5LQNOYDj0ZlCXQ8Rt472uhRyRWW5SeQm0oEJTDP7zca0NszaMQwvMgVTi0gRTImTNvQy3acFDbrM8FF7XcX2pR5P8nK/g7/JWr6DEuYCoVKNoO6rQ+L62xqrfshJeaxqC7gysHhrxPnx4t9qn130lTgqbKrS/zBWwB0h7HAE1y2BL66KdXjvdDakeUe9/Xhx14O1LXUXzx1Xq2bpi7tYfxq0x6DHO2H5wvS3ZaWw3UB4zsOIcCSXr8ShrAUNiZsZKDWHpmRNO93WMA6wGSmE4tkMq8T8kpWI7Shfgr3znTFytYGgPu2jXHhjOHHk=;xyIlbPZLXcrNQaeZlNDGaQ=="
 ---
 

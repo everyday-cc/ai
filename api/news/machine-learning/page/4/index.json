@@ -2,6 +2,426 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-27-5-ways-ml-and-sme-collaboration-can-accelerate-innovation.md",
+      "title": "5 Ways ML And SME Collaboration Can Accelerate Innovation",
+      "excerpt": "In this article, I will lay out five ways in which partnerships between data scientists and subject matter experts (SMEs) can accelerate innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ffe0a25c386c343ec2b0a9b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 871,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/01/27/5-ways-ml-and-sme-collaboration-can-accelerate-innovation/amp/",
+      "publishedDateTime": "2023-01-27T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning.md",
+      "title": "Best Egg achieved three times faster ML model training with Amazon SageMaker Automatic Model Tuning",
+      "excerpt": "This post is co-authored by Tristan Miller from Best Egg. Best Egg is a leading financial confidence platform that provides lending products and resources focused on helping people feel more confident as they manage their everyday finances. Since March 2014, Best Egg has delivered $22 billion in consumer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-egg-achieved-three-times-faster-ml-model-training-with-amazon-sagemaker-automatic-model-tuning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/26/best-egg-sagemaker.jpg",
+          "width": 1567,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T09:45:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-deep-learning-reconstruction-enables-accelerated-knee-mri.md",
+      "title": "Deep Learning Reconstruction Enables Accelerated Knee MRI",
+      "excerpt": "THURSDAY, Jan. 26, 2023 (HealthDay News) -- Deep learning (DL) reconstructed knee magnetic resonance imaging (MRI) is diagnostically equivalent to conventional accelerated MRI for evaluating ...",
+      "sourceUrl": null,
+      "webUrl": "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html",
+      "originalUrl": "https://buffalonews.com/lifestyles/health-med-fit/deep-learning-reconstruction-enables-accelerated-knee-mri/article_1bad850c-7055-56d2-9513-94daf9dc4fd7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Buffalo News",
+        "domain": "buffalonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023.md",
+      "title": "AI, Machine Learning, Robotics Will Improve Supply Chains Amid Ongoing Disruptions in 2023",
+      "excerpt": "War, raw materials shortages, rising energy costs and extreme weather conditions are just some of the factors that will disrupt global supply chains in 2023, warns the non-profit organisation that aims to elevate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2023/01/ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023/",
+      "originalUrl": "https://www.itnewsafrica.com/2023/01/ai-machine-learning-robotics-will-improve-supply-chains-amid-ongoing-disruptions-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Artificial-Intelligence-AI-2-696x452.jpg",
+          "width": 696,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-how-to-build-a-neural-network-in-java.md",
+      "title": "How to build a neural network in Java",
+      "excerpt": "Artificial neural networks are a form of deep learning and one of the pillars of modern-day AI. The best way to really get a grip on how these things work is to build one. This article will be a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.html",
+      "originalUrl": "https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/23/15/istock-1268123564-100931530-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 794,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.amp.html",
+      "publishedDateTime": "2023-01-26T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders.md",
+      "title": "Unlock The Potential Of Generative AI: A Guide For Tech Leaders",
+      "excerpt": "With advances in technology, more use cases are being discovered every day, allowing for greater automation of processes and improved efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62323272dd8f5548968ca298/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/26/unlock-the-potential-of-generative-ai-a-guide-for-tech-leaders/amp/",
+      "publishedDateTime": "2023-01-26T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-protecting-the-hidden-layer-in-neural-networks.md",
+      "title": "Protecting the Hidden Layer in Neural Networks",
+      "excerpt": "In this episode of \"Cybersecurity Unplugged,\" Chris \"Tito\" Sestito discusses technology to protect neural networks and artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcareinfosecurity.com/interviews/protecting-hidden-layer-in-neural-networks-i-5228",
+      "originalUrl": "https://www.healthcareinfosecurity.com/interviews/protecting-hidden-layer-in-neural-networks-i-5228",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://0267f973c7f511eda6a4-193e28812cee85d6e20ea22afb83e185.ssl.cf1.rackcdn.com/protecting-neural-networks-showcase_image-6-i-5228.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcareinfosecurity.com",
+        "domain": "healthcareinfosecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-new-software-incorporates-dendritic-properties-into-neural-network-models.md",
+      "title": "New software incorporates dendritic properties into neural network models",
+      "excerpt": "The new software allows the incorporation of important dendritic properties into neural network models ... brain function and in the field of artificial intelligence. Deciphering the secrets ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-01-software-incorporates-dendritic-properties-neural.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-26-federated-learning-key-to-securing-ai.md",
+      "title": "Federated learning key to securing AI",
+      "excerpt": "Federated learning can elevate AI. By securing model training, it unlocks a myriad of use cases that can change the world as we know it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
+      "originalUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all",
+          "width": 1199,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
+      "publishedDateTime": "2023-01-25T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-we-forgot-to-give-neural-networks-the-ability-to-forget.md",
       "title": "We Forgot To Give Neural Networks The Ability To Forget",
       "excerpt": "A conversation with social entrepreneur Miguel Luengo about artificial intelligence’s current inability to forget and what this means for the right to privacy and user agency.",
@@ -995,456 +1415,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-machine-learning-predicts-brain-tumor-progression.md",
-      "title": "Machine Learning Predicts Brain Tumor Progression",
-      "excerpt": "Researchers used a deep learning model to turn the MRI data into patient-specific parameter estimates that inform a predictive model for brain tumor growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
-      "originalUrl": "https://www.medindia.net/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/salmonella-for-treatment-of-glioblastoma.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-brain-tumor-progression-210095-1.htm",
-      "publishedDateTime": "2023-01-16T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-how-machine-learning-can-help-alleviate-the-us-labor-shortage.md",
-      "title": "How machine learning can help alleviate the U.S. labor shortage",
-      "excerpt": "Advances in machine learning can identify causalities and correlations to help recruiters and job seekers find successful matches.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-machine-learning-can-help-alleviate-the-u-s-labor-shortage/",
-      "originalUrl": "https://venturebeat.com/ai/how-machine-learning-can-help-alleviate-the-u-s-labor-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.3x2.jpg?w=1200&strip=all",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-machine-learning-can-help-alleviate-the-u-s-labor-shortage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-machine-learning-can-help-alleviate-the-u-s-labor-shortage/amp/",
-      "publishedDateTime": "2023-01-14T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report.md",
-      "title": "Global Automated Machine Learning (AutoML) Market 2023 (Latest Report) is booming in near Future 2029| 103 Pages Report",
-      "excerpt": "Global Automated Machine Learning (AutoML) Market Report 2023 is spread across 103 pages and provides exclusive vital statistics, data, information, trends, and competitive landscape insights in this niche sector. In a nutshell, this report is a must-read ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report-2023-01-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report-2023-01-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-adopting-automl-lets-do-a-reality-check.md",
-      "title": "Adopting AutoML: Let’s do a reality check",
-      "excerpt": "AutoML can't define and automatically solve statements. But, it can solve pre-defined statements with relevant data and features.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/",
-      "originalUrl": "https://venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/ai_business-e1648498198314.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/adopting-automl-lets-do-a-reality-check/amp/",
-      "publishedDateTime": "2023-01-13T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-leveraging-artificial-intelligence-and-machine-learning-at-parsons-with-aws-deepracer.md",
-      "title": "Leveraging artificial intelligence and machine learning at Parsons with AWS DeepRacer",
-      "excerpt": "This post is co-written with&nbsp;Jennifer Bergstrom, Sr. Technical Director, ParsonsX. Parsons Corporation (NYSE:PSN) is a leading disruptive technology company in critical infrastructure, national defense, space, intelligence, and security markets providing solutions across the globe to help make the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/leveraging-artificial-intelligence-and-machine-learning-at-parsons-with-aws-deepracer/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/leveraging-artificial-intelligence-and-machine-learning-at-parsons-with-aws-deepracer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/13/parsons-deepracer.jpg",
-          "width": 1561,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T15:46:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-how-thomson-reuters-built-an-ai-platform-using-amazon-sagemaker-to-accelerate-delivery-of-ml-projects.md",
-      "title": "How Thomson Reuters built an AI platform using Amazon SageMaker to accelerate delivery of ML projects",
-      "excerpt": "This post is co-written by Ramdev Wudali and Kiran Mantripragada from Thomson Reuters. In 1992, Thomson Reuters (TR) released its first AI legal research service, WIN (Westlaw Is Natural), an innovation at the time, as most search engines only supported Boolean terms and connectors. Since then, TR has",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-ai-platform-using-amazon-sagemaker-to-accelerate-delivery-of-ml-projects/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-ai-platform-using-amazon-sagemaker-to-accelerate-delivery-of-ml-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/13/thomson-reuters-sagemaker-ml-projects.jpg",
-          "width": 1562,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T09:26:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-hpe-buys-ai-startup-pachyderm-to-build-new-ai-ml-platform.md",
-      "title": "HPE Buys AI Startup Pachyderm To Build New AI, ML Platform",
-      "excerpt": "HPE acquires AI startup Pachyderm to boost artificial intelligence portfolio, create a new HPE platform and increase customer adoption of machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/data-center/hpe-buys-ai-startup-pachyderm-to-build-new-ai-ml-platform",
-      "originalUrl": "https://www.crn.com/news/data-center/hpe-buys-ai-startup-pachyderm-to-build-new-ai-ml-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/027d-170f6fdc6c62-5d4dd72b3d70-1000/hpe-sign.jpeg",
-          "width": 610,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-northern-arc-unveils-machine-learning-based-solution.md",
-      "title": "Northern Arc unveils machine learning based solution",
-      "excerpt": "Business News: Chennai, Jan 13 (PTI) Diversified financial services platform Northern Arc Capital has launched machine learning based solution 'Nu Score,' a propriet",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/northern-arc-unveils-machine-learning-based-solution/articleshow/96967505.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/northern-arc-unveils-machine-learning-based-solution/articleshow/96967505.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/northern-arc-unveils-machine-learning-based-solution/amp_articleshow/96967505.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/northern-arc-unveils-machine-learning-based-solution/amp_articleshow/96967505.cms",
-      "publishedDateTime": "2023-01-13T03:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-machine-learning-in-finance-market-outlook-2023-and-forecast-to-2029-with-top-countries-data.md",
-      "title": "Machine Learning in Finance Market Outlook 2023 and Forecast to 2029 with Top Countries Data",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. The analytical",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2023-01-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-outlook-2023-and-forecast-to-2029-with-top-countries-data-2023-01-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T21:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

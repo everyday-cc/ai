@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20230217PD201/ai-chatgpt-ubestream
 webUrl: "https://www.digitimes.com/news/a20230217PD201/ai-chatgpt-ubestream.html"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "Yellow.ai addresses conversational AI developers’ pain points with conversation design tool"
-    excerpt: "New conversational AI tool from Yellow.AI looks to improve the design process for chat and voice conversational workflows using generative AI"
-    publishedDateTime: 2023-02-17T20:07:00Z
-    webUrl: "https://venturebeat.com/ai/yellow-ai-addresses-conversational-ai-developers-pain-points-with-conversation-design-tool/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 37
 
 secured: "xpjB22f749LqNatH7zOrVnCfosoWoIqFSMJ43QmbkIWJYniQsTT8meNRjTLdt6MJ1TL5gEKnzD1PpMErL2mAp2Tqmz3GSk/tnTNVMHcuToH++F5GdtJZmcJVI4+D55sP1xc8QZXeoah6jMX3nETqylOlE3/lzxVxN8R2R9WqUczO1l7Qb8V2S9oX7X6Mj7LLP9FIv5DXHS8820o2/3eC5G/fMpCzfZRcclLkF4ug/H3FebQKIFdUOB8Om9axAaNo77h0XpHBPd0aC4J7mnaYJARNc+uz+Gshq9Hz1tcmrw6wyNNiJAHSL+FB667NqA58QdRit9k5O/hJyIKrVotEdW5u/HAOCSODWsqa8v+2VQ0eI/opgPWFkg1/uwq6wrFj4u1irJVfayJEVZUAJY0Kzm/RVSgsOkiMX5l4GAjibjWc0hr3JetmdjjO1c5lhog6rBDeQY9u0cSUOFaPF4RiIJCNecC0hvIrJKdtcjRwfPv9Kscw3oujy21nQWJvnfOE1EP9cQ/mjd0aWJpgYezaTw==;hUv6YMZt3uIy+JGznbTGGQ=="
 ---

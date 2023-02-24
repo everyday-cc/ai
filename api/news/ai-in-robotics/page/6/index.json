@@ -2,6 +2,334 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-16-the-role-of-motion-control-in-medical-robotics.md",
+      "title": "The Role of Motion Control in Medical Robotics",
+      "excerpt": "Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev, PhD, chief technology officer for Promaxo. Nacev is an engineering professional with expertise in magnetic systems engineering. Promaxo’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
+      "originalUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/motion%20control%20webinar%20DT613X.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot.md",
+      "title": "ChatGBT Shows Scary Implications Of AI: Sports Owners And The Robot",
+      "excerpt": "Kind of like when you call the airline and they ask for your number and say they will text you when you are next in line.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
+      "originalUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c454a3ecbcbced56a44bb3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
+      "publishedDateTime": "2023-01-15T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-15-remote-control-eod-robot-market-research-report-2023-2028.md",
+      "title": "Remote Control EOD Robot Market Research Report 2023-2028",
+      "excerpt": "Jan 15, 2023 (The Expresswire) -- The \"Remote Control EOD Robot Market\" provides a value chain analysis of revenue for the anticipated period from 2023 to 2028. The report will include a full and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/remote-control-eod-robot-market-research-report-2023-2028-2023-01-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/remote-control-eod-robot-market-research-report-2023-2028-2023-01-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-14-m3gan-the-strange-reasons-a-real-child-ai-robot-could-never-be-built.md",
+      "title": "M3GAN: The strange reasons a real child AI robot could never be built",
+      "excerpt": "For good or bad, a kid's toy with artificial intelligence (and killer dance moves) probably won't be possible at any point soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencefocus.com/future-technology/real-science-of-m3gan-film/",
+      "originalUrl": "https://www.sciencefocus.com/future-technology/real-science-of-m3gan-film/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.immediate.co.uk/production/volatile/sites/4/2023/01/megan-1dff218.jpg?quality=90&resize=960,413",
+          "width": 960,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sciencefocus.com/future-technology/real-science-of-m3gan-film/amp/",
+      "cdnAmpWebUrl": "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/real-science-of-m3gan-film/amp/",
+      "publishedDateTime": "2023-01-13T08:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC Focus",
+        "domain": "sciencefocus.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-14-alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.md",
+      "title": "Alphabet robotics subsidiary Intrinsic lays off 20% staff",
+      "excerpt": "It is a robotics firm that is working on developing artificial intelligence-based software to bolster the use of robots in industries and commercial environments. The news about the company’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html",
+      "originalUrl": "https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/06/laid-off-worker-layoff-resignation-by-lee-charlie-via-shutterstock-100928642-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.amp.html",
+      "publishedDateTime": "2023-01-13T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-global-x-funds-global-x-robotics-artificial-intelligence-etf-nasdaq-botz.md",
+      "title": "Global X Funds - Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 01/13/2023. Discounted offers are only available to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/quote/nasdaq/botz/",
+      "originalUrl": "https://www.fool.com/quote/nasdaq/botz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-roborock-reinforces-its-leadership-in-smart-robot-vacuum-cleaners-with-new-roborock-dyad-pro-unveiled-for-higher-cleaning-efficiency.md",
+      "title": "Roborock reinforces its leadership in smart robot vacuum cleaners with new “Roborock Dyad Pro” unveiled for higher cleaning efficiency",
+      "excerpt": "Roborock, the world-class smart robot vacuum cleaner and mop brand for efficient home cleaning, held a press conference on its new product launch “New Roborock Beyond All Cleaners” to introduce a lineup of Roborock autonomous cleaning robots and robot vacuums and floor cleaning devices as well as unveiling the new “Roborock Dyad Pro” as the next-generation cleaning device to improve overall efficiency in house cleaning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangkokpost.com/thailand/pr/2481910/roborock-reinforces-its-leadership-in-smart-robot-vacuum-cleaners-with-new-roborock-dyad-pro-unveiled-for-higher-cleaning-efficiency",
+      "originalUrl": "https://www.bangkokpost.com/thailand/pr/2481910/roborock-reinforces-its-leadership-in-smart-robot-vacuum-cleaners-with-new-roborock-dyad-pro-unveiled-for-higher-cleaning-efficiency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bangkokpost.com/media/content/20230113/c1_2481910_230113143658_700.jpg",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangkok Post",
+        "domain": "bangkokpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-artificial-intelligence-ai-robots-market-growth-2023-with-market-developments-drivers-limits-and-openings-outlook-2028.md",
       "title": "Artificial Intelligence (AI) Robots Market Growth 2023 with Market Developments, Drivers, Limits, and Openings Outlook 2028",
       "excerpt": "Robots Market ” report 2023 delivers a complete overview of crucial factors like drivers, limitations, major and current trends, specialized development, and unborn growth. Research report contains company analysis,",
@@ -982,316 +1310,6 @@
         "name": "Daily Mail",
         "domain": "dailymail.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-consciousness-in-robots-was-once-taboo-now-its-the-last-word.md",
-      "title": "‘Consciousness’ in Robots Was Once Taboo. Now It’s the Last Word.",
-      "excerpt": "Robots were being used for surgical procedures ... The invocation of human features goes back to the dawn of artificial intelligence research in 1955, when a group of scientists at Dartmouth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.amp.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-06T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-articulated-robot-interface-on-imm-control.md",
-      "title": "Articulated robot interface on IMM control",
-      "excerpt": "I ntegrated screens are now available on the Polaris control for either ABB or Fanuc robots. By integrating the robot screens into the control, the user can reportedly set up, adjust, and debug the system quickly, resulting in high system uptimes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.plasticstoday.com/articulated-robot-interface-imm-control",
-      "originalUrl": "https://www.plasticstoday.com/articulated-robot-interface-imm-control",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Plastics Today",
-        "domain": "plasticstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-smart-remote-controlled-rescue-robot-market-outlook-2023-share-market-dynamics-challenges-prominent-players-growth-and-forecast-2028.md",
-      "title": "Smart Remote Controlled Rescue Robot Market Outlook 2023, Share, Market Dynamics, Challenges, Prominent Players, Growth, and Forecast 2028",
-      "excerpt": "Jan 06, 2023 (The Expresswire) -- Overview of the Global Smart Remote Controlled Rescue Robot Market: The \"Smart Remote Controlled Rescue Robot Market\" 2023 research report provides information on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/smart-remote-controlled-rescue-robot-market-outlook-2023-share-market-dynamics-challenges-prominent-players-growth-and-forecast-2028-2023-01-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/smart-remote-controlled-rescue-robot-market-outlook-2023-share-market-dynamics-challenges-prominent-players-growth-and-forecast-2028-2023-01-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-toyotas-remote-controlled-humanoid-robot.md",
-      "title": "Toyota’s remote-controlled humanoid robot",
-      "excerpt": "This humanoid robot can be remote controlled using 5G. Toyota and DOCOMO have successfully remote controlled the Toyota-developed T-HR3 humanoid robot using fifth-generation mobile communications ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/toyota-remote-controlled-humanoid-robot-204500910.html",
-      "originalUrl": "https://www.autoblog.com/toyota-remote-controlled-humanoid-robot-204500910.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/hd/cp-video-transcode/prod/2018-11/30/5c01a11698f45d539a29bd31/5c01a1604fb0340a68cdc93e_o_U_v1.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares.md",
-      "title": "CES 2023 Live Blog: Talking Cars, LG Displays, Robots Dogs and a Smartwatch That Cares",
-      "excerpt": "CES is known as the world's biggest consumer electronics show. In 2023 it's well and truly lived up to that moniker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news-live/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/",
-      "originalUrl": "https://www.cnet.com/news-live/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/a39163608c5114d42ea75d0a0043b2d4fd9181ed/hub/2023/01/05/212e154d-b025-49a7-8ab0-b8ec7f58e349/ces-2023-3286.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-luos-announces-integration-with-freedom-robotics-enabling-device-monitoring-and-control-over-the-internet-from-anywhere.md",
-      "title": "Luos Announces Integration with Freedom Robotics Enabling Device Monitoring and Control over the Internet from Anywhere",
-      "excerpt": "\"This integration brings a new level of simplicity and power to any cyber-physical system (CPS) with the ability to see and control microcontroller units (MCU) using the Freedom Robotics dashboard ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/b30278443/luos-announces-integration-with-freedom-robotics-enabling-device-monitoring-and-control-over-the-i",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/b30278443/luos-announces-integration-with-freedom-robotics-enabling-device-monitoring-and-control-over-the-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028.md",
-      "title": "Bird and Animal Control Robot Market (New Report) 2023 Research Report Recent Developments, Size, Share, Market Analysis, Forecast 2028",
-      "excerpt": "Jan 04, 2023 (The Expresswire) -- New Report (92 Page) Publish on Global Bird and Animal Control Robot Market Research Report 2023 comprises extensive primary research along with the detailed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028-2023-01-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028-2023-01-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T00:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

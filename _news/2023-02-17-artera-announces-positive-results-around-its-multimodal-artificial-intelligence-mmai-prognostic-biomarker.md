@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Artera Announces Positive Results Around Its Multimodal Artificial Intelligence (MMAI) Prognostic Biomarker"
-excerpt: "Artera, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced new data today at ASCO GU 2023 demonstrating that its multimodal artificial intelligence (MMAI) prognostic biomarker can help bring more personalized treatment to men with localized prostate cancer."
-publishedDateTime: 2023-02-16T17:45:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/02/16/9762142.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/02/16/9762142.htm"
+excerpt: "Artera, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced"
+publishedDateTime: 2023-02-16T16:31:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artera-announces-positive-results-around-its-multimodal-artificial-intelligence-mmai-prognostic-biomarker-2023-02-16"
+webUrl: "https://www.marketwatch.com/press-release/artera-announces-positive-results-around-its-multimodal-artificial-intelligence-mmai-prognostic-biomarker-2023-02-16"
 type: article
-quality: 14
-heat: 14
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "6gC1HPJoDoGG++R4LvZZAOeC2tN4pQDFVsB5Q11G77WLMCO53aBUEBPTmv+UmGrY7Zc5e48OnJfBPulhoab0RKL1WzPXuGge/YG7LtdQII4RRAq6ebs3I7/ExNSN582z0cTEx534ZFpIHUu6PeU3ba/QpXT8pWBjCZU0MjAc8DVe/fQJROnWN37WW2W7O7myOQOU8eQvoFUB3MsJD26alkxgs2ff+manSlXfFGgSu7jnaccN6JWBO+5FD9Zx4JWww4iVJvJeOQR9/XxerNt3kYJRHoKFo3X1W2huOIFCYrTyI69VQVpGciUnUehSt827s46+98EPGNgleyaNYDeRkOdkzYVfjZ7H+HF2KlpK85U=;nz3vrbHP92Fp6e1x+SyFXg=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "O6bZXoHyGHuZsFKHu8Tbhdi6N5ijBG6cHjAlTf3Xb6REBM/U5li5ITMcuPt4uxEs1zYBCfiFNvXEx+iQk+tWlDfD96MlB1tfYIfPyhX5GaotDAVq5eizakBq04gTHbS0LpT4/VC+W6dBk0tKkarE+O5u1nnQubU1pVpNbk4PQwVdWUyKCuMd+wHdewxlGQdUuvSaQntjYCXZ6erHoPOPg68EgU+XTMwAU8QZ7wsxQJIVsiORqBNwfNSygN2u/XJ8qQgkVEMAnelZ3LvKvTam+jdU8F1gM6wte1sGo9d0Cst1T+iSkYSFoxNjXi7azak4tqT9J/3r5zNfb8optOuklPvsL82InnMwghjrFPJ0EsM=;eCQLHqOttMEUOshLn/yAow=="
 ---
 

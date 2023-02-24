@@ -2,12 +2,55 @@
   "page": 57,
   "value": [
     {
-      "path": "_news/2023-01-10-artificial-intelligence-in-small-and-medium-business-market-top-factors-responsible-for-the-rapid-growth-in-the-coming-years-2028.md",
-      "title": "Artificial Intelligence In Small And Medium Business Market | Top Factors Responsible for the Rapid Growth in the Coming Years 2028",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence",
+      "path": "_news/2023-01-11-self-driving-tesla-causes-eight-vehicle-crash-injures-child.md",
+      "title": "Self-Driving Tesla Causes Eight-Vehicle Crash, Injures Child",
+      "excerpt": "New footage just dropped of a Tesla self-driving accident that caused a pileup on the San Francisco Bay Bridge and resulted in a toddler being injured.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-top-factors-responsible-for-the-rapid-growth-in-the-coming-years-2028-2023-01-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-top-factors-responsible-for-the-rapid-growth-in-the-coming-years-2028-2023-01-09",
+      "webUrl": "https://futurism.com/the-byte/self-driving-tesla-crash-footage",
+      "originalUrl": "https://futurism.com/the-byte/self-driving-tesla-crash-footage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2023/01/self-driving-tesla-crash-footage.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T16:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-artificial-intelligence-ai-accelerator-market-2023-trends-industry-structure-development-demographics-developing-factors-by-2028.md",
+      "title": "Artificial Intelligence (AI) Accelerator Market 2023 : Trends, Industry Structure, Development, Demographics, Developing Factors By 2028",
+      "excerpt": "Jan 11, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI) Accelerator industry. \"Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-2023-trends-industry-structure-development-demographics-developing-factors-by-2028-2023-01-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-2023-trends-industry-structure-development-demographics-developing-factors-by-2028-2023-01-11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -26,7 +69,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T19:28:00-08:00",
+      "publishedDateTime": "2023-01-10T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -54,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-10-watch-out-amd-nvidia-could-boost-gpu-performance-by-up-to-30-with-ai.md",
-      "title": "Watch out AMD – Nvidia could boost GPU performance by up to 30% with AI",
-      "excerpt": "Nvidia has plans to optimize its GeForce graphics drivers using artificial intelligence to ensure that games run faster, going by the latest from the GPU grapevine. This comes from CapFrameX on ...",
+      "path": "_news/2023-01-11-fda-approves-new-alzheimers-drug-designed-to-slow-cognitive-decline.md",
+      "title": "FDA Approves New Alzheimer’s Drug Designed to Slow Cognitive Decline",
+      "excerpt": "On Friday, the Food and Drug Administration approved an Alzheimer’s drug shown in clinical trials to slow cognitive decline ... for Medicare & Medicaid Services currently limits coverage of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/watch-out-amd-nvidia-could-boost-gpu-performance-by-up-to-30-with-ai",
-      "originalUrl": "https://www.techradar.com/news/watch-out-amd-nvidia-could-boost-gpu-performance-by-up-to-30-with-ai",
+      "webUrl": "https://thesource.com/2023/01/10/fda-approves-new-alzheimers-drug-designed-to-slow-cognitive-decline/",
+      "originalUrl": "https://thesource.com/2023/01/10/fda-approves-new-alzheimers-drug-designed-to-slow-cognitive-decline/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/PgUqWZHAyA9SANyQPQAaaK-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://thesource.com/wp-content/uploads/2023/01/SynapseAnd-NeuronCellsSendingElectricalChemicalSignals3DIllustration.jpg",
+          "width": 1024,
+          "height": 415,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -78,14 +121,283 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T19:13:00-08:00",
+      "publishedDateTime": "2023-01-10T15:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
+        "name": "The Source Magazine",
+        "domain": "thesource.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space.md",
+      "title": "Geospatial industry investor Keith Masback joins board of directors of Cognitive Space",
+      "excerpt": "WASHINGTON — Cognitive Space, a startup based in Houston, Texas, announced Jan. 10 the appointment of Keith Masback as an independent board member. Masback is a former National Geospatial ...",
+      "sourceUrl": null,
+      "webUrl": "https://spacenews.com/geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space/",
+      "originalUrl": "https://spacenews.com/geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T14:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SpaceNews",
+        "domain": "spacenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-advances-in-artificial-intelligence-raise-new-ethics-concerns.md",
+      "title": "Advances in artificial intelligence raise new ethics concerns",
+      "excerpt": "In recent months, new artificial intelligence tools have garnered attention, and concern, over their ability to produce original work. The creations range from college-level essays to computer code and works of art.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
+      "originalUrl": "https://www.pbs.org/newshour/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/ai-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
+      "publishedDateTime": "2023-01-10T14:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-son-helps-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow.md",
+      "title": "Son helps dad see self-reliance does not end when driving stops: Roadshow",
+      "excerpt": "Q: When in his early 80s, my dad drove us to shoot pool at his local senior center during one of my visits. He had always been an excellent driver, but I was horrified and scared that day. After we made it back to his house,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/",
+      "originalUrl": "https://www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/01/eoak0627dmv03.jpg?w=1024&h=639",
+          "width": 1024,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/amp/",
+      "publishedDateTime": "2023-01-10T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-the-chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot.md",
+      "title": "The ChatGPT revolution? Microsoft seems to have very big plans for this AI chatbot",
+      "excerpt": "Microsoft could be ready to spend billions on ChatGPT and extend use of the chatbot through its products according to reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/",
+      "originalUrl": "https://www.zdnet.com/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8b07af62c2f5d55bfbf11acd970989eb2dafbda2/2023/01/09/6c3b972b-a36f-4f06-9911-5b5a967144e7/gettyimages-1245391800.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/",
+      "publishedDateTime": "2023-01-10T12:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-how-generative-ai-and-e-coli-are-speeding-up-new-drug-discovery.md",
+      "title": "How generative AI and E. coli are speeding up new drug discovery",
+      "excerpt": "Absci announced that its generative AI model has been able to create an entirely new antibody in software using E. coli bacteria.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-generative-ai-and-e-coli-are-speeding-up-new-drug-discovery/",
+      "originalUrl": "https://venturebeat.com/ai/how-generative-ai-and-e-coli-are-speeding-up-new-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-582649612-e1673314524211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 839,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-generative-ai-and-e-coli-are-speeding-up-new-drug-discovery/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ai-and-e-coli-are-speeding-up-new-drug-discovery/amp/",
+      "publishedDateTime": "2023-01-10T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-intel-plots-a-path-to-universal-ai-with-4th-gen-xeon-scalable-cpu.md",
+      "title": "Intel plots a path to ‘universal AI’ with 4th Gen Xeon Scalable CPU",
+      "excerpt": "and generative AI. According to Intel, the initial training for LLMs will still typically require some form of discrete GPU such as the Intel Max Series GPUs. That said, for more common use cases ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/intel-plots-a-path-to-universal-ai-with-4th-gen-zeon-scalable-gpu%EF%BF%BC%EF%BF%BC/",
+      "originalUrl": "https://venturebeat.com/ai/intel-plots-a-path-to-universal-ai-with-4th-gen-zeon-scalable-gpu%EF%BF%BC%EF%BF%BC/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/VB_Intel-xeo-4_1200px.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/intel-plots-a-path-to-universal-ai-with-4th-gen-zeon-scalable-gpu%EF%BF%BC%EF%BF%BC/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-plots-a-path-to-universal-ai-with-4th-gen-zeon-scalable-gpu%EF%BF%BC%EF%BF%BC/amp/",
+      "publishedDateTime": "2023-01-10T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -106,21 +418,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-10-more-driverless-cars-are-hitting-the-roadways-in-austin.md",
-      "title": "More driverless cars are hitting the roadways in Austin",
-      "excerpt": "AUSTIN, Texas — Driverless cars are on the roadways of Downtown and Central Austin. The cars are part of service similar to Uber called Cruise LLC. The company is based out of San Francisco and ...",
+      "path": "_news/2023-01-11-smartcard-marketing-systems-inc-otcsmkg-company-overview-for-2023-chatbot-ai-spotlight.md",
+      "title": "Smartcard Marketing Systems Inc. (OTC:SMKG) Company Overview For 2023 & Chatbot AI Spotlight",
+      "excerpt": "MKG highlights its acquisition of ChatBot AI Code library and embedded strategy for multiple use cases including Fintech, Blockchain, Cro",
       "sourceUrl": null,
-      "webUrl": "https://www.kvue.com/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
-      "originalUrl": "https://www.kvue.com/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
+      "webUrl": "https://menafn.com/1105409173/Smartcard-Marketing-Systems-Inc-OTCSMKG-Company-Overview-For-2023-Chatbot-AI-Spotlight",
+      "originalUrl": "https://menafn.com/1105409173/Smartcard-Marketing-Systems-Inc-OTCSMKG-Company-Overview-For-2023-Chatbot-AI-Spotlight",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.kvue.com/assets/KVUE/images/27bd3c50-bb34-423f-b4a9-ad85a9766c1c/27bd3c50-bb34-423f-b4a9-ad85a9766c1c_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?636402",
+          "width": 312,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,13 +440,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.kvue.com/amp/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
-      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
-      "publishedDateTime": "2023-01-09T16:53:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T11:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KVUE",
-        "domain": "kvue.com",
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -144,65 +456,41 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
-      "path": "_news/2023-01-10-artificial-intelligence-diabetes-experts-combine-forces-for-blood-sugar-management-study.md",
-      "title": "Artificial intelligence, diabetes experts combine forces for blood sugar management study",
-      "excerpt": "To help the estimated 1.45 million Americans living with type 1 diabetes better manage their blood sugar levels, Oregon Health & Science University is combining the power of an artificial intelligence-driven smartphone app with the support of human experts.",
+      "path": "_news/2023-01-11-the-ai-tailwinds-how-arista-networks-is-a-prime-beneficiary.md",
+      "title": "The AI Tailwinds: How Arista Networks Is A Prime Beneficiary",
+      "excerpt": "Arista is a pure play on AI data center buildout as it has no direct retail exposure. See why ANET stock is a prime candidate to be accumulated on any weakness.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/976238",
-      "originalUrl": "https://www.eurekalert.org/news-releases/976238",
+      "webUrl": "https://seekingalpha.com/article/4569067-the-ai-tailwinds-how-arista-networks-is-a-prime-beneficiary",
+      "originalUrl": "https://seekingalpha.com/article/4569067-the-ai-tailwinds-how-arista-networks-is-a-prime-beneficiary",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/157647179/image_157647179.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
       ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-artificial-intelligence-model-predicts-cognitive-diseases-using-brain-age.md",
-      "title": "Artificial Intelligence Model Predicts Cognitive Diseases Using Brain Age",
-      "excerpt": "A novel artificial intelligence (AI) model developed by USC researchers that analyzes magnetic resonance imaging (MRI) brain scans could now be used to reliably catch cognitive loss linked to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/healthwatch/artificial-intelligence-model-predicts-cognitive-diseases-using-brain-age-210016-1.htm",
-      "originalUrl": "https://www.medindia.net/news/healthwatch/artificial-intelligence-model-predicts-cognitive-diseases-using-brain-age-210016-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
+      "publishedDateTime": "2023-01-10T11:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -217,73 +505,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-10-chatgpt-is-coming-for-classrooms-hospitals-marketing-departments-and-everything-else-as-the-next-great-startup-boom-emerges.md",
-      "title": "ChatGPT is coming for classrooms, hospitals, marketing departments, and everything else as the next great startup boom emerges",
-      "excerpt": "AI-enabled video editing startup Runway raised a $50 million Series C in December, while AI-enhanced design Creative Fabrique raised $61 million in January 2023. In education, there's AI-generated ...",
+      "path": "_news/2023-01-11-large-language-models-in-2023-worth-the-hype.md",
+      "title": "Large Language Models in 2023: Worth the Hype?",
+      "excerpt": "“The best and most proven example of this is in NLP (natural language processing) where techniques called Masked Language Modelling (making the model predict hidden words in sentences) and Causal Language Modeling (making the model predict the next word ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-startup-boom-funding-generative-ai-trend-jasper-runway-2023-1",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-startup-boom-funding-generative-ai-trend-jasper-runway-2023-1",
+      "webUrl": "https://www.datanami.com/2023/01/10/large-language-models-in-2023-worth-the-hype/",
+      "originalUrl": "https://www.datanami.com/2023/01/10/large-language-models-in-2023-worth-the-hype/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/63bc972823f3620019878d14?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-startup-boom-funding-generative-ai-trend-jasper-runway-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-startup-boom-funding-generative-ai-trend-jasper-runway-2023-1?amp",
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-deep-learning-pioneer-geoffrey-hinton-publishes-new-deep-learning-algorithm.md",
-      "title": "Deep Learning Pioneer Geoffrey Hinton Publishes New Deep Learning Algorithm",
-      "excerpt": "Hinton points out that ANNs can be trained using reinforcement learning (RL ... with up to 45% memory savings for deep networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/01/hinton-forward-algorithm/",
-      "originalUrl": "https://www.infoq.com/news/2023/01/hinton-forward-algorithm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/01/hinton-forward-algorithm/en/headerimage/generatedHeaderImage-1671889757056.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.datanami.com/wp-content/uploads/2023/01/chat_shutterstock_Adao-300x212.jpg",
+          "width": 300,
+          "height": 212,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -293,149 +529,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
+      "publishedDateTime": "2023-01-10T10:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-how-ai-chatbots-are-changing-how-we-write-and-who-we-trust.md",
-      "title": "How AI chatbots are changing how we write and who we trust",
-      "excerpt": "ChatGPT is one of the most sophisticated AI chat bots ever released ... You remember the quip from a Facebook guy, The best minds of my generation. I try to figure out how to get you to click ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/onpoint/2023/01/10/how-ai-chatbots-are-changing-how-we-write-and-who-we-trust",
-      "originalUrl": "https://www.wbur.org/onpoint/2023/01/10/how-ai-chatbots-are-changing-how-we-write-and-who-we-trust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://media.wbur.org/wp/2023/01/GettyImages-1245391728-1000x650.jpg",
-          "width": 1000,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas.md",
-      "title": "Latest Breakthroughs In Artificial Intelligence On Display At CES Trade Show In Las Vegas",
-      "excerpt": "The rate of advancement in artificial intelligence (AI ... We look at fatigue-battling watches, self-driving strollers, and other unique products announced in Las Vegas at the world’s biggest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bd8eaea9945e64f3964a43/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/amp/",
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-natural-language-processing-guiding-the-way-for-retail-cx.md",
-      "title": "Natural Language Processing: Guiding the Way for Retail CX",
-      "excerpt": "Leaps and bounds ahead of its predecessors, AI equipped with natural language processing (NLP) is capable of understanding language (hundreds of them) in a way that’s almost human — except it’s not learning language like you or I.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mytotalretail.com/article/natural-language-processing-guiding-the-way-for-retail-cx/",
-      "originalUrl": "https://www.mytotalretail.com/article/natural-language-processing-guiding-the-way-for-retail-cx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/01/GettyImages-1200738163.jpg&w=750&h=340",
-          "width": 750,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Total Retail",
-        "domain": "mytotalretail.com",
+        "name": "datanami.com",
+        "domain": "datanami.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -450,98 +548,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-10-scientists-use-machine-learning-to-fast-track-drug-formulation-development.md",
-      "title": "Scientists use machine learning to fast-track drug formulation development",
-      "excerpt": "To investigate whether machine learning tools could accurately predict the rate of drug release, the research team trained and evaluated a series of eleven different models, including multiple ...",
+      "path": "_news/2023-01-11-report-microsoft-could-invest-10b-in-openai-at-29b-valuation.md",
+      "title": "Report: Microsoft could invest $10B in OpenAI at $29B valuation",
+      "excerpt": "The sources believe that Microsoft could be joined by multiple venture capital firms in the investment. Internal OpenAI documents reportedly suggest that the group had sought to close the investment by the end of 2022,",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.html",
-      "originalUrl": "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.html",
+      "webUrl": "https://siliconangle.com/2023/01/10/report-microsoft-invest-10b-openai-29b-valuation/",
+      "originalUrl": "https://siliconangle.com/2023/01/10/report-microsoft-invest-10b-openai-29b-valuation/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/university-of-toronto.jpg",
-          "width": 2880,
-          "height": 1921,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-scientists-machine-fast-track-drug.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-scientists-machine-fast-track-drug.amp",
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-the-impact-of-the-mind-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.md",
-      "title": "The impact of the MIND dietary pattern on cognitive health and incidence of dementia",
-      "excerpt": "Around seventeen population-based studies conducted in Sweden, Australia, France, the US, Spain, Israel, Brazil, and the Netherlands, have analyzed the association between MIND and cognitive health.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230110/The-impact-of-the-MIND-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230110/The-impact-of-the-MIND-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-unique-real-world-data-shows-early-retirement-hastens-cognitive-decline.md",
-      "title": "Unique real-world data shows early retirement hastens cognitive decline",
-      "excerpt": "New research from economists at Binghamton University shows early retirement can be linked to an acceleration of age-related cognitive decline. Looking at data from a unique pension program in ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/health-wellbeing/early-retirement-accelerates-cognitive-decline-china-pension-study/",
-      "originalUrl": "https://newatlas.com/health-wellbeing/early-retirement-accelerates-cognitive-decline-china-pension-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/f3f1f57/2147483647/strip/true/crop/3825x2008+0+381/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd9%2F5c%2Fbae30bda4f58bb78d6978d47e2e0%2Fdepositphotos-25100239-xl.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/microsoft.png",
+          "width": 718,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -551,198 +572,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-university-of-toronto-scientists-use-machine-learning-to-fast-track-drug-formulation-development.md",
-      "title": "University of Toronto scientists use machine learning to fast-track drug formulation development",
-      "excerpt": "Scientists at the University of Toronto have successfully tested the use of machine learning models to guide the design of long-acting injectable drug formulations. The potential for machine learning algorithms to accelerate drug formulation could reduce the time and cost associated with drug development,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/976052",
-      "originalUrl": "https://www.eurekalert.org/news-releases/976052",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-why-artificial-intelligence-is-set-to-be-a-game-changer-for-businesses-in-2023-according-to-7-founders.md",
-      "title": "Why artificial intelligence is set to be a game changer for businesses in 2023, according to 7 founders",
-      "excerpt": "If you've seen artificial-intelligence-generated selfies ... They mentioned innovations in healthcare, wellness, and supply chains, but the most common trend was AI. Many said they expected ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1",
-      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63b895d0fd2a2700180838c7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp",
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-the-ai-market-an-overview.md",
-      "title": "The AI Market: An Overview",
-      "excerpt": "The AI market is growing exponentially, both in terms of revenue and level of innovation. If there’s a leading technology of the current era, artificial intelligence (AI) is clearly a top contender. The hype is constant and flows from all quarters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-market/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image4.jpeg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T15:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-conversational-ai-startup-nlx-raises-46m-to-fuel-expansion-and-product-development.md",
-      "title": "Conversational AI startup NLX raises $4.6M to fuel expansion and product development",
-      "excerpt": "Founded in 2018, NLX offers automated and frictionless multimodal self-service tools powered by conversational AI. Its service allows organizations to build and manage “next-generation conversational experiences,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/01/09/conversational-ai-startup-nlx-raises-4-6m-fuel-expansion-product-development/",
-      "originalUrl": "https://siliconangle.com/2023/01/09/conversational-ai-startup-nlx-raises-4-6m-fuel-expansion-product-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/nlx.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T15:44:00-08:00",
+      "publishedDateTime": "2023-01-10T10:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SiliconANGLE",
@@ -756,129 +586,26 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-10-5-predictions-for-banking-and-fintech-in-2023.md",
-      "title": "5 Predictions For Banking And Fintech In 2023",
-      "excerpt": "Embedded fintech—the integration of fintech products ... years of hearing pundits and futurists tell them how disruptive AI is going to be in banking, 2023 will finally be the year that bank ...",
+      "path": "_news/2023-01-11-ub-awarded-20-million-to-establish-national-ai-institute-to-help-children-with-speech-language-disorders.md",
+      "title": "UB awarded $20 million to establish national AI institute to help children with speech, language disorders",
+      "excerpt": "The National Science Foundation-funded effort will address the nationwide shortage of speech-language pathologists, ensure at-risk children receive assistance.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ronshevlin/2023/01/09/5-predictions-for-banking-and-fintech-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/ronshevlin/2023/01/09/5-predictions-for-banking-and-fintech-in-2023/",
+      "webUrl": "https://www.buffalo.edu/news/releases/2023/01/004.html",
+      "originalUrl": "https://www.buffalo.edu/news/releases/2023/01/004.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc46a0abf2a73aa3830711/0x0.jpg?format=jpg&crop=4092,3698,x0,y268,safe&width=1200",
-          "width": 1200,
-          "height": 1084,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ronshevlin/2023/01/09/5-predictions-for-banking-and-fintech-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2023/01/09/5-predictions-for-banking-and-fintech-in-2023/amp/",
-      "publishedDateTime": "2023-01-09T15:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-will-amds-mi300-beat-nvidia-in-ai.md",
-      "title": "Will AMD’s MI300 Beat NVIDIA In AI?",
-      "excerpt": "CES Keynote address, AMD’s CEO Dr. Lisa Su reiterated the company’s plan to bring the Instinct MI300 to market by the end of this year, and showed the monster silicon in hand. The chip is certainly a major milestone for the company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/01/09/will-amds-mi300-beat-nvidia-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/01/09/will-amds-mi300-beat-nvidia-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b73bb6c46c27a64e429d7b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/01/09/will-amds-mi300-beat-nvidia-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/01/09/will-amds-mi300-beat-nvidia-in-ai/amp/",
-      "publishedDateTime": "2023-01-09T15:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-conscious-robots-will-be-bigger-than-curing-cancer-scientists-say.md",
-      "title": "Conscious Robots Will Be 'Bigger Than Curing Cancer,' Scientists Say",
-      "excerpt": "Scientists have long considered robot consciousness a subject fraught with ethical—maybe even moral—pitfalls, and so they left it out of the artificial intelligence equation. But that’s no ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/technology/robots/a42435316/robot-consciousness-reality/",
-      "originalUrl": "https://www.popularmechanics.com/technology/robots/a42435316/robot-consciousness-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod/images/artificial-intelligence-machine-learning-royalty-free-image-1673292674.jpg?crop=0.835xw:0.627xh;0.0897xw,0&resize=1200:*",
-          "width": 1200,
-          "height": 601,
+          "url": "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2023/01/004/_jcr_content/par/image.img.512.auto.jpg/1673369362064.jpg",
+          "width": 512,
+          "height": 341,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -888,179 +615,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-top-self-driving-car-stories-of-2022-in-review-big-ups-big-downs.md",
-      "title": "Top Self-Driving Car Stories Of 2022 In Review - Big Ups, Big Downs",
-      "excerpt": "Baidu showed off their custom robotaxi design ... MORE FROM FORBESReports Of The Death Of Self-Driving Cars Are Greatly ExaggeratedBy Brad Templeton Waymo has also said they will soon operate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2023/01/09/top-self-driving-car-stories-of-2022-in-reviewbig-ups-big-downs/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2023/01/09/top-self-driving-car-stories-of-2022-in-reviewbig-ups-big-downs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b3a653cd0b01463a95e410/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2023/01/09/top-self-driving-car-stories-of-2022-in-reviewbig-ups-big-downs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2023/01/09/top-self-driving-car-stories-of-2022-in-reviewbig-ups-big-downs/amp/",
-      "publishedDateTime": "2023-01-09T15:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-aws-not-impacted-by-amazons-18000-layoffs-sources.md",
-      "title": "AWS Not Impacted By Amazon’s 18,000 Layoffs: Sources",
-      "excerpt": "Employees at Amazon Web Service will not be significantly affected by Amazon’s 18,000 layoff round this month, according to sources, although AWS still remains in a hiring pause. Amazon’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/aws-not-impacted-by-amazon-s-18-000-layoffs-sources",
-      "originalUrl": "https://www.crn.com/news/cloud/aws-not-impacted-by-amazon-s-18-000-layoffs-sources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/027d-1707e46b7484-4bb6908abadd-1000/crn_in_depth_wave_of_layoffs_in_the_tech_industry.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-with-epa-support-and-new-seed-funding-heres-how-cleanrobotics-plans-to-expand-in-2023.md",
-      "title": "With EPA support and new seed funding, here’s how CleanRobotics plans to expand in 2023",
-      "excerpt": "Cofounder Tanner Cook told Technical.ly the company plans to use the $4.5 million seed round it raised last year to build and sell more of its AI-powered TrashBots.",
-      "sourceUrl": null,
-      "webUrl": "https://technical.ly/startups/cleanrobotics-growth-plans-2023/",
-      "originalUrl": "https://technical.ly/startups/cleanrobotics-growth-plans-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technical.ly/wp-content/uploads/2023/01/TrashBot-Aviary-01-e1673300807314.jpg",
-          "width": 1000,
-          "height": 1584,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T14:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Technical",
-        "domain": "technical.ly",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-ub-awarded-20-million-to-establish-institute-to-create-ai-technologies-to-help-children-with-speech-language-disorders.md",
-      "title": "UB awarded $20 million to establish institute to create AI technologies to help children with speech, language disorders",
-      "excerpt": "The award, which UB will use to create the AI Institute for Exceptional Education, also will advance foundational AI technologies, human-centered AI design, and learning science that improve educational outcomes for young children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buffalo.edu/home/story-repository.host.html/content/shared/university/news/ub-reporter-articles/stories/2023/01/nsf-award-ai.detail.html",
-      "originalUrl": "https://www.buffalo.edu/home/story-repository.host.html/content/shared/university/news/ub-reporter-articles/stories/2023/01/nsf-award-ai.detail.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T14:27:00-08:00",
+      "publishedDateTime": "2023-01-10T10:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Medicine Buffalo",
@@ -1079,21 +634,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-10-will-ai-make-creative-workers-redundant.md",
-      "title": "Will AI Make Creative Workers Redundant?",
-      "excerpt": "Software has turned human language translators into editors. ChatGPT and other programs may do something similar to writers and other artists.",
+      "path": "_news/2023-01-11-breakingviews-microsofts-ai-bet-heads-i-win-tails-i-also-win.md",
+      "title": "Breakingviews: Microsoft’s AI bet: heads I win, tails I also win",
+      "excerpt": "I-win, tails-I-also win, AI deal. A mooted $10 billion investment, reported by Semafor, in the maker of the popular ChatGPT, could reshape Microsoft’s software business. Even if it flops, CEO Satya Nadella will slow a rival,",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/will-ai-make-creative-workers-redundant-machine-learning-artificial-intelligence-technology-human-art-11673303015",
-      "originalUrl": "https://www.wsj.com/articles/will-ai-make-creative-workers-redundant-machine-learning-artificial-intelligence-technology-human-art-11673303015",
+      "webUrl": "https://www.reuters.com/breakingviews/microsofts-ai-bet-heads-i-win-tails-i-also-win-2023-01-10/",
+      "originalUrl": "https://www.reuters.com/breakingviews/microsofts-ai-bet-heads-i-win-tails-i-also-win-2023-01-10/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-699715/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://www.reuters.com/resizer/rwNtFLLSNeCujhZe8fmQf3oxg1c=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VFTFO3NHBVLKNGZZOK6AJE437U.jpg",
+          "width": 728,
+          "height": 381,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1103,14 +658,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T14:14:00-08:00",
+      "publishedDateTime": "2023-01-10T09:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1126,8 +681,448 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-microsofts-ai-bet-heads-i-win-tails-i-also-win.md",
+      "title": "Microsoft’s AI bet: heads I win, tails I also win",
+      "excerpt": "I-win, tails-I-also win, AI deal. A mooted $10 billion investment, reported by Semafor, in the maker of the popular ChatGPT, could reshape Microsoft’s software business. Even if it flops, CEO Satya Nadella will slow a rival,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-microsoft-openai-breakingviews-idDEKBN2TP1HN",
+      "originalUrl": "https://www.reuters.com/article/us-microsoft-openai-breakingviews-idDEKBN2TP1HN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20230110&t=2&i=1619635774&r=LYNXMPEJ090PD&w=800",
+          "width": 728,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-donotpays-first-robot-lawyer-to-take-on-speeding-tickets-in-court-via-ai.md",
+      "title": "DoNotPay's 'first robot lawyer' to take on speeding tickets in court via AI",
+      "excerpt": "Recent advancements in artificial intelligence have allowed bots to translate text, create art and even write essays.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.html",
+      "originalUrl": "https://techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-court.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.amp",
+      "publishedDateTime": "2023-01-10T09:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-using-a-standardized-test-battery-to-compare-cognitive-and-behavioral-traits-in-dog-breeds-update.md",
+      "title": "Using a standardized test battery to compare cognitive and behavioral traits in dog breeds (Update)",
+      "excerpt": "The work by the team involved assessing participants in a commercial cognitive test battery (smartDOG), which had been developed by Katriina Tiira, one of the members on the research team. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-01-standardized-battery-smartest-dog.html",
+      "originalUrl": "https://phys.org/news/2023-01-standardized-battery-smartest-dog.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/using-a-standardized-t.jpg",
+          "width": 1770,
+          "height": 1060,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-01-standardized-battery-smartest-dog.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-standardized-battery-smartest-dog.amp",
+      "publishedDateTime": "2023-01-10T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-what-does-it-really-take-to-be-a-leader-when-it-comes-to-cloud-databases.md",
+      "title": "What does it really take to be a leader when it comes to cloud databases?",
+      "excerpt": "Or it could be that Gartner positioned AWS highest in execution and furthest in vision in its 2022 Magic Quadrant for Cloud DBMS. In fact, both points support each other, says the company. AWS has become a leader in the cloud-native database market precisely because it pays such close attention to what customers need from their database infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2023/01/10/what_does_it_really_take/?td=rt-9bq",
+      "originalUrl": "https://www.theregister.com/2023/01/10/what_does_it_really_take/?td=rt-9bq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-houston-community-college-reveals-first-two-bachelors-degree-programs.md",
+      "title": "Houston Community College reveals first two bachelor’s degree programs",
+      "excerpt": "Students can obtain a four-year degree in Applied Technology in Artificial Intelligence and Robotics and Applied Science in Healthcare Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/",
+      "originalUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.hpm.io/wp-content/uploads/2022/09/22150424/HBU_Aerial-450x294.jpg",
+          "width": 450,
+          "height": 294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/amp/",
+      "cdnAmpWebUrl": "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/amp/",
+      "publishedDateTime": "2023-01-10T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Public Media",
+        "domain": "houstonpublicmedia.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-robotics-team-begins-their-season-with-annual-kickoff-event.md",
+      "title": "Robotics team begins their season with annual kickoff event",
+      "excerpt": "On Saturday, January 7 the Robotics team of just over 50 members watched an international Twitch livestream of the season kickoff, which is watched by teams internationally. An animation was shown to introduce the game for the season,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mvnews.org/robotics-team-begins-their-season-with-annual-kickoff-event/",
+      "originalUrl": "https://www.mvnews.org/robotics-team-begins-their-season-with-annual-kickoff-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mvnews.org/wp-content/uploads/2023/01/Screen-Shot-2023-01-10-at-8.23.25-AM-900x423.png",
+          "width": 900,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mill Valley News",
+        "domain": "mvnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-how-ai-is-being-used-to-improve-mental-health.md",
+      "title": "How AI is being used to improve mental health",
+      "excerpt": "Mental health continues to be an area of great need in our society, according to the World Health Organization, approximately 1 in 4 people in the world will be affected by mental health disorders at some point in their lives.",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/accessibility/how-ai-is-being-used-to-improve-mental-health/",
+      "originalUrl": "https://blogs.microsoft.com/accessibility/how-ai-is-being-used-to-improve-mental-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/prod/sites/172/2023/01/Mental-health-article-main-hero-image-1024x683.png",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-artificial-intelligence-deep-learning-model-for-mapping-wetlands-yields-94-accuracy.md",
+      "title": "Artificial Intelligence Deep Learning Model for Mapping Wetlands Yields 94% Accuracy",
+      "excerpt": "Chesapeake Conservancy’s Data Science Team Publishes Article in “Science of the Total Environment” Annapolis, MD – Chesapeake Conservancy’s data science team developed an artificial intelligence deep learning model for mapping wetlands ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.directionsmag.com/pressrelease/12026",
+      "originalUrl": "https://www.directionsmag.com/pressrelease/12026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmpublisher.s3.us-west-2.amazonaws.com/2023/January/10/7/ccd1cc1a-ce14-4801-8238-379214b79d70-sized",
+          "width": 800,
+          "height": 1065,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Directions Magazine",
+        "domain": "directionsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-denodo-achieves-aws-data-and-analytics-isv-competency-status.md",
+      "title": "Denodo Achieves AWS Data and Analytics ISV Competency Status",
+      "excerpt": "Denodo, a leader in data management, today announced that it has achieved the Amazon Web Services (AWS) Data and",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/denodo-achieves-aws-data-and-analytics-isv-competency-status/",
+      "originalUrl": "https://www.datanami.com/this-just-in/denodo-achieves-aws-data-and-analytics-isv-competency-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-jobs-in-artificial-intelligence-how-to-make-a-career-in-ai.md",
+      "title": "Jobs In Artificial Intelligence - How To Make A Career In AI",
+      "excerpt": "E, Tesla’s Fully Self Driving mode and *ahem* Q.ai, has shown us anything, it’s that artificial intelligence is here to stay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/01/10/jobs-in-artificial-intelligencehow-to-make-a-career-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/10/jobs-in-artificial-intelligencehow-to-make-a-career-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bda0178157b139798b08d5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/10/jobs-in-artificial-intelligencehow-to-make-a-career-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/10/jobs-in-artificial-intelligencehow-to-make-a-career-in-ai/amp/",
+      "publishedDateTime": "2023-01-10T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-22-artificial-intelligence-delivers-its-latest-innovation.md",
+      "title": "Artificial Intelligence Delivers Its Latest Innovation",
+      "excerpt": "\"Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.\" -Ginni Rometty, Executive Chairman of IBM Artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
+      "originalUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2198602/computer-code.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
+      "publishedDateTime": "2023-02-22T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
       "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
       "excerpt": "There’s more than one way to position your portfolio to benefit from a continuing AI revolution. You can invest in companies that build AI hardware, develop AI solutions or sell AI tools. Or, you can invest in companies that use AI to make better products.",
@@ -54,7 +108,8 @@
         "Microsoft AI",
         "AI in Autos",
         "AI in Robotics",
-        "AI Hardware"
+        "AI Hardware",
+        "AI in Healthcare"
       ]
     },
     {
@@ -108,6 +163,50 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-ai-and-ml-are-transforming-industries-sigma-solve-us.md",
+      "title": "AI and ML are Transforming Industries | Sigma Solve US",
+      "excerpt": "All around the globe, businesses are experiencing the best times of their lives following the advent of AI and ML. Artificial Intelligence and Machin",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105576649/AI-and-ML-are-Transforming-Industries-Sigma-Solve-US",
+      "originalUrl": "https://menafn.com/1105576649/AI-and-ML-are-Transforming-Industries-Sigma-Solve-US",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-02/15/pr_15391_30ff920e_image_story.png",
+          "width": 960,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T19:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -204,6 +303,49 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-12-inside-philadelphia-eagles-quarterback-jalen-hurts-rumored-relationship-with-ai-professional-bry-burrows.md",
+      "title": "Inside Philadelphia Eagles Quarterback Jalen Hurts' Rumored Relationship With AI Professional Bry Burrows",
+      "excerpt": "She joined the sales team at IBM in 2019, quickly working her way up the corporate ... Today, she is an AI Partner at a Fortune 500 company, working on its artificial intelligence product Watson. You may remember Watson as the AI that beat Number Two ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.yourtango.com/entertainment/who-jalen-hurts-girlfriend-bry-burrows",
+      "originalUrl": "https://www.yourtango.com/entertainment/who-jalen-hurts-girlfriend-bry-burrows",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.yourtango.com/sites/default/files/styles/listing_big/public/image_blog/jalen-hurts-girlfriend-bry-burrow-super-bowl.png?itok=iFKQEMJE",
+          "width": 620,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.yourtango.com/entertainment/who-jalen-hurts-girlfriend-bry-burrows",
+      "cdnAmpWebUrl": "https://www-yourtango-com.cdn.ampproject.org/c/s/www.yourtango.com/entertainment/who-jalen-hurts-girlfriend-bry-burrows",
+      "publishedDateTime": "2023-02-11T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YourTango",
+        "domain": "yourtango.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -337,20 +479,20 @@
     },
     {
       "path": "_news/2023-02-09-investing-in-chatgpts-ai-revolution-where-to-begin.md",
-      "title": "Investing in ChatGPT's AI Revolution: Where to Begin",
+      "title": "Investing in ChatGPT's AI revolution: Where to begin",
       "excerpt": "IBM has provided AI solutions for large businesses for many years under the Watson brand. In particular, management is excited about the long-term prospects of large language models for AI -- exactly the type of artificial intelligence that ChatGPT uses.",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/08/where-to-begin-investing-in-chatgpt-ai-revolution/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/08/where-to-begin-investing-in-chatgpt-ai-revolution/",
+      "webUrl": "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/",
+      "originalUrl": "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/719846/2-technicians-and-data-center-racks.jpg",
-          "width": 2384,
-          "height": 1257,
+          "url": "https://www.gannett-cdn.com/authoring/images/motleyfool/2023/02/08/USAT/69885703007-2-technicians-and-data-center-racks.jpg?auto=webp&crop=2224,1256,x159,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -360,21 +502,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T10:48:00-08:00",
+      "publishedDateTime": "2023-02-09T06:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1239,127 +1372,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare.md",
-      "title": "From a ‘deranged’ provocateur to IBM’s failed AI superproject: the controversial story of how data has transformed healthcare",
-      "excerpt": "To understand the potential for machine learning to transform medicine, we must go back to the controversial origins of data use in healthcare",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362",
-      "originalUrl": "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/503380/original/file-20230106-16-mc22tn.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=226&fit=crop",
-          "width": 320,
-          "height": 226,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362",
-      "publishedDateTime": "2023-01-16T03:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-singlestore-details-its-latest-integration-with-ibm-to-deliver-faster-ai-analytics-simplify-data.md",
-      "title": "SingleStore details its latest integration with IBM to deliver faster AI analytics, simplify data",
-      "excerpt": "“We’ve innovated AI indexing in our database engine. But we want to go further than that, we want to be able to exploit the innovation that’s happening at IBM,” Thota said. “A good ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/01/12/singlestore-teams-with-ibm-to-deliver-faster-ai-analytics-simplify-data-reinvent/",
-      "originalUrl": "https://siliconangle.com/2023/01/12/singlestore-teams-with-ibm-to-deliver-faster-ai-analytics-simplify-data-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/Shireesh-Thota-and-Hemanth-Manda-aws-reinvent-2022.jpg",
-          "width": 1919,
-          "height": 1279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T21:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-ibm-launches-new-way-to-support-partners-ecosystem.md",
-      "title": "IBM launches new way to support partners, ecosystem",
-      "excerpt": "International Business Machines Corporation (IBM) has announced its IBM Partner Plus, a new program that reimagines how the company engages with its",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/technology/article/ibm-launches-new-way-to-support-partners-ecosystem/",
-      "originalUrl": "https://businessday.ng/technology/article/ibm-launches-new-way-to-support-partners-ecosystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-12T06:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

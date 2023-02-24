@@ -27,47 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese chipmakers to advance GPU development for ChatGPT"
-    excerpt: "The rising popularity of ChatGPT, an AI-powered chatbot developed by OpenAI, has encouraged Chinese chipmakers to accelerate their related GPU development."
-    publishedDateTime: 2023-02-17T02:54:00Z
-    webUrl: "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html"
+  - title: "AI gets hang of Gujarati to translate Chinese, Hindi text"
+    excerpt: "Taking a cue from ChatGPT that has taken the world by storm, demonstrating what a good database coupled with natural language processing (NLP) can do,"
+    publishedDateTime: 2023-02-20T23:59:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/articleshow/98106976.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/amp_articleshow/98106976.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/amp_articleshow/98106976.cms"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://img.digitimes.com/newsshow/20230216pd213_files/2_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
-  - title: "Chinese startup Cambricon gets new funds to advance 7nm chips for ChatGPT-like applications"
-    excerpt: "China-based AI chip startup Cambricon Technologies, already listed on the Sci-Tech Innovation Board of the Shanghai Stock Exchange, recently has been approved to issue CNY1.672 billion (US$244.087 million) in A-shares to specific target investors,"
-    publishedDateTime: 2023-02-16T07:35:00Z
-    webUrl: "https://www.digitimes.com/news/a20230216PD201/7nm-ai-chatgpt-china.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 29
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230216pd201_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Chinese balloon saga is part of a long history of U.S.-China tensions"
-    excerpt: "Its not surprising the recent Chinese ldquoweather balloonrdquo incident has set off alarm bells Concerns inevitably mounted as the massive sp"
-    publishedDateTime: 2023-02-17T23:13:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273536887/chinese-balloon-saga-is-part-of-a-long-history-of-us-china-tensions"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cvr1676673516.jpg"
-        width: 630
-        height: 420
+      - url: "https://static.toiimg.com/thumb/msid-98106990,width-1070,height-580,imgsize-1198029,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
 
 secured: "oWcWGEg/wo12ZE/q/pSQuw8s11lmt0TpfaOPBFBh+vnpyNTjhu+eT+soLgdEupOiPssA0TOY1f8NQ5wX4nvwKnxISqZgNLkVpRI5kHoWOfQC81fIxot3o6Yql/HGpv6HUUu6XNHeQIv7cfNpLQBOXIAmuL6vAETrtK+6XbnxcJTwH4lMCwzREULEXw9pqQyiWf9S/WS8IH5+xIUltf1G28lercFQvWpMa3WWWb38Fidve+UUuFdJlZ/Ig2Z5f4vPNIeE4qO9NS0TqlyfyWs9VSQBG2g0iGAmm6BLMUps33nxG0O0NVGgW+a3Box7+2M1SXJwH4AWjcE2drXOK+mp1jnwnifRj3+0raddlgIIwHM=;pGY9PORrANDAu7jUVqluww=="

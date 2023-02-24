@@ -2,65 +2,21 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2023-02-11-analyzing-the-massive-impact-the-right-language-can-have-on-marketing-campaigns.md",
-      "title": "Analyzing the Massive Impact the Right Language Can have on Marketing Campaigns",
-      "excerpt": "Persado, the Motivation Artificial Intelligence (AI) company that generates personalized communications at scale, released its 2023 Customer Motivation Report, highlighting the impact of specific narratives on marketing campaign performance.",
+      "path": "_news/2023-02-15-why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance.md",
+      "title": "Why Colorado draft AI insurance rules are a “major leap forward” for AI governance",
+      "excerpt": "Colorado's draft rules for life insurance companies using AI for coverage decisions are game-changing, says Debevoise & Plimpton's Avi Gesser.",
       "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2023/02/11/analyzing-the-massive-impact-the-right-language-can-have-on-marketing-campaigns/",
-      "originalUrl": "https://insidebigdata.com/2023/02/11/analyzing-the-massive-impact-the-right-language-can-have-on-marketing-campaigns/",
+      "webUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/",
+      "originalUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://insidebigdata.com/wp-content/uploads/2023/02/Persado_report.png",
-          "width": 300,
-          "height": 232,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-11T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-sorry-investors-the-ai-hype-thats-gripped-the-stock-market-is-premature-and-the-bubble-will-probably-burst-this-year.md",
-      "title": "Sorry investors, the AI hype that's gripped the stock market is premature and the bubble will probably burst this year",
-      "excerpt": "I do think there's some froth and that you'll see some of these stocks come down after a little bit,\" Pat Tschosik, US sector strategist at Ned Davis Research told Insider, noting that artificial intelligence stocks may only see a boost from the ChatGPT ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-ai-stocks-overhyped-market-bubble-openai-microsoft-c3ai-investors-2023-2",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-ai-stocks-overhyped-market-bubble-openai-microsoft-c3ai-investors-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5c7f5a69dde867248d0597cd?width=1200&format=jpeg",
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Untitled-design-16.png?w=1200&strip=all",
           "width": 1200,
-          "height": 600,
+          "height": 750,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-ai-stocks-overhyped-market-bubble-openai-microsoft-c3ai-investors-2023-2?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-ai-stocks-overhyped-market-bubble-openai-microsoft-c3ai-investors-2023-2?amp",
-      "publishedDateTime": "2023-02-11T05:16:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/amp/",
+      "publishedDateTime": "2023-02-14T15:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -93,26 +49,26 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-11-opinion-these-will-be-the-3-largest-stocks-by-2030.md",
-      "title": "Opinion: These Will Be the 3 Largest Stocks by 2030",
-      "excerpt": "Don't overlook the role that artificial intelligence (AI) might play in Apple's growth ... Don't forget Alphabet's Waymo unit, either. The adoption of AI-powered self-driving car technology will increase significantly by the end of the decade.",
+      "path": "_news/2023-02-15-vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology.md",
+      "title": "VORMOR Innovation emerges as a Leader in AI-based Translation Technology",
+      "excerpt": "the company has grown into a well-known enterprise with a range of innovative AI-powered language services, including a variety of speech recognition, speech synthesis, language translation ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/11/opinion-these-will-be-the-3-largest-stocks-by-2030/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/11/opinion-these-will-be-the-3-largest-stocks-by-2030/",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/719455/augmented-reality-virtual-reality-metaverse.jpg",
-          "width": 6435,
-          "height": 4290,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,256 +76,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-11T02:50:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30914976",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30914976",
+      "publishedDateTime": "2023-02-14T14:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-studies-show-ibm-watson-reaches-mostly-same-cancer-decisions-as-doctors.md",
-      "title": "Studies show IBM Watson reaches mostly same cancer decisions as doctors",
-      "excerpt": "IBM has unveiled new data for its Watson AI which shows the software to be in agreement with doctor's recommendations up to 96% of the time. Unveiled at this year's American Society of Clinical ...",
-      "sourceUrl": null,
-      "webUrl": "https://pharmaphorum.com/index.php/news/ibm-watson-asco-high-concordance",
-      "originalUrl": "https://pharmaphorum.com/index.php/news/ibm-watson-asco-high-concordance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pharmaphorum.com/sites/default/files/styles/large/public/2023-02/patient-mask-window.jpg?itok=IALAhzuk",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T22:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pharmaphorum",
-        "domain": "pharmaphorum.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-autonomous-cars-or-driverless-cars-market-2023-will-touch-new-level-in-upcoming-year.md",
-      "title": "Autonomous Cars or Driverless Cars Market 2023 Will Touch New Level in Upcoming Year",
-      "excerpt": "Feb 11, 2023 (The Expresswire) -- Autonomous Cars or Driverless Cars Market Size 2023-2027 | New Report (117 Pages) | In This Reports Autonomous Cars or Driverless Cars Market and its business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/autonomous-cars-or-driverless-cars-market-2023-will-touch-new-level-in-upcoming-year-2023-02-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-cars-or-driverless-cars-market-2023-will-touch-new-level-in-upcoming-year-2023-02-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-top-ai-startup-news-of-the-week-theres-more-to-ai-than-just-microsoft-and-google.md",
-      "title": "Top AI startup news of the week: There’s more to AI than just Microsoft and Google",
-      "excerpt": "It indicates a way to close an interaction, or dismiss a notification. SHARE THIS POST Ai Holdings NewsMORE Related Stocks Find News News Indices Commodities Currencies Stocks",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/top-ai-startup-news-of-the-week--theres-more-to-ai-than-just-microsoft-and-google-12155360",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/top-ai-startup-news-of-the-week--theres-more-to-ai-than-just-microsoft-and-google-12155360",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T18:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-hesais-ipo-raises-prospects-for-unmanned-driving.md",
-      "title": "Hesai's IPO raises prospects for unmanned driving",
-      "excerpt": "Visitors check out Hesai's products during a high-tech exhibition in Shanghai. [Provided to] American depositary shares of Hesai Group, a Shanghai-based developer of sensor technologies used in self-driving cars,",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202302/11/WS63e6d5a7a31057c47ebae31e.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202302/11/WS63e6d5a7a31057c47ebae31e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202302/11/63e6d5a7a31057c4b4b4eb3c.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T16:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-an-alternative-to-touchscreens-in-car-voice-control-is-finally-good.md",
-      "title": "An alternative to touchscreens? In-car voice control is finally good",
-      "excerpt": "The voice recognition is even good enough to understand me when I tell it to navigate to a specific address, to the point that I actually use the native navigation systems if I'm driving a modern ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2023/02/voice-assistants-in-cars-are-finally-getting-good-enough-to-rely-on/",
-      "originalUrl": "https://arstechnica.com/cars/2023/02/voice-assistants-in-cars-are-finally-getting-good-enough-to-rely-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/kitt-voice-controls-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2023/02/voice-assistants-in-cars-are-finally-getting-good-enough-to-rely-on/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/02/voice-assistants-in-cars-are-finally-getting-good-enough-to-rely-on/amp/",
-      "publishedDateTime": "2023-02-10T16:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -383,62 +97,19 @@
       ]
     },
     {
-      "path": "_news/2023-02-11-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints.md",
-      "title": "SIA responds to lawmaker demands to halt facial recognition technology at TSA checkpoints",
-      "excerpt": "The Security Industry Association issued a statement Friday in response to several U.S. Senators calling for the Transportation Security Administration (TSA) to halt the use of facial recognition technology at screening checkpoints. The association is ...",
+      "path": "_news/2023-02-15-heres-to-the-robots-ai-tech-investments-star-at-tampas-synapse.md",
+      "title": "‘Here’s to the robots’: AI, tech investments star at Tampa’s Synapse",
+      "excerpt": "The conference’s CEO pulled up ChatGPT, the artificial intelligence chatbot ... firm that relocated from New York to St. Petersburg in 2020. Case visited Tampa startup accelerator Embarc Collective as part of a tour of emerging markets in 2019, and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/industry-news/article/21295414/security-industry-association-sia-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints",
-      "originalUrl": "https://www.securityinfowatch.com/industry-news/article/21295414/security-industry-association-sia-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints",
+      "webUrl": "https://www.tampabay.com/news/business/2023/02/14/heres-robots-ai-tech-investments-star-tampas-synapse/",
+      "originalUrl": "https://www.tampabay.com/news/business/2023/02/14/heres-robots-ai-tech-investments-star-tampas-synapse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/02/16x9/OPED_TSA_FACIAL_RECOGNITION_COMMENTARY_TB.63e6c83828109.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-heres-how-tech-is-shaping-super-bowl-lvii.md",
-      "title": "Here's How Tech Is Shaping Super Bowl LVII",
-      "excerpt": "For the first time ever, rowdy tailgaters may even get the chance to have a driverless vehicle carpool thei drunken asses around town. Here’s some of the ways’s tech may shape this year’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/super-bowl-lvii-2023-new-tech-kc-chiefs-philly-eagles-1850096455",
-      "originalUrl": "https://gizmodo.com/super-bowl-lvii-2023-new-tech-kc-chiefs-philly-eagles-1850096455",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ecacfda8c5fabad43b8c3af3b749638c.jpg",
+          "url": "https://www.tampabay.com/resizer/p_vnstg5FGjV-OqBYLmP8gilmAo=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/Z3JGJPC5KNBZHCCDND5R5RYKCM.JPG",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -448,237 +119,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T12:49:00-08:00",
+      "ampWebUrl": "https://www.tampabay.com/news/business/2023/02/14/heres-robots-ai-tech-investments-star-tampas-synapse/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2023/02/14/heres-robots-ai-tech-investments-star-tampas-synapse/?outputType=amp",
+      "publishedDateTime": "2023-02-14T13:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-do-chatbots-get-us-any-closer-to-human-level-artificial-intelligence-pro-insight.md",
-      "title": "Do Chatbots Get Us Any Closer to Human-Level Artificial Intelligence? | PRO Insight",
-      "excerpt": "And without prediction, it can’t plan. “Prediction is the essence of intelligence,” LeCun said. This explains, at least in part, why self-driving cars are still bumbling through a world they don’t completely understand. And why chatbot intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewrap.com/chatbots-human-intelligence/",
-      "originalUrl": "https://www.thewrap.com/chatbots-human-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thewrap.com/wp-content/uploads/2023/02/kantrowitz-dalle-20230210.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheWrap",
-        "domain": "thewrap.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-fintech-bytes-investcloud-55ip-and-broadridge.md",
-      "title": "Fintech Bytes: InvestCloud, 55ip and Broadridge",
-      "excerpt": "In this week's fintech news, InvestCloud partners with 55ip, Broadridge partners with Point Local, and Opto partners with Merchant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investmentnews.com/fintech-bytes-investcloud-55ip-and-broadridge-233936",
-      "originalUrl": "https://www.investmentnews.com/fintech-bytes-investcloud-55ip-and-broadridge-233936",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s32566.pcdn.co/wp-content/uploads/2023/01/technology-web.jpg.optimal.jpg",
-          "width": 900,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestmentNews",
-        "domain": "investmentnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-tcs-hyderabad-engineers-working-on-3-prototype-driverless-cars.md",
-      "title": "TCS Hyderabad engineers working on 3 prototype driverless cars",
-      "excerpt": "TCS is incorporating special features in these cars which are ideal for Indian roads. Artificial intelligence (AI) is also integrated into self-driving cars to simulate decision-making processes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.html",
-      "originalUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/10/w600X390/driverless.JPG",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.amp",
-      "publishedDateTime": "2023-02-10T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-microsoft-has-plans-to-shove-its-bing-ai-into-word-powerpoint-and-more.md",
-      "title": "Microsoft Has Plans to Shove Its Bing AI Into Word, PowerPoint, and More",
-      "excerpt": "as the company demoed its AI-powered Viva Sales system last week. The company said in the demo that the “Azure Open AI” can generate a draft based on the type of response a user requests. Microsoft Viva Sales generative AI experience The new Bing ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/microsoft-bing-ai-powerpoint-word-prometheus-1850098510",
-      "originalUrl": "https://gizmodo.com/microsoft-bing-ai-powerpoint-word-prometheus-1850098510",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/62b32458baf04667c8754071c866f6f3.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-ai-robotics-venture-fair-from-carnegie-mellon-university-and-innovation-works-returns-for-2023.md",
-      "title": "AI Robotics Venture Fair from Carnegie Mellon University and Innovation Works returns for 2023",
-      "excerpt": "The annual AI Robotics Venture Fair from Carnegie Mellon University and Innovation Works Inc., the region's largest seed-stage startup investment firm, now has a set date for this year's event, which looks to offer funding opportunities to budding enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/02/10/ai-robotics-venture-fair-returns-cmu-iw.html",
-      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/02/10/ai-robotics-venture-fair-returns-cmu-iw.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T10:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -693,21 +140,21 @@
       ]
     },
     {
-      "path": "_news/2023-02-11-new-artificial-intelligence-being-used-to-plagiarize-upstate-professor-says.md",
-      "title": "New artificial intelligence being used to plagiarize, Upstate professor says",
-      "excerpt": "WHO COULD POSSIBLY SEE THAT SNOW FLYING AROUND? CHRIS, THANKS. NEW ARTIFICIAL INTELLIGENCE IS MAKING CHEATING EVEN EASIER, BUT MAKING IT HARDER TO DETECT, ACCORDING TO EXPERTS AND UPSTATE ...",
+      "path": "_news/2023-02-15-agricultural-technology-including-driverless-tractors-on-full-display-at-world-ag-expo.md",
+      "title": "Agricultural technology, including driverless tractors, on full display at World Ag Expo",
+      "excerpt": "CNBC's Jane Wells joins 'Power Lunch' to report on a driverless tractor and other agricultural technology from the World Ag Expo. Got a confidential news tip? We want to hear from you. Sign up for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wyff4.com/article/south-carolina-artificial-intelligence-plagiarism/42818119",
-      "originalUrl": "https://www.wyff4.com/article/south-carolina-artificial-intelligence-plagiarism/42818119",
+      "webUrl": "https://www.cnbc.com/video/2023/02/14/agricultural-technology-including-driverless-tractors-on-full-display-at-world-ag-expo.html",
+      "originalUrl": "https://www.cnbc.com/video/2023/02/14/agricultural-technology-including-driverless-tractors-on-full-display-at-world-ag-expo.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 100,
       "tags": null,
       "images": [
         {
-          "url": "https://kubrick.htvapps.com/vidthumb/121c8786-db3e-449b-9f20-83aaa6f5cf3c/121c8786-db3e-449b-9f20-83aaa6f5cf3c_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
+          "url": "https://image.cnbcfm.com/api/v1/image/107194515-16764043121676404310-28196778325-1080pnbcnews.jpg?v=1676407179&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -715,14 +162,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wyff4.com/amp/article/south-carolina-artificial-intelligence-plagiarism/42818119",
-      "cdnAmpWebUrl": "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/south-carolina-artificial-intelligence-plagiarism/42818119",
-      "publishedDateTime": "2023-02-10T08:56:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T12:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WYFF",
-        "domain": "wyff4.com",
-        "images": null,
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -736,21 +192,21 @@
       ]
     },
     {
-      "path": "_news/2023-02-11-understanding-and-debugging-deep-learning-models-exploring-ai-interpretability-methods.md",
-      "title": "Understanding and Debugging Deep Learning Models: Exploring AI Interpretability Methods",
-      "excerpt": "Subscribe for free. Deep learning models can be very complex and understanding their internals can be challenging There are several methods of providing interpretability in machine learning To ...",
+      "path": "_news/2023-02-14-building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context.md",
+      "title": "Building AI chatbots using Amazon Lex and Amazon Kendra for filtering query results based on user context",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). It indexes the documents stored in a wide range of repositories and finds the most relevant document based on the keywords or natural language questions the user has searched for. In some scenarios, you need the search results",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/deep-learning-models-ai-interpretability-methods/",
-      "originalUrl": "https://www.infoq.com/articles/deep-learning-models-ai-interpretability-methods/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://res.infoq.com/articles/deep-learning-models-ai-interpretability-methods/en/headerimage/generatedHeaderImage-1675867673135.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/14/building-ai-chatbots-lex-kendra.jpg",
+          "width": 1557,
+          "height": 780,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -760,100 +216,195 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T08:56:00-08:00",
+      "publishedDateTime": "2023-02-14T12:40:22-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-much-remains-mysterious-about-cognitive-decline.md",
-      "title": "Much remains mysterious about cognitive decline",
-      "excerpt": "The shunt towards, or away from, cognitive decline may happen decades before such decline becomes clinically evident. And known risk factors explain very little of that decline. That is the conclusion reached by researchers from the Ohio State University ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bioworld.com/articles/694127-much-remains-mysterious-about-cognitive-decline",
-      "originalUrl": "https://www.bioworld.com/articles/694127-much-remains-mysterious-about-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Neurology/Cognitive-Decline-dementia-aging.png?height=635&t=1676054327&width=1200",
-          "width": 847,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BioWorld",
-        "domain": "bioworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-machine-learning-vs-data-science-whats-the-difference.md",
-      "title": "Machine learning vs data science: What’s the difference?",
-      "excerpt": "Financial institutions ... with varying sizes and types of organisations able to access machine learning services to achieve several business aims.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/data-insights/369981/machine-learning-vs-data-science-whats-the-difference",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/data-insights/369981/machine-learning-vs-data-science-whats-the-difference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816583/itpro/2019/05/data_science_shutterstock_746652745.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-meta-to-integrate-generative-ai-features-on-instagram-and-facebook.md",
+      "title": "Meta to integrate generative AI features on Instagram and Facebook",
+      "excerpt": "Generative AI refers to technology that can generate text, images, sounds and other media formats in response to short commands or prompts from users. OpenAI's ChatGPT is the most popular example of Generative AI tool in recent months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/storyboard18/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm",
+      "originalUrl": "https://www.moneycontrol.com/storyboard18/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.storyboard18.com/storyboard18/2023/02/yurteasgbdr-768x432.png",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-postdoctoral-fellow-mathematicalstatistical-imaging-and-computer-vision.md",
+      "title": "Postdoctoral Fellow - Mathematical/Statistical Imaging and Computer Vision",
+      "excerpt": "The successful candidate will work under the supervision of Dr. Weihong Guo (Department of Mathematics, Applied Mathematics, and Statistics) and Dr. Shuo Li (Departments of Biomedical Engineering and Computer and Data Science) at Case Western Reserve ...",
+      "sourceUrl": null,
+      "webUrl": "https://case.edu/academic-careers/postdoctoral-fellow-mathematicalstatistical-imaging-and-computer-vision",
+      "originalUrl": "https://case.edu/academic-careers/postdoctoral-fellow-mathematicalstatistical-imaging-and-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Case Western Reserve University",
+        "domain": "case.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-measure-the-business-impact-of-amazon-personalize-recommendations.md",
+      "title": "Measure the Business Impact of Amazon Personalize Recommendations",
+      "excerpt": "We’re excited to announce that Amazon Personalize now lets you measure how your personalized recommendations can help you achieve your business goals. After specifying the metrics that you want to track, you can identify which campaigns and recommenders are most impactful and understand the impact of",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/measure-the-business-impact-of-amazon-personalize-recommendations/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/measure-the-business-impact-of-amazon-personalize-recommendations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/14/measure-the-business-impact-personalize.jpg",
+          "width": 1563,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T10:24:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-how-ai-and-machine-learning-are-improving-fraud-detection-in-fintech.md",
+      "title": "How AI and Machine Learning Are Improving Fraud Detection in Fintech",
+      "excerpt": "Identity theft is common, but with the rise of AI and machine learning, its effect on the fintech industry has been reduced drastically. Here's how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-machine-learning-are-improving-fraud-detection/442018",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-machine-learning-are-improving-fraud-detection/442018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1675865542-GettyImages-1440452862.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -875,21 +426,21 @@
       ]
     },
     {
-      "path": "_news/2023-02-10-automated-machine-learning-market-to-be-usd-154993-million-by-2030.md",
-      "title": "Automated Machine Learning Market To Be USD 15,499.3 Million by 2030",
-      "excerpt": "In 2022, the automated machine learning market size stood at USD 631.0 million, which is projected to witness a 49.2% CAGR during 2022–2030, reaching",
+      "path": "_news/2023-02-15-3-machine-vision-technology-trends.md",
+      "title": "3 Machine Vision Technology Trends",
+      "excerpt": "New chips, such as the Neon-2000-JNX series from AdLink Technology with the Nvidia Jetson Xavier NX module built in, can process images and run AI-based computer vision algorithms. This has reduced the vision system training times from weeks to hours.",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105555483/Automated-Machine-Learning-Market-To-Be-USD-154993-Million-by-2030",
-      "originalUrl": "https://menafn.com/1105555483/Automated-Machine-Learning-Market-To-Be-USD-154993-Million-by-2030",
+      "webUrl": "https://www.automationworld.com/factory/sensors/article/22697448/3-machine-vision-technology-trends",
+      "originalUrl": "https://www.automationworld.com/factory/sensors/article/22697448/3-machine-vision-technology-trends",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?892040",
-          "width": 375,
-          "height": 250,
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2023/02/1408271637.63dd80c61ea0b.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 772,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -899,7 +450,129 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T07:56:00-08:00",
+      "publishedDateTime": "2023-02-14T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-ai-investing-the-new-frontier-and-nvidias-role-in-it-the-kingpin-of-artificial-intelligence.md",
+      "title": "AI Investing – The New Frontier And NVIDIA's Role In It - The KingPin Of Artificial Intelligence",
+      "excerpt": "A Space Odyssey came out in 1968, Artificial Intelligence seemed years away. 50 years later it’s everywhere, from self-driving cars to robot drones, to ChatGPT, it’s the New Frontier. Like the tech revolution of the last 30-40 years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/23/02/30907988/ai-investing-the-new-frontier-and-nvidias-role-in-it-the-kingpin-of-artificial-intelligence",
+      "originalUrl": "https://www.benzinga.com/23/02/30907988/ai-investing-the-new-frontier-and-nvidias-role-in-it-the-kingpin-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/boliviainteligente--zs3s9a3jeq-unsplash_1.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30907988",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30907988",
+      "publishedDateTime": "2023-02-14T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-study-finds-how-artificial-intelligence-with-infrared-imaging-improve-colon-cancer-therapy.md",
+      "title": "Study finds how artificial intelligence with infrared imaging improve colon cancer therapy",
+      "excerpt": "Over the last several years, tremendous progress in the field of therapy alternatives has substantially enhanced the prospects of cure for individuals with colon cancer. However, these novel techniques,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/science-environment/2354845-study-finds-how-artificial-intelligence-with-infrared-imaging-improve-colon-cancer-therapy",
+      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2354845-study-finds-how-artificial-intelligence-with-infrared-imaging-improve-colon-cancer-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-sway-ai-joins-the-aws-partner-network-to-make-artificial-intelligence-accessible-for-all.md",
+      "title": "Sway AI Joins The AWS Partner Network To Make Artificial Intelligence Accessible For All",
+      "excerpt": "Additionally, the Sway AI product incorporates valuable AWS offerings such as Amazon EMR for petabyte-scale big data analytics; AWS Lambda, a serverless event-driven compute service; and Amazon SageMaker to deploy ML models on embedded systems and edge ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105572596/Sway-AI-Joins-The-AWS-Partner-Network-To-Make-Artificial-Intelligence-Accessible-For-All",
+      "originalUrl": "https://menafn.com/1105572596/Sway-AI-Joins-The-AWS-Partner-Network-To-Make-Artificial-Intelligence-Accessible-For-All",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-02/14/PN_404d3image_story.jpg",
+          "width": 400,
+          "height": 238,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T07:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Mena FN",
@@ -913,26 +586,26 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-10-zuckerberg-is-making-generative-ai-metas-other-big-theme-of-2023.md",
-      "title": "Zuckerberg Is Making Generative AI Meta's Other Big Theme of 2023",
-      "excerpt": "With the market seemingly underappreciating Meta's AI infrastructure and research team, it may be worth picking up ... Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg ...",
+      "path": "_news/2023-02-14-buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai.md",
+      "title": "BuzzFeed launches Infinity Quizzes, creating personalized stories powered by OpenAI",
+      "excerpt": "Although the startup has really caught the eye ... henceforth dubbed ‘Buzzy The Robot,’ (official title: BuzzFeed’s AI Creative Assistant)” and quiz-takers themselves. “",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/10/zuckerberg-is-making-generative-ai-metas-other-big/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/10/zuckerberg-is-making-generative-ai-metas-other-big/",
+      "webUrl": "https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/",
+      "originalUrl": "https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 103,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/720239/gettyimages-server-room-cloud-computing.jpg",
-          "width": 2121,
-          "height": 1414,
+          "url": "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-4805167311.jpg?resize=1200,812",
+          "width": 1200,
+          "height": 812,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -940,16 +613,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T07:29:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/amp/",
+      "publishedDateTime": "2023-02-14T07:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -965,25 +638,361 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-10-deep-multi-magnification-similarity-learning-helps-histopathological-diagnosis.md",
-      "title": "Deep multi-magnification similarity learning helps histopathological diagnosis",
-      "excerpt": "Nazar Mustafa Zaki's team from United Arab Emirates University, proposed a novel deep multi-magnification similarity learning (DSML) approach to improve performance in histopathological ...",
+      "path": "_news/2023-02-14-16-things-pop-culture-gets-wrong-about-artificial-intelligence.md",
+      "title": "16 Things Pop Culture Gets Wrong About Artificial Intelligence",
+      "excerpt": "And while they’re optimistic about the future capabilities of artificial intelligence, their projections pale in comparison to the sentient robots and super technologies often depicted on TV and movie screens and predicted in science fiction. In truth ...",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-deep-multi-magnification-similarity-histopathological-diagnosis.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-deep-multi-magnification-similarity-histopathological-diagnosis.html",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63eaba767015a27b1139473b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-02-14T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-ai-experts-professors-reveal-how-chatgpt-will-radically-alter-the-classroom-age-of-the-creator.md",
+      "title": "AI experts, professors reveal how ChatGPT will radically alter the classroom: ‘Age of the creator’",
+      "excerpt": "\"AI is going to push us into this new movement ... Despite the benefits, there are also concerns students and professionals should keep in mind. New York-based legal ethics lawyer David A. Lewis said that he had seen an increase in cases in which people ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator",
+      "originalUrl": "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c45c254e-02b2-4af2-846a-e4db67eadaeb/30431e0e-2941-403b-aaad-0e9a67cabaf2/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator.amp",
+      "publishedDateTime": "2023-02-14T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-amazons-zoox-robotaxi-now-giving-rides-to-employees-on-public-roads-in-california.md",
+      "title": "Amazon's Zoox robotaxi now giving rides to employees on public roads in California",
+      "excerpt": "Amazon-owned Zoox said employees are test-riding its driverless robotaxis on public roads in California. For now, the tests are limited to employees at Zoox's Foster City, California, headquarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?v=1676314425",
+          "width": 2800,
+          "height": 1867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
+      "publishedDateTime": "2023-02-13T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-amazons-self-driving-car-shuttles-people-on-public-roads-for-the-first-time.md",
+      "title": "Amazon’s Self-Driving Car Shuttles People on Public Roads for the First Time",
+      "excerpt": "The company said the robotaxi trip marks the first time that a vehicle designed without human controls has carried passengers on a public road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.supplychainbrain.com/articles/36633-amazons-self-driving-car-shuttles-people-on-public-roads-for-the-first-time",
+      "originalUrl": "https://www.supplychainbrain.com/articles/36633-amazons-self-driving-car-shuttles-people-on-public-roads-for-the-first-time",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-multi-magnificati.jpg",
-          "width": 1270,
+          "url": "https://www.supplychainbrain.com/ext/resources/2023/02/13/Amazon-SelfDriving-BLOOMBERG.jpg?height=635&t=1676352059&width=1200",
+          "width": 953,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain",
+        "domain": "supplychainbrain.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-amazons-new-self-driving-robotaxis-may-soon-be-hitting-public-roads.md",
+      "title": "Amazon's new self-driving robotaxis may soon be hitting public roads",
+      "excerpt": "Amazon's self-driving vehicle unit known as Zoox has successfully tested its robotaxi on a public road using employees as passengers.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
+      "originalUrl": "https://abc7news.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/12811548_amazon-robo-taxis-TN-img.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7news.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
+      "publishedDateTime": "2023-02-13T20:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-ev-x-ai-heres-how-ai-advancements-can-kick-start-ev-stocks.md",
+      "title": "EV x AI: Here’s How AI Advancements Can Kick Start EV Stocks",
+      "excerpt": "Through improved AI, engineers can foster positive outcomes for EVs and raise the investment proposition of their stocks. Popular EV stocks on TipRanks According to a September 2022 report by the International Energy Agency, “Electric car sales reached a ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ev-x-ai-here-s-how-ai-advancements-can-kick-start-ev-stocks-1032092590",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ev-x-ai-here-s-how-ai-advancements-can-kick-start-ev-stocks-1032092590",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/02/image-337-1024x460.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T20:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-states-face-recognition-app-for-pensioners-annual-verification.md",
+      "title": "State’s face recognition app for pensioners’ annual verification",
+      "excerpt": "Meanwhile, a meeting of the Pradhan Mantri Adarsh Gram Yojana convergence committee, constituted for successful operation, effective implementation and monitoring of the scheme was organised at ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-97907398,width-1070,height-580,imgsize-1288749,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
+      "publishedDateTime": "2023-02-13T19:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-check-out-more-than-50-pitch-decks-used-by-fintechs-to-raise-millions-in-funding-from-top-vcs.md",
+      "title": "Check out more than 50 pitch decks used by fintechs to raise millions in funding from top VCs",
+      "excerpt": "This 11-page pitch deck helped Hum Capital, a fintech using AI to match investors with startups, raise a $9 million Series A. There's more venture capital flowing into Latin America than ever ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5",
+      "originalUrl": "https://www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62b31d286ab6180018cfe44d?width=1200&format=jpeg",
+          "width": 1200,
           "height": 600,
           "title": null,
           "attribution": null,
@@ -992,145 +1001,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T06:45:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5?amp",
+      "publishedDateTime": "2023-02-13T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-ibms-ai-has-a-new-job-sorting-through-nasas-giant-stream-of-earth-and-weather-images.md",
-      "title": "IBM’s AI has a new job: sorting through NASA’s giant stream of Earth and weather images",
-      "excerpt": "The artificial intelligence will also help sift through Earth science studies to answer questions. By Briley Lewis | Published Feb 10, 2023 6:00 AM EST ChatGPT’s cousin was just hired by NASA. On February 1, NASA and IBM announced a new partnership ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/science/nasa-ibm-ai-earth-science/",
-      "originalUrl": "https://www.popsci.com/science/nasa-ibm-ai-earth-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/02/09/Cloud-formation.jpg?auto=webp",
-          "width": 2000,
-          "height": 1102,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/science/nasa-ibm-ai-earth-science/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/nasa-ibm-ai-earth-science/?amp",
-      "publishedDateTime": "2023-02-10T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-cognitive-services-market-size-expected-to-reach-48-billion-by-2027.md",
-      "title": "Cognitive Services Market Size Expected To Reach $48 Billion By 2027",
-      "excerpt": "Major players in the cognitive services global market include IBM Corporation, Amazon Web Services, Inc., Google LLC, Nuance Communications, SAS Institute Inc., Microsoft Corporation, Attivio Inc ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105555592/Cognitive-Services-Market-Size-Expected-To-Reach-48-Billion-By-2027",
-      "originalUrl": "https://menafn.com/1105555592/Cognitive-Services-Market-Size-Expected-To-Reach-48-Billion-By-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-02/10/EP_cf0fdimage_story.jpeg",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-chatgpt-mania-3-stocks-to-buy-hand-over-fist.md",
-      "title": "ChatGPT Mania: 3 Stocks to Buy Hand Over Fist",
-      "excerpt": "Intelligent Cloud, which houses Azure, is already big business for Microsoft ... Microsoft's relationship with ChatGPT and Alphabet's longtime focus on AI and machine learning, investors should not count out fellow tech giant Apple. Apple has not touted ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/10/chatgpt-mania-3-stocks-to-buy-hand-over-fist/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/10/chatgpt-mania-3-stocks-to-buy-hand-over-fist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/719980/artificial-intelligence-ai-on-cloud-circuit-board-1.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1146,7 +1026,127 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-global-artificial-intelligence-in-cancer-diagnostics-market-report-2022-to-2030-players-include-pfizer-therapixel-sophia-genetics-and-freenome.md",
+      "title": "Global Artificial Intelligence in Cancer Diagnostics Market Report 2022 to 2030: Players Include Pfizer, Therapixel, Sophia Genetics and Freenome",
+      "excerpt": "The global Artificial Intelligence in Cancer Diagnostics Market size is expected to reach USD 4,841.84 million by 2030. The report gives a detailed insight into current market dynamics and provides an analysis of future market growth.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/14/9760571.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/14/9760571.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-global-x-robotics-artificial-intelligence-etf.md",
+      "title": "Global X Robotics & Artificial Intelligence ETF",
+      "excerpt": "Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox, and more info about our products and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/quotes/BOTZ",
+      "originalUrl": "https://www.cnbc.com/quotes/BOTZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-new-ai-tool-guides-users-away-from-incendiary-language.md",
+      "title": "New AI tool guides users away from incendiary language",
+      "excerpt": "To help identify when tense online debates are inching toward irredeemable meltdown, Cornell University researchers have developed an artificial intelligence tool that can track these conversations in real-time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/979744",
+      "originalUrl": "https://www.eurekalert.org/news-releases/979744",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,284 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-23-healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence.md",
+      "title": "Healthcare May Be The Ultimate Proving Ground For Artificial Intelligence",
+      "excerpt": "Healthcare may lag other industries in artificial intelligence (AI) adoption, but may be the ultimate proving ground where AI can really demonstrate its worth across many dimensions — introducing greater productivity and responsiveness into a sector ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-02-22T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-artificial-intelligence-in-fashion.md",
+      "title": "Artificial Intelligence In Fashion",
+      "excerpt": "As an AI enthusiast, I can tell you that artificial intelligence is quickly becoming a game-changer in the fashion industry. From design to marketing and sales, AI is affecting everything and offering businesses new opportunities to streamline their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/",
+      "publishedDateTime": "2023-02-21T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-5-of-the-best-online-artificial-intelligence-courses-available-for-free-this-week.md",
+      "title": "5 of the best online artificial intelligence courses available for free this week",
+      "excerpt": "All products featured here are independently selected by our editors and writers. If you buy something through links on our site, Mashable may earn an affiliate commission. FREE COURSES ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/deals/free-online-artificial-intelligence-courses",
+      "originalUrl": "https://mashable.com/uk/deals/free-online-artificial-intelligence-courses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/00Wht1AXFtkt7aWPDRqCK1t/hero-image.fill.size_1200x675.v1676893321.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-20T22:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-roger-c-schank-theorist-of-artificial-intelligence-dies-at-76.md",
+      "title": "Roger C. Schank, Theorist of Artificial Intelligence, Dies at 76",
+      "excerpt": "By Steve Lohr Roger C. Schank, a scientist who made influential contributions to the field of artificial intelligence and then, as an academic, author and entrepreneur, focused on how people learn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
+      "originalUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/17Schank-czhl-print1/17Schank-czhl-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
+      "publishedDateTime": "2023-02-20T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-20-tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software.md",
+      "title": "Tesla Recall Hits Nearly 363,000 Cars With “Full Self-Driving” Software",
+      "excerpt": "Tesla is recalling almost 363,000 vehicles due to concerns about its Full Self-Driving Beta software The National Highway Traffic Safety Administration posted the recall notice on their website last Thursday Tesla will address the recall with an over-the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/amp/",
+      "publishedDateTime": "2023-02-20T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-20-artificial-intelligence-is-booming-but-how-will-it-impact-your-career.md",
+      "title": "Artificial Intelligence is booming – but how will it impact your career?",
+      "excerpt": "Artificial Intelligence is the latest technology buzz topic thanks to the boom of ChatGPT. The AI-powered chatbot, created by Microsoft-backed OpenAI, has both impressed and shocked with its ability to answer questions, write essays and even argue legal cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107196527-1676650643558-gettyimages-1394953811-_dsc9542-gi.jpeg?v=1676894627",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
+      "publishedDateTime": "2023-02-20T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-19-driverless-car-market-2028-by-product-type-end-user-capacity-and-geography.md",
       "title": "Driverless Car Market 2028 By Product Type, End User, Capacity and Geography",
       "excerpt": "The driverless car is also known as autonomous car, robotic car or self-driving car. According to our latest research, the global Driverless Car market size will reach USD 15190 million in 2028, growing at a CAGR of 17.9Percent over the analysis period ...",
@@ -62,7 +340,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256626",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -190,6 +468,58 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-how-many-people-have-actually-been-killed-by-self-driving-cars.md",
+      "title": "How Many People Have Actually Been Killed By Self-Driving Cars?",
+      "excerpt": "When it comes to self-driving cars, the Society of Automotive Engineers recognizes six levels of autonomous driving: from level 0, at which a vehicle has no driver assistance of any kind ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1202594/how-many-people-have-actually-been-killed-by-self-driving-cars/",
+      "originalUrl": "https://www.slashgear.com/1202594/how-many-people-have-actually-been-killed-by-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/how-many-people-have-actually-been-killed-by-self-driving-cars/l-intro-1676585301.jpg",
+          "width": 1600,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T23:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -430,7 +760,8 @@
         "Microsoft AI",
         "AI in Autos",
         "AI in Robotics",
-        "AI Hardware"
+        "AI Hardware",
+        "AI in Healthcare"
       ]
     },
     {
@@ -519,6 +850,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving.md",
+      "title": "Tesla recalling nearly 363,000 vehicles equipped with ‘Full Self-Driving’",
+      "excerpt": "Tesla is recalling all 363,000 US vehicles with its so-called “Full Self Driving” driver assist software due to safety risks, another blow to the feature that is central to the automaker’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/02/16/business/tesla-fsd-recall/index.html",
+      "originalUrl": "https://www.cnn.com/2023/02/16/business/tesla-fsd-recall/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230109114804-tesla-car-steering-wheel-autopilot-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/02/16/business/tesla-fsd-recall/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/16/business/tesla-fsd-recall/index.html",
+      "publishedDateTime": "2023-02-16T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1059,388 +1442,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-amazons-self-driving-car-shuttles-people-on-public-roads-for-the-first-time.md",
-      "title": "Amazon’s Self-Driving Car Shuttles People on Public Roads for the First Time",
-      "excerpt": "The company said the robotaxi trip marks the first time that a vehicle designed without human controls has carried passengers on a public road.",
-      "sourceUrl": null,
-      "webUrl": "https://www.supplychainbrain.com/articles/36633-amazons-self-driving-car-shuttles-people-on-public-roads-for-the-first-time",
-      "originalUrl": "https://www.supplychainbrain.com/articles/36633-amazons-self-driving-car-shuttles-people-on-public-roads-for-the-first-time",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supplychainbrain.com/ext/resources/2023/02/13/Amazon-SelfDriving-BLOOMBERG.jpg?height=635&t=1676352059&width=1200",
-          "width": 953,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain",
-        "domain": "supplychainbrain.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-amazons-new-self-driving-robotaxis-may-soon-be-hitting-public-roads.md",
-      "title": "Amazon's new self-driving robotaxis may soon be hitting public roads",
-      "excerpt": "Amazon's self-driving vehicle unit known as Zoox has successfully tested its robotaxi on a public road using employees as passengers.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7news.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
-      "originalUrl": "https://abc7news.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/12811548_amazon-robo-taxis-TN-img.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7news.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
-      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
-      "publishedDateTime": "2023-02-13T20:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7 San Francisco",
-        "domain": "abc7news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk.md",
-      "title": "Configure an AWS DeepRacer environment for training and log analysis using the AWS CDK",
-      "excerpt": "This post is co-written by Zdenko Estok, Cloud Architect at Accenture and Sakar Selimcan, DeepRacer SME at Accenture. With the increasing use of artificial intelligence (AI) and machine learning (ML) for a vast majority of industries (ranging from healthcare to insurance, from manufacturing to marketing),",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/13/configure-an-aws-deepracer-environment.jpg",
-          "width": 1567,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T10:23:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-vin-diesel-says-a-self-driving-car-company-boss-is-the-bad-guy-in-fast-x-sequel.md",
-      "title": "Vin Diesel says a self-driving car company boss is the bad guy in 'Fast X' sequel",
-      "excerpt": "Vin Diesel revealed that part of the plot to the \"Fast X\" sequel involves the owner of a company developing artificial intelligence and self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel",
-      "originalUrl": "https://www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/02/1200/675/diesel.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/vin-diesel-self-driving-car-company-boss-bad-guy-fast-x-sequel.amp",
-      "publishedDateTime": "2023-02-13T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-9-jobs-most-and-least-likely-to-be-taken-over-by-robots.md",
-      "title": "9 Jobs Most (and Least) Likely To Be Taken Over by Robots",
-      "excerpt": "According to Technology Review, artificial intelligence and chatbots are already making customers ... \"Humans will gradually be eased out of these roles as regulations allow driverless vehicles on the roads,\" says Rohit Talwar, CEO of Fast Future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/9-jobs-most-least-likely-130007309.html",
-      "originalUrl": "https://www.aol.com/finance/9-jobs-most-least-likely-130007309.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/HgSGudGKE6.64EqVxbQb.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/f474351dcf015f60b6c6baa27443406d",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence.md",
-      "title": "Tech is exciting again! Why? Thank the sudden surge in artificial intelligence",
-      "excerpt": "If the introduction of smartphones defined the 2000s, much of the 2010s in Silicon Valley was defined by the ambitious technologies that didn't fully arrive, such as self-driving cars. Artificial intelligence may be different.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/02/13/tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence/",
-      "originalUrl": "https://wraltechwire.com/2023/02/13/tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg",
-          "width": 772,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/02/13/tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/02/13/tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence/?amp=1",
-      "publishedDateTime": "2023-02-13T02:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-voice-actors-warn-artificial-intelligence-could-replace-them-cut-industry-jobs-and-pay.md",
-      "title": "Voice actors warn artificial intelligence could replace them, cut industry jobs and pay",
-      "excerpt": "Actors are sounding the alarm on new artificial intelligence (AI) technology that creates replicas of their voices and could replace them without proper compensation. According to a report by VICE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay",
-      "originalUrl": "https://www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/32c1b574-IMG_0282_Facetune_12-01-2022-10-53-23.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay.amp",
-      "publishedDateTime": "2023-02-12T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-12-super-bowl-ad-slams-teslas-full-self-driving-tech.md",
-      "title": "Super Bowl ad slams Tesla’s ‘Full Self-Driving’ tech",
-      "excerpt": "The ad cost $598,000, a Dawn Project spokesperson told CNN. It shows a Tesla Model 3, which allegedly has the Full Self-Driving mode turned on, running over a child-sized dummy on a school crosswalk, and then a fake baby in a stroller, in a series of tests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
-      "originalUrl": "https://www.cnn.com/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 479,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230125081548-telsa-logo-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
-      "publishedDateTime": "2023-02-12T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

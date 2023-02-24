@@ -23,22 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "Google Stock: Search Is On The Precipice Of Multi-Decade Disruption"
-    excerpt: "Despite the mishap with Bard, it would be a mistake to think Google does not command a place of leadership right now in generative AI. Google was one of the first tech companies to focus and invest on AI and natural language processing (NLP)."
-    publishedDateTime: 2023-02-17T05:18:00Z
-    webUrl: "https://www.forbes.com/sites/bethkindig/2023/02/17/google-stock-search-is-on-the-precipice-of-multi-decade-disruption/"
-    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2023/02/17/google-stock-search-is-on-the-precipice-of-multi-decade-disruption/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/02/17/google-stock-search-is-on-the-precipice-of-multi-decade-disruption/amp/"
+  - title: "2 Top AI Stocks Ready for a Bull Run"
+    excerpt: "Nvidia announced in November that it was teaming up with Microsoft to build a massive cloud AI computer, a multiyear partnership that will take advantage of Microsoft's Azure cloud infrastructure and Nvidia's GPUs. The move should help ensure that Nvidia ..."
+    publishedDateTime: 2023-02-19T16:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/19/2-top-ai-stocks-ready-for-a-bull-run/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: The Motley Fool
+      domain: fool.com
+    quality: 73
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ef0fd6a318f038b4171308/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 798
+      - url: "https://g.foolcdn.com/editorial/images/721046/artificial-intelligence-investing-algorithms.jpg"
+        width: 8660
+        height: 5773
         isCached: true
+  - title: "Top 10 AI Stocks To Buy Now For Good Returns In Future"
+    excerpt: "Artificial Intelligence has become an amazingly integral part of our ... Moreover, Google uses AI in its self-driving car project., Waymo. The company is a blend of multiple companies and mainly owns DeepMind. Deep Mind is an AI research company that ..."
+    publishedDateTime: 2023-02-21T12:49:00Z
+    webUrl: "https://www.techjuice.pk/top-10-ai-stocks-to-buy-now-for-good-returns-in-future/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 19
 
 secured: "AhI6PrqkarNId7cjkKHCIRFQdGuqQNxoJ+At7KnCN2gQ4GTdOSUhgmonTUZ8AlwOb+c3qa7weZHlYqyqYeEg+W5iFBPcC2vHJmMDdglbGj448WkkYf6B9fj03qDCQkQOjQ7V0SgWW76M7kCKWfjPtis8Kdq3BbjbggEsJwo9PoSGpXj2CAavWBJmrv+8qqLH6Ppfl3J+YfS+zIL8Ziq2QVoulcxnJWvgbKhsIQdvXG9hgVUT+v6NQ2/fobrvRqiV4bgMQQ+/XEH1lcZDVSLecT0XT5cQlHwidOMkkVmEKDcZc3gc9pq1+Y05PJ0icPiLHXDH/NsUEiM1BIJZyFAn0KNXFoLL2rjI161O+NwOUeg=;bwr0OF4pNRr+nlbJeb0DdA=="
 ---

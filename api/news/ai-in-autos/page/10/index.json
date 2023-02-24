@@ -2,6 +2,569 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-21-a-vision-for-self-driving-ops-and-how-observability-can-help-us-get-there.md",
+      "title": "A Vision For Self-Driving Ops, And How Observability Can Help Us Get There",
+      "excerpt": "Though self-driving ops are presently in the realm of science fiction (and some might say fantasy for overworked ITOps, DevOps and cloud teams), we’re beginning to see glimpses of what a future driven by autonomous operations might look like.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/12/21/a-vision-for-self-driving-ops-and-how-observability-can-help-us-get-there/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/12/21/a-vision-for-self-driving-ops-and-how-observability-can-help-us-get-there/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a1ff3d837ba9ad3ec9d419/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/12/21/a-vision-for-self-driving-ops-and-how-observability-can-help-us-get-there/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/12/21/a-vision-for-self-driving-ops-and-how-observability-can-help-us-get-there/amp/",
+      "publishedDateTime": "2022-12-21T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers.md",
+      "title": "How Artificial Intelligence Is Transforming Biopharma (And What It Means For Marketers)",
+      "excerpt": "Artificial intelligence has the potential to change the way the world currently approaches medicine. These developments will also change the way biopharma marketers need to approach their work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63a0aafac894b4f0c7e82127/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/12/20/how-artificial-intelligence-is-transforming-biopharma-and-what-it-means-for-marketers/amp/",
+      "publishedDateTime": "2022-12-20T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-autonomy-is-not-a-good-reason-to-buy-nio-or-xpeng.md",
+      "title": "Autonomy Is Not A Good Reason To Buy NIO Or XPeng",
+      "excerpt": "Some seem to think NIO and XPeng are autonomy leaders. Read why I believe that isn't the case and rate the NIO and XPEV stocks a Sell.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4565390-nio-or-xpeng-stock-autonomy-technology-not-good-reason-buy",
+      "originalUrl": "https://seekingalpha.com/article/4565390-nio-or-xpeng-stock-autonomy-technology-not-good-reason-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392926948/image_1392926948.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-layoffs-are-coming-for-self-driving-truck-company-tusimple.md",
+      "title": "Layoffs are coming for self-driving truck company TuSimple",
+      "excerpt": "Autonomous trucking technology company TuSimple reportedly plans to lay off a chunk of its staff as early as this week.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/",
+      "originalUrl": "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck-close-up.jpg?resize=1200,801",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/",
+      "publishedDateTime": "2022-12-19T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-the-backstory-of-chatgpt-creator-openai.md",
+      "title": "The Backstory of ChatGPT Creator OpenAI",
+      "excerpt": "ChatGPT, the artificial-intelligence program captivating Silicon Valley with its sophisticated prose, had its origin three years ago, when technology investor Sam Altman became chief executive of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chatgpt-creator-openai-pushes-new-strategy-to-gain-artificial-intelligence-edge-11671378475",
+      "originalUrl": "https://www.wsj.com/articles/chatgpt-creator-openai-pushes-new-strategy-to-gain-artificial-intelligence-edge-11671378475",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-687910/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-18T14:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future.md",
+      "title": "AI Timelines: What Do Experts in Artificial Intelligence Expect for the Future?",
+      "excerpt": "Many AI experts believe there is a chance human-level artificial intelligence will arrive within the next decades—some believe it will exist much sooner.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/",
+      "originalUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/12/deepmind-unsplash-ai.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/12/18/ai-timelines-what-do-experts-in-artificial-intelligence-expect-for-the-future/?amp=1",
+      "publishedDateTime": "2022-12-18T13:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-18-how-generative-ai-will-change-all-knowledge-work.md",
+      "title": "How Generative AI Will Change All Knowledge Work",
+      "excerpt": "The acceleration of applications around generative AI is showing us how quickly and broadly our work will change.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/",
+      "originalUrl": "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2022/12/image-7.png?w&#x3D;1600",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-18T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-need-a-ride-to-or-from-sky-harbor-waymo-driverless-cars-now-open-to-everyone-for-trip.md",
+      "title": "Need a ride to or from Sky Harbor? Waymo driverless cars now open to everyone for trip",
+      "excerpt": "Friday's announcement not only opens that service to anyone who wants a driverless car ride but also includes nearly doubling the size of the Phoenix service territory. All service to the airport ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/money/business/tech/2022/12/16/waymo-offers-driverless-rides-to-phoenix-sky-harbor-airport-for-all/69730936007/",
+      "originalUrl": "https://www.azcentral.com/story/money/business/tech/2022/12/16/waymo-offers-driverless-rides-to-phoenix-sky-harbor-airport-for-all/69730936007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/12/15/PPHX/349f0cbd-58b4-4a61-9d9a-0a03d52f8a7d-Waymo_airport.jpg?auto=webp&crop=6719,3780,x0,y341&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T16:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZ Central",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-phoenix-airport-1st-to-offer-self-driving-ride-service-waymo.md",
+      "title": "Phoenix airport 1st to offer self-driving ride service Waymo",
+      "excerpt": "Phoenix Mayor Kate Gallego arrives in a self-driving vehicle, Friday, Dec. 16, 2022, at the Sky Harbor International Airport Sky Train facility in Phoenix. Mayor Gallego a",
+      "sourceUrl": null,
+      "webUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
+      "originalUrl": "https://www.stamfordadvocate.com/living/article/Phoenix-airport-1st-to-offer-self-driving-ride-17659023.php?src=sthplifestyle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "stamfordadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-how-artificial-intelligence-could-be-used-to-fight-wildfires.md",
+      "title": "How artificial intelligence could be used to fight wildfires",
+      "excerpt": "A tech company is developing a new type of artificial intelligence to fight wildfires by using predictive analysis before the fires even start and AI logistics to help contain them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "originalUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/how-artificial-intelligence-could-be-used-to-fight-wildfires.amp",
+      "publishedDateTime": "2022-12-16T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "q13fox",
+        "domain": "q13fox.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-gm-units-self-driving-taxis-are-subject-of-us-safety-investigation.md",
+      "title": "G.M. Unit’s Self-Driving Taxis Are Subject of U.S. Safety Investigation",
+      "excerpt": "The National Highway Traffic Safety Administration is looking into unexpected braking by cars operated by Cruise, a part of General Motors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.html",
+      "originalUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/16/multimedia/16CRUISE-1-b179/16CRUISE-1-b179-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.amp.html",
+      "publishedDateTime": "2022-12-16T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-17-waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area.md",
+      "title": "Waymo opens Phoenix airport rides to the public, doubles downtown service area",
+      "excerpt": "Waymo will also be doubling its service area in downtown Phoenix following an initial launch of driverless rides in the area to the public last month, the company said. The developments come a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/",
+      "originalUrl": "https://techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Waymo_Sky-Harbor_Public.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/amp/",
+      "publishedDateTime": "2022-12-16T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-17-waymos-driverless-robotaxis-are-now-doing-airport-trips-in-phoenix.md",
       "title": "Waymo’s driverless robotaxis are now doing airport trips in Phoenix",
       "excerpt": "Waymo is sending its fully driverless cars to handle some of the trickiest types of passenger pickups you can muster: airport trips. The company announced that customers flying in and out of ...",
@@ -792,561 +1355,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-investing-in-ai-top-canadian-artificial-intelligence-stocks-in-2022.md",
-      "title": "Investing in AI: Top Canadian Artificial Intelligence Stocks in 2022",
-      "excerpt": "Machine learning is a branch of artificial intelligence. It refers to a software’s ability to self-improve by using old data to interpret new information. A self-driving car, for example ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.ca/investing/top-canadian-artificial-intelligence-stocks/",
-      "originalUrl": "https://www.fool.ca/investing/top-canadian-artificial-intelligence-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool Canada",
-        "domain": "fool.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-could-artificial-intelligence-help-us-build-a-technological-world-that-is-more-ethical.md",
-      "title": "Could artificial intelligence help us build a technological world that is more ethical?",
-      "excerpt": "A robot may not injure a human being or, through inaction, allow a human being to come to harm. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.html",
-      "originalUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/could-artificial-intel.jpg",
-          "width": 883,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.amp",
-      "publishedDateTime": "2022-12-13T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-first-ever-ai-video-platform-integrating-text-generated-image-and-animation.md",
-      "title": "First-Ever AI Video Platform Integrating Text-Generated Image And Animation",
-      "excerpt": "Tel Aviv-based DI-D released today the first multimodal generative AI video platform to combine text, image and animation in one interface. The self-service video platform integrates D-ID’s proprietary generative AI technology with GPT-3 from Open AI and Stable Diffusion from Stability AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639785f66713c491c4620eb9/0x0.jpg?format=jpg&crop=2860,1609,x0,y16,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/12/13/first-ever-ai-video-platform-integrating-text-generated-image-and-animation/amp/",
-      "publishedDateTime": "2022-12-13T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-arcimoto-to-develop-driverless-evs-for-tourism-rentals-with-faction-and-gocar-tours.md",
-      "title": "Arcimoto to develop driverless EVs for tourism rentals with Faction and GoCar Tours",
-      "excerpt": "Arcimoto (NASDAQ:FUV) partners with Faction Technology and GoCar Tours to develop up to 310 driverless electric vehicles, powered by Faction’s DriveLink and TeleAssist technologies and ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3916444-arcimoto-to-develop-driverless-evs-for-tourism-rentals-with-faction-and-gocar-tours",
-      "originalUrl": "https://seekingalpha.com/news/3916444-arcimoto-to-develop-driverless-evs-for-tourism-rentals-with-faction-and-gocar-tours",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T23:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-tesla-our-failure-to-make-actual-self-driving-cars-is-not-fraud.md",
-      "title": "Tesla: Our ‘failure’ to make actual self-driving cars ‘is not fraud’",
-      "excerpt": "Tesla CEO Elon Musk has said numerous times since 2015 that Tesla cars would be entirely self-driving in two years, or less. But years after his self-imposed deadlines have blown by, it still hasn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
-      "originalUrl": "https://www.cnn.com/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221212163026-tesla-car-0630-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/12/business/tesla-fsd-autopilot-lawsuit/index.html",
-      "publishedDateTime": "2022-12-12T22:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability.md",
-      "title": "Amid controversy and emerging regulations around AI for talent management, Beamery emphasizes explainability",
-      "excerpt": "Helping bring explainability to AI in talent management, Beamery announced it has raised $50 million in a series D round of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
-      "originalUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/09/now-hiring-e1670889718739.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/amid-controversy-and-emerging-regulations-around-ai-for-talent-management-beamery-emphasizes-explainability/amp/",
-      "publishedDateTime": "2022-12-12T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-artificial-intelligence-ai-in-military-market-outlook-2022-and-forecast-to-2030-by-boeing-bae-systems-caci-international.md",
-      "title": "Artificial Intelligence (AI) in Military Market Outlook 2022 and Forecast to 2030 | By -Boeing, BAE Systems, CACi International",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Dec 13, 2022 (Heraldkeepers) -- New Jersey, United States- The Artificial Intelligence (AI) in Military market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-military-market-outlook-2022-and-forecast-to-2030-by--boeing-bae-systems-caci-international-2022-12-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-military-market-outlook-2022-and-forecast-to-2030-by--boeing-bae-systems-caci-international-2022-12-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-artificial-intelligence-for-new-drug-discovery.md",
-      "title": "Artificial Intelligence for new drug discovery",
-      "excerpt": "The world is making rapid progress in the areas of Big Data, Artificial Intelligence and Machine Learning. These are the core drivers of what many analysts have come to refer to as the Fourth ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenationonlineng.net/artificial-intelligence-for-new-drug-discovery/",
-      "originalUrl": "https://thenationonlineng.net/artificial-intelligence-for-new-drug-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nation-media-assets.storage.googleapis.com/wp-content/uploads/2022/12/12223850/intellegence.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Nation Newspaper",
-        "domain": "thenationonlineng.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-tesla-ordered-to-upgrade-self-driving-computer-for-free-due-to-false-advertising.md",
-      "title": "Tesla ordered to upgrade self-driving computer for free due to ‘false advertising’",
-      "excerpt": "A judge has ordered Tesla to upgrade a customer's self-driving computer for free in order to subscribe to Tesla's Full Self-Driving program.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/",
-      "originalUrl": "https://electrek.co/2022/12/12/tesla-ordered-upgrade-self-driving-computer-for-free-false-advertising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/01/elon-musk-twitter1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T14:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.md",
-      "title": "RoadRunner uses artificial intelligence to revamp waste processing",
-      "excerpt": "CNBC's Diana Olick joins 'Power Lunch' to discuss a clean energy startup making moves to change recycling methods, the logistical considerations involved in waste management, and the value of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2022/12/12/roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.html",
-      "originalUrl": "https://www.cnbc.com/video/2022/12/12/roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107164843-16708745101670874507-27115159683-1080pnbcnews.jpg?v=1670875361&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-commercial-artificial-intelligence-market-2022-latest-innovations-future-technology-driving-factors-demand-over-the-worldwide-to-2028.md",
-      "title": "Commercial Artificial Intelligence Market 2022 – Latest Innovations, Future Technology, Driving Factors & Demand over the Worldwide to 2028",
-      "excerpt": "The Commercial Artificial Intelligence Market Report Included Analysis by Key Players - IBM, Google, Microsoft, AWS, General Vision & More. Pune, Maharashtra -- -- 12/12/2022 -- C",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-12-commercial-artificial-intelligence-market-2022-latest-innovations-future-technology-driving-factors-and-demand-over-the-worldwide-to-2028",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/sbwire-2022-12-12-commercial-artificial-intelligence-market-2022-latest-innovations-future-technology-driving-factors-and-demand-over-the-worldwide-to-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-is-ai-a-risk-to-creativity-the-answer-is-not-so-simple.md",
-      "title": "Is AI A Risk To Creativity? The Answer Is Not So Simple",
-      "excerpt": "As AI continues to advance, some may be wondering whether or not AI is a risk or a resource. But the answer isn't so simple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/is-ai-a-risk-to-creativity-the-answer-is-not-so-simple/439525",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/is-ai-a-risk-to-creativity-the-answer-is-not-so-simple/439525",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1670516007-GettyImages-1359993111.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

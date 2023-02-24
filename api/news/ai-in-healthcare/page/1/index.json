@@ -2,6 +2,147 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-23-healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence.md",
+      "title": "Healthcare May Be The Ultimate Proving Ground For Artificial Intelligence",
+      "excerpt": "Healthcare may lag other industries in artificial intelligence (AI) adoption, but may be the ultimate proving ground where AI can really demonstrate its worth across many dimensions — introducing greater productivity and responsiveness into a sector ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-02-22T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-artificial-intelligence-delivers-its-latest-innovation.md",
+      "title": "Artificial Intelligence Delivers Its Latest Innovation",
+      "excerpt": "\"Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.\" -Ginni Rometty, Executive Chairman of IBM Artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
+      "originalUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2198602/computer-code.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
+      "publishedDateTime": "2023-02-22T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.md",
+      "title": "University of Alberta researchers eye artificial intelligence to weigh opioid risks",
+      "excerpt": "Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug overdose crisis across Canada. While doctors have a set protocol to identify patients at risk of opioid addiction,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/",
+      "originalUrl": "https://www.theglobeandmail.com/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/PeNMGAK8TsbCOnEz6CqWoZqzeO8=/1200x1088/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/IUOYJSSAI5OJVPD3ESNQWGWM3Q.jpg",
+          "width": 1200,
+          "height": 1088,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theglobeandmail.com/amp/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/",
+      "cdnAmpWebUrl": "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/",
+      "publishedDateTime": "2023-02-20T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-20-artificial-intelligence-is-booming-but-how-will-it-impact-your-career.md",
       "title": "Artificial Intelligence is booming – but how will it impact your career?",
       "excerpt": "Artificial Intelligence is the latest technology buzz topic thanks to the boom of ChatGPT. The AI-powered chatbot, created by Microsoft-backed OpenAI, has both impressed and shocked with its ability to answer questions, write essays and even argue legal cases.",
@@ -10,7 +151,7 @@
       "originalUrl": "https://www.cnbc.com/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -50,7 +191,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -193,6 +335,106 @@
       ]
     },
     {
+      "path": "_news/2023-02-18-funding-new-research-to-operationalize-safety-in-artificial-intelligence.md",
+      "title": "Funding New Research to Operationalize Safety in Artificial Intelligence",
+      "excerpt": "The Center for Advancing Safety of Machine Intelligence (CASMI) at Northwestern University ... The development of intelligent decision-support tools (DSTs) in the healthcare industry often excludes patients from the process. Maia Jacobs, Slivka Professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mccormick.northwestern.edu/news/articles/2023/02/funding-new-research-to-operationalize-safety-in-artificial-intelligence/",
+      "originalUrl": "https://www.mccormick.northwestern.edu/news/articles/2023/02/funding-new-research-to-operationalize-safety-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mccormick.northwestern.edu/images/news/2023/funding-new-research-to-operationalize-safety-in-artificial-intelligence-diakopoulos-helberger.jpg",
+          "width": 400,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-18T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mccormick.northwestern.edu",
+        "domain": "northwestern.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
+      "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
+      "excerpt": "There’s more than one way to position your portfolio to benefit from a continuing AI revolution. You can invest in companies that build AI hardware, develop AI solutions or sell AI tools. Or, you can invest in companies that use AI to make better products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T13:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "AI Hardware",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-is-artificial-intelligence-good-for-society.md",
       "title": "Is Artificial Intelligence Good For Society?",
       "excerpt": "Artificial intelligence (AI) has captivated the world, with exciting new publicly available AI-driven tools like ChatGPT, Dall-E, a new version of Microsoft’s Bing search engine and an ego-bruised Google trying to catch up. Someone with basic computer ...",
@@ -243,6 +485,58 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-artera-announces-positive-results-around-its-multimodal-artificial-intelligence-mmai-prognostic-biomarker.md",
+      "title": "Artera Announces Positive Results Around Its Multimodal Artificial Intelligence (MMAI) Prognostic Biomarker",
+      "excerpt": "Artera, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artera-announces-positive-results-around-its-multimodal-artificial-intelligence-mmai-prognostic-biomarker-2023-02-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artera-announces-positive-results-around-its-multimodal-artificial-intelligence-mmai-prognostic-biomarker-2023-02-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -545,6 +839,49 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-heres-why-ge-healthcare-has-ma-making-fever-in-2023.md",
+      "title": "Here’s Why GE HealthCare Has M&A-Making Fever in 2023",
+      "excerpt": "On Thursday, GE HealthCare announced it has signed an agreement to acquire Caption Health, a private company that specializes in using artificial intelligence to assist in conducting ultrasound scans. GE HealthCare did not disclose financial terms of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/heres-why-ge-healthcare-has-ma-making-fever-2023",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/heres-why-ge-healthcare-has-ma-making-fever-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_2023-2-9-195557.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-15T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1117,273 +1454,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-study-finds-how-artificial-intelligence-with-infrared-imaging-improve-colon-cancer-therapy.md",
-      "title": "Study finds how artificial intelligence with infrared imaging improve colon cancer therapy",
-      "excerpt": "Over the last several years, tremendous progress in the field of therapy alternatives has substantially enhanced the prospects of cure for individuals with colon cancer. However, these novel techniques,",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/science-environment/2354845-study-finds-how-artificial-intelligence-with-infrared-imaging-improve-colon-cancer-therapy",
-      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2354845-study-finds-how-artificial-intelligence-with-infrared-imaging-improve-colon-cancer-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-global-artificial-intelligence-in-cancer-diagnostics-market-report-2022-to-2030-players-include-pfizer-therapixel-sophia-genetics-and-freenome.md",
-      "title": "Global Artificial Intelligence in Cancer Diagnostics Market Report 2022 to 2030: Players Include Pfizer, Therapixel, Sophia Genetics and Freenome",
-      "excerpt": "The global Artificial Intelligence in Cancer Diagnostics Market size is expected to reach USD 4,841.84 million by 2030. The report gives a detailed insight into current market dynamics and provides an analysis of future market growth.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/02/14/9760571.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/02/14/9760571.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-voice-actors-warn-artificial-intelligence-could-replace-them-cut-industry-jobs-and-pay.md",
-      "title": "Voice actors warn artificial intelligence could replace them, cut industry jobs and pay",
-      "excerpt": "Actors are sounding the alarm on new artificial intelligence (AI) technology that creates replicas of their voices and could replace them without proper compensation. According to a report by VICE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay",
-      "originalUrl": "https://www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/32c1b574-IMG_0282_Facetune_12-01-2022-10-53-23.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/voice-actors-artificial-intelligence-replace-cut-industry-jobs-pay.amp",
-      "publishedDateTime": "2023-02-12T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata.md",
-      "title": "Artificial intelligence facilitates low-cost drug repurposing: GlobalData",
-      "excerpt": "(File) GlobalData, a data and analytics company, on Friday said that the contemporary drug repurposing techniques using advanced artificial intelligence (AI) are gaining traction in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/healthcare/healthtech/artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata/2978111/",
-      "originalUrl": "https://www.financialexpress.com/healthcare/healthtech/artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata/2978111/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/11/Pharma.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/healthcare/healthtech/artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata/2978111/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/artificial-intelligence-facilitates-low-cost-drug-repurposing-globaldata/2978111/lite/",
-      "publishedDateTime": "2023-02-10T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence.md",
-      "title": "McGill University experts trace predict recurring lung cancer with artificial intelligence",
-      "excerpt": "Lung cancer is the leading cause of cancer-related deaths in Quebec and Canada, killing more individuals than prostate, colon and breast cancers combined. Thanks to tissue samples from almost 500 lung cancer patients,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/",
-      "originalUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/mcgill-university-experts-trace-predict-recurring-lung-cancer-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-02-08T20:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare.md",
-      "title": "Report Identifies Ethical Challenges, Risks with the Use of Artificial Intelligence in Healthcare",
-      "excerpt": "A recent report released by World Health Organisation (WHO), has identified the ethical challenges and risks with the use of Artificial Intelligence (AI) in healthcare. The report however gave six ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-artificial-intelligence-is-being-studied-to-improve-cancer-care.md",
-      "title": "Artificial Intelligence is being studied to improve cancer care",
-      "excerpt": "BOSTON - Artificial intelligence has been in the headlines a lot recently and there are two new ways it's being studied to help improve lung and breast cancer care. Lung cancer kills more people worldwide than the three next deadliest cancers combined ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/boston/news/artificial-intelligence-studied-improve-cancer-care/",
-      "originalUrl": "https://www.cbsnews.com/boston/news/artificial-intelligence-studied-improve-cancer-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T13:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

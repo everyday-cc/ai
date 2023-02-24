@@ -2,21 +2,21 @@
   "page": 41,
   "value": [
     {
-      "path": "_news/2023-01-23-artificial-insurance-how-machine-learning-is-transforming-underwriting.md",
-      "title": "Artificial Insurance? How Machine Learning Is Transforming Underwriting",
-      "excerpt": "“French AI startup firm Shift Technology incorporates this technology in their fraud prevention services, which have already processed over 77 million claims. The cognitive machine learning ...",
+      "path": "_news/2023-01-25-meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies.md",
+      "title": "Meet The Ukrainian Startup Using AI To Address Healthcare Emergencies",
+      "excerpt": "A Ukrainian startup is one of a handful of companies in the world using AI to detect a growing complication caused by diabetes.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10203-artificial-intelligence-insurance-industry.html",
+      "webUrl": "https://techround.co.uk/interviews/meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies/",
+      "originalUrl": "https://techround.co.uk/interviews/meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04073124/audit_andrei_r_getty.jpg",
-          "width": 2121,
-          "height": 1414,
+          "url": "https://techround.co.uk/wp-content/uploads/2023/01/max-kukurudziak-qbc3Zmxw0G8-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1709,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "ampWebUrl": "https://techround.co.uk/interviews/meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/interviews/meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies/amp/",
+      "publishedDateTime": "2023-01-25T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
+        "name": "TechRound",
+        "domain": "techround.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,27 +40,26 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
         "AI",
-        "Machine Learning"
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2023-01-23-artificial-intelligence-and-how-it-may-change-the-world.md",
-      "title": "Artificial Intelligence and how it may change the world",
-      "excerpt": "He (or she) will step forward and take over the procedure from the robot. The next step in the development of artificial intelligence, AI, is to have machines develop conscientiousness.",
+      "path": "_news/2023-01-25-mysterious-green-comet-nears-earth-revealing-secrets-of-time-and-space.md",
+      "title": "Mysterious Green Comet Nears Earth, Revealing Secrets of Time and Space",
+      "excerpt": "Then we look to see if there is an object that moves from image to image ... changing the constellation beyond recognition. Earth's rotation will have slowed, adding one second to each day. Niagara Falls will have eroded into a meandering waterway.",
       "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world",
-      "originalUrl": "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world",
+      "webUrl": "https://www.newsweek.com/2023/02/10/mysterious-green-comet-nears-earth-revealing-secrets-time-space-1776272.html",
+      "originalUrl": "https://www.newsweek.com/2023/02/10/mysterious-green-comet-nears-earth-revealing-secrets-time-space-1776272.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://i.tribune.com.pk/media/images/1082218-ShahidJavedBurkiNew-1460302235/1082218-ShahidJavedBurkiNew-1460302235.jpg",
-          "width": 800,
-          "height": 600,
+          "url": "https://d.newsweek.com/en/full/2183677/fe-comets-04.jpg?w=600&q=75&f=e5c8cbdde6947dc81256588e718a2b8f",
+          "width": 600,
+          "height": 850,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,13 +67,65 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world?amp=1",
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "ampWebUrl": "https://www.newsweek.com/2023/02/10/mysterious-green-comet-nears-earth-revealing-secrets-time-space-1776272.html?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2023/02/10/mysterious-green-comet-nears-earth-revealing-secrets-time-space-1776272.html?amp=1",
+      "publishedDateTime": "2023-01-25T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-gas-leak-detection-robot.md",
+      "title": "Gas leak detection robot",
+      "excerpt": "In order enable an early detection of gas leaks, we wanted to build a big remote operated robot (on a low budget) to carry the required equipment.” “It should take advantage of cellular ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/gas-leak-detection-robot-24-01-2023/",
+      "originalUrl": "https://www.geeky-gadgets.com/gas-leak-detection-robot-24-01-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/01/gas-leak-detection-robot.jpg",
+          "width": 700,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -85,26 +136,25 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Autos"
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-01-23-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
-      "title": "Honda planning self-driving electric vehicle fitted with AI",
-      "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing. Honda ...",
+      "path": "_news/2023-01-25-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies.md",
+      "title": "How ‘killer robots’ can help us learn from mistakes made in AI policies",
+      "excerpt": "Finally, it is critical to consider oversight mechanisms at the start ... “killer robots,” we should not lose sight of the danger that poor processes create when deploying AI systems.",
       "sourceUrl": null,
-      "webUrl": "https://www.asahi.com/ajw/articles/14760121",
-      "originalUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "webUrl": "https://thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/",
+      "originalUrl": "https://thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://p.potaufeu.asahi.com/c996-p/picture/27207743/e21cf678151f1180730d954a38af462c.jpg",
-          "width": 660,
-          "height": 453,
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/01/San-Francisco-police-05212019.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -112,13 +162,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "ampWebUrl": "https://thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/amp/",
+      "publishedDateTime": "2023-01-24T23:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "朝日新聞社",
-        "domain": "asahi.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -128,17 +178,113 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-23-how-ai-and-automation-technology-can-help-accountants.md",
-      "title": "How AI and Automation Technology Can Help Accountants",
-      "excerpt": "The right way to strike a balance between human brainpower and modern technology involves utilizing artificial intelligence for aspects that make work easier for humans while allowing humans to use their unique brainpower in ways that AI cannot yet function.",
+      "path": "_news/2023-01-25-how-dangerous-are-chatgpt-and-natural-language-technology-for-cybersecurity.md",
+      "title": "How Dangerous Are ChatGPT And Natural Language Technology For Cybersecurity?",
+      "excerpt": "Generative artificial intelligence and natural language technology is advancing very quickly. Here, we take a look at how these technologies cheese will affect cyber security.",
       "sourceUrl": null,
-      "webUrl": "https://www.business.com/articles/ai-and-accounting/",
-      "originalUrl": "https://www.business.com/articles/ai-and-accounting/",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/25/how-dangerous-are-chatgpt-and-natural-language-technology-for-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/25/how-dangerous-are-chatgpt-and-natural-language-technology-for-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d0dd18e25181291f6e3aec/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/25/how-dangerous-are-chatgpt-and-natural-language-technology-for-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/25/how-dangerous-are-chatgpt-and-natural-language-technology-for-cybersecurity/amp/",
+      "publishedDateTime": "2023-01-24T22:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-daniel-calugar-shares-how-ai-protects-your-finance-account-from-fraud.md",
+      "title": "Daniel Calugar Shares How AI Protects Your Finance Account from Fraud",
+      "excerpt": "Financial fraud costs consumers, merchants, and big banks billions of dollars every year. It's not just the money that's stolen, either, investor Daniel Calugar says; it's the associated costs of trying to recover or to cover the money lost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2329852-daniel-calugar-shares-how-ai-protects-your-finance-account-from-fraud",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2329852-daniel-calugar-shares-how-ai-protects-your-finance-account-from-fraud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/24_01_2023_10_45_23_4107228.jpg?width=1280",
+          "width": 1280,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2329852-daniel-calugar-shares-how-ai-protects-your-finance-account-from-fraud?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2329852-daniel-calugar-shares-how-ai-protects-your-finance-account-from-fraud?amp",
+      "publishedDateTime": "2023-01-24T21:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton.md",
+      "title": "Alphabet-owned AI firm DeepMind shutters office in Canada's Edmonton",
+      "excerpt": "London-based DeepMind's Edmonton office is the only international site directly managed by the artificial intelligence firm, making it far more resource-intensive to operate, the spokesperson said.",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/alphabet-owned-ai-firm-deepmind-shutters-office-in-canadas-edmonton/97294835",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -148,11 +294,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "publishedDateTime": "2023-01-24T18:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business.com",
-        "domain": "business.com",
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -162,69 +308,26 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Google AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-23-how-to-differentiate-chatbots-from-practical-ai.md",
-      "title": "How to Differentiate Chatbots From Practical AI",
-      "excerpt": "“The machines are taking over!” For years, humans have been fascinated and repulsed in equal measure by artificial intelligence, or AI. Hollywood has capitalized on this intrigue by making movies showing the general devastation that might occur if ...",
+      "path": "_news/2023-01-25-ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029.md",
+      "title": "AI Medicine Software Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029",
+      "excerpt": "In 2023, Current AI Medicine Software Market Size | 2029 | Newest [102] Pages Report AI Medicine Software Market",
       "sourceUrl": null,
-      "webUrl": "https://www.business.com/articles/chabots-practical-ai/",
-      "originalUrl": "https://www.business.com/articles/chabots-practical-ai/",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-medicine-software-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 122,
       "tags": null,
       "images": [
         {
-          "url": "https://images.business.com/app/uploads/2022/03/23030209/shutterstock_674027740-3.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business.com",
-        "domain": "business.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-humanity-may-reach-singularity-within-just-7-years-trend-shows.md",
-      "title": "Humanity May Reach Singularity Within Just 7 Years, Trend Shows",
-      "excerpt": "is an AI’s ability to translate speech at the accuracy of a human. Language is one of the most difficult AI challenges, but a computer that could close that gap could theoretically show signs of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/technology/robots/a42612745/singularity-when-will-it-happen/",
-      "originalUrl": "https://www.popularmechanics.com/technology/robots/a42612745/singularity-when-will-it-happen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod/images/face-emerging-from-circuit-board-royalty-free-image-1674427158.jpg?crop=1.00xw:0.587xh;0,0.198xh&resize=1200:*",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 602,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -234,11 +337,203 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "publishedDateTime": "2023-01-24T17:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-cognitive-search-service-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029.md",
+      "title": "Cognitive Search Service Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029",
+      "excerpt": "In 2023, Current Cognitive Search Service Market Size | 2029 | Newest [120] Pages Report Cognitive Search Service",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-search-service-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-search-service-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2023-01-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026.md",
+      "title": "Data and AI Ethics Market Size 2023 Will Touch A New Level In The Upcoming Year 2026",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-big-bang-moment-for-artificial-intelligence-ai-can-now-write-for-itself.md",
+      "title": "'Big bang moment for artificial intelligence': AI can now write for itself",
+      "excerpt": "While many people may not think about it, artificial intelligence (AI) is a constant part of our lives, being used in apps to tailor our food choices and music tastes.",
+      "sourceUrl": null,
+      "webUrl": "https://atlantic.ctvnews.ca/big-bang-moment-for-artificial-intelligence-ai-can-now-write-for-itself-1.6244903",
+      "originalUrl": "https://atlantic.ctvnews.ca/big-bang-moment-for-artificial-intelligence-ai-can-now-write-for-itself-1.6244903",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/1/24/1_6244920.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/atlantic/2023/1/24/1_6244903.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/atlantic/2023/1/24/1_6244903.amp.html",
+      "publishedDateTime": "2023-01-24T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-chatgpt-ai-will-shape-the-world-on-a-scale-not-seen-since-the-iphone-revolution-says-openai-boss.md",
+      "title": "ChatGPT: AI will shape the world on a scale not seen since the iPhone revolution, says OpenAI boss",
+      "excerpt": "ChatGPT, the most advanced AI language model to date, has captured the public’s attention since it was launched in November last year.. It can write essays, articles and poems, translate text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2023/01/25/chatgpt-ai-will-shape-the-world-on-a-scale-not-seen-since-the-iphone-revolution-says-opena",
+      "originalUrl": "https://www.euronews.com/next/2023/01/25/chatgpt-ai-will-shape-the-world-on-a-scale-not-seen-since-the-iphone-revolution-says-opena",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -253,55 +548,12 @@
       ]
     },
     {
-      "path": "_news/2023-01-23-machine-learning-or-automation-whats-the-difference.md",
-      "title": "Machine Learning or Automation: What’s the Difference?",
-      "excerpt": "Machine learning is a rapidly developing subset of artificial intelligence that focuses on analyzing large data quantities, typically to make predictions. AI systems can’t truly think yet ...",
+      "path": "_news/2023-01-25-more-steps-moderate-physical-activity-cuts-dementia-cognitive-impairment-risk.md",
+      "title": "More steps, moderate physical activity cuts dementia, cognitive impairment risk",
+      "excerpt": "Mild cognitive impairment is an early stage of memory loss or thinking problems that is not as severe as dementias. According to the United States Department of Health and Human Services ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "originalUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04075911/1554238485.jpeg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-new-soft-robots-poised-to-be-more-agile-controlled.md",
-      "title": "New soft robots poised to be more agile, controlled",
-      "excerpt": "One of the virtues of untethered soft robots is their ability to mechanically adapt to their surroundings and tasks. Now they are poised to become even more agile and controlled. A team of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230123123319.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230123123319.htm",
+      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230125085831.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230125085831.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -311,7 +563,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "publishedDateTime": "2023-01-24T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Science Daily",
@@ -334,60 +586,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-23-self-driving-cars-reliability-challenges-solutions-and-social-adoption.md",
-      "title": "Self-Driving Cars: Reliability Challenges, Solutions, and Social Adoption",
-      "excerpt": "Manish Gupta is working on making self-driving cars, machine learning, and artificial intelligence safer and more reliable. (Image source: Manish Gupta) The strict reliability standards are critical for human safety and to help drive social acceptance of ...",
+      "path": "_news/2023-01-25-ted-lieu-and-a-robot-make-great-points-about-the-dangers-of-ai.md",
+      "title": "Ted Lieu and a robot make great points about the dangers of AI",
+      "excerpt": "The California Democrat used an op-ed in The New York Times — and words written by ChatGPT — to warn about the coming age of artificial intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
-      "originalUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
+      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-ai-robots-ted-lieu-rcna67282",
+      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-ai-robots-ted-lieu-rcna67282",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-the-double-edged-sword-of-ai-in-healthcare-cybersecurity.md",
-      "title": "The Double-Edged Sword of AI in Healthcare Cybersecurity",
-      "excerpt": "As artificial intelligence, or AI, grows in popularity for simplifying workflows and diagnosing patients, healthcare leaders need to understand that AI use is also increasing among cyberattackers. IBM defines AI as \"a field that combines computer science and robust datasets to enable problem-solving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcareinfosecurity.com/blogs/double-edged-sword-ai-in-healthcare-cybersecurity-p-3359",
-      "originalUrl": "https://www.healthcareinfosecurity.com/blogs/double-edged-sword-ai-in-healthcare-cybersecurity-p-3359",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://4a7efb2d53317100f611-1d7064c4f7b6de25658a4199efb34975.ssl.cf1.rackcdn.com/double-edged-sword-ai-in-healthcare-cybersecurity-showcase_image-6-p-3359.jpg",
-          "width": 860,
-          "height": 520,
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230124-ROB-Ted-Lieu-jg-dc9430.jpg",
+          "width": 2500,
+          "height": 1667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -395,99 +613,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna67282",
+      "publishedDateTime": "2023-01-24T13:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "healthcareinfosecurity.com",
-        "domain": "healthcareinfosecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-the-nvidia-dgx-2-is-the-worlds-largest-gpu-and-its-made-for-ai.md",
-      "title": "The Nvidia DGX-2 Is the World's Largest GPU, and It's Made for AI",
-      "excerpt": "Now the chipmaker, known traditionally as a graphics processor company, has made a definitive statement into pivoting itself into an AI and enterprise hardware manufacturer with the announcement of the DGX-2, the “largest GPU ever created.” Prior to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-dgx-2-worlds-largest-gpu-and-its-made-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/NVIDIA_DGX-2_cropped_1522130618.jpg",
-          "width": 1314,
-          "height": 986,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-visual-components-expands-its-simulation-tools-with-delfoi-robotics-acquisition.md",
-      "title": "Visual Components Expands Its Simulation Tools with Delfoi Robotics Acquisition",
-      "excerpt": "1) supports the offline programming of industrial robots, while its users are the designers of robotic cells and the integrators of such cells. The software is based on the latest advances in artificial intelligence and machine learning and supports a wide ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/robotics/visual-components-expands-its-simulation-tools-delfoi-robotics-acquisition",
-      "originalUrl": "https://www.designnews.com/robotics/visual-components-expands-its-simulation-tools-delfoi-robotics-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Life%20sciences%2003_online.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
+        "name": "MSNBC",
+        "domain": "msnbc.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -502,21 +634,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-23-ai-experts-on-whether-you-should-be-terrified-of-chatgpt.md",
-      "title": "AI experts on whether you should be \"terrified\" of ChatGPT",
-      "excerpt": "ChatGPT is artificial intelligence that writes for you, any kind of writing you like – letters, song lyrics, research papers, recipes, therapy sessions, poems, essays, outlines, even software code.",
+      "path": "_news/2023-01-25-alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.md",
+      "title": "Alphabet to close Edmonton office of AI subsidiary DeepMind",
+      "excerpt": "EDMONTON - Alphabet Inc. says it will close the Edmonton office owned by its artificial intelligence subsidiary DeepMind.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/",
-      "originalUrl": "https://www.cbsnews.com/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/",
+      "webUrl": "https://www.thestar.com/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html",
+      "originalUrl": "https://www.thestar.com/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/21/ee099652-b7fe-4aef-9006-372d5c0cea85/thumbnail/1200x630/45727b4321a51f80edb4b2d0db2f8f27/chatgpt-a-1280.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.thestar.com/content/dam/thestar/business/mars/2023/01/24/bendable-solar-panels-could-be-just-around-the-corner/solaires_co_founder_sahar_sam.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -524,13 +656,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ai-experts-on-chatgpt-artificial-intelligence-writing-program/",
-      "publishedDateTime": "2023-01-22T09:38:00-08:00",
+      "ampWebUrl": "https://www.thestar.com/amp/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2023/01/24/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind.html",
+      "publishedDateTime": "2023-01-24T12:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "Toronto Star",
+        "domain": "thestar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -540,466 +672,24 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-22-lost-in-translation-europes-quest-to-speak-ai.md",
-      "title": "Lost in translation: Europe’s quest to speak AI",
-      "excerpt": "So-called AI language models like the American GTP-3 are systems that understand and generate text. The models have triggered a flurry of innovative tools, including multilingual search apps, robot-written news articles, automatic translation and chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/",
-      "originalUrl": "https://www.politico.eu/article/translation-europe-quest-speak-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
+        "Google AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-22-artificial-intelligence-could-surpass-that-of-humans-later-this-decade.md",
-      "title": "Artificial intelligence could surpass that of humans later this decade",
-      "excerpt": "Artificial intelligence (AI) has the potential to ... This ability can be particularly useful in fields such as finance, healthcare, and transportation, where AI is already being used to analyze ...",
+      "path": "_news/2023-01-25-roin-acquisition-strengthens-built-robotics-offering-and-unicontrol-steps-up-us-distribution.md",
+      "title": "Roin Acquisition Strengthens Built Robotics Offering and Unicontrol Steps up US Distribution",
+      "excerpt": "New developments at construction robotics organizations suggest 2023 ... They may be afraid of machine control.” While Unicontrol does not automate production, it does automate data collection ...",
       "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/",
-      "originalUrl": "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2023/01/hands-of-robot-and-human-touching-on-big-data-network-connection-background-science-and-artificial-intelligence-technology-innovation-and-futuristic-1200x639.jpeg",
-          "width": 1200,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/01/22/artificial-intelligence-could-surpass-that-of-humans-later-this-decade/amp/",
-      "publishedDateTime": "2023-01-22T03:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-22-why-you-should-care-about-ai-political-bias.md",
-      "title": "Why You Should Care about AI Political Bias",
-      "excerpt": "Over the past couple of weeks, I’ve written a bit about the troubling left-wing biases encoded into the widely discussed new AI technology ChatGPT. The new chatbot is happy to pen long ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationalreview.com/2023/01/why-you-should-care-about-ai-political-bias/",
-      "originalUrl": "https://www.nationalreview.com/2023/01/why-you-should-care-about-ai-political-bias/",
+      "webUrl": "https://www.forconstructionpros.com/construction-technology/machine-grade-control-gps-laser-other/article/22670947/built-robotics-unicontrol-announce-acquisition-distribution",
+      "originalUrl": "https://www.forconstructionpros.com/construction-technology/machine-grade-control-gps-laser-other/article/22670947/built-robotics-unicontrol-announce-acquisition-distribution",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.nationalreview.com/wp-content/uploads/2020/12/keyboard-hands.jpg?fit=2057%2C1200",
-          "width": 2057,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-21T23:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Review",
-        "domain": "nationalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-22-what-happens-to-a-large-language-model-llm-after-its-trained.md",
-      "title": "What happens to a large language model (LLM) after it’s trained",
-      "excerpt": "Different approaches to using large language models (LLMs) after they're built — their complexities and likelihood of advancement.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/what-happens-to-an-llm-after-its-trained/",
-      "originalUrl": "https://venturebeat.com/ai/what-happens-to-an-llm-after-its-trained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1324517786-Andrey-Suslov.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/what-happens-to-an-llm-after-its-trained/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/what-happens-to-an-llm-after-its-trained/amp/",
-      "publishedDateTime": "2023-01-21T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-22-interactive-quiz-how-does-ai-generate-images.md",
-      "title": "Interactive quiz: How does AI generate images?",
-      "excerpt": "TOKYO -- Image generative artificial intelligence (AI), which creates elaborate images based on text input, has garnered attention recently. Elaborate AIs, such as the Stable Diffusion model ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Business/Technology/Interactive-quiz-How-does-AI-generate-images",
-      "originalUrl": "https://asia.nikkei.com/Business/Technology/Interactive-quiz-How-does-AI-generate-images",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F7%252F3%252F6%252F43986378-1-eng-GB%252FMicrosoftTeams-image%2520%252830%2529.png?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-21T11:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-22-nvidia-geforce-rtx-4080-review-deadly-gaming-gpu-but-not-cheap.md",
-      "title": "NVIDIA GeForce RTX 4080 review: Deadly gaming GPU but not cheap",
-      "excerpt": "Team green has already its Ada Lovelace architecture and its GPUs namely, RTX 4090 and RTX 4080 with massive price tags, looking as if both NVIDIA and Apple are competing with their pricing of iPhones and GPUs,",
-      "sourceUrl": null,
-      "webUrl": "https://technosports.co.in/2023/01/21/nvidia-geforce-rtx-4080-review/",
-      "originalUrl": "https://technosports.co.in/2023/01/21/nvidia-geforce-rtx-4080-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-21T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechnoSports",
-        "domain": "technosports.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-22-chief-justice-backs-ai-driven-translation-of-judgments-in-indian-languages.md",
-      "title": "Chief Justice Backs AI-Driven Translation Of Judgments In Indian Languages",
-      "excerpt": "Chief Justice of India D Y Chandrachud on Saturday indicated the use of Artificial Intelligence (AI) in giving translated copies of judgements in all Indian languages as he underlined the importance of technology in removing the information barrier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachud-backs-ai-driven-translation-of-judgments-in-indian-languages-3713022",
-      "originalUrl": "https://www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachud-backs-ai-driven-translation-of-judgments-in-indian-languages-3713022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-01/pntn5qu8_supreme-court-getty_625x300_16_January_23.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachud-backs-ai-driven-translation-of-judgments-in-indian-languages-3713022/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/chief-justice-of-india-dy-chandrachud-backs-ai-driven-translation-of-judgments-in-indian-languages-3713022/amp/1",
-      "publishedDateTime": "2023-01-21T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats.md",
-      "title": "Rentokil pilots facial recognition system as way to exterminate rats",
-      "excerpt": "World’s largest pest control group has developed technology to track individual rodents and assess how best to deal with them",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/business/2023/jan/21/rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats",
-      "originalUrl": "https://www.theguardian.com/business/2023/jan/21/rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ab7a99eef50b4a1c84a7ae9b794e08fb65fd72b7/87_0_2012_1208/master/2012.jpg?width=620&quality=85&auto=format&fit=max&s=d019b229a3aa34c8fdb6d4438778067c",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/business/2023/jan/21/rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2023/jan/21/rentokil-pilots-facial-recognition-system-as-way-to-exterminate-rats",
-      "publishedDateTime": "2023-01-21T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-study-shows-machine-learning-can-predict-development-of-brain-tumours.md",
-      "title": "Study shows machine learning can predict development of brain tumours",
-      "excerpt": "Researchers at the University of Waterloo have created a computational model that can better predict the formation of deadly brain tumours.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours",
-      "originalUrl": "https://www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_01_2023_15_18_49_4370102.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2327456-study-shows-machine-learning-can-predict-development-of-brain-tumours?amp",
-      "publishedDateTime": "2023-01-21T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple.md",
-      "title": "Selling Artificial Intelligence To The Business: Keep It Clear, Keep It Simple",
-      "excerpt": "Explainability trumps model performance, and the hottest solution doesn’t always win, especially if it’s too much of a black box.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/21/selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/21/selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63cb7fca0b95204e19922d86/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/21/selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/01/21/selling-artificial-intelligence-to-the-business-keep-it-clear-keep-it-simple/amp/",
-      "publishedDateTime": "2023-01-21T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-teaching-in-the-age-of-artificial-intelligence-and-chatgpt.md",
-      "title": "Teaching In The Age Of Artificial Intelligence And ChatGPT",
-      "excerpt": "Artificial intelligence empowers increasingly complex interactions between humans and machines. This technology, currently popularized by ChatGPT, provides a potentially enormous opportunity for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63cb84748d623fc3b06e3ae4/0x0.jpg?format=jpg&width=1200",
+          "url": "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2023/01/shotcrete_robot.jpg.63d024156c3d0.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
           "width": 1200,
           "height": 750,
           "title": null,
@@ -1009,9 +699,373 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/01/21/teaching-in-the-age-of-artificial-intelligence-and-chatgpt/amp/",
-      "publishedDateTime": "2023-01-21T01:54:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "For Construction Pros",
+        "domain": "forconstructionpros.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-tiny-ebiobots-use-leds-and-muscle-tissue-for-real-time-remote-control.md",
+      "title": "Tiny eBiobots use LEDs and muscle tissue for real-time remote control",
+      "excerpt": "Back in 2012, we heard about tiny biped \"biobot\" robots that used actual muscle tissue to walk. Well, the descendants of those bots are now equipped with LEDs, which allow them to be remotely steered in a practical fashion. Developed by scientists at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/ebiobots-leds-muscle-tissue-remote-control",
+      "originalUrl": "https://newatlas.com/robotics/ebiobots-leds-muscle-tissue-remote-control",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/4309e93/2147483647/strip/true/crop/3543x2362+0+148/resize/720x480!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb2%2F36%2Fa09164bb4f1889968f011e284d63%2Falpine-crosscabin-exterior-side-2.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-researchers-used-facial-recognition-technology-to-identify-a-long-lost-painting-by-raphael.md",
+      "title": "Researchers Used Facial Recognition Technology to Identify a Long Lost Painting By Raphael",
+      "excerpt": "A new study concludes that the previously unattributed de Brécy Tondo is nearly certainly a work by the Italian Old Master.",
+      "sourceUrl": null,
+      "webUrl": "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583",
+      "originalUrl": "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p-news-uploads.storage.googleapis.com/2020/03/de-Bre%CC%81cy-Tondo-painting.x7ee14c4d.jpeg",
+          "width": 1270,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page",
+      "cdnAmpWebUrl": "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page",
+      "publishedDateTime": "2023-01-24T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Artnet",
+        "domain": "artnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-artificial-intelligence-ai-in-education-market-size-overview-share-trends-with-current-market-scenario-2029.md",
+      "title": "Artificial Intelligence (AI) in Education Market Size: Overview, Share, Trends with Current Market Scenario, 2029",
+      "excerpt": "Artificial Intelligence (AI) in Education Market 2022 Report (Report Pages-123) offers a Comprehensive assessment",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-overview-share-trends-with-current-market-scenario-2029-2023-01-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-overview-share-trends-with-current-market-scenario-2029-2023-01-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029.md",
+      "title": "AI In Medical Imaging Market is Set to Grow in forecast period 2029",
+      "excerpt": "What are the Key Industry Development in AI In Medical Imaging Market? The AI In Medical Imaging market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of %, this market is estimated to reach USD million in 2029.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029-2023-01-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029-2023-01-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-alphabets-deepmind-lays-off-staff-closes-edmonton-office.md",
+      "title": "Alphabet's DeepMind lays off staff, closes Edmonton office",
+      "excerpt": "The Edmonton office was the only DeepMind site not housed within a Google-managed office. Impacted engineers and researchers will be offered the option to relocate to other offices but those in various organizational infrastructure roles will be laid off.",
+      "sourceUrl": null,
+      "webUrl": "https://edmontonjournal.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/e61c4cc3-778f-4a21-b876-3e79b73ee8e0",
+      "originalUrl": "https://edmontonjournal.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/e61c4cc3-778f-4a21-b876-3e79b73ee8e0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/01/google-vw0124.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://edmontonjournal.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/e61c4cc3-778f-4a21-b876-3e79b73ee8e0/amp/",
+      "cdnAmpWebUrl": "https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/technology/alphabet-deepmind-close-edmonton-office-layoffs/wcm/e61c4cc3-778f-4a21-b876-3e79b73ee8e0/amp/",
+      "publishedDateTime": "2023-01-24T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Edmonton Journal",
+        "domain": "edmontonjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-mlops-provider-domino-data-lab-strikes-distribution-deal-with-td-synnex.md",
+      "title": "MLOps Provider Domino Data Lab Strikes Distribution Deal With TD Synnex",
+      "excerpt": "Domino Data Lab is partnering with tech distributor and solutions aggregator TD Synnex to bring the company’s MLOps machine learning platform to a wider audience of channel partners and potential customers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/mlops-provider-domino-data-lab-strikes-distribution-deal-with-td-synnex",
+      "originalUrl": "https://www.crn.com/mlops-provider-domino-data-lab-strikes-distribution-deal-with-td-synnex",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/027d-1725878278d6-dd32d159ed73-1000/thomas-robinson-domino-data-lab.jpeg",
+          "width": 611,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-toggle-ai-unveils-novel-educational-app-whatif-earnings.md",
+      "title": "TOGGLE AI Unveils Novel Educational App, WhatIF: Earnings?",
+      "excerpt": "TOGGLE AI, the award-winning investing dashboard, announced today the launch of WhatIF: Earnings?, an educational app centered around earnings announcements and subsequent historical stock performance.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/01/24/9747896.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/01/24/9747896.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-24T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-24-self-driving-golf-cart-development-why-is-it-in-demand.md",
+      "title": "Self-Driving Golf Cart Development: Why Is It In Demand?",
+      "excerpt": "Golf Carts Push For Autonomy. Faced with the harsh reality that a future of fully autonomous cars is further away than promised, automakers and tech companies are pivoting to alte",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ceff7ab891403906766ebe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/amp/",
+      "publishedDateTime": "2023-01-24T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1034,27 +1088,26 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-01-21-nvidia-geforce-rtx-4090-laptop-gpu-shows-better-gaming-performance-with-dlss-3-than-its-predecessor.md",
-      "title": "NVIDIA GeForce RTX 4090 Laptop GPU Shows better gaming performance with DLSS 3 than its predecessor",
-      "excerpt": "Comparisons between the RTX 4090 GPU in the Razer Blade 16 with NVIDIA's DLSS 3 upscaling enabled and the Razer Blade 17 with DLSS 2 enabled are not entirely useful in this case, demonstrating the limitations of what Jarrod is permitted to show.",
+      "path": "_news/2023-01-24-artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.md",
+      "title": "Artificial intelligence chatbot passes elite business school exam, outperforms some Ivy League students",
+      "excerpt": "Chat GPT3, an artificial intelligence bot, outperformed some Ivy League students at the University of Pennsylvania's Wharton School of Business on a final exam. In a paper titled \"Would Chat GPT3 ...",
       "sourceUrl": null,
-      "webUrl": "https://technosports.co.in/2023/01/21/nvidia-geforce-rtx-4090-gpu-6/",
-      "originalUrl": "https://technosports.co.in/2023/01/21/nvidia-geforce-rtx-4090-gpu-6/",
+      "webUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
+      "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://technosports.co.in/wp-content/uploads/2022/09/NVIDIA-GeForce-RTX-4090-Graphics-Card-Official-1-1030x579-1.jpg",
-          "width": 1030,
-          "height": 579,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/340/340/02da0c03-IMG-6014.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1062,14 +1115,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://technosports.co.in/2023/01/21/nvidia-geforce-rtx-4090-gpu-6/?amp",
-      "cdnAmpWebUrl": "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2023/01/21/nvidia-geforce-rtx-4090-gpu-6/?amp",
-      "publishedDateTime": "2023-01-21T01:00:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
+      "publishedDateTime": "2023-01-24T05:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechnoSports",
-        "domain": "technosports.co.in",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1078,8 +1140,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,568 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-12-09-apple-self-driving-ev-delayed-to-2026-likely-to-start-under-100000.md",
+      "title": "Apple Self-Driving EV Delayed to 2026, Likely to Start under $100,000",
+      "excerpt": "Apple has also scaled back its self-driving plans, with the car including traditional driving controls and only planned to be capable of autonomous driving on highways. The target is to sell the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/apple-self-driving-ev-delayed-144700351.html",
+      "originalUrl": "https://www.aol.com/apple-self-driving-ev-delayed-144700351.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_car_and_driver_636/d8d9076b5e16b2172a0d9337e5e9d4d0",
+          "width": 626,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-svvsd-students-win-first-place-in-global-artificial-intelligence-competition.md",
+      "title": "SVVSD students win first place in global artificial intelligence competition",
+      "excerpt": "The Innovation Center’s Artificial Intelligence leadership team recently won first place in the 2022 World Artificial Intelligence Competition for Youth’s fifth annual competition. The global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timescall.com/2022/12/08/svvsd-students-win-first-place-in-global-artificial-intelligence-competition/",
+      "originalUrl": "https://www.timescall.com/2022/12/08/svvsd-students-win-first-place-in-global-artificial-intelligence-competition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.timescall.com/wp-content/uploads/2022/12/svvsd-school-bus.jpg?w=940&h=542",
+          "width": 940,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timescall.com/2022/12/08/svvsd-students-win-first-place-in-global-artificial-intelligence-competition/amp/",
+      "cdnAmpWebUrl": "https://www-timescall-com.cdn.ampproject.org/c/s/www.timescall.com/2022/12/08/svvsd-students-win-first-place-in-global-artificial-intelligence-competition/amp/",
+      "publishedDateTime": "2022-12-09T05:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longmont Times-Call",
+        "domain": "timescall.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "The market for artificial intelligence (AI ... but its dominance of a bedrock technology for driverless cars justifies that premium-- and makes it a great AI stock to buy. Micron's business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/12/09/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2022/12/09/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/712259/digital-brain.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace.md",
+      "title": "The Final Freedom: The Role Of Artificial Intelligence In The Workplace",
+      "excerpt": "The reality is that AI does something unique in our technological evolution because rather than simply replicate and improve our interactions with the physical world, or accelerate rote tasks through automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f93379ac3fffcbce128eacc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/09/the-final-freedom-the-role-of-artificial-intelligence-in-the-workplace/amp/",
+      "publishedDateTime": "2022-12-09T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-apple-audi-and-others-scale-back-self-driving-others-go-further.md",
+      "title": "Apple, Audi And Others Scale Back Self-Driving, Others Go Further",
+      "excerpt": "The consolidation and shake-out in the self-driving business brought on by the bad market conditions of 2022 are continuing. A recent report suggests that Apple will scale back its secretive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/12/09/apple-audi-and-others-scale-back-self-driving-others-go-further/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/12/09/apple-audi-and-others-scale-back-self-driving-others-go-further/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6393839b0ad6ea64a565cf35/0x0.jpg?format=jpg&crop=1647,927,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/12/09/apple-audi-and-others-scale-back-self-driving-others-go-further/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/12/09/apple-audi-and-others-scale-back-self-driving-others-go-further/amp/",
+      "publishedDateTime": "2022-12-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-tesla-says-its-self-driving-technology-may-be-a-failure-but-not-fraud.md",
+      "title": "Tesla says its self-driving technology may be a ‘failure’ — but not fraud",
+      "excerpt": "Tesla’s Full Self-Driving technology may be a failure, Tesla lawyers admit — but it’s not a fraud. The electric car company is facing a class-action lawsuit from Autopilot and Full Self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud",
+      "originalUrl": "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/d3a5473/2147483647/strip/true/crop/1642x1098+0+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fac%2Fbc%2Fcbcecd1d40919fc40cc4deb90aee%2F1-courthouse.jpg",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-12-08/tesla-lawsuit-full-self-driving-technology-failure-not-fraud?_amp=true",
+      "publishedDateTime": "2022-12-08T13:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know.md",
+      "title": "Factors To Consider When Adopting Artificial Intelligence And Machine Learning: What Businesses Need To Know",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML), or AI/ML, are quickly becoming a crucial next step for business growth. Recent years have seen more and more businesses adopting this technology and witnessing significant benefits in several areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6390d461115ce3b59c08ccfa/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/amp/",
+      "publishedDateTime": "2022-12-08T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-driverless-cars-to-hit-uk-motorways-safety-fears-for-motorcyclists-as-road-trials-planned-for-2023.md",
+      "title": "Driverless cars to hit UK motorways: Safety fears for motorcyclists as road trials planned for 2023",
+      "excerpt": "Real-life on-the-road tests of self-driving vehicles are due to begin in the UK next year, sparking fears that they could put riders in danger. According to the Department for Transport, we could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.motorcyclenews.com/news/2022/december/driverless-car-trials-set-for-uk-motorways-in-2023/",
+      "originalUrl": "https://www.motorcyclenews.com/news/2022/december/driverless-car-trials-set-for-uk-motorways-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mcn-images.bauersecure.com/wp-images/192039/autonomous-car-on-motorway.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Cycle News",
+        "domain": "motorcyclenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-chinas-iqiyi-bets-big-on-artificial-intelligence-to-help-pandemic-hit-production-sector.md",
+      "title": "China’s iQiyi Bets Big on Artificial Intelligence to Help Pandemic-Hit Production Sector",
+      "excerpt": "China-owned streamer iQiyi has been ramping up its use of artificial intelligence across productions as a result of the lasting impact of the pandemic. Kelvin Yau, head of southeast Asia for iQiyi ...",
+      "sourceUrl": null,
+      "webUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/",
+      "originalUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T20:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers.md",
+      "title": "Uber Robotaxis Come to Las Vegas, but the Driverless Vehicles Still Have Drivers",
+      "excerpt": "“Motional and Uber are launching with vehicle operators now to lay the groundwork for a fully driverless commercial service, with the goal of launching the driverless service to the public in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/12/08/b0ef8db20ef428b9da8cabf6b58d1d4d.png?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/amp/",
+      "publishedDateTime": "2022-12-07T20:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-uber-launching-self-driving-cars-in-las-vegas.md",
+      "title": "Uber launching self-driving cars in Las Vegas",
+      "excerpt": "The robocars, made by driverless technology company Motional, are sent with two “vehicle operators” behind the wheel to monitor the technology and provide added support to riders. Uber said it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/12/07/tech/uber-motional-self-driving-vegas/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/07/tech/uber-motional-self-driving-vegas/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221207085819-01-uber-robotaxi-las-vegas-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/07/tech/uber-motional-self-driving-vegas/index.html",
+      "publishedDateTime": "2022-12-07T18:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-self-driving-wheelchair-market-2022-regional-overview-substantial-demand-vendor-landscape-and-trends-by-2028.md",
+      "title": "Self Driving Wheelchair Market 2022 - Regional Overview, Substantial Demand, Vendor Landscape and Trends by 2028",
+      "excerpt": "MarketsandResearch.biz contributes an entire investigation of the presented sector's current situation & significant drivers in its insightful report Global Self Driving Wheelchair Market Outlook 2022-2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-2022---regional-overview-substantial-demand-vendor-landscape-and-trends-by-2028-2022-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-2022---regional-overview-substantial-demand-vendor-landscape-and-trends-by-2028-2022-12-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T18:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-uber-launches-robotaxis-but-driverless-fleet-is-long-time-away.md",
       "title": "Uber Launches Robotaxis but Driverless Fleet Is ‘Long Time’ Away",
       "excerpt": "The partnership began testing driverless food deliveries on Uber Eats in Santa Monica, Calif., in May. People in Las Vegas can be paired with a Motional autonomous vehicle through the Uber app ...",

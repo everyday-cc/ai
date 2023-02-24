@@ -30,6 +30,19 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "Bill requiring self-driving vehicles to have human operators dies in Roundhouse"
+    excerpt: "ALBUQUERQUE, N.M. (KRQE) — State lawmakers were trying to pass a bill that would make it mandatory to have a person inside self-driving cars that are ... but there’s no doubt automation is coming. Artificial intelligence is coming."
+    publishedDateTime: 2023-02-23T23:30:00Z
+    webUrl: "https://www.krqe.com/news/new-mexico/bill-requiring-self-driving-vehicles-to-have-human-operators-dies-in-roundhouse/"
+    ampWebUrl: "https://www.krqe.com/news/new-mexico/bill-requiring-self-driving-vehicles-to-have-human-operators-dies-in-roundhouse/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/new-mexico/bill-requiring-self-driving-vehicles-to-have-human-operators-dies-in-roundhouse/amp/"
+    type: article
+    provider:
+      name: KRQE Blogs
+      domain: krqe.com
+    quality: 20
+
 secured: "Dn9j7b4UYJv0IRDdg5jYK3C5hzPaYeJOc9NobHfL2mj8A8q14g74PKMvHQbnUhLPyf9DiWIRoj98yOP13tEYJHooh60OURGF/bD31xnIsLuEubDPhhrUH3bhSq77BDZk1+jmVlLM0jAogofsfhELS9XaRJrp+S7W3WC7dQ6gCGgpaQuDEzeC1zFgJz7/6/lgu+X9jFKVwsIJWzTiAFEaKp25JHMZ3evgaxs/Ocz+QwW701KcUvGM+c+QNYiHA+wXeCOt17Tb36uWq6Z/P9+Ova9Xbp2S5/za9eikdep2ExqI2fXn+Hqzbw6mrJ6Zvla74BXhXLQqbY22hU1dgVNthLYwS8BkGGGLi9hAy8jXtg30z2XYp+vK8sMJ7RUDucUKQyKXBiYbCqvCSr8C0rvt5U9EY3BvLWar7My+uK0Xpt1/cxLFPN6FOXjI33BpBC20UPbhHXbv+Lcyi1NL77LZev5NnF5b5sFeNG7fOZM7FrJPH027fnHt4xcamlV3dmmEzKx5yk81GVMKH4mxFolqMA==;GbBIw3IM8lIdtIe7LKTi7g=="
 ---
 

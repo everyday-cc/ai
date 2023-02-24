@@ -2,6 +2,188 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-24-artificial-intelligence-opens-up-the-world-of-financial-services.md",
+      "title": "Artificial Intelligence Opens Up The World Of Financial Services",
+      "excerpt": "The way we make decisions on credit should be fair and inclusive and done in a way that takes into account a greater picture of a person.” Here are the ways AI can help assure more equitable access to financial services: Personalize without branches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f82c8677a4a0073a41444a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/amp/",
+      "publishedDateTime": "2023-02-23T21:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform.md",
+      "title": "Blue Motor Finance Partners With Zinia for Implementation of Decision Intelligence AI Platform",
+      "excerpt": "Press Release Fintech lender, Blue, has announced a new partnership with Zinia, the pioneering Decision Intelligence company, to supercharge AI driven decisions across the business.Blue is a technology-focused lender delivering innovative motor finance solutions",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/",
+      "originalUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/",
+      "publishedDateTime": "2023-02-23T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-neuromorphic-camera-and-machine-learning-aid-nanoscopic-imaging.md",
+      "title": "Neuromorphic camera and machine learning aid nanoscopic imaging",
+      "excerpt": "Their novel technique, which combines optical microscopy with a neuromorphic camera and machine learning algorithms, presents a major step forward in pinpointing objects smaller than 50 nanometers ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.html",
+      "originalUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/neuromorphic-camera-an.jpg",
+          "width": 2000,
+          "height": 1477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.amp",
+      "publishedDateTime": "2023-02-21T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-bluefire-ai-appoints-fintech-connex-as-adviser.md",
+      "title": "BlueFire AI Appoints Fintech Connex as Adviser",
+      "excerpt": "Building on an already successful relationship, BlueFire AI, the award-winning provider of artificial intelligence for capital markets participants, appoints Fintech Connex as its adviser. The two firms will work closely together as Bluefire builds on its excellent traction with clients and investors.",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/artificial-intelligence/bluefire-ai-appoints-fintech-connex-adviser",
+      "originalUrl": "https://financialit.net/news/artificial-intelligence/bluefire-ai-appoints-fintech-connex-adviser",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/dsc02789.jpg",
+          "width": 6000,
+          "height": 3376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-machine-learning-as-a-service-mlaas-market-size-share-and-forecast-2028-with-top-countries-data.md",
       "title": "Machine Learning-as-a-Service (MLaaS) Market Size, Share and Forecast 2028 with Top Countries Data",
       "excerpt": "Machine Learning-as-a-Service (MLaaS) Market Size is projected to Reach Multimillion ... as well as end-users.Secondary sources include the research of the annual and financial reports of the top companies, public files, new journals, etc.",
@@ -775,33 +957,24 @@
     {
       "path": "_news/2023-02-07-fintech-company-wisor-ai-secures-8-million-in-seed-funding-to-modernize-global-supply-chain.md",
       "title": "Fintech Company Wisor AI Secures $8 Million in Seed Funding to Modernize Global Supply Chain",
-      "excerpt": "Wisor's innovative AI-powered technology helps move global freight in a click, with a mission to digitize the freight industry, lower costs, and increase efficiency; Funding round led by Team8 ...",
+      "excerpt": "Wisor AI, an advanced freight booking software solution, has raised $8 million in a seed funding round led by Team8. The funding will expedite Wisor's mission to digitize the global supply chain industry and empower freight forwarders to plan,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/b30760403/fintech-company-wisor-ai-secures-8-million-in-seed-funding-to-modernize-global-supply-chain",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/b30760403/fintech-company-wisor-ai-secures-8-million-in-seed-funding-to-modernize-global-supply-chain",
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756068.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756068.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30760403",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30760403",
-      "publishedDateTime": "2023-02-07T05:07:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1185,165 +1358,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-the-13-top-vc-firms-dedicated-to-investing-in-artificial-intelligence-and-machine-learning-that-founders-should-know.md",
-      "title": "The 13 top VC firms dedicated to investing in artificial intelligence and machine learning that founders should know",
-      "excerpt": "Here are the 13 top VC firms dedicated to AI and ML investing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/top-venture-capital-firms-investing-artificial-intelligence-machine-learning-2023-2",
-      "originalUrl": "https://www.businessinsider.com/top-venture-capital-firms-investing-artificial-intelligence-machine-learning-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-machine-learning-chip-market-2023-top-vendors-industry-size-share-and-growth-and-forecast-up-to-2025.md",
-      "title": "Machine Learning Chip Market 2023 | Top Vendors, Industry Size, Share and Growth and Forecast up to 2025",
-      "excerpt": "The Machine Learning Chip Market (2023-2025) Research Updated Report | Market includes the most useful information such",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-2023-top-vendors-industry-size-share-and-growth-and-forecast-up-to-2025-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-2023-top-vendors-industry-size-share-and-growth-and-forecast-up-to-2025-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T01:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-google-new-search-reveals-nigerians-growing-interest-in-ai.md",
-      "title": "Google: New search Reveals Nigerians Growing Interest in AI",
-      "excerpt": "Google, which views AI as a solution for addressing significant societal challenges like climate change, recently shared their approach to pursuing AI responsibly, including prioritising building and testing for safety and its purpose for the public good.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2023/02/06/google-new-search-reveals-nigerians-growing-interest-in-ai/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2023/02/06/google-new-search-reveals-nigerians-growing-interest-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2023/02/06/google-new-search-reveals-nigerians-growing-interest-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/02/06/google-new-search-reveals-nigerians-growing-interest-in-ai/amp/",
-      "publishedDateTime": "2023-02-06T01:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ai-machine-learning-beat-cryptocurrency-as-top-tech-choice-among-institutional-investors.md",
-      "title": "AI, Machine Learning Beat Cryptocurrency As Top Tech Choice Among Institutional Investors",
-      "excerpt": "\"This trend toward automation is something we're seeing across the market now, and is expanding into the credit and rates side as well as commodities,\" said Scott Wacker, JP Morgan head of FICC e-commerce sales.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/ai-machine-learning-beat-cryptocurrency-top-tech-choice-among-institutional-investors-3664780",
-      "originalUrl": "https://www.ibtimes.com/ai-machine-learning-beat-cryptocurrency-top-tech-choice-among-institutional-investors-3664780",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/ai-machine-learning-beat-cryptocurrency-top-tech-choice-among-institutional-investors-3664780?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ai-machine-learning-beat-cryptocurrency-top-tech-choice-among-institutional-investors-3664780?amp=1",
-      "publishedDateTime": "2023-02-06T00:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

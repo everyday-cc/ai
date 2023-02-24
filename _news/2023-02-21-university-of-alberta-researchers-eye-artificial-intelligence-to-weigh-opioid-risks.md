@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/life/article-university-of-alber
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: The Globe and Mail
@@ -27,38 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "University of Alberta researchers eye artificial intelligence to weigh opioid risks"
-    excerpt: "EDMONTON - Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug"
-    publishedDateTime: 2023-02-18T15:05:00Z
-    webUrl: "https://www.thestar.com/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html"
-    ampWebUrl: "https://www.thestar.com/amp/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html"
+  - title: "How Artificial Intelligence Can Help Treat Opioid Addiction"
+    excerpt: "Instead, the researcher is using artificial intelligence (AI) to optimize the process. Artificial intelligence has the advantage of being able to take huge amounts of information and learn to ..."
+    publishedDateTime: 2023-02-21T20:47:00Z
+    webUrl: "https://www.medindia.net/news/how-artificial-intelligence-can-help-treat-opioid-addiction-210581-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/how-artificial-intelligence-can-help-treat-opioid-addiction-210581-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-artificial-intelligence-can-help-treat-opioid-addiction-210581-1.htm"
     type: article
     provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 53
-    images:
-      - url: "https://www.thestar.com/content/dam/thestar/life/health_wellness/2023/02/10/celebs-tout-ice-baths-but-science-on-benefits-is-lukewarm/20230210000212-63e5d2a6f4f61b813a06223fjpeg.jpg.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "University of Alberta researchers eye artificial intelligence to weigh opioid risks"
-    excerpt: "Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug overdose crisis across Canada."
-    publishedDateTime: 2023-02-19T02:48:00Z
-    webUrl: "https://www.ctvnews.ca/health/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks-1.6280160"
-    ampWebUrl: "https://beta.ctvnews.ca/national/health/2023/2/18/1_6280160.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/health/2023/2/18/1_6280160.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 53
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/10/18/1_6113498.jpg"
-        width: 1020
-        height: 574
-        isCached: true
+      name: Medindia
+      domain: medindia.net
+    quality: 39
   - title: "University of Alberta researchers eye artificial intelligence to weigh opioid risks"
     excerpt: "Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug overdose crisis across Canada."
     publishedDateTime: 2023-02-20T05:08:00Z

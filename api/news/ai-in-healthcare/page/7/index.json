@@ -2,6 +2,303 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-12-10-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
+      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "excerpt": "Palantir's AI-powered data processing software has accomplished incredible feats. Cybersecurity threats are thwarted with CrowdStrike's AI. Both companies are unprofitable due to high stock-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/12/10/2-artificial-intelligence-stocks-you-can-buy-and-h/",
+      "originalUrl": "https://www.fool.com/investing/2022/12/10/2-artificial-intelligence-stocks-you-can-buy-and-h/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/711361/man-networking-at-data-center.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T22:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-short-cognitive-behavioral-therapy-program-is-also-effective-at-reducing-anxiety-among-school-children.md",
+      "title": "Short cognitive behavioral therapy program is also effective at reducing anxiety among school children",
+      "excerpt": "To remedy this, a preventive intervention based on Cognitive Behavioral Therapy (CBT) for children, Journey of the Brave, was developed and introduced in Japanese schools in 2014. While the ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-short-cognitive-behavioral-therapy-effective.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-short-cognitive-behavioral-therapy-effective.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-3-revolutionary-stocks-id-buy-right-now-without-hesitation.md",
+      "title": "3 Revolutionary Stocks I'd Buy Right Now Without Hesitation",
+      "excerpt": "It's hard to see Eli Lilly as a revolutionary stock. The pharmaceutical company was formed in 1876 by a Civil War veteran and has been in the S&P 500 since 1971. However, the company has been on the forefront of two of the biggest medical breakthroughs this year: Alzheimer's drug donanemab and diabetes drug Mounjaro (tirzepatide),",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-revolutionary-stocks-id-buy-right-now-without-hesitation-3",
+      "originalUrl": "https://www.nasdaq.com/articles/3-revolutionary-stocks-id-buy-right-now-without-hesitation-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-healthcare-cognitive-computing-market-growth-business-overview-2022-and-forecast-to-2028-ibm-google-microsoft.md",
+      "title": "Healthcare Cognitive Computing Market Growth, Business Overview 2022, and Forecast to 2028| IBM, Google, Microsoft",
+      "excerpt": "The global Healthcare Cognitive Computing Market research provides a comprehensive review of the industry worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-growth-business-overview-2022-and-forecast-to-2028-ibm-google-microsoft-2022-12-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-growth-business-overview-2022-and-forecast-to-2028-ibm-google-microsoft-2022-12-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-gene-therapy-on-cardiovascular-disease-market-industry-trends-share-size-growth-and-opportunities-and-forecast-by-2022-2027.md",
+      "title": "Gene Therapy On Cardiovascular Disease Market Industry Trends, Share, Size, Growth and Opportunities and Forecast by 2022-2027",
+      "excerpt": "Dec 08, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Gene Therapy On",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gene-therapy-on-cardiovascular-disease-market-industry-trends-share-size-growth-and-opportunities-and-forecast-by-2022-2027-2022-12-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/gene-therapy-on-cardiovascular-disease-market-industry-trends-share-size-growth-and-opportunities-and-forecast-by-2022-2027-2022-12-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics.md",
+      "title": "PolyU and Hanson Robotics’ step towards Artificial Intelligence and Robotics",
+      "excerpt": "The Hong Kong Polytechnic University (PolyU) and Hanson Robotics Limited (Hanson) signed a Memorandum of Understanding to establish the Centre for Humanistic Artificial Intelligence and Robotics (CHAi",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/",
+      "originalUrl": "https://indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/02/download-5-1.jpg?fit=600%2C315&ssl=1",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/amp/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/amp/",
+      "publishedDateTime": "2022-12-07T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-vision-care-group-and-thinkcyte-announce-research-alliance-in-advanced-cell-therapy.md",
+      "title": "Vision Care Group and ThinkCyte Announce Research Alliance in Advanced Cell Therapy",
+      "excerpt": "Vision Care Group and ThinkCyte today announced a research partnership aimed at advancing cell therapy in retinal disease. The partnership combines Vision Care Group's expertise in developing investigative cellular therapies with Ghost Cytometry,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/06/9725495.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/06/9725495.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-first-quarter-of-2023.md",
       "title": "AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023",
       "excerpt": "LAS VEGAS, NV / ACCESSWIRE / / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to the public in the",

@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Services Market: Exploration of the Top Regions and Players with Opportunities"
-    excerpt: "Feb 19, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Cognitive Services Market” research is"
-    publishedDateTime: 2023-02-19T11:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-exploration-of-the-top-regions-and-players-with-opportunities-2023-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
   - title: "The opportunities of artificial intelligence in tax"
     excerpt: "The beginning of 2023 brought some very significant events to my humble career. Among the most high profile is attending the induction ceremony of the new officers of the Management Association of the Philippines."
     publishedDateTime: 2023-02-20T16:04:00Z
@@ -50,29 +41,6 @@ related:
         width: 1008
         height: 529
         isCached: true
-  - title: "Hybrid Voice Recognition System Market In 2023 : Volume, Analysis, Future Prediction, Overview and Forecast 2028"
-    excerpt: "Precision Reports has published a detailed report on “ Hybrid Voice Recognition System Market \" 2023 which has been categorized by Market size, growth indicators and encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2023-02-17T05:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-in-2023-volume-analysis-future-prediction-overview-and-forecast-2028-2023-02-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "United Kingdom AI in Transportation Markets Report 2023-2027: Self-Driving Vehicles, Road Accidents & High Traffic Problems Fuel Demands"
-    excerpt: "United Kingdom AI in the transportation market is anticipated to register growth with an impressive CAGR in the forecast period, 2023-2027. The market growth can be attributed to"
-    publishedDateTime: 2023-02-20T18:50:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/02/20/9762975.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "+AOepocqSvPhsqhAaRmdKoNYrIi7uM9UTJLrR5BJxn+pX4ib9mHKToxKuXQ0f4Wjyz+KT0n5l7fzlW0qD6/XgWm3tCcdreqgjw82rqlpAiACB6z+0t18nb+Q3X4z5je+fKV4W+4QlCUG89ax1fglDFlkDq/vpU+kc8HF33x1wTfN2UiJ8fDuSKZQKVzxGcj2Ml9Y/+WFJTr8uXmMkQEouhS8jUUVuNU0GBQKVpzMsSk7pftNMXKrooqG434AMy0fjBLElFzzB9pHQ5BFHSvbobpQShQ4/XOryt48NHZu06g7iZCGdQN11PvLlpVYsMVKtjiQM9cRfz2iDgsDnofqdF/Ke9Y9xzxngOoW4LOAzno=;atB+kccAtzajG3jDEL3yWw=="
 ---

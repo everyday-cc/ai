@@ -2,21 +2,140 @@
   "page": 58,
   "value": [
     {
-      "path": "_news/2023-01-10-aws-max-peterson-shares-5-predictions-for-public-sector-technology-transformation.md",
-      "title": "AWS’ Max Peterson Shares 5 Predictions for Public Sector Technology Transformation",
-      "excerpt": "Looking for the latest Government Contracting News? Read about AWS’ Max Peterson Shares 5 Predictions for Public Sector Technology Transformation.",
+      "path": "_news/2023-01-10-the-download-irobot-privacy-scandal-and-ai-that-makes-images.md",
+      "title": "The Download: iRobot privacy scandal, and AI that makes images",
+      "excerpt": "Roomba testers feel misled after intimate images ended up on Facebook When Greg unboxed a new robot vacuum cleaner ... for free by UK-based startup Stability AI in August, and, crucially, able ...",
       "sourceUrl": null,
-      "webUrl": "https://executivegov.com/2023/01/aws-max-peterson-shares-5-predictions-for-public-sector-technology/",
-      "originalUrl": "https://executivegov.com/2023/01/aws-max-peterson-shares-5-predictions-for-public-sector-technology/",
+      "webUrl": "https://www.technologyreview.com/2023/01/10/1066545/download-irobot-privacy-scandal-ai-images/",
+      "originalUrl": "https://www.technologyreview.com/2023/01/10/1066545/download-irobot-privacy-scandal-ai-images/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://executivegov-media.s3.amazonaws.com/2023/01/09/73/08/0a/93/60/9a/7e/64/00P4y00001fiOFpEAM.png",
-          "width": 272,
-          "height": 270,
+          "url": "https://lh3.googleusercontent.com/6Zp1lWC_73L-Kh-ORcu2LxfZUgT0rXe_wxV8Of2ZNs4scV16fpwroun_M6H1eJq3tVO7XTRLtFPR5ZaAcbwqYsdFtEWAt89M6X1iinAtVa_mjjJ6XLK1YWjI6IgkJicarJfvWD8Apz0vnAdo7oKwhykqv4FdnaxewbJXnWz-z8iIvs4Gw_OHlRc06RyPQg",
+          "width": 1063,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/01/10/1066545/download-irobot-privacy-scandal-ai-images/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/01/10/1066545/download-irobot-privacy-scandal-ai-images/amp/",
+      "publishedDateTime": "2023-01-10T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-research-shows-that-early-retirement-can-accelerate-cognitive-decline.md",
+      "title": "Research shows that early retirement can accelerate cognitive decline",
+      "excerpt": "BINGHAMTON, N.Y. – Early retirement can accelerate cognitive decline among the elderly, according to research conducted by faculty at Binghamton University, State University of New York.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/976070",
+      "originalUrl": "https://www.eurekalert.org/news-releases/976070",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-conversational-ai-startup-nlx-raises-usd-46m-to-boost-expansion-and-product-development.md",
+      "title": "Conversational AI startup NLX raises USD 4.6M to boost expansion and product development",
+      "excerpt": "NLX Inc., startup specializing in conversational AI, announced, it has raised USD 4.6M in additional funding to continue its market expansion",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/quick-bytes/conversational-ai-startup-nlx-raises-usd-4-6m-to-boost-expansion-and-product-development/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/conversational-ai-startup-nlx-raises-usd-4-6m-to-boost-expansion-and-product-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/01/Conversational-AI-startup-NLX-raises-USD-4.6M-to-boost-expansion-and-product-development.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/conversational-ai-startup-nlx-raises-usd-4-6m-to-boost-expansion-and-product-development/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/conversational-ai-startup-nlx-raises-usd-4-6m-to-boost-expansion-and-product-development/amp/",
+      "publishedDateTime": "2023-01-10T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) is already a leading technology ... The company's Amazon Web Services (AWS) holds the largest cloud market share with 34% right now. AWS offers a myriad of AI-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/01/10/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2023/01/10/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/715551/young-woman-speaking-into-smartphone-voice-assistant-siri-artificial-intelligence-ai.jpg",
+          "width": 1500,
+          "height": 1000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +145,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T14:08:00-08:00",
+      "publishedDateTime": "2023-01-10T05:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Executive Gov",
-        "domain": "executivegov.com",
-        "images": null,
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -45,21 +173,55 @@
       ]
     },
     {
-      "path": "_news/2023-01-10-ces-2023-100-highlights-and-oddities-from-the-show.md",
-      "title": "CES 2023: 100+ Highlights and Oddities From the Show",
-      "excerpt": "Our CES 2023 liveblog has ended. For the first time since 2020, members of our WIRED Gear team were live in Las Vegas to cover the world's largest tech show in person. We also had a remote team reporting live throughout the show.",
+      "path": "_news/2023-01-10-gbts-facial-and-body-recognition-patent-application-is-granted.md",
+      "title": "GBT's Facial and Body Recognition Patent Application is Granted",
+      "excerpt": "(\"GBT/Tokenize\") received their facial and body recognition patent, which was granted as of December 13, 2022 (Patent No. 11,527,104) issued by the U.S. Patent and Trademark Office (“USPTO”). The patent illustrates an innovative technology for learning,",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/live/ces-2023-liveblog-highlights/",
-      "originalUrl": "https://www.wired.com/live/ces-2023-liveblog-highlights/",
+      "webUrl": "https://it.tmcnet.com/news/2023/01/10/9740374.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/01/10/9740374.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-examples-of-natural-language-processing.md",
+      "title": "Examples of Natural Language Processing",
+      "excerpt": "Natural Language Processing will also improve with artificial intelligence and augmented analytics (NLP) development. While Artificial Intelligence (AI) and natural language processing (NLP) may conjure thoughts of robots of the future, NLP is already at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.themanufacturer.com/press-releases/examples-of-natural-language-processing/",
+      "originalUrl": "https://www.themanufacturer.com/press-releases/examples-of-natural-language-processing/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/63b7dea471c6b526845f1541/191:100/w_1280,c_limit/20230104_CES_Pepcom_032_Niu-E-Bike-2.jpg",
-          "width": 1280,
-          "height": 670,
+          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/01/04225930/AdobeStock_520920052.-NLP.jpg",
+          "width": 1100,
+          "height": 733,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,7 +231,145 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T13:40:00-08:00",
+      "publishedDateTime": "2023-01-10T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "themanufacturer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation.md",
+      "title": "Baidu Create 2022 Outlines New Strategy for AI Development Based on Feedback-Driven Innovation",
+      "excerpt": "Major technology innovations powered by deep learning algorithms such as autonomous driving and intelligent ... further enrich Baidu AI Base, China's first full-stack self-researched AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation-1032009402",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation-1032009402",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1980663/image_5009157_44357444.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-google-docs-and-slides-step-up-their-voice-recognition-game.md",
+      "title": "Google Docs and Slides step up their voice recognition game",
+      "excerpt": "Read More. Voice typing tools reliant on speech-to-text algorithms have long been a convenient way to create larger text documents quickly, especially if you’re a slow typist, or you're seeking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/google-docs-slides-better-voice-typing-live-captions/",
+      "originalUrl": "https://www.androidpolice.com/google-docs-slides-better-voice-typing-live-captions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/11/how-to-set-up-outline-in-Google-docs.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-iran-says-face-recognition-will-id-women-breaking-hijab-laws.md",
+      "title": "Iran Says Face Recognition Will ID Women Breaking Hijab Laws",
+      "excerpt": "But Shajarizadeh, who fled to Canada in 2018 after three arrests for flouting hijab law, worries that women like the amusement park worker may now be targeted with face recognition algorithms as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/",
+      "originalUrl": "https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63bcd6f571c6b526845f15bf/master/pass/JM_Iran_Women_Face_Recognition-Business.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/amp",
+      "publishedDateTime": "2023-01-10T05:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",
@@ -92,213 +392,41 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-10-deep-learning-designed-diffractive-processor-computes-hundreds-of-transformations-in-parallel.md",
-      "title": "Deep learning-designed diffractive processor computes hundreds of transformations in parallel",
-      "excerpt": "For instance, a diffractive optical network is designed through the combination of optics and deep learning to optically perform complex computational tasks such as image classification and ...",
+      "path": "_news/2023-01-10-baidu-said-to-be-slashing-jobs-trimming-bonuses-at-intelligent-driving-unit.md",
+      "title": "Baidu said to be slashing jobs, trimming bonuses at intelligent driving unit",
+      "excerpt": "Baidu is cutting jobs and cancelling bonuses for some employees in its autonomous driving unit as prospects for profits remain remote after years of investment, according to a report by a Chinese ...",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-deep-learning-designed-diffractive-processor-hundreds.html",
-      "originalUrl": "https://phys.org/news/2023-01-deep-learning-designed-diffractive-processor-hundreds.html",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-learning-designed.jpg",
-          "width": 920,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-deep-learning-designed-diffractive-processor-hundreds.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-learning-designed-diffractive-processor-hundreds.amp",
-      "publishedDateTime": "2023-01-09T13:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-nvidia-may-use-ai-to-tweak-graphics-drivers-and-squeeze-out-more-performance.md",
-      "title": "NVIDIA may use AI to tweak graphics drivers and squeeze out more performance",
-      "excerpt": "NVIDIA will reportedly use its advanced AI solutions to tweak and optimize its graphics drivers to squeeze out more incremental video card performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/89967/nvidia-may-use-ai-to-tweak-graphics-drivers-and-squeeze-out-more-performance/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/89967/nvidia-may-use-ai-to-tweak-graphics-drivers-and-squeeze-out-more-performance/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/8/9/89967_2_nvidia-will-use-ai-to-tweak-graphics-drivers-and-squeeze-out-more-performance.jpg",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T12:29:00-08:00",
+      "publishedDateTime": "2023-01-10T05:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-nvidia-will-use-ai-to-tweak-graphics-drivers-and-squeeze-out-more-performance.md",
-      "title": "NVIDIA will use AI to tweak graphics drivers and squeeze out more performance",
-      "excerpt": "NVIDIA will reportedly use its advanced AI solutions to tweak and optimize its graphics drivers to squeeze out more incremental video card performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/89967/nvidia-will-use-ai-to-tweak-graphics-drivers-and-squeeze-out-more-performance/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/89967/nvidia-will-use-ai-to-tweak-graphics-drivers-and-squeeze-out-more-performance/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/8/9/89967_2_nvidia-will-use-ai-to-tweak-graphics-drivers-and-squeeze-out-more-performance.jpg",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-e2open-announces-fiscal-third-quarter-2023-financial-results.md",
-      "title": "E2open Announces Fiscal Third Quarter 2023 Financial Results",
-      "excerpt": "Constant Currency refers to pro forma amounts excluding the impact of translating foreign currencies into U.S. dollars. To calculate foreign currency translation on a constant currency basis, operating results for the current year period for entities reporting in currencies other than the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/e2open-announces-fiscal-third-quarter-2023-financial-results/article_5ba96fbe-260c-59f2-aab2-da598efad2dc.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/e2open-announces-fiscal-third-quarter-2023-financial-results/article_5ba96fbe-260c-59f2-aab2-da598efad2dc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T12:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-analyst-ratings-for-baidu.md",
-      "title": "Analyst Ratings for Baidu",
-      "excerpt": "Over the past 3 months, 7 analysts have published their opinion on Baidu BIDU stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/23/01/30338788/analyst-ratings-for-baidu",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/23/01/30338788/analyst-ratings-for-baidu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2023/1673290846_0_0.png",
-          "width": 700,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30338788",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30338788",
-      "publishedDateTime": "2023-01-09T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -312,21 +440,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-10-ai-powered-robot-lawyer-will-be-first-of-its-kind-to-represent-defendant-in-court.md",
-      "title": "AI-powered \"robot\" lawyer will be first of its kind to represent defendant in court",
-      "excerpt": "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month.",
+      "path": "_news/2023-01-10-what-does-it-really-take-to-be-a-leader-when-it-comes-to-cloud-databases.md",
+      "title": "What does it really take to be a leader when it comes to cloud databases?",
+      "excerpt": "Or it could be that Gartner positioned AWS highest in execution and furthest in vision in its 2022 Magic Quadrant for Cloud DBMS. In fact, both points support each other, says the company. AWS has become a leader in the cloud-native database market precisely because it pays such close attention to what customers need from their database infrastructure,",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/colorado/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
-      "originalUrl": "https://www.cbsnews.com/colorado/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
+      "webUrl": "https://www.theregister.com/2023/01/10/what_does_it_really_take/",
+      "originalUrl": "https://www.theregister.com/2023/01/10/what_does_it_really_take/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://regmedia.co.uk/2020/12/02/shutterstock_cloud_servers.jpg",
+          "width": 1300,
+          "height": 650,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -334,14 +462,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/colorado/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/colorado/news/ai-powered-robot-lawyer-takes-its-first-court-case/",
-      "publishedDateTime": "2023-01-09T11:38:00-08:00",
+      "ampWebUrl": "https://www.theregister.com/AMP/2023/01/10/what_does_it_really_take/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/01/10/what_does_it_really_take/",
+      "publishedDateTime": "2023-01-10T05:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "theregister",
+        "domain": "theregister.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-spin-master-to-acquire-the-hexbug-brand-and-portfolio-of-creative-robotic-technology.md",
+      "title": "Spin Master to Acquire the HEXBUG® Brand and Portfolio of Creative Robotic Technology",
+      "excerpt": "PRNewswire/ - Spin Master Corp. ('Spin Master') (TSX: TOY), a leading global children's entertainment company, today",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/spin-master-to-acquire-the-hexbug-brand-and-portfolio-of-creative-robotic-technology-1032009244",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/spin-master-to-acquire-the-hexbug-brand-and-portfolio-of-creative-robotic-technology-1032009244",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1979922/Spin_Master_Spin_Master_to_Acquire_the_HEXBUG__Brand_and_Portfol.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -355,21 +535,73 @@
       ]
     },
     {
-      "path": "_news/2023-01-10-ces-biometrics-and-ai-vision-for-autos-take-the-spotlight.md",
-      "title": "CES: biometrics and AI vision for autos take the spotlight",
-      "excerpt": "Several biometrics and computer vision developers have unveiled or showcased new technologies at the Consumer Electronics Show 2023.",
+      "path": "_news/2023-01-10-how-ai-powered-conversational-commerce-will-transform-shopping-in-2023.md",
+      "title": "How AI-powered conversational commerce will transform shopping in 2023",
+      "excerpt": "In retail, artificial intelligence is quickly becoming a widely used tool to provide more efficient and personalized customer service. According to a recent study by Juniper Research, AI-powered ...",
       "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202301/ces-biometrics-and-ai-vision-for-autos-take-the-spotlight",
-      "originalUrl": "https://www.biometricupdate.com/202301/ces-biometrics-and-ai-vision-for-autos-take-the-spotlight",
+      "webUrl": "https://venturebeat.com/ai/how-ai-powered-conversational-commerce-transform-shopping-2023/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-powered-conversational-commerce-transform-shopping-2023/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/21162142/wible-carsharing.jpg",
-          "width": 1024,
-          "height": 546,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-691108272.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 616,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-ai-powered-conversational-commerce-transform-shopping-2023/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-powered-conversational-commerce-transform-shopping-2023/amp/",
+      "publishedDateTime": "2023-01-10T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-baidu-said-to-be-slashing-jobs-trimming-bonuses-at-autonomous-driving-unit.md",
+      "title": "Baidu said to be slashing jobs, trimming bonuses at autonomous driving unit",
+      "excerpt": "Baidu is cutting jobs and cancelling bonuses for some employees in its autonomous driving unit as prospects for profits remain remote after years of investment, according to a report by a Chinese ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit?module=more_top_stories_us&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit?module=more_top_stories_us&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/01/10/0d24bba4-7537-49bb-aa05-0aac1deb5e9c_5c1c89ed.jpg?itok=c5FvCB6f&v=1673351667",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -379,11 +611,63 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T11:34:00-08:00",
+      "publishedDateTime": "2023-01-10T04:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-manufacturing-finance-among-industries-to-benefit-from-whats-next-in-ai-for-2023.md",
+      "title": "Manufacturing, Finance Among Industries to Benefit from What's Next in AI for 2023",
+      "excerpt": "From the hen house to the warehouse, to real-world robots that may already have a role in your house, AI seems like it's everywhere. That's because with a steady stream of new research and innovative applications reaching into nearly every industry and business sector,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/news/manufacturing-finance-among-industries-benefit-whats-next-ai-2023",
+      "originalUrl": "https://www.cc.gatech.edu/news/manufacturing-finance-among-industries-benefit-whats-next-ai-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2023/2023_ai_whats_new_graphic_v2.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cc.gatech.edu",
+        "domain": "gatech.edu",
         "images": null,
         "publishers": null,
         "authors": null
@@ -393,36 +677,29 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI in Finance",
+        "Facebook AI"
       ]
     },
     {
-      "path": "_news/2023-01-10-nvidia-rumored-to-be-developing-ai-optimized-drivers-with-serious-performance-enhancements.md",
-      "title": "Nvidia rumored to be developing AI-optimized drivers with serious performance enhancements",
-      "excerpt": "This is the first rumor we've seen about AI-driven driver development although we know chip makers already use AI to enhance chip research and development, this",
+      "path": "_news/2023-01-10-facial-recognition-leads-to-week-long-wrongful-imprisonment.md",
+      "title": "Facial recognition leads to week-long wrongful imprisonment",
+      "excerpt": "A false facial recognition match last fall led to an arrest and a week-long detention before police admitted they made a mistake. The police currently aren't",
       "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/97204-nvidia-rumored-developing-ai-optimized-drivers-serious-performance.html",
-      "originalUrl": "https://www.techspot.com/news/97204-nvidia-rumored-developing-ai-optimized-drivers-serious-performance.html",
+      "webUrl": "https://www.techspot.com/news/97215-facial-recognition-leads-week-long-wrongful-imprisonment.html",
+      "originalUrl": "https://www.techspot.com/news/97215-facial-recognition-leads-week-long-wrongful-imprisonment.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-09-image-12.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T11:27:00-08:00",
+      "publishedDateTime": "2023-01-10T03:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechSpot",
@@ -445,308 +722,24 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-10-ai-and-spam-how-artificial-intelligence-protects-your-inbox.md",
-      "title": "AI and Spam: How Artificial Intelligence Protects Your Inbox",
-      "excerpt": "Conversations around AI often include its role in cybersecurity prevention. AI is a powerful, indispensable tool in fighting cyber threats, but it can also comb through email inboxes to eliminate spam.",
+      "path": "_news/2023-01-10-ai-in-fintech-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028.md",
+      "title": "AI in Fintech Market 2023 : SWOT Analysis by Players Continues Explosive Growth by 2028",
+      "excerpt": "A latest extensive market study titled Global \"AI in Fintech Market\" Outlook from 2023 to 2028 enfolds a comprehensive analysis and assessment of the global market, allowing everyone to understand all-inclusive information associated with the latest market ...",
       "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/ai-and-spam/",
-      "originalUrl": "https://www.unite.ai/ai-and-spam/",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028-2023-01-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028-2023-01-10",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.unite.ai/wp-content/uploads/2023/01/ai-spam-feature-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-attention-uses-natural-language-processing-to-help-sales-reps-sell-faster.md",
-      "title": "Attention uses natural language processing to help sales reps sell faster",
-      "excerpt": "Attention wants to fix that with its sales assistant, which uses AI tech and natural language processing to automatically fill in CRMs after calls and draft follow-up emails. The New York-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/09/attention/",
-      "originalUrl": "https://techcrunch.com/2023/01/09/attention/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1337983366.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/09/attention/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/09/attention/amp/",
-      "publishedDateTime": "2023-01-09T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-worlds-first-ai-generated-online-course-created-by-minnesota-startup.md",
-      "title": "World's first AI-generated online course created by Minnesota startup",
-      "excerpt": "World's first AI-created online course made by Minnesota start-up 04:09 MINNEAPOLIS – A Minnesota startup says it has made the world's first online course that was created entirely by using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/minnesota/news/worlds-first-ai-generated-online-course-created-by-minnesota-startup/",
-      "originalUrl": "https://www.cbsnews.com/minnesota/news/worlds-first-ai-generated-online-course-created-by-minnesota-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-nvidia-reportedly-using-ai-optimized-drivers-to-improve-their-gpu-drivers.md",
-      "title": "NVIDIA Reportedly Using AI-Optimized Drivers To Improve Their GPU Drivers",
-      "excerpt": "NVIDIA is reportedly looking to include artificial intelligence (AI) in its new GPU (Graphics Processing Unit) drivers expected to release in the first",
-      "sourceUrl": null,
-      "webUrl": "https://www.techworm.net/2023/01/nvidia-ai-optimized-drivers-gpu-driver.html",
-      "originalUrl": "https://www.techworm.net/2023/01/nvidia-ai-optimized-drivers-gpu-driver.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techworm.net/wp-content/uploads/2023/01/NVIDIA.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techworm.net",
-        "domain": "techworm.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-cobalt-robotics-expands-deployment-with-ally-financial-to-secure-its-facilities-keep-employees-safe-save-money-and-tackle-labor-shortage.md",
-      "title": "Cobalt Robotics Expands Deployment with Ally Financial to Secure Its Facilities, Keep Employees Safe, Save Money, and Tackle Labor Shortage",
-      "excerpt": "Cobalt Robotics, the only machine learning company to automate repetitive manual security and facility tasks with autonomous robots around the world, today announced it has expanded its customer implementation with Ally Financial,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/01/09/9739892.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/01/09/9739892.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-4-ways-to-dominate-facebook-ads-in-2023.md",
-      "title": "4 Ways To Dominate Facebook Ads In 2023",
-      "excerpt": "In 2022, the digital marketing industry faced several challenges. Among these, the two major challenges were AI and the increased cost of digital ads. According to recent research, the Cost-Per-Click (CPC) for Facebook ads has shown a 17% increase in  the year 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/4-ways-to-dominate-facebook-ads-in-2023/",
-      "originalUrl": "https://techbullion.com/4-ways-to-dominate-facebook-ads-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/01/4-Ways-To-Dominate-Facebook-Ads-In-2023-1-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life.md",
-      "title": "GULIGULI Showed off Smart Pet Companion Robot at CES 2023, Helping Pets Live Their Best Life",
-      "excerpt": "GULIGULI unveils at CES a robot that lets you see, talk to, play with, and even provide treats to your cat or dog when you’re not home. GULIGULI, maker of innovative pet supplies, is putting an end to pet and pet owner loneliness with its new app-controlled pet companion robot.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-1-9-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-1-9-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-best-gpu-deals-for-january-2023.md",
-      "title": "Best GPU deals for January 2023",
-      "excerpt": "Things are improving, though, and there are some good GPU deals popping up online if you ... at 192-bit, with DLSS AI acceleration and ray tracing support for hyper-realistic, fluid motion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/",
-      "originalUrl": "https://www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2018/05/razer-core-x-ext-gpu-openl.jpg?resize=1200%2C630&p=1",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -756,16 +749,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/",
-      "publishedDateTime": "2023-01-09T05:32:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T03:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -781,26 +774,121 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-09-speech-pattern-analysis-can-help-diagnose-manage-psychiatric-disorders.md",
-      "title": "Speech pattern analysis can help diagnose, manage psychiatric disorders",
-      "excerpt": "Advances in natural language processing, speech recognition, and computer science have underscored the fact that using speech analysis as an objective, clinical measurement of mental illness is ...",
+      "path": "_news/2023-01-10-memory-disturbance-after-covid-19-common-cognitive-impairments-seen-during-recovery-and-after-the-infection.md",
+      "title": "Memory Disturbance After COVID-19: Common Cognitive Impairments Seen During Recovery And After The Infection",
+      "excerpt": "COVID-19 survivors recovering from the illness complained of various cognitive impairments. A Cognitive expert explains the potential causes as well as ways to treat such a condition. The COVID-19 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230109/Speech-pattern-analysis-can-help-diagnose-manage-psychiatric-disorders.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230109/Speech-pattern-analysis-can-help-diagnose-manage-psychiatric-disorders.aspx",
+      "webUrl": "https://www.thehealthsite.com/diseases-conditions/memory-disturbance-after-covid-19-common-cognitive-impairments-seen-during-recovery-and-after-the-infection-942477/",
+      "originalUrl": "https://www.thehealthsite.com/diseases-conditions/memory-disturbance-after-covid-19-common-cognitive-impairments-seen-during-recovery-and-after-the-infection-942477/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/depression-620x480.jpg",
-          "width": 620,
-          "height": 480,
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2023/01/cognitive-impairments-after-COVID-19-infection.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehealthsite.com/diseases-conditions/memory-disturbance-after-covid-19-common-cognitive-impairments-seen-during-recovery-and-after-the-infection-942477/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/memory-disturbance-after-covid-19-common-cognitive-impairments-seen-during-recovery-and-after-the-infection-942477/amp/",
+      "publishedDateTime": "2023-01-10T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-how-to-put-learners-at-the-center-of-learning.md",
+      "title": "How To Put Learners At The Center Of Learning",
+      "excerpt": "Learning personalization is in order, and as I’ll discuss, it’s easier than you probably think. So, why don’t more companies put individual learners at the center of learning? Typically, it’s not because they don’t want to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/10/how-to-put-learners-at-the-center-of-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/10/how-to-put-learners-at-the-center-of-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62a38dfdc25c1a78a8876076/0x0.jpg?format=jpg&width=1200",
+          "width": 839,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/10/how-to-put-learners-at-the-center-of-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/10/how-to-put-learners-at-the-center-of-learning/amp/",
+      "publishedDateTime": "2023-01-10T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-top-machine-learning-trends-to-watch-out-for-in-2023.md",
+      "title": "Top Machine Learning Trends to Watch out for in 2023",
+      "excerpt": "Using automated machine learning, professionals can design effective tech models that improve production and efficiency. Fremont, CA: We can",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioapplications.com/news/top-machine-learning-trends-to-watch-out-for-in-2023-nid-10447.html",
+      "originalUrl": "https://www.cioapplications.com/news/top-machine-learning-trends-to-watch-out-for-in-2023-nid-10447.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioapplications.com/newstransfer/upload/zdtphcioapp450-308.jpg",
+          "width": 450,
+          "height": 308,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -810,11 +898,54 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T05:19:00-08:00",
+      "publishedDateTime": "2023-01-10T03:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
+        "name": "CIO Applications",
+        "domain": "cioapplications.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-will-new-ai-signal-the-death-of-the-essay.md",
+      "title": "Will new AI signal the ‘death’ of the essay?",
+      "excerpt": "A new open source AI tool has been sending shock waves across the sector as educators witness for the first time, the true power and availability of machine-authored content. Nicholas first began his career with Nottingham Trent University in the UK in international student recruitment.",
+      "sourceUrl": null,
+      "webUrl": "https://thepienews.com/news/will-new-ai-signal-the-death-of-the-essay/",
+      "originalUrl": "https://thepienews.com/news/will-new-ai-signal-the-death-of-the-essay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1pe6f90ru47yo.cloudfront.net/wp-content/uploads/2023/01/10105127/pexels-peter-olexa-4012966-860x375.jpg",
+          "width": 860,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The PIE News",
+        "domain": "thepienews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -829,55 +960,12 @@
       ]
     },
     {
-      "path": "_news/2023-01-09-indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles.md",
-      "title": "indie Semiconductor Developing More-advanced Vision Processors for Vehicles",
-      "excerpt": "California-based indie Semiconductor, which has an office in Auburn Hills, has announced a strategic partnership with Seeing Machines.",
+      "path": "_news/2023-01-10-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
+      "title": "NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
+      "excerpt": "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT ... Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
       "sourceUrl": null,
-      "webUrl": "https://www.dbusiness.com/tech-mobility-news/indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles/",
-      "originalUrl": "https://www.dbusiness.com/tech-mobility-news/indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2023/01/TMN-SeeingMachine400.jpg",
-          "width": 400,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DBusiness Magazine",
-        "domain": "dbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-natural-language-processing-market-size-worth-usd-16181-billion-by-2029-report-by-fortune-business-insights.md",
-      "title": "Natural Language Processing Market size Worth USD 161.81 Billion by 2029 | Report by Fortune Business Insights",
-      "excerpt": "Moreover, rising adoption of electronics elevated natural language processing adoption. Also rapid digitalization in companies enhanced the adoption of the software. These factors enhanced this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/g30329142/natural-language-processing-market-size-worth-usd-161-81-billion-by-2029-report-by-fortune-busines",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/g30329142/natural-language-processing-market-size-worth-usd-161-81-billion-by-2029-report-by-fortune-busines",
+      "webUrl": "https://www.nhs.uk/services/clinic/harrow-talking-therapies-iapt/RV383/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
+      "originalUrl": "https://www.nhs.uk/services/clinic/harrow-talking-therapies-iapt/RV383/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -887,11 +975,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:54:00-08:00",
+      "publishedDateTime": "2023-01-10T03:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "NHS Choices",
+        "domain": "www.nhs.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -901,26 +989,27 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2023-01-09-australian-gov-renews-ibm-contract-for-quantum-computing-ai.md",
-      "title": "Australian gov renews IBM contract for quantum computing, AI",
-      "excerpt": "This includes IBM’s suite of technology capabilities like IBM Watson, which uses AI to automate processes, and the IBM Cloud, to store government data. The new agreement follows the first of its ...",
+      "path": "_news/2023-01-10-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "AI stocks may be excellent long-term investments. Virtually every industry is being disrupted by artificial intelligence, automation and robotics. In 2022, the world got a firsthand look at",
       "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/public-sector/369819/australian-gov-renews-ibm-contract-for-quantum-computing-ai",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/public-sector/369819/australian-gov-renews-ibm-contract-for-quantum-computing-ai",
+      "webUrl": "https://wtop.com/news/2023/01/artificial-intelligence-stocks-the-10-best-ai-companies-11/",
+      "originalUrl": "https://wtop.com/news/2023/01/artificial-intelligence-stocks-the-10-best-ai-companies-11/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1673259843/itpro/2023/January/IBM_DTA_Australia_press.png",
-          "width": 1260,
-          "height": 710,
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -930,63 +1019,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:43:00-08:00",
+      "publishedDateTime": "2023-01-10T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-nvidia-is-allegedly-working-on-ai-optimized-gpu-drivers-to-deliver-a-massive-performance-boost.md",
-      "title": "NVIDIA Is Allegedly Working On AI-Optimized GPU Drivers To Deliver A Massive Performance Boost",
-      "excerpt": "Sound advice for rumors and leaks in general, but point taken. According to CapFrameX, NVIDIA's AI-optimized GPU drivers would deliver up to 30 percent better performance, with gamers being able ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-ai-optimized-gpu-drivers-massive-performance-boost",
-      "originalUrl": "https://hothardware.com/news/nvidia-ai-optimized-gpu-drivers-massive-performance-boost",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/60604/content/NVIDIA_GeForce_Logo_Hero.jpg",
-          "width": 708,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-ai-optimized-gpu-drivers-massive-performance-boost",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-optimized-gpu-drivers-massive-performance-boost",
-      "publishedDateTime": "2023-01-09T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
+        "name": "WTOP News",
+        "domain": "wtop.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -996,78 +1033,27 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "IBM AI"
       ]
     },
     {
-      "path": "_news/2023-01-09-2023-is-all-about-analytics.md",
-      "title": "2023 is all about analytics",
-      "excerpt": "That’s cloud-based analytics tools. Companies seem to understand this. At a recent analyst conference, Snowflake CFO Mike Scarpelli talked about competitive dynamics in the data warehousing market. “We are never competing with Teradata [an incumbent data analytics company founded in the on-premises software era].",
+      "path": "_news/2023-01-10-why-advisors-should-make-plans-well-before-they-experience-cognitive-decline.md",
+      "title": "Why advisors should make plans well before they experience cognitive decline",
+      "excerpt": "Advisors look out for cognitive decline in their clients, but what happens when it’s advisors themselves who experience progressive memory loss and other symptoms severe enough to impact their work?",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3684830/2023-is-all-about-analytics.html",
-      "originalUrl": "https://www.infoworld.com/article/3684830/2023-is-all-about-analytics.html",
+      "webUrl": "https://www.theglobeandmail.com/investing/globe-advisor/advisor-practice/article-why-advisors-should-make-plans-well-before-they-experience-cognitive/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/globe-advisor/advisor-practice/article-why-advisors-should-make-plans-well-before-they-experience-cognitive/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/article/2022/11/istock-1188134154-100934502-large.jpg?auto=webp&quality=85,70",
+          "url": "https://www.theglobeandmail.com/resizer/DcvkPvx7LA2O-uypqiSEe1GT3sI=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/6A5RMBIFINFEFER6J32QFI3ODI.jpg",
           "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3684830/2023-is-all-about-analytics.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3684830/2023-is-all-about-analytics.amp.html",
-      "publishedDateTime": "2023-01-09T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-hdfc-limited-is-certified-as-a-best-firm-for-data-scientists.md",
-      "title": "HDFC Limited is certified as a Best Firm For Data Scientists",
-      "excerpt": "The Best Firm For Data Scientists certification surveys a company’s data scientists and analytics employees to identify and recognise organisations with great company culture.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/hdfc-limited-is-certified-as-a-best-firm-for-data-scientists/",
-      "originalUrl": "https://analyticsindiamag.com/hdfc-limited-is-certified-as-a-best-firm-for-data-scientists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/1.-Press-Release-Banner-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1077,11 +1063,54 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T02:30:00-08:00",
+      "publishedDateTime": "2023-01-10T02:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-machine-learning-accelerates-drug-formulation-development-changing-the-game-for-pharmaceutical-research.md",
+      "title": "Machine Learning Accelerates Drug Formulation Development, Changing the Game for Pharmaceutical Research",
+      "excerpt": "New study demonstrates the potential for machine learning to accelerate the development of innovative drug delivery technologies. Scientists at the University of Toronto have successfully tested the use of machine learning models to guide the design of long-acting injectable drug formulations.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/machine-learning-accelerates-drug-formulation-development-changing-the-game-for-pharmaceutical-research/",
+      "originalUrl": "https://scitechdaily.com/machine-learning-accelerates-drug-formulation-development-changing-the-game-for-pharmaceutical-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Artificial-Intelligence-AI-Technology-Drug-Discovery.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
         "images": null,
         "publishers": null,
         "authors": null

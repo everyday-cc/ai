@@ -2,12 +2,12 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2023-02-06-niprd-advocates-use-of-artificial-intelligence-to-boost-healthcare-delivery-nigeria.md",
-      "title": "NIPRD advocates use of artificial intelligence to boost healthcare delivery: Nigeria",
-      "excerpt": "Introducing Artificial Intelligence interventions for centralized medical record database will unlock potential value for the healthcare ecosystem by providing up-to-date, accurate and complete inform",
+      "path": "_news/2023-02-06-law-firms-developing-gpt-35-tools-for-now-they-may-be-few-and-far-between.md",
+      "title": "Law Firms Developing GPT-3.5 Tools? For Now, They May Be Few and Far Between",
+      "excerpt": "While legal tech providers are steadily releasing tools leveraging GPT-3.5, even innovative law firms who regularly develop legal tech may have a challenging time following suit.",
       "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/economy/africa/niprd-advocates-use-of-artificial-intelligence-to-boost-healthcare-delivery-nigeria-g335n1q4",
-      "originalUrl": "https://www.zawya.com/en/economy/africa/niprd-advocates-use-of-artificial-intelligence-to-boost-healthcare-delivery-nigeria-g335n1q4",
+      "webUrl": "https://www.law.com/legaltechnews/2023/02/06/law-firms-developing-gpt-3-5-tools-for-now-they-may-be-few-and-far-between/",
+      "originalUrl": "https://www.law.com/legaltechnews/2023/02/06/law-firms-developing-gpt-3-5-tools-for-now-they-may-be-few-and-far-between/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -15,9 +15,179 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/economy/africa/niprd-advocates-use-of-artificial-intelligence-to-boost-healthcare-delivery-nigeria-g335n1q4?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/economy/africa/niprd-advocates-use-of-artificial-intelligence-to-boost-healthcare-delivery-nigeria-g335n1q4?amp=1",
-      "publishedDateTime": "2023-02-06T00:57:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-noozai-launches-web-based-version-of-its-app-with-enhanced-features.md",
+      "title": "NOOZ.ai Launches Web-Based Version of Its App With Enhanced Features",
+      "excerpt": "NT CONNECT, an international tech developer, today announces the launch of their app, NOOZ.ai, in a web-based format. The app's web version will be readily available through",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g30729491/nooz-ai-launches-web-based-version-of-its-app-with-enhanced-features",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g30729491/nooz-ai-launches-web-based-version-of-its-app-with-enhanced-features",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-search-wars-reignited-by-artificial-intelligence-breakthroughs.md",
+      "title": "Search wars reignited by artificial intelligence breakthroughs",
+      "excerpt": "Google, Microsoft and some start-ups plan to embed AI into their services in ways that may transform the market",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/b236b70d-82dc-40f8-84be-dc4daff151e4?shareType=nongift",
+      "originalUrl": "https://www.ft.com/content/b236b70d-82dc-40f8-84be-dc4daff151e4?shareType=nongift",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation.md",
+      "title": "AI startup Cohere in talks to raise funding at $6 billion plus valuation",
+      "excerpt": "Toronto-based Cohere, established by former researchers at Alphabet in 2019, has quickly risen through the AI startup ranks given their intensive research background and close ties to Google, investors said.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/articleshow/97653062.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/articleshow/97653062.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/amp_articleshow/97653062.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/amp_articleshow/97653062.cms",
+      "publishedDateTime": "2023-02-06T04:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth.md",
+      "title": "Q4 2022 cloud results: Amazon, Microsoft, & Google earnings show slowing growth",
+      "excerpt": "Amazon, Google, and Microsoft all posted double-digit growth in their cloud divisions, but at a lower rate than prior years of breakneck growth. In its fourth-quarter earnings report, Amazon Web Services (AWS) said that it brought in $21.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect.md",
+      "title": "UAB joins e&enterprise fintech blockchain platform UAE Trade Connect",
+      "excerpt": "UAB collaborates with the UAE Trade Connect platform to detect fraud and suspicious activities in the trade financing space",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc?amp=1",
+      "publishedDateTime": "2023-02-06T04:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Zawya",
@@ -31,17 +201,17 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-ai-machine-learning-beat-cryptocurrency-as-top-tech-choice-among-institutional-investors.md",
-      "title": "AI, Machine Learning Beat Cryptocurrency As Top Tech Choice Among Institutional Investors",
-      "excerpt": "\"This trend toward automation is something we're seeing across the market now, and is expanding into the credit and rates side as well as commodities,\" said Scott Wacker, JP Morgan head of FICC e-commerce sales.",
+      "path": "_news/2023-02-06-goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches.md",
+      "title": "Goa Using Self-Driving, AI-Powered Robots As Lifeguards On Beaches",
+      "excerpt": "In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus, a self-driving robot and Triton,",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/ai-machine-learning-beat-cryptocurrency-top-tech-choice-among-institutional-investors-3664780",
-      "originalUrl": "https://www.ibtimes.com/ai-machine-learning-beat-cryptocurrency-top-tech-choice-among-institutional-investors-3664780",
+      "webUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599",
+      "originalUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -49,58 +219,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/ai-machine-learning-beat-cryptocurrency-top-tech-choice-among-institutional-investors-3664780?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ai-machine-learning-beat-cryptocurrency-top-tech-choice-among-institutional-investors-3664780?amp=1",
-      "publishedDateTime": "2023-02-06T00:16:00-08:00",
+      "ampWebUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599/amp/1",
+      "publishedDateTime": "2023-02-06T04:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
+        "name": "NDTV",
+        "domain": "ndtv.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-self-service-shared-coffee-machines-market-size-2023-with-new-report-by-driving-players-and-top-selling-cost-till-2028.md",
-      "title": "Self-service Shared Coffee Machines Market Size 2023 with New Report by Driving Players and Top Selling Cost till 2028",
-      "excerpt": "New research published as the “Self-service Shared Coffee Machines Market” research report provides an in-depth review",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-service-shared-coffee-machines-market-size-2023-with-new-report-by-driving-players-and-top-selling-cost-till-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-service-shared-coffee-machines-market-size-2023-with-new-report-by-driving-players-and-top-selling-cost-till-2028-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T23:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -110,16 +236,17 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2023-02-06-budget-2023-from-video-based-kyc-to-expansion-of-digilocker-services-positive-signals-for-fintech.md",
-      "title": "Budget 2023: From video-based KYC to expansion of DigiLocker services, positive signals for fintech",
-      "excerpt": "In India, the fintech space for consumers can be largely categorized into five major pillars, all essentially powered by technology and digitization. These include payment services, lending segments,",
+      "path": "_news/2023-02-06-roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-worldwide.md",
+      "title": "ROC and MOSIP Partnership to Bring Industry-Leading Biometric Algorithms to Digital ID Systems Worldwide",
+      "excerpt": "Denver based technology company Rank One Computing (ROC) announced a partnership with the Modular Open Source Identity Platform (MOSIP) on January 17, 2023. The partnership will allow",
       "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/opinion/budget-2023-from-video-based-kyc-to-expansion-of-digilocker-services-positive-signals-for-fintech-12109252.html",
-      "originalUrl": "https://www.firstpost.com/opinion/budget-2023-from-video-based-kyc-to-expansion-of-digilocker-services-positive-signals-for-fintech-12109252.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30727964/roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-wor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30727964/roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-wor",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -127,13 +254,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/opinion/budget-2023-from-video-based-kyc-to-expansion-of-digilocker-services-positive-signals-for-fintech-12109252.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/budget-2023-from-video-based-kyc-to-expansion-of-digilocker-services-positive-signals-for-fintech-12109252.html/amp",
-      "publishedDateTime": "2023-02-05T23:28:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30727964",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30727964",
+      "publishedDateTime": "2023-02-06T04:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -143,17 +270,17 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-is-c3ai-artificial-intelligence-product-suite-a-gamechanger.md",
-      "title": "Is C3.ai Artificial Intelligence Product Suite a Gamechanger?",
-      "excerpt": "IBM) AI platform Watson which launched in 2011. However, it’s finally becoming useful in everyday applications for everyday people, and the general public is eating it up. The key has been the ...",
+      "path": "_news/2023-02-06-chatgpt-rival-google-invest-in-ai-start-up-as-arms-race-intensifies.md",
+      "title": "ChatGPT rival - Google invest in AI start-up as arms race intensifies",
+      "excerpt": "Google Cloud has invested US$300mln in AI company Anthropic following the popularisation of OpenAI’s ChatGPT, according to media reports. The deal will",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/is-c3.ai-artificial-intelligence-product-suite-a-gamechanger",
-      "originalUrl": "https://www.nasdaq.com/articles/is-c3.ai-artificial-intelligence-product-suite-a-gamechanger",
+      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/1005300/chatgpt-rival-google-invest-in-ai-start-up-as-arms-race-intensifies-1005300.html",
+      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/1005300/chatgpt-rival-google-invest-in-ai-start-up-as-arms-race-intensifies-1005300.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -163,11 +290,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T23:15:00-08:00",
+      "publishedDateTime": "2023-02-06T04:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Proactive Investors",
+        "domain": "proactiveinvestors.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -177,17 +304,16 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-entrepreneurs-arent-using-ai-to-its-full-potential-heres-how-to-think-bigger.md",
-      "title": "Entrepreneurs Aren’t Using AI To Its Full Potential: Here’s How To Think Bigger",
-      "excerpt": "There’s a widening gap between those with their head in the sand and those grabbing AI with both hands. Your business could be unrecognisable in a few months if you harness the technology without the constraints you’ve been working within so far.",
+      "path": "_news/2023-02-06-what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare.md",
+      "title": "What ChatGPT And Other AI Tools Mean For The Future Of Healthcare",
+      "excerpt": "In the near future, AI will play an even more significant role in medicine, assisting physicians with clinical and administrative tasks to improve the quality, affordability and accessibility of care.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jodiecook/2023/02/06/entrepreneurs-arent-using-ai-to-its-full-potential-heres-how-to-think-bigger/",
-      "originalUrl": "https://www.forbes.com/sites/jodiecook/2023/02/06/entrepreneurs-arent-using-ai-to-its-full-potential-heres-how-to-think-bigger/",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -195,9 +321,9 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jodiecook/2023/02/06/entrepreneurs-arent-using-ai-to-its-full-potential-heres-how-to-think-bigger/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jodiecook/2023/02/06/entrepreneurs-arent-using-ai-to-its-full-potential-heres-how-to-think-bigger/amp/",
-      "publishedDateTime": "2023-02-05T23:00:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/06/what-chatgpt-and-other-ai-tools-mean-for-the-future-of-healthcare/amp/",
+      "publishedDateTime": "2023-02-06T04:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -220,16 +346,17 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-global-deep-learning-chipset-market-growth-size-and-outlook-2023-research-report-by-breakdown-data-product-type-company-and-forecast-to-2029.md",
-      "title": "Global Deep Learning Chipset Market Growth (Size and Outlook) 2023 Research Report by Breakdown Data, Product Type, Company and Forecast to 2029",
-      "excerpt": "Feb 06, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Deep Learning Chipset",
+      "path": "_news/2023-02-06-tellimer-expands-ai-bond-data-collaboration-with-7-chord.md",
+      "title": "Tellimer Expands AI Bond Data Collaboration With 7 Chord",
+      "excerpt": "As Tellimer aspires to be the single point of entry for all Emerging Markets data, analysis and research, Tellimer and 7 Chord will expand an agreement, reached in 2022, to publish 7 Chord's end-of-month Emerging Market bond pricing data on the Tellimer Insights platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-growth-size-and-outlook-2023-research-report-by-breakdown-data-product-type-company-and-forecast-to-2029-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-growth-size-and-outlook-2023-research-report-by-breakdown-data-product-type-company-and-forecast-to-2029-2023-02-06",
+      "webUrl": "https://www.tmcnet.com/usubmit/-tellimer-expands-ai-bond-data-collaboration-with-7-/2023/02/06/9755121.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-tellimer-expands-ai-bond-data-collaboration-with-7-/2023/02/06/9755121.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -239,54 +366,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T22:48:00-08:00",
+      "publishedDateTime": "2023-02-06T04:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ai-in-computer-aided-synthesis-planning-market-size-growth-manufacturers-segments-and-2030-forecast-report.md",
-      "title": "AI In Computer Aided Synthesis Planning Market Size, Growth, Manufacturers, Segments And 2030 Forecast Report",
-      "excerpt": "The  global ai in computer aided synthesis planning market  is estimated to occupy a large amount of revenue by growing at a not",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105528110/AI-In-Computer-Aided-Synthesis-Planning-Market-Size-Growth-Manufacturers-Segments-And-2030-Forecast-Report",
-      "originalUrl": "https://menafn.com/1105528110/AI-In-Computer-Aided-Synthesis-Planning-Market-Size-Growth-Manufacturers-Segments-And-2030-Forecast-Report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T22:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -296,17 +380,17 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-qualcomm-expects-to-continue-supplying-chips-to-huawei-despite-us-mulling-broader-ban.md",
-      "title": "Qualcomm expects to continue supplying chips to Huawei despite US mulling broader ban",
-      "excerpt": "With the US government expected to intensify its ban on deals with Huawei by barring 4G, Wi-Fi, and AI chips, Alex Rogers, president of Qualcomm",
+      "path": "_news/2023-02-06-ebu-artificial-intelligence-will-drive-the-future-of-production.md",
+      "title": "EBU: Artificial intelligence will drive the future of production",
+      "excerpt": "The European Broadcasting Union's head of strategy suggests AI will help to simplify the skills needed in production in the next few years",
       "sourceUrl": null,
-      "webUrl": "https://technode.com/2023/02/06/qualcomm-expects-to-continue-supplying-chips-to-huawei-despite-us-mulling-broader-ban/",
-      "originalUrl": "https://technode.com/2023/02/06/qualcomm-expects-to-continue-supplying-chips-to-huawei-despite-us-mulling-broader-ban/",
+      "webUrl": "https://www.tvbeurope.com/live-production/ebu-artificial-intelligence-will-drive-the-future-of-production",
+      "originalUrl": "https://www.tvbeurope.com/live-production/ebu-artificial-intelligence-will-drive-the-future-of-production",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -316,11 +400,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T22:10:00-08:00",
+      "publishedDateTime": "2023-02-06T04:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -330,31 +414,39 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches.md",
-      "title": "Goa using artificial intelligence-powered robots, technology to save lives on its beaches",
-      "excerpt": "Hyderabad: In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus, a self-driving robot and Triton,",
+      "path": "_news/2023-02-06-goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches.md",
+      "title": "Goa: Artificial Intelligence-Powered Robots To Be Used To Save Lives On Beaches",
+      "excerpt": "In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus. Read full story on Dynamite News:",
       "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches/",
-      "originalUrl": "https://indiaeducationdiary.in/goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches/",
+      "webUrl": "https://www.dynamitenews.com/story/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches",
+      "originalUrl": "https://www.dynamitenews.com/story/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.dynamitenews.com/images/2023/02/06/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches/63e0ed22cf4fa.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches/amp/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/goa-using-artificial-intelligence-powered-robots-technology-to-save-lives-on-its-beaches/amp/",
-      "publishedDateTime": "2023-02-05T22:06:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T04:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
+        "name": "Dynamite News",
+        "domain": "dynamitenews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -370,12 +462,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-chatgpt-writing-on-the-wall-for-copywriters.md",
-      "title": "ChatGPT: Writing on the wall for copywriters?",
-      "excerpt": "Today we begin a new series decoding the trends that are shaping the adtech space. In the first edition of TechTalks, we explore if A&M copywriters need to worry about the much talked-about ChatGPT",
+      "path": "_news/2023-02-06-artificial-intelligence-in-medical-imaging-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028.md",
+      "title": "Artificial Intelligence In Medical Imaging Market Size 2023 Will Touch A New Level In The Upcoming Year 2028",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
       "sourceUrl": null,
-      "webUrl": "https://www.pitchonnet.com/marketing-moments/chatgpt-writing-on-the-wall-for-copywriters-32608.html",
-      "originalUrl": "https://www.pitchonnet.com/marketing-moments/chatgpt-writing-on-the-wall-for-copywriters-32608.html",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -385,218 +477,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pitch on Net",
-        "domain": "pitchonnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-how-to-invest-in-ai-as-chatgpt-takes-tech-by-storm.md",
-      "title": "How to Invest in AI as ChatGPT Takes Tech by Storm",
-      "excerpt": "From the classroom to the boardroom, the artificial intelligence-powered chatbot ChatGPT is being billed as a game changer in how work is done. It can write a term paper, organize",
-      "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/money/investing-in-ai-stocks/",
-      "originalUrl": "https://www.sacbee.com/money/investing-in-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-how-artificial-intelligence-is-playing-a-role-in-insect-farming.md",
-      "title": "How artificial intelligence is playing a role in insect farming",
-      "excerpt": "An AI engine developed by Singapore startup EntoVerse is helping cricket farmers improve yield by optimising environmental and other conditions",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/365530187/How-artificial-intelligence-is-playing-a-role-in-insect-farming",
-      "originalUrl": "https://www.computerweekly.com/news/365530187/How-artificial-intelligence-is-playing-a-role-in-insect-farming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/365530187/How-artificial-intelligence-is-playing-a-role-in-insect-farming?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/365530187/How-artificial-intelligence-is-playing-a-role-in-insect-farming?amp=1",
-      "publishedDateTime": "2023-02-05T21:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ai-startup-funding-acquisition-report-2023.md",
-      "title": "AI Startup Funding & Acquisition Report 2023",
-      "excerpt": "Funding has increased marginally from $1,108 Million in 2021 to $1,109.62 Million in 2022. Moreover, funding rounds have decreased sharply from 135 in 2021 to 47 in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/ai-startup-funding-acquisition-report-2023/",
-      "originalUrl": "https://analyticsindiamag.com/ai-startup-funding-acquisition-report-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T21:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-preempting-a-generative-ai-monopoly.md",
-      "title": "Preempting A Generative AI Monopoly",
-      "excerpt": "CAMBRIDGE - ChatGPT, the new artificial-intelligence chatbot developed by the San Francisco-based research laboratory OpenAI, has taken the world",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105527696/Preempting-A-Generative-AI-Monopoly",
-      "originalUrl": "https://menafn.com/1105527696/Preempting-A-Generative-AI-Monopoly",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T21:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-mp-tells-australias-parliament-ai-could-be-used-for-mass-destruction-in-speech-part-written-by-chatgpt.md",
-      "title": "MP tells Australia’s parliament AI could be used for ‘mass destruction’ in speech part-written by ChatGPT",
-      "excerpt": "Julian Hill has called for an inquiry or white paper to look into the risks and benefits of artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2023/feb/06/labor-mp-julian-hill-australia-parliament-speech-ai-part-written-by-chatgpt",
-      "originalUrl": "https://www.theguardian.com/australia-news/2023/feb/06/labor-mp-julian-hill-australia-parliament-speech-ai-part-written-by-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/2023/feb/06/labor-mp-julian-hill-australia-parliament-speech-ai-part-written-by-chatgpt",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/feb/06/labor-mp-julian-hill-australia-parliament-speech-ai-part-written-by-chatgpt",
-      "publishedDateTime": "2023-02-05T20:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-ai-in-construction-market-share-analysis-environment-development-trend-in-2023.md",
-      "title": "Artificial Intelligence (AI) in Construction Market Share Analysis, Environment Development Trend In 2023",
-      "excerpt": "Artificial Intelligence (AI) in Construction Market Size 2023-2029 | New Report (115 Pages) | In This Reports Artificial Intelligence (AI) in Construction Market and its business scene, significant issues,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-share-analysis-environment-development-trend-in-2023-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-share-analysis-environment-development-trend-in-2023-2023-02-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T20:36:00-08:00",
+      "publishedDateTime": "2023-02-06T04:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -623,47 +504,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-artificial-intelligence-in-health-care-is-it-hype-or-help.md",
-      "title": "Artificial intelligence in health care: Is it hype or help?",
-      "excerpt": "Many institutions like Mayo Clinic, Google and venture capital firms believe that AI’s potential in medicine is ready to mature.",
+      "path": "_news/2023-02-06-chatgpt-may-be-just-the-beginning-as-ai-is-likely-to-spur-pe-and-ma-activity.md",
+      "title": "ChatGPT may be just the beginning, as AI is likely to spur PE and M&A activity",
+      "excerpt": "AI, customer engagement, digital transformation and cybersecurity are among hot tech areas of investment, said Union Square Advisors' Wayne Kawarabayashi.",
       "sourceUrl": null,
-      "webUrl": "https://www.twincities.com/2023/02/05/artificial-intelligence-in-health-care-is-it-hype-or-help/",
-      "originalUrl": "https://www.twincities.com/2023/02/05/artificial-intelligence-in-health-care-is-it-hype-or-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.twincities.com/2023/02/05/artificial-intelligence-in-health-care-is-it-hype-or-help/amp/",
-      "cdnAmpWebUrl": "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2023/02/05/artificial-intelligence-in-health-care-is-it-hype-or-help/amp/",
-      "publishedDateTime": "2023-02-05T20:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TwinCities.com",
-        "domain": "twincities.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-computer-vision-development-market-2023-magnificent-analysis-report-for-huge-growth-with-forthcoming-challenges-forecast-to-2027.md",
-      "title": "Computer Vision Development Market 2023: Magnificent Analysis Report for Huge Growth with Forthcoming Challenges Forecast to 2027",
-      "excerpt": "Feb 06, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Computer Vision Development Market”...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2023-magnificent-analysis-report-for-huge-growth-with-forthcoming-challenges-forecast-to-2027-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-development-market-2023-magnificent-analysis-report-for-huge-growth-with-forthcoming-challenges-forecast-to-2027-2023-02-06",
+      "webUrl": "https://www.pehub.com/chatgpt-may-be-just-the-beginning-as-ai-is-likely-to-spur-pe-and-ma-activity/",
+      "originalUrl": "https://www.pehub.com/chatgpt-may-be-just-the-beginning-as-ai-is-likely-to-spur-pe-and-ma-activity/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -673,7 +519,236 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T20:13:00-08:00",
+      "publishedDateTime": "2023-02-06T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PE Hub",
+        "domain": "pehub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-inside-safe-city-moscows-ai-surveillance-dystopia.md",
+      "title": "Inside Safe City, Moscow’s AI Surveillance Dystopia",
+      "excerpt": "Moscow promised residents lower crime rates through an expansive smart city project. Then Vladimir Putin invaded Ukraine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/moscow-safe-city-ntechlab/",
+      "originalUrl": "https://www.wired.com/story/moscow-safe-city-ntechlab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/moscow-safe-city-ntechlab/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/moscow-safe-city-ntechlab/amp",
+      "publishedDateTime": "2023-02-06T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-facilities-facial-recognition-staffing-ai-personalization-among-hottest-topics-for-live-events-in-2023.md",
+      "title": "Facilities: Facial recognition, staffing, AI, personalization among hottest topics for live events in 2023",
+      "excerpt": "I fired off a barrage of emails in January to dozens of folks involved with every aspect of the live sports experience to see what topics are: A) front of mind for them as 2023 gets going and, B) most intriguing to them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportsbusinessjournal.com/Journal/Issues/2023/02/06/Insiders/facilities.aspx",
+      "originalUrl": "https://www.sportsbusinessjournal.com/Journal/Issues/2023/02/06/Insiders/facilities.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sports Business Journal",
+        "domain": "sportsbusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-google-reportedly-invests-400-million-in-ai-startup-anthropic.md",
+      "title": "Google reportedly invests $400 million in AI startup Anthropic",
+      "excerpt": "We're partnering with Google Cloud to support the next phase of Anthropic, where we're going to deploy our AI systems to a larger set of people,” said Anthropic CEO Dario Amo",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/google-reportedly-invests-400-million-in-ai-startup-anthropic-10016161.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/google-reportedly-invests-400-million-in-ai-startup-anthropic-10016161.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/google-reportedly-invests-400-million-in-ai-startup-anthropic-10016161.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-reportedly-invests-400-million-in-ai-startup-anthropic-10016161.html/amp",
+      "publishedDateTime": "2023-02-06T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players.md",
+      "title": "Artificial Intelligence Chipset Market Size 2023-2028 Financial Insights, Business Growth Strategies and Top Key Players",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-artificial-intelligence-ai-robots-market-size-2023-expected-to-deliver-dynamic-progression-until-2028.md",
+      "title": "Artificial Intelligence (AI) Robots Market Size 2023 : Expected To Deliver Dynamic Progression Until 2028",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-image-recognition-in-retail-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028.md",
+      "title": "Image Recognition in Retail Market Size 2023 Pronounces Its Growth, Size, Shares, and Future Forecasts to 2028",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -701,12 +776,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-artificial-intelligence-in-fashion-retail-market-environment-development-trend-in-2023.md",
-      "title": "Artificial Intelligence in Fashion Retail Market Environment Development Trend In 2023",
-      "excerpt": "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Artificial Intelligence in Fashion Retail Market Report includes data on research and development,",
+      "path": "_news/2023-02-06-image-recognition-professional-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029.md",
+      "title": "Image Recognition Professional Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2029",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-environment-development-trend-in-2023-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-environment-development-trend-in-2023-2023-02-05",
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-professional-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-professional-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029-2023-02-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -716,7 +791,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T19:57:00-08:00",
+      "publishedDateTime": "2023-02-06T03:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -739,16 +814,17 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-ai-marketing-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2029.md",
-      "title": "AI Marketing Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2029",
-      "excerpt": "AI Marketing Market Size 2023-2029 | New Report (113 Pages) | In This Reports AI Marketing Market and its business",
+      "path": "_news/2023-02-06-3-ai-stocks-that-will-be-big-winners-in-2023.md",
+      "title": "3 AI Stocks That Will Be Big Winners in 2023",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The rise of AI stocks as a key investing trend is notable. Whether",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-marketing-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2029-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-marketing-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2029-2023-02-05",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-will-be-big-winners-in-2023-1032069987",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-will-be-big-winners-in-2023-1032069987",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -758,14 +834,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T19:56:00-08:00",
+      "publishedDateTime": "2023-02-06T03:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -781,61 +857,17 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-enterprise-artificial-intelligence-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations.md",
-      "title": "Enterprise Artificial Intelligence Market Size 2023 With Strategic Choice-Making Process, Identification of Main Corporations",
-      "excerpt": "Enterprise Artificial Intelligence Market Size 2023-2029 | New Report (113 Pages) | In This Reports Enterprise",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T19:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-artificial-intelligence-ai-in-media-and-entertainment-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029.md",
-      "title": "Artificial Intelligence (AI) in Media and Entertainment Market Size 2023 With Regional Scope, Report Coverage, Historic Data, Outlook 2029",
-      "excerpt": "Artificial Intelligence (AI) in Media and Entertainment Market Size 2023-2029 | New Report (118 Pages) | In This",
+      "path": "_news/2023-02-06-face-verification-130-from-neurotechnology-includes-improved-algorithms-for-face-recognition-and-liveness-detection.md",
+      "title": "Face Verification 13.0 from Neurotechnology includes improved algorithms for face recognition and liveness detection",
+      "excerpt": "It includes a small-footprint version of Neurotechnology’s latest facial recognition algorithm – which ranked among the top results in the NIST FRVT 1:1 evaluation – making it ideal for digital identity onboarding, payment, banking ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-media-and-entertainment-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-media-and-entertainment-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029-2023-02-05",
+      "webUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/face-verification-13-0-neurotechnology-improved-algorithms-face-recognition-liveness-detection-co-10915-ga-co-1616048003-ga-co-1675663085-ga-npr.1675665242.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/face-verification-13-0-neurotechnology-improved-algorithms-face-recognition-liveness-detection-co-10915-ga-co-1616048003-ga-co-1675663085-ga-npr.1675665242.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -843,23 +875,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T19:48:00-08:00",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/face-verification-13-0-neurotechnology-improved-algorithms-face-recognition-liveness-detection-co-10915-ga-co-1616048003-ga-co-1675663085-ga-npr.1675665242.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/face-verification-13-0-neurotechnology-improved-algorithms-face-recognition-liveness-detection-co-10915-ga-co-1616048003-ga-co-1675663085-ga-npr.1675665242.html",
+      "publishedDateTime": "2023-02-06T03:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -868,16 +891,17 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-artificial-intelligence-in-platform-as-a-service-paas-market-size-2023-will-touch-new-level-in-upcoming-year.md",
-      "title": "Artificial Intelligence in Platform as a Service (PaaS) Market Size 2023 Will Touch New Level in Upcoming Year",
-      "excerpt": "Artificial Intelligence in Platform as a Service (PaaS) Market Size 2023-2029 | New Report (124 Pages) | In This",
+      "path": "_news/2023-02-06-artificial-intelligence-ai-in-fintech-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market Size 2023 Will Touch A New Level In The Upcoming Year 2028",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-size-2023-will-touch-new-level-in-upcoming-year-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-size-2023-will-touch-new-level-in-upcoming-year-2023-02-05",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -887,7 +911,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T19:46:00-08:00",
+      "publishedDateTime": "2023-02-06T03:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -910,50 +934,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-2023-current-status-and-future-prospects-of-data-science-and-machine-learning-service-market.md",
-      "title": "2023, Current Status and Future Prospects Of Data Science and Machine Learning Service Market",
-      "excerpt": "Data Science and Machine Learning Service Market Size 2023-2029 | New Report (102 Pages) | In This Reports Data Science",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-current-status-and-future-prospects-of-data-science-and-machine-learning-service-market-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-current-status-and-future-prospects-of-data-science-and-machine-learning-service-market-2023-02-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T19:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
+        "AI in Finance",
         "AI"
       ]
     }

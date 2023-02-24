@@ -2,6 +2,172 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-01-04-media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available.md",
+      "title": "Media Advisory: 2023 Trends in CX, Fintech, and AI -- Expert Quotes Available",
+      "excerpt": "Agency focused on fintech, AI development, and customer experience strategy has identified key trends for 2023. Pull quotes available for immediate use. SAN FRANCISCO, Jan. 3, 2023 /PRNewswire ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30268240/media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30268240/media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-02-the-humanization-of-machine-learning-in-our-daily-lives.md",
+      "title": "The Humanization of Machine Learning in Our Daily Lives",
+      "excerpt": "Recently, machine learning has become a major buzzword, despite being around for decades. Businesses are struggling to comprehend the",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioapplications.com/news/the-humanization-of-machine-learning-in-our-daily-lives-nid-10428.html",
+      "originalUrl": "https://www.cioapplications.com/news/the-humanization-of-machine-learning-in-our-daily-lives-nid-10428.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioapplications.com/newstransfer/upload/bsqp8cio-450-308.jpg",
+          "width": 450,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-02T02:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Applications",
+        "domain": "cioapplications.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-02-gamification-ar-will-change-e-learning-in-2023.md",
+      "title": "Gamification, AR will change e-learning in 2023",
+      "excerpt": "“Emerging technologies such as artificial intelligence, machine learning, blockchain and robotics ... edtech players will have to design programmes and services to suit the learners ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/education-2/metaverse-ar-gamification/2933646/",
+      "originalUrl": "https://www.financialexpress.com/education-2/metaverse-ar-gamification/2933646/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/01/AVGC.png",
+          "width": 2384,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/education-2/metaverse-ar-gamification/2933646/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/metaverse-ar-gamification/2933646/lite/",
+      "publishedDateTime": "2023-01-01T20:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-30-2023-tech-predictions-ai-and-machine-learning-will-come-into-their-own-for-security.md",
+      "title": "2023 tech predictions: AI and machine learning will come into their own for security",
+      "excerpt": "Just as AI and machine learning is expected to have ... particularly in high-stakes markets like financial services. However, with this comes increased risk and complexity around user identity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/feature/emerging-technology/2023-tech-predictions-ai-and-machine-learning-wicome-into-their-own-for-security",
+      "originalUrl": "https://www.scmagazine.com/feature/emerging-technology/2023-tech-predictions-ai-and-machine-learning-wicome-into-their-own-for-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2022/12/122122_artificial_intelligence.jpg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-30T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Media",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-12-26-forecast-2028-for-the-machine-learning-in-finance-market-in-terms-of-size-returns-gross-margin-and-market-share.md",
       "title": "Forecast 2028 for the Machine Learning in Finance Market in terms of size, returns, gross margin, and market share",
       "excerpt": "The major players covered in the Machine Learning in Finance market report are: Get a sample copy of the Machine Learning in Finance Market report 2023 The value of machine learning in finance is becoming more apparent by the day.",

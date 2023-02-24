@@ -2,99 +2,21 @@
   "page": 68,
   "value": [
     {
-      "path": "_news/2022-12-26-why-google-is-donating-usd-1-million-to-wadhwani-institute-for-artificial-intelligence-watch-video-to-know.md",
-      "title": "Why Google is Donating USD 1 Million To Wadhwani Institute for Artificial Intelligence? Watch Video To Know",
-      "excerpt": "This is to build the world’s first AI-driven project that uses technologies such as natural language processing, computer vision, and machine learning in the agriculture sector.",
+      "path": "_news/2023-01-04-deep-learning-model-can-detect-disease-causing-mosaic-mutations.md",
+      "title": "Deep-Learning Model Can Detect Disease-Causing Mosaic Mutations",
+      "excerpt": "California-based researchers described how they trained a deep-learning model to detect DNA mutations called mosaic mutations that could support the development of treatments for several diseases.",
       "sourceUrl": null,
-      "webUrl": "https://www.india.com/video-gallery/why-google-is-donating-usd-1-million-to-wadhwani-institute-for-artificial-intelligence-watch-video-to-know-5824322/",
-      "originalUrl": "https://www.india.com/video-gallery/why-google-is-donating-usd-1-million-to-wadhwani-institute-for-artificial-intelligence-watch-video-to-know-5824322/",
+      "webUrl": "https://healthitanalytics.com/news/deep-learning-model-can-detect-disease-causing-mosaic-mutations",
+      "originalUrl": "https://healthitanalytics.com/news/deep-learning-model-can-detect-disease-causing-mosaic-mutations",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-26T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-unlock-next-level-intelligence-and-transform-your-business-with-generative-ai.md",
-      "title": "Unlock Next-Level Intelligence And Transform Your Business With Generative AI",
-      "excerpt": "Don’t just adopt the latest technology to keep up with the competition. If you plan and do your research, you can get the most out of what Generative AI has to offer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/26/unlock-next-level-intelligence-and-transform-your-business-with-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/26/unlock-next-level-intelligence-and-transform-your-business-with-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-what-we-get-wrong-about-artificial-intelligence-and-machine-learning.md",
-      "title": "What we get wrong about artificial intelligence and machine learning",
-      "excerpt": "AI, or Artificial intelligence, is probably the most advertised term in the 21st century. Despite there being a lot of buzz around it, most people have never understood what it is all about.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/brand-media/article/what-we-get-wrong-about-artificial-intelligence-and-machine-learning-23262404",
-      "originalUrl": "https://www.mid-day.com/brand-media/article/what-we-get-wrong-about-artificial-intelligence-and-machine-learning-23262404",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
       "images": [
         {
-          "url": "https://images.mid-day.com/images/images/2022/dec/Vivek-Hariharan2_d.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://healthitanalytics.com/images/sized/2019-11-18-GettyImages-1047719428-e4b00c1efb9503a805928b101c78b499.png",
+          "width": 480,
+          "height": 278,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -102,108 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.mid-day.com/amp/brand-media/article/what-we-get-wrong-about-artificial-intelligence-and-machine-learning-23262404",
-      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/what-we-get-wrong-about-artificial-intelligence-and-machine-learning-23262404",
-      "publishedDateTime": "2022-12-26T03:04:00-08:00",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/deep-learning-model-can-detect-disease-causing-mosaic-mutations",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/deep-learning-model-can-detect-disease-causing-mosaic-mutations",
+      "publishedDateTime": "2023-01-03T09:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-ai-and-machine-learning-in-the-workplace-preparing-for-2023.md",
-      "title": "AI And Machine Learning In The Workplace: Preparing For 2023",
-      "excerpt": "The Equal Employment Opportunity Commission (EEOC) has been particularly active through its EEOC initiative on AI and algorithmic fairness and its joint HIRE initiative with the U",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/",
-      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a5cb98fd043c3b6bcc732b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2022/12/26/ai-and-machine-learning-in-the-workplace-preparing-for-2023/amp/",
-      "publishedDateTime": "2022-12-26T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know.md",
-      "title": "Not Everything We Call AI Is Artificial Intelligence. All You Need To Know",
-      "excerpt": "In August 1955, a group of scientists made a funding request for US$13,500 to host a summer workshop at Dartmouth College, New Hampshire. The field they proposed to explore was artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372",
-      "originalUrl": "https://www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/not-everything-we-call-ai-is-artificial-intelligence-all-you-need-to-know-3638372/amp/1",
-      "publishedDateTime": "2022-12-26T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -214,74 +41,39 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "Facebook AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-26-crossplag-launches-ai-content-detector-to-help-universities-uphold-academic-integrity.md",
-      "title": "Crossplag launches AI Content Detector to help universities uphold academic integrity",
-      "excerpt": "The rise of AI-generated content poses a real threat to academic integrity, where Crossplag has passionately worked for more than six years. Besides offering translation plagiarism checking, Crossplag felt the need for a tool that allows educators to know whether the content is genuine or whether AI produced it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/crossplag-launches-ai-content-detector-to-help-universities-uphold-academic-integrity-2022-12-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/crossplag-launches-ai-content-detector-to-help-universities-uphold-academic-integrity-2022-12-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-26T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
     {
-      "path": "_news/2022-12-26-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know.md",
-      "title": "Not everything we call AI is actually ‘artificial intelligence’. Here’s what you need to know",
-      "excerpt": "Read more about Not everything we call AI is actually ‘artificial intelligence’. Here’s what you need to know on Devdiscourse",
+      "path": "_news/2023-01-04-microsoft-seals-lse-cloud-deal.md",
+      "title": "Microsoft Seals LSE Cloud Deal",
+      "excerpt": "Microsoft’s investment in LSEG comes at a time when big tech names like Google, Amazon and IBM are increasingly engaged in an arms race to deepen relationships with financial firms.",
       "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2298987-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2298987-not-everything-we-call-ai-is-actually-artificial-intelligence-heres-what-you-need-to-know",
+      "webUrl": "https://www.gfmag.com/magazine/january-2023/microsoft-london-stock-exchange-cloud-deal",
+      "originalUrl": "https://www.gfmag.com/magazine/january-2023/microsoft-london-stock-exchange-cloud-deal",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/lse-deal-1200-1672685650/c1daad9d37c336797e9a5736499b97b9.png",
+          "width": 500,
+          "height": 262,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-25T20:53:00-08:00",
+      "publishedDateTime": "2023-01-03T09:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
+        "name": "Global Finance",
+        "domain": "gfmag.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -291,20 +83,192 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-12-26-forecast-2028-for-the-machine-learning-in-finance-market-in-terms-of-size-returns-gross-margin-and-market-share.md",
-      "title": "Forecast 2028 for the Machine Learning in Finance Market in terms of size, returns, gross margin, and market share",
-      "excerpt": "The major players covered in the Machine Learning in Finance market report are: Get a sample copy of the Machine Learning in Finance Market report 2023 The value of machine learning in finance is becoming more apparent by the day.",
+      "path": "_news/2023-01-04-profits-surge-at-tuam-based-driverless-car-technology-firm-valeo.md",
+      "title": "Profits surge at Tuam-based driverless car technology firm Valeo",
+      "excerpt": "Pre-tax profits at a Co Galway firm at the cutting edge of driverless car technology ... software intellectual property with artificial intelligence. The directors state that its products and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-machine-learning-in-finance-market-in-terms-of-size-returns-gross-margin-and-market-share-2022-12-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-machine-learning-in-finance-market-in-terms-of-size-returns-gross-margin-and-market-share-2022-12-26",
+      "webUrl": "https://www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "originalUrl": "https://www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.independent.ie/business/irish/790a0/42259791.ece/AUTOCROP/w1240h700/FRANCE%20PMS22",
+          "width": 1240,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "cdnAmpWebUrl": "https://www-independent-ie.cdn.ampproject.org/c/s/www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "publishedDateTime": "2023-01-03T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent.ie",
+        "domain": "independent.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-updated-guidelines-on-cognitive-rehabilitation-after-traumatic-brain-injury.md",
+      "title": "Updated guidelines on cognitive rehabilitation after traumatic brain injury",
+      "excerpt": "More information: Mark Theodore Bayley et al, INCOG 2.0 Guidelines for Cognitive Rehabilitation Following Traumatic Brain Injury: What's Changed From 2014 to Now? Journal of Head Trauma ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-01-guidelines-cognitive-traumatic-brain-injury.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-01-guidelines-cognitive-traumatic-brain-injury.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/broken-helmet.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-01-guidelines-cognitive-traumatic-brain-injury.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-guidelines-cognitive-traumatic-brain-injury.amp",
+      "publishedDateTime": "2023-01-03T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-deep-learning-tool-identifies-mosaic-mutations-that-cause-disease.md",
+      "title": "Deep learning tool identifies mosaic mutations that cause disease",
+      "excerpt": "Image Credit: Laurent T / Shutterstock Deep learning, sometimes referred to as artificial neural networks, is a machine learning technique that teaches computers to do what comes naturally to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230102/Deep-learning-tool-identifies-mosaic-mutations-that-cause-disease.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230102/Deep-learning-tool-identifies-mosaic-mutations-that-cause-disease.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_734722_16727187721093579.jpg",
+          "width": 2000,
+          "height": 1233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20230102/Deep-learning-tool-identifies-mosaic-mutations-that-cause-disease.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230102/Deep-learning-tool-identifies-mosaic-mutations-that-cause-disease.aspx",
+      "publishedDateTime": "2023-01-03T08:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-autonomous-vehicles.md",
+      "title": "Owl Autonomous Imaging Launches Monocular 3D Thermal Ranger Computer Vision for ADAS & Autonomous Vehicles",
+      "excerpt": "Owl Autonomous Imaging delivers monocular 3D thermal ranging computer vision solutions that dramatically enhance safety day or night and in adverse weather conditions, to automotive and industrial ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/business/press-releases/ein-presswire/609219507/owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-autonomous-vehicles/",
+      "originalUrl": "https://ktla.com/business/press-releases/ein-presswire/609219507/owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-autonomous-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12573300-the-smartest-solution-for-the-r-300x246.jpeg",
+          "width": 300,
+          "height": 246,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-forecast-2028-for-the-cognitive-services-market-in-terms-of-size-returns-gross-margin-and-market-share.md",
+      "title": "Forecast 2028 for the Cognitive Services Market in terms of size, returns, gross margin, and market share",
+      "excerpt": "Jan 03, 2023 (The Expresswire) -- Cognitive Services Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 124 Pages Report The extent and overview of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-cognitive-services-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-cognitive-services-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -320,7 +284,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-25T20:12:00-08:00",
+      "publishedDateTime": "2023-01-03T07:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -328,6 +292,483 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-thanks-to-dall-e-the-race-to-make-artificial-protein-drugs-is-on.md",
+      "title": "Thanks to DALL-E, the Race to Make Artificial Protein Drugs Is On",
+      "excerpt": "Designing proteins is just the first step. The next is translating these digital designs into actual proteins and seeing how they work in cells.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/01/03/thanks-to-dall-e-the-race-to-make-artificial-protein-drugs-is-on/",
+      "originalUrl": "https://singularityhub.com/2023/01/03/thanks-to-dall-e-the-race-to-make-artificial-protein-drugs-is-on/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-why-artificial-intelligence-needs-to-be-on-your-mind-in-2023.md",
+      "title": "Why artificial intelligence needs to be on your mind in 2023",
+      "excerpt": "Twitter and Facebook feeds, powered by artificial intelligence ... and one for Gebru’s Distributed AI Research Institute.) ReidOut Blog readers may recognize Gebru, who was ousted from Google ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-bias-society-rcna63353",
+      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/artificial-intelligence-bias-society-rcna63353",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-learning-to-see-and-learning-to-read-artificial-intelligence-enters-a-new-era.md",
+      "title": "'Learning to see and learning to read': Artificial intelligence enters a new era",
+      "excerpt": "The team’s approach relies on a type of AI known as an artificial neural network, modeled after the neurons and connections of the brain, combined with a model of the physics of light transport. The neurons in the model are actually computer algorithms ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.princeton.edu/news/2023/01/03/learning-see-and-learning-read-artificial-intelligence-enters-new-era",
+      "originalUrl": "https://www.princeton.edu/news/2023/01/03/learning-see-and-learning-read-artificial-intelligence-enters-new-era",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2023/01/Discovery-2022-23_feature_ai_AI--BIGGER--cover--3000x1688px.jpg?itok=7QASTP2x",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Princeton University",
+        "domain": "princeton.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.md",
+      "title": "Not all AI is actually “artificial intelligence” — what you need to know",
+      "excerpt": "Neural networks aren’t the only approach to AI. Another prominent camp in artificial intelligence research is symbolic AI — instead of digesting huge data sets, it relies on rules and ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html",
+      "originalUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html/amp",
+      "publishedDateTime": "2023-01-03T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-artificial-intelligence-and-robots-will-contribute-to-more-made-in-europe.md",
+      "title": "Artificial intelligence and robots will contribute to more «made in Europe»",
+      "excerpt": "In a new EU project, NORCE researchers will contribute to the increased automated production of goods. This will ensure better access to goods",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229020",
+      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/16e5dedc-fda4-44a8-a470-b9b862cd9cbc-773a43cd-87d5-46df-91bf-eeaddfe85613--logo-horizontal-black.png",
+          "width": 654,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AlphaGalileo",
+        "domain": "alphagalileo.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies.md",
+      "title": "Artificial Intelligence Robotics Market Growth and Key Dynamics 2023-2027 | Opportunities and Challenges, Top Regions and Emerging Technologies",
+      "excerpt": "New Research on “Artificial Intelligence Robotics Market” Report 2023 provides distinguishes and intelligence analysis on industry growth revenue, size, share and future trends. The report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies-2023-01-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies-2023-01-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-whats-next-in-2023-ai-evs-delivery-robots-and-more.md",
+      "title": "What's Next in 2023? AI, EVs, delivery robots and more",
+      "excerpt": "Smarter AI, electric cars for almost every budget, delivery robots — these are just some of the 2023 predictions from the Axios What's Next team. What did we miss? Give us a shout at whatsnext@axios.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/2023/01/03/technology-trends-2023",
+      "originalUrl": "https://www.axios.com/2023/01/03/technology-trends-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/btoyoHWNSqozUTpp3Ce87_yIdEA=/0x0:1920x1080/1366x768/2023/01/02/1672672089210.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war.md",
+      "title": "Defensive vs. offensive AI: Why security teams are losing the AI war",
+      "excerpt": "Google Cloud Platform and Microsoft Azure, are using AI and ML to improve security personalization and enforce least privileged access. These systems use predictive AI and ML to analyze patterns ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war/",
+      "originalUrl": "https://venturebeat.com/security/defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/cyber-security-gf0269a756_1920-e1633121618627.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war/amp/",
+      "publishedDateTime": "2023-01-03T02:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-top-12-datasets-and-projects-open-sourced-in-2022.md",
+      "title": "Top 12 Datasets and Projects Open Sourced in 2022",
+      "excerpt": "Open sourcing projects is one of the best ways to drive innovations from across the community and take it away from the hands of big-tech.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/top-12-datasets-and-projects-open-sourced-in-2022/",
+      "originalUrl": "https://analyticsindiamag.com/top-12-datasets-and-projects-open-sourced-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/unnamed-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts.md",
+      "title": "Microsoft celebrates Future Ready Champions of Code with over 100K developers and technology enthusiasts",
+      "excerpt": "Microsoft today announced over 100,000 developers participated in the Future Ready Champions of Code program to receive Microsoft certifications. The program, launched in December 2022, equips develop",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts/",
+      "originalUrl": "https://indiaeducationdiary.in/microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts/",
+      "publishedDateTime": "2023-01-03T01:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality.md",
+      "title": "LG infuses AI deep learning in its latest OLED TVs for better picture quality",
+      "excerpt": "LG Electronics unveiled its 2023 TV lineup with a range of organic light-emitting diode (OLED) TVs that use AI processing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality/",
+      "originalUrl": "https://venturebeat.com/ai/lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/lg-oled-evo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality/amp/",
+      "publishedDateTime": "2023-01-03T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -344,26 +785,25 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Finance"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-12-26-after-christmas-sales-2022-deals-from-walmart-amazon-target-and-more.md",
-      "title": "After-Christmas sales 2022: deals from Walmart, Amazon, Target and more",
-      "excerpt": "It's almost December 26, which means after-Christmas sales are live with fantastic deals from retailers like Amazon, Best Buy, and Walmart on everything from tech, kitchen appliances, fitness equipment,",
+      "path": "_news/2023-01-03-how-to-protect-against-the-cognitive-decline-associated-with-aging.md",
+      "title": "How to protect against the cognitive decline associated with aging",
+      "excerpt": "Scientific research suggests that there are steps linked to cognitive health. Making these part of your routine could help you function better. The first step is eating for your brain. There is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/best-christmas-sales-after-christmas-sales",
-      "originalUrl": "https://www.techradar.com/news/best-christmas-sales-after-christmas-sales",
+      "webUrl": "https://www.winknews.com/2023/01/02/how-to-protect-against-the-cognitive-decline-associated-with-aging/",
+      "originalUrl": "https://www.winknews.com/2023/01/02/how-to-protect-against-the-cognitive-decline-associated-with-aging/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/xfn57PvxFDe2EEnJcAobTC-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://cdn.winknews.com/wp-content/uploads/2023/01/Screenshot-2023-01-02-4.33.49-PM.png",
+          "width": 1871,
+          "height": 983,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -373,21 +813,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-25T17:55:00-08:00",
+      "publishedDateTime": "2023-01-02T23:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WINK NEWS",
+        "domain": "winknews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -396,28 +827,36 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-12-26-ai-in-computer-vision-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029.md",
-      "title": "AI in Computer Vision Market | Rising Sales of the Industry Are Set To Drive for Growth Prospects and Innovations | 2029",
-      "excerpt": "The AI in Computer Vision market Lead players (, QUALCOMM INCORPORATED, Cognex Corporation, General Electric Company, Intel Corporation, NVIDIA CORPORATION, BASLER AG, TELEDYNE TE",
+      "path": "_news/2023-01-03-gpu-database-market-global-industry-analysis-size-share-growth-trends-and-forecast-2023-to-2028.md",
+      "title": "GPU Database Market : Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023 to 2028",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this GPU Database industry.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2022-12-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-rising-sales-of-the-industry-are-set-to-drive-for-growth-prospects-and-innovations-2029-2022-12-25",
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-database-market-global-industry-analysis-size-share-growth-trends-and-forecast-2023-to-2028-2023-01-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-database-market-global-industry-analysis-size-share-growth-trends-and-forecast-2023-to-2028-2023-01-03",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-25T17:32:00-08:00",
+      "publishedDateTime": "2023-01-02T23:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -440,462 +879,26 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Sales"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-12-26-baidu-starts-offering-nighttime-driverless-taxis-in-china.md",
-      "title": "Baidu starts offering nighttime driverless taxis in China",
-      "excerpt": "Baidu, the Chinese internet giant that became known for its search engines, is making some big strides in autonomous driving. Starting this week, the public can ride its robotaxis in Wuhan between ...",
+      "path": "_news/2023-01-03-holographic-cellphones-coming-thanks-to-ai.md",
+      "title": "Holographic Cellphones Coming Thanks To AI",
+      "excerpt": "Issac Asimov foresaw 3D virtual meetings but gave them the awkward name “tridimensional personification.” While you could almost do this now with VR headsets and 3D cameras, it would",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/26/baidu-night-time-driverless-robotaxis-china/",
-      "originalUrl": "https://techcrunch.com/2022/12/26/baidu-night-time-driverless-robotaxis-china/",
+      "webUrl": "https://hackaday.com/2023/01/02/holographic-cellphones-coming-thanks-to-ai/",
+      "originalUrl": "https://hackaday.com/2023/01/02/holographic-cellphones-coming-thanks-to-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/baidu-apollo.jpg?resize=1200,773",
-          "width": 1200,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/26/baidu-night-time-driverless-robotaxis-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/26/baidu-night-time-driverless-robotaxis-china/amp/",
-      "publishedDateTime": "2022-12-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-25-will-septas-new-artificial-intelligence-security-system-racially-profile-riders.md",
-      "title": "Will SEPTA’s new artificial intelligence security system racially profile riders?",
-      "excerpt": "Some of the analytical features used for the ZeroEyes algorithm could be inherently related to race and socioeconomic status, including skin color and clothing style.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inquirer.com/opinion/commentary/septa-zero-eyes-ai-surveillance-20221225.html",
-      "originalUrl": "https://www.inquirer.com/opinion/commentary/septa-zero-eyes-ai-surveillance-20221225.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inquirer.com/resizer/O3mCjcbi5GV1h8FvGy3p1926bPA=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/PGK6SOO2OFGYTHV7U7UGGQYX3Y.jpg",
-          "width": 760,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.inquirer.com/opinion/commentary/septa-zero-eyes-ai-surveillance-20221225.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/commentary/septa-zero-eyes-ai-surveillance-20221225.html?outputType=amp",
-      "publishedDateTime": "2022-12-25T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philadelphia Inquirer",
-        "domain": "inquirer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-25-the-vector-database-is-a-new-kind-of-database-for-the-ai-era.md",
-      "title": "The vector database is a new kind of database for the AI era",
-      "excerpt": "Vector databases offer a new level of capability to search unstructured, semi-structured and structured data alike.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/the-vector-database-is-a-new-kind-of-database-for-the-ai-era/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/the-vector-database-is-a-new-kind-of-database-for-the-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/the-vector-database-is-a-new-kind-of-database-for-the-ai-era/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/the-vector-database-is-a-new-kind-of-database-for-the-ai-era/amp/",
-      "publishedDateTime": "2022-12-24T17:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-24-jameel-clinic-uae-artificial-intelligence-office-hosts-conference-on-ai-and-healthcare.md",
-      "title": "Jameel Clinic, UAE Artificial Intelligence Office hosts conference on AI and healthcare",
-      "excerpt": "Clinical AI and data solutions for health' conference brought together pioneers in AI and health from the Jameel Clinic.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/ys-gulf/jameel-clinic-uae-artificial-intelligence-office-hosts-conference-healthcare",
-      "originalUrl": "https://yourstory.com/ys-gulf/jameel-clinic-uae-artificial-intelligence-office-hosts-conference-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/206/0911f29093a911ec98ee9fbd8fa414a8/CopyofImageTaggingnoframesEditorialTeamMaster70-1671866294951.jpg?fm=png&auto=format",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-23T23:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-24-channel-4-to-show-ai-generated-christmas-message-made-by-robot.md",
-      "title": "Channel 4 to show AI generated Christmas message made by robot",
-      "excerpt": "Channel 4 's alternative Christmas message this year will be generated by artificial intelligence and delivered by a robot. The broadcaster's festive address will be given by one of the world's most advanced robots - Ameca.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dorsetecho.co.uk/news/23207422.channel-4-show-ai-generated-christmas-message-made-robot/",
-      "originalUrl": "https://www.dorsetecho.co.uk/news/23207422.channel-4-show-ai-generated-christmas-message-made-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dorsetecho.co.uk/resources/images/16291323/?type=og-image",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-23T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dorset Echo",
-        "domain": "dorsetecho.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-24-as-big-tech-suffers-startups-can-grow-with-ai.md",
-      "title": "As Big Tech suffers, startups can grow with AI",
-      "excerpt": "Startups and large enterprise alike only benefit when they leverage AI to automate and scale operations and services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/",
-      "originalUrl": "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1206796363-e1654038927332.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/as-big-tech-suffers-startups-can-grow-with-ai/amp/",
-      "publishedDateTime": "2022-12-23T18:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-24-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot.md",
-      "title": "This Week In XR: See Santa Fly, The Year Of AI, Carmack’s Parting Shot",
-      "excerpt": "Thanks to webXR pioneer 8th Wall, now part of Niantic, you can click this link See Santa Fly and hold up your smartphone. No matter how cloudy it is, you can see Santa's sleigh using 8th Wall's WebAR application.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2022/12/23/this-week-in-xr-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2022/12/23/this-week-in-xr-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a665efe3aa898ee79a8a09/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2022/12/23/this-week-in-xr-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/12/23/this-week-in-xr-this-week-in-xr-see-santa-fly-the-year-of-ai-carmacks-parting-shot/amp/",
-      "publishedDateTime": "2022-12-23T17:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-24-artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients.md",
-      "title": "Artificial Intelligence may Predict Success of Botox Treatment in Dystonia Patients",
-      "excerpt": "Innovative artificial intelligence (AI) platform called DystoniaBoTXNet may help predict which patients with dystonia respond to Botox treatment with 96 percent accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/botulinum-toxin-could-produce-remote-effects.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-may-predict-success-of-botox-treatment-in-dystonia-patients-209803-1.htm",
-      "publishedDateTime": "2022-12-23T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-24-how-analytics-and-ai-can-help-you-build-a-better-customer-experience.md",
-      "title": "How analytics and AI can help you build a better customer experience",
-      "excerpt": "With the help of advanced technology, you can improve customer engagement and retention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience",
-      "originalUrl": "https://www.businessinsider.com/sc/how-analytics-and-ai-can-help-you-build-a-better-customer-experience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63a34e92ae4bde0019503d8c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-23T10:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "IBM AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-how-to-redact-pii-data-in-conversation-transcripts.md",
-      "title": "How to redact PII data in conversation transcripts",
-      "excerpt": "Customer service interactions often contain personally identifiable information (PII) such as names, phone numbers, and dates of birth. As organizations incorporate machine learning (ML) and analytics into their applications, using this data can provide insights on how to create more seamless customer",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/23/Featured-images-for-ml-12825.jpg",
+          "url": "https://hackaday.com/wp-content/uploads/2023/01/holo.png",
           "width": 800,
-          "height": 400,
+          "height": 375,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -905,21 +908,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-23T10:09:21-08:00",
+      "publishedDateTime": "2023-01-02T22:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -928,17 +922,17 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
+        "Google AI",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-12-24-tsas-facial-recognition-technology-raises-security-privacy-concerns.md",
-      "title": "TSA's facial recognition technology raises security, privacy concerns",
-      "excerpt": "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country.",
+      "path": "_news/2023-01-03-one-lakh-developers-participated-in-microsofts-future-ready-champions-of-code.md",
+      "title": "One lakh developers participated in Microsoft's Future Ready Champions of Code",
+      "excerpt": "The top three winning teams from the hackathon, shortlisted based on their innovation and impact, were from Tata Consultancy Services (TCS), Wipro, and IndusNet.",
       "sourceUrl": null,
-      "webUrl": "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
-      "originalUrl": "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
+      "webUrl": "https://newsmeter.in/tech-startups/one-lakh-developers-participated-in-microsofts-future-ready-champions-of-code-705968",
+      "originalUrl": "https://newsmeter.in/tech-startups/one-lakh-developers-participated-in-microsofts-future-ready-champions-of-code-705968",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -948,11 +942,97 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-23T09:57:00-08:00",
+      "publishedDateTime": "2023-01-02T18:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "kjrh.com",
-        "domain": "kjrh.com",
+        "name": "newsmeter",
+        "domain": "newsmeter.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-principles-that-lead-to-the-ethics-of-ai.md",
+      "title": "Principles that lead to the ethics of AI",
+      "excerpt": "The idea of putting this article out is to make leaders and industry veterans enforce and ensure that their teams are abiding by the ethics framework for building Artificial Intelligence based product",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/brand-stories/principles-that-lead-to-the-ethics-of-ai-11672653912365.html",
+      "originalUrl": "https://www.livemint.com/brand-stories/principles-that-lead-to-the-ethics-of-ai-11672653912365.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2023/01/02/600x338/Sesh_1672654008197_1672654022306_1672654022306.PNG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/brand-stories/principles-that-lead-to-the-ethics-of-ai/amp-11672653912365.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/principles-that-lead-to-the-ethics-of-ai/amp-11672653912365.html",
+      "publishedDateTime": "2023-01-02T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-are-databases-becoming-just-query-engines-for-big-object-stores.md",
+      "title": "Are Databases Becoming Just Query Engines for Big Object Stores?",
+      "excerpt": "One of the benefits of storing massive amounts of data in object storage is the ability to access it using different query engines. This is the simple recognition that what works best for low-latency ad-hoc analytics is probably not what works best for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2023/01/03/are-databases-becoming-just-query-engines-for-big-object-stores/",
+      "originalUrl": "https://www.datanami.com/2023/01/03/are-databases-becoming-just-query-engines-for-big-object-stores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2016/10/object-storage-system.png",
+          "width": 630,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -963,92 +1043,30 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI in Security"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-12-24-how-to-assess-your-ai-projects-roi-as-recession-hits.md",
-      "title": "How to assess your AI projects’ ROI as recession hits",
-      "excerpt": "Advice for organizations as they assess the ROI and risk/return tradeoffs of their AI initiatives in the coming recession.",
+      "path": "_news/2023-01-03-deep-learning-can-predict-tsunami-impacts-in-less-than-a-second.md",
+      "title": "Deep Learning Can Predict Tsunami Impacts in Less Than a Second",
+      "excerpt": "Researchers at Japan's RIKEN Prediction Science Laboratory applied deep learning to predict the impact of tsunamis in less than a second.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-assess-your-ai-projects-roi-as-recession-hits/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-assess-your-ai-projects-roi-as-recession-hits/",
+      "webUrl": "https://cacm.acm.org/news/268368-deep-learning-can-predict-tsunami-impacts-in-less-than-a-second",
+      "originalUrl": "https://cacm.acm.org/news/268368-deep-learning-can-predict-tsunami-impacts-in-less-than-a-second",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/12/investing-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 758,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-to-assess-your-ai-projects-roi-as-recession-hits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-assess-your-ai-projects-roi-as-recession-hits/amp/",
-      "publishedDateTime": "2022-12-23T09:12:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-02T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-24-artificial-intelligence-tool-developed-to-help-make-real-time-diagnoses-during-surgery.md",
-      "title": "Artificial intelligence tool developed to help make real-time diagnoses during surgery",
-      "excerpt": "When a patient undergoes a surgical operation to remove a tumor or treat a disease, the course of surgery is often not predetermined. To decide how much tissue needs to be removed, surgeons must know more about the condition they are treating,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/surgery-5.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp",
-      "publishedDateTime": "2022-12-23T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "acm.org",
+        "domain": "acm.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1058,111 +1076,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-indias-reliance-backs-us-based-ai-startup-exyn-in-35-million-funding.md",
-      "title": "India’s Reliance backs US-based AI startup Exyn in $35 million funding",
-      "excerpt": "Indian conglomerate Reliance has backed Philadelphia-based AI and robotics startup Exyn with $25 million investment.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/23/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/",
-      "originalUrl": "https://techcrunch.com/2022/12/23/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-148797000.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/23/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/23/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/amp/",
-      "publishedDateTime": "2022-12-23T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-generative-ai-cloaked-in-mystery-and-debate.md",
-      "title": "Generative AI: Cloaked In Mystery And Debate",
-      "excerpt": "In the 19th century, the Mechanical Turk's secret was finally revealed because it was possible to open it up and peek inside. Tech leaders looking to adopt generative AI tools should keep in mind that they may never have that opportunity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/23/generative-ai-cloaked-in-mystery-and-debate/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/23/generative-ai-cloaked-in-mystery-and-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a45ca1f99aadaec61d7c6d/0x0.jpg?format=jpg&crop=1450,815,x0,y150,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/23/generative-ai-cloaked-in-mystery-and-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/23/generative-ai-cloaked-in-mystery-and-debate/amp/",
-      "publishedDateTime": "2022-12-23T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

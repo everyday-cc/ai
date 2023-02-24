@@ -2,6 +2,569 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-18-infinite-ai-interns-for-everybody.md",
+      "title": "Infinite AI Interns for Everybody",
+      "excerpt": "I predict 2023 is the year that finally changes, thanks to artificial intelligence. By the end of 2023, AI will be fast becoming one of the most important factors of production in the global economy. It’s true that the history of AI is largely a history ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-labor/",
+      "originalUrl": "https://www.wired.com/story/artificial-intelligence-labor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63c6ed49e99d817cb5daad76/master/pass/03_Infinite-AI-interns-for-everybody.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-labor/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-labor/amp",
+      "publishedDateTime": "2023-01-18T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-artificial-intelligence-market-in-gcc-2023-industry-overview-size-share-and-forecast-till-2028-syndicated-analytics.md",
+      "title": "Artificial Intelligence Market In GCC 2023: Industry Overview, Size, Share And Forecast Till 2028 | Syndicated Analytics",
+      "excerpt": "Jan (SUPER MARKET RESEARCH via COMTEX) -- \"GCC Artificial Intelligence Market: Industry Analysis, Market Size, Share, Trends, Application",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-gcc-2023-industry-overview-size-share-and-forecast-till-2028-syndicated-analytics-2023-01-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-in-gcc-2023-industry-overview-size-share-and-forecast-till-2028-syndicated-analytics-2023-01-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-18T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-tesla-video-promoting-self-driving-was-staged-engineer-testifies.md",
+      "title": "Tesla video promoting self-driving was staged, engineer testifies",
+      "excerpt": "REUTERS/Evgenia Novozhenina/File Photo Jan 17 (Reuters) - A 2016 video that Tesla (TSLA.O) used to promote its self-driving technology ... Technologycategory China's Baidu to launch ChatGPT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/",
+      "originalUrl": "https://www.reuters.com/technology/tesla-video-promoting-self-driving-was-staged-engineer-testifies-2023-01-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/3IQpcCuKtmLZDMbi4XPgVhduRYk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/INZHKPTCXZPSLLZHEH43ULAMQ4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T21:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-8-asx-and-global-stock-ideas-to-add-to-your-portfolio-this-year.md",
+      "title": "8 ASX and global stock ideas to add to your portfolio this year",
+      "excerpt": "This spike in inflation was driven by a culmination of factors including the continued impact of covid 19 on global supply chains, a war in Ukraine, and economic sanctions on Russia, which provides many parts of the world with much-needed energy and agricultural commodities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livewiremarkets.com/wires/8-asx-and-global-stock-ideas-to-add-to-your-portfolio-this-year",
+      "originalUrl": "https://www.livewiremarkets.com/wires/8-asx-and-global-stock-ideas-to-add-to-your-portfolio-this-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHhsQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--46968fa7f1d978925522326ee7d201f4bc21a9ae/Chart%202%20-%20PE%20by%20region.png",
+          "width": 445,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Livewire Markets",
+        "domain": "livewiremarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-watch-two-moments-from-a-2016-tesla-self-driving-ad-that-are-totally-staged-according-to-a-senior-engineer.md",
+      "title": "Watch two moments from a 2016 Tesla self-driving ad that are totally staged, according to a senior engineer",
+      "excerpt": "An curved arrow pointing right. A senior Tesla engineer testified in a July 2022 deposition that the electric-vehicle company staged parts of its 2016 self-driving Tesla ad, Reuters reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/watch-staged-scenes-from-2016-tesla-self-driving-ad-report-2023-1",
+      "originalUrl": "https://www.businessinsider.com/watch-staged-scenes-from-2016-tesla-self-driving-ad-report-2023-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63c83c792a1e600018b897df?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/watch-staged-scenes-from-2016-tesla-self-driving-ad-report-2023-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-staged-scenes-from-2016-tesla-self-driving-ad-report-2023-1?amp",
+      "publishedDateTime": "2023-01-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-how-to-position-your-portfolio-in-2023-a-look-around-the-world.md",
+      "title": "How to position your portfolio in 2023 – A look around the world",
+      "excerpt": "Despite my children reminding me of how old I am, 2022 brought events that I have not witnessed in my lifetime. It was the third time since 1926 that both US stocks and bonds lost money. US inflation hit 40-year highs and the",
+      "sourceUrl": null,
+      "webUrl": "https://www.livewiremarkets.com/wires/how-to-position-your-portfolio-in-2023-a-look-around-the-world",
+      "originalUrl": "https://www.livewiremarkets.com/wires/how-to-position-your-portfolio-in-2023-a-look-around-the-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.livewiremarkets.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeU5uQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d5e8b0133fa6c825470ea1eb868b8853e33e9220/Primary%20Image%20Crop%20(55).png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T15:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Livewire Markets",
+        "domain": "livewiremarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-tesla-employee-testifies-autopilot-video-was-actually-staged.md",
+      "title": "Tesla Employee Testifies Autopilot Video Was Actually Staged",
+      "excerpt": "Elluswamy claimed that the video was not an accurate portrayal of a Tesla’s so-called self-driving capabilities at the time and Andrew McDevitt, the lawyer representing Huang’s family ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/tesla-autopilot-self-driving-autonomous-1849996806",
+      "originalUrl": "https://gizmodo.com/tesla-autopilot-self-driving-autonomous-1849996806",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fa6eecf6bc8a6fcfca54c6ecfeac5942.gif",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-whats-going-on-with-baidu-shares.md",
+      "title": "What's Going On With Baidu Shares",
+      "excerpt": "Baidu Inc BIDU shares are trading lower by 6.23% to $130.30 during Tuesday's trading session. Shares of Chinese companies at large are trading lower after China's GDP growth slowed in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/01/30447092/whats-going-on-with-baidu-shares",
+      "originalUrl": "https://www.benzinga.com/news/23/01/30447092/whats-going-on-with-baidu-shares",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/01/17/analysis-4937349_0.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-elon-musks-appetite-for-destruction.md",
+      "title": "Elon Musk’s Appetite for Destruction",
+      "excerpt": "A wave of lawsuits argue that Tesla’s self-driving software is dangerously overhyped. What can its blind spots teach us about the company’s erratic C.E.O.? Credit...Photo illustration by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.html",
+      "originalUrl": "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/22/magazine/22mag-tesla2/22mag-tesla2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/17/magazine/tesla-autopilot-self-driving-elon-musk.amp.html",
+      "publishedDateTime": "2023-01-17T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says.md",
+      "title": "Artificial intelligence could be a 'real threat' to 'a lot of jobs,' computer expert says",
+      "excerpt": "WEST PALM BEACH, Fla. — Artificial intelligence. You are going to begin hearing a lot more about it. AI, as it is called, is coming to your home, your job, your life in ways you never thought ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wptv.com/news/technology/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says",
+      "originalUrl": "https://www.wptv.com/news/technology/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPTV-TV",
+        "domain": "wptv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-the-advantages-of-artificial-intelligence-ai.md",
+      "title": "The advantages of artificial intelligence (AI)",
+      "excerpt": "DURING the last two months or so, there has been much discussion around the world regarding the potential benefits and threats in the fast development in recent years of",
+      "sourceUrl": null,
+      "webUrl": "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594",
+      "originalUrl": "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.manilatimes.net/manilatimes/uploads/images/2023/01/17/148178.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp",
+      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/01/17/opinion/columns/the-advantages-of-artificial-intelligence-ai/1874594/amp",
+      "publishedDateTime": "2023-01-16T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilatimes",
+        "domain": "manilatimes.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-driverless-cars-may-worsen-congestion-by-85-percent-a-report-claims-amid-2025-rollout.md",
+      "title": "Driverless cars may worsen congestion by 85 percent, a report claims amid 2025 rollout",
+      "excerpt": "It has been claimed in a Government report that driverless cars may worsen congestion by 85 percent. The claim by the Department of Transport comes amid thoughts of such vehicles becoming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont",
+      "originalUrl": "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/1/590x/Traffic-1721675.jpg?r=1673839653328",
+          "width": 590,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1721675/driverless-cars-traffic-congestion-government-report-ont/amp",
+      "publishedDateTime": "2023-01-15T20:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-16-keeping-the-driverless-car-unhackable-securing-the-iiot-in-autonomous-systems.md",
       "title": "Keeping the Driverless Car Unhackable – Securing the IIoT in Autonomous Systems",
       "excerpt": "In the instance of an driverless vehicle, there are multiple individual networks that work in conjunction with each other. “For an autonomous car, you have a mixed network environment. The networks can include WiFi, a satellite network, applications ...",
@@ -800,582 +1363,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-advances-in-artificial-intelligence-raise-new-ethics-concerns.md",
-      "title": "Advances in artificial intelligence raise new ethics concerns",
-      "excerpt": "In recent months, new artificial intelligence tools have garnered attention, and concern, over their ability to produce original work. The creations range from college-level essays to computer code and works of art.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
-      "originalUrl": "https://www.pbs.org/newshour/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/ai-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
-      "publishedDateTime": "2023-01-10T14:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-son-helps-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow.md",
-      "title": "Son helps dad see self-reliance does not end when driving stops: Roadshow",
-      "excerpt": "Q: When in his early 80s, my dad drove us to shoot pool at his local senior center during one of my visits. He had always been an excellent driver, but I was horrified and scared that day. After we made it back to his house,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/",
-      "originalUrl": "https://www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/01/eoak0627dmv03.jpg?w=1024&h=639",
-          "width": 1024,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/amp/",
-      "publishedDateTime": "2023-01-10T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-jobs-in-artificial-intelligence-how-to-make-a-career-in-ai.md",
-      "title": "Jobs In Artificial Intelligence - How To Make A Career In AI",
-      "excerpt": "E, Tesla’s Fully Self Driving mode and *ahem* Q.ai, has shown us anything, it’s that artificial intelligence is here to stay.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/01/10/jobs-in-artificial-intelligencehow-to-make-a-career-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/10/jobs-in-artificial-intelligencehow-to-make-a-career-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bda0178157b139798b08d5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/10/jobs-in-artificial-intelligencehow-to-make-a-career-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/10/jobs-in-artificial-intelligencehow-to-make-a-career-in-ai/amp/",
-      "publishedDateTime": "2023-01-10T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation.md",
-      "title": "Baidu Create 2022 Outlines New Strategy for AI Development Based on Feedback-Driven Innovation",
-      "excerpt": "Major technology innovations powered by deep learning algorithms such as autonomous driving and intelligent ... further enrich Baidu AI Base, China's first full-stack self-researched AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation-1032009402",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2022-outlines-new-strategy-for-ai-development-based-on-feedback-driven-innovation-1032009402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1980663/image_5009157_44357444.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-baidu-said-to-be-slashing-jobs-trimming-bonuses-at-intelligent-driving-unit.md",
-      "title": "Baidu said to be slashing jobs, trimming bonuses at intelligent driving unit",
-      "excerpt": "Baidu is cutting jobs and cancelling bonuses for some employees in its autonomous driving unit as prospects for profits remain remote after years of investment, according to a report by a Chinese ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-baidu-said-to-be-slashing-jobs-trimming-bonuses-at-autonomous-driving-unit.md",
-      "title": "Baidu said to be slashing jobs, trimming bonuses at autonomous driving unit",
-      "excerpt": "Baidu is cutting jobs and cancelling bonuses for some employees in its autonomous driving unit as prospects for profits remain remote after years of investment, according to a report by a Chinese ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit?module=more_top_stories_us&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3206302/baidu-said-be-slashing-jobs-trimming-bonuses-autonomous-driving-unit?module=more_top_stories_us&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/01/10/0d24bba4-7537-49bb-aa05-0aac1deb5e9c_5c1c89ed.jpg?itok=c5FvCB6f&v=1673351667",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-manufacturing-finance-among-industries-to-benefit-from-whats-next-in-ai-for-2023.md",
-      "title": "Manufacturing, Finance Among Industries to Benefit from What's Next in AI for 2023",
-      "excerpt": "From the hen house to the warehouse, to real-world robots that may already have a role in your house, AI seems like it's everywhere. That's because with a steady stream of new research and innovative applications reaching into nearly every industry and business sector,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cc.gatech.edu/news/manufacturing-finance-among-industries-benefit-whats-next-ai-2023",
-      "originalUrl": "https://www.cc.gatech.edu/news/manufacturing-finance-among-industries-benefit-whats-next-ai-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2023/2023_ai_whats_new_graphic_v2.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cc.gatech.edu",
-        "domain": "gatech.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Finance",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI stocks may be excellent long-term investments. Virtually every industry is being disrupted by artificial intelligence, automation and robotics. In 2022, the world got a firsthand look at",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2023/01/artificial-intelligence-stocks-the-10-best-ai-companies-11/",
-      "originalUrl": "https://wtop.com/news/2023/01/artificial-intelligence-stocks-the-10-best-ai-companies-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-federal-regulators-investigating-elon-musks-full-self-driving-new-years-eve-tweet.md",
-      "title": "Federal Regulators Investigating Elon Musk's 'Full Self Driving' New Year's Eve Tweet",
-      "excerpt": "The NHTSA wants to know what Musk meant when he tweeted about disabling driver alerts on Tesla's \"Full Self Driving\" driver assist system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/business-news/fed-regulators-looking-at-musks-full-self-driving-tweet/442568",
-      "originalUrl": "https://www.entrepreneur.com/business-news/fed-regulators-looking-at-musks-full-self-driving-tweet/442568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1673332382-GettyImages-492682174-tesla-fsd.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T23:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-artificial-intelligence-in-small-and-medium-business-market-top-factors-responsible-for-the-rapid-growth-in-the-coming-years-2028.md",
-      "title": "Artificial Intelligence In Small And Medium Business Market | Top Factors Responsible for the Rapid Growth in the Coming Years 2028",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-top-factors-responsible-for-the-rapid-growth-in-the-coming-years-2028-2023-01-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-top-factors-responsible-for-the-rapid-growth-in-the-coming-years-2028-2023-01-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T19:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-more-driverless-cars-are-hitting-the-roadways-in-austin.md",
-      "title": "More driverless cars are hitting the roadways in Austin",
-      "excerpt": "AUSTIN, Texas — Driverless cars are on the roadways of Downtown and Central Austin. The cars are part of service similar to Uber called Cruise LLC. The company is based out of San Francisco and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kvue.com/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
-      "originalUrl": "https://www.kvue.com/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kvue.com/assets/KVUE/images/27bd3c50-bb34-423f-b4a9-ad85a9766c1c/27bd3c50-bb34-423f-b4a9-ad85a9766c1c_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kvue.com/amp/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
-      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
-      "publishedDateTime": "2023-01-09T16:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVUE",
-        "domain": "kvue.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas.md",
-      "title": "Latest Breakthroughs In Artificial Intelligence On Display At CES Trade Show In Las Vegas",
-      "excerpt": "The rate of advancement in artificial intelligence (AI ... We look at fatigue-battling watches, self-driving strollers, and other unique products announced in Las Vegas at the world’s biggest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bd8eaea9945e64f3964a43/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/10/latest-breakthroughs-in-artificial-intelligence-on-display-at-ces-trade-show-in-las-vegas/amp/",
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,127 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-01-16-from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare.md",
+      "title": "From a ‘deranged’ provocateur to IBM’s failed AI superproject: the controversial story of how data has transformed healthcare",
+      "excerpt": "To understand the potential for machine learning to transform medicine, we must go back to the controversial origins of data use in healthcare",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362",
+      "originalUrl": "https://theconversation.com/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/503380/original/file-20230106-16-mc22tn.png?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=226&fit=crop",
+          "width": 320,
+          "height": 226,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/from-a-deranged-provocateur-to-ibms-failed-ai-superproject-the-controversial-story-of-how-data-has-transformed-healthcare-189362",
+      "publishedDateTime": "2023-01-16T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-singlestore-details-its-latest-integration-with-ibm-to-deliver-faster-ai-analytics-simplify-data.md",
+      "title": "SingleStore details its latest integration with IBM to deliver faster AI analytics, simplify data",
+      "excerpt": "“We’ve innovated AI indexing in our database engine. But we want to go further than that, we want to be able to exploit the innovation that’s happening at IBM,” Thota said. “A good ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/01/12/singlestore-teams-with-ibm-to-deliver-faster-ai-analytics-simplify-data-reinvent/",
+      "originalUrl": "https://siliconangle.com/2023/01/12/singlestore-teams-with-ibm-to-deliver-faster-ai-analytics-simplify-data-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/Shireesh-Thota-and-Hemanth-Manda-aws-reinvent-2022.jpg",
+          "width": 1919,
+          "height": 1279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T21:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-12-ibm-launches-new-way-to-support-partners-ecosystem.md",
+      "title": "IBM launches new way to support partners, ecosystem",
+      "excerpt": "International Business Machines Corporation (IBM) has announced its IBM Partner Plus, a new program that reimagines how the company engages with its",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/technology/article/ibm-launches-new-way-to-support-partners-ecosystem/",
+      "originalUrl": "https://businessday.ng/technology/article/ibm-launches-new-way-to-support-partners-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-artificial-intelligence-stocks-the-10-best-ai-companies.md",
       "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
       "excerpt": "AI stocks may be excellent long-term investments. Virtually every industry is being disrupted by artificial intelligence, automation and robotics. In 2022, the world got a firsthand look at",
@@ -1276,126 +1397,6 @@
       "provider": {
         "name": "Stockhouse",
         "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-india-could-be-next-super-power-in-ai-says-ibm-india-md.md",
-      "title": "India could be next super power in AI, says IBM India MD",
-      "excerpt": "BENGALURU: In 2023, emerging technologies such as automation, artificial intelligence (AI), 5G/6G, augmented/virtual reality and robotics will be a game changer and many enterprises are now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/business/2022/dec/09/india-could-be-nextsuper-power-in-aisays-ibm-india-md-2526458.html",
-      "originalUrl": "https://www.newindianexpress.com/business/2022/dec/09/india-could-be-nextsuper-power-in-aisays-ibm-india-md-2526458.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/6/30/w600X390/IBM-Hiring_Veterans_AP.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/business/2022/dec/09/india-could-be-nextsuper-power-in-aisays-ibm-india-md-2526458.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/dec/09/india-could-be-nextsuper-power-in-aisays-ibm-india-md-2526458.amp",
-      "publishedDateTime": "2022-12-08T18:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-india-poised-to-lead-ai-innovation-globally-says-ibm-india-head.md",
-      "title": "India poised to lead AI innovation globally, says IBM India head",
-      "excerpt": "According to IBM’s Global AI Adoption Index 2022, 57% of IT professionals in India report that their organization has actively deployed AI in their business, and over a quarter (27%) indicate ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/12/india-poised-to-lead-ai-innovation-globally-says-i",
-      "originalUrl": "https://yourstory.com/2022/12/india-poised-to-lead-ai-innovation-globally-says-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/1/fb6b4900e6db11ea91248f3fa804461d/DataAnnotationDataLabelingTheUltimateBuyersGuide2021-Shaip-1633342380097.jpg?fm=png&auto=format",
-          "width": 850,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-reston-based-octo-to-be-acquired-by-ibm.md",
-      "title": "Reston-based Octo to be acquired by IBM",
-      "excerpt": "In May, it opened oLabs, a $10 million, 14,000-square-foot research and development lab dedicated to federal customers, including the military, where Octo has worked on artificial intelligence and other projects. Octo is IBM’s eighth acquisition this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.virginiabusiness.com/article/reston-based-octo-to-be-acquired-by-ibm/",
-      "originalUrl": "https://www.virginiabusiness.com/article/reston-based-octo-to-be-acquired-by-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virginia Business",
-        "domain": "virginiabusiness.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,65 +2,12 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2022-10-31-how-responsible-ai-creates-measurable-roi.md",
-      "title": "How responsible AI creates measurable ROI",
-      "excerpt": "but focusing on developing an ecosystem of responsible AI might be the place to start, Singh said. This was also a key point throughout its Global Responsible AI Summit, held for the first time ever last week. Overwhelmingly, the event’s sessions ...",
+      "path": "_news/2022-12-06-too-much-sodium-not-enough-potassium-may-lead-to-cognitive-decline.md",
+      "title": "Too much sodium, not enough potassium may lead to cognitive decline",
+      "excerpt": "Share on Pinterest A recent study shows that consuming high levels of sodium is associated with cognitive decline while a diet high in potassium is linked to improved cognitive function.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/",
-      "originalUrl": "https://venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1267598662.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/amp/",
-      "publishedDateTime": "2022-10-31T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-crossword-puzzles-beat-computer-video-games-in-slowing-memory-loss.md",
-      "title": "Crossword puzzles beat computer video games in slowing memory loss",
-      "excerpt": "Crossword puzzles were superior to cognitive games on the primary cognitive outcome measure, ADAS-Cog, at both 12 weeks and 78 weeks. Crossword puzzles were superior on FAQ, a measure of daily ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221027093305.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221027093305.htm",
+      "webUrl": "https://www.medicalnewstoday.com/articles/too-much-sodium-not-enough-potassium-may-lead-to-cognitive-decline",
+      "originalUrl": "https://www.medicalnewstoday.com/articles/too-much-sodium-not-enough-potassium-may-lead-to-cognitive-decline",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -70,389 +17,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-31T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-azure-cosmos-db-low-latency-and-high-availability-at-planet-scale.md",
-      "title": "Azure Cosmos DB: Low Latency and High Availability at Planet Scale",
-      "excerpt": "Mei-Chin Tsai and Vinod Sridharan spoke at QCon San Francisco on Azure Cosmos DB: Low Latency and High Availability at Planet Scale. The talk was part of the \"Architectures You've Always Wondered About\" track. After introductions, Tsai started the talk by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/10/azure-cosmos-database-service/",
-      "originalUrl": "https://www.infoq.com/news/2022/10/azure-cosmos-database-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-30T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-microsoft-introduces-azure-savings-plans-for-compute.md",
-      "title": "Microsoft Introduces Azure Savings Plans for Compute",
-      "excerpt": "Microsoft recently announced Azure Savings Plans for Compute, providing customers with an easy and flexible way to save significantly on compute services compared to pay-as-you-go prices by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/10/azure-savings-plan-compute/",
-      "originalUrl": "https://www.infoq.com/news/2022/10/azure-savings-plan-compute/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.infoq.com/statics_s2_20221108063122/styles/static/images/logo/logo-big.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-30T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-why-generative-ai-is-suddenly-on-everyones-lips-its-an-open-field.md",
-      "title": "Why “generative AI” is suddenly on everyone’s lips: it’s an “open field”",
-      "excerpt": "There's a lot of confusion about generative AI, including how new exactly it is, and whether it's becoming massively overhyped.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/28/generative-ai/",
-      "originalUrl": "https://techcrunch.com/2022/10/28/generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/intro-1.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/28/generative-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/28/generative-ai/amp/",
-      "publishedDateTime": "2022-10-28T23:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-father-of-azure-cognitive-services-joins-ai-startup-vaital.md",
-      "title": "Father of Azure Cognitive Services joins AI startup Vaital",
-      "excerpt": "Founder of Microsoft Azure Cognitive Services, Yu-Ting Kuo, joins board of directors of Vaital, a Bellevue-based AI and software startup. Kou founded and led Microsoft's Computer Vision Group, establi",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29468999/father-of-azure-cognitive-services-joins-ai-startup-vaital",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29468999/father-of-azure-cognitive-services-joins-ai-startup-vaital",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29468999",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29468999",
-      "publishedDateTime": "2022-10-28T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-playing-video-games-tied-to-better-cognitive-performance-in-children.md",
-      "title": "Playing Video Games Tied to Better Cognitive Performance in Children",
-      "excerpt": "FRIDAY, Oct. 28, 2022 (HealthDay News) -- Children who play video games show better cognitive performance involving response inhibition and working memory than children who did not play video ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kpvi.com/interests/playing-video-games-tied-to-better-cognitive-performance-in-children/article_2f3a8546-3ce0-5f4e-aa98-0e4a93a376f1.html",
-      "originalUrl": "https://www.kpvi.com/interests/playing-video-games-tied-to-better-cognitive-performance-in-children/article_2f3a8546-3ce0-5f4e-aa98-0e4a93a376f1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kpvi",
-        "domain": "kpvi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-ais-true-goal-may-no-longer-be-intelligence.md",
-      "title": "AI's true goal may no longer be intelligence",
-      "excerpt": "Some scholars of AI warn that the present technologies may never add up to \"true\" intelligence or \"human\" intelligence. But much of the world may not care about that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d8452d84a72bddf317ccce52ec12fa799a3860aa/2022/10/27/a22915c0-394e-41e6-92d4-125c5b82fe4b/hi-im-ai-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-true-goal-may-no-longer-be-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-true-goal-may-no-longer-be-intelligence/",
-      "publishedDateTime": "2022-10-28T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "Google AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-usd-681-billion-growth-in-ai-market-size-in-2021-expected-to-record-a-cagr-of-148-during-2021-2026-predicts-globaldata.md",
-      "title": "USD 68.1 Billion Growth In AI Market Size In 2021, Expected To Record A CAGR Of 14.8% During 2021-2026, Predicts Globaldata",
-      "excerpt": "The latest market research report titled has been published by GlobalData Plc on their report store. The report estimates the market witnessed a gro",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105094742/USD-681-Billion-Growth-In-AI-Market-Size-In-2021-Expected-To-Record-A-CAGR-Of-148-During-2021-2026-Predicts-Globaldata",
-      "originalUrl": "https://menafn.com/1105094742/USD-681-Billion-Growth-In-AI-Market-Size-In-2021-Expected-To-Record-A-CAGR-Of-148-During-2021-2026-Predicts-Globaldata",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?420875",
-          "width": 374,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms.md",
-      "title": "Long COVID: how lost connections between nerve cells in the brain may explain cognitive symptoms",
-      "excerpt": "Some people with long COVID complain of “brain fog”, which includes a wide variety of cognitive symptoms affecting memory, concentration, sleep and speech. There’s also growing concern about ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
-      "originalUrl": "https://theconversation.com/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/long-covid-how-lost-connections-between-nerve-cells-in-the-brain-may-explain-cognitive-symptoms-192702",
-      "publishedDateTime": "2022-10-27T20:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-love-hormone-oxytocin-may-improve-cognitive-impairment-in-alzheimers.md",
-      "title": "'Love hormone' oxytocin may improve cognitive impairment in Alzheimer's",
-      "excerpt": "Laurence Monneret/Getty Images Alzheimer’s disease is a common form of dementia characterized by cognitive impairments ... of neurology at the Uniformed Services University of the Health ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/love-hormone-oxytocin-may-improve-cognitive-impairment-in-alzheimers",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/love-hormone-oxytocin-may-improve-cognitive-impairment-in-alzheimers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/10/love_hormone_alzheimers_732x549_thumb.jpg",
-          "width": 732,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T13:53:00-07:00",
+      "publishedDateTime": "2022-12-05T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Medical News Today",
@@ -471,21 +36,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-28-microsoft-previews-vision-studio-for-working-with-azure-computer-vision-api.md",
-      "title": "Microsoft Previews 'Vision Studio' for Working with Azure Computer Vision API",
-      "excerpt": "As if things weren't complicated enough with oft-confused Visual Studio and Visual Studio Code offerings, Microsoft has now announced a preview of Vision Studio, for working with the Computer Vision API in the Azure cloud computing platform.",
+      "path": "_news/2022-12-06-how-are-hearing-aids-and-dementia-related-a-new-study-explains.md",
+      "title": "How are hearing aids and dementia related? A new study explains",
+      "excerpt": "Hearing aids might be an important tool in the effort to prevent cognitive decline and dementia, according to a new study. Research has established that hearing loss in an important risk factor in ...",
       "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
+      "webUrl": "https://www.cnn.com/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2017/0417red_F2Hello.jpg",
-          "width": 647,
-          "height": 450,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221205095708-hearing-loss-dementia-wellness-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -493,137 +58,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T10:18:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/05/health/hearing-loss-dementia-study-wellness/index.html",
+      "publishedDateTime": "2022-12-05T14:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-video-games-are-good-for-a-developing-brain-study-shows.md",
-      "title": "Video games are good for a developing brain, study shows",
-      "excerpt": "Huge news for the kids who grew up gaming: There are some cognitive benefits associated with children who play video games. Children who played video games showed \"enhanced cognitive performance ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/video-games-children-study",
-      "originalUrl": "https://mashable.com/article/video-games-children-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/079RyeM8TLJYWd7KogR8t1J/hero-image.fill.size_1200x675.v1666805636.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T19:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-parents-of-boys-shown-to-have-faster-rate-of-cognitive-decline-than-those-with-girls.md",
-      "title": "Parents of boys shown to have 'faster rate of cognitive decline' than those with girls",
-      "excerpt": "But what about your children? A new study has considered whether the gender of the next generation can affect cognitive health. A new study published in the United States has found that parents of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/health/1687908/parents-boys-faster-rate-of-cognitive-decline",
-      "originalUrl": "https://www.express.co.uk/life-style/health/1687908/parents-boys-faster-rate-of-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/How-you-age-1687908.jpg?r=1666778811254",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/health/1687908/parents-boys-faster-rate-of-cognitive-decline/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1687908/parents-boys-faster-rate-of-cognitive-decline/amp",
-      "publishedDateTime": "2022-10-26T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-vleeschhouwer-microsoft-cloud-computing-services-are-growing.md",
-      "title": "Vleeschhouwer: Microsoft cloud computing services are growing",
-      "excerpt": "Jay Vleeschhouwer, Managing Director of Software Research at Griffin Securities, joins Worldwide Exchange to discuss Microsoft's Q1 ... info about our products and services. ©",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2022/10/26/vleeschhouwer-microsoft-cloud-computing-services-are-growing.html",
-      "originalUrl": "https://www.cnbc.com/video/2022/10/26/vleeschhouwer-microsoft-cloud-computing-services-are-growing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -644,73 +88,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-26-microsofts-end-to-end-arm-development-environment-is-here-at-last.md",
-      "title": "Microsoft’s end-to-end Arm development environment is here at last",
-      "excerpt": "It’s just in time, too, as the latest generation of Surface devices puts Microsoft’s Qualcomm-based SQ3 processor in the same hardware as Intel’s i7. What’s perhaps most interesting about Microsoft’s Arm focus is its link to building machine learning–driven applications into Windows.",
+      "path": "_news/2022-12-06-use-it-or-lose-it-hearing-aids-linked-to-cognitive-benefit.md",
+      "title": "Use It, or Lose It: Hearing Aids Linked to Cognitive Benefit",
+      "excerpt": "Opens in a new tab or window Restoring hearing loss with hearing aids or cochlear implants was linked with less long-term cognitive decline and even some gain, a systematic review and meta ...",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
-      "originalUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
+      "webUrl": "https://www.medpagetoday.com/geriatrics/dementia/102061",
+      "originalUrl": "https://www.medpagetoday.com/geriatrics/dementia/102061",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/25/16/istock-1368001929-100931622-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
-      "publishedDateTime": "2022-10-26T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-introducing-vision-studio-a-ui-based-demo-interface-for-computer-vision.md",
-      "title": "Introducing Vision Studio, a UI-based demo interface for Computer Vision",
-      "excerpt": "Are you looking to improve the analysis and management of images and videos? The Computer Vision API provides access to advanced algorithms for processing media and returning information.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/introducing-vision-studio-a-uibased-demo-interface-for-computer-vision/",
-      "originalUrl": "https://azure.microsoft.com/blog/introducing-vision-studio-a-uibased-demo-interface-for-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/97d85a19-b0dc-47b0-8532-dc8f7b366e05.png",
-          "width": 1024,
-          "height": 607,
+          "url": "https://assets.medpagetoday.net/media/images/102xxx/102061.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -720,565 +112,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T01:00:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-ai-art-raises-questions-about-copyright.md",
-      "title": "AI art raises questions about copyright",
-      "excerpt": "Let artificial intelligence (AI) do the work for you. Then you change your mind and want to have the painting in a surrealistic style. A piece of cake. Type what you want in the message field of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangkokpost.com/opinion/opinion/2422648/ai-art-raises-questions-about-copyright",
-      "originalUrl": "https://www.bangkokpost.com/opinion/opinion/2422648/ai-art-raises-questions-about-copyright",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bangkokpost.com/media/content/20221026/c1_2422648_221026063358_700.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangkok Post",
-        "domain": "bangkokpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-how-to-be-a-super-ager-and-improve-your-memory-and-cognitive-function-as-you-age.md",
-      "title": "How to be a 'super-ager' and improve your memory and cognitive function as you age",
-      "excerpt": "but I was so alarmed by my forgetfulness I Googled to see if there was any way to improve my memory and cognitive function. Like what you see? Sign up to our bodyandsoul.com.au newsletter for more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392",
-      "originalUrl": "https://www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392?amp",
-      "cdnAmpWebUrl": "https://www-bodyandsoul-com-au.cdn.ampproject.org/c/s/www.bodyandsoul.com.au/health/how-to-be-a-superager-and-improve-your-memory-and-cognitive-function-as-you-age/news-story/27b3ea8304b4c610c9b61f66defc1392?amp",
-      "publishedDateTime": "2022-10-25T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bodyandsoul.com.au",
-        "domain": "bodyandsoul.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-novel-approach-to-tms-may-slow-cognitive-decline-in-alzheimers.md",
-      "title": "Novel Approach to TMS May Slow Cognitive Decline in Alzheimer's",
-      "excerpt": "A novel approach to repetitive transcranial magnetic stimulation (rTMS) that targets the precuneus appears to slow the progression of cognitive and functional decline in patients with Alzheimer's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/983068",
-      "originalUrl": "https://www.medscape.com/viewarticle/983068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-microsoft-gaming-revenue-grew-slightly-yoy-xbox-hardware-up-13-content-services-down-3.md",
-      "title": "Microsoft Gaming Revenue Grew Slightly YoY: Xbox Hardware Up 13%, Content & Services Down 3%",
-      "excerpt": "Today, Microsoft announced its financial results for the first quarter of the fiscal year 2023, related to the period between July 1, 2022, and September 30, 2022. The press release shared today ...",
-      "sourceUrl": null,
-      "webUrl": "https://twinfinite.net/2022/10/xbox-microsoft-finacials-q1-2023/",
-      "originalUrl": "https://twinfinite.net/2022/10/xbox-microsoft-finacials-q1-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Twinfinite",
-        "domain": "twinfinite.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event.md",
-      "title": "Microsoft Celebrates 10 Years Of Surface At Its 2022 Surface Event",
-      "excerpt": "I believe Microsoft has made some incredible innovations for its hardware and software over the past 10 years and with its Surface Brand. That path is marked by the Surface teams",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-celebrates-10-years-of-surface-at-its-2022-surface-event/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-video-games-linked-to-heightened-cognitive-abilities-in-children-study.md",
-      "title": "Video games linked to heightened cognitive abilities in children: Study",
-      "excerpt": "The study analyzed data from the adolescent brain cognitive development study that is tracking roughly 12,000 children coming of age. Researchers assessed a subset of 2,000 who entered the study ...",
-      "sourceUrl": null,
-      "webUrl": "https://gazette.com/news/us-world/video-games-linked-to-heightened-cognitive-abilities-in-children-study/article_d8b5efef-132f-5df1-93e8-b49744f85059.html",
-      "originalUrl": "https://gazette.com/news/us-world/video-games-linked-to-heightened-cognitive-abilities-in-children-study/article_d8b5efef-132f-5df1-93e8-b49744f85059.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.prcdn.co/img?cid=9YMC&page=1&width=300",
-          "width": 293,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gazette",
-        "domain": "gazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview.md",
-      "title": "Image Analysis 4.0 with new API endpoint and OCR model in preview",
-      "excerpt": "We are thrilled to announce the preview release of Computer Vision Image Analysis 4.0 which combines existing and new visual features such as read optical character recognition (OCR), captioning, image classification and tagging, object detection, people detection, and smart cropping into one API.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview/",
-      "originalUrl": "https://azure.microsoft.com/blog/image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/40891cd5-f29f-4347-b667-e888bdd67b0e.png",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T08:10:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022.md",
-      "title": "Microsoft Focuses On Productivity And Workflows With AI Automation And Collaborative Tools At Ignite 2022",
-      "excerpt": "Microsoft held its annual developer event, Microsoft Ignite, where it announced many new features, services, and tools for its ecosystem of developers and IT professionals. Today, Patrick wants to cover the announcements that stuck out to me the most.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6357f7cc516bd094593671f1/0x0.jpg?format=jpg&width=1200",
-          "width": 892,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
-      "publishedDateTime": "2022-10-25T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-video-games-may-bring-cognitive-benefits-to-kids-study.md",
-      "title": "Video games may bring cognitive benefits to kids: study",
-      "excerpt": "School-age kids who spend hours a day playing video games may outperform their peers on certain tests of mental agility, a new study suggests. Researchers found that compared with children who ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html",
-      "originalUrl": "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/video-games-may-bring.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp",
-      "publishedDateTime": "2022-10-25T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-three-hours-of-video-games-a-day-may-actually-help-a-childs-cognitive-skills-study-finds.md",
-      "title": "Three hours of video games a day may actually help a child’s cognitive skills, study finds",
-      "excerpt": "Playing computer games isn’t an activity usually associated with an increase in mental faculties and many parents want to keep their kids away from staring at screens for hours on end.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/10/25/three-hours-of-video-games-a-day-may-actually-help-a-childs-cognitive-skills-study-finds",
-      "originalUrl": "https://www.euronews.com/next/2022/10/25/three-hours-of-video-games-a-day-may-actually-help-a-childs-cognitive-skills-study-finds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/07/15/49/82/1000x563_cmsv2_a1e1a153-70cb-5476-a498-af3c8bb01336-7154982.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2022/10/25/three-hours-of-video-games-a-day-may-actually-help-a-childs-cognitive-skills-study-finds",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/25/three-hours-of-video-games-a-day-may-actually-help-a-childs-cognitive-skills-study-finds",
-      "publishedDateTime": "2022-10-25T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-playing-video-games-may-be-linked-with-improved-cognitive-abilities-in-children.md",
-      "title": "Playing video games may be linked with improved cognitive abilities in children",
-      "excerpt": "A study of nearly 2,000 children found that those who reported playing video games for three hours per day or more performed better on cognitive skills tests involving impulse control and working ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221024/Playing-video-games-may-be-linked-with-improved-cognitive-abilities-in-children.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221024/Playing-video-games-may-be-linked-with-improved-cognitive-abilities-in-children.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Children_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20221024/Playing-video-games-may-be-linked-with-improved-cognitive-abilities-in-children.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221024/Playing-video-games-may-be-linked-with-improved-cognitive-abilities-in-children.aspx",
-      "publishedDateTime": "2022-10-24T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-video-games-linked-to-better-cognitive-skills-in-brain-study.md",
-      "title": "Video Games Linked to Better Cognitive Skills in Brain Study",
-      "excerpt": "Kids who played three hours or more of video games a day performed better on tests of memory and impulse control than ones who didn’t play games, according to a study released Monday. Frequent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2022-10-24/video-games-linked-to-better-cognitive-skills-in-brain-study",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2022-10-24/video-games-linked-to-better-cognitive-skills-in-brain-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iINFxmyHpGxY/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-dementia-strikes-one-in-ten-americans-over-65.md",
-      "title": "Dementia Strikes One in Ten Americans Over 65",
-      "excerpt": "cognitive impairment is projected to increase significantly over the next few decades, affecting individuals, families, and programs that provide care and services for people with dementia,\" Manly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/neurology/dementia/101395",
-      "originalUrl": "https://www.medpagetoday.com/neurology/dementia/101395",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T14:32:00-07:00",
+      "publishedDateTime": "2022-12-05T13:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MedPage Today",
@@ -1295,7 +129,50 @@
         "Microsoft AI",
         "AI"
       ]
+    },
+    {
+      "path": "_news/2022-12-05-cuttlefish-passed-a-cognitive-test-designed-for-humans.md",
+      "title": "Cuttlefish passed a cognitive test designed for humans",
+      "excerpt": "This discovery, the researchers say, is an example of advanced self-control and shows that the creatures perform better in cognitive tasks. It has also been hypothesized that these positive ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "originalUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2022/12/AdobeStock_159088227.jpeg?quality=82&strip=all",
+          "width": 2400,
+          "height": 1596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
     }
   ],
-  "nextPage": 11
+  "nextPage": null
 }

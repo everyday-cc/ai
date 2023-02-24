@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/openai-chatgpt-sam-altman-world-not-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-chatgpt-sam-altman-world-not-far-potentially-scary-ai-2023-2?amp"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,28 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "The nonprofits accelerating Sam Altman’s AI vision"
+    excerpt: "Sam Altman, one of the founders of OpenAI, has a web of overlapping investments and nonprofits. Here's where he is putting his money."
+    publishedDateTime: 2023-02-21T23:30:00Z
+    webUrl: "https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/"
+    ampWebUrl: "https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+  - title: "OpenAI CEO Sam Altman warns that the world might not be far from \"potentially scary\" artificial intelligence"
+    excerpt: "TechSpot means tech analysis and advice you can trust. What just happened? It's understandable why many people are concerned about artificial intelligence becoming a threat to humanity; Hollywood has pumped out plenty of movies about rogue AIs over the years."
+    publishedDateTime: 2023-02-21T14:06:00Z
+    webUrl: "https://www.techspot.com/news/97676-openai-ceo-sam-altman-warns-world-might-not.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 45
 
 secured: "Cu0bmjvJOv7kum6fE6tgOX8m1R+H3TvvVHcxHZDRZvdhtydKrf36JKJAhEay57Kya+IpJS7VFXVH9QnukrsUYBa2WDHUj1wGyVVKMfemDRib/RLqJEACO5lOYkW/h8IarQvKjVBv1rZ8NKjyGJBGZpYHqXm+afATk5nWPKj8HeCaC64OkIoV54JHsVFd4PbPmXIo0fV9K2H71cW+CM4/dMZcMhyq4pNlPhMRBnkbHcl+gqJNrJqf6Kdky2bV6tnjj2hqOPdlqMVSu+drlb7wCkDS6SGHCHYQkITv5QBNkujX+xuZMElxp0ayuTTyp45XYIwIs+pT92gHHypNfa4Y+ipGyWI4qFvuQUD8gsTL15w=;8ezz3K1meeaa6aYdSY5jNA=="
 ---

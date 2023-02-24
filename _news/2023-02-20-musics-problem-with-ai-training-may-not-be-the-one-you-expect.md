@@ -18,20 +18,17 @@ topics:
   - AI
 
 related:
-  - title: "Inside the Studio With an AI-Guided Painting Robot"
-    excerpt: "To help illustrate our cover story on how the AI arms race is changing the world, we reached out to award-winning AI artist Pindar Van Arman, who uses artificial intelligence to create his art. Van Arman, who built his first “painting robot” 15 years ..."
-    publishedDateTime: 2023-02-17T16:57:00Z
-    webUrl: "https://time.com/6256108/artificial-intelligence-artist/"
+  - title: "Healthcare May Be The Ultimate Proving Ground For Artificial Intelligence"
+    excerpt: "Healthcare may lag other industries in artificial intelligence (AI) adoption, but may be the ultimate proving ground where AI can really demonstrate its worth across many dimensions — introducing greater productivity and responsiveness into a sector ..."
+    publishedDateTime: 2023-02-22T16:19:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/amp/"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 84
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 85
 
 secured: "zypAUoGExiHHfkVnnUhX9wM7GWOlthBKRFyS2glDO2jPCEaHatkraxHNqXwA6sBo2CpTZuI6itt91JHNCzQWGaF6MO+v0aPNJ1Ppxmm4tTD191/SG0AvQyTy1s8oAVO40xD8EsZp6YkzNatpb2p84xdZFIS2vzVskTWSuM4oJSScvqF6Cw5oBgQMMecaSki8Euuc95Dq1QRDHho925HAwNFcqHAKGWhJAZvroEzUvBWoRsXUBxCXADAkuuB827WtVAVdCcj0icuO8WgiVgZJVfVUsUAXMqR7coz/13AZ1uPlrHrgAo9Wl16+T4IGR3TTHqrJbZGVmtBIa3h/uuWyLe+9tO1/bvVCAYkklSSt7vep3DV1eDReBIoRcxS35ezRwBosMCvO+B+dQuO5gXzfkw+fgsS6hDEiVi4IySwkh+Juhh60hjWBDxVAW5GNoxGwE2yMS+byaBILNXtt26Y0v01fS+bbzNR93VC1zYgIfMLAc08CmkaVgrZHx8RBTqB0pXHm+r5U8WH5rSGE0vCu0g==;RopRlbjKhBvGr5bxQCwV9Q=="
 ---

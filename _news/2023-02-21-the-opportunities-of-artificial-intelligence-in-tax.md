@@ -40,38 +40,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Cognitive Services Market: Exploration of the Top Regions and Players with Opportunities"
-    excerpt: "Feb 19, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Cognitive Services Market” research is"
-    publishedDateTime: 2023-02-19T11:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-exploration-of-the-top-regions-and-players-with-opportunities-2023-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-  - title: "Hybrid Voice Recognition System Market In 2023 : Volume, Analysis, Future Prediction, Overview and Forecast 2028"
-    excerpt: "Precision Reports has published a detailed report on “ Hybrid Voice Recognition System Market \" 2023 which has been categorized by Market size, growth indicators and encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2023-02-17T05:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-in-2023-volume-analysis-future-prediction-overview-and-forecast-2028-2023-02-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "United Kingdom AI in Transportation Markets Report 2023-2027: Self-Driving Vehicles, Road Accidents & High Traffic Problems Fuel Demands"
-    excerpt: "United Kingdom AI in the transportation market is anticipated to register growth with an impressive CAGR in the forecast period, 2023-2027. The market growth can be attributed to"
-    publishedDateTime: 2023-02-20T18:50:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/02/20/9762975.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "dIBNsyTeTTGl8toRyddxGrtRIBm/8wJIFZ1tgTDhuj9v3II5De1aar7YMj78K7qSLjZ3lX2X4UB7pKcIssUGx3Nv2Xjm3Ae4BZOY3fOrWlEF/9qmPYlodWW+HYJdVsOaHPrQPFUEY21dKGpUIr5uvrUauRsd7TfzlzKhlbJwxqjlUEZtogYlqeZAxym4IvcKlxd/ZdRzQ9vEXAW3QbQYlBrcYJjsvqllSJV9TKMfkvLsicNdTpZZl+4BLjZuisrNBsjUDqg2jRZZvd8VtuZY+mkhjUyug8zT/Tb5ODO6imQ0ndbyv3fN3MqwHh1bOlHWEoZy2qTMY2Y74hQUSGuckccrs0gppdwrdFPPKkTOE1c=;4E+rDjHH2w0IVD561dPopA=="
 ---

@@ -2,6 +2,84 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-07-spacex-put-a-tesla-sportscar-into-space-five-years-ago-where-is-it-now.md",
+      "title": "SpaceX put a Tesla sportscar into space five years ago. Where is it now?",
+      "excerpt": "SpaceX launched a Tesla roadster belonging to company founder and billionaire Elon Musk in 2018, and what's left of the car may still be in orbit today.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2023/02/06/world/spacex-elon-musk-tesla-roadster-five-years-scn",
+      "originalUrl": "https://edition.cnn.com/2023/02/06/world/spacex-elon-musk-tesla-roadster-five-years-scn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/02/06/world/spacex-elon-musk-tesla-roadster-five-years-scn/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/06/world/spacex-elon-musk-tesla-roadster-five-years-scn/index.html",
+      "publishedDateTime": "2023-02-06T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-worldwide.md",
+      "title": "ROC and MOSIP Partnership to Bring Industry-Leading Biometric Algorithms to Digital ID Systems Worldwide",
+      "excerpt": "Denver based technology company Rank One Computing (ROC) announced a partnership with the Modular Open Source Identity Platform (MOSIP) on January 17, 2023. The partnership will allow",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30727964/roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-wor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30727964/roc-and-mosip-partnership-to-bring-industry-leading-biometric-algorithms-to-digital-id-systems-wor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30727964",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30727964",
+      "publishedDateTime": "2023-02-06T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-facilities-facial-recognition-staffing-ai-personalization-among-hottest-topics-for-live-events-in-2023.md",
       "title": "Facilities: Facial recognition, staffing, AI, personalization among hottest topics for live events in 2023",
       "excerpt": "I fired off a barrage of emails in January to dozens of folks involved with every aspect of the live sports experience to see what topics are: A) front of mind for them as 2023 gets going and, B) most intriguing to them.",
@@ -1191,101 +1269,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029.md",
-      "title": "Face Recognition Software Market 2023 Expected to Reach Significant Rate by 2029",
-      "excerpt": "The Global Face Recognition Software market Report provides Detailed analysis on the market position of the Face Recognition Software Top players with stastical data, SWOT analysis, PESTAL analysis, latest developments across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029-2023-01-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029-2023-01-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-28T01:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition.md",
-      "title": "Dolan says he he has no plan to sell Knicks, retire, but he loves facial recognition",
-      "excerpt": "Dolan defended Madison Square Garden’s controversial use of facial recognition technology to ban attorneys from firms involved in lawsuits against the Knicks or MSG from entering the property ...",
-      "sourceUrl": null,
-      "webUrl": "https://nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/",
-      "originalUrl": "https://nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nba.nbcsports.com/wp-content/uploads/sites/12/2023/01/GettyImages-1431321339-e1674869992496.jpg",
-          "width": 698,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://nba-nbcsports-com.cdn.ampproject.org/c/s/nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/amp/",
-      "publishedDateTime": "2023-01-27T18:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Sports",
-        "domain": "nbcsports.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

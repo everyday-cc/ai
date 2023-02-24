@@ -2,6 +2,565 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-31-waymos-huge-self-driving-car-dataset-could-help-researchers-toward-level-5.md",
+      "title": "Waymo's Huge Self-Driving Car Dataset Could Help Researchers Toward Level 5",
+      "excerpt": "Data is king in autonomous driving, as it can help teach an artificial intelligence about how to react in new situations based on past experience. Although Waymo’s new dataset covers a thin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5",
+      "originalUrl": "https://www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/inverse/9d/18/98/bb/6102/4d67/bc27/2cf0f5917319/waymominivan7-2jpg.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5/amp",
+      "cdnAmpWebUrl": "https://www-inverse-com.cdn.ampproject.org/c/s/www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5/amp",
+      "publishedDateTime": "2023-01-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inverse",
+        "domain": "inverse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-ai-world-likely-to-hit-key-warming-threshold-in-1012-years.md",
+      "title": "AI: World Likely To Hit Key Warming Threshold in 10–12 Years",
+      "excerpt": "Two climate scientists using machine learning calculated that Earth will surpass the 1.5 degree (2.7 degrees Fahrenheit) mark between 2033 and 2035.",
+      "sourceUrl": null,
+      "webUrl": "https://nowthisnews.com/news/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years",
+      "originalUrl": "https://nowthisnews.com/news/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.thrillist.com/v1/image/3135257/828x610/flatten;crop;webp=auto;jpeg_quality=60.jpg",
+          "width": 828,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nowthisnews.com/amphtml/news/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years",
+      "cdnAmpWebUrl": "https://nowthisnews-com.cdn.ampproject.org/c/s/nowthisnews.com/amphtml/news/ai-world-likely-to-hit-key-warming-threshold-in-10-12-years",
+      "publishedDateTime": "2023-01-30T14:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NowThis News",
+        "domain": "nowthisnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-report-chinas-baidu-is-preparing-a-chatgpt-chatbot-rival.md",
+      "title": "Report: China’s Baidu is preparing a ChatGPT chatbot rival",
+      "excerpt": "Two months after OpenAI’s ChatGPT set the internet ablaze, China’s search engine behemoth, Baidu, is aiming to launch its own artificial intelligence chatbot—which could kick off a new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90842018/china-ai-baidu-chatbot-chatgpt-generative-ai",
+      "originalUrl": "https://www.fastcompany.com/90842018/china-ai-baidu-chatbot-chatgpt-generative-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-buzzfeed-to-use-artificial-intelligence-for-content.md",
+      "title": "BuzzFeed to use artificial intelligence for content",
+      "excerpt": "AI chatbots are software applications used to have a conversation that can take on the role of a live human using technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
+      "originalUrl": "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/50c9432/2147483647/strip/true/crop/1024x576+0+54/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6f%2F87%2F80b9077b4cd4ad50b0ec4d35f31f%2Fap21175517872497.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
+      "cdnAmpWebUrl": "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/buzzfeed-to-use-artificial-intelligence-for-content?_amp=true",
+      "publishedDateTime": "2023-01-30T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC 10 News",
+        "domain": "10news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-new-chatbot-is-coming-to-chinese-internet-company-baidu.md",
+      "title": "New Chatbot Is Coming to Chinese Internet Company Baidu",
+      "excerpt": "Chinese-owned internet company Baidu Inc. is reportedly launching a ChatGPT-style bot in March to merge with the company’s search engine eventually, an unnamed source familiar with the matter ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/baidu-chatgpt-ai-search-engine-google-1850048152",
+      "originalUrl": "https://gizmodo.com/baidu-chatgpt-ai-search-engine-google-1850048152",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5e5c74a89f4eca3a929005e68f7860c1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-baidu-jumps-as-the-chinese-search-giant-reportedly-plans-to-launch-its-own-version-of-chatgpt.md",
+      "title": "Baidu jumps as the Chinese search giant reportedly plans to launch its own version of ChatGPT",
+      "excerpt": "Baidu shares reached a nearly five-month high Monday following a Bloomberg report the Chinese internet search company plans to launch a service similar to ChatGPT, the artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-stock-price-chatgpt-ai-chatbox-version-search-openai-bidu-2023-1",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-stock-price-chatgpt-ai-chatbox-version-search-openai-bidu-2023-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6245260c2d38730018f4ae28?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/baidu-stock-price-chatgpt-ai-chatbox-version-search-openai-bidu-2023-1?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/baidu-stock-price-chatgpt-ai-chatbox-version-search-openai-bidu-2023-1?amp",
+      "publishedDateTime": "2023-01-30T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-mercedes-beating-tesla-to-holy-grail-of-self-driving.md",
+      "title": "Mercedes beating Tesla to ‘holy grail’ of self-driving",
+      "excerpt": "Mercedes-Benz has announced that it will become the first automaker to launch ‘Level 3’ self-driving in the US, beating rivals like Tesla to the milestone. The Drive Pilot feature is a step up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/mercedes-self-driving-tesla-level-3-b2271951.html",
+      "originalUrl": "https://www.independent.co.uk/tech/mercedes-self-driving-tesla-level-3-b2271951.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2021/12/10/18/Mercedes-Touch_Screen_Recall_65864.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/tech/mercedes-self-driving-tesla-level-3-b2271951.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/mercedes-self-driving-tesla-level-3-b2271951.html",
+      "publishedDateTime": "2023-01-30T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-mercedes-benz-says-its-doing-autonomous-driving-better-than-tesla.md",
+      "title": "Mercedes-Benz Says It's Doing Autonomous Driving Better Than Tesla",
+      "excerpt": "where a human is the one driving while constantly supervising the car’s self-driving technology. “An unwavering commitment to innovation has consistently guided Mercedes-Benz from the very ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/mercedes-benz-tesla-autonomous-driving-driver-pilot-1850047723",
+      "originalUrl": "https://gizmodo.com/mercedes-benz-tesla-autonomous-driving-driver-pilot-1850047723",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f79144523846587e9f0ad0e3c538f2c9.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-kettering-students-training-artificial-intelligence-models-for-school-bus-safety.md",
+      "title": "Kettering students training artificial intelligence models for school bus safety",
+      "excerpt": "A group of undergraduate computer science students at Kettering University are developing a system to implement cheap, reliable artificial intelligence models on school buses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html",
+      "originalUrl": "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WEPZ3JLZOVAZDEHDMW42TLGEMQ.jpg",
+          "width": 3080,
+          "height": 2237,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html?outputType=amp",
+      "publishedDateTime": "2023-01-30T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-a-new-way-of-doing-artificial-intelligence-uks-mignon-has-a-fresh-proposition-for-ai-on-the-edge.md",
+      "title": "‘A new way of doing artificial intelligence’: UK’s Mignon has a fresh proposition for AI on the edge",
+      "excerpt": "The UK-based startup, Mignon, believes it has developed a new way of doing artificial intelligence. We explore those claims.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/new-way-of-artificial-intelligence-uk-mignon",
+      "originalUrl": "https://thenextweb.com/news/new-way-of-artificial-intelligence-uk-mignon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2Fmignon01.jpg&signature=4fad0650e664016385da848878a9e6ae",
+          "width": 699,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision",
+        "Machine Learning",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-chinas-baidu-to-launch-chatgpt-style-bot-in-march-source.md",
+      "title": "China's Baidu to launch ChatGPT-style bot in March - source",
+      "excerpt": "People stand by a sign of Baidu during World Artificial Intelligence Conference, following the coronavirus disease (COVID-19) outbreak, in Shanghai, China, September 1, 2022. REUTERS/Aly Song ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/chinas-baidu-launch-chatgpt-style-bot-march-source-2023-01-30/",
+      "originalUrl": "https://www.reuters.com/technology/chinas-baidu-launch-chatgpt-style-bot-march-source-2023-01-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/7XcIeiw305KYQR-yBFMGW5zUyO8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/63ZBO3MYIJLDFBKR3URIVLJH7E.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-baidu-may-soon-launch-its-chatgpt-style-bot.md",
+      "title": "Baidu may soon launch its ChatGPT-style bot",
+      "excerpt": "Apart from research in AI, the search giant is now also developing autonomous driving technology. Baidu Chief Executive Officer Robin Li raised ChatGPT as an example of where the tech giant can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot-11675053677894.html",
+      "originalUrl": "https://www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot-11675053677894.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2023/01/30/600x338/im-317366_1616998743178_1675054105448_1675054105448.jfif",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot/amp-11675053677894.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot/amp-11675053677894.html",
+      "publishedDateTime": "2023-01-30T02:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-the-brave-new-world-of-artificial-intelligence.md",
       "title": "The Brave New World of Artificial Intelligence",
       "excerpt": "As a journalist and commentator, I have closely followed the development of OpenAI, the artificial intelligence research lab founded by Elon Musk, Sam Altman, and other prominent figures in the ...",
@@ -886,562 +1445,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-news-literacy-week-algorithms-artificial-intelligence.md",
-      "title": "News Literacy Week: Algorithms & Artificial Intelligence",
-      "excerpt": "As News Literacy Week continues, it is our effort at 7 News along with our parent company Scripps, to highlight the important role the media play in our community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence",
-      "originalUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/450/1020d6d1597347248f5d62c059a4c7e3/4504425ed4874366be1a7029d04b4565/poster_05b48026cd744c8f9658f4990ece8563.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true",
-      "cdnAmpWebUrl": "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/eye-on-education/news-literacy-week-algorithms-artificial-intelligence?_amp=true",
-      "publishedDateTime": "2023-01-25T11:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKBW",
-        "domain": "wkbw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028.md",
-      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Share, Size, Financial Summaries Analysis from 2023 to 2028",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jan 25, 2023 (The Expresswire) -- Artificial Intelligence and Robotics in Aerospace and Defense Market Size is projected to Reach Multimillion USD by 2029, In comparison to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-01-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-can-artificial-intelligence-crack-college-admissions.md",
-      "title": "Can Artificial Intelligence Crack College Admissions?",
-      "excerpt": "While the program is well equipped to pass even complex tests, it cannot be a substitute for innovation, creativity, and critical thinking—attributes that students are expected to showcase on the college admissions essay.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/",
-      "originalUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d1786b06f7c970a36e3ae4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christopherrim/2023/01/25/can-artificial-intelligence-crack-college-admissions/amp/",
-      "publishedDateTime": "2023-01-25T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-resolving-to-live-the-year-of-the-rabbit-to-the-fullest.md",
-      "title": "Resolving to live the Year of the Rabbit to the fullest",
-      "excerpt": "We spoke to Liu Yang, who has one of the strangest jobs around: to sit in the passenger seat and monitor how self-driving cars cope with Beijing’s streets. Since we talked in the summer of 2022, Liu Yang had briefly stepped out of his robotaxi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/01/25/1067267/lunar-new-year-revisit-stories/",
-      "originalUrl": "https://www.technologyreview.com/2023/01/25/1067267/lunar-new-year-revisit-stories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/01/AP110204144775-crop.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/01/25/1067267/lunar-new-year-revisit-stories/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/01/25/1067267/lunar-new-year-revisit-stories/amp/",
-      "publishedDateTime": "2023-01-25T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-self-driving-golf-cart-development-why-is-it-in-demand.md",
-      "title": "Self-Driving Golf Cart Development: Why Is It In Demand?",
-      "excerpt": "Golf Carts Push For Autonomy. Faced with the harsh reality that a future of fully autonomous cars is further away than promised, automakers and tech companies are pivoting to alte",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ceff7ab891403906766ebe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/24/self-driving-golf-cart-development-why-is-it-in-demand/amp/",
-      "publishedDateTime": "2023-01-24T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.md",
-      "title": "Artificial intelligence chatbot passes elite business school exam, outperforms some Ivy League students",
-      "excerpt": "Chat GPT3, an artificial intelligence bot, outperformed some Ivy League students at the University of Pennsylvania's Wharton School of Business on a final exam. In a paper titled \"Would Chat GPT3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
-      "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/340/340/02da0c03-IMG-6014.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
-      "publishedDateTime": "2023-01-24T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt.md",
-      "title": "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT",
-      "excerpt": "He covers artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas. @cademetz Karen Weise is a technology correspondent based in Seattle, covering Amazon and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.amp.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T02:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-after-being-used-as-a-test-bed-ngee-ann-polytechnic-gets-free-driverless-bus-service.md",
-      "title": "After being used as a test bed, Ngee Ann Polytechnic gets free driverless bus service",
-      "excerpt": "(Photo: Liew Zhi Xin/CNA) SINGAPORE: It is one of the latest driverless vehicles allowed on public roads. Called the MooBus, it has recently been deployed by homegrown company MooVita in its first ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/cna-insider/ngee-ann-polytechnic-free-driverless-bus-service-moobus-moovita-3220171",
-      "originalUrl": "https://www.channelnewsasia.com/cna-insider/ngee-ann-polytechnic-free-driverless-bus-service-moobus-moovita-3220171",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--ECfwQWgH--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/01/20/moobus_liew_zhi_xin-20_1.jpg?itok=c4ztjfcP",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-23T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-driverless-bus-service-begins-in-ngee-ann-polytechnic-and-its-free.md",
-      "title": "Driverless bus service begins in Ngee Ann Polytechnic, and it’s free",
-      "excerpt": "(Photo: Liew Zhi Xin/CNA) SINGAPORE: It is one of the latest driverless vehicles allowed on public roads. Called the MooBus, it has recently been deployed by homegrown company MooVita in its first ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/cna-insider/ngee-ann-polytechnic-free-driverless-bus-service-moobus-moovita-3220171",
-      "originalUrl": "https://www.channelnewsasia.com/cna-insider/ngee-ann-polytechnic-free-driverless-bus-service-moobus-moovita-3220171",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-23T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-chinese-driverless-trains-connect-istanbul-with-airport.md",
-      "title": "Chinese driverless trains connect Istanbul with airport",
-      "excerpt": "New metro line operated with Chinese-made automated driverless trains capable of speed of up to 74.5 miles (120 kilometers) per hour with daily capacity of 800,000 passengers now connects central ...",
-      "sourceUrl": null,
-      "webUrl": "https://eturbonews.com/chinese-driverless-trains-connect-istanbul-with-airport/",
-      "originalUrl": "https://eturbonews.com/chinese-driverless-trains-connect-istanbul-with-airport/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s9h7f8a7.rocketcdn.me/wp-content/uploads/2023/01/0a-4.jpg",
-          "width": 640,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-23T13:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eturbonews",
-        "domain": "eturbonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-zeekr-goes-on-a-hiring-spree-tesla-kicks-off-a-price-war-and-hesai-files-for-an-ipo.md",
-      "title": "Zeekr goes on a hiring spree, Tesla kicks off a price war and Hesai files for an IPO",
-      "excerpt": "The Station, a weekly newsletter focused on transportation, looks at Zeekr's hiring spree, Tesla troubles and a price war, and Hesai's IPO.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/23/zeekr-goes-on-a-hiring-spree-tesla-kicks-off-a-price-war-and-hesai-files-for-an-ipo/",
-      "originalUrl": "https://techcrunch.com/2023/01/23/zeekr-goes-on-a-hiring-spree-tesla-kicks-off-a-price-war-and-hesai-files-for-an-ipo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/waymo-zeekr-logo.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/23/zeekr-goes-on-a-hiring-spree-tesla-kicks-off-a-price-war-and-hesai-files-for-an-ipo/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/23/zeekr-goes-on-a-hiring-spree-tesla-kicks-off-a-price-war-and-hesai-files-for-an-ipo/amp/",
-      "publishedDateTime": "2023-01-23T11:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-europe-driverless-car-software-market-report-2019.md",
-      "title": "Europe Driverless Car Software Market Report 2019",
-      "excerpt": "(MENAFN- Nxtgen Reports) In this report, our team research the Europe Driverless Car Software market by type, application, region and manufacturer 2014-2020 and forcast 2021-2026. For the region ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105463818/Europe-Driverless-Car-Software-Market-Report-2019",
-      "originalUrl": "https://menafn.com/1105463818/Europe-Driverless-Car-Software-Market-Report-2019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?219734",
-          "width": 278,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-22T22:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

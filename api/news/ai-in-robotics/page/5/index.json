@@ -2,6 +2,299 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-23-first-ai-powered-robot-lawyer-will-represent-defendant-in-court-next-month.md",
+      "title": "First AI-powered \"robot\" lawyer will represent defendant in court next month",
+      "excerpt": "Spotlight on artificial intelligence's ChatGPT at CES 2023 tech show 07:26 A \"robot\" lawyer powered by artificial intelligence will be the first of its kind to help a defendant fight a traffic ticket in court next month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/philadelphia/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
+      "originalUrl": "https://www.cbsnews.com/philadelphia/news/ai-robot-lawyer-artificial-intelligence-do-not-pay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/01/09/4d7e5ab8-9ca0-4aa9-8961-8fd582dadcf4/thumbnail/1200x630/ec2ecdf82deb69149d4bac7ec82f389a/screen-shot-2023-01-09-at-4-00-19-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/philadelphia/news/robot-lawyer-wont-argue-court-jail-threats-do-not-pay/",
+      "publishedDateTime": "2023-01-23T06:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-artificial-intelligence-automation-and-robotics.md",
+      "title": "Artificial intelligence, automation and robotics",
+      "excerpt": "The Royal Society says public sector bodies should lead the way in piloting privacy-enhancing technologies to unlock the value of data without compromising privacy and data rights, but lack of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/Artificial-intelligence-automation-and-robotics",
+      "originalUrl": "https://www.computerweekly.com/news/Artificial-intelligence-automation-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-artificial-intelligence-and-how-it-may-change-the-world.md",
+      "title": "Artificial Intelligence and how it may change the world",
+      "excerpt": "He (or she) will step forward and take over the procedure from the robot. The next step in the development of artificial intelligence, AI, is to have machines develop conscientiousness.",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world",
+      "originalUrl": "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/1082218-ShahidJavedBurkiNew-1460302235/1082218-ShahidJavedBurkiNew-1460302235.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2397316/artificial-intelligence-and-how-it-may-change-the-world?amp=1",
+      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-new-soft-robots-poised-to-be-more-agile-controlled.md",
+      "title": "New soft robots poised to be more agile, controlled",
+      "excerpt": "One of the virtues of untethered soft robots is their ability to mechanically adapt to their surroundings and tasks. Now they are poised to become even more agile and controlled. A team of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230123123319.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230123123319.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-23-visual-components-expands-its-simulation-tools-with-delfoi-robotics-acquisition.md",
+      "title": "Visual Components Expands Its Simulation Tools with Delfoi Robotics Acquisition",
+      "excerpt": "1) supports the offline programming of industrial robots, while its users are the designers of robotic cells and the integrators of such cells. The software is based on the latest advances in artificial intelligence and machine learning and supports a wide ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/robotics/visual-components-expands-its-simulation-tools-delfoi-robotics-acquisition",
+      "originalUrl": "https://www.designnews.com/robotics/visual-components-expands-its-simulation-tools-delfoi-robotics-acquisition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Life%20sciences%2003_online.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-21-robotics-drug-control-on-senators-mind-this-week-letters.md",
+      "title": "Robotics, drug control on senator’s mind this week (Letters)",
+      "excerpt": "As usual, the beginning of formal session has been exceptionally busy ahead of our bill filing deadline. All bills filed prior are guaranteed a public hearing, an important step.",
+      "sourceUrl": null,
+      "webUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html",
+      "originalUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V3HL2JSC25CP7NTDBBGK6Q52JA.jpg",
+          "width": 2385,
+          "height": 2385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html?outputType=amp",
+      "publishedDateTime": "2023-01-20T22:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MassLive",
+        "domain": "masslive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-21-did-johnny-write-this-or-a-robot-ai-chatbots-rock-michigan-schools.md",
+      "title": "Did Johnny write this or a robot? AI chatbots rock Michigan schools",
+      "excerpt": "Artificial intelligence writing generators like ChatGPT can compose school assignments at the click of a button. Is it the end of writing as we know it? An invitation to cheating? Or a handy tool like a calculator?",
+      "sourceUrl": null,
+      "webUrl": "https://www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools",
+      "originalUrl": "https://www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bridgemi.com/sites/default/files/styles/large/public/2023-01/teacher%20with%20student.jpg?itok=0Njw6XVo",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools?amp",
+      "cdnAmpWebUrl": "https://www-bridgemi-com.cdn.ampproject.org/c/s/www.bridgemi.com/talent-education/did-johnny-write-or-robot-ai-chatbots-rock-michigan-schools?amp",
+      "publishedDateTime": "2023-01-20T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bridge Magazine",
+        "domain": "bridgemi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-21-robots-and-the-future.md",
       "title": "Robots and the future",
       "excerpt": "Remotely controlled robots OriHime-D, developed by Ory Lab Inc. to promote employment of disabled people, serve customers at a cafe in Tokyo, Japan November 26, 2018. REUTERS/Issei Kato ...",
@@ -1037,334 +1330,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-the-role-of-motion-control-in-medical-robotics.md",
-      "title": "The Role of Motion Control in Medical Robotics",
-      "excerpt": "Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev, PhD, chief technology officer for Promaxo. Nacev is an engineering professional with expertise in magnetic systems engineering. Promaxo’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "originalUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/motion%20control%20webinar%20DT613X.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-16-chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot.md",
-      "title": "ChatGBT Shows Scary Implications Of AI: Sports Owners And The Robot",
-      "excerpt": "Kind of like when you call the airline and they ask for your number and say they will text you when you are next in line.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
-      "originalUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c454a3ecbcbced56a44bb3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/leonardarmato/2023/01/15/chatgbt-shows-scary-implications-of-ai-sports-owners-and-the-robot/amp/",
-      "publishedDateTime": "2023-01-15T11:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-remote-control-eod-robot-market-research-report-2023-2028.md",
-      "title": "Remote Control EOD Robot Market Research Report 2023-2028",
-      "excerpt": "Jan 15, 2023 (The Expresswire) -- The \"Remote Control EOD Robot Market\" provides a value chain analysis of revenue for the anticipated period from 2023 to 2028. The report will include a full and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/remote-control-eod-robot-market-research-report-2023-2028-2023-01-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/remote-control-eod-robot-market-research-report-2023-2028-2023-01-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-m3gan-the-strange-reasons-a-real-child-ai-robot-could-never-be-built.md",
-      "title": "M3GAN: The strange reasons a real child AI robot could never be built",
-      "excerpt": "For good or bad, a kid's toy with artificial intelligence (and killer dance moves) probably won't be possible at any point soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencefocus.com/future-technology/real-science-of-m3gan-film/",
-      "originalUrl": "https://www.sciencefocus.com/future-technology/real-science-of-m3gan-film/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.immediate.co.uk/production/volatile/sites/4/2023/01/megan-1dff218.jpg?quality=90&resize=960,413",
-          "width": 960,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sciencefocus.com/future-technology/real-science-of-m3gan-film/amp/",
-      "cdnAmpWebUrl": "https://www-sciencefocus-com.cdn.ampproject.org/c/s/www.sciencefocus.com/future-technology/real-science-of-m3gan-film/amp/",
-      "publishedDateTime": "2023-01-13T08:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC Focus",
-        "domain": "sciencefocus.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.md",
-      "title": "Alphabet robotics subsidiary Intrinsic lays off 20% staff",
-      "excerpt": "It is a robotics firm that is working on developing artificial intelligence-based software to bolster the use of robots in industries and commercial environments. The news about the company’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html",
-      "originalUrl": "https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/06/laid-off-worker-layoff-resignation-by-lee-charlie-via-shutterstock-100928642-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3685413/alphabet-robotics-subsidiary-intrinsic-lays-off-20-staff.amp.html",
-      "publishedDateTime": "2023-01-13T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-global-x-funds-global-x-robotics-artificial-intelligence-etf-nasdaq-botz.md",
-      "title": "Global X Funds - Global X Robotics & Artificial Intelligence ETF (NASDAQ: BOTZ)",
-      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 01/13/2023. Discounted offers are only available to new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/quote/nasdaq/botz/",
-      "originalUrl": "https://www.fool.com/quote/nasdaq/botz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
-          "width": 843,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-roborock-reinforces-its-leadership-in-smart-robot-vacuum-cleaners-with-new-roborock-dyad-pro-unveiled-for-higher-cleaning-efficiency.md",
-      "title": "Roborock reinforces its leadership in smart robot vacuum cleaners with new “Roborock Dyad Pro” unveiled for higher cleaning efficiency",
-      "excerpt": "Roborock, the world-class smart robot vacuum cleaner and mop brand for efficient home cleaning, held a press conference on its new product launch “New Roborock Beyond All Cleaners” to introduce a lineup of Roborock autonomous cleaning robots and robot vacuums and floor cleaning devices as well as unveiling the new “Roborock Dyad Pro” as the next-generation cleaning device to improve overall efficiency in house cleaning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangkokpost.com/thailand/pr/2481910/roborock-reinforces-its-leadership-in-smart-robot-vacuum-cleaners-with-new-roborock-dyad-pro-unveiled-for-higher-cleaning-efficiency",
-      "originalUrl": "https://www.bangkokpost.com/thailand/pr/2481910/roborock-reinforces-its-leadership-in-smart-robot-vacuum-cleaners-with-new-roborock-dyad-pro-unveiled-for-higher-cleaning-efficiency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.bangkokpost.com/media/content/20230113/c1_2481910_230113143658_700.jpg",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangkok Post",
-        "domain": "bangkokpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

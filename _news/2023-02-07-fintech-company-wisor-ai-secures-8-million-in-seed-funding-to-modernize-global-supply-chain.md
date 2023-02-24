@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Fintech Company Wisor AI Secures $8 Million in Seed Funding to Modernize Global Supply Chain"
-excerpt: "Wisor's innovative AI-powered technology helps move global freight in a click, with a mission to digitize the freight industry, lower costs, and increase efficiency; Funding round led by Team8 ..."
-publishedDateTime: 2023-02-07T13:07:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/02/b30760403/fintech-company-wisor-ai-secures-8-million-in-seed-funding-to-modernize-global-supply-chain"
-webUrl: "https://www.benzinga.com/pressreleases/23/02/b30760403/fintech-company-wisor-ai-secures-8-million-in-seed-funding-to-modernize-global-supply-chain"
-ampWebUrl: "https://www.benzinga.com/amp/content/30760403"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30760403"
+excerpt: "Wisor AI, an advanced freight booking software solution, has raised $8 million in a seed funding round led by Team8. The funding will expedite Wisor's mission to digitize the global supply chain industry and empower freight forwarders to plan,"
+publishedDateTime: 2023-02-07T13:11:00Z
+originalUrl: "https://technews.tmcnet.com/news/2023/02/07/9756068.htm"
+webUrl: "https://technews.tmcnet.com/news/2023/02/07/9756068.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "zLPc906On/K1pZsubC4jP/M110PP60QBcfYFLpYmZ95wX/E7bug3ngyTsI7fQ7Z6qpMur1b1JUooZIaOYRCTdisb310T5XfTBafqnbJy2//zjIK2P8qu37+YEEIo/iM4bOPy2H3Tc1A/rH9QnQUARh20yKkz+yPEaZ+LfkTpRs389FTpNUyiHsURPSliCxxYYU6ccJOfC4pmXs7xrmUBFEkoqDcZRlVSx2MUGc+H+HTLFKNsK/NnGF+rvcnXJY88q7wO0U6QgIQAFtzVRigcpxCMdBczk2wVAs17GI8xcqelFZAAkZ/bp5zHc0knXi2pg8z+fNrR0gQ32jtFAOE+XKc5TgbiZKuM/MztHw9fuMo=;CU+5x6mJuib4Cv395fC31w=="
+secured: "AG5WXtNgOOWXZo3HOin/0dqnRroaZuQv3KKkKmPYb/gJG2EivFx5xGXs3qeZARnXR1upAncwozuml3KIbjXv84RXy4S3JyiaWR9NBVBgT7hUl+WS2DLXSbuanv4PO/iMh0AbnuZ7O9nFv0e3Kigq1IXB2JrumQGEG1dXyHYZZ7dOk2cvyQzqLGB3vqAMA6lQX2zQ5aZU/BaKCKDBUCHgCgQb6zqbd3nnjpRAh9nmictKOao6yUuPq6+kWx982+0P+ruoDJkoSPS1xsbJdvwVHNGXZ7CFAbDPgW45xg87okRUo4zm0zQQS1hWk9gkgH+kI7mL56bxBbjQGRm9MQW7Yx9kGd5o/b1vkxNeHFOZB3kLYexlqxh250Fd2t5Fwq1bYUXP/vM1/w+tAn3YSkTSn1Pul/8IXU0z+9Weqqq+y+sSt5gt1Ty4yvZBAXmMJtRja/F2QQqRW4LrwUoKgww5Ed00VJcM3/M/k+hu6FBuvD+H+zYmLBszwX5ykaVSvmiqe/SLmAfbGYxk98Qjcc5iVw==;DiopdD79F6JvKcW1Jg9Dxw=="
 ---
 

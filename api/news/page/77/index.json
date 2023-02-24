@@ -2,12 +2,12 @@
   "page": 77,
   "value": [
     {
-      "path": "_news/2022-12-14-robot-controlled-by-rat-brain-cells.md",
-      "title": "Robot Controlled by Rat Brain Cells",
-      "excerpt": "Researchers from the University of Reading have made a robot that is controlled by brain cells extracted from rats. The cells are cultured and connected to the control circuit. The cells are alive ...",
+      "path": "_news/2022-12-16-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics.md",
+      "title": "eYs3D Microelectronics: eYs3D Hits CES with Computer Vision and AI for Medical, AIoT, Industrial and Retail Robotics",
+      "excerpt": "TAIPEI, TAIWAN / ACCESSWIRE / December 15, 2022 / eYs3D, a silicon-plus-AI computer vision solutions company, will showcase a powerful new vision platform for robotics at the upcoming CES 2023 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2010/12/robot_controlled_by_rat_brain_cells.html",
-      "originalUrl": "https://www.medgadget.com/2010/12/robot_controlled_by_rat_brain_cells.html",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57859982-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57859982-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics-200.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -17,11 +17,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T16:00:00-08:00",
+      "publishedDateTime": "2022-12-15T14:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null
@@ -31,26 +31,27 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2022-12-14-this-force-controlled-robot-gripper-is-less-likely-to-break-stuff.md",
-      "title": "This Force Controlled Robot Gripper Is Less Likely To Break Stuff",
-      "excerpt": "While robotic arms can handle a wide variety of ... it may be desired to have a force controlled gripper to avoid damage. [James Bruton] has been whipping up a design of his own for just this ...",
+      "path": "_news/2022-12-16-artificial-intelligence-ai-robot-market-is-expected-to-reach-us-5263-bn-by-2031.md",
+      "title": "Artificial Intelligence (AI) Robot Market is Expected to Reach US$ 52.63 Bn by 2031",
+      "excerpt": "Artificial Intelligence Robot Market is expected to surpass the value of US$ 52.63 Bn by 2031, It is estimated to expand at a CAGR of 20.5% from 2022 to 2031 The business intelligence study on the market is prepared by employing industry-validated primary and secondary methods.",
       "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/03/25/this-force-controlled-robot-gripper-is-less-likely-to-break-stuff/",
-      "originalUrl": "https://hackaday.com/2019/03/25/this-force-controlled-robot-gripper-is-less-likely-to-break-stuff/",
+      "webUrl": "https://www.bignewsnetwork.com/news/273216757/artificial-intelligence-ai-robot-market-is-expected-to-reach-us-5263-bn-by-2031",
+      "originalUrl": "https://www.bignewsnetwork.com/news/273216757/artificial-intelligence-ai-robot-market-is-expected-to-reach-us-5263-bn-by-2031",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://hackaday.com/wp-content/uploads/2019/03/arm800.jpg",
-          "width": 800,
-          "height": 450,
+          "url": "https://icrowdnewswire.com/wp-content/uploads/2022/12/icn698884-icnArtificial20Intelligence2028AI2920Robots.jpg",
+          "width": 280,
+          "height": 280,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -60,11 +61,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T16:00:00-08:00",
+      "publishedDateTime": "2022-12-15T14:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -74,34 +75,43 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2022-12-14-using-machine-learning-to-improve-the-toxicity-assessment-of-chemicals.md",
-      "title": "Using machine learning to improve the toxicity assessment of chemicals",
-      "excerpt": "Oct. 8, 2021 — A team has developed a novel machine learning approach that can create similarity projections via machine learning, enabling researchers to search an unstructured image database ...",
+      "path": "_news/2022-12-16-microsoft-azure-nvidia-make-ai-your-reality.md",
+      "title": "Microsoft Azure, NVidia – Make AI Your Reality",
+      "excerpt": "Artificial Intelligence can transform businesses and customer experiences but many companies struggle with how to build, operationalize and deploy AI-enabled products and services.",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/12/221214113913.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/12/221214113913.htm",
+      "webUrl": "https://venturebeat.com/microsoft-nvidia/",
+      "originalUrl": "https://venturebeat.com/microsoft-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 161,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/large-language-header.jpg?resize=750%2C388&#038;strip=all",
+          "width": 750,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T16:00:00-08:00",
+      "publishedDateTime": "2022-12-15T13:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -117,24 +127,285 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-encharge-ai-a-chip-startup-born-in-princeton-lab-raises-217-mln.md",
+      "title": "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 mln",
+      "excerpt": "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/",
+      "originalUrl": "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/9KmWDRJZNcepKm3ZrMb9-KLV0G8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X42T4SWYPZMTXKKXJ36W5F2OGY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T12:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-12-14-lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted.md",
-      "title": "Lensa AI app causes a stir with sexy “Magic Avatar” images no one wanted",
-      "excerpt": "While Lensa AI has proven popular among people on social media who like to share their AI portraits, the press has widely focused on the app's reported tendency to sexualize depictions of women when Lensa's AI avatar feature launched.",
+      "path": "_news/2022-12-16-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics.md",
+      "title": "eYs3D Hits CES with Computer Vision and AI for Medical, AIoT, Industrial and Retail Robotics",
+      "excerpt": "Intelligent Heterogeneous Integration Gives Machines Brains, Eyes and SensesTAIPEI, TAIWAN / ACCESSWIRE / December 15, 2022 / eYs3D, a silicon-plus-AI computer vision solutions company, will showcase",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac30100933/eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac30100933/eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/lensa_hero_2-800x450.jpg",
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30100933",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30100933",
+      "publishedDateTime": "2022-12-15T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-renesas-and-fixstars-to-jointly-develop-tools-suite-that-optimizes-ad-and-adas-ai-software-for-r-car-socs.md",
+      "title": "Renesas and Fixstars to Jointly Develop Tools Suite that Optimizes AD and ADAS AI Software for R-Car SoCs",
+      "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Fixstars Corporation, a global leader in multi-core CPU/GPU/FPGA acceleration technology, today announced the joint development of a suite of tools that allows optimization and fast simulation of software for autonomous driving (AD) systems and advanced driver-assistance systems (ADAS) specifically designed for the R-Car system-on-chip (SoC) devices from Renesas.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/12/15/9731166.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/12/15/9731166.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations.md",
+      "title": "AI-generated fake faces have become a hallmark of online influence operations",
+      "excerpt": "As artificial intelligence becomes more widely available, bad actors are turning to computer-generated faces in their attempts to manipulate social media networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.opb.org/article/2022/12/15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations/",
+      "originalUrl": "https://www.opb.org/article/2022/12/15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/zeuzaSlhaY0dRwiTm6d_yx3h_5E=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/XZVFRL5J53UA5KURFVETQ23ZLM.jpg",
+          "width": 767,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.opb.org/article/2022/12/15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2022/12/15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations/?outputType=amp",
+      "publishedDateTime": "2022-12-15T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OPB",
+        "domain": "opb.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-companies-and-vcs-continue-to-invest-in-ai-despite-market-slowdown.md",
+      "title": "Companies — and VCs — continue to invest in AI despite market slowdown",
+      "excerpt": "AI investments might be down from their highs. But that doesn't mean companies aren't increasing their budgets for \"intelligent\" apps.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/15/despite-the-market-slowdown-companies-and-vcs-continue-to-invest-in-ai/",
+      "originalUrl": "https://techcrunch.com/2022/12/15/despite-the-market-slowdown-companies-and-vcs-continue-to-invest-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-965917342.jpg?resize=1200,779",
+          "width": 1200,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care.md",
+      "title": "OPN Healthcare Partners with KAID Health to Leverage Natural Language Processing Technology for Value-Based Oncology Care",
+      "excerpt": "NLITE addresses key technological issues that to-date have hindered the widespread adoption of natural language processing (NLP) for prior authorization. NLITE aggregates similar clinical concepts ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-artists-stage-mass-protest-against-ai-generated-artwork-on-artstation.md",
+      "title": "Artists stage mass protest against AI-generated artwork on ArtStation",
+      "excerpt": "On Tuesday, members of the online community ArtStation began widely protesting AI-generated artwork by placing \"No AI Art\" images in their portfolios. By Wednesday, the protest images dominated ArtStation's trending page.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/artstation_protest_hero-800x450.jpg",
           "width": 800,
           "height": 450,
           "title": null,
@@ -144,9 +415,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/amp/",
-      "publishedDateTime": "2022-12-13T15:36:00-08:00",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/amp/",
+      "publishedDateTime": "2022-12-15T10:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Ars Technica",
@@ -169,23 +440,76 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
-      "title": "4 Mind-Boggling Technology Advances In Store For 2023",
-      "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
+      "path": "_news/2022-12-16-seattle-cybersecurity-startup-that-aims-to-protect-machine-learning-based-code-lands-135m.md",
+      "title": "Seattle cybersecurity startup that aims to protect machine learning-based code lands $13.5M",
+      "excerpt": "Protect AI CEO and co-founder Ian Swanson. (Protect AI Photo) Protect AI, a Seattle startup that sells cybersecurity tech tailored to code that powers artificial intelligence and machine learning ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
-      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "webUrl": "https://www.geekwire.com/2022/seattle-cybersecurity-startup-that-aims-to-protect-machine-learning-based-code-lands-13-5m/",
+      "originalUrl": "https://www.geekwire.com/2022/seattle-cybersecurity-startup-that-aims-to-protect-machine-learning-based-code-lands-13-5m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63990ad004b32ca023bf8641/0x0.jpg?format=jpg&width=1200",
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/12/Swanson-Ian_2022-BW-500x550-1.jpg",
+          "width": 1772,
+          "height": 1949,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-artificial-intelligence-will-help-social-media-radically-evolve-in-2023.md",
+      "title": "Artificial Intelligence Will Help Social Media Radically Evolve In 2023",
+      "excerpt": "Artificial intelligence might become much more viable in 2023, even if recent history has not been that positive. Sure, Twitter became a hot topic in 2022 for all of the wrong reasons. Some have argued that social media is dead or dying.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639b5b9e36621a9dd42f2a94/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -195,9 +519,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
-      "publishedDateTime": "2022-12-13T14:46:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/amp/",
+      "publishedDateTime": "2022-12-15T08:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -220,30 +544,27 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI",
-        "Google AI",
-        "Computer Vision",
-        "Natural Language Processing",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2022-12-14-ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation.md",
-      "title": "AI and analytics platform Dataiku raises $200M at a reduced valuation",
-      "excerpt": "AI and analytics startup Dataiku has raised $200 million at a reduced valuation, bringing its total raised to around $600 million.",
+      "path": "_news/2022-12-16-stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3.md",
+      "title": "Stability AI to honor artist opt-out requests for Stable Diffusion 3",
+      "excerpt": "Stability AI says it will honor artist requests to opt-out of Stable Diffusion 3 training. Will it matter, for artists or the AI model?",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/",
-      "originalUrl": "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/",
+      "webUrl": "https://venturebeat.com/ai/stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3/",
+      "originalUrl": "https://venturebeat.com/ai/stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3/",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421635359.jpg?resize=1200,720",
-          "width": 1200,
-          "height": 720,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/image-3-e1671118819436.png?w=1200&strip=all",
+          "width": 768,
+          "height": 572,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -251,16 +572,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/amp/",
-      "publishedDateTime": "2022-12-13T13:42:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/ai/stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3/amp/",
+      "publishedDateTime": "2022-12-15T08:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -280,26 +601,87 @@
       ]
     },
     {
-      "path": "_news/2022-12-14-exercise-mindfulness-dont-appear-to-boost-cognitive-function-in-older-adults.md",
-      "title": "Exercise, mindfulness don’t appear to boost cognitive function in older adults",
-      "excerpt": "A large study that focused on whether exercise and mindfulness training could boost cognitive function in older adults found no such improvement following either intervention. Researchers at ...",
+      "path": "_news/2022-12-15-uber-eats-will-roll-out-sidewalk-robots-for-food-deliveries.md",
+      "title": "Uber Eats Will Roll Out Sidewalk Robots For Food Deliveries",
+      "excerpt": "A new Uber partnership will bring robot delivery to Uber Eats customers in the Miami area, the company said Thursday. It's teaming up with Cartken, a California-based company that creates self-driving sidewalk robots,",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/974321",
-      "originalUrl": "https://www.eurekalert.org/news-releases/974321",
+      "webUrl": "https://www.cnet.com/roadshow/news/uber-eats-will-roll-out-sidewalk-robots-for-food-deliveries/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/uber-eats-will-roll-out-sidewalk-robots-for-food-deliveries/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 139,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/c5af9a10a3b45d3c7c9647acbf65effe6c6171fc/hub/2022/12/15/3546f205-950a-4097-93e8-804d4cbdbc75/afterlightimage-10.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T13:24:00-08:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/uber-eats-will-roll-out-sidewalk-robots-for-food-deliveries/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uber-eats-will-roll-out-sidewalk-robots-for-food-deliveries/",
+      "publishedDateTime": "2022-12-15T07:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-us-blacklists-chinas-chipmaker-firm-crackdowns-on-ai-chip-sector.md",
+      "title": "US Blacklists China's Chipmaker Firm, Crackdowns On AI Chip Sector",
+      "excerpt": "The Biden administration on Thursday plans to add Chinese memory chipmaker YMTC and 21 \"major\" Chinese players in the artificial intelligence chip industry to a trade blacklist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429",
+      "originalUrl": "https://www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-12/otkls578_chip-generic-istock_625x300_15_December_22.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429/amp/1",
+      "publishedDateTime": "2022-12-15T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -309,119 +691,24 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-12-14-how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction.md",
-      "title": "How AI-driven sentiment analysis can enhance employee satisfaction",
-      "excerpt": "Employees, these days, want to know that a company will look after them. One of the ways this shows up sharply is in the training and upskilling programs available.",
+      "path": "_news/2022-12-15-what-we-got-right-and-wrong-in-our-2022-ai-predictions.md",
+      "title": "What We Got Right And Wrong In Our 2022 AI Predictions",
+      "excerpt": "To keep ourselves honest, with 2022 now coming to a close, let’s revisit these predictions to see how things actually played out. There is much to learn from these retrospectives about the state and trajectory of AI today.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/",
       "featuredContent": null,
       "highlight": null,
       "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/retention.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-ai-driven-sentiment-analysis-can-enhance-employee-satisfaction/amp/",
-      "publishedDateTime": "2022-12-13T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-7-ways-a-recession-could-impact-ai-and-ml-in-2023.md",
-      "title": "7 ways a recession could impact AI and ML in 2023",
-      "excerpt": "Experts are predicting a possible recession in 2023. What would that mean for AI users and the vendors that supply AI tools and expertise?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
-      "originalUrl": "https://venturebeat.com/ai/7-ways-a-recession-could-impact-ai-and-ml-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-google-execs-warn-companys-reputation-could-suffer-if-it-moves-too-fast-on-ai-chat-technology.md",
-      "title": "Google execs warn company's reputation could suffer if it moves too fast on AI-chat technology",
-      "excerpt": "Google employees ask at a recent all-hands meeting if the popularity of AI chatbots represents a \"missed opportunity\" for the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
-      "originalUrl": "https://www.cnbc.com/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104888713-Handout_Google_DeepMind_Jeff_Dean_Future_of_Go_Summit_2017.jpg?v=1670970512",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638ecf2a893e70f66e93c5c5/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -431,677 +718,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/12/13/google-execs-warn-of-reputational-risk-with-chatgbt-like-tool.html",
-      "publishedDateTime": "2022-12-13T12:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns.md",
-      "title": "Image-generating AI can copy and paste from training data, raising IP concerns",
-      "excerpt": "A new study offers some evidence that art-generating AI systems like Stable Diffusion copy from the data on which they were trained.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/",
-      "originalUrl": "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/image-generating-ai-can-copy-and-paste-from-training-data-raising-ip-concerns/amp/",
-      "publishedDateTime": "2022-12-13T12:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-artificial-intelligence-in-healthcare-market-new-innovations-trends-technology-and-applications-market-report-to-2022-2028.md",
-      "title": "Artificial Intelligence in Healthcare Market New Innovations, Trends, Technology and Applications Market Report to 2022-2028",
-      "excerpt": "Pune, Maharashtra — (SBWIRE) — 12/13/2022 — Artificial Intelligence in Healthcare Market Analysis & Overview 2022: Artificial intelligence is utilised in medical research to discover how ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-new-innovations-trends-technology-and-applications-market-report-to-2022-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-new-innovations-trends-technology-and-applications-market-report-to-2022-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-deepminds-alphacode-is-the-best-example-of-ai-gearing-up-to-snatch-your-white-collar-jobs.md",
-      "title": "DeepMind's AlphaCode is the best example of AI gearing up to snatch your white-collar jobs",
-      "excerpt": "Researchers from DeepMind, which is a subsidiary of Alphabet, believe that this system will someday assist coders, but might not replace them. “It’s very impressive, the performance they’re ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digit.in/news/general/ai-gearing-up-to-apply-for-your-white-collar-jobs-66359.html",
-      "originalUrl": "https://www.digit.in/news/general/ai-gearing-up-to-apply-for-your-white-collar-jobs-66359.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.digit.in/default/12980-88c90f7dc7.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digit.in/article/amp/general/66359/ai-gearing-up-to-apply-for-your-white-collar-jobs",
-      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/66359/ai-gearing-up-to-apply-for-your-white-collar-jobs",
-      "publishedDateTime": "2022-12-13T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digit",
-        "domain": "digit.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-a-tech-worker-is-selling-a-childrens-book-he-made-using-ai-professional-illustrators-are-pissed.md",
-      "title": "A Tech Worker Is Selling A Children's Book He Made Using AI. Professional Illustrators Are Pissed.",
-      "excerpt": "Ammaar Reshi told BuzzFeed News that he has received death threats and messages encouraging self-harm on social media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/chrisstokelwalker/tech-worker-ai-childrens-book-angers-illustrators",
-      "originalUrl": "https://www.buzzfeednews.com/article/chrisstokelwalker/tech-worker-ai-childrens-book-angers-illustrators",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2022-12/11/17/campaign_images/7d22e253fcf3/which-jenna-ortega-character-are-you-2-414-1670780454-80_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/chrisstokelwalker/tech-worker-ai-childrens-book-angers-illustrators",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/chrisstokelwalker/tech-worker-ai-childrens-book-angers-illustrators",
-      "publishedDateTime": "2022-12-13T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "buzzfeednews.com",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-mindfulness-training-exercise-may-not-help-subjective-cognitive-concerns.md",
-      "title": "Mindfulness Training, Exercise May Not Help Subjective Cognitive Concerns",
-      "excerpt": "Opens in a new tab or window Share on LinkedIn. Opens in a new tab or window Older adults with subjective cognitive concerns who engaged in mindfulness-based stress reduction (MBSR) training ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/neurology/dementia/102220",
-      "originalUrl": "https://www.medpagetoday.com/neurology/dementia/102220",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/102xxx/102220.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-speech-and-voice-recognition-market-growing-massively-by-nuance-communications-microsoft-corporation-alphabet.md",
-      "title": "Speech And Voice Recognition Market Growing Massively by Nuance Communications, Microsoft Corporation, Alphabet",
-      "excerpt": "New Jersey, United States, Dec 13, 2022 /DigitalJournal/ Voice and speech recognition is considered a small part of biometric systems. Speech recognition is defined as a process of converting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-growing-massively-by-nuance-communications-microsoft-corporation-alphabet",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-growing-massively-by-nuance-communications-microsoft-corporation-alphabet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Speech-And-Voice-Recognition-1024x635.jpeg",
-          "width": 1024,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-investing-in-ai-top-canadian-artificial-intelligence-stocks-in-2022.md",
-      "title": "Investing in AI: Top Canadian Artificial Intelligence Stocks in 2022",
-      "excerpt": "Machine learning is a branch of artificial intelligence. It refers to a software’s ability to self-improve by using old data to interpret new information. A self-driving car, for example ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.ca/investing/top-canadian-artificial-intelligence-stocks/",
-      "originalUrl": "https://www.fool.ca/investing/top-canadian-artificial-intelligence-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool Canada",
-        "domain": "fool.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-translated-srl-the-speed-of-progress-towards-singularity-in-ai-measured-for-the-first-time-with-data-from-machine-translation-quality-improvements.md",
-      "title": "TRANSLATED SRL: The Speed of Progress Towards Singularity in AI Measured for the First Time With Data From Machine Translation Quality Improvements",
-      "excerpt": "Many A researchers believe that solving the language translation challenge is equivalent to producing Artificial General Intelligence (AGI). The evidence Translated has provided about reducing the gap between what expert human translators and an optimized machine translation system can produce is quite possibly the most compelling evidence of success at scale seen in both the MT and AI community.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/12/13/9729759.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/12/13/9729759.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-start-your-successful-journey-with-time-series-forecasting-with-amazon-forecast.md",
-      "title": "Start your successful journey with time series forecasting with Amazon Forecast",
-      "excerpt": "Organizations of all sizes are striving to grow their business, improve efficiency, and serve their customers better than ever before. Even though the future is uncertain, a data-driven, science-based approach can help anticipate what lies ahead to successfully navigate through a sea of choices. Every",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/start-your-successful-journey-with-time-series-forecasting-with-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/start-your-successful-journey-with-time-series-forecasting-with-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/13/start-your-successful-journey-amazon-forecast.jpg",
-          "width": 1563,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T09:11:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-chronomics-detects-covid-19-test-results-with-amazon-rekognition-custom-labels.md",
-      "title": "Chronomics detects COVID-19 test results with Amazon Rekognition Custom Labels",
-      "excerpt": "Chronomics is a tech-bio company that uses biomarkers—quantifiable information taken from the analysis of molecules—alongside technology to democratize the use of science and data to improve the lives of people. Their goal is to analyze biological samples and give actionable information to help you make",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/chronomics-detects-covid-19-test-results-with-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/chronomics-detects-covid-19-test-results-with-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/13/chronomics-rekognition-custom-labels.jpg",
-          "width": 1560,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T08:55:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-could-artificial-intelligence-help-us-build-a-technological-world-that-is-more-ethical.md",
-      "title": "Could artificial intelligence help us build a technological world that is more ethical?",
-      "excerpt": "A robot may not injure a human being or, through inaction, allow a human being to come to harm. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.html",
-      "originalUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/could-artificial-intel.jpg",
-          "width": 883,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.amp",
-      "publishedDateTime": "2022-12-13T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-researchers-identify-new-immune-culprit-in-alzheimers-disease.md",
-      "title": "Researchers identify new 'immune culprit' in Alzheimer's disease",
-      "excerpt": "Advertisement According to Gate, the study offers new information on the role of the immune system in patients living with cognitive impairment, which is a symptom of Alzheimer's disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
-      "originalUrl": "https://www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/8051670940934/2022/1/16709445212077/v1.5/Researchers-identify-new-immune-culprit-in-Alzheimers-disease.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
-      "publishedDateTime": "2022-12-13T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-emergent-color-categorization-in-a-neural-network-trained-for-object-recognition.md",
-      "title": "Emergent color categorization in a neural network trained for object recognition",
-      "excerpt": "Color is a prime example of categorical perception, yet it is unclear why and how color categories emerge. On the one hand, prelinguistic infants and several animals treat color categorically. On the other hand,",
-      "sourceUrl": null,
-      "webUrl": "https://elifesciences.org/articles/76472",
-      "originalUrl": "https://elifesciences.org/articles/76472",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://elifesciences.org/assets/images/social/icon-600x600@1.75dbe4c9.png",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eLife",
-        "domain": "elifesciences.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-clearml-shortens-time-to-value-in-machine-learning-with-nvidia-tao-toolkit.md",
-      "title": "ClearML Shortens Time to Value in Machine Learning With NVIDIA TAO Toolkit",
-      "excerpt": "ClearML today announced that the ClearML unified, end-to-end MLOps platform will be integrated with the latest NVIDIA TAO Toolkit 4.0 release. The NVIDIA TAO Toolkit",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/g30062806/clearml-shortens-time-to-value-in-machine-learning-with-nvidia-tao-toolkit",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/g30062806/clearml-shortens-time-to-value-in-machine-learning-with-nvidia-tao-toolkit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30062806",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30062806",
-      "publishedDateTime": "2022-12-13T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-beware-the-downsides-of-ai-data-collection-applications.md",
-      "title": "Beware The Downsides Of AI Data Collection Applications",
-      "excerpt": "Voice engines are building an extensive database about a user's interests, likes and dislikes, personal feelings, and even political leanings. The vendors say it is anonymous, and to a point that’s probably true.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6397b655a8bf3d77e33405cd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2022/12/13/beware-the-downsides-of-ai-data-collection-applications/amp/",
-      "publishedDateTime": "2022-12-13T07:00:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/amp/",
+      "publishedDateTime": "2022-12-15T06:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1124,6 +743,404 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-large-language-models-broaden-ais-reach-in-industry-and-enterprises.md",
+      "title": "Large language models broaden AI’s reach in industry and enterprises",
+      "excerpt": "LLM neural networks have been quietly expanding AI’s impact in healthcare, gaming, finance, robotics, and other fields and functions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/large-language-models-broaden-ais-reach-in-industry-and-enterprises/",
+      "originalUrl": "https://venturebeat.com/ai/large-language-models-broaden-ais-reach-in-industry-and-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/GettyImages-1357255073.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 745,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/large-language-models-broaden-ais-reach-in-industry-and-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/large-language-models-broaden-ais-reach-in-industry-and-enterprises/amp/",
+      "publishedDateTime": "2022-12-15T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-biden-blacklists-chinas-ymtc-crackdowns-on-ai-chip-sector.md",
+      "title": "Biden Blacklists China's YMTC, Crackdowns on AI Chip Sector",
+      "excerpt": "The 21 Chinese AI chip entities being added to the trade blacklist, which include Cambricon Technologies Corp and CETC, face an even tougher penalty, with the U.S. government effectively blocking ...",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2022-12-15/biden-to-blacklist-chinas-ymtc-crackdown-on-ai-chip-sector",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2022-12-15/biden-to-blacklist-chinas-ymtc-crackdown-on-ai-chip-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-coming-soon-dias-new-strategy-for-ai-readiness.md",
+      "title": "Coming soon: DIA’s new strategy for AI readiness",
+      "excerpt": "The strategy takes a broad look at DIA’s artificial intelligence needs, but sheds a particular light on the need to grow the agency’s talent base.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/12/15/coming-soon-dias-new-strategy-for-ai-readiness/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/12/15/coming-soon-dias-new-strategy-for-ai-readiness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/VxRd1wyE6umSey-in8754Qn22p8=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/GCAL2AIX2BEJJK3TMYLCARSZIM.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-presto-voice-brings-custom-voices-to-enhance-automated-drive-thru-guest-experience.md",
+      "title": "Presto Voice Brings Custom Voices to Enhance Automated Drive-Thru Guest Experience",
+      "excerpt": "Presto Automation Inc. (Nasdaq: PRST), a leader in restaurant technology, announced today the introduction of a custom voice feature in its Presto Voice TM drive-thru automation solution. This highly innovative feature,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/presto-voice-brings-custom-voices-to-enhance-automated-drive-thru-guest-experience/article_5b7f2a6d-580c-57c6-bde7-5856c5f9e234.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/presto-voice-brings-custom-voices-to-enhance-automated-drive-thru-guest-experience/article_5b7f2a6d-580c-57c6-bde7-5856c5f9e234.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech.md",
+      "title": "Werner CIO Looks to Outfit Company Trucks With AI-Enabled Tech",
+      "excerpt": "The Omaha, Neb.-based company plans to install dashboard cameras with artificial-intelligence capabilities from Samsara in its fleet of 8,500 trucks",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
+      "originalUrl": "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-685993/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
+      "publishedDateTime": "2022-12-15T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-the-self-driving-era-is-here-the-question-is-what-comes-next.md",
+      "title": "The self-driving era is here, the question is what comes next",
+      "excerpt": "TORONTO - The self-driving era is here ... s not how this is going to work,” said Raquel Urtasun, a leading artificial intelligence researcher and chief executive of Toronto-based autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html",
+      "originalUrl": "https://www.thestar.com/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/business/2022/12/24/take-the-stars-annual-quiz-how-much-do-you-remember-about-the-year-in-business/_1_main.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html",
+      "publishedDateTime": "2022-12-15T01:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-portal-rtx-player-finds-rtx-4090-gpu-in-game.md",
+      "title": "Portal RTX Player Finds RTX 4090 GPU In-Game",
+      "excerpt": "Someone discovers the RTX version of Portal contains Nvidia's most powerful new-gen GPU, no doubt an Easter egg planted by team green itself. It looks as though Nvidia has placed an Easter egg in ...",
+      "sourceUrl": null,
+      "webUrl": "https://gamerant.com/portal-rtx-4090-gpu-in-game/",
+      "originalUrl": "https://gamerant.com/portal-rtx-4090-gpu-in-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T00:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-delhi-government-schools-to-begin-delhi-robotics-league-event-tomorrow.md",
+      "title": "Delhi Government Schools to Begin Delhi Robotics League Event Tomorrow",
+      "excerpt": "Delhi Government School to initiate a Robotics competition tomorrow for all students of Delhi Schools. The opportunity can give exposure to students in the emerging era of Artificial Intelligence. The event will be held at the BR Ambedkar School of Specialized Excellence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.jagranjosh.com/news/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032",
+      "originalUrl": "https://www.jagranjosh.com/news/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jagranjosh.com/images/2022/December/15122022/robotics.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jagranjosh.com/news/amp/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032",
+      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/news/amp/delhi-government-school-to-launch-delhi-robotics-league-event-tomorrow-check-details-here-166032",
+      "publishedDateTime": "2022-12-15T00:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jagranjosh.com",
+        "domain": "jagranjosh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-building-transparent-ethics-into-artificial-intelligence.md",
+      "title": "Building transparent ethics into artificial intelligence",
+      "excerpt": "Eliminating data bias is crucial, as AI-based discrimination can have dire regulatory, reputational and revenue repercussions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/LPp6V7rBzYK7DKQz",
+      "originalUrl": "https://www.itweb.co.za/content/LPp6V7rBzYK7DKQz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2022/12/Tian-Horn-IIN-2022-NEW-LATEST.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/LPp6V7rBzYK7DKQz",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/LPp6V7rBzYK7DKQz",
+      "publishedDateTime": "2022-12-14T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

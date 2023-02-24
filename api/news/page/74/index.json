@@ -2,21 +2,21 @@
   "page": 74,
   "value": [
     {
-      "path": "_news/2022-12-16-implementing-ai-during-a-worldwide-talent-shortage.md",
-      "title": "Implementing AI during a worldwide talent shortage",
-      "excerpt": "Upskilling and investing in education are two ways to address the IT talent shortage, which is exacerbated by rapidly evolving AI models.",
+      "path": "_news/2022-12-20-data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029.md",
+      "title": "Data and AI Ethics Market Research Highlighting Global Opportunities 2023 | Growth Trends and Share Forecast to 2029",
+      "excerpt": "Dec (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Data and AI Ethics Market”",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/",
-      "originalUrl": "https://venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/",
+      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-research-highlighting-global-opportunities-2023-growth-trends-and-share-forecast-to-2029-2022-12-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 123,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1313178434.jpg?w=1200&strip=all",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 689,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/implementing-ai-during-a-worldwide-talent-shortage/amp/",
-      "publishedDateTime": "2022-12-15T18:07:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T21:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,26 +49,27 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI",
-        "Google AI"
+        "Facebook AI"
       ]
     },
     {
-      "path": "_news/2022-12-16-this-week-in-xr-ai-is-having-a-moment-infinite-realitys-spac-gifts-for-geeks.md",
-      "title": "This Week In XR: AI Is Having A Moment, Infinite Reality’s SPAC, Gifts For Geeks",
-      "excerpt": "The more a “fact” is repeated, the more true to the AI it becomes. Yikes. Asking the right question is an art. Metaverse company Infinite Reality will go public through $1.85B SPAC .Infinite Reality,",
+      "path": "_news/2022-12-20-google-ceo-pichai-introduces-ai-model-that-covers-100-indian-languages.md",
+      "title": "Google CEO Pichai introduces AI model that covers 100+ Indian languages",
+      "excerpt": "CEO of Google and Alphabet, Sundar Pichai on Monday highlighted investments in AI that the company shared at Google for India event to make India's digital economy more inclusive, helpful, and safe.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2022/12/15/this-week-in-xr-ai-is-having-a-moment-infinite-realitys-spac-gifts-for-geeks/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2022/12/15/this-week-in-xr-ai-is-having-a-moment-infinite-realitys-spac-gifts-for-geeks/",
+      "webUrl": "https://www.devdiscourse.com/article/international/2292610-google-ceo-pichai-introduces-ai-model-that-covers-100-indian-languages",
+      "originalUrl": "https://www.devdiscourse.com/article/international/2292610-google-ceo-pichai-introduces-ai-model-that-covers-100-indian-languages",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639bd53eb9e4dabe8b763212/0x0.jpg?format=jpg&crop=1571,883,x0,y29,safe&width=1200",
-          "width": 1200,
-          "height": 674,
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/20_12_2022_01_56_19_5711957.jpg?width=1280",
+          "width": 1280,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,23 +77,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2022/12/15/this-week-in-xr-ai-is-having-a-moment-infinite-realitys-spac-gifts-for-geeks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/12/15/this-week-in-xr-ai-is-having-a-moment-infinite-realitys-spac-gifts-for-geeks/amp/",
-      "publishedDateTime": "2022-12-15T17:47:00-08:00",
+      "ampWebUrl": "https://www.devdiscourse.com/article/international/2292610-google-ceo-pichai-introduces-ai-model-that-covers-100-indian-languages?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/international/2292610-google-ceo-pichai-introduces-ai-model-that-covers-100-indian-languages?amp",
+      "publishedDateTime": "2022-12-19T17:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -105,21 +97,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-16-startup-shield-ai-lands-60m-to-build-artificial-intelligence-pilots-for-military-aircraft.md",
-      "title": "Startup Shield AI lands $60M to build artificial intelligence ‘pilots’ for military aircraft",
-      "excerpt": "The San Diego company, which uses algorithms as a autonomous pilots for drones and manned aircraft, gets a follow-on investment to its Series E venture capital round",
+      "path": "_news/2022-12-20-autonomy-is-not-a-good-reason-to-buy-nio-or-xpeng.md",
+      "title": "Autonomy Is Not A Good Reason To Buy NIO Or XPeng",
+      "excerpt": "Some seem to think NIO and XPeng are autonomy leaders. Read why I believe that isn't the case and rate the NIO and XPEV stocks a Sell.",
       "sourceUrl": null,
-      "webUrl": "https://www.sandiegouniontribune.com/business/story/2022-12-15/shield-ai-artificial-intelligence-pilots",
-      "originalUrl": "https://www.sandiegouniontribune.com/business/story/2022-12-15/shield-ai-artificial-intelligence-pilots",
+      "webUrl": "https://seekingalpha.com/article/4565390-nio-or-xpeng-stock-autonomy-technology-not-good-reason-buy",
+      "originalUrl": "https://seekingalpha.com/article/4565390-nio-or-xpeng-stock-autonomy-technology-not-good-reason-buy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/5bc6efd/2147483647/strip/true/crop/851x569+0+22/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1d%2F7f%2F008878664863b498e50da5da8a11%2Fviasat-earth-shot.jpg",
-          "width": 320,
-          "height": 214,
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1392926948/image_1392926948.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 490,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -127,108 +119,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.sandiegouniontribune.com/business/story/2022-12-15/shield-ai-artificial-intelligence-pilots?_amp=true",
-      "cdnAmpWebUrl": "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-12-15/shield-ai-artificial-intelligence-pilots?_amp=true",
-      "publishedDateTime": "2022-12-15T17:32:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T16:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "San Diego Union-Tribune",
-        "domain": "sandiegouniontribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-artificial-intelligence-could-steal-your-restaurant-job-heres-how.md",
-      "title": "Artificial Intelligence could steal your restaurant job. Here's how",
-      "excerpt": "The food and beverage industry is experiencing a digital transformation, as robots and AI-powered tools fill in the gaps caused by a labor shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/bdcf8a7fc5583b41444768b0857c758bafb595a4/2020/03/23/bc89ffa7-bdfe-41e3-8ff1-adb3a9e28676/istock-1141493516.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-could-steal-your-restaurant-job-heres-how/",
-      "publishedDateTime": "2022-12-15T17:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-artificial-intelligence-for-new-drug-discovery.md",
-      "title": "ARTIFICIAL INTELLIGENCE FOR NEW DRUG DISCOVERY",
-      "excerpt": "The world is making rapid progress in the areas of Big Data, Artificial Intelligence and Machine Learning. These are the core drivers of what many analysts have come to refer to as the Fourth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.thisdaylive.com/wp-content/uploads/Julius-Adelusi-Adeluyi.jpg?w=800&ssl=1&mrf-size=m",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/12/12/artificial-intelligence-for-new-drug-discovery/amp/",
-      "publishedDateTime": "2022-12-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -243,21 +140,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-16-with-3123-cagr-artificial-intelligence-in-healthcare-market-worth-will-be-us-187-billion-by-2027.md",
-      "title": "With 31.23% CAGR, Artificial Intelligence in Healthcare Market Worth will be US$ 18.7 Billion by 2027",
-      "excerpt": "The global artificial intelligence in healthcare market size reached a value of US$ 3.4 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 18.7 Billion by 2027 ...",
+      "path": "_news/2022-12-20-make-your-noisy-recording-sound-like-pro-audio-with-adobes-free-ai-tool.md",
+      "title": "Make your noisy recording sound like pro audio with Adobe’s free AI tool",
+      "excerpt": "Adobe released a free AI-powered audio processing tool that can enhance some poor-quality voice recordings by removing background noise and making the voice sound stronger. When it works, the result sounds like a recording made in a professional sound booth with a high-quality microphone.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ab30102488/with-31-23-cagr-artificial-intelligence-in-healthcare-market-worth-will-be-us-18-7-billion-by-202",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ab30102488/with-31-23-cagr-artificial-intelligence-in-healthcare-market-worth-will-be-us-18-7-billion-by-202",
+      "webUrl": "https://arstechnica.com/information-technology/2022/12/make-a-bathroom-sound-like-a-pro-audio-booth-with-adobes-free-ai-tool/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/12/make-a-bathroom-sound-like-a-pro-audio-booth-with-adobes-free-ai-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/adobe_speech_enhance_hero_1-800x450.jpg",
           "width": 800,
-          "height": 313,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -265,13 +162,168 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30102488",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30102488",
-      "publishedDateTime": "2022-12-15T15:54:00-08:00",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/make-a-bathroom-sound-like-a-pro-audio-booth-with-adobes-free-ai-tool/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/make-a-bathroom-sound-like-a-pro-audio-booth-with-adobes-free-ai-tool/amp/",
+      "publishedDateTime": "2022-12-19T15:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-layoffs-are-coming-for-self-driving-truck-company-tusimple.md",
+      "title": "Layoffs are coming for self-driving truck company TuSimple",
+      "excerpt": "Autonomous trucking technology company TuSimple reportedly plans to lay off a chunk of its staff as early as this week.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/",
+      "originalUrl": "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck-close-up.jpg?resize=1200,801",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/19/layoffs-are-coming-for-self-driving-truck-company-tusimple/amp/",
+      "publishedDateTime": "2022-12-19T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-30-robotics-startups-to-watch.md",
+      "title": "30 Robotics Startups to Watch",
+      "excerpt": "The leading robotics devices use machine learning and artificial intelligence along with advanced mechanics, better navigations skills, and improved sensors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/robotics-startups/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/robotics-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/11/joshua-sortino-LqKhnDzSF-8-unsplash-scaled.jpg",
+          "width": 1920,
+          "height": 1283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-stop-tinkering-with-ai.md",
+      "title": "Stop Tinkering with AI",
+      "excerpt": "AI initiatives at many organizations are too ... can), you may have to partner with a company such as Microsoft Azure, Amazon Web Services (AWS), or Google Cloud. Capital One, which has been ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2023/01/stop-tinkering-with-ai",
+      "originalUrl": "https://hbr.org/2023/01/stop-tinkering-with-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2022/11/R2301J_DOUCETTE-scaled.jpg",
+          "width": 2560,
+          "height": 1439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -281,26 +333,26 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-12-16-try-riffusion-an-ai-model-that-composes-music-by-visualizing-it.md",
-      "title": "Try ‘Riffusion,’ an AI model that composes music by visualizing it",
-      "excerpt": "AI-generated music is already wild enough, but Riffusion takes it to another level by producing music using not audio but images.",
+      "path": "_news/2022-12-19-automatically-retrain-neural-networks-with-renate.md",
+      "title": "Automatically retrain neural networks with Renate",
+      "excerpt": "Today we announce the general availability of Renate, an open-source Python library for automatic model retraining. The library provides continual learning algorithms able to incrementally train a neural network as more data becomes available. By open-sourcing Renate, we would like to create a venue",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/15/try-riffusion-an-ai-model-that-composes-music-by-visualizing-it/",
-      "originalUrl": "https://techcrunch.com/2022/12/15/try-riffusion-an-ai-model-that-composes-music-by-visualizing-it/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-retrain-neural-networks-with-renate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-retrain-neural-networks-with-renate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/web_app_screenshot.webp?resize=1200,662",
-          "width": 1200,
-          "height": 662,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/19/automatically-retrain-neural-networks-renate.jpg",
+          "width": 2000,
+          "height": 998,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -308,9 +360,157 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/15/try-riffusion-an-ai-model-that-composes-music-by-visualizing-it/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/15/try-riffusion-an-ai-model-that-composes-music-by-visualizing-it/amp/",
-      "publishedDateTime": "2022-12-15T15:44:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T09:55:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-create-amazon-sagemaker-models-using-the-pytorch-model-zoo.md",
+      "title": "Create Amazon SageMaker models using the PyTorch Model Zoo",
+      "excerpt": "Deploying high-quality, trained machine learning (ML) models to perform either batch or real-time inference is a critical piece of bringing value to customers. However, the ML experimentation process can be tedious—there are a lot of approaches requiring a significant amount of time to implement. That’s",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-models-using-the-pytorch-model-zoo/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-models-using-the-pytorch-model-zoo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/19/sagemaker-models-pytorch-model-zoo.jpg",
+          "width": 2000,
+          "height": 1001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T09:46:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here.md",
+      "title": "Google To Translate Doctor’s Handwritten Prescriptions Soon | Check Details Here",
+      "excerpt": "The AI tool will be created in Google Lens that can decode badly written medical notes. The company showcased the feature during its 'AI for India' event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/",
+      "originalUrl": "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2022/12/google-search-2022-list.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/google-to-translate-doctors-handwritten-prescriptions-soon-check-details-here-5812403/amp/",
+      "publishedDateTime": "2022-12-19T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-20-imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m.md",
+      "title": "ImagenAI, which uses AI to personalize photo editing styles, lands $30M",
+      "excerpt": "ImagenAI, a startup offering a service that uses AI to personalize photo editing styles and apply them at scale, has raised $30 million.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/",
+      "originalUrl": "https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/07/travelphotography-shutterstock.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/19/imagenai-which-uses-ai-to-personalize-photo-editing-styles-lands-30m/amp/",
+      "publishedDateTime": "2022-12-19T08:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "YAHOO!News",
@@ -338,26 +538,86 @@
       ]
     },
     {
-      "path": "_news/2022-12-16-biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry.md",
-      "title": "Biden administration puts China's YMTC on blacklist, turns focus on AI chip industry",
-      "excerpt": "Over 20 other significant names in China's artificial intelligence chip sector have been put on a US trade blacklist amid a crackdown.",
+      "path": "_news/2022-12-19-how-ai-avatars-and-face-filters-are-altering-our-conception-of-beauty.md",
+      "title": "How AI Avatars And Face Filters Are Altering Our Conception Of Beauty",
+      "excerpt": "By widening the gap between fantasy and reality, technology that generates the perfect self-image is raising our baseline of beauty. But at what cost?",
       "sourceUrl": null,
-      "webUrl": "https://www.fox4now.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry",
-      "originalUrl": "https://www.fox4now.com/news/national/biden-administration-puts-chinas-ymtc-on-blacklist-turns-focus-on-ai-chip-industry",
+      "webUrl": "https://www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/",
+      "originalUrl": "https://www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/639fcc46a4b3cfdf918cea81/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annahaines/2022/12/19/how-ai-avatars-and-face-filters-are-affecting-our-conception-of-beauty/amp/",
+      "publishedDateTime": "2022-12-19T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-nvidia-kubernetes-device-plug-in-brings-temporal-gpu-concurrency.md",
+      "title": "NVIDIA Kubernetes Device Plug-in Brings Temporal GPU Concurrency",
+      "excerpt": "For Ampere and later GPU models (e.g. A100), multi-instance GPU concurrency is already supported by the K8s device plug-in. The newest addition to the list comes with temporal concurrency via the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/12/k8s-gpu-time-slicing/",
+      "originalUrl": "https://www.infoq.com/news/2022/12/k8s-gpu-time-slicing/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/12/k8s-gpu-time-slicing/en/headerimage/generatedHeaderImage-1671237650361.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T15:23:00-08:00",
+      "publishedDateTime": "2022-12-19T07:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox 4",
-        "domain": "fox4now.com",
+        "name": "InfoQ",
+        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -372,20 +632,445 @@
       ]
     },
     {
-      "path": "_news/2022-12-16-stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training.md",
-      "title": "Stability AI plans to let artists opt out of Stable Diffusion 3 image training",
-      "excerpt": "Stability AI announced it would allow artists to remove their work from the training dataset for an upcoming Stable Diffusion 3.0 release. The move comes as an artist advocacy group called Spawning tweeted that Stability AI would honor opt-out requests collected on its The details of how the plan will be implemented remain incomplete and unclear,",
+      "path": "_news/2022-12-19-facial-recognition-wielded-in-india-to-enforce-covid-policy.md",
+      "title": "Facial recognition wielded in India to enforce COVID policy",
+      "excerpt": "After a pair of Islamist bombings rocked the south-central Indian city of Hyderabad in 2013, officials rushed to install 5,000",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/",
+      "webUrl": "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/",
+      "originalUrl": "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/optout_hero_1-800x450.jpg",
-          "width": 800,
+          "url": "https://mynorthwest.com/wp-content/uploads/2022/12/ap_8df9a889fe874ba4a466839c97ed3cdd.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3755383/facial-recognition-wielded-in-india-to-enforce-covid-policy/amp/",
+      "publishedDateTime": "2022-12-19T06:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics.md",
+      "title": "Genrobotics expands R&D facility to Technocity for healthcare robotics",
+      "excerpt": "The company said the centre opened at Technocity, Thiruvananthapuram, will strengthen its R&D for healthcare products with special focus on developing healthcare robots. State Health Minister ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics-9731851.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics-9731851.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/12/Technocity.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics-9731851.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/genrobotics-expands-rd-facility-to-technocity-for-healthcare-robotics-9731851.html/amp",
+      "publishedDateTime": "2022-12-19T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-how-ai-creativity-affects-human-art-and-business.md",
+      "title": "How AI Creativity Affects Human Art And Business",
+      "excerpt": "CEO at Reface, a Ukrainian startup and AI product company of easy-to-use tools for digital self-expression. Until recently, we could hardly imagine that by entering some absurd text prompt like \"Spiderman on the moon shaking hands with a surreal Elon Musk,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/19/how-ai-creativity-affects-human-art-and-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/19/how-ai-creativity-affects-human-art-and-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c83a13fef1dee7d35374c5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/19/how-ai-creativity-affects-human-art-and-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/19/how-ai-creativity-affects-human-art-and-business/amp/",
+      "publishedDateTime": "2022-12-19T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-empathy-in-the-age-of-ai.md",
+      "title": "Empathy in the Age of AI",
+      "excerpt": "According to some scholars, projecting our humanity onto AI could have real consequences, from further obscuring the way these minds actually function to reinforcing a dubious notion of the human mind as a sole,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/",
+      "originalUrl": "https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/639ccdabfd7f2c34ab1d70e9/master/pass/anthropomorphism-empathy-ai.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-animals-anthropomorphism/amp",
+      "publishedDateTime": "2022-12-19T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-how-is-artificial-intelligence-shaping-the-audits-of-financial-statements.md",
+      "title": "How Is Artificial Intelligence Shaping The Audits Of Financial Statements?",
+      "excerpt": "A recent study demonstrates that the use of artificial intelligence is significantly improving the quality and efficiency of financial statement audits, as well as displacing audit professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/josephbrazel/2022/12/19/how-is-artificial-intelligence-shaping-the-audits-of-financial-statements/",
+      "originalUrl": "https://www.forbes.com/sites/josephbrazel/2022/12/19/how-is-artificial-intelligence-shaping-the-audits-of-financial-statements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6399d4dbc66f19da4ea62f2e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/josephbrazel/2022/12/19/how-is-artificial-intelligence-shaping-the-audits-of-financial-statements/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josephbrazel/2022/12/19/how-is-artificial-intelligence-shaping-the-audits-of-financial-statements/amp/",
+      "publishedDateTime": "2022-12-19T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-how-to-spot-ai-generated-text.md",
+      "title": "How to spot AI-generated text",
+      "excerpt": "The internet is increasingly awash with text written by AI software. We need new tools to detect it. This sentence was written by an AI—or was it? OpenAI’s new chatbot, ChatGPT, presents us with a problem: How will we know whether what we read online ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/",
+      "originalUrl": "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/12/pencils2a_1.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/amp/",
+      "publishedDateTime": "2022-12-19T02:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-genesis-face-connect-could-eliminate-the-need-for-key-fobs-in-the-future.md",
+      "title": "Genesis' Face Connect Could Eliminate The Need For Key Fobs In The Future",
+      "excerpt": "It can be a hassle, but with Genesis introducing face recognition technology, this problem could soon be a thing of the past. Genesis has rolled out a new EV, the GV 60, with a Face Recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.topspeed.com/genesis-face-recognition-to-eliminate-key-fobs/",
+      "originalUrl": "https://www.topspeed.com/genesis-face-recognition-to-eliminate-key-fobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.topspeedimages.com/wordpress/wp-content/uploads/2022/12/3056-genesisgv60.jpg",
+          "width": 4096,
+          "height": 2304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-19T00:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TopSpeed",
+        "domain": "topspeed.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-this-mechanical-engineer-is-building-robots-to-harvest-raspberries.md",
+      "title": "This mechanical engineer is building robots to harvest raspberries",
+      "excerpt": "Mechanical engineer Josie Hughes is on a mission to show how robotics can play a role in our everyday lives, particularly when it comes to food. Starting with LEGO robots as a child, the Cambridge graduate now leads the Computational Robot Design & Fabrication Lab (CREATE) at the Swiss Federal Institute of Technology Lausanne (EPFL),",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221215134817-03-josie-hughes-raspberry-robot-t4g-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/12/19/world/raspberry-harvest-robot-josie-hughes-hnk-spc-intl/index.html",
+      "publishedDateTime": "2022-12-18T23:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-stereolabs-launches-3d-robot-camera.md",
+      "title": "Stereolabs Launches 3D Robot Camera",
+      "excerpt": "the ZED-X is built for production-scale deployments of autonomous robots under rugged conditions. With the ZED SDK and the ZED Hub multi-camera control platform, the ZED-X delivers capabilities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forconstructionpros.com/construction-technology/machine-grade-control-gps-laser-other/product/22591988/stereolabs-stereolabs-launches-3d-robot-camera",
+      "originalUrl": "https://www.forconstructionpros.com/construction-technology/machine-grade-control-gps-laser-other/product/22591988/stereolabs-stereolabs-launches-3d-robot-camera",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2022/12/ZEDX_V01_v02.639356278b6e6.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-18T22:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "For Construction Pros",
+        "domain": "forconstructionpros.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-19-with-robots-and-ai-a-five-star-hotel-to-help-honeybees.md",
+      "title": "With robots and AI, a “five-star hotel” to help honeybees",
+      "excerpt": "Beewise, a 4-year-old startup based in Oakland, California, offers a particularly inspiring example of how robotics and AI might radically slow and even reverse the global honeybee die-off.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/articleshow/96332573.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/articleshow/96332573.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-96746,msid-96332564/bees-istock.jpg",
+          "width": 600,
           "height": 450,
           "title": null,
           "attribution": null,
@@ -394,23 +1079,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/stability-ai-plans-to-let-artists-opt-out-of-stable-diffusion-3-image-training/amp/",
-      "publishedDateTime": "2022-12-15T14:41:00-08:00",
+      "ampWebUrl": "https://m.economictimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/amp_articleshow/96332573.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/entrepreneurship/with-robots-and-ai-a-five-star-hotel-to-help-honeybees/amp_articleshow/96332573.cms",
+      "publishedDateTime": "2022-12-18T20:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -419,120 +1095,34 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-12-16-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics.md",
-      "title": "eYs3D Microelectronics: eYs3D Hits CES with Computer Vision and AI for Medical, AIoT, Industrial and Retail Robotics",
-      "excerpt": "TAIPEI, TAIWAN / ACCESSWIRE / December 15, 2022 / eYs3D, a silicon-plus-AI computer vision solutions company, will showcase a powerful new vision platform for robotics at the upcoming CES 2023 ...",
+      "path": "_news/2022-12-19-healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Geographical Segmentation By Forecast Revenue 2023-2029",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Dec 19, 2022 (The Expresswire) -- “Healthcare Natural Language Processing (NLP) Market\" is segmented by Company, Region (country), By Type, Application, stakeholders and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57859982-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57859982-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics-200.htm",
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029-2022-12-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-geographical-segmentation-by-forecast-revenue-2023-2029-2022-12-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 93,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T14:38:00-08:00",
+      "publishedDateTime": "2022-12-18T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-artificial-intelligence-ai-robot-market-is-expected-to-reach-us-5263-bn-by-2031.md",
-      "title": "Artificial Intelligence (AI) Robot Market is Expected to Reach US$ 52.63 Bn by 2031",
-      "excerpt": "Artificial Intelligence Robot Market is expected to surpass the value of US$ 52.63 Bn by 2031, It is estimated to expand at a CAGR of 20.5% from 2022 to 2031 The business intelligence study on the market is prepared by employing industry-validated primary and secondary methods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/273216757/artificial-intelligence-ai-robot-market-is-expected-to-reach-us-5263-bn-by-2031",
-      "originalUrl": "https://www.bignewsnetwork.com/news/273216757/artificial-intelligence-ai-robot-market-is-expected-to-reach-us-5263-bn-by-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icrowdnewswire.com/wp-content/uploads/2022/12/icn698884-icnArtificial20Intelligence2028AI2920Robots.jpg",
-          "width": 280,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T14:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-microsoft-azure-nvidia-make-ai-your-reality.md",
-      "title": "Microsoft Azure, NVidia – Make AI Your Reality",
-      "excerpt": "Artificial Intelligence can transform businesses and customer experiences but many companies struggle with how to build, operationalize and deploy AI-enabled products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/microsoft-nvidia/",
-      "originalUrl": "https://venturebeat.com/microsoft-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/large-language-header.jpg?resize=750%2C388&#038;strip=all",
-          "width": 750,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -540,266 +1130,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-encharge-ai-a-chip-startup-born-in-princeton-lab-raises-217-mln.md",
-      "title": "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 mln",
-      "excerpt": "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/",
-      "originalUrl": "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/9KmWDRJZNcepKm3ZrMb9-KLV0G8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X42T4SWYPZMTXKKXJ36W5F2OGY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics.md",
-      "title": "eYs3D Hits CES with Computer Vision and AI for Medical, AIoT, Industrial and Retail Robotics",
-      "excerpt": "Intelligent Heterogeneous Integration Gives Machines Brains, Eyes and SensesTAIPEI, TAIWAN / ACCESSWIRE / December 15, 2022 / eYs3D, a silicon-plus-AI computer vision solutions company, will showcase",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac30100933/eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac30100933/eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30100933",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30100933",
-      "publishedDateTime": "2022-12-15T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-renesas-and-fixstars-to-jointly-develop-tools-suite-that-optimizes-ad-and-adas-ai-software-for-r-car-socs.md",
-      "title": "Renesas and Fixstars to Jointly Develop Tools Suite that Optimizes AD and ADAS AI Software for R-Car SoCs",
-      "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Fixstars Corporation, a global leader in multi-core CPU/GPU/FPGA acceleration technology, today announced the joint development of a suite of tools that allows optimization and fast simulation of software for autonomous driving (AD) systems and advanced driver-assistance systems (ADAS) specifically designed for the R-Car system-on-chip (SoC) devices from Renesas.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/12/15/9731166.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/12/15/9731166.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T12:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations.md",
-      "title": "AI-generated fake faces have become a hallmark of online influence operations",
-      "excerpt": "As artificial intelligence becomes more widely available, bad actors are turning to computer-generated faces in their attempts to manipulate social media networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.opb.org/article/2022/12/15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations/",
-      "originalUrl": "https://www.opb.org/article/2022/12/15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/zeuzaSlhaY0dRwiTm6d_yx3h_5E=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/XZVFRL5J53UA5KURFVETQ23ZLM.jpg",
-          "width": 767,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.opb.org/article/2022/12/15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2022/12/15/ai-generated-fake-faces-have-become-a-hallmark-of-online-influence-operations/?outputType=amp",
-      "publishedDateTime": "2022-12-15T11:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "OPB",
-        "domain": "opb.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-companies-and-vcs-continue-to-invest-in-ai-despite-market-slowdown.md",
-      "title": "Companies — and VCs — continue to invest in AI despite market slowdown",
-      "excerpt": "AI investments might be down from their highs. But that doesn't mean companies aren't increasing their budgets for \"intelligent\" apps.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/15/despite-the-market-slowdown-companies-and-vcs-continue-to-invest-in-ai/",
-      "originalUrl": "https://techcrunch.com/2022/12/15/despite-the-market-slowdown-companies-and-vcs-continue-to-invest-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-965917342.jpg?resize=1200,779",
-          "width": 1200,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care.md",
-      "title": "OPN Healthcare Partners with KAID Health to Leverage Natural Language Processing Technology for Value-Based Oncology Care",
-      "excerpt": "NLITE addresses key technological issues that to-date have hindered the widespread adoption of natural language processing (NLP) for prior authorization. NLITE aggregates similar clinical concepts ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -814,73 +1144,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-16-artists-stage-mass-protest-against-ai-generated-artwork-on-artstation.md",
-      "title": "Artists stage mass protest against AI-generated artwork on ArtStation",
-      "excerpt": "On Tuesday, members of the online community ArtStation began widely protesting AI-generated artwork by placing \"No AI Art\" images in their portfolios. By Wednesday, the protest images dominated ArtStation's trending page.",
+      "path": "_news/2022-12-19-low-et-levels-in-blood-plasma-may-predict-increased-risk-of-cognitive-impairment-dementia.md",
+      "title": "Low ET levels in blood plasma may predict increased risk of cognitive impairment, dementia",
+      "excerpt": "A study by Prof Halliwell's team in 2016 showed lower ET levels in blood plasma among participants with mild cognitive impairment. This was verified in a much larger group of cognitively impaired ...",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/artstation_protest_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/artstation-artists-stage-mass-protest-against-ai-generated-artwork/amp/",
-      "publishedDateTime": "2022-12-15T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-seattle-cybersecurity-startup-that-aims-to-protect-machine-learning-based-code-lands-135m.md",
-      "title": "Seattle cybersecurity startup that aims to protect machine learning-based code lands $13.5M",
-      "excerpt": "Protect AI CEO and co-founder Ian Swanson. (Protect AI Photo) Protect AI, a Seattle startup that sells cybersecurity tech tailored to code that powers artificial intelligence and machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/seattle-cybersecurity-startup-that-aims-to-protect-machine-learning-based-code-lands-13-5m/",
-      "originalUrl": "https://www.geekwire.com/2022/seattle-cybersecurity-startup-that-aims-to-protect-machine-learning-based-code-lands-13-5m/",
+      "webUrl": "https://www.news-medical.net/news/20221219/Low-ET-levels-in-blood-plasma-may-predict-increased-risk-of-cognitive-impairment-dementia.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221219/Low-ET-levels-in-blood-plasma-may-predict-increased-risk-of-cognitive-impairment-dementia.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/12/Swanson-Ian_2022-BW-500x550-1.jpg",
-          "width": 1772,
-          "height": 1949,
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Dementia-620x480.jpg",
+          "width": 620,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -890,219 +1168,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T09:00:00-08:00",
+      "publishedDateTime": "2022-12-18T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-artificial-intelligence-will-help-social-media-radically-evolve-in-2023.md",
-      "title": "Artificial Intelligence Will Help Social Media Radically Evolve In 2023",
-      "excerpt": "Artificial intelligence might become much more viable in 2023, even if recent history has not been that positive. Sure, Twitter became a hot topic in 2022 for all of the wrong reasons. Some have argued that social media is dead or dying.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639b5b9e36621a9dd42f2a94/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2022/12/15/artificial-intelligence-will-help-social-media-radically-evolve-in-2023/amp/",
-      "publishedDateTime": "2022-12-15T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3.md",
-      "title": "Stability AI to honor artist opt-out requests for Stable Diffusion 3",
-      "excerpt": "Stability AI says it will honor artist requests to opt-out of Stable Diffusion 3 training. Will it matter, for artists or the AI model?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3/",
-      "originalUrl": "https://venturebeat.com/ai/stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/image-3-e1671118819436.png?w=1200&strip=all",
-          "width": 768,
-          "height": 572,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stability-ai-to-honor-artist-opt-out-requests-for-stable-diffusion-3/amp/",
-      "publishedDateTime": "2022-12-15T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-uber-eats-will-roll-out-sidewalk-robots-for-food-deliveries.md",
-      "title": "Uber Eats Will Roll Out Sidewalk Robots For Food Deliveries",
-      "excerpt": "A new Uber partnership will bring robot delivery to Uber Eats customers in the Miami area, the company said Thursday. It's teaming up with Cartken, a California-based company that creates self-driving sidewalk robots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/uber-eats-will-roll-out-sidewalk-robots-for-food-deliveries/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/uber-eats-will-roll-out-sidewalk-robots-for-food-deliveries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/c5af9a10a3b45d3c7c9647acbf65effe6c6171fc/hub/2022/12/15/3546f205-950a-4097-93e8-804d4cbdbc75/afterlightimage-10.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/uber-eats-will-roll-out-sidewalk-robots-for-food-deliveries/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uber-eats-will-roll-out-sidewalk-robots-for-food-deliveries/",
-      "publishedDateTime": "2022-12-15T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-us-blacklists-chinas-chipmaker-firm-crackdowns-on-ai-chip-sector.md",
-      "title": "US Blacklists China's Chipmaker Firm, Crackdowns On AI Chip Sector",
-      "excerpt": "The Biden administration on Thursday plans to add Chinese memory chipmaker YMTC and 21 \"major\" Chinese players in the artificial intelligence chip industry to a trade blacklist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429",
-      "originalUrl": "https://www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-12/otkls578_chip-generic-istock_625x300_15_December_22.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429/amp/1",
-      "publishedDateTime": "2022-12-15T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1112,60 +1182,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-what-we-got-right-and-wrong-in-our-2022-ai-predictions.md",
-      "title": "What We Got Right And Wrong In Our 2022 AI Predictions",
-      "excerpt": "To keep ourselves honest, with 2022 now coming to a close, let’s revisit these predictions to see how things actually played out. There is much to learn from these retrospectives about the state and trajectory of AI today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/638ecf2a893e70f66e93c5c5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/12/15/what-we-got-right-and-wrong-in-our-2022-ai-predictions/amp/",
-      "publishedDateTime": "2022-12-15T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

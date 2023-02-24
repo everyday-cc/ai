@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.genengnews.com/wp-content/uploads/2023/02/GettyImages-1393593249-scaled.jpg"

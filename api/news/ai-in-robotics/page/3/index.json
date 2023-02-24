@@ -2,6 +2,276 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-07-are-robots-coming-to-replace-us-4-jobs-artificial-intelligence-cant-outcompete-yet.md",
+      "title": "Are Robots Coming to Replace Us? 4 Jobs Artificial Intelligence Can't Outcompete (Yet!)",
+      "excerpt": "Is artificial intelligence (AI) evolving to make our lives easier? I believe the answer is that it is a bit of both in the long run, but there is no need to panic for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/leadership/4-jobs-where-artificial-intelligence-cant-outcompete-you/443708",
+      "originalUrl": "https://www.entrepreneur.com/leadership/4-jobs-where-artificial-intelligence-cant-outcompete-you/443708",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-3-etfs-for-the-artificial-intelligence-boom.md",
+      "title": "3 ETFs for the Artificial Intelligence Boom",
+      "excerpt": "Enthusiasm for ChatGPT is having a positive effect on a slew of other AI equities as highlighted by the fact that the Nasdaq CTA Artificial Intelligence and Robotics Index is higher by 19.60% year-to-date,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom",
+      "originalUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom?amp",
+      "publishedDateTime": "2023-02-06T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-chinas-tianjin-to-hold-7th-world-intelligence-congress-in-may.md",
+      "title": "China's Tianjin to hold 7th World Intelligence Congress in May",
+      "excerpt": "A visitor interacts with a robot at the 6th World Intelligence Congress held in Tianjin, June 24, 2022. [Photo/Xinhua] TIANJIN - North China's Tianjin municipality is scheduled to hold the seventh World Intelligence Congress,",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202302/06/WS63e0fa40a31057c47ebad36a.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202302/06/WS63e0fa40a31057c47ebad36a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches.md",
+      "title": "Goa Using Self-Driving, AI-Powered Robots As Lifeguards On Beaches",
+      "excerpt": "In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus, a self-driving robot and Triton,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599",
+      "originalUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/goa-using-self-driving-ai-powered-robots-as-lifeguards-on-beaches-3757599/amp/1",
+      "publishedDateTime": "2023-02-06T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches.md",
+      "title": "Goa: Artificial Intelligence-Powered Robots To Be Used To Save Lives On Beaches",
+      "excerpt": "In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus. Read full story on Dynamite News:",
+      "sourceUrl": null,
+      "webUrl": "https://www.dynamitenews.com/story/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches",
+      "originalUrl": "https://www.dynamitenews.com/story/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dynamitenews.com/images/2023/02/06/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches/63e0ed22cf4fa.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dynamite News",
+        "domain": "dynamitenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-artificial-intelligence-ai-robots-market-size-2023-expected-to-deliver-dynamic-progression-until-2028.md",
+      "title": "Artificial Intelligence (AI) Robots Market Size 2023 : Expected To Deliver Dynamic Progression Until 2028",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-goa-using-self-driving-robot-ai-powered-monitoring-system-as-lifeguards-on-its-beaches.md",
+      "title": "Goa Using Self-Driving Robot, AI-Powered Monitoring System as Lifeguards on Its Beaches",
+      "excerpt": "Both the AI-monitored camera-based systems can monitor the surroundings, assess and detect risks, share real-time information with on-duty lifeguards so they may respond faster to avoid tragic incidents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763",
+      "originalUrl": "https://www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763/amp",
+      "publishedDateTime": "2023-02-06T03:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-when-my-dad-was-sick-i-started-googling-grief-then-i-couldnt-escape-it.md",
       "title": "When my dad was sick, I started Googling grief. Then I couldn’t escape it.",
       "excerpt": "Googler, coping with uncertainty by trying to learn as much as I can about whatever might be coming. That included my father’s throat cancer. Initially I focused on the purely medical. I endeavored to learn as much as I could about molecular biomarkers,",
@@ -929,322 +1199,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-our-pick-of-the-best-artificial-intelligence-ai-stocks-shares.md",
-      "title": "Our Pick Of The Best Artificial Intelligence (AI) Stocks & Shares",
-      "excerpt": "From self-driving cars to surgery-performing robots, artificial intelligence (AI) is helping to transform every part of our lives. The potential opport",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
-      "originalUrl": "https://www.forbes.com/uk/advisor/investing/best-artificial-intelligence-ai-stocks-shares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/uk/advisor/wp-content/uploads/2023/01/Image-1-e1675170541788.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics",
-        "Microsoft AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-web3-media-group-and-fintechtv-revolutionize-ai-coverage-with-new-humanoid-host-nova-and-guest-host-sophia-the-robot.md",
-      "title": "Web3 Media Group and FINTECH.TV Revolutionize AI Coverage with New Humanoid Host Nova, and Guest Host Sophia the Robot",
-      "excerpt": "The Web3 Media Group and FINTECH.TV are proud to announce revolutionary new additions to the roster of hosts on the Web3 Show and weekly Web3 Update: Nova the AI Avatar correspondent and guest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/content/30667200/web3-media-group-and-fintech-tv-revolutionize-ai-coverage-with-new-humanoid-host-nova-and-guest-host",
-      "originalUrl": "https://www.benzinga.com/content/30667200/web3-media-group-and-fintech-tv-revolutionize-ai-coverage-with-new-humanoid-host-nova-and-guest-host",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30667200",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30667200",
-      "publishedDateTime": "2023-02-01T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-the-wind-and-light-bring-a-fairy-like-robot-to-life.md",
-      "title": "The Wind and Light Bring a Fairy-like Robot to Life",
-      "excerpt": "Researchers at Tampere University have developed a polymer-assembly robot controlled by light and powered by wind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/",
-      "originalUrl": "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/02/the-wind-and-light-bring-a-fairy-like-robot-to-life.jpeg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2023/02/01/the-wind-and-light-bring-a-fairy-like-robot-to-life/?amp=1",
-      "publishedDateTime": "2023-02-01T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-bizarre-robot-flies-revealed-and-they-could-replace-bees-and-save-humanity.md",
-      "title": "Bizarre ‘robot flies’ revealed, and they could replace bees and ‘save humanity’",
-      "excerpt": "RESEARCHERS have developed tiny robot \"flies\" that travel via wind and are controlled by light. The team, who hails from Tampere University in Finland, published their findings in the journal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/",
-      "originalUrl": "https://www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/02/aj-robot-flies-comp.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/amp/",
-      "publishedDateTime": "2023-01-31T17:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-tech-tuesday-samsung-smartphones-google-ai-liquid-robots.md",
-      "title": "Tech Tuesday: Samsung smartphones, Google AI, ‘liquid’ robots",
-      "excerpt": "From a sneak peek of the latest smartphones and artificial intelligence to “liquid” robots, technology expert Greg Nibler joined KOIN 6 News’ AM Extra to share the latest tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/",
-      "originalUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.koin.com/wp-content/uploads/sites/10/2023/01/Liquid-robot-Carnegie-Mellon-University-1312023.png?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/",
-      "cdnAmpWebUrl": "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/news/technology/tech-tuesday-samsung-smartphones-google-ai-liquid-robots/amp/",
-      "publishedDateTime": "2023-01-31T09:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KOIN 6",
-        "domain": "koin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-wesh-2-exclusive-meeting-sophia-the-ai-robot.md",
-      "title": "WESH 2 Exclusive: Meeting Sophia the AI Robot",
-      "excerpt": "SANIKA: ROBOLAND FEATURE SEVERAL ROBOTS, LIKE ROBO THESPIAN, ROBO I-PAL, EVEN A ROBO FISH, BUT ONE SPECIAL ROBOT IS THE MAIN ATTRACTION, SOPHIA. WESH 2’S JASON GUY HAS THE STORY. >> MY NAME IS SOPHIA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wesh.com/article/wesh-2-exclusive-meeting-sophia-the-ai-robot/42721009",
-      "originalUrl": "https://www.wesh.com/article/wesh-2-exclusive-meeting-sophia-the-ai-robot/42721009",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/ae4ebf35-5ee0-4848-a320-2d48bc3ab273/ae4ebf35-5ee0-4848-a320-2d48bc3ab273_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wesh.com/amp/article/wesh-2-exclusive-meeting-sophia-the-ai-robot/42721009",
-      "cdnAmpWebUrl": "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/wesh-2-exclusive-meeting-sophia-the-ai-robot/42721009",
-      "publishedDateTime": "2023-01-31T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WESH",
-        "domain": "wesh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-robotics-and-automation-to-drive-economic-growth-in-dubai.md",
-      "title": "Robotics and Automation to drive economic growth in Dubai",
-      "excerpt": "With the opportunities in the global robotics and automation market expected to grow significantly over the next decade, Dubai is setting its sights on becoming a key global player in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/articleshow/97494513.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/articleshow/97494513.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/msid-97494507,width-640,height-480,resizemode-7/hamdan-bin-mohammed-launches-the-dubai-robotics-and-automation-program-900x510.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/amp_articleshow/97494513.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/international/uae/robotics-and-automation-to-drive-economic-growth-in-dubai/amp_articleshow/97494513.cms",
-      "publishedDateTime": "2023-01-31T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

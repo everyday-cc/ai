@@ -25,22 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Builds An AI Supercomputer On The Cheap In Its Cloud"
-    excerpt: "By definition, a capability-class supercomputer means buying the best compute, storage, and networking available and getting high performance at just"
-    publishedDateTime: 2023-02-17T16:22:00Z
-    webUrl: "https://www.nextplatform.com/2023/02/17/ibm-builds-an-ai-supercomputer-on-the-cheap-in-its-cloud/"
-    ampWebUrl: "https://www.nextplatform.com/2023/02/17/ibm-builds-an-ai-supercomputer-on-the-cheap-in-its-cloud/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/02/17/ibm-builds-an-ai-supercomputer-on-the-cheap-in-its-cloud/amp/"
+  - title: "IBM’s Cloud AI Supercomputer Vela Builds AI Foundation Models For Enterprise"
+    excerpt: "The recent publicity around ChatGPT and other large language models (LLM) has brought attention to the use of foundation models as a fundamental business tool. IBM Research developed its own AI supercomputer,"
+    publishedDateTime: 2023-02-23T18:56:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/amp/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2023/02/ibm-vela-cluster-logo.jpg"
-        width: 891
-        height: 555
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+  - title: "IBM Built A Giant AI Supercomputer In The Cloud To Train Its Massive AI Models"
+    excerpt: "The AI supercomputer design team used clever engineering to combine ... It is a huge multi-node, multi-GPU system that uses NVlink for high-speed communication between GPUs. NVSwitch is used to connect multiple NVLinks for all-to-all GPU high speed ..."
+    publishedDateTime: 2023-02-23T15:02:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/02/23/ibm-built-a-giant-ai-supercomputer-in-the-cloud-to-train-its-massive-ai-models/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/02/23/ibm-built-a-giant-ai-supercomputer-in-the-cloud-to-train-its-massive-ai-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/23/ibm-built-a-giant-ai-supercomputer-in-the-cloud-to-train-its-massive-ai-models/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
 
 secured: "WUhi0q4+MNPQvpqVbe2MG9oq193EY4NiFfZgn6qofuvj+ynPY9Tmbx6MEyj8QvwpIKYMeEM5rQAVSEDTBxzkWkqmdRdmQMFPvuzfgN8KY5hctdWZj3O00lLaEomFPICsZuXafYr5imRetLUvC8bPJVfcRdftg9N779wMHY/0Bt4TNn/p6aZpLiHChjUxjSntucT/cxW4yte5gmqqRJS/XfLUOVOe0Iw51nVnMFFd7XKml1dVXHWzB/rYoLLrlwjlWzweQlZ52nIne+24REehPpHYFDBdP16SrEN4qnCVuauIijWgCfXBkeLZBpYScHjVAFcrUga+/TLs+lP0kGg8gzB0NWpLhPTQdTzu9gpmTJcXFtbKWymXl4iUMowHLPUlXNohYczVH1IZ26MjS0gBgjMKXgJQohjQONP/e1a9/DomlxmoZbvsQIOfdPXWr8HcShHx7UZFDEyL+IdfqX2oi9A6q7nTqNjV/nxSaLdeIoVHB7kRmeQHiJZXUCvevKPeorIW6NsykiYGUTN9T7yvvQ==;9XIBBly7tcoaFLmaXAYrXw=="
 ---

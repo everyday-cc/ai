@@ -65,6 +65,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "The ‘breakthrough’ AI racing agent GT Sophy debuts for Gran Turismo 7"
+    excerpt: "Sony AI and Polyphony Digital have released Gran Turismo Sophy, a hyper-realistic AI racing agent for Gran Turismo 7. The agent is based on research by Sony’s AI researchers and Polyphony Digital’s developers and it fits Gran Turismo’s mission of ..."
+    publishedDateTime: 2023-02-20T14:00:00Z
+    webUrl: "https://venturebeat.com/games/the-breakthrough-ai-racing-agent-gt-sophy-debuts-for-gran-turismo-7/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
   - title: "Race the Sony Gran Turismo AI That Beat the Best Human Players"
     excerpt: "Sony will let all Gran Turismo players take on GT Sophy, the AI opponent that defeated the best players of the car racing video game in the world. A test period of what Sony calls GT Sophy Race Together mode begins at 10 p."
     publishedDateTime: 2023-02-20T14:00:00Z
