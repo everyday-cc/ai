@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "ReflektionInc"
   url: "https://twitter.com/ReflektionInc"
-  followers: 1419
+  followers: 1418
 
 locations:
   - San Mateo, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Reflektion"
 
-secured: "8fmbG8uXzdw/rFeU0yqG3aS8bHHUQNjh09umzHqsDOIPGKnVWIXi4pc8L+LVB8/6X+sQihdji4dKxPwrmhzzf6NB1nXqeP8Ho7NuSXqFLmGcEaBsX4eTx7WAqELGfzclnhgfz0mc3sfpXk/cTAyyWLD46BlX2Nuufndy03BNhks+Z26AusnQG2Eq2KopZxMiTuETQ5LGirHTBVfuwNcNqNg6Xt8RBSlmTFgLPLOW4sgRriCismhl5/woBKC36kd8IJIldRgXMyFMv3v8haADv0DHFQ/zLAnriyPPRxnXGlvkFVMyW4vmmlIWvikimsh9q4l8O2nox6ozxx5avHeAKd2BpOzt+THejAl0ETj+HMJffOTOy9YNPU8gldkq5DLGV3MaQSH+Kg8nVwg6oyM2oiGmpmRy+bmt+XOLB6kh97w=;MhrflGx6+6/CUEw01qjw4A=="
+secured: "aId8q1//gfA+Hw1lDbkwtYYpWxOI2qP+JLN5J5Wj8iVqEHl2K/4YldYxYg12tHKoa3c0ZjXjMxk8t1sMEfVD5TM3pyodxub7aDd0Sm85WbOg7KYFIDvm3B4jpXb+3C27PhFdcE9OEGSr3TsrfT3swlT98uoMoWD4eQvlpuzl1tQimq5IduQkd+6UGGMbL6ihZPIgrFRltA1eobfr7WQ7oFxaKXIHzUQ3IyAPhSQhi7VG3uN52C6644HY4ci5o7hZsQWOtAK563Lr5EwnOuzlMp0eB662UL1wtCe5lAznROIQUYjKTxMdxz8YwQmRaMw42BdJYuCrn29XWsIjj5hC8+FXT0BE2Z5UyA/LlCeNGyICwNxZnCp+7j/NotWRV+SB6N+1Jq0SrzNiIQO3brmTr4DxYstYxfBatqFq1NdxKGk=;P0T+GGHMrO9FlR8PkBMRIA=="
 ---
 

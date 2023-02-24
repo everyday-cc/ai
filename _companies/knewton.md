@@ -2,7 +2,7 @@
 name: "Knewton"
 overview: "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world."
 type: "profile"
-heat: 31
+heat: 84
 
 website: https://www.knewton.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Knewton"
   url: "https://twitter.com/Knewton"
-  followers: 13897
+  followers: 13895
 
 locations:
   - Hoboken, NJ
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Knewton"
 
-secured: "ANgH+GA8TzxK0J81Q8Q8pBE8lD8aCqNJehQj4hOporRyCgVTau5qOROnlOVMzuz0rhTGNhV8TflPnTyX2++gXrJXcjRpB3N7X58NAcNcPzH7oJvdeiSIgIkEH9bVhFHot9Yq1MoAjbGCLTOHxnRquhPz3Fzm6/Oe6foNniiYO2ZEqvEV5MisYdir3QbuxbPAb31NejfzzErfJwd7mte0InuhmXLNd6qfviChubVOK7L7zCm1dHg5CQMlOYDknwVloJ1uTxN5fNQ5B+BdT60jJJWBcu5y7dcgr+/eWG9yggzuJyxN2slVJ9ze8kpdWDOAAcJ3888OsYlpvZ2Ly37/j6b6+JoVgfShd9kg6N8orwTGK1emMujJLrNnlkDGeA1qXv9s3VEukwnVPwuiig2/ve9QioBm5aqso1j4tRgEH48=;r9OFwGBPacT0i0QFgERS0Q=="
+secured: "+hdCtCH77hsOU6vY3PHcdMVVyY1HSBYBotJ9qjDn3iYwkP1Q738AFVOa2XEGyAt0cle/KIufYMyjlou2DSpYCBIwagDpAoVj5pd/Nd4OX0HugDCIhZekmrGDpJlidPTKhvKdow0McWRY5h/f+qE5Lz3xt+drQB6F2GY71ygEKFukUOi6/sx3LGNiWf/oDWtrSEX6xpTVXhKjHA0rCOlGYAQLQpHDk9l3q3ok58BM0HatQJL2K/dxmj1r6Ho7F319q5LK61YxnSHQZFzBbnby04G5Geuu/8rhD8dwpUzzmsocAEr0E15dD0/nlWQknfMhWhXIFN8ntumk23DeX+1122SKEejGvGri+kiRHLt5j9zmngNy/zMwJzqRtEEFxOFWLj30pKUxffQ/dQc/tGcsMi7g2m+n+jKrd9nsOhaDkyo=;QiRsXpqomdBUZsYWAQ2K7A=="
 ---
 

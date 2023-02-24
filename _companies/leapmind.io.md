@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "leapmind_inc"
   url: "https://twitter.com/leapmind_inc"
-  followers: 905
+  followers: 904
 
 size: 51-200 employees
 yearFounded: 2012
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=IsTf6hB0bGo"
 
-secured: "OjbTkEaB6kgwA662VAQSjO5rWNWzyFgWXLp3+cOLsB4rIZos9gaxHW3of28fFRAJqH3qDmArlD4of16ww6TaZIQrr47d+5EYFqj18Gqg8eJR+wb2Ojz2mN4u5xavvOdg+I5e6u8y6nbrBDJXCtO4RnndJMAl85fYvarst1PJ3CY2Mjmj+QAYDV+D4+/4xXUBxoPzmoxWjG4E56Icx2EIHi2YT+TqJKCrqoVNI3uGQUUNmnttq03S28eL/g/dtqLcXljfWWzsitwPGBBSyqB0BrwPNDe7mJxhrSyLV0ymkWIrudNBDldRdwmVVFJOafn3c5tEP2Xr6d84BLxAAljJsGhy2vhlzBjSLRuWHHWBOaupt4nHvWCYtNpwV5GdnWULBVeLd3iMVlPN/jcIQxonnQ==;w4HLVaija7knbsjM0dU2Kg=="
+secured: "Rqdx7FRuRxZYj29nA0AYxPCGewsAqeq93sDnfqVfQFYdt0krjPdYfeX29b1WE9TYFuAuLl5qjbptrm0ZoCxIuEQOk5rWwnh5HotJqZ+gC5fsgoN/caNT3s9GOCuCIsaPkOQdrVhKb73Snw4h7yc8eLYs2HEFxY8WENLXRwkiiIKffXfSvoFmOIfrtpQbzFBCcpDQBFVo56kBgeTcANb+fzgQ+zRRmKO2/SPT6HbBAAwdevCkj/qi/kXbygsGcNxkF+32rASqerVkSUUtP/RGKa7pb+pyeaR/ZzwkRPmUkzGZGut5JdsEiYxr5eU9t4p2qIStwInYmMPC1mdNKhu3ZBpbJGWksnxpvuIXdKhskuu0+SCnsSDGRn+ti14envk6Ioap9RUhLkFeaA06eDtKPg==;/xbMFjXU0np5TlI04INxRA=="
 ---
 

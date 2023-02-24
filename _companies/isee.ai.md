@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "isee_ai"
   url: "https://twitter.com/isee_ai"
-  followers: 260
+  followers: 261
 
 size: 11-50 employees
 yearFounded: 2016
@@ -41,6 +41,6 @@ images:
     isCached: true
     title: "ISEE"
 
-secured: "0aGCHS5uZ65CNCMiMCzCSxJPL5+T79eLDnjwOwckog8yLf+UmijRJsGAko7gWD1WRUCMaLIBDcDP5d6UojgAhWJE+qgEzg5V8zoaYnumzY0JzifEBwO3ezXfhYcEfZvoIMJk/EuzAmWFnFKw+gIEh61/Gi6Ie114NAyf0YGkXwFE1u/1LfLszK/SqkhtoRykZtvwoL/yQ0uyrcehuoOxyADT/Abe/tTaXchTHQlstK6n4oPD5bgHcM0QD0aAkwdlcHajU74WXAq+RIKaaD/5Hy16NkBhHfIGNLiLJuIRVJjQZBc1osMxCdisqzf7q+P3bR8a7uQNaGfCIkdxtGds/4U8lS1cHnPH2tCha7yCoWyqNuqp0m30x1r/Vf/5SJduYreeX6+XE/Nch1wvIf9Bog==;JCWl8ja/fB8GOAWR3+Lecg=="
+secured: "L0nGNJ/SZUGvZ7tQmzYcZeXLSULoXtfE0UDVsSL2Ko99wnLgkXs5dhD4JKSkibbU3daAib6K78tVqjK6OoxmDMcPf2adAuxjHWj3kTnRGbi/zn802QHrp/z8SOByCDxYStdqkLyW2CspSjpOeLNhHbzvn4+IjQ17YZ9OoyblbsD6JCohZhfdfnWrp4w8/yem754/jQ5GFYMeULHdlF+5aOcJyWPz8xPD7m/wEZBu5xb6NV43XSv2zUAMVeXrUuTrAUyo/hhUp2NzE6aBej7rTmICvlFp833NgzhjQV9+ZiN0e+oU9sxSxzrLQKzfyu0nQGlDi6GeePh9ZAY3DAVXNx3ib8Y+CwtQZd6c3Kx4AU5y8W6jYSepGt+yVuJ1/f3rq1Ucdpdlp1Zf4RDGOSJMtQ==;wsN53VPADG/MNYnyNgVupA=="
 ---
 

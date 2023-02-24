@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "zscaler"
   url: "https://twitter.com/zscaler"
-  followers: 13739
+  followers: 13769
 
 locations:
   - San Jose, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Zscaler"
 
-secured: "XCGoZ6RDZaF3RaIYSnG3+Wd5z7Gc9sxG0+EFTc/mz3Yp9wNSoZbtRolf5kbclR7kO5yy9sq3KVZBZ6JozSTCwZ5KOgAmgi0qBcfE4nksTJW/+HTGHSzANgFyfSnAoGpKPaXs2J6GyQjLsB7QvkV/hk21wOEjLV1FO1u8SQq0PgYDnJ8/dCOVHjXiUkBvLIxLIeY3vbgu+9ucD4ycBpdRNm3Fmm6nn6j2RCBKpm3pK54IBLUUko8w8Tc+SznPlDY7y3lAK6tTWNLXax7ljXuFdh8TuPKh2NqvNO+d9JAatKg3gCqum8vMxKrr8Kvxs5Yzf283TVQ76vGbxfx8n7YVsANc+jqs0GZdwyKCeUcftvKOInNNTnd3oQYcrAxWApfD/noUalicKniyCydrNXZU4OB/sGhnkx08IWqe3XoIYGk=;rNyL8USqDeqqjie3X8zeGA=="
+secured: "It2ff4d9hB5cKF+PbkBzaU5wJ0LCiUVAzJGSlIZlsIZ3vHoXh2FKxfvc6VMoavyylTqk/F4wTkXhffuG7WTkPjqA884Gz0HEzsmvtufEj4SKyy8eVL+ytqARL8KpJWGFVF5NjyV18If6UrcYSx/NBMuEourA81lkiDdHGSme+tztLfRAv8JJEJdmClZpUmXwdcI03vykmqBe/OG0E46k4YFOg91vxwLbF8/Wb06DZ1scqsHGxZ58u5lTO+r+vVY8FTnrRYKPYaGe97+3IQ3jOliQmukhsgBkSxdOwpcRoWmV4pjJzyv2aOcYdT6jpI2J3QKx8OavByjQwfL2A8e04qaRzh/x2X0LSzpYPEoE9bF9zs2jBXgUSUpz3lVR1WPL1qVzf2EAuj5NqmvWuPajjl1r4jsGy05gSBGgJLkTBuU=;E0nr0fRE7DMD4rfy8qovdA=="
 ---
 

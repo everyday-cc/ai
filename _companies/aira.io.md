@@ -4,7 +4,7 @@ otherNames:
   - "Aira"
 overview: "AI stands for Artificial Intelligence; RA stands for Remote Assistance. When you put them together you get Aira."
 type: "profile"
-heat: 58
+heat: 47
 
 website: https://aira.io/
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "airaio"
   url: "https://twitter.com/airaio"
-  followers: 4563
+  followers: 4562
 
 size: 11-50 employees
 yearFounded: 2015
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "J0CZzZPiYtk4FCb8DSM7oPkbB0WJLtTJ4fWY0xFVJhPSKiVGBK4j60vjEK1rJ3QoOcF2GFmztoeQlhlYCo6tEti0O5953+lNnRDDWKYwl3R+EKw9+BL4e1c8402e+5FqbffcyW6BRJQbcXFtiP2V4QnxnEVVvxVXvlAZUHSWOjWDa8YRILD4Ae9QhkBqc9LhpCZYroct5kPQMrujgxLmnIhv2SfIJqEC34+RaA0wszEcuR5YJPJNVpD/4PIfC6/E0Gwit0RAyhBKV/YuvNnFFM2VgmVwcGh+FOvIOiPAAcXY+zgJn59GejheReyXe3DYOo5kr7Kc9pSjLGsoBl39q3/YY8QTVvDrce+NedY4bMXhvK9gntiADz+2CLn4QYKtXiQmX4HZB+ylvYivE3FxqlHDjmyWupDR1tiS9rX2/oQ=;uz0XW2EdAXRQPtgvjT1jmA=="
+secured: "kJcXdHJjbZXknVxSrgzmL6zBGQF1erlKCu7hMvotP1vtNZbHeCEe5M0q46TTWTLt8mTAjJdpQK1Rw4Hwbtc68aVG9keXcz1rNnB+73AQLKDjpTlEEWyEwOx3Q0ST4HbyStzhmBh1WEAijtb3BvS0m6zcVRu0jPKVG8Wo0m9q1Iyrb0S3UekVL+pLdWohpAUY9go+OJXilrWgJZBrZpLQyfRmYMMui/tOs5PbXsuaYHMufhWWgbUsrYoALM/fOYH4257dHhz43M1dyT7EBnIt1NyAzi9ZB8v+JeFdVGZe2KYTqX25aLIOWI0ZbrgbqslcON/oCuamwYCrh3KsyarjbxwbylOHLXnQwC/qaCl6rMT9VgYHM/qn8Rc9aL3qAcrFWbbLGS6RIk8+UidQk6TaOft5aQUvzobtco2MUlIIFKQ=;5QriwGRQKQXM+HGPkySn8w=="
 ---
 
