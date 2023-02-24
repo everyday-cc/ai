@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T14:52:00Z
 originalUrl: "https://venturebeat.com/ai/forrester-question-generative-ai-uses-before-experimentation/"
 webUrl: "https://venturebeat.com/ai/forrester-question-generative-ai-uses-before-experimentation/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

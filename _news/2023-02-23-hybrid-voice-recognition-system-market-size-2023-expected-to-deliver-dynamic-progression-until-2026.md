@@ -32,6 +32,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+  - title: "A Closer Look at the Voice Recognition Software Market (2023 to 2029)-Opportunities and Challenges"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Voice Recognition Software Market Report includes data on research and development,"
+    publishedDateTime: 2023-02-20T04:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/a-closer-look-at-the-voice-recognition-software-market-2023-to-2029-opportunities-and-challenges-2023-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Cp1Y5nqeW+oy1Y4EBhIGvRVoVIOp62qZYdLjrmk/FmgXr1ErO9sCru7D9XEPGE4N9/YpmIYmEoE7q3sk7wvZxdezghBwDv9hzx86FsxX7CxM1vBW37Xe9YzIL12NjMayIygL3TPTQU1OVKEoVV0B/Y27qfyBafF66disug4hqlQBdnbJd7R+rZ5HV775nphcdTyvBoJndAkNDMheGc1W7Ni3A2RdUpMHkWujZmwWJv9HaPLPOsnD/FY2q6KhbpQlLzr4jo1E6cdgR/Q5ngdq2UqR7Fcuy8ik84aUOgNYG2001abiDyvNtDGdnk1UesdaSW35vGraDjnoJSJhZlrWKsSuSuXdNQcCMagmkUouYW8=;u9X6kF3aSgkIeOQzYRAcOw=="
 ---

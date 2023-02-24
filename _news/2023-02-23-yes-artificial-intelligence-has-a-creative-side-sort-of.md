@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-in
 ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/amp/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -22,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "yV75ffkrou/AdXr9RkB8dMJIYPmXmPaB26TYM5SDdfJXkoOp9zcJ7khhWYYKm5PrhJFKKcOYeH1cACAjQ52JDIVQmkH1x71N4RWbBB78Kr1NAITP2oSs2hB/A3zGFFSSbXhWE5gjNASbWNI3gZkjrGZOU3HM9dcP8Pw/Bq+tbpm4bXJASEfYafIR+qlm9vsHg7+zAAXXllYC+SvcEZ6jVmzm70ZbRnpUUEVQNbOtPsxwtxAiziuOW8CI6bM4xiRarZwSDUKfk/ivdTnnJ9H/5MawueBaI88d52MV5qFZUzFyA8jixXiaTZ1GGJ2vOctuExs9xxELyo1ShabcHEaxs+mT8Fr3RKkbTYnQEI18qaidcgZy8aLfLi8BZvFtvjMLQZ1KgN7q6Vjogi+xJcHUjroh6/STsho+CylctPGpUnUMve74fOuLxgrqh19ZpiabuSj7xvhwM38e9VAWNKXOznRa4sknTLYHA6DTB930uwpywBiZMBZeLloZPzuigufsglIZOOKrqOy0aFXHhvRHng==;y6fPRJOSBRNXayq8r4zq7Q=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/63f6e7b2e6d9f35a9b8ba852/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "5LfkD23xd1h8PNTOyDM0Jh+Y+hjKBUa60Vhqe4cg/4JCt/id1gMG4I+NUG+SNUUQLcjYvtWeA9VddlqYAHYLVabHKufOYy5ggRshsnTYxsrTYDvBeMVxWPLIXEh0BRBH3EujU4qUYOEKmVfIJ6yuohzHPyl7XkVbyisL5CncLDj5StEXeCD9nX1nPEdB4LVxQ7GQseJdlFYuOSWcYpN0LVBsCPn7HOQZmO2DIPvBWmRMjxHxesZhnwW/W8cwbz6iqVL27gLue3FVu0LLRNJ3zcyVKlbd5gXbuUwZqfXgg1mY5Sftv10f1zCN4FuRMgLFsIkXBcplYHqaqRp18VaB5sm2Bj9W4Ry2MNzTWnG62dY=;S/v+yYSlBqTG5US7dfLtPA=="
 ---
 

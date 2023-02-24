@@ -30,7 +30,7 @@ related:
     provider:
       name: WBAL-TV
       domain: wbaltv.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://kubrick.htvapps.com/vidthumb/a24a30a3-694f-48e0-babc-c2b4a13b5446/c6afed40-ed01-43f0-bd8c-6aa7b3b10033.jpeg?crop=0.989xw:1.00xh;0.00653xw,0&resize=1200:*"
         width: 1200

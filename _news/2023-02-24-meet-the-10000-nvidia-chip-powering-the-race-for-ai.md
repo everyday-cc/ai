@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T13:14:00Z
 originalUrl: "https://www.nbcnews.com/tech/tech-news/meet-10000-nvidia-chip-powering-race-rcna72155"
 webUrl: "https://www.nbcnews.com/tech/tech-news/meet-10000-nvidia-chip-powering-race-rcna72155"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: NBC News
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "AMD slowly catching up to Nvidia in GPU sales"
+    excerpt: "Thanks to its highly scalable GPU architectures, AMD GPUs are now powering a wide range of devices from consoles to PCs to mobiles."
+    publishedDateTime: 2023-02-24T13:35:00Z
+    webUrl: "https://www.ibtimes.co.uk/amd-slowly-catching-nvidia-gpu-sales-1713323"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 36
 
 secured: "QwUGD4intQXDnpzIoi0BcFzWqMfjsnZJb9AdMXJFTDBmaoPRAocusnQNVdLfo4SNWZTe/IT+mWyM1mKhcEoTB+I5LWw+sTm2oSK/fljEPWvEfMt5+m5Met8AWHpcz11scR9YSiYTxYlFhFFF7Bp/tncCKm6Bcn4GyrAj74ilwLMo9p/C7/aluQMScZ+MunI6EMEqL8s+qob1GrNpdGvAy4bRCG1v3t0Y0QrRAYFg2vrN20nFTxnMAX3c+Aw4aj+ejHk4N5g884b7OOMTAeY4lRwBbOgLfIIzIXYeybZxba+gBHIfWWXRrt7iZXTbctDHUGZaLRuOojZ2ypOmtX6HoQRyuAtnjYMyEQN9cYLz7W/ut7FyqWqnazowjKG9hlvqZNXk5FMptWb68AY2TI0BU06OvIb5I4SLz9pmNlBmzFERvE4131ICQsHLVYMtYyw2lZtb3pxobSWV9WrHXXjSoZfC2NtEzOmuI80gouR1JJZS9cq11fhIlfmV4yqtzcCp06ZneAQ2bd9v922zED0ptA==;ynDQ8/QIGlaZcmVdCKRwlg=="
 ---

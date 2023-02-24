@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T14:38:00Z
 originalUrl: "https://www.law.com/legaltechnews/2023/02/24/the-powerfully-prudent-debate-about-whether-to-use-generative-ai-in-your-legal-practice/"
 webUrl: "https://www.law.com/legaltechnews/2023/02/24/the-powerfully-prudent-debate-about-whether-to-use-generative-ai-in-your-legal-practice/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Law

@@ -150,6 +150,22 @@ related:
         width: 640
         height: 453
         isCached: true
+  - title: "Gary Vaynerchuk compares the rise of AI like ChatGPT to the way the internet revolutionized work: 'AI is coming for our jobs and that's ok'"
+    excerpt: "Vaynerchuk, an early investor in companies like Facebook and Uber ... many workers are finding that they can use AI tools to enhance their productivity at work: it's useful for research, analyzing large amounts of data, and scheduling tasks, for instance."
+    publishedDateTime: 2023-02-24T15:42:00Z
+    webUrl: "https://www.businessinsider.com/gary-vaynerchuk-ai-chatgpt-chatbot-microsoft-google-job-labor-trends-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/gary-vaynerchuk-ai-chatgpt-chatbot-microsoft-google-job-labor-trends-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gary-vaynerchuk-ai-chatgpt-chatbot-microsoft-google-job-labor-trends-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: "https://i.insider.com/63f7fa454ca0e30019ba3f74?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Monetizing Generative AI ChatGPT Via Embedded Product Placement Ads, Anguishing AI Ethics And AI Law"
     excerpt: "Some are proposing that generative AI such as ChatGPT should include embedded product placement ads, thus a seemingly suitable form of monetizing. Others are dismayed and shocked at the idea. Here's the deal."
     publishedDateTime: 2023-02-20T12:00:00Z
@@ -200,6 +216,15 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 47
+  - title: "China Is Betting Big on Artificial Intelligence—Even As It Cracks Down on ChatGPT"
+    excerpt: "Given that China already bans Google, Facebook, Twitter ... founder of Beijing-based IT research firm Marbridge Consulting. Regarding AI, China already has a virtual news anchor for the state-run Xinhua News Agency, a computer science “student ..."
+    publishedDateTime: 2023-02-24T09:00:00Z
+    webUrl: "https://time.com/6258089/china-great-firewall-chatgpt-ai-future/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 44
   - title: "ChatGPT Can Do What?! 10 Things You Should Try With AI"
     excerpt: "Artificial intelligence caught the world’s attention with the rise of ChatGPT. It wowed everyone by writing children’s books to scientific journals within minutes. However, this generative"
     publishedDateTime: 2023-02-20T03:43:00Z
@@ -241,6 +266,20 @@ related:
       - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2023/02/dreamstime_xxl_107016485.63f3a150b76d3.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "ChatGPT for marketers ­– replacement or ren-AI-ssance?"
+    excerpt: "Pushing the boundaries of AI can deliver for marketing will have a huge impact on customer experience, productivity, and marketing innovation"
+    publishedDateTime: 2023-02-24T16:47:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/chatgpt-for-marketers--replacement-or-ren-ai-ssance"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/025/iStock-815815658.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Worried about ChatGPT and artificial intelligence? How Qualcomm is trying to humanize tech"
     excerpt: "For the last five or so years, Qualcomm has bet big on bringing more artificial intelligence to smartphones, laptops, vehicles, smart infrastructure and other devices in the field—or what the company calls the \"connected intelligent edge.\" It's Don ..."

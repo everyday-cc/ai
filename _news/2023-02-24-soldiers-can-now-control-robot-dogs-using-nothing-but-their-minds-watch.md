@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T13:46:00Z
 originalUrl: "https://brobible.com/culture/article/soldiers-control-robot-dogs-their-minds/"
 webUrl: "https://brobible.com/culture/article/soldiers-control-robot-dogs-their-minds/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: BroBible

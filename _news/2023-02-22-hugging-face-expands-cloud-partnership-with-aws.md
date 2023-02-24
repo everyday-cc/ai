@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/hugging-face-expands-cloud-pa
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hugging-face-expands-cloud-partnership-with-aws/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,22 +21,42 @@ topics:
   - AI
 
 related:
-  - title: "RingCentral Dials In Strategic Partnerships With AWS And Avaya"
-    excerpt: "Vice President and Principal Analyst, Melody Brue dives in as this week, RingCentral announced two important partnerships—one with AWS, the other with Avaya."
-    publishedDateTime: 2023-02-19T21:36:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/02/19/ringcentral-dials-in-strategic-partnerships-with-aws-and-avaya/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/02/19/ringcentral-dials-in-strategic-partnerships-with-aws-and-avaya/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/19/ringcentral-dials-in-strategic-partnerships-with-aws-and-avaya/amp/"
+  - title: "C3 AI Expands Strategic Collaboration Agreement with AWS"
+    excerpt: "C3 AI today announced an expansion of their Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc."
+    publishedDateTime: 2023-02-21T17:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/c3-ai-expands-strategic-collaboration-agreement-with-aws/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63f2a3dd9db3303c2a56b89c/0x0.png?format=png&width=1200"
-        width: 1200
-        height: 698
-        isCached: true
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
+  - title: "Hugging Face teams with Amazon Web Services so customers can deploy pre-trained AI models"
+    excerpt: "Amazon Web Services (AWS) has partnered with Hugging Face to integrate the startup's software development hub into its cloud. Hugging Face has quickly established itself as one of the main places for AI developers to share open-source code and models."
+    publishedDateTime: 2023-02-22T13:17:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/hugging-face-teams-with-amazon-web-services-so-customers-can-deploy-pre-trained-ai-models/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 25
+  - title: "Amazon’s cloud unit partners with startup Hugging Face as AI deals heat up"
+    excerpt: "Amazon.com's cloud unit is expanding a partnership with artificial intelligence startup Hugging Face, which is developing a ChatGPT rival, the latest move as the biggest technology firms line up allies in an attention-getting market for generative AI systems."
+    publishedDateTime: 2023-02-21T21:37:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/feb/21/amazons-cloud-unit-partners-with-startup-hugging-f/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 17
+  - title: "Google Deepens Partnerships With Carmakers to Boost its Lagging Cloud Business"
+    excerpt: "Google is lending them expertise in cloud software and artificial intelligence to build “connected cars ... The unit was eventually spun off in 2016 as an independent company called Waymo to focus on developing self-driving softwares, not actual ..."
+    publishedDateTime: 2023-02-24T01:26:00Z
+    webUrl: "https://observer.com/2023/02/google-cloud-carmaker-partnerships/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 0
 
 secured: "5MPiugDnteLkWpYss2a+4IIGccBBHxBKhfzbXrw+ZhQkk/+aph5e84QW41k57/fOlIDnwTyget04gu1L1UYcN6XJoE+vlFcmyULVXCkvZg1LX5ssC8AhoO2xPXmBbcpuHgY0NUjaC/QcCciH31HcHyhmzMdCPOpT4R5d60roMKeGAa0McVIpKSNnWf732M2Yvko8tOi/GQ7S2si6pnpiFxt7ciq7q4ofjw3+A0yJjlmdaCW1TctvGGh56KfocaawW8iynD102H8gVykpTiZdHDltbBlW8CImt8d0PRu6kwZ+uz105XP2yAs+JRdUe7Ybf2q3BCFuspDxBsD6BhMrjFZJBmKcsxeVyqlnt8QwRmE=;dhEO7P0OsniwjGZwRndS9g=="
 ---

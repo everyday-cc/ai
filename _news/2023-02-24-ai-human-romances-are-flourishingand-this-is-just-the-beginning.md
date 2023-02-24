@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-23T19:23:00Z
 originalUrl: "https://time.com/6257790/ai-chatbots-love/"
 webUrl: "https://time.com/6257790/ai-chatbots-love/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:

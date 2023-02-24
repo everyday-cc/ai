@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T13:50:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58401914-financialnewsmedia-com-how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-advantages-008.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58401914-financialnewsmedia-com-how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-advantages-008.htm"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Finanznachrichten

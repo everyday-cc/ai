@@ -20,17 +20,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Using AI to reclaim Native languages"
-    excerpt: "Imagine putting on a virtual reality headset and entering a world where you can explore communities, like Missoula, except your character, and everyone you interact with, speaks Salish, Cheyenne or Blackfoot."
-    publishedDateTime: 2023-02-21T12:41:00Z
-    webUrl: "https://www.nhonews.com/news/2023/feb/21/using-ai-reclaim-native-languages/"
-    type: article
-    provider:
-      name: Navajo-Hopi Observer
-      domain: nhonews.com
-    quality: 19
-
 secured: "e6mgAYPBv//10VCyb6E3Sxhn8X0FS+byE9KzL8M8cnOBUc3bML0x9PZWuG2KSrBwwwGHb8OOS/hNugh3AdlNtq5QdnubmWxrJ40iJlT7Wfbh/Iu3mW3qCkx6nhVaSV4JhiOgZjubIN9pwMFb8e7InVyvH93aeGTstQyAgNFqtbAyLp0m8RRCcCi0u0yCgYm5PWlZOXyLcqOi7O9b6f3tgcnDzy1j5G2JXa6V/ABEuUGiY3fKHDk6llMkm/2VVqVND/E85mfuu1br2P/InvpiKZvAvruL3TkisjffkG3dnnotvlK8A3DIvjW/BSz2KYnqUuFj4OJsBeFQsIncFp/fvdYOt189IF6zLrnJrV1DSqA=;RKWc+A4gxtvD0lkEqd37kw=="
 ---
 

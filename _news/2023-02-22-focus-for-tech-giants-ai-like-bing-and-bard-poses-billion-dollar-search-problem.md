@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-22T11:06:00Z
 originalUrl: "https://www.devdiscourse.com/article/technology/2360591-focus-for-tech-giants-ai-like-bing-and-bard-poses-billion-dollar-search-problem"
 webUrl: "https://www.devdiscourse.com/article/technology/2360591-focus-for-tech-giants-ai-like-bing-and-bard-poses-billion-dollar-search-problem"
 type: article
+quality: 14
+heat: -1
+published: false
 
 provider:
   name: devdiscourse
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "For tech giants, AI like Bing and Bard poses billion-dollar search problem"
+    excerpt: "who formerly ran Intel Corp's AI chip efforts and now works to lower AI computing costs through his startup MosaicML. In the meantime, some have considered charging for access, like OpenAI's $20 per month subscription for better ChatGPT service."
+    publishedDateTime: 2023-02-22T22:49:00Z
+    webUrl: "https://www.reuters.com/technology/tech-giants-ai-like-bing-bard-poses-billion-dollar-search-problem-2023-02-22/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
 
 secured: "XLIMSKnVpKVt6L4B7TVeCzX9yaJ7/xSryvu1AeDYJcrNrpL9rsB25aAXOWzOAoSsq44FxYDCVs1UhlFmY+dPFCsQBkktpdZpOf8kxD1VQrKSZlbzpM/PxFrE6XYfG+xsGE4K87HUdo1Iz8+IzeOiLeQA6mAWBHsl/I1VKaOMh2D3hvMlPGpcvvPCYeCSbAK3xkHWbv25lDHOFv/nUTUgWF2lsI9oMSMv8Ici+5h5d//2Hybvisnnz4BjWMz9FUpbg8NiGQAsGKv1irGJ8hm6HB3aPhhe5dC/H03y9Os7G+0KP5MM1SdHSXuscHus0VjNinA2SdEHR8DzFgFAeQRCDEuZ1a5viNZrDKnQ9ZTfDw7z1EKx0ciALRLC1MMNpxOuql0JdtYozJd5MPD4tuZA/6dctO3bbgf2FKsyoHi4wkEKQi3yFlWNiojrtvDSIFnhd6jEXZ8vpY1SgeSSximhfleGTDyHek1Zez6YO2DDPyjSMI6wh5mlyme6IArRkKZJL9r3PpEczPNdt9ThbfsW7g==;51p6xAXDG/U6178G/gBYJQ=="
 ---

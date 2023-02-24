@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105611975/Five-Top-Stocks-Benefiting-From-The-
 webUrl: "https://menafn.com/1105611975/Five-Top-Stocks-Benefiting-From-The-US-EU-Artificial-Intelligence-Collaboration"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "C3 AI Expands Strategic Collaboration Agreement with AWS"
-    excerpt: "C3 AI today announced an expansion of their Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc."
-    publishedDateTime: 2023-02-21T17:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/c3-ai-expands-strategic-collaboration-agreement-with-aws/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
 
 secured: "O0QT17Ehci2pF8fSeNYO0v0VQm3Bg+cPdnax8f/GbR99ODsuVMLqZqEcMMKRblnR5klTfOk+pcOZSc/dshnjcd5lpCcCw9JuKkub8hRRTMjUCQypVDQvyDTMji/brtJeyAwnrNTBCQW5/DrU9u6JYjC2YYSIFzWzIQd1m1KIfkgEITZ4jetyNXIpdN5YRxX0EAHWL70TQ0oho1wicJIX/OAL9kncv/u8QapOumZUaLN9dCDlTfnsg7FsGc+5Q6YQ9wsz1WatX8hL1W4+9m5FNpzkfKjQ5QBX8PIByTv3hDPq/VZDYirjDeqPcDYtppLy1H8a7ifmiYvKuvofOl14b8V+rCIopunS36BOIFxStIE=;fS0FYV6yu+AJ0RJtuTHPvQ=="
 ---

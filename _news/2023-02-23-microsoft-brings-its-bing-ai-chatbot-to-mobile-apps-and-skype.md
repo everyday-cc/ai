@@ -37,6 +37,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 107
+  - title: "3 Microsoft Azure AI product features that accelerate language learning"
+    excerpt: "The Microsoft Azure Cognitive Speech Services platform is a comprehensive collection of technologies and services aimed at accelerating the incorporation of speech into applications and amplifying differentiation to the market as a result. Among the services available are Speech to Text, Text to Speech,"
+    publishedDateTime: 2023-02-24T08:00:18Z
+    webUrl: "https://azure.microsoft.com/blog/3-microsoft-azure-ai-product-features-that-accelerate-language-learning/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Best AI Stock to Buy: Alphabet, Amazon, or Microsoft?"
     excerpt: "Amazon Rekognition can identify people, objects, text, and more in images and videos. Microsoft has incorporated AI into its Azure cloud-hosting service. Its business intelligence tools use machine learning to analyze data. The company's GitHub Copilot ..."
     publishedDateTime: 2023-02-20T10:58:00Z
@@ -154,6 +163,15 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 30
+  - title: "Microsoft Just Starting To Hit Next Gear Of Growth, Backed By ChatGPT And AI, Analyst Says"
+    excerpt: "Azure/Office 365, along with AI monetization on Azure with consumer search piece will likely add $20/share in 12-18 month: Ives The analyst expects Activision deal to close by late summer. The Microsoft Analyst: Wedbush analyst Daniel Ives maintained an ..."
+    publishedDateTime: 2023-02-24T10:16:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/02/31043193/microsoft-just-starting-to-hit-next-gear-of-growth-backed-by-chatgpt-and-ai-analyst"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
   - title: "Hugging Face and AWS expand cloud partnership"
     excerpt: "is partnering with Amazon Web Services Inc. to streamline artificial intelligence development projects. The companies announced the partnership today. It expands upon an existing collaboration that Hugging Face and AWS launched in early 2021."
     publishedDateTime: 2023-02-22T15:44:00Z

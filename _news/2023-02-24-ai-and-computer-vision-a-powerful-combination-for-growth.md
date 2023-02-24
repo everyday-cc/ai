@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T14:05:00Z
 originalUrl: "https://vietreader.com/business/globe-newswire/76880-ai-and-computer-vision-a-powerful-combination-for-growth.html"
 webUrl: "https://vietreader.com/business/globe-newswire/76880-ai-and-computer-vision-a-powerful-combination-for-growth.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: vietreader.com

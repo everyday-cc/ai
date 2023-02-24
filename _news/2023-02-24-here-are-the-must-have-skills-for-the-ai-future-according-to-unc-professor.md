@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T11:04:00Z
 originalUrl: "https://wraltechwire.com/2023/02/24/here-are-the-must-have-skills-for-the-ai-future-according-to-unc-professor/"
 webUrl: "https://wraltechwire.com/2023/02/24/here-are-the-must-have-skills-for-the-ai-future-according-to-unc-professor/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: WRAL TechWire

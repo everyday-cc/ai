@@ -49,6 +49,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 50
+  - title: "Enterprise hits and misses - Microsoft changes their spin on ChatGPT for search, while enterprise uses for Metaverse and generative AI get real"
+    excerpt: "Microsoft changes their positioning on ChatGPT for search. No surprises here - but the pursuit of enterprise use cases is worthwhile. Plus: time to revisit the enterprise Metaverse. Your whiffs include cheating on AI ethics exams - and data backups for Valentine's day."
+    publishedDateTime: 2023-02-20T15:34:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 40
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2013-06/chess.jpg"
+        width: 425
+        height: 283
+        isCached: true
 
 secured: "dIBNsyTeTTGl8toRyddxGrtRIBm/8wJIFZ1tgTDhuj9v3II5De1aar7YMj78K7qSLjZ3lX2X4UB7pKcIssUGx3Nv2Xjm3Ae4BZOY3fOrWlEF/9qmPYlodWW+HYJdVsOaHPrQPFUEY21dKGpUIr5uvrUauRsd7TfzlzKhlbJwxqjlUEZtogYlqeZAxym4IvcKlxd/ZdRzQ9vEXAW3QbQYlBrcYJjsvqllSJV9TKMfkvLsicNdTpZZl+4BLjZuisrNBsjUDqg2jRZZvd8VtuZY+mkhjUyug8zT/Tb5ODO6imQ0ndbyv3fN3MqwHh1bOlHWEoZy2qTMY2Y74hQUSGuckccrs0gppdwrdFPPKkTOE1c=;4E+rDjHH2w0IVD561dPopA=="
 ---

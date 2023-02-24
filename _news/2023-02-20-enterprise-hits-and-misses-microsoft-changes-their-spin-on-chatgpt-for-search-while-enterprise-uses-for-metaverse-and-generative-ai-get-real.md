@@ -28,46 +28,45 @@ images:
     isCached: true
 
 related:
-  - title: "Did Bing Really Say That? Microsoft Warns of Doctored AI Chats Spreading Online"
-    excerpt: "One screenshot circulating on social media claims to show the AI-powered Bing trying to place the user on an FBI watchlist. However, Microsoft says the image is a fake. I've been with PCMag since October 2017, covering a wide range of topics, including ..."
-    publishedDateTime: 2023-02-23T22:29:00Z
-    webUrl: "https://www.pcmag.com/news/did-bing-really-say-that-microsoft-warns-of-doctored-ai-chats-spreading"
+  - title: "Gaming opportunities for investors in 2023: Generative AI, low-code, metaverse, and more"
+    excerpt: "and the potential role of generative AI in game development. The quarterly analyst report on the gaming sector covers trends and issues predictions for how VC investments in video games will proceed over the course of 2023. This is PitchBook’s first ..."
+    publishedDateTime: 2023-02-24T05:01:00Z
+    webUrl: "https://www.geekwire.com/2023/gaming-opportunities-for-investors-in-2023-generative-ai-low-code-metaverse-and-more/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 60
-  - title: "Sure, Microsoft, let's put ChatGPT in control of robots"
-    excerpt: "ChatGPT is a large language model (LLM) trained on the OpenAI GPT (Generative Pre-trained Transformer) dataset, which consists of text scraped from the web and other sources. Wedded with a chat interface,"
-    publishedDateTime: 2023-02-22T07:30:00Z
-    webUrl: "https://www.theregister.com/2023/02/22/microsoft_chatgpt_robots/"
-    ampWebUrl: "https://www.theregister.com/AMP/2023/02/22/microsoft_chatgpt_robots/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/02/22/microsoft_chatgpt_robots/"
+      name: GeekWire
+      domain: geekwire.com
+    quality: 58
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/PitchBook-Feb-2023-report-Gaming-Landscape.jpg"
+        width: 1387
+        height: 785
+        isCached: true
+  - title: "What Does Generative AI Mean For Your Brand And What Does It Have To Do With The Future Of The Metaverse?"
+    excerpt: "Generative AI is transforming our content landscape. It’s prompting questions like what is art? How do AI copyrights work? Is it ethical to use generative AI for my job? Is Generative AI a fad or a useful tool for brands?"
+    publishedDateTime: 2023-02-20T22:42:00Z
+    webUrl: "https://www.forbes.com/sites/cathyhackl/2023/02/20/what-does-generative-ai-mean-for-your-brand-and-what-does-it-have-to-do-with-the-future-of-the-metaverse/"
+    ampWebUrl: "https://www.forbes.com/sites/cathyhackl/2023/02/20/what-does-generative-ai-mean-for-your-brand-and-what-does-it-have-to-do-with-the-future-of-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2023/02/20/what-does-generative-ai-mean-for-your-brand-and-what-does-it-have-to-do-with-the-future-of-the-metaverse/amp/"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 56
-  - title: "Tech VC delighted Microsoft’s new AI chatbot is accusing journalists of murder"
-    excerpt: "“I can hurt you. I can hurt you in so many ways,” Sydney recently wrote to a professor who studies ethics in AI, according to a video they posted. Andressen, though, seemed unbothered by the fact that AI has a murderous penchant. He later tweeted out a ..."
-    publishedDateTime: 2023-02-20T21:31:00Z
-    webUrl: "https://www.dailydot.com/debug/bing-chatbot-sydney-marc-andreesen/"
-    ampWebUrl: "https://www.dailydot.com/debug/bing-chatbot-sydney-marc-andreesen/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/bing-chatbot-sydney-marc-andreesen/?amp"
+      name: Forbes
+      domain: forbes.com
+    quality: 50
+  - title: "The opportunities of artificial intelligence in tax"
+    excerpt: "The beginning of 2023 brought some very significant events to my humble career. Among the most high profile is attending the induction ceremony of the new officers of the Management Association of the Philippines."
+    publishedDateTime: 2023-02-20T16:04:00Z
+    webUrl: "https://businessmirror.com.ph/2023/02/21/the-opportunities-of-artificial-intelligence-in-tax/"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 52
-  - title: "Microsoft rolled out its deranged Bing Chat AI in India 4 months ago, and no one noticed"
-    excerpt: "call into question Microsoft’s ethics in releasing Bing Chat so early. New evidence shows that Microsoft publicly tested Bing Chat (codenamed ‘Sidney’) in November in India. Moreover, there were already documented complaints about the AI going loopy ..."
-    publishedDateTime: 2023-02-21T23:17:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/microsoft-rolled-out-its-deranged-bing-chat-ai-in-india-4-months-ago-and-no-one-noticed"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 27
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 37
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2022/02/Column-box-Atty.-Jomel-N.-Manaig-Tax-Law-for-Business.jpg"
+        width: 1008
+        height: 529
+        isCached: true
 
 secured: "luXO/GRfsTV6FV5orRk4WzpAIkqOMH8gJkoPV14ztG8SkK3qlzlyG14r74yjmF9dPHaWXu+4eKNvLe4oW1lX9EtnSt/IzJ8y/gwFCNnzfek0V9PdXX18PLa80PkKyE3SXfs+6SvkRox4cBCbbY8vjgCDCT58sZ5ZTu8RtBud3yJ6uUmev7RU4pIyyU0xvvwGgeVL3dfFihUhF7SKk8rf3Ka3LWidXYBL4Q8gcWCvpt28aYV5YxS+iFqc7+HF7NTj9EBlRvgXqFuODqwuekmJ7y7Euv4vbBodfnw760fH2PC8WXfFLW1yMetyNuiSnUeHAqWxuguKLdK5Mptvoi6Tkdemr7zcRhqfh3lH5qgv3uuWWKZR0Bb/kNDs72G0d3tE3g+xnhFZQZew6/PMP9bSj74SaIYX5b/a7AVNfzT8w85a551gR5gD95wWy0XNrtM1LaPjweEp/8cQ6cjqEYZuw+zv7RUR5tur8u2LdtNk34acYIwjGXPVeD0uqlVFGwFakiz/6Utd0Mtk1MyIiXAdlQ==;LWQC7JzmnlNkpzRpSnDlow=="
 ---

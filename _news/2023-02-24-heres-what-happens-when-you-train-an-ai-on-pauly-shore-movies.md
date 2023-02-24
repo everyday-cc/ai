@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-23T20:39:00Z
 originalUrl: "https://www.buzzfeednews.com/article/katienotopoulos/2dumb2destroy-ai-chatbot"
 webUrl: "https://www.buzzfeednews.com/article/katienotopoulos/2dumb2destroy-ai-chatbot"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: YAHOO!News

@@ -38,6 +38,22 @@ related:
         width: 1387
         height: 785
         isCached: true
+  - title: "Enterprise hits and misses - Microsoft changes their spin on ChatGPT for search, while enterprise uses for Metaverse and generative AI get real"
+    excerpt: "Microsoft changes their positioning on ChatGPT for search. No surprises here - but the pursuit of enterprise use cases is worthwhile. Plus: time to revisit the enterprise Metaverse. Your whiffs include cheating on AI ethics exams - and data backups for Valentine's day."
+    publishedDateTime: 2023-02-20T15:34:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 40
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2013-06/chess.jpg"
+        width: 425
+        height: 283
+        isCached: true
   - title: "The opportunities of artificial intelligence in tax"
     excerpt: "The beginning of 2023 brought some very significant events to my humble career. Among the most high profile is attending the induction ceremony of the new officers of the Management Association of the Philippines."
     publishedDateTime: 2023-02-20T16:04:00Z

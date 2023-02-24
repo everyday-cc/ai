@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving vehicles from overseas face ban in England and Wales"
-    excerpt: "Last year, the commission also recommended that users of self-driving cars should have immunity from a wide range of motoring offences, including dangerous driving, speeding and jumping red lights."
-    publishedDateTime: 2023-02-19T23:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/feb/20/self-driving-vehicles-from-overseas-face-ban-in-england-and-wales"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/20/self-driving-vehicles-from-overseas-face-ban-in-england-and-wales"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/20/self-driving-vehicles-from-overseas-face-ban-in-england-and-wales"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/7bf89ad7ab027f9cdb1dd01dc69b2fb7780803c9/0_130_6965_4180/master/6965.jpg?width=620&quality=85&auto=format&fit=max&s=21a04c6466ade52d630d66e264a7f304"
-        width: 620
-        height: 372
-        isCached: true
   - title: "FOCUS-Investors go back to basics with simpler self-driving vehicles"
     excerpt: "COVENTRY, England, Feb 1 (Reuters) - Developing fully autonomous vehicles (AVs) that can go everywhere has proven harder and more expensive than expected, but investors are continuing to fund startups that target simpler self-driving vehicle solutions far ..."
     publishedDateTime: 2023-02-24T08:32:00Z

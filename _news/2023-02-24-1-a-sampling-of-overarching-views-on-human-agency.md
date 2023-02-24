@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T14:52:00Z
 originalUrl: "https://www.pewresearch.org/internet/2023/02/24/a-sampling-of-overarching-views-on-human-agency/"
 webUrl: "https://www.pewresearch.org/internet/2023/02/24/a-sampling-of-overarching-views-on-human-agency/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Pew Research Center

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T11:59:00Z
 originalUrl: "https://www.forbes.com/sites/anharkarim/2023/02/24/ai-is-changing-the-influencer-space-heres-how-to-prepare/"
 webUrl: "https://www.forbes.com/sites/anharkarim/2023/02/24/ai-is-changing-the-influencer-space-heres-how-to-prepare/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

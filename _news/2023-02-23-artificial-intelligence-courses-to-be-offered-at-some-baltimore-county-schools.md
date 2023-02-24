@@ -8,8 +8,8 @@ webUrl: "https://www.wbaltv.com/article/artificial-intelligence-courses-baltimor
 ampWebUrl: "https://www.wbaltv.com/amp/article/artificial-intelligence-courses-baltimore-county-schools/43031400"
 cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/artificial-intelligence-courses-baltimore-county-schools/43031400"
 type: article
-quality: 55
-heat: 75
+quality: 57
+heat: 77
 published: true
 
 provider:

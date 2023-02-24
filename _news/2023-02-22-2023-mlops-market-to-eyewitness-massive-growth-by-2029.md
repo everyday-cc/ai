@@ -24,33 +24,62 @@ topics:
   - AWS AI
 
 related:
-  - title: "Deep Learning Chip Market Size to Reach at Extensive Growth by 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Deep learning chip is an artificial intelligence (AI) device that enables a machine to learn the given tasks and perform them without being explicitly programmed. These chips ..."
-    publishedDateTime: 2023-02-23T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023-2023-02-23"
+  - title: "Data and AI Ethics Market Size 2023 will Projected to Grow with Statistics, Forecasts till 2029"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-24T01:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-projected-to-grow-with-statistics-forecasts-till-2029-2023-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
-  - title: "AI Accelerator Chip Market 2023 Is Set to Fly Excessive Growth in Years to Come"
-    excerpt: "AI Accelerator Chip Market Analysis 2023 (Pre and Post Covid is covered and Report Customization is available):"
-    publishedDateTime: 2023-02-22T23:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-2023-is-set-to-fly-excessive-growth-in-years-to-come-2023-02-22"
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data Science and Machine Learning Service Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2028"
+    excerpt: "Feb 19, 2023 (The Expresswire) -- \"Data Science and Machine Learning Service Market\" Report covers specified competitive outlook consisting of the"
+    publishedDateTime: 2023-02-20T01:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2028-2023-02-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
-  - title: "Machine Learning Market 2023 With Top Key Players is thriving worldwide by 2029"
-    excerpt: "Machine Learning Market Size 2023-2029 | New Report (118 Pages) | Information Technology | In This Reports Machine"
-    publishedDateTime: 2023-02-23T05:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2023-with-top-key-players-is-thriving-worldwide-by-2029-2023-02-23"
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Equipment Market Size with Competitive Landscape, New Projects and Investment Analysis till 2028"
+    excerpt: "The “Facial Recognition Equipment Market” Analysis 2023-2027 is a detailed sketch of the business sphere in terms"
+    publishedDateTime: 2023-02-24T01:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-equipment-market-size-with-competitive-landscape-new-projects-and-investment-analysis-till-2028-2023-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence based Personalization Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028"
+    excerpt: "Feb 20, 2023 (The Expresswire) -- \"Artificial Intelligence based Personalization Market\" Report covers specified competitive outlook consisting of the"
+    publishedDateTime: 2023-02-20T06:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-personalization-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automated Machine Learning (AutoML) Market Size 2023 Is Projected to Rise at a Positive CAGR by Forecast to 2029"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-02-23T00:17:00Z
@@ -60,6 +89,56 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+  - title: "Speech and Voice Recognition Technology Market Size 2023 Growing Rapidly with Recent Developments by 2026"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-23T16:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-2023-growing-rapidly-with-recent-developments-by-2026-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 Clinical Natural Language Processing Market: Top Growing Opportunities and Growth Outlook by 2029"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Clinical Natural Language"
+    publishedDateTime: 2023-02-24T07:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-clinical-natural-language-processing-market-top-growing-opportunities-and-growth-outlook-by-2029-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+  - title: "Trade Statistics of Natural Language Processing Market Size 2023 | by the Influence of COVID-19 and Forecast till 2025"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Natural Language Processing Market"
+    publishedDateTime: 2023-02-23T10:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trade-statistics-of-natural-language-processing-market-size-2023-by-the-influence-of-covid-19-and-forecast-till-2025-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+  - title: "Trade Statistics of Self-Driving or Driverless Cars Market Size 2023 | by the Influence of COVID-19 and Forecast till 2025"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Self-Driving/Driverless Cars is a"
+    publishedDateTime: 2023-02-23T10:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trade-statistics-of-self-driving-or-driverless-cars-market-size-2023-by-the-influence-of-covid-19-and-forecast-till-2025-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+  - title: "Artificial Intelligence in Drug Discovery Market Growth Analysis, Size, Prominent Players, Overview, and Forecast 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 24, 2023 (Heraldkeepers) -- The Global Artificial Intelligence in Drug Discovery Market is poised to value USD 5740 million by 2028 end at a CAGR of 45.7% during the ..."
+    publishedDateTime: 2023-02-24T11:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-growth-analysis-size-prominent-players-overview-and-forecast-2028-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
 
 secured: "0yiYL695FOdcGaBa+xciPxXEok4OXRAY3aX0Xy06MA2wYL4m6n+8fwNtmuFXLj59ORaQWF92uHlB079OHkQlMlqnTjsjtD3pWZxiA/SoCD1NNPvp/9j8qgtZlsL5sIR4wOStcDjagnGv3NKkS5jt7W5UYGb7hJ1i/Lf2qa4gdr3e9unKzcQjnY+tMz2udnoF7Zg38BfQY+AyeWLDXqxcKOLGKC/UgnxlFEdRjv9h8IvCIjT97KJMFIdXMn4Y3KblijDOorwewSXGzyjt3w5A0/NcguqrMXRRNSwmakiHp6GLDP4N7Hbxe9veoqEpq8XNowXyIc3oklDi4f0AV2QXhaiOO7f52abSmNxYrEQc93g=;/gAnAM2OecVqP3bUR1FVvg=="
 ---

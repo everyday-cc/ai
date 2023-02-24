@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T13:13:00Z
 originalUrl: "https://www.telecomtv.com/content/digital-platforms-services/airtel-deploys-ai-powered-speech-analytics-solutions-for-customer-service-transformation-with-nvidia-46772/"
 webUrl: "https://www.telecomtv.com/content/digital-platforms-services/airtel-deploys-ai-powered-speech-analytics-solutions-for-customer-service-transformation-with-nvidia-46772/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TelecomTV

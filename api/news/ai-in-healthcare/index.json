@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -55,21 +55,21 @@
       ]
     },
     {
-      "path": "_news/2023-02-24-healthcare-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data.md",
-      "title": "Healthcare AI Market Outlook 2023 and Forecast to 2028 with Top Countries Data",
-      "excerpt": "Feb 23, 2023 (The Expresswire) -- \"Healthcare AI Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,",
+      "path": "_news/2023-02-23-most-americans-uncomfortable-with-artificial-intelligence-in-healthcare-survey-says.md",
+      "title": "Most Americans uncomfortable with artificial intelligence in healthcare, survey says",
+      "excerpt": "Feb. 22 (UPI) --As artificial intelligence expands in the field of health and medicine, 60% of Americans say they are \"uncomfortable\" with AI being used for their own healthcare, according to a new survey. The Pew Research Center survey, released Wednesday ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-23",
+      "webUrl": "https://www.upi.com/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/",
+      "originalUrl": "https://www.upi.com/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 482,
+      "heat": 137,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/4801677114829/2023/1/4fe1a038a4ed6104ece698c5f67f3b1c/v1.5/Most-Americans-uncomfortable-with-artificial-intelligence-in-healthcare-survey-says.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 801,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,23 +77,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-23T14:48:00-08:00",
+      "ampWebUrl": "https://www.upi.com/amp/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/",
+      "publishedDateTime": "2023-02-22T16:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -102,9 +93,8 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {

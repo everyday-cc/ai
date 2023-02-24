@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/johns-hopkins-machine-learning-model-predicts-covid-19-resistance"
 webUrl: "https://healthitanalytics.com/news/johns-hopkins-machine-learning-model-predicts-covid-19-resistance"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Analytics
@@ -14,6 +17,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "New machine-learning statistical model may be able to predict COVID-19 resistance"
+    excerpt: "Researchers from Johns Hopkins Medicine and The Johns Hopkins University have created and preliminarily tested what they believe may be one of the first models for predicting who has the highest probability of being resistant to COVID-19 in spite of exposure to SARS-CoV-2,"
+    publishedDateTime: 2023-02-23T05:59:00Z
+    webUrl: "https://www.news-medical.net/news/20230222/New-machine-learning-statistical-model-may-be-able-to-predict-COVID-19-resistance.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 0
 
 secured: "cvkVYiTS06j0yDWm9p9a/vZ3xdGukPG5tdKI8xSZ5P5jPLCVvH7Nb391pITHLkbMiI0jDLwYJXR2m+gO87PUtQH9Z0iM2kcxqmUVmAVjNnW4W42tq7hfl3l6S4ncXw7UI/37z2S4ZN26rIM4puTOR494JK3MzsOOIhAaQ6ThAS1Lv84lLnllxnv47Of70qMRRl4f6eSu1MIklB7UfaluAUZbihQDba3TZfKsZh2YTIO9F08JR95C/BYDWs9Xb5QYTCn7PAI7S4/vxOYgEJZeMYibIwjDbE08bf7naoXn0XEQKdiEafvYXBrLmVHp1rZd+2rISjjr5lf6m6ZbiZQKQ5anE/cLFVYeLl6wwyZKoq0iVLoHay9u+VWFpryp9oPBnRnHbE6ZEyxSouwLZ6W26Th+Chda7mpBmPI6/RlTZQlzQnjXf8xB2tbBgW5+ZzU9YLRpjGI24+CW1wOrL72hfSUgWiuplxvITTnTXExThEKf9qt5hyjTNiQCK5NsHX6t10DYBG8zyPzT+hLbZCUy5A==;yMCjRQN1SvRj9dDxi4Oymg=="
 ---

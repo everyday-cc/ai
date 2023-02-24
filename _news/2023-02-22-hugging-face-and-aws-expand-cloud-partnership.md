@@ -30,6 +30,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 107
+  - title: "3 Microsoft Azure AI product features that accelerate language learning"
+    excerpt: "The Microsoft Azure Cognitive Speech Services platform is a comprehensive collection of technologies and services aimed at accelerating the incorporation of speech into applications and amplifying differentiation to the market as a result. Among the services available are Speech to Text, Text to Speech,"
+    publishedDateTime: 2023-02-24T08:00:18Z
+    webUrl: "https://azure.microsoft.com/blog/3-microsoft-azure-ai-product-features-that-accelerate-language-learning/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
   - title: "Best AI Stock to Buy: Alphabet, Amazon, or Microsoft?"
     excerpt: "Amazon Rekognition can identify people, objects, text, and more in images and videos. Microsoft has incorporated AI into its Azure cloud-hosting service. Its business intelligence tools use machine learning to analyze data. The company's GitHub Copilot ..."
     publishedDateTime: 2023-02-20T10:58:00Z
@@ -158,6 +167,15 @@ related:
       name: CIO Dive
       domain: ciodive.com
     quality: 30
+  - title: "Microsoft Just Starting To Hit Next Gear Of Growth, Backed By ChatGPT And AI, Analyst Says"
+    excerpt: "Azure/Office 365, along with AI monetization on Azure with consumer search piece will likely add $20/share in 12-18 month: Ives The analyst expects Activision deal to close by late summer. The Microsoft Analyst: Wedbush analyst Daniel Ives maintained an ..."
+    publishedDateTime: 2023-02-24T10:16:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/02/31043193/microsoft-just-starting-to-hit-next-gear-of-growth-backed-by-chatgpt-and-ai-analyst"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "XxXTN40EE54nV0Ayygmina05iFKMKoMwMrw3U4/336mrzR/p0q/xKPHEasa8Fz1X/MjL8G1Ow4oo1/12+CHlbTpEFIMybj1O3QP9mL+XGs56fDz2K9Bav8Ylo7zcFEN+12SqQDZWHf8NCLrPJISmtJ9VvU4zcPzkR/xuScUVenatWp7am9vdjN62pHG4UomgklvHgZMUz9P85EvJBh7gaZ1I2miQX+BqM+l4UipcfYMwafrxIRobsdFSpqkFBvy2ZbIwCn4PGonZGZ27/Cp0JPsPYp5McBybo41szH97gu/5YTTGl08VdSp/v+siVWe1dJML3aKaqe5SkGTKBRuOgLdg9ijiY0mE3Jy+0EUHEzyGQ6QUU7BLmbo6F/H8Mg60rN3fAXZRu4g7hToTWqBhd3B3sPfhkCLlQIzaH5khSaTlfwwS+HYRNav+85WDuClTjZbwzpx+dj3Aqu9/Ye4PhvrOtD3d3utlRNDCjyM6w/bTVzdUUTAUewMbsEXg5EOWhGSdDSVO1VO47Qy/65bgvg==;ObCBsesYsaBNAnj8f2L2/w=="
 ---

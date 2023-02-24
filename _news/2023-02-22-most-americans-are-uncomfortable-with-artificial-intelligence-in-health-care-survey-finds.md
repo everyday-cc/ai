@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Most Americans uncomfortable with artificial intelligence in healthcare, survey says"
+    excerpt: "Feb. 22 (UPI) --As artificial intelligence expands in the field of health and medicine, 60% of Americans say they are \"uncomfortable\" with AI being used for their own healthcare, according to a new survey. The Pew Research Center survey, released Wednesday ..."
+    publishedDateTime: 2023-02-23T00:59:00Z
+    webUrl: "https://www.upi.com/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/"
+    ampWebUrl: "https://www.upi.com/amp/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 67
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/4801677114829/2023/1/4fe1a038a4ed6104ece698c5f67f3b1c/v1.5/Most-Americans-uncomfortable-with-artificial-intelligence-in-healthcare-survey-says.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
     excerpt: "Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI ..."
     publishedDateTime: 2023-02-22T19:18:00Z
@@ -33,11 +49,25 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 59
+    quality: 63
     images:
       - url: "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill"
         width: 800
         height: 450
+        isCached: true
+  - title: "59% of Americans don't want AI robots used during surgery"
+    excerpt: "Americans are hesitant about the use of artificial intelligence-driven robots during surgery with 59 percent saying they would not want surgical robots used in their own care, according to a Pew Research Center survey."
+    publishedDateTime: 2023-02-24T15:20:00Z
+    webUrl: "https://www.beckersasc.com/news-analysis/59-of-americans-dont-want-ai-robots-used-during-surgery.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 54
+    images:
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Most Americans uncomfortable with artificial intelligence in health care, survey finds"
     excerpt: "Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey"
