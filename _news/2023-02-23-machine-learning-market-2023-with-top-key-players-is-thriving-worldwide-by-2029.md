@@ -41,6 +41,24 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+  - title: "Automated Machine Learning (AutoML) Market Size 2023 Is Projected to Rise at a Positive CAGR by Forecast to 2029"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-23T00:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-size-2023-is-projected-to-rise-at-a-positive-cagr-by-forecast-to-2029-2023-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+  - title: "2023, MLOps Market to Eyewitness Massive Growth by 2029"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the MLOps Market Report includes data on research and development,"
+    publishedDateTime: 2023-02-22T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-mlops-market-to-eyewitness-massive-growth-by-2029-2023-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
 
 secured: "CQTE/YsGoZkxtUmswVmHMuUgVRtw7144fgluDGSVSIXLL7B1F9Ev6SOH48lBOrwCh69fOCZLQkzQP8ye4jO+b7CEaddcuNxNyHZT7zAuOh5dgerirgW7dqMaTWcg3m9j2lRGvvj3Amaq3KkXyxIZH/afg7jcnoz9NOLaeVB4DSWWxXzN6XuG+aGlW05JcTMci3ncySQ9o2MxFi9vmrcIj714jvouh6nv3sr6zR1EMLqHSo4IRqKCTMOEUeIbaGjdUT5nP2xmDJLWWTV3Rsks/2oUqZhaAjfHeFQz8vGTJWKOv7yK4S8LHlS5oNsqKqxUFsT2oJpLK3uzQwmMS3JRsLSnvNXGrmvaOeyAhoANqPM=;CcRBv42TfweTlPW28LioHQ=="
 ---

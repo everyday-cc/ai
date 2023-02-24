@@ -36,17 +36,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Baidu to implement ChatGPT-like Ernie Bot chatbot from March"
-    excerpt: "Baidu Inc., one of China's biggest search and artificial intelligence firms, said Wednesday it plans to implement its artificial"
-    publishedDateTime: 2023-02-21T19:57:00Z
-    webUrl: "https://mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/"
-    ampWebUrl: "https://mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 39
   - title: "China's Baidu touts AI chatbot, sees 2022 revenue fall 1%"
     excerpt: "In 2023, we believe we have a clear path to reaccelerate our revenue growth, and we are now well positioned to make use of the opportunities that China's economic recovery offers us,\" Robin Li, Baidu co-founder and chief executive officer,"
     publishedDateTime: 2023-02-22T07:36:00Z

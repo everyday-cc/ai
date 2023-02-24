@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-marke
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023-2023-02-23"
 type: article
 quality: 66
-heat: 86
+heat: 106
 published: true
 
 provider:
@@ -42,6 +42,24 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+  - title: "Automated Machine Learning (AutoML) Market Size 2023 Is Projected to Rise at a Positive CAGR by Forecast to 2029"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-23T00:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-size-2023-is-projected-to-rise-at-a-positive-cagr-by-forecast-to-2029-2023-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+  - title: "2023, MLOps Market to Eyewitness Massive Growth by 2029"
+    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the MLOps Market Report includes data on research and development,"
+    publishedDateTime: 2023-02-22T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-mlops-market-to-eyewitness-massive-growth-by-2029-2023-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
 
 secured: "ecowANXV4m9RMjtxKJ40RgZ4iTtMVzknP3YP46yODl3O9vY99UjbTg5l0o19eTZtG/5iW37FDUPnWWeag602xdhdXchUEuG95istTcJXvjTIrT//LtkemoCw6Pz4xgEkLXtwSG1qFHHzowioziiJo/6GNOeTtBiKeT4s2G9HgsrFYkYkb0z8JO6yx5+bTAjdJDU1CVdHJMk4F3nRJymSW+nXC6ovOhYcpxU3M6PROjtbAnfCr1BWEA+iS00U5xuWE4MBt1AwAUMz6T6H3QE8i4vybDbtxc4ivdrkJrW8BF+dt0Ai/b5reypZSJ3GF+VzFWeE/HJpXbrEXA7CidoMJJEaFhQHHnsuRlPRrNc3QbI=;GyiSiKQTYdya6dxGFdm2/A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/asia-pacific/australians-urged-suppo
 webUrl: "https://www.reuters.com/world/asia-pacific/australians-urged-support-indigenous-recognition-ahead-referendum-2023-02-23/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,22 +23,31 @@ topics:
   - AI
 
 related:
-  - title: "Voice referendum: who’s behind the yes and no campaigns and how do they plan to convince Australia?"
-    excerpt: "The yes campaign is being driven by three collectives with a shared history, while the no side has been more reluctant to share its plans"
-    publishedDateTime: 2023-02-19T20:02:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/feb/20/voice-referendum-whos-behind-the-yes-and-no-campaigns-and-how-do-they-plan-to-convince-australia"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/feb/20/voice-referendum-whos-behind-the-yes-and-no-campaigns-and-how-do-they-plan-to-convince-australia"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/feb/20/voice-referendum-whos-behind-the-yes-and-no-campaigns-and-how-do-they-plan-to-convince-australia"
+  - title: "What to Know About Australia’s Indigenous ‘Voice to Parliament’ Vote"
+    excerpt: "Unlike some other former British colonies, Australia doesn’t have a treaty with its Indigenous population, collectively known as First Nations. There isn’t even a mention of them in the country’s constitution."
+    publishedDateTime: 2023-02-20T01:52:00Z
+    webUrl: "https://www.washingtonpost.com/business/what-to-know-about-australias-indigenous-voice-to-parliament-vote/2023/02/20/f3e4598a-b0f3-11ed-94a0-512954d75716_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PHVBFXVQQMI63FFAKEUVJV2XCY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "‘Unfinished business’: Australia to hold referendum on giving Indigenous people a voice in parliament"
+    excerpt: "In October, voters will decide whether they support the enshrinement of an Indigenous voice to parliament in the constitution, the culmination of years of campaigning by Aboriginal groups for recognition in the nation’s “birth certificate”, as the ..."
+    publishedDateTime: 2023-02-24T04:02:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/feb/24/australia-indigenous-voice-referendum-global-explainer"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/feb/24/australia-indigenous-voice-referendum-global-explainer"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/feb/24/australia-indigenous-voice-referendum-global-explainer"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 45
-    images:
-      - url: "https://i.guim.co.uk/img/media/7861198a02a3abb7aa79a970dc3cbf617a020c58/258_62_4780_2868/master/4780.jpg?width=620&quality=85&auto=format&fit=max&s=b823626a68fc03244a72224e3fbcfa49"
-        width: 620
-        height: 372
-        isCached: true
+    quality: 9
 
 secured: "T7eOJVjaRTKX6+s6CK3zSIuiEDf+X8mYynSLMotg0x8npPb+HS3bUPvynKoXx7P7gWZGIjmVSt86QS1zhTs2dNsjx0Q9mD5eUScNDkyWqh18xuqw6Q/uIhYyhLEdxou/lELAKPxAogeIdLtuRnIe0AV7G60dugZwJNPfbQhU8l34am+ftg6UbXpRBthRsT5fWq/OIuiQ0/qI4sML2vMfKCtsWW/EUOub0C7OVopqu9ltJKs05bU+kqMEFElpl0+wJI7emSjH45B3yiOZ0sSkHWWqnhim1ng7V81C9vwRGIkzydJBNfOiiRO8peTWD51xkdu/Gc3VGTox+Q4vYSaERSg4YFRuILQsBIL9CoxPVnhz4zNUGiomvHp0KK5TaCj2KClpKVmh0RZw/MYtT/Ci/reSvCgyaJcrwbfYLCocapyAGw0HVTJXI0VfbNftP51Styhu012BO6S3gchzPmGZvDaGKktEGoAqtVvOTNbvkl3arUKZFyl3xdwRNdzJQmKIQC4KchjKTyRH24J+tXsYfQ==;HUTCGIzFDfgl1Plc7WBpEg=="
 ---

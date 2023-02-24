@@ -24,17 +24,6 @@ images:
     height: 2304
     isCached: true
 
-related:
-  - title: "10 FinTech Trends to Watch in 2023: Staying Ahead in the Digital Finance Revolution"
-    excerpt: "In 2023, there are 10 fintech  trends that are particularly noteworthy, including the rise of decentralized finance, the adoption of artificial intelligence in financial services, and the growth of digital wallets and contactless payments."
-    publishedDateTime: 2023-02-21T17:44:00Z
-    webUrl: "https://www.finextra.com/blogposting/23786/10-fintech-trends-to-watch-in-2023-staying-ahead-in-the-digital-finance-revolution"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 13
-
 secured: "66Mxvh1PYta499d7fJDwv1J38IjEvEQMonM0mYFxmw+zCVdyVAZExaRlOCtmH+mAs7cHzgrCOuSLtJ9alICSsczxwKkMzeNAMRVHR0kuaT7s3TUzWTgD+jV7P5oTjiobje/PnBVAA4A5xiDUQII7oXl9tq9IfxmiQnCGKcl12g85Jylu/XQqedsG4AbrqcmUJtw0yMzqnPi54X6Pz2Vsx7nWeO3tghvWODgmA2dlw1ChpqnPDF5l//bYwoA9jmAB4xJk3yzRirSxilXLDzOuigsoeZkEGQKfe8TP78OrhdPiLWWS4VZ5kP0SKwo56lV21zhvTk+y2WO7yfpSNHshuJP6aVu70ruH+nnVIMoXx/jCfbSxBTVTblPy5RVzb84XYsCX871m3Rc1RNT/IQtxsACiBTCqJ/Yg7aLhaUFaFoSF7kLCdteRqSmE6Jd6fbEoIkLHk3SofQ7/aMjsVlvCGLeus2fQ1jlDvCyuOUNYRnSJfjm1r9WNzqcKrjqA8+YtE+zj0YYkeXiv4YiHf75NUA==;ZGHecCi4xSoQQCSOoPh/Uw=="
 ---
 

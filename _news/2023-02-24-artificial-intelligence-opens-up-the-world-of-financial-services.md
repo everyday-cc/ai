@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intell
 ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63f82c8677a4a0073a41444a/0x0.jpg?format=jpg&width=1200"
@@ -41,6 +42,6 @@ related:
       domain: ftadviser.com
     quality: 19
 
-secured: "LAHihErY4lFbHAyr26aGhHn20LFPh45YpTsENU6xmU1X3pjzDYCgZ6vAOa5AqGs7Jpf4pp3xBx3OQ9XDgTF/JwDa3nJgUsGFp67MI9P57MjSmJ23+feAEz6nXJFi0fqjGcIu6VB+xDDWrErOKpR65NbfUgHSBQU5z81MkQgXeHjw6uIpXchqDJq/1w7zw2ntjNA3iPCrl7HuUm1m0Jk53DitYyyZDv4M4vT7tBrx7VHhYFdukoOWTknS5iVaBeEK3+a2BXgQmR9wH/jiUL/tWxgLhUmZTFj4yJYptx1Y443XSva+YfG1d2MBjp8bqRPsqIENpZSo7l1A/6dHf43hVnhjFwK2EGKwzqfZTOVNBoY=;NgMkhEjwD4mBDmgHHt9uxA=="
+secured: "KR3ywgpwE4ZeiWp2KUMw1OdsK53aLUnLJJZcrGgiPUN/x0971u1CMw6uUh//BHQYU6C2sq8DP6H5k8M19NZSuS7RSmpM+meLPSd+Gt9QRPu5ej9i7Ls16IctZRjbr3pbZhB15UsXvnjMVRoyoIAHvdZ96nwwzyuplyql9go3vVxcbAhybdTrvQhes6JNhhfDF8krkFqGFFZCw/gEqg9siEtzZS57WX/iKpXET2Q/7AWeapvKXNO3qYgTEhpilG7dxQY4o5Oi0SlEU4J2vKaRMl9XTdNu+dAbhqmtNjcJY269y/A4ut5O00lu3Jm9R9qFTcEswywJNDRBab8fBEnk0G8BcMNqyP7fWw2p0ZYCwqiwxOEcN0aZpUHcPC6GSt83TQBPevolNrS5VtVutHnEZkcFA6aHScCDO1uiG04rciOqwiZ+q3o2VVgk557q2XFEOHO8UHbgu6MU8wysVnkqVE0pDLpnC1lKXYATEUoAbD6PhIQ1P5fhp0Aeb++nu1i9pSjNyAfm7cLxBlp7d7CwjA==;JBkuz77h6ANu8ceUrs1wNA=="
 ---
 

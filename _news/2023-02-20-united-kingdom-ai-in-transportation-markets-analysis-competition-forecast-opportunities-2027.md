@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "The opportunities of artificial intelligence in tax"
-    excerpt: "The beginning of 2023 brought some very significant events to my humble career. Among the most high profile is attending the induction ceremony of the new officers of the Management Association of the Philippines."
-    publishedDateTime: 2023-02-20T16:04:00Z
-    webUrl: "https://businessmirror.com.ph/2023/02/21/the-opportunities-of-artificial-intelligence-in-tax/"
+  - title: "Paraffin Physical Therapy Market Booming Worldwide Opportunity, Competitive Analysis, Future Prospects by 2028"
+    excerpt: "The Paraffin Physical Therapy Market has seen steady growth in recent years, as more people are seeking alternative forms of pain relief. The market is expected to continue to grow in the coming years,"
+    publishedDateTime: 2023-02-24T07:24:00Z
+    webUrl: "https://www.fmiblog.com/2023/02/24/paraffin-physical-therapy-market-booming-worldwide-opportunity-competitive-analysis-future-prospects-by-2028/"
     type: article
     provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 37
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2022/02/Column-box-Atty.-Jomel-N.-Manaig-Tax-Law-for-Business.jpg"
-        width: 1008
-        height: 529
-        isCached: true
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "+AOepocqSvPhsqhAaRmdKoNYrIi7uM9UTJLrR5BJxn+pX4ib9mHKToxKuXQ0f4Wjyz+KT0n5l7fzlW0qD6/XgWm3tCcdreqgjw82rqlpAiACB6z+0t18nb+Q3X4z5je+fKV4W+4QlCUG89ax1fglDFlkDq/vpU+kc8HF33x1wTfN2UiJ8fDuSKZQKVzxGcj2Ml9Y/+WFJTr8uXmMkQEouhS8jUUVuNU0GBQKVpzMsSk7pftNMXKrooqG434AMy0fjBLElFzzB9pHQ5BFHSvbobpQShQ4/XOryt48NHZu06g7iZCGdQN11PvLlpVYsMVKtjiQM9cRfz2iDgsDnofqdF/Ke9Y9xzxngOoW4LOAzno=;atB+kccAtzajG3jDEL3yWw=="
 ---

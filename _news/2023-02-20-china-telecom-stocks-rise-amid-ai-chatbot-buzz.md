@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/china-telecom-stocks-rise-amid-ai-cha
 webUrl: "https://www.wsj.com/articles/china-telecom-stocks-rise-amid-ai-chatbot-buzz-b79a30a7"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -37,17 +37,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 42
-  - title: "Baidu to implement ChatGPT-like Ernie Bot chatbot from March"
-    excerpt: "Baidu Inc., one of China's biggest search and artificial intelligence firms, said Wednesday it plans to implement its artificial"
-    publishedDateTime: 2023-02-21T19:57:00Z
-    webUrl: "https://mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/"
-    ampWebUrl: "https://mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 39
   - title: "China's Baidu touts AI chatbot, sees 2022 revenue fall 1%"
     excerpt: "In 2023, we believe we have a clear path to reaccelerate our revenue growth, and we are now well positioned to make use of the opportunities that China's economic recovery offers us,\" Robin Li, Baidu co-founder and chief executive officer,"
     publishedDateTime: 2023-02-22T07:36:00Z

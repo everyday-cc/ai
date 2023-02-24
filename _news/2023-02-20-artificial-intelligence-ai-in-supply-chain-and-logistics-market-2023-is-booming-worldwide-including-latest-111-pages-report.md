@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-2023-is-booming-worldwide-including-latest-111-pages-report-2023-02-19"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Self-driving Cars Market Is Booming Globally Forecast 2023-2028"
-    excerpt: "Self-driving Cars Market 2023 with 89 Pages Report and enhance with extents shares into sub-counties are covered in"
-    publishedDateTime: 2023-02-22T23:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-is-booming-globally-forecast-2023-2028-2023-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
 
 secured: "h+G1b+/YKBPyWNPlPykm2F9KCbWMXyzEbzutJes3BbCzphd+Jd0zUHUsFpaHy8rJH7q1Yda3soFGTJOVmnG4O65Rzs6fZxmtcPwrJ/5i8S6MHxwk5JI5laC8InyhAzjO0EPA4Wjd8t/6Mja4AS4R4XruQQVpPGkSRd7iIbSDtgyxaa9uh1/kJBsrLWSlCTiOQjF8IZtcXAdz+fceRQkXtpx84CJBg5tUbjeQjkdsUU4mYvQwESxjeGCQOY5dxdEdrxJrh8C55sHFRpXyMoSd6R37LLgxqwAvCSbCzz7h0NAK+8u6xK79RUrAJjeWVHlqPJQWnPZs2k33+wPwMKMeM5GO7sJ4rRRB6f5G1II7Itw=;olnmIGg+HWXdu3X8ZCA0PA=="
 ---

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
+    excerpt: "Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI ..."
+    publishedDateTime: 2023-02-22T19:18:00Z
+    webUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 59
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Most Americans uncomfortable with artificial intelligence in health care, survey finds"
     excerpt: "Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey"
     publishedDateTime: 2023-02-22T16:03:00Z

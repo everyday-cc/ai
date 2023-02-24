@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "UK FinTech investment down by 'almost 60%' in 2022"
-    excerpt: "Investment in the UK’s FinTech sector slumped by almost 60 per cent in 2022, according to new research. <br /> <br /> KPMG’s study found that 593 UK FinTech deals were completed in 2022, down from 724 in 2021,"
-    publishedDateTime: 2023-02-20T12:38:00Z
-    webUrl: "https://www.fstech.co.uk/fst/UK_FinTech_investment_down_by_almost_60_in_2022.php"
+  - title: "Global Artificial Intelligence (AI) in Fintech Market 2023: Global Production, Value, Supply or Demand 2026 Forecasts"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Market Analysis and Insights:Global Artificial Intelligence (AI) in Fintech Market As FinTech applies data and technology to financial services in an effort to address ..."
+    publishedDateTime: 2023-02-23T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-fintech-market-2023-global-production-value-supply-or-demand-2026-forecasts-2023-02-23"
     type: article
     provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/coin-stack-money-retire-office-m.jpg"
-        width: 4096
-        height: 2304
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
 
 secured: "0NcscgRZh9MUnKQaCJftXMrO6sYdbxiNLTgEcXNJwB4FPoGZjRKksNsIU2FNF/djN0UBjf7avbDQjRsonW4c6WLUAISDv26zuKZdMf0jGE+e3s8IjvgwAkbTxW2XytBU5BGCvHtxaAPgA9uRSytLLQ8X362lNLzslUQoayvptrub4Fmw1vmZImYzafOSZS3Ejkt4ixGIl0/IEj8oYoLzTfI4KFXjAVktzGo7I64MXOik6GjAmrghvn5r0qsLBrN82Wm2qTQGtIuZ7ipDETWFrzcAgUASqO6c3w4Ic5oWLNFIy24qMXnFKkoRV8lP9Z5nZ5ODyWcOw64lpFlMgPadyjAGeiafod/XPvXoKoj4pKmiOHwDCZbkBuT2RbHx5rz00jP/hic/zDeUWoGb968McrQ9pZS2A0ah9Wb8b8uk6Eq/pE6e2nb+XuNQcw8ZCkDR891oKSiuCxG05XYxDl6SRRCRpuEzAJSz3IG1GobytfwowHHg7fxCNCIescHF8brq2ptC+IxeXgFfqQTgzxrM7Q==;S2lyES4bWiFBOi26BQD0QQ=="
 ---

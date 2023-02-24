@@ -64,15 +64,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 34
-  - title: "Tesla will correct self-driving software which ‘may’ cause crashes"
-    excerpt: "(NTSB via AP, File) (CN) — Electric automaker Tesla agreed to issue a free, over-the-air software update to 362,758 cars in order to correct serious flaws in its experimental self-driving software marketed as \"Full-Self Driving Beta.\" The software ..."
-    publishedDateTime: 2023-02-19T20:10:00Z
-    webUrl: "https://www.courthousenews.com/tesla-will-correct-self-driving-software-which-may-cause-crashes/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 19
   - title: "If ‘self-driving’ Teslas are defective, why are regulators letting them stay on the road?"
     excerpt: "Teslas equipped with Full Self-Driving software were deemed defective enough to warrant a recall because they're prone to crashing. On Friday, all of those defective cars remained on the road, with the unreliable software still available to drivers,"
     publishedDateTime: 2023-02-20T20:06:00Z

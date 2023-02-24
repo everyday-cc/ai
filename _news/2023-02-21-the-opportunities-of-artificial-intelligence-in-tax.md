@@ -24,22 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "United Kingdom AI in Transportation Markets, Analysis, Competition, Forecast & Opportunities, 2027"
-    excerpt: "The \"United Kingdom AI in Transportation Market By Machine Learning Technology (Computer Vision, Context Awareness, Deep Learning, Natural Language Processing), By Process,"
-    publishedDateTime: 2023-02-20T11:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/g30975756/united-kingdom-ai-in-transportation-markets-analysis-competition-forecast-opportunities-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30975756"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30975756"
+  - title: "Gaming opportunities for investors in 2023: Generative AI, low-code, metaverse, and more"
+    excerpt: "and the potential role of generative AI in game development. The quarterly analyst report on the gaming sector covers trends and issues predictions for how VC investments in video games will proceed over the course of 2023. This is PitchBook’s first ..."
+    publishedDateTime: 2023-02-24T05:01:00Z
+    webUrl: "https://www.geekwire.com/2023/gaming-opportunities-for-investors-in-2023-generative-ai-low-code-metaverse-and-more/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
+      name: GeekWire
+      domain: geekwire.com
+    quality: 58
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/PitchBook-Feb-2023-report-Gaming-Landscape.jpg"
+        width: 1387
+        height: 785
         isCached: true
+  - title: "What Does Generative AI Mean For Your Brand And What Does It Have To Do With The Future Of The Metaverse?"
+    excerpt: "Generative AI is transforming our content landscape. It’s prompting questions like what is art? How do AI copyrights work? Is it ethical to use generative AI for my job? Is Generative AI a fad or a useful tool for brands?"
+    publishedDateTime: 2023-02-20T22:42:00Z
+    webUrl: "https://www.forbes.com/sites/cathyhackl/2023/02/20/what-does-generative-ai-mean-for-your-brand-and-what-does-it-have-to-do-with-the-future-of-the-metaverse/"
+    ampWebUrl: "https://www.forbes.com/sites/cathyhackl/2023/02/20/what-does-generative-ai-mean-for-your-brand-and-what-does-it-have-to-do-with-the-future-of-the-metaverse/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2023/02/20/what-does-generative-ai-mean-for-your-brand-and-what-does-it-have-to-do-with-the-future-of-the-metaverse/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 50
 
 secured: "dIBNsyTeTTGl8toRyddxGrtRIBm/8wJIFZ1tgTDhuj9v3II5De1aar7YMj78K7qSLjZ3lX2X4UB7pKcIssUGx3Nv2Xjm3Ae4BZOY3fOrWlEF/9qmPYlodWW+HYJdVsOaHPrQPFUEY21dKGpUIr5uvrUauRsd7TfzlzKhlbJwxqjlUEZtogYlqeZAxym4IvcKlxd/ZdRzQ9vEXAW3QbQYlBrcYJjsvqllSJV9TKMfkvLsicNdTpZZl+4BLjZuisrNBsjUDqg2jRZZvd8VtuZY+mkhjUyug8zT/Tb5ODO6imQ0ndbyv3fN3MqwHh1bOlHWEoZy2qTMY2Y74hQUSGuckccrs0gppdwrdFPPKkTOE1c=;4E+rDjHH2w0IVD561dPopA=="
 ---

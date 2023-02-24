@@ -8,9 +8,9 @@ webUrl: "https://www.foxnews.com/media/biden-executive-order-woke-artificial-int
 ampWebUrl: "https://www.foxnews.com/media/biden-executive-order-woke-artificial-intelligence-called-social-cancer.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-executive-order-woke-artificial-intelligence-called-social-cancer.amp"
 type: article
-quality: 63
-heat: 63
-published: false
+quality: 85
+heat: 85
+published: true
 
 provider:
   name: Fox News
@@ -22,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
-secured: "9EB5CI4JIaCMYXrMRd/zwKgRDYrgtJg1k03AXB0+XWZ8RNkTbsw5ApK332xUibFvZj6e1SJdVx/dTwKCd/bgYsZDOKsjgOzcOvFaI6Yhc+z8aQkD1Br62ElCPecUem1XmWwFVRbTIU/4fuKo/ZyjVYrR3Xow196APXGdmZELMxME7dJSLw+p+Il0ExAGPN9U0XPw4zqgu3/VvheR7A+RnjQPonXgZUWvwJwZ9SBuBKcL/O2FF0sMTKTk5oaSwpihqx/xYqqRiLxLz3Wb+miN1tIDuzgkBlSyLFFHAJDz97AWBk8cWwRSrBPgmtUCRy8VGZwFBe8M2uOH3IPM0dJ1Wss2Q4YcU1I/jHRiTABvmYdjpGKZjEZ7/nT6p+0jsAyLDXnkX2zwyGa8gH0v4M/oCrsrCj936kXh7NSmmT2gHT0Indjn10XKzoOs055gRxZCiBFm6HieYycgjnf6n5QLl0iGPxz0XybJILOGb0C+PccSdiXIVBgoEPSLVVgQ1YNpOs0b/TbgLoc9JdC9xogOnw==;EsGim6uGt2JTT8CWZJBYVg=="
+images:
+  - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42006bf1-9cc1-4713-8eef-df8e64d5bb5a/44b27d85-3d5c-44be-b914-c2851a57d1d9/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "RhXEHyb7XxUSxI5y0zt8sYPGaJiiqRnwn0LfTJx0LYBQWLzxuEC9h0SMz+q96JWlHbpNczvSf1OctuPxGT3T6Z7eaPOd9lCyQNSUeXJPoglYX1qc/Cq5SFlV8JvdpQMq7ZoPY5655R2Cb5FSAYiH99UhnzZdoNb0NV6DiFxbLASPPA8gqzx57kvodlWtypG4jvCyuZaoNi1HjDVQGtgcew95CtAIfglFl5wOsST5ag1atpM/wiIxjrBzWVct81UuVtgvAXEOS9+4VovHoyAQJaHg3vACaCzoYiX33udfxLIQv56DYoy11uKe3OoQoeYBlL+vp1BaIPCktsSM2OLwk1CU62mCDO/uBk1eBt7QR5g=;xQCmyxCXk2alyLPMuSzgBA=="
 ---
 

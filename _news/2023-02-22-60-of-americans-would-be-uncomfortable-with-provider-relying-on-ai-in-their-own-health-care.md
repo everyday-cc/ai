@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
+    excerpt: "Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI ..."
+    publishedDateTime: 2023-02-22T19:18:00Z
+    webUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 59
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Most Americans uncomfortable with artificial intelligence in health care, survey finds"
     excerpt: "Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey"
     publishedDateTime: 2023-02-22T16:03:00Z
@@ -69,6 +83,6 @@ related:
       domain: pewresearch.org
     quality: 3
 
-secured: "V+XdBu0Jmb1J+Mq3+rLfXdcYND+1Ck7/6urRQZsk28IYT89ofJ28YVMn70VGJlWcmEwgHJoArCI/obt4Dyo8fpxPoVtv0kMg5lFNWECs6E/0aPUvdXTtMPq04cYsx5LOwdA70VHGem63tUm9u2/gamk6D8E/nkyAz3JKb3Frs1YfatHRpYpWsho4Syh94oDbUsAG0UUsGricbooGgLVCQ0nj7MRjqUL8lUFUkOu5IbSDinyuHP39C5TKvuGpG6LPkYH+8WSAVZcJXIRR0n9PFAfyOWiNmA47EFTgocrWNfGR6X+EDfr8a08Sny8eUjQt+lxR7TsZ6+QAyOt7ads2MfyH/BvmrTupDn3b3MI6R7A=;fVWEfahZK8vefcutidThDA=="
+secured: "+xb4U1YQHxtWwDPs3WRXfPX+hJAEcbJca3JyCvrW+DaTcQfp8CWS/eTdNEBwZEGVxvCVlifE5XXYIL1f1pma6AXdGkEwHYCyDz+BTIZKio10bZ4CH0Fj3I+QKmXYNm/8nrLw6fsoTuysUNDasnyBiDu3yS4XeF6w97HW55Bd0SStgSPhnhGlIX+iFFs5Pg2PnRhx0LBnvYWOgx2ImYEsYsgAFmFLEgu7LI9xaRg1qckk1LvALKYSi9YvKqmMi8U85nW01qhDLwLtKAipeO5PNS5FILsFkxkHGV33fhc07Fv5zO/ylUjZHfVno7kkpI0vuaf4dSbRvKBLpuhPx3rByIyu2bZ+5skFX06X/KOp1/YMssLMxUffc34tJ3nVz2I5KeVAmS/XQoL+RCNm+K/uTpIAGT64bcFjUDzsYP2NN5DkWUwakbvNe9CJ8ep/bS+Wsl3+A7nzS1zuF2YIK/UzXixt9NMZ0ehI6jOFo9wWDhZ8KWISs2qyWqp2FmxCitPaHjYBn++dgkaXgmwx014sZw==;VgpsxMh9qITXevMbWOgyPA=="
 ---
 

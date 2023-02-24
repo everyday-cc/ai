@@ -9,7 +9,7 @@ ampWebUrl: "https://wsvn.com/news/us-world/most-americans-uncomfortable-with-art
 cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/most-americans-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds/amp/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
+    excerpt: "Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI ..."
+    publishedDateTime: 2023-02-22T19:18:00Z
+    webUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 59
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
     excerpt: "By Jen Christensen, CNN Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI’s potential to reduce medical mistakes and to eliminate some of the problems doctors may have with racial bias."
     publishedDateTime: 2023-02-22T15:00:00Z

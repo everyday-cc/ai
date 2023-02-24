@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/amp/"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 34
-  - title: "Tesla will correct self-driving software which ‘may’ cause crashes"
-    excerpt: "(NTSB via AP, File) (CN) — Electric automaker Tesla agreed to issue a free, over-the-air software update to 362,758 cars in order to correct serious flaws in its experimental self-driving software marketed as \"Full-Self Driving Beta.\" The software ..."
-    publishedDateTime: 2023-02-19T20:10:00Z
-    webUrl: "https://www.courthousenews.com/tesla-will-correct-self-driving-software-which-may-cause-crashes/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 19
   - title: "Tesla: Growing Full Self-Driving Liability Could Be Massive"
     excerpt: "EV maker Tesla, Inc. recently issued a recall on its full self-driving software package. Tesla's hardware version 4 is expected to be unveiled shortly. Robo-taxi liability potential seems to be growing by the day. For those that have followed the Tesla ..."
     publishedDateTime: 2023-02-21T22:18:00Z

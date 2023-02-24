@@ -25,6 +25,15 @@ topics:
   - AI
 
 related:
+  - title: "Australians urged to support Indigenous recognition ahead of referendum"
+    excerpt: "ADELAIDE/SYDNEY, Feb 23 (Reuters) - A First Nations group leading the push for the constitutional recognition of Australia's Indigenous ... to change its constitution to include an Indigenous \"Voice\", which is a representative body that can advise ..."
+    publishedDateTime: 2023-02-23T09:14:00Z
+    webUrl: "https://www.reuters.com/world/asia-pacific/australians-urged-support-indigenous-recognition-ahead-referendum-2023-02-23/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 34
   - title: "What to Know About Australia’s Indigenous ‘Voice to Parliament’ Vote"
     excerpt: "Unlike some other former British colonies, Australia doesn’t have a treaty with its Indigenous population, collectively known as First Nations. There isn’t even a mention of them in the country’s constitution."
     publishedDateTime: 2023-02-20T01:52:00Z
@@ -39,17 +48,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "For a lot of First Nations peoples, debates around the Voice to Parliament are not about a simple ‘yes’ or ‘no’"
-    excerpt: "Over 250 Indigenous peoples gathered at Uluru to consider what constitutional recognition might look like. This is where the Uluru Statement from the Heart was born. The Statement calls for an enshrined Voice in the Constitution, and a process of agreement ..."
-    publishedDateTime: 2023-02-22T19:05:00Z
-    webUrl: "https://theconversation.com/for-a-lot-of-first-nations-peoples-debates-around-the-voice-to-parliament-are-not-about-a-simple-yes-or-no-199766"
-    ampWebUrl: "https://theconversation.com/amp/for-a-lot-of-first-nations-peoples-debates-around-the-voice-to-parliament-are-not-about-a-simple-yes-or-no-199766"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/for-a-lot-of-first-nations-peoples-debates-around-the-voice-to-parliament-are-not-about-a-simple-yes-or-no-199766"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 4
 
 secured: "WH00JvByxsxq6d4Fb9ez4dw3VkfDfaLovkDVWQwqErydXmDlVKMwB2ntXE7QpCYJw1Gk/r5Rk/WSqLTDqIldyGg1MoWcSupu41lMhe/Li52uy19pkbSrUPvlmFkuasdoTWqojH55JbkTqYeqxh93p3juFRnAGjwM1NcLhapFPfeTy+51+uuC8oHRNnjmskDLWZm9nhsMB1yILa5LsD9CarJ6Ij+cTJ4ikwJD+ByQaL3/WziIL86kZS2PYc8H6FS47H0V0qkLhphi8C69BgHw9vtxIeJmB8+gPsMdVzooavDl27KdPuT7S311PCfEBmru3lIITPQm+9KZ8I67I3l5q79bCj4Ca895ywkVUUl46GQUbax4AO8/lh0vWweWBNHw2l0HEj+6opTeaiUV7AKfw4rYJjxFDRGhqIQb+JN+NMK2DNi6ZBk4x9dTQla9VGg4qOwBvUA4ttDJ5azXgcveh45GvIbvS6en2DPNKuTw6uuaDW/ApcRNj4p8JZOFHoxcpzR8RK5dA7EVdtmwkwQ5gA==;KXxPVOD+H+JiFliN//yUjg=="
 ---

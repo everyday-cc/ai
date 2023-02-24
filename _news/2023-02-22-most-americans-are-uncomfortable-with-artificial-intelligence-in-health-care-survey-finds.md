@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
+    excerpt: "Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI ..."
+    publishedDateTime: 2023-02-22T19:18:00Z
+    webUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 59
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Most Americans uncomfortable with artificial intelligence in health care, survey finds"
     excerpt: "Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey"
     publishedDateTime: 2023-02-22T16:03:00Z
@@ -69,6 +83,6 @@ related:
       domain: pewresearch.org
     quality: 3
 
-secured: "j/jXqFbgFHutX9snzXm3Y1CAYjzvWMAI/yeKkEUPJEa7g0Hfm/kov00oZ/jOqhXbCW/FTrIEbAg/jwfZCkORyRMhIle8jVFmbAuODFsbTulYoTvHn+FIYU+tEx6IN4Cyqe3F+iuIt6xezuuyhx/HRMXNlIpOD2cTrtLWj0sUOtmPaD7dLtn0qtlx6dpz/oC0ntI3rq8YDYKIHtYsv/KtiNIztT5yGo6GZ9ncA08+xlS8SXBHKAqYHEL3qDA6ATGf6EinQc9jqEkfKhKR48UpBBZTn2ymZj3kuOk8lhf9NY64/Ag/joE1vpFjU4r8jZLMMbXJ0tBTRcDPSkkakPnmV/37nWRAXjXDdpZ8flF1hVE=;pQXaruJ7VKLk/Bc6WgOKJw=="
+secured: "Xj9cgr8UFkfpRjWz/xKQIdrzl/Ijdpnnybc3xe8tP8Dp2lEw8bfbl4MHSk+mKSh0uaZeK251A5wRSw0K2zgtidoSsxO32bFOwd1Xw6TAxRvB/wvlDw5EP4XvhMy3Jfx891vfnM3CBo+jsAojr1Rz42ftOtPi0l6n8lehyctWIlJvLaT6ceMTvMlwdZ3abDOdIwf+EwVIwuMnyYN1pltW2A1msfuIypsGRexhJXDNevLgn55de0/ne+NmEjEe4b4qNvE3CWVXnT9I3vHZpIKX8IQ98iPF58dNAqzfEzqOHCtJfbOKKEt0V2XDqVGc/yV5pAUTAJUDKgAS+ObAfWLMMYCIftWC6iTZS6yy5LPFuMQ=;12W66NA+WYimW/m3EJY5xA=="
 ---
 

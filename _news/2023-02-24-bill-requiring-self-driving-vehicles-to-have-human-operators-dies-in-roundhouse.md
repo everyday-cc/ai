@@ -37,6 +37,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "FOCUS-Investors go back to basics with simpler self-driving vehicles"
+    excerpt: "COVENTRY, England, Feb 1 (Reuters) - Developing fully autonomous vehicles (AVs) that can go everywhere has proven harder and more expensive than expected, but investors are continuing to fund startups that target simpler self-driving vehicle solutions far ..."
+    publishedDateTime: 2023-02-24T08:32:00Z
+    webUrl: "https://jp.reuters.com/article/autos-autonomous-investments-idAFL1N34A25A"
+    type: article
+    provider:
+      name: ロイター
+      domain: reuters.com
+    quality: 34
 
 secured: "Giq2bQGiJjKGbkte41Gzd5pbGB/OYNYxK0VneGEoggPYm9ySwgCFu06IU+MdRNXZu0v5oHDWcijyuAkPdK5n4vFQC6v1/gIuvM98lWysZ5vvAKpm43DJj7TOePkxet79m8InkAk19Fc4kXvnK+h3d0XDLW5XFuQOMW8t+hJDI2ZeAXfiwzp7DkFl8MO+1//YuKElkGSSnKnQFP1W9RSbOH22BND4AtgfplzkxIhIA7zD3jL/2PfjN0NELtMfxgud2RtV/b/aTYaSr/4c4VXBBSCL248KERKA2nwdPTutuH95yI615aCsI7iDRw3ryP8BnwobcC3dGEOJzFKJ2O/undRsk6kU9WpjO0ZNDZzYBf01Wl5AJXdDI6RrQoHsEIdRUrpCyztn2h1yPJbz/fxrJS9mRczbIJrHSKjFPErW96bGlGtIEZMH+fTfbBnV6l6xo7nFl77m9Lq9SPh/142/H/jeaOuiAXmk0LzOUQXOqAXKgI2gB0j1NaJ4Agh2mN4V36jFoDgk3dGj39k1mu7etA==;Ld+We+lb/2Z9qxQrAqg7Xw=="
 ---

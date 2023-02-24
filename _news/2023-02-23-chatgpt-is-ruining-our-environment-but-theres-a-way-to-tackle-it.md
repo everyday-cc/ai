@@ -19,85 +19,16 @@ topics:
   - AI
 
 related:
-  - title: "China says it sees the potential of ChatGPT-like technology"
-    excerpt: "\"(This technology) has the potential to be applied in many industries and fields,\" Chen Jiachang, who heads the ministry's high-tech department, told a news briefing, praising its natural language processing capabilities."
-    publishedDateTime: 2023-02-24T05:54:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/china-says-it-sees-the-potential-of-chatgpt-like-technology/articleshow/98199060.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/china-says-it-sees-the-potential-of-chatgpt-like-technology/amp_articleshow/98199060.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/china-says-it-sees-the-potential-of-chatgpt-like-technology/amp_articleshow/98199060.cms"
+  - title: "ChatGPT: Handle with care and don't be fooled into thinking it's human"
+    excerpt: "INTEGRATOR (Incorporating Demographic Factors into Natural Language Processing Models), a research project by Prof. Hovy, wants to make the design of demographically aware LLMs possible. Prof. Hovy, Prof. Nozza, and Dr. Giuseppe Attanasio are also working ..."
+    publishedDateTime: 2023-02-23T21:35:00Z
+    webUrl: "https://techxplore.com/news/2023-02-chatgpt-dont-human.html"
+    ampWebUrl: "https://techxplore.com/news/2023-02-chatgpt-dont-human.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-chatgpt-dont-human.amp"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://img.etimg.com/photo/96809521.cms"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "New Opportunities For Chips Because Of Chatgpt?"
-    excerpt: "(MENAFN- EIN Presswire) HONG KONG, CHINA, February 20, 2023 /einpresswire.com / -- ChatGPT's popularity has revived enthusiasm in the AI market. In addition to the construction of various types of ..."
-    publishedDateTime: 2023-02-20T09:06:00Z
-    webUrl: "https://menafn.com/1105600548/New-Opportunities-For-Chips-Because-Of-Chatgpt"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?26097"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "Censorship, language key hurdles in China to create ChatGPT rival"
-    excerpt: "As the world goes gaga over an AI chatbot called ChatGPT, experts believe that developing its Chinese competitor will surely face censorship, cost and data challenges, as in the case of big Internet companies like Alibaba and Tencent,"
-    publishedDateTime: 2023-02-20T05:51:00Z
-    webUrl: "https://www.ummid.com/news/2023/february/20.02.2023/censorship-language-key-hurdles-in-china-to-create-chatgpt-rival.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 24
-    images:
-      - url: "https://ummid.com/news/2023/february/20.02.2023/chinese-ai-chatbot.jpg"
-        width: 790
-        height: 530
-        isCached: true
-  - title: "Will ChatGPT start writing killer malware?"
-    excerpt: "AI-pocalypse soon? As stunning as ChatGPT’s output can be ... Since a wide swath of the nastiest attacks start with someone clicking on a link, expect the related impact to supersize. Ransom negotiation automation Smooth-talking ransomware operators ..."
-    publishedDateTime: 2023-02-20T11:20:00Z
-    webUrl: "https://www.welivesecurity.com/2023/02/20/will-chatgpt-start-writing-killer-malware/"
-    type: article
-    provider:
-      name: WeLiveSecurity
-      domain: welivesecurity.com
-    quality: 24
-    images:
-      - url: "https://www.welivesecurity.com/wp-content/uploads/2023/02/chatgpt-malware-machine-learning-abilities.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Amazon will offer ChatGPT rival’s tools in cloud products"
-    excerpt: "Amazon Web Services will make Hugging Face’s products, which include a language generation tool that competes with the technology behind OpenAI’s ChatGPT, available to cloud customers who want to use these tools as the building blocks of their own applications."
-    publishedDateTime: 2023-02-22T05:27:00Z
-    webUrl: "https://mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 24
-  - title: "Amazon’s cloud unit partners with Hugging Face, maker of ChatGPT rival"
-    excerpt: "These customers will now be able to access Hugging Face AI tools through Amazon’s SageMaker program. Additionally Hugging Face’s software developers can use Amazon’s cloud computing power and its chips designed for artificial intelligence tasks."
-    publishedDateTime: 2023-02-21T21:54:00Z
-    webUrl: "https://www.seattletimes.com/business/amazons-cloud-unit-partners-with-hugging-face-maker-of-chatgpt-rival/"
-    ampWebUrl: "https://www.seattletimes.com/business/amazons-cloud-unit-partners-with-hugging-face-maker-of-chatgpt-rival/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazons-cloud-unit-partners-with-hugging-face-maker-of-chatgpt-rival/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
+      name: techxplore
+      domain: techxplore.com
     quality: 24
 
 secured: "S2/8aBkFHX3RTWEvMMQF5SioRMYvkS3e2CtXlAaxB/W2C+wKjvLhNqDkr9VXU30bJFeigUs7r8KOu+xt2OBi5VsIw3oUML1Xccir6fLrJ6AiQu7iWoGOPv7wT9CjcwsQxggymJb7rtnEmGDYAcBxURHprqnlfNwahehBU1ENOnu7cVJ/paLD2MyJDO+dL6TPTVgHMVmMK0bVmBDUGQ7Waw0hunX8UF6fgLcT8HYsJDmEEOaFEAlJV7kdVpq92Wm0uq11WWuqrrbz95NDHSEZehMddNVGdxvaAH2euFW/JytsxZhVFrTMStnt+8UITqCYw0t4SX63DngeiNZeOzDwajsnFJPMWksGePLJ8RksfBQqg5Qk8nUBk5LSmFIaz57cWTFO+r7KBMXjtJZM2z16Vn5Y2W5rAuYaZta2h//5v2FZxpPgVcsw9Wnal9rtA+T91pxO2NbhB3nr8otoTU8Zoc3BuYzFxKniek83t6bB8EacgGJ/tgUSpBl9wjdyxHAp1DQ/hjnVvX9Ba7N7wOdnJQ==;KKOxDze7sFPYv9mZnewLDA=="

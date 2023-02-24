@@ -8,7 +8,7 @@ webUrl: "https://www.wtae.com/article/artificial-intelligence-workplace-industri
 ampWebUrl: "https://www.wtae.com/amp/article/artificial-intelligence-workplace-industries-changes/43012610"
 cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/artificial-intelligence-workplace-industries-changes/43012610"
 type: article
-quality: 41
+quality: 63
 heat: -1
 published: false
 
@@ -20,6 +20,13 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
+
+images:
+  - url: "https://kubrick.htvapps.com/vidthumb/1194975e-5a55-416d-9d54-7557a11a4caa/7232b6f5-b1fc-4dff-85fb-d15b6a6c6845.jpg?crop=0.708xw:0.707xh;0.194xw,0.0638xh&resize=1200:*"
+    width: 906
+    height: 509
+    isCached: true
 
 related:
   - title: "How Blackbird AI is striking back at ChatGPT and AI-based attacks"
@@ -37,6 +44,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/02/image0.jpeg?w=1200&strip=all"
         width: 1200
         height: 675
+        isCached: true
+  - title: "I wrote a novel with ChatGPT. Authors, have no fear, your jobs are safe — but AI will give you great ideas."
+    excerpt: "Sergi Arguimbau, a senior mobile developer at the unicorn startup ManoMano, published his AI-generated book on Amazon."
+    publishedDateTime: 2023-02-24T10:10:00Z
+    webUrl: "https://www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/63f69b465ca81e001855cc68?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Generative AI Tools Like ChatGPT and Dall-E Aren't Going Away. Here's Why"
     excerpt: "These are machine learning systems that process terabytes' worth of data, often just scraped directly from the internet, making note of patterns and associations within the dataset, which is called training data. In the case of ChatGPT, text data sets are ..."
@@ -98,6 +121,38 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "Report - ChatGPT and generative AI demand a smarter approach to EU regulation"
+    excerpt: "Grist to the mill, perhaps. With Qualcomm’s AI Research division successfully deploying foundational image model Stable Diffusion on an Android phone this week – 15 seconds for 20 inference steps – such tools are likely to become a generation’s ..."
+    publishedDateTime: 2023-02-24T11:20:00Z
+    webUrl: "https://diginomica.com/report-chatgpt-and-generative-ai-demand-smarter-approach-eu-regulation"
+    ampWebUrl: "https://diginomica.com/report-chatgpt-and-generative-ai-demand-smarter-approach-eu-regulation?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/report-chatgpt-and-generative-ai-demand-smarter-approach-eu-regulation?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 58
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-02/524D4B01-485D-499E-861C-D7497AF9A063.jpeg"
+        width: 640
+        height: 453
+        isCached: true
+  - title: "ChatGPT Thinks Americans Are Excited About AI. Most Are Not."
+    excerpt: "ChatGPT did not write this article. I will admit that I did ask the AI chatbot to write an 800-word article in FiveThirtyEight’s style about current public opinion on AI chatbots like ChatGPT, but our collaboration disintegrated amid editorial differences."
+    publishedDateTime: 2023-02-24T11:00:00Z
+    webUrl: "https://fivethirtyeight.com/features/chatgpt-thinks-americans-are-excited-about-ai-most-are-not/"
+    ampWebUrl: "https://fivethirtyeight.com/features/chatgpt-thinks-americans-are-excited-about-ai-most-are-not/amp/"
+    cdnAmpWebUrl: "https://fivethirtyeight-com.cdn.ampproject.org/c/s/fivethirtyeight.com/features/chatgpt-thinks-americans-are-excited-about-ai-most-are-not/amp/"
+    type: article
+    provider:
+      name: FiveThirtyEight
+      domain: fivethirtyeight.com
+    quality: 57
+    images:
+      - url: "https://fivethirtyeight.com/wp-content/uploads/2023/02/0224_POLLA-16x9-1.png?w=712"
+        width: 712
+        height: 400
+        isCached: true
   - title: "Monetizing Generative AI ChatGPT Via Embedded Product Placement Ads, Anguishing AI Ethics And AI Law"
     excerpt: "Some are proposing that generative AI such as ChatGPT should include embedded product placement ads, thus a seemingly suitable form of monetizing. Others are dismayed and shocked at the idea. Here's the deal."
     publishedDateTime: 2023-02-20T12:00:00Z
@@ -116,6 +171,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "China’s ChatGPT Stance Could Mean New Challenges for AI Stocks"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) has been seen as the technology of the future"
+    publishedDateTime: 2023-02-23T19:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chinas-chatgpt-stance-could-mean-new-challenges-for-ai-stocks-1032120931"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Will artificial intelligence replace financial advisers? Here’s what ChatGPT and a financial adviser had to say."
+    excerpt: "Here’s what a financial adviser and a machine learning engineer think about the future of AI in financial services — and what ChatGPT has to say for itself. ChatGPT is an AI program whose name stands for “chat generative pretrained transformer.”"
+    publishedDateTime: 2023-02-21T10:00:00Z
+    webUrl: "https://www.marketwatch.com/story/will-artificial-intelligence-replace-financial-advisers-heres-what-chatgpt-and-a-financial-adviser-had-to-say-ffb26124?mod=mw_latestnews"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://images.mktw.net/im-727584/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "5 Artificial Intelligence Stocks to Buy Now"
     excerpt: "Artificial intelligence is getting a lot of attention in 2023, but a lot of the coverage is more hype than substance. Behind the scenes, there is a lot of value being created, but it may not be in the areas you think. Chips, cloud services, and security ..."
     publishedDateTime: 2023-02-22T11:15:00Z
@@ -125,20 +203,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 47
-  - title: "Will artificial intelligence replace financial advisers? Here’s what ChatGPT and a financial adviser had to say."
-    excerpt: "Artificial intelligence laboratory OpenAI launched ChatGPT in November 2022. In the months since, the internet has been abuzz with discussions of how advanced AI could reshape society — including the financial services industry. Some people see AIs like ..."
-    publishedDateTime: 2023-02-21T09:00:00Z
-    webUrl: "https://www.marketwatch.com/story/will-artificial-intelligence-replace-financial-advisers-heres-what-chatgpt-and-a-financial-adviser-had-to-say-ffb26124?dist=bigcharts"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://images.mktw.net/im-727584/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "ChatGPT Can Do What?! 10 Things You Should Try With AI"
     excerpt: "Artificial intelligence caught the world’s attention with the rise of ChatGPT. It wowed everyone by writing children’s books to scientific journals within minutes. However, this generative"
     publishedDateTime: 2023-02-20T03:43:00Z
@@ -192,20 +256,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 29
-  - title: "Parents beware, ChatGPT can be used to cheat"
-    excerpt: "ChatGPT is an artificial intelligence-based system that uses natural language processing (NLP) to generate conversations. ChatGPT enables users to ask questions or tell a story, and the bot will respond with relevant,"
-    publishedDateTime: 2023-02-19T18:00:00Z
-    webUrl: "https://www.abqjournal.com/2574312/beware-chatgpt-a-cheat.html"
-    type: article
-    provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 24
-    images:
-      - url: "https://d21yqjvcoayho7.cloudfront.net/wp-content/uploads/2022/01/06/socialmedia_safeimage_White.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Free Talk-to-ChatGPT Chrome extension gives AI a voice"
     excerpt: "“Talk-to-ChatGPT is a Google Chrome extension that allows users to talk with the ChatGPT AI using their voice (speech recognition), and listen to the bot’s answer with a voice (text-to-speech), rather than just by typing.” After receiving the ..."
     publishedDateTime: 2023-02-21T22:23:00Z
@@ -252,6 +302,6 @@ related:
       domain: statesman.com
     quality: 9
 
-secured: "BiW9gpEP/rPeRb/zJVch77m2zO6KkrGdb+Rw6YBGsWgM5YZWquIcYOYh+g6KbvWHOtVXJWAzz8rb6dJ2uTaN4NNXafNtycHCh6PNgm0qb5TOeJM9/b7GZh5yGinUjIIrnCw4eJNqpMTAmwZsIvED4G5fkFeIE9AE6G9i7ne0UTWlk4JK2fJ5bMCmQHGeZigYVlB0Jac+SUzqr4sYBx7++2p2hAZqvtUQYDXEl1PfhRcEjvuFHEe4wHrbYw5XPqJdQz3Mxiar6FHz96tNiP3gov/C8dEoK2PrfFnILudxfI2THZC579we6pkO49aJV1ngUUqTNsQjyGX+iA9d/y7rxD8/Of8OqHMzwSI9m3YswZNvbfj8ETRFcy+Z/tiTzmSoKTBqQHc02uC/ROCjivHgfJ+/AiP/r7z9oKi6VQeAf5AP5nQK2rsRUbJ0surFeD6VIKspxVQWup+t4PO9Z52bEACdBbzDb1xn5CYW408ZuMPjWOBMMJGynyJdaGelMb3wktqTk+xMMx223TVo7xu+bw==;7poiGTxZZM7xDhi7sReEwA=="
+secured: "acjYslK3K6fZth0ZjjVQE1qUwoDM+CMoSR6pTeyjdMKXYgwFCcExvCEM4Bc87+N8K1bMbC4pmlhlchKDJi1YIIsk6q3cJQDX4QYYtPbe5erQg4pNNL79MBn0ImE9mNe5FHmh2+R0ZiO8BTIVvxFNPfWql6uc4iQs5ntWMCd2DoG2IXu/IM2I+W16/zIBorbamD7h3Ss53nPoxaCCYnqQRAh2OpOr3N+3fyoDW/pawcy/MhQdThJDTBjgERrRNO1gpP972nnheKqAEw/uQHhVQvqnmyJ8iMUX32FncPmLNI9TgPlINKBGTHRNt0VnDHIJoPeA5PbjThMYLEfn1CMpB5JO0vDeHuOyAetTm8+WoGY=;NFbaRiHPAhmTPc2yNzu+HQ=="
 ---
 
