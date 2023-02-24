@@ -16,7 +16,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=P6krKIkAAAAJ
-  citations: 202872
+  citations: 203262
 
 topics:
   - AI
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "David Lopez Mateos"
 
-secured: "TR1n86LWlCe/REAjE23mnCcMKN3A4+fFLAtjkSTd8mYwF3C5mJMjfyJlBpF3XGrPBoxwTq5Kc1TzCOKYuK1RkwvQVYOMF6Ky4kqpwcfy5G8yKkTe2eMNZo0taqYTcmmG3xn05FFD1ML559YRGNanIJKXVSgbLo4k9/oL2SkqO+E61yHfFl55F4Qa60Ir8N1W67VP8oNIKjSx4i3ggk5LmSIVHsSo9aEEcEQsAKDsBSqVsc2ToZgvUdjwbi3/I4i7sebNEIrVRs+qvcQFDU5L47leV8KdG6ANPv3DMjJf+Z7PZDNt/MCS2wTUzX82/KO8LdWaSPFq1nEnm8+vHIo776UECwbTi/ENdJ1V7UtmVPrdFeK60lU7X3RLTFPyHFA9S8ekR2SjnFeKS3q4VaIAHQ==;KUDOek+7nJJKaFojIL2R4A=="
+secured: "IyRWmanui6trLPDha4bnKw4YVvbNv67MNG6FLdzzAkpxao4c2mI+2xJngRBCIsj7Z+Rv0lXn02aCRX/V1l7iZfiXnnzTdJGg/eGLDZc7rvzK4FDCR4UoADQa/OuTps3Pt4qY2+mpIAt/nKV2km3YuPBAb0oqv9YppMsieHiWU/duATyTXoMwMkbSxFQdPnZyH1dNMN3fR9FfcMpaTWhJbb+zmUFq2I14ck0ax7XNkQta51fohhnMf5hwvHlT5n6C1kbzdA4zdXiVRLQIVgpHaI1/U0RbZ/Kh1CKZKhisK/h0P0Lk+hBgnppvL5Jfux4tpVpEH21hfrnk9XtkSf8ZRe0qd7JTCnoHp62liSyzToCAdpxjRetiaMGWhEIlxiyH7W4fFF9VU1n3YnK9MGIOIA==;N2+d1kFdLHihifjJRvnMQw=="
 ---
 

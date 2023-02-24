@@ -15,14 +15,14 @@ website: https://t.co/s5ydlRJnm8
 twitter:
   username: huahaiy
   url: https://twitter.com/huahaiy
-  followers: 942
+  followers: 943
 
 linkedin:
   url: https://www.linkedin.com/in/huahaiyang/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=KvPSD8EAAAAJ
-  citations: 20350
+  citations: 20385
 
 topics:
   - AI
@@ -35,6 +35,6 @@ images:
     isCached: true
     title: "Huahai Yang"
 
-secured: "S2zfBiZg1wNTlov+3313UnQLFOLQDNJuOLDzZC4vGXZd4Ni+MtSLa2e2Sksph1oyFVQL/ej5hN1fZBFIgAnjL2smI4/DRxeS837YZrBFzb6vBaZTaruP5+qTBDSCX0wKqq+ZkqSwWfZBvNFTq5Cpi5B3kkMn4Uf0wIGMqpBya33vT7KyTytPZAVuV1Z8kca9EYMXRafIXFdxPBXZAuqHNYbnjpjaMP2pYrxbGG6sGnr90Basg9PCfoWvNuaf1R3M03IEp+FTx2ru+aHfEj+W7HH1xGgqoVtzzk+qwlh3KUgYKVA5WhfHzVR7vxjPRa/WPMRGxhnq1UdS4gjmkIZufnYhgeI+A0x0Pk9kLM7IWt73oEseuoACdgFvzFfkHwhZo/KWAc7lqEHAY0QkGZV9coY/9kCkUeCvD2N8cqU+m3g=;GHKibKvupBNt8RPcEbDMIg=="
+secured: "fXOJYac9EPrC/jT+Zsu0xvVcSP779L039KB+LUYfifZC/jGbGMXyhOeuBfacaMvhDs+6kT8ctD04g3Mkv6BFuv6nf9XQ6017UsjNPjsT21sVH91NkAEt1fB5DRK1fsClOsHaq4u+uyGWtxgELnCxB52gJ1B2zgslIVZgfiGEFEQJvyjztaeg0WTKVlEyvF2qo4shv3czTzFeCQ8m1uDqDUNlyAa/tlgllYORV+EYcDOEeEf7ZbNIrH96NNYY13SXQcadr7VS3sZdHMCt1kPggJwVZJt/2dq/XDinjdxX4tfnfzRwyJXyvcfWe1l3SODjL0LszDL6bFzazT+uTPtdnlCceWQ0lUMckDfwRqqjjwVJCwUfqy/P2hOMbAoWuudVfWoYa8Ex5RH/ie3p3KJwZHgY9hV7u+oULULCe7NG6Lk=;S/tWJ4vR5/ws1ujIJDf3og=="
 ---
 

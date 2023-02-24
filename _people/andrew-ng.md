@@ -21,14 +21,14 @@ website: http://andrewng.org
 twitter:
   username: AndrewYNg
   url: https://twitter.com/AndrewYNg
-  followers: 743462
+  followers: 744787
 
 linkedin:
   url: https://www.linkedin.com/in/andrewyng/
 
 googleScholar:
   url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
-  citations: 219720
+  citations: 219839
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Andrew_Ng
@@ -44,6 +44,6 @@ images:
     isCached: true
     title: "Andrew Ng"
 
-secured: "zGBbQ94cyuFbTYdNzVMcFJC1acnWJtKETy7ga0R3Bwjf1iugazShakaRqkUNsYXaUrY+3hPJjzF7D9O84iss8HT7b4J6e1DBoqa7Gf8YkEAWXOnMF6rFvx0MJtAT1wHijfLGb1ssxvPrwr5XK6LquSodvGT9eXzzTpmFBFM0qFK39UEZDNwZecGMLpmJ8vLgFTSplBU9AqvdTlRy30/cO43yeLpb1WbinoOZ9aZRQ6JkdZTEE2hM23GvhaE5jkwajdhMZrPoCOSWs14Jw3wAEIMDS/Ft3IELpMbCb6KIbRMrq/Dbr5ch01i0fICMECDDTqAZiCTKSMnC5VZgKkl6MNFxsy7K88bC7j5kkgPCGW5mBCv5V+pgwtkAOA3j0S7obujkMNZUaiL/Q4SyB+OhT+Vzp7D+ejeHd4nWwIHuHpA=;qJsjybRPkRv0Ci60Mhbkzw=="
+secured: "2JNjL8i/Wn0/tO76BUF00upmVYwV+er3cG8+27+CgEnrPcpt5kWWcieF4ZUJFRbliPqgH3g0SP22yuLWDGH+0VwmJNhDRcJEt3UoIgRUMQYX2J7jL+nHUNtZrOz8ikyCQc7eV1N4wtG0yI2MAxLK9Ul979Tdl0tCfLd8C9sfULP9nHnsVKgwSDAGEAxLRAzPnojB6+5MT3ew4O5NBR8C5PQ56JINbmMFhDoaEzYBDrMqvOVxJPV4s2+wACYzZHatYLi9H0C2Obpf+DopF13UfZR22VSGIJxiafTrzOEy1K7rkcwxJxuCLz2NYlFUN3SIOJNyj6r/yAgxG3PTdJbjhQKsoHmuGEYLRcmS2vsynQBuO7OErVdboi9IKmhIUWzslDqaYjprwGcaCcQuSimg43zNcuLtMJ81sCyYEQVuAco=;fqP+dWC9IvUh+NVLSqIKIg=="
 ---
 
