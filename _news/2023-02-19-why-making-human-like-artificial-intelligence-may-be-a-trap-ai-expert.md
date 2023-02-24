@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/VjkMCDOLeR9UbrqfmvfG3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NjM-/https://media.zenfs.com/en/aol_yahoo_finance_433/acc7d9aed8398897ce75c14d9879ff72"

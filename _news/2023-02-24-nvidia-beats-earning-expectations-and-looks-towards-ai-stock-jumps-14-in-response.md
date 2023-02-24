@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63f899324fa3a14e43093b40/0x0.jpg?format=jpg&width=1200"
@@ -90,6 +91,6 @@ related:
       domain: extremetech.com
     quality: 19
 
-secured: "CD60xmOGbb8DJFhDQE4EN8Wh3TenozHQJu+0t6jiJmjq/ST2M4KtcZcX6uOijA10Vt+BY1ZFZ1yoLURuahsU+4gqq83n4S26mpsAbl2mhYDFzVPThrrGyHaL+tWpYzBEZX0/oe34J1HEj814g6CZBjLiPQZSaCxpJ8DtfTOkq9vEDsxnh1B9wEFY5lcIsE4fNFwI24kwWRnMWWSUe0SfdB3TlNAUe/Vj3llRFe9Ap4Yd8GYw65RcU10uIxc2uYs/vKCykVUpID/RPt9XvF7TWxtghaF4P5Z4OSp2jSJAmrwyE6tsuQTD85KVvSwpmaNfaL7hD7chbP6NXCEtWHW4hGIyGnGFrKX3vbKCIPd8ejc=;XPDvr2q2pc0VJuXIA8UHIg=="
+secured: "exQrX+tcUF3ZAQP3nDeN6Ssf6CYGmC9DNAPFCxDI2sgorLNuIlh15sz0zfUsXdCiMdDv56eH8GCGYYHS68moFAZ1gm9JtCgCv5hQRLhWNHBYS04CE0k2KH2vYMREteTk++38P5c3BLZX8IZ1uHt2NfS2rugqS+n4nrTi4xwGZhGPC7P2EuOqjeSCg/e6oGtCyWBS550qtZJCMnvoq0LcHMAudzAudF7XnfkydRjlyOeADlbqYucI9Rd4r1Zb9OspJQagjywWn+JJabLk7SkptU2u4T23Svnn7PQVb6CrRntKh6dat9N2AVaXl5vHLbhBAM4vUNJ3+28x7a4cLICXCtW/UXTDVzVWlxa1SHciukGSdnGOfET5zFVlQ7KCBYN0+ndfJlQHhK7AOSJl7D+REgEf3b4dFcOdLZP/ej8wjAJbZUhsHcav/KrA/HxkPnam8SKOzJRL2bXAvIzy5ICQsVWpOADeCAHMY9V68HRIywPMmOMPL5wU2lEAx99p4fGXjA9R5123HyhCtHkpb/PMgw==;T4v6BGT1W/Xjbi1zXIVYsQ=="
 ---
 

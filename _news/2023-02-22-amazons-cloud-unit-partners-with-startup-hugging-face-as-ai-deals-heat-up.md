@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 secured: "JKltRh+hB4+t5nVZxI3FyU8cme86f8EOAIcOsGeH28+OjTMAZglnRBvaHczm4e0J8gz+vpfilJXDGlPLLLAqQJGB2/GvXy63opiVSd7oIxdljX0RkkdzuRWh+r89zGhUweHKD+LVaYfboNnF4D69XkAQH5UieIYAXfK835sDQd8405BMxG/Bdo5GJyN72AbNa+oSEpgjt6+bPi9bpFzwlGqI2Ajr3YkopPFN8XZqHxbk5y4ZNvF1wn47cw4oqbkqHdQJy6saA5BZNqB4Hffthmvme1qqZYw2GP5ccsgTATxSwK2gSjzFHliC5vW8fQB9+1Iaz4cDMZCknm+sPbFkf8vzc6WM511GfLV/OwP3jjj+gddjTgUkUpvrhEz3AnmE+OdphoBaluzxSqpppmCH87CaDVF6ToAcUZVTokXtQ4VLBX6I/rrHbidZVH6mSJYlEOcNwGvhXY3kWor7kxXIhtWXigpX1cvKcNCVHoun/FFocr0RUaMvP2aJEMV9njXL7MJCWNvGIZMNOS3fqmZBEA==;tpLnWeHpIwlSb6x5ZNjpQQ=="
 ---

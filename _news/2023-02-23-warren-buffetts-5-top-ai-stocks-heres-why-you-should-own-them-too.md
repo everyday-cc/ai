@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/721380/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
@@ -28,6 +29,6 @@ images:
     height: 1270
     isCached: true
 
-secured: "AiS9+v+BQK//GTE1b4Br681Ept7XB8rIMVVBnu8JoYe/76gKRSaGrTFG6OaJsUqVGhyK2RJQTDJU+X9tceo2Gc4cdVydPW9dMH8hgG3RyB53tHcYJycf430VTqtjkAxomAm0jJTl5VYtjqRZR0oMDvIOQDajP/4/bMEl/52kTv6GOQ0WzVsJULK0nfhX5jbJCRsarJl/jS3d2LsLMCGsRkL664JdQ3ISJNABqv41C4gqz9uZGa0ec6MV8Kt6WZ2czxQb5M6V7unGOLNO/KDxzQ8hdqh8cPf+3S+g1a4+PjYDygtzAnanFjFV5NzYaaJQufzL5V4M+6Y1wWP+pF/R5jzXWkUo+qj2KfgLnlpoFL8=;hmy5PjlsYn7v2YXcA0Kw0g=="
+secured: "hVnbtwgWGE2fgnu8uVEtRsanDB269i0wR4TaA7aU9StNdJ0CaYE4eAZc8wa+9GE2+j4GMi6CeXj6LZjaCYOgeNrFsgAJ3Z5DZirPnUpVAjCFwESsNHLIhfswI2bD9nT1RQPVCS17Yzvqalo/E+gFYvsD16Z/fHxk7IMUFy+VEWIx+PeYmWl9YcMgTlqbZNR2W1/ukntxzxsTeS1BuGJUaTgtE4jGuzsE5VD8CIQTnLzm7vY85zh7Slq6csmhBRK6Ui8VJ1ljANbcg1KQQ0w5ChaLj+vjYRXJ9FNql6FkbWn7z1I5xipzLLB3mU4BzYBJtaOHHbEegqOEl3iptn8xmYPDeH+9811OxqDJwaKuUzloQdWrZDAHMNZqbruM2g0LwRwlT1SmwkY8lg2sf8UHo0g0dwfkrmw7mqZbJ8XyA74pDTFB4KBBU/MypJ/sYol/UW5nDJs1nES+dv53i61wSMGdRF1Vc97zsDsD40AwvH7LKSncpa4IHB+6cAuuzv03IPqP6oZAqGwSDebi6Ggitg==;ItKjPC++eh4FpdVqWuZspA=="
 ---
 

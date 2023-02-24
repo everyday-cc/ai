@@ -21,6 +21,8 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
+  - AI Ethics
 
 images:
   - url: "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill"
@@ -87,6 +89,6 @@ related:
       domain: pewresearch.org
     quality: 3
 
-secured: "a4SIlpRIib+HoyW5QiRF9ckOANe9LT29WtW6zUcXKXT5nYwFOt6QCCWNEjT8uL/zAwe8hXvK6J2KFDCoMGZPtbHtrCO86s3MBlEcV3E9DixQsXsGl919Xlcwe5XjtjAXP+cp1kATwciSMhnvS544lhHlYKpsWEkUGZFPOLGQVhWKrHwDCCfK+DJi5r7T2R5hH8ZXI/ZkkJanoIGWux8NGoEXXS4nKVQBddZDSzMv7hncRRJg/Tv139gQcwuqzVN58I0t1fCIqxregLECXUZNEFsM884IfZyrlbfzcVFwt0hNSzX6q+YM0Yk9y9WtZXL99KHulD9RgSd8HX7Npg45ZfQeVURIWNYmKAYDGZWbtk0=;R+37MxtgYcb51WTFFgq0Lw=="
+secured: "DOJRIHp8FA3Yj9O1UX0srSk3fgaYYUDuUm7wEnYXjTPMK/yYzflQukWXpxXE/fRDzIRys/TOTYuzsyPty+gs18cePEuQXwiTL+7VCPOISbzpdh+sVdbAhjvIWHnQeFAalpEtmsWVYIzi3MWxNAQM/tNhzPIcfPAs1iNAVo48BxpqwRwqz5EGnfYWolfZpaGHI2BOQA/agjg2bAukZxnZ0Zvpb7aRp8UjpAK95iEN4GraCZUQMAsnJUDEjt9LW4nYvzbVBEKXsqTT01O2CymfggZZeq6LqHc4F/QfAAVQOhQWWgOV3xFHyixFZWUmV/GGahUpAywqTDHoJJHjt+cVmiPwMH/4uewoPjRsyhm/nnaEYkOKt2zPGyEf7pUPvQR7/2yRmUzVod9QJjtoX1bBq8u9P4pxMyAL59sUlEjb+BWU9bVyyEkVOFF2vNJCC3GSmMAdKKIUQhARNoet2dYCcKZH2YAXhpaYX9id5lqDfsG+od0oHJbPdL7ufaSOuI6NNEeiTOKgRAcprhYqzoOSlA==;7mJ9Dqp11I6SgO3hg+tkpg=="
 ---
 

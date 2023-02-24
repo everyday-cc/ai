@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://kubrick.htvapps.com/vidthumb/a24a30a3-694f-48e0-babc-c2b4a13b5446/c6afed40-ed01-43f0-bd8c-6aa7b3b10033.jpeg?crop=0.989xw:1.00xh;0.00653xw,0&resize=1200:*"
@@ -53,6 +54,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gL3xWtD43KmfI5ZcdlmHSovp8CC8zB+l6oOZ+S0xb3SXwGBzlOms2YWIbzImR5G0bILPs54pVNrWqaOrB/dAiXE+DPJjFB0OfTW3zsBud96k6sc6U5FQwyRCGnh3AMGZ3gB4lebbENLUD+QGb6gJYsydPeFQdzs0zqSlj/iZJAXODzisC0XZeQph92ScgJzSnzYwPiqPm1fupc/4yqHTBYD+zD7ixawlmKpILWrbKhYaCThvkj7TUzmY54exPAZ8Ob09WL3NIbDYmq18CR39spqaFjjCjXGumUbreWgazRmd+Sd8cmSg44/JD8cZUgP2Cg7KJVENSzdcNeFsf4t/w4KfztljxK6zxMa9CsHvoFo=;C6mZXFLNlN5kVXcId0jAjA=="
+secured: "aYkEaRabsSJDrDKXPdRk4GNLyEH+yaaPlr7hvChK1qw+EGfZYHD/UoO+t9hUsKoHDE26T4qPAOOoewcQDebqdllwmJdZ936BKyCpCewHeoa7SLQmnja8z5XHESOJiIUC/GTbHV15oaykIFUoyFtQlKs4+dnm0TsujcWNbH775DzwZIprGAvBJcie713SldV+GTnupCes6/tEpyLh3RJFbqa713mqZeVg6+Jh0jGIZDaAX1KAe1RXS1ICcwzCbCJ726zSmJ2s66IsPmAWVn0x3tgLRrWhOTOtewbpaWQSGK551HW4BCM2QvKFR20PoM3bEaTQj++XlpOvIW0xFD/gTDNqS2bNPJJluFMGHSV91n9IHeYcBe5EfuXa2NVwgzAFh4lp+NuHfRSZk7dnZhenNvENDR3Hxx3ipdD0w6ofAjzJN/U5lqqCYHu3MA/6CIDGMtfNxQ+oUsovWo4MsYCVaehswuFdB/mMnUVTf1AoRu126Unqd7liy2chBqi0wX1RXr79NAlMWGakZHM8PmAplw==;An6wK11jLJHyC7Gt7NHmmA=="
 ---
 
