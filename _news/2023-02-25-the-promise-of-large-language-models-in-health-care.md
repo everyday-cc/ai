@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-24T23:36:00Z
 originalUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00216-7/fulltext"
 webUrl: "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)00216-7/fulltext"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.thelancet.com/pb-assets/Lancet/lancet/ogImg-1592317277397.png"

@@ -27,7 +27,7 @@ related:
     provider:
       name: The Lancet
       domain: thelancet.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://www.thelancet.com/pb-assets/Lancet/lancet/ogImg-1592317277397.png"
         width: 300

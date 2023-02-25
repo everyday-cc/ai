@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Jasper AI: how to use the ChatGPT alternative now"
+    excerpt: "Jasper AI is a powerful, new alternative to ChatGPT that offers quick, generative text with no waitlist. You probably haven’t heard of Jasper AI, originally known as Jarvis AI, until Marvel challenged the name that conflicted with Iron Man’s AI companion."
+    publishedDateTime: 2023-02-24T20:24:00Z
+    webUrl: "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/02/Jasper-AIs-robot-mascot-stands-on-a-desk-by-a-computer.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Generative AI Tools Like ChatGPT and Dall-E Aren't Going Away. Here's Why"
     excerpt: "These are machine learning systems that process terabytes' worth of data, often just scraped directly from the internet, making note of patterns and associations within the dataset, which is called training data. In the case of ChatGPT, text data sets are ..."
     publishedDateTime: 2023-02-22T19:20:00Z
@@ -79,6 +95,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 67
+  - title: "The AI emotions dreamed up by ChatGPT"
+    excerpt: "AI chatbots are already imagining what feelings they'll end up with. But if they did develop them, would we even notice? I'm talking to Dan, otherwise known as \"Do Anything Now\", a shady young chatbot with a whimsical fondness for penguins – and a ..."
+    publishedDateTime: 2023-02-25T00:59:00Z
+    webUrl: "https://www.bbc.com/future/article/20230224-the-ai-emotions-dreamed-up-by-chatgpt"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0f584wh.jpg"
+        width: 624
+        height: 351
+        isCached: true
   - title: "Is It True That Generative AI ChatGPT Will Flood The Internet With Infinite Content, Asks AI Ethics And AI Law"
     excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
     publishedDateTime: 2023-02-23T12:00:00Z
@@ -265,6 +295,20 @@ related:
       - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2023/02/dreamstime_xxl_107016485.63f3a150b76d3.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI for Good develops humanitarian projects using ChatGPT and rivals"
+    excerpt: "An NGO called AI For Good is utilizing the immense power of ChatGPT, Bard, Bing, Neeva, and similar programs, to teach"
+    publishedDateTime: 2023-02-23T13:38:00Z
+    webUrl: "https://www.starbeacon.com/region/ai-for-good-develops-humanitarian-projects-using-chatgpt-and-rivals/article_7d09d029-8b08-59c9-ae7c-c5cb01bea03a.html"
+    type: article
+    provider:
+      name: Star Beacon
+      domain: starbeacon.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/starbeacon.com/content/tncms/custom/image/760622da-825e-11e5-8595-a7eb0b0092f8.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "ChatGPT for marketers ­– replacement or ren-AI-ssance?"
     excerpt: "Pushing the boundaries of AI can deliver for marketing will have a huge impact on customer experience, productivity, and marketing innovation"

@@ -102,15 +102,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 16
-  - title: "Best Handwriting Recognition Apps"
-    excerpt: "MetaMoJi Note is a comprehensive notebook, sketchbook and scrapbook app that supports voice input, PDF annotation and handwriting-to-text conversion with the Mazec handwriting recognition helper app."
-    publishedDateTime: 2023-02-21T00:00:00Z
-    webUrl: "https://www.businessnewsdaily.com/10467-best-handwriting-recognition-apps.html"
-    type: article
-    provider:
-      name: Business News Daily
-      domain: businessnewsdaily.com
-    quality: 4
 
 secured: "Pkk14NmyndbYg8UPhzHxAkMucDDJJ0+BInCMD6BFXupAJVOoO5DjT330/pqJm5Z1QJmA4kJjaANciLwFdEt+kOoCbqF5mjyJO2tw68g7N4hgUt9qPRs4FliqVdXQBvn+Ji7TgaJthd02mQhF1mTbaxScjJyrd3b90PO7Dg4+D85vKhVmsnFXjO6EXJw14SXmNV8KhlYgufSl+QGU1ngd2MgWL4eXLIVsDlxKkMsx8XwnthPKkjY0qE0064GiHmkK3DQuGTM8ppY1Yrs7jcg1uWrIdI9k2bzha0uggxREB0gWxX9mXCW+b4N92+khluvnJDmy1SC6LG0kM61CwqYNfKy/fb+5oIAuHAmkzPv6gRjFjeY+eoI2kJfAxRFsQDr/LE1AQ+juHaXaTghfYjZdYhf6OT9nuoOKtPwfwmLGXrMiGTTvBwdq+P+OJiqpymat/EsKIheG/hoozTwWwqbqvBrDy6GNSjIlKaVaDHoqQD6KNc68n4ywyDz+rKEGf8/lrO1rvmMW/2tJN3Bhz6VwUw==;YiwrIyMIndRiQZPcLD0HKg=="
 ---

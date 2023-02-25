@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/asia-pacific/australians-urged-suppo
 webUrl: "https://www.reuters.com/world/asia-pacific/australians-urged-support-indigenous-recognition-ahead-referendum-2023-02-23/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,17 +23,26 @@ topics:
   - AI
 
 related:
-  - title: "‘Unfinished business’: Australia to hold referendum on giving Indigenous people a voice in parliament"
-    excerpt: "In October, voters will decide whether they support the enshrinement of an Indigenous voice to parliament in the constitution, the culmination of years of campaigning by Aboriginal groups for recognition in the nation’s “birth certificate”, as the ..."
-    publishedDateTime: 2023-02-24T04:02:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/feb/24/australia-indigenous-voice-referendum-global-explainer"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/feb/24/australia-indigenous-voice-referendum-global-explainer"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/feb/24/australia-indigenous-voice-referendum-global-explainer"
+  - title: "Most Australians don't trust AI in the workplace, finds survey"
+    excerpt: "A University of Queensland and KPMG Australia study has found only 40% of Australians trust the use of artificial intelligence (AI) at work."
+    publishedDateTime: 2023-02-22T19:47:00Z
+    webUrl: "https://techxplore.com/news/2023-02-australians-dont-ai-workplace-survey.html"
+    ampWebUrl: "https://techxplore.com/news/2023-02-australians-dont-ai-workplace-survey.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-australians-dont-ai-workplace-survey.amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 9
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
+  - title: "Future-ready: Australian army tests mind-controlled combat AI robodogs"
+    excerpt: "The Australian military is reportedly testing a unique artificial intelligence (AI) \"brain robotic interface\" to control \"robodogs\" synced with troopers' minds."
+    publishedDateTime: 2023-02-23T14:47:00Z
+    webUrl: "https://interestingengineering.com/innovation/mind-controlled-combat-ai-robodogs"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 19
 
 secured: "T7eOJVjaRTKX6+s6CK3zSIuiEDf+X8mYynSLMotg0x8npPb+HS3bUPvynKoXx7P7gWZGIjmVSt86QS1zhTs2dNsjx0Q9mD5eUScNDkyWqh18xuqw6Q/uIhYyhLEdxou/lELAKPxAogeIdLtuRnIe0AV7G60dugZwJNPfbQhU8l34am+ftg6UbXpRBthRsT5fWq/OIuiQ0/qI4sML2vMfKCtsWW/EUOub0C7OVopqu9ltJKs05bU+kqMEFElpl0+wJI7emSjH45B3yiOZ0sSkHWWqnhim1ng7V81C9vwRGIkzydJBNfOiiRO8peTWD51xkdu/Gc3VGTox+Q4vYSaERSg4YFRuILQsBIL9CoxPVnhz4zNUGiomvHp0KK5TaCj2KClpKVmh0RZw/MYtT/Ci/reSvCgyaJcrwbfYLCocapyAGw0HVTJXI0VfbNftP51Styhu012BO6S3gchzPmGZvDaGKktEGoAqtVvOTNbvkl3arUKZFyl3xdwRNdzJQmKIQC4KchjKTyRH24J+tXsYfQ==;HUTCGIzFDfgl1Plc7WBpEg=="
 ---

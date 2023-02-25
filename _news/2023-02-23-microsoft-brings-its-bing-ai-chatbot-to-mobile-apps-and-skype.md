@@ -46,20 +46,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Best AI Stock to Buy: Alphabet, Amazon, or Microsoft?"
-    excerpt: "Amazon Rekognition can identify people, objects, text, and more in images and videos. Microsoft has incorporated AI into its Azure cloud-hosting service. Its business intelligence tools use machine learning to analyze data. The company's GitHub Copilot ..."
-    publishedDateTime: 2023-02-20T10:58:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/20/best-ai-stock-to-buy-alphabet-amazon-or-microsoft/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 88
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/720441/artificial-intelligence-ai-on-cloud-circuit-board.jpg"
-        width: 2359
-        height: 1270
-        isCached: true
   - title: "AWS and Hugging Face partner to ‘democratise’ ML, AI models"
     excerpt: "Users will be able to easily move models available for free on Hugging Face to SageMaker, the AWS-managed machine learning service, through which researchers and developers can build, train, and roll out ML models. These are hosted on Amazon’s elastic ..."
     publishedDateTime: 2023-02-22T12:30:00Z

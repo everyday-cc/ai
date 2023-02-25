@@ -45,20 +45,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 39
-  - title: "Tesla recalls 362,000 vehicles due to NHTSA pressure on self-driving software"
-    excerpt: "Tesla announced the recall some weeks after the NTHSA noted that its Full Self-Driving beta could break traffic laws and cause accidents."
-    publishedDateTime: 2023-02-20T10:00:00Z
-    webUrl: "https://www.cbtnews.com/tesla-recalls-362000-vehicles-due-to-nhtsa-pressure-on-self-driving-software/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 36
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/02/Musk-self-driving-tesla.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla: Growing Full Self-Driving Liability Could Be Massive"
     excerpt: "EV maker Tesla, Inc. recently issued a recall on its full self-driving software package. Tesla's hardware version 4 is expected to be unveiled shortly. Robo-taxi liability potential seems to be growing by the day. For those that have followed the Tesla ..."
     publishedDateTime: 2023-02-21T22:18:00Z

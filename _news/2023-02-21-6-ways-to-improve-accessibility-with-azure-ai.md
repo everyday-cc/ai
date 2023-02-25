@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-w
 webUrl: "https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Painting robot tests AI’s ability to be imprecise"
+    excerpt: "News Agency Painting robot tests AI’s ability to be imprecise. Posted . A robotic arm with a brush taped to it at Carnegie Mellon University is collaborating with humans on pain"
+    publishedDateTime: 2023-02-25T01:37:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOV265323022023RP1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20230225&i=OV265323022023RP1&r=OV265323022023RP1&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "The power of partnerships to improve federal data accessibility in the cloud"
     excerpt: "Ventech Solutions CTO Steve Veneruso discusses their partnership with AWS and why it is key to helping federal agencies make data more accessible to authorized users."
     publishedDateTime: 2023-02-24T19:27:00Z

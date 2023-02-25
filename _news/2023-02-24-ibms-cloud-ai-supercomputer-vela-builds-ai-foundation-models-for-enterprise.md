@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/amp/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 65
-  - title: "IBM runs an AI based supercomputer"
-    excerpt: "Fortunately it is using it for \"good\"  IBM has unveiled its \"AI supercomputer\" composed of a bunch of virtual machines running within IBM Cloud.\" Dubbed Vela, the AI has been running since May last year,"
-    publishedDateTime: 2023-02-20T10:32:00Z
-    webUrl: "https://www.fudzilla.com/news/pc-hardware/56363-ibm-runs-an-ai-based-supercomputer"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/3a2bf1b81ed4e1680b672adb9c15aa66_L.jpg"
-        width: 620
-        height: 466
-        isCached: true
 
 secured: "ifUfAybmg8eE1eelqa1pKrptFR8vuF9gZQZJfaZoeZkb0eHVxbWn6gmcePHSapmGIjcw0QRBtZod8dS6NGxZI8mJqqwMdg4ktEj2QlpVOFhP65ZE+eIn3/gNGg6xi+wlnO/MKAraaQGP5m630pj7pBiIPJR0OHk0Mr8mC8dyd+dYX/BvYlftMzNkVA7IfYFXOm4GSFNK5wOLUUXVpUi2/ZZhvHOj9B9lkd2xgJ8UwSYggEQWOjVhjXWq/yAZ1ZTUUdq2TcZL3a1l4WH+JEFkv6019nV4haQO8NaaXMNoAX+IK4Ub/y6o8F5ZeqO8XmuEb6wZHxMRWA4z5Os5HoeyYlJeHJw6iCMTxKVE2AtI1zqseacj0Zl2maT7CjSGXLMeWBaW6d87l650hB63CcRcMkRQIHb56Qm7KdYtwjO1u3suK/Wl/J/dhrj4sFLjv9uc3v39F2uC1SeJxHLohlLuDaRLvHLpaCbtGSqWjcENoKpyl8xM6ZFkPiVKAfqrICRJlcABDlpGlj6vrkpMsUFQ3A==;0Qilty8Opd36DfMN/MeM8A=="
 ---

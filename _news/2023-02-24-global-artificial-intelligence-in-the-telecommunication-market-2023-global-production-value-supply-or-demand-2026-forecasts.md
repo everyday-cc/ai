@@ -186,6 +186,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+  - title: "The Future Growth of the Artificial Intelligence in Oil and Gas Market Size 2023-2029"
+    excerpt: "Browse Market Size, charts, tables and figures extent in-depth TOC with 114 Report Pages on Artificial Intelligence in Oil and Gas Market by Application (, Civil Oil and Gas Industry, Oil and Gas Industry for Vehicles and Ships,"
+    publishedDateTime: 2023-02-25T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-growth-of-the-artificial-intelligence-in-oil-and-gas-market-size-2023-2029-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision in Artificial Intelligence (AI) Market 2023 Key Trends, Applications & Future Developments to 2028"
     excerpt: "Feb 23, 2023 (The Expresswire) -- \"Computer Vision in Artificial Intelligence (AI) Market\" Report provides a Detailed analysis of global market"
     publishedDateTime: 2023-02-23T04:20:00Z

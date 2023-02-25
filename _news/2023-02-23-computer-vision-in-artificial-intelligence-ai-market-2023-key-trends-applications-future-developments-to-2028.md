@@ -182,6 +182,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+  - title: "The Future Growth of the Artificial Intelligence in Oil and Gas Market Size 2023-2029"
+    excerpt: "Browse Market Size, charts, tables and figures extent in-depth TOC with 114 Report Pages on Artificial Intelligence in Oil and Gas Market by Application (, Civil Oil and Gas Industry, Oil and Gas Industry for Vehicles and Ships,"
+    publishedDateTime: 2023-02-25T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-growth-of-the-artificial-intelligence-in-oil-and-gas-market-size-2023-2029-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI based Edge Computing Chip Market is expected to witness Incredible Growth during 2023-2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 21, 2023 (The Expresswire) -- \"AI based Edge Computing Chip Market\" Size, Share and Trends Analysis Report 2023 - By Applications (Consumer Devices, Enterprise Devices ..."
     publishedDateTime: 2023-02-21T06:00:00Z

@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
-excerpt: "Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI ..."
-publishedDateTime: 2023-02-22T19:18:00Z
-originalUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
-webUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
+excerpt: "By Jen Christensen, CNN Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI’s potential to reduce medical mistakes and to eliminate some of the problems doctors may have with racial bias."
+publishedDateTime: 2023-02-22T19:59:00Z
+originalUrl: "https://localnews8.com/news/2023/02/22/most-americans-are-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds/"
+webUrl: "https://localnews8.com/news/2023/02/22/most-americans-are-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds/"
 type: article
-quality: 63
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
-  - AI in Autos
+  - Facebook AI
   - AI
-  - AI in Healthcare
-  - AI Ethics
 
 images:
-  - url: "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill"
-    width: 800
-    height: 450
+  - url: "https://localnews8.b-cdn.net/2023/02/hypatia-h_c4eb4551c0b29cb6edf582a62d81b330-h_117aebfa8535c7c39995830a035645b7-300.jpg"
+    width: 2000
+    height: 1125
     isCached: true
 
 related:
@@ -133,6 +127,6 @@ related:
       domain: pewresearch.org
     quality: 3
 
-secured: "DOJRIHp8FA3Yj9O1UX0srSk3fgaYYUDuUm7wEnYXjTPMK/yYzflQukWXpxXE/fRDzIRys/TOTYuzsyPty+gs18cePEuQXwiTL+7VCPOISbzpdh+sVdbAhjvIWHnQeFAalpEtmsWVYIzi3MWxNAQM/tNhzPIcfPAs1iNAVo48BxpqwRwqz5EGnfYWolfZpaGHI2BOQA/agjg2bAukZxnZ0Zvpb7aRp8UjpAK95iEN4GraCZUQMAsnJUDEjt9LW4nYvzbVBEKXsqTT01O2CymfggZZeq6LqHc4F/QfAAVQOhQWWgOV3xFHyixFZWUmV/GGahUpAywqTDHoJJHjt+cVmiPwMH/4uewoPjRsyhm/nnaEYkOKt2zPGyEf7pUPvQR7/2yRmUzVod9QJjtoX1bBq8u9P4pxMyAL59sUlEjb+BWU9bVyyEkVOFF2vNJCC3GSmMAdKKIUQhARNoet2dYCcKZH2YAXhpaYX9id5lqDfsG+od0oHJbPdL7ufaSOuI6NNEeiTOKgRAcprhYqzoOSlA==;7mJ9Dqp11I6SgO3hg+tkpg=="
+secured: "jH32Sh31+Ley6jyq3gdr1qTsqfTmbGrYLcAhhDsbAhSJCx8CmsFufeayYbRZF3KaMUU70GR4dVJTvQOzFsGq6FTNNzWel9akYB5e9WVjhP/p0KnGtIQ0QJDYG66mj4ASHrdc/XZnyQ6ZwwLJEhNg1Jj07De/lMaNgv91AHNjZTyyFCT768IoFnMvnfqypmrZPjDx0g7gKXg1HyKQiLhZp41CR1UibTodeK04YJYATXoTbFnC9UVu9zpR9mlN+PIYhv4JZtN2zNMzRPJi2JUHaISiRPoRUbmxtfOKDZtK88/Rifc24TB0j4TAcl53I+CMc1JTaUvXVZF+xYuecHI2GXJ6d3XL8Yi3NoRSmFfze4o=;NkEmlbLLsQlKfwUGGJ9ZRw=="
 ---
 

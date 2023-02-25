@@ -261,15 +261,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
-  - title: "Facial Recognition Devices Market Massive Growth Strikes Due To Technological Innovation During 2023-2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2023 (The Expresswire) -- \"Facial Recognition Devices Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions, Company profiles ..."
-    publishedDateTime: 2023-02-20T09:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-massive-growth-strikes-due-to-technological-innovation-during-2023-2028-2023-02-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
   - title: "Navigating the Future of Face Recognition Door Lock Market Insights 2023-2029: Emerging Trends and Opportunities"
     excerpt: "Feb 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Door Lock"
     publishedDateTime: 2023-02-24T09:16:00Z

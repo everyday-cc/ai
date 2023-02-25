@@ -46,6 +46,17 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 46
+  - title: "Madison Square Garden grilled over facial recognition technology"
+    excerpt: "Madison Square Garden was in the hot seat at a New York City Council meeting Friday as council members posed questions about how the venue uses its facial recognition technology to allegedly ban lawyers involved in lawsuits against them."
+    publishedDateTime: 2023-02-25T01:08:00Z
+    webUrl: "https://www.fox5ny.com/video/1185566"
+    ampWebUrl: "https://www.fox5ny.com/video/1185566.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/video/1185566.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 39
   - title: "Controversial facial recognition technology debate to be held at City Hall today"
     excerpt: "The debate over the use of facial recognition technology in New York City business is heading to City Hall Friday morning. Council members will be discussing how privately owned businesses are using facial recognition technology in a public oversight hearing later this morning at City Hall."
     publishedDateTime: 2023-02-24T11:41:00Z

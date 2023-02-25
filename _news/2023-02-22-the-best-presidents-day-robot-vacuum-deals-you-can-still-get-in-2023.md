@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/essentials/the-best-robot-vacuum-deals-ahead-of
 ampWebUrl: "https://www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/"
 type: article
-quality: 59
-heat: 109
+quality: 61
+heat: 111
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/18/4e542c82-4239-402b-b2b7-94905fbed0cc/thumbnail/620x349/790b7cbe147c5208ff529d0cf05e9357/eufy-by-anker-robot-vacuum-g32-pro.jpg#"
@@ -89,6 +90,6 @@ related:
       domain: cbsnews.com
     quality: 21
 
-secured: "80B+BjLqGYZ0nLUUZhngSD4U6G54dWa3+UctYW0qX1NQwQaBzxF3Dh8U/R+uJaPUFB4dwT7Pw4wOzy/Gs9cSoMhh8u3OIDAlfC7f7kbAPEnodTrry2UCghcJJYRFV1P1DpNXF14bGXW8d8o4aNSMi0GnpJQ2+oxSjgYVGO4/If2dL0u+EhZb05FpOQ0ipXkOnY2D6XRUwLauXVcEYITYnw0HL1HOo59V6aCAlSgT1stTjyOywMktS8CG+4P+MfIUPaVBdf38NcAHOgpfq91QMzp9WjNLz3SlKzX4Bbiu1w1cq/9KEj4q6lMDoY0SgELgLoKQ/dLChCJaJW1Jnv6LUQzZr/GUXJyONyt6aPX+m3o=;BCcUbLEXK8md0yTnXOr//g=="
+secured: "3GLr639/4/EM/RCf3phKVUuxKiK/KatSYjziIyFzRClKMVTimp6rOUzLp1aV43mAF0DYuxpisEBV8VVZoIsZFbFJHN37sN5PKwtOPhaR5ke4TIJs7NWJbcGGrN4d9XLZMNcxb++OdEM6dfwolxOqKYJfzfdFndn5SdS9HLrdsP/P4QjIXMpx3Soy36YiRSzQn0bHOi7qbJNpE8XOWxnBC3k+UtnDd7gQUAWCbzZ764IeCZNgIZAscAZXVbo8+C4TCx1J05n0l4f2By7dq/no+c6PjY8opPTGwVRx1+fRqKlM/ELBInwzn9moRW1YS+bgOk6gT5Lrn9FAxQdpeh2vvDoMAlGTAuoB+rlvdGnmBo3mi91XVW7lyD+OAOV8LbHLW4eHdF/XDhi/jT8dOS7j4+crvaZlqTN5O+4lD/WRPER2RhyzZW0Y4djk/YPkZbMpHAE9ZtPtvS3RNb9chC2QLNkaDRCM9GNj+j6jB0WbFr7xlXOoNvcw8apM7o/UElnZnkVUIjE2C5WAy8gKz35AMA==;rS8jSaBNOUWN/60/bmiM3A=="
 ---
 
