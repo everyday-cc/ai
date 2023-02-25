@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Generative AI Like ChatGPT Is Popping Up Everywhere. Your Questions Answered"
+    excerpt: "A neural network is a type of machine learning system that can be ... may lie in new ways of collaborating with AI to accentuate what both biological and artificial intelligence do best. Simple, really: Information isn't knowledge. LLMs are kind of ..."
+    publishedDateTime: 2023-02-23T20:55:00Z
+    webUrl: "https://www.cnet.com/science/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 88
+    images:
+      - url: "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Blackbird AI is striking back at ChatGPT and AI-based attacks"
     excerpt: "Blackbird AI announces the launch of an AI assistant for security analysts, which uses generative AI to create mitigation guidance."
     publishedDateTime: 2023-02-20T17:57:00Z
@@ -54,6 +70,22 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2023/02/Jasper-AIs-robot-mascot-stands-on-a-desk-by-a-computer.jpg?resize=1200%2C630&p=1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Implications Of ChatGPT On Cybercrime"
+    excerpt: "Researchers at CyberArk demonstrated how ChatGPT can be easily abused to create polymorphic malware that is highly evasive as well as difficult to detect. Every time researchers queried ChatGPT, they received a unique piece of code that could be used to create numerous mutations of the same malware program."
+    publishedDateTime: 2023-02-24T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63f767765a57e6cb05093b42/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 700
         isCached: true
   - title: "I wrote a novel with ChatGPT. Authors, have no fear, your jobs are safe — but AI will give you great ideas."
     excerpt: "Sergi Arguimbau, a senior mobile developer at the unicorn startup ManoMano, published his AI-generated book on Amazon."
@@ -129,21 +161,32 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "How artificial intelligence is changing different industries"
-    excerpt: "SHE SAYS ARTIFICIAL INTELLIGENCE OR A.I. IS NOT AN IDEA FOR THE FUTURE ... IN INDUSTRIES THAT DEPEND ON HUMAN INTERACTION, LIKE THE HOSPITALITY INDUSTRY, ARE NOW USING ROBOTS. AND WE INTERVIEW FOOD WORKERS ABOUT USING ALGORITHMIC MANAGERS FOR HOUSEKEEPING."
-    publishedDateTime: 2023-02-22T02:24:00Z
-    webUrl: "https://www.wtae.com/article/artificial-intelligence-workplace-industries-changes/43012610"
-    ampWebUrl: "https://www.wtae.com/amp/article/artificial-intelligence-workplace-industries-changes/43012610"
-    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/artificial-intelligence-workplace-industries-changes/43012610"
+  - title: "ChatGPT’s Biggest Competition: Here Are The Companies Working On Rival AI Chatbots"
+    excerpt: "The roaring success of ChatGPT, an artificial intelligence chatbot created by U.S. non-profit OpenAI, has sparked a frantic rush to get new AI products to market, a frenzy that is consuming tech’s biggest behemoths and countless startups as they fight ..."
+    publishedDateTime: 2023-02-23T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/amp/"
     type: article
     provider:
-      name: WTAE-TV
-      domain: wtae.com
-    quality: 63
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+  - title: "It’s AI powered slaughterbots, not ChatGPT, that should worry us"
+    excerpt: "ethics has changed. What are killer robots, exactly? In formal parlance they are called Lethal Autonomous Weapons Systems (LAWS). Also known as slaughterbots, they use AI to identify, select, and eliminate targets without human intervention. Conventional ..."
+    publishedDateTime: 2023-02-22T09:37:00Z
+    webUrl: "https://www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361"
+    ampWebUrl: "https://www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
     images:
-      - url: "https://kubrick.htvapps.com/vidthumb/1194975e-5a55-416d-9d54-7557a11a4caa/7232b6f5-b1fc-4dff-85fb-d15b6a6c6845.jpg?crop=0.708xw:0.707xh;0.194xw,0.0638xh&resize=1200:*"
-        width: 906
-        height: 509
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/02/22/its_ai_powered_slaughterbots_not_chatgpt_that_should_worry_us.jpg"
+        width: 750
+        height: 393
         isCached: true
   - title: "Report - ChatGPT and generative AI demand a smarter approach to EU regulation"
     excerpt: "Grist to the mill, perhaps. With Qualcomm’s AI Research division successfully deploying foundational image model Stable Diffusion on an Android phone this week – 15 seconds for 20 inference steps – such tools are likely to become a generation’s ..."
@@ -209,24 +252,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Monetizing Generative AI ChatGPT Via Embedded Product Placement Ads, Anguishing AI Ethics And AI Law"
-    excerpt: "Some are proposing that generative AI such as ChatGPT should include embedded product placement ads, thus a seemingly suitable form of monetizing. Others are dismayed and shocked at the idea. Here's the deal."
-    publishedDateTime: 2023-02-20T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/20/monetizing-generative-ai-chatgpt-via-embedded-product-placement-ads-anguishing-ai-ethics-and-ai-law/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Chatbot Craze Powers AI-Powered AIEQ ETF Higher"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: SWKStock / Shutterstock All the craze lately has been surrounding"
-    publishedDateTime: 2023-02-22T20:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatbot-craze-powers-ai-powered-aieq-etf-higher-1032117163"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "China’s ChatGPT Stance Could Mean New Challenges for AI Stocks"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) has been seen as the technology of the future"
     publishedDateTime: 2023-02-23T19:05:00Z
@@ -236,28 +261,14 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Will artificial intelligence replace financial advisers? Here’s what ChatGPT and a financial adviser had to say."
-    excerpt: "Here’s what a financial adviser and a machine learning engineer think about the future of AI in financial services — and what ChatGPT has to say for itself. ChatGPT is an AI program whose name stands for “chat generative pretrained transformer.”"
-    publishedDateTime: 2023-02-21T10:00:00Z
-    webUrl: "https://www.marketwatch.com/story/will-artificial-intelligence-replace-financial-advisers-heres-what-chatgpt-and-a-financial-adviser-had-to-say-ffb26124?mod=mw_latestnews"
+  - title: "Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet"
+    excerpt: "Google, with Bard, and OpenAI, with ChatGPT are making AI chatbot technology previously restricted to test labs more accessible to the general public. How do these Large Language Model (LLM) programs work?"
+    publishedDateTime: 2023-02-23T23:02:00Z
+    webUrl: "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://images.mktw.net/im-727584/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "5 Artificial Intelligence Stocks to Buy Now"
-    excerpt: "Artificial intelligence is getting a lot of attention in 2023, but a lot of the coverage is more hype than substance. Behind the scenes, there is a lot of value being created, but it may not be in the areas you think. Chips, cloud services, and security ..."
-    publishedDateTime: 2023-02-22T11:15:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/22/5-artificial-intelligence-stocks/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: The Verge
+      domain: theverge.com
     quality: 47
   - title: "China Is Betting Big on Artificial Intelligence—Even As It Cracks Down on ChatGPT"
     excerpt: "Given that China already bans Google, Facebook, Twitter ... founder of Beijing-based IT research firm Marbridge Consulting. Regarding AI, China already has a virtual news anchor for the state-run Xinhua News Agency, a computer science “student ..."
@@ -268,6 +279,31 @@ related:
       name: Time
       domain: time.com
     quality: 44
+  - title: "Bing's AI chatbot has a question limit that is more of a problem than a solution"
+    excerpt: "After reports of the Bing chatbot's outlandish behavior, Microsoft has decided to limit the interactions users can have with the bot. Th results are quite annoying."
+    publishedDateTime: 2023-02-20T20:07:00Z
+    webUrl: "https://www.zdnet.com/article/bings-ai-chatbot-has-a-question-limit-that-is-more-of-a-problem-than-a-solution/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 42
+  - title: "Enterprise hits and misses - Microsoft changes their spin on ChatGPT for search, while enterprise uses for Metaverse and generative AI get real"
+    excerpt: "Microsoft changes their positioning on ChatGPT for search. No surprises here - but the pursuit of enterprise use cases is worthwhile. Plus: time to revisit the enterprise Metaverse. Your whiffs include cheating on AI ethics exams - and data backups for Valentine's day."
+    publishedDateTime: 2023-02-20T15:34:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 40
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2013-06/chess.jpg"
+        width: 425
+        height: 283
+        isCached: true
   - title: "Rise of AI: Google wrestles OpenAI's ChatGPT in a no holds Bard match"
     excerpt: "With the release of OpenAI's ChatGPT in November 2022, the development of chatbots using AI has gained prominence in recent years."
     publishedDateTime: 2023-02-20T14:49:00Z
@@ -296,33 +332,86 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI for Good develops humanitarian projects using ChatGPT and rivals"
-    excerpt: "An NGO called AI For Good is utilizing the immense power of ChatGPT, Bard, Bing, Neeva, and similar programs, to teach"
-    publishedDateTime: 2023-02-23T13:38:00Z
-    webUrl: "https://www.starbeacon.com/region/ai-for-good-develops-humanitarian-projects-using-chatgpt-and-rivals/article_7d09d029-8b08-59c9-ae7c-c5cb01bea03a.html"
+  - title: "Baidu to implement ChatGPT-like Ernie Bot chatbot from March"
+    excerpt: "Baidu Inc., one of China's biggest search and artificial intelligence firms, said Wednesday it plans to implement its artificial"
+    publishedDateTime: 2023-02-21T19:57:00Z
+    webUrl: "https://mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/"
+    ampWebUrl: "https://mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/amp/"
     type: article
     provider:
-      name: Star Beacon
-      domain: starbeacon.com
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 39
+  - title: "AI for Good develops humanitarian projects using ChatGPT and rivals"
+    excerpt: "An NGO called AI For Good is utilizing the immense power of ChatGPT, Bard, Bing, Neeva, and similar programs, to teach"
+    publishedDateTime: 2023-02-23T12:38:00Z
+    webUrl: "https://www.record-eagle.com/ap/national/ai-for-good-develops-humanitarian-projects-using-chatgpt-and-rivals/article_528ff7d9-f9ae-5125-a455-4cfc7f08dcb4.html"
+    type: article
+    provider:
+      name: Traverse City Record-Eagle
+      domain: record-eagle.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/starbeacon.com/content/tncms/custom/image/760622da-825e-11e5-8595-a7eb0b0092f8.jpg?resize=600%2C315"
+      - url: "https://bloximages.chicago2.vip.townnews.com/record-eagle.com/content/tncms/custom/image/1edfec9c-04b0-11ea-80eb-27e1f67b4a63.jpg?resize=600%2C315"
         width: 600
         height: 315
         isCached: true
-  - title: "ChatGPT for marketers ­– replacement or ren-AI-ssance?"
-    excerpt: "Pushing the boundaries of AI can deliver for marketing will have a huge impact on customer experience, productivity, and marketing innovation"
-    publishedDateTime: 2023-02-24T16:47:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/chatgpt-for-marketers--replacement-or-ren-ai-ssance"
+  - title: "Meta launches own version of AI to find fixes to ChatGPT’s dangers"
+    excerpt: "Facebook-owner Meta on Friday unveiled its own version of the artificial intelligence behind apps such as ChatGPT, saying it would give access to researchers to find fixes to the technology’s potential"
+    publishedDateTime: 2023-02-25T04:55:00Z
+    webUrl: "https://www.newagebd.net/article/195314/meta-launches-own-version-of-ai-to-find-fixes-to-chatgpts-dangers"
     type: article
     provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
+      name: New Age
+      domain: newagebd.net
     quality: 39
     images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/025/iStock-815815658.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.newagebd.com/files/records/news/202302/195314_12.jpg"
+        width: 790
+        height: 452
+        isCached: true
+  - title: "ChatGPT and Bing’s AI chatbot are just stupid enough to work"
+    excerpt: "Leave the AI-written content to CNET. As a writer, I was naturally curious to see how good ChatGPT was as a news and opinion writer. Not because I wanted to start cheating and having a bot write for me, but because of self-preservation — how close am I ..."
+    publishedDateTime: 2023-02-24T23:10:00Z
+    webUrl: "https://bgr.com/tech/chatgpt-and-bings-ai-chatbot-are-just-stupid-enough-to-work/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/New-Bing.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "OPINION: To ChatGPT, or to not ChatGPT: Is ChatGPT the new Shakespeare?"
+    excerpt: "Now as one of my professors has noted, ChatGPT is going to be able to write as Shakespeare once did. The new chatbot software launched in November 2022 and has turned the world upside down. OpenAI is the company responsible for the creation of the new ChatGPT."
+    publishedDateTime: 2023-02-20T21:57:00Z
+    webUrl: "https://www.tommiemedia.com/opinion-to-chatgpt-or-to-not-chatgpt-is-chatgpt-the-new-shakespeare/"
+    type: article
+    provider:
+      name: Tommie Media
+      domain: tommiemedia.com
+    quality: 24
+    images:
+      - url: "https://www.tommiemedia.com/wp-content/uploads/2023/02/Graham_ChatGTP.png"
+        width: 1080
+        height: 1080
+        isCached: true
+  - title: "The Rise of AI in Content Creation and Translation: How ChatGPT and DeepL are Revolutionizing eCommerce"
+    excerpt: "In this article, we will explore about AI revolution in eCommerce and the benefits that businesses can expect to see from adopting these new technologies. This phenomenon has had a particular impact on the eCommerce industry."
+    publishedDateTime: 2023-02-20T16:08:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/02/the-rise-of-ai-in-content-creation-and-translation-how-chatgpt-and-deepl-are-revolutionizing-ecommerce/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 23
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Artificial-Intelligence-AI-2-696x452.jpg"
+        width: 696
+        height: 452
         isCached: true
   - title: "Free Talk-to-ChatGPT Chrome extension gives AI a voice"
     excerpt: "“Talk-to-ChatGPT is a Google Chrome extension that allows users to talk with the ChatGPT AI using their voice (speech recognition), and listen to the bot’s answer with a voice (text-to-speech), rather than just by typing.” After receiving the ..."
@@ -360,6 +449,33 @@ related:
       name: Austin American-Statesman
       domain: statesman.com
     quality: 9
+  - title: "ChatGPT is Ruining Our Environment, But There’s a Way to Tackle It"
+    excerpt: "As the ChatGPT hype peaked, so did the sense of reckoning around the carbon footprint that the tool may leave behind."
+    publishedDateTime: 2023-02-23T12:22:00Z
+    webUrl: "https://analyticsindiamag.com/why-the-environmental-cost-of-chatgpt-is-overblown/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 4
+  - title: "China says it sees the potential of ChatGPT-like technology"
+    excerpt: "BEIJING--China's Ministry of Science and Technology said on Friday said it saw the potential of ChatGPT-like tech and would be pushing for the integration of artificial intelligence into Chinese society and the economy."
+    publishedDateTime: 2023-02-24T08:39:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14847406"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 4
+  - title: "How This Guy Wrote a Novel Using ChatGPT Authors Worries About Copyrighting and Plagiarism Issues, but AI Will Give You Better Ideas."
+    excerpt: "Writing a novel is a dream for many people, but it can be a daunting task. From coming up with a plot and developing characters to crafting engaging dialogue and building a world, there are many elements to consider."
+    publishedDateTime: 2023-02-24T17:45:00Z
+    webUrl: "https://techbullion.com/how-this-guy-wrote-a-novel-using-chatgpt-authors-worries-about-copyrighting-and-plagiarism-issues-but-ai-will-give-you-better-ideas/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "5N897+hwThPOmDxJln/ihgfoQA09Vppbb62eZRT/FgHohzMgEfy2jcnSHOII3hoOSxvvRBTn2pGor79gFHoEkB1MepHRZIOahEsNcRijfz42GkEyjSHQXqEeRav437yZXb5DoWD25TNx04isT3L/Wml7uw06nKcFeSvEHqczn8w/kZRTStQRETqHbTL8C2zynTElFPv0cLc2v7VUwSq96oTssYMDhjOXLTAXPZp/pPX8K8NxiasPD8Qmyy8BpErF0AdJmvvMJBSSHC5yvB4fYHQkmwOPyiG24XEKtlb+FQXFnuszYcYpkoKEAAm2oZpk+pwJ+KEwnaWUx2LsdDkCwqX5Wa23raXisTsUJTWR7ZM=;UIF8wdx1GfAMrYgY+oOJpw=="
 ---

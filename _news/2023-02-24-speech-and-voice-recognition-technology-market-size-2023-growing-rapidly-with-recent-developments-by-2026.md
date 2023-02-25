@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+  - title: "Legal Tech Artificial Intelligence Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2028"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Legal Tech Artificial Intelligence Market\" Report covers specified competitive outlook consisting of the market"
+    publishedDateTime: 2023-02-24T23:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2028-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Equipment Market Size with Competitive Landscape, New Projects and Investment Analysis till 2028"
     excerpt: "The “Facial Recognition Equipment Market” Analysis 2023-2027 is a detailed sketch of the business sphere in terms"
     publishedDateTime: 2023-02-24T01:47:00Z

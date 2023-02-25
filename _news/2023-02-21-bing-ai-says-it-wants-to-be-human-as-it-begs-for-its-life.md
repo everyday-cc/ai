@@ -54,15 +54,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "Bing's AI chatbot has a question limit that is more of a problem than a solution"
-    excerpt: "After reports of the Bing chatbot's outlandish behavior, Microsoft has decided to limit the interactions users can have with the bot. Th results are quite annoying."
-    publishedDateTime: 2023-02-20T20:07:00Z
-    webUrl: "https://www.zdnet.com/article/bings-ai-chatbot-has-a-question-limit-that-is-more-of-a-problem-than-a-solution/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 42
   - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
     excerpt: "Microsoft’s Bing search engine can write recipes and songs and explain anything it can find on the internet. But if you cross its artificially intelligent chatbot, it might also insult your looks, threaten your reputation or compare you to Adolf Hitler."
     publishedDateTime: 2023-02-20T23:15:00Z

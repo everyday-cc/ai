@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-24-generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered.md",
+      "title": "Generative AI Like ChatGPT Is Popping Up Everywhere. Your Questions Answered",
+      "excerpt": "A neural network is a type of machine learning system that can be ... may lie in new ways of collaborating with AI to accentuate what both biological and artificial intelligence do best. Simple, really: Information isn't knowledge. LLMs are kind of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/",
+      "originalUrl": "https://www.cnet.com/science/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 448,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/",
+      "publishedDateTime": "2023-02-23T12:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-02-23-deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023.md",
       "title": "Deep Learning Chip Market Size to Reach at Extensive Growth by 2023",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Deep learning chip is an artificial intelligence (AI) device that enables a machine to learn the given tasks and perform them without being explicitly programmed. These chips ...",
@@ -1346,49 +1399,6 @@
       "provider": {
         "name": "openaccessgovernment",
         "domain": "openaccessgovernment.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-new-hybrid-machine-learning-framework-extends-range-of-accurate-epidemic-forecasting.md",
-      "title": "New Hybrid Machine Learning Framework Extends Range of Accurate Epidemic Forecasting",
-      "excerpt": "Community leaders and public health officials may soon have more time to plan for Covid and flu outbreaks thanks to a new machine learning (ML) framework that is improving the accuracy of long-range epidemic forecasting. That is exactly what researchers at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cc.gatech.edu/news/new-hybrid-machine-learning-framework-extends-range-accurate-epidemic-forecasting",
-      "originalUrl": "https://www.cc.gatech.edu/news/new-hybrid-machine-learning-framework-extends-range-accurate-epidemic-forecasting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2023/EINNs%20Charts_0.png",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cc.gatech.edu",
-        "domain": "gatech.edu",
         "images": null,
         "publishers": null,
         "authors": null

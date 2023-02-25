@@ -1,27 +1,25 @@
 ---
 category: news
-title: "AI competition winners announced"
-excerpt: "Hamad bin Khalifa University (HBKU), Qatar Computing Research Institute (QCRI) and Huawei have announced the names of winners"
-publishedDateTime: 2023-02-24T22:02:00Z
-originalUrl: "https://www.gulf-times.com/article/656197/qatar/ai-competition-winners-announced"
-webUrl: "https://www.gulf-times.com/article/656197/qatar/ai-competition-winners-announced"
-ampWebUrl: "https://www.gulf-times.com/article/656197/qatar/ai-competition-winners-announced/amp"
-cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/656197/qatar/ai-competition-winners-announced/amp"
+title: "AI Competition Winners Announced"
+excerpt: "Dr Mounir Hamdi, dean of the College of Science and Engineering at HBKU, said:“The competition recognises the developers who are paving the path for future innovative AI technologies that ... smart cities, Fintech, education, social media platforms ..."
+publishedDateTime: 2023-02-25T04:11:00Z
+originalUrl: "https://menafn.com/1105641901/AI-Competition-Winners-Announced"
+webUrl: "https://menafn.com/1105641901/AI-Competition-Winners-Announced"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Gulf Times
-  domain: gulf-times.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/02/24/11078.jpeg"
+  - url: "https://menafn.com/updates/pr/2023-02/24/GT_6dd43image_story.jpeg"
     width: 1000
     height: 526
     isCached: true
@@ -53,6 +51,6 @@ related:
       domain: datanami.com
     quality: 20
 
-secured: "mp/fdz7PlKJXf3mFNr0XqqzNl93Md0gBBlvP3kWFurCMF6nHYAJ66BPcirjEpfk5GHq91V7mmr5Cv1k8Aefxx9mJUJIVzF0Dq5nIWdYDg6QmMCxQXh23Zd13clTAhGF3CBqsmgBCEf2Ovtq24/JlyNVz1z3C1eyIzFodSmcTnL3G0XVTkkg9lSIx5xY5A1Y9/xc2mNN34EyYjhfPZs5mH6TBZooq1XD4iLxriBxCvaTnOPM0EzYdpmmhfMyBwtQ6BuD3rAZZjK2M/svXWG3SbGkEivxqo2+zBuv7PyxmxdQSmZ0qGWPSp9JZG+HrdREk6mQEgRJedGM6eTaCNvHSbX6BB2DtxihWG/Ra1IGXeWs=;RPz2SA5j8dj5D7AW+l8B/g=="
+secured: "dVLo3YsLZ51U7+2r9YGS2Lz7O9brxInu97mzLJHlDRellhs2ORKNRWz2n3wKnyTlQwtRJFZ4d5J6mJxvpNzxquObDZYzRj0h+WvAkvDi9T/7EN2IX/JzGorXuk0r3yGkX01Z/SC0CBVLMvjx39F/7/y/ApJLg/+irbhr4c86G91rghceuBY0EbB3R6eOhXgm28GeWyAL8Aclv+r5FooQRMjTG0Th1C5BHku58m8D9ix07xk47PzEnjBlFYrLGMeaJ0NJh6o05u+bGjujC261WJ64XxuV1zY5300M15e7QvQxPSA/h2vfOY1pSn5E5D3xmSm2JbGfxFFKTvVZpJkydsi9RxqaJYCC6S8HDy2PHsw=;mRYRPqZime5m7mTF2noaRA=="
 ---
 

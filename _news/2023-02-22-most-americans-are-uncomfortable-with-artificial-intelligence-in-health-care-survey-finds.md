@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
-excerpt: "By Jen Christensen, CNN Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI’s potential to reduce medical mistakes and to eliminate some of the problems doctors may have with racial bias."
+excerpt: "said that his practice is one of many that have been exploring the AI program ChatGPT. His group has set up a committee to look into its uses and to discuss the ethics around using it so the practice could set up guardrails before putting it into clinical ..."
 publishedDateTime: 2023-02-22T15:00:00Z
-originalUrl: "https://ktvz.com/health/cnn-health/2023/02/22/most-americans-are-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds/"
-webUrl: "https://ktvz.com/health/cnn-health/2023/02/22/most-americans-are-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds/"
+originalUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
+webUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
 type: article
-quality: 29
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2023/02/hypatia-h_c4eb4551c0b29cb6edf582a62d81b330-h_117aebfa8535c7c39995830a035645b7-300.jpg"
-    width: 1200
-    height: 675
+  - url: "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -127,6 +131,6 @@ related:
       domain: pewresearch.org
     quality: 3
 
-secured: "oerrVY8CGoN58ZitES8g9Zm8qENwn//RJ1hQ4pMBJxnGepvWxHWO4nVf6rYn7EcSWPoLhTcumTKyHMyKxp/CH9xuXtYzcn9l4ZyGn3ZarR/kvd3WTG2Hfj4BKclMu3TRE3xsJ5NGsF1Ti3YWkcXm3tGcIfS0ghQXJ8yehFOF8G94k4ctjB9GDXkbKmzapLoKXDKYUOxoXKHYl0oHev1ce0e88u7Nw0KiPx4pZDicvsEN59axcqTBZQI3tW5F9E7DrF9RIdahsoJaQ5JJzMBkqbWgEqyUk7VhK/7ASt8Vpzl03FGSTy7KyYImBXouMOyFP/ha/oe2Os21rKyn7OpBrrVYDejAp20N5qHTze41JX3vWAXqZiA81bXANXJrUgCvFXW87LS/maDgFt6Fape1jkhoHd4hFmqE2F5YyGPQurfZAbR1lo8h+5MMI5BmfzlUuKM9wY0oLMy+hQLrIgYQjEr6SFgvO+nA5M5hmXs2oYBXk5YFYmSGx10SKhEtT2HGgd+9UAhKFoVItRklwxRS8A==;eUIcZ3kaLcYVkstnP6PYOQ=="
+secured: "TAPCskPMmtJO9uEaB7w0pz7C0za4S7JN1lPxsppc3fFDYFY0ZVvrjFxmqFHpj0kpmkr/PoZGfuHIWaO6QHhYFrvlAsnsEamMRmIVPIIkwWkSGfrFO2AswKaynWIRSqBx86BF9A5UGyTAa20vnOSznS/fzO3XkuB90w9y+5FZrmSsPzD8gsSSsQDn15kA7iaXfsmkeDqJ6NKkxA0jMSwxMvfBw5UEJCExjM4F11nuEfWwkR/qQCw45lvTSipVRVG15v2ZpaMVHVNGTezUv/lzQyikfVe8EMALSaLQO993ll7eOffJ2GqVCVu8RmzzCkkemD0BfRaLsfNSKPgwxhsP0jkGBDfljs2MQxsrNadhgDk=;tKlXhsuIIV+KXi6ayRzeLA=="
 ---
 

@@ -35,19 +35,17 @@ related:
         width: 2500
         height: 1668
         isCached: true
-  - title: "AI competition winners announced"
-    excerpt: "Hamad bin Khalifa University (HBKU), Qatar Computing Research Institute (QCRI) and Huawei have announced the names of winners"
-    publishedDateTime: 2023-02-24T22:02:00Z
-    webUrl: "https://www.gulf-times.com/article/656197/qatar/ai-competition-winners-announced"
-    ampWebUrl: "https://www.gulf-times.com/article/656197/qatar/ai-competition-winners-announced/amp"
-    cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/656197/qatar/ai-competition-winners-announced/amp"
+  - title: "AI Competition Winners Announced"
+    excerpt: "Dr Mounir Hamdi, dean of the College of Science and Engineering at HBKU, said:“The competition recognises the developers who are paving the path for future innovative AI technologies that ... smart cities, Fintech, education, social media platforms ..."
+    publishedDateTime: 2023-02-25T04:11:00Z
+    webUrl: "https://menafn.com/1105641901/AI-Competition-Winners-Announced"
     type: article
     provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 59
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/02/24/11078.jpeg"
+      - url: "https://menafn.com/updates/pr/2023-02/24/GT_6dd43image_story.jpeg"
         width: 1000
         height: 526
         isCached: true

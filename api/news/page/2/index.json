@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-24-generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered.md",
+      "title": "Generative AI Like ChatGPT Is Popping Up Everywhere. Your Questions Answered",
+      "excerpt": "A neural network is a type of machine learning system that can be ... may lie in new ways of collaborating with AI to accentuate what both biological and artificial intelligence do best. Simple, really: Information isn't knowledge. LLMs are kind of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/",
+      "originalUrl": "https://www.cnet.com/science/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 448,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/",
+      "publishedDateTime": "2023-02-23T12:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise.md",
+      "title": "IBM’s Cloud AI Supercomputer Vela Builds AI Foundation Models For Enterprise",
+      "excerpt": "The recent publicity around ChatGPT and other large language models (LLM) has brought attention to the use of foundation models as a fundamental business tool. IBM Research developed its own AI supercomputer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/amp/",
+      "publishedDateTime": "2023-02-23T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-sci-fi-magazine-halts-new-submissions-after-a-surge-in-ai-written-stories.md",
+      "title": "Sci-fi magazine halts new submissions after a surge in AI-written stories",
+      "excerpt": "Sci-fi and fantasy magazine Clarkesworld has been forced to temporarily suspend taking new submissions after receiving a flood of AI-generated stories. Clarkesworld founder Neil Clarke details the site's plight around detecting plagiarism and AI-generated stories,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/sci-fi-magazine-halts-new-submissions-after-a-surge-in-ai-written-stories/",
+      "originalUrl": "https://www.zdnet.com/article/sci-fi-magazine-halts-new-submissions-after-a-surge-in-ai-written-stories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sci-fi-magazine-halts-new-submissions-after-a-surge-in-ai-written-stories/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sci-fi-magazine-halts-new-submissions-after-a-surge-in-ai-written-stories/",
+      "publishedDateTime": "2023-02-23T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-23-the-case-for-software-criticism.md",
       "title": "The Case for Software Criticism",
       "excerpt": "Software may be the defining cultural artifact of our time. So why isn’t there a culture of critical analysis around it?",
@@ -113,7 +251,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/02/23/warren-buffetts-5-top-ai-stocks-heres-why-you-shou/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -558,7 +696,7 @@
       "originalUrl": "https://www.zdnet.com/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -730,7 +868,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -968,7 +1106,7 @@
       "originalUrl": "https://www.theregister.com/2023/02/22/microsoft_chatgpt_robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1044,128 +1182,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-the-nonprofits-accelerating-sam-altmans-ai-vision.md",
-      "title": "The nonprofits accelerating Sam Altman’s AI vision",
-      "excerpt": "Sam Altman, one of the founders of OpenAI, has a web of overlapping investments and nonprofits. Here's where he is putting his money.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/",
-      "originalUrl": "https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/amp/",
-      "publishedDateTime": "2023-02-21T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-the-best-presidents-day-robot-vacuum-deals-you-can-still-get-in-2023.md",
-      "title": "The best Presidents Day robot vacuum deals you can still get in 2023",
-      "excerpt": "While this more affordable Jet Bot+ robot vacuum by Samsung doesn't feature 3D recognition with AI, it does have LiDAR sensor navigation ... app to control your appliance from your smartphone. Start cycles, check time remaining and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
-      "originalUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/18/4e542c82-4239-402b-b2b7-94905fbed0cc/thumbnail/620x349/790b7cbe147c5208ff529d0cf05e9357/eufy-by-anker-robot-vacuum-g32-pro.jpg#",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
-      "publishedDateTime": "2023-02-21T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai.md",
-      "title": "Deep Learning Robotics (DLR) Awarded New Patent for Revolutionary Technology in Robotics and AI",
-      "excerpt": "Deep Learning Robotics (DLR), a leading innovator in the field of robotics and artificial intelligence, announced at the AI Week in Tel-Aviv the grant of a new patent for",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30993121/deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30993121/deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30993121",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30993121",
-      "publishedDateTime": "2023-02-21T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

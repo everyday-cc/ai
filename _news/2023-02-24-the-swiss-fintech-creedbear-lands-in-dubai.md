@@ -33,20 +33,6 @@ related:
         width: 768
         height: 1024
         isCached: true
-  - title: "UK FinTech investment down by 'almost 60%' in 2022"
-    excerpt: "Investment in the UK’s FinTech sector slumped by almost 60 per cent in 2022, according to new research. <br /> <br /> KPMG’s study found that 593 UK FinTech deals were completed in 2022, down from 724 in 2021,"
-    publishedDateTime: 2023-02-20T12:38:00Z
-    webUrl: "https://www.fstech.co.uk/fst/UK_FinTech_investment_down_by_almost_60_in_2022.php"
-    type: article
-    provider:
-      name: fstech
-      domain: fstech.co.uk
-    quality: 24
-    images:
-      - url: "https://www.fstech.co.uk/fst/images/coin-stack-money-retire-office-m.jpg"
-        width: 4096
-        height: 2304
-        isCached: true
   - title: "Artificial Intelligence In Agtech Is Blooming"
     excerpt: "Netherlands-based Source.ag has raised $23 million for its AI platform that predicts the best growing conditions for greenhouse plants."
     publishedDateTime: 2023-02-23T20:27:00Z

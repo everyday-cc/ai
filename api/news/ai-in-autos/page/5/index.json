@@ -2,6 +2,83 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-01-self-driving-bus-project-to-test-journeys-without-staff-on-board.md",
+      "title": "Self-driving bus project to test journeys without staff on board",
+      "excerpt": "A project developing what the Government believes will be the world’s first full-size self-driving bus service will test if smaller vehicles can operate without a staff member on board.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/self-driving-bus-project-test-090554411.html",
+      "originalUrl": "https://www.aol.com/self-driving-bus-project-test-090554411.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/NhlezHhPYgc6MBQsjv_XFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/41e76b554f0d9f59fe32c74991140f42",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T01:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-autonomous-vehicles-pick-up-pace-in-beijing.md",
+      "title": "Autonomous vehicles pick up pace in Beijing",
+      "excerpt": "Moreover, the company is collaborating with SAIC artificial intelligence lab, a division of auto manufacturer SAIC Motor, to jointly explore and advance driverless technology. Market boom Data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/business/business-news/2023/01/05/autonomous-vehicles-pick-up-pace-in-beijing",
+      "originalUrl": "https://www.thestar.com.my/business/business-news/2023/01/05/autonomous-vehicles-pick-up-pace-in-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-smart-cars-set-to-drive-auto-industrys-development.md",
       "title": "Smart cars set to drive auto industry's development",
       "excerpt": "Edward Wang, managing director of syndicated research at J.D. Power China, which focuses on consumer insights, data and analytics, said smart features and exciting onboard experiences are becoming increasingly important factors when people are deciding to buy a new car.",
@@ -1309,101 +1386,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-co-bill-that-suggests-using-artificial-intelligence-to-help-detect-wildfires-moves-forward-in-legislature.md",
-      "title": "CO bill that suggests using artificial intelligence to help detect wildfires moves forward in Legislature",
-      "excerpt": "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million wildfire prevention program, which may use artificial intelligence to identify fires early.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature",
-      "originalUrl": "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bde9982c-2a76-46f7-b0b5-c18e3df1c055/29e73dbf-bb1f-476b-a5bc-48b588c0eb99/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/co-bill-suggests-using-artificial-intelligence-help-detect-wildfires-moves-forward-legislature.amp",
-      "publishedDateTime": "2023-01-27T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks.md",
-      "title": "Artificial intelligence in South Africa comes with special dilemmas – plus the usual risks",
-      "excerpt": "Artificial Intelligence comes with a litany of ethical risks and dilemmas. Some are universal, but some are unique to particular countries, like South Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html",
-      "originalUrl": "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.modernghana.com/images/content/1272023123738-0g730m4yxs-file-20230106-13-750vf8.jpg",
-          "width": 800,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernghana.com/amp/news/1208405/artificial-intelligence-in-south-africa-comes-with.html",
-      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1208405/artificial-intelligence-in-south-africa-comes-with.html",
-      "publishedDateTime": "2023-01-27T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernghana.com",
-        "domain": "modernghana.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,128 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-22-the-nonprofits-accelerating-sam-altmans-ai-vision.md",
+      "title": "The nonprofits accelerating Sam Altman’s AI vision",
+      "excerpt": "Sam Altman, one of the founders of OpenAI, has a web of overlapping investments and nonprofits. Here's where he is putting his money.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/",
+      "originalUrl": "https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/amp/",
+      "publishedDateTime": "2023-02-21T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-the-best-presidents-day-robot-vacuum-deals-you-can-still-get-in-2023.md",
+      "title": "The best Presidents Day robot vacuum deals you can still get in 2023",
+      "excerpt": "While this more affordable Jet Bot+ robot vacuum by Samsung doesn't feature 3D recognition with AI, it does have LiDAR sensor navigation ... app to control your appliance from your smartphone. Start cycles, check time remaining and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
+      "originalUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/18/4e542c82-4239-402b-b2b7-94905fbed0cc/thumbnail/620x349/790b7cbe147c5208ff529d0cf05e9357/eufy-by-anker-robot-vacuum-g32-pro.jpg#",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
+      "publishedDateTime": "2023-02-21T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai.md",
+      "title": "Deep Learning Robotics (DLR) Awarded New Patent for Revolutionary Technology in Robotics and AI",
+      "excerpt": "Deep Learning Robotics (DLR), a leading innovator in the field of robotics and artificial intelligence, announced at the AI Week in Tel-Aviv the grant of a new patent for",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30993121/deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30993121/deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30993121",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30993121",
+      "publishedDateTime": "2023-02-21T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-21-neuromorphic-camera-and-machine-learning-aid-nanoscopic-imaging.md",
       "title": "Neuromorphic camera and machine learning aid nanoscopic imaging",
       "excerpt": "Their novel technique, which combines optical microscopy with a neuromorphic camera and machine learning algorithms, presents a major step forward in pinpointing objects smaller than 50 nanometers ...",
@@ -364,57 +486,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-21-how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks.md",
-      "title": "How Blackbird AI is striking back at ChatGPT and AI-based attacks",
-      "excerpt": "Blackbird AI announces the launch of an AI assistant for security analysts, which uses generative AI to create mitigation guidance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/",
-      "originalUrl": "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 357,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/image0.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/amp/",
-      "publishedDateTime": "2023-02-20T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-20-fine-tune-text-to-image-stable-diffusion-models-with-amazon-sagemaker-jumpstart.md",
       "title": "Fine-tune text-to-image Stable Diffusion models with Amazon SageMaker JumpStart",
       "excerpt": "In November 2022, we announced that AWS customers can generate images from text with Stable Diffusion models in Amazon SageMaker JumpStart. Stable Diffusion is a deep learning model that allows you to generate realistic, high-quality images and stunning art in just a few seconds. Although creating impressive",
@@ -518,7 +589,7 @@
       "originalUrl": "https://www.engadget.com/sony-ai-racing-gt-sophy-gran-turismo-7-limited-time-ps5-140054394.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -609,6 +680,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-20-amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road.md",
+      "title": "Amazon's self-driving unit Zoox puts driverless taxi on the road",
+      "excerpt": "Zoox, an Amazon-owned company, has begun testing its driverless taxis on public ... MARS conference on robotics and artificial intelligence at the Aria Hotel in Las Vegas, Nevada.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html",
+      "originalUrl": "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/3f/43ff8c82-e6aa-548e-a507-ebb884546010/63f1b9da8623d.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-20T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1061,165 +1175,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-2-top-ai-stocks-ready-for-a-bull-run.md",
-      "title": "2 Top AI Stocks Ready for a Bull Run",
-      "excerpt": "Nvidia announced in November that it was teaming up with Microsoft to build a massive cloud AI computer, a multiyear partnership that will take advantage of Microsoft's Azure cloud infrastructure and Nvidia's GPUs. The move should help ensure that Nvidia ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/19/2-top-ai-stocks-ready-for-a-bull-run/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/19/2-top-ai-stocks-ready-for-a-bull-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/721046/artificial-intelligence-investing-algorithms.jpg",
-          "width": 8660,
-          "height": 5773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-19T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-cloud-ai-developer-services-market-set-for-huge-industry-growth-by-2026-reports-and-data.md",
-      "title": "Cloud AI Developer Services Market Set for Huge Industry Growth by 2026| Reports and Data",
-      "excerpt": "The “Cloud AI Developer Services market” has witnessed significant growth in recent years, and this trend is expected",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-set-for-huge-industry-growth-by-2026-reports-and-data-2023-02-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-set-for-huge-industry-growth-by-2026-reports-and-data-2023-02-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-19T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-artificial-intelligence-ai-in-education-market-size-global-research-report-2023-2029.md",
-      "title": "Artificial Intelligence (AI) in Education Market Size Global Research Report, 2023 - 2029",
-      "excerpt": "Insights] Top “Artificial Intelligence (AI) in Education Market” Size 2023 Key players Profiled in the Report are",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-global-research-report-2023---2029-2023-02-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-global-research-report-2023---2029-2023-02-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 372,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-19T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

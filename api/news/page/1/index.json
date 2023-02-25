@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-25-artificial-intelligence-applications-in-investing.md",
+      "title": "Artificial Intelligence Applications In Investing",
+      "excerpt": "Artificial intelligence can make investing more straightforward, bringing investment insights to the masses. Here’s how you can use AI to build your portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f978e9df3e33323a36e753/0x0.jpg?format=jpg&width=1200",
+          "width": 1188,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/",
+      "publishedDateTime": "2023-02-24T17:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-these-ai-generated-images-of-climate-change-make-me-uncomfortable.md",
       "title": "These AI-Generated Images of Climate Change Make Me Uncomfortable",
       "excerpt": "We may earn a commission from links on this page. It’s getting harder to avoid AI-generated images and text—and harder to spot them in the first place—and that’s true even on Shutterstock, one of the world’s leading providers of stock photography.",
@@ -34,6 +86,48 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-leaked-messages-show-googlers-are-taking-out-their-frustrations-over-layoffs-on-its-new-bard-ai-chatbot.md",
+      "title": "Leaked messages show Googlers are taking out their frustrations over layoffs on its new Bard AI chatbot",
+      "excerpt": "\"I'd tell you a joke about layoffs at Google, but I'm afraid I wouldn't have a job tomorrow,\" Bard said when asked to tell a joke about the layoffs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2",
+      "originalUrl": "https://www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2?amp",
+      "publishedDateTime": "2023-02-24T14:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -304,7 +398,7 @@
       "originalUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -503,58 +597,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-24-the-implications-of-chatgpt-on-cybercrime.md",
-      "title": "The Implications Of ChatGPT On Cybercrime",
-      "excerpt": "Researchers at CyberArk demonstrated how ChatGPT can be easily abused to create polymorphic malware that is highly evasive as well as difficult to detect. Every time researchers queried ChatGPT, they received a unique piece of code that could be used to create numerous mutations of the same malware program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f767765a57e6cb05093b42/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/",
-      "publishedDateTime": "2023-02-24T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-24-ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone.md",
       "title": "AI art generator: Qualcomm gets Stable Diffusion running on a smartphone",
       "excerpt": "As smartphones become increasingly capable, more workloads are moving on-device and off the cloud. Qualcomm's MWC demo showcases the work of its AI research team.",
@@ -614,7 +656,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -771,7 +813,7 @@
       "originalUrl": "https://www.geekwire.com/2023/gaming-opportunities-for-investors-in-2023-generative-ai-low-code-metaverse-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1002,6 +1044,48 @@
       ]
     },
     {
+      "path": "_news/2023-02-24-how-generative-ai-is-changing-game-development-and-ugc.md",
+      "title": "How generative AI is changing game development (and UGC)",
+      "excerpt": "Generative AI is iterating on existing uses of AI in game development and content creation. But how much should it be used for?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/",
+      "originalUrl": "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/amp/",
+      "publishedDateTime": "2023-02-23T17:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-data-and-ai-ethics-market-size-2023-will-projected-to-grow-with-statistics-forecasts-till-2029.md",
       "title": "Data and AI Ethics Market Size 2023 will Projected to Grow with Statistics, Forecasts till 2029",
       "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
@@ -1010,7 +1094,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-projected-to-grow-with-statistics-forecasts-till-2029-2023-02-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -1144,91 +1228,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise.md",
-      "title": "IBM’s Cloud AI Supercomputer Vela Builds AI Foundation Models For Enterprise",
-      "excerpt": "The recent publicity around ChatGPT and other large language models (LLM) has brought attention to the use of foundation models as a fundamental business tool. IBM Research developed its own AI supercomputer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/amp/",
-      "publishedDateTime": "2023-02-23T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-sci-fi-magazine-halts-new-submissions-after-a-surge-in-ai-written-stories.md",
-      "title": "Sci-fi magazine halts new submissions after a surge in AI-written stories",
-      "excerpt": "Sci-fi and fantasy magazine Clarkesworld has been forced to temporarily suspend taking new submissions after receiving a flood of AI-generated stories. Clarkesworld founder Neil Clarke details the site's plight around detecting plagiarism and AI-generated stories,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/sci-fi-magazine-halts-new-submissions-after-a-surge-in-ai-written-stories/",
-      "originalUrl": "https://www.zdnet.com/article/sci-fi-magazine-halts-new-submissions-after-a-surge-in-ai-written-stories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sci-fi-magazine-halts-new-submissions-after-a-surge-in-ai-written-stories/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sci-fi-magazine-halts-new-submissions-after-a-surge-in-ai-written-stories/",
-      "publishedDateTime": "2023-02-23T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,160 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-02-09-an-ai-engineer-has-now-designed-100-chips.md",
+      "title": "An AI ‘Engineer’ Has Now Designed 100 Chips",
+      "excerpt": "Lurking inside your next gadget may be a chip unlike those of the past. People used to do all the complex silicon design work, but for the first time, AI is helping to build new chips for data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/extreme/342959-an-ai-engineer-has-now-designed-100-chips",
+      "originalUrl": "https://www.extremetech.com/extreme/342959-an-ai-engineer-has-now-designed-100-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-how-ai-and-facial-recognition-can-chill-access-to-justice.md",
+      "title": "How AI and Facial Recognition Can Chill Access to Justice",
+      "excerpt": "Madison Square Garden Entertainment Corp. recently drew considerable criticism over its use of facial recognition technology to identify opposing counsel and prevent their access to its properties and entertainment venues. The entertainment conglomerate ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
+      "originalUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/a243ca6/2147483647/crop/3998x1537%2B0%2B43/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F8e%2Fcc%2F8e7878e54eb2b39aed060426b5ec%2Fmadison-square-garden.jpg",
+          "width": 960,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.bloomberglaw",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-cognitive-screening-unevenly-documented-across-post-acute-care-settings-study.md",
+      "title": "Cognitive screening unevenly documented across post-acute care settings: study",
+      "excerpt": "There is wide variation across post-acute care settings in the documentation of cognitive screening and assessments, a new study has found. The industry could improve care coordination with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mcknights.com/news/clinical-news/cognitive-screening-unevenly-documented-across-post-acute-care-settings-study/",
+      "originalUrl": "https://www.mcknights.com/news/clinical-news/cognitive-screening-unevenly-documented-across-post-acute-care-settings-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T21:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "McKnight's Long-Term Care News",
+        "domain": "mcknights.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-amex-microsoft-collaborate-on-expense-automation.md",
+      "title": "Amex, Microsoft Collaborate on Expense Automation",
+      "excerpt": "American Express is working with Microsoft to develop a more automated expense-reporting process built from Microsoft Cloud and AI technologies, the companies announced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstravelnews.com/Payment-Expense/Amex-Microsoft-Collaborate-on-Expense-Automation",
+      "originalUrl": "https://www.businesstravelnews.com/Payment-Expense/Amex-Microsoft-Collaborate-on-Expense-Automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ik.imgkit.net/3vlqs5axxjf/BTN/uploadedImages/2015_Site_Maintenance/BTN_OGImage.jpg?tr=w-1200%2Cfo-auto",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Travel News",
+        "domain": "businesstravelnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-chung-ang-university-researchers-review-deep-learning-based-methods-to-detect-time-series-data-anomaly.md",
       "title": "Chung-Ang University researchers review deep learning-based methods to detect time series data anomaly",
       "excerpt": "Unusual observations or anomalies in recorded data are common. Detection of such anomalies has applications in identifying credit card frauds, industrial intrusion, weather changes, medical seizures,",
@@ -884,178 +1038,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-the-plateauing-of-cognitive-ability-among-top-earners.md",
-      "title": "The plateauing of cognitive ability among top earners",
-      "excerpt": "The researchers combine wage data from Swedish population registers with scores from cognitive ability tests taken from military conscripts at age 18-19. \"This data trove permits us to test ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "originalUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/executive.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "publishedDateTime": "2023-02-08T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-researchers-review-deep-learning-based-methods-to-detect-time-series-data-anomaly.md",
-      "title": "Researchers review deep learning-based methods to detect time series data anomaly",
-      "excerpt": "This is known as \"anomaly detection\" and is performed using data mining techniques. Although deep learning methods have been extensively applied in anomaly detection, there is no one-size-fits-all technique that works for multiple applications across a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.html",
-      "originalUrl": "https://techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/chung-ang-university-r-2.jpg",
-          "width": 940,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-deep-learning-based-methods-series-anomaly.amp",
-      "publishedDateTime": "2023-02-08T14:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-google-shows-off-ai-advancements-in-search-results-and-beyond.md",
-      "title": "Google Shows Off AI Advancements, in Search Results and Beyond",
-      "excerpt": "Next month, Google said it will begin onboarding developers to interact with its generative language ... AI-powered text search, Google introduced a whole suite of other improvements and expansions to existing features in visual search, Maps, and translation.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-ai-bard-maps-chatgpt-microsoft-1850087406",
-      "originalUrl": "https://gizmodo.com/google-ai-bard-maps-chatgpt-microsoft-1850087406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8d07e7fe131d628a3da602b3f6730e1e.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-artificial-intelligence-is-being-studied-to-improve-cancer-care.md",
-      "title": "Artificial Intelligence is being studied to improve cancer care",
-      "excerpt": "BOSTON - Artificial intelligence has been in the headlines a lot recently and there are two new ways it's being studied to help improve lung and breast cancer care. Lung cancer kills more people worldwide than the three next deadliest cancers combined ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/boston/news/artificial-intelligence-studied-improve-cancer-care/",
-      "originalUrl": "https://www.cbsnews.com/boston/news/artificial-intelligence-studied-improve-cancer-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T13:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

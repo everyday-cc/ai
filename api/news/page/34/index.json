@@ -2,6 +2,187 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-02-02-asda-and-hvs-to-work-on-driverless-hydrogen-hgv-in-world-first.md",
+      "title": "Asda and HVS to work on driverless hydrogen HGV in world first",
+      "excerpt": "Through sensor technology, cameras, and artificial intelligence, it is hoped the vehicle will operate with a remote driver for some journeys. HVS hopes the vehicles can help with issues in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/asda-and-hvs-to-work-on-driverless-hydrogen-hgv-in-world-first-12800586",
+      "originalUrl": "https://news.sky.com/story/asda-and-hvs-to-work-on-driverless-hydrogen-hgv-in-world-first-12800586",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden.md",
+      "title": "Trump aide Hope Hicks joins Dolan team amid controversy over facial recognition at Madison Square Garden",
+      "excerpt": "MSG boss Dolan has come under fire for removing lawyers whose firm is involved in litigation against his company from the Garden and from Radio City",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing",
+      "originalUrl": "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T10:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-scaling-distributed-training-with-aws-trainium-and-amazon-eks.md",
+      "title": "Scaling distributed training with AWS Trainium and Amazon EKS",
+      "excerpt": "Recent developments in deep learning have led to increasingly large models such as GPT-3, BLOOM, and OPT, some of which are already in excess of 100 billion parameters. Although larger models tend to be more powerful, training such models requires significant computational resources. Even with the use",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-distributed-training-with-aws-trainium-and-amazon-eks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-distributed-training-with-aws-trainium-and-amazon-eks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/01/trainium-eks.jpg",
+          "width": 1568,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T09:52:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration.md",
+      "title": "HP Poly Unveils Mini Conferencing PC And Other Microsoft Teams-Certified Solutions For Hybrid Work Collaboration",
+      "excerpt": "Vice President and Principal Analyst, Melody Brue, gives her analysis of Poly's new Mini Conferencing Microsoft Teams-certified solutions that address hybrid work collaboration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63dab362eaa2b55cc39afec2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/01/hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration/amp/",
+      "publishedDateTime": "2023-02-01T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-02-artificial-intelligence-in-healthcare-market-growth-outlook-research-insights-sales-statistics-and-size-projection-by-2030.md",
       "title": "Artificial Intelligence in Healthcare Market Growth Outlook, Research Insights, Sales Statistics and Size Projection by 2030",
       "excerpt": "Artificial Intelligence in Healthcare Market Research Report: Information By Component (Hardware, Software, Services), Application (Robot-Assisted Surgery, Virtual ...",
@@ -995,186 +1176,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-gpu-prices-and-availability-january-2023-how-much-are-gpus-today.md",
-      "title": "GPU prices and availability (January 2023): how much are GPUs today?",
-      "excerpt": "The GPU shortage is over, and gamers around the world can breathe a sigh of relief. For those in the market for one of the best graphics cards, we closely looked at graphics card prices and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
-      "originalUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-clickbait-or-creativity-the-art-world-wrestles-with-ai.md",
-      "title": "Clickbait Or Creativity? The Art World Wrestles With AI",
-      "excerpt": "Online tools that can create wonderful, absurd and sometimes horrifying images using artificial intelligence (AI) have exploded in popularity, sparking soul-searching over the nature of art.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010",
-      "originalUrl": "https://www.barrons.com/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP3449580022236755445739987449664002665713-us-art-basel-miami-beach-vip-preview-2021-1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010",
-      "publishedDateTime": "2023-01-31T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop.md",
-      "title": "SK Hynix posts first loss in 10 years from memory chip price drop",
-      "excerpt": "South Korean memory chipmaker SK Hynix recorded its first operating loss in ten years during the fourth quarter last year from sluggish demand and the steep drop in the price of memory chips. The company said on Wednesday that it recorded 7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop/",
-      "originalUrl": "https://www.zdnet.com/article/sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1957bb0a8c3e7d31547ba8cbd2687325ff7976f0/2021/07/12/fe6f3bca-c7f0-4093-90bf-6b7c74d4b3a9/figure-1-sk-hynix-starts-mass-production-of-1anm-dram-using-euv-equipment.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sk-hynix-posts-first-loss-in-10-years-from-memory-chip-price-drop/",
-      "publishedDateTime": "2023-01-31T19:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-the-brave-new-world-of-artificial-intelligence.md",
-      "title": "The Brave New World of Artificial Intelligence",
-      "excerpt": "As a journalist and commentator, I have closely followed the development of OpenAI, the artificial intelligence research lab founded by Elon Musk, Sam",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.html",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/60/600942_5_.jpeg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2023/01/30/the_brave_new_world_of_artificial_intelligence_148786.amp.html",
-      "publishedDateTime": "2023-01-31T19:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

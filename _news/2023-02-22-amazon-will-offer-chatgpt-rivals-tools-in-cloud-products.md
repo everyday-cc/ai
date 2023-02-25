@@ -21,47 +21,26 @@ topics:
   - AI
 
 related:
-  - title: "The Implications Of ChatGPT On Cybercrime"
-    excerpt: "Researchers at CyberArk demonstrated how ChatGPT can be easily abused to create polymorphic malware that is highly evasive as well as difficult to detect. Every time researchers queried ChatGPT, they received a unique piece of code that could be used to create numerous mutations of the same malware program."
-    publishedDateTime: 2023-02-24T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/"
+  - title: "Sure, Microsoft, let's put ChatGPT in control of robots"
+    excerpt: "ChatGPT is a large language model (LLM) trained on the OpenAI GPT (Generative Pre-trained Transformer) dataset, which consists of text scraped from the web and other sources. Wedded with a chat interface,"
+    publishedDateTime: 2023-02-22T07:30:00Z
+    webUrl: "https://www.theregister.com/2023/02/22/microsoft_chatgpt_robots/"
+    ampWebUrl: "https://www.theregister.com/AMP/2023/02/22/microsoft_chatgpt_robots/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/02/22/microsoft_chatgpt_robots/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63f767765a57e6cb05093b42/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Baidu to implement ChatGPT-like Ernie Bot chatbot from March"
-    excerpt: "Baidu Inc., one of China's biggest search and artificial intelligence firms, said Wednesday it plans to implement its artificial"
-    publishedDateTime: 2023-02-21T19:57:00Z
-    webUrl: "https://mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/"
-    ampWebUrl: "https://mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/amp/"
+      name: theregister
+      domain: theregister.com
+    quality: 56
+  - title: "Microsoft rolled out its deranged Bing Chat AI in India 4 months ago, and no one noticed"
+    excerpt: "call into question Microsoft’s ethics in releasing Bing Chat so early. New evidence shows that Microsoft publicly tested Bing Chat (codenamed ‘Sidney’) in November in India. Moreover, there were already documented complaints about the AI going loopy ..."
+    publishedDateTime: 2023-02-21T23:17:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/microsoft-rolled-out-its-deranged-bing-chat-ai-in-india-4-months-ago-and-no-one-noticed"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 39
-  - title: "OPINION: To ChatGPT, or to not ChatGPT: Is ChatGPT the new Shakespeare?"
-    excerpt: "Now as one of my professors has noted, ChatGPT is going to be able to write as Shakespeare once did. The new chatbot software launched in November 2022 and has turned the world upside down. OpenAI is the company responsible for the creation of the new ChatGPT."
-    publishedDateTime: 2023-02-20T21:57:00Z
-    webUrl: "https://www.tommiemedia.com/opinion-to-chatgpt-or-to-not-chatgpt-is-chatgpt-the-new-shakespeare/"
-    type: article
-    provider:
-      name: Tommie Media
-      domain: tommiemedia.com
-    quality: 24
-    images:
-      - url: "https://www.tommiemedia.com/wp-content/uploads/2023/02/Graham_ChatGTP.png"
-        width: 1080
-        height: 1080
-        isCached: true
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 27
   - title: "Amazon’s cloud unit partners with Hugging Face, maker of ChatGPT rival"
     excerpt: "These customers will now be able to access Hugging Face AI tools through Amazon’s SageMaker program. Additionally Hugging Face’s software developers can use Amazon’s cloud computing power and its chips designed for artificial intelligence tasks."
     publishedDateTime: 2023-02-21T21:54:00Z
@@ -73,14 +52,14 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
-  - title: "China says it sees the potential of ChatGPT-like technology"
-    excerpt: "BEIJING--China's Ministry of Science and Technology said on Friday said it saw the potential of ChatGPT-like tech and would be pushing for the integration of artificial intelligence into Chinese society and the economy."
-    publishedDateTime: 2023-02-24T08:39:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14847406"
+  - title: "Meta Steps Up Chatbot Buzz, Announces Research Tool LLaMA as Rival to Microsoft's ChatGPT, Google's LaMDA"
+    excerpt: "LLaMA is Meta’s latest entry in the realm of large language models, which “have shown a lot of promise in generating text, having conversations...\""
+    publishedDateTime: 2023-02-24T19:07:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/meta-chatbot-buzz-new-tool-training-ai-systems-llama-google-microsoft-chatgpt-lamda-3812598"
     type: article
     provider:
-      name: 朝日新聞社
-      domain: asahi.com
+      name: gadgets360
+      domain: gadgets360.com
     quality: 4
 
 secured: "2J7w9HwQGkjCSzdpPfuTXNmH6Fv3r/U/73DAYgrfxF9hfUajLdn7/iNElUC9lOORbYwkIJoZGUA9UoqrBM24pNPNOLjq6OVDf1jSsdgY+ZFygEeF37nZIKjhCP4QApmK6PrJQkaxl5AK0OfJKXJ19CuG1sGIfnT7JSHTy6Uo1gVyV1C78+J4T2HAySBbNMXg4aWZGGeBoCqgBBIMnmclgwWKiByOYhrCsh7eoa8wa1fJvVKDKTC9gMm4h7wuFvvUQ/5wJhMYsoIYyL38yahWs8+8shh/uF01QF+d398aff+toBRI+SZx0T0eHjHIyE48AUn8sVh8tPsK1C6Dd+SYJVllRMAOYMrI9XAO4AEPniARuWdD/jJ6E2wrEqZwd6tVHoaFShf2hjEueL3ljcXgYk/dRzQ+wdblM/NJiTMMsgRq5DeJKlkH8WkO4nwxiaXD1oNFNSdR3aAzlHxqJn02ETtNbA4sR5UWuN1k0q2A5vLKmh5ZIwEVqv594RUlWYBbDLuD3kARoruWzSyjn8SJvA==;Srn1p2owF9BMczLJrp43Tg=="

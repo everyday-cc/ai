@@ -2,6 +2,179 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-12-10-popballoons-the-first-serious-mixed-reality-game-for-autistic-children.md",
+      "title": "Pop'Balloons: The first serious mixed-reality game for autistic children",
+      "excerpt": "Demand for mental health assessment and intervention is soaring; available services are stretched to the limit, centralized and difficult for many to access. This is particularly true for children with autism spectrum disorder (ASD).",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/popballoons-the-first.jpg",
+          "width": 795,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-popballoons-mixed-reality-game-autistic-children.amp",
+      "publishedDateTime": "2022-12-09T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-aws-think-big-space-opens-at-jl-simpson-middle-school.md",
+      "title": "AWS Think Big Space Opens at J.L. Simpson Middle School",
+      "excerpt": "Amazon Web Services newest Think Big Space in Virginia opened Thursday at J.L. Simpson Middle School in Leesburg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.loudounnow.com/news/aws-think-big-space-opens-at-j-l-simpson-middle-school/article_f45303a6-77ed-11ed-80a3-ef7d0518accf.html",
+      "originalUrl": "https://www.loudounnow.com/news/aws-think-big-space-opens-at-j-l-simpson-middle-school/article_f45303a6-77ed-11ed-80a3-ef7d0518accf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/loudounnow.com/content/tncms/assets/v3/editorial/3/45/34546c42-77ee-11ed-9a04-7bf4ebdb1708/63937d0695d91.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Loudoun Now",
+        "domain": "loudounnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.md",
+      "title": "John Tory at his wussiest, plus Justin Trudeau’s cognitive dissonance on foreign policy",
+      "excerpt": "Does the PM have foreign policy cognitive dissonance? It’s true Canada has a new policy in Asia, the Indo-Pacific strategy, based on China being an “increasingly disruptive” force not just ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/opinion/contributors/2022/12/09/john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.html",
+      "originalUrl": "https://www.thestar.com/opinion/contributors/2022/12/09/john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/opinion/contributors/2022/12/22/nothing-could-break-us-in-kherson-ukraine-life-itself-has-become-an-act-of-protest/ukraine_1.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/opinion/contributors/2022/12/09/john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/contributors/2022/12/09/john-tory-at-his-wussiest-plus-justin-trudeaus-cognitive-dissonance-on-foreign-policy.html",
+      "publishedDateTime": "2022-12-09T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-10-ai-generated-avatars-are-quirky-and-easy-to-make-but-are-they-ethical.md",
+      "title": "AI Generated Avatars Are Quirky and Easy to Make, but Are They Ethical?",
+      "excerpt": "While AI is a fascinating tool, it comes with its own sets of problems. The neural network used by the app relies on the data from images on the intern",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
+      "originalUrl": "https://www.thequint.com/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2022-12%2F2fb99c95-25d1-4f6d-8a4d-4f77edf9d86f%2FNeon_Hero_Image__5_.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
+      "publishedDateTime": "2022-12-09T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-short-cognitive-behavioral-therapy-program-is-also-effective-at-reducing-anxiety-among-school-children.md",
       "title": "Short cognitive behavioral therapy program is also effective at reducing anxiety among school children",
       "excerpt": "To remedy this, a preventive intervention based on Cognitive Behavioral Therapy (CBT) for children, Journey of the Brave, was developed and introduced in Japanese schools in 2014. While the ...",
@@ -947,169 +1120,6 @@
         "name": "rabble",
         "domain": "rabble.ca",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-flexible-ai-computer-chips-promise-wearable-health-monitors-that-protect-privacy.md",
-      "title": "Flexible AI computer chips promise wearable health monitors that protect privacy",
-      "excerpt": "Rather than working like a typical computer chip, though, the chip we’re working ... Our research aims to make the AI analysis of health data happen within these skinlike wearable devices ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattlepi.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php",
-      "originalUrl": "https://www.seattlepi.com/news/article/Flexible-AI-computer-chips-promise-wearable-17591706.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "seattlepi.com",
-        "domain": "seattlepi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-consuming-over-processed-foods-may-hasten-cognitive-decline-study.md",
-      "title": "Consuming over-processed foods may hasten cognitive decline: study",
-      "excerpt": "Limiting the consumption of ultra-processed food may reduce cognitive decline in middle-aged and older adults, the results of a new study show. Ultra-processed foods are packaged foods made using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mcknights.com/news/clinical-news/consuming-over-processed-foods-may-hasten-cognitive-decline-study/",
-      "originalUrl": "https://www.mcknights.com/news/clinical-news/consuming-over-processed-foods-may-hasten-cognitive-decline-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "McKnight's Long-Term Care News",
-        "domain": "mcknights.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-short-cbt-program-is-also-effective-at-reducing-anxiety-among-school-children.md",
-      "title": "Short CBT program is also effective at reducing anxiety among school children",
-      "excerpt": "To remedy this, a preventive intervention based on Cognitive Behavioral Therapy (CBT) for children— ‘Journey of the Brave’— was developed and introduced in Japanese schools in 2014.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/973799",
-      "originalUrl": "https://www.eurekalert.org/news-releases/973799",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/0dc152f0-5173-4840-846f-d99335d7d323/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T22:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-privacy-compute-market-next-big-thing-with-major-giants-basebitai-google-cloud-microsoft-azure-ibm-cloud.md",
-      "title": "Privacy Compute Market Next Big Thing With Major Giants Basebit.ai, Google Cloud, Microsoft Azure, IBM Cloud",
-      "excerpt": "United State- Infinity Business Insights, a leading market research firm, has announced the release of its latest report",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/privacy-compute-market-next-big-thing-with-major-giants-basebitai-google-cloud-microsoft-azure-ibm-cloud-2022-12-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/privacy-compute-market-next-big-thing-with-major-giants-basebitai-google-cloud-microsoft-azure-ibm-cloud-2022-12-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T21:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

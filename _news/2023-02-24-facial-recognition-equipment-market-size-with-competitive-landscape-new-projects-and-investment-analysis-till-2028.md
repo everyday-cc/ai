@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+  - title: "Legal Tech Artificial Intelligence Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2028"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Legal Tech Artificial Intelligence Market\" Report covers specified competitive outlook consisting of the market"
+    publishedDateTime: 2023-02-24T23:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2028-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automated Machine Learning (AutoML) Market Size 2023 Is Projected to Rise at a Positive CAGR by Forecast to 2029"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-02-23T00:17:00Z

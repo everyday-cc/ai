@@ -22,22 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Speech And Voice Recognition Market Growth Global Industry In Depth Study And Huge Demand In Future 2031"
-    excerpt: "(MENAFN- Ameliorate Digital Consultancy) Global speech and voice recognition market report from Global Insight Services is the single authoritative source of intelligence on Speech and Voice ..."
-    publishedDateTime: 2023-02-20T12:06:00Z
-    webUrl: "https://menafn.com/1105601375/Speech-And-Voice-Recognition-Market-Growth-Global-Industry-In-Depth-Study-And-Huge-Demand-In-Future-2031"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 7
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?26097"
-        width: 333
-        height: 250
-        isCached: true
-
 secured: "Rh2g/pgDCVSC95KswPtO9nRK469NMZP0VQ2MzZ1jSbls4fyjhNojVEH4iHLCXAHlPl8FUKLtkW1hOBErlBt1/ASvLid48HBfF/kGbUfO+B17phvgHJ46+BGcv8LFLNyFwD+l+E3VSA1O7tnD0lSDtcxYQ+uRRHl1bCpw6nDC9MLufH0OPprusl2CzCSy+rVHoSdVNxYXipD+PYw2/PgnGA2KEROUJPUgbAyO9kpHK7JZrqE17vHzAbFEuNxbHmrP9whGTBMHmLpSDn1nZ1yD/isK/pUzELMqbH12CHfrQiztT90pyLFDryiJv7+VL4Zu5npg3BfjIQt9YaYgZnLD2iscZWOSztLO1rLmj4c2m8w=;wWkSmWQ2uVX0w38cE4omDA=="
 ---
 

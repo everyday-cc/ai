@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
+    excerpt: "said that his practice is one of many that have been exploring the AI program ChatGPT. His group has set up a committee to look into its uses and to discuss the ethics around using it so the practice could set up guardrails before putting it into clinical ..."
+    publishedDateTime: 2023-02-22T15:00:00Z
+    webUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 59
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "59% of Americans don't want AI robots used during surgery"
     excerpt: "Americans are hesitant about the use of artificial intelligence-driven robots during surgery with 59 percent saying they would not want surgical robots used in their own care, according to a Pew Research Center survey."
     publishedDateTime: 2023-02-24T15:20:00Z
@@ -80,20 +94,6 @@ related:
       name: 7News Miami
       domain: wsvn.com
     quality: 31
-  - title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
-    excerpt: "By Jen Christensen, CNN Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI’s potential to reduce medical mistakes and to eliminate some of the problems doctors may have with racial bias."
-    publishedDateTime: 2023-02-22T15:00:00Z
-    webUrl: "https://ktvz.com/health/cnn-health/2023/02/22/most-americans-are-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 29
-    images:
-      - url: "https://ktvz.b-cdn.net/2023/02/hypatia-h_c4eb4551c0b29cb6edf582a62d81b330-h_117aebfa8535c7c39995830a035645b7-300.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
     excerpt: "By Jen Christensen, CNN Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI’s potential to reduce medical mistakes and to eliminate some of the problems doctors may have with racial bias."
     publishedDateTime: 2023-02-22T19:59:00Z

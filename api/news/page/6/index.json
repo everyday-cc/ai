@@ -2,6 +2,204 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-17-openai-backed-startup-brings-chatbot-technology-to-first-major-law-firm.md",
+      "title": "OpenAI-backed startup brings chatbot technology to first major law firm",
+      "excerpt": "Allen & Overy partners with legal startup Harvey Harvey received $5 million in a funding round led by the OpenAI Startup Fund last year (Reuters) - Harvey AI, an artificial intelligence startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/openai-backed-startup-brings-chatbot-technology-first-major-law-firm-2023-02-15/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/openai-backed-startup-brings-chatbot-technology-first-major-law-firm-2023-02-15/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/AVl70PGzw7m2lBe7HPuSJ9gU2qg=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FFKKN6ZO3ZOHTJVDJJPHMJZOGU.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T20:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-with-ai-accurate-demand-forecasting-is-possible.md",
+      "title": "With AI, accurate demand forecasting is possible",
+      "excerpt": "How artificial intelligence is making accurate demand forecasting possible — finally — for companies willing to leave legacy systems behind.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/with-ai-accurate-demand-forecasting-is-possible/",
+      "originalUrl": "https://venturebeat.com/ai/with-ai-accurate-demand-forecasting-is-possible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_708536860-e1622819708357.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/with-ai-accurate-demand-forecasting-is-possible/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/with-ai-accurate-demand-forecasting-is-possible/amp/",
+      "publishedDateTime": "2023-02-16T20:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-deep-learning-chipset-market-future-scope-demand-perceptive-and-comprehensive-analysis-by-2028.md",
+      "title": "Deep Learning Chipset Market : Future Scope, Demand, Perceptive and Comprehensive Analysis By 2028",
+      "excerpt": "Feb (The Expresswire) -- \"Deep Learning Chipset Market\" Report provides a Detailed analysis of global market size, regional and country-level",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-future-scope-demand-perceptive-and-comprehensive-analysis-by-2028-2023-02-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-future-scope-demand-perceptive-and-comprehensive-analysis-by-2028-2023-02-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T19:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-chinese-chipmakers-to-advance-gpu-development-for-chatgpt.md",
+      "title": "Chinese chipmakers to advance GPU development for ChatGPT",
+      "excerpt": "The rising popularity of ChatGPT, an AI-powered chatbot developed by OpenAI, has encouraged Chinese chipmakers to accelerate their related GPU development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230216pd213_files/2_r.jpg",
+          "width": 336,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T18:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty.md",
       "title": "Master Deep Learning and AI with IITM Pravartak | Learn from IIT Madras Faculty",
       "excerpt": "Taught by distinguished IIT-Madras faculty, this programme, offered in collaboration with Emeritus, aims to enhance the tech skills of early and mid-level professionals",
@@ -1034,197 +1232,6 @@
         "AI Ethics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-we-mustnt-let-ethical-questionson-ai-get-lost-in-all-the-euphoria.md",
-      "title": "We mustn’t let ethical questionson AI get lost in all the euphoria",
-      "excerpt": "Our planet is already on the edge with climate change, and these models could only accelerate that trend. The cloud and these AI models running on it take huge amounts of energy. For instance, training a transformer model just once with 213 million parameters can spew out the same carbon emissions that 125 New York-Beijing round flight trips would,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/columns/we-mustn-t-let-ethical-questionson-ai-get-lost-in-all-the-euphoria-11676565950767.html",
-      "originalUrl": "https://www.livemint.com/opinion/columns/we-mustn-t-let-ethical-questionson-ai-get-lost-in-all-the-euphoria-11676565950767.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/02/16/600x338/AI_1676566085035_1676566085195_1676566085195.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/columns/we-mustn-t-let-ethical-questionson-ai-get-lost-in-all-the-euphoria/amp-11676565950767.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/we-mustn-t-let-ethical-questionson-ai-get-lost-in-all-the-euphoria/amp-11676565950767.html",
-      "publishedDateTime": "2023-02-16T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-new-expanded-data-format-support-in-amazon-kendra.md",
-      "title": "New expanded data format support in Amazon Kendra",
-      "excerpt": "Enterprises across the globe are looking to utilize multiple data sources to implement a unified search experience for their employees and end customers. Considering the large volume of data that needs to be examined and indexed, the retrieval speed, solution scalability, and search performance become",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/new-expanded-data-format-support-in-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/new-expanded-data-format-support-in-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/16/expanded-data-support-kendra.jpg",
-          "width": 1561,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T08:43:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-artera-announces-positive-results-around-its-multimodal-artificial-intelligence-mmai-prognostic-biomarker.md",
-      "title": "Artera Announces Positive Results Around Its Multimodal Artificial Intelligence (MMAI) Prognostic Biomarker",
-      "excerpt": "Artera, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artera-announces-positive-results-around-its-multimodal-artificial-intelligence-mmai-prognostic-biomarker-2023-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artera-announces-positive-results-around-its-multimodal-artificial-intelligence-mmai-prognostic-biomarker-2023-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-us-launches-artificial-intelligence-military-use-initiative.md",
-      "title": "US launches artificial intelligence military use initiative",
-      "excerpt": "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/wirestory_d49c5fb442fa825e0a7a7419d6f04469_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669",
-      "publishedDateTime": "2023-02-16T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Gran Turismo Sophy devs explain how it taught an AI racer sportsmanlike conduct"
-    excerpt: "As the first significant public release of technology from Sony AI, which was formed in 2020, the upcoming Gran Turismo Sophy Race Together mode for Gran Turismo 7 will be many players’ first exposure to complex AI technology that could have a lasting ..."
-    publishedDateTime: 2023-02-20T13:00:00Z
-    webUrl: "https://www.digitaltrends.com/gaming/gt-sophy-gran-turismo-7-interview/"
-    ampWebUrl: "https://www.digitaltrends.com/gaming/gt-sophy-gran-turismo-7-interview/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/gt-sophy-gran-turismo-7-interview/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 83
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/02/RaceTogether_replay.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The ‘breakthrough’ AI racing agent GT Sophy debuts for Gran Turismo 7"
     excerpt: "Sony AI and Polyphony Digital have released Gran Turismo Sophy, a hyper-realistic AI racing agent for Gran Turismo 7. The agent is based on research by Sony’s AI researchers and Polyphony Digital’s developers and it fits Gran Turismo’s mission of ..."
     publishedDateTime: 2023-02-20T14:00:00Z

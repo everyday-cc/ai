@@ -25,97 +25,26 @@ images:
     isCached: true
 
 related:
-  - title: "You might start seeing AI chatbots everywhere, thanks to 'the GPT effect'"
-    excerpt: "AI technology is being developed, for instance, in assisting with health care research, to fight cyberattacks, and to improve supply chain logistics. Using AI in this way can help \"if you want to experiment in a low cost way, without making a commitment ..."
-    publishedDateTime: 2023-02-20T11:06:00Z
-    webUrl: "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp"
+  - title: "Leaked messages show Googlers are taking out their frustrations over layoffs on its new Bard AI chatbot"
+    excerpt: "\"I'd tell you a joke about layoffs at Google, but I'm afraid I wouldn't have a job tomorrow,\" Bard said when asked to tell a joke about the layoffs."
+    publishedDateTime: 2023-02-24T22:26:00Z
+    webUrl: "https://www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/63efcf6efeee2300187c7e43?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Generative AI Like ChatGPT Is Popping Up Everywhere. Your Questions Answered"
-    excerpt: "A neural network is a type of machine learning system that can be ... may lie in new ways of collaborating with AI to accentuate what both biological and artificial intelligence do best. Simple, really: Information isn't knowledge. LLMs are kind of ..."
-    publishedDateTime: 2023-02-23T20:55:00Z
-    webUrl: "https://www.cnet.com/science/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
+    quality: 51
+  - title: "Chatbot Craze Powers AI-Powered AIEQ ETF Higher"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: SWKStock / Shutterstock All the craze lately has been surrounding"
+    publishedDateTime: 2023-02-22T20:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatbot-craze-powers-ai-powered-aieq-etf-higher-1032117163"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
-    images:
-      - url: "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ChatGPT’s Biggest Competition: Here Are The Companies Working On Rival AI Chatbots"
-    excerpt: "The roaring success of ChatGPT, an artificial intelligence chatbot created by U.S. non-profit OpenAI, has sparked a frantic rush to get new AI products to market, a frenzy that is consuming tech’s biggest behemoths and countless startups as they fight ..."
-    publishedDateTime: 2023-02-23T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/"
-    ampWebUrl: "https://www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
-  - title: "It’s AI powered slaughterbots, not ChatGPT, that should worry us"
-    excerpt: "ethics has changed. What are killer robots, exactly? In formal parlance they are called Lethal Autonomous Weapons Systems (LAWS). Also known as slaughterbots, they use AI to identify, select, and eliminate targets without human intervention. Conventional ..."
-    publishedDateTime: 2023-02-22T09:37:00Z
-    webUrl: "https://www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361"
-    ampWebUrl: "https://www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/02/22/its_ai_powered_slaughterbots_not_chatgpt_that_should_worry_us.jpg"
-        width: 750
-        height: 393
-        isCached: true
-  - title: "Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet"
-    excerpt: "Google, with Bard, and OpenAI, with ChatGPT are making AI chatbot technology previously restricted to test labs more accessible to the general public. How do these Large Language Model (LLM) programs work?"
-    publishedDateTime: 2023-02-23T23:02:00Z
-    webUrl: "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
-  - title: "No, I didn’t test the new Bing AI chatbot last week. Here’s why | The AI Beat"
-    excerpt: "I’m not just another journalist writing a column about how I spent last week trying out Microsoft Bing’s AI chatbot. No, really. I’m not another reporter telling the world how Sydney, the internal code name of Bing’s AI chat mode, made me feel all ..."
-    publishedDateTime: 2023-02-20T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/no-i-didnt-test-the-new-bing-ai-chatbot-last-week-heres-why-the-ai-beat/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 44
-  - title: "ChatGPT and Bing’s AI chatbot are just stupid enough to work"
-    excerpt: "Leave the AI-written content to CNET. As a writer, I was naturally curious to see how good ChatGPT was as a news and opinion writer. Not because I wanted to start cheating and having a bot write for me, but because of self-preservation — how close am I ..."
-    publishedDateTime: 2023-02-24T23:10:00Z
-    webUrl: "https://bgr.com/tech/chatgpt-and-bings-ai-chatbot-are-just-stupid-enough-to-work/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/New-Bing.jpg?quality=82&strip=all"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "What are ‘robot rights,’ and should AI chatbots have them?"
     excerpt: "AI chatbots are all the rage. From ChatGPT to Bing’s new AI-powered search engine and Google’s new Bard chatbot, people are obsessed with seeing how they can replace tasks with AI and test its limits."
     publishedDateTime: 2023-02-22T19:00:00Z
@@ -125,15 +54,6 @@ related:
       name: grid
       domain: grid.news
     quality: 36
-  - title: "How This Guy Wrote a Novel Using ChatGPT Authors Worries About Copyrighting and Plagiarism Issues, but AI Will Give You Better Ideas."
-    excerpt: "Writing a novel is a dream for many people, but it can be a daunting task. From coming up with a plot and developing characters to crafting engaging dialogue and building a world, there are many elements to consider."
-    publishedDateTime: 2023-02-24T17:45:00Z
-    webUrl: "https://techbullion.com/how-this-guy-wrote-a-novel-using-chatgpt-authors-worries-about-copyrighting-and-plagiarism-issues-but-ai-will-give-you-better-ideas/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
 
 secured: "2Dbk47weDWZopl4252xHXSxStgIsZwSiiMWJbeJ+kf3DcUt81xTI8EuPx+P1TXwEZc1aVqPKWH2sXEo+PoNaDDVzvSU/X3IoumO7Vs6IDxWDQJL8qgsg1ihcNJ/rasRUA/xriBiTi6eSbQG/zMdO9yFZ4YdqkzY8SRLE9GkFjN7iV9V6J9ljVdZcm43ZlTIlb3eYzW+6kL6+QId7m1os2qXedsR6kgXY0FieZaPZ5W4pEQf7sZm3bbVt/ND6hIyD3E0jnUUTwJTtDQ0lV8kCKw5vb9enizQqhnVU9mXRfr5Fr0OGhdf3/q95SAEb2aB1lWHMHy0c136he9YZ2DGm4KyQ1SZKk/i5c4020foE5awto8FZYLqEyU/ozywpj9CabSaAmxRs67/4mFNPhNOaIZGG+LVs6Yi8R9OC1OlKIHr5SwoP87XGTV7qlKU78omx6pzMhu8JGmYmUK8uWHnkcuoTKfO6bssHhAu66cDkLijCsnu8oZWlC+UIV+lecMXl5gZE74TB+fJPQCUkPG0yNg==;ptuZQIKHNuZoyPK0rCYVpA=="
 ---

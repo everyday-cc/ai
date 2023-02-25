@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-exp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/"
 type: article
 quality: 85
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
-  - title: "Better AI Stock: Nvidia vs. Alphabet"
-    excerpt: "Nvidia took a positive step in AI in November 2022, partnering with Microsoft's Azure to build a massive cloud AI computer. According to a press release from Nvidia, the collaboration will combine Azure with Nvidia's GPUs to \"help enterprises train ..."
-    publishedDateTime: 2023-02-20T12:10:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/20/better-ai-stock-nvidia-vs-alphabet/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 49
   - title: "Nvidia Cracks Wall Street’s AI Code"
     excerpt: "The optimism over artificial intelligence can extend the chip maker’s stock rally, despite mixed quarterly results."
     publishedDateTime: 2023-02-23T14:55:00Z
@@ -81,15 +72,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "Nvidia Shares Soar on Earnings Beat, Chip Demand for AI Applications"
-    excerpt: "Shares of Nvidia (NVDA) are soaring after the software company posted better-than-expected results in the previous quarter while boosting current quarter guidance, and said chip demand for artificial intelligence (AI) applications such as ChatGPT is soaring."
-    publishedDateTime: 2023-02-23T15:35:00Z
-    webUrl: "https://www.investopedia.com/nvidia-shares-soar-on-earnings-beat-chip-demand-for-ai-applications-7112912"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 34
   - title: "NVIDIA Shares Surge As AI Powerhouse Rakes In Billions On Strong Data Center Earnings"
     excerpt: "Investors are upbeat following NVIDIA's fourth quarter and fiscal 2023 financial results, with the company's share price surging after it beat out Wall Street's expectations."
     publishedDateTime: 2023-02-23T14:01:00Z

@@ -93,10 +93,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Size, Share and Forecast 2028 with Top Countries Data"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Fintech Market\" Report covers specified competitive outlook consisting of the market proportion and company ..."
-    publishedDateTime: 2023-02-20T12:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-share-and-forecast-2028-with-top-countries-data-2023-02-20"
+  - title: "Artificial Intelligence (AI) Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "What is the projected market size and growth rate of the Artificial Intelligence (AI) Market? Artificial Intelligence (AI) Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,"
+    publishedDateTime: 2023-02-24T23:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-24"
     type: article
     provider:
       name: MarketWatch
