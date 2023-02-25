@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-24T11:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/technology-execs-private-equity-blackstone-carlyle-apollo-bain-kkr-thoma-bravo-eqt"
 webUrl: "https://markets.businessinsider.com/news/stocks/technology-execs-private-equity-blackstone-carlyle-apollo-bain-kkr-thoma-bravo-eqt"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Finance
 
 images:
   - url: "https://i.insider.com/63ee3d9269b9cb001880aae3?width=1200&format=jpeg"

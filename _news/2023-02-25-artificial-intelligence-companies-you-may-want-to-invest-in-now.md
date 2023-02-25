@@ -5,7 +5,12 @@ excerpt: "Even if you somehow avoided that news, AI offerings are everywhere. We
 publishedDateTime: 2023-02-24T18:04:00Z
 originalUrl: "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/"
 webUrl: "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/"
+ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/amp/"
 type: article
+quality: 91
+heat: 101
+published: true
 
 provider:
   name: Forbes
@@ -17,7 +22,26 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
-secured: "xqQhxX8P7KWOOniKUFwL1hPWrawpijw9xcFG5NP9vXhHLSKGKrMdVMMSe4R71fJYHCy9jB4YR3tVBWCrLnaj7In4xEg4Cmz+RzR6RPNu1Jh+RhKATyz0Hqkg9oCbTG9QKikZ8qOxBJ++U5Dz2dE21HbHHAWxLUhfJnsJeF6z6iB/FECtbuioIqS1Q2WD7cV/U4XAg8SWYXPD2G3gD79O3Ks20TBz0LVZk97NQhzxvKbSp3PNNqfIFsyP7uftHXyXtFnTPwVHKM1qN9m11I0FzTXRCkUVMOUoIAdB7Ji9HfkWoXDG+YFxUYllFls3+1phE4DWBboFjKOn4DdTCeMc4xkHbINC6e/By2lh4Wqlh0R+70RJs6FnFh5N1900/LUTIVVhUB4KTCHhihLJ3QQE5G0G+vnCXsCgeskpe2j9qkSusLqeV/3BQLBJNv9pkjcME/92JszJ95DhEoEjh48JRaVnS7joeBt5gQaS0Obfy7DWTSm1jiI9gQ8+rC6w5MfUI/PMezilwvpacpJAz4lf9Q==;67YptjCdbdoUPs+pQo+3zQ=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/63f909efaf73498cf7093b40/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Link Ventures launches third fund to invest in AI, machine learning startups"
+    excerpt: "A Cambridge venture capital firm that has invested in local companies like EverQuote and Vestmark launched its third investment fund Tuesday."
+    publishedDateTime: 2023-02-21T18:09:00Z
+    webUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2023/02/21/link-ventures-launches-third-fund.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
+
+secured: "jtuvZt3hgH+MNBIrtxujb8vRkzNREoOULv2mAXgazwQWPYu+YqNEaLGcfh3CW4DnwPLMnbuxtOVycxCs8BvEKAeEFiEYlK5JtM3TN6lTEBnhLeShpmoVgE8ULv9d0Dp7UFhEvm6C0IuWi9r4mZPVnBs+mzMx3JTu1p+za6rIkRoTMbTADWnzb31ZTWggzX/+ZEnjJpT2dltEB0gDgQ0OMa8z1szGjpPHp5XOXiaTRQA8Rp/E37ZOaworf57hbaVn9X7EBIxVn3zVHL5Et4ksaXcRrH3fbiYfXQx1O5o6uPT+CzjHQFyUYgQ3HhCi5GCCqSjCfhSuAFom7BbH2WgnTe6+qauot1ahSj9wrIBwbggH0usIoFB48z6vhGqGLWDlthfQrHxtrFZ8QcuW2NqOHZnzOhhihyePF6LgAPxN0vckp0/Z62LPVSZ5zd0Adt7dPYC9JDd0e0Xz5Pk2euhDxLXsB4zWLqt7pp7VNdOPs/b9HY7MqPRMAdsg874umiNqdNDsgq7UNodgIJ1d0UgvYQ==;KRBhWc/A3O/dMmbFbkDmUw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T17:22:00Z
 originalUrl: "https://hetq.am/en/article/153557"
 webUrl: "https://hetq.am/en/article/153557"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: HETQ

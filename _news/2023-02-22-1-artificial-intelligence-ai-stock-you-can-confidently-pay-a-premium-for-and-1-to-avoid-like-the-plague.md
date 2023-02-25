@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-22T10:06:00Z
 originalUrl: "https://www.fool.com/investing/2023/02/22/1-artificial-intelligence-stock-you-buy-1-to-avoid/"
 webUrl: "https://www.fool.com/investing/2023/02/22/1-artificial-intelligence-stock-you-buy-1-to-avoid/"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: The Motley Fool
@@ -25,6 +28,6 @@ images:
     height: 3000
     isCached: true
 
-secured: "6Gl0rOiMqefqzUWMuoaJSBgr8CcZ8R2n7ZSaN7Htjim5v/OqQa/aCL8lzE+V3ehAUwHw4ykZ54oto4nbhI1EpnY11Vs7Sz952QpbrB9zBmZnVIdYI3EugjlBMX9Mt7Uo+gDH2GqU+4XKCmCvweDahFe44dZFoQAaged7AqieQHpBoTtqzVJq0QSG+gu37KoTnGDuFDiBmFrBxUFjxChsB4UZ4A5usjxmD5NFRFnBcE4w4eGPpUhAQ70XUENdgkVklyxkECZyfTZXNZNdHa8r96h3JB7sGtWLhFKQkHQfieOZE8z67nZmnJ8VRQXM824j38qWLSOILK4EZY1gW06mXDa39d61Kz9lfAC0r69LSlA=;W71wxuYgBUSkbpGyktWGCw=="
+secured: "t6IS2jaD41hl7luMxzZ7QZ/jeD80TeKW7dkPwyCyUxYtpd33UGd/9FXlZYd0Pb0kGFgXbp+mRJwb5BbILUFLDyuIFSzynhCwuB8mbjN8zU7qb/D7ZYNQBJCpnApL+WbQ21G1zdjK+jjIH72W016G3eEMcXQUjSXST5ceUbCeuxUeJWiLZRU7QfTSA8DOXl3CFu8fden0gFPnxt3b1K/gA7YjIVhW5hg9OQMr6FkUlt9F37C8YolSpfKwWH03vYWpazjJuAIBIdmku1qYFoFlhkRzP3lZRgaI+5a0ASG4aPk47/wfqGf37mZLmhEruOKt5/ivP5clLoDVpSNd1Pw8J3K6bUumahAr237E+zFHQuVAKIaXZbjIpB2IxpZXGqOMdRM1wWzu3azBFaiUprjW3L52b6BD4a8ZpOszhRXR4Qp00Ikdi+Y9SRE+oG91wykydmIiCwN+CrlPuaQIj43+iSBNeLslEpnYDLaXt/mwgu+TL/02bUlvQhSeFFsRsMyTWULRyhSYi4Tvc1cFuU3thQ==;DXmzbWQ6i94l0S68AQF/CQ=="
 ---
 

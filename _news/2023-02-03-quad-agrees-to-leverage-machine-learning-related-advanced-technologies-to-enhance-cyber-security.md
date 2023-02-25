@@ -5,6 +5,8 @@ excerpt: "In the longer term, the Group committed to leverage machine learning a
 publishedDateTime: 2023-02-03T02:11:00Z
 originalUrl: "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
 webUrl: "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750"
 type: article
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - Machine Learning
   - AI in Security
 
-secured: "cVx6h+2+3aDr3iVdm9vCwK9bEk8L9AGUZDOIjs/NbHUeZR1xWneLKGcVpZS5X9fEjzw4WZflumoTwFNx/NKlahtvuR+6MwftG5qyzNkJq9HHNvPi0Rzpx9PezUUd/aVofI/1wRuA6zyL7BSVS7NeNVoKUh1FkaUL3nQS0McW26CT5zyvLja2bno8Hohk2ljf7Fop+rYBo8G7NU5825Xm19XwmoaxOTAiQY10NaD3wgEUTVwNpittpf1SNoueWJp0F1SLTvKbdOgDcH0aJA9gQuaqdpWNEAH8K9EqVqTXnSirByg1GryPSJkgXKZwWCgGs6CZN64fgk01vbrPVnJCe1tbmD4t2gYvaFR3qy+geAg=;NCAFLPwQMXgpQ0ntRywd0A=="
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-97565750,imgsize-156698,width-1200,height-628,overlay-ettelecom/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "nt3Ss5YjsErEbBCMZWr4eEfm4P/AKy5NEN18Atvk6LE0AP8cseAepO+5zndr32cWoI+DGu60kaa5of64QI4YenVyXbmsVpQw+8f4ELhiphIibgCyqHE0Bj6osQQhDWTnxXdn4yd7umtJ3V4tNlS5I6fK8O47tVhrTcycHvzl/Hk1LrrVPmTdVUilZpYVQUE5rOK6WTkSM0mScLETQUL2mazS2ZHukTQq3KVL2bb+o+rlIDXgnvArSvuBRDX7AWirnfVAskHuATnhaAq8u7aigip5RtAMIsVIMU1rRXF9iv6w3PtLM5II3+LGWqd83b6GbyLuigNfRESmFFI79nQz86kmq/2vtt4/fYbsOWiV7zM=;ftOMQg/60HM/MrSApkGnyA=="
 ---
 

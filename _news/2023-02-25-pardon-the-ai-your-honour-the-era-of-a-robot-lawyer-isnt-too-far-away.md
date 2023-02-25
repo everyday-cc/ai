@@ -8,6 +8,9 @@ webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/pardon-the-a
 ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/pardon-the-ai-your-honour-the-era-of-a-robot-lawyer-isnt-too-far-away/amp_articleshow/98217496.cms"
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/pardon-the-ai-your-honour-the-era-of-a-robot-lawyer-isnt-too-far-away/amp_articleshow/98217496.cms"
 type: article
+quality: 55
+heat: 55
+published: false
 
 provider:
   name: Indiatimes

@@ -1,20 +1,30 @@
 ---
 category: news
 title: "VORMOR Innovation emerges as a Leader in AI-based Translation Technology"
-excerpt: "the company has grown into a well-known enterprise with a range of innovative AI-powered language services, including a variety of speech recognition, speech synthesis, language translation ..."
-publishedDateTime: 2023-02-14T22:38:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology"
-webUrl: "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology"
+excerpt: "AI's latest technology and translating system of VORMOR Innovation enhances efficiency, improves outcomes, and facilitates communication for various groups like travelers, offices, educational purposes,"
+publishedDateTime: 2023-02-14T21:22:00Z
+originalUrl: "https://www.marketwatch.com/press-release/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology-2023-02-14"
+webUrl: "https://www.marketwatch.com/press-release/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology-2023-02-14"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "MzqqRbgClPw6D27OMMba0mQdsdnwboksC0C1Uj2NfYBcrKbOX+pAAcbvcrXOJp9/71621aZLDqpfd6RllREKFXbUf9bP03LCnLujTeZ4OpLzUm1VYdjxwj8Au7GpUUokX682sE6n3E6Fk5XXWW2Kj7Jt+uV1ovhPunGU6482ml3YqYXB/qFLsaxhqBf11EVdeNhyjAC6082WLnIMkN21COXY2n6rtwn2jkHworoEo+0eLOGRZ0tH0i408gW/eLGT1kckeohcCI/PXZwkt/0UFmLvrHwmIEGX5pwuq409sbGnR2qjc3fHbjMHFwxFDeL8H415qw4xZLghddHli6dB7Ym5osfIvb1IA+4/vHBwCNs=;tOEMWSsL/A8p+ijN55Jiww=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "/LthZM5+ho6ife5ereQQlfQ7JVNPetU8sQ5tLtEkkNnTLQgII+KZqhmIXx/JuMhIUz4yq3lgZZMGrlLi8JsDBvwQJucVL3nwSfV1rXHBHB+Hrp+J499NB49PQs3hYD31+dTY1bo6LkSiIw9HYxGENgPLet3IuHSZ0kyJGRGSpCbRKWVdU5RwKQrO+3y7ogRQlrgxjrDvM0RwgIwP0Jbu7Xa15MyrldDx8JtmeML3PiaHOzwBviiN/gAMeT0WeAnYWw8s34Hkt96+638E8oxtlPVCVz6qplFUskEEiw/5dmQ27SEuxz883kySr1rhZEDrJe2nm9wFdHwGPimKPi0nwkb1qtulNlId+s7a7+Ah2n8=;SbWf+5ROqulIib8iN8EvfQ=="
 ---
 

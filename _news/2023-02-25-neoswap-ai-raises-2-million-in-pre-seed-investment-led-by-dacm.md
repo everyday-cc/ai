@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T19:01:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/02/n31054092/neoswap-ai-raises-2-million-in-pre-seed-investment-led-by-dacm"
 webUrl: "https://www.benzinga.com/pressreleases/23/02/n31054092/neoswap-ai-raises-2-million-in-pre-seed-investment-led-by-dacm"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Benzinga.com

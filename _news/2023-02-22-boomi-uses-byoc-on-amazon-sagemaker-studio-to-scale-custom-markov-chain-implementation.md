@@ -37,6 +37,24 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Accelerate disaster response with computer vision for satellite imagery using Amazon SageMaker and Amazon Augmented AI"
+    excerpt: "In this blog post we are discussing how to accelerate disaster response efforts using computer vision techniques for processing satellite imagery using AWS services."
+    publishedDateTime: 2023-02-24T20:59:58Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-disaster-response-with-computer-vision-for-satellite-imagery-using-amazon-sagemaker-and-amazon-augmented-ai/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 77
+  - title: "Achieve high performance at scale for model serving using Amazon SageMaker multi-model endpoints with GPU"
+    excerpt: "Amazon SageMaker multi-model endpoints (MMEs) provide a scalable and cost-effective way to deploy a large number of machine learning (ML) models. It gives you the ability to deploy multiple ML models in a single serving container behind a single endpoint. From there, SageMaker manages loading and unloading"
+    publishedDateTime: 2023-02-24T20:56:04Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-high-performance-at-scale-for-model-serving-using-amazon-sagemaker-multi-model-endpoints-with-gpu/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
   - title: "MLOps deployment best practices for real-time inference model serving endpoints with Amazon SageMaker"
     excerpt: "After you build, train, and evaluate your machine learning (ML) model to ensure it’s solving the intended business problem proposed, you want to deploy that model to enable decision-making in business operations. Models that support business-critical functions are deployed to a production environment"
     publishedDateTime: 2023-02-21T19:28:58Z

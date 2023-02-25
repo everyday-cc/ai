@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T17:20:00Z
 originalUrl: "https://techcrunch.com/2023/02/24/voicemod/"
 webUrl: "https://techcrunch.com/2023/02/24/voicemod/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: YAHOO!News

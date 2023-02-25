@@ -40,7 +40,7 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://i.guim.co.uk/img/media/543d6b74c91d5d5fb908173506f00e60567f9f5c/0_70_5704_3422/master/5704.jpg?width=620&quality=85&auto=format&fit=max&s=4854fc9c9b45b2aa64285c3d335f0a4f"
         width: 620
@@ -55,6 +55,24 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
+  - title: "Bing's AI chatbot has a question limit that is more of a problem than a solution"
+    excerpt: "After reports of the Bing chatbot's outlandish behavior, Microsoft has decided to limit the interactions users can have with the bot. Th results are quite annoying."
+    publishedDateTime: 2023-02-20T20:07:00Z
+    webUrl: "https://www.zdnet.com/article/bings-ai-chatbot-has-a-question-limit-that-is-more-of-a-problem-than-a-solution/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 42
+  - title: "Everything you wanted to know about AI – but were afraid to ask"
+    excerpt: "Large-language models This is one of the so-called neural networks ... Or you can use the wide array of apps already on your phone that invisibly use AI, from the translate apps built in to iOS and Android, through the search features in Google and ..."
+    publishedDateTime: 2023-02-24T18:48:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes?amp"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 19
   - title: "Bing AI says it wants to be human as it begs for its life"
     excerpt: "Roach started a conversation with the AI by asking if a screenshot on Reddit of the chatbot losing its mind was real. Bing told him that the image was fabricated, as it did not include timestamps or the name of the Bing chatbot. Notably, Bing chat doesn ..."
     publishedDateTime: 2023-02-20T20:13:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-24-mark-zuckerberg-announces-metas-new-large-language-model-as-ai-race-heats-up.md",
+      "title": "Mark Zuckerberg announces Meta's new large language model as A.I. race heats up",
+      "excerpt": "Large language models underpin applications such as OpenAI's ChatGPT, Microsoft Bing AI, and Google 's unreleased Bard ... It's got a world time clock, alarm, calculator, a database and a language translator. It also has a word processor, a spellchecker ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107131933-1665418142088-gettyimages-1327685522-kd1_0333_20210708121128478.jpeg?v=1677260690",
+          "width": 5353,
+          "height": 4124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html",
+      "publishedDateTime": "2023-02-24T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-the-implications-of-chatgpt-on-cybercrime.md",
       "title": "The Implications Of ChatGPT On Cybercrime",
       "excerpt": "Researchers at CyberArk demonstrated how ChatGPT can be easily abused to create polymorphic malware that is highly evasive as well as difficult to detect. Every time researchers queried ChatGPT, they received a unique piece of code that could be used to create numerous mutations of the same malware program.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.zdnet.com/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 125,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -160,7 +212,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/articleshow/98106976.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -203,7 +255,7 @@
       "originalUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -975,19 +1027,19 @@
     {
       "path": "_news/2023-02-15-vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology.md",
       "title": "VORMOR Innovation emerges as a Leader in AI-based Translation Technology",
-      "excerpt": "the company has grown into a well-known enterprise with a range of innovative AI-powered language services, including a variety of speech recognition, speech synthesis, language translation ...",
+      "excerpt": "AI's latest technology and translating system of VORMOR Innovation enhances efficiency, improves outcomes, and facilitates communication for various groups like travelers, offices, educational purposes,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology",
+      "webUrl": "https://www.marketwatch.com/press-release/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology-2023-02-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology-2023-02-14",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -995,14 +1047,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30914976",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30914976",
-      "publishedDateTime": "2023-02-14T14:38:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T13:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1408,49 +1469,6 @@
       "provider": {
         "name": "WGN-TV",
         "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-google-translate-is-adding-contextual-translations-for-words-with-multiple-meanings.md",
-      "title": "Google Translate is adding contextual translations for words with multiple meanings",
-      "excerpt": "At today's AI-focused event in Paris ... In fact, if you ever tried to use Translate to complete your language homework in high school, you know poorly this sort of thing can turn out. With this contextual upgrade, Google will provide multiple meanings ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/google-translate-contextual-translations/",
-      "originalUrl": "https://www.androidpolice.com/google-translate-contextual-translations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/10/google-translate-ap-hero.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T15:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
         "images": null,
         "publishers": null,
         "authors": null

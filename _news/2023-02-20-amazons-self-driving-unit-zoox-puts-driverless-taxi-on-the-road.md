@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-20T13:01:00Z
 originalUrl: "https://omaha.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_1443e73c-b1a1-52e7-920d-992115803e30.html"
 webUrl: "https://omaha.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_1443e73c-b1a1-52e7-920d-992115803e30.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Omaha.com

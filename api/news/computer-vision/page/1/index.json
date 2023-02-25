@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2023-02-23-in-ukraine-identifying-the-dead-comes-at-a-human-rights-cost.md",
+      "title": "In Ukraine, Identifying the Dead Comes at a Human Rights Cost",
+      "excerpt": "Five days after Russia launched its full-scale invasion of Ukraine, a year ago this week, US-based facial recognition company Clearview AI offered the Ukrainian government free access to its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
+      "originalUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63f6321a7d87edd2f4f351b3/master/pass/ideas_GettyImages-1246812281.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
+      "publishedDateTime": "2023-02-22T18:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-computer-vision-in-artificial-intelligence-ai-market-next-big-thing-forecast-2023-2029.md",
       "title": "Computer Vision in Artificial Intelligence (AI) Market Next Big Thing Forecast 2023-2029",
       "excerpt": "Computer Vision in Artificial Intelligence (AI) Market 2023 with 128 Pages Report and enhance with extents shares",
@@ -93,6 +145,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-travelers-have-mixed-feelings-about-facial-recognition-technology-at-las.md",
+      "title": "Travelers have mixed feelings about facial recognition technology at LAS",
+      "excerpt": "LAS VEGAS (KTNV) — Harry Reid International Airport is one of 16 airports nationwide testing facial recognition technology at airport security checkpoints. The technology was first rolled out ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las",
+      "originalUrl": "https://www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/717/b9cd621bb5cc43d8b6bdc641d1acdca8/717f5520240044009c25dec6f417f641/poster_c050c08cc5fb4881adf39c95cbc18bc1.jpeg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las?_amp=true",
+      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las?_amp=true",
+      "publishedDateTime": "2023-02-20T19:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTNV Las Vegas",
+        "domain": "ktnv.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1221,74 +1316,6 @@
       "provider": {
         "name": "Science News",
         "domain": "sciencenews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-without-fear-of-retribution-ny-state-bar-forms-group-to-study-facial-recognition-blacklisting-of-lawyers-from-msg-radio-city.md",
-      "title": "'Without Fear of Retribution': NY State Bar Forms Group to Study Facial-Recognition Blacklisting of Lawyers From MSG, Radio City",
-      "excerpt": "The use of facial recognition software to exclude members of law firms from a Knicks basketball game or a Taylor Swift concert discriminates against lawyers for doing their jobs,” said Sherry Levin Wallach,",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/newyorklawjournal/2023/02/06/without-fear-of-retribution-ny-state-bar-forms-group-to-study-facial-recognition-blacklisting-of-lawyers-from-msg-radio-city/",
-      "originalUrl": "https://www.law.com/newyorklawjournal/2023/02/06/without-fear-of-retribution-ny-state-bar-forms-group-to-study-facial-recognition-blacklisting-of-lawyers-from-msg-radio-city/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-shamir-optics-selects-inuitives-nu4000-to-power-its-next-generation-digital-measurement-device.md",
-      "title": "SHAMIR OPTICS SELECTS INUITIVE'S NU4000 TO POWER ITS NEXT-GENERATION DIGITAL MEASUREMENT DEVICE",
-      "excerpt": "Spark™ 4, Shamir's newest ultra-precise digital measurement device, deploys Inuitive's NU4000 vision-on-chip processor together with IMDT's accurate 3D technology, to offer opticians a simple and effective ophthalmic measurement experience RA'ANANA,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/02/06/9755341.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/02/06/9755341.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

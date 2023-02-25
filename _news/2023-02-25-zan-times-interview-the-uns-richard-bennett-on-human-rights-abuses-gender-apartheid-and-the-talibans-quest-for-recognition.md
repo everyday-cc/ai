@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T19:40:00Z
 originalUrl: "https://womensenews.org/2023/02/zan-times-interview-the-uns-richard-bennett-on-human-rights-abuses-gender-apartheid-and-the-talibans-quest-for-recognition/"
 webUrl: "https://womensenews.org/2023/02/zan-times-interview-the-uns-richard-bennett-on-human-rights-abuses-gender-apartheid-and-the-talibans-quest-for-recognition/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Women's eNews

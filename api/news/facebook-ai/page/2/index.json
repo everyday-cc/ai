@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-07-ai-seinfeld-is-taking-over-twitch.md",
+      "title": "AI Seinfeld is taking over Twitch",
+      "excerpt": "In a twist of technology that only 30 Rock could have predicted, an AI-generated version of Seinfeld is now taking over Twitch. The stream, hosted by a channel called watchmeforever, uses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.polygon.com/23582937/ai-seinfeld-twitch-stream",
+      "originalUrl": "https://www.polygon.com/23582937/ai-seinfeld-twitch-stream",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/zJOTQYSIwslFKceUkRGZg8S_8i4=/0x0:2176x1641/1400x933/filters:focal(626x1050:974x1398):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/71934083/Screen_Shot_2023_02_02_at_10.17.28_AM.0.png",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.polygon.com/platform/amp/23582937/ai-seinfeld-twitch-stream",
+      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/23582937/ai-seinfeld-twitch-stream",
+      "publishedDateTime": "2023-02-06T09:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon",
+        "domain": "polygon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-bigbearai-bounces-higher-on-institutional-speculation-in-artificial-intelligence.md",
+      "title": "BigBear.ai Bounces Higher on Institutional Speculation in Artificial Intelligence",
+      "excerpt": "Facebook just reached the milestone ... For instance, while analysts at Grand View Research anticipates that the global AI industry will expand at a compound annual growth rate of 37.3% between ...",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/investing/2023/02/06/bigbear-ai-bounces-higher-on-institutional-speculation-in-artificial-intelligence/",
+      "originalUrl": "https://247wallst.com/investing/2023/02/06/bigbear-ai-bounces-higher-on-institutional-speculation-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2021/12/imageForEntry10-kzI.jpg?w=400",
+          "width": 400,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/investing/2023/02/06/bigbear-ai-bounces-higher-on-institutional-speculation-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/02/06/bigbear-ai-bounces-higher-on-institutional-speculation-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-02-06T09:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-ai-marketing-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2029.md",
       "title": "AI Marketing Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2029",
       "excerpt": "AI Marketing Market Size 2023-2029 | New Report (113 Pages) | In This Reports AI Marketing Market and its business",
@@ -1311,102 +1397,6 @@
         "Machine Learning",
         "AI Ethics",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-infinite-ai-interns-for-everybody.md",
-      "title": "Infinite AI Interns for Everybody",
-      "excerpt": "I predict 2023 is the year that finally changes, thanks to artificial intelligence. By the end of 2023, AI will be fast becoming one of the most important factors of production in the global economy. It’s true that the history of AI is largely a history ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-labor/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-labor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63c6ed49e99d817cb5daad76/master/pass/03_Infinite-AI-interns-for-everybody.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-labor/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-labor/amp",
-      "publishedDateTime": "2023-01-18T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-facebook-using-artificial-intelligence-to-help-suicidal-people.md",
-      "title": "Facebook Using Artificial Intelligence to Help Suicidal People",
-      "excerpt": "It’s the second leading cause of death for people between 15 and 29 years old. Could AI on Facebook help? Share on Pinterest When a person dies by suicide, those in their life often wonder what ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthline.com/health-news/facebook-artificial-intelligence-help-suicidal-people",
-      "originalUrl": "https://www.healthline.com/health-news/facebook-artificial-intelligence-help-suicidal-people",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.healthline.com/wp-content/uploads/2020/09/4242-facebook_sign-1296x728-header-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthline",
-        "domain": "healthline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

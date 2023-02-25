@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T20:50:00Z
 originalUrl: "https://www.aol.com/entertainment/poker-face-cruella-vil-inspiration-185027164.html"
 webUrl: "https://www.aol.com/entertainment/poker-face-cruella-vil-inspiration-185027164.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: AOL

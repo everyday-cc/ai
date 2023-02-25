@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/artificial-intelligence-delivers-its-latest
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1"
 type: article
 quality: 95
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -34,6 +34,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI competition winners announced"
+    excerpt: "Hamad bin Khalifa University (HBKU), Qatar Computing Research Institute (QCRI) and Huawei have announced the names of winners"
+    publishedDateTime: 2023-02-24T22:02:00Z
+    webUrl: "https://www.gulf-times.com/article/656197/qatar/ai-competition-winners-announced"
+    ampWebUrl: "https://www.gulf-times.com/article/656197/qatar/ai-competition-winners-announced/amp"
+    cdnAmpWebUrl: "https://www-gulf--times-com.cdn.ampproject.org/c/s/www.gulf-times.com/article/656197/qatar/ai-competition-winners-announced/amp"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 59
+    images:
+      - url: "https://www.gulf-times.com/gulftimes/uploads/images/2023/02/24/11078.jpeg"
+        width: 1000
+        height: 526
+        isCached: true
   - title: "Deci Launches New Version of Its Deep Learning Platform Supporting Generative AI Model Optimization"
     excerpt: "Deci, the deep learning company harnessing AI to build AI, today released a new version of its deep learning platform,"
     publishedDateTime: 2023-02-22T19:53:00Z

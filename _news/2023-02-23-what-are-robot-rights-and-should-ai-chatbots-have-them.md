@@ -111,6 +111,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ChatGPT and Bing’s AI chatbot are just stupid enough to work"
+    excerpt: "Leave the AI-written content to CNET. As a writer, I was naturally curious to see how good ChatGPT was as a news and opinion writer. Not because I wanted to start cheating and having a bot write for me, but because of self-preservation — how close am I ..."
+    publishedDateTime: 2023-02-24T23:10:00Z
+    webUrl: "https://bgr.com/tech/chatgpt-and-bings-ai-chatbot-are-just-stupid-enough-to-work/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/New-Bing.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "How This Guy Wrote a Novel Using ChatGPT Authors Worries About Copyrighting and Plagiarism Issues, but AI Will Give You Better Ideas."
+    excerpt: "Writing a novel is a dream for many people, but it can be a daunting task. From coming up with a plot and developing characters to crafting engaging dialogue and building a world, there are many elements to consider."
+    publishedDateTime: 2023-02-24T17:45:00Z
+    webUrl: "https://techbullion.com/how-this-guy-wrote-a-novel-using-chatgpt-authors-worries-about-copyrighting-and-plagiarism-issues-but-ai-will-give-you-better-ideas/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "K+EaP8+f4et9gCyWbdu/a9IR6u49+LR/f/Tlz6kZat+reXnAp1OLHVfmHuwEUFSXxm5DcQk4Iu8eWkR4HIe+RDElz94v4my/Ne0G+tJy/guLFtb2mQapuHF8PrWuhwoUYLizgifyjXhLFnlx8lwkXO40XRc/4xvnzGNwby9+t3zdJKFD0Q1DtK9r3N5/jsRCrDu9sSe1LQP1ECk1KIHKPtEf3DCudZSbJqoJ7OhKuS12Hsl+dMQfAyohGXKNDuqDlmHnpf9cRka5HDYJgmfrvZDf5xwde/YrQLk4ZCaEBL489gPORPzv1oNHqAGrFBn3lFt26JoiewylGu31pLsgUSDKYGs+Oi7xlGKxVeyKyxXsjfqZr3ulzJvL2SyMckDXZTcrwUj6sfjHW7gnetxfqYZ4+WGOdJVttWAOp1bupM6MlEsBCVkREPYnu3U8Ey45FhLt5j4v/6GRm9crdc2D5Ju4ei7GqFhG+pOKK4iY/9Ufb8Swt/vtS39EF7DWoou4SImw6FhshTPbFEEBxxhQ0w==;QyPCNDYLZAiuSvogo9nFLQ=="
 ---

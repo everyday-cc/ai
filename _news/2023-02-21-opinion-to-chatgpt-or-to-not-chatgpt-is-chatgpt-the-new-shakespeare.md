@@ -52,20 +52,6 @@ related:
       name: MyNorthwest.com
       domain: mynorthwest.com
     quality: 39
-  - title: "Censorship, language key hurdles in China to create ChatGPT rival"
-    excerpt: "As the world goes gaga over an AI chatbot called ChatGPT, experts believe that developing its Chinese competitor will surely face censorship, cost and data challenges, as in the case of big Internet companies like Alibaba and Tencent,"
-    publishedDateTime: 2023-02-20T05:51:00Z
-    webUrl: "https://www.ummid.com/news/2023/february/20.02.2023/censorship-language-key-hurdles-in-china-to-create-chatgpt-rival.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 24
-    images:
-      - url: "https://ummid.com/news/2023/february/20.02.2023/chinese-ai-chatbot.jpg"
-        width: 790
-        height: 530
-        isCached: true
   - title: "Amazon will offer ChatGPT rival’s tools in cloud products"
     excerpt: "Amazon Web Services will make Hugging Face’s products, which include a language generation tool that competes with the technology behind OpenAI’s ChatGPT, available to cloud customers who want to use these tools as the building blocks of their own applications."
     publishedDateTime: 2023-02-22T05:27:00Z

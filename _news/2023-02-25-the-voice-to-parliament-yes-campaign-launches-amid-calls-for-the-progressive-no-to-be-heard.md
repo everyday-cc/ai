@@ -8,6 +8,9 @@ webUrl: "https://www.abc.net.au/news/2023-02-25/voice-to-parliament-launch-progr
 ampWebUrl: "https://amp.abc.net.au/article/102020216"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102020216"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Australian Broadcasting Corporation

@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/gaming-opportunities-for-investors-i
 webUrl: "https://www.geekwire.com/2023/gaming-opportunities-for-investors-in-2023-generative-ai-low-code-metaverse-and-more/"
 type: article
 quality: 58
-heat: 88
+heat: 89
 published: true
 
 provider:

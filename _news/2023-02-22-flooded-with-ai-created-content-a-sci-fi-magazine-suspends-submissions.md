@@ -36,7 +36,23 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 66
+  - title: "The editor of a sci-fi magazine says he's getting flooded with plagiarized short stories as AI tools take off: 'It quickly got out of hand'"
+    excerpt: "One AI-assisted author, fintech product designer Ammaar Reshi, received widespread backlash after saying he published an illustrated children's book in December using ChatGPT and Midjourney, an AI art generator. Reshi said he had published the book to give ..."
+    publishedDateTime: 2023-02-22T10:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-ai-written-stories-publisher-clarkesworld-forced-close-submissions-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-written-stories-publisher-clarkesworld-forced-close-submissions-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-written-stories-publisher-clarkesworld-forced-close-submissions-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: "https://i.insider.com/63f5d8ac88f76900192cc8ed?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
-secured: "O/1JjYwSCujMhz3TwX3ft1dLl114WA0PPBYV7R8282zeoMBr1QZIQJYcF+Vdi3VZhnK05wwN6GQ7GHRcY0SjZ3WXU1jIEec+grxoBJ7ZgvBAqsrMTj4NFMaA+LFI5qlHzl9G9u3Bgjg2nwFPh9kZsdwjIqY/hp2NCgC9dtYHGwjP2HoSPwryE+7e8slh2YTFg6+lZuxhMH/9NLF7/c4kAUGfihRFPe1OZg3D3Bie9VOtKU2LqSUTGjFwPTGVqp4Vv6n3e+rol9pUolXE3Dn9eA04QmAHSsI63d1WzY3Mvis2bQq+kt8Bi5rVhR6Bzf2UQEL9xa8HcPynanbKC0e6GV/48uBc0ZSPujbQrnle7N4=;7pAD1iDN5j3CDvGWpsIOYQ=="
+secured: "oZqktFYzq52hlCWzZK7AtakEfsW6dqcvYEpt1EOcaudvCbRp4hmyQkBBDK/Tugz9bQaqnRyaACzwZMC+Z9a2J0bjD+BOMNLNGJkM/esfajeOuMJlOhoALXN7DgkFK+YR3x3zOxdcRgg2mk2F3IUfGvVjrO74UD0Uy8yC+tb1i+s3wG0YOmLa72jhiX8MEsSRmJDXfkCceWDZPqXSkup27+EllExrkrM5HmUK5tpncjdDnxq+UaMhAEzhagXK9GaqsPT5zYHxKjL7GTlr07/dR9wO5peFM2VSICt+CFS5VqsDBB/u4DCr8Z9DV9RnFYt1Z7LUrdzmOO4j6O2Kz+iUXDnx6OV/LVtpXAdKtoltAAd5Mq3Y4cSSPOQXGF8KWXc+jySg9NvCKub61Qv2YDI5SgB46PHBt99w8hlIScBjHppTNm5WpTaxV+qqO3u9YznMWi+pNSKAHeTvU5CY4iB4zcMLHZoJOmz7lhLfbDX26iVesrn8k1Rs/Wfq8AW0OiPreyHxpxQuwOUsMD1Rqrv4tg==;rwKdq8/550ITgmAaC2TCrQ=="
 ---
 

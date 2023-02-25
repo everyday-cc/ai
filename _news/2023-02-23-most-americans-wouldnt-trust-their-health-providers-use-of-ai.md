@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "AI Stocks Are Soaring… But Americans Aren’t That Interested in AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Den Rise Far before February sparked the current"
+    publishedDateTime: 2023-02-24T21:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-are-soaring-but-americans-arent-that-interested-in-ai-1032124725"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2023/02/ai-artificial-intelligence-touch-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Most Americans uncomfortable with artificial intelligence in healthcare, survey says"
     excerpt: "Feb. 22 (UPI) --As artificial intelligence expands in the field of health and medicine, 60% of Americans say they are \"uncomfortable\" with AI being used for their own healthcare, according to a new survey. The Pew Research Center survey, released Wednesday ..."
     publishedDateTime: 2023-02-23T00:59:00Z

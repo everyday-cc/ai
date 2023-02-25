@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T18:20:00Z
 originalUrl: "https://iowacapitaldispatch.com/2023/02/24/iowas-state-universities-not-shying-away-from-ai-technology-in-classrooms/"
 webUrl: "https://iowacapitaldispatch.com/2023/02/24/iowas-state-universities-not-shying-away-from-ai-technology-in-classrooms/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Iowa Capital Dispatch

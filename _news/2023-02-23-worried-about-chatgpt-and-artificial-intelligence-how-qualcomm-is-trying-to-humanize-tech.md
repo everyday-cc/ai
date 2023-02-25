@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2023-02-chatgpt-artificial-intelligence-qua
 ampWebUrl: "https://techxplore.com/news/2023-02-chatgpt-artificial-intelligence-qualcomm-humanize.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-chatgpt-artificial-intelligence-qualcomm-humanize.amp"
 type: article
-quality: 29
+quality: 51
 heat: -1
 published: false
 
@@ -19,6 +19,13 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/qualcomm.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "How Blackbird AI is striking back at ChatGPT and AI-based attacks"
@@ -113,22 +120,15 @@ related:
         width: 906
         height: 509
         isCached: true
-  - title: "Explained: How ChatGPT is sparking AI 'gold rush' in Silicon Valley"
-    excerpt: "ChatGPT has become one of the fastest growing apps ever since its secret release in late November, prompting Microsoft and Google to rush out projects that had previously been kept under wraps due to"
-    publishedDateTime: 2023-02-20T05:39:00Z
-    webUrl: "https://www.firstpost.com/explainers/explained-how-chatgpt-is-sparking-ai-gold-rush-in-silicon-valley-12178582.html"
-    ampWebUrl: "https://www.firstpost.com/explainers/explained-how-chatgpt-is-sparking-ai-gold-rush-in-silicon-valley-12178582.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/explained-how-chatgpt-is-sparking-ai-gold-rush-in-silicon-valley-12178582.html/amp"
+  - title: "ChatGPT on your PC? Meta unveils new AI model that can run on a single GPU"
+    excerpt: "Smaller-sized AI models could lead to running ChatGPT-style language assistants ... can reportedly outperform GPT-3 while running on a single GPU. Unlike the data center requirements for GPT-3 derivatives, LLaMA-13B opens the door for ChatGPT-like ..."
+    publishedDateTime: 2023-02-24T20:02:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 59
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/02/000_337P9FE.jpg"
-        width: 640
-        height: 362
-        isCached: true
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 62
   - title: "Report - ChatGPT and generative AI demand a smarter approach to EU regulation"
     excerpt: "Grist to the mill, perhaps. With Qualcomm’s AI Research division successfully deploying foundational image model Stable Diffusion on an Android phone this week – 15 seconds for 20 inference steps – such tools are likely to become a generation’s ..."
     publishedDateTime: 2023-02-24T11:20:00Z
@@ -236,20 +236,6 @@ related:
       name: Time
       domain: time.com
     quality: 44
-  - title: "ChatGPT Can Do What?! 10 Things You Should Try With AI"
-    excerpt: "Artificial intelligence caught the world’s attention with the rise of ChatGPT. It wowed everyone by writing children’s books to scientific journals within minutes. However, this generative"
-    publishedDateTime: 2023-02-20T03:43:00Z
-    webUrl: "https://technology.inquirer.net/121528/chatgpt-can-do-what-10-things-you-should-try-with-ai"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 39
-    images:
-      - url: "https://technology.inquirer.net/files/2023/02/ChatGPT-uses-featured-image-beincrypto.com_-620x349.png"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Rise of AI: Google wrestles OpenAI's ChatGPT in a no holds Bard match"
     excerpt: "With the release of OpenAI's ChatGPT in November 2022, the development of chatbots using AI has gained prominence in recent years."
     publishedDateTime: 2023-02-20T14:49:00Z
@@ -310,15 +296,6 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 19
-  - title: "China plays catch-up to ChatGPT as hype builds around AI"
-    excerpt: "The race to match ChatGPT comes as the China tech groups have spent the better part of two years reeling from regulatory attacks and fighting for growth amid the zero-Covid induced slowdown. Baidu is taking the most concrete early steps,"
-    publishedDateTime: 2023-02-20T01:16:00Z
-    webUrl: "https://www.ft.com/content/a4f6c01e-403f-4d43-9c6a-713d49771a4d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "ChatGPT hype sparks hopes and fears around AI"
     excerpt: "It follows rapid rises in the shares of Chinese AI groups (mirroring trends in the US), prompting state media to issue a warning about the speculative frenzy. There are, however, several obstacles for the fledgling industry to overcome."
     publishedDateTime: 2023-02-20T18:15:00Z
@@ -338,6 +315,6 @@ related:
       domain: statesman.com
     quality: 9
 
-secured: "w/tGAFmfLwiuk3tBXAAJVOutEJYa5qkpEDOmMWHwJNyTnI0WAwwd6CVcqOqYyjpPRYyT/x8cvXKsaG4w4kJmcZssA6m2Nm5HZhdb/JA5lmyrFSDIf1SEGSO+1/PhFq82+GOGArfXC9pvAddqB4TWZhINLbeVrpli3gyFXcqYiejdTinvgJqTDVyvAVYczt+tXiDF2THl/eteBjgca4t7QS168HZ9shvrn89hgfAlKsX8D33cqLFr7n2dH3h+Pp9bVIGRwHI66RY46Xr/vzte4xLaEpMnYY5okTjMlK2qFt1lR/xT/tNc3EypXlb45q5CruMu0LzUgVDTOZ+2ZyPo6GkjFToEqXTLKTgHQ+QErtbQl5gFRjoaRlqbrXEwctX4a04OjYbB34eFtLRaU7vZRlJahMp/v69IY+zz/R+lg+DsKt99/fUmifbIMQiI+LhEP0qDAMaSLh8kR2r2nwVenGuewquhWFITsr2NFfEAOFnKWJBD9S4BnjxElYpawCIyPQ75IxawGCYeOdV9DxUbEg==;HgOPAYVUDN3EMcwqWVXieA=="
+secured: "p/nVIFrNLWOoPCFE27Z8Oj4FfDFiI7mdZ2IYvoXTI4GZqSaVFI/uiyPii8eBHP47H7F7eRqoCYSmSdeKpFLwoNnhmoXXd7YYE+mXEBbSFV9ncC0kXjgtgh49UB8AySqg1ofdxu/21NSdIhqdsiv9XnFQhXWdnzG+012ly+rMgzO7BY4E3svGEfFDxB1ZlDVi1RRRmiqsN8qgnmVG0Lk8BqahIBdW4lS43sdiyszqw1SJNGM+HmtXAaIEqafzKGsGmEL8ynIWZSjaQlTrWRXi8B04Cvx6r/e+RTacbFEgoYHRrYUkCWQIHr7kUkqEszIVbJAq7ffzY9zgJLdlQZ5kuT0XwsefexAupmfCoqf9LLk=;xBDy+EMvsDNHjafNjICkcQ=="
 ---
 

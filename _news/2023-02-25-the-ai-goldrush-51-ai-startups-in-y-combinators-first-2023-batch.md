@@ -8,6 +8,9 @@ webUrl: "https://www.benzinga.com/news/23/02/31052728/the-ai-goldrush-51-ai-star
 ampWebUrl: "https://www.benzinga.com/amp/content/31052728"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31052728"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Benzinga.com

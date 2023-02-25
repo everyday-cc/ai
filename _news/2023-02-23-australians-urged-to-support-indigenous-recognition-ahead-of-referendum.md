@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "What to Know About Australia’s Indigenous ‘Voice to Parliament’ Vote"
-    excerpt: "Unlike some other former British colonies, Australia doesn’t have a treaty with its Indigenous population, collectively known as First Nations. There isn’t even a mention of them in the country’s constitution."
-    publishedDateTime: 2023-02-20T01:52:00Z
-    webUrl: "https://www.washingtonpost.com/business/what-to-know-about-australias-indigenous-voice-to-parliament-vote/2023/02/20/f3e4598a-b0f3-11ed-94a0-512954d75716_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PHVBFXVQQMI63FFAKEUVJV2XCY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "‘Unfinished business’: Australia to hold referendum on giving Indigenous people a voice in parliament"
     excerpt: "In October, voters will decide whether they support the enshrinement of an Indigenous voice to parliament in the constitution, the culmination of years of campaigning by Aboriginal groups for recognition in the nation’s “birth certificate”, as the ..."
     publishedDateTime: 2023-02-24T04:02:00Z

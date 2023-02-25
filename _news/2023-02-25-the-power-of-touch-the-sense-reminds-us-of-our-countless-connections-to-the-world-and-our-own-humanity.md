@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T17:55:00Z
 originalUrl: "https://medicalxpress.com/news/2023-02-power-countless-world-humanity.html"
 webUrl: "https://medicalxpress.com/news/2023-02-power-countless-world-humanity.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Medical Xpress

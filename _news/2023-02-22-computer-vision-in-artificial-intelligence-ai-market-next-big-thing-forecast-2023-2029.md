@@ -182,20 +182,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2023 Is Booming Worldwide | Including Latest 111 Pages Report"
-    excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Marketsize, segment (mainly coveringMajorType (, Artiï¬ cial Neural Networks, Machine Learning, Other, ,),End Users (, Inventory Control and Planning, Transportation Network Design, Purchasing ..."
-    publishedDateTime: 2023-02-20T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-2023-is-booming-worldwide-including-latest-111-pages-report-2023-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI based Edge Computing Chip Market is expected to witness Incredible Growth during 2023-2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 21, 2023 (The Expresswire) -- \"AI based Edge Computing Chip Market\" Size, Share and Trends Analysis Report 2023 - By Applications (Consumer Devices, Enterprise Devices ..."
     publishedDateTime: 2023-02-21T06:00:00Z
@@ -205,6 +191,24 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+  - title: "Artificial Intelligence (AI) in Healthcare Market : Global Market Growth, New Trends, COVID-19 Impact and Forecast 2023 To 2028"
+    excerpt: "According to Precision Reports, the “Artificial Intelligence (AI) in Healthcare Market\" 2023 by Types (Hardware,"
+    publishedDateTime: 2023-02-24T06:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-global-market-growth-new-trends-covid-19-impact-and-forecast-2023-to-2028-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+  - title: "2023 Global AI In Computer Vision Market: Most Recent & In-Depth Analysis and Forecast of Industry till 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 24, 2023 (The Expresswire) -- The \"AI In Computer Vision Market\" Growth for 2023 research report provides a comprehensive analysis of the market. Besides revenue ..."
+    publishedDateTime: 2023-02-24T17:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-global-ai-in-computer-vision-market-most-recent-in-depth-analysis-and-forecast-of-industry-till-2028-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
   - title: "Global Artificial Intelligence (AI) in Fintech Market 2023: Global Production, Value, Supply or Demand 2026 Forecasts"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Market Analysis and Insights:Global Artificial Intelligence (AI) in Fintech Market As FinTech applies data and technology to financial services in an effort to address ..."
     publishedDateTime: 2023-02-23T08:05:00Z
@@ -223,20 +227,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market In 2023 : Volume, Analysis, Future Prediction, Overview and Forecast 2028"
-    excerpt: "Precision Reports has published a detailed report on “Artificial Intelligence and Cognitive Computing Market\" 2023"
-    publishedDateTime: 2023-02-20T03:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-in-2023-volume-analysis-future-prediction-overview-and-forecast-2028-2023-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

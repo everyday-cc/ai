@@ -21,29 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "China Telecom Stocks Rise Amid AI Chatbot Buzz"
-    excerpt: "Shares of China telecommunication majors gained in morning trade on a report that China Telecom Corp. is developing an artificial intelligence-powered chatbot, reflecting investor enthusiasm about the technology,"
-    publishedDateTime: 2023-02-20T03:36:00Z
-    webUrl: "https://www.wsj.com/articles/china-telecom-stocks-rise-amid-ai-chatbot-buzz-b79a30a7"
+  - title: "China's Baidu Says 2022 Revenue Fell 1%, Flags 'Ernie' Chatbot"
+    excerpt: "Chinese search giant Baidu reported Wednesday that revenue fell by one percent in 2022 but also said it will include its artificial intelligence chatbot Ernie in its search services from March."
+    publishedDateTime: 2023-02-22T14:25:00Z
+    webUrl: "https://www.barrons.com/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
+    ampWebUrl: "https://www.barrons.com/amp/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+  - title: "Baidu to Embed AI-Powered Ernie Bot in All Products, Services, CEO Robin Li Says"
+    excerpt: "Baidu plans to build an ecosystem around Ernie Bot, its own ChatGPT-style artificial intelligent chatbot, by fully incorporating it into all of the Chinese tech giant’s products and services, Chief Executive Robin Li said."
+    publishedDateTime: 2023-02-23T00:00:00Z
+    webUrl: "https://www.yicaiglobal.com/news/baidu-to-embed-ai-powered-ernie-bot-in-all-products-services-ceo-robin-li-says"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 34
     images:
-      - url: "https://images.wsj.net/im-728378/social"
-        width: 1280
-        height: 640
+      - url: "http://img.yicaiglobal.com/cdn/news/baidu-to-embed-ai-powered-ernie-bot-in-all-products-services-ceo-robin-li-says/37020291543749.jpg"
+        width: 720
+        height: 480
         isCached: true
-  - title: "Bing's AI chatbot has a question limit that is more of a problem than a solution"
-    excerpt: "After reports of the Bing chatbot's outlandish behavior, Microsoft has decided to limit the interactions users can have with the bot. Th results are quite annoying."
-    publishedDateTime: 2023-02-20T20:07:00Z
-    webUrl: "https://www.zdnet.com/article/bings-ai-chatbot-has-a-question-limit-that-is-more-of-a-problem-than-a-solution/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 42
 
 secured: "baTuoLyoXC+383uW4C5m5KkU8nOqXi8oWlYIkv7eWMhz2CYEobCgVnoCirPAZ1W9BNU/Xq6QJJyJCV9RcOfr5NYyjz8ALVwr7eCxFqxWbSA4tSBPhBitpQ/pb86ZClnrHfi2sq52fuW56DxIhbfGOWPGEfPoFL8zQFRyOIY8PAzKcqFf/Ceof/D8INrCXAnJ+uhkuZfRdd9T8LX1dErRWgTNOhvMU+cMWdwAzWQibtaN3AK/kLHS9O5Jfn2ZMJJXpchOxy2hziBIYnQbQVk58vPprUM6T8jGqlyc4Vd/tWF5o2tTd8J9J7oSCrx+zuwbYgB0Kk6kqh9FhSJqv5q+mlIxaNN6RfcUMhKYC6ER4iaBcjvzYxA0zKE/wBmHpv7TbR0SYRMpM94D5Sb3YmbLhK6lpLpabCCJoVIrJy4nQAoF/qq4Wzk867x67n3JezeHGVSbtzC9Qd+7i0W+B2qlVJr43Dp/Xc5xrlVk1hdLvpaVgbR/ymPhfLvAZBAIkVPn9wPvtddFZ/xuZiBElcBFgg==;bQ8dnGoJFIgxRYaBp3HkkA=="
 ---

@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ChatGPT and Bing’s AI chatbot are just stupid enough to work"
+    excerpt: "Leave the AI-written content to CNET. As a writer, I was naturally curious to see how good ChatGPT was as a news and opinion writer. Not because I wanted to start cheating and having a bot write for me, but because of self-preservation — how close am I ..."
+    publishedDateTime: 2023-02-24T23:10:00Z
+    webUrl: "https://bgr.com/tech/chatgpt-and-bings-ai-chatbot-are-just-stupid-enough-to-work/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/New-Bing.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "What are ‘robot rights,’ and should AI chatbots have them?"
     excerpt: "AI chatbots are all the rage. From ChatGPT to Bing’s new AI-powered search engine and Google’s new Bard chatbot, people are obsessed with seeing how they can replace tasks with AI and test its limits."
     publishedDateTime: 2023-02-22T19:00:00Z
@@ -113,6 +127,15 @@ related:
       name: grid
       domain: grid.news
     quality: 36
+  - title: "How This Guy Wrote a Novel Using ChatGPT Authors Worries About Copyrighting and Plagiarism Issues, but AI Will Give You Better Ideas."
+    excerpt: "Writing a novel is a dream for many people, but it can be a daunting task. From coming up with a plot and developing characters to crafting engaging dialogue and building a world, there are many elements to consider."
+    publishedDateTime: 2023-02-24T17:45:00Z
+    webUrl: "https://techbullion.com/how-this-guy-wrote-a-novel-using-chatgpt-authors-worries-about-copyrighting-and-plagiarism-issues-but-ai-will-give-you-better-ideas/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "Q05m1SAzeUSW+/B5Yhb2qgXI+5yluFDo7bucwC0CKnqp/8As85H7cZ/+pjRadBYhoQjnDkS6fTOaO2mrXqoiBbpKQzNl6mSD3xFwp55bTtvlaDKGNQ11otm0L1d31mEsq22CijyaxpqU583ufkxSpHn6sKYyq6ahh3d1pH0kWODsy+XwAkUq2bzMvJ+lRAutdxtq3y7RzgwD4i4G10cl8Ciu0IjnVwiLxLRjjjiDb6wc0FmoSYmwA7+YZTBbSLP8ij+yE8i1M2s58CAd8snN+eqCZDay1LHUV+4F9YKUQ85Q+ilzaqJ3Y6CoIUHERJHPlKXrmTlcpmsWaRJVSakXoksUgO+NdMM1qy9X1/wQP/3DtzkdccG3P6rZi8wKD+H3I0ROhEiYFsixfhupUwRHJpD390kq85FESejiM8X1TO03bVgrko/uETe1z6CPzuRAvFt00hpYm4SrulIi/G6dc54Vg3oUX8S+qmn3jhvc4G83lyXOdx8amr5OTxyIgMfJ2BnaO6DHL5gUy14ohsCwAQ==;r8yXkZkEPUpq9fHG5Uj1Pg=="
 ---

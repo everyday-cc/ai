@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T16:02:00Z
 originalUrl: "https://www.tbsnews.net/economy/industry/vr-games-artificial-intelligence-robotics-enthral-most-visitors-basis-softexpo"
 webUrl: "https://www.tbsnews.net/economy/industry/vr-games-artificial-intelligence-robotics-enthral-most-visitors-basis-softexpo"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: tbsnews

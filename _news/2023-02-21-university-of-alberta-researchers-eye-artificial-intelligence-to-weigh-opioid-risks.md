@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theglobeandmail.com/amp/life/article-university-of-alber
 cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: The Globe and Mail
@@ -38,20 +38,6 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 39
-  - title: "University of Alberta researchers eye artificial intelligence to weigh opioid risks"
-    excerpt: "Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug overdose crisis across Canada."
-    publishedDateTime: 2023-02-20T05:08:00Z
-    webUrl: "https://www.iheartradio.ca/ctv-news-content/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks-1.19270674"
-    type: article
-    provider:
-      name: CKLW
-      domain: iheartradio.ca
-    quality: 33
-    images:
-      - url: "http://www.iheartradio.ca/image/policy:1.19270675:1676836358/image/image.png?a=16%3A9&w=1000&$p$a$w=97c4ea5"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "D13vvfMBGQ9QMJuILZNc8svRMm7ftI66GF3Tj3P3sdShhXJEvoQAPG0luiJyi5Ia1qv/4iyR5Zhj7vls3qvuI6fH0HPG8MCHeHDwVqoy2p/ArN5VNLFtPXqX48Yij5E1Pp3vwQlszR+WBGOFk1+D9iDPldSMK8RWRN1/XureH2NH4+UoO34n+BfEUIJE8KLzAWvSNI+IYaF7KV05A+NJ1Oa4I9RArm6PAb0POiEbuBGtHuQ6RtaM+u35z5sE0ZV++3URvJ1b1Md8IHAZRnqplFbglDEQ/yR57hBH6iMzoUm2PQ70fsn4+BU0vqpdd2ULMSitP1p0CNNFQDeNuAhzAttuH9YV/ph7EURQvnttFqE=;lT//HQH0byzXXNIAAo+mXw=="
 ---

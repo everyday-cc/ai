@@ -2,21 +2,21 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-02-21-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.md",
-      "title": "University of Alberta researchers eye artificial intelligence to weigh opioid risks",
-      "excerpt": "Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug overdose crisis across Canada. While doctors have a set protocol to identify patients at risk of opioid addiction,",
+      "path": "_news/2023-02-21-neuromorphic-camera-and-machine-learning-aid-nanoscopic-imaging.md",
+      "title": "Neuromorphic camera and machine learning aid nanoscopic imaging",
+      "excerpt": "Their novel technique, which combines optical microscopy with a neuromorphic camera and machine learning algorithms, presents a major step forward in pinpointing objects smaller than 50 nanometers ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/",
-      "originalUrl": "https://www.theglobeandmail.com/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/",
+      "webUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.html",
+      "originalUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://www.theglobeandmail.com/resizer/PeNMGAK8TsbCOnEz6CqWoZqzeO8=/1200x1088/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/IUOYJSSAI5OJVPD3ESNQWGWM3Q.jpg",
-          "width": 1200,
-          "height": 1088,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/neuromorphic-camera-an.jpg",
+          "width": 2000,
+          "height": 1477,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theglobeandmail.com/amp/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/",
-      "cdnAmpWebUrl": "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/",
-      "publishedDateTime": "2023-02-20T08:48:00-08:00",
+      "ampWebUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.amp",
+      "publishedDateTime": "2023-02-21T07:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +40,377 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-artificial-intelligence-in-fashion.md",
+      "title": "Artificial Intelligence In Fashion",
+      "excerpt": "As an AI enthusiast, I can tell you that artificial intelligence is quickly becoming a game-changer in the fashion industry. From design to marketing and sales, AI is affecting everything and offering businesses new opportunities to streamline their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/",
+      "publishedDateTime": "2023-02-21T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-6-ways-to-improve-accessibility-with-azure-ai.md",
+      "title": "6 ways to improve accessibility with Azure AI",
+      "excerpt": "Microsoft and Azure AI offer a range of accessibility solutions to help organizations create more inclusive experiences for their users. These AI-powered tools can help individuals with disabilities better access and engage with digital content, whether it's through speech-to-text transcription, image",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/",
+      "originalUrl": "https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T02:00:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-5-of-the-best-online-artificial-intelligence-courses-available-for-free-this-week.md",
+      "title": "5 of the best online artificial intelligence courses available for free this week",
+      "excerpt": "All products featured here are independently selected by our editors and writers. If you buy something through links on our site, Mashable may earn an affiliate commission. FREE COURSES ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/deals/free-online-artificial-intelligence-courses",
+      "originalUrl": "https://mashable.com/uk/deals/free-online-artificial-intelligence-courses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/00Wht1AXFtkt7aWPDRqCK1t/hero-image.fill.size_1200x675.v1676893321.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-20T22:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-travelers-have-mixed-feelings-about-facial-recognition-technology-at-las.md",
+      "title": "Travelers have mixed feelings about facial recognition technology at LAS",
+      "excerpt": "LAS VEGAS (KTNV) — Harry Reid International Airport is one of 16 airports nationwide testing facial recognition technology at airport security checkpoints. The technology was first rolled out ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las",
+      "originalUrl": "https://www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/717/b9cd621bb5cc43d8b6bdc641d1acdca8/717f5520240044009c25dec6f417f641/poster_c050c08cc5fb4881adf39c95cbc18bc1.jpeg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las?_amp=true",
+      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las?_amp=true",
+      "publishedDateTime": "2023-02-20T19:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTNV Las Vegas",
+        "domain": "ktnv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text.md",
+      "title": "AI gets hang of Gujarati to translate Chinese, Hindi text",
+      "excerpt": "Taking a cue from ChatGPT that has taken the world by storm, demonstrating what a good database coupled with natural language processing (NLP) can do,",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/articleshow/98106976.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/articleshow/98106976.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-98106990,width-1070,height-580,imgsize-1198029,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/amp_articleshow/98106976.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/amp_articleshow/98106976.cms",
+      "publishedDateTime": "2023-02-20T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-roger-c-schank-theorist-of-artificial-intelligence-dies-at-76.md",
+      "title": "Roger C. Schank, Theorist of Artificial Intelligence, Dies at 76",
+      "excerpt": "By Steve Lohr Roger C. Schank, a scientist who made influential contributions to the field of artificial intelligence and then, as an academic, author and entrepreneur, focused on how people learn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
+      "originalUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/17Schank-czhl-print1/17Schank-czhl-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
+      "publishedDateTime": "2023-02-20T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-artificial-intelligence-opens-new-possibilities-if-the-data-allows.md",
+      "title": "Artificial Intelligence Opens New Possibilities, If The Data Allows",
+      "excerpt": "It's the result of the data behind it. Can artificial intelligence make us more creative and innovative? It’s a subject of hot debate and discussion. A recent analysis out of the Gottlieb Duttweiler Institute suggests that,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f3fbedc81e448fba56b89c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/amp/",
+      "publishedDateTime": "2023-02-20T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks.md",
+      "title": "How Blackbird AI is striking back at ChatGPT and AI-based attacks",
+      "excerpt": "Blackbird AI announces the launch of an AI assistant for security analysts, which uses generative AI to create mitigation guidance.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/",
+      "originalUrl": "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 327,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/image0.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/amp/",
+      "publishedDateTime": "2023-02-20T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -53,7 +423,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-text-to-image-stable-diffusion-models-with-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -94,48 +464,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-researchers-aim-to-bring-humans-back-into-the-loop-as-ai-use-and-misuse-rises.md",
-      "title": "Researchers aim to bring humans back into the loop as AI use and misuse rises",
-      "excerpt": "Artificial intelligence is dominating headlines—enabling new innovations that drive business performance—yet the negative implications for society are an afterthought.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-02-aim-humans-loop-ai-misuse.html",
-      "originalUrl": "https://techxplore.com/news/2023-02-aim-humans-loop-ai-misuse.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg",
-          "width": 1920,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-02-aim-humans-loop-ai-misuse.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-aim-humans-loop-ai-misuse.amp",
-      "publishedDateTime": "2023-02-20T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -344,7 +672,7 @@
       "originalUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -892,325 +1220,6 @@
         "AWS AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-artificial-intelligence-could-increase-foreign-espionage-displace-jobs-without-proper-guardrails-experts-say.md",
-      "title": "Artificial intelligence could increase foreign espionage, displace jobs without proper guardrails, experts say",
-      "excerpt": "Quickly evolving artificial intelligence technologies like ChatGPT could increase cyberattacks from foreign countries and displace workers in the U.S. labor force, highlighting the need for new skills and training among American students and workers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/artificial-intelligence-increase-foreign-espionage-displace-jobs-guardrails-experts",
-      "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-increase-foreign-espionage-displace-jobs-guardrails-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/artificial-intelligence-increase-foreign-espionage-displace-jobs-guardrails-experts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-increase-foreign-espionage-displace-jobs-guardrails-experts.amp",
-      "publishedDateTime": "2023-02-19T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-man-beats-machine-at-go-in-human-victory-over-ai.md",
-      "title": "Man beats machine at Go in human victory over AI",
-      "excerpt": "A human player has comprehensively defeated a top-ranked AI system at the board game Go, in a surprise reversal of the 2016 computer victory that was seen as a milestone in the rise of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/02/man-beats-machine-at-go-in-human-victory-over-ai/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/02/man-beats-machine-at-go-in-human-victory-over-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/61643-go-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/02/man-beats-machine-at-go-in-human-victory-over-ai/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/man-beats-machine-at-go-in-human-victory-over-ai/amp/",
-      "publishedDateTime": "2023-02-19T04:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley.md",
-      "title": "ChatGPT sparks Artificial Intelligence 'gold rush' in Silicon Valley",
-      "excerpt": "Since its discrete release in late November, ChatGPT has become one of the fastest growing apps ever and pushed Microsoft and Google to rush out projects that had until now stayed carefully guarded over fears that the technology wasn't yet ready for the public.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/02/19/1600x900/Chatgpt_1675705434973_1676245245617_1676786774063_1676786774063.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556-amp.html",
-      "publishedDateTime": "2023-02-18T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-driverless-car-market-2028-by-product-type-end-user-capacity-and-geography.md",
-      "title": "Driverless Car Market 2028 By Product Type, End User, Capacity and Geography",
-      "excerpt": "The driverless car is also known as autonomous car, robotic car or self-driving car. According to our latest research, the global Driverless Car market size will reach USD 15190 million in 2028, growing at a CAGR of 17.9Percent over the analysis period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-2028-by-product-type-end-user-capacity-and-geography-2023-02-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-2028-by-product-type-end-user-capacity-and-geography-2023-02-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-18T18:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths.md",
-      "title": "AI in opioid addiction: Artificial intelligence can play a big role in treatment, preventing deaths",
-      "excerpt": "By attaching to opioid receptors on nerve cells in the brain, spinal cord, gastrointestinal tract and other body organs, they impede the transmission of pain signals. In order to streamline the procedure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/world/ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths-11676770556741.html",
-      "originalUrl": "https://www.livemint.com/news/world/ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths-11676770556741.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/02/19/600x338/AI-andrea-de-santis-zwd435_1676774094264_1676774106929_1676774106929.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/world/ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths/amp-11676770556741.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-in-opioid-addiction-artificial-intelligence-can-play-a-big-role-in-treatment-preventing-deaths/amp-11676770556741.html",
-      "publishedDateTime": "2023-02-18T18:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-minister-artificial-intelligence-robotics-will-promote-inclusive-devt.md",
-      "title": "Minister: Artificial Intelligence, Robotics Will Promote Inclusive Devt",
-      "excerpt": "The Minister of Education, Mallam Adamu Adamu, has stated that artificial intelligence (AI) and robotics technology have a huge potential to promote inclusive development, while describing them as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2019/01/23/minister-artificial-intelligence-robotics-will-promote-inclusive-devt/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2019/01/23/minister-artificial-intelligence-robotics-will-promote-inclusive-devt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2019/01/23/minister-artificial-intelligence-robotics-will-promote-inclusive-devt/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2019/01/23/minister-artificial-intelligence-robotics-will-promote-inclusive-devt/amp/",
-      "publishedDateTime": "2023-02-18T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-wiimote-controlled-rpi-robot.md",
-      "title": "Wiimote Controlled RPi Robot",
-      "excerpt": "The end goal is to have a robot that’s controlled by a Wiimote. The Wiimote communicates over Bluetooth with a Raspberry Pi, which is running a Python script. This script uses the CWiid Python ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2013/03/07/wiimote-controlled-rpi-robot/",
-      "originalUrl": "https://hackaday.com/2013/03/07/wiimote-controlled-rpi-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://hackaday.com/wp-content/uploads/2013/03/wiipi.png?w=580",
-          "width": 580,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-18T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

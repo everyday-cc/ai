@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-25-artificial-intelligence-companies-you-may-want-to-invest-in-now.md",
+      "title": "Artificial Intelligence Companies You May Want To Invest In Now",
+      "excerpt": "Even if you somehow avoided that news, AI offerings are everywhere. We’ll review some artificial intelligence companies well-positioned to magnify earnings in the coming years. If you’re a seasoned investor, you’ll likely have heard about most of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f909efaf73498cf7093b40/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/amp/",
+      "publishedDateTime": "2023-02-24T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-artificial-intelligence-opens-up-the-world-of-financial-services.md",
       "title": "Artificial Intelligence Opens Up The World Of Financial Services",
       "excerpt": "The way we make decisions on credit should be fair and inclusive and done in a way that takes into account a greater picture of a person.” Here are the ways AI can help assure more equitable access to financial services: Personalize without branches.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -52,49 +105,6 @@
         "AI in Finance",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-most-americans-uncomfortable-with-artificial-intelligence-in-healthcare-survey-says.md",
-      "title": "Most Americans uncomfortable with artificial intelligence in healthcare, survey says",
-      "excerpt": "Feb. 22 (UPI) --As artificial intelligence expands in the field of health and medicine, 60% of Americans say they are \"uncomfortable\" with AI being used for their own healthcare, according to a new survey. The Pew Research Center survey, released Wednesday ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/",
-      "originalUrl": "https://www.upi.com/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/4801677114829/2023/1/4fe1a038a4ed6104ece698c5f67f3b1c/v1.5/Most-Americans-uncomfortable-with-artificial-intelligence-in-healthcare-survey-says.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/",
-      "publishedDateTime": "2023-02-22T16:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -150,7 +160,7 @@
       "originalUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -194,49 +204,6 @@
         "Natural Language Processing",
         "IBM AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.md",
-      "title": "University of Alberta researchers eye artificial intelligence to weigh opioid risks",
-      "excerpt": "Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug overdose crisis across Canada. While doctors have a set protocol to identify patients at risk of opioid addiction,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/",
-      "originalUrl": "https://www.theglobeandmail.com/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/PeNMGAK8TsbCOnEz6CqWoZqzeO8=/1200x1088/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/IUOYJSSAI5OJVPD3ESNQWGWM3Q.jpg",
-          "width": 1200,
-          "height": 1088,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theglobeandmail.com/amp/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/",
-      "cdnAmpWebUrl": "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/life/article-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh/",
-      "publishedDateTime": "2023-02-20T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -737,24 +704,15 @@
     {
       "path": "_news/2023-02-16-ge-healthcare-makes-push-into-artificial-intelligence.md",
       "title": "GE HealthCare Makes Push Into Artificial Intelligence",
-      "excerpt": "The company is developing a software platform that helps hospitals guide care.",
+      "excerpt": "GE HealthCare Technologies Inc. is making a big bet on an important challenge in healthcare: collecting the disparate data on patients generated by machines and medical records and making it useful to hospitals.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509",
-      "originalUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509",
+      "webUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509?mod=latest_headlines",
+      "originalUrl": "https://www.wsj.com/articles/ge-healthcare-makes-push-into-artificial-intelligence-136cb509?mod=latest_headlines",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-718151/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1444,6 +1402,58 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-innovationrx-artificial-intelligence-in-biopharma-plus-lingering-covid-symptoms.md",
+      "title": "InnovationRx: Artificial Intelligence In Biopharma; Plus, Lingering Covid Symptoms",
+      "excerpt": "The most common use of artificial intelligence in biopharmaceutical ... has raised $30 million in its bid to develop a new therapy for bladder cancer. A fast-acting male birth control drug showed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2023/02/15/innovationrx-artificial-intelligence-in-biopharma-plus-lingering-covid-symptoms/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2023/02/15/innovationrx-artificial-intelligence-in-biopharma-plus-lingering-covid-symptoms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ed86bef3948162f2ed2983/0x0.jpg?format=jpg&crop=2811,1581,x0,y77,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -8,6 +8,9 @@ webUrl: "https://techcrunch.com/2023/02/23/google-photos-ai-powered-magic-eraser
 ampWebUrl: "https://techcrunch.com/2023/02/23/google-photos-ai-powered-magic-eraser-is-now-a-google-one-subscription-perk/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/23/google-photos-ai-powered-magic-eraser-is-now-a-google-one-subscription-perk/amp/"
 type: article
+quality: 83
+heat: 83
+published: true
 
 provider:
   name: TechCrunch

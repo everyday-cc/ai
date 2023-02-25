@@ -44,6 +44,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Sensing The External World At Signal AI"
+    excerpt: "But that is just what Signal AI is doing with machine learning. They produce “external intelligence” intended as an aid to decision-making. It could also be called “environmental sensing.” The London-based company uses AI to disambiguate,"
+    publishedDateTime: 2023-02-24T17:47:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/02/24/sensing-the-external-world-at-signal-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "g/fRugYahI8ShqStsS6eTxXQc+GibbTw5r8vNrI2fIJ9BlW3OF3kONqkzlFngoLm83i+5hj7qS1XYmZC6mn4YK7SAppzDrEQmPgqo2spg913hKJwvJ8C0p+yiGLgvUvheui2ihNtX6nup8F+z9EHZ7sAYtuxSz3JmrbdQN6onaY0I1gTD5z/JRoB+NLk4YfpjpRJvm+Qpcge9WhZcWjSVW92EVhxbbzaNqzkQRE2nIVeJh+e6ZZ2Xx3N9Y6MZTLGzpFXUDVL/1XIpdIFPu7FOS9ArIuuo0ieZLoNh0ewYA/axLLGqU4v51QZ8Cpl4lwvSAvg8oTog7ugPmkIUoow2LW3h4lM6j9ak34zFjDegNo=;vGkCKSEPvObddAuiBomm3w=="
 ---

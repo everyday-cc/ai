@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-mor
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp"
 type: article
 quality: 92
-heat: 162
+heat: 182
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "ChatGPT and Bing’s AI chatbot are just stupid enough to work"
+    excerpt: "Leave the AI-written content to CNET. As a writer, I was naturally curious to see how good ChatGPT was as a news and opinion writer. Not because I wanted to start cheating and having a bot write for me, but because of self-preservation — how close am I ..."
+    publishedDateTime: 2023-02-24T23:10:00Z
+    webUrl: "https://bgr.com/tech/chatgpt-and-bings-ai-chatbot-are-just-stupid-enough-to-work/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/New-Bing.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "What are ‘robot rights,’ and should AI chatbots have them?"
     excerpt: "AI chatbots are all the rage. From ChatGPT to Bing’s new AI-powered search engine and Google’s new Bard chatbot, people are obsessed with seeing how they can replace tasks with AI and test its limits."
     publishedDateTime: 2023-02-22T19:00:00Z
@@ -117,6 +131,15 @@ related:
       name: grid
       domain: grid.news
     quality: 36
+  - title: "How This Guy Wrote a Novel Using ChatGPT Authors Worries About Copyrighting and Plagiarism Issues, but AI Will Give You Better Ideas."
+    excerpt: "Writing a novel is a dream for many people, but it can be a daunting task. From coming up with a plot and developing characters to crafting engaging dialogue and building a world, there are many elements to consider."
+    publishedDateTime: 2023-02-24T17:45:00Z
+    webUrl: "https://techbullion.com/how-this-guy-wrote-a-novel-using-chatgpt-authors-worries-about-copyrighting-and-plagiarism-issues-but-ai-will-give-you-better-ideas/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "44G8CCJPGaxBS1bhPFbVLQndm6DjQA5yEN3SPqlp8LcygkdB5TUErWSZqatKiUf1gESK3F2ZPIt7v2Ffm4b72sf73Dex2+ftDZ+6zeV2vYgpXL1NF64SRvCX8Y5a/OppsR+iF29bY/6LRid74QqNJTqm2SuxP2rVfnULf40mwWbGrg9Fl+TDCV1xsQHFEYuUX3a6rA9u/TNEzhtr9KNdKkdZ81emhcDqAGy3/xwxSC4L2Ht+oxBZkdGY93fNywQ3VYjicLfIKd/GBvPxf/FBDA8OoCoZmgGA3BC4DKEyAvBWhiUwMI1idk9VSLiScuBbHaZMwNXS8bTp16FQDrmRdMYkABV69gKxw7T//fnjgZ7ESZ+6eZN2ppOPQaPUth6cBw29CSDYNsiPAGQCkKcAIZXBBWywGax8baa+jibEllYm4IaoYn6babvLf0xsSFdLNI5dJKK7cyCMpDowBa+TPC9jUwTGfPpKw6WXsbgM4A1svd+TBWodGvT+VVgJWJqPrrwxYyQN9AUUdi7w4K6l+Q==;8bk0oKrtRUBUEFcUKBBQUA=="
 ---

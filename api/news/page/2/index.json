@@ -2,6 +2,309 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-23-the-case-for-software-criticism.md",
+      "title": "The Case for Software Criticism",
+      "excerpt": "Software may be the defining cultural artifact of our time. So why isn’t there a culture of critical analysis around it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/software-criticism/",
+      "originalUrl": "https://www.wired.com/story/software-criticism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63f6c2ced35154c5a1727fc0/master/pass/ideas_software_criticism_programming_culture.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/software-criticism/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/software-criticism/amp",
+      "publishedDateTime": "2023-02-23T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-23-samsung-galaxy-s23-this-new-feature-creates-an-ai-version-of-your-voice-to-respond-to-calls.md",
+      "title": "Samsung Galaxy S23: This new feature creates an AI version of your voice to respond to calls",
+      "excerpt": "Samsung is releasing a new voice-cloning feature that people with a Galaxy smartphone can use to create an AI-generated version of their voice for answering calls. The feature is coming to the Bixby smartphone assistant as an AI enhancement to the \"text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/samsung-galaxy-s23-this-new-feature-creates-an-ai-version-of-your-voice-to-answer-calls/",
+      "originalUrl": "https://www.zdnet.com/article/samsung-galaxy-s23-this-new-feature-creates-an-ai-version-of-your-voice-to-answer-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/7353a4935df4fedf23b4270ae60d83b7b66c0cc7/2023/02/09/783b5969-5823-4008-9c6c-2e04b1815851/samsung-galaxy-s23-ultra-display.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsung-galaxy-s23-this-new-feature-creates-an-ai-version-of-your-voice-to-answer-calls/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-galaxy-s23-this-new-feature-creates-an-ai-version-of-your-voice-to-answer-calls/",
+      "publishedDateTime": "2023-02-23T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-23-warren-buffetts-5-top-ai-stocks-heres-why-you-should-own-them-too.md",
+      "title": "Warren Buffett's 5 Top AI Stocks -- Here's Why You Should Own Them, Too",
+      "excerpt": "Microsoft has been at the center of the conversation about AI in recent weeks because of its integration of OpenAI's ChatGPT with the Bing search engine. Its Azure cloud-hosting services, like AWS, feature lots of AI options for customers. Microsoft's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/23/warren-buffetts-5-top-ai-stocks-heres-why-you-shou/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/23/warren-buffetts-5-top-ai-stocks-heres-why-you-shou/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/721380/ai-artificial-intelligence-in-circle-on-keyboard.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-23T02:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-23-deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023.md",
+      "title": "Deep Learning Chip Market Size to Reach at Extensive Growth by 2023",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Deep learning chip is an artificial intelligence (AI) device that enables a machine to learn the given tasks and perform them without being explicitly programmed. These chips ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023-2023-02-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023-2023-02-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-23T00:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-02-23-you-could-profit-by-investing-in-extremely-disruptive-ai-tech-experts-sayheres-how.md",
+      "title": "You could profit by investing in 'extremely disruptive' AI tech, experts say—here's how",
+      "excerpt": "AI feels like it has a chance to be a bigger deal than that, says Lamont. \"Artificial intelligence is a technology that's likely to be extremely disruptive,\" he says. From there, you'll have to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/22/how-to-invest-in-artificial-intelligence-etfs.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/22/how-to-invest-in-artificial-intelligence-etfs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107196743-1676665034824-gettyimages-1208358564-abrf00695.jpeg?v=1677096180",
+          "width": 2045,
+          "height": 1466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/22/how-to-invest-in-artificial-intelligence-etfs.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/how-to-invest-in-artificial-intelligence-etfs.html",
+      "publishedDateTime": "2023-02-22T22:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-23-andrew-ng-even-with-generative-ai-buzz-supervised-learning-will-create-more-value-in-short-term.md",
+      "title": "Andrew Ng: Even with generative AI buzz, supervised learning will create ‘more value’ in short term",
+      "excerpt": "Andrew Ng, founder and CEO of Landing AI shares his wisdom about generative AI, supervised learning, deep learning and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/andrew-ng-2.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/amp/",
+      "publishedDateTime": "2023-02-22T20:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-23-yes-artificial-intelligence-has-a-creative-side-sort-of.md",
       "title": "Yes, Artificial Intelligence Has A Creative Side, Sort Of",
       "excerpt": "Despite perceptions, artificial intelligence doesn’t have a shred of creativity within it. It’s all statistical algorithms, slurping data from sources created by humans somewhere along the line. It will never be a source of innovation, but will serve ...",
@@ -62,7 +365,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-size-global-research-report-2023---2028-2023-02-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -104,6 +407,58 @@
         "AWS AI",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-02-23-in-ukraine-identifying-the-dead-comes-at-a-human-rights-cost.md",
+      "title": "In Ukraine, Identifying the Dead Comes at a Human Rights Cost",
+      "excerpt": "Five days after Russia launched its full-scale invasion of Ukraine, a year ago this week, US-based facial recognition company Clearview AI offered the Ukrainian government free access to its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
+      "originalUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63f6321a7d87edd2f4f351b3/master/pass/ideas_GettyImages-1246812281.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
+      "publishedDateTime": "2023-02-22T18:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -195,49 +550,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-23-most-americans-uncomfortable-with-artificial-intelligence-in-healthcare-survey-says.md",
-      "title": "Most Americans uncomfortable with artificial intelligence in healthcare, survey says",
-      "excerpt": "Feb. 22 (UPI) --As artificial intelligence expands in the field of health and medicine, 60% of Americans say they are \"uncomfortable\" with AI being used for their own healthcare, according to a new survey. The Pew Research Center survey, released Wednesday ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/",
-      "originalUrl": "https://www.upi.com/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/4801677114829/2023/1/4fe1a038a4ed6104ece698c5f67f3b1c/v1.5/Most-Americans-uncomfortable-with-artificial-intelligence-in-healthcare-survey-says.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/",
-      "publishedDateTime": "2023-02-22T16:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-23-bings-chat-ai-bot-wants-to-be-your-new-phone-assistant-heres-how-its-doing-it.md",
       "title": "Bing's chat AI bot wants to be your new phone assistant. Here's how it's doing it",
       "excerpt": "The experiences with the AI chatbot have ranged from slightly scary ... or a simplified response. If there is a language barrier, you can also ask Bing to translate its response as it is fluent in over 100 languages. The Bing chatbot -- both on desktop ...",
@@ -246,7 +558,7 @@
       "originalUrl": "https://www.zdnet.com/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 125,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -332,7 +644,7 @@
       "originalUrl": "https://www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -505,7 +817,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 257,
+      "heat": 247,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -549,7 +861,7 @@
       "originalUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -648,6 +960,41 @@
       ]
     },
     {
+      "path": "_news/2023-02-22-sure-microsoft-lets-put-chatgpt-in-control-of-robots.md",
+      "title": "Sure, Microsoft, let's put ChatGPT in control of robots",
+      "excerpt": "ChatGPT is a large language model (LLM) trained on the OpenAI GPT (Generative Pre-trained Transformer) dataset, which consists of text scraped from the web and other sources. Wedded with a chat interface,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2023/02/22/microsoft_chatgpt_robots/",
+      "originalUrl": "https://www.theregister.com/2023/02/22/microsoft_chatgpt_robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2023/02/22/microsoft_chatgpt_robots/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/02/22/microsoft_chatgpt_robots/",
+      "publishedDateTime": "2023-02-21T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-computer-vision-in-artificial-intelligence-ai-market-next-big-thing-forecast-2023-2029.md",
       "title": "Computer Vision in Artificial Intelligence (AI) Market Next Big Thing Forecast 2023-2029",
       "excerpt": "Computer Vision in Artificial Intelligence (AI) Market 2023 with 128 Pages Report and enhance with extents shares",
@@ -708,7 +1055,7 @@
       "originalUrl": "https://techcrunch.com/2023/02/21/the-non-profits-accelerating-sam-altmans-ai-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -739,6 +1086,49 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-the-best-presidents-day-robot-vacuum-deals-you-can-still-get-in-2023.md",
+      "title": "The best Presidents Day robot vacuum deals you can still get in 2023",
+      "excerpt": "While this more affordable Jet Bot+ robot vacuum by Samsung doesn't feature 3D recognition with AI, it does have LiDAR sensor navigation ... app to control your appliance from your smartphone. Start cycles, check time remaining and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
+      "originalUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/18/4e542c82-4239-402b-b2b7-94905fbed0cc/thumbnail/620x349/790b7cbe147c5208ff529d0cf05e9357/eufy-by-anker-robot-vacuum-g32-pro.jpg#",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
+      "publishedDateTime": "2023-02-21T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -775,376 +1165,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-neuromorphic-camera-and-machine-learning-aid-nanoscopic-imaging.md",
-      "title": "Neuromorphic camera and machine learning aid nanoscopic imaging",
-      "excerpt": "Their novel technique, which combines optical microscopy with a neuromorphic camera and machine learning algorithms, presents a major step forward in pinpointing objects smaller than 50 nanometers ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.html",
-      "originalUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/neuromorphic-camera-an.jpg",
-          "width": 2000,
-          "height": 1477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.amp",
-      "publishedDateTime": "2023-02-21T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-artificial-intelligence-in-fashion.md",
-      "title": "Artificial Intelligence In Fashion",
-      "excerpt": "As an AI enthusiast, I can tell you that artificial intelligence is quickly becoming a game-changer in the fashion industry. From design to marketing and sales, AI is affecting everything and offering businesses new opportunities to streamline their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/",
-      "publishedDateTime": "2023-02-21T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-6-ways-to-improve-accessibility-with-azure-ai.md",
-      "title": "6 ways to improve accessibility with Azure AI",
-      "excerpt": "Microsoft and Azure AI offer a range of accessibility solutions to help organizations create more inclusive experiences for their users. These AI-powered tools can help individuals with disabilities better access and engage with digital content, whether it's through speech-to-text transcription, image",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/",
-      "originalUrl": "https://azure.microsoft.com/blog/6-ways-to-improve-accessibility-with-azure-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T02:00:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-5-of-the-best-online-artificial-intelligence-courses-available-for-free-this-week.md",
-      "title": "5 of the best online artificial intelligence courses available for free this week",
-      "excerpt": "All products featured here are independently selected by our editors and writers. If you buy something through links on our site, Mashable may earn an affiliate commission. FREE COURSES ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/uk/deals/free-online-artificial-intelligence-courses",
-      "originalUrl": "https://mashable.com/uk/deals/free-online-artificial-intelligence-courses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00Wht1AXFtkt7aWPDRqCK1t/hero-image.fill.size_1200x675.v1676893321.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-20T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text.md",
-      "title": "AI gets hang of Gujarati to translate Chinese, Hindi text",
-      "excerpt": "Taking a cue from ChatGPT that has taken the world by storm, demonstrating what a good database coupled with natural language processing (NLP) can do,",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/articleshow/98106976.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/articleshow/98106976.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-98106990,width-1070,height-580,imgsize-1198029,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/amp_articleshow/98106976.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ahmedabad/ai-gets-hang-of-gujarati-to-translate-chinese-hindi-text/amp_articleshow/98106976.cms",
-      "publishedDateTime": "2023-02-20T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-roger-c-schank-theorist-of-artificial-intelligence-dies-at-76.md",
-      "title": "Roger C. Schank, Theorist of Artificial Intelligence, Dies at 76",
-      "excerpt": "By Steve Lohr Roger C. Schank, a scientist who made influential contributions to the field of artificial intelligence and then, as an academic, author and entrepreneur, focused on how people learn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
-      "originalUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/17Schank-czhl-print1/17Schank-czhl-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
-      "publishedDateTime": "2023-02-20T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-artificial-intelligence-opens-new-possibilities-if-the-data-allows.md",
-      "title": "Artificial Intelligence Opens New Possibilities, If The Data Allows",
-      "excerpt": "It's the result of the data behind it. Can artificial intelligence make us more creative and innovative? It’s a subject of hot debate and discussion. A recent analysis out of the Gottlieb Duttweiler Institute suggests that,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f3fbedc81e448fba56b89c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/amp/",
-      "publishedDateTime": "2023-02-20T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks.md",
-      "title": "How Blackbird AI is striking back at ChatGPT and AI-based attacks",
-      "excerpt": "Blackbird AI announces the launch of an AI assistant for security analysts, which uses generative AI to create mitigation guidance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/",
-      "originalUrl": "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 347,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/image0.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/amp/",
-      "publishedDateTime": "2023-02-20T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

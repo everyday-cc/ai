@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T19:36:00Z
 originalUrl: "https://www.roboticsbusinessreview.com/news/novanta-weighs-in-on-the-rapidly-changing-robotics-market/"
 webUrl: "https://www.roboticsbusinessreview.com/news/novanta-weighs-in-on-the-rapidly-changing-robotics-market/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Robotics

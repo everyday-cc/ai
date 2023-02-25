@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Health_News/2023/02/22/americans-uncomfortab
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/"
 type: article
 quality: 67
-heat: 137
-published: true
+heat: -1
+published: false
 
 provider:
   name: UPI
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Stocks Are Soaring… But Americans Aren’t That Interested in AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Den Rise Far before February sparked the current"
+    publishedDateTime: 2023-02-24T21:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-are-soaring-but-americans-arent-that-interested-in-ai-1032124725"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2023/02/ai-artificial-intelligence-touch-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
     excerpt: "Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI ..."
     publishedDateTime: 2023-02-22T19:18:00Z

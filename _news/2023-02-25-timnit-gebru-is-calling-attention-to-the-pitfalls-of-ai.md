@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T16:27:00Z
 originalUrl: "https://www.wsj.com/articles/timnit-gebru-is-calling-attention-to-the-pitfalls-of-ai-8e658a58"
 webUrl: "https://www.wsj.com/articles/timnit-gebru-is-calling-attention-to-the-pitfalls-of-ai-8e658a58"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wall Street Journal

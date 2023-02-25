@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T03:50:00Z
 originalUrl: "https://www.thedailybeast.com/babies-still-beat-ai-bots-at-this-critical-intelligence-benchmark"
 webUrl: "https://www.thedailybeast.com/babies-still-beat-ai-bots-at-this-critical-intelligence-benchmark"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Daily Beast

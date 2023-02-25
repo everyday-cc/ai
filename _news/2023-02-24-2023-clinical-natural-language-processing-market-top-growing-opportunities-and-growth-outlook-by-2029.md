@@ -37,20 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data Science and Machine Learning Service Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2028"
-    excerpt: "Feb 19, 2023 (The Expresswire) -- \"Data Science and Machine Learning Service Market\" Report covers specified competitive outlook consisting of the"
-    publishedDateTime: 2023-02-20T01:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2028-2023-02-19"
+  - title: "2023 Machine Learning Operations (MLOps) Market Top Countries Survey Predicts STRONG GROWTH bY 2029"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-24T15:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-machine-learning-operations-mlops-market-top-countries-survey-predicts-strong-growth-by-2029-2023-02-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 50
   - title: "Facial Recognition Equipment Market Size with Competitive Landscape, New Projects and Investment Analysis till 2028"
     excerpt: "The “Facial Recognition Equipment Market” Analysis 2023-2027 is a detailed sketch of the business sphere in terms"
     publishedDateTime: 2023-02-24T01:47:00Z
@@ -60,20 +55,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence based Personalization Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028"
-    excerpt: "Feb 20, 2023 (The Expresswire) -- \"Artificial Intelligence based Personalization Market\" Report covers specified competitive outlook consisting of the"
-    publishedDateTime: 2023-02-20T06:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-personalization-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-02-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

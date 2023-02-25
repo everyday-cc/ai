@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T19:09:00Z
 originalUrl: "https://www.androidauthority.com/gboard-ai-image-generator-3289329/"
 webUrl: "https://www.androidauthority.com/gboard-ai-image-generator-3289329/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Android Authority

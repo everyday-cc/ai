@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-23T19:18:00Z
 originalUrl: "https://www.healthcaredive.com/news/artificial-intelligence-AI-healthcare-patients-uncomfortable-Pew-research-center/643429/"
 webUrl: "https://www.healthcaredive.com/news/artificial-intelligence-AI-healthcare-patients-uncomfortable-Pew-research-center/643429/"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: Healthcare Dive

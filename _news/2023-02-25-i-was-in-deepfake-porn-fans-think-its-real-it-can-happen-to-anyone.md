@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T19:51:00Z
 originalUrl: "https://nypost.com/2023/02/24/i-was-in-deepfake-porn-fans-think-its-real-it-can-happen-to-anyone/"
 webUrl: "https://nypost.com/2023/02/24/i-was-in-deepfake-porn-fans-think-its-real-it-can-happen-to-anyone/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: New York Post

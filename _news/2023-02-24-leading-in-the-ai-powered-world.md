@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sensing The External World At Signal AI"
+    excerpt: "But that is just what Signal AI is doing with machine learning. They produce “external intelligence” intended as an aid to decision-making. It could also be called “environmental sensing.” The London-based company uses AI to disambiguate,"
+    publishedDateTime: 2023-02-24T17:47:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/02/24/sensing-the-external-world-at-signal-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How will artificial intelligence affect financial services?"
     excerpt: "Machine learning (ML ... Artificial intelligence is far from new to the UK market. In financial services, a few organisations have been delivering it for some time."
     publishedDateTime: 2023-02-21T09:51:00Z

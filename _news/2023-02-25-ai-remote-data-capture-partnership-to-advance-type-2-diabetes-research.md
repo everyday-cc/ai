@@ -8,6 +8,9 @@ webUrl: "https://healthitanalytics.com/news/ai-remote-data-capture-partnership-t
 ampWebUrl: "https://healthitanalytics.com/news/amp/ai-remote-data-capture-partnership-to-advance-type-2-diabetes-research"
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-remote-data-capture-partnership-to-advance-type-2-diabetes-research"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Analytics

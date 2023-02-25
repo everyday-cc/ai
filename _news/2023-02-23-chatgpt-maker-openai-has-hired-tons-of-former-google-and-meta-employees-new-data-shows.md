@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-openai-microsoft-hired-forme
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2?amp"
 type: article
 quality: 61
-heat: 71
+heat: 72
 published: true
 
 provider:

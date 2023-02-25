@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/sci-fi-magazine-halts-new-s
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sci-fi-magazine-halts-new-submissions-after-a-surge-in-ai-written-stories/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "The editor of a sci-fi magazine says he's getting flooded with plagiarized short stories as AI tools take off: 'It quickly got out of hand'"
+    excerpt: "One AI-assisted author, fintech product designer Ammaar Reshi, received widespread backlash after saying he published an illustrated children's book in December using ChatGPT and Midjourney, an AI art generator. Reshi said he had published the book to give ..."
+    publishedDateTime: 2023-02-22T10:00:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-ai-written-stories-publisher-clarkesworld-forced-close-submissions-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-ai-written-stories-publisher-clarkesworld-forced-close-submissions-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-ai-written-stories-publisher-clarkesworld-forced-close-submissions-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: "https://i.insider.com/63f5d8ac88f76900192cc8ed?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Flooded with AI-created content, a sci-fi magazine suspends submissions"
     excerpt: "Melissa Roemmele, a researcher at machine translation firm Language Weaver, said AI-generated text has “only recently started to superficially resemble human-written text.” Machine-created writing and detection are “complementary challenges ..."
     publishedDateTime: 2023-02-22T08:15:00Z

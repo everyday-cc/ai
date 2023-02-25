@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T17:00:00Z
 originalUrl: "https://techcrunch.com/2023/02/24/how-are-global-chipmakers-preparing-for-the-us-china-chip-war/"
 webUrl: "https://techcrunch.com/2023/02/24/how-are-global-chipmakers-preparing-for-the-us-china-chip-war/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: TechCrunch

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T17:01:00Z
 originalUrl: "https://www.wsj.com/articles/ai-generated-comic-book-zarya-of-the-dawn-keeps-copyright-but-key-images-excluded-c8094509"
 webUrl: "https://www.wsj.com/articles/ai-generated-comic-book-zarya-of-the-dawn-keeps-copyright-but-key-images-excluded-c8094509"
 type: article
+quality: 41
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -17,6 +20,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "An AI-Illustrated Comic Has Lost a Key Copyright Case"
+    excerpt: "We may earn a commission from links on this page. When Kris Kashtanova attempted to copyright their comic book Zarya of the Dawn, the United States Copyright Office ..."
+    publishedDateTime: 2023-02-24T00:15:00Z
+    webUrl: "https://gizmodo.com/zarya-of-the-dawn-midjourney-comic-ai-art-copyright-1850149833"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
 
 secured: "qt7OVJp6G6omgjAlfzz841AaHuoNWVmUW4g94VIRdjCLPl6/V0D4Gm7ztS1m9Wjrm/UvPfQndspa4HLiqoOMZ4GdwPPQEL6C+cBPr7ZK0gHZQ+d1OQrNZxNazZjh/NF+t40JDfl4fsZ7meptl1vKUUvYE4VIdbs33IULmuNp3Bo2tWGhDH0qM9jJb2tSonutsjLiDfHQrbyz+aBW8w8eviUYR/KLnP5In85Fo8LFi+CM5u3f3S5N+L+942mkAzDZKkn6irfPerQkb94fZAI+OpYW3Nb+PMq4O0YkaRIfJTGBbKZ1QslurZDm2YyRMEnt1rukEo+0Pas7e4660ewyteOLk5cTon+o5PZS9fkoWu8N9SiMgZyfsinSoWWdJDc7sgrCmy1vONPhYvwx6s1jF3clEUlQM79bkvZu0d4Jw/OMycMed7frBtvpverHbFswQN6tv9354hsfVUh5/jADtQ9LNHrzw2LCR01k4hf/XvNjdA9wweckhTYa0hk66BQGyT3D1CKktvqPp/OdsxUjvw==;TsOz/oedWtoyKA318MUO4Q=="
 ---

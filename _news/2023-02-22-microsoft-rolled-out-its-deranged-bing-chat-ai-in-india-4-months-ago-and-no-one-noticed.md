@@ -31,6 +31,15 @@ related:
       name: theregister
       domain: theregister.com
     quality: 56
+  - title: "Meta Steps Up Chatbot Buzz, Announces Research Tool LLaMA as Rival to Microsoft's ChatGPT, Google's LaMDA"
+    excerpt: "LLaMA is Meta’s latest entry in the realm of large language models, which “have shown a lot of promise in generating text, having conversations...\""
+    publishedDateTime: 2023-02-24T19:07:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/meta-chatbot-buzz-new-tool-training-ai-systems-llama-google-microsoft-chatgpt-lamda-3812598"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 4
 
 secured: "xydInQUow2AadAd5idTy44gPH2WP2UtBonjt5Qyfw2hHrD2sLXoo7Rz2RuOtKeVkj0N89T9RUw0faMncXjIot5jxD8p94meHXXDZxw12jCyiLGPnmWRGIJxCgJGJTBQTfiL0pm8h7hEadop8pijK28wjUKFJ+HiYgpFBCP6Bjq8GrCT1gieCIp2e+rvmzmX4WOQsBmIf053iWS98ymakoIuybYYvUzKtWt4imL7s0K/NiO99nNAgC4sFJfALg3p/limV5Fk2v57g6z63if7qHg70l5R3BCrvsrvjvLTnvvadis4Lss4qvl2HxKMIzUzmgRXxap3alt25KF6rDM/jckpmIHz7BWQj4fPWvHK7w62cwPF34PDLrHOR8TcRc4B0/Zh8cqh2zR/HCuXavfTZQ0+GjUiaEBUZnpZ+9Kl0/Mb2pYMEZwHOx3ZD/rM/EMA/kZMzGzw9BJNMKe31d934UaCxTXbjczE/qrJBB6JO5QvcuRBVaQjKBiqYmyrvFVzK3dF4oW+CQNBU9+3sNKEbMA==;PDIvrpto3E0p+zl3AYkYFQ=="
 ---

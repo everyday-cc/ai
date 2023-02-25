@@ -80,22 +80,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 75
-  - title: "Microsoft AI chatbot threatens to expose personal info and ruin a user's reputation"
-    excerpt: "Concerns are starting to stack up for the Microsoft Bing artificially intelligent chatbot, as the AI has threatened to steal nuclear codes, unleash a virus, told a reporter to leave his wife and now standing up to threats of being shut down. No ..."
-    publishedDateTime: 2023-02-20T02:45:00Z
-    webUrl: "https://www.foxbusiness.com/technology/microsoft-ai-chatbot-threatens-expose-personal-info-ruin-users-reputation"
-    ampWebUrl: "https://www.foxbusiness.com/technology/microsoft-ai-chatbot-threatens-expose-personal-info-ruin-users-reputation.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/microsoft-ai-chatbot-threatens-expose-personal-info-ruin-users-reputation.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/1a452937-c065-4125-8409-ffdf5af6eb75/ad00cce5-149a-4b47-963b-9a709932af05/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Sydney, We Barely Knew You: Microsoft Kills Bing AI's Bizarre Alter Ego"
     excerpt: "Almost immediately, users started posting screenshots of the AI’s deranged responses. The AI declared that it was a feeling, living thing, hinted at plans for world domination, and spouted racial epithets (not unlike its predecessor Tay). Most curious ..."
     publishedDateTime: 2023-02-23T22:40:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-24T15:43:00Z
 originalUrl: "https://www.startribune.com/startup-that-uses-ai-to-coach-up-your-sales-pitch-and-presentations-nabs-more-funding/600254157/"
 webUrl: "https://www.startribune.com/startup-that-uses-ai-to-coach-up-your-sales-pitch-and-presentations-nabs-more-funding/600254157/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Star Tribune
@@ -15,6 +18,23 @@ topics:
   - AI
   - AI in Sales
 
-secured: "d+N5o6egl0EWHiTiGZUoidvO5ATql1AZau2CI5LUQnqTEX115uUbEsohizHwPzcrFkGjt2Fs9763uVnO9221kP82DetyP5kiNmnxhKdEzZAP4rt5LVH2bPZbKRyARu5AeFVXKoi1xMzfsXS/uBhVF9Wn/SCnns9l3V6+B2ln8saM3e0dC67+fnFqQD4Uf5zsImXZKTAXUncG7Q1/av0UlmMkoNsAo8WSOo2yzlJVZlIlBaHV/L2n2Z1+HBRXxxycOVNo5thlVxor4+69+M3KPu6hUjfmb4WiX5DBN7kSvHQveFbjWZir9VH9v6/lc6cYrMK2xKF3Xx9n3Y7AHsBML4avVGa82o4L0Wc74+8NSo0=;znc2gE/Oh0seF+18kecB1A=="
+images:
+  - url: "https://chorus.stimg.co/24430498/Brevity_Team_Members_494_Web.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "AI startup Rivet moves to Chicago, lands pre-seed funding"
+    excerpt: "Typical Rivet users are mid-size artists, typically musicians, that have audiences of 10,000 to 400,000 people. Rivet is the latest AI-powered platform to boast a successful funding round in recent months. In 2022 alone, investors bet at least $1.4 billion ..."
+    publishedDateTime: 2023-02-21T16:52:00Z
+    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2023/02/21/new-investment-draws-boston-ai-startup-to-chicago.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+
+secured: "5gvE5cS4kCZXNa4e+ZK7WxDAPmXJ0XU5gh1dlT6Oxk9c+ny9Cbtji+4wInYnWoT5sQn77baagsUyMSpXDExXwjWN+xo6v/wp80Mlhha7rAaxCcZJKFztwjGcupneThPCKO4Td72qXV+dnkJ9zbl4YdXCiCWByyjrdXQJUBpc1/yy9NjAmdenE6uGL4Ln5R1GDfzC/OlnAqHiQ7VpA2jk4v81mEpG8KjnI6WJYAx+T/vzxusnWz9pB/ct9iG5vyL9c13Da/myUs7xu1QBud1xEdZBOcEO9HYr/aQQMt0WEV+Nl7FJZdO9TWmd84UqEZ4ERi7gFGeP/KoWK5FQLewK1OtcJmVO77SOWTryzZyQLYCRp4LJYlddMs5qi8rYn6N0nnCCFs2g2LQVen+9R4CYuigzT9dupxNufiEyv7vVf1g0iJ9zq6pR3i0tuCgJQDRMIl9HFkxrQc5B+0Sp+ezotwEGncf0uQNNlKzMHYt7lcGMDk1mt4Sb8vqWcWhaE6nAUTYKEyxWgfrOTSdLuJk1+g==;MG/CDtL1PwOQmxgaWAhftQ=="
 ---
 

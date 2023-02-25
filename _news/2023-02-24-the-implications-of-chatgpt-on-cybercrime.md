@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implic
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       name: MyNorthwest.com
       domain: mynorthwest.com
     quality: 39
-  - title: "Censorship, language key hurdles in China to create ChatGPT rival"
-    excerpt: "As the world goes gaga over an AI chatbot called ChatGPT, experts believe that developing its Chinese competitor will surely face censorship, cost and data challenges, as in the case of big Internet companies like Alibaba and Tencent,"
-    publishedDateTime: 2023-02-20T05:51:00Z
-    webUrl: "https://www.ummid.com/news/2023/february/20.02.2023/censorship-language-key-hurdles-in-china-to-create-chatgpt-rival.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 24
-    images:
-      - url: "https://ummid.com/news/2023/february/20.02.2023/chinese-ai-chatbot.jpg"
-        width: 790
-        height: 530
-        isCached: true
   - title: "OPINION: To ChatGPT, or to not ChatGPT: Is ChatGPT the new Shakespeare?"
     excerpt: "Now as one of my professors has noted, ChatGPT is going to be able to write as Shakespeare once did. The new chatbot software launched in November 2022 and has turned the world upside down. OpenAI is the company responsible for the creation of the new ChatGPT."
     publishedDateTime: 2023-02-20T21:57:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58401914-fina
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58401914-financialnewsmedia-com-how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-advantages-008.htm"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,24 @@ topics:
   - AWS AI
   - AI
   - AI in Healthcare
+
+related:
+  - title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
+    excerpt: "FinancialNewsMedia.com News Commentary PALM BEACH, Fla., Feb. /PRNewswire/ -- Artificial Intelligence (AI) is becoming used in more and more markets and industries worldwide. At the current growth rate,"
+    publishedDateTime: 2023-02-24T12:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31047086/how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31047086"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31047086"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "e5BS7gN/QPvRNxI1Q7urYJ5osrAcfxBV4feeFO3LbtxFXd1UeiEtBJHNxAgt1h30uegfV1/PGqRtwJYl1swv6fJN3CSLGEO1El0ZFB3+mE8pWyDTXieKxl3c1eiIE13ugM//uZUI07iEecI90rj0ogTbjkCvQnaNUnYyMvcThsZgSrkBz3jZiQz2koEeDhVyUsQRnaHndG21k2LwSKjbYSieE5dsuPVt051dZHFjfL1VM2FbSZJafa1qoHC4RK5Ef/0vR9kRAmp2GM18YJ6/uqxOFWu4z9f5Oome4+XMgsiNGRf7GPN4/Q82pyBBTy85X4ODBTCIVNjUlMMzizggY65Ek52HHZttSnGKKRB3DPM=;1uCEBUnxuyUk671XY8QrAA=="
 ---

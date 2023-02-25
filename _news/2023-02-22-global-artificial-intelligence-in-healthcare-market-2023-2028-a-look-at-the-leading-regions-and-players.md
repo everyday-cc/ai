@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Technology Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Face Recognition Technology Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-24T12:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud AI Developer Services Market 2023 is Dominating [ Information Technology Sector ] till 2029"
     excerpt: "Feb 20, 2023 (The Expresswire) -- \"Cloud AI Developer Services Market\" Research Insights Report 2023 | TOP 3 KEY PLAYERS in Cloud AI Developer"
     publishedDateTime: 2023-02-20T17:44:00Z
@@ -138,20 +152,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 56
-  - title: "New “Deep Learning System Market” Research Report Reveals Market Dynamics and Growth Factors for 2023"
-    excerpt: "Global Deep Learning System Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions,"
-    publishedDateTime: 2023-02-20T06:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-deep-learning-system-market-research-report-reveals-market-dynamics-and-growth-factors-for-2023-2023-02-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI-based Surgical Robots Market Size 2023 : Expected To Deliver Dynamic Progression Until 2026"
     excerpt: "[107 Pages Report]\"AI-based Surgical Robots Market\" size is projected to reach ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible source for gaining the ..."
     publishedDateTime: 2023-02-21T05:27:00Z
@@ -271,6 +271,24 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+  - title: "Navigating the Future of Face Recognition Door Lock Market Insights 2023-2029: Emerging Trends and Opportunities"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Door Lock"
+    publishedDateTime: 2023-02-24T09:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/navigating-the-future-of-face-recognition-door-lock-market-insights-2023-2029-emerging-trends-and-opportunities-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+  - title: "Cloud AI in Fintech Market Size 2023-2029 Current Development, Sale, Revenue, Application, Production Cost, Revenue Region"
+    excerpt: "Feb (The Expresswire) -- \"Cloud AI in Fintech Market\" Report covers specified competitive outlook consisting of the market proportion and"
+    publishedDateTime: 2023-02-24T02:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-size-2023-2029-current-development-sale-revenue-application-production-cost-revenue-region-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
   - title: "Voice Recognition Market : Share, Projections & Future Opportunities Recorded For The Period Until 2023-2029"
     excerpt: "Feb 21, 2023 (The Expresswire) -- \"Voice Recognition Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,"
     publishedDateTime: 2023-02-22T01:45:00Z
