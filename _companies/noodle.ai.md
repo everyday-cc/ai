@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "noodleai"
   url: "https://twitter.com/noodleai"
-  followers: 1402
+  followers: 1403
 
 size: 201-500 employees
 yearFounded: 2016
