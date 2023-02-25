@@ -5,12 +5,7 @@ excerpt: "Artificial intelligence (AI) courses will soon be available to student
 publishedDateTime: 2023-02-23T13:16:00Z
 originalUrl: "https://www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools"
 webUrl: "https://www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools"
-ampWebUrl: "https://www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools/amp"
-cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools/amp"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
   name: WBAL
@@ -20,33 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Baltimore County schools to launch artificial intelligence program at 3 schools"
-    excerpt: "Titled \"Computer and Information Sciences Artificial Intelligence,\" the program will be offered at three schools in the district."
-    publishedDateTime: 2023-02-23T13:02:00Z
-    webUrl: "https://www.cbsnews.com/baltimore/news/baltimore-county-schools-to-launch-artificial-intelligence-program-at-3-schools/"
-    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/baltimore-county-schools-to-launch-artificial-intelligence-program-at-3-schools/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/baltimore-county-schools-to-launch-artificial-intelligence-program-at-3-schools/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 33
-  - title: "Artificial intelligence career program approved for some Baltimore County Public Schools for next fall"
-    excerpt: "Starting next fall, some Baltimore County Public Schools students will have the option to partake in an artificial intelligence program as part of the system’s career and technical education ..."
-    publishedDateTime: 2023-02-21T12:34:00Z
-    webUrl: "https://www.baltimoresun.com/education/bs-md-artificial-intelligence-program-bcps-20230221-vljz4bqpabedtg5rjm4bkkvt3u-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 23
-    images:
-      - url: "https://www.baltimoresun.com/resizer//oX4cPFAY6L52aZAWIgmwWWhuv4A=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/A5APNEZVCVD75DNC6JPU42QWAM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "Xic0BYcOhzMADu2xUSsmW07Ha+rhQ61diDF5s7dxiuBtuw3zjlLyKeXmAk4evBc3qJkX545QNnkukwxExTAi/VUJ6mo8XwmhH3y1xsNo7TUz9MgZLAaKzXQ4k4h9SqkDrmOO0wGz3r7sRfkHXqh1vEMJpMn2ZzvWyWsJUCLusn/UFZyjGVx6xkbriewRrtVl373jO22dISaFxWLQGjtQdAovSYOGvc5PCicCPLLsdKOvopX0QHIpmFWwtHPx0pb9TauVIgfoNxM/y2QDAdEnIlRUBDALluGLNpgcCtkdUuzr8tjxb4vLr5rpThwcK/X0MHZqVnnaxy1lZjl9Nopx5+BWkuwhhQirVye5S5QlvUaBwBlIHnU3FQFgBXE6YgBeoVPQ4Q24/LTO8FHBX+ONy1mpKYzLim0susOvvaYAucE2H7o10ZOxU13xt0vrBdI4f0GDhLYWrA0OBjLgum+u/BWZAs8nBWCZW5eYjBf8znW09kwC8JgkkhJsbZRXTNxfy4akjKyRp82bOzhF2AhdRg==;AQdNEtDaYspKZ+AINAPmMQ=="
+secured: "4EpchY7qtSniI45PRvBYgrBDJLA/pNqF158cW52gSASIPk3a3CcjaHkhWRyAh4UufqwITputAf+xmmWFluTJsdTHvUx45e7oKy8IdA78XsbaKEbeVyR4G3Uv/Z9k8AxvLGxrZiGTxV9rR4Tlyulgp9nZryDgn/U1Cw4h0IfQ7a55HRPXEVQglFWS2bnrhMomhEjPsa3TuyCmLooQOJLd+KjZMx979n16FCYCog1ZRA3l0jICmCpPP3NhcRFU7HHuQ/D9pFnEjB1Z/XVCRc0UhhSGt0uAzGFql0OKg1I146lR8640vRveGrONqzw8eCWV7y1zXtMwLeT9nk1ezB1mJejcNiEXNLB8PkZVkiWw7BEzhnHWUc+NtG5DyRCva5F36XK3Ec9o7eYBVU6R1QGiZv9kpWfEjnThDDHmiBy6kIijHirSzuMWiUEcivy3t19EupJ0N//gPQKteopMehszFgjavSxY0Nk7i/VzI3cq72EpMU2W12Gj2WuefybeQhjQ3L3H3b2D8CZuBBngfy168A==;z4BX+yIy+Lc01ngRYqH/ow=="
 ---
 

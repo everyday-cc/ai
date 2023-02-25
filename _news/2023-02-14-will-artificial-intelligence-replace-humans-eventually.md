@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.laweekly.com/wp-content/uploads/2023/02/AdobeStock_227994414.jpeg"
