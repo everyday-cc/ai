@@ -25,7 +25,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=7K34d7cAAAAJ
-  citations: 137922
+  citations: 137993
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Sebastian_Thrun
