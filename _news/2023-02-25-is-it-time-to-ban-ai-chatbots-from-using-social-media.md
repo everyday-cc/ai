@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -109,16 +109,7 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 35
-  - title: "Artificial Intelligence Chatbots Market Size 2023 to 2028 By Deployment, Growth Factor and Production cost"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2023 (The Expresswire) -- \"Artificial Intelligence Chatbots Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions, Company ..."
-    publishedDateTime: 2023-02-21T01:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
 
-secured: "nk5EQcfT5T7hAcxd8mJwr3K2QazWtCOXqAcqqJUbRhgsCfN6Rm5DO6fFdemrtjRJ8lpq5kQgIp/JzrUQHB2qAq0kCcHc3+CsBS5lQoEoKqfG8DyKWbju1ouz4CzhgQZFzSnZt2+oW6Wsa3pmDiLVzAczX4/+cjeQTbD5PDBbvXhFlUpDN6VMJf10Qe+nv4hFLjtjJXMempn0eRTZfb2IocVaz6VHwVsfBK/cmMGVCNTA6/1Ct3JJkbo30LfB6qx678cvFN0CDuwUJ1m9Pt6+hv0wczQXia0ytuoKxzwWfVN1z337YIi5qbUia4SbdzquqrE7d+qpDZuqqgpPzjMXmmqkrLcoFX8ZI9WN8g7SF+U=;c/CyZA8xfJ5/AG3u1DNZow=="
+secured: "LXtGwFtBqnvtKtUeSGiRTgHtWQo7SY1WncD0Gu7NPTMGXFQ9wkjpxoRx/mtFqqo3jQdvJrSTyeDn3KWRNLBElQTphKCRMtZ4M+YML62r4PgA+8CRhbNeWX2KtGC2WUKcISxZSBwoyOe3j73zO5yCRZJ+/qIrLwRiXMbnZnmugNq0VEDnpjJCCUvXJ4144zFtRExZ90rJTE8ol1ghk+8YH42LKRJUlczVW1oyZ1/FgbwAGwmDfDbgfYqZvLfz09t/pTd9cnrUH46h/fgKUsHJ8LhzzZLJRjQ+TQxiKTocPJ5cfxJo0xdEqhlEA/140ge8VZDfDuiPAtFz6HgOs+m098zCjHHdBlFv4oT50D/qhde5wsUvZSiWdj70prSq/LYksYDafTwKMV8dPX2eydm30FWmXq+Qt2jMqFZ9ry2avImVI5N5HN2VGz2tv9OCFvqpkhjPseJjHUvLQyB2fQeelHtkFvW2pxYNl3fSMmIej+JkKBxSFEfCGnXvjfSmQRsGhDBD/ELbSxYHXP3Prrtc7g==;IMkgSVkCvMrS27zOEf3Fvg=="
 ---
 

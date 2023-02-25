@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.htm
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia results show its growing lead in AI chip race"
+    excerpt: "AI is taking over the tech industry and, according to research firm Gartner, the share of specialized chips such as GPUs that are used in data centers is expected to rise to more than 15% by 2026 ..."
+    publishedDateTime: 2023-02-23T16:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-results-show-its-growing-lead-in-ai-chip-race-0"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "Meet the $10,000 Nvidia chip powering the race for A.I."
     excerpt: "It’s able to perform many simple calculations simultaneously, which is important for training and using neural network models."
     publishedDateTime: 2023-02-24T13:14:00Z

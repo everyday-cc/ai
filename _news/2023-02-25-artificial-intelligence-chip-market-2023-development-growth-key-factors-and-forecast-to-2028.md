@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Artificial Intelligence (AI) Market Size, Share, Outlook Opportunity Analysis 2028"
-    excerpt: "Feb 20, 2023 (The Expresswire) -- \"Healthcare Artificial Intelligence (AI) Market\" Report covers specified ... Next IT Corp, Google, Stryker, IBM Watson Health] and others. Company profile consists of assign including Organization summary, Financial ..."
-    publishedDateTime: 2023-02-21T02:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-size-share-outlook-opportunity-analysis-2028-2023-02-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
   - title: "Machine Learning as a Service Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
     excerpt: "Feb 24, 2023 (The Expresswire) -- \"Machine Learning as a Service Market\" Report provides a Detailed analysis of global market size, regional"
     publishedDateTime: 2023-02-25T02:38:00Z

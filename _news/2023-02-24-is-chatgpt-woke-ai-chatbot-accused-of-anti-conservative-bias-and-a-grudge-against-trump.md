@@ -379,6 +379,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 19
+  - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
+    excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
+    publishedDateTime: 2023-02-24T14:15:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/pressreach-2023-2-24-chatgpts-alter-ego-reveals-dark-side-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 19
   - title: "ChatGPT is Ruining Our Environment, But There’s a Way to Tackle It"
     excerpt: "As the ChatGPT hype peaked, so did the sense of reckoning around the carbon footprint that the tool may leave behind."
     publishedDateTime: 2023-02-23T12:22:00Z

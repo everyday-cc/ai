@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/02/23/warren-buffetts-5-top-ai
 webUrl: "https://www.fool.com/investing/2023/02/23/warren-buffetts-5-top-ai-stocks-heres-why-you-shou/"
 type: article
 quality: 71
-heat: 82
+heat: 81
 published: true
 
 provider:

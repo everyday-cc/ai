@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Why we should worry about artificial intelligence and its ethics"
-    excerpt: "India, with its abundant tech talent, should proactively build technical capability in its policy, regulatory and governance mechanism for AI"
-    publishedDateTime: 2023-02-21T02:59:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/why-we-should-worry-about-artificial-intelligence-and-its-ethics-10132741.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/why-we-should-worry-about-artificial-intelligence-and-its-ethics-10132741.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/why-we-should-worry-about-artificial-intelligence-and-its-ethics-10132741.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 56
 
 secured: "QQxVLwSACoKl5QqHPjX6JRF+sUEnWklp8KbrRLcq8gxLsdFln6jdiu4nHlWiwSdSOZugMq8y6cgaysb6DPJp5yTxLTV/JSP5rp7V/CWSF2YYcmHV6u2YWojeytCnS121/iERxbRgCtK0zhi5fqkm0E9KTijf7i4y5mobtCO/63NTr5iYmsfO4rRLj9hH/6JFEz3lD50SOr+4bXoOyqKn9aq3rNC8+NtRCyDg6MH0eGx9ok9HFHs1rV2EicMhtfQMH+KFDlmHAeA/pwEkTkrYVFHbM+YYe0S1nxDTLAzh3Oe/poBXM9bgv48Pyl4dc2lrd2wgYvtlwWwLQ4Y68/AWXeU3b3P/u5Py/Lv+S4yBUXVye3gcr9qNSvm6JB0mvvnY3ePamKvT8aICDIaWdd663bf5V3fmBU9A6qjdhK6zVDUyq/mabK7FS/YmwVOvJnwmV3Btiblt7HdgzZ5U/xg99PTHV+eXVyY3wfzi0xg2PENyaPutO/t/mc3o0iPtH0Uo3Id7t4ZhFefAxzTtS0NBpA==;JiQInkCDxlyoDA7V26QANQ=="
 ---

@@ -2,25 +2,25 @@
 category: news
 title: "Amazon's self-driving unit Zoox puts driverless taxi on the road"
 excerpt: "Zoox, an Amazon-owned company, has begun testing its driverless taxis on public ... MARS conference on robotics and artificial intelligence at the Aria Hotel in Las Vegas, Nevada."
-publishedDateTime: 2023-02-20T12:18:00Z
-originalUrl: "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html"
-webUrl: "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html"
+publishedDateTime: 2023-02-20T13:01:00Z
+originalUrl: "https://omaha.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_1443e73c-b1a1-52e7-920d-992115803e30.html"
+webUrl: "https://omaha.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_1443e73c-b1a1-52e7-920d-992115803e30.html"
 type: article
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/3f/43ff8c82-e6aa-548e-a507-ebb884546010/63f1b9da8623d.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/1/44/1443e73c-b1a1-52e7-920d-992115803e30/63f1b9d5b6105.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "ij8JHBgbczr3YZRclKo809ZOtxRgELvneoUo/wWBON5vRo8u0W5w4BVn50PaT8wzsDB1qKttG743oSRO2/NyleUIx54P+C6rrQ3phEz4tchoBTk33gthvNvNea8pImQVu0eV+csyUn7UdFdd6xSLOzSMofOXspjtkmP/658/GUJMlsT+DiCH2s/1ApXZfDo4W+qaP67tS3mvVzfJen69FNM1d0rUgtvwWbMuhsndBAv2cfSN3M0GLlhJMd90uj0n/CD6BxrIOyAunnhQICZd7X9uvhP/sj4WGnk1BF/R3jIJ4kcba0ZisAaIMY8KCR2A3PROK6hXhFFYoq0podyX3BpkEyzZmeZIasef5R5RaUc=;6LwXriIkw8+sX1QOGlH+3Q=="
+secured: "dpct/MmF/2FzuekJr2x5Zp/tZOBYjlG/TmkhUhwPRnhp/dfUQ/UKgpgurlT3HzkvVqpyttP2x65mekNdtL3tL28RT1ilhdJp+8aNhSGiT2zDTzfTiyWoT0qedm7MxTU71TnNn5optFsMhtRx3Cyf/mzMUFFH69QYeGjuCUjzWejkzsSKcU3lB9XTTkSNsp5Gqzcz7Bj8n+Cggofea/a8edER7Z0W2tICeglol4Mo94rxBojkjAZN/iU1miH8N/lIO/oUBbgQbArzv3foBxz4oGjxN32lE2kpLH9o9gwgBdX1mk91wH/nU67vUI4iaQqwilpb2iEiNzuDkBOqqdOuJiiTKHWT1RHvi0DTPmHW0wE=;Om5dr7PBlE5mCGzP2vRIRA=="
 ---
 

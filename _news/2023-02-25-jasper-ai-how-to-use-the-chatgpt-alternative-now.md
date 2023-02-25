@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternativ
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp"
 type: article
 quality: 89
-heat: 389
+heat: 399
 published: true
 
 provider:
@@ -374,6 +374,15 @@ related:
     provider:
       name: BGR
       domain: bgr.com
+    quality: 19
+  - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
+    excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
+    publishedDateTime: 2023-02-24T14:15:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/pressreach-2023-2-24-chatgpts-alter-ego-reveals-dark-side-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
     quality: 19
   - title: "Is ChatGPT ‘woke’? AI chatbot accused of anti-conservative bias and a grudge against Trump"
     excerpt: "Meta to restore Trump accounts:Trump Facebook and Instagram ... incorrect,” said Jake Denton, research associate with the Heritage Foundation’s Tech Policy Center. But, he says, what happens if ChatGPT or another AI chat feature replaces Google ..."
