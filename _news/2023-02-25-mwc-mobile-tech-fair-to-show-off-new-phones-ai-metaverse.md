@@ -2,11 +2,11 @@
 category: news
 title: "MWC mobile tech fair to show off new phones, AI, metaverse"
 excerpt: "The latest folding-screen smartphones, immersive metaverse experiences, AI-powered chatbot avatars and other eye-catching technology are set to wow visitors at the annual MWC wireless trade fair"
-publishedDateTime: 2023-02-25T07:43:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
-webUrl: "https://abcnews.go.com/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
+publishedDateTime: 2023-02-25T10:39:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864"
+webUrl: "https://abcnews.go.com/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864"
 type: article
 quality: 59
 heat: 79
@@ -53,6 +53,6 @@ related:
       domain: forbes.com
     quality: 50
 
-secured: "Nb42kNewIdriA24fc7+Y9zCJ0IUUQZARfQ7aWp05D10M57v+l3zbgLsBNarkHyWed9u8luvnobV26n+ZrFvDBirbEiWAYdONKyLAhyqxQ3rq/foKTewBMGonTq6cXhFWmg+iur3myvN8mz44NxOvXB6whwKhUHzb9CqV3VHSvYKCcPxwL05Lw9LA3Y8x2AGmXM9YX9jbOq90NHwEPysZIEqHpBks0jI7s3Ir+TPcwvKrtvQ+EY7TCPVN0rH7vjX6eu0Cy1eByCJ4Wtapr4rHJ5T3Yz4qJXOPyq5cI+ghWdeQCaNgw6I1NhJuMG4BJcHFwHH5QBrMu5mEkBPs1wCPEClE5t+vs7oV9RVEsR84DgA=;QshswUTgY88KWGdeu3YJNg=="
+secured: "vR5XeNxda2TGoyssEstg4m9HaDBCpvQhDXalOdlxezmd8SxSCL1Cpgwy2Pqi+p0xzyU/LhCQQQBRK/Cf7LYv6O03Wo65IBSEJKiDVVaEooaLa3cb+iTWQ3A9dAcDzALTs0caNl92mofZJwhxPdhC08gjpnCt412cxARDYNj0DMhAy+7IwyYhznBZbRyFjoyblA6kT37woyWAyUpgkMNI1d/XLj0Cka2qZ8u/hABN5f+TT2rDlNe1V01XL7O0U19CmyPDP21ZAtSzudgCdmOPjbUuXmKICH3+qZA3uCElCqdHsRSLN2OxzmOIKVP0LWAROANooqFzuJ+uEvdpkh+Am8IBHsofLHuqeJM1oETuIMs=;KQb+trFj0jYwZ2LGv9Gf7w=="
 ---
 

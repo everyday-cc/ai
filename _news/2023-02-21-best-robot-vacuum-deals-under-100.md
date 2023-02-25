@@ -64,15 +64,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 41
-  - title: "Best Presidents Day 2023 deals: All the top sales to shop today"
-    excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
-    publishedDateTime: 2023-02-20T18:14:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-presidents-day-2023-sales-2023-02-20/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 21
 
 secured: "HbeYUGUoHUMZ9t0lILy3VFR85kAGmKal5pAU7QT+cf4UCOqL3YmfHj+aaEqxO6vuK7Gn3O9QnwIaCGGTOISjpDsEGzrpBo/tzRGvmLNT7PytwSoarH73ONDZoZRz/pbnKoS+mMIgcW0udsdryZHmRcaPBecusgNp035jgE2ncrCd5hL+0Z3xIhvHCwxcathYI60M/+i+e/RuQDLFI4hXm57DvgeMTSVDLA2fd9tbT73rj1bt3AhDKPRX6sbrhYzIwTUqcoyLgJn8Kk5B1IB072xQ/6iyzZ6llUCyteFKGPRne3ooHHeeD0oVGN//R2toUQHioHTBPJ1z96n9+Ac201jvIenqcJ19oUArEhezPed8wrp655Yn8raUPoeRXfyzRXeZ71vL9yvegTa/1DnlwB5B6pDhPwgQsPzsVZF9vDJbUiHuBycoVw0YCeZ2qdS0MTE9K/D37eECzfsekEKdhgwR6pz8LvGG350nniD19rjg52t/DZWqjIt7zC3H7bxF6kjcBgARipcwSyh4SWT4tg==;Ul2D9c1V9klcLQWkWp42iw=="
 ---

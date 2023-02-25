@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-exp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/"
 type: article
 quality: 85
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -32,37 +32,31 @@ images:
     isCached: true
 
 related:
-  - title: "Chip Maker Nvidia Shares Soar 14% As Imaginations For AI Future Run Wild"
-    excerpt: "CEO Jensen Huang bragged his company will be “the best AI salespeople [in] the world,” but some say Nvidia’s AI-fueled stock boost is unwarranted."
-    publishedDateTime: 2023-02-23T22:22:00Z
-    webUrl: "https://www.forbes.com/sites/dereksaul/2023/02/23/chip-maker-nvidia-shares-soar-14-as-imaginations-for-ai-future-run-wild/"
-    ampWebUrl: "https://www.forbes.com/sites/dereksaul/2023/02/23/chip-maker-nvidia-shares-soar-14-as-imaginations-for-ai-future-run-wild/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/02/23/chip-maker-nvidia-shares-soar-14-as-imaginations-for-ai-future-run-wild/amp/"
+  - title: "Nvidia stock rises after slight beat driven by A.I. chips"
+    excerpt: "Data center revenue, which includes AI chips, rose 11% on an annual basis to $3.62 billion. In this article Nvidia stock rose more than 8% in extended trading Wednesday after the company reported ..."
+    publishedDateTime: 2023-02-23T17:00:00Z
+    webUrl: "https://www.cnbc.com/2023/02/22/nvidia-nvda-earnings-q4-2023.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-  - title: "How Nvidia dominated AI — and plans to keep it that way as generative AI explodes"
-    excerpt: "Nvidia has dominated the AI landscape. Can it handle 2023's challenges and win big in the generative AI gold rush?"
-    publishedDateTime: 2023-02-23T20:00:00Z
-    webUrl: "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/"
-    ampWebUrl: "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/"
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107121389-16636908112022-09-20t154548z_456040631_rc23lw99akst_rtrmadp_0_nvidia-gaming.jpeg?v=1677103157"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Meet the $10,000 Nvidia chip powering the race for A.I."
+    excerpt: "It’s able to perform many simple calculations simultaneously, which is important for training and using neural network models."
+    publishedDateTime: 2023-02-24T13:14:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/meet-10000-nvidia-chip-powering-race-rcna72155"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
-  - title: "Nvidia results show its growing lead in AI chip race"
-    excerpt: "and then rode the cryptocurrency wave as its chips were used for mining. Now, the next push comes from generative AI. Nvidia's surge Thursday has boosted its market value by more than $70 billion. That brings it to more than $580 billion, about five times ..."
-    publishedDateTime: 2023-02-23T19:39:00Z
-    webUrl: "https://www.reuters.com/technology/nvidia-results-show-its-growing-lead-ai-chip-race-2023-02-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
+      name: NBC News
+      domain: nbcnews.com
+    quality: 49
   - title: "Nvidia Cracks Wall Street’s AI Code"
     excerpt: "The optimism over artificial intelligence can extend the chip maker’s stock rally, despite mixed quarterly results."
     publishedDateTime: 2023-02-23T14:55:00Z
@@ -72,43 +66,48 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "NVIDIA Shares Surge As AI Powerhouse Rakes In Billions On Strong Data Center Earnings"
-    excerpt: "Investors are upbeat following NVIDIA's fourth quarter and fiscal 2023 financial results, with the company's share price surging after it beat out Wall Street's expectations."
-    publishedDateTime: 2023-02-23T14:01:00Z
-    webUrl: "https://hothardware.com/news/nvidia-billions-data-center-ai-growth-offset-big-drop-gaming"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-billions-data-center-ai-growth-offset-big-drop-gaming"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-billions-data-center-ai-growth-offset-big-drop-gaming"
+  - title: "Nvidia shares soar day after Intel cuts dividend"
+    excerpt: "\"It’s now offering its services like access to supercomputers, via big cloud platforms like Microsoft Azure, Google GCP and Oracle Cloud ... Nvidia stands to benefit as its chips are used to develop machine learning software,\" Mould opined."
+    publishedDateTime: 2023-02-23T16:51:00Z
+    webUrl: "https://www.foxbusiness.com/markets/nvidia-shares-soar-intel-cuts-dividend"
+    ampWebUrl: "https://www.foxbusiness.com/markets/nvidia-shares-soar-intel-cuts-dividend.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/nvidia-shares-soar-intel-cuts-dividend.amp"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 32
-  - title: "Nvidia Earnings Preview: Big Tech AI Arms Race May Ignite Renewed Chip Demand"
-    excerpt: "Nvidia, the market leader in AI chip development, stands to win regardless of who comes out ahead in the new Big Tech arms race. Nvidia is perhaps the chip sector's hottest stock this year, with a gain of around 44.3% that's nearly triple the Philadelphia ..."
-    publishedDateTime: 2023-02-22T18:39:00Z
-    webUrl: "https://www.thestreet.com/markets/nvidia-earnings-preview-big-tech-ai-arms-race-may-ignite-demand"
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 44
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/119809e0-7460-4da7-80ca-1c447634b71d/ba28b17e-2456-4d61-a878-ee2f19eed5a6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AMD slowly catching up to Nvidia in GPU sales"
+    excerpt: "Thanks to its highly scalable GPU architectures, AMD GPUs are now powering a wide range of devices from consoles to PCs to mobiles."
+    publishedDateTime: 2023-02-24T13:35:00Z
+    webUrl: "https://www.ibtimes.co.uk/amd-slowly-catching-nvidia-gpu-sales-1713323"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 31
-  - title: "Nvidia Teases DGX Cloud AI-As-A-Service As Earnings Wow Wall Street"
-    excerpt: "Jensen Huang, Nvidia’s CEO and co-founder, calls DGX Cloud the ‘next level’ of the GPU designer’s business model and says it’s meant to ‘help put AI within reach of every enterprise customer.’ The service is already available on Oracle Cloud ..."
-    publishedDateTime: 2023-02-23T00:11:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-teases-dgx-cloud-ai-as-a-service-as-earnings-wow-wall-street"
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 36
+  - title: "Nvidia Shares Soar on Earnings Beat, Chip Demand for AI Applications"
+    excerpt: "Shares of Nvidia (NVDA) are soaring after the software company posted better-than-expected results in the previous quarter while boosting current quarter guidance, and said chip demand for artificial intelligence (AI) applications such as ChatGPT is soaring."
+    publishedDateTime: 2023-02-23T15:35:00Z
+    webUrl: "https://www.investopedia.com/nvidia-shares-soar-on-earnings-beat-chip-demand-for-ai-applications-7112912"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 21
-  - title: "Nvidia CEO Says AI Will Allow Anyone to Be a Programmer"
-    excerpt: "ChatGPT and generative AI has become all the rage in recent weeks. Nvidia has done its share of talking up the technology recently. The company’s CEO has hailed it as the next big thing in computing."
-    publishedDateTime: 2023-02-23T19:18:00Z
-    webUrl: "https://www.extremetech.com/computing/343320-nvidia-ceo-says-ai-will-allow-anyone-to-be-a-programmer"
+      name: Investopedia
+      domain: investopedia.com
+    quality: 34
+  - title: "Nvidia to drive AI business amid ChatGPT hype"
+    excerpt: "As the sluggish PC market drags on Nvidia's performance, the fabless chip design company is eyeing the AI hype that is driven by services, especially ChatGPT. Nvidia posted its fiscal fourth-quarter financial results that ended on January 29, 2023."
+    publishedDateTime: 2023-02-23T02:45:00Z
+    webUrl: "https://www.digitimes.com/news/a20230223VL201/ai-chatgpt-nvidia.html"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
+      name: Digi Times
+      domain: digitimes.com
     quality: 19
 
 secured: "exQrX+tcUF3ZAQP3nDeN6Ssf6CYGmC9DNAPFCxDI2sgorLNuIlh15sz0zfUsXdCiMdDv56eH8GCGYYHS68moFAZ1gm9JtCgCv5hQRLhWNHBYS04CE0k2KH2vYMREteTk++38P5c3BLZX8IZ1uHt2NfS2rugqS+n4nrTi4xwGZhGPC7P2EuOqjeSCg/e6oGtCyWBS550qtZJCMnvoq0LcHMAudzAudF7XnfkydRjlyOeADlbqYucI9Rd4r1Zb9OspJQagjywWn+JJabLk7SkptU2u4T23Svnn7PQVb6CrRntKh6dat9N2AVaXl5vHLbhBAM4vUNJ3+28x7a4cLICXCtW/UXTDVzVWlxa1SHciukGSdnGOfET5zFVlQ7KCBYN0+ndfJlQHhK7AOSJl7D+REgEf3b4dFcOdLZP/ej8wjAJbZUhsHcav/KrA/HxkPnam8SKOzJRL2bXAvIzy5ICQsVWpOADeCAHMY9V68HRIywPMmOMPL5wU2lEAx99p4fGXjA9R5123HyhCtHkpb/PMgw==;T4v6BGT1W/Xjbi1zXIVYsQ=="

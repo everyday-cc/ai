@@ -2,6 +2,114 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-22-artificial-intelligence-delivers-its-latest-innovation.md",
+      "title": "Artificial Intelligence Delivers Its Latest Innovation",
+      "excerpt": "\"Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.\" -Ginni Rometty, Executive Chairman of IBM Artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
+      "originalUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2198602/computer-code.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
+      "publishedDateTime": "2023-02-22T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "IBM AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-baidu-to-deploy-conversational-ai-across-search-in-car-entertainment-and-more.md",
+      "title": "Baidu to deploy conversational AI across search, in-car entertainment and more",
+      "excerpt": "This appears to mirror the collaboration between Microsoft and OpenAI, through which Azure’s customers can access the AI lab’s technologies. Lastly, Baidu plans to boost its in-car voice assistant with Ernie. The search giant has over the past few ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/",
+      "originalUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1061811420.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/22/baidu-chatgpt/amp/",
+      "publishedDateTime": "2023-02-22T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-biden-executive-order-for-woke-artificial-intelligence-called-social-cancer.md",
       "title": "Biden executive order for 'woke' artificial intelligence called 'social cancer'",
       "excerpt": "President Biden signed an executive order on Thursday that critics warn will allow for the creation of woke artificial intelligence (AI) that \"promotes racial division and discrimination.\" The order directs all federal agencies to establish a yearly ...",
@@ -97,7 +205,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-next-big-thing-forecast-2023-2029-2023-02-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 290,
+      "heat": 310,
       "tags": null,
       "images": [
         {
@@ -192,7 +300,7 @@
       "originalUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1080,100 +1188,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-ai-still-requires-human-expertise.md",
-      "title": "AI still requires human expertise",
-      "excerpt": "Not only is the AI/software not nearly good enough yet, but the laws still won’t allow a driver to blame the AI for a crash (and there are plenty of crashes —at least 400 last year). ChatGPT is amazing until it starts making up information during the public launch of the new AI-powered Bing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3688331/ai-still-requires-human-expertise.html",
-      "originalUrl": "https://www.infoworld.com/article/3688331/ai-still-requires-human-expertise.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2021/12/28/10/10_untruthful_lies_liar_untrustworthy-100781303-large-100915050-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3688331/ai-still-requires-human-expertise.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3688331/ai-still-requires-human-expertise.amp.html",
-      "publishedDateTime": "2023-02-20T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-quantum-ai-australia-reviews-2023-scam-trading-app.md",
-      "title": "Quantum AI Australia Reviews 2023 – Scam Trading App?",
-      "excerpt": "Quantum AI Australia states that it uses technical analysis, trend-following methods, and machine learning algorithms to generate profits. The users have to create a free account in order to use the robot’s services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business-spotlight/quantum-ai-australia-reviews-2023-scam-trading-app--news-263645",
-      "originalUrl": "https://www.outlookindia.com/business-spotlight/quantum-ai-australia-reviews-2023-scam-trading-app--news-263645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1676885088.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business-spotlight/quantum-ai-australia-reviews-2023-scam-trading-app--news-263645/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/quantum-ai-australia-reviews-2023-scam-trading-app--news-263645/amp",
-      "publishedDateTime": "2023-02-20T01:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -23,21 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia Beats Earning Expectations And Looks Towards AI, Stock Jumps 14% In Response"
-    excerpt: "The AI market is set to take off—with one popular commentator comparing it to the rise of the Internet—and Nvidia’s chips are the tools of choice for many AI companies. According to CNBC, a New Street Research report found that Nvidia already has a ..."
-    publishedDateTime: 2023-02-24T10:03:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/"
+  - title: "Nvidia’s AI GPUs May Soon Power MediaTek’s 2024 Flagship Mobile SoCs"
+    excerpt: "MediaTek's SoCs could benefit from Nvidia's GPUs for improved AI performance. Will it impact smartphone sales?"
+    publishedDateTime: 2023-02-25T10:56:00Z
+    webUrl: "https://www.gizmochina.com/2023/02/25/nvidia-ai-gpu-mediatek-soc/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63f899324fa3a14e43093b40/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/soc_mediatek_nvidia.jpg"
+        width: 1420
+        height: 1000
         isCached: true
   - title: "Chip Maker Nvidia Shares Soar 14% As Imaginations For AI Future Run Wild"
     excerpt: "CEO Jensen Huang bragged his company will be “the best AI salespeople [in] the world,” but some say Nvidia’s AI-fueled stock boost is unwarranted."
@@ -50,64 +48,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 83
-  - title: "How Nvidia dominated AI — and plans to keep it that way as generative AI explodes"
-    excerpt: "Nvidia has dominated the AI landscape. Can it handle 2023's challenges and win big in the generative AI gold rush?"
-    publishedDateTime: 2023-02-23T20:00:00Z
-    webUrl: "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/"
-    ampWebUrl: "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/"
+  - title: "MediaTek likely to incorporate Nvidia AI GPU in smartphone SoC?"
+    excerpt: "Nvidia's AI GPUs may be found in MediaTek's flagship smartphone slated for launch as early as 2024, according to industry sources. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue."
+    publishedDateTime: 2023-02-24T03:10:00Z
+    webUrl: "https://www.digitimes.com/news/a20230223PD216/gpu-mediatek-nvidia-smartphone-soc.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
-  - title: "Nvidia Cracks Wall Street’s AI Code"
-    excerpt: "The optimism over artificial intelligence can extend the chip maker’s stock rally, despite mixed quarterly results."
-    publishedDateTime: 2023-02-23T14:55:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-cracks-wall-streets-ai-code-31d3e33b"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "NVIDIA Shares Surge As AI Powerhouse Rakes In Billions On Strong Data Center Earnings"
-    excerpt: "Investors are upbeat following NVIDIA's fourth quarter and fiscal 2023 financial results, with the company's share price surging after it beat out Wall Street's expectations."
-    publishedDateTime: 2023-02-23T14:01:00Z
-    webUrl: "https://hothardware.com/news/nvidia-billions-data-center-ai-growth-offset-big-drop-gaming"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-billions-data-center-ai-growth-offset-big-drop-gaming"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-billions-data-center-ai-growth-offset-big-drop-gaming"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 32
-  - title: "Nvidia Earnings Preview: Big Tech AI Arms Race May Ignite Renewed Chip Demand"
-    excerpt: "Nvidia, the market leader in AI chip development, stands to win regardless of who comes out ahead in the new Big Tech arms race. Nvidia is perhaps the chip sector's hottest stock this year, with a gain of around 44.3% that's nearly triple the Philadelphia ..."
-    publishedDateTime: 2023-02-22T18:39:00Z
-    webUrl: "https://www.thestreet.com/markets/nvidia-earnings-preview-big-tech-ai-arms-race-may-ignite-demand"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 31
-  - title: "Nvidia Teases DGX Cloud AI-As-A-Service As Earnings Wow Wall Street"
-    excerpt: "Jensen Huang, Nvidia’s CEO and co-founder, calls DGX Cloud the ‘next level’ of the GPU designer’s business model and says it’s meant to ‘help put AI within reach of every enterprise customer.’ The service is already available on Oracle Cloud ..."
-    publishedDateTime: 2023-02-23T00:11:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-teases-dgx-cloud-ai-as-a-service-as-earnings-wow-wall-street"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 21
-  - title: "Nvidia CEO Says AI Will Allow Anyone to Be a Programmer"
-    excerpt: "ChatGPT and generative AI has become all the rage in recent weeks. Nvidia has done its share of talking up the technology recently. The company’s CEO has hailed it as the next big thing in computing."
-    publishedDateTime: 2023-02-23T19:18:00Z
-    webUrl: "https://www.extremetech.com/computing/343320-nvidia-ceo-says-ai-will-allow-anyone-to-be-a-programmer"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
 
 secured: "8a4K4eGHGVkSlOzAwXnoFLK9uzRBo7Zqm7/xk5/wojkcY9aL9b8sJJkqRIKBV7PeT8kMnhQrkrs05kqONpgZXmsF2bBe+GsBOpJvdWC4oxWx1TTZ3VEAETL/+/Ld5XBr1JEZgXefHjxmXPL9sCJhxuIxDnJD6Aa6+dCHf9gZykgHO3FGLmN3/MX/RwMq2RmBGmCxqpZQCv5s/1iYFi+vghTInoz40ZjdmY84BWvlnedsrue4BGLXIaQbWAolqyIIP7TyDmWLZQQKrFm8Ml3RsS7zEqME3v16l7Jvzvp8RzL7Nv1nlJbj+GO8t9pT7n8eifCtCionoPtR2ddSVUyldTe+nmiHxiIk9YMEFasTy8C2EJnXW6Tdqs82BJQnf0oRwjwuAtYbg9spk+AqBJJirPWF2i3SvJjFBfMpz2k+DMbP/m3PWeHD3dgjNJ5scSfpJNDE7onMKuKvMVFilnQNapfpdVpOLwjVgvkm6NLeEOPk0aK5l3vJS10q8SvOBoiY0DPovWxLQ3wSWT6yHEytpA==;UIK9cwz6Tq/VgpXii2F++Q=="
 ---

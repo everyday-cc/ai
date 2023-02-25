@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Blackbird AI is striking back at ChatGPT and AI-based attacks"
-    excerpt: "Blackbird AI announces the launch of an AI assistant for security analysts, which uses generative AI to create mitigation guidance."
-    publishedDateTime: 2023-02-20T17:57:00Z
-    webUrl: "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/"
-    ampWebUrl: "https://venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-blackbird-ai-is-striking-back-at-chatgpt-and-ai-based-attacks/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/02/image0.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Implications Of ChatGPT On Cybercrime"
     excerpt: "Researchers at CyberArk demonstrated how ChatGPT can be easily abused to create polymorphic malware that is highly evasive as well as difficult to detect. Every time researchers queried ChatGPT, they received a unique piece of code that could be used to create numerous mutations of the same malware program."
     publishedDateTime: 2023-02-24T11:45:00Z
@@ -292,18 +276,18 @@ related:
       domain: theverge.com
     quality: 47
   - title: "AI for Good develops humanitarian projects using ChatGPT and rivals"
-    excerpt: "An NGO called AI For Good is utilizing the immense power of ChatGPT, Bard, Bing, Neeva, and similar programs, to teach"
+    excerpt: "LOS ANGELES, Calif., Feb. 23, 2023 (SEND2PRESS NEWSWIRE) — An NGO called AI For Good is utilizing the immense power of ChatGPT, Bard, Bing, Neeva, and similar programs, to teach ordinary AI users to quickly and efficiently create new approaches to ..."
     publishedDateTime: 2023-02-23T13:38:00Z
-    webUrl: "https://www.starbeacon.com/region/ai-for-good-develops-humanitarian-projects-using-chatgpt-and-rivals/article_7d09d029-8b08-59c9-ae7c-c5cb01bea03a.html"
+    webUrl: "https://www.joplinglobe.com/region/ai-for-good-develops-humanitarian-projects-using-chatgpt-and-rivals/article_3474cfcb-9226-5e11-93a0-08fdf2b72367.html"
     type: article
     provider:
-      name: Star Beacon
-      domain: starbeacon.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/starbeacon.com/content/tncms/custom/image/760622da-825e-11e5-8595-a7eb0b0092f8.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/JMag-Feb-2023-cover.jpg"
+        width: 350
+        height: 446
         isCached: true
   - title: "Meta launches own version of AI to find fixes to ChatGPT’s dangers"
     excerpt: "Facebook-owner Meta on Friday unveiled its own version of the artificial intelligence behind apps such as ChatGPT, saying it would give access to researchers to find fixes to the technology’s potential"
@@ -332,6 +316,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/02/New-Bing.jpg?quality=82&strip=all"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Using AI like ChatGPT costs more than other internet searches. It's a billion-dollar problem"
+    excerpt: "For instance, SemiAnalysis, a research and consulting firm focused on chip technology, said adding ChatGPT-style AI to search could cost Alphabet $3 billion, an amount limited by Google's in-house ..."
+    publishedDateTime: 2023-02-23T01:32:00Z
+    webUrl: "https://www.ksl.com/article/50584679/using-ai-like-chatgpt-costs-more-than-other-internet-searches-its-a-billion-dollar-problem"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 28
+    images:
+      - url: "https://img.ksl.com/slc/2916/291697/29169717.JPG?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
         isCached: true
   - title: "OPINION: To ChatGPT, or to not ChatGPT: Is ChatGPT the new Shakespeare?"
     excerpt: "Now as one of my professors has noted, ChatGPT is going to be able to write as Shakespeare once did. The new chatbot software launched in November 2022 and has turned the world upside down. OpenAI is the company responsible for the creation of the new ChatGPT."
@@ -378,24 +376,6 @@ related:
       name: BGR
       domain: bgr.com
     quality: 19
-  - title: "Nvidia to drive AI business amid ChatGPT hype"
-    excerpt: "As the sluggish PC market drags on Nvidia's performance, the fabless chip design company is eyeing the AI hype that is driven by services, especially ChatGPT. Nvidia posted its fiscal fourth-quarter financial results that ended on January 29, 2023."
-    publishedDateTime: 2023-02-23T02:45:00Z
-    webUrl: "https://www.digitimes.com/news/a20230223VL201/ai-chatgpt-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 19
-  - title: "ChatGPT hype sparks hopes and fears around AI"
-    excerpt: "It follows rapid rises in the shares of Chinese AI groups (mirroring trends in the US), prompting state media to issue a warning about the speculative frenzy. There are, however, several obstacles for the fledgling industry to overcome."
-    publishedDateTime: 2023-02-20T18:15:00Z
-    webUrl: "https://www.ft.com/content/ecda8734-4e3e-4e7e-9c26-ed5cbfde71e5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "Is ChatGPT ‘woke’? AI chatbot accused of anti-conservative bias and a grudge against Trump"
     excerpt: "Meta to restore Trump accounts:Trump Facebook and Instagram ... incorrect,” said Jake Denton, research associate with the Heritage Foundation’s Tech Policy Center. But, he says, what happens if ChatGPT or another AI chat feature replaces Google ..."
     publishedDateTime: 2023-02-24T04:31:00Z
@@ -433,6 +413,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "KlcAMUwP/Jrt8YxoU30Ug+BPeQ1Af3v+G0xhzPHibbJHNZn7XsICr6B+FvPXn5ZsmvpUsZmSXldFxqyL1g56b16SkpSfAKJsNcD6BKGCxwRaKeAQY25+VoHUhfhK501xdXN0S4wjgqtqC2gPgxtxtx8BymZ7OhwY91Afivy13U2SFookJN3k5lZ6In+Tevqd128XY1QzmnT/VDQCFVrjuJyR9h3T4AL8b8EqMV5eu1Q0AYtoZ1Wb5WAH1IUK5iZ4AX4FpFyMftOpKk2OrfcYtpiIkU199i8mpuhFn3H/nbHDdRROfWB7UjjnSO4x6pfTozOaHJacziR/QRsKtKHIL9FqRkTJZ4vOkYRv2Ym37Fo=;YSxlbdG+oehY4mPQvRZJIg=="
+secured: "xirl20BtHPDn47WvBDczmYIugjgw5lZyEeJQvp+6ceLy9dWXYWVwDnW9Km60yXTiJVpSeidWUQUtHsqGuLgdvR67WjF/08UmdzW233lgdGn+yiCrSK9CTCuxpbOWRXp6urxEO9Hh6wq9VwtHpy4rFrJZEb/OURuRC6sVQ6cNmcOZazTpHmQK9MX12I/E9dIBJtN63MwkW3tb04Z6x76Lb7qkjnfFLzJmjHybwlBZMFEv+i6n7p7tNTdhgGmXsqys7BgMEo82d7O/+yeo/27S25r6asNtNkqJzzcyUZpCcPTKIsD9knMRjNSCXQG9tlqBWwjHq58Pla2R0GKdwJCScPQqfKdQACwCWAM2PtCNswxKHNVOoudznlT8WrFmq8xCV0crJgzuvA6KFEZ4E5Tg3tuf1V+jfaeHfc4ACybzmeGuHraX+pbllylk7vCTHS0BWyPwA6momDWlaZIwm6ft/bfA6LLM4jaodRMnTaZz8Nu5/efhwpPHqTmxMyS/OPBmwCS+1OmWukvuDl4s4OyM9g==;XexGf5Op82LdiY8B3jW6SA=="
 ---
 

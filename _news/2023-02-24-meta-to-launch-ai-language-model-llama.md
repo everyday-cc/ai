@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/meta-launch-ai-language-model-l
 webUrl: "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/"
 type: article
 quality: 69
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/02/94d394304d1c47ab042f3c061e2a2150.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Meta to release new interactive AI model for academia and industry labs"
+    excerpt: "Meta, formerly known as Facebook, made the announcement on ... in government and civil society as well as industry research laboratories. In November last year, the firm released another interactive AI model focused on natural science."
+    publishedDateTime: 2023-02-25T10:48:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230225_16/"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 39
+    images:
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20230225_16_1224364_L.png"
+        width: 640
+        height: 360
         isCached: true
   - title: "Meta releases LLaMA to democratize access to large language AI models"
     excerpt: "Meta Platforms Inc.’s Facebook AI Applied Research group today is publicly releasing a new foundational large language model, known as Large Language Model Meta AI or LLaMA, to help the scientific community advance its research into a subset of ..."

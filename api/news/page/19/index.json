@@ -2,6 +2,74 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-02-07-study-artificial-intelligence-detect-effectiveness-of-breast-cancer-chemotherapy.md",
+      "title": "Study: Artificial intelligence detect effectiveness of breast cancer chemotherapy",
+      "excerpt": "Artificial intelligence (AI) technology has been developed by engineers at the University of Waterloo to determine whether chemotherapy before surgery would be beneficial for people with breast cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/science-environment/2346587-study-artificial-intelligence-detect-effectiveness-of-breast-cancer-chemotherapy",
+      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2346587-study-artificial-intelligence-detect-effectiveness-of-breast-cancer-chemotherapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-banks-accelerate-move-to-the-cloud-with-new-oracle-banking-services.md",
+      "title": "Banks Accelerate Move to the Cloud with New Oracle Banking Services",
+      "excerpt": "With transaction volumes, customer expectations, and competitive threats at an all-time high, banks must adapt quickly to keep pace. To address these challenges, Oracle today launched Oracle Banking Cloud Services,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/02/07/9755948.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/02/07/9755948.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-6-jobs-artificial-intelligence-is-already-replacing-and-how-investors-can-capitalize-on-it.md",
       "title": "6 Jobs Artificial Intelligence Is Already Replacing and How Investors Can Capitalize on It",
       "excerpt": "It’s no secret artificial intelligence (AI ... but business is likely to pick up the pace in the future. From a self-driving Tesla Semi to Starship’s Food Delivery robot fleet, robots powered by AI are beginning to dominate the delivery sector.",
@@ -886,83 +954,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-denodo-named-a-customers-choice-in-the-2023-gartner-peer-insights-voice-of-the-customer-data-integration-tools.md",
-      "title": "Denodo Named a Customers' Choice in the 2023 Gartner® Peer Insights™ \"Voice of the Customer\": Data Integration Tools",
-      "excerpt": "Peer reviews show that 93% of customers in the past 18 months would recommend the data management leader Denodo, the leader in data management, today announced that it has been named a Customers' Choi",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/b30763278/denodo-named-a-customers-choice-in-the-2023-gartner-peer-insights-voice-of-the-customer-data-integ",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/b30763278/denodo-named-a-customers-choice-in-the-2023-gartner-peer-insights-voice-of-the-customer-data-integ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-renesas-positions-its-microcontrollers-for-the-digitally-transformed-automotive-industry-and-consumer-and-industrial-markets.md",
-      "title": "Renesas Positions Its Microcontrollers For The Digitally Transformed Automotive Industry And Consumer And Industrial Markets",
-      "excerpt": "From the cars we drive to the appliances in our homes, and the smoke alarms that keep our homes safe, microcontrollers (MCUs) are in just about everything. Renesas is the world's largest supplier of MCUs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/07/renesas-positions-its-microcontrollers-for-the-digitally-transformed-automotive-industry-and-consumer-and-industrial-markets/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/07/renesas-positions-its-microcontrollers-for-the-digitally-transformed-automotive-industry-and-consumer-and-industrial-markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -29,17 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "How generative AI is changing game development (and UGC)"
-    excerpt: "Generative AI is iterating on existing uses of AI in game development and content creation. But how much should it be used for?"
-    publishedDateTime: 2023-02-24T01:34:00Z
-    webUrl: "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/"
-    ampWebUrl: "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/amp/"
+  - title: "The AI industry is hot right now. 5 experts share 4 tips for finding a job in the sector."
+    excerpt: "The hype surrounding ChatGPT and new search engines from Google and Microsoft has shone a spotlight on the AI sector."
+    publishedDateTime: 2023-02-25T09:46:00Z
+    webUrl: "https://www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/63f3832f7b15f100194d2b95?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "t59G/AMVGDi3vJVppv4IjJj8zmEa6wU5ryK8mP1pSDc29aJ+tOruY41Vrg+H23P9IvdECd1YN7wuR1q4D8oALxgqxA0Je7esEUbP+WnchLD6oT4WM1Hd9YHW2Z8xzcpmSwN1LR9OIU+9LrTDaIdo8XVySo02fQZaYi5keLfJrLplXCSNVjGF+WWtSYpPEHt+LtDL0DUhN623jdVH9zag2OdrQ98ri/wRSD375GLzKWP3MVXvn3uquha7RXn0izollDqrHWVmxEIGzqA3l+i4EAlGTyFCbB8hzvh4jLMf1R/JlwNGuVXTFDBI90n+WIiZvEfjlMIRFCtX4zoh/B3Mdb6ez52JUEy4UNeQsIfEdO61jTH0UkQX22m70SyWTC2v4GTttuVY82n1d2hiZztEYba620KM/YZnc3GfDNiJ7YOblQnT9PaQ274hFa5jSZ6UyU+i3nHZPd9k/DXdUnlkWdgHy/+kIUao/3ozfBek5mKlk+2zIvAm1KCicE/EeQgl6tkA2I1BHFggsylaGzJM0Q==;Cxx/vYN6Fb1rUKXbUoJsfA=="
 ---

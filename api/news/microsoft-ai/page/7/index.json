@@ -2,40 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-01-06-how-old-is-your-brain-really-artificial-intelligence-knows.md",
-      "title": "How old is your brain, really? Artificial intelligence knows",
-      "excerpt": "A new artificial intelligence model that analyzes MRI brain scans developed by USC researchers could be used to accurately capture cognitive decline linked to neurodegenerative diseases like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/975942",
-      "originalUrl": "https://www.eurekalert.org/news-releases/975942",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-06-the-future-of-mobility-is-now-five-themes-to-watch-at-ces-2023.md",
       "title": "The future of mobility is now: Five themes to watch at CES 2023",
       "excerpt": "It’s hard to believe a mere 200 years ago, the horse and carriage were the predominant mode of transportation — and had been for hundreds of years. And then, with the invention of the internal combustion engine,",
@@ -1259,6 +1225,50 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-microsoft-brings-real-time-voice-translation-to-skype-check-details.md",
+      "title": "Microsoft brings real-time voice translation to Skype: Check details",
+      "excerpt": "Microsoft has launched real-time voice translation in Skype, which can now translate a person's voice in real-time using AI to make the translated voice sound similar to the original speaker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/",
+      "originalUrl": "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.bgr.in/wp-content/uploads/2022/12/skype-logo.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/",
+      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/apps/microsoft-brings-real-time-voice-translation-to-skype-check-details-1349718/amp/",
+      "publishedDateTime": "2022-12-15T23:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "www.bgr.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

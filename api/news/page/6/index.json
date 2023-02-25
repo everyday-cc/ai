@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-17-meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership.md",
+      "title": "Meta Media Shares Surge 201% On Adrian Cheng’s Appointment And Baidu AI Partnership",
+      "excerpt": "Meta Media Holdings’ stock skyrocketed more than 201% over the past week after the Chinese media company appointed Adrian Cheng as a co-chairman and announced a partnership with the ChatGPT-like bot developed by Chinese search giant Baidu.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/",
+      "originalUrl": "https://www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ef5cb0e757255840ed2985/0x0.jpg?format=jpg&crop=1066,711,x0,y231,safe&width=1200",
+          "width": 1066,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zinnialee/2023/02/17/meta-media-shares-surge-201-on-adrian-chengs-appointment-and-baidu-ai-partnership/amp/",
+      "publishedDateTime": "2023-02-17T01:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-how-many-people-have-actually-been-killed-by-self-driving-cars.md",
+      "title": "How Many People Have Actually Been Killed By Self-Driving Cars?",
+      "excerpt": "When it comes to self-driving cars, the Society of Automotive Engineers recognizes six levels of autonomous driving: from level 0, at which a vehicle has no driver assistance of any kind ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1202594/how-many-people-have-actually-been-killed-by-self-driving-cars/",
+      "originalUrl": "https://www.slashgear.com/1202594/how-many-people-have-actually-been-killed-by-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/how-many-people-have-actually-been-killed-by-self-driving-cars/l-intro-1676585301.jpg",
+          "width": 1600,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T23:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029.md",
       "title": "2023 Machine Learning Chip Market: Maximize Growth Potential and Increasing Demand Forecast to 2029",
       "excerpt": "The “Machine Learning Chip Market” Research Report 2023-2029 | Latest 111 Pages Report | It throws light on competitive",
@@ -1130,110 +1233,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-scaling-large-language-model-llm-training-with-amazon-ec2-trn1-ultraclusters.md",
-      "title": "Scaling Large Language Model (LLM) training with Amazon EC2 Trn1 UltraClusters",
-      "excerpt": "Modern model pre-training often calls for larger cluster deployment to reduce time and cost. At the server level, such training workloads demand faster compute and increased memory allocation. As models grow to hundreds of billions of parameters, they require a distributed training mechanism that spans",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-large-language-model-llm-training-with-amazon-ec2-trn1-ultraclusters/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scaling-large-language-model-llm-training-with-amazon-ec2-trn1-ultraclusters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/16/scaling-large-language-models.jpg",
-          "width": 1564,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T11:21:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-tesla-recalls-362000-vehicles-over-full-self-driving-software-issue.md",
-      "title": "Tesla Recalls 362,000 Vehicles Over Full Self-Driving Software Issue",
-      "excerpt": "Zach's grandparents Tesla recalled over 362,000 vehicles because the Full Self-Driving software on these vehicles may cause accidents, the National Highway Traffic Safety Administration announced Thursday. The recall affects certain 2016-2023 Model S ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 739,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/5ad6fee523c3400aaa56df47874d7ba1bd69a79a/hub/2020/09/25/26614e94-c7b0-431d-bbad-aa5f53bc242c/tesla-model-y.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
-      "publishedDateTime": "2023-02-16T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

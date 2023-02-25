@@ -1,22 +1,30 @@
 ---
 category: news
 title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
-excerpt: "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market."
-publishedDateTime: 2023-02-24T15:32:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/02/24/9766176.htm"
-webUrl: "https://it.tmcnet.com/news/2023/02/24/9766176.htm"
+excerpt: "FinancialNewsMedia.com News Commentary PALM BEACH, Fla., Feb. /PRNewswire/ -- Artificial Intelligence (AI) is becoming used in more and more markets and industries worldwide. At the current growth rate,"
+publishedDateTime: 2023-02-24T12:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/02/n31047086/how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-"
+webUrl: "https://www.benzinga.com/pressreleases/23/02/n31047086/how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-"
+ampWebUrl: "https://www.benzinga.com/amp/content/31047086"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31047086"
 type: article
-quality: 15
-heat: 15
+quality: 55
+heat: 65
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "FinancialNewsMedia.com: How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
@@ -29,6 +37,6 @@ related:
       domain: finanznachrichten.de
     quality: 5
 
-secured: "WTp9DJBVJxr2sc3DkkJMo2Z1WPum0QcOq9HnN7xenkDlB8KPfYsyyNp+DtlK8yBfmZ0qBqGlAVm8HX2j3zSPtZ6vS7IJJ62Sd+epMfMFiMCGaIyh+ibG8G46pbu37QJuHf+PHwMa7meAp/0yY0uapZ/TJ1czycGdsHEHG2yFyoENge9FeLWz7/rNzU+dxuizmUioMe5iTT7FEcKzmmgQl/zkUUitqyCQruUxfyFhoGx+BBcxxGGUN5X2a+88E6TyxwwQLYzrMshATKsHwpxeNN4b8RdnPzoWXLENihtd78PiAEGKF4/2xk9k75K8/3M2h2YDSK8N/dlQTJNHMXdYMiKJP6WqrqJA2WgDc0eF0DA=;Gn3TgN7nxc1QbomyMvIgsg=="
+secured: "094eleviee0SdcsgzsD+RT0THcZTbsH4xKzuIU9v4X4ZB9KutviZ2K5/akRyBGeSq2P2UeR5dtur+Mmrrx7/v9T/fsNYfhjST/oORtPQu+w4qOWpj7qPill9XuvO6tF/pLB9ZkfzoykwTSuDoQjypx3eW63B4RrcY2RYMaFJQ+4yvqai8O6xeAZrjrYdWJ9wCCK7RIVodLwMZiXvZH2uvGM5X9EnbhkhHmKGW+e3ID3gnpXwVFXHY3hMJlGCe3IMzlxnO3pKFEhhZBvMXWGZdh35IMPqFkzakKgeHfQkoLaBAM+taAEgsaXqheP+hOa3M5I1kX00RXcn/tvptvxYqG4RYpoUwDfClNA5iquV3Po=;kztQAfM27JSM5sCUIi0RnQ=="
 ---
 

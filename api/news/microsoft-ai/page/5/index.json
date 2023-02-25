@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-01-24-mlops-provider-domino-data-lab-strikes-distribution-deal-with-td-synnex.md",
-      "title": "MLOps Provider Domino Data Lab Strikes Distribution Deal With TD Synnex",
-      "excerpt": "Domino Data Lab is partnering with tech distributor and solutions aggregator TD Synnex to bring the company’s MLOps machine learning platform to a wider audience of channel partners and potential customers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/mlops-provider-domino-data-lab-strikes-distribution-deal-with-td-synnex",
-      "originalUrl": "https://www.crn.com/mlops-provider-domino-data-lab-strikes-distribution-deal-with-td-synnex",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/027d-1725878278d6-dd32d159ed73-1000/thomas-robinson-domino-data-lab.jpeg",
-          "width": 611,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-24-microsoft-to-invest-10-billion-in-openai-the-creator-of-chatgpt.md",
       "title": "Microsoft to Invest $10 Billion in OpenAI, the Creator of ChatGPT",
       "excerpt": "He covers artificial intelligence, driverless cars, robotics, virtual reality and other emerging areas. @cademetz Karen Weise is a technology correspondent based in Seattle, covering Amazon and ...",
@@ -1332,6 +1289,49 @@
       "provider": {
         "name": "Aviation Today",
         "domain": "aviationtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-12-good-news-thursday-new-alzheimers-drug-slows-cognitive-decline-in-clinical0.md",
+      "title": "Good News Thursday: New Alzheimer’s drug slows cognitive decline in clinical...0",
+      "excerpt": "A new drug to treat Alzheimer’s was approved by the FDA last week to slow the cognitive decline that accompanies Alzheimer’s, a disease that affects memory and other mental functions.",
+      "sourceUrl": null,
+      "webUrl": "https://universe.byu.edu/2023/01/12/good-news-thursday-new-alzheimers-drug-slows-cognitive-decline-damar-hamlins-toy-drive-raises-8-6m-delta-plans-to-offer-free-wi-fi/",
+      "originalUrl": "https://universe.byu.edu/2023/01/12/good-news-thursday-new-alzheimers-drug-slows-cognitive-decline-damar-hamlins-toy-drive-raises-8-6m-delta-plans-to-offer-free-wi-fi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://universe.byu.edu/wp-content/uploads/2023/01/Untitled-design-63.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Digital Universe",
+        "domain": "byu.edu",
         "images": null,
         "publishers": null,
         "authors": null

@@ -26,10 +26,10 @@ topics:
 related:
   - title: "MWC mobile tech fair to show off new phones, AI, metaverse"
     excerpt: "The latest folding-screen smartphones, immersive metaverse experiences, AI-powered chatbot avatars and other eye-catching technology are set to wow visitors at the annual MWC wireless trade fair"
-    publishedDateTime: 2023-02-25T07:43:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
+    publishedDateTime: 2023-02-25T10:39:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864"
     type: article
     provider:
       name: ABC

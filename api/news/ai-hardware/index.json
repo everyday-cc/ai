@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-25-nvidias-ai-gpus-may-soon-power-mediateks-2024-flagship-mobile-socs.md",
+      "title": "Nvidia’s AI GPUs May Soon Power MediaTek’s 2024 Flagship Mobile SoCs",
+      "excerpt": "MediaTek's SoCs could benefit from Nvidia's GPUs for improved AI performance. Will it impact smartphone sales?",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/02/25/nvidia-ai-gpu-mediatek-soc/",
+      "originalUrl": "https://www.gizmochina.com/2023/02/25/nvidia-ai-gpu-mediatek-soc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/02/soc_mediatek_nvidia.jpg",
+          "width": 1420,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-25T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-ai-stocks-are-soaring-but-americans-arent-that-interested-in-ai.md",
       "title": "AI Stocks Are Soaring… But Americans Aren’t That Interested in AI",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Den Rise Far before February sparked the current",
@@ -97,59 +149,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-24-nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response.md",
-      "title": "Nvidia Beats Earning Expectations And Looks Towards AI, Stock Jumps 14% In Response",
-      "excerpt": "The AI market is set to take off—with one popular commentator comparing it to the rise of the Internet—and Nvidia’s chips are the tools of choice for many AI companies. According to CNBC, a New Street Research report found that Nvidia already has a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f899324fa3a14e43093b40/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/",
-      "publishedDateTime": "2023-02-24T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-24-artificial-intelligence-ai-chips-market-international-business-analysis-development-outlook-and-regional-strategies-2028.md",
       "title": "Artificial Intelligence (AI) Chips Market International Business Analysis, Development Outlook and Regional Strategies 2028",
       "excerpt": "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected",
@@ -182,6 +181,104 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes.md",
+      "title": "How Nvidia dominated AI — and plans to keep it that way as generative AI explodes",
+      "excerpt": "Nvidia has dominated the AI landscape. Can it handle 2023's challenges and win big in the generative AI gold rush?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/",
+      "originalUrl": "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/",
+      "publishedDateTime": "2023-02-23T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-nvidia-stock-rises-after-slight-beat-driven-by-ai-chips.md",
+      "title": "Nvidia stock rises after slight beat driven by A.I. chips",
+      "excerpt": "Data center revenue, which includes AI chips, rose 11% on an annual basis to $3.62 billion. In this article Nvidia stock rose more than 8% in extended trading Wednesday after the company reported ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107121389-16636908112022-09-20t154548z_456040631_rc23lw99akst_rtrmadp_0_nvidia-gaming.jpeg?v=1677103157",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
+      "publishedDateTime": "2023-02-23T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1378,83 +1475,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-nvidia-geforce-rtx-4070-ti-review-the-first-rtx-40-series-gpu-worth-buying.md",
-      "title": "Nvidia GeForce RTX 4070 Ti review: the first RTX 40 series GPU worth buying",
-      "excerpt": "\"Unlaunching\" this GPU, rebranding it, and releasing it for £100 / $100 less ... 59fps with upscaling on Quality will look good, but one of the catches to these free, AI-generated frames is that you don’t 'feel' them; unlike a rise in traditionally ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rockpapershotgun.com/nvidia-geforce-rtx-4070-ti-review",
-      "originalUrl": "https://www.rockpapershotgun.com/nvidia-geforce-rtx-4070-ti-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.rockpapershotgun.com/Nvidia-GeForce-RTX-4070-Ti-MSI-Suprim-X-12G-(3).JPG/BROK/thumbnail/1200x630/Nvidia-GeForce-RTX-4070-Ti-MSI-Suprim-X-12G-(3).JPG",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rock Paper Shotgun",
-        "domain": "rockpapershotgun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-an-ai-engineer-has-now-designed-100-chips.md",
-      "title": "An AI ‘Engineer’ Has Now Designed 100 Chips",
-      "excerpt": "Lurking inside your next gadget may be a chip unlike those of the past. People used to do all the complex silicon design work, but for the first time, AI is helping to build new chips for data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/extreme/342959-an-ai-engineer-has-now-designed-100-chips",
-      "originalUrl": "https://www.extremetech.com/extreme/342959-an-ai-engineer-has-now-designed-100-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

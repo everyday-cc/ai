@@ -21,14 +21,21 @@ topics:
 
 related:
   - title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
-    excerpt: "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market."
-    publishedDateTime: 2023-02-24T15:32:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/02/24/9766176.htm"
+    excerpt: "FinancialNewsMedia.com News Commentary PALM BEACH, Fla., Feb. /PRNewswire/ -- Artificial Intelligence (AI) is becoming used in more and more markets and industries worldwide. At the current growth rate,"
+    publishedDateTime: 2023-02-24T12:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31047086/how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31047086"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31047086"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "e5BS7gN/QPvRNxI1Q7urYJ5osrAcfxBV4feeFO3LbtxFXd1UeiEtBJHNxAgt1h30uegfV1/PGqRtwJYl1swv6fJN3CSLGEO1El0ZFB3+mE8pWyDTXieKxl3c1eiIE13ugM//uZUI07iEecI90rj0ogTbjkCvQnaNUnYyMvcThsZgSrkBz3jZiQz2koEeDhVyUsQRnaHndG21k2LwSKjbYSieE5dsuPVt051dZHFjfL1VM2FbSZJafa1qoHC4RK5Ef/0vR9kRAmp2GM18YJ6/uqxOFWu4z9f5Oome4+XMgsiNGRf7GPN4/Q82pyBBTy85X4ODBTCIVNjUlMMzizggY65Ek52HHZttSnGKKRB3DPM=;1uCEBUnxuyUk671XY8QrAA=="
 ---

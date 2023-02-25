@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Education Market In 2023 : Volume, Analysis, Future Prediction, Overview and Forecast 2028"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Education Market\" Report covers specified competitive outlook consisting of the"
+    publishedDateTime: 2023-02-24T12:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-in-2023-volume-analysis-future-prediction-overview-and-forecast-2028-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence for Healthcare Applications Market By Suppliers, Type, Application and Sales Price, Forecast 2023-2029"
     excerpt: "\"Artificial Intelligence for Healthcare Applications Market\" Report New Research Vision Report 2023 | Qualified Report Spread Across 102 Pages| Highest CAGR Value | Global Industry Research report provides an in-depth analysis of the in terms of several market components,"
     publishedDateTime: 2023-02-24T04:44:00Z
@@ -191,6 +205,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Medical Market\" Report covers specified competitive outlook consisting of the"
+    publishedDateTime: 2023-02-25T01:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

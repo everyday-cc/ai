@@ -2,29 +2,38 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-02-24-how-generative-ai-is-changing-game-development-and-ugc.md",
-      "title": "How generative AI is changing game development (and UGC)",
-      "excerpt": "Generative AI is iterating on existing uses of AI in game development and content creation. But how much should it be used for?",
+      "path": "_news/2023-02-24-artificial-intelligence-ai-chips-market-international-business-analysis-development-outlook-and-regional-strategies-2028.md",
+      "title": "Artificial Intelligence (AI) Chips Market International Business Analysis, Development Outlook and Regional Strategies 2028",
+      "excerpt": "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/",
-      "originalUrl": "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 113,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/amp/",
-      "publishedDateTime": "2023-02-23T17:34:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-23T18:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,6 +49,7 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -190,6 +200,52 @@
       ]
     },
     {
+      "path": "_news/2023-02-24-how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes.md",
+      "title": "How Nvidia dominated AI — and plans to keep it that way as generative AI explodes",
+      "excerpt": "Nvidia has dominated the AI landscape. Can it handle 2023's challenges and win big in the generative AI gold rush?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/",
+      "originalUrl": "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/",
+      "publishedDateTime": "2023-02-23T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise.md",
       "title": "IBM’s Cloud AI Supercomputer Vela Builds AI Foundation Models For Enterprise",
       "excerpt": "The recent publicity around ChatGPT and other large language models (LLM) has brought attention to the use of foundation models as a fundamental business tool. IBM Research developed its own AI supercomputer,",
@@ -271,6 +327,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-nvidia-stock-rises-after-slight-beat-driven-by-ai-chips.md",
+      "title": "Nvidia stock rises after slight beat driven by A.I. chips",
+      "excerpt": "Data center revenue, which includes AI chips, rose 11% on an annual basis to $3.62 billion. In this article Nvidia stock rose more than 8% in extended trading Wednesday after the company reported ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107121389-16636908112022-09-20t154548z_456040631_rc23lw99akst_rtrmadp_0_nvidia-gaming.jpeg?v=1677103157",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
+      "publishedDateTime": "2023-02-23T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -638,7 +746,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-size-global-research-report-2023---2028-2023-02-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 334,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -1080,114 +1188,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-artificial-intelligence-delivers-its-latest-innovation.md",
-      "title": "Artificial Intelligence Delivers Its Latest Innovation",
-      "excerpt": "\"Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.\" -Ginni Rometty, Executive Chairman of IBM Artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
-      "originalUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2198602/computer-code.jpg",
-          "width": 2500,
-          "height": 1668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
-      "publishedDateTime": "2023-02-22T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "IBM AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-baidu-to-deploy-conversational-ai-across-search-in-car-entertainment-and-more.md",
-      "title": "Baidu to deploy conversational AI across search, in-car entertainment and more",
-      "excerpt": "This appears to mirror the collaboration between Microsoft and OpenAI, through which Azure’s customers can access the AI lab’s technologies. Lastly, Baidu plans to boost its in-car voice assistant with Ernie. The search giant has over the past few ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/",
-      "originalUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1061811420.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/22/baidu-chatgpt/amp/",
-      "publishedDateTime": "2023-02-22T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

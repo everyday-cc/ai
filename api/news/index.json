@@ -2,12 +2,64 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-25-nvidias-ai-gpus-may-soon-power-mediateks-2024-flagship-mobile-socs.md",
+      "title": "Nvidia’s AI GPUs May Soon Power MediaTek’s 2024 Flagship Mobile SoCs",
+      "excerpt": "MediaTek's SoCs could benefit from Nvidia's GPUs for improved AI performance. Will it impact smartphone sales?",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/02/25/nvidia-ai-gpu-mediatek-soc/",
+      "originalUrl": "https://www.gizmochina.com/2023/02/25/nvidia-ai-gpu-mediatek-soc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/02/soc_mediatek_nvidia.jpg",
+          "width": 1420,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-25T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-mwc-mobile-tech-fair-to-show-off-new-phones-ai-metaverse.md",
       "title": "MWC mobile tech fair to show off new phones, AI, metaverse",
       "excerpt": "The latest folding-screen smartphones, immersive metaverse experiences, AI-powered chatbot avatars and other eye-catching technology are set to wow visitors at the annual MWC wireless trade fair",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862",
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
@@ -24,9 +76,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862",
-      "publishedDateTime": "2023-02-24T23:43:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864",
+      "publishedDateTime": "2023-02-25T02:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -41,6 +93,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-the-ai-industry-is-hot-right-now-5-experts-share-4-tips-for-finding-a-job-in-the-sector.md",
+      "title": "The AI industry is hot right now. 5 experts share 4 tips for finding a job in the sector.",
+      "excerpt": "The hype surrounding ChatGPT and new search engines from Google and Microsoft has shone a spotlight on the AI sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2",
+      "originalUrl": "https://www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63f3832f7b15f100194d2b95?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2?amp",
+      "publishedDateTime": "2023-02-25T01:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -97,7 +200,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -338,7 +441,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 409,
+      "heat": 389,
       "tags": null,
       "images": [
         {
@@ -582,7 +685,7 @@
       "originalUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -884,59 +987,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-24-nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response.md",
-      "title": "Nvidia Beats Earning Expectations And Looks Towards AI, Stock Jumps 14% In Response",
-      "excerpt": "The AI market is set to take off—with one popular commentator comparing it to the rise of the Internet—and Nvidia’s chips are the tools of choice for many AI companies. According to CNBC, a New Street Research report found that Nvidia already has a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f899324fa3a14e43093b40/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/",
-      "publishedDateTime": "2023-02-24T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-24-south-africas-envisionit-deep-ai-gets-165m-to-expand-access-to-medical-imaging.md",
       "title": "South Africa’s Envisionit Deep AI gets $1.65M to expand access to medical imaging",
       "excerpt": "The flame had been lit, and in 2019, together with her husband, Terence Naidu, and Andrei Migatchev, Naidoo launched Envisionit Deep AI, a healthtech startup that uses AI to bridge demand for diagnostic imaging. Envisionit Deep AI is now on the path to ...",
@@ -1173,58 +1223,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-artificial-intelligence-ai-chips-market-international-business-analysis-development-outlook-and-regional-strategies-2028.md",
-      "title": "Artificial Intelligence (AI) Chips Market International Business Analysis, Development Outlook and Regional Strategies 2028",
-      "excerpt": "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-23T18:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
