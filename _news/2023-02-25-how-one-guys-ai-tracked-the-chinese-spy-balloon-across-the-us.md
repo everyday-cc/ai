@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-25T12:00:00Z
 originalUrl: "https://www.wired.com/story/how-one-guys-ai-tracked-the-chinese-spy-balloon-across-the-us/"
 webUrl: "https://www.wired.com/story/how-one-guys-ai-tracked-the-chinese-spy-balloon-across-the-us/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Wired

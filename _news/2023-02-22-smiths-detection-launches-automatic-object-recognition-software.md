@@ -35,6 +35,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Smiths Detection Launches New Automatic Object Recognition Software"
+    excerpt: "It uses artificial intelligence-based algorithms to automatically detect items determined to be a security risk at airport security checkpoints such as firearms, knives, scissors, axes, grenades, blasting caps,"
+    publishedDateTime: 2023-02-25T12:28:00Z
+    webUrl: "https://www.hstoday.us/industry/industry-news/smiths-detection-launches-new-automatic-object-recognition-software/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 19
 
 secured: "85Jnt7R1i706nG+jwzO8hu/3Qxv+3SB2ONNPy3EOjUNdxfFvRJ+hNrHABkONTmcxxNB5DY1xFwl5YwITF+TcHP+fpztGjQ4vbl4Q6ETklAKJDTO4yhvMbPSDQXMbxL+MBnBLbZfHrI3h1Ta2Bzfu2VaB6D6Gk5NPNJDLn5e+IwfaHUzWqCdplBEwxXueGtocPk1y/yd1c+1KxeCbbzvf3eoC2kqHuxYk+tv8HnDspj+Xa/Q2AE1GLdPvW6mtkiPLFEwo6yhIFMnSd2ez8fwNiOjQAo6o28rZtX0zjbayqcHAtTxc8otQnn8MNBVoFaEkIumFGiZc2berI0VruV4ixCFiNZivyXPJg2vRj5EJKMwQuS768wTJQqNDzgGn4Pjw/88IOmAqvHa4K+2Lrm17mOY//StIqpAcqsnPwPg5BEjWJMQ0eXz+wgfyOQzAaqfk3+Rua2jVv+BTa59oOfNQ8AJ0WZityj9DmfbfdJLWHEvSyOfguobVlzDWyy6UQOisgVva1kdw0/gja/BXvDOlTw==;sWGwl2dxaQKOoqmvT8GfFQ=="
 ---

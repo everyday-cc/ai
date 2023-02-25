@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-25T14:15:00Z
 originalUrl: "https://gizmodo.com/ai-chatbot-google-ai-her-ex-machina-replika-1850156877"
 webUrl: "https://gizmodo.com/ai-chatbot-google-ai-her-ex-machina-replika-1850156877"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Gizmodo

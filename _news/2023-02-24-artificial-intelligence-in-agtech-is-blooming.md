@@ -55,6 +55,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
+  - title: "How Is Fintech Changing The Way We Bank?"
+    excerpt: "The world of banking is changing rapidly, and the engine driving this change is the phenomenon known as fintech. As a result, our relationship with money has been completely upended."
+    publishedDateTime: 2023-02-25T14:10:00Z
+    webUrl: "https://financialit.net/blog/fintech/how-fintech-changing-way-we-bank"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 19
   - title: "10 FinTech Trends to Watch in 2023: Staying Ahead in the Digital Finance Revolution"
     excerpt: "In 2023, there are 10 fintech  trends that are particularly noteworthy, including the rise of decentralized finance, the adoption of artificial intelligence in financial services, and the growth of digital wallets and contactless payments."
     publishedDateTime: 2023-02-21T17:44:00Z

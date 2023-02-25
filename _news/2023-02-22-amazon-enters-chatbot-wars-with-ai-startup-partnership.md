@@ -25,6 +25,33 @@ images:
     isCached: true
 
 related:
+  - title: "Is It Time To Ban AI Chatbots From Using Social Media?"
+    excerpt: "The fact that someone took the time to create a visual representation of a chatbot is quite impressive. In a video, Lia introduces herself and explains her ambitions. On the Lia homepage, you can chat with the bot and ask questions."
+    publishedDateTime: 2023-02-25T15:44:00Z
+    webUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/"
+    ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63fa39f512762143838ba854/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Bing's chat AI bot wants to be your new phone assistant. Here's how it's doing it"
+    excerpt: "The experiences with the AI chatbot have ranged from slightly scary ... or a simplified response. If there is a language barrier, you can also ask Bing to translate its response as it is fluent in over 100 languages. The Bing chatbot -- both on desktop ..."
+    publishedDateTime: 2023-02-22T22:06:00Z
+    webUrl: "https://www.zdnet.com/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "Leaked messages show Googlers are taking out their frustrations over layoffs on its new Bard AI chatbot"
     excerpt: "\"I'd tell you a joke about layoffs at Google, but I'm afraid I wouldn't have a job tomorrow,\" Bard said when asked to tell a joke about the layoffs."
     publishedDateTime: 2023-02-24T22:26:00Z
@@ -36,15 +63,31 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Chatbot Craze Powers AI-Powered AIEQ ETF Higher"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: SWKStock / Shutterstock All the craze lately has been surrounding"
-    publishedDateTime: 2023-02-22T20:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatbot-craze-powers-ai-powered-aieq-etf-higher-1032117163"
+  - title: "Facebook owner Meta joins AI chatbot race"
+    excerpt: "After Microsoft ChatGPT and Google's Bard, Meta is joining the AI chatbot race with its own state-of-the-art foundational large language model designed to help researchers advance their work in the field of artificial intelligence."
+    publishedDateTime: 2023-02-25T08:30:00Z
+    webUrl: "https://www.ummid.com/news/2023/february/25.02.2023/facebook-owner-meta-joins-ai-chatbot-race.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Ummid
+      domain: ummid.com
+    quality: 41
+    images:
+      - url: "https://ummid.com/news/2023/february/25.02.2023/meta-language-model.jpg"
+        width: 790
+        height: 530
+        isCached: true
+  - title: "China's Baidu touts AI chatbot, sees 2022 revenue fall 1%"
+    excerpt: "In 2023, we believe we have a clear path to reaccelerate our revenue growth, and we are now well positioned to make use of the opportunities that China's economic recovery offers us,\" Robin Li, Baidu co-founder and chief executive officer,"
+    publishedDateTime: 2023-02-22T07:36:00Z
+    webUrl: "https://www.albawaba.com/business/chinas-baidu-touts-ai-chatbot-sees-2022-revenue-fall-1-1509934"
+    ampWebUrl: "https://www.albawaba.com/amp/business/chinas-baidu-touts-ai-chatbot-sees-2022-revenue-fall-1-1509934"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/chinas-baidu-touts-ai-chatbot-sees-2022-revenue-fall-1-1509934"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 39
   - title: "What are ‘robot rights,’ and should AI chatbots have them?"
     excerpt: "AI chatbots are all the rage. From ChatGPT to Bing’s new AI-powered search engine and Google’s new Bard chatbot, people are obsessed with seeing how they can replace tasks with AI and test its limits."
     publishedDateTime: 2023-02-22T19:00:00Z
@@ -54,6 +97,24 @@ related:
       name: grid
       domain: grid.news
     quality: 36
+  - title: "Meta takes on Google and Microsoft with own tool for building AI chatbots"
+    excerpt: "Meta Platforms Inc. introduced a research tool for building artificial intelligence-based chatbots and other products, seeking to create a buzz for its own technology in a field lately focused on internet rivals Google and Microsoft Corp."
+    publishedDateTime: 2023-02-25T06:44:00Z
+    webUrl: "https://mybroadband.co.za/news/software/481591-meta-takes-on-google-and-microsoft-with-own-tool-for-building-ai-chatbots.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 35
+  - title: "Artificial Intelligence Chatbots Market Size 2023 to 2028 By Deployment, Growth Factor and Production cost"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2023 (The Expresswire) -- \"Artificial Intelligence Chatbots Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions, Company ..."
+    publishedDateTime: 2023-02-21T01:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
 
 secured: "2Dbk47weDWZopl4252xHXSxStgIsZwSiiMWJbeJ+kf3DcUt81xTI8EuPx+P1TXwEZc1aVqPKWH2sXEo+PoNaDDVzvSU/X3IoumO7Vs6IDxWDQJL8qgsg1ihcNJ/rasRUA/xriBiTi6eSbQG/zMdO9yFZ4YdqkzY8SRLE9GkFjN7iV9V6J9ljVdZcm43ZlTIlb3eYzW+6kL6+QId7m1os2qXedsR6kgXY0FieZaPZ5W4pEQf7sZm3bbVt/ND6hIyD3E0jnUUTwJTtDQ0lV8kCKw5vb9enizQqhnVU9mXRfr5Fr0OGhdf3/q95SAEb2aB1lWHMHy0c136he9YZ2DGm4KyQ1SZKk/i5c4020foE5awto8FZYLqEyU/ozywpj9CabSaAmxRs67/4mFNPhNOaIZGG+LVs6Yi8R9OC1OlKIHr5SwoP87XGTV7qlKU78omx6pzMhu8JGmYmUK8uWHnkcuoTKfO6bssHhAu66cDkLijCsnu8oZWlC+UIV+lecMXl5gZE74TB+fJPQCUkPG0yNg==;ptuZQIKHNuZoyPK0rCYVpA=="
 ---

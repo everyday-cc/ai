@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Video Analytics and Artificial Intelligence Market 2023 Industry Growth, Companies Profile, Competitive Landscape and Key Regions 2029"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Video Analytics and Artificial Intelligence Market\" Report provides a Detailed analysis of global market size,"
+    publishedDateTime: 2023-02-25T12:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-2023-industry-growth-companies-profile-competitive-landscape-and-key-regions-2029-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023 Clinical Natural Language Processing Market: Top Growing Opportunities and Growth Outlook by 2029"
     excerpt: "Feb 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Clinical Natural Language"
     publishedDateTime: 2023-02-24T07:49:00Z

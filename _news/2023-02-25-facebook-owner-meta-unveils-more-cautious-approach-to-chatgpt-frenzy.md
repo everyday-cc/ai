@@ -47,6 +47,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
+  - title: "China moves to regulate AI, $10K Nvidia GPU powers ChatGPT, AI transforming sports - catch all this and more in today's AI news!"
+    excerpt: "China attempts to regulate AI after ChatGPT frenzy. China will introduce rules to govern the use of artificial intelligence across a swath of industries, moving to regulate emerge"
+    publishedDateTime: 2023-02-25T14:06:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/china-moves-to-regulate-ai-10k-nvidia-gpu-powers-chatgpt-ai-transforming-sports-catch-all-this-and-more-in-todays-ai-news-10159881.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 5
 
 secured: "aDxGf04naX4Os8fOzbK1SaMFk8E4CqeDBqE1aXro3hgtcd6Ff8QUUewwVzh3grZOzz7h3XdJlVhfwZUvT4UJ/MetXLn/PRwXoejeppwn6bz++25XUqZ8rTACtUpxa8skQHPMsaSIFZeipnOODABsmZQpVu0LzeblYkZmb1jvlKCQDFqyE+6lU2Bx2cgdPE8A194bEe+DhK6jjCuCKqQ2sITekxMrzDJcwDbud0nva8GEqQ+peO9Imh/NIDWGxmJqQhbKnqJPt6MDMrnt8R75DIYR+BxONbpGZMfSyPuZ7OfjPyByon0JI6eMDvcSFehwu+TGJqcejEM5SZG94WvxLJ8fpNxluhwwuT66VVIyBXI=;8mLbmQpcUF88vkE2cePfNQ=="
 ---

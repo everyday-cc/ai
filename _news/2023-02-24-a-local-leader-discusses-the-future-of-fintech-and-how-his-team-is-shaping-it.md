@@ -48,6 +48,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
+  - title: "How Is Fintech Changing The Way We Bank?"
+    excerpt: "The world of banking is changing rapidly, and the engine driving this change is the phenomenon known as fintech. As a result, our relationship with money has been completely upended."
+    publishedDateTime: 2023-02-25T14:10:00Z
+    webUrl: "https://financialit.net/blog/fintech/how-fintech-changing-way-we-bank"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 19
   - title: "Artificial Intelligence In Agtech Is Blooming"
     excerpt: "Netherlands-based Source.ag has raised $23 million for its AI platform that predicts the best growing conditions for greenhouse plants."
     publishedDateTime: 2023-02-23T20:27:00Z

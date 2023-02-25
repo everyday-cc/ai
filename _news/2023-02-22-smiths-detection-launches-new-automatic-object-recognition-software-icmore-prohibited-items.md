@@ -36,6 +36,15 @@ related:
       name: Passenger Terminal
       domain: passengerterminaltoday.com
     quality: 19
+  - title: "Smiths Detection Launches New Automatic Object Recognition Software"
+    excerpt: "It uses artificial intelligence-based algorithms to automatically detect items determined to be a security risk at airport security checkpoints such as firearms, knives, scissors, axes, grenades, blasting caps,"
+    publishedDateTime: 2023-02-25T12:28:00Z
+    webUrl: "https://www.hstoday.us/industry/industry-news/smiths-detection-launches-new-automatic-object-recognition-software/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 19
 
 secured: "u619+S2+yFWEUklmpOQLGPmPvAY4/pvP4mhXtYdfYJbv4a0vH/+62XxRcc/zJ3Mx3t/d2rKMlOJ6zNVmwftkDIlnol+JrO0KKkJGmdGOF4bf8TygbY9SrQQAAeFdqhYT6tMG3IzChpHxgYHQXzAhZ7IhlJyq3SqF7zcyC4bT4gKSJLgRV/kJEizycIszp/rBfilBjMlIFbyhbNP3+c5WipAmFbS1V7fJ0Zmnnzy64ZCjcYnX1EEjuBgBtD4cEACowZ/E+FS/8tQ71YswPbbCodHLKC9D9G6bFkPftMy4g/fAbUOzWU2pkcZysfpoMbqV4630lAOYQBBuxMmjsP/oUlh3sQhMAO8nqaso+CJ+Fj4=;weQ4lU+Pzv1CCQ8btp+QIQ=="
 ---

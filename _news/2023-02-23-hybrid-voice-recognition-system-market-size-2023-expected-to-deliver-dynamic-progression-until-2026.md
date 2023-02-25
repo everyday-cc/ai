@@ -32,6 +32,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+  - title: "Artificial Neural Networks Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2029"
+    excerpt: "The global Artificial Neural Networks market size is projected to reach multi million by 2029, in comparison to 2023, with unexpected CAGR during the forecast period, the Artificial Neural Networks Market Report Contains113pages Including Full TOC,"
+    publishedDateTime: 2023-02-24T03:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2029-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
 
 secured: "Cp1Y5nqeW+oy1Y4EBhIGvRVoVIOp62qZYdLjrmk/FmgXr1ErO9sCru7D9XEPGE4N9/YpmIYmEoE7q3sk7wvZxdezghBwDv9hzx86FsxX7CxM1vBW37Xe9YzIL12NjMayIygL3TPTQU1OVKEoVV0B/Y27qfyBafF66disug4hqlQBdnbJd7R+rZ5HV775nphcdTyvBoJndAkNDMheGc1W7Ni3A2RdUpMHkWujZmwWJv9HaPLPOsnD/FY2q6KhbpQlLzr4jo1E6cdgR/Q5ngdq2UqR7Fcuy8ik84aUOgNYG2001abiDyvNtDGdnk1UesdaSW35vGraDjnoJSJhZlrWKsSuSuXdNQcCMagmkUouYW8=;u9X6kF3aSgkIeOQzYRAcOw=="
 ---

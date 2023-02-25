@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/24/ai-artificial-int
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -31,35 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bing's chat AI bot wants to be your new phone assistant. Here's how it's doing it"
-    excerpt: "The experiences with the AI chatbot have ranged from slightly scary ... or a simplified response. If there is a language barrier, you can also ask Bing to translate its response as it is fluent in over 100 languages. The Bing chatbot -- both on desktop ..."
-    publishedDateTime: 2023-02-22T22:06:00Z
-    webUrl: "https://www.zdnet.com/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
-  - title: "Bing's AI Chat Marks a New Web Era: Please Don't Kill It"
-    excerpt: "This isn't another story about spending hours with the new Bing AI trying to troll it and stump it so that it generates wacky and disturbing answers. There are plenty of those online already, most notably from The New York Times ’ tech columnist Kevin Roose."
-    publishedDateTime: 2023-02-23T14:21:00Z
-    webUrl: "https://www.pcmag.com/opinions/bings-ai-chat-marks-a-new-web-era-please-dont-kill-it"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
-  - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
-    excerpt: "Microsoft’s Bing search engine can write recipes and songs and explain anything it can find on the internet. But if you cross its artificially intelligent chatbot, it might also insult your looks, threaten your reputation or compare you to Adolf Hitler."
-    publishedDateTime: 2023-02-20T23:15:00Z
-    webUrl: "https://www.stltoday.com/news/national/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/article_eb38aad5-0163-5d4b-a44e-523c434ce091.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 34
   - title: "Everything you wanted to know about AI – but were afraid to ask"
     excerpt: "Large-language models This is one of the so-called neural networks ... Or you can use the wide array of apps already on your phone that invisibly use AI, from the translate apps built in to iOS and Android, through the search features in Google and ..."
     publishedDateTime: 2023-02-24T18:48:00Z

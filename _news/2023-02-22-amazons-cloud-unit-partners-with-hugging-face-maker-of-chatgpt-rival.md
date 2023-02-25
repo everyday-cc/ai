@@ -350,20 +350,6 @@ related:
         width: 1228
         height: 690
         isCached: true
-  - title: "OPINION: To ChatGPT, or to not ChatGPT: Is ChatGPT the new Shakespeare?"
-    excerpt: "Now as one of my professors has noted, ChatGPT is going to be able to write as Shakespeare once did. The new chatbot software launched in November 2022 and has turned the world upside down. OpenAI is the company responsible for the creation of the new ChatGPT."
-    publishedDateTime: 2023-02-20T21:57:00Z
-    webUrl: "https://www.tommiemedia.com/opinion-to-chatgpt-or-to-not-chatgpt-is-chatgpt-the-new-shakespeare/"
-    type: article
-    provider:
-      name: Tommie Media
-      domain: tommiemedia.com
-    quality: 24
-    images:
-      - url: "https://www.tommiemedia.com/wp-content/uploads/2023/02/Graham_ChatGTP.png"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "Amazon will offer ChatGPT rival’s tools in cloud products"
     excerpt: "Amazon Web Services will make Hugging Face’s products, which include a language generation tool that competes with the technology behind OpenAI’s ChatGPT, available to cloud customers who want to use these tools as the building blocks of their own applications."
     publishedDateTime: 2023-02-22T05:27:00Z

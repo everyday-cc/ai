@@ -50,6 +50,15 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "China moves to regulate AI, $10K Nvidia GPU powers ChatGPT, AI transforming sports - catch all this and more in today's AI news!"
+    excerpt: "China attempts to regulate AI after ChatGPT frenzy. China will introduce rules to govern the use of artificial intelligence across a swath of industries, moving to regulate emerge"
+    publishedDateTime: 2023-02-25T14:06:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/china-moves-to-regulate-ai-10k-nvidia-gpu-powers-chatgpt-ai-transforming-sports-catch-all-this-and-more-in-todays-ai-news-10159881.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 5
 
 secured: "ZxIuVGFd3B7mOxlqV0ompwrR+ADGNNkm/TlGiRad+z75WiL3ag0SqSNT4Oasf4uBXdiOo36OTugbqBrr0hmPvpoQNuMHy+kNKiAM1tfHfcsD0e1CFXvv/4xgwpFZ2fiJND0pCg4OkaxkMfEEGaem3btZBCY9GpUFTxhVln5OiurInFfU87T5ZzM+zDT4oGBljB/FrUmrDROYZuC3Ez9pvbVH5umSddJ8AJLqr3p1mq4a7KuG9FlihaKcwDQzBaWVYN5xG7XjsAd7pr72BFakoHcuMA7S+c7/7qRMmSCJe56K/bSGyw8/eto8fsqSdPhfZKg7chPObMbxy+gzxVwtwIcpD2AZdMBcYt28zMB0ZBi7eE7oru3KMDbVoxTexYGSCYhdPI+3WCeWirJpm+kDECygKUxLI8BXXH3/9GITTTLhjjY1rRtXPeyo0PaUE9RTMrrVREH7ki1Xf38pmQ41Fhgrt+3ywRBJh4D+HChXD8fuCNK2tUBuWCaaxeXVIjsdJrNck1QB1KuvneRbnc4HQw==;UaXj1/Jd7Qc+2MpDvG7IqQ=="
 ---

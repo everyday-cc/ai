@@ -1,23 +1,22 @@
 ---
 category: news
 title: "MWC mobile tech fair to show off new phones, AI, metaverse"
-excerpt: "The latest folding-screen smartphones, immersive metaverse experiences, AI-powered chatbot avatars and other eye-catching technology are set to wow visitors at the annual MWC wireless trade fair"
-publishedDateTime: 2023-02-25T10:39:00Z
+excerpt: "The latest folding-screen smartphones, immersive metaverse experiences, AI-powered chatbot avatars and other eye-catching technology are set to wow visitors at the annual MWC wireless trade fair LONDON -- The latest folding-screen smartphones, immersive ..."
+publishedDateTime: 2023-02-25T14:01:00Z
 originalUrl: "https://abcnews.go.com/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864"
 webUrl: "https://abcnews.go.com/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864"
 ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461864"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: ABC
+  name: ABC News
   domain: abcnews.go.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -41,18 +40,7 @@ related:
         width: 1387
         height: 785
         isCached: true
-  - title: "What Does Generative AI Mean For Your Brand And What Does It Have To Do With The Future Of The Metaverse?"
-    excerpt: "Generative AI is transforming our content landscape. It’s prompting questions like what is art? How do AI copyrights work? Is it ethical to use generative AI for my job? Is Generative AI a fad or a useful tool for brands?"
-    publishedDateTime: 2023-02-20T22:42:00Z
-    webUrl: "https://www.forbes.com/sites/cathyhackl/2023/02/20/what-does-generative-ai-mean-for-your-brand-and-what-does-it-have-to-do-with-the-future-of-the-metaverse/"
-    ampWebUrl: "https://www.forbes.com/sites/cathyhackl/2023/02/20/what-does-generative-ai-mean-for-your-brand-and-what-does-it-have-to-do-with-the-future-of-the-metaverse/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2023/02/20/what-does-generative-ai-mean-for-your-brand-and-what-does-it-have-to-do-with-the-future-of-the-metaverse/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 50
 
-secured: "TEMudHBtwa0e2IHBSulKzguPrcrRwAmsv/m/mxZvqWGVfhR6O1TK1DpBb8F0xOfcULYYet5WxhDHhEmF5n3NQREgKvcJ8T5cCjPqaaJVrRS3KK0rzvtYE9klCtfWl7pZk+XeZDQc1CNJhDyI4PzOan4/vDoHwTWpxDhBrTrxj/TJwPW7vYmTvBnjWLS3yLghpc3hLVSjLZvLHtdNQC7p4JvGKcgJIEaItXerh54A9EiCfwAMYwlgxjFnv9NXDykmtRNDqBrFZQa1g+VbDzWKZ08MqFz4RTssttnIkDLZ1IDZfolmBSX/Z5wn5zdGH9XUNpaBzMywpB6nWULxLGnqrvkfkK0JhY1NbIzevnIivCRguDmdAZDX1bKNHCPKck7R7M92+f6DlRCnGGwzPSAdhnJjKAWk/ioe1Nz4n1IppSYM+t9+YAxDAT8MefT39cWkcndxunbRUHbSIED+kFcZLO7lR0Uck6MN19zlW9Or7NZcvhc9ssjJvp/zcrrk1c5jfDnJaw2thJNqH0fwvBrVxQ==;lFpORTIKfnhKHJwFqkedLA=="
+secured: "8hv7O7AZwMXpHKV/ykWDiepDgOm3S0yJctcaXmRHrQ2CzUYiDt+uOGWbIJQYhpTNoihFWLRks0wijL7d+ovZxagaVn3XelzTO7FMXmLP6K7nv+DsuZI0tLrPRZFccBoP1V5061n/0MXSgFZ+VtFQ56BVTnKNZu0rIk8fA3fx73MEJ9InKrsdkYeP2/Dr6ijhH5/7HvdO5cDM9SNwXENvndMQVJoopAA+nbiW2maJu0R11AJyXZ99iZH2gMjuK/Qc00J//CLkWqTPzr6N/rD5gCSigPSjDobk8tkhX+UQWWtSh30VCpfETBx1jDnIixw2YBPY0Jpbs/mkTz66IEkbK7OQn6ccVTtKQVy4I0Tl8eQ=;EEBpGtasEtWfGxQpJC8nUg=="
 ---
 

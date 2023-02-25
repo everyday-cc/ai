@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-25T11:00:00Z
 originalUrl: "https://www.washingtonpost.com/technology/2023/02/25/prompt-engineers-techs-next-big-job/"
 webUrl: "https://www.washingtonpost.com/technology/2023/02/25/prompt-engineers-techs-next-big-job/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SR7BKSSTLUZCWK7ZXCLWY37NFY.jpg&w=1440"

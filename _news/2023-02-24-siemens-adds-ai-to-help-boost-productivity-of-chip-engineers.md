@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-23T16:09:00Z
 originalUrl: "https://www.electronicdesign.com/technologies/eda/article/21260627/electronic-design-siemens-adds-ai-to-help-boost-productivity-of-chip-engineers"
 webUrl: "https://www.electronicdesign.com/technologies/eda/article/21260627/electronic-design-siemens-adds-ai-to-help-boost-productivity-of-chip-engineers"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "Qif3eoSDSVOJX9hIqVd8yW8O+pOYbPNHL4OpodXbnTJ9WYUs2JAAk4xMNfnZU7BS+hLb9Hukgdp1DpGxjqVlbAYRpnl9cIgmte2VjRLRp6WfA+tLazrYCYrsA5Tw7x0MdScuniCU0RSEzROWm07ljmXSWJ0Zu92alafkajnU9th6imG3OE0+RIAXLuV5l1UTl6uyF85h0+eNNpItCKGeuaPm7jKh1Py9iwr1Z8vdHr+ntO8MP+tEWps3sG5VYvDjLwVoH4ynjyB40QTj39iltVRqEuktyRIJTmNJxId2vB6w2hIFJobMWhYA7nvARNO8w4i9MC5lhBio2Zcwqrt4kQYvKZ3kM+mGl0/Pgh8u82w=;JyKX+PZmF4kTIMLPZWBywQ=="
+images:
+  - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/02/Siemens_Questa_IQ_Promo_web.63f7827f21402.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "TG6nlVWNuSvOzvNMZa3chiOmFbwyjp7pmTnAqa96brh9PyN/9QKCnkABGgFVBFI35JcCyoFiv2UnPWzpj4/xdJgdDG1G3SlPLKCj4P+t4aRcSpHwJmoMBaNTGe87FiVTEYKbdMiINbLthBXvQ1m1FPal3Wj7rIPZG2gB+GXprIPp18w7Lw7qU89xjwil6J4+RiC/FZjJmy7vCKV98/ueMnUdrYdp+EP+FhP0lPXbKNIwQRLWCkjd5NsCJNTZeDqjUqBE1+L8k7L0bXeFhj2t+l2CJxMUjQsvS+APyRRvJeaOu3mRFXtUbP78/tT1bwuTeTgZxRIfAoi/RvxojC7MpvsnGNqgpIX51EMZmVaiHDs=;5UULRNYC+cMQiVJBKIwasg=="
 ---
 

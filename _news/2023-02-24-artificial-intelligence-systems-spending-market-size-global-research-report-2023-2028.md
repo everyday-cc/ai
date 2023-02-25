@@ -99,17 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI in Education Market Size & Analysis"
-    excerpt: "According to a recently revamped/updated market research report published by Global Market Estimates, the Global AI in Education Market is projected to grow from"
-    publishedDateTime: 2023-02-23T13:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/g31028837/global-ai-in-education-market-size-analysis"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31028837"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31028837"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
   - title: "AI-based Surgical Robots Market Size 2023 : Expected To Deliver Dynamic Progression Until 2026"
     excerpt: "[107 Pages Report]\"AI-based Surgical Robots Market\" size is projected to reach ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible source for gaining the ..."
     publishedDateTime: 2023-02-21T05:27:00Z
@@ -184,6 +173,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Construction Market Report with Executive Summary, Size, Analysis and Forecast to 2023-2028"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Artificial Intelligence in Construction Market\" Report provides a Detailed analysis of global market size, regional"
+    publishedDateTime: 2023-02-25T12:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-report-with-executive-summary-size-analysis-and-forecast-to-2023-2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market 2023 : Global Industry Share, Key Dynamics and Forecast to 2028"
     excerpt: "Feb 21, 2023 (The Expresswire) -- \"Facial Recognition Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,"
     publishedDateTime: 2023-02-22T00:32:00Z
@@ -193,6 +196,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+  - title: "Global AI in Education Market Size & Analysis"
+    excerpt: "According to a recently revamped/updated market research report published by Global Market Estimates, the Global AI in Education Market is projected to grow from USD 4.25 Billion in 2023 to USD 20.65 Billion in 2028 at a CAGR of 45."
+    publishedDateTime: 2023-02-23T14:47:00Z
+    webUrl: "https://vietreader.com/business/globe-newswire/76758-global-ai-in-education-market-size-analysis.html"
+    type: article
+    provider:
+      name: vietreader.com
+      domain: vietreader.com
+    quality: 36
   - title: "Automatic Speech Recognition Market Size 2023 : Expected To Deliver Dynamic Progression Until 2026"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-02-22T01:48:00Z
@@ -225,15 +237,6 @@ related:
         width: 465
         height: 250
         isCached: true
-  - title: "Artificial Intelligence Chatbots Market Size 2023 to 2028 By Deployment, Growth Factor and Production cost"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2023 (The Expresswire) -- \"Artificial Intelligence Chatbots Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions, Company ..."
-    publishedDateTime: 2023-02-21T01:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
   - title: "Navigating the Future of Face Recognition Door Lock Market Insights 2023-2029: Emerging Trends and Opportunities"
     excerpt: "Feb 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Door Lock"
     publishedDateTime: 2023-02-24T09:16:00Z
@@ -275,15 +278,6 @@ related:
         width: 348
         height: 249
         isCached: true
-  - title: "Global Laboratory Robotics Market Report 2022: Growing Demand for Process Automation for Various Industrial Verticals Boosts Sector"
-    excerpt: "The global laboratory robotics market held a market value of USD 270.7 million in 2021 and is estimated to reach USD 494 million by the year 2027. The market is projected to list a CAGR of 6.9% during the forecast period."
-    publishedDateTime: 2023-02-20T23:14:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/02/20/9763036.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "Artificial Intelligence In The Telecommunication Market By Key Players, Types, Applications, Countries, Market Size, Forecast To 2023-2033"
     excerpt: "Key Companies Covered in the<br />Artificial Intelligence in the Telecommunication Market Research  IBM Corporation. Microsoft. Intel Corpor"
     publishedDateTime: 2023-02-24T06:24:00Z

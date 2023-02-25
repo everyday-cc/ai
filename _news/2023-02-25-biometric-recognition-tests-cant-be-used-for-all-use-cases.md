@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 5 biometric recognition methods to reimage digital banking systems in 2023"
-    excerpt: "Biometric technology is transforming traditional banking methods with more advanced user authentication tactics such as voice, facial, and other analyses."
-    publishedDateTime: 2023-02-20T23:37:00Z
-    webUrl: "https://www.biometricupdate.com/202302/top-5-biometric-recognition-methods-to-reimage-digital-banking-systems-in-2023"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 0
   - title: "Facial Recognition Market size to grow at a CAGR of 18.11% by 2027, Increasing adoption of a multimodal biometric system to be a key trend- Technavio"
     excerpt: "According to Technavio, the global facial recognition market size is estimated to grow by USD 7,634.09 million from 2022 to 2027. The market is estimated to grow at a CAGR of 18.11% during the forecast period."
     publishedDateTime: 2023-02-25T01:53:00Z

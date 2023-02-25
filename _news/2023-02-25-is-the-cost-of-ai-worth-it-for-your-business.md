@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-25T13:59:00Z
 originalUrl: "https://www.techradar.com/features/is-the-cost-of-ai-worth-it-for-your-business"
 webUrl: "https://www.techradar.com/features/is-the-cost-of-ai-worth-it-for-your-business"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: TechRadar

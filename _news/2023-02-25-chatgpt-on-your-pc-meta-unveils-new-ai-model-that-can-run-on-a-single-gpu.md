@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-
 webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "China moves to regulate AI, $10K Nvidia GPU powers ChatGPT, AI transforming sports - catch all this and more in today's AI news!"
+    excerpt: "China attempts to regulate AI after ChatGPT frenzy. China will introduce rules to govern the use of artificial intelligence across a swath of industries, moving to regulate emerge"
+    publishedDateTime: 2023-02-25T14:06:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/china-moves-to-regulate-ai-10k-nvidia-gpu-powers-chatgpt-ai-transforming-sports-catch-all-this-and-more-in-todays-ai-news-10159881.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 5
 
 secured: "5N897+hwThPOmDxJln/ihgfoQA09Vppbb62eZRT/FgHohzMgEfy2jcnSHOII3hoOSxvvRBTn2pGor79gFHoEkB1MepHRZIOahEsNcRijfz42GkEyjSHQXqEeRav437yZXb5DoWD25TNx04isT3L/Wml7uw06nKcFeSvEHqczn8w/kZRTStQRETqHbTL8C2zynTElFPv0cLc2v7VUwSq96oTssYMDhjOXLTAXPZp/pPX8K8NxiasPD8Qmyy8BpErF0AdJmvvMJBSSHC5yvB4fYHQkmwOPyiG24XEKtlb+FQXFnuszYcYpkoKEAAm2oZpk+pwJ+KEwnaWUx2LsdDkCwqX5Wa23raXisTsUJTWR7ZM=;UIF8wdx1GfAMrYgY+oOJpw=="
 ---

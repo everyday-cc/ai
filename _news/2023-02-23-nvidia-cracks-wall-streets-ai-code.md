@@ -63,6 +63,15 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 49
+  - title: "Meet the $10,000 Nvidia chip powering the race for A.I."
+    excerpt: "During Wednesday's fiscal fourth-quarter earnings report, although overall sales declined 21%, investors pushed the stock up about 14% on Thursday, mainly because the company's AI chip business ..."
+    publishedDateTime: 2023-02-24T16:22:00Z
+    webUrl: "https://www.cnbc.com/2023/02/23/nvidias-a100-is-the-10000-chip-powering-the-race-for-ai-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 49
   - title: "Nvidia shares soar day after Intel cuts dividend"
     excerpt: "\"It’s now offering its services like access to supercomputers, via big cloud platforms like Microsoft Azure, Google GCP and Oracle Cloud ... Nvidia stands to benefit as its chips are used to develop machine learning software,\" Mould opined."
     publishedDateTime: 2023-02-23T16:51:00Z

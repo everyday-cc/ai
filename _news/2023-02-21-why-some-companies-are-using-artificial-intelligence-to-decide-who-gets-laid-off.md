@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-21T13:39:00Z
 originalUrl: "https://www.khou.com/article/tech/ai-assisted-layoffs/285-d83bedca-3040-4fe4-b15b-724f7820d026"
 webUrl: "https://www.khou.com/article/tech/ai-assisted-layoffs/285-d83bedca-3040-4fe4-b15b-724f7820d026"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: KHOU 11

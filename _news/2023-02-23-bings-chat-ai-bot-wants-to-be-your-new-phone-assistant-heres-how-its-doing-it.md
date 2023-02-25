@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/now-you-can-get-access-to-b
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
 type: article
 quality: 64
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -25,49 +25,99 @@ topics:
   - AI
 
 related:
-  - title: "Everything you wanted to know about AI – but were afraid to ask"
-    excerpt: "From chatbots to deepfakes, here is the lowdown on the current state of artificial intelligence Barely a day goes by without some new story about AI, or artificial intelligence. The excitement about it is palpable – the possibilities, some say ..."
-    publishedDateTime: 2023-02-24T13:46:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes"
+  - title: "Is It Time To Ban AI Chatbots From Using Social Media?"
+    excerpt: "The fact that someone took the time to create a visual representation of a chatbot is quite impressive. In a video, Lia introduces herself and explains her ambitions. On the Lia homepage, you can chat with the bot and ask questions."
+    publishedDateTime: 2023-02-25T15:44:00Z
+    webUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/"
+    ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.guim.co.uk/img/media/543d6b74c91d5d5fb908173506f00e60567f9f5c/0_70_5704_3422/master/5704.jpg?width=620&quality=85&auto=format&fit=max&s=4854fc9c9b45b2aa64285c3d335f0a4f"
-        width: 620
-        height: 372
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63fa39f512762143838ba854/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Bing's AI Chat Marks a New Web Era: Please Don't Kill It"
-    excerpt: "This isn't another story about spending hours with the new Bing AI trying to troll it and stump it so that it generates wacky and disturbing answers. There are plenty of those online already, most notably from The New York Times ’ tech columnist Kevin Roose."
-    publishedDateTime: 2023-02-23T14:21:00Z
-    webUrl: "https://www.pcmag.com/opinions/bings-ai-chat-marks-a-new-web-era-please-dont-kill-it"
+  - title: "Leaked messages show Googlers are taking out their frustrations over layoffs on its new Bard AI chatbot"
+    excerpt: "\"I'd tell you a joke about layoffs at Google, but I'm afraid I wouldn't have a job tomorrow,\" Bard said when asked to tell a joke about the layoffs."
+    publishedDateTime: 2023-02-24T22:26:00Z
+    webUrl: "https://www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2?amp"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
-  - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
-    excerpt: "Microsoft’s Bing search engine can write recipes and songs and explain anything it can find on the internet. But if you cross its artificially intelligent chatbot, it might also insult your looks, threaten your reputation or compare you to Adolf Hitler."
-    publishedDateTime: 2023-02-20T23:15:00Z
-    webUrl: "https://www.stltoday.com/news/national/is-bing-too-belligerent-microsoft-looks-to-tame-ai-chatbot/article_eb38aad5-0163-5d4b-a44e-523c434ce091.html"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "Facebook owner Meta joins AI chatbot race"
+    excerpt: "After Microsoft ChatGPT and Google's Bard, Meta is joining the AI chatbot race with its own state-of-the-art foundational large language model designed to help researchers advance their work in the field of artificial intelligence."
+    publishedDateTime: 2023-02-25T08:30:00Z
+    webUrl: "https://www.ummid.com/news/2023/february/25.02.2023/facebook-owner-meta-joins-ai-chatbot-race.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 34
-  - title: "Everything you wanted to know about AI – but were afraid to ask"
-    excerpt: "Large-language models This is one of the so-called neural networks ... Or you can use the wide array of apps already on your phone that invisibly use AI, from the translate apps built in to iOS and Android, through the search features in Google and ..."
-    publishedDateTime: 2023-02-24T18:48:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes?amp"
+      name: Ummid
+      domain: ummid.com
+    quality: 41
+    images:
+      - url: "https://ummid.com/news/2023/february/25.02.2023/meta-language-model.jpg"
+        width: 790
+        height: 530
+        isCached: true
+  - title: "Amazon enters chatbot wars with AI startup partnership"
+    excerpt: "Amazon.com’s cloud unit is expanding a partnership with artificial intelligence startup Hugging Face, which is developing a ChatGPT rival, the latest move as the biggest technology firms line up allies in an attention-getting market for generative AI ..."
+    publishedDateTime: 2023-02-21T22:37:00Z
+    webUrl: "https://www.latimes.com/business/story/2023-02-21/amazons-aws-hugging-face-ai-deals-chatgpt"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 19
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 39
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/0a2487d/2147483647/strip/true/crop/5472x2873+0+98/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F77%2F91%2Ff67ffdcc4bd9bb2739eaaca111c4%2Famazon-affordable-housing-02458.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "China's Baidu touts AI chatbot, sees 2022 revenue fall 1%"
+    excerpt: "In 2023, we believe we have a clear path to reaccelerate our revenue growth, and we are now well positioned to make use of the opportunities that China's economic recovery offers us,\" Robin Li, Baidu co-founder and chief executive officer,"
+    publishedDateTime: 2023-02-22T07:36:00Z
+    webUrl: "https://www.albawaba.com/business/chinas-baidu-touts-ai-chatbot-sees-2022-revenue-fall-1-1509934"
+    ampWebUrl: "https://www.albawaba.com/amp/business/chinas-baidu-touts-ai-chatbot-sees-2022-revenue-fall-1-1509934"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/chinas-baidu-touts-ai-chatbot-sees-2022-revenue-fall-1-1509934"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 39
+  - title: "What are ‘robot rights,’ and should AI chatbots have them?"
+    excerpt: "AI chatbots are all the rage. From ChatGPT to Bing’s new AI-powered search engine and Google’s new Bard chatbot, people are obsessed with seeing how they can replace tasks with AI and test its limits."
+    publishedDateTime: 2023-02-22T19:00:00Z
+    webUrl: "https://www.grid.news/story/technology/2023/02/22/what-are-robot-rights-and-should-ai-chatbots-have-them/"
+    type: article
+    provider:
+      name: grid
+      domain: grid.news
+    quality: 36
+  - title: "Meta takes on Google and Microsoft with own tool for building AI chatbots"
+    excerpt: "Meta Platforms Inc. introduced a research tool for building artificial intelligence-based chatbots and other products, seeking to create a buzz for its own technology in a field lately focused on internet rivals Google and Microsoft Corp."
+    publishedDateTime: 2023-02-25T06:44:00Z
+    webUrl: "https://mybroadband.co.za/news/software/481591-meta-takes-on-google-and-microsoft-with-own-tool-for-building-ai-chatbots.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 35
+  - title: "Artificial Intelligence Chatbots Market Size 2023 to 2028 By Deployment, Growth Factor and Production cost"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 20, 2023 (The Expresswire) -- \"Artificial Intelligence Chatbots Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions, Company ..."
+    publishedDateTime: 2023-02-21T01:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-size-2023-to-2028-by-deployment-growth-factor-and-production-cost-2023-02-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
 
 secured: "f/M1Ys8dTT4gLtI7JQQcPbP52/HB1T1tiAB8SMIzF7hxNeidscT22isdVcwciAkby92Ge1md1o8rHzX8pUhgdnhDqCDwEW4oSa5cQDw8jexLL8eCfonzLyBsYrAdOHV9GMOy5n327FB8tz+KTSRhPN40k+XB95ja7FjznGaBzBDD3nvORkcGCdvQGJ6or+kZOGM73xI6RuQm0jmqIuTAU98+SlcZtNETTPJ3bNZbskyen6efozlaJltFAw9ysFNpR5937EcR/9Yk55DEpSfAwlKuDLyGzAxmivcYNDpX3kETn9pfMGYXKV7gxZkl8e8/AruVaU/7BXKlrOJzZOBDy4XPHzVZKLGiUhy6ylPgk1UbjjtDPXdWVIGtimWi6NI5/RrOZ+KF1G9Xzqn0msWdSr5F2BAQSDcl0xlsuZSub8Go4bMRX7zGE2H009+SLdkt1cRx+F0pxGTzWc50uEqmOyc3pPjRXKh0tqJnWO8dpBddPD3v9KBwwL8VpJFSrr9Kkm+yudQSGMa8MrGlpmYVoQ==;RqNDLlIU9n9mMksuaWrb8Q=="
 ---

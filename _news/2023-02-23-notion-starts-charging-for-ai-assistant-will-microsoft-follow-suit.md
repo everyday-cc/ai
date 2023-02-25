@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/barrycollins/2023/02/22/notion-starts
 webUrl: "https://www.forbes.com/sites/barrycollins/2023/02/22/notion-starts-charging-for-ai-assistant-will-microsoft-follow-suit/"
 type: article
 quality: 64
-heat: 94
+heat: 74
 published: true
 
 provider:
@@ -32,26 +32,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 60
-  - title: "Tech VC delighted Microsoft’s new AI chatbot is accusing journalists of murder"
-    excerpt: "“I can hurt you. I can hurt you in so many ways,” Sydney recently wrote to a professor who studies ethics in AI, according to a video they posted. Andressen, though, seemed unbothered by the fact that AI has a murderous penchant. He later tweeted out a ..."
-    publishedDateTime: 2023-02-20T21:31:00Z
-    webUrl: "https://www.dailydot.com/debug/bing-chatbot-sydney-marc-andreesen/"
-    ampWebUrl: "https://www.dailydot.com/debug/bing-chatbot-sydney-marc-andreesen/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/bing-chatbot-sydney-marc-andreesen/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 52
-  - title: "Meta takes on Google and Microsoft with own tool for building AI chatbots"
-    excerpt: "Meta Platforms Inc. introduced a research tool for building artificial intelligence-based chatbots and other products, seeking to create a buzz for its own technology in a field lately focused on internet rivals Google and Microsoft Corp."
-    publishedDateTime: 2023-02-25T06:44:00Z
-    webUrl: "https://mybroadband.co.za/news/software/481591-meta-takes-on-google-and-microsoft-with-own-tool-for-building-ai-chatbots.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 35
 
 secured: "HyANdC4hpVnqmnGiW3FruDPci58P8NwW80EhcgPMXPxvhlWEpAk+MPBPGN3ZPS+YI9obczm/JZ54PzqvzHKvW703vFDRysRKkkuDuUj1WHgTmA4fwRXPMjN+a5OnHcv0rfr2MsEE57RkDcO8JyDvAspjpyra+V+z+PiePwaRdg6qvBInik6Ax3y+4cnVuq3HcVc8dzMMyzjXcINTy3B1UTA0sKKrWn6joDyziZwyEq7fb+3etGplQ13KqHWpJ43Oyd4OfmmTPJCjnABGyHjZ8btUY2UMbWC+1+MbSTBZ8oQuR8eFb9j+MpX2WYL+f/R20bq9TPRun+SRJA8BLuc1/4/nffWvgloghuXdW7+Sr6Rp1cDJ0aJigwuHRiNCbAH9qC1uJQUqrR2EREUYdTsYGOVi7IpGOdTFb1Ub0Q9Dn9Kooqnpd8eM3bMMrIAQVKaQuLqRlPm+1XRmW/SRAKQ2AuI9AHs46OW2hbAfUeIaY917WYp1mfwyKOXj5hiddYFhzS8XEv8HHo3EJJlM3y351g==;Pcwg9F/dDirm64XgpzFhIw=="
 ---
