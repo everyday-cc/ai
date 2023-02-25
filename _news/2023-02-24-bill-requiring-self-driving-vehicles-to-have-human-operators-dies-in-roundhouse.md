@@ -1,13 +1,15 @@
 ---
 category: news
 title: "Bill requiring self-driving vehicles to have human operators dies in Roundhouse"
-excerpt: "Bill requiring self-driving vehicles to have human operators dies in Roundhouse"
-publishedDateTime: 2023-02-23T23:41:00Z
-originalUrl: "https://www.krqe.com/video/bill-requiring-self-driving-vehicles-to-have-human-operators-dies-in-roundhouse/8418822/"
-webUrl: "https://www.krqe.com/video/bill-requiring-self-driving-vehicles-to-have-human-operators-dies-in-roundhouse/8418822/"
+excerpt: "ALBUQUERQUE, N.M. (KRQE) — State lawmakers were trying to pass a bill that would make it mandatory to have a person inside self-driving cars that are ... but there’s no doubt automation is coming. Artificial intelligence is coming."
+publishedDateTime: 2023-02-23T23:30:00Z
+originalUrl: "https://www.krqe.com/news/new-mexico/bill-requiring-self-driving-vehicles-to-have-human-operators-dies-in-roundhouse/"
+webUrl: "https://www.krqe.com/news/new-mexico/bill-requiring-self-driving-vehicles-to-have-human-operators-dies-in-roundhouse/"
+ampWebUrl: "https://www.krqe.com/news/new-mexico/bill-requiring-self-driving-vehicles-to-have-human-operators-dies-in-roundhouse/amp/"
+cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/new-mexico/bill-requiring-self-driving-vehicles-to-have-human-operators-dies-in-roundhouse/amp/"
 type: article
-quality: 20
-heat: -1
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -19,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://www.krqe.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png"
-    width: 396
-    height: 202
+  - url: "https://www.krqe.com/wp-content/uploads/sites/12/2023/01/c34f9fdb280e4e38af2f80563701c6d6.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -35,6 +37,6 @@ related:
       domain: reuters.com
     quality: 34
 
-secured: "1A8I9vrWp5Buuu+GBOFIzRWb9Cu0KT+Y4hQLFrzIBghCYn4eFINKYF8jMbkl64JvWCNz4t3burTJNZ7/5JYD5CkHGVUE76fZfQLVuEFFRnatScBzomBgwMekvBFtnN67oRS5oZ6wu5A+hriQXtIgKwzyBQFnBKha3Zcoimlm/uGeL29t6GJbteUokCkO+MCAk5nPZFcZ4abf7zqO6m4G13BWuWWC6eJ0xO4GLPnUaO0uLUHhZqFdovZrwz3lOOqodwgfe/tVqgPs0sDVzRTnZrNyrJU881MyONecFD6K1iJcrfoKdhw6f/j35Af6M1DKpNSaUDrKTGXmmUj4zpxKFWshVlWN4NKQuqXws/DRY4w=;y7ZZx7mZ3FxwJXR0f3T6nw=="
+secured: "oTWy+PQEhIVvLpTcT5XibCO2qaizjrbvGbLRzbIF5QRc8tJQYZfmHCFFjScTDS6n5izlxd/qWcEbvyxeOAqNm1D4RxpFXdQaxMBKOAk9LY5sX9y2W3rABeg1K4mjFu5AQ04U+Q2RyEUlqSmcnaLdj7hXzoJhZTiU7QvIV1b0uF8oIyE8xpfZpsT9oYtTjhUcD2EPIZrhfzIxahZNOnJnznw8di0MQOcLc7SmTEvVWnZsFlWvvsbsQJCOxy0VorqVPWvlKRqZPOkKGc2fl3K/XnrYxtdWVJfqAGIoy6yrTdvddlu100cEr5LcITv52nJSeIdJxJlE+HVvsrK4zNPWtuDwTGYuoA1PrpQF8dbU59M=;WfA5G3t2Qf2Xj1K+TNjC2A=="
 ---
 

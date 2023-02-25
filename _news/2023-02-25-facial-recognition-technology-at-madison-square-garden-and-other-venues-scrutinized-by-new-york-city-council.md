@@ -67,20 +67,6 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 34
-  - title: "Indian officials use facial recognition to identify thousands of fraudulent SIM cards"
-    excerpt: "Almost 500,000 irregularly-registered SIM cards have been blocked in the Mewat region of India’s Haryana state since January 2022."
-    publishedDateTime: 2023-02-20T15:50:00Z
-    webUrl: "https://www.biometricupdate.com/202302/indian-officials-use-facial-recognition-to-identify-thousands-of-fraudulent-sim-cards"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/20165043/sim-cards.jpg"
-        width: 1126
-        height: 550
-        isCached: true
   - title: "Facial recognition is a violation of privacy, News Poll results show"
     excerpt: "YARMOUTH, Maine—Our readers have spoken! Facial recognition technology can be considered a violation of people’s privacy and discriminatory, even with the security benefits that the technology is intended to provide, according to the results of the ..."
     publishedDateTime: 2023-02-21T20:16:00Z

@@ -27,15 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
-    excerpt: "Artificial Intelligence (AI) is becoming used in more and more markets and industries worldwide. At the current growth rate, AI may eventually touch every business, industry and market. The rapid penetration of the digital technologies and internet has significantly contributed towards the growth of the global artificial intelligence market in the past few years."
-    publishedDateTime: 2023-02-24T15:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-how-big-business-integrating-artificial-intelligence-a-rapid-/2023/02/24/9766176.htm"
+  - title: "AI scientist-author Toby Walsh: 'We are increasingly outsourcing some of our thinking to machines'"
+    excerpt: "Artificial Intelligence scientist, professor, author Toby Walsh, who was a prominent speaker at this year's Jaipur Literature Festival, talks about morality and ethics in the development of technology and the danger of handing over decision-making to machines."
+    publishedDateTime: 2023-02-25T08:12:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/lifestyle/artificial-intelligence-scientist-author-toby-walsh-interview-10152821.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/lifestyle/artificial-intelligence-scientist-author-toby-walsh-interview-10152821.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/lifestyle/artificial-intelligence-scientist-author-toby-walsh-interview-10152821.html/amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 45
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/02/AI1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "dm1iCyIZDBY2+N6a8lzh3hAu5BNmS2f8Oq0vn7lv+VHWNxsArj7/J+qmnEhgEfpnRlcTe//e6/fkTUhALQFT6UwnYinLK7isJEX02IIOSnXb562ZzMYjIJQDaQ/N//AoVXmcQQqGyuwBvdq9/Pjvf6ZDNlE1NO4OVLpu8p0oqv6hs3g1gWx1B3rzTlLdnNwO7AAlH0r425DeMI0Ai8mBFWlO4nNL7T56fwOqz1sDe4D7kLCcA2UvqlgUTyVbmtbN6c0J6s8dzBUfQcOF22mfuEcevTGD55Tq2tPDCYpHmI9px/Q4LQN7QyBwNGQsrdl1xOHpAY+eIvPQxWd2mrq+9f1jKO92Rvd1OT6mN9f2s40=;2Y9XT/wU1PD/QHrY1oixKA=="
 ---

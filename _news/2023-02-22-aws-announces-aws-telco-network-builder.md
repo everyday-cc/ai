@@ -3,8 +3,8 @@ category: news
 title: "AWS Announces AWS Telco Network Builder"
 excerpt: "(NASDAQ: AMZN), today announced the general availability of AWS Telco Network Builder, a fully managed service that helps customers deploy, run, and scale telco networks on AWS. Now, communications service providers (CSPs) can use their familiar telecom industry standard language to describe the details of their network (e."
 publishedDateTime: 2023-02-21T18:21:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-aws-telco-network-builder-/2023/02/21/9763854.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-aws-telco-network-builder-/2023/02/21/9763854.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2023/02/21/9763854.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/02/21/9763854.htm"
 type: article
 quality: 19
 heat: 19
@@ -29,6 +29,6 @@ related:
       domain: siliconangle.com
     quality: 15
 
-secured: "wjfxmq70SO0+RMYKVBx8b9ps0qqzupXN2mnNQNCV/yMpL7sHo8XtT2Xz/IY2KiMjCCw9+L0RckWg7Y5NJmO7gxSRzqsfo2FTMqj5OSss3Ifu77QlXNsqNLEH+2SIZgAQylQWkm2jdaCn4/92LvliWEwIbDio48++ASOm/PlyIoSPP6LWiq+EfZU58u+QyaZnIuFl7rtvEhokq1YBQpMYd94htQR4K8ViX5ufJzMDyLOr8mASeU9KgxUOJtMVE7fnQE1JMNJkE7kE01ilwaUqlOZu0VA7W2KH9Qx4xEwwLs5MTDbSDndqZ11gBdiTunFYPxG47LTIJbcM0bxCSMIX6vWQrRoAPESlhjkC+w8fOdk=;xCgpqf+kYMewc7IvpkwOkg=="
+secured: "VBzgh604aJA4qouavazq6FEusLhKpqWXDD8OhK7qtYTIP5KZWsz1f3cENTJcXw7SbsmJhHBmt2Cq6G6ikrmXWK3J2tTVSLoJzeDDb/WIIhTbG6It1DRvX8Lu/b7CrXHRIC9CdAmgqHZl7YfhKcdEP6HeXU33Hwn3FSrDSWkKdDdKShKigvHgw5eWNaJRIaiAZNHFqntVgIKY1XpY1p95NjE6ZgJRmSlziCHtllv48HVRJjSt7dLkVKtYHuLXcxGiah2JvtevOtmvmekIfDOkyIXhccJStELeaZh44LDW0LjX7GNeve32a3wNiMIOwsChhOp0i+CeVXo2Fxjm98BHpfheH1ienJxCvW2RjUwEE8Y=;uuZwsy/ZQq4nJ9YmwHbAbg=="
 ---
 

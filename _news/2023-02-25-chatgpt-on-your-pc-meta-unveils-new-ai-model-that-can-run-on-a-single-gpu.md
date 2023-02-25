@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-
 webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
-  - title: "ChatGPT Sparks AI 'Gold Rush' in Silicon Valley"
-    excerpt: "Artificial intelligence (AI) has been increasingly present in everyday life for decades, but the November launch of the conversational robot from start-up OpenAI marked a turning point in its perception by the general public and investors. \"Every so often ..."
-    publishedDateTime: 2023-02-20T16:40:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21260367/chatgpt-sparks-ai-gold-rush-in-silicon-valley"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 39
-    images:
-      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2023/02/dreamstime_xxl_107016485.63f3a150b76d3.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5N897+hwThPOmDxJln/ihgfoQA09Vppbb62eZRT/FgHohzMgEfy2jcnSHOII3hoOSxvvRBTn2pGor79gFHoEkB1MepHRZIOahEsNcRijfz42GkEyjSHQXqEeRav437yZXb5DoWD25TNx04isT3L/Wml7uw06nKcFeSvEHqczn8w/kZRTStQRETqHbTL8C2zynTElFPv0cLc2v7VUwSq96oTssYMDhjOXLTAXPZp/pPX8K8NxiasPD8Qmyy8BpErF0AdJmvvMJBSSHC5yvB4fYHQkmwOPyiG24XEKtlb+FQXFnuszYcYpkoKEAAm2oZpk+pwJ+KEwnaWUx2LsdDkCwqX5Wa23raXisTsUJTWR7ZM=;UIF8wdx1GfAMrYgY+oOJpw=="
 ---

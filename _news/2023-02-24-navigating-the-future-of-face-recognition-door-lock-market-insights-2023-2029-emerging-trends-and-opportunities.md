@@ -256,6 +256,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+  - title: "Artificial Intelligence And Machine Learning Market 2023: A Status Of Top Regions And Companies With Growth Prospects"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.'The 2023 research report on the global “artificial intelligence"
+    publishedDateTime: 2023-02-25T08:46:00Z
+    webUrl: "https://menafn.com/1105642591/Artificial-Intelligence-And-Machine-Learning-Market-2023-A-Status-Of-Top-Regions-And-Companies-With-Growth-Prospects"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?835698"
+        width: 465
+        height: 250
+        isCached: true
   - title: "Cloud AI in Fintech Market Size 2023-2029 Current Development, Sale, Revenue, Application, Production Cost, Revenue Region"
     excerpt: "Feb (The Expresswire) -- \"Cloud AI in Fintech Market\" Report covers specified competitive outlook consisting of the market proportion and"
     publishedDateTime: 2023-02-24T02:04:00Z

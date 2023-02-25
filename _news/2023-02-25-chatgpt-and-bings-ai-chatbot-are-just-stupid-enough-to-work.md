@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "LLaMA, Meta’s New AI Language Model is Not Your Average ChatGPT"
+    excerpt: "By releasing LLaMA under a noncommercial license that is focused on research use cases, Meta is granting open access to the model."
+    publishedDateTime: 2023-02-25T07:47:00Z
+    webUrl: "https://www.gizmochina.com/2023/02/25/meta-language-model-llama/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/dima-solomin-mr26tQgHGmc-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Generative AI Tools Like ChatGPT and Dall-E Aren't Going Away. Here's Why"
     excerpt: "These are machine learning systems that process terabytes' worth of data, often just scraped directly from the internet, making note of patterns and associations within the dataset, which is called training data. In the case of ChatGPT, text data sets are ..."
     publishedDateTime: 2023-02-22T19:20:00Z
@@ -150,6 +164,20 @@ related:
       - url: "https://ychef.files.bbci.co.uk/live/624x351/p0f584wh.jpg"
         width: 624
         height: 351
+        isCached: true
+  - title: "China Is Betting Big on Artificial Intelligence—Even As It Cracks Down on ChatGPT"
+    excerpt: "Given that China already bans Google, Facebook, Twitter ... founder of Beijing-based IT research firm Marbridge Consulting. Regarding AI, China already has a virtual news anchor for the state-run Xinhua News Agency, a computer science “student ..."
+    publishedDateTime: 2023-02-24T09:00:00Z
+    webUrl: "https://time.com/6258089/china-great-firewall-chatgpt-ai-future/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 66
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "Is It True That Generative AI ChatGPT Will Flood The Internet With Infinite Content, Asks AI Ethics And AI Law"
     excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
@@ -271,31 +299,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 47
-  - title: "China Is Betting Big on Artificial Intelligence—Even As It Cracks Down on ChatGPT"
-    excerpt: "Given that China already bans Google, Facebook, Twitter ... founder of Beijing-based IT research firm Marbridge Consulting. Regarding AI, China already has a virtual news anchor for the state-run Xinhua News Agency, a computer science “student ..."
-    publishedDateTime: 2023-02-24T09:00:00Z
-    webUrl: "https://time.com/6258089/china-great-firewall-chatgpt-ai-future/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 44
-  - title: "Enterprise hits and misses - Microsoft changes their spin on ChatGPT for search, while enterprise uses for Metaverse and generative AI get real"
-    excerpt: "Microsoft changes their positioning on ChatGPT for search. No surprises here - but the pursuit of enterprise use cases is worthwhile. Plus: time to revisit the enterprise Metaverse. Your whiffs include cheating on AI ethics exams - and data backups for Valentine's day."
-    publishedDateTime: 2023-02-20T15:34:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 40
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/chess.jpg"
-        width: 425
-        height: 283
-        isCached: true
   - title: "AI for Good develops humanitarian projects using ChatGPT and rivals"
     excerpt: "An NGO called AI For Good is utilizing the immense power of ChatGPT, Bard, Bing, Neeva, and similar programs, to teach"
     publishedDateTime: 2023-02-23T13:38:00Z

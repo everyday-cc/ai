@@ -7,8 +7,8 @@ originalUrl: "https://www.geekwire.com/2023/gaming-opportunities-for-investors-i
 webUrl: "https://www.geekwire.com/2023/gaming-opportunities-for-investors-in-2023-generative-ai-low-code-metaverse-and-more/"
 type: article
 quality: 58
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: GeekWire
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "MWC mobile tech fair to show off new phones, AI, metaverse"
+    excerpt: "The latest folding-screen smartphones, immersive metaverse experiences, AI-powered chatbot avatars and other eye-catching technology are set to wow visitors at the annual MWC wireless trade fair"
+    publishedDateTime: 2023-02-25T07:43:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "What Does Generative AI Mean For Your Brand And What Does It Have To Do With The Future Of The Metaverse?"
     excerpt: "Generative AI is transforming our content landscape. It’s prompting questions like what is art? How do AI copyrights work? Is it ethical to use generative AI for my job? Is Generative AI a fad or a useful tool for brands?"
     publishedDateTime: 2023-02-20T22:42:00Z
@@ -39,20 +55,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 50
-  - title: "The opportunities of artificial intelligence in tax"
-    excerpt: "The beginning of 2023 brought some very significant events to my humble career. Among the most high profile is attending the induction ceremony of the new officers of the Management Association of the Philippines."
-    publishedDateTime: 2023-02-20T16:04:00Z
-    webUrl: "https://businessmirror.com.ph/2023/02/21/the-opportunities-of-artificial-intelligence-in-tax/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 37
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2022/02/Column-box-Atty.-Jomel-N.-Manaig-Tax-Law-for-Business.jpg"
-        width: 1008
-        height: 529
-        isCached: true
 
 secured: "dNueTaPyuE9GUry0m/qsAAnieE8BbGLpQjcePVMNGPhShmpBydxGV1hegCpFa08IThVzDo5Q+0GrVavI1rhEm91XbAipfVxHgfCK8PulCZ58MHD0yqoturSH2vHf+LY+Cpre+h27M028+0fcbvoWXINfcUid079Q7+CXIqjrTJ2an/NFH4lRM+UF8c6FiD2FEhxf8OwuvMyZzw1GqyvscDDiaan4HsaSBQyOoK/5exdFt7H+BZfInjkx6poyf6f4935KaQvLZkMdInVcdAhBmdfVs47is0b1J3ndD8XSEqQJb/o3sBvaYojmvQH20tRV7Hiqg40qw9kQPU69HsQuK2Pmfj9Csbh1jbGd1uOJX5E=;/GvWM36+IsjKQpo7W7ltYA=="
 ---

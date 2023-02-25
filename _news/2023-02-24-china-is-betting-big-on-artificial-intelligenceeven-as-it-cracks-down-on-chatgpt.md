@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-24T09:00:00Z
 originalUrl: "https://time.com/6258089/china-great-firewall-chatgpt-ai-future/"
 webUrl: "https://time.com/6258089/china-great-firewall-chatgpt-ai-future/"
 type: article
-quality: 44
+quality: 66
 heat: -1
 published: false
 
@@ -21,6 +21,13 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://time.com/img/icons/wallet-connect.png"
+    width: 256
+    height: 256
+    isCached: true
 
 related:
   - title: "Jasper AI: how to use the ChatGPT alternative now"
@@ -102,6 +109,20 @@ related:
       - url: "https://i.insider.com/63f69b465ca81e001855cc68?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "LLaMA, Meta’s New AI Language Model is Not Your Average ChatGPT"
+    excerpt: "By releasing LLaMA under a noncommercial license that is focused on research use cases, Meta is granting open access to the model."
+    publishedDateTime: 2023-02-25T07:47:00Z
+    webUrl: "https://www.gizmochina.com/2023/02/25/meta-language-model-llama/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/dima-solomin-mr26tQgHGmc-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "Generative AI Tools Like ChatGPT and Dall-E Aren't Going Away. Here's Why"
     excerpt: "These are machine learning systems that process terabytes' worth of data, often just scraped directly from the internet, making note of patterns and associations within the dataset, which is called training data. In the case of ChatGPT, text data sets are ..."
@@ -270,22 +291,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 47
-  - title: "Enterprise hits and misses - Microsoft changes their spin on ChatGPT for search, while enterprise uses for Metaverse and generative AI get real"
-    excerpt: "Microsoft changes their positioning on ChatGPT for search. No surprises here - but the pursuit of enterprise use cases is worthwhile. Plus: time to revisit the enterprise Metaverse. Your whiffs include cheating on AI ethics exams - and data backups for Valentine's day."
-    publishedDateTime: 2023-02-20T15:34:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-microsoft-changes-their-spin-chatgpt-search-while-enterprise-uses?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 40
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/chess.jpg"
-        width: 425
-        height: 283
-        isCached: true
   - title: "AI for Good develops humanitarian projects using ChatGPT and rivals"
     excerpt: "An NGO called AI For Good is utilizing the immense power of ChatGPT, Bard, Bing, Neeva, and similar programs, to teach"
     publishedDateTime: 2023-02-23T13:38:00Z
@@ -428,6 +433,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "NAxa2flgEkDuRdSSGLf0wDC+E9sg+HIiEKxRKlxg7dwvxUWk13TC95UP/aOQrSZ+kuQWd7G/YexpOacYmnRCyScp5BMAbO1EUtp3plfP8yMmCkaxU30pk5QonsDVRA49eby+7mYF89KObx5cDDsGOzsFg4GXw+VdNYu1Ry/kAGwqTL6WxQnLC/Mh7jqcimkdYJAIz74W83LzJ33CtIo+RrEtnwmZoL6Q1zzdJH9tCUigbloxoVpuYzHwsHs3q4dP4/FDPqwL6E3+LTk4TmoH3lCCwwGDPbs60RSsNx9BgzOzXK146/AiP3riAZWQu3c7tuUbgGqw+xAtIkd4iS3sl9wXu+FvItAhCznxbjxG2rSxt+ZnkITsmX74HQ++B+9nJTDeDXOi6SweplpxSmim0sv8xx/gHffVqkcLoQzLe+8JDRX8cdHqTNiurXyt8O0g4SYZy8KMgKxVJ/JGY9XwSCVz/Z8qDQeBeojylwi0E07d/jizzMNyuY8bSe7NKuMyD/DJIotoQnJtflBk/UzBYw==;XoG5lhT/VcHURMrZzR80MQ=="
+secured: "KlcAMUwP/Jrt8YxoU30Ug+BPeQ1Af3v+G0xhzPHibbJHNZn7XsICr6B+FvPXn5ZsmvpUsZmSXldFxqyL1g56b16SkpSfAKJsNcD6BKGCxwRaKeAQY25+VoHUhfhK501xdXN0S4wjgqtqC2gPgxtxtx8BymZ7OhwY91Afivy13U2SFookJN3k5lZ6In+Tevqd128XY1QzmnT/VDQCFVrjuJyR9h3T4AL8b8EqMV5eu1Q0AYtoZ1Wb5WAH1IUK5iZ4AX4FpFyMftOpKk2OrfcYtpiIkU199i8mpuhFn3H/nbHDdRROfWB7UjjnSO4x6pfTozOaHJacziR/QRsKtKHIL9FqRkTJZ4vOkYRv2Ym37Fo=;YSxlbdG+oehY4mPQvRZJIg=="
 ---
 

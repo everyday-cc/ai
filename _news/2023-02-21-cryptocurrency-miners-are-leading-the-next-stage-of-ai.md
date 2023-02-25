@@ -9,8 +9,8 @@ ampWebUrl: "https://cointelegraph.com/news/cryptocurrency-miners-may-lead-the-ne
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/cryptocurrency-miners-may-lead-the-next-stage-of-ai/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CoinTelegraph
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Agency harnesses power of artificial intelligence"
+    excerpt: "Leading communication agency Webmedia South Pacific has announced their use of artificial intelligence (AI) to optimise communication strategies for clients in the private, public, and civil sectors."
+    publishedDateTime: 2023-02-25T06:45:00Z
+    webUrl: "https://www.fijitimes.com/agency-harnesses-power-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Fiji Times
+      domain: fijitimes.com
+    quality: 37
+    images:
+      - url: "https://www.fijitimes.com/wp-content/uploads/2023/02/a4270c95-f78c-47e5-a30f-4206a4ad3c1d.jpg"
+        width: 983
+        height: 821
+        isCached: true
   - title: "Cryptocurrency miners are beginning to lead the next stage of AI"
     excerpt: "Cryptocurrency miners are converting their mining rigs to facilitate AI processing, and the implications could be both legal and financial."
     publishedDateTime: 2023-02-20T19:33:00Z

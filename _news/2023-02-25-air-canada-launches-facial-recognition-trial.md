@@ -56,20 +56,6 @@ related:
       name: City & State New York
       domain: cityandstateny.com
     quality: 34
-  - title: "Indian officials use facial recognition to identify thousands of fraudulent SIM cards"
-    excerpt: "Almost 500,000 irregularly-registered SIM cards have been blocked in the Mewat region of India’s Haryana state since January 2022."
-    publishedDateTime: 2023-02-20T15:50:00Z
-    webUrl: "https://www.biometricupdate.com/202302/indian-officials-use-facial-recognition-to-identify-thousands-of-fraudulent-sim-cards"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/20165043/sim-cards.jpg"
-        width: 1126
-        height: 550
-        isCached: true
   - title: "Facial recognition technology at Madison Square Garden and other venues scrutinized by New York City Council"
     excerpt: "New York City has laws requiring businesses to inform customers when facial recognition technology is in use, but some lawmakers may want to take it further."
     publishedDateTime: 2023-02-24T16:50:00Z

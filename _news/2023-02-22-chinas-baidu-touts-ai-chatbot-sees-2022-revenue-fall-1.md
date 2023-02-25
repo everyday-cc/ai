@@ -21,30 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "China's Baidu Says 2022 Revenue Fell 1%, Flags 'Ernie' Chatbot"
-    excerpt: "Chinese search giant Baidu reported Wednesday that revenue fell by one percent in 2022 but also said it will include its artificial intelligence chatbot Ernie in its search services from March."
-    publishedDateTime: 2023-02-22T14:25:00Z
-    webUrl: "https://www.barrons.com/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
-    ampWebUrl: "https://www.barrons.com/amp/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
+  - title: "Facebook owner Meta joins AI chatbot race"
+    excerpt: "After Microsoft ChatGPT and Google's Bard, Meta is joining the AI chatbot race with its own state-of-the-art foundational large language model designed to help researchers advance their work in the field of artificial intelligence."
+    publishedDateTime: 2023-02-25T08:30:00Z
+    webUrl: "https://www.ummid.com/news/2023/february/25.02.2023/facebook-owner-meta-joins-ai-chatbot-race.html"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
-  - title: "Baidu to Embed AI-Powered Ernie Bot in All Products, Services, CEO Robin Li Says"
-    excerpt: "Baidu plans to build an ecosystem around Ernie Bot, its own ChatGPT-style artificial intelligent chatbot, by fully incorporating it into all of the Chinese tech giant’s products and services, Chief Executive Robin Li said."
-    publishedDateTime: 2023-02-23T00:00:00Z
-    webUrl: "https://www.yicaiglobal.com/news/baidu-to-embed-ai-powered-ernie-bot-in-all-products-services-ceo-robin-li-says"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 34
+      name: Ummid
+      domain: ummid.com
+    quality: 41
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/baidu-to-embed-ai-powered-ernie-bot-in-all-products-services-ceo-robin-li-says/37020291543749.jpg"
-        width: 720
-        height: 480
+      - url: "https://ummid.com/news/2023/february/25.02.2023/meta-language-model.jpg"
+        width: 790
+        height: 530
+        isCached: true
+  - title: "Facebook rolls out new AL language model, LLaMA: What is it, how is it different from ChatGPT and more"
+    excerpt: "Meta, Facebook’s parent company, continues to do significant work in this field and is releasing a new AI language generator named LLaMA today. “Today"
+    publishedDateTime: 2023-02-25T03:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/facebook-rolls-out-new-al-language-model-llama-what-is-it-how-is-it-different-from-chatgpt-and-more/articleshow/98223488.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/facebook-rolls-out-new-al-language-model-llama-what-is-it-how-is-it-different-from-chatgpt-and-more/amp_articleshow/98223488.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/facebook-rolls-out-new-al-language-model-llama-what-is-it-how-is-it-different-from-chatgpt-and-more/amp_articleshow/98223488.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 28
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-98223457,width-1070,height-580,imgsize-15346,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
 
 secured: "baTuoLyoXC+383uW4C5m5KkU8nOqXi8oWlYIkv7eWMhz2CYEobCgVnoCirPAZ1W9BNU/Xq6QJJyJCV9RcOfr5NYyjz8ALVwr7eCxFqxWbSA4tSBPhBitpQ/pb86ZClnrHfi2sq52fuW56DxIhbfGOWPGEfPoFL8zQFRyOIY8PAzKcqFf/Ceof/D8INrCXAnJ+uhkuZfRdd9T8LX1dErRWgTNOhvMU+cMWdwAzWQibtaN3AK/kLHS9O5Jfn2ZMJJXpchOxy2hziBIYnQbQVk58vPprUM6T8jGqlyc4Vd/tWF5o2tTd8J9J7oSCrx+zuwbYgB0Kk6kqh9FhSJqv5q+mlIxaNN6RfcUMhKYC6ER4iaBcjvzYxA0zKE/wBmHpv7TbR0SYRMpM94D5Sb3YmbLhK6lpLpabCCJoVIrJy4nQAoF/qq4Wzk867x67n3JezeHGVSbtzC9Qd+7i0W+B2qlVJr43Dp/Xc5xrlVk1hdLvpaVgbR/ymPhfLvAZBAIkVPn9wPvtddFZ/xuZiBElcBFgg==;bQ8dnGoJFIgxRYaBp3HkkA=="

@@ -247,6 +247,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+  - title: "Artificial Intelligence And Machine Learning Market 2023: A Status Of Top Regions And Companies With Growth Prospects"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.'The 2023 research report on the global “artificial intelligence"
+    publishedDateTime: 2023-02-25T08:46:00Z
+    webUrl: "https://menafn.com/1105642591/Artificial-Intelligence-And-Machine-Learning-Market-2023-A-Status-Of-Top-Regions-And-Companies-With-Growth-Prospects"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?835698"
+        width: 465
+        height: 250
+        isCached: true
   - title: "Navigating the Future of Face Recognition Door Lock Market Insights 2023-2029: Emerging Trends and Opportunities"
     excerpt: "Feb 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Door Lock"
     publishedDateTime: 2023-02-24T09:16:00Z
