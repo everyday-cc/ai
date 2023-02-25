@@ -272,20 +272,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "AI for Good develops humanitarian projects using ChatGPT and rivals"
-    excerpt: "LOS ANGELES, Calif., Feb. 23, 2023 (SEND2PRESS NEWSWIRE) — An NGO called AI For Good is utilizing the immense power of ChatGPT, Bard, Bing, Neeva, and similar programs, to teach ordinary AI users to quickly and efficiently create new approaches to ..."
-    publishedDateTime: 2023-02-23T13:38:00Z
-    webUrl: "https://www.joplinglobe.com/region/ai-for-good-develops-humanitarian-projects-using-chatgpt-and-rivals/article_3474cfcb-9226-5e11-93a0-08fdf2b72367.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 39
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/JMag-Feb-2023-cover.jpg"
-        width: 350
-        height: 446
-        isCached: true
   - title: "Meta launches own version of AI to find fixes to ChatGPT’s dangers"
     excerpt: "Facebook-owner Meta on Friday unveiled its own version of the artificial intelligence behind apps such as ChatGPT, saying it would give access to researchers to find fixes to the technology’s potential"
     publishedDateTime: 2023-02-25T04:55:00Z
@@ -373,6 +359,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 19
+  - title: "AI for Good develops humanitarian projects using ChatGPT and rivals"
+    excerpt: "An NGO called AI For Good is utilizing the immense power of ChatGPT, Bard, Bing, Neeva, and similar programs, to teach"
+    publishedDateTime: 2023-02-23T12:38:00Z
+    webUrl: "https://www.record-eagle.com/ap/national/ai-for-good-develops-humanitarian-projects-using-chatgpt-and-rivals/article_528ff7d9-f9ae-5125-a455-4cfc7f08dcb4.html"
+    type: article
+    provider:
+      name: Traverse City Record-Eagle
+      domain: record-eagle.com
+    quality: 19
   - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
     excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
     publishedDateTime: 2023-02-24T14:15:00Z
@@ -382,6 +377,15 @@ related:
       name: The Buffalo News
       domain: buffalonews.com
     quality: 19
+  - title: "Jasper AI Is A ChatGPT Alternative With No Waitlist And A Chrome Extension"
+    excerpt: "ChatGPT it making news everywhere lately. It has caused some concern for apparently being \"too smart,\" and its addition in the latest Bing beta ha geenrated some interesting results, to say the least."
+    publishedDateTime: 2023-02-25T18:19:00Z
+    webUrl: "https://hothardware.com/news/jasper-ai-chatgpt-alternative-no-waitlist-chrome-extension"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 15
   - title: "Is ChatGPT ‘woke’? AI chatbot accused of anti-conservative bias and a grudge against Trump"
     excerpt: "Meta to restore Trump accounts:Trump Facebook and Instagram ... incorrect,” said Jake Denton, research associate with the Heritage Foundation’s Tech Policy Center. But, he says, what happens if ChatGPT or another AI chat feature replaces Google ..."
     publishedDateTime: 2023-02-24T04:31:00Z

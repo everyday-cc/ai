@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox5ny.com/video/1185566.amp"
 cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/video/1185566.amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,33 +21,28 @@ topics:
   - AI
 
 related:
-  - title: "Travelers have mixed feelings about facial recognition technology at LAS"
-    excerpt: "LAS VEGAS (KTNV) — Harry Reid International Airport is one of 16 airports nationwide testing facial recognition technology at airport security checkpoints. The technology was first rolled out ..."
-    publishedDateTime: 2023-02-21T03:46:00Z
-    webUrl: "https://www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las"
-    ampWebUrl: "https://www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las?_amp=true"
-    cdnAmpWebUrl: "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las?_amp=true"
+  - title: "Facial recognition technology at Madison Square Garden and other venues scrutinized by New York City Council"
+    excerpt: "New York City has laws requiring businesses to inform customers when facial recognition technology is in use, but some lawmakers may want to take it further."
+    publishedDateTime: 2023-02-24T16:50:00Z
+    webUrl: "https://www.cbsnews.com/newyork/news/facial-recognition-technology-at-madison-square-garden-venues-scrutinized-by-new-york-city-council/"
+    ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/facial-recognition-technology-at-madison-square-garden-venues-scrutinized-by-new-york-city-council/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/facial-recognition-technology-at-madison-square-garden-venues-scrutinized-by-new-york-city-council/"
     type: article
     provider:
-      name: KTNV Las Vegas
-      domain: ktnv.com
-    quality: 58
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/717/b9cd621bb5cc43d8b6bdc641d1acdca8/717f5520240044009c25dec6f417f641/poster_c050c08cc5fb4881adf39c95cbc18bc1.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "‘The future of air travel’: Facial recognition might make airports a breeze — at a cost"
-    excerpt: "2:11 Air Canada’s facial recognition tech to take off at YVR but is the public ready to let it fly? A facial recognition technology pilot at a Canadian airport is the first step towards the “f ..."
-    publishedDateTime: 2023-02-23T11:27:00Z
-    webUrl: "https://globalnews.ca/news/9504085/facial-recognition-air-canada-airports/"
-    ampWebUrl: "https://globalnews.ca/news/9504085/facial-recognition-air-canada-airports/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9504085/facial-recognition-air-canada-airports/amp/"
+      name: CBS News
+      domain: cbsnews.com
+    quality: 20
+  - title: "Facial recognition technology at Madison Square Garden and other venues scrutinized at New York City Council hearing"
+    excerpt: "New York City has laws requiring businesses to inform customers when facial recognition technology is in use, but some lawmakers may want to take it further."
+    publishedDateTime: 2023-02-24T21:33:00Z
+    webUrl: "https://www.cbsnews.com/newyork/news/facial-recognition-technology-at-madison-square-garden-venues-scrutinized-by-new-york-city-council-msg/"
+    ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/facial-recognition-technology-at-madison-square-garden-venues-scrutinized-by-new-york-city-council-msg/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/facial-recognition-technology-at-madison-square-garden-venues-scrutinized-by-new-york-city-council-msg/"
     type: article
     provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 46
+      name: CBS News
+      domain: cbsnews.com
+    quality: 16
 
 secured: "JxN92TdzTF4/ZsyjXHWADc0OJeDODaAbbt+GLiLoPa1qFdRpDtDQ0MbSaLNXybArsvK6UR3Ftr1TSh0heeEyHYLO1OumXdf8oBWHEZE3j5zIlZ8OiuZ4chgnD8DuZCzVYWJ1/tlRItF1TmAd4tqj9MOwFwRRpzM5oxMkuqbJQ5P8JfLvFn+cl0chK/W42VllWAlTy0kysGmiglH9oRhhM5Vqz9N4YR/YI0qBFQqRi5zuovx5t6nSKDmcDzTQaqUVe8tLOD7zv08U5wMda1tq53DI/sC4uCX6JSU/c0zyMBNFhFyZDWHMHXMHF/WGSZdLUuUjaOIwYKAA7wI45DbExBC73mlaeaHstGJB7xsfNTmaC4As4VxfK+n6P4jtqrwdgCm7QlCnaj46+PPMmvVNTbMDa/PcxHur5zf6PDcpS/0ZmaoFAXxYo7nuqgOAjZ1YzlFgKA1LbpTKzPjVl9iALV/4jfn6ySptieI1WGcmiuITWxceH2J2iEWTgHiLfhV0LuLG740Q3H82K7xoYz3/4A==;tMnXIllxbajhQhDl6gCvqg=="
 ---

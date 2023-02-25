@@ -49,17 +49,6 @@ related:
         width: 920
         height: 517
         isCached: true
-  - title: "Big Tech Is Rushing To Train AI In Local Languages"
-    excerpt: "Indian mobile and Web consumers speak in 30 languages and around 1,600 dialects. The BBC estimates only 125 million Indians are English speakers; most have regional and local accents. Says Prashanth Kaddi,"
-    publishedDateTime: 2023-02-21T04:55:00Z
-    webUrl: "https://www.rediff.com/news/report/big-tech-is-rushing-to-train-ai-in-local-languages/20230221.htm"
-    ampWebUrl: "https://m.rediff.com/amp/news/report/big-tech-is-rushing-to-train-ai-in-local-languages/20230221.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/big-tech-is-rushing-to-train-ai-in-local-languages/20230221.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 39
 
 secured: "rsqpHbU1f6KfJ6Tq+tGhDzTIxk4j5gBeIqTGu3tOEsJ7NLI0l+VnlovJXtWagpsbsc7aPq1PXTJek1LydGs13nEP58fW4Ussg9gD269OHdX4lwLu4lPupVEmqyebqZKZ455Cpf24lnqnQFbFb0HlBBETVgBb9njIaeuEBltonrCyMHeFaEMIUKlStVzEJwnae24Y+6qX4YzElNhoY+Qv3G6MD/mJNr0kZRPklCmpO6yFlls4qtAL5gYwnHU3f+plC/FijkjXWv2VUQInFDH+xMNWaBYMjMwfGBUgXqBnw/ZkA/kysYF+HTySBuPRLWXVA22ytSkxHu+MlZZAQGPHWCzq6RWAJ1S0a9Lt8Id0ERm19lfoMIviabFjIlNZQMSEulsLIc4mbDeiVZ9zRMDX+XI2Jl2Znawo4UHS8vKtluULPmAmrUMf0dRVm9IdmpEk0AoP7kE+sykKSr2oljh/Vc2onJMjFRa5EW+0lWzhOG/sIV4U8o4KdeV7wyxdyE86gjLwTPExc9WLIpY8vLHR3Q==;3m/+pitwebFnlL6zHbc4lw=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "‘There is no standard’: investigation finds AI algorithms objectify women’s bodies"
-excerpt: "However, “Amazon Rekognition is able to recognize a wide variety of content, but it does not determine the appropriateness of that content,” an Amazon spokesperson said. “The service simply returns labels for items it detects for further evaluation ..."
+excerpt: "AI tools rate photos of women as more sexually suggestive than those of men, especially if nipples, pregnant bellies or exercise is involved"
 publishedDateTime: 2023-02-08T10:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/feb/08/biased-ai-algorithms-racy-women-bodies?ref=everything-in-moderation"
-webUrl: "https://www.theguardian.com/technology/2023/feb/08/biased-ai-algorithms-racy-women-bodies?ref=everything-in-moderation"
+originalUrl: "https://www.theguardian.com/technology/2023/feb/08/biased-ai-algorithms-racy-women-bodies?ref=refind"
+webUrl: "https://www.theguardian.com/technology/2023/feb/08/biased-ai-algorithms-racy-women-bodies?ref=refind"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "WP4RB4dUGZ/ltBP4C7QcWYG+hTMQrc6SUAkmZgShi9mhiiE/lY5Jccck7yjUEBiPp6y1KHZ99x+Qu8AhJcmzMdWHlEO/NR3o56Z0Jd5ORiVhOvZNy0RJE2/yhnVimpnL6XWhPRR/Gp5GRAqKsYnce10Sx0/NYbi2TtrZwMWMDbdzmGEpvM8sL9b47GcKyIt8xzBksfhZLdDTUS784CHaEniOO2qbqKDGloemm+Stb7258DY0OPRunEv06Fiwc1cipqsEm5EwVWRXMeuyKyjK/SB7Iuoyu0x8l+qPAEdHjwZyOonYoepJWulwQt+YF56za5MpH9s4Rn7f8J5QEDKEEuxN67onPp5Woq5FGP4XZzCD7/xW/1jaTycB1bCHb78CBvSrZ58ZJLw89lyQbORQNnVvwpQhiNjMt+zz+eTGjTabY1I8lbwok6TRmW47T4PSbEUMFRxfxE0hK7YzBu54F2oXOtLo5mu6RSlqW/p0Vo+9oDTu9RBR/ODl405CErl9m3socc5K04kyuwLnwzO0zw==;uXoR412i0qy64RnxomRlNw=="
+secured: "yntB68gz+HsAmazKqWOM0ohKMMuXNBVRhUkb8oChtwtc5gUmE3+is9sCXnShyl66t76E01sPC6mtmGokXvuewmY2wSkVXVY2OL+a62c5f1ExIewN65CMtQMGK5NWe6eKAPSzfFhs2Iwk1ppEF02knecabfFVHkPtyg/I5k8jvvR8f1FZlCn7Nke22gMD/fUZW3ihz3U8fOANsRheaOGIGaRBnj9HZyq21XH8F72RXL/3DRN+X+HnO4Jum9CbKaWX0GLOsuJmcArzDN+IdJi32wB34DeWcUoQ5klgRzYm9jERcInVDdL668vLXRqYdcILvtwbTpIYGtNDPB+RsuorxB2re/G9lTFpowAcnH3ZJ38=;1cDIKKC3zm+DDSGKIo8kaw=="
 ---
 

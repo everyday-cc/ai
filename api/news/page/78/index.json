@@ -2,6 +2,101 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-12-17-waymos-driverless-robotaxis-are-now-doing-airport-trips-in-phoenix.md",
+      "title": "Waymo’s driverless robotaxis are now doing airport trips in Phoenix",
+      "excerpt": "Waymo is sending its fully driverless cars to handle some of the trickiest types of passenger pickups you can muster: airport trips. The company announced that customers flying in and out of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/12/16/23511719/waymo-airport-phoenix-sf-av-robotaxi-driverless",
+      "originalUrl": "https://www.theverge.com/2022/12/16/23511719/waymo-airport-phoenix-sf-av-robotaxi-driverless",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/pBsiiPuZSg3mlwU4X6ihrSIAwuc=/0x0:1600x900/1200x628/filters:focal(800x450:801x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/24156883/MoGJOreBI3A3aTUjzk_zoLSFDXMBAuc8_7QgcQUwv1BHTu6t0pvcoqmvdtHC3h5d675UDtu36uG9ToJlT0MJnE4mwCPhSnTClKiT7p_26tFyINvBauqhow4_rvNM8XHbNYnbb35EB4CxL2eGYsEUeb_kJdwzqTex986VFr1aZDrP7Aq_TwMPUo5mIJd_WKQ.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-audi-is-using-artificial-intelligence-to-reinvent-the-wheel.md",
+      "title": "Audi Is Using Artificial Intelligence To Reinvent The Wheel",
+      "excerpt": "sort of. Audi is now using artificial intelligence software that it has developed in-house to design new wheels. AI has long been touted as a solution to solving complex problems, and even the ...",
+      "sourceUrl": null,
+      "webUrl": "https://carbuzz.com/news/audi-is-using-artificial-intelligence-to-reinvent-the-wheel",
+      "originalUrl": "https://carbuzz.com/news/audi-is-using-artificial-intelligence-to-reinvent-the-wheel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cdn.carbuzz.com/share-images/990x660/23000/900/23930.jpg",
+          "width": 990,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https//carbuzz",
+        "domain": "carbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-cognitive-behavioural-therapy-services.md",
       "title": "Cognitive behavioural therapy services",
       "excerpt": "We'd also like to use analytics cookies. These send information about how our site is used to services called Adobe Analytics, Hotjar and Google Analytics. We use this information to improve our site. Let us know if this is OK. We'll use a cookie to save ...",
@@ -1063,111 +1158,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-microsoft-azure-nvidia-make-ai-your-reality.md",
-      "title": "Microsoft Azure, NVidia – Make AI Your Reality",
-      "excerpt": "Artificial Intelligence can transform businesses and customer experiences but many companies struggle with how to build, operationalize and deploy AI-enabled products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/microsoft-nvidia/",
-      "originalUrl": "https://venturebeat.com/microsoft-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/large-language-header.jpg?resize=750%2C388&#038;strip=all",
-          "width": 750,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-encharge-ai-a-chip-startup-born-in-princeton-lab-raises-217-mln.md",
-      "title": "EnCharge AI, a chip startup born in Princeton lab, raises $21.7 mln",
-      "excerpt": "EnCharge AI, a chip startup born at a Princeton University lab, on Wednesday said it raised $21.7 million as it looks to commercialize its computing technology that is designed to run artificial intelligence applications more efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/",
-      "originalUrl": "https://www.reuters.com/technology/encharge-ai-chip-startup-born-princeton-lab-raises-217-mln-2022-12-14/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/9KmWDRJZNcepKm3ZrMb9-KLV0G8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X42T4SWYPZMTXKKXJ36W5F2OGY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

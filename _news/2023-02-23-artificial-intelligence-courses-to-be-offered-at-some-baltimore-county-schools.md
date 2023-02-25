@@ -5,7 +5,12 @@ excerpt: "Artificial intelligence (AI) courses will soon be available to student
 publishedDateTime: 2023-02-23T13:16:00Z
 originalUrl: "https://www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools"
 webUrl: "https://www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools"
+ampWebUrl: "https://www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools/amp"
+cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools/amp"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: WBAL
@@ -15,6 +20,33 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "4EpchY7qtSniI45PRvBYgrBDJLA/pNqF158cW52gSASIPk3a3CcjaHkhWRyAh4UufqwITputAf+xmmWFluTJsdTHvUx45e7oKy8IdA78XsbaKEbeVyR4G3Uv/Z9k8AxvLGxrZiGTxV9rR4Tlyulgp9nZryDgn/U1Cw4h0IfQ7a55HRPXEVQglFWS2bnrhMomhEjPsa3TuyCmLooQOJLd+KjZMx979n16FCYCog1ZRA3l0jICmCpPP3NhcRFU7HHuQ/D9pFnEjB1Z/XVCRc0UhhSGt0uAzGFql0OKg1I146lR8640vRveGrONqzw8eCWV7y1zXtMwLeT9nk1ezB1mJejcNiEXNLB8PkZVkiWw7BEzhnHWUc+NtG5DyRCva5F36XK3Ec9o7eYBVU6R1QGiZv9kpWfEjnThDDHmiBy6kIijHirSzuMWiUEcivy3t19EupJ0N//gPQKteopMehszFgjavSxY0Nk7i/VzI3cq72EpMU2W12Gj2WuefybeQhjQ3L3H3b2D8CZuBBngfy168A==;z4BX+yIy+Lc01ngRYqH/ow=="
+related:
+  - title: "Baltimore County schools to launch artificial intelligence program at 3 schools"
+    excerpt: "Titled \"Computer and Information Sciences Artificial Intelligence,\" the program will be offered at three schools in the district."
+    publishedDateTime: 2023-02-23T13:02:00Z
+    webUrl: "https://www.cbsnews.com/baltimore/news/baltimore-county-schools-to-launch-artificial-intelligence-program-at-3-schools/"
+    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/baltimore-county-schools-to-launch-artificial-intelligence-program-at-3-schools/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/baltimore-county-schools-to-launch-artificial-intelligence-program-at-3-schools/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 33
+  - title: "Artificial intelligence career program approved for some Baltimore County Public Schools for next fall"
+    excerpt: "Starting next fall, some Baltimore County Public Schools students will have the option to partake in an artificial intelligence program as part of the system’s career and technical education ..."
+    publishedDateTime: 2023-02-21T12:34:00Z
+    webUrl: "https://www.baltimoresun.com/education/bs-md-artificial-intelligence-program-bcps-20230221-vljz4bqpabedtg5rjm4bkkvt3u-story.html"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 23
+    images:
+      - url: "https://www.baltimoresun.com/resizer//oX4cPFAY6L52aZAWIgmwWWhuv4A=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/A5APNEZVCVD75DNC6JPU42QWAM.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "r3lUH7U4HBVTZvoFaHk2BteDJ5nMV4Kfl4eovkED2Xkjkw0YhPdb7Swkxcwc52UBP0bfxudyXU8fMKsvXgo2xYbfKyxymg7653Mt+yLcup3vzMn7Nj33fOJ09SnNbLk/fu/DqtUaS0U4Mhiw3VkX+BrXkwHd9/WUQtc994rL3AdWyuZw9nSx0HzCYhjLPGuirSvL8F77eCPEMR1R7Txai7VZXMlhk+raSeiEkUOyRURp1vKP2w7b4KzNCvvIfq5tm8PtrfIs6yX0m8P0teaGEzGRKZO1PrYe6RyBX9imGvz0utXFfQJg6NyGOpYvYTwEWyqtbt8LPBd7QRXW04nR0Szh05M/ajOr16hkzxouzY+Uhn8gZKNW3s9BUgKycVHT+cwjBiDj5n4awC7vLsKCmyJAIt/+QVxZRQs0vhwQmKsBiC2g8CKNiw46lBqsckeYtWDDC6EI2V0oquYYytBgUhvViMezmsX2lEVCmJWWc3MMViIpEt86ergAEqYGx9P/NMz4uQecTfJvcA3qe5RPMg==;wSE0tnXJCtwUCF8c+K+dKg=="
 ---
 

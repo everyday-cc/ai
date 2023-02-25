@@ -20,6 +20,22 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Column: Will self-driving cars make L.A.'s world-famous traffic even worse?"
+    excerpt: "For some reason — no one seems to know just why — the self-driving cars can’t stay away from a random sleepy block in Santa Monica. You can see for yourself: Get a cup of coffee at Primo Passo on 7th and Montana, and take a seat. Before long they ..."
+    publishedDateTime: 2023-02-23T13:00:00Z
+    webUrl: "https://www.latimes.com/business/technology/story/2023-02-23/column-self-driving-cars-might-worsen-l-a-s-traffic-if-they-can-handle-it-themselves"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 22
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7a8a553/2147483647/strip/true/crop/3900x2048+0+5/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd7%2F69%2F5f88d0bf4c88b6d8d46b0f046d57%2F1257451-fi-waymo-self-driving-car-0495-ajs.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "P5yypaDJvNzMFpQGS3Na2VicXvuuAmvHJvhpVUhaWAoJ9SAsRxBM43p9JDOegqb9kWGIeF1g1/1iCjldXj3PBjiu4ShvZVrruPcAMxQv6wkR5/HjAH6Q0mKjPyzRd9/elhYMvFdIlbsvjAw5Hp+osI3cxPU1k69zLb0Juu2wfZbcUMyIcjGaXCnmuQI5Q+QF1wTuthr87adIkHzf8yL7jLPXPejdVtwCJJZdgLmCT60x+8maE36JodBLxQsdlW4RKaurVbUZ6ugdBrv5MmLYbdYxR+ZK2FHvn4oOKXCTxTT15elSrXzKWnSsOak6PeHCefHLWh+z1tl3Q+dmwaNd6ce6LXsRoXhx0B5xQkno8Lm22BDw6L1wj1XSlXrQz9TWwHAfofnOlujPbamaquDOtHlJJhvx1UtlZtOQo2XQFTI9A6vjpU1G1tjtheRtFNylGmryM6sS1sOpZDr6ZHSnDFEq4HA/0q3CckdtgdnX/paASTmSW/qW07NRpUiuq/f7dSFsFIQag3+HALdi5k/XBQ==;qucNHJhOhnAB0TlIHOE5rg=="
 ---
 

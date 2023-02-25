@@ -108,15 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-based Surgical Robots Market Size 2023 : Expected To Deliver Dynamic Progression Until 2026"
-    excerpt: "[107 Pages Report]\"AI-based Surgical Robots Market\" size is projected to reach ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible source for gaining the ..."
-    publishedDateTime: 2023-02-21T05:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-2023-expected-to-deliver-dynamic-progression-until-2026-2023-02-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
   - title: "Artificial Intelligence for Edge Devices Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
     excerpt: "Artificial Intelligence for Edge Devices Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type"
     publishedDateTime: 2023-02-24T02:02:00Z
@@ -145,6 +136,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023 Will Provide Report Analysis that quickly emerging as one of the [IIII] category in the industry, by"
+    publishedDateTime: 2023-02-25T06:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
   - title: "Face Recognition Software Market 2023 Expected to Reach Significant Rate by 2029"
     excerpt: "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Face Recognition"
     publishedDateTime: 2023-02-21T16:21:00Z

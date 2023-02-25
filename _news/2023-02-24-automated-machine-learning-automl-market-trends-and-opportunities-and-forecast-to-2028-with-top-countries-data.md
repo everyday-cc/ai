@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automated-machine-learni
 webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-trends-and-opportunities-and-forecast-to-2028-with-top-countries-data-2023-02-23"
 type: article
 quality: 65
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Insights] Top “Natural Language Processing For Healthcare And Life Sciences Market” Size 2023 Key players Profiled"
+    publishedDateTime: 2023-02-25T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
     excerpt: "Feb 23, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market\" Research Report 2023 Provides a Basic"
     publishedDateTime: 2023-02-23T12:01:00Z
@@ -62,6 +76,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Insights] Top “Artificial Intelligence in Platform as a Service (PaaS) Market” Size 2023 Key players Profiled in"
+    publishedDateTime: 2023-02-25T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
 
 secured: "idwnxe3q6pRBta4PvIynf89kp3VcQmfPsTrUb91biHI7SBf+eE/lYx1XPBM2vP6LO1FKM6Ao/vO9kx/hWuMhHCCc6UfZKUl1JMpfTa4ay/6G8BM+z7FgcO2bYuskSylGbCdy7DInnCrFDq5obbZ0We8Dz9mBtkSUpCRt7NlskJUk9QltKdIETyAXVl0ZrkS9zjra0XsqLNMArGT+lI7FzKgLYllIX+5eK4qvQW9rdqmV4Y3uyq6iwQyGJiWlIXX9ILSvflTSaSvgxuiZYrD49FVkfazJyOilj0aXukDjdUfHjjaWgnFB1V9sCzTpUZ3AhQTQu5v2TMtV0YI3eeJV8xhcntuofc0sWFGTu8aWnU4=;/FLa/4w2in+UbxkLSgO7HA=="
 ---

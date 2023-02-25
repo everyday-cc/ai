@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -39,17 +39,6 @@ related:
         width: 920
         height: 517
         isCached: true
-  - title: "Big Tech Is Rushing To Train AI In Local Languages"
-    excerpt: "Indian mobile and Web consumers speak in 30 languages and around 1,600 dialects. The BBC estimates only 125 million Indians are English speakers; most have regional and local accents. Says Prashanth Kaddi,"
-    publishedDateTime: 2023-02-21T04:55:00Z
-    webUrl: "https://www.rediff.com/news/report/big-tech-is-rushing-to-train-ai-in-local-languages/20230221.htm"
-    ampWebUrl: "https://m.rediff.com/amp/news/report/big-tech-is-rushing-to-train-ai-in-local-languages/20230221.htm"
-    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/big-tech-is-rushing-to-train-ai-in-local-languages/20230221.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 39
   - title: "What Will AI Mean for Fashion?"
     excerpt: "It's not just ChatGPT — artificial intelligence has already infiltrated the industry, from design apps to advertising, and will lead to major structural changes."
     publishedDateTime: 2023-02-24T05:08:00Z

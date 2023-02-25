@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-25T19:36:00Z
 originalUrl: "https://scitechdaily.com/limitless-possibilities-ai-technology-generates-original-proteins-from-scratch/"
 webUrl: "https://scitechdaily.com/limitless-possibilities-ai-technology-generates-original-proteins-from-scratch/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: SciTech Daily

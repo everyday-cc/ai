@@ -2,6 +2,110 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-02-08-mlops-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029.md",
+      "title": "MLOps Market 2023 Exploring New Challenges and Opportunities, Forecast to 2029",
+      "excerpt": "Amazon SageMaker, H2O.ai, Inc., Pachyderm Inc., HPE, SAS) with the best facts and figures, definitions, SWOT and PESTAL analysis, expert opinions and the latest trends around the world. To know How COVID-19 and Russia-Ukraine War Influence Will Impact This ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/mlops-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029-2023-02-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/mlops-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029-2023-02-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T19:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-microsofts-cloud-business-a-key-pillar-of-the-clubs-investment-case-stands-to-gain-from-the-ai-craze.md",
+      "title": "Microsoft's cloud business, a key pillar of the Club's investment case, stands to gain from the AI craze",
+      "excerpt": "Microsoft (MSFT) CEO Satya Nadella said Tuesday that the technology giant's profitable cloud-computing division, Azure, will help it monetize its burgeoning artificial intelligence (AI) capabilities. While we maintain a healthy skepticism around the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/07/microsofts-cloud-business-stands-to-gain-from-the-ai-craze.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/07/microsofts-cloud-business-stands-to-gain-from-the-ai-craze.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107179799-1674054065249-107179799-1673990952874-gettyimages-1244789692-SKOREA_MICROSOFT.jpg?v=1675811778&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T19:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-ai-designed-chips-reach-scale-with-first-100-commercial-tape-outs-using-synopsys-technology.md",
       "title": "AI-designed chips reach scale with first 100 commercial tape-outs using Synopsys technology",
       "excerpt": "Synopsys, Inc. reaches scale for AI-driven chip designs as major semiconductor customers register the first 100 commercial tape-outs with the company's Synopsys DSO.ai (Design Space Optimization AI) autonomous design system. Recent customers, including ...",
@@ -1063,83 +1167,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-artificial-intelligence-in-shopping-how-it-is-changing-the-way-we-shop.md",
-      "title": "Artificial Intelligence in Shopping: How It Is Changing the Way We Shop",
-      "excerpt": "In particular, Artificial Intelligence (AI) has already begun to revolutionize the way we shop. There are shopping websites like  which are powered by AI that can provide personalized recommendations on what to buy and where to shop based on a customer’s preferences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2023/02/artificial-intelligence-in-shopping-how-it-is-changing-the-way-we-shop/",
-      "originalUrl": "https://www.itnewsafrica.com/2023/02/artificial-intelligence-in-shopping-how-it-is-changing-the-way-we-shop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-using-deep-learning-to-detect-depression-from-speech.md",
-      "title": "Using deep learning to detect depression from speech",
-      "excerpt": "Artificial intelligence (AI) tools have achieved promising results on numerous tasks and could soon assist professionals in various settings. In recent years, computer scientists have been exploring the potential of these tools for detecting signs of different physical and psychiatric conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/using-deep-learning-to.jpg",
-          "width": 1142,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-deep-depression-speech.amp",
-      "publishedDateTime": "2023-02-07T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

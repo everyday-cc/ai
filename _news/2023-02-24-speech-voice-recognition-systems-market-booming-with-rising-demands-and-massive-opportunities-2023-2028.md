@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Insights] Top “Natural Language Processing For Healthcare And Life Sciences Market” Size 2023 Key players Profiled"
+    publishedDateTime: 2023-02-25T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
     excerpt: "Feb 23, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market\" Research Report 2023 Provides a Basic"
     publishedDateTime: 2023-02-23T12:01:00Z
@@ -61,6 +75,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Insights] Top “Artificial Intelligence in Platform as a Service (PaaS) Market” Size 2023 Key players Profiled in"
+    publishedDateTime: 2023-02-25T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
 
 secured: "No433bWq0+k2dE2weSYQ2rQie8jLBMhn3wm7hWTZ1+XHTOddu6rlorzLo9Ee1RcD+hhq5A2pDUj0KNB6XNeXeqJ+BRDxcS4X/4QBdes84AkUNX7QtSWX3VdsWst8lcixSE4knNDlZa0DpkQKnDX7nQFRLEfOzPw9t5d1jZWvu7P/ZOn3c9iQ2P3mrG0LPclkt0pSZSU1rmIVFTquSf4r89tGlwmWmi4gNWIiBTWsWrTXi8jxQFpzii5FuTSDVrLleIUJYqSJbv8GJIkvbGPcBYhSm+saYM84AJmsJTezL8LJPk/zW3Lem18qlvIuBz7AMPcLcNUNqIY6lvil1Ef9T0kC0rgFySXo/QHpMeD0tLU=;6D5el8eE4/3wqNT3fXJISQ=="
 ---

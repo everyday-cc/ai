@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-02-13-computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025.md",
+      "title": "Computer Vision Market 2023 | Proven Strategies for Significant Growth in Global Industry till 2025",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 13, 2023 (The Expresswire) -- The Computer Vision Market (2023-2025) Research Updated Report | Market includes the most useful information such as [Hardware, Software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025-2023-02-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025-2023-02-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-13-ibm-and-nasa-partner-to-use-geospatial-data-and-ai-to-measure-the-impact-of-climate-change.md",
       "title": "IBM and NASA Partner to Use Geospatial Data and AI to Measure the Impact of Climate Change",
       "excerpt": "IBM and NASA's Marshall Space Flight Center announced a collaboration to use IBM's artificial intelligence (AI) technology to discover new insights in NASA's massive trove of Earth and geospatial science data. The joint work will apply AI foundation model ...",
@@ -1130,58 +1182,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-generative-ai-may-only-be-a-foreshock-to-ai-singularity.md",
-      "title": "Generative AI may only be a foreshock to AI singularity",
-      "excerpt": "Generative AI, which is based on Large Language Models (LLMs ... Based on this, they estimate that the time needed for a perfect machine language translation will occur by the end of this decade, and at that point, they believe the singularity will ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ai-may-only-be-a-foreshock-to-ai-singularity/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ai-may-only-be-a-foreshock-to-ai-singularity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1195187835.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/generative-ai-may-only-be-a-foreshock-to-ai-singularity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-may-only-be-a-foreshock-to-ai-singularity/amp/",
-      "publishedDateTime": "2023-02-11T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

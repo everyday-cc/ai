@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-02-09-ai-and-robot-innovation-to-boost-shanghais-economic-development.md",
+      "title": "AI and robot innovation to boost Shanghai's economic development",
+      "excerpt": "Employees of Shanghai-based robot firm JAKA are attending a two-week training program, with the company's global expansion plan. A dozen employees from various countries including Russia, Spain and Mexico are attending a two-week cobot operation training program at Shanghai-based JAKA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shine.cn/biz/tech/2302096038/",
+      "originalUrl": "https://www.shine.cn/biz/tech/2302096038/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://obj.shine.cn/files/2023/02/10/2cc07d0b-ccd7-49dd-93a1-dd3090a89ebe_0.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T04:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SHINE",
+        "domain": "shine.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-global-speech-and-voice-recognition-market-to-hit-281-billion-by-2027-growing-at-a-cagr-of-244.md",
       "title": "Global Speech and Voice Recognition Market to Hit $28.1 billion by 2027, Growing At a CAGR of 24.4%",
       "excerpt": "Chicago, Feb. 09, 2023 (GLOBE NEWSWIRE) -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ...",
@@ -536,6 +579,49 @@
       ]
     },
     {
+      "path": "_news/2023-02-09-taking-sleeping-pills-could-have-disastrous-cognitive-side-effects.md",
+      "title": "Taking sleeping pills could have disastrous cognitive side effects",
+      "excerpt": "New research, however, has shown that commonly-prescribed sleep aids could have negative cognitive effects later in life, which could cause some users to stop taking them. Scientists have recently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/health-and-wellness/sleep/article-731037",
+      "originalUrl": "https://www.jpost.com/health-and-wellness/sleep/article-731037",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/526454",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/health-and-wellness/sleep/article-731037/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-and-wellness/sleep/article-731037/amp",
+      "publishedDateTime": "2023-02-09T00:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-cognitive-screening-unevenly-documented-across-post-acute-care-settings-study.md",
       "title": "Cognitive screening unevenly documented across post-acute care settings: study",
       "excerpt": "There is wide variation across post-acute care settings in the documentation of cognitive screening and assessments, a new study has found. The industry could improve care coordination with ...",
@@ -988,84 +1074,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-barista-robot-that-can-make-20-drinks-and-manage-coffee-shops-on-duty-in-south-korea.md",
-      "title": "Barista robot that can make 20 drinks and manage coffee shops on duty in South Korea",
-      "excerpt": "The AI Barista Robot, which uses a robotic arm powered by “advanced artificial intelligence”, can even close your cup lid when serving beverages, according to its creators. Not content with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.standard.co.uk/tech/barista-robot-south-korea-coffee-shops-b1056117.html",
-      "originalUrl": "https://www.standard.co.uk/tech/barista-robot-south-korea-coffee-shops-b1056117.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.standard.co.uk/2023/01/27/12/FnXAng6aUAAxxcY.jpeg?width=1200&width=1200&auto=webp&quality=75",
-          "width": 1200,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standard.co.uk/tech/barista-robot-south-korea-coffee-shops-b1056117.html",
-      "cdnAmpWebUrl": "https://www-standard-co-uk.cdn.ampproject.org/c/s/www.standard.co.uk/tech/barista-robot-south-korea-coffee-shops-b1056117.html",
-      "publishedDateTime": "2023-02-08T17:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "London Evening Standard",
-        "domain": "standard.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare.md",
-      "title": "Report Identifies Ethical Challenges, Risks with the Use of Artificial Intelligence in Healthcare",
-      "excerpt": "A recent report released by World Health Organisation (WHO), has identified the ethical challenges and risks with the use of Artificial Intelligence (AI) in healthcare. The report however gave six ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

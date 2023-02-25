@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-26-the-robot-revolution-arrives-on-mountain-views-castro-street.md",
+      "title": "The robot revolution arrives on Mountain View’s Castro Street",
+      "excerpt": "You can see a working robot in action at the new concept store and robot space opened by software company InOrbit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
+      "originalUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/02/SJM-L-PIZARRO-COL-0226-01-2.jpg?w=1024&h=758",
+          "width": 1024,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
+      "publishedDateTime": "2023-02-25T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-26-why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment.md",
       "title": "Why Nvidia CEO Jensen Huang says this is generative AI’s moment",
       "excerpt": "But Jensen Huang, CEO of Nvidia, said that generative AI is expected to create a significant opportunity that will accelerate later this year. Nvidia’s stock price rose on the opportunity, and Huang noted how generative AI will be front and center at its ...",
@@ -612,7 +655,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 399,
+      "heat": 409,
       "tags": null,
       "images": [
         {
@@ -760,7 +803,7 @@
       "originalUrl": "https://interestingengineering.com/innovation/teslas-new-hq-ai-robotics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1104,49 +1147,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-how-machine-learning-is-revolutionizing-cx-outsourcing.md",
-      "title": "How machine learning is revolutionizing CX outsourcing",
-      "excerpt": "CONTACT centers in the Philippines have long been the driving force behind the exponential growth of the business process outsourcing (BPO) industry, providing superlative customer service to companies around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127",
-      "originalUrl": "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.manilatimes.net/manilatimes/uploads/images/2023/02/24/161618.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp",
-      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp",
-      "publishedDateTime": "2023-02-24T03:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilatimes",
-        "domain": "manilatimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

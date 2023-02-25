@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "Madison Square Garden grilled over facial recognition technology"
+    excerpt: "Madison Square Garden was in the hot seat at a New York City Council meeting Friday as council members posed questions about how the venue uses its facial recognition technology to allegedly ban lawyers involved in lawsuits against them."
+    publishedDateTime: 2023-02-25T01:08:00Z
+    webUrl: "https://www.fox5ny.com/video/1185566"
+    ampWebUrl: "https://www.fox5ny.com/video/1185566.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/video/1185566.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 39
   - title: "Facial recognition technology at Madison Square Garden and other venues scrutinized by New York City Council"
     excerpt: "New York City has laws requiring businesses to inform customers when facial recognition technology is in use, but some lawmakers may want to take it further."
     publishedDateTime: 2023-02-24T16:50:00Z

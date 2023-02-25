@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Insights] Top “Natural Language Processing For Healthcare And Life Sciences Market” Size 2023 Key players Profiled"
+    publishedDateTime: 2023-02-25T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech & Voice Recognition Systems Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
     excerpt: "Feb 23, 2023 (The Expresswire) -- [93 Insights] Top “Speech and Voice Recognition Systems Market” Size 2023 Key players Profiled in the Report are [, Dictation, AbilityNet, Microsoft, Alphabet, Sensory, Iflytek, Raytheon BBN Technologies, Nuance,] most ..."
     publishedDateTime: 2023-02-24T05:07:00Z
@@ -61,6 +75,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Insights] Top “Artificial Intelligence in Platform as a Service (PaaS) Market” Size 2023 Key players Profiled in"
+    publishedDateTime: 2023-02-25T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
 
 secured: "IfSc3UkQyfJtaq2DH/B4Epoa2TlVLTwcpEnmh982dfPNh+RaTLHiVIuvwantmkCtKXmYAt9OmegZ+Q1xop578M+dbvUBr9rGpfJG9rzXcY+dCcMRtX29uGxADi4E915XtmS/TOaxvWVIiok9RU9PuWt8YUJZ9+4iKdMHSQImOHqaczT8IGMu51ucHog7ybM2cYLAcV6GFzUQ1C5pvYI4rfwKdgutmryVyOBy2epO2dwrtW+tSOTPh24BBjbojEOIPibEdOsIpBIUZ4Wjbx8RdNXFe0fwYfVY9HDLr70DshUfpcC3ptyvhkcrd24ngNnPhZznOm5GTVg/fNmBVKJmpQX+nb07LxB/jWJo81Egh34=;sF4W6N/YyR1ZmgJQiPNtyw=="
 ---

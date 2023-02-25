@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-26-the-robot-revolution-arrives-on-mountain-views-castro-street.md",
+      "title": "The robot revolution arrives on Mountain View’s Castro Street",
+      "excerpt": "You can see a working robot in action at the new concept store and robot space opened by software company InOrbit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
+      "originalUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/02/SJM-L-PIZARRO-COL-0226-01-2.jpg?w=1024&h=758",
+          "width": 1024,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
+      "publishedDateTime": "2023-02-25T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-teslas-new-engineering-hq-in-california-will-focus-on-ai-and-robotics.md",
       "title": "Tesla’s new engineering HQ in California will focus on AI and robotics",
       "excerpt": "Tesla recently announced its plans to expand its engineering center in California. Elon Musk, its founder, has now hinted that the upcoming facility will focus mainly on developing its AI capabilities.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://interestingengineering.com/innovation/teslas-new-hq-ai-robotics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1321,49 +1364,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-25-real-life-robots-that-already-exist.md",
-      "title": "25 Real-Life Robots That Already Exist",
-      "excerpt": "Most people think that the goal for roboticists is to create robots with human-level artificial intelligence, says Robin Murphy, PhD, a professor of computer science and engineering at Texas A&M ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/article/real-robots/",
-      "originalUrl": "https://www.rd.com/article/real-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rd.com/wp-content/uploads/2022/09/GettyImages-1356817526-e1663095877427.jpg",
-          "width": 875,
-          "height": 583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
