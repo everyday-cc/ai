@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Computer Vision Market 2023 Shares Mostly Rise Ahead of Key Global inflation report Outlook 2029"
-    excerpt: "AI In Computer Vision Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest"
-    publishedDateTime: 2023-02-20T14:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2023-shares-mostly-rise-ahead-of-key-global-inflation-report-outlook-2029-2023-02-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in Healthcare Market 2023-2028: A Look at the Leading Regions and Players"
     excerpt: "Feb 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The 2023 research report on the"
     publishedDateTime: 2023-02-22T09:55:00Z

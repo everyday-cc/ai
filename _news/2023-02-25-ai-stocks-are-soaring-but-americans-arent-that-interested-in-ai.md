@@ -53,7 +53,7 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 59
+    quality: 63
     images:
       - url: "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill"
         width: 800

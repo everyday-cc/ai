@@ -53,6 +53,20 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 69
+  - title: "Meta heats up Big Tech's AI arms race with new language model"
+    excerpt: "REUTERS/Dado Ruvic/Illustration/File Photo Feb 24 (Reuters) - Meta Platforms Inc (META.O) said on Friday it was releasing to researchers a new large language model, the core software of a new artificial intelligence system, heating up an AI arms race as ..."
+    publishedDateTime: 2023-02-25T00:17:00Z
+    webUrl: "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/fJBJrVyXjYaAylhHFyAuMY-sz8Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SC4LDVC3ZMXJIUUQDZRBHPHU4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Mark Zuckerberg just announced a new AI model 'LLaMA,' designed to help researchers make chatbots less 'toxic'"
     excerpt: "Meta is releasing its generative AI model called \"LLaMA\" to drive research into what it called an \"important ... its CEO Mark Zuckerberg said in a Facebook post on Friday. \"LLMs have shown a lot of promise in generating text, having conversations ..."
     publishedDateTime: 2023-02-24T18:17:00Z
@@ -64,6 +78,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Meta reveals LLaMA language model as AI wars heat up"
+    excerpt: "Meet LLaMA, Meta’s large language model On Facebook’s AI blog, Meta describes LLaMA as a “foundational ... “Even with all the recent advancements in large language models, full research access to them remains limited because of the resources ..."
+    publishedDateTime: 2023-02-24T18:50:00Z
+    webUrl: "https://bgr.com/tech/meta-reveals-llama-language-model-as-ai-wars-heat-up/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/Meta-Sign.jpg?quality=82&strip=all"
+        width: 2584
+        height: 1672
+        isCached: true
 
 secured: "+mO4jUrGYqZPItOnf7SIfTky/sIGgebL4uVeNDclexNoMrx2kWylUQI4Z/4IkF5faPHJ6LbYow8uK75RJ+j3WUHsKZ17cMJOxk+8g0+O+wl9PwpKDNWUNMQ4PQBUI8WucWKN3yjL9mshZ4KXCSMRt4BEpETaWBkVwaV6BRBWdqMutMkqQlD47xSNLzGVNpFuzaxB9JgLrj+aDINuw6zhY83kLJr/3h0T1fk075x1IzRxhtyN3YU2atJyVrR6DvP8GpE5aQKWnL1XBaX95Uk/PcUW8cj2AlP6eIYWhtDuWprgz1cws/FKYXKqrkF37tuImutbajYcXT/85KVDokLKp4+l/rUZk3JbeqpHMgM1mRXZO+ZcJ4Wq9jPiLIRezCfFFpvcaTba8jlfW+xwf1wLXGM51dBa0RNA58C44RuXQ2aotM1UyI9/S/7JFWmszPhPtAj0k4jByPwiwFZFq4Tont49U5vgGxaPjk5JYpxlpv5bhjiTXh+wlLEuGpox3RxZEDevqEnPuCZoHJvCgr8hoA==;mGu/G0h2C8xorIy2y6HNFA=="
 ---

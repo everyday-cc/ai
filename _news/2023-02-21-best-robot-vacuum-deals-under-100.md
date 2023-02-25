@@ -64,20 +64,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 41
-  - title: "Roomba robot vacuum deals start at $189 for Presidents’ Day"
-    excerpt: "Prices start at just $189 for the Roomba 692 robot ... First, the Roomba j7+ with AI and auto-empty is $100 off right now. This is the smartest Roomba that iRobot has ever made, thanks to AI ..."
-    publishedDateTime: 2023-02-20T13:44:00Z
-    webUrl: "https://bgr.com/deals/roomba-robot-vacuum-deals-start-at-189-for-presidents-day/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2022/03/iRobot-Roomba-s9-Plus-1.jpg?quality=82&strip=all"
-        width: 1600
-        height: 1060
-        isCached: true
   - title: "Best Presidents Day 2023 deals: All the top sales to shop today"
     excerpt: "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ..."
     publishedDateTime: 2023-02-20T18:14:00Z

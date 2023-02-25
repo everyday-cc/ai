@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Jasper AI: how to use the ChatGPT alternative now"
+    excerpt: "Jasper AI is a powerful, new alternative to ChatGPT that offers quick, generative text with no waitlist. You probably haven’t heard of Jasper AI, originally known as Jarvis AI, until Marvel challenged the name that conflicted with Iron Man’s AI companion."
+    publishedDateTime: 2023-02-24T20:24:00Z
+    webUrl: "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/02/Jasper-AIs-robot-mascot-stands-on-a-desk-by-a-computer.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Generative AI Like ChatGPT Is Popping Up Everywhere. Your Questions Answered"
     excerpt: "A neural network is a type of machine learning system that can be ... may lie in new ways of collaborating with AI to accentuate what both biological and artificial intelligence do best. Simple, really: Information isn't knowledge. LLMs are kind of ..."
     publishedDateTime: 2023-02-23T20:55:00Z
@@ -50,22 +66,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/02/image0.jpeg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Jasper AI: how to use the ChatGPT alternative now"
-    excerpt: "Jasper AI is a powerful, new alternative to ChatGPT that offers quick, generative text with no waitlist. You probably haven’t heard of Jasper AI, originally known as Jarvis AI, until Marvel challenged the name that conflicted with Iron Man’s AI companion."
-    publishedDateTime: 2023-02-24T20:24:00Z
-    webUrl: "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/02/Jasper-AIs-robot-mascot-stands-on-a-desk-by-a-computer.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
         isCached: true
   - title: "The Implications Of ChatGPT On Cybercrime"
     excerpt: "Researchers at CyberArk demonstrated how ChatGPT can be easily abused to create polymorphic malware that is highly evasive as well as difficult to detect. Every time researchers queried ChatGPT, they received a unique piece of code that could be used to create numerous mutations of the same malware program."
@@ -157,15 +157,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "ChatGPT on your PC? Meta unveils new AI model that can run on a single GPU"
-    excerpt: "Smaller-sized AI models could lead to running ChatGPT-style language assistants ... can reportedly outperform GPT-3 while running on a single GPU. Unlike the data center requirements for GPT-3 derivatives, LLaMA-13B opens the door for ChatGPT-like ..."
-    publishedDateTime: 2023-02-24T20:02:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 62
   - title: "ChatGPT’s Biggest Competition: Here Are The Companies Working On Rival AI Chatbots"
     excerpt: "The roaring success of ChatGPT, an artificial intelligence chatbot created by U.S. non-profit OpenAI, has sparked a frantic rush to get new AI products to market, a frenzy that is consuming tech’s biggest behemoths and countless startups as they fight ..."
     publishedDateTime: 2023-02-23T15:00:00Z
@@ -177,6 +168,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 61
+  - title: "Baidu to implement ChatGPT-like Ernie Bot chatbot from March"
+    excerpt: "Baidu, which is known for its search engine and autonomous driving technology, leads China's efforts to create an equivalent of OpenAI’s ChatGPT chatbot. It said earlier this month that it will ..."
+    publishedDateTime: 2023-02-22T11:51:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/baidu-implement-chatgpt-ernie-bot-chatbot-march-97379433"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/baidu-implement-chatgpt-ernie-bot-chatbot-march-97379433"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/baidu-implement-chatgpt-ernie-bot-chatbot-march-97379433"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_427838070f962108cabed1e553fc3d12_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "It’s AI powered slaughterbots, not ChatGPT, that should worry us"
     excerpt: "ethics has changed. What are killer robots, exactly? In formal parlance they are called Lethal Autonomous Weapons Systems (LAWS). Also known as slaughterbots, they use AI to identify, select, and eliminate targets without human intervention. Conventional ..."
     publishedDateTime: 2023-02-22T09:37:00Z
@@ -225,22 +232,6 @@ related:
         width: 712
         height: 400
         isCached: true
-  - title: "Gary Vaynerchuk compares the rise of AI like ChatGPT to the way the internet revolutionized work: 'AI is coming for our jobs and that's ok'"
-    excerpt: "Vaynerchuk, an early investor in companies like Facebook and Uber ... many workers are finding that they can use AI tools to enhance their productivity at work: it's useful for research, analyzing large amounts of data, and scheduling tasks, for instance."
-    publishedDateTime: 2023-02-24T15:42:00Z
-    webUrl: "https://www.businessinsider.com/gary-vaynerchuk-ai-chatgpt-chatbot-microsoft-google-job-labor-trends-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/gary-vaynerchuk-ai-chatgpt-chatbot-microsoft-google-job-labor-trends-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gary-vaynerchuk-ai-chatgpt-chatbot-microsoft-google-job-labor-trends-2023-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://i.insider.com/63f7fa454ca0e30019ba3f74?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Worried about ChatGPT and artificial intelligence? How Qualcomm is trying to humanize tech"
     excerpt: "For the last five or so years, Qualcomm has bet big on bringing more artificial intelligence to smartphones, laptops, vehicles, smart infrastructure and other devices in the field—or what the company calls the \"connected intelligent edge.\" It's Don ..."
     publishedDateTime: 2023-02-22T19:00:00Z
@@ -284,15 +275,6 @@ related:
       name: Time
       domain: time.com
     quality: 44
-  - title: "Bing's AI chatbot has a question limit that is more of a problem than a solution"
-    excerpt: "After reports of the Bing chatbot's outlandish behavior, Microsoft has decided to limit the interactions users can have with the bot. Th results are quite annoying."
-    publishedDateTime: 2023-02-20T20:07:00Z
-    webUrl: "https://www.zdnet.com/article/bings-ai-chatbot-has-a-question-limit-that-is-more-of-a-problem-than-a-solution/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 42
   - title: "Enterprise hits and misses - Microsoft changes their spin on ChatGPT for search, while enterprise uses for Metaverse and generative AI get real"
     excerpt: "Microsoft changes their positioning on ChatGPT for search. No surprises here - but the pursuit of enterprise use cases is worthwhile. Plus: time to revisit the enterprise Metaverse. Your whiffs include cheating on AI ethics exams - and data backups for Valentine's day."
     publishedDateTime: 2023-02-20T15:34:00Z
@@ -309,56 +291,17 @@ related:
         width: 425
         height: 283
         isCached: true
-  - title: "Rise of AI: Google wrestles OpenAI's ChatGPT in a no holds Bard match"
-    excerpt: "With the release of OpenAI's ChatGPT in November 2022, the development of chatbots using AI has gained prominence in recent years."
-    publishedDateTime: 2023-02-20T14:49:00Z
-    webUrl: "https://interestingengineering.com/innovation/ai-google-openai-chatgpt-bard"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/19/image/jpeg/EQsHtM59KSC1bPtE66DFmZkuQZ7lmOP5IiofajTH.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "ChatGPT Sparks AI 'Gold Rush' in Silicon Valley"
-    excerpt: "Artificial intelligence (AI) has been increasingly present in everyday life for decades, but the November launch of the conversational robot from start-up OpenAI marked a turning point in its perception by the general public and investors. \"Every so often ..."
-    publishedDateTime: 2023-02-20T16:40:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21260367/chatgpt-sparks-ai-gold-rush-in-silicon-valley"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 39
-    images:
-      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2023/02/dreamstime_xxl_107016485.63f3a150b76d3.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Baidu to implement ChatGPT-like Ernie Bot chatbot from March"
-    excerpt: "Baidu Inc., one of China's biggest search and artificial intelligence firms, said Wednesday it plans to implement its artificial"
-    publishedDateTime: 2023-02-21T19:57:00Z
-    webUrl: "https://mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/"
-    ampWebUrl: "https://mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3836411/baidu-to-implement-chatgpt-like-ernie-bot-chatbot-from-march-2/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 39
   - title: "AI for Good develops humanitarian projects using ChatGPT and rivals"
     excerpt: "An NGO called AI For Good is utilizing the immense power of ChatGPT, Bard, Bing, Neeva, and similar programs, to teach"
-    publishedDateTime: 2023-02-23T12:38:00Z
-    webUrl: "https://www.record-eagle.com/ap/national/ai-for-good-develops-humanitarian-projects-using-chatgpt-and-rivals/article_528ff7d9-f9ae-5125-a455-4cfc7f08dcb4.html"
+    publishedDateTime: 2023-02-23T13:38:00Z
+    webUrl: "https://www.starbeacon.com/region/ai-for-good-develops-humanitarian-projects-using-chatgpt-and-rivals/article_7d09d029-8b08-59c9-ae7c-c5cb01bea03a.html"
     type: article
     provider:
-      name: Traverse City Record-Eagle
-      domain: record-eagle.com
+      name: Star Beacon
+      domain: starbeacon.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/record-eagle.com/content/tncms/custom/image/1edfec9c-04b0-11ea-80eb-27e1f67b4a63.jpg?resize=600%2C315"
+      - url: "https://bloximages.chicago2.vip.townnews.com/starbeacon.com/content/tncms/custom/image/760622da-825e-11e5-8595-a7eb0b0092f8.jpg?resize=600%2C315"
         width: 600
         height: 315
         isCached: true
@@ -404,20 +347,28 @@ related:
         width: 1080
         height: 1080
         isCached: true
-  - title: "The Rise of AI in Content Creation and Translation: How ChatGPT and DeepL are Revolutionizing eCommerce"
-    excerpt: "In this article, we will explore about AI revolution in eCommerce and the benefits that businesses can expect to see from adopting these new technologies. This phenomenon has had a particular impact on the eCommerce industry."
-    publishedDateTime: 2023-02-20T16:08:00Z
-    webUrl: "https://www.itnewsafrica.com/2023/02/the-rise-of-ai-in-content-creation-and-translation-how-chatgpt-and-deepl-are-revolutionizing-ecommerce/"
+  - title: "Amazon will offer ChatGPT rival’s tools in cloud products"
+    excerpt: "Amazon Web Services will make Hugging Face’s products, which include a language generation tool that competes with the technology behind OpenAI’s ChatGPT, available to cloud customers who want to use these tools as the building blocks of their own applications."
+    publishedDateTime: 2023-02-22T05:27:00Z
+    webUrl: "https://mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html/amp"
     type: article
     provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 23
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/06/Artificial-Intelligence-AI-2-696x452.jpg"
-        width: 696
-        height: 452
-        isCached: true
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 24
+  - title: "Amazon’s cloud unit partners with Hugging Face, maker of ChatGPT rival"
+    excerpt: "These customers will now be able to access Hugging Face AI tools through Amazon’s SageMaker program. Additionally Hugging Face’s software developers can use Amazon’s cloud computing power and its chips designed for artificial intelligence tasks."
+    publishedDateTime: 2023-02-21T21:54:00Z
+    webUrl: "https://www.seattletimes.com/business/amazons-cloud-unit-partners-with-hugging-face-maker-of-chatgpt-rival/"
+    ampWebUrl: "https://www.seattletimes.com/business/amazons-cloud-unit-partners-with-hugging-face-maker-of-chatgpt-rival/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazons-cloud-unit-partners-with-hugging-face-maker-of-chatgpt-rival/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
   - title: "Nvidia to drive AI business amid ChatGPT hype"
     excerpt: "As the sluggish PC market drags on Nvidia's performance, the fabless chip design company is eyeing the AI hype that is driven by services, especially ChatGPT. Nvidia posted its fiscal fourth-quarter financial results that ended on January 29, 2023."
     publishedDateTime: 2023-02-23T02:45:00Z

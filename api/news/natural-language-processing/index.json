@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2023-02-25-jasper-ai-how-to-use-the-chatgpt-alternative-now.md",
+      "title": "Jasper AI: how to use the ChatGPT alternative now",
+      "excerpt": "Jasper AI is a powerful, new alternative to ChatGPT that offers quick, generative text with no waitlist. You probably haven’t heard of Jasper AI, originally known as Jarvis AI, until Marvel challenged the name that conflicted with Iron Man’s AI companion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/",
+      "originalUrl": "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 409,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/02/Jasper-AIs-robot-mascot-stands-on-a-desk-by-a-computer.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp",
+      "publishedDateTime": "2023-02-24T12:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-mark-zuckerberg-announces-metas-new-large-language-model-as-ai-race-heats-up.md",
       "title": "Mark Zuckerberg announces Meta's new large language model as A.I. race heats up",
       "excerpt": "Large language models underpin applications such as OpenAI's ChatGPT, Microsoft Bing AI, and Google 's unreleased Bard ... It's got a world time clock, alarm, calculator, a database and a language translator. It also has a word processor, a spellchecker ...",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.cnbc.com/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -106,59 +158,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-24-generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered.md",
-      "title": "Generative AI Like ChatGPT Is Popping Up Everywhere. Your Questions Answered",
-      "excerpt": "A neural network is a type of machine learning system that can be ... may lie in new ways of collaborating with AI to accentuate what both biological and artificial intelligence do best. Simple, really: Information isn't knowledge. LLMs are kind of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/",
-      "originalUrl": "https://www.cnet.com/science/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 448,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/",
-      "publishedDateTime": "2023-02-23T12:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-02-23-bings-chat-ai-bot-wants-to-be-your-new-phone-assistant-heres-how-its-doing-it.md",
       "title": "Bing's chat AI bot wants to be your new phone assistant. Here's how it's doing it",
       "excerpt": "The experiences with the AI chatbot have ranged from slightly scary ... or a simplified response. If there is a language barrier, you can also ask Bing to translate its response as it is fluent in over 100 languages. The Bing chatbot -- both on desktop ...",
@@ -167,7 +166,7 @@
       "originalUrl": "https://www.zdnet.com/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": null,
       "content": "\r\n",

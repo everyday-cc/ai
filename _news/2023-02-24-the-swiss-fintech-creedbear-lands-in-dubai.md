@@ -51,6 +51,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 13
+  - title: "TENET FINTECH GROUP INC"
+    excerpt: "Toronto, Ontario--(Newsfile Corp. - February 1, 2023) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative AI service provider and operator of the ..."
+    publishedDateTime: 2023-02-23T00:00:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58202975-tenet-fintech-group-inc-tenet-closes-second-tranche-of-private-placement-of-up-to-cad-dollar-7m-non-secured-convertible-debenture-financing-ahead-of-pendin-296.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
 
 secured: "pYWB4QzZQ6mkEquifLoMPd+jtQ1l4OzRrKqdiD1NOQ8b9RycXjP1+Tjq3nqVDdxqvttyc26keyAhC63wBRGjQoJYzejZwnC0Sw7skZipnQmDiVD4jR6MymEJJNkbT0/Bb98/3og2anDM4i//XIOfpYLmz8r4etKaz2wvZgHHwu6uYDYM40Dxcj3oLqpc1g20MHsgV96HdK+xcSsu+JvElxqkQjvlAO0by+H4GqJG8hKPTxGUgd2NsYPD4A6YWZW8Kxoy0OzBopNvefA/2KJdRoU6JplQyv1L4HKRYR3j4KUNKh9tgRiTtjXr/77uIngHCS8F5Zk+ZjPfRvdAF0wBljluG7TSbT+Ept2ypdz8TiA=;7ct2M7usTekYm9pHPljARg=="
 ---

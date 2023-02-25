@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-24T23:38:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-24"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-24"
 type: article
-quality: 71
+quality: 73
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -254,6 +255,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Artificial Intelligence Chips Market Research Report 2023-2028: Industry Analysis, Size, Growth, And Forecast"
+    excerpt: "The 2023 research report on the global 'artificial intelligence chips market' offers a comprehensive analysis of the market, providing insights into the challenges, drivers, and trends shaping the industry. The report presents a primary overview of the ..."
+    publishedDateTime: 2023-02-25T06:44:00Z
+    webUrl: "https://menafn.com/1105642780/Artificial-Intelligence-Chips-Market-Research-Report-2023-2028-Industry-Analysis-Size-Growth-And-Forecast"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 18
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?30862"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "rAi+VIopzwICNafPQU5ZVrfow6SgBoEj/PetkiFqGtIm5aQi0lZtmu1V02BNR2I79mhy326j36qYhk9Dc6Oo08ry8l4rSBZ2NV0zu1YiiIR6oG1RgmFtmkBcXOcCmi6JqH23hoNnQJ4dxRqzblaNeyAmAFK7fmbl9ebUu1yvdX43oIVAuyRiNDn7711PwdKexdUcL2AQdbqPpiM/28yNg0OH8p1vD5FUOZjKVmru+7YgGjJUBVZw9b+xKDLMaShlM8T2DWzYUB6shzoRm6ACvVculMPIrZHV6CgPQgN1bVqeS19vW4VBj3gETsBO/nqyecmHAScMJGm3BY7td1b9EMAsVPySOAs1e076rsMDDOQ=;7O8c0abUTkizgUG+7WIQgg=="
 ---

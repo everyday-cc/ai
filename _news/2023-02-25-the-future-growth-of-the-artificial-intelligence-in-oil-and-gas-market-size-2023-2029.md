@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "What is the projected market size and growth rate of the Artificial Intelligence (AI) Market? Artificial Intelligence (AI) Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,"
+    publishedDateTime: 2023-02-24T23:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data and AI Ethics Market In 2023 : Volume, Analysis, Future Prediction, Overview and Forecast 2028"
     excerpt: "Feb 23, 2023 (The Expresswire) -- \"Data and AI Ethics Market\" Report provides a Detailed analysis of global market size, regional and country-level"
     publishedDateTime: 2023-02-23T22:31:00Z
@@ -93,20 +107,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 72
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
-    excerpt: "What is the projected market size and growth rate of the Artificial Intelligence (AI) Market? Artificial Intelligence (AI) Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,"
-    publishedDateTime: 2023-02-24T23:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -254,6 +254,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Artificial Intelligence Chips Market Research Report 2023-2028: Industry Analysis, Size, Growth, And Forecast"
+    excerpt: "The 2023 research report on the global 'artificial intelligence chips market' offers a comprehensive analysis of the market, providing insights into the challenges, drivers, and trends shaping the industry. The report presents a primary overview of the ..."
+    publishedDateTime: 2023-02-25T06:44:00Z
+    webUrl: "https://menafn.com/1105642780/Artificial-Intelligence-Chips-Market-Research-Report-2023-2028-Industry-Analysis-Size-Growth-And-Forecast"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 18
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?30862"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "GrJu3hlZtpQfpIjmH8JXJ0HLhioeRdX2/J2gGmQBPNzC15H5puacD1INzo9jMcmRV7+h8tvZFvtlEffmwBV0vjD6Zrzs0cUmnhLMelDp4YGx3QcpxCq/LEPbMwLqIvzOw7VDq4MJDfYmTApqYF2Np9Sjl6xTUWCyQM1p88EJBUoDgQQv3OXKJtdPzwAlnmiqd/gypSinorrYaeErwmVPeyMILyl6SeyZrRtF7ztTQNb/wG2kdBBa+1xLJXRSBjDFOq1MBkc0JreuNs0u6W69BCzIeKGQqXjJABQmMK/Jb7pjOTISHDfrzXru42femH21IEVFO9CF0d06xx1WvGpbJmPiUli2BN9xh7PPDHJk6Oc=;mHsMi7oFdsh5/IGGZObB0Q=="
 ---

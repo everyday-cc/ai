@@ -43,6 +43,15 @@ related:
       name: The Daily Dot
       domain: dailydot.com
     quality: 52
+  - title: "Meta takes on Google and Microsoft with own tool for building AI chatbots"
+    excerpt: "Meta Platforms Inc. introduced a research tool for building artificial intelligence-based chatbots and other products, seeking to create a buzz for its own technology in a field lately focused on internet rivals Google and Microsoft Corp."
+    publishedDateTime: 2023-02-25T06:44:00Z
+    webUrl: "https://mybroadband.co.za/news/software/481591-meta-takes-on-google-and-microsoft-with-own-tool-for-building-ai-chatbots.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 35
 
 secured: "wHsotB3eQoI3YqKW832iS2crMU0he/MrCruOnhdfb8O4gN4L9ap6Fd3gtwb6D65wPkKsIE8V+XRsIvOVcGaRv+i0c43rDuLUt/NLY7WgJg4moATMCwsvXRUH9EwPe22qFOe08NwC7+VVhEWjI1SUItPNXyH8fW8jqiGu0fbalfNwQ2rSJpfs7eC+bRNfk3qCVM0ixTPKUziv2DqhFnACMKmP1M9GKi3/8/0lQZwOyJVgGHtuBPfBr2IOZGDb0sx2RHS2ZVd+i8WCn2f74e91ehFajq6PzxFfzzDLtmUqk3ryOJOKpmDbjYB6nYOdjcLeb1V+0WQWoNaV9MhX2nKlesTWowBcs2ROiCFZxQPpKDhd1/Gj74m7D1kcjiDyEnBm2JQuJIDzHFO9DqJU5nepFk2OzyI0fLqXdggJx5kesOVsCs7ZAo6wUJaMXVYreGZ0kNMgbCree8ON65ULQ2d1FiuSdVk2WYHlOjIgaFsccKwYAGuyyEpfLn8HcIsz5cOyDLOsIzKWIcIKNQ5SO92lNg==;Vzp8EIFm/xs2iUgAbO5hQg=="
 ---

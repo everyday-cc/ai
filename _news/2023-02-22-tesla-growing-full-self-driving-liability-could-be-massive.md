@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla Recall Hits Nearly 363,000 Cars With “Full Self-Driving” Software"
-    excerpt: "Tesla is recalling almost 363,000 vehicles due to concerns about its Full Self-Driving Beta software The National Highway Traffic Safety Administration posted the recall notice on their website last Thursday Tesla will address the recall with an over-the ..."
-    publishedDateTime: 2023-02-20T14:53:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
   - title: "Tesla Employees Are Already Testing Full Self-Driving Beta 11.3"
     excerpt: "Tesla’s prepping to release Full Self-Driving Beta version 11.3 by testing it within its employee pool. The update contains some big changes along with small touches meant to improve the experience of Full Self-Driving. Here’s what to look for when ..."
     publishedDateTime: 2023-02-21T11:20:00Z
@@ -41,15 +30,20 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 39
-  - title: "Self-Driving Cars Are Progress at a Price"
-    excerpt: "Everybody is getting into the autonomous-vehicle business these days. Experts project that self-driving vehicles will account for about 12% of car registrations by 2030 and eventually will make up a large majority. According to the General Services ..."
-    publishedDateTime: 2023-02-21T22:13:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-cars-are-progress-at-a-price-apple-traffic-autonomous-vehicle-tesla-chauffeur-traffic-excuse-a381b9aa"
+  - title: "Letters to the Editor: Should recalled ‘Full Self-Driving’ Teslas be allowed on the road?"
+    excerpt: "and the state of California have been so lenient with Tesla thumbing its nose at safety regulations concerning its so-called Full Self-Driving software. In The Times’ reporting on the recall of ..."
+    publishedDateTime: 2023-02-22T11:04:00Z
+    webUrl: "https://www.latimes.com/opinion/letters-to-the-editor/story/2023-02-22/should-recalled-full-self-driving-teslas-be-allowed-on-the-road"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 34
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 30
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/1cc2d29/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2F95%2Fc4949ad74fd68c0d761d5ae6d1ac%2F1257242-fi-tesla-recall-gxc-0286.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "If ‘self-driving’ Teslas are defective, why are regulators letting them stay on the road?"
     excerpt: "Teslas equipped with Full Self-Driving software were deemed defective enough to warrant a recall because they're prone to crashing. On Friday, all of those defective cars remained on the road, with the unreliable software still available to drivers,"
     publishedDateTime: 2023-02-20T20:06:00Z

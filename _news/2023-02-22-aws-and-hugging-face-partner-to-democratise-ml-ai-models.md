@@ -73,6 +73,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 64
+  - title: "Microsoft Has Lobotomized the AI That Went Rogue"
+    excerpt: "Should We Worry About AI Reaching Singularity ... may need to add a tool so you can more easily refresh the context or start from scratch,” an earlier Microsoft blog post, referenced in Friday ..."
+    publishedDateTime: 2023-02-22T20:12:00Z
+    webUrl: "https://www.popularmechanics.com/technology/robots/a43017405/microsoft-bing-ai-chatbot-problems/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 56
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod/images/face-recognition-analyzing-on-womans-face-over-royalty-free-image-1677093440.jpg?crop=1.00xw:0.755xh;0,0.108xh&resize=1200:*"
+        width: 1200
+        height: 604
+        isCached: true
   - title: "Comviva launches Microsoft Azure-powered communication platform for telcos"
     excerpt: "\"Outlook spam filter is garbage,\" an Outlook user Its cognitive automation ... bring secure communication channels and services to customers,\" added Marianne Roling, Vice President, Global Systems Integrators, Microsoft. With a cloud-based delivery model ..."
     publishedDateTime: 2023-02-22T14:58:00Z

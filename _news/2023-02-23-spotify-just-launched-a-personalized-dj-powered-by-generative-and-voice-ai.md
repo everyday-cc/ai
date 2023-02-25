@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-22T16:12:00Z
 originalUrl: "https://www.musicbusinessworldwide.com/spotify-just-launched-a-personalized-dj-powered-by-generative-and-voice-ai/"
 webUrl: "https://www.musicbusinessworldwide.com/spotify-just-launched-a-personalized-dj-powered-by-generative-and-voice-ai/"
 type: article
-quality: 16
-heat: 16
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "kMxbUTWmuPAxdhaEE2F28Cv3mVaUufWQ+VHDHRLQZbhaTN7SOV1N4HMbMCKyVBzAzqnPZ3jeetbi0B7lUgXFb/rYKRRvDm1WViZpmqk7rsm4dsex0VlFrqiGys9d2+Xvz53/mvRgG2w1ZpRufmwDEj//YUhmgqXf1mcsnt8R6fPEYNc64DXmAYxrBFKttXOoZOPKvTfAtad2u7vkfUzkW2mgi65KMJIyNoPQW8YwwNXdrLSxbkx3AoeYKK8TUTG5HipRlGNmumVMOhZYpDxd9h/sxQhTORP2lm40K8+UyblSs5Frfq+Jtjf2fMOUgDf+xxp3+4inlU9c974uBvcTiIdgSGdiF/C3dhYVmM1gAeA=;r9Cqhftky2YWEvrBgLoBmA=="
+images:
+  - url: "https://www.musicbusinessworldwide.com/files/2023/02/FTR-Header-DJ-1-1-1440x733-1-e1677084230880.jpg"
+    width: 1306
+    height: 733
+    isCached: true
+
+secured: "IZftJYIHk/DX35esPnrZEJkkv3zKu7kUmkjRaoYFs+zVr726miuQZ1y8gw9nKrUAtQqRk5H4zgnjVZXZIX58wvT9wcn4Nk20n7s+l6kt3HyXp3cyuGMWRTT+eCaH2UqsUYmeBacLdxWsEtvAfPlmi4wUJXGddxvyzCN4RZvW15Uz7Suor9/KIGqokJnOLsFw4y4qM4DqxzZ2IbUTevR7oPnAXYt6LZ/ctniQElbqAUrtydH2nfi1aOWnCjWx19Q/TOZ8J5zZbJW88WHhlGRVhXmZs10AU8HVYe3qOaByVhQmVGWEtKMcrA9XR4tQJ781To67wl69vkp0tJW+b/615sxpxZk1vJif+sYA52VVv9I=;rxLLDv6BM/G1m+eb75JL+w=="
 ---
 

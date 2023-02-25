@@ -8,9 +8,9 @@ webUrl: "https://techcrunch.com/2023/02/22/baidu-chatgpt/"
 ampWebUrl: "https://techcrunch.com/2023/02/22/baidu-chatgpt/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/22/baidu-chatgpt/amp/"
 type: article
-quality: 65
-heat: 65
-published: false
+quality: 87
+heat: 97
+published: true
 
 provider:
   name: TechCrunch
@@ -23,7 +23,30 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Autos
 
-secured: "V7r7G7Hi415anEvVSEdSgcKx1CcpOWpylMmZdGlmEoSPumE/a4HARSG3RuIEPi2X/CFfENQGakj4UMS8nKJ20ksEyl0tOJEXvQTwldu43+TI+7IzM+g2utxfd8Nl5Jz0BeuZKj/S7xXOJ5/c3mQSNYJjpScELl6DwzulUKofZ7NKPzpRj7Kn2V+W9kopRt3LoiiiFmNUZ/wpZeZD4FzS17gAxu69wh6r8HUEPRQ5OU/cJ6vm00DepEJkxsKnOzD2kptF/wPCGVpBPUFODHMr+rXddD+90cDeUn9U9JMibWBFVTyK0JoSByT9GqEPClioVW9li1smDGlc1JgZTH8eDHs4KYdB5bKGRTJpCNacCw9yzmplSUym0jT0ovM7A1L/JIa/K2xI0n3mvLM1Yi1cJk7I4H3FJynGtrEVQ3JxLBqQcw1Vrs4b4WQdE+W1p5dHrf3ULbK6/WQzkR6OiI3QzgDzbL8tGe8h9y6KhGxt2qHnNMij+6B6WoTxiFovlEP0bpSZ0p2SKHPRO+JIJAitWg==;9QNzN1ewO5bZPiALc9HPUw=="
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1061811420.jpg?resize=1200,800"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Baidu to 'fully integrate' conversational AI chatbot across all of its operations: CEO"
+    excerpt: "Coming on back of a strong fourth-quarter that topped Wall Street expectations, Baidu (NASDAQ:BIDU) also said it would \"fully integrate\" its conversational artificial intelligence chatbot across ..."
+    publishedDateTime: 2023-02-22T13:08:00Z
+    webUrl: "https://seekingalpha.com/news/3938980-baidu-fully-integrate-conversational-ai-chatbot-ceo"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 31
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458699011/image_458699011.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
+
+secured: "g/0c2GcvKzuokL8biPCJ0ttsSV2ECHIBA0OVvC4h84xz8K1AnemaM2QOLVKaYSgMXL+TIYLbSECQ0lReLam2fG0gTukaqiCxCL/IcC/EZKuPu4JCarGP2tzD5VjQn4s3w2tYa/YO8u1At8tHqo3zU6NthQ5mliSiMQS6krjIg+20JvuOskbNTdyqVRab7sjVCTxrLIoXuTz+bWNz4qYktgzN/wyyYlwoziDDNAHSuOYQXArUQo8YlvB/w8VOiNNXFR8XVBbkzunhXC2vrN7VuKUzBZquOnIpsD8bS7eBZEEQCnjAS8GR+KjCQ/7+kV4quD5II67qcAdjfI4mXcca5XQ5eE/Ck90oJgnQvs732mQ=;PJa0mth4HHw1YS1Pkdi8ow=="
 ---
 

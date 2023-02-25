@@ -79,6 +79,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 64
+  - title: "Microsoft Has Lobotomized the AI That Went Rogue"
+    excerpt: "Should We Worry About AI Reaching Singularity ... may need to add a tool so you can more easily refresh the context or start from scratch,” an earlier Microsoft blog post, referenced in Friday ..."
+    publishedDateTime: 2023-02-22T20:12:00Z
+    webUrl: "https://www.popularmechanics.com/technology/robots/a43017405/microsoft-bing-ai-chatbot-problems/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 56
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod/images/face-recognition-analyzing-on-womans-face-over-royalty-free-image-1677093440.jpg?crop=1.00xw:0.755xh;0,0.108xh&resize=1200:*"
+        width: 1200
+        height: 604
+        isCached: true
   - title: "How to Power Intelligent Enterprises with SAP on Microsoft Cloud"
     excerpt: "Microsoft’s Dara Ibrahim, Co-op UK’s Simon Fullalove, and TCS’ Chandrashekar Saligram explore how Microsoft, TCS, and SAP collaborate to power future-ready enterprises."
     publishedDateTime: 2023-02-23T23:19:00Z

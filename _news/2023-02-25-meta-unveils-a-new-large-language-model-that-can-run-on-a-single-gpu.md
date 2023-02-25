@@ -41,6 +41,20 @@ related:
         width: 5353
         height: 4124
         isCached: true
+  - title: "Meta heats up Big Tech's AI arms race with new language model"
+    excerpt: "REUTERS/Dado Ruvic/Illustration/File Photo Feb 24 (Reuters) - Meta Platforms Inc (META.O) said on Friday it was releasing to researchers a new large language model, the core software of a new artificial intelligence system, heating up an AI arms race as ..."
+    publishedDateTime: 2023-02-25T00:17:00Z
+    webUrl: "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/fJBJrVyXjYaAylhHFyAuMY-sz8Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SC4LDVC3ZMXJIUUQDZRBHPHU4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Meta announces new AI language model"
     excerpt: "Feb. 24 (UPI) --Meta CEO Mark Zuckerberg announced Friday that the company was releasing a new AI language generator named LLaMA. The new language model is a research tool that is intended to help scientists and engineers explore applications for AI like ..."
     publishedDateTime: 2023-02-24T19:14:00Z
@@ -68,6 +82,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Meta reveals LLaMA language model as AI wars heat up"
+    excerpt: "Meet LLaMA, Meta’s large language model On Facebook’s AI blog, Meta describes LLaMA as a “foundational ... “Even with all the recent advancements in large language models, full research access to them remains limited because of the resources ..."
+    publishedDateTime: 2023-02-24T18:50:00Z
+    webUrl: "https://bgr.com/tech/meta-reveals-llama-language-model-as-ai-wars-heat-up/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/02/Meta-Sign.jpg?quality=82&strip=all"
+        width: 2584
+        height: 1672
+        isCached: true
 
 secured: "zdDbXQb95H7nHpV8bEmNYv6C3AxN9Ku0RdzgC5HyfXAc3AJLCaqcqJen0MjzRmM4C18DYKPJLHsenTofWtNCKHYScL6s/i6dlIe6DnZ1BXV5CF1svy+1hS8vEis+xepshkIxEqAo1yGkfyL4U4yxndmML40VOMLZ3yJCAv/BERqaksM60GHSMm7TDx1In771kjlHsYQICp3V2kXQ988No65sykCl1SbtS8VkYq4nCtqdp2gFznp0M6tig+cJMl7QDjDzgUGjDY7E+Q5GvQRH2BUBIYmrNVlJaDcFt8foIOn673FBmi0aqvNk2RTxOJ8yEh28n5yL0/uQBH3OwEgNDjlaIk2tNcFiEeOezOGT+kRuEl9vPRw86rjREmHTVFXoIm29+osu1lXfFD22BLi5qfnudsaXnmD9ar5ihG7hHn6p7arvU5yh/8iKTOqvEtEYwtYx3l6BNKsVSOucWUq7XdOm1+wwjKgqR85p1Zcy2R3Ezw81KpSPYu1ViHPNELW32fZV6JSRhT92cA5JR3lICQ==;aS5Q4fxYJyjg+Um9for1MQ=="
 ---

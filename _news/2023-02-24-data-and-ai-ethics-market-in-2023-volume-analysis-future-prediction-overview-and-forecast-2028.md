@@ -94,7 +94,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -256,6 +256,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Artificial Intelligence Chips Market Research Report 2023-2028: Industry Analysis, Size, Growth, And Forecast"
+    excerpt: "The 2023 research report on the global 'artificial intelligence chips market' offers a comprehensive analysis of the market, providing insights into the challenges, drivers, and trends shaping the industry. The report presents a primary overview of the ..."
+    publishedDateTime: 2023-02-25T06:44:00Z
+    webUrl: "https://menafn.com/1105642780/Artificial-Intelligence-Chips-Market-Research-Report-2023-2028-Industry-Analysis-Size-Growth-And-Forecast"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 18
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?30862"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "sjNvfCe/IfgR+Qe+iHBv/UBmrLxPCC4hvl4PAziti2ft4FRqhjAQD6YdcrYcN2RN0+xd4yOP6FIZ+cbeYLJyIPXnbPXUqWm7uobejoypb6e8wwEbPoS2r4tK0zhLGbyyOHNFm810gP/9rz+q4E+SPlg5lSwtIYc2V3YK9B5EoMp0eeksmen5uRpFRIQMh6fzttzoIuF+pwHVfd00ZfjBaObXKeBIxu6oRLC+SivYJbavjBXy9cRRMK2Wx3XmsgxzofP6ZT++fUG2L70yGHMgrw7Jbn7UvzYcRAm+bE6MIs0izB+IOCPI9QhH/nPduJKNNPHvHmvlmRYm+4aQpwTlIQk5SVmww1Rs8/UqMQ5kR1E=;9i48ofJWUbHCn52GKuDFRg=="
 ---

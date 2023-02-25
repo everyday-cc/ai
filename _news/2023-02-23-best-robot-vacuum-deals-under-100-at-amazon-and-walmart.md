@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Roomba robot vacuum deals start at $189 for Presidents’ Day"
-    excerpt: "Prices start at just $189 for the Roomba 692 robot ... First, the Roomba j7+ with AI and auto-empty is $100 off right now. This is the smartest Roomba that iRobot has ever made, thanks to AI ..."
-    publishedDateTime: 2023-02-20T13:44:00Z
-    webUrl: "https://bgr.com/deals/roomba-robot-vacuum-deals-start-at-189-for-presidents-day/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2022/03/iRobot-Roomba-s9-Plus-1.jpg?quality=82&strip=all"
-        width: 1600
-        height: 1060
-        isCached: true
   - title: "Best robot vacuum deals under $100"
     excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
     publishedDateTime: 2023-02-21T15:24:00Z

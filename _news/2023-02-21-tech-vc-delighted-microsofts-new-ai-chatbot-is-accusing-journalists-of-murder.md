@@ -40,6 +40,15 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 60
+  - title: "Meta takes on Google and Microsoft with own tool for building AI chatbots"
+    excerpt: "Meta Platforms Inc. introduced a research tool for building artificial intelligence-based chatbots and other products, seeking to create a buzz for its own technology in a field lately focused on internet rivals Google and Microsoft Corp."
+    publishedDateTime: 2023-02-25T06:44:00Z
+    webUrl: "https://mybroadband.co.za/news/software/481591-meta-takes-on-google-and-microsoft-with-own-tool-for-building-ai-chatbots.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 35
 
 secured: "Grrjgkns8JESivWJUL1RigZTFXIQTvTtkzL2YJy4nlbO968PecyfEjbVGgj4nn+AF0zrM3DwuF5eDYkyL8u6LK/qjBAux0tkemZ9003XRtgVRYVnHG6z7j9s9ZJm1VHGFYYhY1e7oRwJ7sSmOf5To0/wvaumDAl/aEk5/A5jhw/IwE37cM2S4TgsWRTGys9V6928IJk5hP6wSCE6m1OIk3lSkmTBQdsVnFf/sYdfZ3QOS4On0set1f8BAhY2RIluuCo18MlC8VeAxf91nA8j3D1A4ieLT3DMCMkQ0Uhh+RbhC9Wr4lmklrAmFmytWbJTr5oL61X8221Qp5FHTlUiIPaG7HCFemSBY3Mvzd410Et8Rj6UCAKB8iLfi3z6CVj4X95k/wImDnhI3XyCMfqsxebK5DuhqLaIL3iq7jbjomkI6ne7YFsQty9FwHKb3194adWflVt30FxOk+m8JRDN/klE8kbyLFFfr5ZszHTRWeWpKEEk4lFaIt4DmGfvoOwO6Na+9PFwmDUO8fJMH4OPuw==;nPPS5Hxh727V4i9G4f5B1w=="
 ---

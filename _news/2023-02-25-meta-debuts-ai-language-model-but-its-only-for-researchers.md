@@ -3,10 +3,10 @@ category: news
 title: "Meta Debuts AI Language Model, But It's Only for Researchers"
 excerpt: "Facebook parent company Meta's LLaMA program can outperform larger AI models including OpenAI's older GPT 3 model, according to the company."
 publishedDateTime: 2023-02-24T19:18:00Z
-originalUrl: "https://uk.pcmag.com/news/145631/meta-debuts-ai-language-model-but-its-only-for-researchers"
-webUrl: "https://uk.pcmag.com/news/145631/meta-debuts-ai-language-model-but-its-only-for-researchers"
+originalUrl: "https://www.pcmag.com/news/meta-debuts-ai-language-model-but-its-only-for-researchers"
+webUrl: "https://www.pcmag.com/news/meta-debuts-ai-language-model-but-its-only-for-researchers"
 type: article
-quality: 49
+quality: 67
 heat: -1
 published: false
 
@@ -19,8 +19,13 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
   - AI
+
+images:
+  - url: "https://i.pcmag.com/imagery/articles/05MarzpBaDYapcunQMQdCUP-1.fit_lim.size_1200x630.v1677260670.jpg"
+    width: 1120
+    height: 630
+    isCached: true
 
 related:
   - title: "Meta to launch AI language model LLaMA"
@@ -63,6 +68,20 @@ related:
       - url: "https://www.theglobeandmail.com/resizer/KGgaDR08TZoIPFDei6s23OACj4s=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/UX5OD222YNLBXF3BKPZUQ7GPXQ.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Meta introduces its own AI tool, LLaMA"
+    excerpt: "Meta said \"there is still more research that needs to be done to address the risks of bias, toxic comments, .. \""
+    publishedDateTime: 2023-02-25T06:29:00Z
+    webUrl: "https://techstory.in/meta-introduces-its-own-ai-tool-llama/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/02/94d394304d1c47ab042f3c061e2a2150.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Meta releases LLaMA to democratize access to large language AI models"
     excerpt: "Meta Platforms Inc.’s Facebook AI Applied Research group today is publicly releasing a new foundational large language model, known as Large Language Model Meta AI or LLaMA, to help the scientific community advance its research into a subset of ..."
@@ -119,6 +138,6 @@ related:
       domain: iblnews.org
     quality: 1
 
-secured: "iaQkSyOZllPUKNk2nE5VmgO+FbNvjbU7+ngUMiCbQU0HpbCZSQIx3JeckVCQIfGiAVg7mPUElG6NwmrwEjqhRdZtnTM+CRW+R63F2hD91v6+fXSCCjiVt+kzYZg1HbeTfD/vQl4VvTkaqRcrmBCjqpiEJrRqyK9vz9jKloOJhoMK03xJR8LKi8YM2+13nQ6zjj9JZmPteJjRMfMKVPa+QUKe4r8W5Z4p/wupFtz+cy3OiYbxIbEp+AgwFOLWyf+C10RPR6EfkYUdBvjuikQIpXMhgLdwzXqF3EbAlmZ651yA4PNmRTjjTFJOTMsERI8LkXheNscXiKXFhFQwRbWwZnevIMLndw3RQANKvJiZXcSrh3Gs/6V8LhizN2S3ENNhxlpvpF7Fq7aB0Eh1G3cmAJ0C26XyiLOCdRytHQr60t1p8nynd+ZliB1hlJUs12mtNzSaM5LfXA52vRTtraIMcytyP+cSXqZxvC4ZZ0/smdB+0tOKOK9H8mL+yTTCp0na3A/SP8QAIhJ1IeY/2nCbYg==;0hsRSRenj3lRgTpupyHZLg=="
+secured: "Vs0C2vEegbWFFxJKlfYexxmTPW8XI27uRb4OrUP06an16iL6xVQumz0TZckEpohve+cuNzHKMluFTAiiGHSzo6fYDc4WGi230pxSJyOEb0+8CJBM+OdNMKitSLDgns4jJOf+qekNzGrw06D1UQgNmO53mDoU8qTcxGILAYpcaJafLanaPeTWTN9kcK+DIFBNDBbieZOEeASMN5JxZfVXoOskpFxJ7oOkhV37YtG0UO0k6bY5A9K12YesEO1UuFfD/cMdimHi0pqY4AXkWnilMvVzNyp7PoZAstgrqJg1frgYSQtqAWVz5v8noKaF6y7h9gghFXqXEO1t0n1ddE4b/f9Z/NstkH8Oxomfqc6OrlI=;Vil3k9lRG2xpJ+C010rf7g=="
 ---
 

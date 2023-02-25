@@ -51,6 +51,15 @@ related:
       name: news.crunchbase
       domain: crunchbase.com
     quality: 17
+  - title: "TENET FINTECH GROUP INC"
+    excerpt: "Toronto, Ontario--(Newsfile Corp. - February 1, 2023) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative AI service provider and operator of the ..."
+    publishedDateTime: 2023-02-23T00:00:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58202975-tenet-fintech-group-inc-tenet-closes-second-tranche-of-private-placement-of-up-to-cad-dollar-7m-non-secured-convertible-debenture-financing-ahead-of-pendin-296.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
 
 secured: "0NcscgRZh9MUnKQaCJftXMrO6sYdbxiNLTgEcXNJwB4FPoGZjRKksNsIU2FNF/djN0UBjf7avbDQjRsonW4c6WLUAISDv26zuKZdMf0jGE+e3s8IjvgwAkbTxW2XytBU5BGCvHtxaAPgA9uRSytLLQ8X362lNLzslUQoayvptrub4Fmw1vmZImYzafOSZS3Ejkt4ixGIl0/IEj8oYoLzTfI4KFXjAVktzGo7I64MXOik6GjAmrghvn5r0qsLBrN82Wm2qTQGtIuZ7ipDETWFrzcAgUASqO6c3w4Ic5oWLNFIy24qMXnFKkoRV8lP9Z5nZ5ODyWcOw64lpFlMgPadyjAGeiafod/XPvXoKoj4pKmiOHwDCZbkBuT2RbHx5rz00jP/hic/zDeUWoGb968McrQ9pZS2A0ah9Wb8b8uk6Eq/pE6e2nb+XuNQcw8ZCkDR891oKSiuCxG05XYxDl6SRRCRpuEzAJSz3IG1GobytfwowHHg7fxCNCIescHF8brq2ptC+IxeXgFfqQTgzxrM7Q==;S2lyES4bWiFBOi26BQD0QQ=="
 ---

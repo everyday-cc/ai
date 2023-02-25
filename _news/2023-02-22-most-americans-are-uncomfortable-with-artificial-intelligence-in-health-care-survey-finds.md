@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-22T15:00:00Z
 originalUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
 webUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
 type: article
-quality: 59
+quality: 63
 heat: -1
 published: false
 
@@ -21,6 +21,8 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill"
@@ -131,6 +133,6 @@ related:
       domain: pewresearch.org
     quality: 3
 
-secured: "TAPCskPMmtJO9uEaB7w0pz7C0za4S7JN1lPxsppc3fFDYFY0ZVvrjFxmqFHpj0kpmkr/PoZGfuHIWaO6QHhYFrvlAsnsEamMRmIVPIIkwWkSGfrFO2AswKaynWIRSqBx86BF9A5UGyTAa20vnOSznS/fzO3XkuB90w9y+5FZrmSsPzD8gsSSsQDn15kA7iaXfsmkeDqJ6NKkxA0jMSwxMvfBw5UEJCExjM4F11nuEfWwkR/qQCw45lvTSipVRVG15v2ZpaMVHVNGTezUv/lzQyikfVe8EMALSaLQO993ll7eOffJ2GqVCVu8RmzzCkkemD0BfRaLsfNSKPgwxhsP0jkGBDfljs2MQxsrNadhgDk=;tKlXhsuIIV+KXi6ayRzeLA=="
+secured: "LSEic8D5ilzITq3gVHAmBAWH6CevlghLN55d0t4RII6uEAZF3amxG7nRCPUf4YMHgWg8z1MxnOXR1BMdc9WsZS7IyFroo4ohh63ZklkV8iElli4ASX1VaBssMb1NA/11EbMg/L7xHhQZM32h65SAUVDgY/rj5kkYwyqFMc7avY62UiJjL9GsP/SpbCo/FHgf+AXulo1+KsUdRWRXYwQAOmmkJR2glgCXzEuHxHl5DXO0RX6Gl16n3fCm/dwpGvZroq9h5nju3pFtfr1gnjqVELXvHqCDbSGWt63vfr6WVwgPAdd0rw9x9opKjpEg19wL0CBd5jNlndrB8XAMYFeg9qc11ttAseszEdLHu/XAdBTz8dap3c/1haOA22mMHSkQXcvp0F4HRo5L97crr3jbtnzb/1m3xFZOyzSZsqE97JLnrjxVUxgmSatKdtO0GwVuHr6A/+9A7tm9EvcZts4Im0ksICi7yoRGyF/9QYQxirFvRieTNav7xzRt28HRP8quPNbs3UvybyTnGA1JW71MYQ==;xLKxs8Tt/mpjGtZj7aT2xw=="
 ---
 
