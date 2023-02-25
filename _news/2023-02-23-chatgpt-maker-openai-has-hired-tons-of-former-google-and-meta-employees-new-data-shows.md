@@ -34,6 +34,22 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 62
+  - title: "Facebook-owner Meta unveils more cautious approach to ChatGPT frenzy"
+    excerpt: "Meta described its own AI, called LLaMA, as a \"smaller, more performant\" model designed to \"help researchers advance their"
+    publishedDateTime: 2023-02-25T12:00:00Z
+    webUrl: "https://www.newindianexpress.com/business/2023/feb/25/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy-2550910.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2023/feb/25/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy-2550910.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/feb/25/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy-2550910.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 44
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/12/w600X390/AI.jpg"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "ZxIuVGFd3B7mOxlqV0ompwrR+ADGNNkm/TlGiRad+z75WiL3ag0SqSNT4Oasf4uBXdiOo36OTugbqBrr0hmPvpoQNuMHy+kNKiAM1tfHfcsD0e1CFXvv/4xgwpFZ2fiJND0pCg4OkaxkMfEEGaem3btZBCY9GpUFTxhVln5OiurInFfU87T5ZzM+zDT4oGBljB/FrUmrDROYZuC3Ez9pvbVH5umSddJ8AJLqr3p1mq4a7KuG9FlihaKcwDQzBaWVYN5xG7XjsAd7pr72BFakoHcuMA7S+c7/7qRMmSCJe56K/bSGyw8/eto8fsqSdPhfZKg7chPObMbxy+gzxVwtwIcpD2AZdMBcYt28zMB0ZBi7eE7oru3KMDbVoxTexYGSCYhdPI+3WCeWirJpm+kDECygKUxLI8BXXH3/9GITTTLhjjY1rRtXPeyo0PaUE9RTMrrVREH7ki1Xf38pmQ41Fhgrt+3ywRBJh4D+HChXD8fuCNK2tUBuWCaaxeXVIjsdJrNck1QB1KuvneRbnc4HQw==;UaXj1/Jd7Qc+2MpDvG7IqQ=="
 ---

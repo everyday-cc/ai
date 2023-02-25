@@ -48,29 +48,6 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 46
-  - title: "Controversial facial recognition technology debate to be held at City Hall today"
-    excerpt: "The debate over the use of facial recognition technology in New York City business is heading to City Hall Friday morning. Council members will be discussing how privately owned businesses are using facial recognition technology in a public oversight hearing later this morning at City Hall."
-    publishedDateTime: 2023-02-24T11:41:00Z
-    webUrl: "https://bronx.news12.com/controversial-facial-recognition-technology-debate-to-be-held-at-city-hall-today"
-    type: article
-    provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 34
-    images:
-      - url: "https://images.ctfassets.net/3kqcuzntcg31/9eScdW2fxNpEMJ8vkN2yZ/81c593369b8523cd66bdb1105e4e7ddf/91489cb7-4860-4f8f-9e68-237c81a0f68a.jpg?fit=thumb&w=600&h=340"
-        width: 600
-        height: 340
-        isCached: true
-  - title: "New York City Council holds hearing on facial recognition technology"
-    excerpt: "New York City Council holds hearing on facial recognition technology Facial recognition technology was the controversial topic at a New York City Council hearing Friday. As CBS2's Doug Williams reports, there was one noticeable absence."
-    publishedDateTime: 2023-02-24T22:24:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/new-york-city-council-holds-hearing-on-facial-recognition-technology/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 19
 
 secured: "JxN92TdzTF4/ZsyjXHWADc0OJeDODaAbbt+GLiLoPa1qFdRpDtDQ0MbSaLNXybArsvK6UR3Ftr1TSh0heeEyHYLO1OumXdf8oBWHEZE3j5zIlZ8OiuZ4chgnD8DuZCzVYWJ1/tlRItF1TmAd4tqj9MOwFwRRpzM5oxMkuqbJQ5P8JfLvFn+cl0chK/W42VllWAlTy0kysGmiglH9oRhhM5Vqz9N4YR/YI0qBFQqRi5zuovx5t6nSKDmcDzTQaqUVe8tLOD7zv08U5wMda1tq53DI/sC4uCX6JSU/c0zyMBNFhFyZDWHMHXMHF/WGSZdLUuUjaOIwYKAA7wI45DbExBC73mlaeaHstGJB7xsfNTmaC4As4VxfK+n6P4jtqrwdgCm7QlCnaj46+PPMmvVNTbMDa/PcxHur5zf6PDcpS/0ZmaoFAXxYo7nuqgOAjZ1YzlFgKA1LbpTKzPjVl9iALV/4jfn6ySptieI1WGcmiuITWxceH2J2iEWTgHiLfhV0LuLG740Q3H82K7xoYz3/4A==;tMnXIllxbajhQhDl6gCvqg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-02-power-ai-open-source-tool-animal.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-power-ai-open-source-tool-animal.amp"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 720
     height: 720
     isCached: true
+
+related:
+  - title: "Agency harnesses power of artificial intelligence"
+    excerpt: "Leading communication agency Webmedia South Pacific has announced their use of artificial intelligence (AI) to optimise communication strategies for clients in the private, public, and civil sectors."
+    publishedDateTime: 2023-02-25T06:45:00Z
+    webUrl: "https://www.fijitimes.com/agency-harnesses-power-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Fiji Times
+      domain: fijitimes.com
+    quality: 37
+    images:
+      - url: "https://www.fijitimes.com/wp-content/uploads/2023/02/a4270c95-f78c-47e5-a30f-4206a4ad3c1d.jpg"
+        width: 983
+        height: 821
+        isCached: true
 
 secured: "o8VInrmySPfJWt73uh3txJCB35tK529Ds5nppQ0nYWlAIbvi70NHaO/W4j0LMaWgAkTFUpDWGakiLJoKGy//Y/YoaAbIwxLWeKPtQ+UF+XtiCXVFf30tizZkkQtWp+W5uDe6dpAuLdmKLs8q8Up3iN11wIdymXo/2Km/kN39oNoznGOscbuDI/Bl7O2iSrvlylkYouw0OIFOdAQLegam1WT2zY5PvFaD+sz6nHlUCk0ErT8AQsqS4uqBgpU0kGLaV4yPjcxq3ZIPtO9AKgKxe6Z6o1iK/hhteVjzgLs6srea/jpbpTa2Yhj/ZQFntx0zdBv2EGbEvUYl0ra6eyQEE6AeXMByNrnOh566notaNxvjJj5dlNH9Sxqe364JZ8LFlzYiJEYEGMFF6XyHPcN1zjrSvAtUuMvVdWP78xCsC8EIzfG1FmGikEyy5sclfY1S71G5d/N0srY+flp6BJ0vsu8BbM8fyNadzOQEqxTZHaIgiLxTKCnLiiVTDVxb8hqTV1lR3Ltu7Cm2RvU5v3lP/Q==;59KE/Rki46x8Uuuy1m4CzA=="
 ---

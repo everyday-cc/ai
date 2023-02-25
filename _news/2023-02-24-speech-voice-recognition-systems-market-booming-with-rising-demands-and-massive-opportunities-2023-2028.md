@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automated Machine Learning (AutoML) Market Trends and Opportunities and Forecast to 2028 with Top Countries Data"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Automated Machine Learning (AutoML) Market\" Research Report 2023 Provides a Basic overview of the Industry"
+    publishedDateTime: 2023-02-24T01:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-trends-and-opportunities-and-forecast-to-2028-with-top-countries-data-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
     excerpt: "Feb 23, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market\" Research Report 2023 Provides a Basic"
     publishedDateTime: 2023-02-23T12:01:00Z
@@ -38,6 +52,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+  - title: "Image Recognition Market Brief Analysis By Top Leading Companies"
+    excerpt: "Feb 21, 2023 (The Expresswire) -- \"Image Recognition Market\" Report provides a Detailed analysis of global market size, regional and country-level"
+    publishedDateTime: 2023-02-22T03:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-brief-analysis-by-top-leading-companies-2023-02-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
 
 secured: "No433bWq0+k2dE2weSYQ2rQie8jLBMhn3wm7hWTZ1+XHTOddu6rlorzLo9Ee1RcD+hhq5A2pDUj0KNB6XNeXeqJ+BRDxcS4X/4QBdes84AkUNX7QtSWX3VdsWst8lcixSE4knNDlZa0DpkQKnDX7nQFRLEfOzPw9t5d1jZWvu7P/ZOn3c9iQ2P3mrG0LPclkt0pSZSU1rmIVFTquSf4r89tGlwmWmi4gNWIiBTWsWrTXi8jxQFpzii5FuTSDVrLleIUJYqSJbv8GJIkvbGPcBYhSm+saYM84AJmsJTezL8LJPk/zW3Lem18qlvIuBz7AMPcLcNUNqIY6lvil1Ef9T0kC0rgFySXo/QHpMeD0tLU=;6D5el8eE4/3wqNT3fXJISQ=="
 ---

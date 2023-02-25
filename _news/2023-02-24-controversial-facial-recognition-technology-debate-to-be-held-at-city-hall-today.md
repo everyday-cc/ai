@@ -25,44 +25,86 @@ images:
     isCached: true
 
 related:
-  - title: "Travelers have mixed feelings about facial recognition technology at LAS"
-    excerpt: "LAS VEGAS (KTNV) — Harry Reid International Airport is one of 16 airports nationwide testing facial recognition technology at airport security checkpoints. The technology was first rolled out ..."
-    publishedDateTime: 2023-02-21T03:46:00Z
-    webUrl: "https://www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las"
-    ampWebUrl: "https://www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las?_amp=true"
-    cdnAmpWebUrl: "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las?_amp=true"
+  - title: "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition"
+    excerpt: "They say you can have anything you want in life if you dress for it. According to the makers of these anti-facial recognition garments, that includes privacy. These sweaters, masks, glasses, and makeup tips will scramble the algorithms and dazzle your friends."
+    publishedDateTime: 2023-02-25T12:00:00Z
+    webUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479"
     type: article
     provider:
-      name: KTNV Las Vegas
-      domain: ktnv.com
-    quality: 58
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
     images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/717/b9cd621bb5cc43d8b6bdc641d1acdca8/717f5520240044009c25dec6f417f641/poster_c050c08cc5fb4881adf39c95cbc18bc1.jpeg"
-        width: 1920
-        height: 1080
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5962a488996ecd92c5b806c0c89f5c0a.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "‘The future of air travel’: Facial recognition might make airports a breeze — at a cost"
-    excerpt: "2:11 Air Canada’s facial recognition tech to take off at YVR but is the public ready to let it fly? A facial recognition technology pilot at a Canadian airport is the first step towards the “f ..."
-    publishedDateTime: 2023-02-23T11:27:00Z
-    webUrl: "https://globalnews.ca/news/9504085/facial-recognition-air-canada-airports/"
-    ampWebUrl: "https://globalnews.ca/news/9504085/facial-recognition-air-canada-airports/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9504085/facial-recognition-air-canada-airports/amp/"
+  - title: "DHS S&T concludes facial recognition can work for small groups, while maintaining privacy"
+    excerpt: "The results from the “2022 Biometric Technology Rally” could inform the way forward for TSA and other government agencies as they increasingly adopt facial recognition"
+    publishedDateTime: 2023-02-25T00:41:00Z
+    webUrl: "https://federalnewsnetwork.com/automation/2023/02/dhs-st-concludes-facial-recognition-can-work-for-small-groups-while-maintaining-privacy/"
     type: article
     provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 46
-  - title: "Madison Square Garden grilled over facial recognition technology"
-    excerpt: "Madison Square Garden was in the hot seat at a New York City Council meeting Friday as council members posed questions about how the venue uses its facial recognition technology to allegedly ban lawyers involved in lawsuits against them."
-    publishedDateTime: 2023-02-25T01:08:00Z
-    webUrl: "https://www.fox5ny.com/video/1185566"
-    ampWebUrl: "https://www.fox5ny.com/video/1185566.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/video/1185566.amp"
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 45
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/09/Biometrics-03.jpg"
+        width: 1097
+        height: 700
+        isCached: true
+  - title: "Hearing on MSG's use of facial recognition"
+    excerpt: "New York City Council members will discuss the use of facial recognition at businesses and entertainment venues, as Madison Square Garden is getting heat for its use of the technology. CBS2's John Dias reports."
+    publishedDateTime: 2023-02-24T11:34:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/hearing-on-msgs-use-of-facial-recognition/"
     type: article
     provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 39
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/24/4fc2b737-7da0-42ba-88e4-8c0421732e98/thumbnail/1200x630/fc6903c0bf72629290515b17ed38ec96/f8837d3590d8fc61c45d43c577509dd8.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "US military says it can put facial recognition into robot drones"
+    excerpt: "The science and technology magazine is reporting that the Air Force now has the power to give facial recognition to autonomous drones."
+    publishedDateTime: 2023-02-24T21:18:00Z
+    webUrl: "https://www.biometricupdate.com/202302/us-military-says-it-can-put-facial-recognition-into-robot-drones"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+  - title: "Air Canada launches facial recognition trial"
+    excerpt: "Air Canada has launched a pilot project that enables travellers to use facial recognition technology to confirm their identification. The system is designed to make the overall travel and airport experience more seamless and enjoyable for customers,"
+    publishedDateTime: 2023-02-24T21:48:00Z
+    webUrl: "https://japantoday.com/category/features/travel/air-canada-launches-facial-recognition-trial"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 34
+  - title: "How can you beat facial recognition cameras? Try this very expensive sweater, says clothing maker"
+    excerpt: "With facial recognition technology operating out of venues, from stadiums to airports, one clothing maker has a solution: Apparel that dupes cameras into identifying people as animals. Cap-able, an Italian startup,"
+    publishedDateTime: 2023-02-22T21:44:00Z
+    webUrl: "https://www.silive.com/news/2023/02/how-can-you-beat-facial-recognition-cameras-try-this-very-expensive-sweater-says-clothing-maker.html"
+    ampWebUrl: "https://www.silive.com/news/2023/02/how-can-you-beat-facial-recognition-cameras-try-this-very-expensive-sweater-says-clothing-maker.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2023/02/how-can-you-beat-facial-recognition-cameras-try-this-very-expensive-sweater-says-clothing-maker.html?outputType=amp"
+    type: article
+    provider:
+      name: Staten Island Advance
+      domain: silive.com
+    quality: 26
+  - title: "Facial recognition is a violation of privacy, News Poll results show"
+    excerpt: "YARMOUTH, Maine—Our readers have spoken! Facial recognition technology can be considered a violation of people’s privacy and discriminatory, even with the security benefits that the technology is intended to provide, according to the results of the ..."
+    publishedDateTime: 2023-02-21T20:16:00Z
+    webUrl: "https://www.securitysystemsnews.com/article/facial-recognition-can-be-viewed-as-a-violation-of-privacy-news-poll-results-show"
+    type: article
+    provider:
+      name: Security Systems News
+      domain: securitysystemsnews.com
+    quality: 19
   - title: "New York City Council holds hearing on facial recognition technology"
     excerpt: "New York City Council holds hearing on facial recognition technology Facial recognition technology was the controversial topic at a New York City Council hearing Friday. As CBS2's Doug Williams reports, there was one noticeable absence."
     publishedDateTime: 2023-02-24T22:24:00Z
@@ -72,6 +114,15 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 19
+  - title: "Air Canada Launches Digital Identification; First Airline to Test Facial Recognition Technology for Identification Verification in Canada"
+    excerpt: "In a pilot project currently underway, Air Canada's digital identification is now available for customers departing from Vancouver when boarding select flights to Winnipeg, and for eligible customers entering the Air Canada Café at Toronto Pearson."
+    publishedDateTime: 2023-02-21T14:12:00Z
+    webUrl: "https://www.aviationpros.com/airlines/press-release/53012635/air-canada-air-canada-launches-digital-identification-first-airline-to-test-facial-recognition-technology-for-identification-verification-in-canada"
+    type: article
+    provider:
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 1
 
 secured: "NWS2czj0yejFoDTOVBt+amJVFzBf2S5W0/iBcrnA4ryq79rJKlMzBlRKVs7YM/rQnjFzthZ8mZ05e3r1vzOzSolTTjHfZz9vhy2WOWKikuNRoBIRGnaWcNWJP/UcUrG1Gl5wsr60ijCqcprGdby6dFMW8MTix4R7Glr0XLUJAhCfRUFc0hokCGk67rxCGgml8oqSNOTAH3BKMql4/FId9JnCFC4KXUTCL9sAC+Ro13yAXQJ1puYH/pEE+b7Qf1GjHRGl9RuPJJg9xOx3F98PtDRPFUn/CwrjApLr/e989nai5qvnwGdE0abUmIBNPB70pf4bOpUX9Pn4Bb1LgNAusRNL5T2ggaHtcroqiq74xvgwL1QgAfBucuRO41GnNUFBdxCrK71Lk6TpgE4ZqzkeuESEOFjQ9SVaBd4c1ndwRP0rvjy3v3l0RZeio3Shs1aZPXLYBCicOeIJHD3o8XerqNf5hpYc5vjy8f8jh0HnNVV95Bz4v/0MHsh8IcCI1ZRF0swyMTj/vGW4dmfwqy6DRA==;TTFokDNqe6hcEJKep9ya1Q=="
 ---

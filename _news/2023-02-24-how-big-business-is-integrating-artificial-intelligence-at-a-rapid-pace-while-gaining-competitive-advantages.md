@@ -1,42 +1,57 @@
 ---
 category: news
 title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
-excerpt: "FinancialNewsMedia.com News Commentary PALM BEACH, Fla., Feb. /PRNewswire/ -- Artificial Intelligence (AI) is becoming used in more and more markets and industries worldwide. At the current growth rate,"
-publishedDateTime: 2023-02-24T12:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/02/n31047086/how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-"
-webUrl: "https://www.benzinga.com/pressreleases/23/02/n31047086/how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-"
-ampWebUrl: "https://www.benzinga.com/amp/content/31047086"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31047086"
+excerpt: "Artificial Intelligence (AI) is becoming used in more and more markets and industries worldwide. At the current growth rate, AI may eventually touch every business, industry and market. The rapid penetration of the digital technologies and internet has significantly contributed towards the growth of the global artificial intelligence market in the past few years."
+publishedDateTime: 2023-02-24T15:02:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-how-big-business-integrating-artificial-intelligence-a-rapid-/2023/02/24/9766176.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-how-big-business-integrating-artificial-intelligence-a-rapid-/2023/02/24/9766176.htm"
 type: article
-quality: 55
-heat: 65
+quality: 15
+heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
 related:
-  - title: "FinancialNewsMedia.com: How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
-    excerpt: "FinancialNewsMedia.com News Commentary PALM BEACH, Fla., Feb. 24, 2023 /PRNewswire/ -- Artificial Intelligence (AI) is becoming used in more and more markets and industries worldwide. At"
-    publishedDateTime: 2023-02-24T13:50:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58401914-financialnewsmedia-com-how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-advantages-008.htm"
+  - title: "How machine learning is revolutionizing CX outsourcing"
+    excerpt: "CONTACT centers in the Philippines have long been the driving force behind the exponential growth of the business process outsourcing (BPO) industry, providing superlative customer service to companies around the world."
+    publishedDateTime: 2023-02-24T11:17:00Z
+    webUrl: "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127"
+    ampWebUrl: "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp"
+    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 59
+    images:
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/02/24/161618.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI scientist-author Toby Walsh: 'We are increasingly outsourcing some of our thinking to machines'"
+    excerpt: "Artificial Intelligence scientist, professor, author Toby Walsh, who was a prominent speaker at this year's Jaipur Literature Festival, talks about morality and ethics in the development of technology and the danger of handing over decision-making to machines."
+    publishedDateTime: 2023-02-25T08:12:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/lifestyle/artificial-intelligence-scientist-author-toby-walsh-interview-10152821.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/lifestyle/artificial-intelligence-scientist-author-toby-walsh-interview-10152821.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/lifestyle/artificial-intelligence-scientist-author-toby-walsh-interview-10152821.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 45
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/02/AI1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "094eleviee0SdcsgzsD+RT0THcZTbsH4xKzuIU9v4X4ZB9KutviZ2K5/akRyBGeSq2P2UeR5dtur+Mmrrx7/v9T/fsNYfhjST/oORtPQu+w4qOWpj7qPill9XuvO6tF/pLB9ZkfzoykwTSuDoQjypx3eW63B4RrcY2RYMaFJQ+4yvqai8O6xeAZrjrYdWJ9wCCK7RIVodLwMZiXvZH2uvGM5X9EnbhkhHmKGW+e3ID3gnpXwVFXHY3hMJlGCe3IMzlxnO3pKFEhhZBvMXWGZdh35IMPqFkzakKgeHfQkoLaBAM+taAEgsaXqheP+hOa3M5I1kX00RXcn/tvptvxYqG4RYpoUwDfClNA5iquV3Po=;kztQAfM27JSM5sCUIi0RnQ=="
+secured: "n1LHlGbD8xZEVSdwc82vtdDdYf7JT7MXqvYGIt+J6Y7/nJC3W0IfySyy/IDGQ75srqoM0MtcGxEytPHnKsE3FQDKGB4drJCMTDRzZL/qKwQ2Wgw8gWYnQUJYNc5NhzHVOUReVnd3F0dnQGPOj7M9C2ZYa4wT1s4IB+I+NI8MfxAW2bcOmT8RM/ymiauUVu47qEwio+ioOotSkfirjTiHBXebig/Vsh5Vqson8Sm4u3ajLSw6U3MuGEY4uutTBhVup7p77iKC6PFRj0m5CZKYBrZhexzPYxTSkgVTz3zGz6Z4Wb0tx91WbauW/aWnGRqPpusPmbn0u0RBwBkaw7Ld/jKSmtp5edXSP+6cUGoJRwo=;JHmQFU2QXJyu03SrLwXQvQ=="
 ---
 

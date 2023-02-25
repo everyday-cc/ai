@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-
 webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -34,6 +34,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
+  - title: "Facebook-owner Meta unveils more cautious approach to ChatGPT frenzy"
+    excerpt: "Meta described its own AI, called LLaMA, as a \"smaller, more performant\" model designed to \"help researchers advance their"
+    publishedDateTime: 2023-02-25T12:00:00Z
+    webUrl: "https://www.newindianexpress.com/business/2023/feb/25/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy-2550910.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2023/feb/25/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy-2550910.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/feb/25/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy-2550910.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 44
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/12/w600X390/AI.jpg"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "5N897+hwThPOmDxJln/ihgfoQA09Vppbb62eZRT/FgHohzMgEfy2jcnSHOII3hoOSxvvRBTn2pGor79gFHoEkB1MepHRZIOahEsNcRijfz42GkEyjSHQXqEeRav437yZXb5DoWD25TNx04isT3L/Wml7uw06nKcFeSvEHqczn8w/kZRTStQRETqHbTL8C2zynTElFPv0cLc2v7VUwSq96oTssYMDhjOXLTAXPZp/pPX8K8NxiasPD8Qmyy8BpErF0AdJmvvMJBSSHC5yvB4fYHQkmwOPyiG24XEKtlb+FQXFnuszYcYpkoKEAAm2oZpk+pwJ+KEwnaWUx2LsdDkCwqX5Wa23raXisTsUJTWR7ZM=;UIF8wdx1GfAMrYgY+oOJpw=="
 ---

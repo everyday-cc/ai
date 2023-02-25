@@ -30,15 +30,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
-  - title: "If ‘self-driving’ Teslas are defective, why are regulators letting them stay on the road?"
-    excerpt: "Teslas equipped with Full Self-Driving software were deemed defective enough to warrant a recall because they're prone to crashing. On Friday, all of those defective cars remained on the road, with the unreliable software still available to drivers,"
-    publishedDateTime: 2023-02-20T20:06:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/feb/20/if-self-driving-teslas-are-defective-why-are-regul/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 10
 
 secured: "b7ahxW0ne36v2cVH8Crlf8s7W2aKgbePbyUlSt1R92BrvtmS5ASvRY80D+jzULfEhKUVW69sK63XWD+GMzjMuR2izkrNXkJJvtBXepcVkQyw9mIRMbYl3Yo5/JSY88rlpIchDwmH48yTYonu3U/QdiTAnmPhD4AkJhhD/0lg8h+dKjEDjX/M8tI54SPrqcSNh7js047uCS1jIGphzbdpa+sh5cXyl2WBq3H5FVXSVVnYG6XENAJBi99VnEAi/O6RPnn3mVJZG20MMUYSCXlEQvxoR1gq32FQkb3ERV0iDX1a/zdD971j+kndzXv/tQJwDuXI4v1JUqWRgEd4Tf8xUW5bMFgh3y1Omek7SMsrbJc=;c6JZm7CP4VEdnI/2ukya5A=="
 ---

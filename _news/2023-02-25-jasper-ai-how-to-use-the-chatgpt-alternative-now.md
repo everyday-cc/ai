@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternativ
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp"
 type: article
 quality: 89
-heat: 389
+heat: 399
 published: true
 
 provider:
@@ -301,6 +301,20 @@ related:
       - url: "https://www.newagebd.com/files/records/news/202302/195314_12.jpg"
         width: 790
         height: 452
+        isCached: true
+  - title: "Meta unveils ChatGPT rival AI LLaMA, but no guarantee on hallucination"
+    excerpt: "The Fundamental AI Research (FAIR) team at Meta, Facebook's parent company, has introduced ChatGPT rival, a new \"state-of-the-art\" artificial intelligence (AI) language model called LLaMA."
+    publishedDateTime: 2023-02-25T11:46:00Z
+    webUrl: "https://interestingengineering.com/innovation/meta-unveils-chatgpt-rival-ai-llama"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/25/image/jpeg/TfimQwVaBurGiWknvr0m16eUaOdXaGB9C4PfLklQ.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "ChatGPT and Bing’s AI chatbot are just stupid enough to work"
     excerpt: "Leave the AI-written content to CNET. As a writer, I was naturally curious to see how good ChatGPT was as a news and opinion writer. Not because I wanted to start cheating and having a bot write for me, but because of self-preservation — how close am I ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/now-you-can-get-access-to-b
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
 type: article
 quality: 64
-heat: 125
+heat: 105
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "Bing's AI chatbot has a question limit that is more of a problem than a solution"
-    excerpt: "After reports of the Bing chatbot's outlandish behavior, Microsoft has decided to limit the interactions users can have with the bot. Th results are quite annoying."
-    publishedDateTime: 2023-02-20T20:07:00Z
-    webUrl: "https://www.zdnet.com/article/bings-ai-chatbot-has-a-question-limit-that-is-more-of-a-problem-than-a-solution/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 42
   - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
     excerpt: "Microsoft’s Bing search engine can write recipes and songs and explain anything it can find on the internet. But if you cross its artificially intelligent chatbot, it might also insult your looks, threaten your reputation or compare you to Adolf Hitler."
     publishedDateTime: 2023-02-20T23:15:00Z
@@ -77,15 +68,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 19
-  - title: "Bing AI says it wants to be human as it begs for its life"
-    excerpt: "Roach started a conversation with the AI by asking if a screenshot on Reddit of the chatbot losing its mind was real. Bing told him that the image was fabricated, as it did not include timestamps or the name of the Bing chatbot. Notably, Bing chat doesn ..."
-    publishedDateTime: 2023-02-20T20:13:00Z
-    webUrl: "https://bgr.com/tech/bing-ai-says-it-wants-to-be-human-as-it-begs-for-its-life/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
 
 secured: "f/M1Ys8dTT4gLtI7JQQcPbP52/HB1T1tiAB8SMIzF7hxNeidscT22isdVcwciAkby92Ge1md1o8rHzX8pUhgdnhDqCDwEW4oSa5cQDw8jexLL8eCfonzLyBsYrAdOHV9GMOy5n327FB8tz+KTSRhPN40k+XB95ja7FjznGaBzBDD3nvORkcGCdvQGJ6or+kZOGM73xI6RuQm0jmqIuTAU98+SlcZtNETTPJ3bNZbskyen6efozlaJltFAw9ysFNpR5937EcR/9Yk55DEpSfAwlKuDLyGzAxmivcYNDpX3kETn9pfMGYXKV7gxZkl8e8/AruVaU/7BXKlrOJzZOBDy4XPHzVZKLGiUhy6ylPgk1UbjjtDPXdWVIGtimWi6NI5/RrOZ+KF1G9Xzqn0msWdSr5F2BAQSDcl0xlsuZSub8Go4bMRX7zGE2H009+SLdkt1cRx+F0pxGTzWc50uEqmOyc3pPjRXKh0tqJnWO8dpBddPD3v9KBwwL8VpJFSrr9Kkm+yudQSGMa8MrGlpmYVoQ==;RqNDLlIU9n9mMksuaWrb8Q=="
 ---

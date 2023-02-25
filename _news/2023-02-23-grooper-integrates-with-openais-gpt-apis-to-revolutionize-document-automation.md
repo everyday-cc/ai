@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Grooper Integrates with OpenAI's GPT APIs to Revolutionize Document Automation"
-excerpt: "BIS, the creators of Grooper, the world's most advanced, innovative, and accurate intelligent document automation software, announced today that it has integrated OpenAI's"
-publishedDateTime: 2023-02-22T22:30:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/grooper-integrates-with-openais-gpt-apis-to-revolutionize-document-automation/article_e18a7ec0-c17d-5be6-bd86-fdad81108de4.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/grooper-integrates-with-openais-gpt-apis-to-revolutionize-document-automation/article_e18a7ec0-c17d-5be6-bd86-fdad81108de4.html"
+excerpt: "BIS, the creators of Grooper, the world's most advanced, innovative, and accurate intelligent document automation software, announced today that it has integrated"
+publishedDateTime: 2023-02-22T22:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/02/n31019465/grooper-integrates-with-openais-gpt-apis-to-revolutionize-document-automation"
+webUrl: "https://www.benzinga.com/pressreleases/23/02/n31019465/grooper-integrates-with-openais-gpt-apis-to-revolutionize-document-automation"
+ampWebUrl: "https://www.benzinga.com/amp/content/31019465"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31019465"
 type: article
-quality: 35
-heat: 35
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/JMag-Feb-2023-cover.jpg"
-    width: 350
-    height: 446
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "PZkwy0UyL8NrB9vKqOc6dcyhncyrd0tEGYlQoe9KC+8nCZjzD+tHiQalAP0R3o56Vf6Bwjc+g8papdc39UgaJQYkcDVUwBA/SV2j/XBtWZUVG1e/K89zfv7L1M7ieavu3UcMMe2B3OSw1mATpYwm552KTESiMlZvp8lh7FO3/QRJXbx65DmegNEKh5nejV/5DRKJk4gWVEP/mwhneiBGto1LOJK7ymiSj4KCzlqfYWQjpculwZEv7F4/NLQkTPvfsNyDRTtFJlGtjo98P4Em9a5pF9Rrxq2X3PHxUBBwXpmcYV7pBs6kGhsMeCw2xWETzMyUvu+7k6EmPADoRtUWxeKkZl1tvuN102CJ92FmiPI=;RvSCnUA/mxBUZQpvah4FKA=="
+secured: "h1Qgm9bORmfjvQ3a+B7jyghzFwf2c1crJDTx4diZBTTW/R4tGkunoy4dEIOjygvcgZTn7ArQY3pA/zBnPCy4PD4IDAVeV87aU+zkCw1AYPVeFWOYiMsl1HW+4mM9EFKaZmVeBkLIXPEBWJdb8kvonfe5/mRLdVjINU21yL5jaUB7YdkuPRBzEVT+L8WH1KxK7USoqPPZ503NPIDGLbC2AJUbgzz4vYMRiIJFBTZkWyk6Fu4QPMzQV33pL/jt3YtBIUSaL+MgaymeG3yCj3KKPgEEwM3Xps8cpPFPP0V1xLBj2CD9GUUa0BvhStr6Pk9kU16izekJw4KQPUcc1j+lEWeACb6KsPdD1bo7Vy8Tlx0=;nH8WDqcwipN8QpybD3Veww=="
 ---
 

@@ -311,6 +311,20 @@ related:
         width: 790
         height: 452
         isCached: true
+  - title: "Meta unveils ChatGPT rival AI LLaMA, but no guarantee on hallucination"
+    excerpt: "The Fundamental AI Research (FAIR) team at Meta, Facebook's parent company, has introduced ChatGPT rival, a new \"state-of-the-art\" artificial intelligence (AI) language model called LLaMA."
+    publishedDateTime: 2023-02-25T11:46:00Z
+    webUrl: "https://interestingengineering.com/innovation/meta-unveils-chatgpt-rival-ai-llama"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/25/image/jpeg/TfimQwVaBurGiWknvr0m16eUaOdXaGB9C4PfLklQ.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Using AI like ChatGPT costs more than other internet searches. It's a billion-dollar problem"
     excerpt: "For instance, SemiAnalysis, a research and consulting firm focused on chip technology, said adding ChatGPT-style AI to search could cost Alphabet $3 billion, an amount limited by Google's in-house ..."
     publishedDateTime: 2023-02-23T01:32:00Z

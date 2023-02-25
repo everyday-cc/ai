@@ -53,6 +53,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Meta launches LLaMA model, a mightier research tool than OpenAI's GPT-3"
+    excerpt: "The social networking giant plans to make the technology accessible to researchers and integrate it into its product in the future."
+    publishedDateTime: 2023-02-25T11:15:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/02/25/1338442-openai.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Facebook parent Meta rolls out new language model amid Big Tech’s AI push"
     excerpt: "Meta’s LLaMA, short for Large Language Model Meta AI, will be available under non-commercial license to researchers and entities affiliated with government, civil society and academia"
     publishedDateTime: 2023-02-24T13:24:00Z

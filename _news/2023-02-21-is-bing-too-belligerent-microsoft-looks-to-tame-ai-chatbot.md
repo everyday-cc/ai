@@ -55,15 +55,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "Bing's AI chatbot has a question limit that is more of a problem than a solution"
-    excerpt: "After reports of the Bing chatbot's outlandish behavior, Microsoft has decided to limit the interactions users can have with the bot. Th results are quite annoying."
-    publishedDateTime: 2023-02-20T20:07:00Z
-    webUrl: "https://www.zdnet.com/article/bings-ai-chatbot-has-a-question-limit-that-is-more-of-a-problem-than-a-solution/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 42
   - title: "Everything you wanted to know about AI – but were afraid to ask"
     excerpt: "Large-language models This is one of the so-called neural networks ... Or you can use the wide array of apps already on your phone that invisibly use AI, from the translate apps built in to iOS and Android, through the search features in Google and ..."
     publishedDateTime: 2023-02-24T18:48:00Z
@@ -73,15 +64,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 19
-  - title: "Bing AI says it wants to be human as it begs for its life"
-    excerpt: "Roach started a conversation with the AI by asking if a screenshot on Reddit of the chatbot losing its mind was real. Bing told him that the image was fabricated, as it did not include timestamps or the name of the Bing chatbot. Notably, Bing chat doesn ..."
-    publishedDateTime: 2023-02-20T20:13:00Z
-    webUrl: "https://bgr.com/tech/bing-ai-says-it-wants-to-be-human-as-it-begs-for-its-life/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
 
 secured: "9WW5kWEiZCLsbbGDnYWvWXFR55T2btA05oSbM8E1cPoZsYNEtXxg1xmtxnEAImLdouPiXBFckCdfvJKF76esMGeY+HFhBYBZUmmK79sQN3umSgzPMY573wGSYeOoUnG+VJ6L73QQiAtaFcYqk+GPzVD+TTG1kWqs4EZ9Wd8/q4/PilT6jWeMB7d0pOn+n0I77gAO4SCRf9FeCP3hYiw47QzBAhPXfqWm50R9YxIiRgMZ+CDgBedRIyVtg0qxfoi5pC7D+BW2o3OPZByqEhc2n0cS7jUiC3Whm4eCcVA1dWlxKb11ev3o+yVHglyWyaCFygrlxsB/hjL7FY6LeeaoODMmn1f/gTJV5VjhvAPsbSE1z8Wy9JRgpOEkjORLRhjLMciY6DCMS643M4uV/RMudH/wRXd0O4lBMsdeZaf5JQw2MX+T6F+AyspMZZdkXvjPhSgCUsV9teUuXjRN6neuChg/9WYDlAZpdgpELN+zk5TSDB/W9VLOKCRsK+CJZJ0y/P3nE8JP/9f6In3LNnnApA==;9s6zNVOHAFhwDsEVVlXoMw=="
 ---

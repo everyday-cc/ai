@@ -49,15 +49,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Bing's AI chatbot has a question limit that is more of a problem than a solution"
-    excerpt: "After reports of the Bing chatbot's outlandish behavior, Microsoft has decided to limit the interactions users can have with the bot. Th results are quite annoying."
-    publishedDateTime: 2023-02-20T20:07:00Z
-    webUrl: "https://www.zdnet.com/article/bings-ai-chatbot-has-a-question-limit-that-is-more-of-a-problem-than-a-solution/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 42
   - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
     excerpt: "Microsoft’s Bing search engine can write recipes and songs and explain anything it can find on the internet. But if you cross its artificially intelligent chatbot, it might also insult your looks, threaten your reputation or compare you to Adolf Hitler."
     publishedDateTime: 2023-02-20T23:15:00Z
@@ -76,15 +67,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 19
-  - title: "Bing AI says it wants to be human as it begs for its life"
-    excerpt: "Roach started a conversation with the AI by asking if a screenshot on Reddit of the chatbot losing its mind was real. Bing told him that the image was fabricated, as it did not include timestamps or the name of the Bing chatbot. Notably, Bing chat doesn ..."
-    publishedDateTime: 2023-02-20T20:13:00Z
-    webUrl: "https://bgr.com/tech/bing-ai-says-it-wants-to-be-human-as-it-begs-for-its-life/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
 
 secured: "Tmq6aIqWInUPdhS4PyIaO0HfdCYRQfs85OUf8/y2UAMs+UuJUNZR/3ZaZx+mdGMXKRSFdczFPpyoojMrcHLNSx1Y2pwqVqBtOTW74cKHDBQTWsluvzRD624j+EpKMrVmP0lqRFLkz2RxMzz89KRqCzZOAbCtGyNAlZXSwNlEOcdVlE/8kPOhl5z0vDzcFSj1YhkPbPv0/dtEdbi7TV8k8cgntx0l7Wqlm13ZeqDyvGBdOZr8/dzgH0DDS3f4wy+0nCqybO9iVx0qC91U0GPxeyPpU8SnGanSfiJNvrEYLCKS/5Ci4FPkKiKscCZad+6hjnLtS0hP0mYUbUbPy007kH6Guhhw2On8u1XRaYhHvr9kwSJmzZpyI0t2IWnZPQYOsCQOnfO2U8s1tiTMR5ll9k+azwEP9jSkDbJPeW25VrXATn+RyYQStty7esRdMfWgb7t5kRVgLpu9HCmcX56GBCtsztpgjCpVhXut6KQkHZRAprPn98CFwrwNa3O6UXtLMP5emyHSukCRcOmPS8O3/Q==;4+61DXASSDPBH7x668trKA=="
 ---

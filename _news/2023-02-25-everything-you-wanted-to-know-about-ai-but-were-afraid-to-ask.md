@@ -59,15 +59,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "Bing's AI chatbot has a question limit that is more of a problem than a solution"
-    excerpt: "After reports of the Bing chatbot's outlandish behavior, Microsoft has decided to limit the interactions users can have with the bot. Th results are quite annoying."
-    publishedDateTime: 2023-02-20T20:07:00Z
-    webUrl: "https://www.zdnet.com/article/bings-ai-chatbot-has-a-question-limit-that-is-more-of-a-problem-than-a-solution/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 42
   - title: "Is Bing too belligerent? Microsoft looks to tame AI chatbot"
     excerpt: "Microsoft’s Bing search engine can write recipes and songs and explain anything it can find on the internet. But if you cross its artificially intelligent chatbot, it might also insult your looks, threaten your reputation or compare you to Adolf Hitler."
     publishedDateTime: 2023-02-20T23:15:00Z
@@ -77,15 +68,6 @@ related:
       name: St. Louis Post-Dispatch
       domain: stltoday.com
     quality: 34
-  - title: "Bing AI says it wants to be human as it begs for its life"
-    excerpt: "Roach started a conversation with the AI by asking if a screenshot on Reddit of the chatbot losing its mind was real. Bing told him that the image was fabricated, as it did not include timestamps or the name of the Bing chatbot. Notably, Bing chat doesn ..."
-    publishedDateTime: 2023-02-20T20:13:00Z
-    webUrl: "https://bgr.com/tech/bing-ai-says-it-wants-to-be-human-as-it-begs-for-its-life/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 17
 
 secured: "F4G0iLhqnlsRQdQE0vFMa6UtHzKvQafQjeDdHjIKCm7OFtH6F5pwPzJMWcKtxxlmqivQxx9xFSVHwcXSxMq6rf4XueYrr7r/DWj5or8n9quFfWrUugmcOOedQue0n82wyamgJwBqy9Dprd7g0naaDCXBQ7ruLHZCunjB3WTrj+GXByXVNMlYXRUYyHKJMJPJN3XUNXXDoUKgqR2l2SfjO2OG7dArPNf27Imj80/6BfAWTPS5cfPqsG1uP8vWM0RLSbyIuuceXV3tW8HNToL/EzZqql+KLVQLCn4gJIutVI6iJ6tVdVKYZr2qgPaIu+0vmCmddTGfrR+37rpwrLZZwYYNrFH4S4830lWRKIODn7ZkZNZFOB+gT8II36Yh2mFBoiDnVLbVWt/UWh86LYoxeAI2+zJ1AsWxJMQ6arq2FRv0vDT+zjGPHmAR5wC5o1KFYKC7SLrldJRJOJNLay79KAIqo7DV3xScOvFMszbFCr1rzio2qSoWMeFDTXTznOnh8ktkRFqi3UaUh24kPtPsWQ==;AlROwq4G4Dq5d02AGzk8gw=="
 ---

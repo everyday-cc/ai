@@ -30,15 +30,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 39
-  - title: "If ‘self-driving’ Teslas are defective, why are regulators letting them stay on the road?"
-    excerpt: "Teslas equipped with Full Self-Driving software were deemed defective enough to warrant a recall because they're prone to crashing. On Friday, all of those defective cars remained on the road, with the unreliable software still available to drivers,"
-    publishedDateTime: 2023-02-20T20:06:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/feb/20/if-self-driving-teslas-are-defective-why-are-regul/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 10
 
 secured: "vl2SjZE1DTUGttBkRTNOL2iqYEz1S1k5olPB1SkMqzqNXANeGRvWgSaPYxUzCiyfcfQraUrGo0V90VvC72lW3hDtVOp6i6Rf0VmLaomHLah35ADsWXGaJ9CvATIo2zgY98ZH8z2wVM+c+v4/ntACqJzPLuB3arp0pGzXSNEBtvPccLKofLFdhLvRrm8DCgqotPsqt+hbTenXPkWQ+UCkB0eKjgRRYutXMfdSUyzx6qh1S7t1t50SqLWvHWKCw96WxWSbniuHcEFBXlnhwqmDHJx2yFKVQt+XEC6eFzvbZv6GSNA9BPx7v0nl/n3BscDxCcu1fHasZe0OfufeINVSCCJ77tHPQE1vKcmYeyXP26n6yn6ksVCJWPVAY8UFEbgFPc+GpUK/YdZ/rhLQAPLF4Kb1rOsaZ3+/1+OdJjtqDA5RbI39ZiwHqRBvC4e+eu74qyxBHd+8LYK0w9u7IsVhmJVDxMqUDtw+graKDoT7Gv5T+S4tiiqeaLmgDU691XS7RyH7lRF7f/auryZYJvAp5g==;0w1cOZnq9TtREki9C4rMhg=="
 ---

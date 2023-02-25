@@ -8,8 +8,8 @@ webUrl: "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-in
 ampWebUrl: "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1"
 type: article
-quality: 95
-heat: 115
+quality: 97
+heat: 117
 published: true
 
 provider:
@@ -26,6 +26,7 @@ topics:
   - Natural Language Processing
   - IBM AI
   - AI in Autos
+  - Computer Vision
 
 images:
   - url: "https://d.newsweek.com/en/full/2198602/computer-code.jpg"

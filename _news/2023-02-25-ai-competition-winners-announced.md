@@ -35,7 +35,7 @@ related:
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 95
+    quality: 97
     images:
       - url: "https://d.newsweek.com/en/full/2198602/computer-code.jpg"
         width: 2500

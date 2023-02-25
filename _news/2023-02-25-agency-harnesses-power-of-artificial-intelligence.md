@@ -24,31 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Cryptocurrency miners are leading the next stage of AI"
-    excerpt: "Cryptocurrency miners are converting their mining rigs to facilitate AI processing, and the implications could be both legal and financial."
-    publishedDateTime: 2023-02-20T19:33:00Z
-    webUrl: "https://cointelegraph.com/news/cryptocurrency-miners-may-lead-the-next-stage-of-ai"
-    ampWebUrl: "https://cointelegraph.com/news/cryptocurrency-miners-may-lead-the-next-stage-of-ai/amp"
-    cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/cryptocurrency-miners-may-lead-the-next-stage-of-ai/amp"
+  - title: "Using the power of AI, new open-source tool simplifies animal behavior analysis"
+    excerpt: "A team from the University of Michigan has developed a new software tool to help researchers across the life sciences more efficiently analyze animal behaviors."
+    publishedDateTime: 2023-02-24T16:00:00Z
+    webUrl: "https://phys.org/news/2023-02-power-ai-open-source-tool-animal.html"
+    ampWebUrl: "https://phys.org/news/2023-02-power-ai-open-source-tool-animal.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-power-ai-open-source-tool-animal.amp"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
+      name: Phys.org
+      domain: phys.org
+    quality: 53
     images:
-      - url: "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDIvYzk0MDZjNDItYmQ4MC00OWYzLWE4NWQtNjZlZjExZDc4NzA0LmpwZw==.jpg"
-        width: 740
-        height: 493
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/using-the-power-of-art.jpg"
+        width: 720
+        height: 720
         isCached: true
-  - title: "Cryptocurrency miners are beginning to lead the next stage of AI"
-    excerpt: "Cryptocurrency miners are converting their mining rigs to facilitate AI processing, and the implications could be both legal and financial."
-    publishedDateTime: 2023-02-20T19:33:00Z
-    webUrl: "https://cointelegraph.com/news/cryptocurrency-miners-may-lead-the-next-stage-of-ai"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
 
 secured: "+u3AGuv2Ou0nl6NfoItDOYyxm5WE5GbILu4zv8F2mHSsuLRZcZQ3//a3xJu0BS85rSMozR5Ghym9bhp4NSNfHNI/M/FQy5zBXOXD2NHJJVH3Gkh9IHqT1BXd4Z7h3FsUnyls8Yqvi8Z6CxS5lI1pUEz3edhJrHF/GkQqcwqzKycyz1CsbOitZUSBZCfwiBOT+oa7R7HWLtkuyEzefgzpywj+C09tfLgO7/saIKAddxEsTdOi+WpBQyXyEH0RPpAf6Q2wcR+bfvWnoZQoEJXRSq5Bxn924xELkzkZ2lsUHey0BXk5GSzBqPF8iNCXHr5gWpaOOXL12TjLpxvKcWgFmdLw6aBT+C0Y+3XXN/bAm9/GC9ru8OrpkE8Au3Z32o1flyAGNtY04qlMuyM1DnQVJghr4btnRR8xBf2HfimbcXBj0wvmHeNebutNm6bJP3L54C0/4+6R1uaeDEaMRcFdKcDMAqx4LNKpuQFewbSFIJ8wseaV4Uyw38gIDGRSZp9VAEmEFdQa5CCrc5VUGL3qcg==;nvMoXE12UEQBWLJwPKKIiw=="
 ---

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 389,
+      "heat": 399,
       "tags": null,
       "images": [
         {
@@ -212,7 +212,7 @@
       "originalUrl": "https://www.zdnet.com/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -255,7 +255,7 @@
       "originalUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -298,7 +298,8 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "IBM AI",
-        "AI in Autos"
+        "AI in Autos",
+        "Computer Vision"
       ]
     },
     {

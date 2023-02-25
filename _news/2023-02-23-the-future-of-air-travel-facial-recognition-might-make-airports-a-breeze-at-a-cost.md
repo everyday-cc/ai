@@ -48,29 +48,6 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 39
-  - title: "Controversial facial recognition technology debate to be held at City Hall today"
-    excerpt: "The debate over the use of facial recognition technology in New York City business is heading to City Hall Friday morning. Council members will be discussing how privately owned businesses are using facial recognition technology in a public oversight hearing later this morning at City Hall."
-    publishedDateTime: 2023-02-24T11:41:00Z
-    webUrl: "https://bronx.news12.com/controversial-facial-recognition-technology-debate-to-be-held-at-city-hall-today"
-    type: article
-    provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 34
-    images:
-      - url: "https://images.ctfassets.net/3kqcuzntcg31/9eScdW2fxNpEMJ8vkN2yZ/81c593369b8523cd66bdb1105e4e7ddf/91489cb7-4860-4f8f-9e68-237c81a0f68a.jpg?fit=thumb&w=600&h=340"
-        width: 600
-        height: 340
-        isCached: true
-  - title: "New York City Council holds hearing on facial recognition technology"
-    excerpt: "New York City Council holds hearing on facial recognition technology Facial recognition technology was the controversial topic at a New York City Council hearing Friday. As CBS2's Doug Williams reports, there was one noticeable absence."
-    publishedDateTime: 2023-02-24T22:24:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/new-york-city-council-holds-hearing-on-facial-recognition-technology/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 19
 
 secured: "z64nj4gnQVQvY8yakNMwcYLomkBWBSPTX9Pol8kX5jL7CyLhCZYT5G1TRQsUzygiXEQf+383ruUBKh3Vk/Y4Y01IJsw0C4NJ9WicuxHkZKLr4H/hvrRt5jGtL31ZT1aFLf2+CIZA3eYggZUoNeMQGyCJbU9AwM4iK03bexEy9z05WgIEwyMhgzwnm+uSKuzc0szhxWN8HWCb72fQqsRys5Yhj5BHX5hp4+Q6ZcEMSN/ivs3Y8ptZJyLC/HLVAvskS7jqHNDSmJmTAqnqqTtv7ghang7R4bwhgILrKqAhE4JThp9YTrclPtfX7udrhsuh/J+wD7Z8mZI8b8e2193FyWmevaMtQzqyuUCnnaJxaMc=;NfJgjKeSFWgPjIc40OG1eQ=="
 ---
