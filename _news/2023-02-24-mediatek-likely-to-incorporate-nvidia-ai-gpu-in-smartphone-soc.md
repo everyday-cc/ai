@@ -20,20 +20,20 @@ topics:
 
 related:
   - title: "MediaTek may soon integrate Nvidia's AI GPUs in flagship mobile chips"
-    excerpt: "Chipmaker MediaTek will reportedly integrate Nvidia's artificial intelligence (AI) graphics processing units (GPUs) in its"
-    publishedDateTime: 2023-02-26T06:25:00Z
-    webUrl: "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips"
-    ampWebUrl: "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp=1"
+    excerpt: "This would be a big step for Nvidia because it would show that established desktop GPU designs can also be ported to smartphone SoCs, reports Gizmochina"
+    publishedDateTime: 2023-02-26T07:34:00Z
+    webUrl: "https://www.business-standard.com/article/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
+      name: Business Standard
+      domain: business-standard.com
     quality: 89
     images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/02/ffd111581e1561e1ae2dd7b9dc7355b8.jpg"
-        width: 400
-        height: 234
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-08/17/full/1597687742-5446.jpg"
+        width: 620
+        height: 464
         isCached: true
   - title: "Nvidia’s AI GPUs May Soon Power MediaTek’s 2024 Flagship Mobile SoCs"
     excerpt: "MediaTek's SoCs could benefit from Nvidia's GPUs for improved AI performance. Will it impact smartphone sales?"

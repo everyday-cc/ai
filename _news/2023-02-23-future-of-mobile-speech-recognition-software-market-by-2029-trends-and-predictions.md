@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/future-of-mobile-speech-
 webUrl: "https://www.marketwatch.com/press-release/future-of-mobile-speech-recognition-software-market-by-2029-trends-and-predictions-2023-02-23"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Speech & Voice Recognition Systems Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- [93 Insights] Top “Speech and Voice Recognition Systems Market” Size 2023 Key players Profiled in the Report are [, Dictation, AbilityNet, Microsoft, Alphabet, Sensory, Iflytek, Raytheon BBN Technologies, Nuance,] most ..."
+    publishedDateTime: 2023-02-24T05:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Smiths Detection launches automatic object recognition software"
     excerpt: "Threat detection and security screening technology provider Smiths Detection has launched an automated detection algorithm, named iCMore Prohibited Items. The solution uses artificial intelligence-based algorithms to automatically detect items determined to be a security risk at airport checkpoints,"
     publishedDateTime: 2023-02-22T12:10:00Z

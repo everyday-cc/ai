@@ -38,17 +38,6 @@ related:
         width: 1200
         height: 637
         isCached: true
-  - title: "NVIDIA GTC 2023: Jensen Keynote, AI Developments, How To Watch And What Else To Expect"
-    excerpt: "The GPU maker also confirmed that company founder and CEO Jensen ... Keynote And Fireside Chat NVIDIA's GTC 2023 event is a multi-day developer conference focused on the \"era of AI and the metaverse. It's where students, developers, researchers, creators ..."
-    publishedDateTime: 2023-02-21T15:27:00Z
-    webUrl: "https://hothardware.com/news/nvidia-gtc-2023-jensen-keynote-ai-how-watch-what-expect"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-gtc-2023-jensen-keynote-ai-how-watch-what-expect"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-gtc-2023-jensen-keynote-ai-how-watch-what-expect"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 31
   - title: "Nvidia CEO Says AI Will Allow Anyone to Be a Programmer"
     excerpt: "ChatGPT and generative AI has become all the rage in recent weeks. Nvidia has done its share of talking up the technology recently. The company’s CEO has hailed it as the next big thing in computing."
     publishedDateTime: 2023-02-23T19:18:00Z

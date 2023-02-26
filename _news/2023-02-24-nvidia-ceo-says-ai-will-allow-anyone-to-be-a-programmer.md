@@ -46,17 +46,6 @@ related:
       name: The Next Platform
       domain: nextplatform.com
     quality: 38
-  - title: "NVIDIA GTC 2023: Jensen Keynote, AI Developments, How To Watch And What Else To Expect"
-    excerpt: "The GPU maker also confirmed that company founder and CEO Jensen ... Keynote And Fireside Chat NVIDIA's GTC 2023 event is a multi-day developer conference focused on the \"era of AI and the metaverse. It's where students, developers, researchers, creators ..."
-    publishedDateTime: 2023-02-21T15:27:00Z
-    webUrl: "https://hothardware.com/news/nvidia-gtc-2023-jensen-keynote-ai-how-watch-what-expect"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-gtc-2023-jensen-keynote-ai-how-watch-what-expect"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-gtc-2023-jensen-keynote-ai-how-watch-what-expect"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 31
   - title: "Nvidia adds $79 billion in market value after CEO Jensen Huang says ChatGPT represents an inflection point for artificial intelligence"
     excerpt: "\"Nvidia AI is essentially the operating system of AI systems today,\" Nvidia Jensen Huang said as he talked up the launch of its DGX cloud."
     publishedDateTime: 2023-02-23T16:09:00Z

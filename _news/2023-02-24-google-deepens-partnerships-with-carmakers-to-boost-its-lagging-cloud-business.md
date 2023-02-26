@@ -30,15 +30,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 39
-  - title: "C3 AI Expands Strategic Collaboration Agreement with AWS"
-    excerpt: "C3 AI today announced an expansion of their Strategic Collaboration Agreement (SCA) with Amazon Web Services, Inc."
-    publishedDateTime: 2023-02-21T17:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/c3-ai-expands-strategic-collaboration-agreement-with-aws/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
   - title: "Hugging Face teams with Amazon Web Services so customers can deploy pre-trained AI models"
     excerpt: "Amazon Web Services (AWS) has partnered with Hugging Face to integrate the startup's software development hub into its cloud. Hugging Face has quickly established itself as one of the main places for AI developers to share open-source code and models."
     publishedDateTime: 2023-02-22T13:17:00Z

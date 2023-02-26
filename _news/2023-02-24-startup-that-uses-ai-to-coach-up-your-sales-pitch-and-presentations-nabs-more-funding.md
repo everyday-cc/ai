@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "AI startup Rivet moves to Chicago, lands pre-seed funding"
-    excerpt: "Typical Rivet users are mid-size artists, typically musicians, that have audiences of 10,000 to 400,000 people. Rivet is the latest AI-powered platform to boast a successful funding round in recent months. In 2022 alone, investors bet at least $1.4 billion ..."
-    publishedDateTime: 2023-02-21T16:52:00Z
-    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2023/02/21/new-investment-draws-boston-ai-startup-to-chicago.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-
 secured: "5gvE5cS4kCZXNa4e+ZK7WxDAPmXJ0XU5gh1dlT6Oxk9c+ny9Cbtji+4wInYnWoT5sQn77baagsUyMSpXDExXwjWN+xo6v/wp80Mlhha7rAaxCcZJKFztwjGcupneThPCKO4Td72qXV+dnkJ9zbl4YdXCiCWByyjrdXQJUBpc1/yy9NjAmdenE6uGL4Ln5R1GDfzC/OlnAqHiQ7VpA2jk4v81mEpG8KjnI6WJYAx+T/vzxusnWz9pB/ct9iG5vyL9c13Da/myUs7xu1QBud1xEdZBOcEO9HYr/aQQMt0WEV+Nl7FJZdO9TWmd84UqEZ4ERi7gFGeP/KoWK5FQLewK1OtcJmVO77SOWTryzZyQLYCRp4LJYlddMs5qi8rYn6N0nnCCFs2g2LQVen+9R4CYuigzT9dupxNufiEyv7vVf1g0iJ9zq6pR3i0tuCgJQDRMIl9HFkxrQc5B+0Sp+ezotwEGncf0uQNNlKzMHYt7lcGMDk1mt4Sb8vqWcWhaE6nAUTYKEyxWgfrOTSdLuJk1+g==;MG/CDtL1PwOQmxgaWAhftQ=="
 ---
 

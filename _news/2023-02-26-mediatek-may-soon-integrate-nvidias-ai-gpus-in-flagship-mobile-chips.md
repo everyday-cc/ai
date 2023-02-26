@@ -1,29 +1,29 @@
 ---
 category: news
 title: "MediaTek may soon integrate Nvidia's AI GPUs in flagship mobile chips"
-excerpt: "Chipmaker MediaTek will reportedly integrate Nvidia's artificial intelligence (AI) graphics processing units (GPUs) in its"
-publishedDateTime: 2023-02-26T06:25:00Z
-originalUrl: "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips"
-webUrl: "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips"
-ampWebUrl: "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp=1"
-cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp=1"
+excerpt: "This would be a big step for Nvidia because it would show that established desktop GPU designs can also be ported to smartphone SoCs, reports Gizmochina"
+publishedDateTime: 2023-02-26T07:34:00Z
+originalUrl: "https://www.business-standard.com/article/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
+webUrl: "https://www.business-standard.com/article/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
+ampWebUrl: "https://wap.business-standard.com/article-amp/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
 type: article
 quality: 89
 heat: 129
 published: true
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://glamsham.com/wp-content/uploads/2023/02/ffd111581e1561e1ae2dd7b9dc7355b8.jpg"
-    width: 400
-    height: 234
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-08/17/full/1597687742-5446.jpg"
+    width: 620
+    height: 464
     isCached: true
 
 related:
@@ -73,6 +73,6 @@ related:
       domain: digitimes.com
     quality: 34
 
-secured: "85RehSykEcRYpTpCm4N+iYt/4lKZke/NDKLgTI39pzQz/fPzTJ0ChtK5Fe8EuiivRBjnDK2/uCZmZMcZAMgdPNoq17HCATRjm+2PU1LJHiTDqPiIJFmnw6ORBHxpZff1zFKEsYBRPZTfk+nKhNc3SeKYzN0mfuGyxK+Ng6KNkZUgnBkGif2liOQGmLycCflJbkPfsXQy2/jK2R20A8LRJIeWbdDSxqRgkn4Q86nURZrF6xCuuBC2OEgy0+fh2CChOnrtEEU3XeMVwpoK8Jzlk5d+kwN8LesrMtCQbwGk1ROdTkuT7CKkLYRZHeiuAX6y3zgHg4jJ2YqxFqfwS5vaSJ1Xr7RDP1AeVo1TWBRP4WQ=;GbkkaAA3F3mufCEy3KqQIA=="
+secured: "6LlPVLfmIc7wbBYq2xaHudNIrFiOj6kDqMrU2fcYpDgW0nBa0tErMOKcqcDypVM0KUHqTW5v+FXWh7Zb6NQe/SgaFUUEPWgXIPJih6+UDpsfArSMtH62p1/CKABZlbN9HdzHnyEwA6faR5MiRWdACyth/2XX4jLICx2YvEBsqLnuYPZP8KOyWSV9+tASkqp9e5rvYAsBXUfQMdZ3K7WZHyJEIc9L6QkaB/7OoOYH0pJ4tW6Jnh7Q/DDNLMBmKH/ztaU5ueL57mUAzpUoHaFuxz2h8oRJzYpbsvhEBnIWDyZ5oFdJdg+aImAJn4DV7JHkpeMsQ4KNTjBMEqT7DWjGNetOJOqvlZdMrN7iY1LnC7g=;PRhQ97zX48QQZs0pLUnuxQ=="
 ---
 

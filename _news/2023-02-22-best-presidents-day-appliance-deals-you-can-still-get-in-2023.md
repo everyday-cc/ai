@@ -54,17 +54,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 41
-  - title: "Best robot vacuum deals under $100"
-    excerpt: "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ..."
-    publishedDateTime: 2023-02-21T15:24:00Z
-    webUrl: "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100-in-2023-02-24/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-24/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-24/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 39
 
 secured: "QgINOLRIVy2edMsc7KqBW47Fz5lQ934E9LNh6jsrfNC79tNW1y+Ep0BePqKWzss5lcadERzn/E8y2qvBHltq4v7V8mI6fkhJ40hzFEyEKhL/Ic5wDCJbQsla/OOZbI0hKH4L5G1uLJkKXWMNBjGJwAUL6mE/yELSrsA1M2SJk2cOO/mAKpsxT5eUJ6KfQCfkMUcX7xR060GeQd9dhLfvb/glZa69xpeWlql4Mfg3YWBbaMZC+tZ9m3i5oXiO8FbcutRftNsvEOlmXGKyS4vNhWLzSU/txJ3Pz8rH5TARU1Ua0orvlBAKfTliJBEPQW5eN9zurUS25FjgLEVSwXkyH+QG42AJr77nb3aawc6uYPn3Ce1xf0X1Vk3cWqswt1yIP1tur4TovMerJO7FneXqZYyNUgZ2Dwv1gQ1QxJ2I4M57y1B2laqFxzSVDB+GCeoGZ+Q8GfkkFHgXg686SheltaT+mb8gQyAp51A/nxM/iDR1GdioKFFbV4h9p4Yt+U/YSUIAc3D3EfGVz7rOc2+biA==;tpIQ8nrRaE3n54ElZm/lqw=="
 ---

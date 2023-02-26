@@ -27,6 +27,17 @@ images:
     height: 1043
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Insights] Top “Artificial Intelligence in Platform as a Service (PaaS) Market” Size 2023 Key players Profiled in"
+    publishedDateTime: 2023-02-25T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+
 secured: "ulUiob4f/txfkXf+yf1k49wC1B0bk7JnHN7afcn0Z/uBM9EW2bSOFzN2xJxBwe/cfGTmGPAlBRGF+L/tZA8P3BtVMPh0EEGDqK6NqT6QiROUpoE1Z4QKTQNmaczfggerKS+6uZL6y3OMLX233qEExKwdyqBTbcwZ2i6QQBQvmR22nUQhxpvTSWauhHSWvm3ASIrVv+uOWKhe5aj/jDW1/Q5ZssOtR+JoEpSjdbWBfYc+bcsFyVWgwIEwQ40tICOGnA0gVzeL6FGrHae3o79NJlYT3pPiiId7k6RmifSBGpdYcLYyVQ9pezdAJrfPc91EX+ZCtHV8//zFLvBiMkCXLSzpguQubFL7vT7oEVDBixk=;oQzuqM/QPtouAvAqi3fEpg=="
 ---
 

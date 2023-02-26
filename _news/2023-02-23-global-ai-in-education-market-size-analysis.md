@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Software Market By Industry Research, Supply, Size, Share and Prospects 2023-2028"
+    excerpt: "Computer Vision Software Market \" is expected to grow at a steady growth during the forecast period 2023-2028, Computer Vision Software Market report offers insights into the latest trends. It summarizes key aspects of the market,"
+    publishedDateTime: 2023-02-26T02:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-by-industry-research-supply-size-share-and-prospects-2023-2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence for Edge Devices Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
     excerpt: "Artificial Intelligence for Edge Devices Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type"
     publishedDateTime: 2023-02-24T02:02:00Z
@@ -141,15 +155,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-  - title: "Face Recognition Software Market 2023 Expected to Reach Significant Rate by 2029"
-    excerpt: "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Face Recognition"
-    publishedDateTime: 2023-02-21T16:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-2023-expected-to-reach-significant-rate-by-2029-2023-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
   - title: "Artificial Intelligence in Drug Discovery Market Share Growth 2023 All-Inclusive Research Growth Opportunities by 2027"
     excerpt: "The \"Artificial Intelligence in Drug Discovery Market\" Growth for 2023 research report provides a comprehensive analysis"
     publishedDateTime: 2023-02-24T05:19:00Z

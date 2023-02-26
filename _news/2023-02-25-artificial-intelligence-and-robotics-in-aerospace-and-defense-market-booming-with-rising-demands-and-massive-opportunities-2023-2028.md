@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,15 +23,36 @@ topics:
   - AI
 
 related:
-  - title: "Paraffin Physical Therapy Market Booming Worldwide Opportunity, Competitive Analysis, Future Prospects by 2028"
-    excerpt: "The Paraffin Physical Therapy Market has seen steady growth in recent years, as more people are seeking alternative forms of pain relief. The market is expected to continue to grow in the coming years,"
-    publishedDateTime: 2023-02-24T07:24:00Z
-    webUrl: "https://www.fmiblog.com/2023/02/24/paraffin-physical-therapy-market-booming-worldwide-opportunity-competitive-analysis-future-prospects-by-2028/"
+  - title: "Gaming opportunities for investors in 2023: Generative AI, low-code, metaverse, and more"
+    excerpt: "and the potential role of generative AI in game development. The quarterly analyst report on the gaming sector covers trends and issues predictions for how VC investments in video games will proceed over the course of 2023. This is PitchBook’s first ..."
+    publishedDateTime: 2023-02-24T05:01:00Z
+    webUrl: "https://www.geekwire.com/2023/gaming-opportunities-for-investors-in-2023-generative-ai-low-code-metaverse-and-more/"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
+      name: GeekWire
+      domain: geekwire.com
+    quality: 58
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/PitchBook-Feb-2023-report-Gaming-Landscape.jpg"
+        width: 1387
+        height: 785
+        isCached: true
+  - title: "MWC mobile tech fair to show off new phones, AI, metaverse"
+    excerpt: "The latest folding-screen smartphones, immersive metaverse experiences, AI-powered chatbot avatars and other eye-catching technology are set to wow visitors at the annual MWC wireless trade fair LONDON -- The latest folding-screen smartphones, immersive ..."
+    publishedDateTime: 2023-02-25T14:01:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
 
 secured: "fBBtDuXyDZWkQGuS1uLON7mILmS+UNgSDNmUTkxAzCLOTf0te0/sizjSOTKTaU3zfRfSe3L1+CR8Nzx/hzJe6Etxj52gBNtV33OkqLw9Orj7qJJc5JPATuz8T/jlutPrwH9/ii2COvPwDOOPdTWiLAPK/1aaMfeO7KEpRIgcbZihTK2a73EG1BILFtwhblQ7qFxSz1w3T5KSkeplZxi9MFlqgGK6isB2yAnW3623PUIiI5Ji9wiUOrGqpnggfz7Yf4YQkKtAf8h6S5hxbFT+M5CRxWMlm4pGI7gIRpMjH5nAX6N1Uo5HN55mLbhGIqqpViJxHNDC8XVgygTn3D3nxCo/wcb2o2N0NkjI8gzZ/bQ=;Q/0L3Pc90D0z1eNj2Cb8DA=="
 ---

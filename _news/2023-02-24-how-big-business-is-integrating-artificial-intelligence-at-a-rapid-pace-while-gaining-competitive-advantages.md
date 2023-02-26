@@ -1,13 +1,13 @@
 ---
 category: news
 title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
-excerpt: "Artificial Intelligence (AI) is becoming used in more and more markets and industries worldwide. At the current growth rate, AI may eventually touch every business, industry and market. The rapid penetration of the digital technologies and internet has significantly contributed towards the growth of the global artificial intelligence market in the past few years."
+excerpt: "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market."
 publishedDateTime: 2023-02-24T15:02:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-how-big-business-integrating-artificial-intelligence-a-rapid-/2023/02/24/9766176.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-how-big-business-integrating-artificial-intelligence-a-rapid-/2023/02/24/9766176.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2023/02/24/9766176.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/02/24/9766176.htm"
 type: article
-quality: 15
-heat: -1
+quality: 13
+heat: 13
 published: false
 
 provider:
@@ -15,43 +15,19 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
-  - title: "How machine learning is revolutionizing CX outsourcing"
-    excerpt: "CONTACT centers in the Philippines have long been the driving force behind the exponential growth of the business process outsourcing (BPO) industry, providing superlative customer service to companies around the world."
-    publishedDateTime: 2023-02-24T11:17:00Z
-    webUrl: "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127"
-    ampWebUrl: "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp"
-    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp"
+  - title: "FinancialNewsMedia.com: How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
+    excerpt: "FinancialNewsMedia.com News Commentary PALM BEACH, Fla., Feb. 24, 2023 /PRNewswire/ -- Artificial Intelligence (AI) is becoming used in more and more markets and industries worldwide. At"
+    publishedDateTime: 2023-02-24T13:50:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58401914-financialnewsmedia-com-how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-advantages-008.htm"
     type: article
     provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 59
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/02/24/161618.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AI scientist-author Toby Walsh: 'We are increasingly outsourcing some of our thinking to machines'"
-    excerpt: "Artificial Intelligence scientist, professor, author Toby Walsh, who was a prominent speaker at this year's Jaipur Literature Festival, talks about morality and ethics in the development of technology and the danger of handing over decision-making to machines."
-    publishedDateTime: 2023-02-25T08:12:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/lifestyle/artificial-intelligence-scientist-author-toby-walsh-interview-10152821.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/lifestyle/artificial-intelligence-scientist-author-toby-walsh-interview-10152821.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/lifestyle/artificial-intelligence-scientist-author-toby-walsh-interview-10152821.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 45
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/02/AI1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 5
 
-secured: "uzksirUFBcxDkJ/oackD5eAjxBYudPBQ2wWiK5ovhiBwyElReOyqrhA/K7lL6/DYFx92DtBqrROTStpUEmdJ64a6iO7jccg6d2Q/ir6Iaowp8jMSmIxRFsC/ioglJrZHOYFANfAj+ItRjj4jqycWdqLROhI4ILPqA3Io9xENzwhY7BMQqoUtVEZzEK6TIbmgBRYIQdA49VEN88Ivrdh4CYNawj4eeQpKhHL5VE8Xad3K6uLRm9vWv1BnQ08SP4A/Z5U18lmNi7jBBnUHCPRQ6zG6qTLW7i30gKPuvhJlBY7trNTawMGpsEtnoaBNIWF0aE0DOeJbQe7ZoGitbJNc8XtwKcPlURHlBe6pA9sjPeI=;bC6oK2xiyWybRDIipPkVMA=="
+secured: "AMYRt6HDWlg4/FjqA4hdWVySx7hoFYiaM5fHflQZv49LUqcB9SidCss++CJSCQ4lHe1AelzUXGkkAiAyJsuVep6o0+FvgMpHxkDKoJAjPvaT74RTIObCLitd+7shMzU5jnDndY6HceVlXbJurL0nrmGa3cvssrdXIb+LdFtu648nayiE9ieNT7afB5+8q6bjtIroiMdmMHwHKIm/vkDLBlKPQNwcPpXA0ou0T//tuytNyFcBN4ZyTKSfx9UIKSzKUfsYuW6gqEjf/creCX6WxXOZRSdvvsCo9aA4iw1vkQDcNj3biB7ZpnGO2FiLQrp7AxDlj9WdVFGE9XJLN9y3jFOBBkPsSwjosOq1SA0tzRw=;Dedp7HCChTWLr/9r4Esd5A=="
 ---
 
