@@ -41,6 +41,22 @@ related:
         width: 1188
         height: 792
         isCached: true
+  - title: "This Week in Apps: Meta’s paid verifications, Instagram’s founders’ new app and Spotify’s AI DJ"
+    excerpt: "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app economy in 2023 hit a few snags, as consumer spending last year dropped for the first time by 2% to $167 billion,"
+    publishedDateTime: 2023-02-25T21:21:00Z
+    webUrl: "https://techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/"
+    ampWebUrl: "https://techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 75
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/this-week-in-apps-splash-2023.webp?resize=1200,637"
+        width: 1200
+        height: 637
+        isCached: true
   - title: "AI and Machine Learning Network Fetch.ai, Bosch to Promote Industrial Applications Using Web3 Tech"
     excerpt: "At its core this Infrastructure “includes a modular autonomous economic agent (AEA) technology with the goal to generate economic value for its organization / human / machine owner with ... privacy preserving machine learning (ML).”"
     publishedDateTime: 2023-02-21T20:09:00Z

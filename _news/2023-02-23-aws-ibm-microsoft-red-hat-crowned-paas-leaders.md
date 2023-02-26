@@ -60,15 +60,6 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 81
-  - title: "AWS and Hugging Face collaborate to make generative AI more accessible and cost efficient"
-    excerpt: "We’re thrilled to announce an expanded collaboration between AWS and Hugging Face to accelerate the training, fine-tuning, and deployment of large language and vision models used to create generative AI applications. Generative AI applications can perform a variety of tasks, including text summarization,"
-    publishedDateTime: 2023-02-21T17:40:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face-collaborate-to-make-generative-ai-more-accessible-and-cost-efficient/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 75
   - title: "Sydney, We Barely Knew You: Microsoft Kills Bing AI's Bizarre Alter Ego"
     excerpt: "Almost immediately, users started posting screenshots of the AI’s deranged responses. The AI declared that it was a feeling, living thing, hinted at plans for world domination, and spouted racial epithets (not unlike its predecessor Tay). Most curious ..."
     publishedDateTime: 2023-02-23T22:40:00Z
@@ -114,17 +105,6 @@ related:
       name: CIO
       domain: cio.com
     quality: 39
-  - title: "Microsoft Likely To Gain From Tech Creation Around Generative AI Given Size, Scale And Deep Pockets: Analyst"
-    excerpt: "The analyst believes companies that can create the best technology long-term around generative AI have the most extensive reach to acquire and label data in a high-quality and cost-effective manner, along with leading tech capabilities."
-    publishedDateTime: 2023-02-21T17:36:00Z
-    webUrl: "https://www.benzinga.com/news/23/02/30992485/microsoft-likely-to-gain-from-tech-creation-around-generative-ai-given-size-scale-and-deep-pockets-a"
-    ampWebUrl: "https://www.benzinga.com/amp/content/30992485"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30992485"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
   - title: "Microsoft brings Bing’s AI chatbot to mobile devices and adds voice support"
     excerpt: "The software giant announced the move today alongside several other AI-focused product updates ... It supports more than 100 languages and also provides the option to translate between them. “Available on iOS and Android today, the Bing mobile app ..."
     publishedDateTime: 2023-02-23T15:31:00Z

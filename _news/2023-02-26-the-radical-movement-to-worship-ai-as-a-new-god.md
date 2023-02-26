@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-26T07:17:00Z
 originalUrl: "https://www.thedailybeast.com/the-radical-movement-to-worship-ai-chatbots-like-chatgpt-as-gods"
 webUrl: "https://www.thedailybeast.com/the-radical-movement-to-worship-ai-chatbots-like-chatgpt-as-gods"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1677342819/230225-tran-ai-god-hero_s7vep3"
@@ -23,6 +24,6 @@ images:
     height: 833
     isCached: true
 
-secured: "qxFaNKhs0J0+XDzWcPPlSaAG1zpFi0tVPob89KOQjhH1Oa3o5RLkPI89fE84UDj0NZ7OihhfGtOKLc+us1FKlZ/gbS2KJoX5/3k3i1rx7gyQYtS9lbkkSVnkKPFzVp1AJ8fQNBHBGoDuCuxoR/iDATd8SMRaRs5mubLeuxC31l0mH189Vk0Wjz4cPGIT5nYz8xXIvyJL/rVowUn3wX1ep6AAUYRnWCYZNuFOALiIIwngeTpqnbm4jNyoo8OCJTNnBL3tRhwZeJWSSJwUK2/s/JLNpSS6xBzP4h3w3n0mK2b3L2U7DIn8VRjvX/zP3ZL+2QfI9nn1HLeadh9ZsPe/ABje+LAcpRGrRlZAezTn17s=;13W3zO4yM1M+WTr3ACff7Q=="
+secured: "dITSrxRa0+l2zmQuIZWWlq1ddaQwFHxqu6vyJzsdYVeH/47hsVr/opOCP6Wsas54Zv/aiUeCocf8qoznrbJ59xvu5g/z6Ljwiqx/Bz/rwQvuUfYfW7MWNgzKU0sS3Csk+PnarrJQcB3ZYh3ZVZb89ar3vCwG8Mo1cHWo/9iewVSownFE1ANhJNdptB6uBZD2hX8hFDemoj3FB1JobDDA7UDRfaUWCneL51TZULXdhYPBFOABFG9MA/bNWpQzFWkVowMmzipSYNPQyKZm/imCbRUTUE1BRJTCKOjaOldQktv1SmcLBb9AsSMDo0URL+oHYaGhbkwIzRfjdg8J8JynGAXiYJML2ZG7z6fPiO53xlwM0qCSggV6nRaRFlaWbxRweXgXP8IGgbSDhXkZnRuYmDbR8YeGuv44aZlq3ft21niBYx0HPCKI1ycPP8cfD6wF8VGCcjqgmfphMwMAtWIHWfuDNdAj7ckZ2qfXn3oTJJUULPHbUSx7z2nDf/GRGT7PZhvkMjj9tuI/r8EJef7xMg==;MFGAeYnliJzl2ZY8CfexCA=="
 ---
 

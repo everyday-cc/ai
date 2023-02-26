@@ -37,6 +37,22 @@ related:
         width: 1188
         height: 792
         isCached: true
+  - title: "This Week in Apps: Meta’s paid verifications, Instagram’s founders’ new app and Spotify’s AI DJ"
+    excerpt: "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app economy in 2023 hit a few snags, as consumer spending last year dropped for the first time by 2% to $167 billion,"
+    publishedDateTime: 2023-02-25T21:21:00Z
+    webUrl: "https://techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/"
+    ampWebUrl: "https://techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 75
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/this-week-in-apps-splash-2023.webp?resize=1200,637"
+        width: 1200
+        height: 637
+        isCached: true
   - title: "Meta unveils new machine learning language model in ongoing AI investment"
     excerpt: "Meta Platforms (NASDAQ:META) is jumping anew into the artificial intelligence news cycle with the reminder that it too is making heavy investments in the space - publicly releasing a new large language model (the AI field that has brought developments like ..."
     publishedDateTime: 2023-02-24T17:20:00Z

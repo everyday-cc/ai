@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why facial recognition could spell the end of anonymity in public"
+    excerpt: "CCTV doesn’t just recognise your face — it can even sense your emotions and predict crime. Even the country’s biometrics boss is worried"
+    publishedDateTime: 2023-02-26T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=58f49e68f69f9368e5d590391f5bd519"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F95e76564-b51e-11ed-93c1-9f4b65bf4405.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Controversial facial recognition technology debate to be held at City Hall today"
     excerpt: "The debate over the use of facial recognition technology in New York City business is heading to City Hall Friday morning. Council members will be discussing how privately owned businesses are using facial recognition technology in a public oversight hearing later this morning at City Hall."
     publishedDateTime: 2023-02-24T11:41:00Z

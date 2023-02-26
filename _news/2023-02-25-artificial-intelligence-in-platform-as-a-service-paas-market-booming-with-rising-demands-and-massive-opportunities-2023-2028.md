@@ -23,22 +23,24 @@ topics:
   - AI
 
 related:
-  - title: "Global Machine Learning as a Service Market Report 2022: Demand for Cloud-Based Solutions Drives Growth"
-    excerpt: "OneSpan, in a Global Financial Regulations report observed ... and many cloud providers offered Machine Learning as a Service (MLaaS). Several countries used population surveillance methods ..."
-    publishedDateTime: 2023-02-22T15:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31008655/global-machine-learning-as-a-service-market-report-2022-demand-for-cloud-based-solutions-drives-gr"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31008655"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31008655"
+  - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Insights] Top “Artificial Intelligence and Robotics in Aerospace and Defense Market” Size 2023 Key players Profiled"
+    publishedDateTime: 2023-02-25T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+  - title: "Paraffin Physical Therapy Market Booming Worldwide Opportunity, Competitive Analysis, Future Prospects by 2028"
+    excerpt: "The Paraffin Physical Therapy Market has seen steady growth in recent years, as more people are seeking alternative forms of pain relief. The market is expected to continue to grow in the coming years,"
+    publishedDateTime: 2023-02-24T07:24:00Z
+    webUrl: "https://www.fmiblog.com/2023/02/24/paraffin-physical-therapy-market-booming-worldwide-opportunity-competitive-analysis-future-prospects-by-2028/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "mUJpQmfSmrRK5kk1p6Y431lNOMDwli8GJiRkyaT8S6Nzie0wfG+u9JUy5VoWQdpoZpa1hMNaXQyI/P/8bNer/uWi82jbQcN08kMv7LmuhJHsHdqbLYqCJhQ/JLLF/QLcezx0mJEKRHQ/B8IlpAnThY5WBHdx9glaGPvYwDLJ241orMWTvE/q9KxkLezQATq2fwp59KZkoxZwIje42LypdhbuUmidk3VluxI4SekWML0bb4pFTj9MlqTgDzxlEQ25tVheo2/KUzxAQVZ0771eyQU07Q+MNMt87ZpNS25Cdxt3WsEx05GN8LoYMcNX4E6H8WQf7Xchahs9DPsJBvwWbt8IUI5DRNaLU5yOfy2Pc8E=;WXYsoCCE1SJgcViHBUhbQA=="
 ---

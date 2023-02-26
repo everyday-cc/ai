@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/amp/"
 type: article
 quality: 91
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Link Ventures launches third fund to invest in AI, machine learning startups"
-    excerpt: "A Cambridge venture capital firm that has invested in local companies like EverQuote and Vestmark launched its third investment fund Tuesday."
-    publishedDateTime: 2023-02-21T18:09:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2023/02/21/link-ventures-launches-third-fund.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
 
 secured: "jtuvZt3hgH+MNBIrtxujb8vRkzNREoOULv2mAXgazwQWPYu+YqNEaLGcfh3CW4DnwPLMnbuxtOVycxCs8BvEKAeEFiEYlK5JtM3TN6lTEBnhLeShpmoVgE8ULv9d0Dp7UFhEvm6C0IuWi9r4mZPVnBs+mzMx3JTu1p+za6rIkRoTMbTADWnzb31ZTWggzX/+ZEnjJpT2dltEB0gDgQ0OMa8z1szGjpPHp5XOXiaTRQA8Rp/E37ZOaworf57hbaVn9X7EBIxVn3zVHL5Et4ksaXcRrH3fbiYfXQx1O5o6uPT+CzjHQFyUYgQ3HhCi5GCCqSjCfhSuAFom7BbH2WgnTe6+qauot1ahSj9wrIBwbggH0usIoFB48z6vhGqGLWDlthfQrHxtrFZ8QcuW2NqOHZnzOhhihyePF6LgAPxN0vckp0/Z62LPVSZ5zd0Adt7dPYC9JDd0e0Xz5Pk2euhDxLXsB4zWLqt7pp7VNdOPs/b9HY7MqPRMAdsg874umiNqdNDsgq7UNodgIJ1d0UgvYQ==;KRBhWc/A3O/dMmbFbkDmUw=="
 ---

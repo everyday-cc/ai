@@ -88,15 +88,6 @@ related:
       name: news.crunchbase
       domain: crunchbase.com
     quality: 17
-  - title: "10 FinTech Trends to Watch in 2023: Staying Ahead in the Digital Finance Revolution"
-    excerpt: "In 2023, there are 10 fintech  trends that are particularly noteworthy, including the rise of decentralized finance, the adoption of artificial intelligence in financial services, and the growth of digital wallets and contactless payments."
-    publishedDateTime: 2023-02-21T17:44:00Z
-    webUrl: "https://www.finextra.com/blogposting/23786/10-fintech-trends-to-watch-in-2023-staying-ahead-in-the-digital-finance-revolution"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 13
 
 secured: "spem6LTF3ES6iDM5sbwK199iED/AQRhzV3RinuBH4+3D0mYYCk7DZP3UqQohWK3+GATEc4xhB6uzQ2+05Uja07f1Tz6fijR8/3q8ZMKttlUog0NXJAj9jUEbgMuLyoYZI8Coo2SZ4HeK9X3MSy0d5H2F+x7zUqIjFKrAOUlQR9LU8F+KNTEEe8fXZbCNw7JHq/o5yZYBdjGTCWYlf9SnQq32I8eSzjGiSGuE7yeQbC8s3sBwvDV4T28FYSFvkhLpL1S5q1w1yBcfi/vVnfKD+1WspxKoP8YnRf6a6SoVJh8XOuX34sdIMVJxIoGZwzQQGo5NSCgecyWcZKbg7g7BZAo7IEMbuNbZw1qZUJLOyNo=;qgxSlocHcAKiQnmT0qMwQw=="
 ---

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Artificial Intelligence in Construction Market Report with Executive Summary, Size, Analysis and Forecast to 2023-2028"
-excerpt: "Feb 25, 2023 (The Expresswire) -- \"Artificial Intelligence in Construction Market\" Report provides a Detailed analysis of global market size, regional"
-publishedDateTime: 2023-02-25T12:03:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-report-with-executive-summary-size-analysis-and-forecast-to-2023-2028-2023-02-25"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-report-with-executive-summary-size-analysis-and-forecast-to-2023-2028-2023-02-25"
+title: "Facial Recognition Market 2023 Size to Set a High Potential Growth by 2028"
+excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+publishedDateTime: 2023-02-25T10:32:00Z
+originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-size-to-set-a-high-potential-growth-by-2028-2023-02-25"
+webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-size-to-set-a-high-potential-growth-by-2028-2023-02-25"
 type: article
-quality: 43
+quality: 67
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Computer Vision
   - AI
 
 images:
@@ -60,20 +61,6 @@ related:
     excerpt: "Feb 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The 2023 research report on the"
     publishedDateTime: 2023-02-22T09:55:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-2023-2028-a-look-at-the-leading-regions-and-players-2023-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market 2023 Size to Set a High Potential Growth by 2028"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-02-25T10:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-size-to-set-a-high-potential-growth-by-2028-2023-02-25"
     type: article
     provider:
       name: MarketWatch
@@ -205,6 +192,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Construction Market Report with Executive Summary, Size, Analysis and Forecast to 2023-2028"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Artificial Intelligence in Construction Market\" Report provides a Detailed analysis of global market size, regional"
+    publishedDateTime: 2023-02-25T12:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-report-with-executive-summary-size-analysis-and-forecast-to-2023-2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market 2023 : Global Industry Share, Key Dynamics and Forecast to 2028"
     excerpt: "Feb 21, 2023 (The Expresswire) -- \"Facial Recognition Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,"
     publishedDateTime: 2023-02-22T00:32:00Z
@@ -311,6 +312,6 @@ related:
         height: 249
         isCached: true
 
-secured: "dftS4gmD6bK3CyCDnPNrFqY/pNSvUug49OZddds/5zHh1o/lXXucv+kfJSHABnhyqIfyvSrM6HdcgXyotqBTQK4cLGcW5UINrFfCHK2RAfwGgU+hxO+v1kXk+KGVm4jDFg2puMvsMO42IZYSt32vLtg4xppE/BKW82fkjMobnXbLi76WwbqvE5iJ46/BnE+DSBaY0gnUfjtjqxUUqEbjTaRK1mc/shUh4d+O16RTiau9CP7wpbuaZoa5gPat2DqQo5SnCXsT3EaGHImsQFHrt8+peaKgsFfoq9tR27wir2Rcwi3EWoKW78G9iQMYCFZ8CSmaSBUNnEhAJwt+bpdNEdwLNL5mu9t2PLR3KZrnhS8=;kbHpgquM+bD6k1Q9yvAyXw=="
+secured: "qxUJqdH325v+eMQOURRPxmiygkcz2JpdQnS8VguPy9eq72sSCnDiLj2gEyVPa8C7I9RryZbZOfO9czVA+YLFoHnmQhurgejn536cg5UynQW642UMwoISmQOsPip2+NMbd5jre+yW9KPYiU2Fxg40qzzUG0aBZVY33wc9EAE8FC3Azdc9mq6thyNY0fB0F30d+HjuLDmfMJIoyMts8CKzymMRn8/TyYbP2e50XteYbuSQh4V79vqI2ahZ4snB15pO053A6ohtJ6qNYo3ulxe07J/hzQWX1R32dF9GDL28LilORgxeimAxO/3YM1+YVxLqhuPNtdiPk5KPo29NTZ45uKIPeQRQiBaxcG+euP5HpNw=;Osg4UK7n/DcHhhufRy55AQ=="
 ---
 

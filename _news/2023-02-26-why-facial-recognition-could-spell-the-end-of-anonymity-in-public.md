@@ -1,34 +1,44 @@
 ---
 category: news
-title: "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition"
-excerpt: "They say you can have anything you want in life if you dress for it. According to the makers of these anti-facial recognition garments, that includes privacy. These sweaters, masks, glasses, and makeup tips will scramble the algorithms and dazzle your friends."
-publishedDateTime: 2023-02-25T12:00:00Z
-originalUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479"
-webUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479"
+title: "Why facial recognition could spell the end of anonymity in public"
+excerpt: "CCTV doesn’t just recognise your face — it can even sense your emotions and predict crime. Even the country’s biometrics boss is worried"
+publishedDateTime: 2023-02-26T00:01:00Z
+originalUrl: "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=58f49e68f69f9368e5d590391f5bd519"
+webUrl: "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=58f49e68f69f9368e5d590391f5bd519"
 type: article
-quality: 69
-heat: 159
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Times
+  domain: thetimes.co.uk
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5962a488996ecd92c5b806c0c89f5c0a.jpg"
+  - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F95e76564-b51e-11ed-93c1-9f4b65bf4405.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
     width: 1200
     height: 675
     isCached: true
 
 related:
+  - title: "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition"
+    excerpt: "They say you can have anything you want in life if you dress for it. According to the makers of these anti-facial recognition garments, that includes privacy. These sweaters, masks, glasses, and makeup tips will scramble the algorithms and dazzle your friends."
+    publishedDateTime: 2023-02-25T12:00:00Z
+    webUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5962a488996ecd92c5b806c0c89f5c0a.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "DHS S&T concludes facial recognition can work for small groups, while maintaining privacy"
     excerpt: "The results from the “2022 Biometric Technology Rally” could inform the way forward for TSA and other government agencies as they increasingly adopt facial recognition"
     publishedDateTime: 2023-02-25T00:41:00Z
@@ -56,20 +66,6 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/02/24/4fc2b737-7da0-42ba-88e4-8c0421732e98/thumbnail/1200x630/fc6903c0bf72629290515b17ed38ec96/f8837d3590d8fc61c45d43c577509dd8.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Why facial recognition could spell the end of anonymity in public"
-    excerpt: "CCTV doesn’t just recognise your face — it can even sense your emotions and predict crime. Even the country’s biometrics boss is worried"
-    publishedDateTime: 2023-02-26T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=58f49e68f69f9368e5d590391f5bd519"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F95e76564-b51e-11ed-93c1-9f4b65bf4405.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "US military says it can put facial recognition into robot drones"
     excerpt: "The science and technology magazine is reporting that the Air Force now has the power to give facial recognition to autonomous drones."
@@ -133,6 +129,6 @@ related:
       domain: cbsnews.com
     quality: 19
 
-secured: "/o+ssxTKSogn0TbUbqWcdWQTxLD/j4rCzB1vp19+NFKY+U46u/QJ9oqdnqBvm1LSFOJpKLtPArm+VYTA5nMrrVptlIklrlELIoVZaur9x6RocR8oGqpPhgXh0QUrtKr9tiqXjzxYFyRObietnzYwWuyLd3kSkD4uB0tiRU2ytXOBMUFF7l0+43J2xGxF/kZuBZpXs5mOyJiLVr9KVfeb8X/eqqlU8HYo96KbM60hdppQTVZB9SrSPJMoSQSinpTSRdPJ2O4Ea7RhiVHeZI0IKLRUlhJY0m6v4ujr8ptL/u1F8cqGrsMIi/JGQ37QTk0jsB8i445ngNeeB1NGyTE72UFUDuR9alFdvERWkNnVaLhmGeRAnYRmDfbDuIEhdb5NDkpB8IP2rau/T7JrdK7ByySJbngLp0DsuTMMM2XD4hDOTYdKHcSlx6eb42To5lCmYufiByXmCmiXRMpeh+aJtq0IAth5IxxrihEvKN9E/qeqBVqHojTzPo5wEZGELgjvCdtZhgrX3F3KOzNJikMJ4g==;LWg93nLHZ9mYIzxcnRGB6Q=="
+secured: "nuhdYI41O6gd+qbI+RbUzgk1Mi2TA8VZq1M5e15FOelDkuo9QsIyge6aRVM9Yz5y77jqf+SP6UZWNJ7887sVQurczivbmZwzaCFjQ6AMD/xG6Ibh4btxsDqygIgQ42Qh5J2tAkXnL9qFT1ue6zRieTqsMln9vmnGc6WcbRfKZrvADPAlQHXojAx/pCmWEyO2ZD6fcw1d771b/h1aUF7ReHq52LtQ9Mih1k9zq1M+1edBxADsWCLchXQo3Hok/8FvNjIbmsyI0Jl4CcwDGe1/2Iu6xnCw1lfjhqWtWEhMM3LVjOE67Aycdn8rLyrz+u2Ua6nTmeeUAzn7MGeCiSJszuRkPMWecPg/9/s5OevCVZU=;8xFQSwY9iWjnBd9O2Mo6bw=="
 ---
 

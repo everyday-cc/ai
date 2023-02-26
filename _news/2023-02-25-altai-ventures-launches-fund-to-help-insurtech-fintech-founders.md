@@ -80,15 +80,6 @@ related:
       name: news.crunchbase
       domain: crunchbase.com
     quality: 17
-  - title: "10 FinTech Trends to Watch in 2023: Staying Ahead in the Digital Finance Revolution"
-    excerpt: "In 2023, there are 10 fintech  trends that are particularly noteworthy, including the rise of decentralized finance, the adoption of artificial intelligence in financial services, and the growth of digital wallets and contactless payments."
-    publishedDateTime: 2023-02-21T17:44:00Z
-    webUrl: "https://www.finextra.com/blogposting/23786/10-fintech-trends-to-watch-in-2023-staying-ahead-in-the-digital-finance-revolution"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 13
   - title: "TENET FINTECH GROUP INC"
     excerpt: "Toronto, Ontario--(Newsfile Corp. - February 1, 2023) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative AI service provider and operator of the ..."
     publishedDateTime: 2023-02-23T00:00:00Z

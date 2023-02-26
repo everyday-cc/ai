@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market 2023 Size to Set a High Potential Growth by 2028"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-25T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-size-to-set-a-high-potential-growth-by-2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Insurtech Market Size Global Research Report, 2023 - 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 23, 2023 (The Expresswire) -- [87 Insights] Top “Artificial Intelligence In Insurtech Market” Size 2023 Key players Profiled in the Report are [, Cognizant ..."
     publishedDateTime: 2023-02-24T02:09:00Z

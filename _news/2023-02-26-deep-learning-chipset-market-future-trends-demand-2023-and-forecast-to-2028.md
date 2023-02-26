@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-ma
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-future-trends-demand-2023-and-forecast-to-2028-2023-02-25"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market Updates in 2023, Latest Developments Trend and Future Expansion by 2029"
+    excerpt: "The Readers in the section will understand how the Machine Learning as a Service (MLaaS) market scenario changed across"
+    publishedDateTime: 2023-02-24T05:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-updates-in-2023-latest-developments-trend-and-future-expansion-by-2029-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

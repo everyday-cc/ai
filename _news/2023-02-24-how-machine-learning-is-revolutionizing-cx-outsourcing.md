@@ -9,8 +9,8 @@ ampWebUrl: "https://www.manilatimes.net/2023/02/24/public-square/how-machine-lea
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: manilatimes
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
+    excerpt: "FinancialNewsMedia.com News Commentary PALM BEACH, Fla.,  /PRNewswire/ -- Artificial Intelligence (AI) is becoming used in more and more markets and industries worldwide. At the current growth rate, A"
+    publishedDateTime: 2023-02-24T12:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31047086/how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31047086"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31047086"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "AI scientist-author Toby Walsh: 'We are increasingly outsourcing some of our thinking to machines'"
     excerpt: "Artificial Intelligence scientist, professor, author Toby Walsh, who was a prominent speaker at this year's Jaipur Literature Festival, talks about morality and ethics in the development of technology and the danger of handing over decision-making to machines."
     publishedDateTime: 2023-02-25T08:12:00Z

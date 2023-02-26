@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-size-global-research-report-2023---2028-2023-02-22"
 type: article
 quality: 74
-heat: 294
+heat: 304
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
     excerpt: "Feb 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The 2023 research report on the"
     publishedDateTime: 2023-02-22T09:55:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-2023-2028-a-look-at-the-leading-regions-and-players-2023-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market 2023 Size to Set a High Potential Growth by 2028"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-25T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-size-to-set-a-high-potential-growth-by-2028-2023-02-25"
     type: article
     provider:
       name: MarketWatch
