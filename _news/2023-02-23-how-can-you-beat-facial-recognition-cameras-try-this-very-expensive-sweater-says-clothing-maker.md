@@ -109,15 +109,6 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 34
-  - title: "Facial recognition is a violation of privacy, News Poll results show"
-    excerpt: "YARMOUTH, Maine—Our readers have spoken! Facial recognition technology can be considered a violation of people’s privacy and discriminatory, even with the security benefits that the technology is intended to provide, according to the results of the ..."
-    publishedDateTime: 2023-02-21T20:16:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/facial-recognition-can-be-viewed-as-a-violation-of-privacy-news-poll-results-show"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 19
   - title: "New York City Council holds hearing on facial recognition technology"
     excerpt: "New York City Council holds hearing on facial recognition technology Facial recognition technology was the controversial topic at a New York City Council hearing Friday. As CBS2's Doug Williams reports, there was one noticeable absence."
     publishedDateTime: 2023-02-24T22:24:00Z

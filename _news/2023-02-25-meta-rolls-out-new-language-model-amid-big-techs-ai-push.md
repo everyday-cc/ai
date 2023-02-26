@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Meta Debuts AI Language Model, But It's Only for Researchers"
-    excerpt: "Facebook parent company Meta's LLaMA program can outperform larger AI models including OpenAI's older GPT 3 model, according to the company."
-    publishedDateTime: 2023-02-24T19:18:00Z
-    webUrl: "https://www.pcmag.com/news/meta-debuts-ai-language-model-but-its-only-for-researchers"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05MarzpBaDYapcunQMQdCUP-1.fit_lim.size_1200x630.v1677260670.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Meta's little LLaMA model comes with big benefits for AI researchers"
     excerpt: "Facebook's parent company has released LLaMA, a relatively small but powerful model that should help researchers address the potentially harmful and sometimes wacky pitfalls of AI."
     publishedDateTime: 2023-02-24T21:44:00Z
@@ -161,15 +147,6 @@ related:
       name: shorenewsnetwork
       domain: shorenewsnetwork.com
     quality: 19
-  - title: "Meta Released LLaMA, an Open Large Language Model with 65-Billion-Parameters"
-    excerpt: "It’s part of Meta’s commitment to open science.” “Training smaller foundation models like LLaMA is desirable in the large language model space because it requires far less computing power and resources to test new approaches,"
-    publishedDateTime: 2023-02-24T21:03:00Z
-    webUrl: "https://iblnews.org/meta-released-llama-an-open-large-language-model-with-65-billion-parameters/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 1
 
 secured: "waR1/FLPvWRzz+xSBZG1lm30I+kApL4JyeWVMFlvdfMp+5NEh3rFso319tqysAfi8Ml/DAnEeRgd1ArCIwGJEYs7ie7EQ3ESNHzCHVlt1Yo0bbV5IuNs4CxL0GtN05JrVEc4GpSqq8OnnwgJQYFPz2bfe6lvwk2JzSCiPtJEAPfIGJboVVjXCsFPwDrDPMG9KdVG+JZiGwwDmVuf68kHcR0nHvZz1Yna6qJLjDB0ZNGvj8hybKq/tCVSo9nGnkoGrxRBYme/a4Y8qMo6UhfrIjJG9EzPKyuumu5ygTZxZ9CXM8q2PYRyHvX7DCpV4jHvudrCEZIXX+vsrdtJkigq3/hC2cFn2XpoIPTfl8FCH7WU1UKHD/2Blior3bkzgQanOd0YR3GVLihVbw2LDHgfFd8leXGjx26pavlMtdDui1MooO+Ux6sHPDA/Oz3BxpR65U2NHHifgJPoWOO628DNiz+tpbWHG4OpFFPXDAqSJYaYEgudioz4MlO2FSVQr2RJlbOdVM90H+G/6AittKtutA==;IT13XIAzQpO2kUiHqSmUmQ=="
 ---

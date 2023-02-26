@@ -177,6 +177,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+  - title: "Latest Survey on \"Artificial Intelligence in Manufacturing Market\" Report 2023-2028, Updated Report With 100 Pages"
+    excerpt: "Report Highlights:- \"The global Artificial Intelligence in Manufacturing market size was valued at USD 1459.63 million"
+    publishedDateTime: 2023-02-25T13:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-in-manufacturing-market-report-2023-2028-updated-report-with-100-pages-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Natural Language Processing Market International Business Analysis, Development Outlook and Regional Strategies 2028"
     excerpt: "Cloud Natural Language Processing Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type (, Rule"
     publishedDateTime: 2023-02-24T02:17:00Z

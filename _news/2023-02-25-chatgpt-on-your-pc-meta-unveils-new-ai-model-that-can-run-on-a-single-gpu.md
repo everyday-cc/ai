@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-
 webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
 type: article
 quality: 62
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -23,42 +23,56 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT-maker OpenAI has hired tons of former Google and Meta employees, new data shows"
-    excerpt: "Data from LeadGenius and Punks & Pinstripes shows that a number of the company's 200-plus employees came from Alphabet, the parent company of Google and AI research lab DeepMind. OpenAI currently employs about 59 ex-Google employees and about 34 former ..."
-    publishedDateTime: 2023-02-22T16:50:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2?amp"
+  - title: "Meta unveils a new large language model that can run on a single GPU [Updated]"
+    excerpt: "The LLaMA collection of language models range from 7 billion to 65 billion parameters in size. By comparison, OpenAI's GPT-3 model—the foundational model behind ChatGPT —has 175 billion parameters. Meta trained its LLaMA models using publicly available datasets,"
+    publishedDateTime: 2023-02-24T20:02:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-  - title: "Facebook-owner Meta unveils more cautious approach to ChatGPT frenzy"
-    excerpt: "Meta described its own AI, called LLaMA, as a \"smaller, more performant\" model designed to \"help researchers advance their"
-    publishedDateTime: 2023-02-25T12:00:00Z
-    webUrl: "https://www.newindianexpress.com/business/2023/feb/25/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy-2550910.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2023/feb/25/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy-2550910.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/feb/25/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy-2550910.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 44
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 85
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/12/w600X390/AI.jpg"
-        width: 600
-        height: 390
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/02/meta_llm_hero_1-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "China moves to regulate AI, $10K Nvidia GPU powers ChatGPT, AI transforming sports - catch all this and more in today's AI news!"
-    excerpt: "China attempts to regulate AI after ChatGPT frenzy. China will introduce rules to govern the use of artificial intelligence across a swath of industries, moving to regulate emerge"
-    publishedDateTime: 2023-02-25T14:06:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/china-moves-to-regulate-ai-10k-nvidia-gpu-powers-chatgpt-ai-transforming-sports-catch-all-this-and-more-in-todays-ai-news-10159881.html"
+  - title: "Meta unveils a new large language model that can run on a single GPU"
+    excerpt: "Smaller-sized AI models could lead to running ChatGPT-style language assistants ... can reportedly outperform GPT-3 while running on a single GPU. Unlike the data center requirements for GPT-3 derivatives, LLaMA-13B opens the door for ChatGPT-like ..."
+    publishedDateTime: 2023-02-24T20:02:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 5
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+  - title: "Meta Debuts AI Language Model, But It's Only for Researchers"
+    excerpt: "Facebook parent company Meta's LLaMA program can outperform larger AI models including OpenAI's older GPT 3 model, according to the company."
+    publishedDateTime: 2023-02-24T19:18:00Z
+    webUrl: "https://www.pcmag.com/news/meta-debuts-ai-language-model-but-its-only-for-researchers"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05MarzpBaDYapcunQMQdCUP-1.fit_lim.size_1200x630.v1677260670.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Meta Released LLaMA, an Open Large Language Model with 65-Billion-Parameters"
+    excerpt: "It’s part of Meta’s commitment to open science.” “Training smaller foundation models like LLaMA is desirable in the large language model space because it requires far less computing power and resources to test new approaches,"
+    publishedDateTime: 2023-02-24T21:03:00Z
+    webUrl: "https://iblnews.org/meta-released-llama-an-open-large-language-model-with-65-billion-parameters/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 1
 
 secured: "5N897+hwThPOmDxJln/ihgfoQA09Vppbb62eZRT/FgHohzMgEfy2jcnSHOII3hoOSxvvRBTn2pGor79gFHoEkB1MepHRZIOahEsNcRijfz42GkEyjSHQXqEeRav437yZXb5DoWD25TNx04isT3L/Wml7uw06nKcFeSvEHqczn8w/kZRTStQRETqHbTL8C2zynTElFPv0cLc2v7VUwSq96oTssYMDhjOXLTAXPZp/pPX8K8NxiasPD8Qmyy8BpErF0AdJmvvMJBSSHC5yvB4fYHQkmwOPyiG24XEKtlb+FQXFnuszYcYpkoKEAAm2oZpk+pwJ+KEwnaWUx2LsdDkCwqX5Wa23raXisTsUJTWR7ZM=;UIF8wdx1GfAMrYgY+oOJpw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/business/2023/feb/25/facebook-owner
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/feb/25/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy-2550910.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,35 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT on your PC? Meta unveils new AI model that can run on a single GPU"
-    excerpt: "Smaller-sized AI models could lead to running ChatGPT-style language assistants ... can reportedly outperform GPT-3 while running on a single GPU. Unlike the data center requirements for GPT-3 derivatives, LLaMA-13B opens the door for ChatGPT-like ..."
-    publishedDateTime: 2023-02-24T20:02:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
+  - title: "Facebook rolls out new AL language model, LLaMA: What is it, how is it different from ChatGPT and more"
+    excerpt: "Meta, Facebook’s parent company, continues to do significant work in this field and is releasing a new AI language generator named LLaMA today. “Today"
+    publishedDateTime: 2023-02-25T03:06:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/facebook-rolls-out-new-al-language-model-llama-what-is-it-how-is-it-different-from-chatgpt-and-more/articleshow/98223488.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/facebook-rolls-out-new-al-language-model-llama-what-is-it-how-is-it-different-from-chatgpt-and-more/amp_articleshow/98223488.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/facebook-rolls-out-new-al-language-model-llama-what-is-it-how-is-it-different-from-chatgpt-and-more/amp_articleshow/98223488.cms"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 62
-  - title: "ChatGPT-maker OpenAI has hired tons of former Google and Meta employees, new data shows"
-    excerpt: "Data from LeadGenius and Punks & Pinstripes shows that a number of the company's 200-plus employees came from Alphabet, the parent company of Google and AI research lab DeepMind. OpenAI currently employs about 59 ex-Google employees and about 34 former ..."
-    publishedDateTime: 2023-02-22T16:50:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2?amp"
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 28
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-98223457,width-1070,height-580,imgsize-15346,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
+  - title: "Facebook-owner Meta unveils more cautious approach to ChatGPT frenzy"
+    excerpt: "Facebook-owner Meta on Friday unveiled its own version of the artificial intelligence behind apps such as ChatGPT,"
+    publishedDateTime: 2023-02-26T10:35:00Z
+    webUrl: "https://manilastandard.net/business/power-technology/314308767/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-  - title: "China moves to regulate AI, $10K Nvidia GPU powers ChatGPT, AI transforming sports - catch all this and more in today's AI news!"
-    excerpt: "China attempts to regulate AI after ChatGPT frenzy. China will introduce rules to govern the use of artificial intelligence across a swath of industries, moving to regulate emerge"
-    publishedDateTime: 2023-02-25T14:06:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/china-moves-to-regulate-ai-10k-nvidia-gpu-powers-chatgpt-ai-transforming-sports-catch-all-this-and-more-in-todays-ai-news-10159881.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 5
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 24
+    images:
+      - url: "https://manilastandard.net/wp-content/uploads/2021/12/business-category-card-1.jpg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "aDxGf04naX4Os8fOzbK1SaMFk8E4CqeDBqE1aXro3hgtcd6Ff8QUUewwVzh3grZOzz7h3XdJlVhfwZUvT4UJ/MetXLn/PRwXoejeppwn6bz++25XUqZ8rTACtUpxa8skQHPMsaSIFZeipnOODABsmZQpVu0LzeblYkZmb1jvlKCQDFqyE+6lU2Bx2cgdPE8A194bEe+DhK6jjCuCKqQ2sITekxMrzDJcwDbud0nva8GEqQ+peO9Imh/NIDWGxmJqQhbKnqJPt6MDMrnt8R75DIYR+BxONbpGZMfSyPuZ7OfjPyByon0JI6eMDvcSFehwu+TGJqcejEM5SZG94WvxLJ8fpNxluhwwuT66VVIyBXI=;8mLbmQpcUF88vkE2cePfNQ=="
 ---

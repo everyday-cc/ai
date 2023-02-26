@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-24T22:00:00Z
 originalUrl: "https://www.fool.com/investing/2023/02/24/asml-stock-offers-a-monster-opportunity-amid-the-a/"
 webUrl: "https://www.fool.com/investing/2023/02/24/asml-stock-offers-a-monster-opportunity-amid-the-a/"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI Hardware
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/721777/android-pressing-laptop-keyboard.jpg"

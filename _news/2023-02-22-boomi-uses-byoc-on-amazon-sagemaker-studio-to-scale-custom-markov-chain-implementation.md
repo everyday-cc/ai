@@ -41,15 +41,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
-  - title: "MLOps deployment best practices for real-time inference model serving endpoints with Amazon SageMaker"
-    excerpt: "After you build, train, and evaluate your machine learning (ML) model to ensure it’s solving the intended business problem proposed, you want to deploy that model to enable decision-making in business operations. Models that support business-critical functions are deployed to a production environment"
-    publishedDateTime: 2023-02-21T19:28:58Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/mlops-deployment-best-practices-for-real-time-inference-model-serving-endpoints-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 54
 
 secured: "yW4yaDpzdvjoK+v8GgC7AYTj/55iyxNF943oP/WT5x2LUFNc0bR5YHVl7OmTLASIdWmGcgQmuFe+6LxykhiCWE/Nal3LmDCbqXnvWmU0NPaVUQOQWV8vjFkS00GwL7/DbHlGZujMZwYsjCxlpGCZKjruN9AvjeDFVAohPfnmudpDpb9FKx6eadcmnYF+cVdVQeNlQ15XUogThLM3ipuND2lSsyCrWtaD5t0jHhIoogbtBjVYg4JnsUe6HNjWl8Yds8d/vo5kCoUU8gde5V0tOxk1S9gaAwmMWgeeXpjoLWvNMwCuzHZppRoAUEkMQe4wDHyguXxnFh3tpdOfya2DORwCbNKJ7u3BzY0MQDTz3rM=;4xevNiFoBUf9QNgdXbt8Dg=="
 ---

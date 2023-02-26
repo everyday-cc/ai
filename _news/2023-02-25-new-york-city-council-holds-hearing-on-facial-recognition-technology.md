@@ -118,15 +118,6 @@ related:
       name: Staten Island Advance
       domain: silive.com
     quality: 26
-  - title: "Facial recognition is a violation of privacy, News Poll results show"
-    excerpt: "YARMOUTH, Maine—Our readers have spoken! Facial recognition technology can be considered a violation of people’s privacy and discriminatory, even with the security benefits that the technology is intended to provide, according to the results of the ..."
-    publishedDateTime: 2023-02-21T20:16:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/facial-recognition-can-be-viewed-as-a-violation-of-privacy-news-poll-results-show"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 19
 
 secured: "L9TzqtEd/NG9/hKhBzwQ9Nd0zSXbZjSDl/UTCmHThjnUALNTjfUGj1dGx70AXRDmRR9S4pZicDOkN2gGvTyIMCX6vyqlfmP0u+RhjxtPsj2/mINbii9Lco/wLlGcQs0eKce163vtmPVuHajcU0hF+nkTY5FzTO9Ng2AX9yUD0+ykW0wVtEYlomy8Xc+CUtSxoUHmmxGxXKWpTD3WVhYhD84VTeh9T29UFqrRakglXlGZX9uEbC1FlfQAyxoCMJMIzuQV8d8kc/jppPV0cmObukBzZdi/bd1R3p9SGmkkypbzq2232A/mpj0y84wtfrQGtsCxB5xuZFJMani3hlSNq1aTlnly5HY9zb1ttueD1UKdFEarUQr8KC4tcCMP5NC33F+bQSdzvHTbIWhK47g5SjaDwP18ycxRI2A/RF/VcZpKM13EONG+9Einy/TwqJNs5hu11MvFXgxcpPnR4DeoywW3mqobqKdG37UKnjMkCzqkn51vN4J2Y2xLQms7PQVNefsQ9dvqtfyErYbPhqPjJQ==;asQacLlsR/JIDI+iYb9ZOw=="
 ---

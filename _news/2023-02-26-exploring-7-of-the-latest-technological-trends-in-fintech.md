@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Riding the tech tidal wave: A journey through 5 waves of fintech evolution"
+    excerpt: "The past ten years have been changing and shifting toward a tech-dominant lifestyle, upending national economies around the globe. According to a report by Research and the Markets, the global market for digital transformation"
+    publishedDateTime: 2023-02-26T11:11:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/riding-the-tech-tidal-wave-a-journey-through-5-waves-of-fintech-evolution/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/riding-the-tech-tidal-wave-a-journey-through-5-waves-of-fintech-evolution/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/riding-the-tech-tidal-wave-a-journey-through-5-waves-of-fintech-evolution/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 42
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "Altai Ventures Launches Fund to Help Insurtech, Fintech Founders"
     excerpt: "Altai Ventures, an early-stage venture capital firm, recently announced the closing of Altai Ventures Fund II, LP (focused on Fintech)."
     publishedDateTime: 2023-02-24T20:39:00Z
@@ -53,15 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Swiss Fintech Creed&Bear Lands In Dubai"
-    excerpt: "The Swiss FinTech Creed&Bear Lands in Dubai Dubai, United Arab Emirates--(Newsfile Corp. - February 23, 2023) - Creed&Bear, a leading FinTech com"
-    publishedDateTime: 2023-02-23T19:17:00Z
-    webUrl: "https://menafn.com/1105630164/The-Swiss-Fintech-CreedBear-Lands-In-Dubai"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
   - title: "How Is Fintech Changing The Way We Bank?"
     excerpt: "The world of banking is changing rapidly, and the engine driving this change is the phenomenon known as fintech. As a result, our relationship with money has been completely upended."
     publishedDateTime: 2023-02-25T14:10:00Z
@@ -71,15 +78,6 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 19
-  - title: "Artificial Intelligence In Agtech Is Blooming"
-    excerpt: "Netherlands-based Source.ag has raised $23 million for its AI platform that predicts the best growing conditions for greenhouse plants."
-    publishedDateTime: 2023-02-23T20:27:00Z
-    webUrl: "https://news.crunchbase.com/agtech-foodtech/artificial-intelligence-agtech-source-ag/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 17
   - title: "TENET FINTECH GROUP INC"
     excerpt: "Toronto, Ontario--(Newsfile Corp. - February 1, 2023) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative AI service provider and operator of the ..."
     publishedDateTime: 2023-02-23T00:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-disaster-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-disaster-response-with-computer-vision-for-satellite-imagery-using-amazon-sagemaker-and-amazon-augmented-ai/"
 type: article
 quality: 77
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
-  - title: "MLOps deployment best practices for real-time inference model serving endpoints with Amazon SageMaker"
-    excerpt: "After you build, train, and evaluate your machine learning (ML) model to ensure it’s solving the intended business problem proposed, you want to deploy that model to enable decision-making in business operations. Models that support business-critical functions are deployed to a production environment"
-    publishedDateTime: 2023-02-21T19:28:58Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/mlops-deployment-best-practices-for-real-time-inference-model-serving-endpoints-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 54
 
 secured: "4Ecdkfd6OBTAYz4MCH9sUAzm1avv12SuPODYPQMZvRRwS8dEiJRLKPq/XtbpkEdt5YuTOShkl/6Yj7FanETZUi9Au3v1Xn+lAgXe6q9k3mOvhNFgrkUNdBQ5Ultqar5jSgyVr+GQkKj7oCcWU3hUPewma8Fj7spTDbn6dyaCxqJDd308cajOyw9vHEu8KrJECQoYzqC3TdoyAsESjVQyTh4AmN8fyDYCdXjnVIDFok/M6Vy85S/IAe2MaDBbYo+vuUcE8GTx/0O4NjJyfCuj0TNB5Daz49CGCfQ4xQAQBXd7Eqsd8+TvpxJVaAp0NYZDOswicq1/VtpinJaySvdXs9jta2xB23HYjHkseccaBP0=;zgMsi+14/2vqP7BGffQkhQ=="
 ---

@@ -44,17 +44,6 @@ related:
         width: 5353
         height: 4124
         isCached: true
-  - title: "Meta unveils a new large language model that can run on a single GPU"
-    excerpt: "Smaller-sized AI models could lead to running ChatGPT-style language assistants ... can reportedly outperform GPT-3 while running on a single GPU. Unlike the data center requirements for GPT-3 derivatives, LLaMA-13B opens the door for ChatGPT-like ..."
-    publishedDateTime: 2023-02-24T20:02:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
   - title: "Meta announces new AI language model"
     excerpt: "Feb. 24 (UPI) --Meta CEO Mark Zuckerberg announced Friday that the company was releasing a new AI language generator named LLaMA. The new language model is a research tool that is intended to help scientists and engineers explore applications for AI like ..."
     publishedDateTime: 2023-02-24T19:14:00Z

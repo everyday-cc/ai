@@ -110,15 +110,6 @@ related:
       name: Staten Island Advance
       domain: silive.com
     quality: 26
-  - title: "Facial recognition is a violation of privacy, News Poll results show"
-    excerpt: "YARMOUTH, Maine—Our readers have spoken! Facial recognition technology can be considered a violation of people’s privacy and discriminatory, even with the security benefits that the technology is intended to provide, according to the results of the ..."
-    publishedDateTime: 2023-02-21T20:16:00Z
-    webUrl: "https://www.securitysystemsnews.com/article/facial-recognition-can-be-viewed-as-a-violation-of-privacy-news-poll-results-show"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 19
   - title: "New York City Council holds hearing on facial recognition technology"
     excerpt: "New York City Council holds hearing on facial recognition technology Facial recognition technology was the controversial topic at a New York City Council hearing Friday. As CBS2's Doug Williams reports, there was one noticeable absence."
     publishedDateTime: 2023-02-24T22:24:00Z
@@ -129,6 +120,6 @@ related:
       domain: cbsnews.com
     quality: 19
 
-secured: "nuhdYI41O6gd+qbI+RbUzgk1Mi2TA8VZq1M5e15FOelDkuo9QsIyge6aRVM9Yz5y77jqf+SP6UZWNJ7887sVQurczivbmZwzaCFjQ6AMD/xG6Ibh4btxsDqygIgQ42Qh5J2tAkXnL9qFT1ue6zRieTqsMln9vmnGc6WcbRfKZrvADPAlQHXojAx/pCmWEyO2ZD6fcw1d771b/h1aUF7ReHq52LtQ9Mih1k9zq1M+1edBxADsWCLchXQo3Hok/8FvNjIbmsyI0Jl4CcwDGe1/2Iu6xnCw1lfjhqWtWEhMM3LVjOE67Aycdn8rLyrz+u2Ua6nTmeeUAzn7MGeCiSJszuRkPMWecPg/9/s5OevCVZU=;8xFQSwY9iWjnBd9O2Mo6bw=="
+secured: "k93AgFM4QtQA2LCqxnWWH6Ylun/BqaRNFwtT2sgh4gajH3VgmoWpOX4Ennq5l46YozRMDznr9lfF1CQU8tSAY2lPlZbEUEVmGXJ0ZkMyg6T6kCfQ0RLq84aCPY6xcWgFdrpKWwoj6NC+wMBfrvjxndU9M2kIFmJI65pfGTgQNaqY45jQvafXa6DAJ5mx8ggcF1oXgFkVeVUDJg8S5l/3DdaAbS8pMhLa6dCfg/DmfY+fkIsUvRZ1SjGcYFWvzC2mEUMGfvbhFol/zKV2924soFyKlqv/ZdKQ/COJOTuKB+l5xRksbiSa3Thn0OIFpkjXKTJDEBIGL3yJZR05IdsSI44N0WMrh0vcrjcd6Su7Q+/mgSH0HwJ6XNxoOQySWQ7W/1pdiHfRNWuOOtV0kHY+FFKrkZahDx4UW9G6p9ll6hpECceWe/AfAnl32zb5PvVKm12t/xriaClCgStRwBSWzEV9etxNkoaBLZNDMP1A5FsPuN300WvP1lo9r2j+4pKjBaJztBmub18bJGBG/a9RHg==;StIZtOXaeikcQKT7/dRoIw=="
 ---
 

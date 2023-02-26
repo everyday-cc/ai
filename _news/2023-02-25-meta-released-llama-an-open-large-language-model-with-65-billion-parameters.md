@@ -19,20 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Meta to launch AI language model LLaMA"
-    excerpt: "REUTERS/Dado Ruvic/Illustration/File Photo Feb 24 (Reuters) - Meta Platforms Inc (META.O) said on Friday it will release a new AI large language model called LLaMA designed to generate text, conversations and summarize written material."
-    publishedDateTime: 2023-02-24T15:24:00Z
-    webUrl: "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/"
+  - title: "Meta unveils a new large language model that can run on a single GPU [Updated]"
+    excerpt: "The LLaMA collection of language models range from 7 billion to 65 billion parameters in size. By comparison, OpenAI's GPT-3 model—the foundational model behind ChatGPT —has 175 billion parameters. Meta trained its LLaMA models using publicly available datasets,"
+    publishedDateTime: 2023-02-24T20:02:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 85
     images:
-      - url: "https://www.reuters.com/resizer/fJBJrVyXjYaAylhHFyAuMY-sz8Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SC4LDVC3ZMXJIUUQDZRBHPHU4.jpg"
-        width: 1200
-        height: 628
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/02/meta_llm_hero_1-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Meta unveils a new large language model that can run on a single GPU"
+    excerpt: "Smaller-sized AI models could lead to running ChatGPT-style language assistants ... can reportedly outperform GPT-3 while running on a single GPU. Unlike the data center requirements for GPT-3 derivatives, LLaMA-13B opens the door for ChatGPT-like ..."
+    publishedDateTime: 2023-02-24T20:02:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
   - title: "Meta Debuts AI Language Model, But It's Only for Researchers"
     excerpt: "Facebook parent company Meta's LLaMA program can outperform larger AI models including OpenAI's older GPT 3 model, according to the company."
     publishedDateTime: 2023-02-24T19:18:00Z
@@ -47,129 +60,15 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Meta's little LLaMA model comes with big benefits for AI researchers"
-    excerpt: "Facebook's parent company has released LLaMA, a relatively small but powerful model that should help researchers address the potentially harmful and sometimes wacky pitfalls of AI."
-    publishedDateTime: 2023-02-24T21:44:00Z
-    webUrl: "https://www.zdnet.com/article/metas-little-llama-model-comes-with-big-benefits-for-ai-researchers/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/metas-little-llama-model-comes-with-big-benefits-for-ai-researchers/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-little-llama-model-comes-with-big-benefits-for-ai-researchers/"
+  - title: "ChatGPT on your PC? Meta unveils new AI model that can run on a single GPU"
+    excerpt: "Smaller-sized AI models could lead to running ChatGPT-style language assistants ... can reportedly outperform GPT-3 while running on a single GPU. Unlike the data center requirements for GPT-3 derivatives, LLaMA-13B opens the door for ChatGPT-like ..."
+    publishedDateTime: 2023-02-24T20:02:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-  - title: "Meta launches LLaMA model, a mightier research tool than OpenAI's GPT-3"
-    excerpt: "The social networking giant plans to make the technology accessible to researchers and integrate it into its product in the future."
-    publishedDateTime: 2023-02-25T11:15:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/02/25/1338442-openai.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Meta brings AI chatbot with own large language model for researchers"
-    excerpt: "Smaller, more performant models such as LLaMA enable others in the research community who don't have access to large amounts of infrastructure to study these models, further democratising access in this important,"
-    publishedDateTime: 2023-02-26T02:59:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/meta-1677317836.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facebook parent Meta rolls out new language model amid Big Tech’s AI push"
-    excerpt: "Meta’s LLaMA, short for Large Language Model Meta AI, will be available under non-commercial license to researchers and entities affiliated with government, civil society and academia"
-    publishedDateTime: 2023-02-24T13:24:00Z
-    webUrl: "https://www.theglobeandmail.com/business/technology/article-facebook-parent-meta-rolls-out-new-language-model-amid-big-techs-ai/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/business/technology/article-facebook-parent-meta-rolls-out-new-language-model-amid-big-techs-ai/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/technology/article-facebook-parent-meta-rolls-out-new-language-model-amid-big-techs-ai/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 58
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/KGgaDR08TZoIPFDei6s23OACj4s=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/UX5OD222YNLBXF3BKPZUQ7GPXQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Meta introduces its own AI tool, LLaMA"
-    excerpt: "Meta said \"there is still more research that needs to be done to address the risks of bias, toxic comments, .. \""
-    publishedDateTime: 2023-02-25T06:29:00Z
-    webUrl: "https://techstory.in/meta-introduces-its-own-ai-tool-llama/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/02/94d394304d1c47ab042f3c061e2a2150.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Meta to release new interactive AI model for academia and industry labs"
-    excerpt: "Meta, formerly known as Facebook, made the announcement on ... in government and civil society as well as industry research laboratories. In November last year, the firm released another interactive AI model focused on natural science."
-    publishedDateTime: 2023-02-25T10:48:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230225_16/"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 39
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20230225_16_1224364_L.png"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Meta releases LLaMA to democratize access to large language AI models"
-    excerpt: "Meta Platforms Inc.’s Facebook AI Applied Research group today is publicly releasing a new foundational large language model, known as Large Language Model Meta AI or LLaMA, to help the scientific community advance its research into a subset of ..."
-    publishedDateTime: 2023-02-24T16:24:00Z
-    webUrl: "https://siliconangle.com/2023/02/24/meta-platforms-releases-llama-democratize-access-large-language-ai-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-  - title: "Meta enters Big Tech AI race with launch of language model LLaMA"
-    excerpt: "Meta Platforms Inc, the parent company of Facebook, Instagram and WhatsApp, is releasing a new AI tool LLaMA, short for Large Language Model Meta AI,"
-    publishedDateTime: 2023-02-24T15:59:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1007293/meta-enters-big-tech-ai-race-with-launch-of-language-model-llama-1007293.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 19
-  - title: "Meta rolls out new language model amid Big Tech's AI push"
-    excerpt: "Meta Platforms Inc is releasing a new large language model based on artificial intelligence (AI) aimed at the research community, Chief Executive Officer Mark Zuckerberg said in a Facebook post on Friday,"
-    publishedDateTime: 2023-02-24T16:58:00Z
-    webUrl: "https://www.channelnewsasia.com/business/meta-rolls-out-new-language-model-amid-big-techs-ai-push-3303901"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 19
-  - title: "Meta to launch AI language model LLaMA"
-    excerpt: "Meta Platforms Inc said on Friday it will release a new AI large language model called LLaMA designed to generate text, conversations and"
-    publishedDateTime: 2023-02-24T16:27:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/02/24/meta-to-launch-ai/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 19
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 62
 
 secured: "Oh/0s4jcFpdJUSMgpKXgYDojCrFlLoSxPr0htPUZfUh8qqfaU0Zb7jQLd50tZ5bfox5Co1alx7B4QcMzuxxrNLAOf7V7bebkuH7KHizPiZk0SZlOQ4T0Kpc2SVKMbLavV8kBHfKlGgaHliGMPyrxfSzHs+mDZPMe/cpmrqAVIlZmq4zchSuzU+AHKlshcUsf4ZQ9aL0g5PK6gclss9+7OQRFCYK24HVKinDc5tVES2ppZ/tp4HzyWxfUpTmRLTM0ZO80U5sKUHkJDapbJwRt7M+nS3u/W1WNxx/DMmplruhiis8zl/6SqQij5gAp7wwMMpm5v8eKW4EYhLP4C2nKnaREjZFt3fOrTTS8q7a2qrnb/nt6lPbAt8KL4zEe1J69MVoybIMqXQelL/AHjC91cjvp6fg2vlnymbuexj/GUu//wwHvVhVNKOGlKs0yZYcxgmXgxJ2+NXJHykPuaETP7OfQywf42yR5Ysr29Uy5dJpo7cd8Jk2io+w+TEvVMRB16VrPKcvwXjf9vGQPJJ5v5w==;3xgCEJHnd5ijjTI/S9mUdQ=="
 ---

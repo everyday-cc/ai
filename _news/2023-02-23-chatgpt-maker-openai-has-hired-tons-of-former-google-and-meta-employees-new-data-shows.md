@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-openai-microsoft-hired-forme
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2?amp"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -25,40 +25,15 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT on your PC? Meta unveils new AI model that can run on a single GPU"
-    excerpt: "Smaller-sized AI models could lead to running ChatGPT-style language assistants ... can reportedly outperform GPT-3 while running on a single GPU. Unlike the data center requirements for GPT-3 derivatives, LLaMA-13B opens the door for ChatGPT-like ..."
-    publishedDateTime: 2023-02-24T20:02:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
+  - title: "ShiftPixy Leverages OpenAI/ChatGPT to Streamline Recruiting and Staffing Opportunity Matching"
+    excerpt: "This integration within the ShiftPixy platform will leverage ChatGPT's advanced natural language processing capabilities to instantly analyze worker experience, job descriptions, and other candidate-related data,"
+    publishedDateTime: 2023-02-24T14:39:00Z
+    webUrl: "https://www.tmcnet.com/channels/call-center-management/news/-shiftpixy-leverages-openaichatgpt-streamline-recruiting-staffing-opportunity-mat-/2023/02/24/9766134.htm"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 62
-  - title: "Facebook-owner Meta unveils more cautious approach to ChatGPT frenzy"
-    excerpt: "Meta described its own AI, called LLaMA, as a \"smaller, more performant\" model designed to \"help researchers advance their"
-    publishedDateTime: 2023-02-25T12:00:00Z
-    webUrl: "https://www.newindianexpress.com/business/2023/feb/25/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy-2550910.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2023/feb/25/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy-2550910.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2023/feb/25/facebook-owner-meta-unveils-more-cautious-approach-to-chatgpt-frenzy-2550910.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 44
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/12/w600X390/AI.jpg"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "China moves to regulate AI, $10K Nvidia GPU powers ChatGPT, AI transforming sports - catch all this and more in today's AI news!"
-    excerpt: "China attempts to regulate AI after ChatGPT frenzy. China will introduce rules to govern the use of artificial intelligence across a swath of industries, moving to regulate emerge"
-    publishedDateTime: 2023-02-25T14:06:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/china-moves-to-regulate-ai-10k-nvidia-gpu-powers-chatgpt-ai-transforming-sports-catch-all-this-and-more-in-todays-ai-news-10159881.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 5
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "ZxIuVGFd3B7mOxlqV0ompwrR+ADGNNkm/TlGiRad+z75WiL3ag0SqSNT4Oasf4uBXdiOo36OTugbqBrr0hmPvpoQNuMHy+kNKiAM1tfHfcsD0e1CFXvv/4xgwpFZ2fiJND0pCg4OkaxkMfEEGaem3btZBCY9GpUFTxhVln5OiurInFfU87T5ZzM+zDT4oGBljB/FrUmrDROYZuC3Ez9pvbVH5umSddJ8AJLqr3p1mq4a7KuG9FlihaKcwDQzBaWVYN5xG7XjsAd7pr72BFakoHcuMA7S+c7/7qRMmSCJe56K/bSGyw8/eto8fsqSdPhfZKg7chPObMbxy+gzxVwtwIcpD2AZdMBcYt28zMB0ZBi7eE7oru3KMDbVoxTexYGSCYhdPI+3WCeWirJpm+kDECygKUxLI8BXXH3/9GITTTLhjjY1rRtXPeyo0PaUE9RTMrrVREH7ki1Xf38pmQ41Fhgrt+3ywRBJh4D+HChXD8fuCNK2tUBuWCaaxeXVIjsdJrNck1QB1KuvneRbnc4HQw==;UaXj1/Jd7Qc+2MpDvG7IqQ=="
 ---
