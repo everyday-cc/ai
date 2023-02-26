@@ -348,15 +348,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition Market Size 2023 : Expected To Deliver Dynamic Progression Until 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-02-22T01:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-size-2023-expected-to-deliver-dynamic-progression-until-2026-2023-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
   - title: "Artificial Intelligence And Machine Learning Market 2023: A Status Of Top Regions And Companies With Growth Prospects"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.'The 2023 research report on the global “artificial intelligence"
     publishedDateTime: 2023-02-25T08:46:00Z

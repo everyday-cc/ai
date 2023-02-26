@@ -8,7 +8,7 @@ webUrl: "https://www.foxbusiness.com/technology/spotify-releasing-artificial-int
 ampWebUrl: "https://www.foxbusiness.com/technology/spotify-releasing-artificial-intelligence-dj-two-countries.amp"
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/spotify-releasing-artificial-intelligence-dj-two-countries.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/a3295b73-4c19-48af-8698-c188b13586f6/78162d49-8fe3-4eb9-a16a-562e6ec2fec0/1280x720/match/image.jpg"

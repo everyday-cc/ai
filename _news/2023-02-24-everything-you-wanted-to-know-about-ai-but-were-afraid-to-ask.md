@@ -8,9 +8,9 @@ webUrl: "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intell
 ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: The Guardian
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI in Autos
 
 images:
   - url: "https://i.guim.co.uk/img/media/543d6b74c91d5d5fb908173506f00e60567f9f5c/0_70_5704_3422/master/5704.jpg?width=620&quality=85&auto=format&fit=max&s=4854fc9c9b45b2aa64285c3d335f0a4f"

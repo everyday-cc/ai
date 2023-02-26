@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-11-hesais-ipo-raises-prospects-for-unmanned-driving.md",
+      "title": "Hesai's IPO raises prospects for unmanned driving",
+      "excerpt": "[Provided to China Daily] American depositary shares of Hesai Group, a Shanghai-based developer of sensor technologies used in self-driving cars ... Hesai, which is backed by strategic investors Baidu Inc, Xiaomi Corp, Qiming Venture Partners and German ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202302/11/WS63e6d5a7a31057c47ebae31e.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202302/11/WS63e6d5a7a31057c47ebae31e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202302/11/63e6d5a7a31057c4b4b4eb3c.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-11-autonomous-cars-or-driverless-cars-market-2023-will-touch-new-level-in-upcoming-year.md",
+      "title": "Autonomous Cars or Driverless Cars Market 2023 Will Touch New Level in Upcoming Year",
+      "excerpt": "Feb 11, 2023 (The Expresswire) -- Autonomous Cars or Driverless Cars Market Size 2023-2027 | New Report (117 Pages) | In This Reports Autonomous Cars or Driverless Cars Market and its business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-cars-or-driverless-cars-market-2023-will-touch-new-level-in-upcoming-year-2023-02-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-cars-or-driverless-cars-market-2023-will-touch-new-level-in-upcoming-year-2023-02-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-11-heres-how-tech-is-shaping-super-bowl-lvii.md",
       "title": "Here's How Tech Is Shaping Super Bowl LVII",
       "excerpt": "For the first time ever, rowdy tailgaters may even get the chance to have a driverless vehicle carpool thei drunken asses around town. Here’s some of the ways’s tech may shape this year’s ...",
@@ -1278,75 +1373,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-the-battle-for-ai-supremacy-begins.md",
-      "title": "The Battle for AI Supremacy Begins",
-      "excerpt": "In 2023, the race for artificial intelligence dominance bears striking semblance to the ‘Cold War Era’ but with Google and Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/the-battle-for-ai-supremacy-begins/",
-      "originalUrl": "https://analyticsindiamag.com/the-battle-for-ai-supremacy-begins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-opinion-artificial-intelligences-redress-problem-inside-sources.md",
-      "title": "Opinion: Artificial Intelligence’s Redress Problem – Inside Sources",
-      "excerpt": "With AI systems increasingly being deployed across sectors, it is vital that pathways for redress are established and maintained to ensure that consumers, data subjects or other users of AI systems have recourse in the event they suffer harm.",
-      "sourceUrl": null,
-      "webUrl": "https://prescottenews.com/index.php/2023/02/07/opinion-artificial-intelligences-redress-problem-inside-sources/",
-      "originalUrl": "https://prescottenews.com/index.php/2023/02/07/opinion-artificial-intelligences-redress-problem-inside-sources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T23:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Prescott eNews",
-        "domain": "prescottenews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

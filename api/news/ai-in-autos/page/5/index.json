@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-03-artificial-intelligence-news-and-research.md",
+      "title": "Artificial Intelligence News and Research",
+      "excerpt": "Researchers at the University of Zurich have developed a new tool that uses artificial intelligence to predict the efficacy of various genome-editing repair options. A new 'outside-the-box' method ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
+      "originalUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/themes/Standard/images/full_site_logo.png",
+          "width": 973,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-alphabet-misses-on-earnings-and-revenue-as-youtube-falls-short.md",
+      "title": "Alphabet misses on earnings and revenue as YouTube falls short",
+      "excerpt": "Revenue in Alphabet’s Other Bets segment, which includes self-driving car unit Waymo as well as some health-tech projects ... Executives said starting in the first quarter, artificial intelligence subsidiary DeepMind will no longer be reported in Other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/02/alphabet-googl-earnings-q4-2022.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/02/alphabet-googl-earnings-q4-2022.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105151804-1643750409766-GettyImages-665596430r.jpg?v=1675372995",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/02/alphabet-googl-earnings-q4-2022.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/02/alphabet-googl-earnings-q4-2022.html",
+      "publishedDateTime": "2023-02-02T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-artificial-intelligences-new-role-in-medicine-finance-and-other-industries-how-computer-learning-is-changing-every-corner-of-the-market.md",
       "title": "Artificial Intelligence's New Role In Medicine, Finance And Other Industries - How Computer Learning Is Changing Every Corner Of The Market",
       "excerpt": "Artificial intelligence is impacting medicine, finance and many other industries. Here’s what you need to know about AI and how it may affect your life.",
@@ -1280,101 +1376,6 @@
         "Machine Learning",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-chinas-baidu-to-launch-chatgpt-style-bot-in-march-source.md",
-      "title": "China's Baidu to launch ChatGPT-style bot in March - source",
-      "excerpt": "People stand by a sign of Baidu during World Artificial Intelligence Conference, following the coronavirus disease (COVID-19) outbreak, in Shanghai, China, September 1, 2022. REUTERS/Aly Song ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/chinas-baidu-launch-chatgpt-style-bot-march-source-2023-01-30/",
-      "originalUrl": "https://www.reuters.com/technology/chinas-baidu-launch-chatgpt-style-bot-march-source-2023-01-30/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/7XcIeiw305KYQR-yBFMGW5zUyO8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/63ZBO3MYIJLDFBKR3URIVLJH7E.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-baidu-may-soon-launch-its-chatgpt-style-bot.md",
-      "title": "Baidu may soon launch its ChatGPT-style bot",
-      "excerpt": "Apart from research in AI, the search giant is now also developing autonomous driving technology. Baidu Chief Executive Officer Robin Li raised ChatGPT as an example of where the tech giant can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot-11675053677894.html",
-      "originalUrl": "https://www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot-11675053677894.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/01/30/600x338/im-317366_1616998743178_1675054105448_1675054105448.jfif",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot/amp-11675053677894.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/baidu-may-soon-launch-its-chatgpt-style-bot/amp-11675053677894.html",
-      "publishedDateTime": "2023-01-30T02:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

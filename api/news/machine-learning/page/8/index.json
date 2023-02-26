@@ -2,6 +2,111 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-12-21-speed-ml-development-using-sagemaker-feature-store-and-apache-iceberg-offline-store-compaction.md",
+      "title": "­­Speed ML development using SageMaker Feature Store and Apache Iceberg offline store compaction",
+      "excerpt": "Today, companies are establishing feature stores to provide a central repository to scale ML development across business units and data science teams. As feature data grows in size and complexity, data scientists need to be able to efficiently query these feature stores to extract datasets for experimentation,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/speed-ml-development-using-sagemaker-feature-store-and-apache-iceberg-offline-store-compaction/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/speed-ml-development-using-sagemaker-feature-store-and-apache-iceberg-offline-store-compaction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/21/speed-ml-development-sagemaker-feature-store-iceberg.jpg",
+          "width": 1566,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-21T08:39:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-21-8-mlops-predictions-for-enterprise-machine-learning-in-2023.md",
+      "title": "8 MLops predictions for enterprise machine learning in 2023",
+      "excerpt": "So what trends will emerge in the MLops landscape in 2023? A variety of AI and ML experts shared their predictions with VentureBeat.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/",
+      "originalUrl": "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_514013068-e1623787978313.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/amp/",
+      "publishedDateTime": "2022-12-21T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-21-three-best-practices-for-mlai-security.md",
       "title": "Three best practices for ML/AI security",
       "excerpt": "Two-in-five organizations will have experienced an AI security or privacy breach, with one in four of those being adversarial attacks. Security industry watchdogs have been ringing alarm bells for years.",
@@ -1337,103 +1442,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-10-ai-generated-avatars-are-quirky-and-easy-to-make-but-are-they-ethical.md",
-      "title": "AI Generated Avatars Are Quirky and Easy to Make, but Are They Ethical?",
-      "excerpt": "While AI is a fascinating tool, it comes with its own sets of problems. The neural network used by the app relies on the data from images on the intern",
-      "sourceUrl": null,
-      "webUrl": "https://www.thequint.com/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
-      "originalUrl": "https://www.thequint.com/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thequint.com/thequint%2F2022-12%2F2fb99c95-25d1-4f6d-8a4d-4f77edf9d86f%2FNeon_Hero_Image__5_.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thequint.com/amp/story/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
-      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/neon/hot-take/magic-avatars-lensa-app-ai-generated-pictures-criticised-by-artists",
-      "publishedDateTime": "2022-12-09T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Quint",
-        "domain": "thequint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-use-your-spreadsheet-data-to-train-ml-models.md",
-      "title": "Use your spreadsheet data to train ML models",
-      "excerpt": "You can train, evaluate and deploy machine learning models from tabular data using TensorFlow Decision Forests (TF-DF). This process is fast as TF-DF only requires a small amount of code and trains in seconds. But if your data is in a spreadsheet, what is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/decision_forests/simple_ml_for_sheets",
-      "originalUrl": "https://www.tensorflow.org/decision_forests/simple_ml_for_sheets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI",
         "Machine Learning"
       ]

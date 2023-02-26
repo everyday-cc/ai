@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Facial Recognition Market size to grow at a CAGR of 18.11% by 2027, Increasing adoption of a multimodal biometric system to be a key trend- Technavio"
-excerpt: "According to Technavio, the global facial recognition market size is estimated to grow by USD 7,634.09 million from 2022 to 2027. The market is estimated to grow at a CAGR of 18.11% during the forecast period."
-publishedDateTime: 2023-02-25T01:53:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-facial-recognition-market-size-grow-a-cagr-1811-/2023/02/24/9766375.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-facial-recognition-market-size-grow-a-cagr-1811-/2023/02/24/9766375.htm"
+excerpt: "One of the major factors supporting the growth of the verification segment is the high adoption of facial recognition in mobile devices. It is widely implemented in laptops and smartphones for ..."
+publishedDateTime: 2023-02-25T00:36:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/02/n31058840/facial-recognition-market-size-to-grow-at-a-cagr-of-18-11-by-2027-increasing-adoption-of-a-multimo"
+webUrl: "https://www.benzinga.com/pressreleases/23/02/n31058840/facial-recognition-market-size-to-grow-at-a-cagr-of-18-11-by-2027-increasing-adoption-of-a-multimo"
+ampWebUrl: "https://www.benzinga.com/amp/content/31058840"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31058840"
 type: article
-quality: 0
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2009245/Technavio_Logo_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 334
         isCached: true
 
-secured: "oN+Pk+cFzPBQ0r/zHleaVOASSgoykNsE8r5dWNqJWR/gD6IaD3vY0miO7TN4P7y7wlp9qUE0GiLU8r8OwNwqQ6uIEDXY1RmDP+MW1eEpWmrzhQ6caW7eqh1T/+PMVtXdj15H8VRe+ZZ1W8FFoMZBUVACbPR/3Wdkb/8kJmkFl9T1qjXwr1B9Bp3IpIQhfl76wb+I/7svEFK6+XZxS7qOVVXGuP3ZrjrABLVCU/u5jURbQgUNRbllaedMuKorJwNPjLB/xGu56htloVx09luZNyH9AmKNJNtXYljWxt+S3bAwtqO4mZeKOQsKke6ushmGtA2HLxrg0mnwt7CeWAEqK3eeucgwR815kKjSLL50EgUdTXFIrqH7w6Jal6B2yq/+tH5m4vN0bdi7/uQIgNF5vcmMLIQ8jlG2PUQJHVQsqz0WVodwrcDzVHYNdEFVUWcGvbAtShA2/7VO0J8Z8ncmScP20TmCwQSfbek+IkN25XexsadMRU/iHmGruJt31gNxWR+wtJ+n59IGe2wEYmYG1w==;ypfCFGG+Umn1E79Mqv1oCg=="
+secured: "jf1imGpGX25ZVPWKBrSTpjnwXOGLKO+7qMZ7qlEiwkvBpIB8tLKVtMTp8T8auZoEXHYG8ODNR3pILT110JFv0b4c3XfU7kFDJSeBHjLrlqXIRzePMvNJmfRLIak1fLEcSWA3udz7TG2U+zWUfVHRoz3JL3npJiN3KNLoV98ZbTA+371FffobPCOdBK+7xyPYECN2tbpLUx5rT2G8fTZAQ4x2NPhPQCs8/k8t4Uiaspi6I9qvPYlP7wts2/H//p6lXsOb5ZvqOqJnqZkpeBonEGsC6MPrc6GoHtFsiE2vWnHsZA5RWdiajlUnpUFIyzyX8Np/sOgZrcgXMWLR7YhdTelEpD476uwQO5gJvv2hdiE=;ZuUCXufe7CZD7g6Q/vIT9g=="
 ---
 

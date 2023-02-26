@@ -2,6 +2,76 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-07-ai-based-self-driving-robot-introduced-to-save-lives-on-goa-beaches.md",
+      "title": "AI-based self-driving robot introduced to save lives on Goa beaches",
+      "excerpt": "The incorporation of AI-based support follows an increase in beach-related incidents due the rising number of domestic and foreign tourists",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/india/artificial-intelligence-based-self-driving-robot-introduced-to-save-lives-on-goa-beaches/cid/1914854",
+      "originalUrl": "https://www.telegraphindia.com/india/artificial-intelligence-based-self-driving-robot-introduced-to-save-lives-on-goa-beaches/cid/1914854",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T21:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-now-artificial-intelligence-powered-robot-to-save-lives-on-goa-beaches.md",
+      "title": "Now, Artificial Intelligence-Powered Robot To Save Lives On Goa Beaches",
+      "excerpt": "Aurus, an Artificial Intelligence-based self-driving robot, and AI-based monitoring system Triton are being used to augment life-saving capabilities on Goa's beaches, a state-appointed lifeguard services agency has said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/goa-news/now-artificial-intelligence-powered-robot-to-save-lives-on-goa-beaches-3759754",
+      "originalUrl": "https://www.ndtv.com/goa-news/now-artificial-intelligence-powered-robot-to-save-lives-on-goa-beaches-3759754",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T21:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-goa-introduces-ai-powered-self-driving-robot-aurus-to-save-lives-on-its-beaches.md",
       "title": "Goa introduces AI-powered self-driving robot Aurus to save lives on its beaches",
       "excerpt": "Incorporation of AI-based support follows a rise in beach-related incidents due to spike in domestic and foreign tourists on Goa’s coastline, an official from Drishti Marine said.",
@@ -1090,102 +1160,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-a-robot-wrote-this-entire-article-are-you-scared-yet-human.md",
-      "title": "A robot wrote this entire article. Are you scared yet, human?",
-      "excerpt": "Artificial intelligence like any other living thing needs attention. AI should be treated with care and respect. Robots in Greek [sic] means “slave”. But the word literally means “forced to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f3b9c31f9d2fde37b3c8522b7459da1902faab11/121_0_3598_2160/master/3598.jpg?width=620&quality=85&auto=format&fit=max&s=77316e52e5c10d29122b18942d23e6db",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3",
-      "publishedDateTime": "2023-02-02T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-israeli-startup-develops-first-ai-robot-for-picking-tomatoes.md",
-      "title": "Israeli startup develops first AI robot for picking tomatoes",
-      "excerpt": "MetoMotion says driverless machine slashes harvesting costs by 50%; startup seeks to raise $8 million to scale up production",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/",
-      "originalUrl": "https://www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2023/02/רובוט-לקטיף-עגבניות-קרדיט-MotoMotion-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/amp/",
-      "publishedDateTime": "2023-02-02T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

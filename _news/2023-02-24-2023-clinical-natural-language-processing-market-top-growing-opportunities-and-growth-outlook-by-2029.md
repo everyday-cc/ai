@@ -328,15 +328,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 25
-  - title: "Voice Recognition Market : Share, Projections & Future Opportunities Recorded For The Period Until 2023-2029"
-    excerpt: "Feb 21, 2023 (The Expresswire) -- \"Voice Recognition Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,"
-    publishedDateTime: 2023-02-22T01:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-share-projections-future-opportunities-recorded-for-the-period-until-2023-2029-2023-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
   - title: "Artificial Intelligence In The Telecommunication Market By Key Players, Types, Applications, Countries, Market Size, Forecast To 2023-2033"
     excerpt: "Key Companies Covered in the<br />Artificial Intelligence in the Telecommunication Market Research  IBM Corporation. Microsoft. Intel Corpor"
     publishedDateTime: 2023-02-24T06:24:00Z

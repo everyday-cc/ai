@@ -2,6 +2,367 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-12-07-global-natural-language-processing-nlp-market-share-size-and-forecast-till-2028.md",
+      "title": "Global Natural Language Processing (NLP) Market Share, Size and Forecast till 2028",
+      "excerpt": "Dec 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Natural Language Processing (NLP)",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-share-size-and-forecast-till-2028-2022-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-share-size-and-forecast-till-2028-2022-12-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T21:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community.md",
+      "title": "Microsoft Announces Future Ready Champions Of Code Program To Empower India's Developer Community",
+      "excerpt": "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused o",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community",
+      "originalUrl": "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-12/06/F_b9964image_story.jpg",
+          "width": 600,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T19:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-tesla-says-it-is-adding-radar-in-its-cars-next-month-amid-self-driving-suite-concerns.md",
+      "title": "Tesla says it is adding radar in its cars next month amid self-driving suite concerns",
+      "excerpt": "Tesla told the FCC that it plans to market a new radar starting next month. The move raises even more concerns about self-driving concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/",
+      "originalUrl": "https://electrek.co/2022/12/06/tesla-radar-car-next-month-self-driving-suite-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Autopilot-Radar-e1603395743425.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T18:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code.md",
+      "title": "IBM and David Clark Cause Aim to Reduce Food Waste; Name AI-Powered Gardening App Winner of 5th Annual Call for Code",
+      "excerpt": "The top prize this year went to GardenMate for creating an app that uses IBM Watson® to connect gardeners ... technologies such as Hybrid Cloud and AI.\" Winning 2022 Call for Code Global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc27.com/business/press-releases/cision/20221206NY57463/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code/",
+      "originalUrl": "https://www.abc27.com/business/press-releases/cision/20221206NY57463/ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1962901/IBM_GardenMate_Team.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc27",
+        "domain": "abc27.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-san-francisco-pauses-policy-arming-robocops-with-explosives.md",
+      "title": "San Francisco pauses policy arming robocops with explosives",
+      "excerpt": "The city’s Board of Supervisors voted Tuesday to suspend a controversial policy allowing police to deploy potentially lethal, remote-controlled robots in ... Mar changed his mind after ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/12/06/san-fransisco-pauses-policy-arming-police-robots-with-explosives/",
+      "originalUrl": "https://nypost.com/2022/12/06/san-fransisco-pauses-policy-arming-police-robots-with-explosives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/12/sf-robot-reversal-index.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/12/06/san-fransisco-pauses-policy-arming-police-robots-with-explosives/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/12/06/san-fransisco-pauses-policy-arming-police-robots-with-explosives/amp/",
+      "publishedDateTime": "2022-12-06T17:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage.md",
+      "title": "Artificial Intelligence, Talking Robots could help detect UTIs at early stage",
+      "excerpt": "The £1.1 million FEATHER project, led by the School of Informatics, aims to increase an individual’s wellbeing and reduce the number of serious outcomes from incorrect or late diagnoses of urinary tract infections (UTIs).",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage/",
+      "originalUrl": "https://indiaeducationdiary.in/artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/artificial-intelligence-talking-robots-could-help-detect-utis-at-early-stage/",
+      "publishedDateTime": "2022-12-06T17:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-updated-its-way-too-easy-to-trick-lensa-ai-into-making-nsfw-images.md",
+      "title": "UPDATED: It’s way too easy to trick Lensa AI into making NSFW images",
+      "excerpt": "Lensa has been climbing the app store hit lists with its avatar-generating AI that is making artists wave the red flag. Now there’s another reason to fly the flag: As it turns out, it’s possible — and way too easy — to use the platform to generate non-consensual soft porn.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/",
+      "originalUrl": "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Lensa-AI-shoulder-Large.jpeg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/06/lensa-goes-nsfw/amp/",
+      "publishedDateTime": "2022-12-06T17:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-aetina-corporation-aetina-launches-new-ai-inference-platforms-with-high-performance-and-expandability-for-use-in-ai-and-computer-vision.md",
+      "title": "Aetina Corporation: Aetina Launches New AI Inference Platforms with High Performance and Expandability for Use in AI and Computer Vision",
+      "excerpt": "NEW TAIPEI CITY, Dec. 7, 2022 /PRNewswire/ -- Aetina has launched new AI inference platforms-AIP-SQ67 series-with high performance and expandability for use in AI and IoT. The AIP-SQ67 series ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57776970-aetina-corporation-aetina-launches-new-ai-inference-platforms-with-high-performance-and-expandability-for-use-in-ai-and-computer-vision-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57776970-aetina-corporation-aetina-launches-new-ai-inference-platforms-with-high-performance-and-expandability-for-use-in-ai-and-computer-vision-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T17:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-aws-updates-machine-learning-service-sagemaker.md",
       "title": "AWS updates machine learning service SageMaker",
       "excerpt": "Amazon Web Services (AWS) has added new features to its managed machine learning service Amazon SageMaker, designed to improve governance attributes within the service and adding new capabilities to its notebooks. Notebooks in context of Amazon SageMaker ...",
@@ -775,378 +1136,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-chess-study-shows-masks-can-put-cognitive-performance-in-check.md",
-      "title": "Chess study shows masks can put cognitive performance in check",
-      "excerpt": "Dr. Smerdon, an Australian chess Grandmaster, said while mask mandates had helped to curb the spread of COVID-19, almost nothing was known about their impact on cognitive performance. \"At the ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-12-chess-masks-cognitive.html",
-      "originalUrl": "https://phys.org/news/2022-12-chess-masks-cognitive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/chess.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-12-chess-masks-cognitive.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-12-chess-masks-cognitive.amp",
-      "publishedDateTime": "2022-12-06T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-does-chatgpt-mean-robots-are-coming-for-the-skilled-jobs.md",
-      "title": "Does ChatGPT Mean Robots Are Coming For the Skilled Jobs?",
-      "excerpt": "Will robots take away our jobs? People have been asking that question for an astonishingly long time. The Regency-era British economist David Ricardo added to the third edition of his classic “Principles of Political Economy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/06/opinion/06krugman-newsletter-image/06krugman-newsletter-image-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.amp.html",
-      "publishedDateTime": "2022-12-06T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-tsa-is-ready-for-nationwide-deployment-of-its-facial-recognition-system.md",
-      "title": "TSA is ready for nationwide deployment of its facial recognition system",
-      "excerpt": "The TSA started using its biometric system in 16 US airports as an optional screening procedure requiring the traveler to insert their ID document and have",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html",
-      "originalUrl": "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/12/2022-12-06-image-13.jpg",
-          "width": 2048,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T12:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-carahsoft-announces-availability-of-adobe-in-aws-marketplace.md",
-      "title": "Carahsoft Announces Availability of Adobe in AWS Marketplace",
-      "excerpt": "Provides Public Sector With Access to FedRAMP Authorized Adobe Experience Manager via AWS Marketplace. RESTON, Va., Dec. 06, 2022 (GLOBE NEWSWIRE) -- Carahsoft Technology Corp., T",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/12/06/9725446.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/12/06/9725446.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-kodiak-robotics-awarded-50-million-contract-to-develop-driverless-army-vehicles.md",
-      "title": "Kodiak Robotics Awarded $50 Million Contract to Develop Driverless Army Vehicles",
-      "excerpt": "Kodiak Robotics, a leading self-driving truck startup, disclosed that it has been awarded a two-year, USD49 Million contract from the U.S. Department of Defense to help automate U.S. Army ground vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/kodiak-robotics-awarded-50-million-contract-to-develop-driverless-army-vehicles/",
-      "originalUrl": "https://www.financialbuzz.com/kodiak-robotics-awarded-50-million-contract-to-develop-driverless-army-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialbuzz.com/wp-content/uploads/2022/12/Inside-6.jpg",
-          "width": 506,
-          "height": 345,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-self-driving-truck-startup-kodiak-robotics-wins-50-million-deal-to-help-develop-driverless-army-vehicles.md",
-      "title": "Self-driving truck startup Kodiak Robotics wins $50 million deal to help develop driverless Army vehicles",
-      "excerpt": "The company said it won a two-year, $49.9 million contract from the Defense Department to help develop automated combat vehicles for the U.S. Army. The vehicles will be tailored for reconnaissance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/12/06/kodiak-wins-50m-deal-to-develop-driverless-army-vehicles.html",
-      "originalUrl": "https://www.cnbc.com/2022/12/06/kodiak-wins-50m-deal-to-develop-driverless-army-vehicles.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107136057-1666041195817-Kodiak-Ikea-Back-3.jpg?v=1670335201&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls.md",
-      "title": "Pixel 7 update adds AI-powered noise reduction to incoming phone calls",
-      "excerpt": "Rolling out to Pixel phones now is Android 13 Quarterly Platform Release 1 (QPR1), which contains a few new features, 77 bug fixes named in a huge support post, 151 Pixel-specific security issues outlined in the December Security Bulletin for Pixels,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Pixel7-8-800x488.jpg",
-          "width": 800,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/12/pixel-7-update-adds-ai-powered-noise-reduction-to-incoming-phone-calls/amp/",
-      "publishedDateTime": "2022-12-06T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-artificial-intelligence-is-everywhereeven-the-warehouse.md",
-      "title": "Artificial intelligence is everywhere—even the warehouse",
-      "excerpt": "Artificial intelligence (AI)-based technologies are just about everywhere these days, making electronic devices, equipment, and business processes more streamlined and, of course, smarter. As it is commonly understood, AI uses computers and machines to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/56025-artificial-intelligence-is-everywhereeven-the-warehouse",
-      "originalUrl": "https://www.dcvelocity.com/articles/56025-artificial-intelligence-is-everywhereeven-the-warehouse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcvelocity.com/ext/resources/images/articles/2022/202212/DCV22_12_ai.jpg?height=635&t=1670302866&width=1200",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T10:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

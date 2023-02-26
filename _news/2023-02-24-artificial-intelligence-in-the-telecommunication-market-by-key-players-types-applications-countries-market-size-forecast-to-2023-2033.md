@@ -338,15 +338,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 25
-  - title: "Voice Recognition Market : Share, Projections & Future Opportunities Recorded For The Period Until 2023-2029"
-    excerpt: "Feb 21, 2023 (The Expresswire) -- \"Voice Recognition Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,"
-    publishedDateTime: 2023-02-22T01:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-share-projections-future-opportunities-recorded-for-the-period-until-2023-2029-2023-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
 
 secured: "jbCcKahI39s+p4Gt0Dk7sbnZPi/UIJ5N3kM4aOJmsFfFR0uUy8TCGrPtKpnJKnEBHiByMRtPW/JEs4AE5ZFk2jTXYicEOsPJ+SQFxcb+UsNMeIRd72MQluN4z5L2Upd7DWGTLzdT2YKKiampPEKr/hRxtXH3DdtKSQY9SXvE6OX7Svrt298UhbbINgzDyLXI1fNnFXZmiICmixw6ueBmPhC09ujgi3OuDLJkrwEHEQqpFIi6J5ZqG5qjzrQO8oTShZWO8ufU0D2VHFS6RMM1MLkRc5iewKeCgHF1zpx4Q4rCz4t5loJ/G1+xqjTlTt/zf132zesC4SjMke8AwuLhP3gsh2as4+6DmWxk9pN3QpE=;xlPT+oZ0KwERSsfQzcp0Cg=="
 ---

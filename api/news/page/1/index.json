@@ -55,6 +55,57 @@
       ]
     },
     {
+      "path": "_news/2023-02-26-ai-flew-a-fighter-jet-for-17-hours.md",
+      "title": "AI Flew a Fighter Jet for 17 Hours",
+      "excerpt": "Add \"fly a military fighter jet\" to the list of tasks AI can accomplish. The Defense Department revealed last week that artificial intelligence flew a jet similar to an F-16 for 17 total hours over 12 flights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/ai-flew-a-fighter-jet-for-17-hours/",
+      "originalUrl": "https://www.cnet.com/tech/ai-flew-a-fighter-jet-for-17-hours/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/5e5cc1c57b2d625140ac5b2e2b7a19534e5fda78/hub/2023/02/22/a9575f9d-8367-4ec6-b17c-55c381efbca4/lma-vista.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-flew-a-fighter-jet-for-17-hours/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-flew-a-fighter-jet-for-17-hours/",
+      "publishedDateTime": "2023-02-26T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-26-what-elon-musk-bill-gates-and-12-other-business-leaders-think-about-ai-tools-like-chatgpt.md",
       "title": "What Elon Musk, Bill Gates, and 12 other business leaders think about AI tools like ChatGPT",
       "excerpt": "While some business leaders are excited about AI's potential for good, others are skeptical, unimpressed, and even scared about what the tech can do.",
@@ -760,7 +811,7 @@
       "originalUrl": "https://www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -855,7 +906,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-global-research-report-2023---2028-2023-02-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 389,
+      "heat": 379,
       "tags": null,
       "images": [
         {
@@ -908,7 +959,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -948,7 +999,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1200,59 +1252,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-25-artificial-intelligence-companies-you-may-want-to-invest-in-now.md",
-      "title": "Artificial Intelligence Companies You May Want To Invest In Now",
-      "excerpt": "Even if you somehow avoided that news, AI offerings are everywhere. We’ll review some artificial intelligence companies well-positioned to magnify earnings in the coming years. If you’re a seasoned investor, you’ll likely have heard about most of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f909efaf73498cf7093b40/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/amp/",
-      "publishedDateTime": "2023-02-24T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

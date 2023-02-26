@@ -2,6 +2,386 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-02-02-how-can-generative-ai-improve-the-customer-experience.md",
+      "title": "How can generative AI improve the customer experience?",
+      "excerpt": "Here is a summary of my conversation with Michael Maoz: Q: Why are we suddenly seeing a wave of hype around Generative AI? What is it, exactly, and why should we care? A: We'll start from the last question and work back. Over the next five years ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/generative-ai/",
+      "originalUrl": "https://www.zdnet.com/article/generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0d8ff6e7dffa7e760dccf3cfaed06c0881c5d9a2/2023/01/24/0e3a1ce6-b8f8-42a7-86ce-e0b98b00b412/best-ai-writers.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai/",
+      "publishedDateTime": "2023-02-01T14:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research.md",
+      "title": "Global Deep Learning Courses for NLP Market 2023-2027 (New Report) for a Sustainable Future | Forecast Report by 106 Pages Research",
+      "excerpt": "Deep Learning Courses for NLP market report investigates new project feasibility with the purpose of enlightening new entrants about the possibilities in this market. In this report, thorough SWOT analysis and investment analysis are provided which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research-2023-02-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-courses-for-nlp-market-2023-2027-new-report-for-a-sustainable-future-forecast-report-by-106-pages-research-2023-02-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-red-hat-gives-an-arm-up-to-openshift-kubernetes-operations.md",
+      "title": "Red Hat gives an ARM up to OpenShift Kubernetes operations",
+      "excerpt": "Red Hat announced the general availability of OpenShift 4.12, bringing new capabilities to its hybrid cloud application delivery platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/red-hat-gives-an-arm-up-to-openshift-kubernetes-operations/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/red-hat-gives-an-arm-up-to-openshift-kubernetes-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/red-hat-gives-an-arm-up-to-openshift-kubernetes-operations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/red-hat-gives-an-arm-up-to-openshift-kubernetes-operations/amp/",
+      "publishedDateTime": "2023-02-01T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-netflix-taps-ai-to-generate-anime-backgrounds-rather-than-hire-humans.md",
+      "title": "Netflix Taps AI to Generate Anime Backgrounds Rather Than Hire Humans",
+      "excerpt": "The clip represents an experimental attempt to help the anime industry address its labor shortage. However, critics say there wouldn't be a shortage if human animators were paid more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/netflix-taps-ai-to-generate-anime-backgrounds-rather-than-hire-humans",
+      "originalUrl": "https://www.pcmag.com/news/netflix-taps-ai-to-generate-anime-backgrounds-rather-than-hire-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03T2h4pGHIgF1DGEv0pQZKY-1.fit_lim.size_1200x630.v1675283309.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T13:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-ai-company-co-founder-addresses-ethics-of-tom-cruise-deepfake-videos.md",
+      "title": "AI Company Co-Founder Addresses Ethics of Tom Cruise 'Deepfake' Videos",
+      "excerpt": "It started as an art project, then the Tom Cruise 'deepfake' videos went viral on TikTok. Now a co-founder of an artificial intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/currencies/ai-company-founder-addresses-ethics-of-tom-cruise-deepfake-videos-1032060499",
+      "originalUrl": "https://markets.businessinsider.com/news/currencies/ai-company-founder-addresses-ethics-of-tom-cruise-deepfake-videos-1032060499",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coindesk.com/resizer/oko5AqArqAk7G2MGm1chPvIJZME=/800x600/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PEPA47DVHRH6FDIZ2OELRYFTWM.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T13:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation.md",
+      "title": "How to decide between Amazon Rekognition image and video API for video moderation",
+      "excerpt": "Almost 80% of today’s web content is user-generated, creating a deluge of content that organizations struggle to analyze with human-only processes. The availability of consumer information helps them make decisions, from buying a new pair of jeans to securing home loans. In a recent survey, 79% of consumers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-decide-between-amazon-rekognition-image-and-video-api-for-video-moderation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T12:40:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-asda-and-hvs-to-work-on-driverless-hydrogen-hgv-in-world-first.md",
+      "title": "Asda and HVS to work on driverless hydrogen HGV in world first",
+      "excerpt": "Through sensor technology, cameras, and artificial intelligence, it is hoped the vehicle will operate with a remote driver for some journeys. HVS hopes the vehicles can help with issues in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/asda-and-hvs-to-work-on-driverless-hydrogen-hgv-in-world-first-12800586",
+      "originalUrl": "https://news.sky.com/story/asda-and-hvs-to-work-on-driverless-hydrogen-hgv-in-world-first-12800586",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden.md",
+      "title": "Trump aide Hope Hicks joins Dolan team amid controversy over facial recognition at Madison Square Garden",
+      "excerpt": "MSG boss Dolan has come under fire for removing lawyers whose firm is involved in litigation against his company from the Garden and from Radio City",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing",
+      "originalUrl": "https://www.marketwatch.com/story/trump-aide-hope-hicks-joins-dolan-team-amid-controversy-over-facial-recognition-at-madison-square-garden-11675279268?mod=investing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T10:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-scaling-distributed-training-with-aws-trainium-and-amazon-eks.md",
       "title": "Scaling distributed training with AWS Trainium and Amazon EKS",
       "excerpt": "Recent developments in deep learning have led to increasingly large models such as GPT-3, BLOOM, and OPT, some of which are already in excess of 100 billion parameters. Although larger models tend to be more powerful, training such models requires significant computational resources. Even with the use",
@@ -807,384 +1187,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-how-ark-invests-cathie-wood-is-investing-behind-the-artificial-intelligence-boom.md",
-      "title": "How Ark Invest's Cathie Wood is investing behind the artificial intelligence boom",
-      "excerpt": "Ark Invest's Cathie Wood said Wednesday said artificial intelligence is the most important catalyst in every corner of her disruptive innovation strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/01/ark-invest-cathie-wood-artificial-intelligence-chatgpt.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/01/ark-invest-cathie-wood-artificial-intelligence-chatgpt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107081717-1656420743920-gettyimages-1235989104-AFP_9PZ89E.jpeg?v=1675264560&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-getting-started-with-azure-openai.md",
-      "title": "Getting started with Azure OpenAI",
-      "excerpt": "Microsoft’s Azure-hosted OpenAI language models are now generally available, and it’s surprisingly simple to use them in your code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.html",
-      "originalUrl": "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_vector_by_kohb_gettyimages_1146634284-100817775-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3686694/getting-started-with-azure-openai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3686694/getting-started-with-azure-openai.amp.html",
-      "publishedDateTime": "2023-02-01T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science.md",
-      "title": "NASA partners with IBM to build AI foundation models to advance climate science",
-      "excerpt": "NASA and IBM are developing new AI foundation models to analyze geospatial satellite data to understand and take action on climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/",
-      "originalUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/military-AI-e1675215120724.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science/amp/",
-      "publishedDateTime": "2023-02-01T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-a-new-ai-voice-tool-is-already-being-abused-to-make-deepfake-celebrity-audio-clips.md",
-      "title": "A new AI voice tool is already being abused to make deepfake celebrity audio clips",
-      "excerpt": "ElevenLabs' AI speech synthetizer is being used to generate clips featuring voices that sound like celebrities reading or saying something questionable..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html",
-      "originalUrl": "https://www.engadget.com/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-06/7dc12ee0-e5b0-11ec-b977-a345e4c04815",
-          "width": 8553,
-          "height": 5846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-voice-tool-deepfake-celebrity-audio-clips-094648743.html",
-      "publishedDateTime": "2023-02-01T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-self-driving-bus-project-to-test-journeys-without-staff-on-board.md",
-      "title": "Self-driving bus project to test journeys without staff on board",
-      "excerpt": "A project developing what the Government believes will be the world’s first full-size self-driving bus service will test if smaller vehicles can operate without a staff member on board.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/self-driving-bus-project-test-090554411.html",
-      "originalUrl": "https://www.aol.com/self-driving-bus-project-test-090554411.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/NhlezHhPYgc6MBQsjv_XFQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/41e76b554f0d9f59fe32c74991140f42",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T01:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-budget-big-push-for-artificial-intelligence-new-5g-app-labs.md",
-      "title": "Budget: Big Push For Artificial Intelligence, New 5G App Labs",
-      "excerpt": "Three centres of excellence for artificial intelligence (AI) in top educational institutions and 100 labs in engineering institutions for developing applications using 5G services will be set up, Union Finance Minister Nirmala Sitharaman announced on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/business/budget-2023-big-push-for-artificial-intelligence-new-5g-app-labs-3742553",
-      "originalUrl": "https://www.ndtv.com/business/budget-2023-big-push-for-artificial-intelligence-new-5g-app-labs-3742553",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/business/budget-2023-big-push-for-artificial-intelligence-new-5g-app-labs-3742553/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/business/budget-2023-big-push-for-artificial-intelligence-new-5g-app-labs-3742553/amp/1",
-      "publishedDateTime": "2023-02-01T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-gpu-prices-and-availability-january-2023-how-much-are-gpus-today.md",
-      "title": "GPU prices and availability (January 2023): how much are GPUs today?",
-      "excerpt": "The GPU shortage is over, and gamers around the world can breathe a sigh of relief. For those in the market for one of the best graphics cards, we closely looked at graphics card prices and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
-      "originalUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-clickbait-or-creativity-the-art-world-wrestles-with-ai.md",
-      "title": "Clickbait Or Creativity? The Art World Wrestles With AI",
-      "excerpt": "Online tools that can create wonderful, absurd and sometimes horrifying images using artificial intelligence (AI) have exploded in popularity, sparking soul-searching over the nature of art.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010",
-      "originalUrl": "https://www.barrons.com/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP3449580022236755445739987449664002665713-us-art-basel-miami-beach-vip-preview-2021-1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/clickbait-or-creativity-the-art-world-wrestles-with-ai-01675218010",
-      "publishedDateTime": "2023-01-31T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

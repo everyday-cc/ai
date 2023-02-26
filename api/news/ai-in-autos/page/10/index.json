@@ -2,6 +2,94 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-01-04-profits-surge-at-tuam-based-driverless-car-technology-firm-valeo.md",
+      "title": "Profits surge at Tuam-based driverless car technology firm Valeo",
+      "excerpt": "Pre-tax profits at a Co Galway firm at the cutting edge of driverless car technology ... software intellectual property with artificial intelligence. The directors state that its products and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "originalUrl": "https://www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.independent.ie/business/irish/790a0/42259791.ece/AUTOCROP/w1240h700/FRANCE%20PMS22",
+          "width": 1240,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "cdnAmpWebUrl": "https://www-independent-ie.cdn.ampproject.org/c/s/www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "publishedDateTime": "2023-01-03T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent.ie",
+        "domain": "independent.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-learning-to-see-and-learning-to-read-artificial-intelligence-enters-a-new-era.md",
+      "title": "'Learning to see and learning to read': Artificial intelligence enters a new era",
+      "excerpt": "The team’s approach relies on a type of AI known as an artificial neural network, modeled after the neurons and connections of the brain, combined with a model of the physics of light transport. The neurons in the model are actually computer algorithms ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.princeton.edu/news/2023/01/03/learning-see-and-learning-read-artificial-intelligence-enters-new-era",
+      "originalUrl": "https://www.princeton.edu/news/2023/01/03/learning-see-and-learning-read-artificial-intelligence-enters-new-era",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.princeton.edu/sites/default/files/styles/scale_1440/public/images/2023/01/Discovery-2022-23_feature_ai_AI--BIGGER--cover--3000x1688px.jpg?itok=7QASTP2x",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Princeton University",
+        "domain": "princeton.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-01-03-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.md",
       "title": "Not all AI is actually “artificial intelligence” — what you need to know",
       "excerpt": "Neural networks aren’t the only approach to AI. Another prominent camp in artificial intelligence research is symbolic AI — instead of digesting huge data sets, it relies on rules and ...",
@@ -1277,110 +1365,6 @@
         "name": "q13fox",
         "domain": "q13fox.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-gm-units-self-driving-taxis-are-subject-of-us-safety-investigation.md",
-      "title": "G.M. Unit’s Self-Driving Taxis Are Subject of U.S. Safety Investigation",
-      "excerpt": "The National Highway Traffic Safety Administration is looking into unexpected braking by cars operated by Cruise, a part of General Motors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/16/multimedia/16CRUISE-1-b179/16CRUISE-1-b179-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/16/business/gm-cruise-self-driving-cars-investigation.amp.html",
-      "publishedDateTime": "2022-12-16T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-17-waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area.md",
-      "title": "Waymo opens Phoenix airport rides to the public, doubles downtown service area",
-      "excerpt": "Waymo will also be doubling its service area in downtown Phoenix following an initial launch of driverless rides in the area to the public last month, the company said. The developments come a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/",
-      "originalUrl": "https://techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Waymo_Sky-Harbor_Public.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/16/waymo-opens-phoenix-airport-rides-to-the-public-doubles-downtown-service-area/amp/",
-      "publishedDateTime": "2022-12-16T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

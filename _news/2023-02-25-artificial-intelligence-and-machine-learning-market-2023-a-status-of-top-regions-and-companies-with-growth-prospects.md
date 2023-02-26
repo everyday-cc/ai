@@ -362,15 +362,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition Market Size 2023 : Expected To Deliver Dynamic Progression Until 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-02-22T01:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-size-2023-expected-to-deliver-dynamic-progression-until-2026-2023-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
   - title: "Cloud AI in Fintech Market Size 2023-2029 Current Development, Sale, Revenue, Application, Production Cost, Revenue Region"
     excerpt: "Feb (The Expresswire) -- \"Cloud AI in Fintech Market\" Report covers specified competitive outlook consisting of the market proportion and"
     publishedDateTime: 2023-02-24T02:04:00Z

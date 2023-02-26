@@ -2,6 +2,74 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-04-tdk-corporation-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms.md",
+      "title": "TDK Corporation: TDK to acquire Qeexo to enable complete smart edge platforms",
+      "excerpt": "Qeexo AutoML enables a no-code environment, enabling data collection and training of 18 (and expanding) different machine learning algorithms, including both neural networks and non-neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-01/57979928-tdk-corporation-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-01/57979928-tdk-corporation-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms.md",
+      "title": "TDK to acquire Qeexo to enable complete smart edge platforms",
+      "excerpt": "TDK Corporation (TSE: 6762) (CEO & President: Noboru Saito, hereinafter \"TDK\") announced that today TDK has agreed to acquire Qeexo, Co.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-301710811.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-301710811.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-04-leveraging-machine-learning-to-help-predict-ship-exhaust-gas-emissions.md",
       "title": "Leveraging machine learning to help predict ship exhaust gas emissions",
       "excerpt": "Ships, the most common means of international goods transportation, emit exhaust gases that cause air pollution at the ports they dock in. Predicting the levels of these emissions is important from an environmental standpoint,",
@@ -1287,111 +1355,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-speed-ml-development-using-sagemaker-feature-store-and-apache-iceberg-offline-store-compaction.md",
-      "title": "­­Speed ML development using SageMaker Feature Store and Apache Iceberg offline store compaction",
-      "excerpt": "Today, companies are establishing feature stores to provide a central repository to scale ML development across business units and data science teams. As feature data grows in size and complexity, data scientists need to be able to efficiently query these feature stores to extract datasets for experimentation,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/speed-ml-development-using-sagemaker-feature-store-and-apache-iceberg-offline-store-compaction/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/speed-ml-development-using-sagemaker-feature-store-and-apache-iceberg-offline-store-compaction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/21/speed-ml-development-sagemaker-feature-store-iceberg.jpg",
-          "width": 1566,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-21T08:39:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-8-mlops-predictions-for-enterprise-machine-learning-in-2023.md",
-      "title": "8 MLops predictions for enterprise machine learning in 2023",
-      "excerpt": "So what trends will emerge in the MLops landscape in 2023? A variety of AI and ML experts shared their predictions with VentureBeat.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/",
-      "originalUrl": "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_514013068-e1623787978313.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/amp/",
-      "publishedDateTime": "2022-12-21T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.htm
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -113,15 +113,6 @@ related:
       name: IBTimes UK
       domain: ibtimes.co.uk
     quality: 36
-  - title: "Nvidia Shares Soar on Earnings Beat, Chip Demand for AI Applications"
-    excerpt: "Shares of Nvidia (NVDA) are soaring after the software company posted better-than-expected results in the previous quarter while boosting current quarter guidance, and said chip demand for artificial intelligence (AI) applications such as ChatGPT is soaring."
-    publishedDateTime: 2023-02-23T15:35:00Z
-    webUrl: "https://www.investopedia.com/nvidia-shares-soar-on-earnings-beat-chip-demand-for-ai-applications-7112912"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 34
 
 secured: "SkoG72y+GG5g9GkCUT0bTY8uDLgP1rkjbd7Li2KGBEdkM3gkusy/GWgMCweJRIs/tBkeJ3MYWIDQCEashMdCEf2eN+GPaL+BOruOqabMhpjZusNjKAiMsi7sNldPOdI6uYZZbr9ojQoAexKtSEX1DTYrSFfC0JUMnJpnq79qUSPIKttvxZSqLvt/t6t1Infuyc5hFQv4TzKoumrgHGIrzOgKKM9VnmQ5/eWybTpgH+SgseGcVqXef/D+mxdbCKPVtC+oc9u2FLsNAsG9lJ7nK+/1BX0RRaeU7gTBkxeHf2ouTGqFhDw1W0alG64LXCzvM9/dPkAXIXGlNrm6DRyfIh5D6fKwj+i/Fy0N/V3QBHk=;1voRTKOG6qN6wjkYsPiGXQ=="
 ---

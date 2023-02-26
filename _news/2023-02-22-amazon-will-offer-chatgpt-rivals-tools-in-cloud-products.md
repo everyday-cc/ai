@@ -69,6 +69,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Wants ChatGPT to Control Robots Next"
+    excerpt: "On October 26, 1984, Orion Pictures released The Terminator, a movie about genocidal AI-powered robots unleashed by a tech company. Unfortunately, the executives at Microsoft must have been doing ..."
+    publishedDateTime: 2023-02-23T15:15:00Z
+    webUrl: "https://gizmodo.com/ai-chatgpt-microsoft-control-robots-terminator-1850145030"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 86
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2bdc7fe7d3626985ed3e4a60fc7b7e4c.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ChatGPT and its implications for customer experience"
+    excerpt: "LLM-based chatbots like ChatGPT and conventional chatbots fulfill somewhat different purposes, but LLMs will be heavily used in CX."
+    publishedDateTime: 2023-02-26T17:15:00Z
+    webUrl: "https://venturebeat.com/ai/chatgpt-and-its-implications-for-customer-experience/"
+    ampWebUrl: "https://venturebeat.com/ai/chatgpt-and-its-implications-for-customer-experience/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/chatgpt-and-its-implications-for-customer-experience/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all"
+        width: 1200
+        height: 617
+        isCached: true
   - title: "The Unexpected Winners Of The ChatGPT Generative AI Revolution"
     excerpt: "In fact, my first paper on generative chemistry, was published in 2016, first granted patent in 2018, and the first AI-generated drug went through the first phase of clinical trials. OpenAI’s GPT-3 platform was launched in June, and released to the ..."
     publishedDateTime: 2023-02-23T23:13:00Z
