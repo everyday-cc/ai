@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternativ
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp"
 type: article
 quality: 89
-heat: 409
+heat: 410
 published: true
 
 provider:

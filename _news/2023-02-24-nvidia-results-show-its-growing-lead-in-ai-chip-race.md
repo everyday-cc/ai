@@ -122,6 +122,6 @@ related:
       domain: digitimes.com
     quality: 19
 
-secured: "kdWs0R4LC02ANttXw27+fioA6a8XqMMrywsFqeY3j/v7pCYFrSYempbfVowaCa+gJiciSSxWuWHvS4n3WuK23cwROj/zegn8j0g6aGVrDb3loSOnpZuhZY0mkD63+bFZScdK4YY833zDBkg4Hm0DQcrjoeQ5ZFAmBEyyKDRzkhcioG9qJO8FFbU8e6/iVxH2vLbg7fFBPGkJ6bBtjpqiZL7qg3N2vVZ0l/xRmJmqmNb2+hsauA/JQyHJ4n1/BTmqsok3rR/SBxSNL3fqpmuDLU6kXZ5MH2GZcoxKqdtGnt8y0K+NmXPKxZITP7SBrSPJXbxUc3zOjgqOJYTKtP5OYzbVpUnZGSWT89+860l/Km4=;SFY4F2O388P0ufCfS/1kBw=="
+secured: "00JUz94FwRg7bAjF6Pb57Kdof/LSsa8FNuCoyJopRexLNB0n6y8JepSkeDOeRRBd26BB2fenjukCdq6WtGpb6yOxO8G9VXzHY2+FccHj/jzke4Q9rdtieGJEf+0v/OVNK1wuLRAtITVG4eTOlJlgpm2maziUZE3pThvJ9df6Eb+j55Nv74KgyHFltHEYp+A+weQ0EdZv/0oSlBtEeHbVkznV7Y2XivALpCejUhMzmSh+wTrRJr60WCC1PWj9bLVwu5HlVQlBY/tyiH6D6L9tPqj6RNFDr8PvEnOmbSvWLQ6KA0nRcJ3Ec5hz1Bd0Iq803gE2D+Jx6Fu6TO1yZhpn8dHm8Wq3GhU0ohuhKbGcejI=;SPTGPeV6mK1oR/np49eFJQ=="
 ---
 

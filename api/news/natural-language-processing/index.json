@@ -62,7 +62,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 409,
+      "heat": 410,
       "tags": null,
       "images": [
         {
@@ -1037,19 +1037,19 @@
     {
       "path": "_news/2023-02-15-vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology.md",
       "title": "VORMOR Innovation emerges as a Leader in AI-based Translation Technology",
-      "excerpt": "AI's latest technology and translating system of VORMOR Innovation enhances efficiency, improves outcomes, and facilitates communication for various groups like travelers, offices, educational purposes,",
+      "excerpt": "the company has grown into a well-known enterprise with a range of innovative AI-powered language services, including a variety of speech recognition, speech synthesis, language translation ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology-2023-02-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology-2023-02-14",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1057,23 +1057,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T13:22:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30914976",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30914976",
+      "publishedDateTime": "2023-02-14T14:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

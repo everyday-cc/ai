@@ -21,16 +21,21 @@ topics:
 
 related:
   - title: "Artificial intelligence courses to be offered at some Baltimore County schools"
-    excerpt: "Artificial intelligence (AI) courses will soon be available to students in some Baltimore County schools. High school students, like Breon Jobes from Chesapeake High School, are ready to take on the future of technology. \"In my eyes, AI is definitely ..."
-    publishedDateTime: 2023-02-23T13:16:00Z
-    webUrl: "https://www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools"
-    ampWebUrl: "https://www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools/amp"
-    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools/amp"
+    excerpt: "IT IS VERY CREATIVE. IT GETS OUR BRAINS WORKING 100%. AS ARTIFICIAL INTELLIGENCE COURSES WILL BE AMONG THOSE OFFERING ARTS AND TECHNOLOGY. CLASS ARTIFICIAL INTELLIGENCE IS ACTUALLY A SUBSET OF ..."
+    publishedDateTime: 2023-02-23T01:18:00Z
+    webUrl: "https://www.wbaltv.com/article/artificial-intelligence-courses-baltimore-county-schools/43031400"
+    ampWebUrl: "https://www.wbaltv.com/amp/article/artificial-intelligence-courses-baltimore-county-schools/43031400"
+    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/artificial-intelligence-courses-baltimore-county-schools/43031400"
     type: article
     provider:
-      name: WBAL
-      domain: wbal.com
-    quality: 35
+      name: WBAL-TV
+      domain: wbaltv.com
+    quality: 55
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/a24a30a3-694f-48e0-babc-c2b4a13b5446/c6afed40-ed01-43f0-bd8c-6aa7b3b10033.jpeg?crop=0.989xw:1.00xh;0.00653xw,0&resize=1200:*"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "Artificial intelligence career program approved for some Baltimore County Public Schools for next fall"
     excerpt: "Starting next fall, some Baltimore County Public Schools students will have the option to partake in an artificial intelligence program as part of the system’s career and technical education ..."
     publishedDateTime: 2023-02-21T12:34:00Z

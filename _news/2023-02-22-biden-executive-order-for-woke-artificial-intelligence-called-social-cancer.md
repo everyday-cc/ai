@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/biden-executive-order-woke-artificial-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-executive-order-woke-artificial-intelligence-called-social-cancer.amp"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

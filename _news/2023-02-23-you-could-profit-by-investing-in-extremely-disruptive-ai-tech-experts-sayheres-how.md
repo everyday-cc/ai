@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/02/22/how-to-invest-in-artificial-inte
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/how-to-invest-in-artificial-intelligence-etfs.html"
 type: article
 quality: 81
-heat: 82
+heat: 81
 published: true
 
 provider:

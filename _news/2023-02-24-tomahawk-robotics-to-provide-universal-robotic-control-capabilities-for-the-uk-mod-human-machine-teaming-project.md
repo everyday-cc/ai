@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Tomahawk Robotics to Provide Universal Robotic Control Capabilities for the UK MOD Human Machine Teaming Project"
-excerpt: "In collaboration with Rowden Technologies, Tomahawk Robotics is pleased to announce that it will provide its universal command and control technology and products for the United"
-publishedDateTime: 2023-02-24T09:24:00Z
-originalUrl: "https://www.suasnews.com/2023/02/tomahawk-robotics-to-provide-universal-robotic-control-capabilities-for-the-uk-mod-human-machine-teaming-project/"
-webUrl: "https://www.suasnews.com/2023/02/tomahawk-robotics-to-provide-universal-robotic-control-capabilities-for-the-uk-mod-human-machine-teaming-project/"
+excerpt: "Feb. 23, 2023 /PRNewswire/ -- In collaboration with Rowden Technologies, Tomahawk Robotics is pleased to announce that it will provide its universal command and control technology and products for ..."
+publishedDateTime: 2023-02-23T16:56:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/02/n31032962/tomahawk-robotics-to-provide-universal-robotic-control-capabilities-for-the-uk-mod-human-machine-t"
+webUrl: "https://www.benzinga.com/pressreleases/23/02/n31032962/tomahawk-robotics-to-provide-universal-robotic-control-capabilities-for-the-uk-mod-human-machine-t"
+ampWebUrl: "https://www.benzinga.com/amp/content/31032962"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31032962"
 type: article
-quality: 33
-heat: 33
+quality: 53
+heat: 53
 published: false
 
 provider:
-  name: SUAS News
-  domain: suasnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2023/02/Tomahawk_Robotics___Grip_S20_Controller.jpg?fit=599%2C388&ssl=1"
-    width: 599
-    height: 388
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "nS1EotNqhDpseAV36KLGKKRFpsmIrGdbsfhd6OTAMylQnZuCDf3Ps/bWnnXsCS70Ci0L++xddT20yPwf4oHWGg/s8cYvob/rAMp42AMo8gklKOiNLe50i59Yi3vq+h2MgFodLn/RY3HS1eRu93gBiK4eN1WF+59+OEAAp5zZvP4gsIR3iWatsupzrQCF0UrvQJtq5/cvPN6mi4OYFOniPSy5vbMc+89XkTiRwCS850A2hkM+U1nIrH7J7TJlMc8ZH8naQelucxc9wTzK5LrOgVMOQfikoILCc1O7mCYi6qUkjNY4mCbvwkv9toKxRdKG8LSN7CQG9gKcinwlTJQ/lsP+QZ+QsPY0zqq0xxIjiDE=;pJCs5Fv2TOV7cgeLNFgGnA=="
+secured: "ZU0t6n+IilfeYSmK/7XAAGOcvodkcc/4wfr9npIMkpgWLdt3LVc4Y/3E/9x/TWn+antV3e2ulx8TZplEiH/dcEFklb3WKGynR4JQCJFacBmN8NnYVISBE7duiA7R+2eXHE6QP59iTs/mKuRK1cj2oxxkyXL+Sh+ykUf2U4++m5dzj0Wk1ayG5UtKE+tlKejvDyM6r3DXnSaxS18IKlCAFf/RUOs5G0OO3QqkmebUp56OElZ43yUEV1Sw6cPdcObxXaaXQEVHLU3ySR447hem0R+hoIrUfCPttdthYhGvnFSceA+lhbdyRPExO7amlnsBk++1aFW6NjWPggwzj2swHM1y4g28qcBHs0of2pimric=;NgseiokxJjy0V6mbAp8oQg=="
 ---
 
