@@ -5,8 +5,6 @@ excerpt: "the company has grown into a well-known enterprise with a range of inn
 publishedDateTime: 2023-02-14T22:38:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology"
 webUrl: "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology"
-ampWebUrl: "https://www.benzinga.com/amp/content/30914976"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30914976"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "xnOaurkrBRNKrSRqOmHABrMdnZvHgixS+NhUpDNAB0nKWVymytquHLuSPhHv5L6bIuneKzbI6mWr3EWiSiOo9nXWbANN87pjDPNB3hDf0Tb11fyLRzl7Xni6yr4SU+00pzKaJ3TaDSrWlVf3CReS6T62HSB+0200l/ezRNeAlQgeRmZq/3r71rKiwmGtFo4XBXcIzIldQtl/REn+pqtaFdNACXWkv9XVdwR3zjUBNfEkP2EsFwao4STXpMdHbSvkTSycT6SxhQkRVllCXdVZ9H/3dTkkAU5t9B0AXiUlQxwhx611V3PlUvulYEKcU9TbwgXNT5ftA6VXYcC4vVdZUyw5D9b8H/4Ta6AO1WR4OQs=;53msBvhSHScvFUpYUIG1Yw=="
+secured: "uU8kyruV652asFFWcPAQdpi6+gp8sOEvVj6kZT9n9uJKRIUYrfttGDPC9wN2M6eYJqlGTZETetdwmt12gWFqg8c7pyzmBd6Tk14NY/Jq0mXHeB9hakWtP5JIZ6P9U8dKr24UJFKrKvwMthSNT0IpIUsWXLX+hnPfzIceZZMut7UQfXq0xvRhx/7B+ZBVwv7wPF7KK8RUy30eoRGqvkHMjiI0BAvtf/YG+0QGHskNW7gN/r4XautpFgAlzDfP9bwn+HmbsY9iu8SHJXZt5fLB44Dwn/5yjZrqYzF/rbaHljtlmJXXuFopx2f4l68Lr5jEpi+riw5juiqYHcFBxx+ubzHmHx+gMSM9jenwUJO3VKc=;DclfBsIYugq3Nyd2E6KZGQ=="
 ---
 
