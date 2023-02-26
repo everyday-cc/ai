@@ -24,6 +24,7 @@ topics:
   - AI
   - Natural Language Processing
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: "https://i.guim.co.uk/img/media/543d6b74c91d5d5fb908173506f00e60567f9f5c/0_70_5704_3422/master/5704.jpg?width=620&quality=85&auto=format&fit=max&s=4854fc9c9b45b2aa64285c3d335f0a4f"
