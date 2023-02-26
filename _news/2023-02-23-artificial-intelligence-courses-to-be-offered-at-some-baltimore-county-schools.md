@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Artificial intelligence courses to be offered at some Baltimore County schools"
-excerpt: "Artificial intelligence (AI) courses will soon be available to students in some Baltimore County schools. High school students, like Breon Jobes from Chesapeake High School, are ready to take on the future of technology. \"In my eyes, AI is definitely ..."
-publishedDateTime: 2023-02-23T13:16:00Z
-originalUrl: "https://www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools"
-webUrl: "https://www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools"
-ampWebUrl: "https://www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools/amp"
-cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/605507/21/artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools/amp"
+excerpt: "IT IS VERY CREATIVE. IT GETS OUR BRAINS WORKING 100%. AS ARTIFICIAL INTELLIGENCE COURSES WILL BE AMONG THOSE OFFERING ARTS AND TECHNOLOGY. CLASS ARTIFICIAL INTELLIGENCE IS ACTUALLY A SUBSET OF ..."
+publishedDateTime: 2023-02-23T01:18:00Z
+originalUrl: "https://www.wbaltv.com/article/artificial-intelligence-courses-baltimore-county-schools/43031400"
+webUrl: "https://www.wbaltv.com/article/artificial-intelligence-courses-baltimore-county-schools/43031400"
+ampWebUrl: "https://www.wbaltv.com/amp/article/artificial-intelligence-courses-baltimore-county-schools/43031400"
+cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/artificial-intelligence-courses-baltimore-county-schools/43031400"
 type: article
-quality: 35
-heat: 35
+quality: 55
+heat: 65
 published: false
 
 provider:
-  name: WBAL
-  domain: wbal.com
+  name: WBAL-TV
+  domain: wbaltv.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://kubrick.htvapps.com/vidthumb/a24a30a3-694f-48e0-babc-c2b4a13b5446/c6afed40-ed01-43f0-bd8c-6aa7b3b10033.jpeg?crop=0.989xw:1.00xh;0.00653xw,0&resize=1200:*"
+    width: 1200
+    height: 673
+    isCached: true
 
 related:
   - title: "Baltimore County schools to launch artificial intelligence program at 3 schools"
@@ -33,6 +39,6 @@ related:
       domain: cbsnews.com
     quality: 33
 
-secured: "aBy1V84dkrfL0kCSNR93TeenLuV8PDXUCBDp4z+c9YHTLmt+kPrI2h8aRaOfa/KQrzrJp0QIxwRWIcaSNb1GsDJVEB8quTQKMk8LvT0s8tbxov+2O4i/24CCdLON92J1KUB1MAXwDN8Aba3y5KObNTniHxwWYjuRABM+yIsMFtO78C/eM1P1iZPOkg1tvrhfZ4ib7YFICK6rz4ppZnj2XwaxIXWqYiTRAY0bBCWCLh+RGkZo0uDAwQloEFDPbOSOdIrAMLjyT7KtBMFsEsvLYyn7jbR35+Qv6o95HE8XClNE3/BKL3nguM+A1NqKmjT3zpOpFlm9sMPZxXwW6DrveV1BjTrAwGTfQO7+UZ+tU+/HwBsCzM7c+6Rz7BsJkj1VIZaOhpCWkExBfUXukk+KmTYidCLurssMPE6BjrmBg/yXt/e+LybMPNuIIods6/IjqtcQubay2Dsb2ornt8AY+Us2ISptxWcxRECfZL7kQ8BtDuLszUic+oPv7y94AT9ZAj/1Iwq1376VllfuE83HgQ==;YOksrdvslyaVRXaRQ2TiEQ=="
+secured: "zwXbFcr6/QsDOWNssxIceSJiUqrtaahwfI1xvzqVQB5TDOQvpfDsMppoiRdP2egs0OhKrydjDL0cSUmCXC832NxWdRergcpX0C/5qG8TXcvez1K+U4Q95Gi4HbFivZTY2uYuSdFi3EemeFMLqzPidglCY3wfLhxD6+Ch5CnU+jG2Q++3Fe+s4AmjMHtcGiwHivFjMYW1iCgE1jFU8JQ8YBBEM5TQMrjcIslM9aP5tvQ3o72npGw48Nea40i5QttN9Y4y1bNpgMrOiC+CU5JXHLfu4XFjPKghXwm5MiNgMtG617U4FSxa9EBp/pjvP8WYM4MpdmmS9C/hlQe58KT+OElcxqKfOMRGNZkVboSYOIA=;AvzlxAye4Do82HmTe7vXgg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-m
 webUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479"
 type: article
 quality: 69
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -118,15 +118,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 19
-  - title: "Air Canada Launches Digital Identification; First Airline to Test Facial Recognition Technology for Identification Verification in Canada"
-    excerpt: "In a pilot project currently underway, Air Canada's digital identification is now available for customers departing from Vancouver when boarding select flights to Winnipeg, and for eligible customers entering the Air Canada Café at Toronto Pearson."
-    publishedDateTime: 2023-02-21T14:12:00Z
-    webUrl: "https://www.aviationpros.com/airlines/press-release/53012635/air-canada-air-canada-launches-digital-identification-first-airline-to-test-facial-recognition-technology-for-identification-verification-in-canada"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 1
 
 secured: "/o+ssxTKSogn0TbUbqWcdWQTxLD/j4rCzB1vp19+NFKY+U46u/QJ9oqdnqBvm1LSFOJpKLtPArm+VYTA5nMrrVptlIklrlELIoVZaur9x6RocR8oGqpPhgXh0QUrtKr9tiqXjzxYFyRObietnzYwWuyLd3kSkD4uB0tiRU2ytXOBMUFF7l0+43J2xGxF/kZuBZpXs5mOyJiLVr9KVfeb8X/eqqlU8HYo96KbM60hdppQTVZB9SrSPJMoSQSinpTSRdPJ2O4Ea7RhiVHeZI0IKLRUlhJY0m6v4ujr8ptL/u1F8cqGrsMIi/JGQ37QTk0jsB8i445ngNeeB1NGyTE72UFUDuR9alFdvERWkNnVaLhmGeRAnYRmDfbDuIEhdb5NDkpB8IP2rau/T7JrdK7ByySJbngLp0DsuTMMM2XD4hDOTYdKHcSlx6eb42To5lCmYufiByXmCmiXRMpeh+aJtq0IAth5IxxrihEvKN9E/qeqBVqHojTzPo5wEZGELgjvCdtZhgrX3F3KOzNJikMJ4g==;LWg93nLHZ9mYIzxcnRGB6Q=="
 ---

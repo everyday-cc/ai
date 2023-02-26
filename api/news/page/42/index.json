@@ -2,49 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2023-01-26-best-gpu-for-vr-in-2023-our-top-picks.md",
-      "title": "Best GPU for VR in 2023 – our top picks",
-      "excerpt": "RTX 3090 Gaming X Trio – runner up for best GPU for VR MSI Gaming GeForce RTX 3060 Ti – best budget GPU for VR There are now over 2,800 VR titles available on SteamVR, meaning it’s worth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.videogamer.com/tech/gpus/best-gpu-for-vr/",
-      "originalUrl": "https://www.videogamer.com/tech/gpus/best-gpu-for-vr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.videogamer.com/wp-content/uploads/image-8-3.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T01:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-26-ai-robot-lawyer-courtroom-debut-on-hold-as-company-founder-gets-jail-threats.md",
       "title": "AI robot lawyer courtroom debut on hold as company founder gets jail threats",
       "excerpt": "The CEO of the New York startup DoNotPay Joshua Browder announced ... from state bar prosecutors including jail time, if the AI robot lawyer were to be deployed in court. The seriousness of ...",
@@ -1158,6 +1115,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-25-resolving-to-live-the-year-of-the-rabbit-to-the-fullest.md",
+      "title": "Resolving to live the Year of the Rabbit to the fullest",
+      "excerpt": "We spoke to Liu Yang, who has one of the strangest jobs around: to sit in the passenger seat and monitor how self-driving cars cope with Beijing’s streets. Since we talked in the summer of 2022, Liu Yang had briefly stepped out of his robotaxi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/01/25/1067267/lunar-new-year-revisit-stories/",
+      "originalUrl": "https://www.technologyreview.com/2023/01/25/1067267/lunar-new-year-revisit-stories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/01/AP110204144775-crop.jpeg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/01/25/1067267/lunar-new-year-revisit-stories/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/01/25/1067267/lunar-new-year-revisit-stories/amp/",
+      "publishedDateTime": "2023-01-25T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

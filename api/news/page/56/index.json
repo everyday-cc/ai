@@ -2,59 +2,6 @@
   "page": 56,
   "value": [
     {
-      "path": "_news/2023-01-13-why-tensorflow-for-python-is-dying-a-slow-death.md",
-      "title": "Why TensorFlow for Python is dying a slow death",
-      "excerpt": "Many developers who use Python for machine learning are now switching to PyTorch. Find out why and what the future could hold for TensorFlow.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-tensorflow-for-python-is-dying-a-slow-death",
-      "originalUrl": "https://thenextweb.com/news/why-tensorflow-for-python-is-dying-a-slow-death",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F01%2FAdd-a-heading-1.jpg&signature=0118422d6dab7f09d89f3c0b7b7e58df",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
       "path": "_news/2023-01-13-hpe-buys-ai-startup-pachyderm-to-build-new-ai-ml-platform.md",
       "title": "HPE Buys AI Startup Pachyderm To Build New AI, ML Platform",
       "excerpt": "HPE acquires AI startup Pachyderm to boost artificial intelligence portfolio, create a new HPE platform and increase customer adoption of machine learning.",
@@ -1160,6 +1107,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-supernal-to-utilize-microsoft-azure-for-evtol-development.md",
+      "title": "Supernal to Utilize Microsoft Azure for eVTOL Development",
+      "excerpt": "Hyundai’s Supernal recently announced that it is collaborating with Microsoft in development of its electric vertical take-off and landing (eVTOL) aircraft for advanced air mobility. The collaboration aims to advance autonomy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/",
+      "originalUrl": "https://www.aviationtoday.com/2023/01/12/supernal-utilize-microsoft-azure-evtol-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aviationtoday.com/wp-content/uploads/2023/01/courtesy-of-microsoft-project-airsim-for-supernal.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aviation Today",
+        "domain": "aviationtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

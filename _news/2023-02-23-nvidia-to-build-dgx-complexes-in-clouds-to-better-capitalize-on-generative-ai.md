@@ -38,17 +38,6 @@ related:
         width: 1200
         height: 637
         isCached: true
-  - title: "How Nvidia dominated AI — and plans to keep it that way as generative AI explodes"
-    excerpt: "Nvidia has dominated the AI landscape. Can it handle 2023's challenges and win big in the generative AI gold rush?"
-    publishedDateTime: 2023-02-23T20:00:00Z
-    webUrl: "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/"
-    ampWebUrl: "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
   - title: "NVIDIA GTC 2023: Jensen Keynote, AI Developments, How To Watch And What Else To Expect"
     excerpt: "The GPU maker also confirmed that company founder and CEO Jensen ... Keynote And Fireside Chat NVIDIA's GTC 2023 event is a multi-day developer conference focused on the \"era of AI and the metaverse. It's where students, developers, researchers, creators ..."
     publishedDateTime: 2023-02-21T15:27:00Z

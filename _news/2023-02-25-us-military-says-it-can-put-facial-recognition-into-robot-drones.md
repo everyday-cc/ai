@@ -114,15 +114,6 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 19
-  - title: "Air Canada Launches Digital Identification; First Airline to Test Facial Recognition Technology for Identification Verification in Canada"
-    excerpt: "In a pilot project currently underway, Air Canada's digital identification is now available for customers departing from Vancouver when boarding select flights to Winnipeg, and for eligible customers entering the Air Canada Café at Toronto Pearson."
-    publishedDateTime: 2023-02-21T14:12:00Z
-    webUrl: "https://www.aviationpros.com/airlines/press-release/53012635/air-canada-air-canada-launches-digital-identification-first-airline-to-test-facial-recognition-technology-for-identification-verification-in-canada"
-    type: article
-    provider:
-      name: AviationPros
-      domain: aviationpros.com
-    quality: 1
 
 secured: "nf4GNx0EtgRIKvXuYTsuArOi1TGksyIQaE82RKnm6MuQBvTpTaocqijBal5Q1jIlkjLng+cVaLn+MsWeQR4R/2OeuhHT/QynYDyH2Dy4OdLTniqsMgd1qavBQI/AnBmFI7TtBa9I6VELU2NibSXXaO9F2bMqtt1pN1On+plvnMH1VNntAS5/EI4LygDNm/bvxGA1nk7lMYY290Mw3cgD2jJrntgNUDwo+4ktTq1gbDaGq5GuG27QT8zO+SpxxmoAl3w3NmSanPzVnXUBYcyKqMhDPBwLZ4/UKC7QkmRsO7cgxLxWZB/GNUP1IcU7isPEnSpoLPMeyDMzjaOWsPwDCus8irQBQhKtDHb3/ow+vp5tVGUpTikPOj/hBb0b9ijMRVXWuZx0h4h7H+ugTMvIEhBknkAEokZoHrWedWr02ZKfPcxC7zBnlGNbT9HvbtwW0d1Vp+GuJvuDfiiOCTYtzl03EKpgcXldBofbOocn2K45LHF+6NkPjwGVKNmzUZ35e3cjCbJM39hehC42I7DXvg==;o010oSIq39V/0K6oTtZ24g=="
 ---

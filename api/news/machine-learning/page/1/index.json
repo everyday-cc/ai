@@ -98,50 +98,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-23-deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023.md",
-      "title": "Deep Learning Chip Market Size to Reach at Extensive Growth by 2023",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Deep learning chip is an artificial intelligence (AI) device that enables a machine to learn the given tasks and perform them without being explicitly programmed. These chips ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023-2023-02-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023-2023-02-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-23T00:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-02-23-machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales.md",
       "title": "Machine learning could fix the prioritization problem in B2B tech sales",
       "excerpt": "Machine learning (ML) is at a point where it can enable data-driven precision for approaching the right customer contact with the right pitch at the right moment. Teams wary of trusting ML to date may not have as much of a choice in the matter — but will ...",
@@ -1418,6 +1374,49 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-deep-multi-magnification-similarity-learning-helps-histopathological-diagnosis.md",
+      "title": "Deep multi-magnification similarity learning helps histopathological diagnosis",
+      "excerpt": "Nazar Mustafa Zaki's team from United Arab Emirates University, proposed a novel deep multi-magnification similarity learning (DSML) approach to improve performance in histopathological ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-02-deep-multi-magnification-similarity-histopathological-diagnosis.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-02-deep-multi-magnification-similarity-histopathological-diagnosis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-multi-magnificati.jpg",
+          "width": 1270,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

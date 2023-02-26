@@ -2,58 +2,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_news/2023-02-02-uncertain-economy-spurs-growth-in-ai-powered-office-automation.md",
-      "title": "Uncertain Economy Spurs Growth in AI-Powered Office Automation",
-      "excerpt": "Companies are striving to fuel growth without adding to payrolls, corporate technology chiefs say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/uncertain-economy-spurs-growth-in-ai-powered-office-automation-11675282156",
-      "originalUrl": "https://www.wsj.com/articles/uncertain-economy-spurs-growth-in-ai-powered-office-automation-11675282156",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-714963/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/uncertain-economy-spurs-growth-in-ai-powered-office-automation-11675282156",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/uncertain-economy-spurs-growth-in-ai-powered-office-automation-11675282156",
-      "publishedDateTime": "2023-02-02T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-02-facial-recognition-in-schools-clever-tech-bad-bad-bad-implementation.md",
       "title": "Facial Recognition In Schools: Clever Tech. Bad, Bad, Bad Implementation",
       "excerpt": "Your kids are in high school, between the ages of 11 and 18, and they need to be fed, but when they get to the till or point of sale in the canteen, their faces are scanned, matched to a biometric pattern and the data is stored somewhere until they are 23.",
@@ -1172,6 +1120,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-our-future-could-be-full-of-undying-self-repairing-robots-heres-how.md",
+      "title": "Our future could be full of undying, self-repairing robots. Here's how",
+      "excerpt": "With generative artificial intelligence (AI) systems such as ChatGPT and StableDiffusion ... But the rate of advancement in robotics—which we could think of as the potential physical embodiment of AI—is slow. Could it be that future AI systems will ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/our-future-could-be-fu.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-future-full-undying-self-repairing-robots.amp",
+      "publishedDateTime": "2023-02-01T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

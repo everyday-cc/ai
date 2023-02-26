@@ -2,49 +2,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2023-01-28-big-tech-was-moving-cautiously-on-ai-then-came-chatgpt.md",
-      "title": "Big Tech was moving cautiously on AI. Then came ChatGPT.",
-      "excerpt": "Three months before ChatGPT debuted in November, Facebook’s parent company ... managing director of Fundamental AI Research at Meta. “We believe that AI is foundational and transformative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2023/01/27/chatgpt-google-meta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I2GH75SNKFGPXNRMCMDBGLQ3H4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-27T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-28-co-bill-that-suggests-using-artificial-intelligence-to-help-detect-wildfires-moves-forward-in-legislature.md",
       "title": "CO bill that suggests using artificial intelligence to help detect wildfires moves forward in Legislature",
       "excerpt": "Colorado lawmakers unanimously voted to push forward a bill that would create a $2 million wildfire prevention program, which may use artificial intelligence to identify fires early.",
@@ -1151,6 +1108,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-27-jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing.md",
+      "title": "Jurny Selects RAD AI for Creative Intelligence and Influencer Marketing",
+      "excerpt": "Press Release Rad Technologies, Inc., doing business as Rad Intelligence, an artificial intelligence company that automates ROI-based creative intelligence, announced today that they have signed Jurny,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing/",
+      "originalUrl": "https://venturebeat.com/business/jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/jurny-selects-rad-ai-for-creative-intelligence-and-influencer-marketing/amp/",
+      "publishedDateTime": "2023-01-26T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Marketing"
       ]
     }
   ],

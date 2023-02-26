@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2023/02/25/nvidia-ai-gpu-mediatek-soc/"
 webUrl: "https://www.gizmochina.com/2023/02/25/nvidia-ai-gpu-mediatek-soc/"
 type: article
 quality: 84
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gizmochina
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "MediaTek may soon integrate Nvidia's AI GPUs in flagship mobile chips"
+    excerpt: "Chipmaker MediaTek will reportedly integrate Nvidia's artificial intelligence (AI) graphics processing units (GPUs) in its"
+    publishedDateTime: 2023-02-26T06:25:00Z
+    webUrl: "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips"
+    ampWebUrl: "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 89
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/02/ffd111581e1561e1ae2dd7b9dc7355b8.jpg"
+        width: 400
+        height: 234
+        isCached: true
   - title: "Chip Maker Nvidia Shares Soar 14% As Imaginations For AI Future Run Wild"
     excerpt: "CEO Jensen Huang bragged his company will be “the best AI salespeople [in] the world,” but some say Nvidia’s AI-fueled stock boost is unwarranted."
     publishedDateTime: 2023-02-23T22:22:00Z
@@ -40,6 +56,17 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 83
+  - title: "How Nvidia dominated AI — and plans to keep it that way as generative AI explodes"
+    excerpt: "Nvidia has dominated the AI landscape. Can it handle 2023's challenges and win big in the generative AI gold rush?"
+    publishedDateTime: 2023-02-23T20:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/"
+    ampWebUrl: "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
   - title: "MediaTek likely to incorporate Nvidia AI GPU in smartphone SoC?"
     excerpt: "Nvidia's AI GPUs may be found in MediaTek's flagship smartphone slated for launch as early as 2024, according to industry sources. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue."
     publishedDateTime: 2023-02-24T03:10:00Z

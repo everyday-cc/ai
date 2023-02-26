@@ -23,15 +23,24 @@ topics:
   - AI
 
 related:
-  - title: "How COVID-19 Impacting Natural Language Processing Market 2023 Globally by 2028?"
-    excerpt: "“Global Natural Language Processing market size was valued at USD 13017.98 million in 2022 and is expected to expand at a CAGR of 18.27% during the forecast period, reaching USD 35630.81 million by 2028.”Ask for Sample Report GlobalNatural Language ..."
-    publishedDateTime: 2023-02-24T04:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-covid-19-impacting-natural-language-processing-market-2023-globally-by-2028-2023-02-23"
+  - title: "Machine Learning Market 2023 With Top Key Players is thriving worldwide by 2029"
+    excerpt: "Machine Learning Market Size 2023-2029 | New Report (118 Pages) | Information Technology | In This Reports Machine"
+    publishedDateTime: 2023-02-23T05:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2023-with-top-key-players-is-thriving-worldwide-by-2029-2023-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 45
+  - title: "2023, Computer Vision System Market Is Dazzling Worldwide |Size, Share, Demand and Analysis by 2029"
+    excerpt: "Computer Vision System Market Size 2023-2029 | New Report (116 Pages) | Information Technology | In This Reports"
+    publishedDateTime: 2023-02-23T05:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-is-dazzling-worldwide-size-share-demand-and-analysis-by-2029-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
 
 secured: "4suvz12zP7sFPDyyenGuB0DMeYzvtgcIYC9xomrTWS/10Dq5UZy77Zg1C+fqd4KPINAGZpsfwZXyEpqFlZRThSiGsDDlW+NTeOmhCCW3J4XhIWkDai9P8KvOSLrjBZLUX4lbvgK+St0QoAyUVsgkly3oqNdZdac1R52Y9e0wjIBBvpF15u6jEITNpkWlr9h4Tu8c6jHmSDtdG0/6jHS2knRdg53IfqaCJNVglmkYHebveiBomDCvhvyPHnIeZlcQGGn9pSe+X54apnPrVzeZb2QelCtF66kxKQhyN6eC1sbd4GMGgvLRhF/vWPF1DIxmUHIb2o6CjpV9QAbwZutsIdEbMYWe/vpHkJyTW/fp/A4=;yv+lT5CnM8ZTyJQkdQxmew=="
 ---

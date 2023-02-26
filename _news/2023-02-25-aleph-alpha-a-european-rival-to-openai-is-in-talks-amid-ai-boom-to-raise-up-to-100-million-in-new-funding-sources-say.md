@@ -29,22 +29,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Jaguar Land Rover to open three European self-driving tech hubs"
-    excerpt: "The hubs will develop self-driving systems for JLR's next generation of vehicles as the automaker tries to catch up with Tesla and other rivals in digital technology."
-    publishedDateTime: 2023-02-21T13:06:00Z
-    webUrl: "https://www.autonews.com/automakers-suppliers/jaguar-land-rover-nvidia-plan-more-self-driving-tech-hubs"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/ANE_180739923_AR_-1_ZESHJLJTBYWG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "6nu3X3IpIM+E6/NDawGIyc+hLAackK44OC5xVDqL/PifKdKRiQS1HG2QcsMvajF+y60KHvErnSPPcX26Eaj7JBLP44qH/hFFlEMH7BLdsA0rfKnVGtqJ1SbmbM1fEYG2P0qOXjxoNfZHN0Qal4Ha1A6Rz10k4BFXmUgWehv1G1ZthVOKf89Tqc0iSdty7NGGVoDSAz6EglZmNoai8E17Jq7RjL7Kz4v2zsu2XX/jQ4VGNHD26ayFpD2ZgwntljzVnB4qEtdSKU1GTGL47RF6vAh3ZJVPIeQHtY3EtHyuaj+wXRWf3GCN+Jc8SI8VEFV9JtZ0pXD2K9MsGJUvyqH/01dMKlrRZ2bwjtwYOM2IR8k4i7kzzEZn83EUVL8KpMYbmpZdb3tZyHuEwLKroPz2x9wUGRriZc/6gNXArVA4CLHwR79NJsRK9JQdjFZhBWh+fWLDejGR9i38jVjGX3uWOVY93CI+HJyB8/roLqISdxvGMIXW9iyoKMc9dpJpZRybpcKOAe2ajFQQhIoxJ28qWw==;fKwx/UWXcOx0BCHtrALEXw=="
 ---
 

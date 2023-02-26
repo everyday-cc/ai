@@ -1,40 +1,32 @@
 ---
 category: news
-title: "MediaTek likely to incorporate Nvidia AI GPU in smartphone SoC?"
-excerpt: "Nvidia's AI GPUs may be found in MediaTek's flagship smartphone slated for launch as early as 2024, according to industry sources. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue."
-publishedDateTime: 2023-02-24T03:10:00Z
-originalUrl: "https://www.digitimes.com/news/a20230223PD216/gpu-mediatek-nvidia-smartphone-soc.html"
-webUrl: "https://www.digitimes.com/news/a20230223PD216/gpu-mediatek-nvidia-smartphone-soc.html"
+title: "MediaTek may soon integrate Nvidia's AI GPUs in flagship mobile chips"
+excerpt: "Chipmaker MediaTek will reportedly integrate Nvidia's artificial intelligence (AI) graphics processing units (GPUs) in its"
+publishedDateTime: 2023-02-26T06:25:00Z
+originalUrl: "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips"
+webUrl: "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips"
+ampWebUrl: "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp=1"
+cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp=1"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 89
+heat: 129
+published: true
 
 provider:
-  name: Digi Times
-  domain: digitimes.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AI Hardware
   - AI
 
+images:
+  - url: "https://glamsham.com/wp-content/uploads/2023/02/ffd111581e1561e1ae2dd7b9dc7355b8.jpg"
+    width: 400
+    height: 234
+    isCached: true
+
 related:
-  - title: "MediaTek may soon integrate Nvidia's AI GPUs in flagship mobile chips"
-    excerpt: "Chipmaker MediaTek will reportedly integrate Nvidia's artificial intelligence (AI) graphics processing units (GPUs) in its"
-    publishedDateTime: 2023-02-26T06:25:00Z
-    webUrl: "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips"
-    ampWebUrl: "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 89
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/02/ffd111581e1561e1ae2dd7b9dc7355b8.jpg"
-        width: 400
-        height: 234
-        isCached: true
   - title: "Nvidia’s AI GPUs May Soon Power MediaTek’s 2024 Flagship Mobile SoCs"
     excerpt: "MediaTek's SoCs could benefit from Nvidia's GPUs for improved AI performance. Will it impact smartphone sales?"
     publishedDateTime: 2023-02-25T10:56:00Z
@@ -71,7 +63,16 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 70
+  - title: "MediaTek likely to incorporate Nvidia AI GPU in smartphone SoC?"
+    excerpt: "Nvidia's AI GPUs may be found in MediaTek's flagship smartphone slated for launch as early as 2024, according to industry sources. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue."
+    publishedDateTime: 2023-02-24T03:10:00Z
+    webUrl: "https://www.digitimes.com/news/a20230223PD216/gpu-mediatek-nvidia-smartphone-soc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
 
-secured: "H5546hqovy7IV6Bntv0wjLuuinuWZluPcFGhlCqv0dpnmnskQnzR+KR/bn88GRXuaIt4zEV3KJVFUmMF5/3A99rMign30BMuS0HsMQ3imhYgnXPaiImzVbDnHnoOd9MrEzsxB358OR1djFNMoJML8wuWWR3ujaQpWQM5K5s61AaXd0BzaVrUe4CzU2shOtpfJYG7wNb7Oaj2dC2FvuvqBT+spt1Ijaq6MmvmAmk/hei7T/1XA++JeYjH/7Iz4U6uu+8P3FwBX69eJwB8Rq+i+gQ2NuCu0E8GrHE8cXy6AI/00+5bIqEDPK7mP6gGFdtCV40l4LyMXDPmo1BEhNi8sTtoSsGOpxUC/iC1K2J9YNmJcTIcGzsE+FK3MwVv4TNbx8dQTy5cOHVmbxe7yxzdQfeRHYGbJt9Jl9i618WkKwBurKDhVAMZLAFQ/LJjoVHZsV7bfPeWPyqg6YIgRmfLEIpLC1MjGm18oobV3SjI3ILY4EddDyy+AloRu8puGhxH5AS22zWWPTd+1xQOTHA84w==;xj28/VMLlg+lsvkP0bk8XA=="
+secured: "85RehSykEcRYpTpCm4N+iYt/4lKZke/NDKLgTI39pzQz/fPzTJ0ChtK5Fe8EuiivRBjnDK2/uCZmZMcZAMgdPNoq17HCATRjm+2PU1LJHiTDqPiIJFmnw6ORBHxpZff1zFKEsYBRPZTfk+nKhNc3SeKYzN0mfuGyxK+Ng6KNkZUgnBkGif2liOQGmLycCflJbkPfsXQy2/jK2R20A8LRJIeWbdDSxqRgkn4Q86nURZrF6xCuuBC2OEgy0+fh2CChOnrtEEU3XeMVwpoK8Jzlk5d+kwN8LesrMtCQbwGk1ROdTkuT7CKkLYRZHeiuAX6y3zgHg4jJ2YqxFqfwS5vaSJ1Xr7RDP1AeVo1TWBRP4WQ=;GbkkaAA3F3mufCEy3KqQIA=="
 ---
 

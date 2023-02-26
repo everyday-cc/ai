@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-26-mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips.md",
+      "title": "MediaTek may soon integrate Nvidia's AI GPUs in flagship mobile chips",
+      "excerpt": "Chipmaker MediaTek will reportedly integrate Nvidia's artificial intelligence (AI) graphics processing units (GPUs) in its",
+      "sourceUrl": null,
+      "webUrl": "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips",
+      "originalUrl": "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://glamsham.com/wp-content/uploads/2023/02/ffd111581e1561e1ae2dd7b9dc7355b8.jpg",
+          "width": 400,
+          "height": 234,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp=1",
+      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips?utm_source=JioNews&utm_medium=referral&utm_campaign=JioNews&amp=1",
+      "publishedDateTime": "2023-02-25T22:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-26-can-ai-be-great-equaliser-for-equity-in-education.md",
       "title": "‘Can AI be great equaliser for equity in education?’",
       "excerpt": "\"A glimpse of the future shows us AI software being used for generating 3D videos to assist in explaining complex ideas or processes, software for self-paced learning, and real-time speech-to-speech translation that can bridge language barriers in ...",
@@ -43,6 +86,58 @@
         "Natural Language Processing",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-computer-vision-market-2023-expected-to-reach-significant-rate-by-2027.md",
+      "title": "Computer Vision Market 2023 Expected to Reach Significant Rate by 2027",
+      "excerpt": "Feb 25, 2023 (The Expresswire) -- \"Computer Vision Market\" Insights 2023 By Applications ( On Premise, Cloud), By Types ( Medical Imaging, Surgery,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-25T17:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -148,7 +243,7 @@
       "originalUrl": "https://venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -302,7 +397,7 @@
       "originalUrl": "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -342,58 +437,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-25-nvidias-ai-gpus-may-soon-power-mediateks-2024-flagship-mobile-socs.md",
-      "title": "Nvidia’s AI GPUs May Soon Power MediaTek’s 2024 Flagship Mobile SoCs",
-      "excerpt": "MediaTek's SoCs could benefit from Nvidia's GPUs for improved AI performance. Will it impact smartphone sales?",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/02/25/nvidia-ai-gpu-mediatek-soc/",
-      "originalUrl": "https://www.gizmochina.com/2023/02/25/nvidia-ai-gpu-mediatek-soc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/02/soc_mediatek_nvidia.jpg",
-          "width": 1420,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-25T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1191,58 +1234,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond.md",
-      "title": "Experts predict how AI will energize cybersecurity in 2023 and beyond",
-      "excerpt": "From behavioral analytics to endpoint and patch management, experts predict the many ways AI will boost cybersecurity this year and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/",
-      "originalUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/6-Cujo-AI-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/amp/",
-      "publishedDateTime": "2023-02-24T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

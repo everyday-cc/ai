@@ -2,50 +2,6 @@
   "page": 61,
   "value": [
     {
-      "path": "_news/2023-01-10-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI stocks may be excellent long-term investments. Virtually every industry is being disrupted by artificial intelligence, automation and robotics. In 2022, the world got a firsthand look at",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2023/01/artificial-intelligence-stocks-the-10-best-ai-companies-11/",
-      "originalUrl": "https://wtop.com/news/2023/01/artificial-intelligence-stocks-the-10-best-ai-companies-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-10-why-advisors-should-make-plans-well-before-they-experience-cognitive-decline.md",
       "title": "Why advisors should make plans well before they experience cognitive decline",
       "excerpt": "Advisors look out for cognitive decline in their clients, but what happens when it’s advisors themselves who experience progressive memory loss and other symptoms severe enough to impact their work?",
@@ -1151,6 +1107,49 @@
       "topics": [
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-deep-learning-pioneer-geoffrey-hinton-publishes-new-deep-learning-algorithm.md",
+      "title": "Deep Learning Pioneer Geoffrey Hinton Publishes New Deep Learning Algorithm",
+      "excerpt": "Hinton points out that ANNs can be trained using reinforcement learning (RL ... with up to 45% memory savings for deep networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/01/hinton-forward-algorithm/",
+      "originalUrl": "https://www.infoq.com/news/2023/01/hinton-forward-algorithm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2023/01/hinton-forward-algorithm/en/headerimage/generatedHeaderImage-1671889757056.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

@@ -780,19 +780,19 @@
     {
       "path": "_news/2023-02-16-moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages.md",
       "title": "Moveworks Leverages Generative AI to Provide Customers with Real-Time Translation in Over 100 Languages",
-      "excerpt": "Moveworks, the leading conversational AI platform for the enterprise, today announced that it now provides on-the-fly translation in over 100 different languages for its employee support virtual agent.",
+      "excerpt": "Moveworks delivers state of the art machine translation by combining some of the world's most advanced generative AI and large language models — including OpenAI's GPT-3, Google's RoBERTa model ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages-2023-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages-2023-02-16",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/b30942337/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-lang",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/b30942337/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-lang",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -800,23 +800,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T04:59:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30942337",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30942337",
+      "publishedDateTime": "2023-02-16T06:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

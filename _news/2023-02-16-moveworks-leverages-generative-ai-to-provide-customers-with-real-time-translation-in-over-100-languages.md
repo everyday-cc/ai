@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Moveworks Leverages Generative AI to Provide Customers with Real-Time Translation in Over 100 Languages"
-excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced that it now provides on-the-fly translation in over 100 different languages for its employee support virtual agent."
-publishedDateTime: 2023-02-16T12:59:00Z
-originalUrl: "https://www.marketwatch.com/press-release/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages-2023-02-16"
-webUrl: "https://www.marketwatch.com/press-release/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages-2023-02-16"
+excerpt: "Moveworks delivers state of the art machine translation by combining some of the world's most advanced generative AI and large language models — including OpenAI's GPT-3, Google's RoBERTa model ..."
+publishedDateTime: 2023-02-16T14:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/02/b30942337/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-lang"
+webUrl: "https://www.benzinga.com/pressreleases/23/02/b30942337/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-lang"
+ampWebUrl: "https://www.benzinga.com/amp/content/30942337"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30942337"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "f+iK42Y0bqS8MOHMD/1fxWrxpOopofa1w/0dOdk6DmBn4w70h5lvFF6iPeuV+XgNobObCF06TA/idK3KtD9Bxv/3df4e4vMeHT4bHEkfzH4cGsAcYBcL0hqGxGwLw5ZOVpFoKb4pjEHlxAERyvnbn4gaIJFmZhPlutYckJpa/917jNveqrp5+hWe6D3VRUwxwn1DAHxtsQhExU4ElmpuFULQoSv37FpdchPyAHpS+Kw735r2EFRbBOlWh2gpYCyNBdNCof2rDF+qFpv74G9fnE2WK8G79az5T5yFQBUkJIjvErGpMVXTbuEKAnD+cjeVhlQJbsc15Y7v4gH4i8ylPt92AGO3i23yYvqnW6mARQ4=;Y2yJJNO2tKbCWckd8gaqog=="
+secured: "oxbAwhlcZrxpDAEZpO53jJx3UX2QiB5bC7BAWiEfx/5RdV6i6QbP0P0JMQG5pXzcqskmD0XutCICh38miQJvBxjhjds4aNH4WRw+rJCLlf5dp7p0x3rpfHBJes7vdjs9ngoCU3tiasmw/qIPrqp8pX7mS+PKXiHuVPdy5cHi6o0OJNTC2tgIZW4ve/CRHG5l+mSYZ0biLryboG31kwiqv6Wz/U/tQBMDhnCpOCH77V7SzW0emFRG2Vsr6qNropOcjKy8Qqo8/V1dsu4mo6Bsog7NC48bgSlx35sJ4x6agqZspVAq2taTt4KzCZiXbC2+FwflMx1VyjFuwycRuwsdFP+4otbQ8stinISSxO0Xbio=;SUzw3odKgfv5CQNXysb1ew=="
 ---
 
