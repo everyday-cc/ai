@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/companies/financial-services/westpac-and-aws-s
 webUrl: "https://www.afr.com/companies/financial-services/westpac-and-aws-swim-deeper-into-generative-ai-for-banking-20230224-p5cne4"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Westpac strikes five year AWS deal"
+    excerpt: "Westpac has struck a new five year agreement with Amazon Web Services (AWS), almost a year after doing a similar deal with Microsoft for Azure. The bank said it had been working with AWS since 2015 and that the new agreement would expand its access to services,"
+    publishedDateTime: 2023-02-26T21:47:00Z
+    webUrl: "https://www.itnews.com.au/news/westpac-strikes-five-year-aws-deal-591340"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 41
+    images:
+      - url: "https://i.nextmedia.com.au/News/westpac-1220507504.jpg"
+        width: 1257
+        height: 835
+        isCached: true
 
 secured: "AamlGoPU5CvrGwGlfXwtMyEvv9d5O/H7RDLMweicA+oXTI86ltOl749RxBEhucY0QeQWNtBWi1N2/H716kyafwAAy0r8UJ9gN9DJXEPKNiQ8mOVmJgPGSYqMw+DMBmcAE0WvIe2UdBi5vIceM0/Sgx2iCVg+IlCbGp8X8Hwkxn50dsHiBrcvPp+GM514PNX2dqA26mq7aTlaXYgA9qEeWjK+REhJgfcfJecyz5o+bEfTKbUWunj2JUMDgJNUMBF1P4vfaaX85UHkzbuznZ9oS0BwY2IH6jNMs30QXAuIUHsrRkx5DrZo/KZkyuBwh+lz5Gvmu/yJdcCl1fg1+bYv7iOD2SMRfGXWJseAyvmG2Inn2E5iefEtuCcRhm65OgxMKM5z05+dPCbVHEt6ql2Q69uCCB8nNX8Vjog5OuWHv5gQRWt+TZ2aCR+A4vjg62Xd4xAbSFP3iZrC3+ZImmSdTAacTI7jGArFQvlLmEvE6owZmpaX7wvNZHmIPrNd+td/eOiET6noHYkPjtvzHMtxWw==;0wc/bLHhP29ZnUFNHN3Mng=="
 ---

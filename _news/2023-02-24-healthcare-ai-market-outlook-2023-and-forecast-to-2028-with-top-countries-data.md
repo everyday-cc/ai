@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-out
 webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-23"
 type: article
 quality: 82
-heat: 342
+heat: 322
 published: true
 
 provider:
@@ -234,15 +234,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-  - title: "Artificial Intelligence for Healthcare Applications Market Share Analysis, Environment Development Trend In 2023"
-    excerpt: "Artificial Intelligence for Healthcare Applications Market Size 2023-2029 | New Report (102 Pages) | Information"
-    publishedDateTime: 2023-02-22T05:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-share-analysis-environment-development-trend-in-2023-2023-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
   - title: "Artificial Intelligence In Small And Medium Business Market Research: Dos and Don'ts during Forecast Period 2023 to 2027"
     excerpt: "The “Artificial Intelligence In Small And Medium Business market“ is set to experience magnificent growth in the"
     publishedDateTime: 2023-02-24T10:38:00Z
@@ -285,15 +276,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market Brief Analysis By Top Leading Companies"
-    excerpt: "Feb 21, 2023 (The Expresswire) -- \"Image Recognition Market\" Report provides a Detailed analysis of global market size, regional and country-level"
-    publishedDateTime: 2023-02-22T03:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-brief-analysis-by-top-leading-companies-2023-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Self-driving Cars Market Is Booming Globally Forecast 2023-2028"
     excerpt: "Self-driving Cars Market 2023 with 89 Pages Report and enhance with extents shares into sub-counties are covered in"
     publishedDateTime: 2023-02-22T23:27:00Z

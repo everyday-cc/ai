@@ -246,15 +246,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-  - title: "Artificial Intelligence for Healthcare Applications Market Share Analysis, Environment Development Trend In 2023"
-    excerpt: "Artificial Intelligence for Healthcare Applications Market Size 2023-2029 | New Report (102 Pages) | Information"
-    publishedDateTime: 2023-02-22T05:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-share-analysis-environment-development-trend-in-2023-2023-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
   - title: "Speech & Voice Recognition Systems Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
     excerpt: "Feb 23, 2023 (The Expresswire) -- [93 Insights] Top “Speech and Voice Recognition Systems Market” Size 2023 Key players Profiled in the Report are [, Dictation, AbilityNet, Microsoft, Alphabet, Sensory, Iflytek, Raytheon BBN Technologies, Nuance,] most ..."
     publishedDateTime: 2023-02-24T05:07:00Z
@@ -283,15 +274,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market Brief Analysis By Top Leading Companies"
-    excerpt: "Feb 21, 2023 (The Expresswire) -- \"Image Recognition Market\" Report provides a Detailed analysis of global market size, regional and country-level"
-    publishedDateTime: 2023-02-22T03:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-brief-analysis-by-top-leading-companies-2023-02-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Self-driving Cars Market Is Booming Globally Forecast 2023-2028"
     excerpt: "Self-driving Cars Market 2023 with 89 Pages Report and enhance with extents shares into sub-counties are covered in"
     publishedDateTime: 2023-02-22T23:27:00Z

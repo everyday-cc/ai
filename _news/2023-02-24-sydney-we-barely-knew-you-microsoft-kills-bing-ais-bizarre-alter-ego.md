@@ -77,6 +77,20 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 81
+  - title: "Empowering operators and enterprises with the next wave of Azure for Operators services shaping the future of cloud"
+    excerpt: "At Microsoft, our aim is to be the most trusted co-innovation partner through every stage of the digital evolution, committed to working with communications service providers (CSPs), enterprises, developers, and ISVs alike on the future of a ubiquitous cloud that unlocks the true potential of modern"
+    publishedDateTime: 2023-02-26T15:00:11Z
+    webUrl: "https://azure.microsoft.com/blog/empowering-operators-and-enterprises-with-the-next-wave-of-azure-for-operators-services-shaping-the-future-of-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/82ab7088-dfa9-4863-94e0-d0dbc786f84d.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft Has Lobotomized the AI That Went Rogue"
     excerpt: "Should We Worry About AI Reaching Singularity ... may need to add a tool so you can more easily refresh the context or start from scratch,” an earlier Microsoft blog post, referenced in Friday ..."
     publishedDateTime: 2023-02-22T20:12:00Z

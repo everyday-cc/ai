@@ -251,17 +251,6 @@ related:
         width: 1228
         height: 690
         isCached: true
-  - title: "Amazon will offer ChatGPT rival’s tools in cloud products"
-    excerpt: "Amazon Web Services will make Hugging Face’s products, which include a language generation tool that competes with the technology behind OpenAI’s ChatGPT, available to cloud customers who want to use these tools as the building blocks of their own applications."
-    publishedDateTime: 2023-02-22T05:27:00Z
-    webUrl: "https://mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 24
   - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
     excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
     publishedDateTime: 2023-02-24T14:15:00Z

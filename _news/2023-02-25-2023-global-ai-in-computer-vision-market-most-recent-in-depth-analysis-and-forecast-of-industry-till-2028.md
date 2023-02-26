@@ -165,15 +165,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, Data and AI Ethics Market Latest Research Report by 2029"
-    excerpt: "Data and AI Ethics Market Size 2023-2029 | New Report (110 Pages) | Information Technology | In This Reports Data and"
-    publishedDateTime: 2023-02-22T05:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-data-and-ai-ethics-market-latest-research-report-by-2029-2023-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
   - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size Global Research Report, 2023 - 2028"
     excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2023 Will Provide Report Analysis that quickly emerging as one of the [IIII] category in the industry, by Type (,"
     publishedDateTime: 2023-02-25T07:30:00Z

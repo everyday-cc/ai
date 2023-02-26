@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-25T07:07:00Z
 originalUrl: "https://www.tcpalm.com/story/opinion/columnists/blake-fontenay/2023/02/24/tradition-residents-arent-pining-for-self-driving-shuttle-opinion/69928182007/"
 webUrl: "https://www.tcpalm.com/story/opinion/columnists/blake-fontenay/2023/02/24/tradition-residents-arent-pining-for-self-driving-shuttle-opinion/69928182007/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Treasure Coast Newspapers

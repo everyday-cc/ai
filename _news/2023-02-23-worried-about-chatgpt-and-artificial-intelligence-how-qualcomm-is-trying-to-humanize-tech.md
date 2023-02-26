@@ -244,17 +244,6 @@ related:
         width: 1228
         height: 690
         isCached: true
-  - title: "Amazon will offer ChatGPT rival’s tools in cloud products"
-    excerpt: "Amazon Web Services will make Hugging Face’s products, which include a language generation tool that competes with the technology behind OpenAI’s ChatGPT, available to cloud customers who want to use these tools as the building blocks of their own applications."
-    publishedDateTime: 2023-02-22T05:27:00Z
-    webUrl: "https://mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html"
-    ampWebUrl: "https://mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html/amp"
-    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html/amp"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 24
   - title: "Nvidia to drive AI business amid ChatGPT hype"
     excerpt: "As the sluggish PC market drags on Nvidia's performance, the fabless chip design company is eyeing the AI hype that is driven by services, especially ChatGPT. Nvidia posted its fiscal fourth-quarter financial results that ended on January 29, 2023."
     publishedDateTime: 2023-02-23T02:45:00Z

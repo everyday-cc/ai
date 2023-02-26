@@ -8,8 +8,8 @@ webUrl: "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intell
 ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes"
 type: article
-quality: 61
-heat: 71
+quality: 63
+heat: 73
 published: true
 
 provider:

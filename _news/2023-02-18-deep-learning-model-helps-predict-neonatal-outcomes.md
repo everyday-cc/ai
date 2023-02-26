@@ -2,19 +2,25 @@
 category: news
 title: "Deep Learning Model Helps Predict Neonatal Outcomes"
 excerpt: "FRIDAY, Feb. 17, 2023 (HealthDay News) -- A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in the ..."
-publishedDateTime: 2023-02-17T18:25:00Z
-originalUrl: "https://omaha.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_f1458068-5469-5c56-a3f4-635ac2e505c2.html"
-webUrl: "https://omaha.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_f1458068-5469-5c56-a3f4-635ac2e505c2.html"
+publishedDateTime: 2023-02-17T18:12:00Z
+originalUrl: "https://www.wfmz.com/health/deep-learning-model-helps-predict-neonatal-outcomes/article_68ef29c2-1fc5-5120-b1ea-daa5afe453e9.html"
+webUrl: "https://www.wfmz.com/health/deep-learning-model-helps-predict-neonatal-outcomes/article_68ef29c2-1fc5-5120-b1ea-daa5afe453e9.html"
 type: article
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "DauNFjJxNhagR+7yvhhUeuLrTnksB8hrh1qfdjw9Rh6w+z0uxNf0px2nVoZqU8m29TPRq/W/qmH4mc4NXjoftsWHWWKq5JdeGAxr6waWpMjzmZ+LsTUlkm8iAko6xFz5p4JOjdsGBLxazRHPD0Th+hyFtnGNiRhoc5kFrPwrN/uIZHeS5ikoFFcoPXbEELo0+cBUA6qPZIns9eilTUoRJkBNGY0lX728OlVF8Bf7H/9Ui+z2Yw++NIhu5Sp5UbhWRDlvCL4rI6efF+VPMKPN4DqqvlXZXp9BRRAq0qdUOYI63vpEHd9lcKJ+nnnqO8epdMRL2b5aLAx0X6LPCXLTzNpEDRVK1tIvn1VIVgyUjcM=;5ugX69c3gGcAKedm6V/liw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/87/b8731f41-823d-5b12-a6ff-886f72c4be40/63efc1579654f.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "dlv68EcPY98aurQCSE3TA/mvc6udLSYe1kuYC5fe5Q24EBwks0ChP2tKoQmfGuhP1+gdTkYxcE0mxS6n+7JWITe+ZDlc+YEN9ue6GzRR0c9jg80sZARBYK/Jr35pzlmapoDLwQr5UlMMY9KPmF1xaK+xC+DIYfy6QFvmujNL8FMdWoYAJm16YjyoFyqquxmrgOYGo0lMz4+5vE3yYEpaonWCU5E9gfKCmnEDZM7fN7cCOP8gkwdCSHYz5Xj5bAraZH/0UYWSskjPdCO7Ij6lKRtQXkdgxD9VlAsMqYPBX1FG/cGG/FliHNDR0FdT7ZwDowTJk1qopY5HThfmkvoaamLxD8fjrHNNinev48lpMEs=;WDtWA8/8mtmFzSV4Huawhw=="
 ---
 

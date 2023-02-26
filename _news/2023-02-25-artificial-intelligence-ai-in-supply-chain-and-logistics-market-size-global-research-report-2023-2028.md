@@ -171,15 +171,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, Data and AI Ethics Market Latest Research Report by 2029"
-    excerpt: "Data and AI Ethics Market Size 2023-2029 | New Report (110 Pages) | Information Technology | In This Reports Data and"
-    publishedDateTime: 2023-02-22T05:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-data-and-ai-ethics-market-latest-research-report-by-2029-2023-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
   - title: "AI In Medical Imaging Market 2023, Market Trade Research Report, Forecast 2029"
     excerpt: "AI In Medical Imaging Market | Outlook 2023-2029 | Pre and Post-COVID Research is Covered, Report Information | Newest"
     publishedDateTime: 2023-02-23T04:54:00Z

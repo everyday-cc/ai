@@ -8,8 +8,8 @@ webUrl: "https://www.nytimes.com/2023/02/24/opinion/ezra-klein-podcast-adrian-tc
 ampWebUrl: "https://www.nytimes.com/2023/02/24/opinion/ezra-klein-podcast-adrian-tchaikovsky.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/24/opinion/ezra-klein-podcast-adrian-tchaikovsky.amp.html"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:

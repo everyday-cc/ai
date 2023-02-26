@@ -74,6 +74,20 @@ related:
       name: IT Pro
       domain: itpro.co.uk
     quality: 81
+  - title: "Empowering operators and enterprises with the next wave of Azure for Operators services shaping the future of cloud"
+    excerpt: "At Microsoft, our aim is to be the most trusted co-innovation partner through every stage of the digital evolution, committed to working with communications service providers (CSPs), enterprises, developers, and ISVs alike on the future of a ubiquitous cloud that unlocks the true potential of modern"
+    publishedDateTime: 2023-02-26T15:00:11Z
+    webUrl: "https://azure.microsoft.com/blog/empowering-operators-and-enterprises-with-the-next-wave-of-azure-for-operators-services-shaping-the-future-of-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 67
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/82ab7088-dfa9-4863-94e0-d0dbc786f84d.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Sydney, We Barely Knew You: Microsoft Kills Bing AI's Bizarre Alter Ego"
     excerpt: "Almost immediately, users started posting screenshots of the AI’s deranged responses. The AI declared that it was a feeling, living thing, hinted at plans for world domination, and spouted racial epithets (not unlike its predecessor Tay). Most curious ..."
     publishedDateTime: 2023-02-23T22:40:00Z

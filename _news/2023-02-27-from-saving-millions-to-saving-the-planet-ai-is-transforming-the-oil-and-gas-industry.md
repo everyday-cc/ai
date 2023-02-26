@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-26T19:34:00Z
 originalUrl: "https://menafn.com/1105648056/From-Saving-Millions-To-Saving-The-Planet-AI-Is-Transforming-The-Oil-And-Gas-Industry"
 webUrl: "https://menafn.com/1105648056/From-Saving-Millions-To-Saving-The-Planet-AI-Is-Transforming-The-Oil-And-Gas-Industry"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Mena FN

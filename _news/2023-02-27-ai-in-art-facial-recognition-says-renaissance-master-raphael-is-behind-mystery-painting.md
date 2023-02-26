@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-26T18:41:00Z
 originalUrl: "https://www.ctvnews.ca/lifestyle/ai-in-art-facial-recognition-says-renaissance-master-raphael-is-behind-mystery-painting-1.6290045"
 webUrl: "https://www.ctvnews.ca/lifestyle/ai-in-art-facial-recognition-says-renaissance-master-raphael-is-behind-mystery-painting-1.6290045"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: CTV News
