@@ -55,6 +55,20 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 86
+  - title: "Better Artificial Intelligence Stock: Cloudflare vs. Microsoft"
+    excerpt: "Both companies could win big from adopting artificial intelligence-enabled applications, but which is the better bet?"
+    publishedDateTime: 2023-02-25T12:36:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/25/better-artificial-intelligence-stock-cloudflare-vs/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/721593/chatbot-smartphone-person.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "Sydney, We Barely Knew You: Microsoft Kills Bing AI's Bizarre Alter Ego"
     excerpt: "Almost immediately, users started posting screenshots of the AI’s deranged responses. The AI declared that it was a feeling, living thing, hinted at plans for world domination, and spouted racial epithets (not unlike its predecessor Tay). Most curious ..."
     publishedDateTime: 2023-02-23T22:40:00Z

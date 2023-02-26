@@ -73,20 +73,6 @@ related:
         width: 790
         height: 530
         isCached: true
-  - title: "Amazon enters chatbot wars with AI startup partnership"
-    excerpt: "Amazon.com’s cloud unit is expanding a partnership with artificial intelligence startup Hugging Face, which is developing a ChatGPT rival, the latest move as the biggest technology firms line up allies in an attention-getting market for generative AI ..."
-    publishedDateTime: 2023-02-21T22:37:00Z
-    webUrl: "https://www.latimes.com/business/story/2023-02-21/amazons-aws-hugging-face-ai-deals-chatgpt"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 39
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/0a2487d/2147483647/strip/true/crop/5472x2873+0+98/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F77%2F91%2Ff67ffdcc4bd9bb2739eaaca111c4%2Famazon-affordable-housing-02458.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "What are ‘robot rights,’ and should AI chatbots have them?"
     excerpt: "AI chatbots are all the rage. From ChatGPT to Bing’s new AI-powered search engine and Google’s new Bard chatbot, people are obsessed with seeing how they can replace tasks with AI and test its limits."
     publishedDateTime: 2023-02-22T19:00:00Z

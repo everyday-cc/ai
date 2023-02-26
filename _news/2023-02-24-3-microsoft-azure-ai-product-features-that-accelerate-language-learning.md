@@ -45,6 +45,20 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 86
+  - title: "Better Artificial Intelligence Stock: Cloudflare vs. Microsoft"
+    excerpt: "Both companies could win big from adopting artificial intelligence-enabled applications, but which is the better bet?"
+    publishedDateTime: 2023-02-25T12:36:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/25/better-artificial-intelligence-stock-cloudflare-vs/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/721593/chatbot-smartphone-person.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "AWS and Hugging Face partner to ‘democratise’ ML, AI models"
     excerpt: "Users will be able to easily move models available for free on Hugging Face to SageMaker, the AWS-managed machine learning service, through which researchers and developers can build, train, and roll out ML models. These are hosted on Amazon’s elastic ..."
     publishedDateTime: 2023-02-22T12:30:00Z

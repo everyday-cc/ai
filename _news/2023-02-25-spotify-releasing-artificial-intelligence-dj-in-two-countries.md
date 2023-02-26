@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/spotify-releasing-artificial-
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/spotify-releasing-artificial-intelligence-dj-two-countries.amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Spotify just launched a personalized ‘DJ’ powered by Generative and Voice AI"
-    excerpt: "From the use of generative AI for lyric writing, to the use of voice-mimicking AI in songs, the use of artificial intelligence in music has become one of the industry’s key talking points of 2023. Now music streaming giant Spotify is throwing its hat in the ring,"
-    publishedDateTime: 2023-02-22T16:12:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/spotify-just-launched-a-personalized-dj-powered-by-generative-and-voice-ai/"
+  - title: "Magic Eraser comes to more devices, Spotify gains an AI DJ, and Netflix decreases prices"
+    excerpt: "In this edition of Week in Review, we recap Google's Magic Eraser coming to more devices, Spotify gaining an AI DJ, and Netflix decreasing prices."
+    publishedDateTime: 2023-02-25T21:15:00Z
+    webUrl: "https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/"
+    ampWebUrl: "https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/amp/"
     type: article
     provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 36
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 78
     images:
-      - url: "https://www.musicbusinessworldwide.com/files/2023/02/FTR-Header-DJ-1-1-1440x733-1-e1677084230880.jpg"
-        width: 1306
-        height: 733
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1184944891.jpeg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "w9zA5nHlgPi6GBRtdyOrvpze9M0CP5xnxmJhq6F969kDvbRV9YSCdunxmL+15fv7SDThDe4yPTzDXOlP17pi/TA4Spld3Ja0uLwZmdr0Ux9wfUb/IxbZnE/51S05DhAY3DWrgO8WjRcNPLjnDrMJwd5a9I5wHhQed1bh9A9FeXFPrKTPrt+4YCqU/Op9HXUQWLYOD39LOEZrhqaiLHyP+H1LAWHA/PgWUAi7fx6TRvG6KMHLqwN69m9+ju78qYg6E87jZVEY5roWMoFdcACNmbwHbu0g00suJStJvsacCkjtZw9FMwvywQ+uBIXq3vJjmCVRMy+AzpxhRzqXIHOKBm/Xmsp2a1aymeYxUpS/RVI/Sxwg9VHznFyLfcDpTQXg1UTJMb8HTAE222GFhf4tRFfXpEvu5L62dzMbC4qlHwkM9qctZ4kBoZOwoRgObzMGDy0qWJPtW/z9SVYR1nuB9aGsi8hk3GhDvRgILIOx2bhsq3Lh7jBS04UlLSG6g+7cFqZjl0BNnz23tS5+s+UkUw==;AkOcw4l7mPduZH6Ga+OfAg=="

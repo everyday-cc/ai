@@ -30,15 +30,6 @@ related:
       name: enterprisetalk
       domain: enterprisetalk.com
     quality: 39
-  - title: "Amazon’s cloud unit partners with startup Hugging Face as AI deals heat up"
-    excerpt: "Amazon.com's cloud unit is expanding a partnership with artificial intelligence startup Hugging Face, which is developing a ChatGPT rival, the latest move as the biggest technology firms line up allies in an attention-getting market for generative AI systems."
-    publishedDateTime: 2023-02-21T21:37:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/feb/21/amazons-cloud-unit-partners-with-startup-hugging-f/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 17
   - title: "Google Deepens Partnerships With Carmakers to Boost its Lagging Cloud Business"
     excerpt: "Google is lending them expertise in cloud software and artificial intelligence to build “connected cars ... The unit was eventually spun off in 2016 as an independent company called Waymo to focus on developing self-driving softwares, not actual ..."
     publishedDateTime: 2023-02-24T01:26:00Z

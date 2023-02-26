@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/02/this-week-in-apps-splash-2023.webp?resize=1200,637"
         width: 1200
         height: 637
+        isCached: true
+  - title: "Artificial Intelligence for Healthcare Applications Market By Suppliers, Type, Application and Sales Price, Forecast 2023-2029"
+    excerpt: "\"Artificial Intelligence for Healthcare Applications Market\" Report New Research Vision Report 2023 | Qualified Report Spread Across 102 Pages| Highest CAGR Value | Global Industry Research report provides an in-depth analysis of the in terms of several market components,"
+    publishedDateTime: 2023-02-24T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-by-suppliers-type-application-and-sales-price-forecast-2023-2029-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Meta unveils new machine learning language model in ongoing AI investment"
     excerpt: "Meta Platforms (NASDAQ:META) is jumping anew into the artificial intelligence news cycle with the reminder that it too is making heavy investments in the space - publicly releasing a new large language model (the AI field that has brought developments like ..."

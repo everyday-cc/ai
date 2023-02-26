@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-26T12:37:00Z
 originalUrl: "https://www.foxnews.com/tech/five-disturbing-examples-ai-not-quite-there"
 webUrl: "https://www.foxnews.com/tech/five-disturbing-examples-ai-not-quite-there"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Fox News

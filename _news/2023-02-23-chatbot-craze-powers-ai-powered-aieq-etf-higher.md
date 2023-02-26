@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/chatbot-craze-powe
 webUrl: "https://markets.businessinsider.com/news/stocks/chatbot-craze-powers-ai-powered-aieq-etf-higher-1032117163"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,24 @@ provider:
 topics:
   - IBM AI
   - AI
+
+related:
+  - title: "It’s AI powered slaughterbots, not ChatGPT, that should worry us"
+    excerpt: "ethics has changed. What are killer robots, exactly? In formal parlance they are called Lethal Autonomous Weapons Systems (LAWS). Also known as slaughterbots, they use AI to identify, select, and eliminate targets without human intervention. Conventional ..."
+    publishedDateTime: 2023-02-22T09:37:00Z
+    webUrl: "https://www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361"
+    ampWebUrl: "https://www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/02/22/its_ai_powered_slaughterbots_not_chatgpt_that_should_worry_us.jpg"
+        width: 750
+        height: 393
+        isCached: true
 
 secured: "RtO96DQWuHIVKmtTfUWJDIKNn2lXaQAx3dzWojxVpmErAlvB2n+vzS57vU9gT9VC+1+tzCORCUMtJ47nfdylMu10giDzAx2KBDdy4BJ9243GqZ8EUOd5NIMcXL39gaYStFHaOa2ubeyS08FJgSRHZB8c3qdpdEbG0js3TvXAqpj7PHJYVsE1iSKzHtLOTL6+CNT9Z5JvdnUtTGfURgGXA8z8gxcuH2Sz+GqAmSoImPtqmyk1N1FE+IiX0hxNuhCEbnbA2CAsf5B9CR4YhtZZ6BU/Y8W2sfhBbBpBY7JZGdnMSso5K17pLjig7xyVozhK4B0qHB6MU+pgMPOVNUpfmrWGFYutRTNoHEuFBr63lJk=;YSnJNM4XIK8WafAjENZCrA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.htm
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -122,15 +122,6 @@ related:
       name: Investopedia
       domain: investopedia.com
     quality: 34
-  - title: "Nvidia to drive AI business amid ChatGPT hype"
-    excerpt: "As the sluggish PC market drags on Nvidia's performance, the fabless chip design company is eyeing the AI hype that is driven by services, especially ChatGPT. Nvidia posted its fiscal fourth-quarter financial results that ended on January 29, 2023."
-    publishedDateTime: 2023-02-23T02:45:00Z
-    webUrl: "https://www.digitimes.com/news/a20230223VL201/ai-chatgpt-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 19
 
 secured: "SkoG72y+GG5g9GkCUT0bTY8uDLgP1rkjbd7Li2KGBEdkM3gkusy/GWgMCweJRIs/tBkeJ3MYWIDQCEashMdCEf2eN+GPaL+BOruOqabMhpjZusNjKAiMsi7sNldPOdI6uYZZbr9ojQoAexKtSEX1DTYrSFfC0JUMnJpnq79qUSPIKttvxZSqLvt/t6t1Infuyc5hFQv4TzKoumrgHGIrzOgKKM9VnmQ5/eWybTpgH+SgseGcVqXef/D+mxdbCKPVtC+oc9u2FLsNAsG9lJ7nK+/1BX0RRaeU7gTBkxeHf2ouTGqFhDw1W0alG64LXCzvM9/dPkAXIXGlNrm6DRyfIh5D6fKwj+i/Fy0N/V3QBHk=;1voRTKOG6qN6wjkYsPiGXQ=="
 ---

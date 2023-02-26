@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Baidu says its alternative to ChatGPT is coming to the public in March"
+    excerpt: "\"We will embed Ernie bot into Baidu search first and we'll open it ... Beijing has also emphasized building up self-sufficiency in technology. Nikkei Asia on Wednesday reported, citing sources ..."
+    publishedDateTime: 2023-02-24T01:19:00Z
+    webUrl: "https://www.cnbc.com/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107198302-16770905622023-02-22t172145z_471337376_rc2ggz9l6na2_rtrmadp_0_baidu-ai-ernie.jpeg?v=1677132176"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "Jasper AI: how to use the ChatGPT alternative now"
     excerpt: "Jasper AI is a powerful, new alternative to ChatGPT that offers quick, generative text with no waitlist. You probably haven’t heard of Jasper AI, originally known as Jarvis AI, until Marvel challenged the name that conflicted with Iron Man’s AI companion."
     publishedDateTime: 2023-02-24T20:24:00Z
@@ -50,74 +66,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Implications Of ChatGPT On Cybercrime"
-    excerpt: "Researchers at CyberArk demonstrated how ChatGPT can be easily abused to create polymorphic malware that is highly evasive as well as difficult to detect. Every time researchers queried ChatGPT, they received a unique piece of code that could be used to create numerous mutations of the same malware program."
-    publishedDateTime: 2023-02-24T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63f767765a57e6cb05093b42/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "I wrote a novel with ChatGPT. Authors, have no fear, your jobs are safe — but AI will give you great ideas."
-    excerpt: "Sergi Arguimbau, a senior mobile developer at the unicorn startup ManoMano, published his AI-generated book on Amazon."
-    publishedDateTime: 2023-02-24T10:10:00Z
-    webUrl: "https://www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/63f69b465ca81e001855cc68?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "LLaMA, Meta’s New AI Language Model is Not Your Average ChatGPT"
-    excerpt: "By releasing LLaMA under a noncommercial license that is focused on research use cases, Meta is granting open access to the model."
-    publishedDateTime: 2023-02-25T07:47:00Z
-    webUrl: "https://www.gizmochina.com/2023/02/25/meta-language-model-llama/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/dima-solomin-mr26tQgHGmc-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Generative AI Tools Like ChatGPT and Dall-E Aren't Going Away. Here's Why"
-    excerpt: "These are machine learning systems that process terabytes' worth of data, often just scraped directly from the internet, making note of patterns and associations within the dataset, which is called training data. In the case of ChatGPT, text data sets are ..."
-    publishedDateTime: 2023-02-22T19:20:00Z
-    webUrl: "https://www.cnet.com/science/generative-ai-tools-like-chatgpt-and-dall-e-arent-going-away-heres-why/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-arent-going-away-heres-why/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-arent-going-away-heres-why/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 68
-  - title: "Chinese apps remove ChatGPT as global AI race heats up"
-    excerpt: "Two other apps, ChatgptAiAi and Chat AI Conversation, said their ChatGPT services went offline due to “relevant business changes” and policy changes. Though it’s unclear what prompted these closures, there are other signs China may be souring on ChatGPT."
-    publishedDateTime: 2023-02-23T08:41:00Z
-    webUrl: "https://www.cnn.com/2023/02/23/tech/china-apps-remove-chatgpt-ai-race-intl-hnk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/23/tech/china-apps-remove-chatgpt-ai-race-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/23/tech/china-apps-remove-chatgpt-ai-race-intl-hnk/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 67
   - title: "The Unexpected Winners Of The ChatGPT Generative AI Revolution"
     excerpt: "In fact, my first paper on generative chemistry, was published in 2016, first granted patent in 2018, and the first AI-generated drug went through the first phase of clinical trials. OpenAI’s GPT-3 platform was launched in June, and released to the ..."
     publishedDateTime: 2023-02-23T23:13:00Z
@@ -142,20 +90,6 @@ related:
       - url: "https://ychef.files.bbci.co.uk/live/624x351/p0f584wh.jpg"
         width: 624
         height: 351
-        isCached: true
-  - title: "China Is Betting Big on Artificial Intelligence—Even As It Cracks Down on ChatGPT"
-    excerpt: "Given that China already bans Google, Facebook, Twitter ... founder of Beijing-based IT research firm Marbridge Consulting. Regarding AI, China already has a virtual news anchor for the state-run Xinhua News Agency, a computer science “student ..."
-    publishedDateTime: 2023-02-24T09:00:00Z
-    webUrl: "https://time.com/6258089/china-great-firewall-chatgpt-ai-future/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 66
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
         isCached: true
   - title: "Is It True That Generative AI ChatGPT Will Flood The Internet With Infinite Content, Asks AI Ethics And AI Law"
     excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
@@ -195,22 +129,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "It’s AI powered slaughterbots, not ChatGPT, that should worry us"
-    excerpt: "ethics has changed. What are killer robots, exactly? In formal parlance they are called Lethal Autonomous Weapons Systems (LAWS). Also known as slaughterbots, they use AI to identify, select, and eliminate targets without human intervention. Conventional ..."
-    publishedDateTime: 2023-02-22T09:37:00Z
-    webUrl: "https://www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361"
-    ampWebUrl: "https://www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/views/news/its-ai-powered-slaughterbots-not-chatgpt-should-worry-us-3254361?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 59
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/02/22/its_ai_powered_slaughterbots_not_chatgpt_that_should_worry_us.jpg"
-        width: 750
-        height: 393
-        isCached: true
   - title: "Report - ChatGPT and generative AI demand a smarter approach to EU regulation"
     excerpt: "Grist to the mill, perhaps. With Qualcomm’s AI Research division successfully deploying foundational image model Stable Diffusion on an Android phone this week – 15 seconds for 20 inference steps – such tools are likely to become a generation’s ..."
     publishedDateTime: 2023-02-24T11:20:00Z
@@ -227,22 +145,17 @@ related:
         width: 640
         height: 453
         isCached: true
-  - title: "ChatGPT Thinks Americans Are Excited About AI. Most Are Not."
-    excerpt: "ChatGPT did not write this article. I will admit that I did ask the AI chatbot to write an 800-word article in FiveThirtyEight’s style about current public opinion on AI chatbots like ChatGPT, but our collaboration disintegrated amid editorial differences."
-    publishedDateTime: 2023-02-24T11:00:00Z
-    webUrl: "https://fivethirtyeight.com/features/chatgpt-thinks-americans-are-excited-about-ai-most-are-not/"
-    ampWebUrl: "https://fivethirtyeight.com/features/chatgpt-thinks-americans-are-excited-about-ai-most-are-not/amp/"
-    cdnAmpWebUrl: "https://fivethirtyeight-com.cdn.ampproject.org/c/s/fivethirtyeight.com/features/chatgpt-thinks-americans-are-excited-about-ai-most-are-not/amp/"
+  - title: "Sure, Microsoft, let's put ChatGPT in control of robots"
+    excerpt: "ChatGPT is a large language model (LLM) trained on the OpenAI GPT (Generative Pre-trained Transformer) dataset, which consists of text scraped from the web and other sources. Wedded with a chat interface,"
+    publishedDateTime: 2023-02-22T07:30:00Z
+    webUrl: "https://www.theregister.com/2023/02/22/microsoft_chatgpt_robots/"
+    ampWebUrl: "https://www.theregister.com/AMP/2023/02/22/microsoft_chatgpt_robots/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/02/22/microsoft_chatgpt_robots/"
     type: article
     provider:
-      name: FiveThirtyEight
-      domain: fivethirtyeight.com
-    quality: 57
-    images:
-      - url: "https://fivethirtyeight.com/wp-content/uploads/2023/02/0224_POLLA-16x9-1.png?w=712"
-        width: 712
-        height: 400
-        isCached: true
+      name: theregister
+      domain: theregister.com
+    quality: 56
   - title: "Worried about ChatGPT and artificial intelligence? How Qualcomm is trying to humanize tech"
     excerpt: "For the last five or so years, Qualcomm has bet big on bringing more artificial intelligence to smartphones, laptops, vehicles, smart infrastructure and other devices in the field—or what the company calls the \"connected intelligent edge.\" It's Don ..."
     publishedDateTime: 2023-02-22T19:00:00Z
@@ -259,15 +172,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "China’s ChatGPT Stance Could Mean New Challenges for AI Stocks"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) has been seen as the technology of the future"
-    publishedDateTime: 2023-02-23T19:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chinas-chatgpt-stance-could-mean-new-challenges-for-ai-stocks-1032120931"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet"
     excerpt: "Google, with Bard, and OpenAI, with ChatGPT are making AI chatbot technology previously restricted to test labs more accessible to the general public. How do these Large Language Model (LLM) programs work?"
     publishedDateTime: 2023-02-23T23:02:00Z
@@ -277,34 +181,17 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 47
-  - title: "Meta launches own version of AI to find fixes to ChatGPT’s dangers"
-    excerpt: "Facebook-owner Meta on Friday unveiled its own version of the artificial intelligence behind apps such as ChatGPT, saying it would give access to researchers to find fixes to the technology’s potential"
-    publishedDateTime: 2023-02-25T04:55:00Z
-    webUrl: "https://www.newagebd.net/article/195314/meta-launches-own-version-of-ai-to-find-fixes-to-chatgpts-dangers"
+  - title: "China's Baidu Says 2022 Revenue Fell 1%, Flags 'Ernie' Chatbot"
+    excerpt: "Chinese search giant Baidu reported Wednesday that revenue fell by one percent in 2022 but also said it will include its artificial intelligence chatbot Ernie in its search services from March."
+    publishedDateTime: 2023-02-22T14:25:00Z
+    webUrl: "https://www.barrons.com/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
+    ampWebUrl: "https://www.barrons.com/amp/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
     type: article
     provider:
-      name: New Age
-      domain: newagebd.net
+      name: Barron's
+      domain: barrons.com
     quality: 39
-    images:
-      - url: "https://www.newagebd.com/files/records/news/202302/195314_12.jpg"
-        width: 790
-        height: 452
-        isCached: true
-  - title: "Meta unveils ChatGPT rival AI LLaMA, but no guarantee on hallucination"
-    excerpt: "The Fundamental AI Research (FAIR) team at Meta, Facebook's parent company, has introduced ChatGPT rival, a new \"state-of-the-art\" artificial intelligence (AI) language model called LLaMA."
-    publishedDateTime: 2023-02-25T11:46:00Z
-    webUrl: "https://interestingengineering.com/innovation/meta-unveils-chatgpt-rival-ai-llama"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/25/image/jpeg/TfimQwVaBurGiWknvr0m16eUaOdXaGB9C4PfLklQ.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "ChatGPT and Bing’s AI chatbot are just stupid enough to work"
     excerpt: "Leave the AI-written content to CNET. As a writer, I was naturally curious to see how good ChatGPT was as a news and opinion writer. Not because I wanted to start cheating and having a bot write for me, but because of self-preservation — how close am I ..."
     publishedDateTime: 2023-02-24T23:10:00Z
@@ -344,34 +231,14 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 24
-  - title: "Amazon’s cloud unit partners with Hugging Face, maker of ChatGPT rival"
-    excerpt: "These customers will now be able to access Hugging Face AI tools through Amazon’s SageMaker program. Additionally Hugging Face’s software developers can use Amazon’s cloud computing power and its chips designed for artificial intelligence tasks."
-    publishedDateTime: 2023-02-21T21:54:00Z
-    webUrl: "https://www.seattletimes.com/business/amazons-cloud-unit-partners-with-hugging-face-maker-of-chatgpt-rival/"
-    ampWebUrl: "https://www.seattletimes.com/business/amazons-cloud-unit-partners-with-hugging-face-maker-of-chatgpt-rival/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/amazons-cloud-unit-partners-with-hugging-face-maker-of-chatgpt-rival/?amp=1"
+  - title: "Nvidia to drive AI business amid ChatGPT hype"
+    excerpt: "As the sluggish PC market drags on Nvidia's performance, the fabless chip design company is eyeing the AI hype that is driven by services, especially ChatGPT. Nvidia posted its fiscal fourth-quarter financial results that ended on January 29, 2023."
+    publishedDateTime: 2023-02-23T02:45:00Z
+    webUrl: "https://www.digitimes.com/news/a20230223VL201/ai-chatgpt-nvidia.html"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
-  - title: "Free Talk-to-ChatGPT Chrome extension gives AI a voice"
-    excerpt: "“Talk-to-ChatGPT is a Google Chrome extension that allows users to talk with the ChatGPT AI using their voice (speech recognition), and listen to the bot’s answer with a voice (text-to-speech), rather than just by typing.” After receiving the ..."
-    publishedDateTime: 2023-02-21T22:23:00Z
-    webUrl: "https://bgr.com/tech/free-talk-to-chatgpt-chrome-extension-gives-ai-a-voice/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 19
-  - title: "AI for Good develops humanitarian projects using ChatGPT and rivals"
-    excerpt: "An NGO called AI For Good is utilizing the immense power of ChatGPT, Bard, Bing, Neeva, and similar programs, to teach"
-    publishedDateTime: 2023-02-23T12:38:00Z
-    webUrl: "https://www.record-eagle.com/ap/national/ai-for-good-develops-humanitarian-projects-using-chatgpt-and-rivals/article_528ff7d9-f9ae-5125-a455-4cfc7f08dcb4.html"
-    type: article
-    provider:
-      name: Traverse City Record-Eagle
-      domain: record-eagle.com
+      name: Digi Times
+      domain: digitimes.com
     quality: 19
   - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
     excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
@@ -409,15 +276,6 @@ related:
       name: 朝日新聞社
       domain: asahi.com
     quality: 4
-  - title: "How This Guy Wrote a Novel Using ChatGPT Authors Worries About Copyrighting and Plagiarism Issues, but AI Will Give You Better Ideas."
-    excerpt: "Writing a novel is a dream for many people, but it can be a daunting task. From coming up with a plot and developing characters to crafting engaging dialogue and building a world, there are many elements to consider."
-    publishedDateTime: 2023-02-24T17:45:00Z
-    webUrl: "https://techbullion.com/how-this-guy-wrote-a-novel-using-chatgpt-authors-worries-about-copyrighting-and-plagiarism-issues-but-ai-will-give-you-better-ideas/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
 
 secured: "URYsJUuvPeDJGMqf4tGXFqoCANRqHJ8WEDsgFAUXOutNHEqKm5KookPrY9ta6+RvIjEii0fgbOxwEdN2Zzs7xuxgU8akbiA3oEbq7lMXlHAgijsQGfTBJ4IhP2FXD7srxoXnMjrGzQDNKXdAgejCMNzQzsdJiP2miXW6f+Ac6m11oY0FdU7AsUM7+qFotDBWzaSemRkmSCYZgl4HC0piNLvJyaHec6/u+jAYmiYrxwJi6v6pq6vc5oiVFJHSFRaNK1VIQxn6ZhjU6NheHqO0RVf0D8UIh008hT8/ZVprjMUf9n8ZqXsVB4LnOcZqmal2p329aMjQbCmCnacubBuC+ZHHRz6QC7o76yVILC+fj6vlNNidZvXgHbRn4Ke3Hbw1ST5/zjs64Itzi60Qkm96GCcUUhRsY1/CGrGnpPooXje0TUWnhz0/nu+1jgz97jIameddz7t7XOfkD+NMKJMF1S2QUusMYXBrWDcsJ8XYFdRjs7QOEBCrbCnlPGHd/z/gO74oFVs1W7yzQGFtUMHsow==;ge3p/puGMC3UjAdfStZogQ=="
 ---

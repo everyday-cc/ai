@@ -39,15 +39,6 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 25
-  - title: "Amazon’s cloud unit partners with startup Hugging Face as AI deals heat up"
-    excerpt: "Amazon.com's cloud unit is expanding a partnership with artificial intelligence startup Hugging Face, which is developing a ChatGPT rival, the latest move as the biggest technology firms line up allies in an attention-getting market for generative AI systems."
-    publishedDateTime: 2023-02-21T21:37:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/feb/21/amazons-cloud-unit-partners-with-startup-hugging-f/"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 17
 
 secured: "nDBDCSTTNQUfcTo3vTwklGWqUOSF2YwEbjYtgmsfTpzR1Ukq80Bsbzskd78dUfc4Wbb4pDsIxk4K5k+MgWIIYF9mrOeoM2fAF5Fswx9flpB52JCiG+MHyXDAJHCRfPupniZm29CLoUD5jLApttZhsNYh/ul8zYdOH5BKawwdq0wksqRQDGJGIh8b4bXpqdRpYzqvqcANYs7G9z81HWMXxYpWGhC/1qipYDsnODrdSXMEfcanLEfpopIX9x8+KGv4/r++2Gp65WGBxKK91fgsKdlNWqWgBu24ea1znVMDjCUraDbPayOE0Mo/juA1+Atx3+/Mw8DSIxlNwky20Z4GhXMqv0Cs8CUwq3BWWX9FoQmp83DTZdG1BsZSFJ1kWlEHBmCD93/wDXKvvdDjNrsmNJSKfurmgMGTQ7vJsCIEu5nA8fFTMIdsPdYQxXsC0th00NEM4JvndBwqO7eaYGAj9/8L5vLP/ERIIlppbELklycsaw8qe+BtfYZp150KTifrv0zuEzxzezbEh49Uhd+K2w==;imgU39LOyAzdDGANn39kKQ=="
 ---

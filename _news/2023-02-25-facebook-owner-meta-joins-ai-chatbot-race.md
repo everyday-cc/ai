@@ -64,20 +64,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Amazon enters chatbot wars with AI startup partnership"
-    excerpt: "Amazon.com’s cloud unit is expanding a partnership with artificial intelligence startup Hugging Face, which is developing a ChatGPT rival, the latest move as the biggest technology firms line up allies in an attention-getting market for generative AI ..."
-    publishedDateTime: 2023-02-21T22:37:00Z
-    webUrl: "https://www.latimes.com/business/story/2023-02-21/amazons-aws-hugging-face-ai-deals-chatgpt"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 39
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/0a2487d/2147483647/strip/true/crop/5472x2873+0+98/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F77%2F91%2Ff67ffdcc4bd9bb2739eaaca111c4%2Famazon-affordable-housing-02458.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "China's Baidu touts AI chatbot, sees 2022 revenue fall 1%"
     excerpt: "In 2023, we believe we have a clear path to reaccelerate our revenue growth, and we are now well positioned to make use of the opportunities that China's economic recovery offers us,\" Robin Li, Baidu co-founder and chief executive officer,"
     publishedDateTime: 2023-02-22T07:36:00Z

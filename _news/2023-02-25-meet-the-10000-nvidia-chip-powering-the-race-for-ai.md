@@ -121,15 +121,6 @@ related:
       name: Investopedia
       domain: investopedia.com
     quality: 34
-  - title: "Nvidia to drive AI business amid ChatGPT hype"
-    excerpt: "As the sluggish PC market drags on Nvidia's performance, the fabless chip design company is eyeing the AI hype that is driven by services, especially ChatGPT. Nvidia posted its fiscal fourth-quarter financial results that ended on January 29, 2023."
-    publishedDateTime: 2023-02-23T02:45:00Z
-    webUrl: "https://www.digitimes.com/news/a20230223VL201/ai-chatgpt-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 19
 
 secured: "WN5YcV+pPRdN2h0t88HdErBqw25Db8bCsh6EiX2Cazz3KfeXe07ot7mKNYH3lacJ1hm9ej0981/3ZWCJACFN6fxI8Yy/4aPLeTOcCUQka1UBBkjJORgMeumfT76quuTrlkysMYTQAbE9u+sx3ivaThDI/g1c8NRtCcS/vJQrfdeJRuFcAOyOOBeMC5nU1AyrG+U5p9jJUJ4YtcinvJ16JxMzPe5Z4+4kXCQxqCuMlgQD5XOu+tzulosx67b3nYmeKsWxxOZrDBXMPTdCugIY8Z9lgw299KbgK7JEN9vpoIhue9BFWgAhxySoHXEZgg4SFcfwDvZG26GPWAjZicj3EwDtJ0D+iNUkHmB+Tu1ee+E=;BKNpO0WbIYojYu8tVJzL+A=="
 ---

@@ -19,113 +19,264 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia stock rises after slight beat driven by A.I. chips"
-    excerpt: "Data center revenue, which includes AI chips, rose 11% on an annual basis to $3.62 billion. In this article Nvidia stock rose more than 8% in extended trading Wednesday after the company reported ..."
-    publishedDateTime: 2023-02-23T17:00:00Z
-    webUrl: "https://www.cnbc.com/2023/02/22/nvidia-nvda-earnings-q4-2023.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html"
+  - title: "Baidu says its alternative to ChatGPT is coming to the public in March"
+    excerpt: "\"We will embed Ernie bot into Baidu search first and we'll open it ... Beijing has also emphasized building up self-sufficiency in technology. Nikkei Asia on Wednesday reported, citing sources ..."
+    publishedDateTime: 2023-02-24T01:19:00Z
+    webUrl: "https://www.cnbc.com/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html"
     type: article
     provider:
       name: CNBC
       domain: cnbc.com
     quality: 89
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107121389-16636908112022-09-20t154548z_456040631_rc23lw99akst_rtrmadp_0_nvidia-gaming.jpeg?v=1677103157"
-        width: 3000
-        height: 2000
+      - url: "https://image.cnbcfm.com/api/v1/image/107198302-16770905622023-02-22t172145z_471337376_rc2ggz9l6na2_rtrmadp_0_baidu-ai-ernie.jpeg?v=1677132176"
+        width: 3500
+        height: 2333
         isCached: true
-  - title: "Nvidia Beats Earning Expectations And Looks Towards AI, Stock Jumps 14% In Response"
-    excerpt: "The AI market is set to take off—with one popular commentator comparing it to the rise of the Internet—and Nvidia’s chips are the tools of choice for many AI companies. According to CNBC, a New Street Research report found that Nvidia already has a ..."
-    publishedDateTime: 2023-02-24T10:03:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/"
+  - title: "Jasper AI: how to use the ChatGPT alternative now"
+    excerpt: "Jasper AI is a powerful, new alternative to ChatGPT that offers quick, generative text with no waitlist. You probably haven’t heard of Jasper AI, originally known as Jarvis AI, until Marvel challenged the name that conflicted with Iron Man’s AI companion."
+    publishedDateTime: 2023-02-24T20:24:00Z
+    webUrl: "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/02/Jasper-AIs-robot-mascot-stands-on-a-desk-by-a-computer.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Generative AI Like ChatGPT Is Popping Up Everywhere. Your Questions Answered"
+    excerpt: "A neural network is a type of machine learning system that can be ... may lie in new ways of collaborating with AI to accentuate what both biological and artificial intelligence do best. Simple, really: Information isn't knowledge. LLMs are kind of ..."
+    publishedDateTime: 2023-02-23T20:55:00Z
+    webUrl: "https://www.cnet.com/science/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 88
+    images:
+      - url: "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Unexpected Winners Of The ChatGPT Generative AI Revolution"
+    excerpt: "In fact, my first paper on generative chemistry, was published in 2016, first granted patent in 2018, and the first AI-generated drug went through the first phase of clinical trials. OpenAI’s GPT-3 platform was launched in June, and released to the ..."
+    publishedDateTime: 2023-02-23T23:13:00Z
+    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/02/23/the-unexpected-winners-of-the-chatgpt-generative-ai-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/02/23/the-unexpected-winners-of-the-chatgpt-generative-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/02/23/the-unexpected-winners-of-the-chatgpt-generative-ai-revolution/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 85
+    quality: 67
+  - title: "The AI emotions dreamed up by ChatGPT"
+    excerpt: "AI chatbots are already imagining what feelings they'll end up with. But if they did develop them, would we even notice? I'm talking to Dan, otherwise known as \"Do Anything Now\", a shady young chatbot with a whimsical fondness for penguins – and a ..."
+    publishedDateTime: 2023-02-25T00:59:00Z
+    webUrl: "https://www.bbc.com/future/article/20230224-the-ai-emotions-dreamed-up-by-chatgpt"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63f899324fa3a14e43093b40/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0f584wh.jpg"
+        width: 624
+        height: 351
         isCached: true
-  - title: "Nvidia results show its growing lead in AI chip race"
-    excerpt: "AI is taking over the tech industry and, according to research firm Gartner, the share of specialized chips such as GPUs that are used in data centers is expected to rise to more than 15% by 2026 ..."
-    publishedDateTime: 2023-02-23T20:39:00Z
-    webUrl: "https://www.reuters.com/technology/nvidia-results-show-its-growing-lead-ai-chip-race-2023-02-23/"
+  - title: "Is It True That Generative AI ChatGPT Will Flood The Internet With Infinite Content, Asks AI Ethics And AI Law"
+    excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
+    publishedDateTime: 2023-02-23T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/23/is-it-true-that-generative-ai-chatgpt-will-flood-the-internet-with-infinite-content-asks-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/23/is-it-true-that-generative-ai-chatgpt-will-flood-the-internet-with-infinite-content-asks-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/23/is-it-true-that-generative-ai-chatgpt-will-flood-the-internet-with-infinite-content-asks-ai-ethics-and-ai-law/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "ChatGPT’s Biggest Competition: Here Are The Companies Working On Rival AI Chatbots"
+    excerpt: "The roaring success of ChatGPT, an artificial intelligence chatbot created by U.S. non-profit OpenAI, has sparked a frantic rush to get new AI products to market, a frenzy that is consuming tech’s biggest behemoths and countless startups as they fight ..."
+    publishedDateTime: 2023-02-23T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+  - title: "Baidu to implement ChatGPT-like Ernie Bot chatbot from March"
+    excerpt: "Baidu, which is known for its search engine and autonomous driving technology, leads China's efforts to create an equivalent of OpenAI’s ChatGPT chatbot. It said earlier this month that it will ..."
+    publishedDateTime: 2023-02-22T11:51:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/baidu-implement-chatgpt-ernie-bot-chatbot-march-97379433"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/baidu-implement-chatgpt-ernie-bot-chatbot-march-97379433"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/baidu-implement-chatgpt-ernie-bot-chatbot-march-97379433"
+    type: article
+    provider:
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/08Q0_sMNI0HsgkXRudWeQv9ZOHI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GFG36C4JS5N5XFILK6JAYYN4R4.jpg"
-        width: 1200
-        height: 628
+      - url: "https://s.abcnews.com/images/International/wirestory_427838070f962108cabed1e553fc3d12_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Meet the $10,000 Nvidia chip powering the race for A.I."
-    excerpt: "It’s able to perform many simple calculations simultaneously, which is important for training and using neural network models."
-    publishedDateTime: 2023-02-24T13:14:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/meet-10000-nvidia-chip-powering-race-rcna72155"
+  - title: "Report - ChatGPT and generative AI demand a smarter approach to EU regulation"
+    excerpt: "Grist to the mill, perhaps. With Qualcomm’s AI Research division successfully deploying foundational image model Stable Diffusion on an Android phone this week – 15 seconds for 20 inference steps – such tools are likely to become a generation’s ..."
+    publishedDateTime: 2023-02-24T11:20:00Z
+    webUrl: "https://diginomica.com/report-chatgpt-and-generative-ai-demand-smarter-approach-eu-regulation"
+    ampWebUrl: "https://diginomica.com/report-chatgpt-and-generative-ai-demand-smarter-approach-eu-regulation?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/report-chatgpt-and-generative-ai-demand-smarter-approach-eu-regulation?amp"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
-  - title: "Meet the $10,000 Nvidia chip powering the race for A.I."
-    excerpt: "During Wednesday's fiscal fourth-quarter earnings report, although overall sales declined 21%, investors pushed the stock up about 14% on Thursday, mainly because the company's AI chip business ..."
-    publishedDateTime: 2023-02-24T16:22:00Z
-    webUrl: "https://www.cnbc.com/2023/02/23/nvidias-a100-is-the-10000-chip-powering-the-race-for-ai-.html"
+      name: Diginomica
+      domain: diginomica.com
+    quality: 58
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-02/524D4B01-485D-499E-861C-D7497AF9A063.jpeg"
+        width: 640
+        height: 453
+        isCached: true
+  - title: "Sure, Microsoft, let's put ChatGPT in control of robots"
+    excerpt: "ChatGPT is a large language model (LLM) trained on the OpenAI GPT (Generative Pre-trained Transformer) dataset, which consists of text scraped from the web and other sources. Wedded with a chat interface,"
+    publishedDateTime: 2023-02-22T07:30:00Z
+    webUrl: "https://www.theregister.com/2023/02/22/microsoft_chatgpt_robots/"
+    ampWebUrl: "https://www.theregister.com/AMP/2023/02/22/microsoft_chatgpt_robots/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/02/22/microsoft_chatgpt_robots/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 49
-  - title: "Nvidia Cracks Wall Street’s AI Code"
-    excerpt: "The optimism over artificial intelligence can extend the chip maker’s stock rally, despite mixed quarterly results."
-    publishedDateTime: 2023-02-23T14:55:00Z
-    webUrl: "https://www.wsj.com/articles/nvidia-cracks-wall-streets-ai-code-31d3e33b"
+      name: theregister
+      domain: theregister.com
+    quality: 56
+  - title: "Worried about ChatGPT and artificial intelligence? How Qualcomm is trying to humanize tech"
+    excerpt: "For the last five or so years, Qualcomm has bet big on bringing more artificial intelligence to smartphones, laptops, vehicles, smart infrastructure and other devices in the field—or what the company calls the \"connected intelligent edge.\" It's Don ..."
+    publishedDateTime: 2023-02-22T19:00:00Z
+    webUrl: "https://techxplore.com/news/2023-02-chatgpt-artificial-intelligence-qualcomm-humanize.html"
+    ampWebUrl: "https://techxplore.com/news/2023-02-chatgpt-artificial-intelligence-qualcomm-humanize.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-chatgpt-artificial-intelligence-qualcomm-humanize.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: techxplore
+      domain: techxplore.com
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/qualcomm.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet"
+    excerpt: "Google, with Bard, and OpenAI, with ChatGPT are making AI chatbot technology previously restricted to test labs more accessible to the general public. How do these Large Language Model (LLM) programs work?"
+    publishedDateTime: 2023-02-23T23:02:00Z
+    webUrl: "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
     quality: 47
-  - title: "Nvidia shares soar day after Intel cuts dividend"
-    excerpt: "\"It’s now offering its services like access to supercomputers, via big cloud platforms like Microsoft Azure, Google GCP and Oracle Cloud ... Nvidia stands to benefit as its chips are used to develop machine learning software,\" Mould opined."
-    publishedDateTime: 2023-02-23T16:51:00Z
-    webUrl: "https://www.foxbusiness.com/markets/nvidia-shares-soar-intel-cuts-dividend"
-    ampWebUrl: "https://www.foxbusiness.com/markets/nvidia-shares-soar-intel-cuts-dividend.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/nvidia-shares-soar-intel-cuts-dividend.amp"
+  - title: "China's Baidu Says 2022 Revenue Fell 1%, Flags 'Ernie' Chatbot"
+    excerpt: "Chinese search giant Baidu reported Wednesday that revenue fell by one percent in 2022 but also said it will include its artificial intelligence chatbot Ernie in its search services from March."
+    publishedDateTime: 2023-02-22T14:25:00Z
+    webUrl: "https://www.barrons.com/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
+    ampWebUrl: "https://www.barrons.com/amp/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 44
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+  - title: "ChatGPT and Bing’s AI chatbot are just stupid enough to work"
+    excerpt: "Leave the AI-written content to CNET. As a writer, I was naturally curious to see how good ChatGPT was as a news and opinion writer. Not because I wanted to start cheating and having a bot write for me, but because of self-preservation — how close am I ..."
+    publishedDateTime: 2023-02-24T23:10:00Z
+    webUrl: "https://bgr.com/tech/chatgpt-and-bings-ai-chatbot-are-just-stupid-enough-to-work/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/119809e0-7460-4da7-80ca-1c447634b71d/ba28b17e-2456-4d61-a878-ee2f19eed5a6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://bgr.com/wp-content/uploads/2023/02/New-Bing.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "AMD slowly catching up to Nvidia in GPU sales"
-    excerpt: "Thanks to its highly scalable GPU architectures, AMD GPUs are now powering a wide range of devices from consoles to PCs to mobiles."
-    publishedDateTime: 2023-02-24T13:35:00Z
-    webUrl: "https://www.ibtimes.co.uk/amd-slowly-catching-nvidia-gpu-sales-1713323"
+  - title: "Using AI like ChatGPT costs more than other internet searches. It's a billion-dollar problem"
+    excerpt: "For instance, SemiAnalysis, a research and consulting firm focused on chip technology, said adding ChatGPT-style AI to search could cost Alphabet $3 billion, an amount limited by Google's in-house ..."
+    publishedDateTime: 2023-02-23T01:32:00Z
+    webUrl: "https://www.ksl.com/article/50584679/using-ai-like-chatgpt-costs-more-than-other-internet-searches-its-a-billion-dollar-problem"
     type: article
     provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 36
-  - title: "Nvidia Shares Soar on Earnings Beat, Chip Demand for AI Applications"
-    excerpt: "Shares of Nvidia (NVDA) are soaring after the software company posted better-than-expected results in the previous quarter while boosting current quarter guidance, and said chip demand for artificial intelligence (AI) applications such as ChatGPT is soaring."
-    publishedDateTime: 2023-02-23T15:35:00Z
-    webUrl: "https://www.investopedia.com/nvidia-shares-soar-on-earnings-beat-chip-demand-for-ai-applications-7112912"
+      name: KSL
+      domain: ksl.com
+    quality: 28
+    images:
+      - url: "https://img.ksl.com/slc/2916/291697/29169717.JPG?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
+  - title: "Amazon will offer ChatGPT rival’s tools in cloud products"
+    excerpt: "Amazon Web Services will make Hugging Face’s products, which include a language generation tool that competes with the technology behind OpenAI’s ChatGPT, available to cloud customers who want to use these tools as the building blocks of their own applications."
+    publishedDateTime: 2023-02-22T05:27:00Z
+    webUrl: "https://mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html"
+    ampWebUrl: "https://mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/481161-amazon-will-offer-chatgpt-rivals-tools-in-cloud-products.html/amp"
     type: article
     provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 34
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 24
+  - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
+    excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
+    publishedDateTime: 2023-02-24T14:15:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/pressreach-2023-2-24-chatgpts-alter-ego-reveals-dark-side-of-artificial-intelligence"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 19
+  - title: "Jasper AI Is A ChatGPT Alternative With No Waitlist And A Chrome Extension"
+    excerpt: "ChatGPT it making news everywhere lately. It has caused some concern for apparently being \"too smart,\" and its addition in the latest Bing beta ha geenrated some interesting results, to say the least."
+    publishedDateTime: 2023-02-25T18:19:00Z
+    webUrl: "https://hothardware.com/news/jasper-ai-chatgpt-alternative-no-waitlist-chrome-extension"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 15
+  - title: "Is ChatGPT ‘woke’? AI chatbot accused of anti-conservative bias and a grudge against Trump"
+    excerpt: "Meta to restore Trump accounts:Trump Facebook and Instagram ... incorrect,” said Jake Denton, research associate with the Heritage Foundation’s Tech Policy Center. But, he says, what happens if ChatGPT or another AI chat feature replaces Google ..."
+    publishedDateTime: 2023-02-24T04:31:00Z
+    webUrl: "https://www.statesman.com/story/tech/2023/02/09/woke-chatgpt-conservatives-bias/11215353002/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 9
+  - title: "ChatGPT is Ruining Our Environment, But There’s a Way to Tackle It"
+    excerpt: "As the ChatGPT hype peaked, so did the sense of reckoning around the carbon footprint that the tool may leave behind."
+    publishedDateTime: 2023-02-23T12:22:00Z
+    webUrl: "https://analyticsindiamag.com/why-the-environmental-cost-of-chatgpt-is-overblown/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 4
+  - title: "China says it sees the potential of ChatGPT-like technology"
+    excerpt: "BEIJING--China's Ministry of Science and Technology said on Friday said it saw the potential of ChatGPT-like tech and would be pushing for the integration of artificial intelligence into Chinese society and the economy."
+    publishedDateTime: 2023-02-24T08:39:00Z
+    webUrl: "https://www.asahi.com/ajw/articles/14847406"
+    type: article
+    provider:
+      name: 朝日新聞社
+      domain: asahi.com
+    quality: 4
 
 secured: "rLnWlVhy1HKVH47gkFeexDkwXpczEoKb+rSPrtwKGlSZ60+w/g3RZOb/toxiHcOIkmU9DNiHByzWbt0iX7N4cTYHVtEGpGGCFE9k+H97uRNYMUK7uUXtvRVd7Gt1uQVJUfinmy4fH8FKHdOZKVPLguGynjxlZBk3dF/QYD4keyS4xnYHMOxpgXF7V4sBFhNqREjKIm1migR4kItkF6YLa+xSITNeB06FZwHdN0m8aDD5WNmVEo0y+RjZhQzTq0hiJgmvSdHsd2SUjwxF/bAr3/tig3LeBglmZPD0S2C1MbAPYqKoKYqvCls8sF2M4htq8CB2IW+Ti0wO0902+DKef0BCcecJBngzF/N2HOv6HZhzelcQHEKPaeoGybm1wAwaQAxfmgXXosaGxto783HBKKfVBrwAgQJianC9Hwq4BgvHMifGAC61FL0ScunGWhDsgcwuj8tSGh2xzvFxhRvSQrmAMcyDGQOWnpzX8OAQcekQ6u7TUJfNPbZOiC+U4xtmsCM8bjDOFFj4BksqXprASw==;nO/AD6kXB/o0xSzgH206TA=="
 ---

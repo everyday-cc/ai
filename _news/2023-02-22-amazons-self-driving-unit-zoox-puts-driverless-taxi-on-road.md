@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Are Progress at a Price"
-    excerpt: "Everybody is getting into the autonomous-vehicle business these days. Experts project that self-driving vehicles will account for about 12% of car registrations by 2030 and eventually will make up a large majority. According to the General Services ..."
-    publishedDateTime: 2023-02-21T22:13:00Z
-    webUrl: "https://www.wsj.com/articles/self-driving-cars-are-progress-at-a-price-apple-traffic-autonomous-vehicle-tesla-chauffeur-traffic-excuse-a381b9aa"
+  - title: "Trade Statistics of Self-Driving or Driverless Cars Market Size 2023 | by the Influence of COVID-19 and Forecast till 2025"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Self-Driving/Driverless Cars is a"
+    publishedDateTime: 2023-02-23T10:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/trade-statistics-of-self-driving-or-driverless-cars-market-size-2023-by-the-influence-of-covid-19-and-forecast-till-2025-2023-02-23"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 34
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
 
 secured: "sjpCKU2b0F0iHCBuG1kQYnhWe1MlDQtSn2CHXisoyEYDUgDRmpvLN5rgsZxXtnlxnExZ1KgfG0cydk+OjgFGzBEDlT5glhR1sYDYXeTwoP6T32+j9I6/P9IV0A8cA6rrFwqUTcTLzz0tSBH+Gtoc43N02DfKqbyp+4VeojcxBWL66cdtLl3gj2IY6Lfz7MOifuqqt6wwC76wKPhGDhqte+Fr8rHRNPLJUTWx+7YgQWWCtAk5We/8qL7ID28pu7zDQr7EjoFqAYv4qu/LGbQ6ra9TUq98lSQHWZJF3MeRb45kdoeoXQhfSi49QOM0NB2dWDToPWXZUjzyTgBxPI7BOFUq5t1Iwk+PS1PdNa7TX0g=;NFgDF2LossEBzmHIYMmhOA=="
 ---

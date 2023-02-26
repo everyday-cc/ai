@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idOV265323022023RP1"
 webUrl: "https://www.reuters.com/video/watch/idOV265323022023RP1"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 960
     height: 540
     isCached: true
+
+related:
+  - title: "Exploring AI ethics and accountability"
+    excerpt: "Do you pull the lever? What if the other person is elderly? A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless ..."
+    publishedDateTime: 2023-02-24T04:00:00Z
+    webUrl: "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/"
+    ampWebUrl: "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 74
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2018/02/GettyImages-679721306.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "N+eEi0x5yeO4fuZsFeW+NnC/aPkvhjDSuBfOancx4EuR5a+N7lYcSQwrgT939vxrAfDa+jD3RT92Vp85cA2Sr4apf+VovFH3cxlep1XU7oprwv3ofyUOLZ/n3G+YZ2wSWWZm/njnRwGrdeVbPHZPzIRZM0L4ZuGHteDOHpXLlUfpaIcsfz0TvAyNCvuZ6HSf5FOyYXDxmTG5bP9Zo1nUVpklfQipuIXp0gihyG7IfpNb4TzDpXE6QrL097S9mp+2BV5VJ0zBCGw6WA0z7GpZmvXJMINsDJkVko7xk/17reEM4mvyM5gjhP9dHLpj5OLRylJhGyNJ4lz1HhvZlGD+BgYEq8u7DoAMTNwkhGTLtMc=;5sRcLgL3nhwh+XkRv7CdOg=="
 ---

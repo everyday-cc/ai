@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 637
         isCached: true
+  - title: "Artificial Intelligence for Healthcare Applications Market By Suppliers, Type, Application and Sales Price, Forecast 2023-2029"
+    excerpt: "\"Artificial Intelligence for Healthcare Applications Market\" Report New Research Vision Report 2023 | Qualified Report Spread Across 102 Pages| Highest CAGR Value | Global Industry Research report provides an in-depth analysis of the in terms of several market components,"
+    publishedDateTime: 2023-02-24T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-by-suppliers-type-application-and-sales-price-forecast-2023-2029-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FyuZKB4uPdMO8I5iJZ0mXnrZbz5ObC1gjxlRaj6VfF+grn8w8TQQQq89WG2z8GCm3OCc576Z42X9SoDmOOA3nClqHDxnDJhiKnzn7ba0CbdMyF5SmRvx441MeXtmX8yCzLzaZWwvXPlCDNrZDV8OTgKI6HClYRpuN7gHds/unIAk8cQPgl+xX40+Xst8lbpI7APFdt8lxXpezToLMiPOOXcn0/jfqxjizoq8Sptey70iFg/seN9Ny8snTKQ/mUVeD2x+afFTc+Y1+HMrSR/NYWRBGU9P0nO+qMTjKq9/gRNqn12waShSYZ5R8ane1JHHufbOyB7DbiHAf6YNnkqcuO5JtzD41DFIKkJa6hfv7iOQnK7SJ1wtglfRLDwgY7Ec95BG5Lk9NWaouQVy/wGDuuFyRIBI4H1hUeNn3KmjbIUqkngbP8tS7hbbA8MMKfkI9F/KrT76sJRMg8hJLrIcVF3HDAuHP9LZw4SF0SqVhl4bjqggJKsonm6xFw3CK/IQJIjld1XDtGiL/huOuSlgow==;Jgff39P6kcwh9wx5zkTTIw=="
 ---
