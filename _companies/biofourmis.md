@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 55
+heat: 57
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "D+FlGSbpK9Frt7g+y110mXRrr477o88Kwu/yLDFLt4LmZCduOPOgHiq72HCIQUC5pHBP4il8QLXGPuo9WwduHIV3KrvCOccHS7kKIqj6QGKlRfVxqAuyzDF54YjfgOMLLAc4ZBXHm7QpbObyXNLd1sdI0qApnEmrprC0NHqp4S/sFDEsh8ke5MB1R0yuVZFV5C9msju1zc5r1K7TRGmKGypzP1hOfHK+HYWcfHlL/blShZON0dc9lZUxu0tppcza4nYqjG4yQw2ywc4X5TP3ukbLfWCQ7rC/upbV/GDAWRV7Xx1AKAnKQPEZB0vIvXSplnC4OikOXexcPPpth+8owWxyhBWWQXq/TdMOQ4nZFZy/7OtO5KPKm72RLcv56JCjXL29g2alXUZMI40ZdVvkVDwNloVEd896XRZA7Z9CkMk=;xU4OiVMimuf/v+Z+xZV2pQ=="
+secured: "XtbczwTjS1uyjuzSxb1clEBIBFtZyg4h+/4ruT3Pdmfg6VrHoQXcx1wpBy4Y+jOSK2gr40CdJz3pV6MywnaQbbBsfZGoBdKiyzTnDacBi5qyfGw4WxVdz7lHhVblI1bE9TOaxoPjtvG9s/iqMo/VhnSWKDHuoR4u1SKvkdyZQVQ9PBFXgAoy/iZzTSSz80NU7aGANiUP6OOyv91W0Kekn/IqIwNG3Fcbk2fMikhmIAca8ixUXbKiKP0vRtCqmi0tLsCN/feCCXvQ0KRkgmUEQ5LRt+Y2/5IIwVjTbirzzBO9j9JVaqLE58R98h1PIu6famyEnIWH1yxTjqxGw3JyTmHcXt/U2LRPI8iXaWbmAMRfQVYoV0fMh9eoxcNbPhefhGH6FntfOZEwK0C46sETburmvtmNIyGksRj1yIlJyQg=;muRbsE6lUjUh5dvmW+G6/Q=="
 ---
 

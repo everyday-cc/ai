@@ -2,7 +2,7 @@
 name: "Kadaxis"
 overview: "We help publishers improve book discoverability on retailer search engines (like Amazon) leading to increased recurring revenue. We use the latest data science technology to find keywords for books, through reader audience analysis."
 type: "profile"
-heat: 20
+heat: 42
 
 website: https://kadaxis.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "kadaxis"
   url: "https://twitter.com/kadaxis"
-  followers: 27738
+  followers: 27737
 
 size: 2-10 employees
 yearFounded: 2013
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=3ELoLhZNxb0"
 
-secured: "tjpxKpsdeMhu12Y5j79l5jc5iZ2D5VIqfrKRW0LkoLCnimaMepuOTGvgemM+R123JpcVvN6zg1RX9TgmkHsy42kPBplV2LRk5flQXnaXxaHajCHmuJhC1byvPzlNFDskzyrElcZze9BahrcmN4l0wDe1bOcEAE0vBtkVi6ll5WpwuH6OVgg9ottb3WC+YS0aCDZky9NQ21OWeFgFHyNIFNQipGv41r7IZhxsPbS7ZcJw9VH6fkz3p4KL/bNuoRP2U03U5Jas0qrAi1ib8A/iNk53Cs9PWO27uueYb4OuuZnahwa/Ug9wpiqnaMCGpO7PU7u4ymt1R4cg5dRre+rZF3ue7rRa7OBA3dR52rEl7+3bPD9DqJYOkLUamdvYAwZb5lZyGICjF1uLo6KiBIp0U8pHnHLvJzSj4j5OXWaoBng=;eRxvHfXQ9yWLALywXATp5Q=="
+secured: "BtaQ3vLMj/m+1JAL1igIf/Hkjule3vfU+l4HH+V/YsE+Aa/TwOviGCCRJxIn4LSx+iFEYq03O3YmNPCYjQBVTsqg41cAwqFILJGc/mtdSw6weGuLNW8zVjdu5xkOfFFcMUSI8XTZnMaWgQUfta1lhqnbhkqL+jBxqMaETu1zvG8TgktjHjYI36grm+nPUCIs5WTouG4EGdURHU0nfkcYKF+XNaYkCqUjvqBeoQ1q1sIUf7MnCwleEbuVX8MDCkkoT2Aj6ubS1UikXBQPD9OPodkCj8ffV3xSQcripzyvxdq4iCxGnGqxKWK1qsl5/KoskhvDZ2N1Krks3DBnmcH1Bv8SMNmhuTuEpbGB44gjXJfFkd0u2QXVQ2eRyZjvH5Sbx/1bmKapfy/9Dwm2GgtY/n7LqB5fBpc4XuLstvDOIsk=;LFJdrGFPC6F3r7yA3gcVrg=="
 ---
 
