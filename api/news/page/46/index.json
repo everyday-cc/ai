@@ -2,6 +2,40 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-01-23-self-driving-cars-reliability-challenges-solutions-and-social-adoption.md",
+      "title": "Self-Driving Cars: Reliability Challenges, Solutions, and Social Adoption",
+      "excerpt": "Manish Gupta is working on making self-driving cars, machine learning, and artificial intelligence safer and more reliable. (Image source: Manish Gupta) The strict reliability standards are critical for human safety and to help drive social acceptance of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
+      "originalUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-23-the-double-edged-sword-of-ai-in-healthcare-cybersecurity.md",
       "title": "The Double-Edged Sword of AI in Healthcare Cybersecurity",
       "excerpt": "As artificial intelligence, or AI, grows in popularity for simplifying workflows and diagnosing patients, healthcare leaders need to understand that AI use is also increasing among cyberattackers. IBM defines AI as \"a field that combines computer science and robust datasets to enable problem-solving.",
@@ -1068,48 +1102,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-can-an-ai-angel-help-find-thousands-in-mexico-who-were-forcibly-disappeared.md",
-      "title": "Can an AI 'angel' help find thousands in Mexico who were forcibly disappeared?",
-      "excerpt": "The Angelus program is \"producing relevant evidence for the location of tens of thousands\" of missing people, said historian and National Search Commission member Daniel Yankelevich.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/latino/can-ai-angel-help-find-thousands-mexico-forcibly-disappeared-rcna66545",
-      "originalUrl": "https://www.nbcnews.com/news/latino/can-ai-angel-help-find-thousands-mexico-forcibly-disappeared-rcna66545",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2023-01/230120-mexico-disappeared-angelus-se-240p-e28409.jpg",
-          "width": 560,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna66545",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna66545",
-      "publishedDateTime": "2023-01-20T14:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

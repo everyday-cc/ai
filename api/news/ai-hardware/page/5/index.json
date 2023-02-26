@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-10-nvidia-would-be-working-on-ai-optimized-drivers.md",
+      "title": "NVIDIA would be working on AI-optimized drivers",
+      "excerpt": "NVIDIA is rumored to develop AI-optimized drivers that will boost GPU performance by up to 30%. This could provide a significant free upgrade to its users while also revolutionizing the way NVIDIA",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/news-story/nvidia-would-be-working-on-ai-optimized-drivers.html",
+      "originalUrl": "https://www.guru3d.com/news-story/nvidia-would-be-working-on-ai-optimized-drivers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-c3ai-bear-with-this-company-as-it-executes-a-turnaround.md",
       "title": "C3.ai: Bear With This Company As It Executes A Turnaround",
       "excerpt": "C3.ai has kicked off a business model transition to convert its contracts into consumption-based pricing and away from subscriptions. See why AI stock is a Buy.",
@@ -1366,58 +1400,6 @@
         "name": "KnowTechie",
         "domain": "knowtechie.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-nvidias-latest-ai-tech-can-upscale-old-blurry-youtube-videos.md",
-      "title": "Nvidia’s latest AI tech can upscale old blurry YouTube videos",
-      "excerpt": "Nvidia has turned its AI upscaling technology on a new target ... The catch is that you’ll need a relatively modern Nvidia GPU to benefit from the feature, with only its most recent 30 and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/1/4/23538584/nvidia-ai-upscaling-browser-chrome-edge-30-40-series-gpu-graphics-cards-4k-1080p",
-      "originalUrl": "https://www.theverge.com/2023/1/4/23538584/nvidia-ai-upscaling-browser-chrome-edge-30-40-series-gpu-graphics-cards-4k-1080p",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/NJNKV0i-ITPWpQorBd_Pk64-eIY=/0x0:1280x720/1200x628/filters:focal(631x605:632x606)/cdn.vox-cdn.com/uploads/chorus_asset/file/24335273/maxresdefault__1_.jpeg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T04:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

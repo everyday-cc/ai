@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "How will artificial intelligence affect financial services?"
-    excerpt: "Machine learning (ML ... Artificial intelligence is far from new to the UK market. In financial services, a few organisations have been delivering it for some time."
-    publishedDateTime: 2023-02-21T09:51:00Z
-    webUrl: "https://www.ftadviser.com/your-industry/2023/02/20/how-will-artificial-intelligence-affect-financial-services/"
-    type: article
-    provider:
-      name: FTAdviser
-      domain: ftadviser.com
-    quality: 19
 
 secured: "KR3ywgpwE4ZeiWp2KUMw1OdsK53aLUnLJJZcrGgiPUN/x0971u1CMw6uUh//BHQYU6C2sq8DP6H5k8M19NZSuS7RSmpM+meLPSd+Gt9QRPu5ej9i7Ls16IctZRjbr3pbZhB15UsXvnjMVRoyoIAHvdZ96nwwzyuplyql9go3vVxcbAhybdTrvQhes6JNhhfDF8krkFqGFFZCw/gEqg9siEtzZS57WX/iKpXET2Q/7AWeapvKXNO3qYgTEhpilG7dxQY4o5Oi0SlEU4J2vKaRMl9XTdNu+dAbhqmtNjcJY269y/A4ut5O00lu3Jm9R9qFTcEswywJNDRBab8fBEnk0G8BcMNqyP7fWw2p0ZYCwqiwxOEcN0aZpUHcPC6GSt83TQBPevolNrS5VtVutHnEZkcFA6aHScCDO1uiG04rciOqwiZ+q3o2VVgk557q2XFEOHO8UHbgu6MU8wysVnkqVE0pDLpnC1lKXYATEUoAbD6PhIQ1P5fhp0Aeb++nu1i9pSjNyAfm7cLxBlp7d7CwjA==;JBkuz77h6ANu8ceUrs1wNA=="
 ---

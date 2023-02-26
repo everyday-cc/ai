@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+  - title: "Educational institutions consider the risks and benefits of Artificial Intelligence (AI) devices"
+    excerpt: "At least five Australian states have banned the use of tools such as ChatGPT in public schools to limit potential cheating and plagiarism."
+    publishedDateTime: 2023-02-26T01:18:00Z
+    webUrl: "https://www.sbs.com.au/language/indonesian/en/podcast-episode/institusi-pendidikan-mempertimbangkan-risiko-dan-manfaat-perangkat-arifisual-intelegent-ai/zbaeag6zz"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 39
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/47219a0/2147483647/strip/true/crop/5489x3088+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F84%2Fe9%2Fc42754dd4a0282f065bcaf8d5d3b%2Fgettyimages-1456601730.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "EoBUHXM3JGirsZssx1aLWGI1EIzk0SLxZoXKVI0U+ZpH/Shh3fSXO8xmNbyu5bahRdWW011zE2m0MUN/OfMGiW5hpwyf9xmzKy4czfhi1uKSnfrRabKdKAdFr8EGKy+yD3ctvOQDyBYHWxgb/UgPD7J9CNYC2Iy/D4m5t5dFwT/9CO77n+GwQlhcMZ26iiUfuSzgL9SJSiCT/yhdZpU2OcikySjVrfPBfBJDAtCHaA8MEuEUnZ5ezALJkmyNy2wapUz9ATVXGgOFRnaLFnKNZcS1jDOzlM8+DtesNjO6ruFKnhgWfQxo5CxNUx6LAEaM07ZUVXiZKK+4HrdjkWfE0NFjd6PpRLfbSDQccb57jd8=;7hhUCOtsRN03XGeyvy3N6w=="
 ---

@@ -104,7 +104,7 @@
       "originalUrl": "https://venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -143,7 +143,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -547,6 +548,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-painting-robot-tests-ais-ability-to-be-imprecise.md",
+      "title": "Painting robot tests AI’s ability to be imprecise",
+      "excerpt": "News Agency Painting robot tests AI’s ability to be imprecise. Posted . A robotic arm with a brush taped to it at Carnegie Mellon University is collaborating with humans on pain",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOV265323022023RP1",
+      "originalUrl": "https://www.reuters.com/video/watch/idOV265323022023RP1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20230225&i=OV265323022023RP1&r=OV265323022023RP1&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-24T17:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1198,57 +1251,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone.md",
-      "title": "AI art generator: Qualcomm gets Stable Diffusion running on a smartphone",
-      "excerpt": "As smartphones become increasingly capable, more workloads are moving on-device and off the cloud. Qualcomm's MWC demo showcases the work of its AI research team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
-      "originalUrl": "https://www.zdnet.com/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/14ca4fc738c432992007eab316ae42e201d3d6dd/2023/02/23/aab00648-18de-48b2-92ab-615b219308a6/stable-diffusion-picasso-guitar.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
-      "publishedDateTime": "2023-02-24T02:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

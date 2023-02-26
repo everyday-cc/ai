@@ -2,6 +2,49 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-12-09-the-potentially-adverse-impact-of-twitter-20-on-scientific-and-research-communication.md",
+      "title": "The potentially adverse impact of Twitter 2.0 on scientific and research communication",
+      "excerpt": "In just over a month after the change in Twitter leadership, there have been significant changes to the social media platform, in its new \"Twitter 2.0.\" version.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/twitter-and-research.jpg",
+          "width": 2880,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-potentially-adverse-impact-twitter-scientific.amp",
+      "publishedDateTime": "2022-12-08T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-deploy-amazon-sagemaker-autopilot-models-to-serverless-inference-endpoints.md",
       "title": "Deploy Amazon SageMaker Autopilot models to serverless inference endpoints",
       "excerpt": "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best machine learning (ML) models based on your data, while allowing you to maintain full control and visibility. Autopilot can also deploy trained models to real-time inference endpoints automatically. If you have workloads with",
@@ -1104,40 +1147,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-chinas-iqiyi-bets-big-on-artificial-intelligence-to-help-pandemic-hit-production-sector.md",
-      "title": "China’s iQiyi Bets Big on Artificial Intelligence to Help Pandemic-Hit Production Sector",
-      "excerpt": "China-owned streamer iQiyi has been ramping up its use of artificial intelligence across productions as a result of the lasting impact of the pandemic. Kelvin Yau, head of southeast Asia for iQiyi ...",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/",
-      "originalUrl": "https://variety.com/2022/digital/asia/iqiyi-artifical-intelligence-ai-production-1235453756/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T20:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

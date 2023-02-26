@@ -2,49 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2023-01-09-aurora-sees-driverless-trucks-on-the-road-in-2024.md",
-      "title": "Aurora Sees Driverless Trucks On the Road in 2024",
-      "excerpt": "Every day, self-driving trucks carrying FedEx packages make repeated runs between Dallas and Houston, and between Fort Worth and El Paso. At least for now, those trucks rumbling through Texas have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "originalUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-697502/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "publishedDateTime": "2023-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-08-a-path-emerges-for-driverless-vehicles-with-experiments-in-south-korea-hope-in-singapore.md",
       "title": "A path emerges for driverless vehicles — with experiments in South Korea, hope in Singapore",
       "excerpt": "A driverless road sweeper. His road sweeper, which uses artificial intelligence to gauge how dirty the road is and to differentiate between different types of debris, is now ready for deployment ...",
@@ -1289,6 +1246,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-02-ponyai-gets-approval-for-deployment-of-fully-driverless-vehicles-in-beijing.md",
+      "title": "Pony.ai gets approval for deployment of fully driverless vehicles in Beijing",
+      "excerpt": "Pony.ai has been granted permission to deploy its driverless robotaxi in Beijing. The company is one of the first batches of companies to obtain such a type of permit to test autonomous vehicles in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.econotimes.com/Ponyai-gets-approval-for-deployment-of-fully-driverless-vehicles-in-Beijing-1648159",
+      "originalUrl": "https://www.econotimes.com/Ponyai-gets-approval-for-deployment-of-fully-driverless-vehicles-in-Beijing-1648159",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.econotimes.com/assets/uploads/202301027cefa71f7badb7ab0_th_1024x0.jpeg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-02T02:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EconoTimes",
+        "domain": "econotimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

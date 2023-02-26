@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-
 ampWebUrl: "https://venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/amp/"
 type: article
-quality: 87
-heat: 137
+quality: 89
+heat: 139
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/12/image4.jpg?w=1200&strip=all"

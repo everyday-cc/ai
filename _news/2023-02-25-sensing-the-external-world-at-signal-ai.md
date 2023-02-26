@@ -47,15 +47,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "How will artificial intelligence affect financial services?"
-    excerpt: "Machine learning (ML ... Artificial intelligence is far from new to the UK market. In financial services, a few organisations have been delivering it for some time."
-    publishedDateTime: 2023-02-21T09:51:00Z
-    webUrl: "https://www.ftadviser.com/your-industry/2023/02/20/how-will-artificial-intelligence-affect-financial-services/"
-    type: article
-    provider:
-      name: FTAdviser
-      domain: ftadviser.com
-    quality: 19
 
 secured: "W8A0IshlBWIBGUxKPZlqel+Un8wtYBnEALcWH7vhgQJ5z+gW7mYxwH04XXPsPfaxKddKTNe/xx/IgsSKDoOq11OBhdLyDmV6qEs3s2v1q8No5ryY+DnWh19OeCJvRq7ohpexyBSMne4hiVnps0+YGiqkid4nA3xmx+2Y5Ta4Zjr3Gq6U0qHh3cJtyzyUM4Oejdrp8pm7YpY8sglxozsT3VmTFcjakr1gXcb/27t1qpgdSwSGUtDsoS3k8RSD+pmYvVc7z96d8892wbkjH/1FuIuVfO74k34D+6zAqerYSnbbrmeoBt+UvNQ/BbLBZ0Vb5Xa68pKNN79Q/TLSbMtFni4Yn72s8ShkcfRWCQ77cNT3Fr0X7jgkB+cotl/q0qXRbn2Vvf1FHfd+H8C6vrgNnDbBj4yyWAfxLgWdbe323+yS+fBsg9xXSXqyMOWhWtro5TyHS8V/m7s98b2qRknHyVCWTylgH4e21EoexKUEJmWwgbXpQK5K3fTsGCCYAByMIhEC6I7ArS+C5ANBvY4hFw==;MRvdHUhkxuRafjqV38SbTA=="
 ---

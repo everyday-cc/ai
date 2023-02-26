@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-02-14-building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context.md",
+      "title": "Building AI chatbots using Amazon Lex and Amazon Kendra for filtering query results based on user context",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). It indexes the documents stored in a wide range of repositories and finds the most relevant document based on the keywords or natural language questions the user has searched for. In some scenarios, you need the search results",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-ai-chatbots-using-amazon-lex-and-amazon-kendra-for-filtering-query-results-based-on-user-context/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/14/building-ai-chatbots-lex-kendra.jpg",
+          "width": 1557,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T12:40:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-15-meta-to-integrate-generative-ai-features-on-instagram-and-facebook.md",
       "title": "Meta to integrate generative AI features on Instagram and Facebook",
       "excerpt": "Generative AI refers to technology that can generate text, images, sounds and other media formats in response to short commands or prompts from users. OpenAI's ChatGPT is the most popular example of Generative AI tool in recent months.",
@@ -1104,49 +1156,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-how-vision-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century-robotics.md",
-      "title": "How Vision Sensors Are Used To Achieve Safety And Accurate Control In The 21St-Century Robotics",
-      "excerpt": "Human-robot interaction (HRI), precise control, and safe collaboration between humans and robots are the cornerstones of adopting automation . Safety refers to multiple tasks in the context of ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105567100/How-Vision-Sensors-Are-Used-To-Achieve-Safety-And-Accurate-Control-In-The-21St-Century-Robotics",
-      "originalUrl": "https://menafn.com/1105567100/How-Vision-Sensors-Are-Used-To-Achieve-Safety-And-Accurate-Control-In-The-21St-Century-Robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-02/13/V_bf574image_story.jpeg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T11:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

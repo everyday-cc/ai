@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Healthcare AI Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
-excerpt: "Feb 23, 2023 (The Expresswire) -- \"Healthcare AI Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,"
-publishedDateTime: 2023-02-23T22:48:00Z
-originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-23"
-webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-23"
+title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size Global Research Report, 2023 - 2028"
+excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2023 Will Provide Report Analysis that quickly emerging as one of the [IIII] category in the industry, by Type (,"
+publishedDateTime: 2023-02-25T07:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-global-research-report-2023---2028-2023-02-25"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-global-research-report-2023---2028-2023-02-25"
 type: article
-quality: 82
+quality: 66
 heat: -1
 published: false
 
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - IBM AI
+  - Facebook AI
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -53,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 89
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare AI Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Healthcare AI Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,"
+    publishedDateTime: 2023-02-23T22:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -165,20 +178,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size Global Research Report, 2023 - 2028"
-    excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2023 Will Provide Report Analysis that quickly emerging as one of the [IIII] category in the industry, by Type (,"
-    publishedDateTime: 2023-02-25T07:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-global-research-report-2023---2028-2023-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI In Medical Imaging Market 2023, Market Trade Research Report, Forecast 2029"
     excerpt: "AI In Medical Imaging Market | Outlook 2023-2029 | Pre and Post-COVID Research is Covered, Report Information | Newest"
     publishedDateTime: 2023-02-23T04:54:00Z
@@ -318,6 +317,6 @@ related:
         height: 250
         isCached: true
 
-secured: "oN1Mcr4H5MLl74ysprw/NOMrYPIae9dyOtlDbf9Am7bUGWkU8KxwmilvO15u9M/R5Iro20LZXZLx4In+cNHDGKb15hfNVeQbk53Aapd+CdoJJ831tMBAv+wklzFDL0BG4l2yMGaXuDQRP6ufL7qxwrw3sZ3rDDF+CZb1Ea+9Avg1XRMLp70ANxPp4Z5GXQaVRAY6Z2+Y9teaRKNUkTe2Gjt/CNuV/8UWnN8lN9tKIhpTFHePsqVRVN5JcQrSDDlOSvmhZC1dTVty3FXjW7be4bWH9OKI5FVlIBnlCyiI8zu2MsokyXbVWPWdyCj0S1/MKdZVbvyWxjZcRBbfc+cJTsrOnpSze0BfPjC7GHRR/PM=;B0t+7ojhMawzueAEBSn9lQ=="
+secured: "0XOfbG9KGYZtS63Wb1LOLXngShlOESJJI42nefbGXPz8BfpMy7I1CN0l75XB3G71Ucin4FoARw75TwMx2qKtuKg8tVCke7T10h+AZ8MFTTKe/qcu88n1WvgIBPSRwJ9qXWfhMR7jxOeiYxW4w797ti7iUPY8v4NB/DVsiml7WwQKB3FVG9d5vqG+HHjJySXjgB+c8DzvlQNSWONO9u8BUDio6XIowRomvoVRG1dDbmWIcW10404PSlqDuG83JQW5aoE/9xSS4ZQd4rPWCZ9QPpXBXl1F9Wr/eg04r3yxjnSXIEeZV04aQrBa+fvwFLykqMXmWJUQcmAdqtYubutVd/xySbWpS0mEU8hVAmhrt0g=;GkFT+5o0nJUfiVgfMNvrMw=="
 ---
 

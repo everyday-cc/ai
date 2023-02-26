@@ -61,13 +61,18 @@ related:
         isCached: true
   - title: "Nvidia results show its growing lead in AI chip race"
     excerpt: "AI is taking over the tech industry and, according to research firm Gartner, the share of specialized chips such as GPUs that are used in data centers is expected to rise to more than 15% by 2026 ..."
-    publishedDateTime: 2023-02-23T16:20:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-results-show-its-growing-lead-in-ai-chip-race-0"
+    publishedDateTime: 2023-02-23T20:39:00Z
+    webUrl: "https://www.reuters.com/technology/nvidia-results-show-its-growing-lead-ai-chip-race-2023-02-23/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/08Q0_sMNI0HsgkXRudWeQv9ZOHI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GFG36C4JS5N5XFILK6JAYYN4R4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Meet the $10,000 Nvidia chip powering the race for A.I."
     excerpt: "It’s able to perform many simple calculations simultaneously, which is important for training and using neural network models."
     publishedDateTime: 2023-02-24T13:14:00Z

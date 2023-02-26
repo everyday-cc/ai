@@ -164,6 +164,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size Global Research Report, 2023 - 2028"
+    excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2023 Will Provide Report Analysis that quickly emerging as one of the [IIII] category in the industry, by Type (,"
+    publishedDateTime: 2023-02-25T07:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-global-research-report-2023---2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI In Medical Imaging Market 2023, Market Trade Research Report, Forecast 2029"
     excerpt: "AI In Medical Imaging Market | Outlook 2023-2029 | Pre and Post-COVID Research is Covered, Report Information | Newest"
     publishedDateTime: 2023-02-23T04:54:00Z

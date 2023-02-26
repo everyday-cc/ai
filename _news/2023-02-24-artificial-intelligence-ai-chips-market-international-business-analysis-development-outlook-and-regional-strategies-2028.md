@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-23"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+  - title: "Educational institutions consider the risks and benefits of Artificial Intelligence (AI) devices"
+    excerpt: "At least five Australian states have banned the use of tools such as ChatGPT in public schools to limit potential cheating and plagiarism."
+    publishedDateTime: 2023-02-26T01:18:00Z
+    webUrl: "https://www.sbs.com.au/language/indonesian/en/podcast-episode/institusi-pendidikan-mempertimbangkan-risiko-dan-manfaat-perangkat-arifisual-intelegent-ai/zbaeag6zz"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 39
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/47219a0/2147483647/strip/true/crop/5489x3088+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F84%2Fe9%2Fc42754dd4a0282f065bcaf8d5d3b%2Fgettyimages-1456601730.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "rsR4/+/O8ZhPbamWBxjz0t5LCN0aUbWA1doAh6E6HbFFF9Lxg8Q2dyoeoRae9wBSO8CPlHcdFBao38O2CSCRakJc3BVNVZLfFQ+4emoOdcfLoFxTqGd2f/pnCc13ANFza6bdibYo2vzoWjDmb+q/5vXKbYyZhV/1eMla/Hj1ueEPR+vx0Dp9iymbMMiZiZL7DopyV9lVs+Ls4skajWVD4R/vwkrljzjksv13IKwtfxhUtXFutLxVT+5lVcCqfdyKwCwGnU4z17QNcxtl/gveE/RgxJcpEAj77qDXTz8gy83cTa33aSfWb1r5S/S+MjqvwhbQeOCoN2FXf5S5naOzQhYWn2eYvWDztfV0Q2owbuM=;vCiHaSLf4H/QMPsTzazcMg=="
 ---

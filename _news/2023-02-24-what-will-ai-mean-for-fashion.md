@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/lifestyle/ai-mean-fashion-050800352.html"
 webUrl: "https://www.aol.com/lifestyle/ai-mean-fashion-050800352.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,33 +22,6 @@ images:
     width: 1024
     height: 1024
     isCached: true
-
-related:
-  - title: "Artificial Intelligence In Fashion"
-    excerpt: "As an AI enthusiast, I can tell you that artificial intelligence is quickly becoming a game-changer in the fashion industry. From design to marketing and sales, AI is affecting everything and offering businesses new opportunities to streamline their ..."
-    publishedDateTime: 2023-02-21T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-  - title: "Canon’s new camera AI can correct noise through deep learning technology"
-    excerpt: "The latest advancements in AI technology are getting smarter every day, and Canon is proving this with its latest cutting-edge deep learning image processing technology that might just resurrect that blurry shot you took three years ago. The photo editing ..."
-    publishedDateTime: 2023-02-21T11:04:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/canons-new-camera-ai-can-correct-noise-through-deep-learning-technology"
-    type: article
-    provider:
-      name: digitalcameraworld
-      domain: digitalcameraworld.com
-    quality: 53
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/iPcw3G94TpecrMVvRcxJKZ-1200-80.jpg"
-        width: 920
-        height: 517
-        isCached: true
 
 secured: "rsqpHbU1f6KfJ6Tq+tGhDzTIxk4j5gBeIqTGu3tOEsJ7NLI0l+VnlovJXtWagpsbsc7aPq1PXTJek1LydGs13nEP58fW4Ussg9gD269OHdX4lwLu4lPupVEmqyebqZKZ455Cpf24lnqnQFbFb0HlBBETVgBb9njIaeuEBltonrCyMHeFaEMIUKlStVzEJwnae24Y+6qX4YzElNhoY+Qv3G6MD/mJNr0kZRPklCmpO6yFlls4qtAL5gYwnHU3f+plC/FijkjXWv2VUQInFDH+xMNWaBYMjMwfGBUgXqBnw/ZkA/kysYF+HTySBuPRLWXVA22ytSkxHu+MlZZAQGPHWCzq6RWAJ1S0a9Lt8Id0ERm19lfoMIviabFjIlNZQMSEulsLIc4mbDeiVZ9zRMDX+XI2Jl2Znawo4UHS8vKtluULPmAmrUMf0dRVm9IdmpEk0AoP7kE+sykKSr2oljh/Vc2onJMjFRa5EW+0lWzhOG/sIV4U8o4KdeV7wyxdyE86gjLwTPExc9WLIpY8vLHR3Q==;3m/+pitwebFnlL6zHbc4lw=="
 ---

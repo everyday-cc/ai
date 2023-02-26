@@ -2,6 +2,58 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-01-27-madison-square-garden-ceo-doubles-down-on-use-of-facial-recognition-tech.md",
+      "title": "Madison Square Garden CEO doubles down on use of facial recognition tech",
+      "excerpt": "The chief executive of the Madison Square Garden Entertainment Corporation has doubled down on using facial recognition at its venues to bar lawyers suing the group from attending events. Speaking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/01/26/tech/msg-ceo-facial-recognition/index.html",
+      "originalUrl": "https://www.cnn.com/2023/01/26/tech/msg-ceo-facial-recognition/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 278,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230126113242-madison-square-garden-1205-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/01/26/tech/msg-ceo-facial-recognition/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/26/tech/msg-ceo-facial-recognition/index.html",
+      "publishedDateTime": "2023-01-26T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-27-both-pros-and-cons-emerge-as-artificial-intelligence-technology-ai-advances-quickly.md",
       "title": "Both pros and cons emerge as artificial intelligence technology, AI, advances quickly",
       "excerpt": "Its name is FRIDA and it's a robot using artificial intelligence technology to generate portrait paintings from photographs. Usually, they are of colleagues of its developers, Jean Oh and Peter ...",
@@ -1137,40 +1189,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-explainer-what-is-an-australian-black-voice-to-parliament.md",
-      "title": "EXPLAINER: What is an Australian Black Voice to Parliament?",
-      "excerpt": "Proponents say embedding the Voice in the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies. Skeptics and opponents say Australians need more details before they vote on a proposal that risks dividing the nation along racial lines without reducing Indigenous disadvantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/news/article/explainer-what-is-an-australian-black-voice-to-17742818.php",
-      "originalUrl": "https://www.timesunion.com/news/article/explainer-what-is-an-australian-black-voice-to-17742818.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T01:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

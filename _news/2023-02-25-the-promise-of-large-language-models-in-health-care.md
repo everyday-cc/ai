@@ -25,17 +25,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "How Large Language Models Can Get Better at Machine Translation of Rare Words"
-    excerpt: "Meta AI researchers experiment with dictionary data prompting on LLMs to improve MT. Promising results for rare words and domain transfer."
-    publishedDateTime: 2023-02-21T10:55:00Z
-    webUrl: "https://slator.com/large-language-models-get-better-machine-translation-of-rare-words/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 16
-
 secured: "9znDmvMC0l9L60H8iz/dvQaytGhDveE6pgloTiEeEFlgMKkBqYfqq2JYW8/4MadKj7/EI7cyWYzB3M03iIYCOu9nn0B9QpQoORZQPpoz3KkkBqjOPJtu8BDal/gFzG9WZHjQNbbcJIW1BTyYkMcWjwAd337IqxoRnYAuKLNcO438j2FJCAjHMkLMOCTxSn5p+9MgTKHXx1ADNshBzNuNkcfHuDr+czBZTHf4hkrgZGBFRZ8L29nHbBVlR5EKSHzcLbRw3Wnq53EwLN2QxbEEtsU5eW+Q6gH7OD/ds7GmKvludwK14aeU4VBbh6SjZ7mxMZRtgCmmKZf6afi5+GbApYwl5rZUEyoo63AedSkfMns=;RmKMq8f4NHRhIT8bljOQSQ=="
 ---
 

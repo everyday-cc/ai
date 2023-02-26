@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-02-11-tcs-hyderabad-engineers-working-on-3-prototype-driverless-cars.md",
-      "title": "TCS Hyderabad engineers working on 3 prototype driverless cars",
-      "excerpt": "TCS is incorporating special features in these cars which are ideal for Indian roads. Artificial intelligence (AI) is also integrated into self-driving cars to simulate decision-making processes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.html",
-      "originalUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/10/w600X390/driverless.JPG",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.amp",
-      "publishedDateTime": "2023-02-10T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-11-new-artificial-intelligence-being-used-to-plagiarize-upstate-professor-says.md",
       "title": "New artificial intelligence being used to plagiarize, Upstate professor says",
       "excerpt": "WHO COULD POSSIBLY SEE THAT SNOW FLYING AROUND? CHRIS, THANKS. NEW ARTIFICIAL INTELLIGENCE IS MAKING CHEATING EVEN EASIER, BUT MAKING IT HARDER TO DETECT, ACCORDING TO EXPERTS AND UPSTATE ...",
@@ -1320,6 +1277,41 @@
       "provider": {
         "name": "NDTV",
         "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-goa-introduces-ai-powered-self-driving-robot-aurus-to-save-lives-on-its-beaches.md",
+      "title": "Goa introduces AI-powered self-driving robot Aurus to save lives on its beaches",
+      "excerpt": "Incorporation of AI-based support follows a rise in beach-related incidents due to spike in domestic and foreign tourists on Goa’s coastline, an official from Drishti Marine said.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/india/ai-powered-robot-introduced-to-save-lives-on-goa-beaches/1358600/",
+      "originalUrl": "https://theprint.in/india/ai-powered-robot-introduced-to-save-lives-on-goa-beaches/1358600/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T17:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
         "images": null,
         "publishers": null,
         "authors": null

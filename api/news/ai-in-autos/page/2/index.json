@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-02-17-tesla-recalls-362000-vehicles-over-full-self-driving-software-issue.md",
-      "title": "Tesla Recalls 362,000 Vehicles Over Full Self-Driving Software Issue",
-      "excerpt": "Zach's grandparents Tesla recalled over 362,000 vehicles because the Full Self-Driving software on these vehicles may cause accidents, the National Highway Traffic Safety Administration announced Thursday. The recall affects certain 2016-2023 Model S ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 739,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/5ad6fee523c3400aaa56df47874d7ba1bd69a79a/hub/2020/09/25/26614e94-c7b0-431d-bbad-aa5f53bc242c/tesla-model-y.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
-      "publishedDateTime": "2023-02-16T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-17-tesla-recalling-nearly-363000-vehicles-equipped-with-full-self-driving.md",
       "title": "Tesla recalling nearly 363,000 vehicles equipped with ‘Full Self-Driving’",
       "excerpt": "Tesla is recalling all 363,000 US vehicles with its so-called “Full Self Driving” driver assist software due to safety risks, another blow to the feature that is central to the automaker’s ...",
@@ -1428,6 +1376,49 @@
       "provider": {
         "name": "TheWrap",
         "domain": "thewrap.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-11-tcs-hyderabad-engineers-working-on-3-prototype-driverless-cars.md",
+      "title": "TCS Hyderabad engineers working on 3 prototype driverless cars",
+      "excerpt": "TCS is incorporating special features in these cars which are ideal for Indian roads. Artificial intelligence (AI) is also integrated into self-driving cars to simulate decision-making processes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.html",
+      "originalUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/10/w600X390/driverless.JPG",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2023/feb/10/tcs-hyd-engineers-working-on-3-prototype-driverless-cars-2546074.amp",
+      "publishedDateTime": "2023-02-10T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

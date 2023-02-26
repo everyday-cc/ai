@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-24-ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone.md",
+      "title": "AI art generator: Qualcomm gets Stable Diffusion running on a smartphone",
+      "excerpt": "As smartphones become increasingly capable, more workloads are moving on-device and off the cloud. Qualcomm's MWC demo showcases the work of its AI research team.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
+      "originalUrl": "https://www.zdnet.com/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/14ca4fc738c432992007eab316ae42e201d3d6dd/2023/02/23/aab00648-18de-48b2-92ab-615b219308a6/stable-diffusion-picasso-guitar.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
+      "publishedDateTime": "2023-02-24T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-south-africas-envisionit-deep-ai-gets-165m-to-expand-access-to-medical-imaging.md",
       "title": "South Africa’s Envisionit Deep AI gets $1.65M to expand access to medical imaging",
       "excerpt": "The flame had been lit, and in 2019, together with her husband, Terence Naidu, and Andrei Migatchev, Naidoo launched Envisionit Deep AI, a healthtech startup that uses AI to bridge demand for diagnostic imaging. Envisionit Deep AI is now on the path to ...",
@@ -61,7 +112,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -103,6 +154,57 @@
         "AI in Finance",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-gaming-opportunities-for-investors-in-2023-generative-ai-low-code-metaverse-and-more.md",
+      "title": "Gaming opportunities for investors in 2023: Generative AI, low-code, metaverse, and more",
+      "excerpt": "and the potential role of generative AI in game development. The quarterly analyst report on the gaming sector covers trends and issues predictions for how VC investments in video games will proceed over the course of 2023. This is PitchBook’s first ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/gaming-opportunities-for-investors-in-2023-generative-ai-low-code-metaverse-and-more/",
+      "originalUrl": "https://www.geekwire.com/2023/gaming-opportunities-for-investors-in-2023-generative-ai-low-code-metaverse-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/02/PitchBook-Feb-2023-report-Gaming-Landscape.jpg",
+          "width": 1387,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-23T21:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -250,7 +352,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1131,92 +1233,6 @@
         "Machine Learning",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-artificial-intelligence-courses-to-be-offered-at-some-baltimore-county-schools.md",
-      "title": "Artificial intelligence courses to be offered at some Baltimore County schools",
-      "excerpt": "IT IS VERY CREATIVE. IT GETS OUR BRAINS WORKING 100%. AS ARTIFICIAL INTELLIGENCE COURSES WILL BE AMONG THOSE OFFERING ARTS AND TECHNOLOGY. CLASS ARTIFICIAL INTELLIGENCE IS ACTUALLY A SUBSET OF ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbaltv.com/article/artificial-intelligence-courses-baltimore-county-schools/43031400",
-      "originalUrl": "https://www.wbaltv.com/article/artificial-intelligence-courses-baltimore-county-schools/43031400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/a24a30a3-694f-48e0-babc-c2b4a13b5446/c6afed40-ed01-43f0-bd8c-6aa7b3b10033.jpeg?crop=0.989xw:1.00xh;0.00653xw,0&resize=1200:*",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wbaltv.com/amp/article/artificial-intelligence-courses-baltimore-county-schools/43031400",
-      "cdnAmpWebUrl": "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/artificial-intelligence-courses-baltimore-county-schools/43031400",
-      "publishedDateTime": "2023-02-22T17:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBAL-TV",
-        "domain": "wbaltv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-openais-foundry-will-let-customers-buy-dedicated-compute-to-run-its-ai-models.md",
-      "title": "OpenAI’s Foundry will let customers buy dedicated compute to run its AI models",
-      "excerpt": "OpenAI is quietly launching a new developer platform that lets customers run the company’s newer machine learning models ... a “static allocation” of compute capacity (perhaps on Azure, OpenAI’s preferred public cloud platform) dedicated to ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/",
-      "originalUrl": "https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/21/openai-foundry-will-let-customers-buy-dedicated-capacity-to-run-its-ai-models/amp/",
-      "publishedDateTime": "2023-02-22T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

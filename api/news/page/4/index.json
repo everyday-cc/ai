@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-20-race-against-sonys-ai-in-gran-turismo-7-for-a-limited-time.md",
+      "title": "Race against Sony's AI in 'Gran Turismo 7' for a limited time",
+      "excerpt": "Gamers around the world will get their shot at racing Sony AI’s GT Sophy tomorrow, when the Gran Turismo 7 racing AI arrives for a limited time on Playstation 5..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/sony-ai-racing-gt-sophy-gran-turismo-7-limited-time-ps5-140054394.html",
+      "originalUrl": "https://www.engadget.com/sony-ai-racing-gt-sophy-gran-turismo-7-limited-time-ps5-140054394.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/nhHY_kEDkJ.mqOyNqRjbcg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/31f1cea0-ae2f-11ed-a187-dafa10870a16.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/sony-ai-racing-gt-sophy-gran-turismo-7-limited-time-ps5-140054394.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-ai-racing-gt-sophy-gran-turismo-7-limited-time-ps5-140054394.html",
+      "publishedDateTime": "2023-02-20T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-20-the-5g-fixed-wireless-access-vs-fiber-debate.md",
       "title": "The 5G Fixed Wireless Access Vs. Fiber Debate",
       "excerpt": "Vice President of Security, Carriers and Enterprise Networking, Will Townsend, shares his insights on FWA’s early momentum and whether it is simply a superior alternative to fiber.",
@@ -1169,57 +1220,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-how-to-run-stable-diffusion-to-make-awesome-ai-generated-art.md",
-      "title": "How to run Stable Diffusion to make awesome AI-generated art",
-      "excerpt": "Stable Diffusion is one of the most impressive generative AI art tools available today. Here's how to run Stable Diffusion online and on your PC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-run-stable-diffusion/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-run-stable-diffusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2020/10/dt_logo_lockup_blue.jpg?p=1",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-run-stable-diffusion/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-run-stable-diffusion/?amp",
-      "publishedDateTime": "2023-02-18T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

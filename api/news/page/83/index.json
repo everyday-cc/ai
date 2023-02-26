@@ -2,6 +2,40 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-12-13-rapid-vocal-recognition-in-fur-seal-moms-and-pups.md",
+      "title": "Rapid Vocal Recognition in Fur Seal Moms and Pups",
+      "excerpt": "Cape fur seal mothers recognize their pup’s voice 2-4 hours after birth, and pups recognize their mother’s voice 4-6 hours after birth. This is the fastest establishment of mother-offspring vocal recognition for any mammal species (including humans) described to date.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/animal-minds/202212/rapid-vocal-recognition-in-fur-seal-moms-and-pups",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/animal-minds/202212/rapid-vocal-recognition-in-fur-seal-moms-and-pups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/animal-minds/202212/rapid-vocal-recognition-in-fur-seal-moms-and-pups?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/animal-minds/202212/rapid-vocal-recognition-in-fur-seal-moms-and-pups?amp",
+      "publishedDateTime": "2022-12-13T05:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-vicai-secures-52m-in-series-c-funding-to-expand-suite-of-ai-enterprise-fintech-offerings.md",
       "title": "Vic.ai Secures $52M in Series C Funding to Expand Suite of AI Enterprise Fintech Offerings",
       "excerpt": "NEW YORK, Dec. 13, 2022 (GLOBE NEWSWIRE) -- Vic.ai today announced $52 million in Series C funding to expand its artificial intelligence (AI) platform for real-time, autonomous accounting and ...",
@@ -1080,49 +1114,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-model-shows-how-intelligent-like-behavior-can-emerge-from-non-living-agents.md",
-      "title": "Model shows how intelligent-like behavior can emerge from non-living agents",
-      "excerpt": "There is currently a great demand for distributed artificial intelligence in the field of robotics, Aronson explained. \"If you're designing a robot in the most cost-effective way possible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/12/221213121524.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/12/221213121524.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
