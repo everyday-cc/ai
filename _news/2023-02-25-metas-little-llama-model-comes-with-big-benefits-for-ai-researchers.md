@@ -68,6 +68,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Meta brings AI chatbot with own large language model for researchers"
+    excerpt: "Smaller, more performant models such as LLaMA enable others in the research community who don't have access to large amounts of infrastructure to study these models, further democratising access in this important,"
+    publishedDateTime: 2023-02-26T02:59:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/meta-1677317836.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Facebook parent Meta rolls out new language model amid Big Tech’s AI push"
     excerpt: "Meta’s LLaMA, short for Large Language Model Meta AI, will be available under non-commercial license to researchers and entities affiliated with government, civil society and academia"
     publishedDateTime: 2023-02-24T13:24:00Z
@@ -121,15 +137,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 23
-  - title: "Using AI to reclaim Native languages"
-    excerpt: "Imagine putting on a virtual reality headset and entering a world where you can explore communities, like Missoula, except your character, and everyone you interact with, speaks Salish, Cheyenne or Blackfoot."
-    publishedDateTime: 2023-02-21T12:41:00Z
-    webUrl: "https://www.nhonews.com/news/2023/feb/21/using-ai-reclaim-native-languages/"
-    type: article
-    provider:
-      name: Navajo-Hopi Observer
-      domain: nhonews.com
-    quality: 19
   - title: "Meta enters Big Tech AI race with launch of language model LLaMA"
     excerpt: "Meta Platforms Inc, the parent company of Facebook, Instagram and WhatsApp, is releasing a new AI tool LLaMA, short for Large Language Model Meta AI,"
     publishedDateTime: 2023-02-24T15:59:00Z

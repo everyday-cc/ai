@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Meta releases LLaMA to democratize access to large language AI models"
-excerpt: "Meta Platforms Inc.’s Facebook AI Applied Research group today is publicly releasing a new foundational large language model, known as Large Language Model Meta AI or LLaMA, to help the scientific community advance its research into a subset of ..."
-publishedDateTime: 2023-02-24T16:24:00Z
-originalUrl: "https://siliconangle.com/2023/02/24/meta-platforms-releases-llama-democratize-access-large-language-ai-models/"
-webUrl: "https://siliconangle.com/2023/02/24/meta-platforms-releases-llama-democratize-access-large-language-ai-models/"
+title: "Meta brings AI chatbot with own large language model for researchers"
+excerpt: "Smaller, more performant models such as LLaMA enable others in the research community who don't have access to large amounts of infrastructure to study these models, further democratising access in this important,"
+publishedDateTime: 2023-02-26T02:59:00Z
+originalUrl: "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
+webUrl: "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
+ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
+cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
 type: article
-quality: 23
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: India TV
+  domain: indiatvnews.com
 
 topics:
-  - Facebook AI
-  - AI
   - Natural Language Processing
-  - Machine Learning
+  - AI
+
+images:
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/meta-1677317836.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Meta to launch AI language model LLaMA"
@@ -76,22 +82,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Meta brings AI chatbot with own large language model for researchers"
-    excerpt: "Smaller, more performant models such as LLaMA enable others in the research community who don't have access to large amounts of infrastructure to study these models, further democratising access in this important,"
-    publishedDateTime: 2023-02-26T02:59:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/meta-1677317836.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facebook parent Meta rolls out new language model amid Big Tech’s AI push"
     excerpt: "Meta’s LLaMA, short for Large Language Model Meta AI, will be available under non-commercial license to researchers and entities affiliated with government, civil society and academia"
     publishedDateTime: 2023-02-24T13:24:00Z
@@ -136,6 +126,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Meta releases LLaMA to democratize access to large language AI models"
+    excerpt: "Meta Platforms Inc.’s Facebook AI Applied Research group today is publicly releasing a new foundational large language model, known as Large Language Model Meta AI or LLaMA, to help the scientific community advance its research into a subset of ..."
+    publishedDateTime: 2023-02-24T16:24:00Z
+    webUrl: "https://siliconangle.com/2023/02/24/meta-platforms-releases-llama-democratize-access-large-language-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
   - title: "Meta enters Big Tech AI race with launch of language model LLaMA"
     excerpt: "Meta Platforms Inc, the parent company of Facebook, Instagram and WhatsApp, is releasing a new AI tool LLaMA, short for Large Language Model Meta AI,"
     publishedDateTime: 2023-02-24T15:59:00Z
@@ -173,6 +172,6 @@ related:
       domain: iblnews.org
     quality: 1
 
-secured: "gwJ3VD3W5uHP0RvasQcprnNfwSvOsdFm7znJ7GVWOj6z14DTY8atGTsphD0sKaZqcbn5MiqZq3PU1OBdWCknm2e8izuGk4xP+M4MorrMMkP6pyz5rqE/BEmMEoMbsaOcQV8Ibsmfab2AE8zID7+RifE/3JwBZ9p6sbwaQZlb7SjGBRWaZWIVARTWNIBaPsIE12/vunVBXEA5UK9QpFkYUjroz7czy1o/+g+WWPH5NtkxKxIb/h4v78jX4p+cdZdVJGQ13I5cmenYtky0AFqM36xokq515Hy2DAZwUCZHmGEdJG3TlfsETbjjUHW9kc9duzEbo723Pbm1HNOm4mqqQN8+gU4VSkBOoSoNvXv6+9UPbqtAjQ3veQ70xeSmZIKvNMFomKO1NBGxJG/n7+L6bOE7f8LBX0PnsVbGnVs1RlZIxOqCm5j7s/Z23CxsIwLNhLQWXzrJbRZdNnFkoie6ZnhD6kRgL13ApIvg701UnkRONIu2OOx8DV5lP41f1gqcEAMokaeFQ4shoRlSQwtf4w==;jdNBqWhowBvh6yz7+qLG1w=="
+secured: "LQHGkk8F7fNofdlod8AxWdC/c2+Szu1w584gehZBV94ETa5eXJ3EPRTojZIFIscj9/I6vQ9+hcHi8gjyR9InwWqInxpJA5+eOa16CHkeSHjZnFAbozkDf8vGLkSmPe7q+By4hyRkC5XQp6QebqSVZd7hcPcscBWCu9vvPQ7YxP/8quRJ68x9WewUXET0o8ph90p8AmJ1xI7FQKJMBLwp2WJT9ike5LU0wkxzY/hlIO0BvovJAbu9jS46cYPkr+B8rzPqQXs5W7FPKkBd7qL6jhrTFkTveS2QJGvnXATWDidqUd3LdJrq8x9yDE3c51KnhLC1z2qMP9XIyV2Ba8eZnee5GLxFgSMq4OQ9DtR8X08=;XDn6GuGA7z8GI4al0V2eUA=="
 ---
 

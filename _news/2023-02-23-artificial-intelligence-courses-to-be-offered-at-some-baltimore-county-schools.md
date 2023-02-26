@@ -32,21 +32,7 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 33
-  - title: "Artificial intelligence career program approved for some Baltimore County Public Schools for next fall"
-    excerpt: "Starting next fall, some Baltimore County Public Schools students will have the option to partake in an artificial intelligence program as part of the system’s career and technical education ..."
-    publishedDateTime: 2023-02-21T12:34:00Z
-    webUrl: "https://www.baltimoresun.com/education/bs-md-artificial-intelligence-program-bcps-20230221-vljz4bqpabedtg5rjm4bkkvt3u-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 23
-    images:
-      - url: "https://www.baltimoresun.com/resizer//oX4cPFAY6L52aZAWIgmwWWhuv4A=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/A5APNEZVCVD75DNC6JPU42QWAM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "QaI1tSNSfjSe98ls2glB7cF3LLYyHg2GWSXUU9qZDI0txB/r0Uoc402iYC2UffCKc2ANgPngQQNuyljsBpYKtzZF8N0gUR+TxgO1XHukvgxf6+STy1XUYgdsc4Dzb5cXrqRIW/jY9kb9886hcGM49uFgqVZi2tOLYYSTK9WhiMxj6qUsjMM+R8WHPh/70B3+ncF9BUSo64lsoB2l9XBMmNNYus9SKwTkc8oTbnXCIx9H5f5fG97EojqRiaZikFjrqyatdnRtwej+ctjPzGTEmk5Ws0plcDnujj44PXO4BWu9fRStHyyAbUYypQ54aoGnL59WbBXfgr2LL9KOpEyPfhDSae1GqLN87CIoK/MZiwBx4ZyuC3LvAHNd62pGyV3WmROzhfxAtfSAT99CuirdeiWBq0+H0y+xATrxQEyD23XyPqj2/W9LMCoOhMqjPWIZ+ybmzTU6zE05/vsWMUfxwRVIEiQ1t1+tmpfkL07OgR7bJzuTxYwDtOfqJZtiN5v//C0oLJdTKQPD+TwwzsPSNA==;sz0BfLdv03S1Aih8yKYfqQ=="
+secured: "aBy1V84dkrfL0kCSNR93TeenLuV8PDXUCBDp4z+c9YHTLmt+kPrI2h8aRaOfa/KQrzrJp0QIxwRWIcaSNb1GsDJVEB8quTQKMk8LvT0s8tbxov+2O4i/24CCdLON92J1KUB1MAXwDN8Aba3y5KObNTniHxwWYjuRABM+yIsMFtO78C/eM1P1iZPOkg1tvrhfZ4ib7YFICK6rz4ppZnj2XwaxIXWqYiTRAY0bBCWCLh+RGkZo0uDAwQloEFDPbOSOdIrAMLjyT7KtBMFsEsvLYyn7jbR35+Qv6o95HE8XClNE3/BKL3nguM+A1NqKmjT3zpOpFlm9sMPZxXwW6DrveV1BjTrAwGTfQO7+UZ+tU+/HwBsCzM7c+6Rz7BsJkj1VIZaOhpCWkExBfUXukk+KmTYidCLurssMPE6BjrmBg/yXt/e+LybMPNuIIods6/IjqtcQubay2Dsb2ornt8AY+Us2ISptxWcxRECfZL7kQ8BtDuLszUic+oPv7y94AT9ZAj/1Iwq1376VllfuE83HgQ==;YOksrdvslyaVRXaRQ2TiEQ=="
 ---
 

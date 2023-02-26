@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4580379-tesla-growing-full-self-d
 webUrl: "https://seekingalpha.com/article/4580379-tesla-growing-full-self-driving-liability-could-be-massive"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Tesla Employees Are Already Testing Full Self-Driving Beta 11.3"
-    excerpt: "Tesla’s prepping to release Full Self-Driving Beta version 11.3 by testing it within its employee pool. The update contains some big changes along with small touches meant to improve the experience of Full Self-Driving. Here’s what to look for when ..."
-    publishedDateTime: 2023-02-21T11:20:00Z
-    webUrl: "https://www.carscoops.com/2023/02/tesla-employees-are-already-testing-full-self-driving-beta-11-3/"
-    ampWebUrl: "https://www.carscoops.com/2023/02/tesla-employees-are-already-testing-full-self-driving-beta-11-3/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/02/tesla-employees-are-already-testing-full-self-driving-beta-11-3/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 39
 
 secured: "vl2SjZE1DTUGttBkRTNOL2iqYEz1S1k5olPB1SkMqzqNXANeGRvWgSaPYxUzCiyfcfQraUrGo0V90VvC72lW3hDtVOp6i6Rf0VmLaomHLah35ADsWXGaJ9CvATIo2zgY98ZH8z2wVM+c+v4/ntACqJzPLuB3arp0pGzXSNEBtvPccLKofLFdhLvRrm8DCgqotPsqt+hbTenXPkWQ+UCkB0eKjgRRYutXMfdSUyzx6qh1S7t1t50SqLWvHWKCw96WxWSbniuHcEFBXlnhwqmDHJx2yFKVQt+XEC6eFzvbZv6GSNA9BPx7v0nl/n3BscDxCcu1fHasZe0OfufeINVSCCJ77tHPQE1vKcmYeyXP26n6yn6ksVCJWPVAY8UFEbgFPc+GpUK/YdZ/rhLQAPLF4Kb1rOsaZ3+/1+OdJjtqDA5RbI39ZiwHqRBvC4e+eu74qyxBHd+8LYK0w9u7IsVhmJVDxMqUDtw+graKDoT7Gv5T+S4tiiqeaLmgDU691XS7RyH7lRF7f/auryZYJvAp5g==;0w1cOZnq9TtREki9C4rMhg=="
 ---

@@ -2,6 +2,92 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-01-19-robots-can-stop-to-smell-the-roses-now-thanks-to-ai-and-a-biological-sensor.md",
+      "title": "Robots Can Stop To Smell The Roses Now, Thanks To AI And A Biological Sensor",
+      "excerpt": "Researchers at the University of Tel Aviv have developed a robot that can \"smell\" using an innovative biological sensor. The sensor transfers electrical information in response to the presence of an odor,",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/robots-can-smell-the-roses-now-thanks-to-ai-and-a-biological-sensor",
+      "originalUrl": "https://hothardware.com/news/robots-can-smell-the-roses-now-thanks-to-ai-and-a-biological-sensor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/60695/content/hero-robot-biological-sensor.jpg",
+          "width": 708,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/robots-can-smell-the-roses-now-thanks-to-ai-and-a-biological-sensor",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/robots-can-smell-the-roses-now-thanks-to-ai-and-a-biological-sensor",
+      "publishedDateTime": "2023-01-18T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about.md",
+      "title": "Driverless cars: The dark side of autonomous vehicles that no one’s talking about",
+      "excerpt": "There are currently more than 30 million driverless cars in the world. This number is projected to grow exponentially as companies like Tesla pour money into the development of such vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/green/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
+      "originalUrl": "https://www.euronews.com/green/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/07/31/02/02/1000x563_cmsv2_ccec74ce-888e-5f64-b08a-c35082abbc35-7310202.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/green/amp/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/green/amp/2023/01/16/driverless-cars-the-dark-side-of-autonomous-vehicles-that-no-ones-talking-about",
+      "publishedDateTime": "2023-01-18T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-apple-m2-pro-and-max-chips-repeat-a-successful-upgrade-strategy.md",
       "title": "Apple M2 Pro and Max Chips Repeat a Successful Upgrade Strategy",
       "excerpt": "The neural engine has 16 cores on both M1 and M2 generations, but Apple boasts its AI performance is 40% faster with the new chips. AI software is just getting started, but it's used in important ...",
@@ -1076,110 +1162,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-microsoft-wants-to-put-chat-gpt-style-ai-tools-in-every-product.md",
-      "title": "Microsoft Wants To Put Chat GPT-style AI Tools in Every Product",
-      "excerpt": "Can AI experience cognitive dissonance? Microsoft CEO Satya Nadella told Davos attendees on Tuesday that the tech giant plans to use OpenAI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-chat-gpt-style-ai-tools-in/",
-      "originalUrl": "https://www.fool.com/investing/2023/01/17/microsoft-wants-to-put-chat-gpt-style-ai-tools-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/716949/featured-daily-upside-image.jpg",
-          "width": 2000,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-artificial-intelligence-ai-chips-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026.md",
-      "title": "Artificial intelligence (AI) Chips Market Size 2023 Will Touch A New Level In The Upcoming Year 2026",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2026-2023-01-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T17:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

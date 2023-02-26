@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-23"
 type: article
 quality: 73
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
       - url: "https://images.sbs.com.au/dims4/default/47219a0/2147483647/strip/true/crop/5489x3088+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F84%2Fe9%2Fc42754dd4a0282f065bcaf8d5d3b%2Fgettyimages-1456601730.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Self-driving Cars Market International Business Analysis, Development Outlook and Regional Strategies 2028"
+    excerpt: "Providing a complete overview of the global Self-driving Cars market is a complex task, as there are many different markets and industries around the world. However, I can provide a high-level summary of some of the key trends and factors that are currently impacting the global Self-driving Cars market."
+    publishedDateTime: 2023-02-23T03:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "rsR4/+/O8ZhPbamWBxjz0t5LCN0aUbWA1doAh6E6HbFFF9Lxg8Q2dyoeoRae9wBSO8CPlHcdFBao38O2CSCRakJc3BVNVZLfFQ+4emoOdcfLoFxTqGd2f/pnCc13ANFza6bdibYo2vzoWjDmb+q/5vXKbYyZhV/1eMla/Hj1ueEPR+vx0Dp9iymbMMiZiZL7DopyV9lVs+Ls4skajWVD4R/vwkrljzjksv13IKwtfxhUtXFutLxVT+5lVcCqfdyKwCwGnU4z17QNcxtl/gveE/RgxJcpEAj77qDXTz8gy83cTa33aSfWb1r5S/S+MjqvwhbQeOCoN2FXf5S5naOzQhYWn2eYvWDztfV0Q2owbuM=;vCiHaSLf4H/QMPsTzazcMg=="

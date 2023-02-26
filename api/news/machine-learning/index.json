@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-24-how-machine-learning-is-revolutionizing-cx-outsourcing.md",
+      "title": "How machine learning is revolutionizing CX outsourcing",
+      "excerpt": "CONTACT centers in the Philippines have long been the driving force behind the exponential growth of the business process outsourcing (BPO) industry, providing superlative customer service to companies around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127",
+      "originalUrl": "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.manilatimes.net/manilatimes/uploads/images/2023/02/24/161618.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp",
+      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp",
+      "publishedDateTime": "2023-02-24T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilatimes",
+        "domain": "manilatimes.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-automated-machine-learning-automl-market-trends-and-opportunities-and-forecast-to-2028-with-top-countries-data.md",
       "title": "Automated Machine Learning (AutoML) Market Trends and Opportunities and Forecast to 2028 with Top Countries Data",
       "excerpt": "Feb 23, 2023 (The Expresswire) -- \"Automated Machine Learning (AutoML) Market\" Research Report 2023 Provides a Basic overview of the Industry",
@@ -1375,49 +1418,6 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-deep-multi-magnification-similarity-learning-helps-histopathological-diagnosis.md",
-      "title": "Deep multi-magnification similarity learning helps histopathological diagnosis",
-      "excerpt": "Nazar Mustafa Zaki's team from United Arab Emirates University, proposed a novel deep multi-magnification similarity learning (DSML) approach to improve performance in histopathological ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-deep-multi-magnification-similarity-histopathological-diagnosis.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-deep-multi-magnification-similarity-histopathological-diagnosis.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-multi-magnificati.jpg",
-          "width": 1270,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

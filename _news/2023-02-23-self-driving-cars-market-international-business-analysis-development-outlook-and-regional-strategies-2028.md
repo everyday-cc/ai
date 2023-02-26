@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Artificial Intelligence for Healthcare Applications Market Share Analysis, Environment Development Trend In 2023"
-excerpt: "Artificial Intelligence for Healthcare Applications Market Size 2023-2029 | New Report (102 Pages) | Information"
-publishedDateTime: 2023-02-22T05:24:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-share-analysis-environment-development-trend-in-2023-2023-02-22"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-share-analysis-environment-development-trend-in-2023-2023-02-22"
+title: "Self-driving Cars Market International Business Analysis, Development Outlook and Regional Strategies 2028"
+excerpt: "Providing a complete overview of the global Self-driving Cars market is a complex task, as there are many different markets and industries around the world. However, I can provide a high-level summary of some of the key trends and factors that are currently impacting the global Self-driving Cars market."
+publishedDateTime: 2023-02-23T03:10:00Z
+originalUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-22"
+webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-22"
 type: article
-quality: 43
+quality: 36
 heat: -1
 published: false
 
@@ -19,8 +19,14 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) Chips Market International Business Analysis, Development Outlook and Regional Strategies 2028"
@@ -65,6 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence for Healthcare Applications Market Share Analysis, Environment Development Trend In 2023"
+    excerpt: "Artificial Intelligence for Healthcare Applications Market Size 2023-2029 | New Report (102 Pages) | Information"
+    publishedDateTime: 2023-02-22T05:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-share-analysis-environment-development-trend-in-2023-2023-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
   - title: "Educational institutions consider the risks and benefits of Artificial Intelligence (AI) devices"
     excerpt: "At least five Australian states have banned the use of tools such as ChatGPT in public schools to limit potential cheating and plagiarism."
     publishedDateTime: 2023-02-26T01:18:00Z
@@ -79,21 +94,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Self-driving Cars Market International Business Analysis, Development Outlook and Regional Strategies 2028"
-    excerpt: "Providing a complete overview of the global Self-driving Cars market is a complex task, as there are many different markets and industries around the world. However, I can provide a high-level summary of some of the key trends and factors that are currently impacting the global Self-driving Cars market."
-    publishedDateTime: 2023-02-23T03:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "d9jndob/q+NUdcDVdgo8i1xJw1aOwV4LXVfzlBszYfBVE7Y+VOVrjUCIrvqH71IkpDcVEm1UXhNQK/kavoOwxyVhSAQiZ0xySlGHW3DoaR2uHyrgrBT7q6osUEPO8PtFs5APByNw1XzVE+Kfl3kq6cXua0czhS4azETWzKshYWM3J7np3+/qrLzbX8pTtLmmlWa3mG5SHfgKS4fZDMQfhqh5J2VJDRxavac9vdmW2j1wh+lhyuJNxTaky9eW7MpnGe++OQzSUnqvPiSZ39LOxFYFpMFXdGlL3FvIVu+y4fX5OKI8l2xgYNOy5uR038LJxUZ9yKbQzjLXJxE5tSUib3iC3n4+h6Guga89jWM69MI=;Sa/vTkATAmSI5WihnLfoqg=="
+secured: "sn+i073mZV2M1v8nUJH+/6wSCbnjwuwjmEWARv7U+IjMrL+HRZtDNJsF5fzy0sccKEmf0s8AA8THQu7AmWE6gL4wDOmWDMONNMID63UnwI/n9rG3ykIxUH6SprGyCW/aaECDOj4N1+ZIZJNR7YGoRpiJtaPVPRQmKk0CBXs+AfE8TasnVfgdJ439yfg6nc0dlSyHwefHApCUxZFfQFnQ3w9o+600NfVCODP7FGDusK+Ru+bQyq9YSHASuPVang7k3vF3ydtEp2zcbRqUrladfjr7OEQOZHx7DzMW7d5dTYfLg4zZcghxYBovLPv6hqzZl/rBaBVUtaUSRWSEoyrijQa5gNmfECgOyd2V3HmB2iA=;dqYEaa32yOz9D99VdLPILA=="
 ---
 

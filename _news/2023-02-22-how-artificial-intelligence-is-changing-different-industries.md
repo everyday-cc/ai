@@ -45,6 +45,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "How is AI significantly changing the Fit Tech industry?"
+    excerpt: "Did you know that the global market for fitness tech expects to reach $29.4 billion by 2023? With the industry’s exponential growth, the need for innovation and differentiation is more pressing than ever."
+    publishedDateTime: 2023-02-26T03:39:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-is-ai-significantly-changing-the-fit-tech-industry/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-is-ai-significantly-changing-the-fit-tech-industry/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-is-ai-significantly-changing-the-fit-tech-industry/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
 
 secured: "t59G/AMVGDi3vJVppv4IjJj8zmEa6wU5ryK8mP1pSDc29aJ+tOruY41Vrg+H23P9IvdECd1YN7wuR1q4D8oALxgqxA0Je7esEUbP+WnchLD6oT4WM1Hd9YHW2Z8xzcpmSwN1LR9OIU+9LrTDaIdo8XVySo02fQZaYi5keLfJrLplXCSNVjGF+WWtSYpPEHt+LtDL0DUhN623jdVH9zag2OdrQ98ri/wRSD375GLzKWP3MVXvn3uquha7RXn0izollDqrHWVmxEIGzqA3l+i4EAlGTyFCbB8hzvh4jLMf1R/JlwNGuVXTFDBI90n+WIiZvEfjlMIRFCtX4zoh/B3Mdb6ez52JUEy4UNeQsIfEdO61jTH0UkQX22m70SyWTC2v4GTttuVY82n1d2hiZztEYba620KM/YZnc3GfDNiJ7YOblQnT9PaQ274hFa5jSZ6UyU+i3nHZPd9k/DXdUnlkWdgHy/+kIUao/3ozfBek5mKlk+2zIvAm1KCicE/EeQgl6tkA2I1BHFggsylaGzJM0Q==;Cxx/vYN6Fb1rUKXbUoJsfA=="
 ---

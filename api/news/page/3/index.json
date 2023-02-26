@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-23-in-ukraine-identifying-the-dead-comes-at-a-human-rights-cost.md",
+      "title": "In Ukraine, Identifying the Dead Comes at a Human Rights Cost",
+      "excerpt": "Five days after Russia launched its full-scale invasion of Ukraine, a year ago this week, US-based facial recognition company Clearview AI offered the Ukrainian government free access to its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
+      "originalUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63f6321a7d87edd2f4f351b3/master/pass/ideas_GettyImages-1246812281.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
+      "publishedDateTime": "2023-02-22T18:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-23-machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales.md",
+      "title": "Machine learning could fix the prioritization problem in B2B tech sales",
+      "excerpt": "Machine learning (ML) is at a point where it can enable data-driven precision for approaching the right customer contact with the right pitch at the right moment. Teams wary of trusting ML to date may not have as much of a choice in the matter — but will ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales/amp/",
+      "publishedDateTime": "2023-02-22T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-02-23-openais-foundry-will-let-customers-buy-dedicated-compute-to-run-its-ai-models.md",
       "title": "OpenAI’s Foundry will let customers buy dedicated compute to run its AI models",
       "excerpt": "OpenAI is quietly launching a new developer platform that lets customers run the company’s newer machine learning models ... a “static allocation” of compute capacity (perhaps on Azure, OpenAI’s preferred public cloud platform) dedicated to ...",
@@ -1052,100 +1148,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-sony-challenges-gran-turismo-7-players-to-race-against-gt-sophy-ai.md",
-      "title": "Sony Challenges Gran Turismo 7 Players to Race Against GT Sophy AI",
-      "excerpt": "A new Gran Turismo Sophy 'Race Together' time-limited in-game event will be available for any players who have reached Collector Level 6. Four races (Tsukuba Circuit, Alsace Villa",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/sony-challenges-gran-turismo-7-players-to-race-against-gt-sophy-ai",
-      "originalUrl": "https://www.pcmag.com/news/sony-challenges-gran-turismo-7-players-to-race-against-gt-sophy-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/06mbRwaBo3EQ2rKNbRdZXt9-1.fit_lim.size_1200x630.v1676904976.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-20T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software.md",
-      "title": "Tesla Recall Hits Nearly 363,000 Cars With “Full Self-Driving” Software",
-      "excerpt": "Tesla is recalling almost 363,000 vehicles due to concerns about its Full Self-Driving Beta software The National Highway Traffic Safety Administration posted the recall notice on their website last Thursday Tesla will address the recall with an over-the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/amp/",
-      "publishedDateTime": "2023-02-20T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

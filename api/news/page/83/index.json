@@ -2,6 +2,108 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2022-12-13-vicai-raises-52m-shows-that-automating-accounting-processes-can-be-profitable.md",
+      "title": "Vic.ai raises $52M, shows that automating accounting processes can be profitable",
+      "excerpt": "Vic.ai, a startup offering AI tech to automate accounts payable processes, has raised $52 million in a venture round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/",
+      "originalUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Vic.jpg?resize=1200,855",
+          "width": 1200,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/vic-ai-shows-that-automating-accounting-processes-can-be-profitable-raises-52m/amp/",
+      "publishedDateTime": "2022-12-13T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization.md",
+      "title": "How the new Lands’ End-Movable Ink partnership leverages AI for customization",
+      "excerpt": "Lands' End announced it will leverage Movable Ink's AI-powered Da Vinci platform to bolster the retailer's email marketing program.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/",
+      "originalUrl": "https://venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/2018-lands-end-logo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-the-new-lands-end-movable-ink-partnership-leverages-ai-for-customization/amp/",
+      "publishedDateTime": "2022-12-13T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-rapid-vocal-recognition-in-fur-seal-moms-and-pups.md",
       "title": "Rapid Vocal Recognition in Fur Seal Moms and Pups",
       "excerpt": "Cape fur seal mothers recognize their pup’s voice 2-4 hours after birth, and pups recognize their mother’s voice 4-6 hours after birth. This is the fastest establishment of mother-offspring vocal recognition for any mammal species (including humans) described to date.",
@@ -1029,92 +1131,6 @@
         "AI",
         "AI Ethics",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-exercise-mindfulness-dont-appear-to-boost-cognitive-function-in-older-adults-finds-large-study.md",
-      "title": "Exercise, mindfulness don't appear to boost cognitive function in older adults, finds large study",
-      "excerpt": "Older adults work with exercise trainers as part of a study to see whether exercise, mindfulness training, or both might improve cognitive performance in seniors. A new study did not show such ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-mindfulness-dont-boost-cognitive-function.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-mindfulness-dont-boost-cognitive-function.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/exercise-mindfulness-d.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-12-mindfulness-dont-boost-cognitive-function.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-mindfulness-dont-boost-cognitive-function.amp",
-      "publishedDateTime": "2022-12-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-first-global-forum-on-ethics-of-ai-held-in-prague-one-year-after-the-adoption-of-unescos-recommendation.md",
-      "title": "First Global Forum on Ethics of AI held in Prague, one year after the adoption of UNESCO’s Recommendation",
-      "excerpt": "It is in the process of setting up AI Experts without Borders, and the Global Network of Knowledge Centres on Ethics of AI – made up of some of the world’s leading universities and academic centres. To drive forward the gender equality agenda ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.unesco.org/en/articles/first-global-forum-ethics-ai-held-prague-one-year-after-adoption-unescos-recommendation",
-      "originalUrl": "https://www.unesco.org/en/articles/first-global-forum-ethics-ai-held-prague-one-year-after-adoption-unescos-recommendation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unesco.org/sites/default/files/styles/best_image/article/2022-12/GettyImages-476085510%20solarseven.jpg?itok=UGSIckda",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNESCO",
-        "domain": "unesco.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

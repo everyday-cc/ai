@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Smiths Detection launches automatic object recognition software"
-    excerpt: "Threat detection and security screening technology provider Smiths Detection has launched an automated detection algorithm, named iCMore Prohibited Items. The solution uses artificial intelligence-based algorithms to automatically detect items determined to be a security risk at airport checkpoints,"
-    publishedDateTime: 2023-02-22T12:10:00Z
-    webUrl: "https://www.passengerterminaltoday.com/news/security/smiths-detection-launches-automatic-object-recognition-software.html"
-    type: article
-    provider:
-      name: Passenger Terminal
-      domain: passengerterminaltoday.com
-    quality: 19
   - title: "Smiths Detection Launches New Automatic Object Recognition Software"
     excerpt: "It uses artificial intelligence-based algorithms to automatically detect items determined to be a security risk at airport security checkpoints such as firearms, knives, scissors, axes, grenades, blasting caps,"
     publishedDateTime: 2023-02-25T12:28:00Z

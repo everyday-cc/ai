@@ -2,6 +2,153 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-02-16-microsoft-explains-bings-bizarre-ai-chat-behavior.md",
+      "title": "Microsoft explains Bing's bizarre AI chat behavior",
+      "excerpt": "Microsoft launched its Bing AI chat product for the Edge browser last week, and it's been in the news ever since — but not always for the right reasons. Our initial impressions were strong, as it offered up workout routines, travel itineraries and more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "originalUrl": "https://www.engadget.com/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 504,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/rmtgqK.dkZnoRLcvyngjAQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/31782c40-adf7-11ed-9dcf-98e346252060.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "publishedDateTime": "2023-02-16T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-the-history-of-the-gpu-from-inception-to-ai.md",
+      "title": "The History of the GPU: From Inception to AI",
+      "excerpt": "The GPU has gone from an esoteric semiconductor of ... It powers our smartphones, automobiles, virtual and augmented reality, video games, and AI training. Where did these ubiquitous and amazing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/the-history-of-the-gpu-from-inception-to-ai/article_fc7e54dd-4dc4-5f62-ab3b-f7ca082285a2.html",
+      "originalUrl": "https://www.eagletribune.com/region/the-history-of-the-gpu-from-inception-to-ai/article_fc7e54dd-4dc4-5f62-ab3b-f7ca082285a2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/1/22/122457b9-d302-5439-9f2f-09f36db71050/63ee29efd70d3.image.jpg?crop=912%2C479%2C30%2C0&resize=912%2C479&order=crop%2Cresize",
+          "width": 912,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages.md",
+      "title": "Moveworks Leverages Generative AI to Provide Customers with Real-Time Translation in Over 100 Languages",
+      "excerpt": "Moveworks, the leading conversational AI platform for the enterprise, today announced that it now provides on-the-fly translation in over 100 different languages for its employee support virtual agent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages-2023-02-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages-2023-02-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T04:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-ge-healthcare-makes-push-into-artificial-intelligence.md",
       "title": "GE HealthCare Makes Push Into Artificial Intelligence",
       "excerpt": "GE HealthCare Technologies Inc. is making a big bet on an important challenge in healthcare: collecting the disparate data on patients generated by machines and medical records and making it useful to hospitals.",
@@ -339,58 +486,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-the-history-of-the-gpu-from-inception-to-ai.md",
-      "title": "The History of the GPU: From Inception to AI",
-      "excerpt": "The GPU has gone from an esoteric semiconductor of ... It powers our smartphones, automobiles, virtual and augmented reality, video games, and AI training. Where did these ubiquitous and amazing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-history-of-the-gpu-from-inception-to-ai-2023-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-history-of-the-gpu-from-inception-to-ai-2023-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T23:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1122,100 +1217,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-this-is-how-how-ai-is-helping-monitor-and-count-puffins.md",
-      "title": "This Is How How AI Is Helping Monitor And Count Puffins",
-      "excerpt": "Puffins on the Isle of May, a nature preserve off the coast of Scotland. SSE Renewables is trialing ... [+] a new way to count puffins using artificial intelligence. The project is supported by Microsoft, Avanade and NatureScot. The Isle of May is a 140 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ed146a88afcdec4e171308/0x0.jpg?format=jpg&width=1200",
-          "width": 790,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/02/15/this-is-how-how-ai-is-helping-monitor-and-count-puffins/amp/",
-      "publishedDateTime": "2023-02-15T11:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-poll-americans-more-aware-but-skeptical-of-artificial-intelligence.md",
-      "title": "Poll: Americans more aware but skeptical of artificial intelligence",
-      "excerpt": "Americans are continuing to learn more about artificial intelligence, but they remain skeptical of the impact the technology will have on society, according to a new survey from Monmouth University. The survey finds 91% of Americans say they have heard ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/meetthepressblog/poll-americans-aware-skeptical-ai-rcna70798",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/meetthepressblog/poll-americans-aware-skeptical-ai-rcna70798",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-02/230215-openai-msnbc-mn-1220-003891.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/shows/meetthepress/blog/rcna70798",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/shows/meetthepress/blog/rcna70798",
-      "publishedDateTime": "2023-02-15T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

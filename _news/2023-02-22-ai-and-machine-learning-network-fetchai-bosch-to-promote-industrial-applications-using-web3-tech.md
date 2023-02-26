@@ -51,15 +51,6 @@ related:
         width: 750
         height: 428
         isCached: true
-  - title: "GoLogiq's Nest Egg Completes Integration of GPT-3 AI Technology into Consumer Investing Platform"
-    excerpt: "(OTC: GOLQ), a U.S.-based global provider of fintech and consumer data analytics, announced that Nest Egg Investments has completed the integration of GPT-3 Artificial Intelligence (AI) technology into its consumer investing platform and mobile app."
-    publishedDateTime: 2023-02-21T12:36:00Z
-    webUrl: "https://www.wsj.com/articles/gologiq-s-nest-egg-completes-integration-of-gpt-3-ai-technology-into-consumer-investing-platform-337a56fa"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 36
 
 secured: "nWKe03PhALdpNmQMKMGbycJUqDelfY83RILhhGfRGJOVYIoirs5LmnLLwYrqMUskkwlZ8cblA2HwYPXPkAVeJq9vf7ZiZnn0H4yuvSD6gjCZwP3jUWphGkfVR2Fw6Q2+TI+uwKSQ/gfotw+X3PuArlMGdfx5JEkX2UvugidSdtW6eIqXr7BRmkrOnqcYy5IfZeNUyWNKvkaLoQy2KFUEjqiqkCt8XbPnCEYFTy9uhBKO2iVcjtsr307GQic/3O6a6nmfh02iWKqYu7S53nB6wRJysq9VlYlABn9IyeBzUIkQDBxdemr7zsgR/hV91bTUCuNX9ErJuEb/D48lrVBXJZ9V1GIjbzM4r9zGQU1WPJOS7f/17wAmT0OvHrgU6Z76mN4lMyHfBrFvf3Te73+hp/l9lh55gKCxKVrqKPMQKb6p9oyMi+NtKx5GAl9078JstcVajfBCCqyac2/A+PcfGZ9laBjvqDWx53Iq0hbJ6YQC9YpeJyWXYagMqKjKb2qbuVwnX4Zgcj22OHmIqfVifA==;kzKIRlHDGiISFvvw0MG4ZQ=="
 ---

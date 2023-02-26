@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 40
-  - title: "GoLogiq's Nest Egg Completes Integration of GPT-3 AI Technology into Consumer Investing Platform"
-    excerpt: "(OTC: GOLQ), a U.S.-based global provider of fintech and consumer data analytics, announced that Nest Egg Investments has completed the integration of GPT-3 Artificial Intelligence (AI) technology into its consumer investing platform and mobile app."
-    publishedDateTime: 2023-02-21T12:36:00Z
-    webUrl: "https://www.wsj.com/articles/gologiq-s-nest-egg-completes-integration-of-gpt-3-ai-technology-into-consumer-investing-platform-337a56fa"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 36
 
 secured: "cfr5FwdNVMfkda+cfPJE/JkAHBJQgcn9n23DECLBpyRQzjI/0asgNU/ObMXSLwMfaZbYpzIHyThHCdU4Zj+ZmXWfTm8R1Q1SaSGDiSxREFpN5PiV16TEFJDoAT4h7w5PK7CrtuJos0/puR7lVSb2Grje++6pc1lNgECTt96kx9K+hIucKBvRhYkb0XMpC5u+K/471XHZ2x3lLklDC9bAdMVS8PEEYhNQYvraa4hyxEvikXub5RUrcvyqwkSi1DcOB+jEEKhB3tPchfQ51+gEmr3XP3xTTV05BLHxqBcIUvf6BFSWiuCkWtpqMPI2tQgAEhmI6lr6pJCBms2zq6A/hr4zZYwRR43HIt3eSTGGu/1OVJlQuePk5TDS6+13lbRxSVrbcmvbfRptdDy7HvP1LdVBUfFq/zxOhzFsjZ+nC6djQXJDr+QPhe8xXayGQDetz/gN8pXRzVwuD9UQ+xTKm1WhRfaqu2mOJqzUSpRWZ6Nd5kH0j4OIh9w6Jdfcn6r1Hx/I0dkQuBoPtKN+pKZ3kg==;vV/SVUJA8Dyfc3EOZoeUqQ=="
 ---

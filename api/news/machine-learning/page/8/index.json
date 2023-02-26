@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-12-21-8-mlops-predictions-for-enterprise-machine-learning-in-2023.md",
+      "title": "8 MLops predictions for enterprise machine learning in 2023",
+      "excerpt": "So what trends will emerge in the MLops landscape in 2023? A variety of AI and ML experts shared their predictions with VentureBeat.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/",
+      "originalUrl": "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_514013068-e1623787978313.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/8-mlops-predictions-for-enterprise-machine-learning-in-2023/amp/",
+      "publishedDateTime": "2022-12-21T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-21-three-best-practices-for-mlai-security.md",
       "title": "Three best practices for ML/AI security",
       "excerpt": "Two-in-five organizations will have experienced an AI security or privacy breach, with one in four of those being adversarial attacks. Security industry watchdogs have been ringing alarm bells for years.",
@@ -1383,59 +1435,6 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-use-your-spreadsheet-data-to-train-ml-models.md",
-      "title": "Use your spreadsheet data to train ML models",
-      "excerpt": "You can train, evaluate and deploy machine learning models from tabular data using TensorFlow Decision Forests (TF-DF). This process is fast as TF-DF only requires a small amount of code and trains in seconds. But if your data is in a spreadsheet, what is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/decision_forests/simple_ml_for_sheets",
-      "originalUrl": "https://www.tensorflow.org/decision_forests/simple_ml_for_sheets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-09T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
