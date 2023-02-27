@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/02/20/87cf5a8e-cc30-47f4-b3ea-514e2b71a343/thumbnail/1200x630/22d82261ef48ab1db8224f80a92962b6/ai.jpg"

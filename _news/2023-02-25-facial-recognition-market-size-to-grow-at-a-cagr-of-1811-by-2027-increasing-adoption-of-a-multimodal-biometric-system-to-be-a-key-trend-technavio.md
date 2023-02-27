@@ -5,12 +5,7 @@ excerpt: "One of the major factors supporting the growth of the verification seg
 publishedDateTime: 2023-02-25T00:36:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/02/n31058840/facial-recognition-market-size-to-grow-at-a-cagr-of-18-11-by-2027-increasing-adoption-of-a-multimo"
 webUrl: "https://www.benzinga.com/pressreleases/23/02/n31058840/facial-recognition-market-size-to-grow-at-a-cagr-of-18-11-by-2027-increasing-adoption-of-a-multimo"
-ampWebUrl: "https://www.benzinga.com/amp/content/31058840"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31058840"
 type: article
-quality: 20
-heat: -1
-published: false
 
 provider:
   name: Benzinga.com
@@ -20,28 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-related:
-  - title: "Biometric recognition tests can’t be used for all use cases"
-    excerpt: "Successful manufacturers do not treat testing as a formality or a Band-Aid, and buyers should not take results at face value."
-    publishedDateTime: 2023-02-24T22:49:00Z
-    webUrl: "https://www.biometricupdate.com/202302/biometric-recognition-tests-cant-be-used-for-all-use-cases"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://www.biometricupdate.com/wp-content/themes/bu/img/BU-Newsletter.jpg"
-        width: 995
-        height: 334
-        isCached: true
-
-secured: "Da2X+9h3bTuga/6fbPOMxERAsMN4lE5aA5jNtOGxSH4MnAR6BuKNZRcwq0JurnZdUoQpbMezOqNzw73tcf8/TpaBr0pBSbbGA+i4ChdVkHEDgxDL0nYWqMzKIPQGOZfXlXAS033NW9OQ0SvQQg2hIyAS4v4xG4Wr3syaw+jpZ4zMY8qjloJ8Bpg2qazpmCSTBVNXoreKTYG18MZLNkndzc8ALCq/HjHTx7H4gSWi7LUvoUxjKm0v5yvf0SIkZ6/1LgzHu1tRAkf5CasEIJs2F8GeFv2RkgkzD4GX9xdlwGkaCOgP2PyDUImxpRrypP4PFeVY6zDGCB06iE3EK/0RwTvJnrZs2ocZAY4utO9+Fgc=;dp8RDSu4w7j978szq1JsgQ=="
+secured: "pmh8ers5LeJG5Z2l6vi6ZPMHKngj554dyXTiilek2npvMiZ9VbKpfwMiJQgf4Wdrb8BRevItLoCkIPLkQnarawdzyoJwNbex0BDgyTDT9TU7Pt1qPVh1o/KmsiY9Vg+7tZl0pgjZuXsWF27COpJKXb/MZmcva9UJM82b/AZARVsMGxTKss8HtkBK2uystbQFaQ/l8JYMPUTLjwphWcYCRB96klr7n66DPhRFravbE3KJnp1T7owJe0UHFYmfWOIgf8sIQ8bA6s4Sy7glihV7xQdoMiFqNHK/hp/xVYBMIUsaVhNjl94ipXICzJC2sPz7UvXLLj9tARAsHIVDPAAwYegXl+UFTMaM73UBZZndkRY=;XL7HEtdf8kpO5Ws8dTYuXA=="
 ---
 
