@@ -7,7 +7,7 @@ originalUrl: "https://observer.com/2023/02/google-cloud-carmaker-partnerships/"
 webUrl: "https://observer.com/2023/02/google-cloud-carmaker-partnerships/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Hugging Face and AWS expand cloud partnership"
-    excerpt: "is partnering with Amazon Web Services Inc. to streamline artificial intelligence development projects. The companies announced the partnership today. It expands upon an existing collaboration that Hugging Face and AWS launched in early 2021."
-    publishedDateTime: 2023-02-22T15:44:00Z
-    webUrl: "https://siliconangle.com/2023/02/21/hugging-face-aws-expand-cloud-partnership/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "nDBDCSTTNQUfcTo3vTwklGWqUOSF2YwEbjYtgmsfTpzR1Ukq80Bsbzskd78dUfc4Wbb4pDsIxk4K5k+MgWIIYF9mrOeoM2fAF5Fswx9flpB52JCiG+MHyXDAJHCRfPupniZm29CLoUD5jLApttZhsNYh/ul8zYdOH5BKawwdq0wksqRQDGJGIh8b4bXpqdRpYzqvqcANYs7G9z81HWMXxYpWGhC/1qipYDsnODrdSXMEfcanLEfpopIX9x8+KGv4/r++2Gp65WGBxKK91fgsKdlNWqWgBu24ea1znVMDjCUraDbPayOE0Mo/juA1+Atx3+/Mw8DSIxlNwky20Z4GhXMqv0Cs8CUwq3BWWX9FoQmp83DTZdG1BsZSFJ1kWlEHBmCD93/wDXKvvdDjNrsmNJSKfurmgMGTQ7vJsCIEu5nA8fFTMIdsPdYQxXsC0th00NEM4JvndBwqO7eaYGAj9/8L5vLP/ERIIlppbELklycsaw8qe+BtfYZp150KTifrv0zuEzxzezbEh49Uhd+K2w==;imgU39LOyAzdDGANn39kKQ=="
 ---

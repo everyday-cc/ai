@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-24T15:02:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2023/02/24/9766176.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/02/24/9766176.htm"
 type: article
-quality: 13
-heat: 13
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "FinancialNewsMedia.com: How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"

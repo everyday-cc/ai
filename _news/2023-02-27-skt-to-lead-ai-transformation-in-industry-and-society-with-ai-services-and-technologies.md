@@ -35,7 +35,7 @@ related:
     provider:
       name: The Peninsula
       domain: thepeninsulaqatar.com
-    quality: 34
+    quality: 36
     images:
       - url: "https://thepeninsulaqatar.com/get/maximage/20230227_1677477600-561.JPG?1677477600"
         width: 1200

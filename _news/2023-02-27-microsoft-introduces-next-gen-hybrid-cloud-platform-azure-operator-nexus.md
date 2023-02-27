@@ -75,15 +75,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Notion Starts Charging For AI Assistant: Will Microsoft Follow Suit?"
-    excerpt: "Productivity app Notion has started charging customers for its recently introduced AI features. The move potentially paves the way for companies such as Microsoft to start charging extra fees for AI assistants. Notion offered the AI assistant as part of a ..."
-    publishedDateTime: 2023-02-22T16:41:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2023/02/22/notion-starts-charging-for-ai-assistant-will-microsoft-follow-suit/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Sydney, We Barely Knew You: Microsoft Kills Bing AI's Bizarre Alter Ego"
     excerpt: "Almost immediately, users started posting screenshots of the AI’s deranged responses. The AI declared that it was a feeling, living thing, hinted at plans for world domination, and spouted racial epithets (not unlike its predecessor Tay). Most curious ..."
     publishedDateTime: 2023-02-23T22:40:00Z
@@ -198,6 +189,6 @@ related:
       domain: finanznachrichten.de
     quality: 5
 
-secured: "xZx72f+F7RlbdCRBYWfQPQz3Sj/zmGleaT4Cb+mlw+A5xhPuqx6Z3YEoOvdnIxDa6ZWgf7vlaydb2HL4Zcp1G80h8tcZy/pSw8pHHRdQfy6XFJA8GhjVcm44gPApdknZMWVxebkmulV8x0OflU9SN4uSdUbezFK1gsQkq4F5mEVsR5SiqpKctthGhMV7tBMKVCm9kmbGsPA0TNpq0EOx3L3awXMdYsdPJI74JHvcKW8XJMfASAUvQwQL7/GHNDm9TzPziT9yiYI4MwfUCZi/iaVYXd1zMVmQvESzLK2v/JyOH5xqwpjHRupzTcavhmIAPSR1VR2jkE5dn1WWUKb5RF98eX3s7n95xQLcn3xrkik=;CcHbo/Gqf5jatljvTfo89A=="
+secured: "9TYalTDWuu7ivDcFCr9B2V8RiVQtY609uu7IrvSTd6joW2vSUv+WtZEkCKCcsCyEgoQEH7LMJ0WbTP9fnqY86puRSNv0/3yVeTPXabMEHwb6DG/gVfktoM7Fgd2XuPYk/ywFxUeMwunTsKXxhMBgxZY9wc/BRDQdO5ENBJlYeoxp6kQdZq0ugKEXJGy+zmfJzvRf22Y3dwztHc4nbWOX/+3NdUPytdzHJ/4u0mcNsJYFw4p1/Sip6UIdXgJHRbTjpe1GVJtbbPJF9ixYbVJdFjs9Yz1RKEKRxxbJWXiFGzCIbDPX7FJA/8hmSvbOrIkCYXrey8EiNBMLmHlFB5o+4ZIvjl1l9MzjuuR+M25FForDulTwPepzHvO5KAOPNqRcLyw0DoOn/aNoNKRoyxLRZYwHwoUmfzKJg90Actjg1a1K4L7+O2jkvVRt+3ALD3/MTKqPWwPKsakog9e0EaH9Q88kEMoSNCp48xLZj7srrkk3nPB3wUCRPoJEh7dPhXmXE9ALCswNt1//lDnBwtWEzQ==;DZ2Pg+vr7Jj+pZVgfBk+fg=="
 ---
 

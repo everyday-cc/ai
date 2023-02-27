@@ -240,6 +240,20 @@ related:
         width: 1228
         height: 690
         isCached: true
+  - title: "China's first ChatGPT-like software to be made open source"
+    excerpt: "Named after the artificial intelligence featured in the Chinese Sci-fi movie The Wandering Earth II, MOSS became the first ChatGPT-like software unveiled in China when it was made available to the public for testing on Feb 21."
+    publishedDateTime: 2023-02-27T08:04:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202302/27/WS63fc640ea31057c47ebb114b.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202302/27/63fc66aba31057c4b4b5da42.jpeg"
+        width: 593
+        height: 395
+        isCached: true
   - title: "Nvidia to drive AI business amid ChatGPT hype"
     excerpt: "As the sluggish PC market drags on Nvidia's performance, the fabless chip design company is eyeing the AI hype that is driven by services, especially ChatGPT. Nvidia posted its fiscal fourth-quarter financial results that ended on January 29, 2023."
     publishedDateTime: 2023-02-23T02:45:00Z
@@ -295,6 +309,6 @@ related:
       domain: asahi.com
     quality: 4
 
-secured: "2YmZvRGTiJeq+ul4xgfdxd3DSYrKewehDAQCcGnjRFmGDu9ovnNuZZNNbyxhL6EI8VJha0p9gaPC/D0c0vTXfoM44kAL1kS4TbVhJDs/uGhM6KXqdQ7mMTjbiEJ5Jlky//L0SSF2JG4NWDdqGNQRCVfpNsnQr0EX4ygh7uZWmz5X9nm+WXj5Vl3C62Ka5d7ZxX0jxV6vM47XLQ/9i87nXYBxFEkMEnxVyFdjZ6bhLs10/EoHrsVBAd6EdqmtDUGnPT+ZE5qVnkz6nNw8PNu2sa1q89uSRspOfpciYj9cTtv7mAIxY/rIbF5EwU+/3rYA4+/L/gZUMNr/1MVbymWXFYHnyUTmo4nSu7avDLZe+Eo=;ALqS0KAVJqTu9zOZuTpflQ=="
+secured: "fgzt7wg4CH4ejSv8Qvm3ld8DpzSgNo+cxRixh9IEwhrOhpVvG0DZC1dCBDsVk5mEU4ab497PHG0xnW7kebd8DkHZRPDE3TyGgxFmlREyd1NUbWYzZ+/7YZ7G6yuK15uQNYt/mbp+N3Ipq2i3km2xHVCH13N/nqh5txwqV68I80jx1IDrZbw2jx6dcLsD5quKwydxrnWsiSvXrJ0w5JamH3uxyLQhlQ/LOkUJFnDDld0pKJ2llz/pwAZhnmFkAyY9rqaSJt9Rq56MZZaEvtOjDwxmZQ4OL7taqHLxs7rGTvLp9EL7k+ME99C5RnXi/q/31rrT4bQNUFcc3uj1q/RUIe5+sXBLjllTJaixQro+sZyG3BbJmDU8wjBN3fhLqLbaFqoOC3pjMTzXceo0u7kc7/hFPWG0uxy7Jvxn/muL51nUnUXuRfLStUyvlBpU4ueSEdwAIBzIVa3JA3wQX+UV8n7I7G4TJu9DhHXKId/MBkm9v8IWHP008A+I2ZGRH3rSr/IILiVXH5ofr+HG+Bsbzg==;k1nlUCEryUMuu08pVng5wg=="
 ---
 

@@ -159,7 +159,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -488,15 +488,15 @@
       "title": "Deep Learning Model Helps Predict Neonatal Outcomes",
       "excerpt": "FRIDAY, Feb. 17, 2023 (HealthDay News) -- A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/health/deep-learning-model-helps-predict-neonatal-outcomes/article_68ef29c2-1fc5-5120-b1ea-daa5afe453e9.html",
-      "originalUrl": "https://www.wfmz.com/health/deep-learning-model-helps-predict-neonatal-outcomes/article_68ef29c2-1fc5-5120-b1ea-daa5afe453e9.html",
+      "webUrl": "https://omaha.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_f1458068-5469-5c56-a3f4-635ac2e505c2.html",
+      "originalUrl": "https://omaha.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_f1458068-5469-5c56-a3f4-635ac2e505c2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/87/b8731f41-823d-5b12-a6ff-886f72c4be40/63efc1579654f.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/b4/bb444ce3-4236-5f5a-9211-27c6b970387b/63efc485459b2.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
           "width": 600,
           "height": 315,
           "title": null,
@@ -508,11 +508,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T10:12:00-08:00",
+      "publishedDateTime": "2023-02-17T10:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Omaha.com",
+        "domain": "omaha.com",
         "images": null,
         "publishers": null,
         "authors": null

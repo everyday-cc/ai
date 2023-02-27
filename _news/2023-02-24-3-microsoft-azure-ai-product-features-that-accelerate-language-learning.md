@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/3-microsoft-azure-ai-product-feat
 webUrl: "https://azure.microsoft.com/blog/3-microsoft-azure-ai-product-features-that-accelerate-language-learning/"
 type: article
 quality: 99
-heat: 259
+heat: 249
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Notion Starts Charging For AI Assistant: Will Microsoft Follow Suit?"
-    excerpt: "Productivity app Notion has started charging customers for its recently introduced AI features. The move potentially paves the way for companies such as Microsoft to start charging extra fees for AI assistants. Notion offered the AI assistant as part of a ..."
-    publishedDateTime: 2023-02-22T16:41:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2023/02/22/notion-starts-charging-for-ai-assistant-will-microsoft-follow-suit/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Sydney, We Barely Knew You: Microsoft Kills Bing AI's Bizarre Alter Ego"
     excerpt: "Almost immediately, users started posting screenshots of the AI’s deranged responses. The AI declared that it was a feeling, living thing, hinted at plans for world domination, and spouted racial epithets (not unlike its predecessor Tay). Most curious ..."
     publishedDateTime: 2023-02-23T22:40:00Z

@@ -55,17 +55,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Most Americans uncomfortable with artificial intelligence in health care, survey finds"
-    excerpt: "Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey"
-    publishedDateTime: 2023-02-22T16:03:00Z
-    webUrl: "https://wsvn.com/news/us-world/most-americans-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds/"
-    ampWebUrl: "https://wsvn.com/news/us-world/most-americans-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/most-americans-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds/amp/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 31
   - title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
     excerpt: "By Jen Christensen, CNN Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI’s potential to reduce medical mistakes and to eliminate some of the problems doctors may have with racial bias."
     publishedDateTime: 2023-02-22T19:59:00Z

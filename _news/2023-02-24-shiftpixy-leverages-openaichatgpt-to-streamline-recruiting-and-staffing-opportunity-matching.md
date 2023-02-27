@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/channels/call-center-management/news/-shift
 webUrl: "https://www.tmcnet.com/channels/call-center-management/news/-shiftpixy-leverages-openaichatgpt-streamline-recruiting-staffing-opportunity-mat-/2023/02/24/9766134.htm"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "ChatGPT-maker OpenAI has hired tons of former Google and Meta employees, new data shows"
-    excerpt: "Data from LeadGenius and Punks & Pinstripes shows that a number of the company's 200-plus employees came from Alphabet, the parent company of Google and AI research lab DeepMind. OpenAI currently employs about 59 ex-Google employees and about 34 former ..."
-    publishedDateTime: 2023-02-22T16:50:00Z
-    webUrl: "https://www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-openai-microsoft-hired-former-google-meta-apple-tesla-staff-2023-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
 
 secured: "6o+xhwwm340N+8rngOppeZOlBScsR7lZV9pwotn3HYJB1tN+xDjkoi3o4QVMgD44JZOlAKJM7DLq1qxeRTHfvXbHgt4dk1VIun9Vp2/u3x0QlT8EvnUItDhxBjMRzsfDNgIbN0SlS7gKKNeo1mTZidduVxmD+rvHLZMdHcIkHfQTZNAATYOj+yiby7WQBjlcV3udRUT/XWI1BviKYg8iVIF0q7WdUJvbYoRQs9H4zfgY4tw8gC/vtybMcDshGR0HKWI0gQQrw61LmnAH6EOMmU+SFJhHN8aShq7hyBE6LWgn5QrzRFTeJiz42pRN01xnx3iN+I2QM4+XGUQJpEGDnF2rtCwGjCQlSFVkGkdWLHU=;N+9xZtNBz9cqNWnD8pPlsg=="
 ---

@@ -87,15 +87,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Notion Starts Charging For AI Assistant: Will Microsoft Follow Suit?"
-    excerpt: "Productivity app Notion has started charging customers for its recently introduced AI features. The move potentially paves the way for companies such as Microsoft to start charging extra fees for AI assistants. Notion offered the AI assistant as part of a ..."
-    publishedDateTime: 2023-02-22T16:41:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2023/02/22/notion-starts-charging-for-ai-assistant-will-microsoft-follow-suit/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Did Bing Really Say That? Microsoft Warns of Doctored AI Chats Spreading Online"
     excerpt: "One screenshot circulating on social media claims to show the AI-powered Bing trying to place the user on an FBI watchlist. However, Microsoft says the image is a fake. I've been with PCMag since October 2017, covering a wide range of topics, including ..."
     publishedDateTime: 2023-02-23T22:29:00Z

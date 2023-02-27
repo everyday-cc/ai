@@ -245,6 +245,20 @@ related:
         width: 1228
         height: 690
         isCached: true
+  - title: "China's first ChatGPT-like software to be made open source"
+    excerpt: "Named after the artificial intelligence featured in the Chinese Sci-fi movie The Wandering Earth II, MOSS became the first ChatGPT-like software unveiled in China when it was made available to the public for testing on Feb 21."
+    publishedDateTime: 2023-02-27T08:04:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202302/27/WS63fc640ea31057c47ebb114b.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202302/27/63fc66aba31057c4b4b5da42.jpeg"
+        width: 593
+        height: 395
+        isCached: true
   - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
     excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
     publishedDateTime: 2023-02-24T14:15:00Z

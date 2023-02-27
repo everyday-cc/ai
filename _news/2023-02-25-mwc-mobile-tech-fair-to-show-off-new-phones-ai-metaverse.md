@@ -1,22 +1,23 @@
 ---
 category: news
 title: "MWC mobile tech fair to show off new phones, AI, metaverse"
-excerpt: "The latest folding-screen smartphones, immersive metaverse experiences, AI-powered chatbot avatars and other eye-catching technology are set to wow visitors at the annual MWC wireless trade fair LONDON -- The latest folding-screen smartphones, immersive ..."
+excerpt: "The latest folding-screen smartphones, immersive metaverse experiences, AI-powered chatbot avatars and other eye-catching technology are set to wow visitors at the annual MWC wireless trade fair"
 publishedDateTime: 2023-02-25T14:01:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
-webUrl: "https://abcnews.go.com/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461862"
+originalUrl: "https://abcnews.go.com/Business/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461863"
+webUrl: "https://abcnews.go.com/Business/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461863"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461863"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461863"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: ABC News
+  name: ABC
   domain: abcnews.go.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -41,6 +42,6 @@ related:
         height: 680
         isCached: true
 
-secured: "bmO8uOVl3mtqJNCnxGO70e2JwHLj+Fs2glPSPg8q8f1ByYirH4zLoF5RJPAk1L1k35ergsvdAAsdNGwWEGwqTfzMuxVYuKuf+t5dOL0szq6lM3aeo6yDcJeH2gaRUjFyU5Hbje64s+QuhfsQOFh65k4j0WRJuCg0DgXVSoXSEohCRptbF7G1+RED6yY/qj+3usfusqPHNyIk1JOpDqzrhvCc+uF3m35H3OpMpMws+UDh0ZK3M0cHGMF5oq1rsOyssHkIS2EbGpYqeKGwhuLD6IuFx3VZ2hRRLHfn+2D8Tesc5Sh7l/NGlMv3yvZISEmn8zkXGHi46mbGMBqWHGfD3Y1yCptduBe6/T/Jdg7TWK0=;Y28JCrt86iOSdtxmFq3grw=="
+secured: "9WUungFw9TF/DInTvYyVc5yxxB7pMCLuxzKPWVV/4gsPWxa5WuCK+fdacbjGzNke/b2JGhpLs8ubtJBVXeq90vtp9tWiyyRoVMPkF8w5GA96VS3BN+ncf7U66Q5+20fsPPpLIoYSANtUAuLlZa+kk9bn+1kLamiDBg8se7FJn6Cf4JNPPKhrfGX8hmENjmyQI0SwhSIK6SGNSDCuLsVkpD53NP3PY0xFFYxI1bjOHViXRDYIbndNsfC+U3ncwy+iP9MIjgy3nf0yNSVGAFgD50RtPQ7Jc4HJ+NOxjdhrwC9wf1Fmg4dzAuhjg/xBN/JeUPVNlq6+DDOr02gD1zimQ2gV/0tuCm/7DBy73HJAN2c=;Rlt1xSzTUsawMmoOACpoIg=="
 ---
 

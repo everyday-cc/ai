@@ -93,21 +93,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning as a Service Market Report 2022: Demand for Cloud-Based Solutions Drives Growth"
-    excerpt: "OneSpan, in a Global Financial Regulations report observed ... and many cloud providers offered Machine Learning as a Service (MLaaS). Several countries used population surveillance methods ..."
-    publishedDateTime: 2023-02-22T15:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31008655/global-machine-learning-as-a-service-market-report-2022-demand-for-cloud-based-solutions-drives-gr"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31008655"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31008655"
+  - title: "Face Recognition Software Market (New Insights Report) By 2023 which is Booming Strong Growth in the Globe till 2029"
+    excerpt: "Face Recognition Software Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Information & Communication Technology] category in the industry, by Type ("
+    publishedDateTime: 2023-02-27T02:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-new-insights-report-by-2023-which-is-booming-strong-growth-in-the-globe-till-2029-2023-02-26"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How COVID-19 Impacting Natural Language Processing Market 2023 Globally by 2028?"
     excerpt: "“Global Natural Language Processing market size was valued at USD 13017.98 million in 2022 and is expected to expand at a CAGR of 18.27% during the forecast period, reaching USD 35630.81 million by 2028.”Ask for Sample Report GlobalNatural Language ..."
@@ -127,6 +125,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Collaboration Market Booming With Rising Demands and Massive Opportunities, 2023 - 2029"
+    excerpt: "Cognitive Collaboration Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Information & Communication Technology] category in the industry, by Type (,"
+    publishedDateTime: 2023-02-27T02:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-booming-with-rising-demands-and-massive-opportunities-2023---2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
