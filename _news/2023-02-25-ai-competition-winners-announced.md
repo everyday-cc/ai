@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Delivers Its Latest Innovation"
-    excerpt: "\"Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.\" -Ginni Rometty, Executive Chairman of IBM Artificial intelligence (AI ..."
-    publishedDateTime: 2023-02-22T12:00:00Z
-    webUrl: "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812"
-    ampWebUrl: "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1"
+  - title: "Blue Motor Finance Partners With Zinia for Implementation of Decision Intelligence AI Platform"
+    excerpt: "Press Release Fintech lender, Blue, has announced a new partnership with Zinia, the pioneering Decision Intelligence company, to supercharge AI driven decisions across the business.Blue is a technology-focused lender delivering innovative motor finance solutions"
+    publishedDateTime: 2023-02-24T02:24:00Z
+    webUrl: "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/"
+    ampWebUrl: "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 97
-    images:
-      - url: "https://d.newsweek.com/en/full/2198602/computer-code.jpg"
-        width: 2500
-        height: 1668
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
   - title: "Deci Launches New Version of Its Deep Learning Platform Supporting Generative AI Model Optimization"
     excerpt: "Deci, the deep learning company harnessing AI to build AI, today released a new version of its deep learning platform,"
     publishedDateTime: 2023-02-22T19:53:00Z

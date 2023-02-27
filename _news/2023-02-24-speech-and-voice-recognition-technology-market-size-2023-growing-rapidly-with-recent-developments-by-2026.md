@@ -43,15 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Smiths Detection launches automatic object recognition software"
-    excerpt: "Threat detection and security screening technology provider Smiths Detection has launched an automated detection algorithm, named iCMore Prohibited Items. The solution uses artificial intelligence-based algorithms to automatically detect items determined to be a security risk at airport checkpoints,"
-    publishedDateTime: 2023-02-22T12:10:00Z
-    webUrl: "https://www.passengerterminaltoday.com/news/security/smiths-detection-launches-automatic-object-recognition-software.html"
+  - title: "The Role of Computer Vision Software Market 2023: Business Developments and Strategies by 2029"
+    excerpt: "New 115 Pages Report] A Recently published “Computer Vision Software Market” Size (2023) research report offers"
+    publishedDateTime: 2023-02-26T11:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-role-of-computer-vision-software-market-2023-business-developments-and-strategies-by-2029-2023-02-26"
     type: article
     provider:
-      name: Passenger Terminal
-      domain: passengerterminaltoday.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Object Recognition Imaging Systems Market Survey Predicts Strong Growth through 2029 with Top Growing Regions"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-26T10:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-survey-predicts-strong-growth-through-2029-with-top-growing-regions-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Latest Deep Learning Software Market 2023-2029: Thinking From The Worldwide Experts | New Comprehensive Research Study by 107 Pages"
     excerpt: "Deep Learning Software Market“ | New Research Visions Report 2023 with Page of no. (107), By Applications [Large Enterprises, SMEs] , By Types [Artificial Neural Network Software, Image Recognition Software,"
     publishedDateTime: 2023-02-23T03:34:00Z

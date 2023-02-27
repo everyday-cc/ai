@@ -169,22 +169,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 61
-  - title: "Baidu to implement ChatGPT-like Ernie Bot chatbot from March"
-    excerpt: "Baidu, which is known for its search engine and autonomous driving technology, leads China's efforts to create an equivalent of OpenAI’s ChatGPT chatbot. It said earlier this month that it will ..."
-    publishedDateTime: 2023-02-22T11:51:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/baidu-implement-chatgpt-ernie-bot-chatbot-march-97379433"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/baidu-implement-chatgpt-ernie-bot-chatbot-march-97379433"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/baidu-implement-chatgpt-ernie-bot-chatbot-march-97379433"
-    type: article
-    provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_427838070f962108cabed1e553fc3d12_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Report - ChatGPT and generative AI demand a smarter approach to EU regulation"
     excerpt: "Grist to the mill, perhaps. With Qualcomm’s AI Research division successfully deploying foundational image model Stable Diffusion on an Android phone this week – 15 seconds for 20 inference steps – such tools are likely to become a generation’s ..."
     publishedDateTime: 2023-02-24T11:20:00Z
@@ -210,6 +194,22 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 47
+  - title: "How ChatGPT mangled the language of heaven"
+    excerpt: "Letter: Asked to generate a story from an English translation of a letter in Welsh published in the Guardian, the AI chatbot came up with a lot of twaddle, reports Fiona Collins"
+    publishedDateTime: 2023-02-26T18:25:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/feb/26/how-chatgpt-mangled-the-language-of-heaven?amp;amp;amp"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/26/how-chatgpt-mangled-the-language-of-heaven"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/26/how-chatgpt-mangled-the-language-of-heaven"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/80c9106ccd715fc7291a97859d7e6f8d264c9b99/0_191_5827_3496/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=816193f1a966b2f848ab2c0e60e0c1fc"
+        width: 620
+        height: 372
+        isCached: true
   - title: "China's Baidu Says 2022 Revenue Fell 1%, Flags 'Ernie' Chatbot"
     excerpt: "Chinese search giant Baidu reported Wednesday that revenue fell by one percent in 2022 but also said it will include its artificial intelligence chatbot Ernie in its search services from March."
     publishedDateTime: 2023-02-22T14:25:00Z

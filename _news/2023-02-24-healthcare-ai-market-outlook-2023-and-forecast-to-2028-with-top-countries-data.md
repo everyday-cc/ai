@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-out
 webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-23"
 type: article
 quality: 82
-heat: 332
+heat: 342
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence-as-a-Service (AIaaS) Market Is the FASTEST-RISING Industry from 2023 to 2029"
+    excerpt: "Feb (The Expresswire) -- \"Artificial Intelligence-as-a-Service (AIaaS) Market\" Research Insights Report 2023 | TOP 3 KEY PLAYERS in"
+    publishedDateTime: 2023-02-26T16:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-aiaas-market-is-the-fastest-rising-industry-from-2023-to-2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

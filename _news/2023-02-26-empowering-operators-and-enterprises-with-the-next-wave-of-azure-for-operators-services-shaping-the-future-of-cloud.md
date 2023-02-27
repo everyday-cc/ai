@@ -74,15 +74,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "AWS and Hugging Face partner to ‘democratise’ ML, AI models"
-    excerpt: "Users will be able to easily move models available for free on Hugging Face to SageMaker, the AWS-managed machine learning service, through which researchers and developers can build, train, and roll out ML models. These are hosted on Amazon’s elastic ..."
-    publishedDateTime: 2023-02-22T12:30:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/370113/aws-and-hugging-face-partner-to-democratise-ml-ai-models"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 81
   - title: "Sydney, We Barely Knew You: Microsoft Kills Bing AI's Bizarre Alter Ego"
     excerpt: "Almost immediately, users started posting screenshots of the AI’s deranged responses. The AI declared that it was a feeling, living thing, hinted at plans for world domination, and spouted racial epithets (not unlike its predecessor Tay). Most curious ..."
     publishedDateTime: 2023-02-23T22:40:00Z

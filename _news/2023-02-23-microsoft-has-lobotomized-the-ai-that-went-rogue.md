@@ -71,15 +71,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "AWS and Hugging Face partner to ‘democratise’ ML, AI models"
-    excerpt: "Users will be able to easily move models available for free on Hugging Face to SageMaker, the AWS-managed machine learning service, through which researchers and developers can build, train, and roll out ML models. These are hosted on Amazon’s elastic ..."
-    publishedDateTime: 2023-02-22T12:30:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/370113/aws-and-hugging-face-partner-to-democratise-ml-ai-models"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 81
   - title: "Empowering operators and enterprises with the next wave of Azure for Operators services shaping the future of cloud"
     excerpt: "At Microsoft, our aim is to be the most trusted co-innovation partner through every stage of the digital evolution, committed to working with communications service providers (CSPs), enterprises, developers, and ISVs alike on the future of a ubiquitous cloud that unlocks the true potential of modern"
     publishedDateTime: 2023-02-26T15:00:11Z
