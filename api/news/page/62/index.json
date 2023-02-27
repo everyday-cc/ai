@@ -2,6 +2,58 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-01-10-neural-network-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2028.md",
+      "title": "Neural Network Market : Overview With the Best Scope, Trends, Benefits, Opportunities to 2028",
+      "excerpt": "Pages Report] Rising demand for Medical Care Industry will drive the Neural Network segment growth over the next five years. Global Market Analysis for Neural Network Market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2028-2023-01-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2028-2023-01-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T00:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-achieving-greater-accuracy-in-real-time-vision-processing-with-transformers.md",
       "title": "Achieving Greater Accuracy In Real-Time Vision Processing With Transformers",
       "excerpt": "Transformers, first proposed in a Google research paper in 2017, were initially designed for natural language processing (NLP) tasks. Recently, researchers applied transformers to vision applications and got interesting results.",
@@ -1106,49 +1158,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-natural-language-processing-guiding-the-way-for-retail-cx.md",
-      "title": "Natural Language Processing: Guiding the Way for Retail CX",
-      "excerpt": "Leaps and bounds ahead of its predecessors, AI equipped with natural language processing (NLP) is capable of understanding language (hundreds of them) in a way that’s almost human — except it’s not learning language like you or I.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mytotalretail.com/article/natural-language-processing-guiding-the-way-for-retail-cx/",
-      "originalUrl": "https://www.mytotalretail.com/article/natural-language-processing-guiding-the-way-for-retail-cx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/01/GettyImages-1200738163.jpg&w=750&h=340",
-          "width": 750,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Total Retail",
-        "domain": "mytotalretail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

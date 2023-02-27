@@ -2,6 +2,85 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-18-kfintech-drives-digital-transformation-in-financial-services-industry-with-aws.md",
+      "title": "KFintech drives digital transformation in financial services industry with AWS",
+      "excerpt": "KFin Technologies Limited (KFintech), a technology-driven financial services ... an exchange filing. The services include interactive dashboards that use AWS machine learning to automatically ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
+      "originalUrl": "https://www.freepressjournal.in/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2023-01/fda45f49-3fb5-4804-9d79-6cdef98dd1e5/271811522_467231791450465_3483139141691130993_n.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/kfintech-drives-digital-transformation-in-financial-services-industry-with-aws",
+      "publishedDateTime": "2023-01-17T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-18-kfintech-drives-digital-transformation-and-innovation-in-the-financial-services-industry-with-aws.md",
+      "title": "KFintech Drives Digital Transformation and Innovation in the Financial Services Industry with AWS",
+      "excerpt": "Leveraging the depth and breadth of AWS capabilities, KFintech helps their clients digitally transform, providing the best business, program, and portfolio strategies to build the next generation of solutions in the capital market.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302007&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1302007&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-reimagining-fintech-banking-as-a-service-embedded-finance-can-unlock-new-value-chains.md",
       "title": "Reimagining fintech : Banking-as-a-service, embedded finance can unlock new value chains",
       "excerpt": "At a macro level, the banking and financial services industry are in the midst of a technology-led transformation phase.",
@@ -1282,92 +1361,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-shufti-pro-makes-it-to-the-ultimate-fintech-awards-mea-2023.md",
-      "title": "Shufti Pro Makes It To The Ultimate Fintech Awards MEA 2023",
-      "excerpt": "Shufti Pro, the leading provider of AI-powered end-to-end identity verification, eKYC, KYT, and AML solutions, has been nominated at the “Ultimate Fintech Awards MEA 2023” under the categories ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/shufti-pro-makes-it-to-the-ultimate-fintech-awards-mea-2023",
-      "originalUrl": "https://www.digitaljournal.com/pr/shufti-pro-makes-it-to-the-ultimate-fintech-awards-mea-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/11/Aston-Martin-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T03:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-fintech-industry-must-transform-to-help-underserved-communities.md",
-      "title": "Fintech Industry Must Transform to Help Underserved Communities",
-      "excerpt": "Rapid growth of non-bank financial services requires careful regulation to balance competition with access, transparency, and privacy protection. Morgan Lewis’s Robin Nunn considers alternative credit options that can mean the difference between financial well-being and hardship.",
-      "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/us-law-week/fintech-industry-must-transform-to-help-underserved-communities",
-      "originalUrl": "https://news.bloomberglaw.com/us-law-week/fintech-industry-must-transform-to-help-underserved-communities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/3fe7ac7/2147483647/legacy_thumbnail/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F4d%2F35%2F7ff188e042e9a60d7f304cd7c604%2Flaw-insights-outlook-v1.png",
-          "width": 960,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.bloomberglaw",
-        "domain": "bloomberglaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

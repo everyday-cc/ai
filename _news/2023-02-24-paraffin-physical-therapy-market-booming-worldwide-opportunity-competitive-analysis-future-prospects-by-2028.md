@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automated Machine Learning (AutoML) Market Analysis Report 2023 Along with Statistics Figures, till 2029"
+    excerpt: "The report focuses on the Automated Machine Learning (AutoML) market size, segment size (mainly covering product type, application, and geography), competitor landscape, recent status, and development trends."
+    publishedDateTime: 2023-02-27T04:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Statistical Natural Language Processing Market Is Booming Globally Forecast 2023-2029"
     excerpt: "Statistical Natural Language Processing Market 2023 with 113 Pages Report and enhance with extents shares into"
     publishedDateTime: 2023-02-26T23:37:00Z
@@ -187,6 +201,15 @@ related:
       name: Eos
       domain: eos.org
     quality: 19
+  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
+    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2023-02-27T12:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "9OrzSaDTwOgRbS3qADq5x0gZFUFZd3DbODjbOSvVGBZJZkUAwPJcV6jwAMsr9HCz/HNCzIdwZKy3f4b5F+3C+5nvRc9xzxzhTPQYEORBwnmQoM5fXIFS3UzMnM+z4XdLdCzLabBN5pBT6MaDn4gyNPsRklBmFxX+MMEfKN5T0Q+wXItpWXNG+qfVSwgBvjhS5w7LT6hCu7bscAYunHT/Dc+M0Go0obnZLYENl2n/HG57jASL2drhhmsjr7FQcIzoNroy21b7tmX36nRmlRaZm04L9xtU7DAbWeqYkAEBJFkeiT4ychtc1TfEn86V/ABzzcPeU1xv5uNAnhcAU0o66fqSFejPOsLg0g6rbaIzKrY=;m3RgZqGVuid/QyeRuynENw=="
 ---

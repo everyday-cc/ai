@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Generative AI's money game"
+    excerpt: "The generative AI revolution will be monetized, but nobody can yet say exactly how. The big picture: It seems logical that if AI can conduct conversations and produce images, companies will figure out how to use it to build revenue and profits — but there's no guarantee,"
+    publishedDateTime: 2023-02-27T10:30:00Z
+    webUrl: "https://www.axios.com/2023/02/27/chatgpt-generative-ai-money-business-models"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/4qnhkuDT2tSK5ZwlaYSu68HwJTk=/1366x768/smart/2023/02/26/1677429474220.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "5LfkD23xd1h8PNTOyDM0Jh+Y+hjKBUa60Vhqe4cg/4JCt/id1gMG4I+NUG+SNUUQLcjYvtWeA9VddlqYAHYLVabHKufOYy5ggRshsnTYxsrTYDvBeMVxWPLIXEh0BRBH3EujU4qUYOEKmVfIJ6yuohzHPyl7XkVbyisL5CncLDj5StEXeCD9nX1nPEdB4LVxQ7GQseJdlFYuOSWcYpN0LVBsCPn7HOQZmO2DIPvBWmRMjxHxesZhnwW/W8cwbz6iqVL27gLue3FVu0LLRNJ3zcyVKlbd5gXbuUwZqfXgg1mY5Sftv10f1zCN4FuRMgLFsIkXBcplYHqaqRp18VaB5sm2Bj9W4Ry2MNzTWnG62dY=;S/v+yYSlBqTG5US7dfLtPA=="
 ---

@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Future Of Data And AI In The Financial Services Industry"
+    excerpt: "The financial services industry is undergoing a major transformation driven by the latest trends in data and AI."
+    publishedDateTime: 2023-02-27T11:47:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Leading In The AI-Powered World"
     excerpt: "According to a report, the global AI market share was $119.78 billion USD in 2022. By 2030, it is expected to hit $1,597.1 billion USD, registering an impressive CAGR of 38.1%. From industries like healthcare, technology, manufacturing, fintech ..."
     publishedDateTime: 2023-02-24T12:45:00Z
@@ -47,6 +63,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "The untapped potential of AI in financial services"
+    excerpt: "The rapid advancement of artificial intelligence (AI) technologies has transformed business operations across the globe. From customer service chatbots to adaptive cyber-security, the applications of AI are limitless."
+    publishedDateTime: 2023-02-27T11:12:00Z
+    webUrl: "https://www.business-reporter.co.uk/finance/the-untapped-potential-of-ai-in-financial-services"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/024/iStock-1312400050_-_Amount_3.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "W8A0IshlBWIBGUxKPZlqel+Un8wtYBnEALcWH7vhgQJ5z+gW7mYxwH04XXPsPfaxKddKTNe/xx/IgsSKDoOq11OBhdLyDmV6qEs3s2v1q8No5ryY+DnWh19OeCJvRq7ohpexyBSMne4hiVnps0+YGiqkid4nA3xmx+2Y5Ta4Zjr3Gq6U0qHh3cJtyzyUM4Oejdrp8pm7YpY8sglxozsT3VmTFcjakr1gXcb/27t1qpgdSwSGUtDsoS3k8RSD+pmYvVc7z96d8892wbkjH/1FuIuVfO74k34D+6zAqerYSnbbrmeoBt+UvNQ/BbLBZ0Vb5Xa68pKNN79Q/TLSbMtFni4Yn72s8ShkcfRWCQ77cNT3Fr0X7jgkB+cotl/q0qXRbn2Vvf1FHfd+H8C6vrgNnDbBj4yyWAfxLgWdbe323+yS+fBsg9xXSXqyMOWhWtro5TyHS8V/m7s98b2qRknHyVCWTylgH4e21EoexKUEJmWwgbXpQK5K3fTsGCCYAByMIhEC6I7ArS+C5ANBvY4hFw==;MRvdHUhkxuRafjqV38SbTA=="
 ---

@@ -63,20 +63,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
-    excerpt: "By Jen Christensen, CNN Most Americans feel “significant discomfort” about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI’s potential to reduce medical mistakes and to eliminate some of the problems doctors may have with racial bias."
-    publishedDateTime: 2023-02-22T19:59:00Z
-    webUrl: "https://localnews8.com/news/2023/02/22/most-americans-are-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 29
-    images:
-      - url: "https://localnews8.b-cdn.net/2023/02/hypatia-h_c4eb4551c0b29cb6edf582a62d81b330-h_117aebfa8535c7c39995830a035645b7-300.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "Hz1j8W/oXj1rAj9ZXcxSoFw3C1MoTTllFWhG9yvuvNlSWQVV+kTfEWBQsHtF18GUcBnzNH+YOVZjEzgUkkUQ4GakfZnnxRJ+LDPb36ewGLkHDPIMCy54nvLzurS3gZTwkER/+INuhk0gxRsVP/CTTgKeiTMkVgBGT4Z2iT+Lqf2TdE2dOt6sTK9ARApzn3lINkJFG04uISI3LR0SW47eGr3nK6WO63iwV4GuBMZsIFr8h33I7xdC9Gz/vyLErozXLEUB05SYWHxt0zg+REod9SioepWNXAeC2u2TLxYvy9izrHfHX0UqSkpgRgKNzq3xrkqsGKfsIGdv+Uc5s5KD6tXKNwm2mjOnW5tiQk26ovg=;O2qWlSr0yHijIKXVmhnVMg=="
 ---

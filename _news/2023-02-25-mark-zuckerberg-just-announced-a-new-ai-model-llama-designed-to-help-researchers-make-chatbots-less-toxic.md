@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Meta Launches Its AI The ‘LLaMA’ ; Mark Zuckerberg Has Finally Something Better Than The Metaverse"
+    excerpt: "Amid a flurry of generative AI cluttering the interwebs, now Facebook’s parent Meta has dangled its ChatGPT rival carrot. Dubbed the Large Language Meta AI or LLaMA, the AI is positioned as a game changer by Meta."
+    publishedDateTime: 2023-02-27T11:11:00Z
+    webUrl: "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse"
+    ampWebUrl: "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 75
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/q-11_t5k7.620.jpg"
+        width: 619
+        height: 374
+        isCached: true
   - title: "Mark Zuckerberg announces Meta's new large language model as A.I. race heats up"
     excerpt: "Large language models underpin applications such as OpenAI's ChatGPT, Microsoft Bing AI, and Google 's unreleased Bard ... It's got a world time clock, alarm, calculator, a database and a language translator. It also has a word processor, a spellchecker ..."
     publishedDateTime: 2023-02-24T15:44:00Z
@@ -41,49 +57,21 @@ related:
         width: 5353
         height: 4124
         isCached: true
-  - title: "Meta heats up Big Tech's AI arms race with new language model"
-    excerpt: "REUTERS/Dado Ruvic/Illustration/File Photo Feb 24 (Reuters) - Meta Platforms Inc (META.O) said on Friday it was releasing to researchers a new large language model, the core software of a new artificial intelligence system, heating up an AI arms race as ..."
-    publishedDateTime: 2023-02-25T00:17:00Z
-    webUrl: "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/"
+  - title: "MWC mobile tech fair to show off new phones, AI, metaverse"
+    excerpt: "The latest folding-screen smartphones, immersive metaverse experiences, AI-powered chatbot avatars and other eye-catching technology are set to wow visitors at the annual MWC wireless trade fair"
+    publishedDateTime: 2023-02-25T14:01:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461863"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461863"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461863"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/fJBJrVyXjYaAylhHFyAuMY-sz8Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SC4LDVC3ZMXJIUUQDZRBHPHU4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Meta announces new AI language model"
-    excerpt: "Feb. 24 (UPI) --Meta CEO Mark Zuckerberg announced Friday that the company was releasing a new AI language generator named LLaMA. The new language model is a research tool that is intended to help scientists and engineers explore applications for AI like ..."
-    publishedDateTime: 2023-02-24T19:14:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/02/24/Meta-AI-Chat-GPT-Bing-Google-Mark-Zuckerber/6381677267118/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/02/24/Meta-AI-Chat-GPT-Bing-Google-Mark-Zuckerber/6381677267118/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/02/24/Meta-AI-Chat-GPT-Bing-Google-Mark-Zuckerber/6381677267118/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 57
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6381677267118/2023/1/1696bd9d3de6be4a6ca08ac770e4d116/v1.5/Meta-announces-new-AI-language-model.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Meta reveals LLaMA language model as AI wars heat up"
-    excerpt: "Meet LLaMA, Meta’s large language model On Facebook’s AI blog, Meta describes LLaMA as a “foundational ... “Even with all the recent advancements in large language models, full research access to them remains limited because of the resources ..."
-    publishedDateTime: 2023-02-24T18:50:00Z
-    webUrl: "https://bgr.com/tech/meta-reveals-llama-language-model-as-ai-wars-heat-up/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/Meta-Sign.jpg?quality=82&strip=all"
-        width: 2584
-        height: 1672
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
 
 secured: "Ufzjy6IETpLme++PiOL/etSqW3DMy7nOGVx77b+qsbTrRi8JWKobBGN3b+xt4IGlHFnf2YsLfoDdtbzN/0ZTonKw/JBs7iyIJvZ4YEskGBhLk5EFoeHHsyi5g+vcLahZalGGJf3Ia7XrEfSDHdj8oeCDMz3peWMi+KeQpNuBlQIPBGo9bFyKHi3RRI0aUERr20mm1VoKKMiZeDz1sPjpRx7qnuT63qzdC61YurkIjELh7Imvl/0ff7uT9ySvqaRRE4EdQsrk2uPrcmKXJGAfSdIC8hMutCHh7xa84qyjM5HhmQiLd3/2bVAWDovgAVKbY+fj9Ij36mQbO8qJhetoTg137VA07qTOv7Jiw8mdu+1akQNpcLT4cUkBdYoBGNpxcK9fxBs57i2/EiS5zhD92S95p/XpmukeUXvCwUtIbgM/XUQOQdYBr/tzWFtt+RBAmSfY/DMF70razQINZm3awKdRmIdUA1AD1nVN+uXCVAqMYSTgfIc7awgIVRhO6JGWyNQI30f7zJXLTMUr0/Lg3w==;2/Ihv3IBXxAjZwOeB+h39w=="

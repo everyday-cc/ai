@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 637
         isCached: true
+  - title: "NVIDIA CEO Teases AI Breakthroughs Ahead of GTC 2023"
+    excerpt: "NVIDIA GTC – a conference for AI and the metaverse – will explore breakthroughs in AI, accelerated computing, and beyond. The event will take place between March 20-23 this year."
+    publishedDateTime: 2023-02-27T12:21:00Z
+    webUrl: "https://analyticsindiamag.com/nvidia-ceo-teases-ai-breakthroughs-ahead-of-gtc-2023/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/03/NVIDIA-GTC-2021-What-We-Predicted-Vs-What-Actually-Happened.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia To Build DGX Complexes In Clouds To Better Capitalize On Generative AI"
     excerpt: "The details on the DGX Cloud are a bit thin – Huang will provide more insight at the spring GPU Technical Conference 2023 next month – but we did geta bit of a teaser. “To help put AI within reach of every enterprise customer, we are partnering with ..."
     publishedDateTime: 2023-02-23T02:50:00Z

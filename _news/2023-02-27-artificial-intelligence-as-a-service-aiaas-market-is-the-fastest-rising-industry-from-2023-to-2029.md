@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Machine Learning Market Size, Share, Outlook and Forecast to 2028"
+    excerpt: "The report titled Artificial Intelligence in Machine Learning Market which was recently added by 360 Research Reports, aims at providing the clients with the business growth and investment opportunities present in the market globally."
+    publishedDateTime: 2023-02-27T00:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-machine-learning-market-size-share-outlook-and-forecast-to-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data and AI Ethics Market In 2023 : Volume, Analysis, Future Prediction, Overview and Forecast 2028"
     excerpt: "Feb 23, 2023 (The Expresswire) -- \"Data and AI Ethics Market\" Report provides a Detailed analysis of global market size, regional and country-level"
     publishedDateTime: 2023-02-23T22:31:00Z
@@ -163,6 +177,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Door Lock Market Geographical Segmentation By Forecast Revenue 2023-2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Facial Recognition Door Lock Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029. The global"
+    publishedDateTime: 2023-02-26T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

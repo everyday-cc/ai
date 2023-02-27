@@ -32,6 +32,20 @@ related:
       name: Fox 5 NY
       domain: fox5ny.com
     quality: 39
+  - title: "‘Cowardly’ James Dolan ripped for skipping NYC Council hearing on MSG’s controversial facial recognition tech"
+    excerpt: "Madison Square Garden boss James Dolan is fine with using facial recognition technology to ban his perceived enemies from the venue — but he refused to show face at a City Council hearing Friday ..."
+    publishedDateTime: 2023-02-24T17:29:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/new-york-elections-government/ny-james-dolan-skips-nyc-council-hearing-on-facial-recognition-tech-20230224-xxoznaocnnafxl6pyrfejzt4ia-story.html"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 20
+    images:
+      - url: "https://www.nydailynews.com/resizer/TjS1u0jij4cHcyZIPemp_RNSElE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/O27XDR4MFNFQBMXD4HRLPTPG3U.JPG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial recognition technology at Madison Square Garden and other venues scrutinized by New York City Council"
     excerpt: "New York City has laws requiring businesses to inform customers when facial recognition technology is in use, but some lawmakers may want to take it further."
     publishedDateTime: 2023-02-24T16:50:00Z

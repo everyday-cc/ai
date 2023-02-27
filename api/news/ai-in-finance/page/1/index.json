@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -95,6 +95,59 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-amazon-web-services-pairs-with-hugging-face-to-target-ai-developers.md",
+      "title": "Amazon Web Services pairs with Hugging Face to target AI developers",
+      "excerpt": "The logo for Amazon Web Services (AWS) is seen at the SIBOS banking and financial ... Swami Sivasubramanian, vice president of database, analytics and machine learning at AWS, said he believes technologies like Trainium can help developers save money ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/amazon-web-services-pairs-with-hugging-face-target-ai-developers-2023-02-21/",
+      "originalUrl": "https://www.reuters.com/technology/amazon-web-services-pairs-with-hugging-face-target-ai-developers-2023-02-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/N8oH5-YytfIMlpB4TZfnbaWyL0M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KMPAA4VKZJKEBEQQG3QVAB4P4E.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -235,6 +288,61 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost.md",
+      "title": "Federated learning at the edge may out-compete the cloud on privacy, speed and cost",
+      "excerpt": "How federated learning at the edge can improve latency, reduce network calls, drive efficiency, improve model accuracy and promote privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/",
+      "originalUrl": "https://venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/edge-e1661803536445.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/amp/",
+      "publishedDateTime": "2023-02-16T21:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
@@ -1283,83 +1391,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-what-it-takes-to-build-a-disruptive-fintech-company-in-2023.md",
-      "title": "What It Takes To Build A Disruptive Fintech Company In 2023",
-      "excerpt": "The Fintech industry is one of the fastest growing sectors for businesses, but breaking into it isn't without challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jaimecatmull/2023/02/06/what-it-takes-to-build-a-disruptive-fintech-company-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/jaimecatmull/2023/02/06/what-it-takes-to-build-a-disruptive-fintech-company-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect.md",
-      "title": "UAB joins e&enterprise fintech blockchain platform UAE Trade Connect",
-      "excerpt": "UAB collaborates with the UAE Trade Connect platform to detect fraud and suspicious activities in the trade financing space",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/uab-joins-e-and-enterprise-fintech-blockchain-platform-uae-trade-connect-cuz6iguc?amp=1",
-      "publishedDateTime": "2023-02-06T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

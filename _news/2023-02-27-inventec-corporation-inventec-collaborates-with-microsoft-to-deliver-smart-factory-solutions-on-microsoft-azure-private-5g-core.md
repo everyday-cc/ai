@@ -56,6 +56,22 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Microsoft Pushes AI-Powered Tools for Telecoms. It’s Targeting Amazon."
+    excerpt: "The company's new cloud platform for telecoms companies, named Azure Operator Nexus, has already been provided to AT&T."
+    publishedDateTime: 2023-02-27T09:24:00Z
+    webUrl: "https://www.barrons.com/articles/microsoft-amazon-ai-telecoms-stock-c07bdbdb"
+    ampWebUrl: "https://www.barrons.com/amp/articles/microsoft-amazon-ai-telecoms-stock-c07bdbdb"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/microsoft-amazon-ai-telecoms-stock-c07bdbdb"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-532523/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Microsoft introduces next-gen hybrid cloud platform 'Azure Operator Nexus'"
     excerpt: "It believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership"
     publishedDateTime: 2023-02-27T06:01:00Z
@@ -105,20 +121,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-98270586,imgsize-112440,width-1200,height-628,overlay-ettelecom/microsoft-introduces-next-generation-hybrid-cloud-platform.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Microsoft Has Lobotomized the AI That Went Rogue"
-    excerpt: "Should We Worry About AI Reaching Singularity ... may need to add a tool so you can more easily refresh the context or start from scratch,” an earlier Microsoft blog post, referenced in Friday ..."
-    publishedDateTime: 2023-02-22T20:12:00Z
-    webUrl: "https://www.popularmechanics.com/technology/robots/a43017405/microsoft-bing-ai-chatbot-problems/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 56
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod/images/face-recognition-analyzing-on-womans-face-over-royalty-free-image-1677093440.jpg?crop=1.00xw:0.755xh;0,0.108xh&resize=1200:*"
-        width: 1200
-        height: 604
         isCached: true
   - title: "How to Power Intelligent Enterprises with SAP on Microsoft Cloud"
     excerpt: "Microsoft’s Dara Ibrahim, Co-op UK’s Simon Fullalove, and TCS’ Chandrashekar Saligram explore how Microsoft, TCS, and SAP collaborate to power future-ready enterprises."

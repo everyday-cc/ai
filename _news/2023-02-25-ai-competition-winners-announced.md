@@ -36,15 +36,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 72
-  - title: "Deci Launches New Version of Its Deep Learning Platform Supporting Generative AI Model Optimization"
-    excerpt: "Deci, the deep learning company harnessing AI to build AI, today released a new version of its deep learning platform,"
-    publishedDateTime: 2023-02-22T19:53:00Z
-    webUrl: "https://www.datanami.com/this-just-in/deci-launches-new-version-of-its-deep-learning-platform-supporting-generative-ai-model-optimization/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 20
 
 secured: "hFvGzh6Z/TeXbyDCydKSoF02nJ/ub+/lASckDQHpaVbUCO4v+VeIZYfP9F26Z6tM/HVyA1Dr/XfYuJx522Kt33XckSTWttztQ/XytNKCuC4lxlTmo7CzbN4Sz9hXzkriewBDcV5ALC2tXij/EbhteFTwFbbsA7uCWiHpe1F8KodTwXdA8XFbVR541bZWWaekWPSpb2W9iv723sqHvriXDlXKDS8ZKZDZ/LAR4AMTxawj/5O9T1s1NpUeQplfjs4OwFXi18DmmMpIqvvv51O7v5y/fcZ6Kq0biwSHQRbRrk5VG/e2KrCS740LuAcv5kLsVfGOu2Y8H+KOMBoK2evc+bUKxLROmYV/GihU3+yJv5UhUw5G5CJezkWKY9E9LXDgyMrPp7db/jlHn+dbgg3VN/idgBVJzn9Hp/x57PgPqI10vXA5QJuI/P/ATYldzvaPa6zZWoaJW6IxxhQzAlbw89O99NaWX6ZxWV8V32ClMPgRhiNLgI8yUzvQgeeTRccz0zta8eO+9eulpo4bgl237w==;svvEla2rPBL13q/8xhFBXg=="
 ---

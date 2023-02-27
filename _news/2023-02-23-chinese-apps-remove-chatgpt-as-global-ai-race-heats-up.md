@@ -54,17 +54,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Generative AI Tools Like ChatGPT and Dall-E Aren't Going Away. Here's Why"
-    excerpt: "These are machine learning systems that process terabytes' worth of data, often just scraped directly from the internet, making note of patterns and associations within the dataset, which is called training data. In the case of ChatGPT, text data sets are ..."
-    publishedDateTime: 2023-02-22T19:20:00Z
-    webUrl: "https://www.cnet.com/science/generative-ai-tools-like-chatgpt-and-dall-e-arent-going-away-heres-why/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-arent-going-away-heres-why/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-arent-going-away-heres-why/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 68
   - title: "Gary Vaynerchuk compares the rise of AI like ChatGPT to the way the internet revolutionized work: 'AI is coming for our jobs and that's ok'"
     excerpt: "Vaynerchuk, an early investor in companies like Facebook and Uber ... many workers are finding that they can use AI tools to enhance their productivity at work: it's useful for research, analyzing large amounts of data, and scheduling tasks, for instance."
     publishedDateTime: 2023-02-24T15:42:00Z

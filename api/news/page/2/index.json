@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-25-these-ai-generated-images-of-climate-change-make-me-uncomfortable.md",
+      "title": "These AI-Generated Images of Climate Change Make Me Uncomfortable",
+      "excerpt": "We may earn a commission from links on this page. It’s getting harder to avoid AI-generated images and text—and harder to spot them in the first place—and that’s true even on Shutterstock, one of the world’s leading providers of stock photography.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-generated-stock-images-of-climate-change-1850155713",
+      "originalUrl": "https://gizmodo.com/ai-generated-stock-images-of-climate-change-1850155713",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ca8c497bfb955c38763c9699a57deec9.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-24T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-ai-stocks-are-soaring-but-americans-arent-that-interested-in-ai.md",
       "title": "AI Stocks Are Soaring… But Americans Aren’t That Interested in AI",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Den Rise Far before February sparked the current",
@@ -10,7 +61,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-stocks-are-soaring-but-americans-arent-that-interested-in-ai-1032124725",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -247,58 +298,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-24-mark-zuckerberg-announces-metas-new-large-language-model-as-ai-race-heats-up.md",
-      "title": "Mark Zuckerberg announces Meta's new large language model as A.I. race heats up",
-      "excerpt": "Large language models underpin applications such as OpenAI's ChatGPT, Microsoft Bing AI, and Google 's unreleased Bard ... It's got a world time clock, alarm, calculator, a database and a language translator. It also has a word processor, a spellchecker ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107131933-1665418142088-gettyimages-1327685522-kd1_0333_20210708121128478.jpeg?v=1677260690",
-          "width": 5353,
-          "height": 4124,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html",
-      "publishedDateTime": "2023-02-24T07:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-24-meta-to-launch-ai-language-model-llama.md",
       "title": "Meta to launch AI language model LLaMA",
       "excerpt": "REUTERS/Dado Ruvic/Illustration/File Photo Feb 24 (Reuters) - Meta Platforms Inc (META.O) said on Friday it will release a new AI large language model called LLaMA designed to generate text, conversations and summarize written material.",
@@ -307,7 +306,7 @@
       "originalUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -410,7 +409,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -955,7 +954,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1101,7 +1100,7 @@
       "originalUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1144,7 +1143,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 230,
       "tags": null,
       "images": [
         {

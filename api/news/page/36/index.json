@@ -2,6 +2,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-02-01-humanoid-robots-to-take-centre-stage-at-un-meet-on-ai.md",
+      "title": "Humanoid robots to take centre stage at UN meet on AI",
+      "excerpt": "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of artificial intelligence, it said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/humanoid.jpg",
+          "width": 2880,
+          "height": 2106,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-humanoid-robots-centre-stage-ai.amp",
+      "publishedDateTime": "2023-02-01T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-gem-security-shows-detection-and-response-key-to-cloud-security-raises-11m.md",
       "title": "Gem Security shows detection and response key to cloud security, raises $11M",
       "excerpt": "Gem Security emerges from stealth with $11 million in seed funding for cloud security detection and response solution.",
@@ -1140,58 +1183,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-cloud-and-ai-combined-revolutionizing-tech.md",
-      "title": "Cloud and AI Combined: Revolutionizing Tech",
-      "excerpt": "Cloud and AI, both powerful on their own, are merging into a single entity that is radically reshaping business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/cloud-and-ai/",
-      "originalUrl": "https://www.eweek.com/cloud/cloud-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2023/01/cloud-and-ai.jpg",
-          "width": 1400,
-          "height": 1138,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-31T14:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

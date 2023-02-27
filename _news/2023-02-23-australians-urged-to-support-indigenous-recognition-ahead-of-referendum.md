@@ -23,17 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Most Australians don't trust AI in the workplace, finds survey"
-    excerpt: "A University of Queensland and KPMG Australia study has found only 40% of Australians trust the use of artificial intelligence (AI) at work."
-    publishedDateTime: 2023-02-22T19:47:00Z
-    webUrl: "https://techxplore.com/news/2023-02-australians-dont-ai-workplace-survey.html"
-    ampWebUrl: "https://techxplore.com/news/2023-02-australians-dont-ai-workplace-survey.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-australians-dont-ai-workplace-survey.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 39
   - title: "Watch the Australian Army Use Telepathy to Control Robot Dogs"
     excerpt: "The mere thought of controlling a robot is good enough for the Australian Army. In a new test, the land force has paired with a host of technology researchers to use telepathy to control robot ..."
     publishedDateTime: 2023-02-25T19:39:00Z

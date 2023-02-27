@@ -2,6 +2,49 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-12-06-ibm-and-david-clark-cause-aim-to-reduce-food-waste-name-ai-powered-gardening-app-winner-of-5th-annual-call-for-code.md",
+      "title": "IBM and David Clark Cause Aim to Reduce Food Waste; Name AI-Powered Gardening App Winner of 5th Annual Call for Code",
+      "excerpt": "Today, Call for Code founding partner IBM (NYSE: IBM), creator, David Clark Cause, charitable partner United Nations Human Rights, and program affiliate, the Linux Foundation announced the winner of the fifth annual Call for Code Global Challenge,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/06/9725673.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/06/9725673.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1962901/IBM_GardenMate_Team.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-too-much-sodium-not-enough-potassium-may-lead-to-cognitive-decline.md",
       "title": "Too much sodium, not enough potassium may lead to cognitive decline",
       "excerpt": "Share on Pinterest A recent study shows that consuming high levels of sodium is associated with cognitive decline while a diet high in potassium is linked to improved cognitive function.",
@@ -1092,49 +1135,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-05-top-six-trends-and-recommendations-for-ai-and-ml-in-2023.md",
-      "title": "Top Six Trends (And Recommendations) For AI And ML In 2023",
-      "excerpt": "Manasi Vartak is founder and CEO of Verta, a Palo Alto-based provider of solutions for Operational AI and ML Model Management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-05T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

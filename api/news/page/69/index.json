@@ -2,6 +2,58 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2023-01-05-ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding.md",
+      "title": "AI startup looks to transform data into AI models and applications, closes series A funding",
+      "excerpt": "Taiwanese firm Profet AI has raised $5.6 million to expand into new markets with AI/ML solutions purpose-built for the manufacturing sector.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/",
+      "originalUrl": "https://venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/aluminum-manufacturing_recycle-aluminum_05102018.jpg?w=1200&strip=all",
+          "width": 1142,
+          "height": 940,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/amp/",
+      "publishedDateTime": "2023-01-04T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-a-brief-cognitive-behavioral-therapy-appears-promising-for-head-and-neck-cancer-survivors.md",
       "title": "A brief cognitive behavioral therapy appears promising for head and neck cancer survivors",
       "excerpt": "He and his team have just published in JAMA Otolaryngology—Head and Neck Surgery the results of a pilot trial evaluating a brief tele-cognitive behavioral therapy that they developed for head ...",
@@ -1036,40 +1088,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms.md",
-      "title": "TDK to acquire Qeexo to enable complete smart edge platforms",
-      "excerpt": "TDK Corporation (TSE: 6762) (CEO & President: Noboru Saito, hereinafter \"TDK\") announced that today TDK has agreed to acquire Qeexo, Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-301710811.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-301710811.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

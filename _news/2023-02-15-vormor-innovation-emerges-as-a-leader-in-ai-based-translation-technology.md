@@ -1,7 +1,7 @@
 ---
 category: news
 title: "VORMOR Innovation emerges as a Leader in AI-based Translation Technology"
-excerpt: "From its humble beginnings as a small start-up in 2014, the company has grown into a well-known enterprise with a range of innovative AI-powered language services, including a variety of speech recognition, speech synthesis, language translation ..."
+excerpt: "the company has grown into a well-known enterprise with a range of innovative AI-powered language services, including a variety of speech recognition, speech synthesis, language translation ..."
 publishedDateTime: 2023-02-14T22:38:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology"
 webUrl: "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology"
@@ -23,6 +23,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "/QkQBOSk6GE3gzG6kvzF0Pu3G9+dB/bEmr08hbxUUNJjemzkfZf44oeKFR9kNT2cZ3vj3BTgUUINGoENmrO1oUy3FSHrZVOEuiS9U+M5eEEnikbMHM7dzGG+a5QX7q2LrgHyAK2R2f85X7b/eZ1HMuLLf2+KiNn6omxQg4tDNdx77MmMADPJc5ce7KsQ3kmAb7oxbTEv4OWb9y0Y+m6w/bJMR4s4STrJ1dDAcXMxCaizjtYIJes++8BsVVmTj7k86jRsfhLfEvfm2sXVr6q3fFVivUNmFZQUnA2rhyKPwhWPxEif0Mw6EMUZiEY55t3x2ErtInCWyuQO1h5VfZfwiNM76ENk6dSkwqH3Abovbts=;8zb+N6TVqPaNxGDuuKTC6w=="
+secured: "gQEdP+OuMKtwdy7f3LB6mGyfVjUfAdJ9hFbdvBn//U5XrxfvSG6RzZqJj2bJlUUvHnQ7myrXtmiMNz3Rvov7tZnd6juTHEx8ythc/0k4f99SyELAsn4bFpCoeBvdx56tjulSuIJQJNzHAuUSd0mNFNHpu8z+ZmVgy72XjYpLdQgN2AZWSFBcQT/28kHOwU1elVPAdFweP+IW0j6F+nuiUnAn1JR07xdbi0Kuxot7QMd4L2qtOzZRSuZf2HWvTK5oMkMGp2+eQo7D45EsUZl/JdEJi6E5O6rMPhI4Qxnjf1i9yzRq3m/ecP/5gdCgd8SKGSvW2/hpuZ5TSKg3C2iMHgv1NgeBZILppP9GgChrcSc=;IoZB1YLBr6YzAwjyzxE/xQ=="
 ---
 

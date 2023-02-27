@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-02-16-only-9-of-americans-think-ai-development-will-do-more-good-than-harm.md",
+      "title": "Only 9% of Americans think AI development will do more good than harm",
+      "excerpt": "46% of respondents think that AI development will do about the same amount of good and harm, and 41% of people in the sample believe that the technology will ultimately do harm to society overall. Over half of Americans — 55%, according to the poll ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/15/only-9percent-of-americans-think-ai-development-will-do-more-good-than-harm-.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/15/only-9percent-of-americans-think-ai-development-will-do-more-good-than-harm-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107191176-1675871046625-gettyimages-1246879777-raa-openaich230207_npTfk.jpeg?v=1676484288",
+          "width": 5054,
+          "height": 3675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/15/only-9percent-of-americans-think-ai-development-will-do-more-good-than-harm-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/15/only-9percent-of-americans-think-ai-development-will-do-more-good-than-harm-.html",
+      "publishedDateTime": "2023-02-15T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-15-chatgpts-popularity-may-lead-to-another-gpu-shortage.md",
       "title": "ChatGPT’s Popularity May Lead to Another GPU Shortage",
       "excerpt": "This high demand for GPUs to train AI models could lead to a shortage of graphics cards. Th last one caused by high demand from crypto-mining. The GPU shortage will probably only affect Nvidia card sales since they have the most advanced AI cores on the market.",
@@ -55,11 +106,11 @@
     },
     {
       "path": "_news/2023-02-15-what-ai-means-for-corporate-lawyering.md",
-      "title": "What AI means for Corporate Lawyering",
+      "title": "What AI Means for Corporate Lawyering",
       "excerpt": "Artificial intelligence and the technology behind tools like ChatGPT change the dynamics of corporate lawyering by enabling fast and relevant insights into two common questions clients ask: what’s missing and what’s market?",
       "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2023/02/15/what-ai-means-for-corporate-lawyering/",
-      "originalUrl": "https://www.law.com/legaltechnews/2023/02/15/what-ai-means-for-corporate-lawyering/",
+      "webUrl": "https://www.law.com/corpcounsel/2023/02/15/what-ai-means-for-corporate-lawyering/",
+      "originalUrl": "https://www.law.com/corpcounsel/2023/02/15/what-ai-means-for-corporate-lawyering/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -890,7 +941,7 @@
     {
       "path": "_news/2023-02-15-vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology.md",
       "title": "VORMOR Innovation emerges as a Leader in AI-based Translation Technology",
-      "excerpt": "From its humble beginnings as a small start-up in 2014, the company has grown into a well-known enterprise with a range of innovative AI-powered language services, including a variety of speech recognition, speech synthesis, language translation ...",
+      "excerpt": "the company has grown into a well-known enterprise with a range of innovative AI-powered language services, including a variety of speech recognition, speech synthesis, language translation ...",
       "sourceUrl": null,
       "webUrl": "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology",
       "originalUrl": "https://www.benzinga.com/pressreleases/23/02/ab30914976/vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology",
@@ -1152,58 +1203,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-measure-the-business-impact-of-amazon-personalize-recommendations.md",
-      "title": "Measure the Business Impact of Amazon Personalize Recommendations",
-      "excerpt": "We’re excited to announce that Amazon Personalize now lets you measure how your personalized recommendations can help you achieve your business goals. After specifying the metrics that you want to track, you can identify which campaigns and recommenders are most impactful and understand the impact of",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/measure-the-business-impact-of-amazon-personalize-recommendations/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/measure-the-business-impact-of-amazon-personalize-recommendations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/14/measure-the-business-impact-personalize.jpg",
-          "width": 1563,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T10:24:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

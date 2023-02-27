@@ -61,17 +61,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Generative AI Tools Like ChatGPT and Dall-E Aren't Going Away. Here's Why"
-    excerpt: "These are machine learning systems that process terabytes' worth of data, often just scraped directly from the internet, making note of patterns and associations within the dataset, which is called training data. In the case of ChatGPT, text data sets are ..."
-    publishedDateTime: 2023-02-22T19:20:00Z
-    webUrl: "https://www.cnet.com/science/generative-ai-tools-like-chatgpt-and-dall-e-arent-going-away-heres-why/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-arent-going-away-heres-why/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-tools-like-chatgpt-and-dall-e-arent-going-away-heres-why/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 68
   - title: "Chinese apps remove ChatGPT as global AI race heats up"
     excerpt: "Two other apps, ChatgptAiAi and Chat AI Conversation, said their ChatGPT services went offline due to “relevant business changes” and policy changes. Though it’s unclear what prompted these closures, there are other signs China may be souring on ChatGPT."
     publishedDateTime: 2023-02-23T08:41:00Z

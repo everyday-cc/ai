@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-27-meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse.md",
+      "title": "Meta Launches Its AI The ‘LLaMA’ ; Mark Zuckerberg Has Finally Something Better Than The Metaverse",
+      "excerpt": "Amid a flurry of generative AI cluttering the interwebs, now Facebook’s parent Meta has dangled its ChatGPT rival carrot. Dubbed the Large Language Meta AI or LLaMA, the AI is positioned as a game changer by Meta.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse",
+      "originalUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/q-11_t5k7.620.jpg",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1",
+      "publishedDateTime": "2023-02-27T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-computer-vision-in-artificial-intelligence-ai-market-size-global-research-report-2023-2028.md",
       "title": "Computer Vision in Artificial Intelligence (AI) Market Size Global Research Report, 2023 - 2028",
       "excerpt": "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “ Computer Vision in Artificial Intelligence (AI) Market ” Size 2023 Key players Profiled in the Report are [,",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-global-research-report-2023---2028-2023-02-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 409,
+      "heat": 419,
       "tags": null,
       "images": [
         {
@@ -63,7 +106,7 @@
       "originalUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1411,50 +1454,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-ai-marketing-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029.md",
-      "title": "AI Marketing Market International Business Analysis, Top Winning Strategies, Development Outlook and Regional Strategies 2029",
-      "excerpt": "According to 360 Market Updates (360marketupdates.com) this latest study, the 2023 development of Third-Party Replacement Strap for AI Marketing market will have huge change from earlier year. \"Powerful new research technologies introduce Detailed TOC of AI Marketing Market report [113 Pages Report],",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-marketing-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-marketing-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

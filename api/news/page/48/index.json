@@ -2,6 +2,58 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-01-21-orca-security-deploys-chatgpt-to-secure-the-cloud-with-ai.md",
+      "title": "Orca Security deploys ChatGPT to secure the cloud with AI",
+      "excerpt": "Orca Security announces the launch of a new integration with ChatGPT designed to secure the cloud with AI-driven remediation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/chatgpt-secure-cloud/",
+      "originalUrl": "https://venturebeat.com/security/chatgpt-secure-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 374,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/12/cloud-computing.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/chatgpt-secure-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/chatgpt-secure-cloud/amp/",
+      "publishedDateTime": "2023-01-20T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-01-21-robots-and-the-future.md",
       "title": "Robots and the future",
       "excerpt": "Remotely controlled robots OriHime-D, developed by Ory Lab Inc. to promote employment of disabled people, serve customers at a cafe in Tokyo, Japan November 26, 2018. REUTERS/Issei Kato ...",
@@ -1144,49 +1196,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent.md",
-      "title": "Jim Keller becomes CEO of AI chip company Tenstorrent",
-      "excerpt": "Storied chip designer Jim Keller has been named CEO of artificial intelligence-focused chip company Tenstorrent. Keller was named CTO of the Canadian startup back in early 2021, but is now swapping his role with founder and former CEO Ljubisa Bajic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/Intel-Jim-Keller.5fcd5158.fill-1200x630.jpg",
-          "width": 853,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-20T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

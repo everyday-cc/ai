@@ -22,6 +22,7 @@ topics:
   - AI
   - Microsoft AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/04/edge-e1661803536445.jpg?w=1200&strip=all"

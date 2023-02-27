@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-02-03-commentary-singapore-must-clear-the-roadblocks-for-driverless-cars.md",
+      "title": "Commentary: Singapore must clear the roadblocks for driverless cars",
+      "excerpt": "SINGAPORE: Investors have poured more than US$200 billion (S$261 billion) into autonomous vehicle (AV) technology and smart mobility since 2010. Multiple countries and companies are vying for a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/commentary/singapore-roadblocks-driverless-cars-autonomous-investment-benefits-risks-3249071",
+      "originalUrl": "https://www.channelnewsasia.com/commentary/singapore-roadblocks-driverless-cars-autonomous-investment-benefits-risks-3249071",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--3PaOd3Ei--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/02/02/istock-1382273420.jpg?itok=3P9EhD-L",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-02T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-how-aws-helps-lovisa-improve-personalised-shopping-experiences.md",
       "title": "How AWS helps Lovisa improve personalised shopping experiences",
       "excerpt": "Australia has a strong history of technical innovation, and the launch of a second AWS Region in Australia provides even greater resilience and enables more customers to develop cloud-based applications that help fuel economic development across the country,",
@@ -1180,49 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-facebook-posts-more-than-2-billion-daily-users-for-the-first-time.md",
-      "title": "Facebook posts more than 2 billion daily users for the first time",
-      "excerpt": "When you talk about Facebook, it’s generally appropriate to use the word ‘billions’ in conversation. The company bought VR company Oculus for $2 billion. It passed 2 billion monthly users some time in 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/",
-      "originalUrl": "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stuff.co.za/wp-content/uploads/2023/02/Facebook-Billions.png",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/?amp=1",
-      "cdnAmpWebUrl": "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/02/02/facebook-2-billion-daily-users-first-time/?amp=1",
-      "publishedDateTime": "2023-02-02T01:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stuff.co.za",
-        "domain": "stuff.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

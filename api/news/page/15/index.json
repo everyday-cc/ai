@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-02-10-stop-the-killer-robots-musk-backed-lobbyists-fight-to-save-europe-from-bad-ai.md",
+      "title": "Stop the killer robots! Musk-backed lobbyists fight to save Europe from bad AI",
+      "excerpt": "A lobby group backed by Elon Musk and associated with a controversial ideology popular among tech billionaires is fighting to prevent killer robots from terminating humanity, and it's taken hold of Europe's Artificial Intelligence Act to do so. The Future ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/",
+      "originalUrl": "https://www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2022/11/28/iStock-610855316-scaled.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/meet-the-musk-backed-ngos-trying-to-save-europe-from-bad-ai/amp/",
+      "publishedDateTime": "2023-02-09T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-prime-focus-technologies-clear-now-available-in-aws-marketplace.md",
       "title": "Prime Focus Technologies' CLEAR® now available in AWS Marketplace",
       "excerpt": "Prime Focus Technologies (PFT), the creator of the Supply Chain Automation platform CLEAR®, today announced that customers can now",
@@ -1076,58 +1119,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-openai-rival-cohere-ai-has-flown-under-the-radar-that-may-be-about-to-change.md",
-      "title": "OpenAI rival Cohere AI has flown under the radar. That may be about to change.",
-      "excerpt": "It is available through API as a managed service, via cloud machine learning (ML) platforms like Amazon Sagemaker and Google Vertex AI. For enterprise customers with the highest data-protection and latency demands, Cohere’s platform is available as ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/openai-rival-cohere-ai-has-flown-under-the-radar-that-may-be-about-to-change/",
-      "originalUrl": "https://venturebeat.com/ai/openai-rival-cohere-ai-has-flown-under-the-radar-that-may-be-about-to-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Cohere-cofounders.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/openai-rival-cohere-ai-has-flown-under-the-radar-that-may-be-about-to-change/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-rival-cohere-ai-has-flown-under-the-radar-that-may-be-about-to-change/amp/",
-      "publishedDateTime": "2023-02-09T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

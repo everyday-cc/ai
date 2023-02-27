@@ -2,6 +2,58 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2022-12-08-deploy-amazon-sagemaker-autopilot-models-to-serverless-inference-endpoints.md",
+      "title": "Deploy Amazon SageMaker Autopilot models to serverless inference endpoints",
+      "excerpt": "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best machine learning (ML) models based on your data, while allowing you to maintain full control and visibility. Autopilot can also deploy trained models to real-time inference endpoints automatically. If you have workloads with",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-sagemaker-autopilot-models-to-serverless-inference-endpoints/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-amazon-sagemaker-autopilot-models-to-serverless-inference-endpoints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/08/deploy-sagemaker-autopilot-models-serverless-endpoints.jpg",
+          "width": 1561,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T09:26:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-google-brings-no-code-machine-learning-to-sheets-with-simpleml.md",
       "title": "Google brings no-code machine learning to Sheets with SimpleML",
       "excerpt": "Businesses looking to automate their Google workspaces could benefit from the tool which requires no programming experience and is now in beta",
@@ -1076,49 +1128,6 @@
       "provider": {
         "name": "Variety",
         "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers.md",
-      "title": "Uber Robotaxis Come to Las Vegas, but the Driverless Vehicles Still Have Drivers",
-      "excerpt": "“Motional and Uber are launching with vehicle operators now to lay the groundwork for a fully driverless commercial service, with the goal of launching the driverless service to the public in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/12/08/b0ef8db20ef428b9da8cabf6b58d1d4d.png?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/amp/",
-      "publishedDateTime": "2022-12-07T20:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
         "images": null,
         "publishers": null,
         "authors": null

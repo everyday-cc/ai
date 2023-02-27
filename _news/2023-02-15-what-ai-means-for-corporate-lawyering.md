@@ -1,10 +1,10 @@
 ---
 category: news
-title: "What AI means for Corporate Lawyering"
+title: "What AI Means for Corporate Lawyering"
 excerpt: "Artificial intelligence and the technology behind tools like ChatGPT change the dynamics of corporate lawyering by enabling fast and relevant insights into two common questions clients ask: what’s missing and what’s market?"
 publishedDateTime: 2023-02-15T13:27:00Z
-originalUrl: "https://www.law.com/legaltechnews/2023/02/15/what-ai-means-for-corporate-lawyering/"
-webUrl: "https://www.law.com/legaltechnews/2023/02/15/what-ai-means-for-corporate-lawyering/"
+originalUrl: "https://www.law.com/corpcounsel/2023/02/15/what-ai-means-for-corporate-lawyering/"
+webUrl: "https://www.law.com/corpcounsel/2023/02/15/what-ai-means-for-corporate-lawyering/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 633
     isCached: true
 
-secured: "v1fZgsaLg3K41O/ma94Fr3h4T25QO/gG2oN2WaC77zdw+gMQO4uo+jzUStNFw7R28yEn+EP2dxngoBBZFudBu88EYJQvh8qA6/e9+mqf84Iko/tOtHL7mo/RGqCF4nKedhFSAPHnYy5a4HdbnuE6c+PLt/2+fVDaCQgVZHh9IEwIPiKh175CzdUGq7ffuLV2xYzf73RJ/wOLJyhQWzLSX4/D1qXCuWvEIsuvNove1RlvXfToPurONLwHEHYp8wlBVRFFrsRUn7rpGxDz5vekNAWouO5HSOnjdNzRa5bV5H+2f2MhiI1HsvWb4JKZfCKNGNv3KrzAafwtIS+bQLDF0P50oOyyF/URU29n1tU8ydPo1EaYvo5V2NswlIoLjBSZAY/Kxbz5AVABt3+DzldE7GYtjHRmvvCxoifEv0huRE5lW4ZcPpaiQ8adH/P+Fns9djlIscGXZz8kPEr3+5u0G4LY/tgT7aunIEtM5XiLbj52GSIRryk+T3Nt86J4bw2lvQeqq5VX1keyagThCeC9xw==;LvGxzavs5bmvZT21YziTwA=="
+secured: "brFk2ReNcgw1m8pe8b0mRZeh5jw8LMve1+B8C7BqL1SwmC1X73nOSOMdgYyGOdY38tkV8nrCkYmHiqlWiBSL4QfBSbTma93oj1iONx6IBDExSi7nFdGJ5zs1mZIXhjPhiXNqdz60X0fdaGxuCLDNhrirB3CbdaJqSyUIWnhLr5hMe4HcZ4u43VFCKQ9weT6k6p+SoOSRYmaszPyuXGmXVA2XGFKdrGpZ3L0XwiR+sXSCjRanvag8AubZtQq2jv+ESxY3VO0x78ObdxjacIfIDFtsLI7EOOkHxtRosrGf9XAPMRl0L1JiOA5eeRxvd61rjMAwC4V62xq0FFmc9l9NdIWmEcM61jbvM4hFeJs4CEA=;aDTKLB87yQidc4FPNdVfiw=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-01-20-jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent.md",
+      "title": "Jim Keller becomes CEO of AI chip company Tenstorrent",
+      "excerpt": "Storied chip designer Jim Keller has been named CEO of artificial intelligence-focused chip company Tenstorrent. Keller was named CTO of the Canadian startup back in early 2021, but is now swapping his role with founder and former CEO Ljubisa Bajic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/Intel-Jim-Keller.5fcd5158.fill-1200x630.jpg",
+          "width": 853,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-20T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-m3gan-the-very-real-inspirations-behind-hollywoods-new-favourite-killer-robot-and-why-were-so-fascinated-with-ai.md",
       "title": "M3GAN: The very real inspirations behind Hollywood's new favourite killer robot - and why we're so fascinated with AI",
       "excerpt": "But M3GAN debuts in a world where AI and its associated ethical dilemmas are all around us, from voice assistants that we've happily invited into our homes, to an artistic robot giving evidence in ...",
@@ -1127,49 +1170,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-deep-learning-based-ai-system-helps-infer-and-predict-indonesian-throughflow.md",
-      "title": "Deep learning-based AI system helps infer and predict Indonesian throughflow",
-      "excerpt": "Scientists from the Institute of Oceanology of the Chinese Academy of Sciences (IOCAS) and Nanjing University of Information Science and Technology have successfully constructed an inference and prediction system of the Indonesian Throughflow (ITF) by using a deep-learning method and realized the valid prediction of the ITF transport.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
-      "originalUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deep-learning-based-ai.jpg",
-          "width": 1372,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-learning-based-ai-infer-indonesian.amp",
-      "publishedDateTime": "2023-01-19T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automated Machine Learning (AutoML) Market Analysis Report 2023 Along with Statistics Figures, till 2029"
+    excerpt: "The report focuses on the Automated Machine Learning (AutoML) market size, segment size (mainly covering product type, application, and geography), competitor landscape, recent status, and development trends."
+    publishedDateTime: 2023-02-27T04:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gaming opportunities for investors in 2023: Generative AI, low-code, metaverse, and more"
     excerpt: "and the potential role of generative AI in game development. The quarterly analyst report on the gaming sector covers trends and issues predictions for how VC investments in video games will proceed over the course of 2023. This is PitchBook’s first ..."
     publishedDateTime: 2023-02-24T05:01:00Z
@@ -183,6 +197,15 @@ related:
       name: Eos
       domain: eos.org
     quality: 19
+  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
+    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2023-02-27T12:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Paraffin Physical Therapy Market Booming Worldwide Opportunity, Competitive Analysis, Future Prospects by 2028"
     excerpt: "The Paraffin Physical Therapy Market has seen steady growth in recent years, as more people are seeking alternative forms of pain relief. The market is expected to continue to grow in the coming years,"
     publishedDateTime: 2023-02-24T07:24:00Z

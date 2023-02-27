@@ -7,7 +7,7 @@ originalUrl: "https://www.popularmechanics.com/military/research/a43044989/austr
 webUrl: "https://www.popularmechanics.com/military/research/a43044989/australian-army-uses-telepathy-to-control-robot-dogs/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Most Australians don't trust AI in the workplace, finds survey"
-    excerpt: "A University of Queensland and KPMG Australia study has found only 40% of Australians trust the use of artificial intelligence (AI) at work."
-    publishedDateTime: 2023-02-22T19:47:00Z
-    webUrl: "https://techxplore.com/news/2023-02-australians-dont-ai-workplace-survey.html"
-    ampWebUrl: "https://techxplore.com/news/2023-02-australians-dont-ai-workplace-survey.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-australians-dont-ai-workplace-survey.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 39
   - title: "Australians urged to support Indigenous recognition ahead of referendum"
     excerpt: "ADELAIDE/SYDNEY, Feb 23 (Reuters) - A First Nations group leading the push for the constitutional recognition of Australia's Indigenous ... to change its constitution to include an Indigenous \"Voice\", which is a representative body that can advise ..."
     publishedDateTime: 2023-02-23T09:14:00Z

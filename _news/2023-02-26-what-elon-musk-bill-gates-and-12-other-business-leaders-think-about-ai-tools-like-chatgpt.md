@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-bill-gates-business-leader
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-bill-gates-business-leaders-quotes-on-chatgpt-ai-2023-2?amp"
 type: article
 quality: 77
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Elon Musk now feels Artificial Intelligence existential anxiety"
+    excerpt: "Tech billionaire Elon Musk said that he still prefers to be alive to witness artificial intelligence (AI), even if he was feeling a bit of AI existential angst."
+    publishedDateTime: 2023-02-27T11:45:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/elon-musk-now-feels-artificial-intelligence-existential-anxiety-2ff4c848-8bd7-53ef-9e46-c6c300277336"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 17
 
 secured: "XvfQn0tocLuAnZLSlLwnEOF50Q5LNmiJhTSMmWnoqeSdruTXMtctHbxAMoR5T7BGJJMQv7+qJY5k9/XR44tsKUCfJrwlx3W+0Tbo8dz0vMUFOKiPuzCx4omSS/m+XJIlxhFcIBh5oSX4CcwY+JchKmp54h2bppWfSoFrwpOlqlzKQ0MU3VqPQRpAbDQzhmBIDbDeSauA9UMcs0l7JLvedTV3gY/eUSG8t0QRze/WWvLB8yLHE5OzoHc5takj0PGrJGZcHE22c1weqlo+QahQCm3h/KXEkoF7NoZfNdb/Mvk+fy3sdU2JBaXf3EHMs6CHnPL0M0eCZ4XbEQdqcFewD/KXAcXmU62amehC3nZhOv1pe8TPFIXPQLXD+2CysdFP6mKDUe1mxoQX0TKHTqZhGD2ub5RrcKeiLmwHTqQs4pzBWzIHdmmAA2LbP+h8tR0ND6Tg3acTqNswskHtp7Ej+0ewJWMrVcg8iutv4eHLIShoycR3QNf0J5PKfchirKGe6QaED+ckBBwfMRllyUQJOA==;v7ucNza2gL4jvAv9Gmzx6g=="
 ---

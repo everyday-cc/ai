@@ -211,7 +211,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -538,17 +538,17 @@
     {
       "path": "_news/2023-02-18-deep-learning-model-helps-predict-neonatal-outcomes.md",
       "title": "Deep Learning Model Helps Predict Neonatal Outcomes",
-      "excerpt": "FRIDAY, Feb. 17, 2023 (HealthDay News) -- A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in the ...",
+      "excerpt": "FRIDAY, Feb. 17, 2023 (HealthDay News) -- A multitask deep learning model based on data from electronic health records (EHRs) can predict neonatal outcomes, according to a study published in the Feb. 15 issue of Science Translational Medicine. Davide De ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/health/deep-learning-model-helps-predict-neonatal-outcomes/article_68ef29c2-1fc5-5120-b1ea-daa5afe453e9.html",
-      "originalUrl": "https://www.wfmz.com/health/deep-learning-model-helps-predict-neonatal-outcomes/article_68ef29c2-1fc5-5120-b1ea-daa5afe453e9.html",
+      "webUrl": "https://tulsaworld.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_8cea174c-c901-5f62-97ab-6528bacee66e.html",
+      "originalUrl": "https://tulsaworld.com/lifestyles/health-med-fit/deep-learning-model-helps-predict-neonatal-outcomes/article_8cea174c-c901-5f62-97ab-6528bacee66e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/87/b8731f41-823d-5b12-a6ff-886f72c4be40/63efc1579654f.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/7d/67d05522-4e81-5490-bb66-fbcfb4351a50/63efc49f41da2.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
           "width": 600,
           "height": 315,
           "title": null,
@@ -560,11 +560,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T10:12:00-08:00",
+      "publishedDateTime": "2023-02-17T12:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Tulsa World",
+        "domain": "tulsaworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -788,7 +788,8 @@
         "AWS AI",
         "AI",
         "Microsoft AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
