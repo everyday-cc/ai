@@ -241,6 +241,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+  - title: "Speech and Voice Recognition Technology Market Size, Share, Outlook and Forecast to 2028"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Technology Market\" Research Report 2023 Provides a Basic overview of the Industry"
+    publishedDateTime: 2023-02-24T00:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-share-outlook-and-forecast-to-2028-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Small And Medium Business Market Research: Dos and Don'ts during Forecast Period 2023 to 2027"
     excerpt: "The “Artificial Intelligence In Small And Medium Business market“ is set to experience magnificent growth in the"
     publishedDateTime: 2023-02-24T10:38:00Z

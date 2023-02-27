@@ -57,6 +57,20 @@ related:
         width: 1387
         height: 785
         isCached: true
+  - title: "Machine Learning Courses Market 2023-2029: Latest Developments and Share Insights | 100 Pages"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-26T10:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-2023-2029-latest-developments-and-share-insights-100-pages-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Machine Learning as a Service Market Report 2022: Demand for Cloud-Based Solutions Drives Growth"
     excerpt: "OneSpan, in a Global Financial Regulations report observed ... and many cloud providers offered Machine Learning as a Service (MLaaS). Several countries used population surveillance methods ..."
     publishedDateTime: 2023-02-22T15:14:00Z

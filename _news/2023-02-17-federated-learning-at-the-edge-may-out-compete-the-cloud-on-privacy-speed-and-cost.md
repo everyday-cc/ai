@@ -20,6 +20,8 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/04/edge-e1661803536445.jpg?w=1200&strip=all"
@@ -27,6 +29,6 @@ images:
     height: 547
     isCached: true
 
-secured: "pEsxtYoSt9KcwEuK1yibrrDtUySsKI3EYZ8rsZnEDxHsicA3MDLDquv1gXu4Rn8Ovo+/020ViX6JLrSpB3KGSLIJg4r6sS1D4c5e2AQfOQ5Yj08QSNLL/WYtrHTadVhG8i7AVOwJjjUve+wO8LAG5wT+/3ipCDt71qJKw7hVkv/qNdXW9c+w9QX0PXLZ2bKxeaQx1mxz46P7WnsPFvWC2oXwwm9eA2yDEpCpjNCE8tvvSxDBVY6XDL8eks4qIfU0zr4YC/wHx53BkA7H+fWydcFhiSYbBLSRLgmSUdDu1PpSmQIi+I15+Co7LA1ZybEkoAe85u1Pu+jLt0Er9tyRMisnD4wh7ZlL1STL5tH3+74=;x/nzWnwrO1dICXUnr8m1RA=="
+secured: "NwwezTVdnuDQOn45gxWk8bXA+C86ewvtOG+wO6P9yuRq0xZEsZ8iLlnn3MIQLjrFOb1Yk5XePZC1+o13uSVKkZNod9dYWlquA/qFqcZ53A0ffmaZ9VPub4jcXTyg/IzCBBAT1whcKwVwb+auX/Wjwkl5ccpEgFr7GWAucq9Y2jqzLzuwah0ago6k+xyPH3hD+ynqxclh4gWZfiUbXTfsfVnOzMU9bWtKViMuEh7Y4Cr+eoWCiMPUDQ3VAjW77uO5iCKRFZWPOaNtTtbGnMqdk/WalrhynM5Lzk7fVa5/Xs9h86/2YyH4vO72V6d7G6P2wEVF9wuCIYm0lrp6GQb2osAPrdckO03SvEGWg4q+xzAVUchVx2LZz8DsffkeN5/+eqmU2klE8bYrlA7Ec7PwEDKKtfeJkdPF44Q6h6i2viKyGmITEOAQ0UVr8KhjSsCxWQphGTd+d04eGOaOouGAe1IBTZr7Oc0ZFU6C2/I0Bzxl9lOU1kafi7gR/UeuKPZ63xSqJwYgqaolUkrFXqoNCw==;XOy7kixmXkd/OIpo1Hn93Q=="
 ---
 

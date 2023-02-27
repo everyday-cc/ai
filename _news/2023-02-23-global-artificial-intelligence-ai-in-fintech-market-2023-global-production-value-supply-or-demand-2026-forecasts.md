@@ -151,20 +151,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Healthcare Market 2023-2028: A Look at the Leading Regions and Players"
-    excerpt: "Feb 22, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The 2023 research report on the"
-    publishedDateTime: 2023-02-22T09:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-2023-2028-a-look-at-the-leading-regions-and-players-2023-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size Global Research Report, 2023 - 2028"
     excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2023 Will Provide Report Analysis that quickly emerging as one of the [IIII] category in the industry, by Type (,"
     publishedDateTime: 2023-02-25T07:30:00Z
@@ -253,6 +239,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+  - title: "Artificial Intelligence (AI) in Agriculture Market Report Historical, Current, and Projected Size, in terms of value 2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Agriculture Market\" Report provides a Detailed analysis of global market size,"
+    publishedDateTime: 2023-02-26T13:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-report-historical-current-and-projected-size-in-terms-of-value-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in the Freight Transportation Market by Top Manufacturers, Growing Demand and Supply 2023-2029"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in the Freight Transportation Market\" Report covers specified competitive outlook"
+    publishedDateTime: 2023-02-26T13:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-the-freight-transportation-market-by-top-manufacturers-growing-demand-and-supply-2023-2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Software Market By Industry Research, Supply, Size, Share and Prospects 2023-2028"
     excerpt: "Computer Vision Software Market \" is expected to grow at a steady growth during the forecast period 2023-2028, Computer Vision Software Market report offers insights into the latest trends. It summarizes key aspects of the market,"
     publishedDateTime: 2023-02-26T02:33:00Z
