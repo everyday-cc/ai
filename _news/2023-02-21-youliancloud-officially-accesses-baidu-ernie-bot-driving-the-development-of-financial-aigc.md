@@ -1,23 +1,20 @@
 ---
 category: news
-title: "YouLianCloud Officially Accesses Baidu ERNIE Bot, Driving the Development of Financial AIGC"
-excerpt: "SHANGHAI, Feb. 20, 2023 /PRNewswire/ -- On February 14, 2023, YouLianCloud announced to be the first batch of early experience officers of ERNIE Bot. Subsequently, YouLianCloud will fully ..."
-publishedDateTime: 2023-02-21T03:27:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20230220cn19992/youliancloud-officially-accesses-baidu-ernie-bot-driving-the-development-of-financial-aigc"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20230220cn19992/youliancloud-officially-accesses-baidu-ernie-bot-driving-the-development-of-financial-aigc"
+title: "Youliancloud Officially Accesses Baidu ERNIE Bot, Driving The Development Of Financial AIGC"
+excerpt: "Next, YouLianCloud will apply the results of Baidu's leading intelligent dialogue technology in the field of financial AIGC. This move marks the priority of YouLianCloud to gain the support of ..."
+publishedDateTime: 2023-02-21T05:06:00Z
+originalUrl: "https://menafn.com/1105606328/Youliancloud-Officially-Accesses-Baidu-ERNIE-Bot-Driving-The-Development-Of-Financial-AIGC"
+webUrl: "https://menafn.com/1105606328/Youliancloud-Officially-Accesses-Baidu-ERNIE-Bot-Driving-The-Development-Of-Financial-AIGC"
 type: article
-quality: 9
-heat: 9
-published: false
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "eqVdZxTRtLMJMNZKtRGx0kFT1sZul18WgJlJjThY7LZRS/jAcXRR0O0Y0tKex2TbW6iul2oE1kWgdyJ6riMgOBZSz6mYl1h5eP46++/EHv2W++MFTxnZZer255qO3NEQmkFPGoktspsL9JnKoW+hPtX2JYGLNpY3PLUi/TaHmAQNxvb2pZMdJiW+UlUS4QTFDGyxxVwh11OnFh7TWmXGDLhBa+DZoJei1GFv3dI9WayfqyXAnsJhDg9QXxeBc5wwOKgPMEXqMCo6TSgav6K02TV17gwKvEf7P6bfoEeHGzQBwLtlY6IG2/qdOModFiWFt4t6AAOxULVmJVUq4bq5j2iKUM21WmuicFGxW9nGvws=;Ukuc9/F7aDzZsj6+ldRvfQ=="
+secured: "I0MycQQ08dBI2pW7a2gK6sZ4AZ6z7H9tTgwhUofHSs4n428sYlP7KAYjRDb+5aIjP0kaBJGaAFwZHLDN2Bo2JR++V00/HxqG1+Odx6i0PhkdMzUDNFvl7htT6lwhtCvyrOzkPgzgzDNHENkshUa7OvnJY3CjObcFHaGCofQ45f2br4UX60wtwq+Kqs+cypsG8tLgzJyqJPFqg47Kd4mDy+wQYn6zF14HMzbfnZkiYUOw49CpcNdh6ufdtYEVJT4Bswu7dd06WKI7CQV2GSSe8kWsK9UZDHlYR2zOjwNUSJPnTFR+SBAq15W/spJWN6gxZ9isY/oYT+IhhRfHanw4ldoVaBkoKsRgNzbxB9Poo3Y=;uHJF8h0qMRhtj3d+kjPm7g=="
 ---
 

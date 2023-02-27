@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Tech’s hottest new job: AI whisperer. No coding required."
