@@ -19,26 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Hugging Face Expands Cloud Partnership With AWS"
-    excerpt: "The newly announced integration will allow developers to deploy a neural network hosted by Hugging Face to SageMaker with just a few clicks."
-    publishedDateTime: 2023-02-22T14:32:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/hugging-face-expands-cloud-partnership-with-aws/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/hugging-face-expands-cloud-partnership-with-aws/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/hugging-face-expands-cloud-partnership-with-aws/amp/"
+  - title: "Hugging Face and AWS expand cloud partnership"
+    excerpt: "is partnering with Amazon Web Services Inc. to streamline artificial intelligence development projects. The companies announced the partnership today. It expands upon an existing collaboration that Hugging Face and AWS launched in early 2021."
+    publishedDateTime: 2023-02-22T15:44:00Z
+    webUrl: "https://siliconangle.com/2023/02/21/hugging-face-aws-expand-cloud-partnership/"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 39
-  - title: "Hugging Face teams with Amazon Web Services so customers can deploy pre-trained AI models"
-    excerpt: "Amazon Web Services (AWS) has partnered with Hugging Face to integrate the startup's software development hub into its cloud. Hugging Face has quickly established itself as one of the main places for AI developers to share open-source code and models."
-    publishedDateTime: 2023-02-22T13:17:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/hugging-face-teams-with-amazon-web-services-so-customers-can-deploy-pre-trained-ai-models/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 25
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "nDBDCSTTNQUfcTo3vTwklGWqUOSF2YwEbjYtgmsfTpzR1Ukq80Bsbzskd78dUfc4Wbb4pDsIxk4K5k+MgWIIYF9mrOeoM2fAF5Fswx9flpB52JCiG+MHyXDAJHCRfPupniZm29CLoUD5jLApttZhsNYh/ul8zYdOH5BKawwdq0wksqRQDGJGIh8b4bXpqdRpYzqvqcANYs7G9z81HWMXxYpWGhC/1qipYDsnODrdSXMEfcanLEfpopIX9x8+KGv4/r++2Gp65WGBxKK91fgsKdlNWqWgBu24ea1znVMDjCUraDbPayOE0Mo/juA1+Atx3+/Mw8DSIxlNwky20Z4GhXMqv0Cs8CUwq3BWWX9FoQmp83DTZdG1BsZSFJ1kWlEHBmCD93/wDXKvvdDjNrsmNJSKfurmgMGTQ7vJsCIEu5nA8fFTMIdsPdYQxXsC0th00NEM4JvndBwqO7eaYGAj9/8L5vLP/ERIIlppbELklycsaw8qe+BtfYZp150KTifrv0zuEzxzezbEh49Uhd+K2w==;imgU39LOyAzdDGANn39kKQ=="
 ---

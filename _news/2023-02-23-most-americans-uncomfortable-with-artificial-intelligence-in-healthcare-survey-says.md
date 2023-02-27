@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
-    excerpt: "said that his practice is one of many that have been exploring the AI program ChatGPT. His group has set up a committee to look into its uses and to discuss the ethics around using it so the practice could set up guardrails before putting it into clinical ..."
-    publishedDateTime: 2023-02-22T15:00:00Z
-    webUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 63
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "59% of Americans don't want AI robots used during surgery"
     excerpt: "Americans are hesitant about the use of artificial intelligence-driven robots during surgery with 59 percent saying they would not want surgical robots used in their own care, according to a Pew Research Center survey."
     publishedDateTime: 2023-02-24T15:20:00Z
@@ -94,20 +80,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "60% of Americans Would Be Uncomfortable With Provider Relying on AI in Their Own Health Care"
-    excerpt: "Six-in-ten U.S. adults say they would feel uncomfortable if their own health care provider relied on artificial intelligence to do things like diagnose disease and recommend treatments; a significantly smaller share (39%) say they would feel comfortable ..."
-    publishedDateTime: 2023-02-22T15:00:00Z
-    webUrl: "https://www.pewresearch.org/science/2023/02/22/60-of-americans-would-be-uncomfortable-with-provider-relying-on-ai-in-their-own-health-care/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 28
-    images:
-      - url: "https://www.pewresearch.org/science/wp-content/uploads/sites/16/2023/02/PS_23.02.22_AIandHealth_featured.png?w=1200&h=628&crop=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Most Americans Wouldn’t Trust Their Health Provider’s Use Of AI"
     excerpt: "A Pew Research poll reported on by the Hill shows a majority of Americans wouldn’t be comfortable with health providers relying on artificial intelligence as part of care — only 39% would be"
     publishedDateTime: 2023-02-23T12:58:00Z
@@ -117,15 +89,6 @@ related:
       name: Kaiser Health News
       domain: khn.org
     quality: 19
-  - title: "How Americans view emerging uses of artificial intelligence, including programs to generate text or art"
-    excerpt: "Artificial intelligence has burst onto the scene recently ... Read more about public awareness of AI’s uses in everyday life and Americans’ views on its applications in health care. Among Americans who have heard about AI programs that can write ..."
-    publishedDateTime: 2023-02-22T14:59:00Z
-    webUrl: "https://www.pewresearch.org/fact-tank/2023/02/22/how-americans-view-emerging-uses-of-artificial-intelligence-including-programs-to-generate-text-or-art/"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 3
 
 secured: "8oNL6NQLasBvXBX+YjMfv4588KtefTnE4xqwWC7cflYfnaw5CKyFdQ8CQLxTVhrYsXGaoMgBbCU6N2ZLqvK4ADf71BvwwBO3P6ObNiMVMkNuxZM3lf/aJpHK2yaceA2wG9HffDEJ0QEnklzeRVXPBAmSsMRDbB60tIP/Oo7uKv0PZf/7kAWoqtmpmRv2JY7h7q9RmfPbc6Fxy3xjkfpKLEz9rhDsvwlso2nva06XpM1STjLlTR8YSAa6b6Kojaz5jfKMiXboxYaYTh5FqdHdnoqs+YGTgVVaBJ3K0xCYypjMOxsYtcrfW85aYkQC3c+Wnly0m5jcs06pCuMOb1gouLm5PXcvj5jweOCB/qCwY2jheuAv1HBmuHiHDoLnFxICznFt+my/VDu6Ot9Kf9h2vBxM2ugDeQSxzELRcmCMBpDBtcATRd6k69IKDuCPLdgPJXw74EYVKc7jOFsNIqUDx+OJ692cLJimzDxWcZoA3IQ+x7pwi/Udvl+tJabNt8Rv2E/8NFsIzUuMu8FV04IvKg==;fIwh41GfmiXHskivtIbkaA=="
 ---

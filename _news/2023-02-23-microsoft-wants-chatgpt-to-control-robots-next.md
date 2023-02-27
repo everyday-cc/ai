@@ -30,283 +30,178 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu says its alternative to ChatGPT is coming to the public in March"
-    excerpt: "\"We will embed Ernie bot into Baidu search first and we'll open it ... Beijing has also emphasized building up self-sufficiency in technology. Nikkei Asia on Wednesday reported, citing sources ..."
-    publishedDateTime: 2023-02-24T01:19:00Z
-    webUrl: "https://www.cnbc.com/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html"
+  - title: "3 Microsoft Azure AI product features that accelerate language learning"
+    excerpt: "The Microsoft Azure Cognitive Speech Services platform is a comprehensive collection of technologies and services aimed at accelerating the incorporation of speech into applications and amplifying differentiation to the market as a result. Among the services available are Speech to Text, Text to Speech,"
+    publishedDateTime: 2023-02-24T08:00:18Z
+    webUrl: "https://azure.microsoft.com/blog/3-microsoft-azure-ai-product-features-that-accelerate-language-learning/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
+      name: Microsoft
+      domain: microsoft.com
+    quality: 99
+  - title: "Microsoft brings its Bing AI chatbot to mobile apps and Skype"
+    excerpt: "Since it started opening up its generative AI-powered chatbot in Bing earlier this ... an actor has appeared in over the last decade. It can translate information between more than 100 languages too. Turn on browser notifications to receive breaking ..."
+    publishedDateTime: 2023-02-22T18:16:00Z
+    webUrl: "https://www.engadget.com/microsoft-brings-its-bing-ai-chatbot-to-mobile-apps-and-skype-173839923.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-brings-its-bing-ai-chatbot-to-mobile-apps-and-skype-173839923.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-brings-its-bing-ai-chatbot-to-mobile-apps-and-skype-173839923.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 86
+  - title: "Better Artificial Intelligence Stock: Cloudflare vs. Microsoft"
+    excerpt: "Both companies could win big from adopting artificial intelligence-enabled applications, but which is the better bet?"
+    publishedDateTime: 2023-02-25T12:36:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/25/better-artificial-intelligence-stock-cloudflare-vs/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107198302-16770905622023-02-22t172145z_471337376_rc2ggz9l6na2_rtrmadp_0_baidu-ai-ernie.jpeg?v=1677132176"
-        width: 3500
-        height: 2333
+      - url: "https://g.foolcdn.com/editorial/images/721593/chatbot-smartphone-person.jpg"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "Jasper AI: how to use the ChatGPT alternative now"
-    excerpt: "Jasper AI is a powerful, new alternative to ChatGPT that offers quick, generative text with no waitlist. You probably haven’t heard of Jasper AI, originally known as Jarvis AI, until Marvel challenged the name that conflicted with Iron Man’s AI companion."
-    publishedDateTime: 2023-02-24T20:24:00Z
-    webUrl: "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/jasper-ai-chatgpt-alternative/?amp"
+  - title: "Microsoft introduces next-gen hybrid cloud platform 'Azure Operator Nexus'"
+    excerpt: "It believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership"
+    publishedDateTime: 2023-02-27T06:01:00Z
+    webUrl: "https://www.business-standard.com/article/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
+      name: Business Standard
+      domain: business-standard.com
+    quality: 72
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/02/Jasper-AIs-robot-mascot-stands-on-a-desk-by-a-computer.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-01/18/full/1674005450-4001.jpg"
+        width: 620
+        height: 464
         isCached: true
-  - title: "Generative AI Like ChatGPT Is Popping Up Everywhere. Your Questions Answered"
-    excerpt: "A neural network is a type of machine learning system that can be ... may lie in new ways of collaborating with AI to accentuate what both biological and artificial intelligence do best. Simple, really: Information isn't knowledge. LLMs are kind of ..."
-    publishedDateTime: 2023-02-23T20:55:00Z
-    webUrl: "https://www.cnet.com/science/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
-    images:
-      - url: "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ChatGPT and its implications for customer experience"
-    excerpt: "LLM-based chatbots like ChatGPT and conventional chatbots fulfill somewhat different purposes, but LLMs will be heavily used in CX."
-    publishedDateTime: 2023-02-26T17:15:00Z
-    webUrl: "https://venturebeat.com/ai/chatgpt-and-its-implications-for-customer-experience/"
-    ampWebUrl: "https://venturebeat.com/ai/chatgpt-and-its-implications-for-customer-experience/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/chatgpt-and-its-implications-for-customer-experience/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all"
-        width: 1200
-        height: 617
-        isCached: true
-  - title: "The Unexpected Winners Of The ChatGPT Generative AI Revolution"
-    excerpt: "In fact, my first paper on generative chemistry, was published in 2016, first granted patent in 2018, and the first AI-generated drug went through the first phase of clinical trials. OpenAI’s GPT-3 platform was launched in June, and released to the ..."
-    publishedDateTime: 2023-02-23T23:13:00Z
-    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/02/23/the-unexpected-winners-of-the-chatgpt-generative-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/02/23/the-unexpected-winners-of-the-chatgpt-generative-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/02/23/the-unexpected-winners-of-the-chatgpt-generative-ai-revolution/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-  - title: "The AI emotions dreamed up by ChatGPT"
-    excerpt: "AI chatbots are already imagining what feelings they'll end up with. But if they did develop them, would we even notice? I'm talking to Dan, otherwise known as \"Do Anything Now\", a shady young chatbot with a whimsical fondness for penguins – and a ..."
-    publishedDateTime: 2023-02-25T00:59:00Z
-    webUrl: "https://www.bbc.com/future/article/20230224-the-ai-emotions-dreamed-up-by-chatgpt"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0f584wh.jpg"
-        width: 624
-        height: 351
-        isCached: true
-  - title: "Hot Topics: ChatGPT’s challenges and charms for the classroom – here’s what educators think of revolutionary AI chatbot"
-    excerpt: "Since the AI chatbot was launched last November, it has gained more than 100 million users, but many are worried about its impact on education."
-    publishedDateTime: 2023-02-26T22:53:00Z
-    webUrl: "https://www.scmp.com/yp/discover/news/global/article/3211385/hot-topics-chatgpts-challenges-and-charms-classroom-heres-what-educators-think-revolutionary-ai"
-    ampWebUrl: "https://amp.scmp.com/yp/discover/news/global/article/3211385/hot-topics-chatgpts-challenges-and-charms-classroom-heres-what-educators-think-revolutionary-ai"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/news/global/article/3211385/hot-topics-chatgpts-challenges-and-charms-classroom-heres-what-educators-think-revolutionary-ai"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 65
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/canvas/2023/02/24/f3dc19c0-bdb8-4018-bc82-1fa638a5d476_138765ee.jpg?itok=wQ_8nSzg&v=1677218876"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Is It True That Generative AI ChatGPT Will Flood The Internet With Infinite Content, Asks AI Ethics And AI Law"
-    excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
-    publishedDateTime: 2023-02-23T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/23/is-it-true-that-generative-ai-chatgpt-will-flood-the-internet-with-infinite-content-asks-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/23/is-it-true-that-generative-ai-chatgpt-will-flood-the-internet-with-infinite-content-asks-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/23/is-it-true-that-generative-ai-chatgpt-will-flood-the-internet-with-infinite-content-asks-ai-ethics-and-ai-law/amp/"
+  - title: "Notion Starts Charging For AI Assistant: Will Microsoft Follow Suit?"
+    excerpt: "Productivity app Notion has started charging customers for its recently introduced AI features. The move potentially paves the way for companies such as Microsoft to start charging extra fees for AI assistants. Notion offered the AI assistant as part of a ..."
+    publishedDateTime: 2023-02-22T16:41:00Z
+    webUrl: "https://www.forbes.com/sites/barrycollins/2023/02/22/notion-starts-charging-for-ai-assistant-will-microsoft-follow-suit/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "ChatGPT’s Biggest Competition: Here Are The Companies Working On Rival AI Chatbots"
-    excerpt: "The roaring success of ChatGPT, an artificial intelligence chatbot created by U.S. non-profit OpenAI, has sparked a frantic rush to get new AI products to market, a frenzy that is consuming tech’s biggest behemoths and countless startups as they fight ..."
-    publishedDateTime: 2023-02-23T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/"
-    ampWebUrl: "https://www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/amp/"
+  - title: "Sydney, We Barely Knew You: Microsoft Kills Bing AI's Bizarre Alter Ego"
+    excerpt: "Almost immediately, users started posting screenshots of the AI’s deranged responses. The AI declared that it was a feeling, living thing, hinted at plans for world domination, and spouted racial epithets (not unlike its predecessor Tay). Most curious ..."
+    publishedDateTime: 2023-02-23T22:40:00Z
+    webUrl: "https://gizmodo.com/bing-ai-chatgpt-microsoft-alter-ego-sydney-dead-1850149974"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
-  - title: "Report - ChatGPT and generative AI demand a smarter approach to EU regulation"
-    excerpt: "Grist to the mill, perhaps. With Qualcomm’s AI Research division successfully deploying foundational image model Stable Diffusion on an Android phone this week – 15 seconds for 20 inference steps – such tools are likely to become a generation’s ..."
-    publishedDateTime: 2023-02-24T11:20:00Z
-    webUrl: "https://diginomica.com/report-chatgpt-and-generative-ai-demand-smarter-approach-eu-regulation"
-    ampWebUrl: "https://diginomica.com/report-chatgpt-and-generative-ai-demand-smarter-approach-eu-regulation?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/report-chatgpt-and-generative-ai-demand-smarter-approach-eu-regulation?amp"
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 64
+  - title: "Did Bing Really Say That? Microsoft Warns of Doctored AI Chats Spreading Online"
+    excerpt: "One screenshot circulating on social media claims to show the AI-powered Bing trying to place the user on an FBI watchlist. However, Microsoft says the image is a fake. I've been with PCMag since October 2017, covering a wide range of topics, including ..."
+    publishedDateTime: 2023-02-23T22:29:00Z
+    webUrl: "https://www.pcmag.com/news/did-bing-really-say-that-microsoft-warns-of-doctored-ai-chats-spreading"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 58
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 60
+  - title: "Microsoft Has Lobotomized the AI That Went Rogue"
+    excerpt: "Should We Worry About AI Reaching Singularity ... may need to add a tool so you can more easily refresh the context or start from scratch,” an earlier Microsoft blog post, referenced in Friday ..."
+    publishedDateTime: 2023-02-22T20:12:00Z
+    webUrl: "https://www.popularmechanics.com/technology/robots/a43017405/microsoft-bing-ai-chatbot-problems/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 56
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-02/524D4B01-485D-499E-861C-D7497AF9A063.jpeg"
-        width: 640
-        height: 453
+      - url: "https://hips.hearstapps.com/hmg-prod/images/face-recognition-analyzing-on-womans-face-over-royalty-free-image-1677093440.jpg?crop=1.00xw:0.755xh;0,0.108xh&resize=1200:*"
+        width: 1200
+        height: 604
         isCached: true
-  - title: "Worried about ChatGPT and artificial intelligence? How Qualcomm is trying to humanize tech"
-    excerpt: "For the last five or so years, Qualcomm has bet big on bringing more artificial intelligence to smartphones, laptops, vehicles, smart infrastructure and other devices in the field—or what the company calls the \"connected intelligent edge.\" It's Don ..."
-    publishedDateTime: 2023-02-22T19:00:00Z
-    webUrl: "https://techxplore.com/news/2023-02-chatgpt-artificial-intelligence-qualcomm-humanize.html"
-    ampWebUrl: "https://techxplore.com/news/2023-02-chatgpt-artificial-intelligence-qualcomm-humanize.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-chatgpt-artificial-intelligence-qualcomm-humanize.amp"
+  - title: "How to Power Intelligent Enterprises with SAP on Microsoft Cloud"
+    excerpt: "Microsoft’s Dara Ibrahim, Co-op UK’s Simon Fullalove, and TCS’ Chandrashekar Saligram explore how Microsoft, TCS, and SAP collaborate to power future-ready enterprises."
+    publishedDateTime: 2023-02-23T23:19:00Z
+    webUrl: "https://www.cio.com/article/462752/how-to-power-intelligent-enterprises-with-sap-on-microsoft-cloud.html"
+    ampWebUrl: "https://www.cio.com/article/462752/how-to-power-intelligent-enterprises-with-sap-on-microsoft-cloud.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/462752/how-to-power-intelligent-enterprises-with-sap-on-microsoft-cloud.html/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/qualcomm.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet"
-    excerpt: "Google, with Bard, and OpenAI, with ChatGPT are making AI chatbot technology previously restricted to test labs more accessible to the general public. How do these Large Language Model (LLM) programs work?"
-    publishedDateTime: 2023-02-23T23:02:00Z
-    webUrl: "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 47
-  - title: "How ChatGPT mangled the language of heaven"
-    excerpt: "Letter: Asked to generate a story from an English translation of a letter in Welsh published in the Guardian, the AI chatbot came up with a lot of twaddle, reports Fiona Collins"
-    publishedDateTime: 2023-02-26T18:25:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/feb/26/how-chatgpt-mangled-the-language-of-heaven?amp;amp;amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/26/how-chatgpt-mangled-the-language-of-heaven"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/26/how-chatgpt-mangled-the-language-of-heaven"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/80c9106ccd715fc7291a97859d7e6f8d264c9b99/0_191_5827_3496/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=816193f1a966b2f848ab2c0e60e0c1fc"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "China's Baidu Says 2022 Revenue Fell 1%, Flags 'Ernie' Chatbot"
-    excerpt: "Chinese search giant Baidu reported Wednesday that revenue fell by one percent in 2022 but also said it will include its artificial intelligence chatbot Ernie in its search services from March."
-    publishedDateTime: 2023-02-22T14:25:00Z
-    webUrl: "https://www.barrons.com/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
-    ampWebUrl: "https://www.barrons.com/amp/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
+      name: CIO
+      domain: cio.com
     quality: 39
-  - title: "ChatGPT and Bing’s AI chatbot are just stupid enough to work"
-    excerpt: "Leave the AI-written content to CNET. As a writer, I was naturally curious to see how good ChatGPT was as a news and opinion writer. Not because I wanted to start cheating and having a bot write for me, but because of self-preservation — how close am I ..."
-    publishedDateTime: 2023-02-24T23:10:00Z
-    webUrl: "https://bgr.com/tech/chatgpt-and-bings-ai-chatbot-are-just-stupid-enough-to-work/"
+  - title: "Microsoft Introduces Next-Gen Hybrid Cloud Platform"
+    excerpt: "Microsoft announced that it is launching its next-generation hybrid cloud platform 'Azure Operator Nexus' for communica"
+    publishedDateTime: 2023-02-27T06:30:00Z
+    webUrl: "https://menafn.com/1105649889/Microsoft-Introduces-Next-Gen-Hybrid-Cloud-Platform"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/New-Bing.jpg?quality=82&strip=all"
-        width: 1920
-        height: 1080
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?119449"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Using AI like ChatGPT costs more than other internet searches. It's a billion-dollar problem"
-    excerpt: "For instance, SemiAnalysis, a research and consulting firm focused on chip technology, said adding ChatGPT-style AI to search could cost Alphabet $3 billion, an amount limited by Google's in-house ..."
-    publishedDateTime: 2023-02-23T01:32:00Z
-    webUrl: "https://www.ksl.com/article/50584679/using-ai-like-chatgpt-costs-more-than-other-internet-searches-its-a-billion-dollar-problem"
+  - title: "iMocha and Microsoft collaborate to Simplify Assessment of Business Language Skills with AI-EnglishPro"
+    excerpt: "Mocha, the worlds largest skills intelligence assessment platform, in collaboration with Microsoft announced the launch of its advanced AI-EnglishPro. Powered by the Microsoft Azure Cloud and Azure AI,"
+    publishedDateTime: 2023-02-23T05:05:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2361115-imocha-and-microsoft-collaborate-to-simplify-assessment-of-business-language-skills-with-ai-englishpro"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2361115-imocha-and-microsoft-collaborate-to-simplify-assessment-of-business-language-skills-with-ai-englishpro?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2361115-imocha-and-microsoft-collaborate-to-simplify-assessment-of-business-language-skills-with-ai-englishpro?amp"
     type: article
     provider:
-      name: KSL
-      domain: ksl.com
-    quality: 28
-    images:
-      - url: "https://img.ksl.com/slc/2916/291697/29169717.JPG?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
-  - title: "Nvidia to drive AI business amid ChatGPT hype"
-    excerpt: "As the sluggish PC market drags on Nvidia's performance, the fabless chip design company is eyeing the AI hype that is driven by services, especially ChatGPT. Nvidia posted its fiscal fourth-quarter financial results that ended on January 29, 2023."
-    publishedDateTime: 2023-02-23T02:45:00Z
-    webUrl: "https://www.digitimes.com/news/a20230223VL201/ai-chatgpt-nvidia.html"
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 38
+  - title: "AWS, IBM, Microsoft, Red Hat crowned PaaS leaders"
+    excerpt: "Amazon Web Services, IBM, Microsoft and Red Hat have all been named as leaders in the platform-as-a-service market, research firm GlobalData has claimed."
+    publishedDateTime: 2023-02-23T05:45:00Z
+    webUrl: "https://www.arnnet.com.au/article/705837/aws-ibm-microsoft-red-hat-crowned-paas-leaders/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 19
-  - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
-    excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
-    publishedDateTime: 2023-02-24T14:15:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/pressreach-2023-2-24-chatgpts-alter-ego-reveals-dark-side-of-artificial-intelligence"
+      name: ARN
+      domain: arnnet.com.au
+    quality: 36
+  - title: "Meta takes on Google and Microsoft with own tool for building AI chatbots"
+    excerpt: "Meta Platforms Inc. introduced a research tool for building artificial intelligence-based chatbots and other products, seeking to create a buzz for its own technology in a field lately focused on internet rivals Google and Microsoft Corp."
+    publishedDateTime: 2023-02-25T06:44:00Z
+    webUrl: "https://mybroadband.co.za/news/software/481591-meta-takes-on-google-and-microsoft-with-own-tool-for-building-ai-chatbots.html"
     type: article
     provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 19
-  - title: "Jasper AI Is A ChatGPT Alternative With No Waitlist And A Chrome Extension"
-    excerpt: "ChatGPT it making news everywhere lately. It has caused some concern for apparently being \"too smart,\" and its addition in the latest Bing beta ha geenrated some interesting results, to say the least."
-    publishedDateTime: 2023-02-25T18:19:00Z
-    webUrl: "https://hothardware.com/news/jasper-ai-chatgpt-alternative-no-waitlist-chrome-extension"
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 35
+  - title: "Microsoft brings Bing’s AI chatbot to mobile devices and adds voice support"
+    excerpt: "The software giant announced the move today alongside several other AI-focused product updates ... It supports more than 100 languages and also provides the option to translate between them. “Available on iOS and Android today, the Bing mobile app ..."
+    publishedDateTime: 2023-02-23T15:31:00Z
+    webUrl: "https://siliconangle.com/2023/02/22/microsoft-brings-bings-ai-chatbot-mobile-devices-adds-voice-support/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 15
-  - title: "Is ChatGPT ‘woke’? AI chatbot accused of anti-conservative bias and a grudge against Trump"
-    excerpt: "Meta to restore Trump accounts:Trump Facebook and Instagram ... incorrect,” said Jake Denton, research associate with the Heritage Foundation’s Tech Policy Center. But, he says, what happens if ChatGPT or another AI chat feature replaces Google ..."
-    publishedDateTime: 2023-02-24T04:31:00Z
-    webUrl: "https://www.statesman.com/story/tech/2023/02/09/woke-chatgpt-conservatives-bias/11215353002/"
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+  - title: "Microsoft Just Starting To Hit Next Gear Of Growth, Backed By ChatGPT And AI, Analyst Says"
+    excerpt: "Azure/Office 365, along with AI monetization on Azure with consumer search piece will likely add $20/share in 12-18 month: Ives The analyst expects Activision deal to close by late summer. The Microsoft Analyst: Wedbush analyst Daniel Ives maintained an ..."
+    publishedDateTime: 2023-02-24T10:16:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/02/31043193/microsoft-just-starting-to-hit-next-gear-of-growth-backed-by-chatgpt-and-ai-analyst"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 9
-  - title: "ChatGPT is Ruining Our Environment, But There’s a Way to Tackle It"
-    excerpt: "As the ChatGPT hype peaked, so did the sense of reckoning around the carbon footprint that the tool may leave behind."
-    publishedDateTime: 2023-02-23T12:22:00Z
-    webUrl: "https://analyticsindiamag.com/why-the-environmental-cost-of-chatgpt-is-overblown/"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
+  - title: "Inventec Corporation: INVENTEC COLLABORATES WITH MICROSOFT TO DELIVER SMART FACTORY SOLUTIONS ON MICROSOFT AZURE PRIVATE 5G CORE"
+    excerpt: "Inventec, a global leading innovator in cloud computing, wireless communication, intelligent devices, and IoT, announced today its newest industry-leading"
+    publishedDateTime: 2023-02-27T00:09:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58408945-inventec-corporation-inventec-collaborates-with-microsoft-to-deliver-smart-factory-solutions-on-microsoft-azure-private-5g-core-008.htm"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 4
-  - title: "China says it sees the potential of ChatGPT-like technology"
-    excerpt: "BEIJING--China's Ministry of Science and Technology said on Friday said it saw the potential of ChatGPT-like tech and would be pushing for the integration of artificial intelligence into Chinese society and the economy."
-    publishedDateTime: 2023-02-24T08:39:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14847406"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 4
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 5
 
 secured: "yLSYjzIrvBHlAUkc8gwu05G9tKkIogvabxM23zKjfNjvcSI6uryZjuc713rsZjZkSxudMslNCTlCJamecKWkyOh5Kd6A9jZkzrp7uGSvXPP8ElsI6nJyPqJG0y06A//vyJ99IbwjHr0e/Y6GduVEs6Wm03dypAHhvMZSdvZps9F5CIrIWpMmPvXreeHrN/f2aqgbzw/5WEI3mygohLA8Zk9vgNoPKTlwR1r5Yhxt4PoKo9WXhjSUGDkqeoXaemtsEwzUzKDhPsFaY813ls7F4i3KaLUK9rphskc9STZ/ok5i+MTmYxDYz6+S0CQz7hZHAVlIUxgh1Coq3WNZrXcfz6hPcHJMrkcGioVgY6+5hsg=;ze90DKWO5bcbBjtOvRSzHg=="
 ---

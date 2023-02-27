@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
       name: grid
       domain: grid.news
     quality: 36
-  - title: "Meta takes on Google and Microsoft with own tool for building AI chatbots"
-    excerpt: "Meta Platforms Inc. introduced a research tool for building artificial intelligence-based chatbots and other products, seeking to create a buzz for its own technology in a field lately focused on internet rivals Google and Microsoft Corp."
-    publishedDateTime: 2023-02-25T06:44:00Z
-    webUrl: "https://mybroadband.co.za/news/software/481591-meta-takes-on-google-and-microsoft-with-own-tool-for-building-ai-chatbots.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 35
 
 secured: "LXtGwFtBqnvtKtUeSGiRTgHtWQo7SY1WncD0Gu7NPTMGXFQ9wkjpxoRx/mtFqqo3jQdvJrSTyeDn3KWRNLBElQTphKCRMtZ4M+YML62r4PgA+8CRhbNeWX2KtGC2WUKcISxZSBwoyOe3j73zO5yCRZJ+/qIrLwRiXMbnZnmugNq0VEDnpjJCCUvXJ4144zFtRExZ90rJTE8ol1ghk+8YH42LKRJUlczVW1oyZ1/FgbwAGwmDfDbgfYqZvLfz09t/pTd9cnrUH46h/fgKUsHJ8LhzzZLJRjQ+TQxiKTocPJ5cfxJo0xdEqhlEA/140ge8VZDfDuiPAtFz6HgOs+m098zCjHHdBlFv4oT50D/qhde5wsUvZSiWdj70prSq/LYksYDafTwKMV8dPX2eydm30FWmXq+Qt2jMqFZ9ry2avImVI5N5HN2VGz2tv9OCFvqpkhjPseJjHUvLQyB2fQeelHtkFvW2pxYNl3fSMmIej+JkKBxSFEfCGnXvjfSmQRsGhDBD/ELbSxYHXP3Prrtc7g==;IMkgSVkCvMrS27zOEf3Fvg=="
 ---

@@ -20,146 +20,17 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service"
-    excerpt: "The Hugging Face community can leverage AWS ML services and infrastructure, such as Amazon SageMaker, AWS Trainium and AWS Inferentia, to train, fine-tune and deploy the models. With the hype and attention that LLMs have been getting, I expected AWS to ..."
-    publishedDateTime: 2023-02-22T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/amp/"
+  - title: "How generative AI is changing game development (and UGC)"
+    excerpt: "Generative AI is iterating on existing uses of AI in game development and content creation. But how much should it be used for?"
+    publishedDateTime: 2023-02-24T01:34:00Z
+    webUrl: "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/"
+    ampWebUrl: "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
-  - title: "3 Microsoft Azure AI product features that accelerate language learning"
-    excerpt: "The Microsoft Azure Cognitive Speech Services platform is a comprehensive collection of technologies and services aimed at accelerating the incorporation of speech into applications and amplifying differentiation to the market as a result. Among the services available are Speech to Text, Text to Speech,"
-    publishedDateTime: 2023-02-24T08:00:18Z
-    webUrl: "https://azure.microsoft.com/blog/3-microsoft-azure-ai-product-features-that-accelerate-language-learning/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
-  - title: "Microsoft brings its Bing AI chatbot to mobile apps and Skype"
-    excerpt: "Since it started opening up its generative AI-powered chatbot in Bing earlier this ... an actor has appeared in over the last decade. It can translate information between more than 100 languages too. Turn on browser notifications to receive breaking ..."
-    publishedDateTime: 2023-02-22T18:16:00Z
-    webUrl: "https://www.engadget.com/microsoft-brings-its-bing-ai-chatbot-to-mobile-apps-and-skype-173839923.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-brings-its-bing-ai-chatbot-to-mobile-apps-and-skype-173839923.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-brings-its-bing-ai-chatbot-to-mobile-apps-and-skype-173839923.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 86
-  - title: "Better Artificial Intelligence Stock: Cloudflare vs. Microsoft"
-    excerpt: "Both companies could win big from adopting artificial intelligence-enabled applications, but which is the better bet?"
-    publishedDateTime: 2023-02-25T12:36:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/25/better-artificial-intelligence-stock-cloudflare-vs/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/721593/chatbot-smartphone-person.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Empowering operators and enterprises with the next wave of Azure for Operators services shaping the future of cloud"
-    excerpt: "At Microsoft, our aim is to be the most trusted co-innovation partner through every stage of the digital evolution, committed to working with communications service providers (CSPs), enterprises, developers, and ISVs alike on the future of a ubiquitous cloud that unlocks the true potential of modern"
-    publishedDateTime: 2023-02-26T15:00:11Z
-    webUrl: "https://azure.microsoft.com/blog/empowering-operators-and-enterprises-with-the-next-wave-of-azure-for-operators-services-shaping-the-future-of-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 67
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/82ab7088-dfa9-4863-94e0-d0dbc786f84d.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Sydney, We Barely Knew You: Microsoft Kills Bing AI's Bizarre Alter Ego"
-    excerpt: "Almost immediately, users started posting screenshots of the AI’s deranged responses. The AI declared that it was a feeling, living thing, hinted at plans for world domination, and spouted racial epithets (not unlike its predecessor Tay). Most curious ..."
-    publishedDateTime: 2023-02-23T22:40:00Z
-    webUrl: "https://gizmodo.com/bing-ai-chatgpt-microsoft-alter-ego-sydney-dead-1850149974"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
-  - title: "Microsoft Has Lobotomized the AI That Went Rogue"
-    excerpt: "Should We Worry About AI Reaching Singularity ... may need to add a tool so you can more easily refresh the context or start from scratch,” an earlier Microsoft blog post, referenced in Friday ..."
-    publishedDateTime: 2023-02-22T20:12:00Z
-    webUrl: "https://www.popularmechanics.com/technology/robots/a43017405/microsoft-bing-ai-chatbot-problems/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 56
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod/images/face-recognition-analyzing-on-womans-face-over-royalty-free-image-1677093440.jpg?crop=1.00xw:0.755xh;0,0.108xh&resize=1200:*"
-        width: 1200
-        height: 604
-        isCached: true
-  - title: "Comviva launches Microsoft Azure-powered communication platform for telcos"
-    excerpt: "\"Outlook spam filter is garbage,\" an Outlook user Its cognitive automation ... bring secure communication channels and services to customers,\" added Marianne Roling, Vice President, Global Systems Integrators, Microsoft. With a cloud-based delivery model ..."
-    publishedDateTime: 2023-02-22T14:58:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/comviva-launches-microsoft-azure-powered-communication-platform-for-telcos/articleshow/98158648.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/comviva-launches-microsoft-azure-powered-communication-platform-for-telcos/amp_articleshow/98158648.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/comviva-launches-microsoft-azure-powered-communication-platform-for-telcos/amp_articleshow/98158648.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 52
-  - title: "How to Power Intelligent Enterprises with SAP on Microsoft Cloud"
-    excerpt: "Microsoft’s Dara Ibrahim, Co-op UK’s Simon Fullalove, and TCS’ Chandrashekar Saligram explore how Microsoft, TCS, and SAP collaborate to power future-ready enterprises."
-    publishedDateTime: 2023-02-23T23:19:00Z
-    webUrl: "https://www.cio.com/article/462752/how-to-power-intelligent-enterprises-with-sap-on-microsoft-cloud.html"
-    ampWebUrl: "https://www.cio.com/article/462752/how-to-power-intelligent-enterprises-with-sap-on-microsoft-cloud.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/462752/how-to-power-intelligent-enterprises-with-sap-on-microsoft-cloud.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
-  - title: "AWS, IBM, Microsoft, Red Hat crowned PaaS leaders"
-    excerpt: "Amazon Web Services, IBM, Microsoft and Red Hat have all been named as leaders in the platform-as-a-service market, research firm GlobalData has claimed."
-    publishedDateTime: 2023-02-23T05:45:00Z
-    webUrl: "https://www.arnnet.com.au/article/705837/aws-ibm-microsoft-red-hat-crowned-paas-leaders/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 36
-  - title: "Microsoft brings Bing’s AI chatbot to mobile devices and adds voice support"
-    excerpt: "The software giant announced the move today alongside several other AI-focused product updates ... It supports more than 100 languages and also provides the option to translate between them. “Available on iOS and Android today, the Bing mobile app ..."
-    publishedDateTime: 2023-02-23T15:31:00Z
-    webUrl: "https://siliconangle.com/2023/02/22/microsoft-brings-bings-ai-chatbot-mobile-devices-adds-voice-support/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-  - title: "Microsoft Just Starting To Hit Next Gear Of Growth, Backed By ChatGPT And AI, Analyst Says"
-    excerpt: "Azure/Office 365, along with AI monetization on Azure with consumer search piece will likely add $20/share in 12-18 month: Ives The analyst expects Activision deal to close by late summer. The Microsoft Analyst: Wedbush analyst Daniel Ives maintained an ..."
-    publishedDateTime: 2023-02-24T10:16:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/02/31043193/microsoft-just-starting-to-hit-next-gear-of-growth-backed-by-chatgpt-and-ai-analyst"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
-  - title: "Hugging Face and AWS expand cloud partnership"
-    excerpt: "is partnering with Amazon Web Services Inc. to streamline artificial intelligence development projects. The companies announced the partnership today. It expands upon an existing collaboration that Hugging Face and AWS launched in early 2021."
-    publishedDateTime: 2023-02-22T15:44:00Z
-    webUrl: "https://siliconangle.com/2023/02/21/hugging-face-aws-expand-cloud-partnership/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "FTOLE4oBKJlgaN6dcmvSJ8a3D1jme/PX9EL1xPQ4jz7ErUGO/+KV/hYvm18byvruQ/QWgX8sP2tC/xOySPFydGYzW+QMqPL3JCTdR8AR/V6bMine/DttK9lDoHM6i4hx5y6usR6aTea2hZqQLC9jLk/U2r7KciKqCo60TUYOYxfCR8zJmxA8rlqxM6z7at9zBBRP0F4fLoN0V33AbPylEtxXvDgFTCs3gL9cwOfk8HkDJTBlg4d1jJUej8D51O86NSvELhI/P4Ku27v4y2/wOuqg8lNx6TvP8QidICP8fvoE1/NsySvtqsKpKOT8huakS+z9ztg/gHUdMz7Q2ArxCSAu18ysTTTf+LaqFFItn9kmrsDEs5ttV2NaXjbNh7HOR+HjqR746/kQLs4jElVA1Yef70+GBy7haX4jI68/f2A2Az0j3wQscC/sxgW9GAJrfzRitAhV0s8BB8QoPhaYIrI0J0shrHhwCUohUfHmy2tyRo4hXq9s6XlYOv20KUNX296scZyYLZX7uoicTCzCbg==;Bku2Saq58zjclubxSeEn5Q=="
 ---

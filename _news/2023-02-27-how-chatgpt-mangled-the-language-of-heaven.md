@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Wants ChatGPT to Control Robots Next"
-    excerpt: "On October 26, 1984, Orion Pictures released The Terminator, a movie about genocidal AI-powered robots unleashed by a tech company. Unfortunately, the executives at Microsoft must have been doing ..."
-    publishedDateTime: 2023-02-23T15:15:00Z
-    webUrl: "https://gizmodo.com/ai-chatgpt-microsoft-control-robots-terminator-1850145030"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 86
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2bdc7fe7d3626985ed3e4a60fc7b7e4c.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "ChatGPT and its implications for customer experience"
     excerpt: "LLM-based chatbots like ChatGPT and conventional chatbots fulfill somewhat different purposes, but LLMs will be heavily used in CX."
     publishedDateTime: 2023-02-26T17:15:00Z
@@ -133,6 +119,20 @@ related:
       - url: "https://ychef.files.bbci.co.uk/live/624x351/p0f584wh.jpg"
         width: 624
         height: 351
+        isCached: true
+  - title: "How ChatGPT’s AI Will Become Useful"
+    excerpt: "It still needs to go through new versions and have its flaws exposed to be good."
+    publishedDateTime: 2023-02-26T20:35:00Z
+    webUrl: "https://www.wsj.com/articles/ais-not-useful-yet-but-it-will-be-chatgpt-artificial-intelligence-robots-microsoft-bing-chatbot-elder-care-tyrell-corporation-self-driving-tesla-technology-a1a27df0?mod=flipboard"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-732096/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Hot Topics: ChatGPT’s challenges and charms for the classroom – here’s what educators think of revolutionary AI chatbot"
     excerpt: "Since the AI chatbot was launched last November, it has gained more than 100 million users, but many are worried about its impact on education."
@@ -213,17 +213,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 47
-  - title: "China's Baidu Says 2022 Revenue Fell 1%, Flags 'Ernie' Chatbot"
-    excerpt: "Chinese search giant Baidu reported Wednesday that revenue fell by one percent in 2022 but also said it will include its artificial intelligence chatbot Ernie in its search services from March."
-    publishedDateTime: 2023-02-22T14:25:00Z
-    webUrl: "https://www.barrons.com/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
-    ampWebUrl: "https://www.barrons.com/amp/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-says-revenue-fell-1-percent-in-2022-87038a7e"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
   - title: "ChatGPT and Bing’s AI chatbot are just stupid enough to work"
     excerpt: "Leave the AI-written content to CNET. As a writer, I was naturally curious to see how good ChatGPT was as a news and opinion writer. Not because I wanted to start cheating and having a bot write for me, but because of self-preservation — how close am I ..."
     publishedDateTime: 2023-02-24T23:10:00Z
@@ -307,6 +296,6 @@ related:
       domain: asahi.com
     quality: 4
 
-secured: "bl11dnvkQ0ZAVN32C/cXuWorgKXgfMDYHGIEv6j+sJ/fPdM92MiUyKzb1NPaj1KgeAbNILle0BnIzHFjAVxHk6qqbi5G9syc7LTNl8O4JqpYH4Bn1Qi78IzOlIATbTXiY7KUyelw6BYOH5cpkTpO3XaADZEshA2F9dkKLUd/c+fM7ew1TwsRftvIuklM+Jg13lPfmh9Saqr0Sx+n9w1P0TohdtFS1Lw7dbUx6DPDywXBKrVsZgzJHSn1nQuGBQwASfOgpdBsCoNSrWZ1rDBtvtAoFY6GXYtnmj6MZMJ89cfQh8tlA6m591IR5Yns4canCKjOlf5kgfAVxjez9L2qsYqYyEurr1J6vEAMEhJkRjY=;57qKGJBRmK3QFjBSvOKplA=="
+secured: "uH3frcwyEKXXl2KEjuu+kuFstQjr95Hu38sWXH4kxtnomr7x5fTWljolaZyazTeu5KnBvaFc524YJUPdQf586OsilshqDNKZ/TPkpzG6I40ocggKuOjeB9BiBj8xHTFZmpojK7l2NFJ3uTux2k8eDFryJh8E+PAthzm34xzMHFLzS8kslXDUppfJpcgttAComyBWtXr8scJGI7JMtBMcjUZkN9InAJTgz8c1NbUAWwXaCdPfUtSJQt22tZ4xkGPn/f5E1iT8c10VZVx5SAJWMBS0LM35OArqPV1ikB8yp9U/aqh/0L7EfOmiii4mh5i8whsJ8BvPet0+TPnQkvAFbRwA2hZE3itrr3n1+ZykK7ygdh8732H4do6nhZZpb2E7DjC8eiXeVNlZqCgElG04ZxsWVURYEGgM5pA/dWzrqtWbMi6rnIOitcX14y7IZJc1yIUV4habKLRqov6QLknn1sP8F0nyQ1ef4mfGp7LquqI5wn0EH+k08p5heB4iMWQzN/AZ/Vz/DViIbQOvyJaG6w==;SHRucRqRLXxpo6qmXfaT9Q=="
 ---
 

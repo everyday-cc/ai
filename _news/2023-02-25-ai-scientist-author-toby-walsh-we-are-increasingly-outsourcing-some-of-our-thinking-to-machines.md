@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Customer Service Philippines: How NLP is revolutionizing the airline industry"
+    excerpt: "The integration of Natural Language Processing (NLP) technology is revolutionizing the way airlines interact with their customers. By utilizing this technology or by outsourcing their customer service"
+    publishedDateTime: 2023-02-27T06:49:00Z
+    webUrl: "https://technology.inquirer.net/121718/customer-service-philippines-how-nlp-is-revolutionizing-the-airline-industry"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 51
+    images:
+      - url: "https://technology.inquirer.net/files/2023/02/PDI-Customer-Service-Philippines-photo-620x413.jpg"
+        width: 620
+        height: 413
+        isCached: true
 
 secured: "RbaNcqn+++1gDyBKbhCJRE+JieBeejvoBFXbNlcaqWkTuVckcFo5cXfiRSWwzTcdhfOY1nJXqz7HMDJnSsgkhznEjFtBsT40CIxIgnloo0gcGYFAeg+NGWV2Gf1rQ4z4FJiLQi7VZ7XPrIfmopGTyr9ok+H0gzViZyaoIua02kTJb+f7qEpZx22p6Vh8P9yeBk2MBWnHmWjl/qly0Vs1tFp0XF45h8GO8SrmC6DzGJnzXrB4PgVk/T6fE7O680Ge9dS9Rbup9CG3Ef9zF2QyR5ewB7ZmGRzBo6Tq1zk/U4HFLrhjHZpypvEaBxxDCOsKpMWrLzzb9CFyuCFxnmHhZv07c57dAmhJxs2xN1Y+Wub+OxIpsaS50pqPWZc6/3CV6p9LOCUK84LnV4h7CxrfY5Jm0oZEJGxX93LzbvVI4gWAWoXgEhiJurxWpw8X0GtDgQRFjF3vshLT8f9LKrxjUbWannBjnKxIs4LevdeFzcQ0o0ntS7E0AnvrYSeGE4AA4w/WTLY5t5N0sK7jTNFDgA==;RZWr1VbFEjEbl2QRh+zv8A=="
 ---

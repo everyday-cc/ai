@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/02/26/better-healthcare-ai-sto
 webUrl: "https://www.fool.com/investing/2023/02/26/better-healthcare-ai-stock-nvidia-or-ge-healthcare/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

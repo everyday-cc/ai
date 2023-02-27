@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tel
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

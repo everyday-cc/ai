@@ -72,15 +72,6 @@ related:
         width: 790
         height: 530
         isCached: true
-  - title: "Meta takes on Google and Microsoft with own tool for building AI chatbots"
-    excerpt: "Meta Platforms Inc. introduced a research tool for building artificial intelligence-based chatbots and other products, seeking to create a buzz for its own technology in a field lately focused on internet rivals Google and Microsoft Corp."
-    publishedDateTime: 2023-02-25T06:44:00Z
-    webUrl: "https://mybroadband.co.za/news/software/481591-meta-takes-on-google-and-microsoft-with-own-tool-for-building-ai-chatbots.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 35
 
 secured: "K+EaP8+f4et9gCyWbdu/a9IR6u49+LR/f/Tlz6kZat+reXnAp1OLHVfmHuwEUFSXxm5DcQk4Iu8eWkR4HIe+RDElz94v4my/Ne0G+tJy/guLFtb2mQapuHF8PrWuhwoUYLizgifyjXhLFnlx8lwkXO40XRc/4xvnzGNwby9+t3zdJKFD0Q1DtK9r3N5/jsRCrDu9sSe1LQP1ECk1KIHKPtEf3DCudZSbJqoJ7OhKuS12Hsl+dMQfAyohGXKNDuqDlmHnpf9cRka5HDYJgmfrvZDf5xwde/YrQLk4ZCaEBL489gPORPzv1oNHqAGrFBn3lFt26JoiewylGu31pLsgUSDKYGs+Oi7xlGKxVeyKyxXsjfqZr3ulzJvL2SyMckDXZTcrwUj6sfjHW7gnetxfqYZ4+WGOdJVttWAOp1bupM6MlEsBCVkREPYnu3U8Ey45FhLt5j4v/6GRm9crdc2D5Ju4ei7GqFhG+pOKK4iY/9Ufb8Swt/vtS39EF7DWoou4SImw6FhshTPbFEEBxxhQ0w==;QyPCNDYLZAiuSvogo9nFLQ=="
 ---

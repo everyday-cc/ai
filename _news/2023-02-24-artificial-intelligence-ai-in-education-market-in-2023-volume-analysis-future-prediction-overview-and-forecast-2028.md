@@ -74,6 +74,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Artificial Intelligence (AI) Market 2023 is Dominating [ Analytics Sector ] till 2028"
+    excerpt: "Market \" Research Insights Report 2023 | TOP 3 KEY PLAYERS in Artificial Intelligence (AI) Market Include [ Nvidia Corporation, Banjo, Megvii Technology Limited ]. The [ Analytics ] Sector is Expected to Dominate During the Forecast Period 2023 2028."
+    publishedDateTime: 2023-02-26T16:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-dominating-analytics-sector-till-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in the Education Sector Market Size Global Research Report, 2023 - 2028"
     excerpt: "Artificial Intelligence in the Education Sector Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, b"
     publishedDateTime: 2023-02-23T03:15:00Z
@@ -148,6 +162,20 @@ related:
     excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2023 Will Provide Report Analysis that quickly emerging as one of the [IIII] category in the industry, by Type (,"
     publishedDateTime: 2023-02-25T07:30:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-global-research-report-2023---2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive System & Artificial Intelligence (AI) Systems Market Is Booming Worldwide Forecast 2023-2029"
+    excerpt: "Cognitive System and Artificial Intelligence (AI) Systems Market 2023 with 101 Pages Report and enhance with extents"
+    publishedDateTime: 2023-02-26T23:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-is-booming-worldwide-forecast-2023-2029-2023-02-26"
     type: article
     provider:
       name: MarketWatch

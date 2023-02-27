@@ -9,8 +9,8 @@ ampWebUrl: "https://www.manilatimes.net/2023/02/24/public-square/how-machine-lea
 cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: manilatimes
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Customer Service Philippines: How NLP is revolutionizing the airline industry"
+    excerpt: "The integration of Natural Language Processing (NLP) technology is revolutionizing the way airlines interact with their customers. By utilizing this technology or by outsourcing their customer service"
+    publishedDateTime: 2023-02-27T06:49:00Z
+    webUrl: "https://technology.inquirer.net/121718/customer-service-philippines-how-nlp-is-revolutionizing-the-airline-industry"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 51
+    images:
+      - url: "https://technology.inquirer.net/files/2023/02/PDI-Customer-Service-Philippines-photo-620x413.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "AI scientist-author Toby Walsh: 'We are increasingly outsourcing some of our thinking to machines'"
     excerpt: "Artificial Intelligence scientist, professor, author Toby Walsh, who was a prominent speaker at this year's Jaipur Literature Festival, talks about morality and ethics in the development of technology and the danger of handing over decision-making to machines."
     publishedDateTime: 2023-02-25T08:12:00Z
