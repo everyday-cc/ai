@@ -5,9 +5,11 @@ excerpt: "The \"Machine Learning as a Service Market- Global Industry Size, Shar
 publishedDateTime: 2023-02-24T15:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/02/n31050014/global-machine-learning-as-a-service-market-report-to-2028-featuring-google-sas-institute-fair-isa"
 webUrl: "https://www.benzinga.com/pressreleases/23/02/n31050014/global-machine-learning-as-a-service-market-report-to-2028-featuring-google-sas-institute-fair-isa"
+ampWebUrl: "https://www.benzinga.com/amp/content/31050014"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31050014"
 type: article
-quality: 11
-heat: -1
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -17,6 +19,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Global Machine Learning as a Service Market Report to 2028: Featuring Google, SAS Institute, Fair Isaac, Yottamine Analytics and BigML Among Others"

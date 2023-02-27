@@ -77,6 +77,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Amazon files 2 trademarks for ‘robots featuring AI’ in the metaverse"
+    excerpt: "Amazon a leader in the e-commerce industry and leader in cloud services with its Amazon Web Services (AWS), is making inroads with AI."
+    publishedDateTime: 2023-02-27T16:22:00Z
+    webUrl: "https://finbold.com/amazon-files-2-trademarks-for-robots-featuring-ai-in-the-metaverse/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 54
+    images:
+      - url: "https://finbold.com/app/uploads/2023/02/Amazon-files-2-trademarks-for-‘robots-featuring-AI-in-the-metaverse.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Mark Zuckerberg just announced a new AI model 'LLaMA,' designed to help researchers make chatbots less 'toxic'"
     excerpt: "Meta is releasing its generative AI model called \"LLaMA\" to drive research into what it called an \"important ... its CEO Mark Zuckerberg said in a Facebook post on Friday. \"LLMs have shown a lot of promise in generating text, having conversations ..."
     publishedDateTime: 2023-02-24T18:17:00Z

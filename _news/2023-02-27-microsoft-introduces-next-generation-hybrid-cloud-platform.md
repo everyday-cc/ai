@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Microsoft introduces next-generation hybrid cloud platform"
-excerpt: "According to a report in tech publication TechCrunch, the tech giant believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership."
+excerpt: "Microsoft: According to a report in tech publication TechCrunch, the tech giant believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership."
 publishedDateTime: 2023-02-27T08:28:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/microsoft-introduces-next-generation-hybrid-cloud-platform/98268257"
-webUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/microsoft-introduces-next-generation-hybrid-cloud-platform/98268257"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/cloud-computing/microsoft-introduces-next-generation-hybrid-cloud-platform/98268257"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/cloud-computing/microsoft-introduces-next-generation-hybrid-cloud-platform/98268257"
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
+ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
+cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: cio.economictimes.indiatimes
+  name: telecom.economictimes.indiatimes
   domain: indiatimes.com
 
 topics:
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-98268257,imgsize-112440,width-1200,height-628,overlay-etcio/microsoft-introduces-next-generation-hybrid-cloud-platform.jpg"
+  - url: "https://etimg.etb2bimg.com/thumb/msid-98270586,imgsize-112440,width-1200,height-628,overlay-ettelecom/microsoft-introduces-next-generation-hybrid-cloud-platform.jpg"
     width: 1200
     height: 628
     isCached: true
@@ -114,6 +114,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 60
+  - title: "AI workflow tool secures $65M from backers including Microsoft, Google"
+    excerpt: "Typeface helps marketers create image and copy assets for platforms like Instagram while aiming to preserve their personal style and brand safety."
+    publishedDateTime: 2023-02-27T18:50:00Z
+    webUrl: "https://www.marketingdive.com/news/generative-AI-solution-launch-Google-Microsoft/643628/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 54
+    images:
+      - url: "https://www.marketingdive.com/imgproxy/2VcpDEawlm1498rKC3S7gsBFK_IK5pwONO68FOBNDuo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDQ3NDkwNDAuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Stefanini Group partners with Microsoft to integrate simultaneous translation platform into Microsoft Teams"
     excerpt: "Integrating Microsoft Azure AI, Voicero is now available through Microsoft Azure Marketplace and AppSource SOUTHFIELD, Mich., /PRNewswire/ -- Millions of meetings are held daily by people who speak"
     publishedDateTime: 2023-02-27T14:33:00Z
@@ -212,6 +226,6 @@ related:
       domain: finanznachrichten.de
     quality: 5
 
-secured: "PvJjhv0lkZCiTgUQhQulJJ5R28ctZNS+1uCGWCqYMnpIAfhy3iHcZrfmjhVjkXMoZ0Oodd+IGIQhJiMbxgaku0ksVd5vdcuN1zSEncdDOjgq4QzxNdvedyZ5Kp1ETyfAIOnBgMPRjdbC+0mdaTD64MCgtotKNxG0ZtvF+uMW1LKF+zcTOuTbPUyLEAxzanb36uZlyfyE5r8bjxdHS7lXq1n0MtvvvSRyayPHpZngCwIU1Vimz89rnvyim15PIqkxPbmfNIfORQNDB+JWTByW1V8Tu9kDhhJhv9nnKQ/0RJXDoIIACLp9y2qE3Htj6eQmcBSHzOg0EYYdDAOcdPBFoxEq93yez+QyWWQG6tCJ/zs=;MpdzUPUsmWl/q5N/qBEs2w=="
+secured: "5zgii1IGt2vRWIJ8o8qHjjFeS/TBdVMzjlQOHj5iuvazLUK1Brqpz5e6KVaqLqLFOdRXaLPjJWzRd50gL14I15HpoZV5napbsgPL//Ee7RjHFerDsQoIRvz2/Yr1sTeO49j34+TDVvzNy18TNcCcJ6FQnfySHRJV5e1tJSsvHNDPopc9ib4kiNEfpl6DnLeyY8VkllaZ2p6VQazMGcqXuWvsCdFrfDt33HalXNN229Pd3y7igny/9MiI4nxbSQ1TD3dqIfQDqAqcoP/BdzGIv6YskDPXyO++DlKRRndB88N+m8IdAI9lmOcls4YOR+ZXmx2zQeoUDcC14QheMc8uAEQ/ng63oiFfsKZ7sBAmA28=;JcQzpY3KdWp2iC129QETjA=="
 ---
 

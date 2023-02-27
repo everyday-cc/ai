@@ -2,6 +2,112 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-24-everything-you-wanted-to-know-about-ai-but-were-afraid-to-ask.md",
+      "title": "Everything you wanted to know about AI – but were afraid to ask",
+      "excerpt": "From chatbots to deepfakes, here is the lowdown on the current state of artificial intelligence Barely a day goes by without some new story about AI, or artificial intelligence. The excitement about it is palpable – the possibilities, some say ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
+      "originalUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/543d6b74c91d5d5fb908173506f00e60567f9f5c/0_70_5704_3422/master/5704.jpg?width=620&quality=85&auto=format&fit=max&s=4854fc9c9b45b2aa64285c3d335f0a4f",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
+      "publishedDateTime": "2023-02-24T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond.md",
+      "title": "Experts predict how AI will energize cybersecurity in 2023 and beyond",
+      "excerpt": "From behavioral analytics to endpoint and patch management, experts predict the many ways AI will boost cybersecurity this year and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/",
+      "originalUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/6-Cujo-AI-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/amp/",
+      "publishedDateTime": "2023-02-24T05:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-ai-and-computer-vision-a-powerful-combination-for-growth-in-the-coming-years.md",
       "title": "AI and Computer Vision: A Powerful Combination for Growth in the Coming Years",
       "excerpt": "Chicago, Feb. 24, 2023 (GLOBE NEWSWIRE) -- The AI in Computer Vision Industry by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial), End-Use Industry (Security ...",
@@ -251,7 +357,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/3-microsoft-azure-ai-product-features-that-accelerate-language-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 269,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -627,7 +733,7 @@
       "originalUrl": "https://www.cnbc.com/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 349,
       "tags": null,
       "images": [
         {
@@ -1124,110 +1230,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-yes-artificial-intelligence-has-a-creative-side-sort-of.md",
-      "title": "Yes, Artificial Intelligence Has A Creative Side, Sort Of",
-      "excerpt": "Despite perceptions, artificial intelligence doesn’t have a shred of creativity within it. It’s all statistical algorithms, slurping data from sources created by humans somewhere along the line. It will never be a source of innovation, but will serve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f6e7b2e6d9f35a9b8ba852/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/amp/",
-      "publishedDateTime": "2023-02-22T19:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-in-ukraine-identifying-the-dead-comes-at-a-human-rights-cost.md",
-      "title": "In Ukraine, Identifying the Dead Comes at a Human Rights Cost",
-      "excerpt": "Five days after Russia launched its full-scale invasion of Ukraine, a year ago this week, US-based facial recognition company Clearview AI offered the Ukrainian government free access to its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
-      "originalUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63f6321a7d87edd2f4f351b3/master/pass/ideas_GettyImages-1246812281.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
-      "publishedDateTime": "2023-02-22T18:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

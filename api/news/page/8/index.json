@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-02-17-chinese-chipmakers-to-advance-gpu-development-for-chatgpt.md",
+      "title": "Chinese chipmakers to advance GPU development for ChatGPT",
+      "excerpt": "The rising popularity of ChatGPT, an AI-powered chatbot developed by OpenAI, has encouraged Chinese chipmakers to accelerate their related GPU development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230216pd213_files/2_r.jpg",
+          "width": 336,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T18:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty.md",
+      "title": "Master Deep Learning and AI with IITM Pravartak | Learn from IIT Madras Faculty",
+      "excerpt": "Taught by distinguished IIT-Madras faculty, this programme, offered in collaboration with Emeritus, aims to enhance the tech skills of early and mid-level professionals",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty-11676549902004.html",
+      "originalUrl": "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty-11676549902004.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2023/02/16/600x338/EMRT_1676550476050_1676550481097_1676550481097.png",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty/amp-11676549902004.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty/amp-11676549902004.html",
+      "publishedDateTime": "2023-02-16T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-cutting-edge-umbc-research-uses-artificial-intelligence-and-robots-to-assist-national-security.md",
       "title": "Cutting-edge UMBC research uses artificial intelligence and robots to assist national security",
       "excerpt": "The United States is increasingly turning to artificial intelligence to protect against threats and assist in disasters.",
@@ -1130,101 +1216,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-artera-announces-positive-results-around-its-multimodal-artificial-intelligence-mmai-prognostic-biomarker.md",
-      "title": "Artera Announces Positive Results Around Its Multimodal Artificial Intelligence (MMAI) Prognostic Biomarker",
-      "excerpt": "Artera, the developer of multimodal artificial intelligence-based predictive and prognostic cancer tests, announced",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artera-announces-positive-results-around-its-multimodal-artificial-intelligence-mmai-prognostic-biomarker-2023-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artera-announces-positive-results-around-its-multimodal-artificial-intelligence-mmai-prognostic-biomarker-2023-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-us-launches-artificial-intelligence-military-use-initiative.md",
-      "title": "US launches artificial intelligence military use initiative",
-      "excerpt": "The United States has launched an initiative promoting international cooperation on the responsible use of artificial intelligence and autonomous weapons by militaries",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/wirestory_d49c5fb442fa825e0a7a7419d6f04469_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/Business/wireStory/us-launches-artificial-intelligence-military-initiative-97256669",
-      "publishedDateTime": "2023-02-16T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

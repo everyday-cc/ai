@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-27-ai-driven-medical-care-a-health-data-reality-check.md",
+      "title": "AI-Driven Medical Care? A Health Data Reality Check",
+      "excerpt": "\"The reality is that we have a disaggregated, fragmented system with a lack of organization around common, transparent, high-quality information.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/",
+      "originalUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fcd9130c056943e7dc82c2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/amp/",
+      "publishedDateTime": "2023-02-27T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-2027-animal-healthcare-market-2023-artificial-intelligence-innovations-sustainability-updates.md",
       "title": "2027 Animal Healthcare Market 2023 Artificial Intelligence, Innovations, Sustainability Updates",
       "excerpt": "The “Animal Healthcare market“ is set to experience magnificent growth in the coming years, with a projected increase",
@@ -51,59 +103,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-better-healthcare-ai-stock-nvidia-or-ge-healthcare.md",
-      "title": "Better Healthcare AI Stock: Nvidia or GE Healthcare?",
-      "excerpt": "Both companies are finding AI a useful part of how they do business. GE Healthcare uses its Edison platform to analyze patient data. Nvidia is developing AI chips for drug development and supercomputers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/26/better-healthcare-ai-stock-nvidia-or-ge-healthcare/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/26/better-healthcare-ai-stock-nvidia-or-ge-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/721962/woman-analyst-data-center-tablet-controls.jpg",
-          "width": 5760,
-          "height": 3240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {

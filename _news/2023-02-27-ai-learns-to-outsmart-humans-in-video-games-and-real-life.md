@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-27T15:49:00Z
 originalUrl: "https://apnews.com/89a1b6359a3f4343807ab849958d10b8"
 webUrl: "https://apnews.com/89a1b6359a3f4343807ab849958d10b8"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "AI art replicates inequity at scale. We need to learn about its biases – and outsmart the algorithm"

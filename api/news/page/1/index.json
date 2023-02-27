@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-28-just-how-big-is-this-new-generative-ai-think-internet-level-disruption.md",
+      "title": "Just how big is this new generative AI? Think internet-level disruption",
+      "excerpt": "If I was in a new city and there was a big bookstore, I had to go. That's because books were only available in libraries and certain bookstores. But then, the early Amazon hit the internets. Suddenly,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
+      "originalUrl": "https://www.zdnet.com/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/920c25a582497b6ce1460737db9ed82450a8a16d/2023/02/27/483408f4-2a36-4d23-a7c8-e8b0e1274884/gettyimages-1247345740.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
+      "publishedDateTime": "2023-02-27T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck.md",
+      "title": "This week in data: The ML, AI and data landscape with Matt Turck",
+      "excerpt": "What happened in data this week? Matt Turck joins Bruno Aziza to discuss key trends and the current ML, AI and data landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Feb-27.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/amp/",
+      "publishedDateTime": "2023-02-27T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-ai-driven-medical-care-a-health-data-reality-check.md",
+      "title": "AI-Driven Medical Care? A Health Data Reality Check",
+      "excerpt": "\"The reality is that we have a disaggregated, fragmented system with a lack of organization around common, transparent, high-quality information.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/",
+      "originalUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fcd9130c056943e7dc82c2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/amp/",
+      "publishedDateTime": "2023-02-27T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat.md",
       "title": "OpenAI has grand ‘plans’ for AGI. Here’s another way to read its manifesto | The AI Beat",
       "excerpt": "In this week's AI Beat, senior writer Sharon Goldman suggests an alternate reading of OpenAI's prophecy (oops, 'plan') for AGI and beyond.",
@@ -165,7 +320,7 @@
       "originalUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -208,7 +363,7 @@
       "originalUrl": "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -637,59 +792,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-better-healthcare-ai-stock-nvidia-or-ge-healthcare.md",
-      "title": "Better Healthcare AI Stock: Nvidia or GE Healthcare?",
-      "excerpt": "Both companies are finding AI a useful part of how they do business. GE Healthcare uses its Edison platform to analyze patient data. Nvidia is developing AI chips for drug development and supercomputers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/26/better-healthcare-ai-stock-nvidia-or-ge-healthcare/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/26/better-healthcare-ai-stock-nvidia-or-ge-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/721962/woman-analyst-data-center-tablet-controls.jpg",
-          "width": 5760,
-          "height": 3240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1123,100 +1225,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-the-robot-revolution-arrives-on-mountain-views-castro-street.md",
-      "title": "The robot revolution arrives on Mountain View’s Castro Street",
-      "excerpt": "You can see a working robot in action at the new concept store and robot space opened by software company InOrbit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
-      "originalUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/02/SJM-L-PIZARRO-COL-0226-01-2.jpg?w=1024&h=758",
-          "width": 1024,
-          "height": 757,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
-      "publishedDateTime": "2023-02-25T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices.md",
-      "title": "Magic Eraser comes to more devices, Spotify gains an AI DJ, and Netflix decreases prices",
-      "excerpt": "In this edition of Week in Review, we recap Google's Magic Eraser coming to more devices, Spotify gaining an AI DJ, and Netflix decreasing prices.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/",
-      "originalUrl": "https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1184944891.jpeg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/amp/",
-      "publishedDateTime": "2023-02-25T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,84 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-02-07-renesas-positions-its-microcontrollers-for-the-digitally-transformed-automotive-industry-and-consumer-and-industrial-markets.md",
+      "title": "Renesas Positions Its Microcontrollers For The Digitally Transformed Automotive Industry And Consumer And Industrial Markets",
+      "excerpt": "From the cars we drive to the appliances in our homes, and the smoke alarms that keep our homes safe, microcontrollers (MCUs) are in just about everything. Renesas is the world's largest supplier of MCUs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/07/renesas-positions-its-microcontrollers-for-the-digitally-transformed-automotive-industry-and-consumer-and-industrial-markets/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/07/renesas-positions-its-microcontrollers-for-the-digitally-transformed-automotive-industry-and-consumer-and-industrial-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-the-battle-for-ai-supremacy-begins.md",
+      "title": "The Battle for AI Supremacy Begins",
+      "excerpt": "In 2023, the race for artificial intelligence dominance bears striking semblance to the ‘Cold War Era’ but with Google and Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/the-battle-for-ai-supremacy-begins/",
+      "originalUrl": "https://analyticsindiamag.com/the-battle-for-ai-supremacy-begins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T04:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-apple-to-hold-first-in-person-summit-in-years-focused-on-ai.md",
       "title": "Apple to hold first in-person summit in years, focused on AI",
       "excerpt": "As Apple begins to ease its COVID policies, the company has decided to hold its annual internal AI summit in person, which could mean the company may soon return to traditional media events.",
@@ -886,83 +964,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-google-promises-its-ai-will-be-released-to-trusted-users-soon.md",
-      "title": "Google promises its AI will be released to trusted users soon",
-      "excerpt": "Bard should be ready for public release in a few weeks  Google's parent firm Alphabet announced the release of its Bard conversational AI service, which it said will be rolled out to \"trusted users\" before its public release in the coming weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/ai/56285-google-promises-its-ai-will-be-released-to-trusted-users-soon",
-      "originalUrl": "https://www.fudzilla.com/news/ai/56285-google-promises-its-ai-will-be-released-to-trusted-users-soon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-which-chatgpt-stock-is-best.md",
-      "title": "Which ChatGPT Stock Is Best?",
-      "excerpt": "TipRanks will help you figure out which ChatGPT stock is best. As natural language processing and artificial intelligence continue to advance,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/which-chatgpt-stock-is-best-1032073240",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/which-chatgpt-stock-is-best-1032073240",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T01:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

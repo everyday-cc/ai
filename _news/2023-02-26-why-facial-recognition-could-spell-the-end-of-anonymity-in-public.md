@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NYC Council Urged to Limit Business Use of Facial Recognition"
+    excerpt: "Digital rights advocates and lawyers urged the New York City Council to restrict businesses’ ability to use facial recognition technology at places like sports and entertainment venues."
+    publishedDateTime: 2023-02-24T19:51:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/nyc-council-urged-to-limit-business-use-of-facial-recognition"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/0107c60/2147483647/crop/5184x1993%2B14%2B223/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F54%2F19%2F7f0e05d3404b9c9b7c63b74f11ff%2Ffacial.jpg"
+        width: 960
+        height: 369
+        isCached: true
   - title: "US military says it can put facial recognition into robot drones"
     excerpt: "The science and technology magazine is reporting that the Air Force now has the power to give facial recognition to autonomous drones."
     publishedDateTime: 2023-02-24T21:18:00Z

@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-18-gamings-renewal-of-vows-with-hollywood-and-more-on-ugcgenerative-ai-the-deanbeat.md",
+      "title": "Gaming’s renewal of vows with Hollywood and more on UGC/generative AI | The DeanBeat",
+      "excerpt": "It’s vibrant because we’ve seen gaming and Hollywood get married again, thanks to the huge success of The Last of Us television show on HBO, which continues to see millions of people watching every week and boosting sales of the game series.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/",
+      "originalUrl": "https://venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/hbo-last-of-us.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/gamings-renewal-of-vows-with-hollywood-and-more-on-ugc-generative-ai-the-deanbeat/amp/",
+      "publishedDateTime": "2023-02-17T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-combat-ai-robodogs-follow-telepathic-commands-from-soldiers.md",
+      "title": "Combat AI ‘robodogs’ follow telepathic commands from soldiers",
+      "excerpt": "Robinson and fellow soldiers did course training with the mind-reading headsets and robodogs ... A new high-tech headset allows soldiers to control robot dogs using only their thoughts.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/",
+      "originalUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/02/robodog-Newsflash-BrainRobotics-04-copy.jpg?quality=75&strip=all&w=661",
+          "width": 661,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/amp/",
+      "publishedDateTime": "2023-02-17T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-roblox-is-bringing-generative-ai-to-its-gaming-universe.md",
       "title": "Roblox Is Bringing Generative AI to Its Gaming Universe",
       "excerpt": "The company aims to draw on the new technology’s code-writing ability to make its digital worlds even more customizable.",
@@ -255,41 +349,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-17-global-deep-learning-market-report-2023-2027-rise-in-the-adoption-of-cloud-technology-applications-in-automotive-industry-fueling-demand.md",
-      "title": "Global Deep Learning Market Report 2023:-2027: Rise in the Adoption of Cloud Technology & Applications in Automotive Industry Fueling Demand",
-      "excerpt": "The global deep learning market is expected to grow at an impressive CAGR in the forecast period, 2023-2027 Reduction in hardware costs, improvement of computational power, and rise in adoption of cloud-based technology are the primary factors driving the demand for the global deep learning market for the next five years.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/02/17/9762438.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/02/17/9762438.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-02-17-best-robot-vacuum-deals-under-100-ahead-of-presidents-day.md",
       "title": "Best robot vacuum deals under $100 ahead of Presidents Day",
       "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
@@ -381,6 +440,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-global-deep-learning-market-report-2023-2027-rise-in-the-adoption-of-cloud-technology-applications-in-automotive-industry-fueling-demand.md",
+      "title": "Global Deep Learning Market Report 2023:-2027: Rise in the Adoption of Cloud Technology & Applications in Automotive Industry Fueling Demand",
+      "excerpt": "The global deep learning market is expected to grow at an impressive CAGR in the forecast period, 2023-2027 Reduction in hardware costs, improvement of computational power, and rise in adoption of cloud-based technology are the primary factors driving the demand for the global deep learning market for the next five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-global-deep-learning-market-report-2023-2027-rise-/2023/02/17/9762438.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-global-deep-learning-market-report-2023-2027-rise-/2023/02/17/9762438.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1141,92 +1234,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-chinese-chipmakers-to-advance-gpu-development-for-chatgpt.md",
-      "title": "Chinese chipmakers to advance GPU development for ChatGPT",
-      "excerpt": "The rising popularity of ChatGPT, an AI-powered chatbot developed by OpenAI, has encouraged Chinese chipmakers to accelerate their related GPU development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html",
-      "originalUrl": "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20230216pd213_files/2_r.jpg",
-          "width": 336,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty.md",
-      "title": "Master Deep Learning and AI with IITM Pravartak | Learn from IIT Madras Faculty",
-      "excerpt": "Taught by distinguished IIT-Madras faculty, this programme, offered in collaboration with Emeritus, aims to enhance the tech skills of early and mid-level professionals",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty-11676549902004.html",
-      "originalUrl": "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty-11676549902004.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/02/16/600x338/EMRT_1676550476050_1676550481097_1676550481097.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty/amp-11676549902004.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty/amp-11676549902004.html",
-      "publishedDateTime": "2023-02-16T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -53,17 +53,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Nvidia To Build DGX Complexes In Clouds To Better Capitalize On Generative AI"
-    excerpt: "The details on the DGX Cloud are a bit thin – Huang will provide more insight at the spring GPU Technical Conference 2023 next month – but we did geta bit of a teaser. “To help put AI within reach of every enterprise customer, we are partnering with ..."
-    publishedDateTime: 2023-02-23T02:50:00Z
-    webUrl: "https://www.nextplatform.com/2023/02/22/nvidia-to-build-dgx-complexes-in-clouds-to-better-capitalize-on-generative-ai/"
-    ampWebUrl: "https://www.nextplatform.com/2023/02/22/nvidia-to-build-dgx-complexes-in-clouds-to-better-capitalize-on-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/02/22/nvidia-to-build-dgx-complexes-in-clouds-to-better-capitalize-on-generative-ai/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 38
   - title: "Nvidia CEO Says AI Will Allow Anyone to Be a Programmer"
     excerpt: "ChatGPT and generative AI has become all the rage in recent weeks. Nvidia has done its share of talking up the technology recently. The company’s CEO has hailed it as the next big thing in computing."
     publishedDateTime: 2023-02-23T19:18:00Z

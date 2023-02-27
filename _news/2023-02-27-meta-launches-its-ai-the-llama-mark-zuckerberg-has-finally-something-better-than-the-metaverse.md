@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-ma
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1"
 type: article
 quality: 75
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
     excerpt: "Amazon a leader in the e-commerce industry and leader in cloud services with its Amazon Web Services (AWS), is making inroads with AI."
     publishedDateTime: 2023-02-27T15:22:00Z
     webUrl: "https://finbold.com/amazon-files-2-trademarks-covering-robots-featuring-ai-in-metaverse/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 54
+    images:
+      - url: "https://finbold.com/app/uploads/2023/02/Amazon-files-2-trademarks-for-‘robots-featuring-AI-in-the-metaverse.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Amazon files 2 trademarks for ‘robots featuring AI’ in the metaverse"
+    excerpt: "Amazon a leader in the e-commerce industry and leader in cloud services with its Amazon Web Services (AWS), is making inroads with AI."
+    publishedDateTime: 2023-02-27T16:22:00Z
+    webUrl: "https://finbold.com/amazon-files-2-trademarks-for-robots-featuring-ai-in-the-metaverse/"
     type: article
     provider:
       name: Finbold | Finance in Bold

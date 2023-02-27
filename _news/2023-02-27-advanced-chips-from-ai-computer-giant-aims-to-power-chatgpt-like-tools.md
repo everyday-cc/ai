@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Snapchat Launches Its Own Chatbot AI to Rival ChatGPT"
+    excerpt: "Snapchat on Monday said it is launching its own generative artificial intelligence chatbot, called My AI, powered by the latest version of OpenAI's GPT technology, the same technology used in ChatGPT."
+    publishedDateTime: 2023-02-27T17:25:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/snapchat-launches-its-own-chatbot-ai-to-rival-chatgpt/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/snapchat-launches-its-own-chatbot-ai-to-rival-chatgpt/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/snapchat-launches-its-own-chatbot-ai-to-rival-chatgpt/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/9cafdb325bf2a75205d177ac0dd168bec62eeee7/hub/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ChatGPT and its implications for customer experience"
     excerpt: "LLM-based chatbots like ChatGPT and conventional chatbots fulfill somewhat different purposes, but LLMs will be heavily used in CX."
     publishedDateTime: 2023-02-26T17:15:00Z
@@ -146,6 +162,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "ChatGPT Killed the Radio Star? These AI-Powered Chatbots Can Replace DJs"
+    excerpt: "The RadioGPT system taps OpenAI's GPT-3 language model, along with an AI-generated voice, to create an artificial DJ capable of reading the news during song breaks."
+    publishedDateTime: 2023-02-27T18:04:00Z
+    webUrl: "https://www.pcmag.com/news/chatgpt-killed-the-radio-star-these-ai-powered-chatbots-can-replace-djs"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 66
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04SpOo2lEosf80ttweNfXwU-1.fit_lim.size_1200x630.v1677515547.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Hot Topics: ChatGPT’s challenges and charms for the classroom – here’s what educators think of revolutionary AI chatbot"
     excerpt: "Since the AI chatbot was launched last November, it has gained more than 100 million users, but many are worried about its impact on education."
     publishedDateTime: 2023-02-26T22:53:00Z
@@ -200,6 +230,22 @@ related:
         width: 640
         height: 453
         isCached: true
+  - title: "Snapchat is launching its own ChatGPT bot called My AI"
+    excerpt: "Snapchat is launching its own chatbot powered by OpenAI's ChatGPT called My AI that'll be available to Snapchat Plus subscribers to start with plans to roll it out to all Snapchat users in the future."
+    publishedDateTime: 2023-02-27T18:25:00Z
+    webUrl: "https://www.shacknews.com/article/134350/snapchat-launching-chatgpt-bot-my-ai"
+    ampWebUrl: "https://www.shacknews.com/article/134350/snapchat-launching-chatgpt-bot-my-ai?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134350/snapchat-launching-chatgpt-bot-my-ai?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/02/27/snapchat-launching-chatgpt-bot-my-ai-news_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet"
     excerpt: "Google, with Bard, and OpenAI, with ChatGPT are making AI chatbot technology previously restricted to test labs more accessible to the general public. How do these Large Language Model (LLM) programs work?"
     publishedDateTime: 2023-02-23T23:02:00Z
@@ -225,6 +271,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Baidu to integrate AIGC into its app, cloud and search services"
+    excerpt: "Baidu announced that it is launching an upgraded version of Ernie Bot 3.0 (Wen Xin Yi Yan) in March, 2023. As Baidu's answer to ChatGPT, the AI-generative content (AIGC) service will be fully ..."
+    publishedDateTime: 2023-02-23T15:42:00Z
+    webUrl: "https://www.digitimes.com/news/a20230223VL205/aigc-baidu-chatgpt.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230223vl205_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "ChatGPT and Bing’s AI chatbot are just stupid enough to work"
     excerpt: "Leave the AI-written content to CNET. As a writer, I was naturally curious to see how good ChatGPT was as a news and opinion writer. Not because I wanted to start cheating and having a bot write for me, but because of self-preservation — how close am I ..."
     publishedDateTime: 2023-02-24T23:10:00Z
@@ -239,29 +299,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Using AI like ChatGPT costs more than other internet searches. It's a billion-dollar problem"
-    excerpt: "For instance, SemiAnalysis, a research and consulting firm focused on chip technology, said adding ChatGPT-style AI to search could cost Alphabet $3 billion, an amount limited by Google's in-house ..."
-    publishedDateTime: 2023-02-23T01:32:00Z
-    webUrl: "https://www.ksl.com/article/50584679/using-ai-like-chatgpt-costs-more-than-other-internet-searches-its-a-billion-dollar-problem"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 28
-    images:
-      - url: "https://img.ksl.com/slc/2916/291697/29169717.JPG?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
-  - title: "Nvidia to drive AI business amid ChatGPT hype"
-    excerpt: "As the sluggish PC market drags on Nvidia's performance, the fabless chip design company is eyeing the AI hype that is driven by services, especially ChatGPT. Nvidia posted its fiscal fourth-quarter financial results that ended on January 29, 2023."
-    publishedDateTime: 2023-02-23T02:45:00Z
-    webUrl: "https://www.digitimes.com/news/a20230223VL201/ai-chatgpt-nvidia.html"
+  - title: "AV vehicle costs to continue declining as supply chain localizes, says Baidu"
+    excerpt: "According to Li Zhen-yu, SVP and GM of Baidu's intelligent driving group, each vehicle of Apollo Go provides more than 15 rides a day on average in top cities like Beijing, a volume quite close to ..."
+    publishedDateTime: 2023-02-24T10:21:00Z
+    webUrl: "https://www.digitimes.com/news/a20230223VL208/adas+av-baidu-chatgpt.html"
     type: article
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 19
+    quality: 36
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230223vl208_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
     excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
     publishedDateTime: 2023-02-24T14:15:00Z
@@ -317,6 +368,6 @@ related:
       domain: dahe.cn
     quality: 4
 
-secured: "am5cWES6tb5oV6RmP+YlRQ5h4k5n7YCprs85as45g3cbf7816j9vtH4Q9va8Olste92195SypafcbQZo64d58A83k571bZhwrtK61hQdB4QrXEN85f921ln0EM7yqhvMZfso1IUgdVacm5B6VOWt/Ng6dVaxm3VloBFMkS6SXALOCLQx/jbbjVOeSzYGWfUchQa6zqzhbgHA5gvC+Z/x9tv0zOYY+iF0HJsEbrn1UFcT6ZeDriOIN1MAXVEsz3JYnzatAT8yj3VyeF9hBdk4Em0JByVDTOrNSgrMB1t/0sLtFDTbVD02Yi2oW9dtwey0aOwiHXOvy0IXP391+L5SOVemYXw5ppk3M1uNejDMOoU=;26ZHc/CrFxw3tFfjwCUqDg=="
+secured: "oPdHWzcUQ9aD7XAfMR2TF30VoZphMLoOatjoYzL5v09KhAkCJ+FxSYWR6KWSazwASz5HkkLB81oXhoEgO+xMhhhZ1zHW92DZ0AmGDUPavqRMsfqB/YKASoXqPn+EN1HBBZFseccY0RcnrvGMwUQ6T1wEdXN4GwOMTHKvSmFEFMNzMU534dzqlS5qWQhlBwIeOWBGSBoWN00kwun5LG27Qh4pJj/aVAme7/6BPBiseWVMymHaR/W8ni9qu24IZJjy6t202dDQo84xIG6rPlhLV/LPCm7tjqCP1G3oYqW5/Pb21rnmNhz9GZQO/gGUMhpKL07fAOyfbKpQ/Y4Y5aH30EOH/YCsuxkF4s5UATH1vVn1XymyWesZvBN9faLMPZG22Cf4OzI1CejFYPYO24bi/5281KxTZ4Hy7SYHVzi0icb/ZgYCGnVXvv++C0RMzoI3B1qOrh/dmCeRBj9zGKAVzMcy3f7t9jdxX3tfUWVcXhxhYQc5o/ScR0AXg8El7vwahY1hvln4igSwl4b7eO8z/w==;BJBHoXW/9XN1+txIn2BGOw=="
 ---
 

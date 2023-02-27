@@ -104,20 +104,34 @@ related:
       domain: pcmag.com
     quality: 60
   - title: "Microsoft introduces next-generation hybrid cloud platform"
-    excerpt: "According to a report in tech publication TechCrunch, the tech giant believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership."
+    excerpt: "Microsoft: According to a report in tech publication TechCrunch, the tech giant believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership."
     publishedDateTime: 2023-02-27T08:28:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/microsoft-introduces-next-generation-hybrid-cloud-platform/98268257"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/cloud-computing/microsoft-introduces-next-generation-hybrid-cloud-platform/98268257"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/cloud-computing/microsoft-introduces-next-generation-hybrid-cloud-platform/98268257"
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
+      name: telecom.economictimes.indiatimes
       domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-98268257,imgsize-112440,width-1200,height-628,overlay-etcio/microsoft-introduces-next-generation-hybrid-cloud-platform.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-98270586,imgsize-112440,width-1200,height-628,overlay-ettelecom/microsoft-introduces-next-generation-hybrid-cloud-platform.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "AI workflow tool secures $65M from backers including Microsoft, Google"
+    excerpt: "Typeface helps marketers create image and copy assets for platforms like Instagram while aiming to preserve their personal style and brand safety."
+    publishedDateTime: 2023-02-27T18:50:00Z
+    webUrl: "https://www.marketingdive.com/news/generative-AI-solution-launch-Google-Microsoft/643628/"
+    type: article
+    provider:
+      name: Marketing Dive
+      domain: marketingdive.com
+    quality: 54
+    images:
+      - url: "https://www.marketingdive.com/imgproxy/2VcpDEawlm1498rKC3S7gsBFK_IK5pwONO68FOBNDuo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDQ3NDkwNDAuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
   - title: "Stefanini Group partners with Microsoft to integrate simultaneous translation platform into Microsoft Teams"
     excerpt: "Integrating Microsoft Azure AI, Voicero is now available through Microsoft Azure Marketplace and AppSource SOUTHFIELD, Mich., /PRNewswire/ -- Millions of meetings are held daily by people who speak"

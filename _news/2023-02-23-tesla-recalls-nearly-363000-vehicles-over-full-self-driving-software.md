@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 698
         isCached: true
+  - title: "Tesla pauses rollout of Full Self-Driving beta software"
+    excerpt: "Tesla paused the rollout of its Full Self-Driving beta software in the United States and Canada following a recall of the system."
+    publishedDateTime: 2023-02-27T18:03:00Z
+    webUrl: "https://techcrunch.com/2023/02/27/tesla-pauses-rollout-of-full-self-driving-beta-software/"
+    ampWebUrl: "https://techcrunch.com/2023/02/27/tesla-pauses-rollout-of-full-self-driving-beta-software/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/27/tesla-pauses-rollout-of-full-self-driving-beta-software/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla disappoints owners with updated language around ‘Full Self-Driving Beta’"
     excerpt: "Tesla has updated some of the language around its “Full Self-Driving Beta” program following the NHTSA recall, and some"
     publishedDateTime: 2023-02-27T15:29:00Z

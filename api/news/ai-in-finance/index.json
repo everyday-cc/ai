@@ -195,41 +195,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-17-global-deep-learning-market-report-2023-2027-rise-in-the-adoption-of-cloud-technology-applications-in-automotive-industry-fueling-demand.md",
-      "title": "Global Deep Learning Market Report 2023:-2027: Rise in the Adoption of Cloud Technology & Applications in Automotive Industry Fueling Demand",
-      "excerpt": "The global deep learning market is expected to grow at an impressive CAGR in the forecast period, 2023-2027 Reduction in hardware costs, improvement of computational power, and rise in adoption of cloud-based technology are the primary factors driving the demand for the global deep learning market for the next five years.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/02/17/9762438.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/02/17/9762438.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-02-17-bluefire-ai-appoints-fintech-connex-as-adviser.md",
       "title": "BlueFire AI Appoints Fintech Connex as Adviser",
       "excerpt": "Building on an already successful relationship, BlueFire AI, the award-winning provider of artificial intelligence for capital markets participants, appoints Fintech Connex as its adviser. The two firms will work closely together as Bluefire builds on its excellent traction with clients and investors.",
@@ -1373,6 +1338,59 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-machine-learning-could-turbocharge-the-search-for-extraterrestrial-intelligence.md",
+      "title": "Machine learning could turbocharge the search for extraterrestrial intelligence",
+      "excerpt": "The field of SETI, or the search for extraterrestrial intelligence, is accelerating to new heights thanks to developments in machine learning. “I think it’s a very important question to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/2/6/23588099/seti-machine-learning-extraterrestrial-intelligence-study",
+      "originalUrl": "https://www.theverge.com/2023/2/6/23588099/seti-machine-learning-extraterrestrial-intelligence-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/LSZIa0C7uTGG9Wwe_v2iv1cXo0w=/0x0:1024x735/1200x628/filters:focal(512x368:513x369)/cdn.vox-cdn.com/uploads/chorus_asset/file/24091189/hubble_palate_.jpeg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T13:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

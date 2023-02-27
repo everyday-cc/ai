@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "In Ukraine, Identifying the Dead Comes at a Human Rights Cost"
-    excerpt: "Five days after Russia launched its full-scale invasion of Ukraine, a year ago this week, US-based facial recognition company Clearview AI offered the Ukrainian government free access to its ..."
-    publishedDateTime: 2023-02-23T02:39:00Z
-    webUrl: "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/"
-    ampWebUrl: "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/63f6321a7d87edd2f4f351b3/master/pass/ideas_GettyImages-1246812281.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "War in Ukraine accelerates global drive toward killer robots"
     excerpt: "Both announcements reflect a crucial lesson militaries around the world have learned from recent combat operations in Ukraine and Nagorno-Karabakh: Weaponized artificial intelligence is the future of warfare."
     publishedDateTime: 2023-02-27T12:26:00Z

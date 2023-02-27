@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-28-this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck.md",
+      "title": "This week in data: The ML, AI and data landscape with Matt Turck",
+      "excerpt": "What happened in data this week? Matt Turck joins Bruno Aziza to discuss key trends and the current ML, AI and data landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Feb-27.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/amp/",
+      "publishedDateTime": "2023-02-27T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-till-2029.md",
       "title": "Automated Machine Learning (AutoML) Market Analysis Report 2023 Along with Statistics Figures, till 2029",
       "excerpt": "The report focuses on the Automated Machine Learning (AutoML) market size, segment size (mainly covering product type, application, and geography), competitor landscape, recent status, and development trends.",
@@ -625,8 +677,8 @@
       "title": "Global Deep Learning Market Report 2023:-2027: Rise in the Adoption of Cloud Technology & Applications in Automotive Industry Fueling Demand",
       "excerpt": "The global deep learning market is expected to grow at an impressive CAGR in the forecast period, 2023-2027 Reduction in hardware costs, improvement of computational power, and rise in adoption of cloud-based technology are the primary factors driving the demand for the global deep learning market for the next five years.",
       "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/02/17/9762438.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/02/17/9762438.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-global-deep-learning-market-report-2023-2027-rise-/2023/02/17/9762438.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-global-deep-learning-market-report-2023-2027-rise-/2023/02/17/9762438.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -636,7 +688,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T06:47:00-08:00",
+      "publishedDateTime": "2023-02-17T05:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -650,9 +702,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1379,50 +1430,6 @@
         "AI in Healthcare",
         "Natural Language Processing",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-ai-and-ml-are-transforming-industries-sigma-solve-us.md",
-      "title": "AI and ML are Transforming Industries | Sigma Solve US",
-      "excerpt": "All around the globe, businesses are experiencing the best times of their lives following the advent of AI and ML. Artificial Intelligence and Machin",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105576649/AI-and-ML-are-Transforming-Industries-Sigma-Solve-US",
-      "originalUrl": "https://menafn.com/1105576649/AI-and-ML-are-Transforming-Industries-Sigma-Solve-US",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-02/15/pr_15391_30ff920e_image_story.png",
-          "width": 960,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T19:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

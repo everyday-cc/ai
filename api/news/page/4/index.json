@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-23-yes-artificial-intelligence-has-a-creative-side-sort-of.md",
+      "title": "Yes, Artificial Intelligence Has A Creative Side, Sort Of",
+      "excerpt": "Despite perceptions, artificial intelligence doesn’t have a shred of creativity within it. It’s all statistical algorithms, slurping data from sources created by humans somewhere along the line. It will never be a source of innovation, but will serve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f6e7b2e6d9f35a9b8ba852/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/amp/",
+      "publishedDateTime": "2023-02-22T19:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-23-in-ukraine-identifying-the-dead-comes-at-a-human-rights-cost.md",
+      "title": "In Ukraine, Identifying the Dead Comes at a Human Rights Cost",
+      "excerpt": "Five days after Russia launched its full-scale invasion of Ukraine, a year ago this week, US-based facial recognition company Clearview AI offered the Ukrainian government free access to its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
+      "originalUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63f6321a7d87edd2f4f351b3/master/pass/ideas_GettyImages-1246812281.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp",
+      "publishedDateTime": "2023-02-22T18:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-23-machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales.md",
       "title": "Machine learning could fix the prioritization problem in B2B tech sales",
       "excerpt": "Machine learning (ML) is at a point where it can enable data-driven precision for approaching the right customer contact with the right pitch at the right moment. Teams wary of trusting ML to date may not have as much of a choice in the matter — but will ...",
@@ -1043,109 +1147,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-roger-c-schank-theorist-of-artificial-intelligence-dies-at-76.md",
-      "title": "Roger C. Schank, Theorist of Artificial Intelligence, Dies at 76",
-      "excerpt": "By Steve Lohr Roger C. Schank, a scientist who made influential contributions to the field of artificial intelligence and then, as an academic, author and entrepreneur, focused on how people learn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
-      "originalUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/17Schank-czhl-print1/17Schank-czhl-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
-      "publishedDateTime": "2023-02-20T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-artificial-intelligence-opens-new-possibilities-if-the-data-allows.md",
-      "title": "Artificial Intelligence Opens New Possibilities, If The Data Allows",
-      "excerpt": "It's the result of the data behind it. Can artificial intelligence make us more creative and innovative? It’s a subject of hot debate and discussion. A recent analysis out of the Gottlieb Duttweiler Institute suggests that,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f3fbedc81e448fba56b89c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/amp/",
-      "publishedDateTime": "2023-02-20T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,101 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-02-09-artificial-intelligence-in-content-creation.md",
+      "title": "Artificial Intelligence in Content Creation",
+      "excerpt": "Neural networks work best with the English language, and I think that robots already write in English better than non-English speaking people. Artificial intelligence knows how to use idioms, metaphors, and adjectives; and services are able to follow the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lbbonline.com/news/artificial-intelligence-in-content-creation",
+      "originalUrl": "https://www.lbbonline.com/news/artificial-intelligence-in-content-creation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/actual-final-dall-e-cosmo-cover-1655775574.png?resize=980:*",
+          "width": 980,
+          "height": 1225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "lbbonline",
+        "domain": "lbbonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-the-best-dictation-software.md",
+      "title": "The Best Dictation Software",
+      "excerpt": "But the technology behind dictation software (also called speech-to-text or voice-recognition software) has some faults. These apps have difficult learning curves, and the inherent bias that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/wirecutter/reviews/best-dictation-software/",
+      "originalUrl": "https://www.nytimes.com/wirecutter/reviews/best-dictation-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thewirecutter.com/wp-content/media/2023/02/dictationsoftware-2048px-09273-3x2-1.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/wirecutter/reviews/best-dictation-software/amp/",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/reviews/best-dictation-software/amp/",
+      "publishedDateTime": "2023-02-09T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-is-artificial-intelligence-helping-q-c-students-cheat.md",
       "title": "Is artificial intelligence helping Q-C students cheat?",
       "excerpt": "Once text or data is fed into the program, it uses an \"artificial neural network\" to generate a response. Dr. Forrest Stonedahl, an Augustana computer science and math professor, dubs the ...",
@@ -953,83 +1048,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-can-autoregressive-language-model-in-power-bi-enhance-efficiency-in-data-analytics.md",
-      "title": "Can Autoregressive Language Model In Power BI Enhance Efficiency In Data Analytics?",
-      "excerpt": "This is a Guest Blog by Mr Piyush Goel, Founder & CEO of Beyond Key In today’s world, where everything is centered around data manipulation and meeting customer demands precisely, using natural language to search through your data is the quickest approach to finding an answer from it.",
-      "sourceUrl": null,
-      "webUrl": "https://trak.in/stories/can-autoregressive-language-model-in-power-bi-enhance-efficiency-in-data-analytics/",
-      "originalUrl": "https://trak.in/stories/can-autoregressive-language-model-in-power-bi-enhance-efficiency-in-data-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://trak.in/stories/wp-content/uploads/2023/02/AI-And-Chatbots-Opt-1-1280x720-1-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T15:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Trak.in - India Business Blog",
-        "domain": "trak.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-investigation-finds-ai-algorithms-objectify-womens-bodies.md",
-      "title": "Investigation Finds AI Algorithms Objectify Women’s Bodies",
-      "excerpt": "AI tools rate photos of women as more sexually suggestive than those of men, especially if nipples, pregnant bellies or exercise is involved Images posted on social media are analyzed by",
-      "sourceUrl": null,
-      "webUrl": "https://pulitzercenter.org/stories/investigation-finds-ai-algorithms-objectify-womens-bodies",
-      "originalUrl": "https://pulitzercenter.org/stories/investigation-finds-ai-algorithms-objectify-womens-bodies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T15:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pulitzer Center",
-        "domain": "pulitzercenter.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

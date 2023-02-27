@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-26-the-robot-revolution-arrives-on-mountain-views-castro-street.md",
+      "title": "The robot revolution arrives on Mountain View’s Castro Street",
+      "excerpt": "You can see a working robot in action at the new concept store and robot space opened by software company InOrbit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
+      "originalUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/02/SJM-L-PIZARRO-COL-0226-01-2.jpg?w=1024&h=758",
+          "width": 1024,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
+      "publishedDateTime": "2023-02-25T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices.md",
+      "title": "Magic Eraser comes to more devices, Spotify gains an AI DJ, and Netflix decreases prices",
+      "excerpt": "In this edition of Week in Review, we recap Google's Magic Eraser coming to more devices, Spotify gaining an AI DJ, and Netflix decreasing prices.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/",
+      "originalUrl": "https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1184944891.jpeg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/amp/",
+      "publishedDateTime": "2023-02-25T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-26-why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment.md",
       "title": "Why Nvidia CEO Jensen Huang says this is generative AI’s moment",
       "excerpt": "But Jensen Huang, CEO of Nvidia, said that generative AI is expected to create a significant opportunity that will accelerate later this year. Nvidia’s stock price rose on the opportunity, and Huang noted how generative AI will be front and center at its ...",
@@ -10,7 +104,7 @@
       "originalUrl": "https://venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -267,7 +361,7 @@
       "originalUrl": "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -518,7 +612,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-global-research-report-2023---2028-2023-02-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 429,
+      "heat": 459,
       "tags": null,
       "images": [
         {
@@ -1158,112 +1252,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-everything-you-wanted-to-know-about-ai-but-were-afraid-to-ask.md",
-      "title": "Everything you wanted to know about AI – but were afraid to ask",
-      "excerpt": "From chatbots to deepfakes, here is the lowdown on the current state of artificial intelligence Barely a day goes by without some new story about AI, or artificial intelligence. The excitement about it is palpable – the possibilities, some say ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "originalUrl": "https://www.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/543d6b74c91d5d5fb908173506f00e60567f9f5c/0_70_5704_3422/master/5704.jpg?width=620&quality=85&auto=format&fit=max&s=4854fc9c9b45b2aa64285c3d335f0a4f",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/24/ai-artificial-intelligence-chatbots-to-deepfakes",
-      "publishedDateTime": "2023-02-24T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond.md",
-      "title": "Experts predict how AI will energize cybersecurity in 2023 and beyond",
-      "excerpt": "From behavioral analytics to endpoint and patch management, experts predict the many ways AI will boost cybersecurity this year and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/",
-      "originalUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/6-Cujo-AI-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/amp/",
-      "publishedDateTime": "2023-02-24T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

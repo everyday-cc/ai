@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 698
         isCached: true
+  - title: "Tesla pauses rollout of Full Self-Driving beta software"
+    excerpt: "Tesla paused the rollout of its Full Self-Driving beta software in the United States and Canada following a recall of the system."
+    publishedDateTime: 2023-02-27T18:03:00Z
+    webUrl: "https://techcrunch.com/2023/02/27/tesla-pauses-rollout-of-full-self-driving-beta-software/"
+    ampWebUrl: "https://techcrunch.com/2023/02/27/tesla-pauses-rollout-of-full-self-driving-beta-software/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/27/tesla-pauses-rollout-of-full-self-driving-beta-software/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla recalls nearly 363,000 vehicles over 'Full Self-Driving' software"
     excerpt: "DETROIT — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn't always ..."
     publishedDateTime: 2023-02-23T04:44:00Z
@@ -62,6 +78,6 @@ related:
         height: 641
         isCached: true
 
-secured: "upFZoXi8qeDuYH6n5btpGPJMRbKtia5PwUyCKhs3At8rGgUuyjOFjJUwBspN6eTayy4TemEwQbhvub4PIoTHVn3sCUcE3yuRVWvavfEAP0RBCu6faj08C2FchoqGJVRiT3AA2cRJcHVU+QUPPVq1J3zbv5gbca6CsznrZ0xGp7Fy/7jCgMH2x3awELtJztjY/osOKR53QPKnKhsZvdrnBm9igqtUxn6pJuejSEeL6DlIkjEgOq3hWlYuCU4VreH6rkloAN/EjCHaBezInUUEczbMaKmuq0DBqqUwHNkgfhYsIfZ50KDgVodCz1rlUKoSXifCFRffS4hJOkc6L4lo251r+me3TJRrrXHoHjbEb5U=;d88ZpPVJ+lGsTMe7t60R0g=="
+secured: "KwfXFjY20nyOODJw2EequSwjSxI/IXiTn1a04iaGhwUXZVHqX5rpTI9cxuzGyLPA0wN8Fjwg1ukvX7o0F4hQIfZKkzU/nB8PvloKJBfZ+/Jzjr3U736U7jmtP+qc+H5Wx7jMp943m25joO2tvPz0aLtb8Q78nXJeUXWExMJeX/gQw0gf97YbeaXGftAX3C11kMgMTtO56Z8IDG72FjiTmmJ2tsyT6XjfJK/mf1LhdamN8n1vTWCBoFT/hVTntXgjKjzPJMEbkYE9dvuLcEKlr9+ZPz/ZiwM+GiVzXXqZXWt0VnvwySvVGKYPELvJxiX1MCzmXtAkYCCl8/25PZmdMUFGZq3fIH0YyENfcL7t/ID8jBIKdn8CmbA4L+aknOnsxBCxwKgu/Q+PVdPg5mStzZlqqiGSQ2x3A6bO6SSnNN6gcZQOaoJ+9JGsnECqa46OkRx29h3HvZK50FgkyIPned8OOTbRAQFysoN2J6mwf/9tc/h93RTW2cEQofnRg3pTo54T5+WZFb1cx3irZfnLeg==;GxOeJggy3TEwoFHgGI/nZQ=="
 ---
 

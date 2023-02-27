@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-02-07-machine-learning-could-turbocharge-the-search-for-extraterrestrial-intelligence.md",
-      "title": "Machine learning could turbocharge the search for extraterrestrial intelligence",
-      "excerpt": "The field of SETI, or the search for extraterrestrial intelligence, is accelerating to new heights thanks to developments in machine learning. “I think it’s a very important question to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/2/6/23588099/seti-machine-learning-extraterrestrial-intelligence-study",
-      "originalUrl": "https://www.theverge.com/2023/2/6/23588099/seti-machine-learning-extraterrestrial-intelligence-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/LSZIa0C7uTGG9Wwe_v2iv1cXo0w=/0x0:1024x735/1200x628/filters:focal(512x368:513x369)/cdn.vox-cdn.com/uploads/chorus_asset/file/24091189/hubble_palate_.jpeg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T13:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-02-07-what-it-takes-to-build-a-disruptive-fintech-company-in-2023.md",
       "title": "What It Takes To Build A Disruptive Fintech Company In 2023",
       "excerpt": "The Fintech industry is one of the fastest growing sectors for businesses, but breaking into it isn't without challenges.",
@@ -1305,6 +1252,58 @@
         "name": "ConsumerAffairs",
         "domain": "consumeraffairs.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-20-seattle-fintech-meetup-measure-what-matters-dei-in-fintech.md",
+      "title": "Seattle Fintech Meetup: “Measure What Matters: DEI in Fintech”",
+      "excerpt": "Included.ai and Remitly are excited to co-host a special event focusing on an important topic near to our hearts: diversity, equity, and inclusion in tech. Our theme is “Measure What… Read More",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-measure-what-matters-dei-in-fintech/",
+      "originalUrl": "https://www.geekwire.com/calendar-event/seattle-fintech-meetup-measure-what-matters-dei-in-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/01/Fintech-Meetup-2.png",
+          "width": 1828,
+          "height": 958,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T16:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

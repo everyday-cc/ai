@@ -25,39 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Madison Square Garden grilled over facial recognition technology"
-    excerpt: "Madison Square Garden was in the hot seat at a New York City Council meeting Friday as council members posed questions about how the venue uses its facial recognition technology to allegedly ban lawyers involved in lawsuits against them."
-    publishedDateTime: 2023-02-25T01:08:00Z
-    webUrl: "https://www.fox5ny.com/video/1185566"
-    ampWebUrl: "https://www.fox5ny.com/video/1185566.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/video/1185566.amp"
+  - title: "Backlash to MSG ‘enemies list’ could be a total ban on facial recognition tech"
+    excerpt: "When you weaponize facial recognition, you invade our fundamental right to privacy,” warned Samuel Davis, a partner at personal injury law firm at Davis, Saperstein & Salomon, at a City Council oversight hearing on Friday."
+    publishedDateTime: 2023-02-24T19:40:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/backlash-msg-enemies-list-could-be-total-ban-facial-recognition-tech"
     type: article
     provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 39
-  - title: "Facial recognition technology at Madison Square Garden and other venues scrutinized by New York City Council"
-    excerpt: "New York City has laws requiring businesses to inform customers when facial recognition technology is in use, but some lawmakers may want to take it further."
-    publishedDateTime: 2023-02-24T16:50:00Z
-    webUrl: "https://www.cbsnews.com/newyork/news/facial-recognition-technology-at-madison-square-garden-venues-scrutinized-by-new-york-city-council/"
-    ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/facial-recognition-technology-at-madison-square-garden-venues-scrutinized-by-new-york-city-council/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/facial-recognition-technology-at-madison-square-garden-venues-scrutinized-by-new-york-city-council/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 20
-  - title: "Facial recognition technology at Madison Square Garden and other venues scrutinized at New York City Council hearing"
-    excerpt: "New York City has laws requiring businesses to inform customers when facial recognition technology is in use, but some lawmakers may want to take it further."
-    publishedDateTime: 2023-02-24T21:33:00Z
-    webUrl: "https://www.cbsnews.com/newyork/news/facial-recognition-technology-at-madison-square-garden-venues-scrutinized-by-new-york-city-council-msg/"
-    ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/facial-recognition-technology-at-madison-square-garden-venues-scrutinized-by-new-york-city-council-msg/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/facial-recognition-technology-at-madison-square-garden-venues-scrutinized-by-new-york-city-council-msg/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 16
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 37
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/styles/width_792/s3/338866564_1-9.jpg"
+        width: 792
+        height: 528
+        isCached: true
 
 secured: "h6++snAh+8RSzR2y6NSrdybSJBWL9Ql4UcxLhelewPDrVUXQz6URQIfEUsyD7g4NLlrsvnxWmRph5V58Uy7Bulzb+knahxVJh4Xoz/A41N3FctEkYAgrkzuFZ7nkw76QpjNBsxq5CFmQ07iCcDaOt83uKV+3qFq7ECE1A+nbGuvF4PGB1LhfWkSYpmBf5BR3OTSB8Asku33FMUeraECod5qeCyvuF7jSxMH/gSLukkUQiv6TYq1d1P3HKG9W/kORmoczmFwarfZoaSQdb7CpRwKRMbSz9gY98hGr2U+UALZ9DgFyfTvPNbQxOlyfyRTdrd+wK056zEKifsb+4L1JUvr6/LvZfv6zPH6QF2B//Z0=;bGePprK28omVm/U3YOosrA=="
 ---

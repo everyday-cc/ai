@@ -184,6 +184,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2029 Forecast Artificial Intelligence (AI) Chips Market by Growth Rate, Data Analytics, Sparked Innovation with Top Players"
+    excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “ Artificial Intelligence (AI) Chips Market ” Size 2023 Key players Profiled in the Report are [,"
+    publishedDateTime: 2023-02-27T15:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2029-forecast-artificial-intelligence-ai-chips-market-by-growth-rate-data-analytics-sparked-innovation-with-top-players-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Chip Market 2023 : Development, Growth, Key Factors And Forecast To 2028"
     excerpt: "Feb 24, 2023 (The Expresswire) -- \"Artificial Intelligence Chip Market\" Report provides a Detailed analysis of global market size, regional and"
     publishedDateTime: 2023-02-25T01:36:00Z
@@ -370,6 +384,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+  - title: "Artificial Intelligence In Military Market Share, Size, Trends, Industry Analysis Report By 2023 To 2029"
+    excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected"
+    publishedDateTime: 2023-02-27T15:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-share-size-trends-industry-analysis-report-by-2023-to-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023 Global AI In Computer Vision Market: Most Recent & In-Depth Analysis and Forecast of Industry till 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 24, 2023 (The Expresswire) -- The \"AI In Computer Vision Market\" Growth for 2023 research report provides a comprehensive analysis of the market. Besides revenue ..."
     publishedDateTime: 2023-02-24T17:55:00Z
@@ -379,6 +407,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+  - title: "Forecast for 2028, Mobile Speech Recognition Software Market 2023, Global Industry Trends, Share, Size, Growth, Demand"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- [115+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Mobile Speech Recognition Software Market” Size 2023 Key players ..."
+    publishedDateTime: 2023-02-27T15:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/forecast-for-2028-mobile-speech-recognition-software-market-2023-global-industry-trends-share-size-growth-demand-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market Share Growth 2023 All-Inclusive Research Growth Opportunities by 2027"
     excerpt: "The \"Artificial Intelligence in Drug Discovery Market\" Growth for 2023 research report provides a comprehensive analysis"
     publishedDateTime: 2023-02-24T05:19:00Z

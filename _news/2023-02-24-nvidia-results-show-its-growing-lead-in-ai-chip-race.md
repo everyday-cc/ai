@@ -2,31 +2,21 @@
 category: news
 title: "Nvidia results show its growing lead in AI chip race"
 excerpt: "AI is taking over the tech industry and, according to research firm Gartner, the share of specialized chips such as GPUs that are used in data centers is expected to rise to more than 15% by 2026 ..."
-publishedDateTime: 2023-02-23T20:39:00Z
-originalUrl: "https://www.reuters.com/technology/nvidia-results-show-its-growing-lead-ai-chip-race-2023-02-23/"
-webUrl: "https://www.reuters.com/technology/nvidia-results-show-its-growing-lead-ai-chip-race-2023-02-23/"
+publishedDateTime: 2023-02-24T01:30:00Z
+originalUrl: "https://www.nasdaq.com/articles/nvidia-results-show-its-growing-lead-in-ai-chip-race-0"
+webUrl: "https://www.nasdaq.com/articles/nvidia-results-show-its-growing-lead-in-ai-chip-race-0"
 type: article
-quality: 84
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.reuters.com/resizer/08Q0_sMNI0HsgkXRudWeQv9ZOHI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GFG36C4JS5N5XFILK6JAYYN4R4.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Nvidia stock rises after slight beat driven by A.I. chips"
@@ -114,6 +104,6 @@ related:
       domain: ibtimes.co.uk
     quality: 36
 
-secured: "TBkDtRnbEworeKOFbzdxaltQRl4Inl+MFcxp3JG94wtm0POZpV+e8VSmFzbf96feuTaZjfDhjodcIHTdMtaOT3vqLn92vcFnTvIB1KriheW71BvhoatTc/48FVmqEw15GjK9tz4BZ42yIO2R1fBtWU+TnfbRx+B1Nx5JaT8FGkkRbDPABDFHbMyxvTF0nOBaB8hERAlxpIAEcr1iJ9t6mFSTWyH7CDLtpy/K4eH5cN2jGy/Yu+OLKjO1OgEwwSP310d2hCGsOLygNslsG4ejQxfuVrxQFTyvOfR+jOnE8FJ3vGVNqemuaZH2pltX9c2mUp+ANLPri5TWoyW8AUwkRapRquXsjJXSMEc39WwiG/E=;Bq51I6Rnla+DkhAhPwfyBg=="
+secured: "PeFfL9HYg6wfySUlhFG6PrD4xqCaNr1MEnQdjDxR7N5/g/XGnzUjTVsRO+pijTEkO1c8riLok29SUiripC0i12267a72YVw9n9r3/iUV3lckCWKvrjzlydWIg2WplFMPEk0/V3uRn6xaciYhF6fgUuND8ITHn/s5TQIU7hXURAwrsROWhooLkxLfv6gezzzGBV7LMGZfD53J+YmUs/exIXO/8tOBChXi3EHHp6YyrW9XmLoDU9II8hZjSfEi9wonKilgsuBzaqkguxB7NhvBIv6knh38j8jp1qwqQlfCYsKJ2X6Jq6yzLCLtUA1C0jychGWvyVNlI0ePZvBjhmJPkxdyr4X0bNga6jGwt404rZo=;ZshG4khVHWOcdfTmETWImw=="
 ---
 

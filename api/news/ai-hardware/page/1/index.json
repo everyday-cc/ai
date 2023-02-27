@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-02-27-better-healthcare-ai-stock-nvidia-or-ge-healthcare.md",
-      "title": "Better Healthcare AI Stock: Nvidia or GE Healthcare?",
-      "excerpt": "Both companies are finding AI a useful part of how they do business. GE Healthcare uses its Edison platform to analyze patient data. Nvidia is developing AI chips for drug development and supercomputers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/26/better-healthcare-ai-stock-nvidia-or-ge-healthcare/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/26/better-healthcare-ai-stock-nvidia-or-ge-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/721962/woman-analyst-data-center-tablet-controls.jpg",
-          "width": 5760,
-          "height": 3240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-02-26-mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips.md",
       "title": "MediaTek may soon integrate Nvidia's AI GPUs in flagship mobile chips",
       "excerpt": "This would be a big step for Nvidia because it would show that established desktop GPU designs can also be ported to smartphone SoCs, reports Gizmochina",
@@ -106,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1481,6 +1428,49 @@
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-is-apple-letting-another-ai-opportunity-slip-away.md",
+      "title": "Is Apple letting another AI opportunity slip away?",
+      "excerpt": "AI that lets you select the text in any image. Apple does all this stuff. It’s so important to the company that they build a Neural Engine into all their chips, specialized hardware that accelerates machine learning tasks like these. Apple’s even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/1507282/apple-generative-ai-chatgpt-bard-bing.html",
+      "originalUrl": "https://www.macworld.com/article/1507282/apple-generative-ai-chatgpt-bard-bing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
