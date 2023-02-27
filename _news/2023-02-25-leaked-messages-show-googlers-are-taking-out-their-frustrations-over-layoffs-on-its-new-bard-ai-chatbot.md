@@ -65,15 +65,6 @@ related:
         width: 790
         height: 530
         isCached: true
-  - title: "What are ‘robot rights,’ and should AI chatbots have them?"
-    excerpt: "AI chatbots are all the rage. From ChatGPT to Bing’s new AI-powered search engine and Google’s new Bard chatbot, people are obsessed with seeing how they can replace tasks with AI and test its limits."
-    publishedDateTime: 2023-02-22T19:00:00Z
-    webUrl: "https://www.grid.news/story/technology/2023/02/22/what-are-robot-rights-and-should-ai-chatbots-have-them/"
-    type: article
-    provider:
-      name: grid
-      domain: grid.news
-    quality: 36
 
 secured: "ilFxaVtWAELEUM4VMMFXmAcMCq/bkRYhFgHTlf9KekF0hd/z0G9PXHWbI5od42z06VZaGYHmcD6aRYIKM7h+u1RTBVWAeAn+tCT20VWX4fTM8GCuI88SS9LFNQnUo1pv1tF9NsuCyeONkt0kcWSRChpin7WmU1AAvl+/K6Th0AT/nRSaXk4oyF1ht+uyju0AKzcdOpcT9L2qI6kPRTdphoXqtOeCi5CzCwuvDHxu1B6wC6Y2/lUgmusv/Ae0Z65JAy5PARbvY23KtvD9A0ok5XA6BYRzswoT4ph+6pwn9PoY7mNVomFwgrEwULmnPgFLIVLpFMsrXleLKmcXusIGGUPy8WaDkciIiSeZnuI4KoC4cFfnQe+oN/KvGmrVjcjwEy8jSmAOHFQD4P1QRcprj55NVSpHQPP1J/ObaujwwoMzFyb6wZHtzefhWKkWBsZUxGsP/9tskSR+7pUmUtJgUYZQqUddQ/PnNC7wAa2auAyrXQ9oVXE5HfVbtv7kXIMJGEV3tU40PkYrQd8Aw9sZxw==;97QJ5Ib5ml4WHLwePRBpCw=="
 ---

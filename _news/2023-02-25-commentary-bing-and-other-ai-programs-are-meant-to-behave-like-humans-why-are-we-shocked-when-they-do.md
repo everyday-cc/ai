@@ -7,7 +7,7 @@ originalUrl: "https://www.latimes.com/entertainment-arts/story/2023-02-24/commen
 webUrl: "https://www.latimes.com/entertainment-arts/story/2023-02-24/commentary-ai-bing-chatgpt-sentient-human-creators"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 3000
     height: 2000
     isCached: true
+
+related:
+  - title: "An AI Torah Commentary?"
+    excerpt: "What if the AI, tasked with producing comments on the Torah was truly able to bring their voices back to life? Would we be able to speak with my ancestors? Would it really be them? Am I reading my own thoughts when ChatGPT writes with my voice in response to my questions?"
+    publishedDateTime: 2023-02-27T07:30:00Z
+    webUrl: "https://blogs.timesofisrael.com/an-ai-torah-commentary/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 39
+    images:
+      - url: "https://static.timesofisrael.com/blogs/uploads/2023/02/Orange-and-Pink-Gradient-Modern-and-Cool-Instagram-Post-.png"
+        width: 1080
+        height: 1080
+        isCached: true
 
 secured: "+W1X0PlR6R9fMLUoRKcqiAnCyMTpg3Bj1aBrk9XgCWuTq39YcTEhbjPqK0pYVPXJWDQVY9VhIC2P/mq3nkPBqdwHYVQzdVsBvj7fbLug9sT1Br/8tIZnEAgUWKSWXqFHjJYHfZyoAx7byBcoh6J3JHSQpMYCwVKJam8uG6rr5DJu1R9bc4lSjBLEPP09wTRKUOkHViz9aihfF9uTR93lwyMmhzaWOcayqaMn3/9eFZftiIhNhWS0ZHNF6PfHpDmXIswg3/ppfHmlOAs6DuT35LEPBwvHYBenCSjXR314Rw6bzbml0ZjYwLzM6hyatsY9MpFmlRAIncms/Hkd6SlqZH8I3U547Qqq0nDZQbhY5qk=;sx/pEsGX7Ou588HlGjZ0Jg=="
 ---

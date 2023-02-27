@@ -2,6 +2,39 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-02-06-how-artificial-intelligence-is-playing-a-role-in-insect-farming.md",
+      "title": "How artificial intelligence is playing a role in insect farming",
+      "excerpt": "An AI engine developed by Singapore startup EntoVerse is helping cricket farmers improve yield by optimising environmental and other conditions",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/365530187/How-artificial-intelligence-is-playing-a-role-in-insect-farming",
+      "originalUrl": "https://www.computerweekly.com/news/365530187/How-artificial-intelligence-is-playing-a-role-in-insect-farming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/365530187/How-artificial-intelligence-is-playing-a-role-in-insect-farming?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/365530187/How-artificial-intelligence-is-playing-a-role-in-insect-farming?amp=1",
+      "publishedDateTime": "2023-02-05T21:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-ai-startup-funding-acquisition-report-2023.md",
       "title": "AI Startup Funding & Acquisition Report 2023",
       "excerpt": "Funding has increased marginally from $1,108 Million in 2021 to $1,109.62 Million in 2022. Moreover, funding rounds have decreased sharply from 135 in 2021 to 47 in 2022.",
@@ -955,49 +988,6 @@
       "provider": {
         "name": "This Day",
         "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-polypill-targeting-cv-risk-factors-may-slow-functional-but-not-cognitive-decline.md",
-      "title": "Polypill Targeting CV Risk Factors May Slow Functional, but Not Cognitive, Decline",
-      "excerpt": "However, an analysis from the International Polycap Study (TIPS-3) showed that its use alone or in combination with aspirin was not associated with a slowing of cognitive decline compared with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/987896",
-      "originalUrl": "https://www.medscape.com/viewarticle/987896",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/dt_230201_green_red_capsules_800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
         "images": null,
         "publishers": null,
         "authors": null

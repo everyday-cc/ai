@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
         width: 790
         height: 530
         isCached: true
-  - title: "What are ‘robot rights,’ and should AI chatbots have them?"
-    excerpt: "AI chatbots are all the rage. From ChatGPT to Bing’s new AI-powered search engine and Google’s new Bard chatbot, people are obsessed with seeing how they can replace tasks with AI and test its limits."
-    publishedDateTime: 2023-02-22T19:00:00Z
-    webUrl: "https://www.grid.news/story/technology/2023/02/22/what-are-robot-rights-and-should-ai-chatbots-have-them/"
-    type: article
-    provider:
-      name: grid
-      domain: grid.news
-    quality: 36
 
 secured: "LXtGwFtBqnvtKtUeSGiRTgHtWQo7SY1WncD0Gu7NPTMGXFQ9wkjpxoRx/mtFqqo3jQdvJrSTyeDn3KWRNLBElQTphKCRMtZ4M+YML62r4PgA+8CRhbNeWX2KtGC2WUKcISxZSBwoyOe3j73zO5yCRZJ+/qIrLwRiXMbnZnmugNq0VEDnpjJCCUvXJ4144zFtRExZ90rJTE8ol1ghk+8YH42LKRJUlczVW1oyZ1/FgbwAGwmDfDbgfYqZvLfz09t/pTd9cnrUH46h/fgKUsHJ8LhzzZLJRjQ+TQxiKTocPJ5cfxJo0xdEqhlEA/140ge8VZDfDuiPAtFz6HgOs+m098zCjHHdBlFv4oT50D/qhde5wsUvZSiWdj70prSq/LYksYDafTwKMV8dPX2eydm30FWmXq+Qt2jMqFZ9ry2avImVI5N5HN2VGz2tv9OCFvqpkhjPseJjHUvLQyB2fQeelHtkFvW2pxYNl3fSMmIej+JkKBxSFEfCGnXvjfSmQRsGhDBD/ELbSxYHXP3Prrtc7g==;IMkgSVkCvMrS27zOEf3Fvg=="
 ---

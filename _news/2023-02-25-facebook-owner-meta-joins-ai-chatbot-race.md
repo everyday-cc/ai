@@ -64,15 +64,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "What are ‘robot rights,’ and should AI chatbots have them?"
-    excerpt: "AI chatbots are all the rage. From ChatGPT to Bing’s new AI-powered search engine and Google’s new Bard chatbot, people are obsessed with seeing how they can replace tasks with AI and test its limits."
-    publishedDateTime: 2023-02-22T19:00:00Z
-    webUrl: "https://www.grid.news/story/technology/2023/02/22/what-are-robot-rights-and-should-ai-chatbots-have-them/"
-    type: article
-    provider:
-      name: grid
-      domain: grid.news
-    quality: 36
 
 secured: "XsUyqzAvSE+gtVew4V91aZz7NluEoEGQOT6FS80y4rtpQmAHQzsaUAXCHYnQBtBxtrkmrDpJP5G8o99jbLPG+72DJNgU4v8U0+59YAKwcYLDGx6ceZZ9IDCdXHslcHIM8QoLlB3SyZmbDCdn0CRcb32kSXqwVxiVS0eVoQ/E9zUPBZsRR/rI/pBOhHykbn6xnvuGrZVntu4FKZc7uRSx8/FoGFk5Sp4ugvK/Kf5km232JdO3tq8//VnFcNjajIGhw4e+x/D2Kd/evnCp0Aes/+NvBA/Pg3kJFBop7Pis6ru2UNZr2e52JwFhrcDO1qSy2h0eo5aCoHeBj3gW3JjXO2yrKjY28ar5KEUazw8pyfNKyMJAaXda3avQrgzVtoY6Cj+aXBjYJfKVsl3rigOApj7/06VWoRGsOAXqdbAlAQo+34Wr0Lg3EN5SNTrz6HIt26ic8yIwDpRhfx91v/hMxJJDvqtXcTzmRZbntPT4kwOkq9n34QVyW0lPyf8suHGa9JF3TT0P47vTv8PuMuN0GA==;rYGsUsh4SOLYKnCmAT1jMQ=="
 ---

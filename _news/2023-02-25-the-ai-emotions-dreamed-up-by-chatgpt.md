@@ -171,22 +171,6 @@ related:
         width: 640
         height: 453
         isCached: true
-  - title: "Worried about ChatGPT and artificial intelligence? How Qualcomm is trying to humanize tech"
-    excerpt: "For the last five or so years, Qualcomm has bet big on bringing more artificial intelligence to smartphones, laptops, vehicles, smart infrastructure and other devices in the field—or what the company calls the \"connected intelligent edge.\" It's Don ..."
-    publishedDateTime: 2023-02-22T19:00:00Z
-    webUrl: "https://techxplore.com/news/2023-02-chatgpt-artificial-intelligence-qualcomm-humanize.html"
-    ampWebUrl: "https://techxplore.com/news/2023-02-chatgpt-artificial-intelligence-qualcomm-humanize.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-chatgpt-artificial-intelligence-qualcomm-humanize.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/qualcomm.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet"
     excerpt: "Google, with Bard, and OpenAI, with ChatGPT are making AI chatbot technology previously restricted to test labs more accessible to the general public. How do these Large Language Model (LLM) programs work?"
     publishedDateTime: 2023-02-23T23:02:00Z

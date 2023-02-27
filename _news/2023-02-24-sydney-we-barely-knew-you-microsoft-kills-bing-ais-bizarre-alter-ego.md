@@ -32,17 +32,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Microsoft brings its Bing AI chatbot to mobile apps and Skype"
-    excerpt: "Since it started opening up its generative AI-powered chatbot in Bing earlier this ... an actor has appeared in over the last decade. It can translate information between more than 100 languages too. Turn on browser notifications to receive breaking ..."
-    publishedDateTime: 2023-02-22T18:16:00Z
-    webUrl: "https://www.engadget.com/microsoft-brings-its-bing-ai-chatbot-to-mobile-apps-and-skype-173839923.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-brings-its-bing-ai-chatbot-to-mobile-apps-and-skype-173839923.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-brings-its-bing-ai-chatbot-to-mobile-apps-and-skype-173839923.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 86
   - title: "Microsoft Wants ChatGPT to Control Robots Next"
     excerpt: "On October 26, 1984, Orion Pictures released The Terminator, a movie about genocidal AI-powered robots unleashed by a tech company. Unfortunately, the executives at Microsoft must have been doing ..."
     publishedDateTime: 2023-02-23T15:15:00Z
@@ -96,6 +85,22 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 60
+  - title: "Microsoft introduces next-generation hybrid cloud platform"
+    excerpt: "Microsoft: According to a report in tech publication TechCrunch, the tech giant believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership."
+    publishedDateTime: 2023-02-27T08:28:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-98270586,imgsize-112440,width-1200,height-628,overlay-ettelecom/microsoft-introduces-next-generation-hybrid-cloud-platform.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft Has Lobotomized the AI That Went Rogue"
     excerpt: "Should We Worry About AI Reaching Singularity ... may need to add a tool so you can more easily refresh the context or start from scratch,” an earlier Microsoft blog post, referenced in Friday ..."
     publishedDateTime: 2023-02-22T20:12:00Z

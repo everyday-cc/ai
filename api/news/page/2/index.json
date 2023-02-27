@@ -895,6 +895,58 @@
       ]
     },
     {
+      "path": "_news/2023-02-24-machine-learning-as-a-service-mlaas-market-updates-in-2023-latest-developments-trend-and-future-expansion-by-2029.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Updates in 2023, Latest Developments Trend and Future Expansion by 2029",
+      "excerpt": "The Readers in the section will understand how the Machine Learning as a Service (MLaaS) market scenario changed across",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-updates-in-2023-latest-developments-trend-and-future-expansion-by-2029-2023-02-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-updates-in-2023-latest-developments-trend-and-future-expansion-by-2029-2023-02-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-23T21:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-artificial-intelligence-opens-up-the-world-of-financial-services.md",
       "title": "Artificial Intelligence Opens Up The World Of Financial Services",
       "excerpt": "The way we make decisions on credit should be fair and inclusive and done in a way that takes into account a greater picture of a person.” Here are the ways AI can help assure more equitable access to financial services: Personalize without branches.",
@@ -1175,58 +1227,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.md",
-      "title": "Baidu says its alternative to ChatGPT is coming to the public in March",
-      "excerpt": "\"We will embed Ernie bot into Baidu search first and we'll open it ... Beijing has also emphasized building up self-sufficiency in technology. Nikkei Asia on Wednesday reported, citing sources ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107198302-16770905622023-02-22t172145z_471337376_rc2ggz9l6na2_rtrmadp_0_baidu-ai-ernie.jpeg?v=1677132176",
-          "width": 3500,
-          "height": 2333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html",
-      "publishedDateTime": "2023-02-23T17:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

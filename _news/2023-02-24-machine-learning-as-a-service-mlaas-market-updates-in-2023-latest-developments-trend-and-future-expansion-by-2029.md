@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-updates-in-2023-latest-developments-trend-and-future-expansion-by-2029-2023-02-24"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Global Data Science and Machine Learning Service Market (2023-2029)-Current Status and Future Prospects"
+    excerpt: "Data Science and Machine Learning Service Market Size 2023-2029 | New Report (102 Pages) | Information Technology | In"
+    publishedDateTime: 2023-02-27T05:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-service-market-2023-2029-current-status-and-future-prospects-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "UBuF3TQQe8PVjTiJnGAFdi9jMUezFc/r5/4nwofVb2Vk2xN5qhzvqYpvzQSVpRYAvpAgoV0E3tdgucnJsNC3DFbuXTxwzzm3hVsjeUV3alxoxnZNglVpAl/d15tRLncntNmh76RfIpZODCprLoftGt2D052pw2Uiz1U04MXiW3vEPBBjoZgOVAQ5l90GtZei+l7DTIWKpje/T3NZ6QDHMH+rXMEz7ERiyUfB7l1BwEO0/0s6AXOwLct+ayyClIXopXPJGUvAe4nE211I4NA6rdQYZrHO2LwhUMzInyDAcXNmKEVp1x6VNrX02cCMgFvbu9tT5EYzDicgqNyOyp+dHo6FnVmb9Zc5po/AlenlxVg=;HgMXkIXczBn6L1u31lKKQA=="
 ---

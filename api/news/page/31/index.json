@@ -2,6 +2,49 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2023-02-06-polypill-targeting-cv-risk-factors-may-slow-functional-but-not-cognitive-decline.md",
+      "title": "Polypill Targeting CV Risk Factors May Slow Functional, but Not Cognitive, Decline",
+      "excerpt": "However, an analysis from the International Polycap Study (TIPS-3) showed that its use alone or in combination with aspirin was not associated with a slowing of cognitive decline compared with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/987896",
+      "originalUrl": "https://www.medscape.com/viewarticle/987896",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/dt_230201_green_red_capsules_800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-self-driving-laboratories-do-research-on-autopilot.md",
       "title": "Self-Driving Laboratories Do Research On Autopilot",
       "excerpt": "The concept of the self-driving laboratory aims to do exactly that, and could revolutionize materials research in particular. Materials research is a complex field and a challenging one to work in.",
@@ -921,40 +964,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-deploying-machine-learning-to-hunt-for-extraterrestrial-life.md",
-      "title": "Deploying machine learning to hunt for extraterrestrial life",
-      "excerpt": "The hunt for extraterrestrial life, as measured by life on another planet developing some form of technology that might eb detectable ,has been hampered by limited technology and algorithms developed decades ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/tech-science/deploying-machine-learning-to-hunt-for-extraterrestrial-life/article",
-      "originalUrl": "https://www.digitaljournal.com/tech-science/deploying-machine-learning-to-hunt-for-extraterrestrial-life/article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-04T23:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

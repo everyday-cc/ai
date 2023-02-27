@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023, Computer Vision in Artificial Intelligence (AI) Market is thriving worldwide by 2029"
+    excerpt: "Computer Vision in Artificial Intelligence (AI) Market Size 2023-2029 | New Report (128 Pages) | Information Technology"
+    publishedDateTime: 2023-02-27T03:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-in-artificial-intelligence-ai-market-is-thriving-worldwide-by-2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Chips Market 2023 Is Set to Fly Excessive Growth in Years to Come"
+    excerpt: "Latest Updated Report 2023 With 118 Report Pages] The latest independent research report on Artificial Intelligence (AI) Chips Market 2023 explore investment in Market. It classify how companies deploying these technologies across various industry verticals aim to explore its future to become a major business disrupter."
+    publishedDateTime: 2023-02-26T23:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-is-set-to-fly-excessive-growth-in-years-to-come-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Education Market Size, Share, Growth Statistics, Leading Players and Forecast 2028"
     excerpt: "Feb 25, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Education Market\" Report provides a Detailed analysis of global market size, regional"
     publishedDateTime: 2023-02-25T11:54:00Z
@@ -227,15 +255,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market 2023 [ UPDATED REPORT of 115 Pages ] with SWOT Analysis till 2028"
-    excerpt: "Chips Market \" Research Insights Report 2023 | TOP 3 KEY PLAYERS in Artificial Intelligence (AI) Chips Market Include [ UC-Davis, Intel Corporation, Baidu ]. The [ Information Technology ] Sector is Expected to Dominate During the Forecast Period 2023 2028."
-    publishedDateTime: 2023-02-22T18:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-updated-report-of-115-pages-with-swot-analysis-till-2028-2023-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
   - title: "Artificial Intelligence Systems Spending Market Size Global Research Report, 2023 - 2028"
     excerpt: "Insights] Top “Artificial Intelligence Systems Spending Market” Size 2023 Key players Profiled in the Report are"
     publishedDateTime: 2023-02-24T02:02:00Z

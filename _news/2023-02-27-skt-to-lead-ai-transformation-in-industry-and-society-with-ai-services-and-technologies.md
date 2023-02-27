@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence executes plans to transform into oil and gas industry"
-    excerpt: "Doha:Artificial Intelligence, more commonly referred to as AI, has already begun saving oil and gas companies millions of dollars a year by"
-    publishedDateTime: 2023-02-27T05:58:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/27/02/2023/artificial-intelligence-executes-plans-to-transform-into-oil-and-gas-industry"
+  - title: "Artificial Intelligence Executes Plans To Transform Into Oil And Gas Industry"
+    excerpt: "Artificial Intelligence, more commonly referred to as AI, has already begun saving oil and gas companies millions of doll"
+    publishedDateTime: 2023-02-27T09:49:00Z
+    webUrl: "https://menafn.com/1105653533/Artificial-Intelligence-Executes-Plans-To-Transform-Into-Oil-And-Gas-Industry"
     type: article
     provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
+      name: Mena FN
+      domain: menafn.com
     quality: 36
     images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20230227_1677477600-561.JPG?1677477600"
-        width: 1200
-        height: 604
+      - url: "https://menafn.com/updates/pr/2023-02/27/TP_c125eimage_story.jpg"
+        width: 600
+        height: 302
         isCached: true
 
 secured: "VyEmKTxIti8iSsyu1+xKCvkpwjePcU4+jx6ai3Op98RfF22WIsmLWi1YpCYRJfngtPL7UkM2ioL6zNpjweKVrpjLsGXZfl1c28K99DPBhgDTW5QyIvcYX+HEAdoySEq7n2Geqw21TKLsNdbIinzhKKwSynGp6p0c/NxFYgS/LDWJsFDFPvOEd094kuuHHJTIHG+TSvgfhRuibQVsdi+rvkt6KSsnt5sLK3hEVGkwEfLFgJ5H7OvGwrZElJ3XZ5EECuHyMGj388odBpHmjycx8syPiptGz+4CWGOFOY4bX3DHBh4JB9vuMQwuuBRlPuUgJm4aPgVARK+LAV90ZXtz2tLgSYzqQKMWAS5eGGK0HSo=;PYA18z7l+vEJX1IKuu8Ceg=="

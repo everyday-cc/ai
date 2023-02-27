@@ -127,6 +127,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Natural Language Processing Market Insights : Industry dynamics, New Technologies and Forecast to 2028"
+    excerpt: "Healthcare Natural Language Processing Market\" is expected to grow at a steady growth during the forecast period"
+    publishedDateTime: 2023-02-27T00:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-insights-industry-dynamics-new-technologies-and-forecast-to-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Software Market to Grow Significantly by Leading Players 2023 to 2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Deep Learning Software Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-27T01:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Future Growth of the Artificial Intelligence in Oil and Gas Market Size 2023-2029"
     excerpt: "Browse Market Size, charts, tables and figures extent in-depth TOC with 114 Report Pages on Artificial Intelligence in Oil and Gas Market by Application (, Civil Oil and Gas Industry, Oil and Gas Industry for Vehicles and Ships,"
     publishedDateTime: 2023-02-25T00:00:00Z
@@ -164,6 +192,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition Market 2023 Current Insights with [ NEWEST INDUSTRY DATA ] till 2029"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Automatic Speech Recognition Market\" Research Insights Report 2023 | TOP 3 KEY PLAYERS in Automatic Speech"
+    publishedDateTime: 2023-02-24T18:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-2023-current-insights-with-newest-industry-data-till-2029-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -229,6 +271,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market International Business Analysis, Development Outlook and Regional Strategies 2029"
+    excerpt: "Artificial Intelligence Market 2023 Will Provide Report Analysis that quickly emerging as one of the [ICT] category in the industry, by Type (Hardware, Software, Services), and En"
+    publishedDateTime: 2023-02-27T02:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-international-business-analysis-development-outlook-and-regional-strategies-2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence for Edge Devices Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
     excerpt: "Artificial Intelligence for Edge Devices Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type"
     publishedDateTime: 2023-02-24T02:02:00Z
@@ -284,6 +340,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Construction Market is Booming Worldwide to Show Significant Growth over the Forecast 2023 to 2029"
+    excerpt: "Artificial Intelligence in Construction Market Size 2023-2029 | New Report (114 Pages) | Information Technology | In"
+    publishedDateTime: 2023-02-27T06:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-is-booming-worldwide-to-show-significant-growth-over-the-forecast-2023-to-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice And Speech Recognition Software Market In-depth analysis which provides critical revenue and estimates for the period 2023 To 2028"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Voice And Speech Recognition Software Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029."
+    publishedDateTime: 2023-02-26T03:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-in-depth-analysis-which-provides-critical-revenue-and-estimates-for-the-period-2023-to-2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

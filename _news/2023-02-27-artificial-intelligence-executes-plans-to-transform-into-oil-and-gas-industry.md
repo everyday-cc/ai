@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence executes plans to transform into oil and gas industry"
-excerpt: "Doha:Artificial Intelligence, more commonly referred to as AI, has already begun saving oil and gas companies millions of dollars a year by"
-publishedDateTime: 2023-02-27T05:58:00Z
-originalUrl: "https://thepeninsulaqatar.com/article/27/02/2023/artificial-intelligence-executes-plans-to-transform-into-oil-and-gas-industry"
-webUrl: "https://thepeninsulaqatar.com/article/27/02/2023/artificial-intelligence-executes-plans-to-transform-into-oil-and-gas-industry"
+title: "Artificial Intelligence Executes Plans To Transform Into Oil And Gas Industry"
+excerpt: "Artificial Intelligence, more commonly referred to as AI, has already begun saving oil and gas companies millions of doll"
+publishedDateTime: 2023-02-27T09:49:00Z
+originalUrl: "https://menafn.com/1105653533/Artificial-Intelligence-Executes-Plans-To-Transform-Into-Oil-And-Gas-Industry"
+webUrl: "https://menafn.com/1105653533/Artificial-Intelligence-Executes-Plans-To-Transform-Into-Oil-And-Gas-Industry"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: The Peninsula
-  domain: thepeninsulaqatar.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
 images:
-  - url: "https://thepeninsulaqatar.com/get/maximage/20230227_1677477600-561.JPG?1677477600"
-    width: 1200
-    height: 604
+  - url: "https://menafn.com/updates/pr/2023-02/27/TP_c125eimage_story.jpg"
+    width: 600
+    height: 302
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 1043
         isCached: true
 
-secured: "6zGebZmojQg1t476t4rneJikyDxul2FFiedZih2Ags5RMFiOVKdHKZMHN1XJJZU6F3+UTGDSso2dfMphdkgRB4vM35fb6cG+Fii1ZhtTfaoKQq8+YejNK8V+s+JC6yu73iqGxmra2kNewnbxAZEusbOz17nN7HSYQzJJFXhJ4pZl0zHJBfmuLKRDy5nAvpm0JQP8DjkiR/hUdK5ecGZ12r0HcMBlrPQSgGqKGc+b0YkbelaYl2pJvuQT4KFrii5TD7aaOlgsN48TNqtqTb+sSKKtn9SdeUDrkrrDzqzgwEvQxU0TnVehREihhD+A2T0l+41WmGhrPdTuDFYhjudFp3wbzE/NShuH1r0qLsqBWjkxhr4xMWW0DLzs/pQfEXivuo1EH7aXaRCj/sc1xwBW692z2gDSseDlXcuHsmgBL3EJib54ddB3/yDHsyxsmC/h+wJkp8ttKX1lNn91UdDgE8o7OGBrbJ2NMZyhXh3cbiNNcfXOfQ4uvjYkP7sRkVMzgFYQkerfFhsBMW0TJ8Ee5g==;RnqH3pHOBp16EHpa52k1lA=="
+secured: "EqQ/n8KYR8uPjIP36SUFsu2NAqN5Eq3kcedMGtsLwqb0PmBLVHeRUJEuXW/ZtGGJb4NQmqE8h5E0RRFU3jIoW7/MNqiZRaePBMKKRhQZGa4mzcw2VDEgs0FAz2eu6XzlNmVEhPbubP3i8UAfrV39c9U1AlDaRmn2VcZSnKgOgh5wbY8Ks96eO6Go8A9d+cwnox+ZyHU/U6Il5piur+i5eEnOEr7AbLwhb1XSYIJSBXnNO4SB4qv1Vh8BnzZ7VfJwiqJ2wm+NDUDnKqNKTIizQPxOgtO0iuwSNmxmBUQKYCO9Hu3I/gwuAxGCcocBebiLJ6BPZ+tMvgvqpgpPTgHqqN3IoTdgn4Ag9epQkBzJxCo=;+k991Hiil3X3YX/ZLMbcgA=="
 ---
 

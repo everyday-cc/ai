@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US sparks fear of assassinations with new AI-powered facial recognition tech"
+    excerpt: "The United States Air Force has developed new facial recognition technology powered by AI, sparking fear of remote assassinations."
+    publishedDateTime: 2023-02-27T08:34:00Z
+    webUrl: "https://www.tweaktown.com/news/90511/us-sparks-fear-of-assassinations-with-new-ai-powered-facial-recognition-tech/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 51
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90511_25_us-sparks-fear-of-assassinations-with-new-ai-powered-facial-recognition-tech.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Hearing on MSG's use of facial recognition"
     excerpt: "New York City Council members will discuss the use of facial recognition at businesses and entertainment venues, as Madison Square Garden is getting heat for its use of the technology. CBS2's John Dias reports."
     publishedDateTime: 2023-02-24T11:34:00Z

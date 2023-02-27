@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-24-baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.md",
+      "title": "Baidu says its alternative to ChatGPT is coming to the public in March",
+      "excerpt": "\"We will embed Ernie bot into Baidu search first and we'll open it ... Beijing has also emphasized building up self-sufficiency in technology. Nikkei Asia on Wednesday reported, citing sources ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107198302-16770905622023-02-22t172145z_471337376_rc2ggz9l6na2_rtrmadp_0_baidu-ai-ernie.jpeg?v=1677132176",
+          "width": 3500,
+          "height": 2333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html",
+      "publishedDateTime": "2023-02-23T17:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-healthcare-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data.md",
       "title": "Healthcare AI Market Outlook 2023 and Forecast to 2028 with Top Countries Data",
       "excerpt": "Feb 23, 2023 (The Expresswire) -- \"Healthcare AI Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 352,
+      "heat": 412,
       "tags": null,
       "images": [
         {
@@ -261,7 +313,7 @@
       "originalUrl": "https://www.zdnet.com/article/samsung-galaxy-s23-this-new-feature-creates-an-ai-version-of-your-voice-to-answer-calls/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1181,48 +1233,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-how-to-invest-in-ai-startups.md",
-      "title": "How To Invest in AI Startups",
-      "excerpt": "Every now and then, an industry pops up that is so transformative, it literally changes the way society functions forever. In much the same way there was a world before electricity and after it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/money/how-to-invest-in-ai-startups",
-      "originalUrl": "https://www.benzinga.com/money/how-to-invest-in-ai-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnwp-s3.benzinga.com/wp-content/uploads/2021/12/01175321/zblw0fg8xu8-768x598.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
