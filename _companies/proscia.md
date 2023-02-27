@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ProsciaInc"
   url: "https://twitter.com/ProsciaInc"
-  followers: 1310
+  followers: 1311
 
 size: 11-50 employees
 yearFounded: 2014
@@ -48,6 +48,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=8QjxuGXGIAw"
 
-secured: "qM62xTMSDJuDnk4zrPlfg3xbEnk7TaG9Y6kl/gLOVxwKPTnlhYHmWTao5Oz2r9PBv8Nl+RkDdkxVqlhlvQtyW+zUhkujFtC0pf1MbebB7PYql4Nkg+aM5EUu/FzUhJYYwKCZ13n8aE9wICJLbUEtbh0UCmaRdN7eObemtnpDF+tZ/hkYmIt0a3dCP3KFI87yjJTFtGQFXiE5DlXjMeDMC9D9p1WgUu+wXWMmKKQw56rP+lMySXd4zJKXGTsCuaISofCJbdIdSTGmY1hv7lydsZzlsYmjYDvhnudO2F0J0uMz6ytz8BvYd07uK9ia0qxz5cQXgGV8ejVoLUpfIfMCpJ1+YWSrgIzSr4QaDRqwPrQr4/9lm4J+oqlRn4/hiDwMOz7V2KGDeLp0MjxjnfzsE2ezRqNczyF5sQg/8yseGqM=;g01hArPh9w0S1Yb3DRrTzA=="
+secured: "dXEDINd5sCJ2GTg0WPZLe6/ijJt02eAQssFwDmZE9SyG6arHJiRUmbjb2K19rVDvu7RNFbaiwvVTaInvn0Jv7Ru95xrLS3vmYZqpK4h6Ug3FDCurIwV50sIf9TWBVTzP9IvJ/I4AeX3JVwykiPt3XeaKgpkARV/mEWok1FiaLbTHPwATR0j5dy0I5D84ZkayIla7PP30a0CBk34L0i2hqhkFMoDLtLP9ISwCbricaBgL5wpNVCzP/XEai9FkdHDdIo0QPNp3kaB2rIRPtix004DIQww/MiZDfubGYQ+XUQa/UUIO09hxDsdVcp8n5zbCVuSzrs1ikht7nmkiAWsjAjWA4NjskPLVQNRdT46d9Fpvr6r76ujFOQ+ySqYUKMDQ51McMU60ayBZQ3aqN0k0MfbhwhbDfdkHrkcM45eohIc=;kGE69MBP04wLPK70LPDLSQ=="
 ---
 

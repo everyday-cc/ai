@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 57
+heat: 42
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "XtbczwTjS1uyjuzSxb1clEBIBFtZyg4h+/4ruT3Pdmfg6VrHoQXcx1wpBy4Y+jOSK2gr40CdJz3pV6MywnaQbbBsfZGoBdKiyzTnDacBi5qyfGw4WxVdz7lHhVblI1bE9TOaxoPjtvG9s/iqMo/VhnSWKDHuoR4u1SKvkdyZQVQ9PBFXgAoy/iZzTSSz80NU7aGANiUP6OOyv91W0Kekn/IqIwNG3Fcbk2fMikhmIAca8ixUXbKiKP0vRtCqmi0tLsCN/feCCXvQ0KRkgmUEQ5LRt+Y2/5IIwVjTbirzzBO9j9JVaqLE58R98h1PIu6famyEnIWH1yxTjqxGw3JyTmHcXt/U2LRPI8iXaWbmAMRfQVYoV0fMh9eoxcNbPhefhGH6FntfOZEwK0C46sETburmvtmNIyGksRj1yIlJyQg=;muRbsE6lUjUh5dvmW+G6/Q=="
+secured: "RyPeQFnkfWngPogiKOv/i1wjPCXQePw35GIdBQcl98moTgu3kq0qG11nuFXFEbI7JzUHB/F07W+af2f014r9AcR0rZ7DOy+HwMu1xJNF/z/rS8FipOC0NyPOIVhROaZrUgWAVHhxbHweJnBr1rDjbjwzmEAIuXb84NzJ31VWQnTi/TMNDFVhzwKIqkWBv+v9IrLbjEewb5pBZ+P068wING0E4s5/lyyezwPFnXB9SUxjXM0g311fI9EVqlV0bqW1AliwCFK8xcEEQpbdN1MdQOZR52DFPHqcCU/qrujS5NPRJ6HyRL/VnAmM9yeA/a1j3kjKnRhj6eT3r7QxvKg397KOfGWc9F1zeC1KXzLygZUIvots4/56zaYfETXi5IcxGRyr1++JuioZuqoxWmsabDJmdbnbSCr9K2Vpz7prblQ=;Cl8duHe4pnuNW+dK3UC3WA=="
 ---
 
