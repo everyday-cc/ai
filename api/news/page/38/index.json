@@ -2,6 +2,49 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-01-31-waymos-huge-self-driving-car-dataset-could-help-researchers-toward-level-5.md",
+      "title": "Waymo's Huge Self-Driving Car Dataset Could Help Researchers Toward Level 5",
+      "excerpt": "Data is king in autonomous driving, as it can help teach an artificial intelligence about how to react in new situations based on past experience. Although Waymo’s new dataset covers a thin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5",
+      "originalUrl": "https://www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/inverse/9d/18/98/bb/6102/4d67/bc27/2cf0f5917319/waymominivan7-2jpg.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5/amp",
+      "cdnAmpWebUrl": "https://www-inverse-com.cdn.ampproject.org/c/s/www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5/amp",
+      "publishedDateTime": "2023-01-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inverse",
+        "domain": "inverse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-ai-world-likely-to-hit-key-warming-threshold-in-1012-years.md",
       "title": "AI: World Likely To Hit Key Warming Threshold in 10–12 Years",
       "excerpt": "Two climate scientists using machine learning calculated that Earth will surpass the 1.5 degree (2.7 degrees Fahrenheit) mark between 2033 and 2035.",
@@ -1158,49 +1201,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-subsea-robotics-aquanauts-hydronauts-roll-out.md",
-      "title": "Subsea Robotics: Aquanauts, Hydronauts, Roll Out",
-      "excerpt": "Houston-based Nauticus Robotics’ first production Aquanauts and Hydronauts will head into the wild and closer to full commercialization this",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinetechnologynews.com/news/subsea-robotics-aquanauts-hydronauts-625606",
-      "originalUrl": "https://www.marinetechnologynews.com/news/subsea-robotics-aquanauts-hydronauts-625606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.marinetechnologynews.com/images/maritime/w800h600pad/image-courtesy-nauticus-138341.jpg",
-          "width": 800,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marinetechnologynews.com/amp/news/subsea-robotics-aquanauts-hydronauts-625606",
-      "cdnAmpWebUrl": "https://www-marinetechnologynews-com.cdn.ampproject.org/c/s/www.marinetechnologynews.com/amp/news/subsea-robotics-aquanauts-hydronauts-625606",
-      "publishedDateTime": "2023-01-30T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marinetechnologynews.com",
-        "domain": "marinetechnologynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

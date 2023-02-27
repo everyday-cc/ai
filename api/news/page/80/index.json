@@ -2,6 +2,41 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2022-12-16-opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care.md",
+      "title": "OPN Healthcare Partners with KAID Health to Leverage Natural Language Processing Technology for Value-Based Oncology Care",
+      "excerpt": "NLITE addresses key technological issues that to-date have hindered the widespread adoption of natural language processing (NLP) for prior authorization. NLITE aggregates similar clinical concepts ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/opn-healthcare-partners-with-kaid-health-to-leverage-natural-language-processing-technology-for-value-based-oncology-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-artists-stage-mass-protest-against-ai-generated-artwork-on-artstation.md",
       "title": "Artists stage mass protest against AI-generated artwork on ArtStation",
       "excerpt": "On Tuesday, members of the online community ArtStation began widely protesting AI-generated artwork by placing \"No AI Art\" images in their portfolios. By Wednesday, the protest images dominated ArtStation's trending page.",
@@ -1116,58 +1151,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot.md",
-      "title": "ChatGPT: Why Everyone Is Obsessed This Mind-Blowing AI Chatbot",
-      "excerpt": "This artificial intelligence bot can chat and write essays, poems and computer programs. Careful how much you trust it, though.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/",
-      "originalUrl": "https://www.cnet.com/tech/computing/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chatgpt-why-everyone-is-obsessed-this-mind-blowing-ai-chatbot/",
-      "publishedDateTime": "2022-12-14T10:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

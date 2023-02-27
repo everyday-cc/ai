@@ -42,20 +42,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 66
-  - title: "Flooded with AI-created content, a sci-fi magazine suspends submissions"
-    excerpt: "Melissa Roemmele, a researcher at machine translation firm Language Weaver, said AI-generated text has “only recently started to superficially resemble human-written text.” Machine-created writing and detection are “complementary challenges ..."
-    publishedDateTime: 2023-02-22T08:15:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/02/22/scifi-magazine-clarkesworld-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AN3QPSSXG2H7ICNZZI4KPCWVVI_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "3vxgVDPzGrf3SheV5wrzdfroG0AGBTXbRoUt7aPPkI2DFuufGg7R9vEpbH0dajx5xyFY4qA/v/pIrB6/t++Yxiu4d0yCeNkNGjcRPJHeEGSTwJ7aKjTY8BfFdyO59dPX2XSYSmTWr7cwKl8XKp3bFfD6CpSCHaBjxQUv3UTMRATkPxIltyrBuqvgAJsst8kWD0BHrDcL/ys1xZBUXTqsBbKo39VJ8NXYBAJyr+dFiHAYYDBymsSR+is4O11TubiiW56JMVhR/2J4vWwZuRK9y2q3YmiyhB1Q+4XM7NzPFe79ZxOPHVfKHlBulwgj13RYH/K/tlB1i1+2wZC9cutwKNm9b4J1fu8iZntS8T75r7o=;ptdROBgxrBHMBBFUv3x+FA=="
 ---

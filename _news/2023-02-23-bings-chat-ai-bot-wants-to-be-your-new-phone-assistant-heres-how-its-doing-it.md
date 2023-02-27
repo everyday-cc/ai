@@ -66,17 +66,6 @@ related:
         width: 790
         height: 530
         isCached: true
-  - title: "China's Baidu touts AI chatbot, sees 2022 revenue fall 1%"
-    excerpt: "In 2023, we believe we have a clear path to reaccelerate our revenue growth, and we are now well positioned to make use of the opportunities that China's economic recovery offers us,\" Robin Li, Baidu co-founder and chief executive officer,"
-    publishedDateTime: 2023-02-22T07:36:00Z
-    webUrl: "https://www.albawaba.com/business/chinas-baidu-touts-ai-chatbot-sees-2022-revenue-fall-1-1509934"
-    ampWebUrl: "https://www.albawaba.com/amp/business/chinas-baidu-touts-ai-chatbot-sees-2022-revenue-fall-1-1509934"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/chinas-baidu-touts-ai-chatbot-sees-2022-revenue-fall-1-1509934"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 39
   - title: "What are ‘robot rights,’ and should AI chatbots have them?"
     excerpt: "AI chatbots are all the rage. From ChatGPT to Bing’s new AI-powered search engine and Google’s new Bard chatbot, people are obsessed with seeing how they can replace tasks with AI and test its limits."
     publishedDateTime: 2023-02-22T19:00:00Z

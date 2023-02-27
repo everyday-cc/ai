@@ -2,6 +2,49 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-01-24-ai-chatgpt-is-helping-ceos-think-will-it-also-take-your-job.md",
+      "title": "AI ChatGPT is helping CEOs think. Will it also take your job?",
+      "excerpt": "Chatbots will devalue some workers' skills, but also could create higher quality jobs that require a human's judgment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/sacramento/news/chatgpt-chatbot-artificial-intelligence-job-replacement/",
+      "originalUrl": "https://www.cbsnews.com/sacramento/news/chatgpt-chatbot-artificial-intelligence-job-replacement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/22/3e5ebe21-b2cc-4692-9e99-9c37fff7be78/thumbnail/1200x630/def6aa3c6cd71698b2fd33d66abd4116/gettyimages-1246453874.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/sacramento/news/chatgpt-chatbot-artificial-intelligence-job-replacement/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/chatgpt-chatbot-artificial-intelligence-job-replacement/",
+      "publishedDateTime": "2023-01-23T21:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-24-im-a-mom-and-a-teacher-who-was-fired-after-voicing-concerns-for-my-own-kids.md",
       "title": "I'm a mom and a teacher who was fired after voicing concerns for my own kids",
       "excerpt": "I raised concerns about a book that was going to be presented to my then 6-year-old and 8-year-old. I was soon fired.",
@@ -1122,49 +1165,6 @@
         "AI in Sales",
         "AI in Healthcare",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-01-23-massachusetts-institute-of-technology-developed-ai-gains-real-world-industry-experience.md",
-      "title": "Massachusetts Institute of Technology-developed AI gains real-world industry experience",
-      "excerpt": "Taking what they learned conceptually about artificial intelligence and machine learning (ML) this year, students from across the Greater Boston area had the opportunity to apply their new skills to r",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-developed-ai-gains-real-world-industry-experience/",
-      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-developed-ai-gains-real-world-industry-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg?fit=600%2C400&ssl=1",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-developed-ai-gains-real-world-industry-experience/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-developed-ai-gains-real-world-industry-experience/",
-      "publishedDateTime": "2023-01-23T02:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-08-denodo-receives-aws-data-and-analytics-isv-competency-status.md",
+      "title": "Denodo receives AWS Data and Analytics ISV Competency Status",
+      "excerpt": "Denodo, today announced that it has achieved the Amazon Web Services (AWS) Data and Analytics ISV Competency status.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voicendata.com/denodo-receives-aws-data-and-analytics-isv-competency-status/",
+      "originalUrl": "https://www.voicendata.com/denodo-receives-aws-data-and-analytics-isv-competency-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voicendata.com/denodo-receives-aws-data-and-analytics-isv-competency-status/amp/",
+      "cdnAmpWebUrl": "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/denodo-receives-aws-data-and-analytics-isv-competency-status/amp/",
+      "publishedDateTime": "2023-02-07T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voicendata.com",
+        "domain": "voicendata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-mlops-market-2023-exploring-new-challenges-and-opportunities-forecast-to-2029.md",
       "title": "MLOps Market 2023 Exploring New Challenges and Opportunities, Forecast to 2029",
       "excerpt": "Amazon SageMaker, H2O.ai, Inc., Pachyderm Inc., HPE, SAS) with the best facts and figures, definitions, SWOT and PESTAL analysis, expert opinions and the latest trends around the world. To know How COVID-19 and Russia-Ukraine War Influence Will Impact This ...",
@@ -1250,58 +1284,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-build-a-loyalty-points-anomaly-detector-using-amazon-lookout-for-metrics.md",
-      "title": "Build a loyalty points anomaly detector using Amazon Lookout for Metrics",
-      "excerpt": "Today, gaining customer loyalty cannot be a one-off thing. A brand needs a focused and integrated plan to retain its best customers—put simply, it needs a customer loyalty program. Earn and burn programs are one of the main paradigms. A typical earn and burn program rewards customers after a certain",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-loyalty-points-anomaly-detector-using-amazon-lookout-for-metrics/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-loyalty-points-anomaly-detector-using-amazon-lookout-for-metrics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/01/25/loyalty-points-anomaly-detector.jpg",
-          "width": 1569,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T08:19:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AWS AI"
       ]
     }

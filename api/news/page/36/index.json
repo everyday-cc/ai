@@ -2,6 +2,57 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-02-01-how-ark-invests-cathie-wood-is-investing-behind-the-artificial-intelligence-boom.md",
+      "title": "How Ark Invest's Cathie Wood is investing behind the artificial intelligence boom",
+      "excerpt": "Ark Invest's Cathie Wood said Wednesday said artificial intelligence is the most important catalyst in every corner of her disruptive innovation strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/01/ark-invest-cathie-wood-artificial-intelligence-chatgpt.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/01/ark-invest-cathie-wood-artificial-intelligence-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107081717-1656420743920-gettyimages-1235989104-AFP_9PZ89E.jpeg?v=1675264560&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-01T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-getting-started-with-azure-openai.md",
       "title": "Getting started with Azure OpenAI",
       "excerpt": "Microsoft’s Azure-hosted OpenAI language models are now generally available, and it’s surprisingly simple to use them in your code.",
@@ -1105,49 +1156,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-the-future-of-the-900-billion-us-trucking-industry-could-be-decided-in-california.md",
-      "title": "The future of the $900-billion U.S. trucking industry could be decided in California",
-      "excerpt": "As California regulators explore new rules to put self-driving semi-trucks on the road, labor unions are rushing to the state Legislature to ask for a new law they say will protect their jobs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2023-01-31/self-driving-semis-california-rules-legislation",
-      "originalUrl": "https://www.latimes.com/business/story/2023-01-31/self-driving-semis-california-rules-legislation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/1356161/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fae%2F03%2F5d92cb284b151fc96928b901d3a4%2F422909ceb5124913a7d5f0932967d6fb",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-31T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -122,6 +122,22 @@ related:
         width: 624
         height: 351
         isCached: true
+  - title: "Hot Topics: ChatGPT’s challenges and charms for the classroom – here’s what educators think of revolutionary AI chatbot"
+    excerpt: "Since the AI chatbot was launched last November, it has gained more than 100 million users, but many are worried about its impact on education."
+    publishedDateTime: 2023-02-26T22:53:00Z
+    webUrl: "https://www.scmp.com/yp/discover/news/global/article/3211385/hot-topics-chatgpts-challenges-and-charms-classroom-heres-what-educators-think-revolutionary-ai"
+    ampWebUrl: "https://amp.scmp.com/yp/discover/news/global/article/3211385/hot-topics-chatgpts-challenges-and-charms-classroom-heres-what-educators-think-revolutionary-ai"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/news/global/article/3211385/hot-topics-chatgpts-challenges-and-charms-classroom-heres-what-educators-think-revolutionary-ai"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 65
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/canvas/2023/02/24/f3dc19c0-bdb8-4018-bc82-1fa638a5d476_138765ee.jpg?itok=wQ_8nSzg&v=1677218876"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Is It True That Generative AI ChatGPT Will Flood The Internet With Infinite Content, Asks AI Ethics And AI Law"
     excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
     publishedDateTime: 2023-02-23T12:00:00Z
@@ -176,17 +192,6 @@ related:
         width: 640
         height: 453
         isCached: true
-  - title: "Sure, Microsoft, let's put ChatGPT in control of robots"
-    excerpt: "ChatGPT is a large language model (LLM) trained on the OpenAI GPT (Generative Pre-trained Transformer) dataset, which consists of text scraped from the web and other sources. Wedded with a chat interface,"
-    publishedDateTime: 2023-02-22T07:30:00Z
-    webUrl: "https://www.theregister.com/2023/02/22/microsoft_chatgpt_robots/"
-    ampWebUrl: "https://www.theregister.com/AMP/2023/02/22/microsoft_chatgpt_robots/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2023/02/22/microsoft_chatgpt_robots/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 56
   - title: "Worried about ChatGPT and artificial intelligence? How Qualcomm is trying to humanize tech"
     excerpt: "For the last five or so years, Qualcomm has bet big on bringing more artificial intelligence to smartphones, laptops, vehicles, smart infrastructure and other devices in the field—or what the company calls the \"connected intelligent edge.\" It's Don ..."
     publishedDateTime: 2023-02-22T19:00:00Z

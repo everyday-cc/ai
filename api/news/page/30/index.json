@@ -2,6 +2,48 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-02-06-artificial-intelligence-in-fashion-retail-market-environment-development-trend-in-2023.md",
+      "title": "Artificial Intelligence in Fashion Retail Market Environment Development Trend In 2023",
+      "excerpt": "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Artificial Intelligence in Fashion Retail Market Report includes data on research and development,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-environment-development-trend-in-2023-2023-02-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-environment-development-trend-in-2023-2023-02-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T19:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-ai-marketing-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2029.md",
       "title": "AI Marketing Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2029",
       "excerpt": "AI Marketing Market Size 2023-2029 | New Report (113 Pages) | In This Reports AI Marketing Market and its business",
@@ -959,40 +1001,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-mayo-clinic-explores-use-of-artificial-intelligence-is-it-hype-or-help.md",
-      "title": "Mayo Clinic explores use of artificial intelligence. Is it hype or help?",
-      "excerpt": "Artificial intelligence can now act as an artist or a writer. Does that mean AI is ready to play doctor? Many institutions, including Mayo Clinic, believe that AI is ready to become a useful tool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.duluthnewstribune.com/health/mayo-clinic-explores-use-of-artificial-intelligence-is-it-hype-or-help",
-      "originalUrl": "https://www.duluthnewstribune.com/health/mayo-clinic-explores-use-of-artificial-intelligence-is-it-hype-or-help",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Duluth News Tribune",
-        "domain": "duluthnewstribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

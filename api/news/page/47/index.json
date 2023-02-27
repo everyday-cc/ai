@@ -2,6 +2,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-01-22-interactive-quiz-how-does-ai-generate-images.md",
+      "title": "Interactive quiz: How does AI generate images?",
+      "excerpt": "TOKYO -- Image generative artificial intelligence (AI), which creates elaborate images based on text input, has garnered attention recently. Elaborate AIs, such as the Stable Diffusion model ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Technology/Interactive-quiz-How-does-AI-generate-images",
+      "originalUrl": "https://asia.nikkei.com/Business/Technology/Interactive-quiz-How-does-AI-generate-images",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F8%252F7%252F3%252F6%252F43986378-1-eng-GB%252FMicrosoftTeams-image%2520%252830%2529.png?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-21T11:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nikkei Asia",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-22-nvidia-geforce-rtx-4080-review-deadly-gaming-gpu-but-not-cheap.md",
       "title": "NVIDIA GeForce RTX 4080 review: Deadly gaming GPU but not cheap",
       "excerpt": "Team green has already its Ada Lovelace architecture and its GPUs namely, RTX 4090 and RTX 4080 with massive price tags, looking as if both NVIDIA and Apple are competing with their pricing of iPhones and GPUs,",
@@ -1108,58 +1151,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-individuals-barred-from-top-nyc-venues-slam-use-of-facial-recognition-slippery-slope.md",
-      "title": "Individuals barred from top NYC venues slam use of facial recognition: ‘Slippery slope’",
-      "excerpt": "Kelly Conlon, who was kept from seeing the Rockettes, and Sam Davis, who was barred from attending a Rangers game, speak out against MSG Entertainment and James Dolan for their use of facial recognition on 'America's Newsroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6318967719112",
-      "originalUrl": "https://www.foxnews.com/video/6318967719112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a59fcf2c-07db-48d9-8cb6-3d4e5c54cb91/c444767f-fa42-4280-b081-73c50a1754d4/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-20T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
