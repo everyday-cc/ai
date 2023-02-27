@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T16:37:00Z
 originalUrl: "https://techcrunch.com/2023/02/27/anthropic-begins-supplying-its-text-generating-ai-models-to-startups/"
 webUrl: "https://techcrunch.com/2023/02/27/anthropic-begins-supplying-its-text-generating-ai-models-to-startups/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: YAHOO!Finance

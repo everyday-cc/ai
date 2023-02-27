@@ -2,6 +2,196 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-02-11-sorry-investors-the-ai-hype-thats-gripped-the-stock-market-is-premature-and-the-bubble-will-probably-burst-this-year.md",
+      "title": "Sorry investors, the AI hype that's gripped the stock market is premature and the bubble will probably burst this year",
+      "excerpt": "I do think there's some froth and that you'll see some of these stocks come down after a little bit,\" Pat Tschosik, US sector strategist at Ned Davis Research told Insider, noting that artificial intelligence stocks may only see a boost from the ChatGPT ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-ai-stocks-overhyped-market-bubble-openai-microsoft-c3ai-investors-2023-2",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-ai-stocks-overhyped-market-bubble-openai-microsoft-c3ai-investors-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5c7f5a69dde867248d0597cd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-ai-stocks-overhyped-market-bubble-openai-microsoft-c3ai-investors-2023-2?amp",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/chatgpt-ai-stocks-overhyped-market-bubble-openai-microsoft-c3ai-investors-2023-2?amp",
+      "publishedDateTime": "2023-02-11T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-11-opinion-these-will-be-the-3-largest-stocks-by-2030.md",
+      "title": "Opinion: These Will Be the 3 Largest Stocks by 2030",
+      "excerpt": "Don't overlook the role that artificial intelligence (AI) might play in Apple's growth ... Don't forget Alphabet's Waymo unit, either. The adoption of AI-powered self-driving car technology will increase significantly by the end of the decade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/11/opinion-these-will-be-the-3-largest-stocks-by-2030/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/11/opinion-these-will-be-the-3-largest-stocks-by-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/719455/augmented-reality-virtual-reality-metaverse.jpg",
+          "width": 6435,
+          "height": 4290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-11T02:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-11-hesais-ipo-raises-prospects-for-unmanned-driving.md",
+      "title": "Hesai's IPO raises prospects for unmanned driving",
+      "excerpt": "[Provided to China Daily] American depositary shares of Hesai Group, a Shanghai-based developer of sensor technologies used in self-driving cars ... Hesai, which is backed by strategic investors Baidu Inc, Xiaomi Corp, Qiming Venture Partners and German ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202302/11/WS63e6d5a7a31057c47ebae31e.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202302/11/WS63e6d5a7a31057c47ebae31e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202302/11/63e6d5a7a31057c4b4b4eb3c.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-11-studies-show-ibm-watson-reaches-mostly-same-cancer-decisions-as-doctors.md",
+      "title": "Studies show IBM Watson reaches mostly same cancer decisions as doctors",
+      "excerpt": "IBM has unveiled new data for its Watson AI which shows the software to be in agreement with doctor's recommendations up to 96% of the time. Unveiled at this year's American Society of Clinical ...",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/index.php/news/ibm-watson-asco-high-concordance",
+      "originalUrl": "https://pharmaphorum.com/index.php/news/ibm-watson-asco-high-concordance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/sites/default/files/styles/large/public/2023-02/patient-mask-window.jpg?itok=IALAhzuk",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T22:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-11-autonomous-cars-or-driverless-cars-market-2023-will-touch-new-level-in-upcoming-year.md",
       "title": "Autonomous Cars or Driverless Cars Market 2023 Will Touch New Level in Upcoming Year",
       "excerpt": "Feb 11, 2023 (The Expresswire) -- Autonomous Cars or Driverless Cars Market Size 2023-2027 | New Report (117 Pages) | In This Reports Autonomous Cars or Driverless Cars Market and its business ...",
@@ -965,214 +1155,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-chatgpt-mania-3-stocks-to-buy-hand-over-fist.md",
-      "title": "ChatGPT Mania: 3 Stocks to Buy Hand Over Fist",
-      "excerpt": "Intelligent Cloud, which houses Azure, is already big business for Microsoft ... Microsoft's relationship with ChatGPT and Alphabet's longtime focus on AI and machine learning, investors should not count out fellow tech giant Apple. Apple has not touted ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/10/chatgpt-mania-3-stocks-to-buy-hand-over-fist/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/10/chatgpt-mania-3-stocks-to-buy-hand-over-fist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/719980/artificial-intelligence-ai-on-cloud-circuit-board-1.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-ai-needs-a-set-of-rules-for-its-own-good-and-for-ours.md",
-      "title": "AI needs a set of rules — for its own good, and for ours",
-      "excerpt": "\"AI's most common use case is in public service allocation and for business purposes in deciding who gets home loans, employment opportunities, and health care,\" said Alex Hanna, director of research at ... companies like Facebook and Twitter wouldn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-regulation-necessary-ted-lieu-america-chatgpt-openai-2023-2",
-      "originalUrl": "https://www.businessinsider.com/ai-regulation-necessary-ted-lieu-america-chatgpt-openai-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63e56e2796242f0019e83c45?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-regulation-necessary-ted-lieu-america-chatgpt-openai-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-regulation-necessary-ted-lieu-america-chatgpt-openai-2023-2?amp",
-      "publishedDateTime": "2023-02-10T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-the-inside-story-of-how-microsoft-caught-up-with-google-on-ai-and-the-unlikely-executive-who-made-it-happen.md",
-      "title": "The inside story of how Microsoft caught up with Google on AI, and the unlikely executive who made it happen",
-      "excerpt": "Google Cloud to Microsoft Azure At the time, OpenAI had just released a large language model along with a research paper on the gains that could be made by combining two existing ideas in the AI field: transformers and unsupervised pre-training.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/microsoft-caught-up-with-google-ai-openai-chatgpt-2023-2",
-      "originalUrl": "https://www.businessinsider.com/microsoft-caught-up-with-google-ai-openai-chatgpt-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63e58a4427e5db0018ef052d?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-meta-platforms-a-top-artificial-intelligence-stock-that-no-one-talks-about.md",
-      "title": "Meta Platforms: A Top Artificial Intelligence Stock That No One Talks About",
-      "excerpt": "There are plenty of AI research companies in the market ... Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/10/meta-platforms-a-top-artificial-intelligence-stock/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/10/meta-platforms-a-top-artificial-intelligence-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/719952/gettyimages-1345658982.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T04:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

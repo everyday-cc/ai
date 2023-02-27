@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T19:42:00Z
 originalUrl: "https://www.therobotreport.com/robotics-summit-expo-2023-full-conference-agenda/"
 webUrl: "https://www.therobotreport.com/robotics-summit-expo-2023-full-conference-agenda/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: The Robot Report

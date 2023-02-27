@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-26T03:01:00Z
 originalUrl: "https://www.scmp.com/business/banking-finance/article/3211408/hong-kong-fintech-employs-ai-technology-promise-collateral-free-loans-citys-small-businesses"
 webUrl: "https://www.scmp.com/business/banking-finance/article/3211408/hong-kong-fintech-employs-ai-technology-promise-collateral-free-loans-citys-small-businesses"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: scmp.com

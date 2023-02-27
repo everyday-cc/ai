@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T19:05:00Z
 originalUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html"
 webUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Medical Xpress

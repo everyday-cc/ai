@@ -30,6 +30,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 23
+  - title: "AI learns to outsmart humans in video games - and real life"
+    excerpt: "Video game players have competed against computer-controlled opponents for decades, but they haven't been as smart and fast as GT Sophy, the new AI driver on PlayStation's Gran Turismo"
+    publishedDateTime: 2023-02-27T16:04:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 19
 
 secured: "v1GiMMhNqd3kwApd1iujZKbybmuaTyTgbLG+c15CiAJMFbLQqmXlfAtwlzaIbD25dp4oN/HZBl7OF8qMlzUbX/lCnQZjZ9V+kjLC7jNK0MAejDuUPqNSoiET743C/8DCffK/9+oWpiOohoJ8g+w6BVfOhnHV/uaVv0RKV+Tufzph45UNDVnvVCZWkJQscaEC2t9KnFICLlMxzPfAbIQ4cQWYwIbWE39LEhhL6cTkNB1m/N8z92zxCN34352iC8gyvSr/oakkjlcLIrBSR5beQAffP4mzDl8wOzkmIsAL1gkTW+eXhCv/JFAD+dO99ammNChJgEH5Wbfvu+hlKYSHiod204oTAKRMDrRz09b8jWI=;xmhDSQUVtklvoXqOmdg9Yg=="
 ---

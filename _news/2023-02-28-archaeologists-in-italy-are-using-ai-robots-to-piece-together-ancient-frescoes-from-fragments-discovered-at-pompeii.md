@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T18:28:00Z
 originalUrl: "https://news.artnet.com/art-world/archeologists-ai-robot-repair-pompeii-artwork-2262148"
 webUrl: "https://news.artnet.com/art-world/archeologists-ai-robot-repair-pompeii-artwork-2262148"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Artnet

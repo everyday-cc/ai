@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Get Ready to See More AI Chatbots on Facebook, Instagram"
+    excerpt: "Meta CEO Mark Zuckerberg is looking to capitalize on ChatGPT's popularity with a new product group focused on 'generative AI' for the company's apps and services."
+    publishedDateTime: 2023-02-27T22:45:00Z
+    webUrl: "https://www.pcmag.com/news/get-ready-to-see-more-ai-chatbots-on-facebook-instagram"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04hJf3Kd3R9NFigeXksEOcy-1.fit_lim.size_1200x630.v1677535536.png"
+        width: 1079
+        height: 630
+        isCached: true
   - title: "Leaked messages show Googlers are taking out their frustrations over layoffs on its new Bard AI chatbot"
     excerpt: "\"I'd tell you a joke about layoffs at Google, but I'm afraid I wouldn't have a job tomorrow,\" Bard said when asked to tell a joke about the layoffs."
     publishedDateTime: 2023-02-24T22:26:00Z

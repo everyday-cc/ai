@@ -142,6 +142,20 @@ related:
         width: 2584
         height: 1672
         isCached: true
+  - title: "Meta rolls out new language model amid Big Tech’s AI push"
+    excerpt: "Meta Platforms Inc is releasing a new large language model based on artificial intelligence (AI) aimed at the research community, Chief"
+    publishedDateTime: 2023-02-24T17:12:00Z
+    webUrl: "https://www.shorenewsnetwork.com/2023/02/24/meta-rolls-out-new/"
+    type: article
+    provider:
+      name: shorenewsnetwork
+      domain: shorenewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ1N0O0-BASEIMAGE.jpg"
+        width: 800
+        height: 494
+        isCached: true
   - title: "Meta to release new interactive AI model for academia and industry labs"
     excerpt: "Meta, formerly known as Facebook, made the announcement on ... in government and civil society as well as industry research laboratories. In November last year, the firm released another interactive AI model focused on natural science."
     publishedDateTime: 2023-02-25T10:48:00Z
@@ -174,15 +188,6 @@ related:
       name: Proactiveinvestors
       domain: proactiveinvestors.com
     quality: 19
-  - title: "Meta rolls out new language model amid Big Tech's AI push"
-    excerpt: "Meta Platforms Inc is releasing a new large language model based on artificial intelligence (AI) aimed at the research community, Chief Executive Officer Mark Zuckerberg said in a Facebook post on Friday,"
-    publishedDateTime: 2023-02-24T16:58:00Z
-    webUrl: "https://www.channelnewsasia.com/business/meta-rolls-out-new-language-model-amid-big-techs-ai-push-3303901"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 19
   - title: "Meta to launch AI language model LLaMA"
     excerpt: "Meta Platforms Inc said on Friday it will release a new AI large language model called LLaMA designed to generate text, conversations and"
     publishedDateTime: 2023-02-24T16:27:00Z
@@ -191,6 +196,15 @@ related:
     provider:
       name: shorenewsnetwork
       domain: shorenewsnetwork.com
+    quality: 19
+  - title: "Meta to release AI-based language model for researchers"
+    excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
+    publishedDateTime: 2023-02-27T18:04:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/meta-to-release-ai-based-language-model-for-researchers.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 19
 
 secured: "8g4b3AdssSahG2XUXV797DgOKG3lZyUdcbQbsd0+3LgEkqK/IRpqqQBO90MNKv6KNbj+NEyu1M4KpxpgnDVrBETL5EtFkEjI93jkFKtci6VPJ2azyu6tWuT/zPhmnwm0e7g7+a6PStbT9muXbzEG+inNCK1XFml7VYOkPboJJuJ5dW8njxGJGhUqtB/ZVFwTpath2QgQ+fDv5RSaGbNsHDLcDLoJuM4JwxCPITrBRGagOT5RqZBthneiKbcHOTk4n6iWqTIFJMnOZso4e6JQjUIL1xdgQEx9Y5S7aOH1jmOp/IQ0onizGCknmWgU+/Ua7FxfGyvl0huYtIMtjuMA2ssIrPzAxze/QkM9XX0vysWkoYZamm/LYu1424zRmZxHhQfYQ9OrCarAvht3gdrH76duS5iM+S4CD/NI7qaPB5TE8m9Bxh+JXpv1SWUbTnEcaKNA4TxPFG4DtEH5P13NUU5uYAckkbzpNpkMHxCxdoSuFVgp8IqiUf65gJiluHpvdD4F5VhGZgiw6dr6KyamQw==;fMOy6yOq6syF5rGOo6Ay7g=="

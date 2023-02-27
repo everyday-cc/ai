@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Financial services’ AI appetite grows, study says"
+    excerpt: "Top uses for AI in the financial services sector include ‘next-best action’ systems; portfolio optimization; and fraud detection."
+    publishedDateTime: 2023-02-27T21:37:00Z
+    webUrl: "https://www.cfodive.com/news/financial-services-ai-appetite-grows-study-says/643587/"
+    type: article
+    provider:
+      name: cfodive
+      domain: cfodive.com
+    quality: 39
+    images:
+      - url: "https://www.cfodive.com/imgproxy/2VcpDEawlm1498rKC3S7gsBFK_IK5pwONO68FOBNDuo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDQ3NDkwNDAuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "W8A0IshlBWIBGUxKPZlqel+Un8wtYBnEALcWH7vhgQJ5z+gW7mYxwH04XXPsPfaxKddKTNe/xx/IgsSKDoOq11OBhdLyDmV6qEs3s2v1q8No5ryY+DnWh19OeCJvRq7ohpexyBSMne4hiVnps0+YGiqkid4nA3xmx+2Y5Ta4Zjr3Gq6U0qHh3cJtyzyUM4Oejdrp8pm7YpY8sglxozsT3VmTFcjakr1gXcb/27t1qpgdSwSGUtDsoS3k8RSD+pmYvVc7z96d8892wbkjH/1FuIuVfO74k34D+6zAqerYSnbbrmeoBt+UvNQ/BbLBZ0Vb5Xa68pKNN79Q/TLSbMtFni4Yn72s8ShkcfRWCQ77cNT3Fr0X7jgkB+cotl/q0qXRbn2Vvf1FHfd+H8C6vrgNnDbBj4yyWAfxLgWdbe323+yS+fBsg9xXSXqyMOWhWtro5TyHS8V/m7s98b2qRknHyVCWTylgH4e21EoexKUEJmWwgbXpQK5K3fTsGCCYAByMIhEC6I7ArS+C5ANBvY4hFw==;MRvdHUhkxuRafjqV38SbTA=="
 ---

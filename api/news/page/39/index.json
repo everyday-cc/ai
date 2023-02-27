@@ -2,6 +2,153 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-01-31-machine-learning-engineer-jhb-at-datafin-recruitment-gauteng-sandton.md",
+      "title": "Machine Learning Engineer (JHB) at Datafin Recruitment – Gauteng Sandton",
+      "excerpt": "A leading Financial Services Group in Joburg seeks the expertise of a highly skilled Machine Learning Engineer to join its Markets Data Science team. Your role will entail developing, implementing, and maintaining Machine Learning models that drive ...",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2023/01/31/machine-learning-engineer-jhb-at-datafin-recruitment-gauteng-sandton/",
+      "originalUrl": "https://it-online.co.za/2023/01/31/machine-learning-engineer-jhb-at-datafin-recruitment-gauteng-sandton/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-machine-learning-engineer-jhb-at-datafin-recruitment.md",
+      "title": "Machine Learning Engineer (JHB) at Datafin Recruitment",
+      "excerpt": "A leading Financial Services Group in Joburg seeks the expertise of a highly skilled Machine Learning Engineer to join its Markets Data Science team. Your role will entail developing, implementing, and maintaining Machine Learning models that drive ...",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2023/01/31/machine-learning-engineer-jhb-at-datafin-recruitment/",
+      "originalUrl": "https://it-online.co.za/2023/01/31/machine-learning-engineer-jhb-at-datafin-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-smart-retail-global-market-report-2023-advent-of-computer-vision-in-the-retail-sector-creates-opportunities.md",
+      "title": "Smart Retail Global Market Report 2023: Advent of Computer Vision in the Retail Sector Creates Opportunities",
+      "excerpt": "The research report provides in-depth analysis of the smart retail market across five major geographies and emphasizes on the current market trends, market sizes, market shares, recent developments, and forecasts till 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/01/31/9752597.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/01/31/9752597.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-31-waymos-huge-self-driving-car-dataset-could-help-researchers-toward-level-5.md",
+      "title": "Waymo's Huge Self-Driving Car Dataset Could Help Researchers Toward Level 5",
+      "excerpt": "Data is king in autonomous driving, as it can help teach an artificial intelligence about how to react in new situations based on past experience. Although Waymo’s new dataset covers a thin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5",
+      "originalUrl": "https://www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/inverse/9d/18/98/bb/6102/4d67/bc27/2cf0f5917319/waymominivan7-2jpg.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5/amp",
+      "cdnAmpWebUrl": "https://www-inverse-com.cdn.ampproject.org/c/s/www.inverse.com/article/58638-waymo-s-huge-self-driving-car-dataset-could-help-researchers-toward-level-5/amp",
+      "publishedDateTime": "2023-01-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inverse",
+        "domain": "inverse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-ai-world-likely-to-hit-key-warming-threshold-in-1012-years.md",
       "title": "AI: World Likely To Hit Key Warming Threshold in 10–12 Years",
       "excerpt": "Two climate scientists using machine learning calculated that Earth will surpass the 1.5 degree (2.7 degrees Fahrenheit) mark between 2033 and 2035.",
@@ -1010,197 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-ai-and-the-disruption-of-healthcare.md",
-      "title": "AI And The Disruption Of Healthcare",
-      "excerpt": "While the promise of AI in this field is just starting to be realized, we are already seeing it have a real impact on patients' lives right now. Here are three ways AI is disrupting the practice of healthcare today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62dedd21a8d68dc8012ace2e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/01/30/ai-and-the-disruption-of-healthcare/amp/",
-      "publishedDateTime": "2023-01-30T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-kettering-students-training-artificial-intelligence-models-for-school-bus-safety.md",
-      "title": "Kettering students training artificial intelligence models for school bus safety",
-      "excerpt": "A group of undergraduate computer science students at Kettering University are developing a system to implement cheap, reliable artificial intelligence models on school buses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html",
-      "originalUrl": "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WEPZ3JLZOVAZDEHDMW42TLGEMQ.jpg",
-          "width": 3080,
-          "height": 2237,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html?outputType=amp",
-      "publishedDateTime": "2023-01-30T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-the-us-and-eu-will-work-together-on-artificial-intelligence-models.md",
-      "title": "The US and EU will work together on artificial intelligence models",
-      "excerpt": "While private organizations are monetizing machine learning (ML) models to chew countless images and sell the result to their customers, the US and the EU have",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/97426-us-eu-work-together-artificial-intelligence-models.html",
-      "originalUrl": "https://www.techspot.com/news/97426-us-eu-work-together-artificial-intelligence-models.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-30-image-2.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-subsea-robotics-aquanauts-hydronauts-roll-out.md",
-      "title": "Subsea Robotics: Aquanauts, Hydronauts, Roll Out",
-      "excerpt": "Houston-based Nauticus Robotics’ first production Aquanauts and Hydronauts will head into the wild and closer to full commercialization this",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinetechnologynews.com/news/subsea-robotics-aquanauts-hydronauts-625606",
-      "originalUrl": "https://www.marinetechnologynews.com/news/subsea-robotics-aquanauts-hydronauts-625606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.marinetechnologynews.com/images/maritime/w800h600pad/image-courtesy-nauticus-138341.jpg",
-          "width": 800,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marinetechnologynews.com/amp/news/subsea-robotics-aquanauts-hydronauts-625606",
-      "cdnAmpWebUrl": "https://www-marinetechnologynews-com.cdn.ampproject.org/c/s/www.marinetechnologynews.com/amp/news/subsea-robotics-aquanauts-hydronauts-625606",
-      "publishedDateTime": "2023-01-30T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marinetechnologynews.com",
-        "domain": "marinetechnologynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

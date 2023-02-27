@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T13:00:00Z
 originalUrl: "https://siliconangle.com/2023/02/27/ai-identity-verification-platform-startup-vouched-raises-6-3m/"
 webUrl: "https://siliconangle.com/2023/02/27/ai-identity-verification-platform-startup-vouched-raises-6-3m/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: SiliconANGLE

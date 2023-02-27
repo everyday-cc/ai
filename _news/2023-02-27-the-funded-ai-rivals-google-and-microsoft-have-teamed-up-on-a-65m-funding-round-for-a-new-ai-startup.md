@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T15:53:00Z
 originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/02/27/ai-rivals-google-microsoft-team-up-to-fund-startup.html"
 webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/02/27/ai-rivals-google-microsoft-team-up-to-fund-startup.html"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: The Business Journals

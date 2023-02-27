@@ -24,6 +24,15 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Tune ML models for additional objectives like fairness with SageMaker Automatic Model Tuning"
+    excerpt: "Model tuning is the experimental process of finding the optimal parameters and configurations for a machine learning (ML) model that result in the best possible desired outcome with a validation dataset. Single objective optimization with a performance metric is the most common approach for tuning ML"
+    publishedDateTime: 2023-02-27T20:47:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 90
   - title: "Accelerate disaster response with computer vision for satellite imagery using Amazon SageMaker and Amazon Augmented AI"
     excerpt: "In this blog post we are discussing how to accelerate disaster response efforts using computer vision techniques for processing satellite imagery using AWS services."
     publishedDateTime: 2023-02-24T20:59:58Z

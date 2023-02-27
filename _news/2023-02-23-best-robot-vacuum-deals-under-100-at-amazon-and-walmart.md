@@ -31,6 +31,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 19
+  - title: "Best deals at Amazon in March 2023"
+    excerpt: "Shop the top deals this week at Amazon, including savings on Apple AirPods, iRobot Roombas, Apple Watches and more."
+    publishedDateTime: 2023-02-27T19:02:00Z
+    webUrl: "https://www.cbsnews.com/essentials/the-best-deals-at-amazon-this-week-after-presidents-day-2023-02-27/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 4
 
 secured: "x74dAec0TESwlbpUwiTsYdJKgMBlMEb74tgBxat+qvbqzNx/Ifs/2axgcAlJAlGLxL79JwnYVZo78xM4gpDeUf5qwr/EXKK+Wn/WdTbnzHakleL5DGrV6+BR9IG94Gr24bstvA3KzooDxJMDHFOFuoBtWWLS1caWcfkx0PEIxtrnv+/SZIQ/hXefxI1xrMygPnGlawTDZMAeum04iS+YZs2xwKIqxVKsKXK/YeXREY3Jq5tlNtK1MooPUEfKbtN2UaKySeryR3kta8lm8vSS8mYDoGJNtYSWiOrZVdOdPo7NpYQe+iPKNspCeFISafPQXhfdlEi0QeZa4RnIh24xCdRK7+Mlkam7d48oSPEjptyfCiLTCffnyRmOy2kmwokhEo5GgpjdHFIgbhTzo3sO4CV2NtZ6RmVlOQpg0AURqsX8DSDLXJXAv3++nf3ZUsHVdb1Zs0r5oTYlCkjAbnBSiipNiY+/poLqSxKYjshwqhsCygcVzi5f8wVo+eZj4MXjMB6luPgxF3WC2VuCA7RArA==;MU7yo8hCkaCYRghHR+7PdA=="
 ---

@@ -2,6 +2,205 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-26-can-ai-be-great-equaliser-for-equity-in-education.md",
+      "title": "‘Can AI be great equaliser for equity in education?’",
+      "excerpt": "\"A glimpse of the future shows us AI software being used for generating 3D videos to assist in explaining complex ideas or processes, software for self-paced learning, and real-time speech-to-speech translation that can bridge language barriers in ...",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education",
+      "originalUrl": "https://tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/1501987-hackingcyberthreatreuters-1504945967/1501987-hackingcyberthreatreuters-1504945967.jpg",
+          "width": 1024,
+          "height": 717,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education?amp=1",
+      "publishedDateTime": "2023-02-25T20:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-computer-vision-market-2023-expected-to-reach-significant-rate-by-2027.md",
+      "title": "Computer Vision Market 2023 Expected to Reach Significant Rate by 2027",
+      "excerpt": "Feb 25, 2023 (The Expresswire) -- \"Computer Vision Market\" Insights 2023 By Applications ( On Premise, Cloud), By Types ( Medical Imaging, Surgery,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-25T17:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-machine-learning-operations-mlops-market-is-booming-worldwide-with-top-countries-data.md",
+      "title": "Machine Learning Operations (MLOps) Market is Booming Worldwide with Top Countries Data",
+      "excerpt": "Feb 25, 2023 (The Expresswire) -- \"Machine Learning Operations (MLOps) Market\" Report provides a Detailed analysis of global market size, regional",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-is-booming-worldwide-with-top-countries-data-2023-02-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-is-booming-worldwide-with-top-countries-data-2023-02-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-25T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-see-how-this-ai-improvised-with-a-musican-to-create-a-musical-dialogue-in-real-time.md",
+      "title": "See How This AI Improvised With A Musican To Create A Musical Dialogue In Real-Time",
+      "excerpt": "A 75-minute live performance at the Guildhall School of Music in London featured an improvised performance between a human and an AI that resulted in a tonal musical dialogue in real-time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/25/see-how-this-ai-improvised-with-a-musican-to-create-a-musical-dialogue-in-real-time/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/25/see-how-this-ai-improvised-with-a-musican-to-create-a-musical-dialogue-in-real-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fa81f9d4092acbb40f020b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/25/see-how-this-ai-improvised-with-a-musican-to-create-a-musical-dialogue-in-real-time/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/02/25/see-how-this-ai-improvised-with-a-musican-to-create-a-musical-dialogue-in-real-time/amp/",
+      "publishedDateTime": "2023-02-25T14:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-26-the-robot-revolution-arrives-on-mountain-views-castro-street.md",
       "title": "The robot revolution arrives on Mountain View’s Castro Street",
       "excerpt": "You can see a working robot in action at the new concept store and robot space opened by software company InOrbit.",
@@ -156,7 +355,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -309,7 +508,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2029-2023-02-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 258,
+      "heat": 298,
       "tags": null,
       "images": [
         {
@@ -612,7 +811,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-global-research-report-2023---2028-2023-02-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 459,
+      "heat": 479,
       "tags": null,
       "images": [
         {
@@ -865,50 +1064,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-24-accelerate-disaster-response-with-computer-vision-for-satellite-imagery-using-amazon-sagemaker-and-amazon-augmented-ai.md",
-      "title": "Accelerate disaster response with computer vision for satellite imagery using Amazon SageMaker and Amazon Augmented AI",
-      "excerpt": "In this blog post we are discussing how to accelerate disaster response efforts using computer vision techniques for processing satellite imagery using AWS services.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-disaster-response-with-computer-vision-for-satellite-imagery-using-amazon-sagemaker-and-amazon-augmented-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-disaster-response-with-computer-vision-for-satellite-imagery-using-amazon-sagemaker-and-amazon-augmented-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T12:59:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2023-02-25-meta-unveils-a-new-large-language-model-that-can-run-on-a-single-gpu-updated.md",
       "title": "Meta unveils a new large language model that can run on a single GPU [Updated]",
       "excerpt": "The LLaMA collection of language models range from 7 billion to 65 billion parameters in size. By comparison, OpenAI's GPT-3 model—the foundational model behind ChatGPT —has 175 billion parameters. Meta trained its LLaMA models using publicly available datasets,",
@@ -917,7 +1072,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1095,161 +1250,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-meta-to-launch-ai-language-model-llama.md",
-      "title": "Meta to launch AI language model LLaMA",
-      "excerpt": "REUTERS/Dado Ruvic/Illustration/File Photo Feb 24 (Reuters) - Meta Platforms Inc (META.O) said on Friday it will release a new AI large language model called LLaMA designed to generate text, conversations and summarize written material.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
-      "originalUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/fJBJrVyXjYaAylhHFyAuMY-sz8Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SC4LDVC3ZMXJIUUQDZRBHPHU4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-dont-worry-about-ai-breaking-out-of-its-boxworry-about-us-breaking-in.md",
-      "title": "Don’t worry about AI breaking out of its box—worry about us breaking in",
-      "excerpt": "No AI researcher of substance has suggested that Sydney is within light years of being sentient. But transcripts like this unabridged readout of a two-hour interaction with Kevin Roose of the New York Times,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/ai-attack-dog-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/amp/",
-      "publishedDateTime": "2023-02-24T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-how-artificial-intelligence-helps-protect-intellectual-property.md",
-      "title": "How Artificial Intelligence Helps Protect Intellectual Property",
-      "excerpt": "Brands today have enough challenges: build great products, reach target customers cost-effectively, and increase sales and revenue. The last thing they want to contend with is finding out that someone somewhere is copying their products and selling them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f7c6727d0ada838b093b46/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/amp/",
-      "publishedDateTime": "2023-02-24T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Autos"
       ]

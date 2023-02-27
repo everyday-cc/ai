@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars Market International Business Analysis, Development Outlook and Regional Strategies 2028"
-    excerpt: "Providing a complete overview of the global Self-driving Cars market is a complex task, as there are many different markets and industries around the world. However, I can provide a high-level summary of some of the key trends and factors that are currently impacting the global Self-driving Cars market."
-    publishedDateTime: 2023-02-23T03:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "eXbImKH/soFfUD6Y+mcUEAp/30ArQt88ep0G1/ahgXnlelb1pu2ShsXUUlEPdtuiv6WCV+thtMuchxto62dRyZ2nnmtSJG34gR3iVLpori4jefpcaD0IU6DPaNXfZwzAJ8Nl6I59qawyNw/d0lFBudJHNNthpsa43FgIbFhiGM677ygGl34Bl0RQC+ffDLHcUjBUsvknfZ6uZ9yK9IcLBQxtaSDOn4GeCHmLcyR51huHHgh192v03HAay2RJpiP6uwCjXi1tocVop94Z1qNVhA9Gbw0zl39bFwN/mSCeLft4hbkHUOqygkjlmyAst0hlCmbHNuUJu0nuPlrmJpQwX8JphRFw+K3JJt8rYRcIiOo=;hqEqYGWFdizHRBAXf9gnTQ=="
 ---

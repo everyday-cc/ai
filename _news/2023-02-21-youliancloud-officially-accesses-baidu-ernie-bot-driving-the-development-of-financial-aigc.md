@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "I0MycQQ08dBI2pW7a2gK6sZ4AZ6z7H9tTgwhUofHSs4n428sYlP7KAYjRDb+5aIjP0kaBJGaAFwZHLDN2Bo2JR++V00/HxqG1+Odx6i0PhkdMzUDNFvl7htT6lwhtCvyrOzkPgzgzDNHENkshUa7OvnJY3CjObcFHaGCofQ45f2br4UX60wtwq+Kqs+cypsG8tLgzJyqJPFqg47Kd4mDy+wQYn6zF14HMzbfnZkiYUOw49CpcNdh6ufdtYEVJT4Bswu7dd06WKI7CQV2GSSe8kWsK9UZDHlYR2zOjwNUSJPnTFR+SBAq15W/spJWN6gxZ9isY/oYT+IhhRfHanw4ldoVaBkoKsRgNzbxB9Poo3Y=;uHJF8h0qMRhtj3d+kjPm7g=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?304027"
+    width: 414
+    height: 250
+    isCached: true
+
+secured: "7cUmTokDp9W6mYMB51f3YG/jFWcPAqgJ9gH5ERLfAQ80P3w3UC3O8afyk40bdgLAs3Lb129SH7gijrH/z+7qAU/OCOy2WZKHsSnU+7K8nQwKXzlxHuOjqKkzjSd7pRE8EWxxoSEVzuiH8/Ik+VwmTqwO4Op2SH3kR5klbIJscNY8yqypZQ8UHCe/EalTbjUB64G2rjoGtyHqYqmDITLqtKe9ZPvkgOuI16BpthsqVhXapH6RJI7mKaQ6vedHDEMP1bi7KF7CkryL86szLoh3JxnzvJovlPVA2NYa1C8H8JwvpOZicP2Lb9Luzn8mbIBYsB9r4/I7TDxhH2RUabILOqaWC4UbDvSW+LTh58Zd588=;ufA7AOwl0i0oCkDc+wgCgA=="
 ---
 

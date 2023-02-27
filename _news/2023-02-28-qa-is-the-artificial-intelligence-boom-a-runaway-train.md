@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T18:26:00Z
 originalUrl: "https://techxplore.com/news/2023-02-qa-artificial-intelligence-boom-runaway.html"
 webUrl: "https://techxplore.com/news/2023-02-qa-artificial-intelligence-boom-runaway.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: techxplore

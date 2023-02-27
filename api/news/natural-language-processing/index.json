@@ -54,59 +54,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-26-legal-doomsday-for-generative-ai-chatgpt-if-caught-plagiarizing-or-infringing-warns-ai-ethics-and-ai-law.md",
-      "title": "Legal Doomsday For Generative AI ChatGPT If Caught Plagiarizing Or Infringing, Warns AI Ethics And AI Law",
-      "excerpt": "Many people do not know that generative AI such as ChatGPT was data trained by scanning the Internet, which is an approach that some believe unfairly usurps the work of human content creators. Here's a close look at the claims of plagiarizing and copyright infringement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/26/legal-doomsday-for-generative-ai-chatgpt-if-caught-plagiarizing-or-infringing-warns-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/26/legal-doomsday-for-generative-ai-chatgpt-if-caught-plagiarizing-or-infringing-warns-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f9330cbe0758e7b58ba854/0x0.jpg?format=jpg&crop=1799,1348,x96,y0,safe&width=1200",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/26/legal-doomsday-for-generative-ai-chatgpt-if-caught-plagiarizing-or-infringing-warns-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/26/legal-doomsday-for-generative-ai-chatgpt-if-caught-plagiarizing-or-infringing-warns-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-02-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2023-02-26-can-ai-be-great-equaliser-for-equity-in-education.md",
       "title": "‘Can AI be great equaliser for equity in education?’",
       "excerpt": "\"A glimpse of the future shows us AI software being used for generating 3D videos to assist in explaining complex ideas or processes, software for self-paced learning, and real-time speech-to-speech translation that can bridge language barriers in ...",
@@ -311,58 +258,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-24-the-implications-of-chatgpt-on-cybercrime.md",
-      "title": "The Implications Of ChatGPT On Cybercrime",
-      "excerpt": "Researchers at CyberArk demonstrated how ChatGPT can be easily abused to create polymorphic malware that is highly evasive as well as difficult to detect. Every time researchers queried ChatGPT, they received a unique piece of code that could be used to create numerous mutations of the same malware program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f767765a57e6cb05093b42/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/",
-      "publishedDateTime": "2023-02-24T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-23-future-of-mobile-speech-recognition-software-market-by-2029-trends-and-predictions.md",
       "title": "Future of Mobile Speech Recognition Software Market by 2029: Trends and Predictions",
       "excerpt": "The recently published Mobile Speech Recognition Software Market Report, spanning across 112 pages, provides a comprehensive analysis of the market, including its classifications, product specifications,",
@@ -371,7 +266,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/future-of-mobile-speech-recognition-software-market-by-2029-trends-and-predictions-2023-02-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -941,33 +836,24 @@
     {
       "path": "_news/2023-02-16-moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages.md",
       "title": "Moveworks Leverages Generative AI to Provide Customers with Real-Time Translation in Over 100 Languages",
-      "excerpt": "Moveworks delivers state of the art machine translation by combining some of the world's most advanced generative AI and large language models — including OpenAI's GPT-3, Google's RoBERTa model ...",
+      "excerpt": "Moveworks, the leading conversational AI platform for the enterprise, today announced that it now provides on-the-fly translation in over 100 different languages for its employee support virtual ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/b30942337/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-lang",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/b30942337/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-lang",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages/article_7340349a-da4e-5369-b90a-708fd4ce1c0f.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages/article_7340349a-da4e-5369-b90a-708fd4ce1c0f.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30942337",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30942337",
-      "publishedDateTime": "2023-02-16T06:15:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T06:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1495,6 +1381,92 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-automotive-voice-recognition-market-emerging-trends-growth-analysis-cagr-and-opportunities-2023-to-2032.md",
+      "title": "Automotive Voice Recognition Market: Emerging Trends, Growth Analysis, CAGR, And Opportunities 2023 To 2032",
+      "excerpt": "The Automotive Voice Recognition System Market was valued at USD 2.50 Billion in 2022, and it is expected to reach USD 3.75 Billion by 2032, registering a CAGR of around 8.75% during the forecast period, 2023–2032. Automotive voice recognition systems ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105555132/Automotive-Voice-Recognition-Market-Emerging-Trends-Growth-Analysis-CAGR-And-Opportunities-2023-To-2032",
+      "originalUrl": "https://menafn.com/1105555132/Automotive-Voice-Recognition-Market-Emerging-Trends-Growth-Analysis-CAGR-And-Opportunities-2023-To-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?103123",
+          "width": 444,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-global-speech-and-voice-recognition-market-to-hit-281-billion-by-2027-growing-at-a-cagr-of-244.md",
+      "title": "Global Speech and Voice Recognition Market to Hit $28.1 billion by 2027, Growing At a CAGR of 24.4%",
+      "excerpt": "Chicago, Feb. 09, 2023 (GLOBE NEWSWIRE) -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g30831028/global-speech-and-voice-recognition-market-to-hit-28-1-billion-by-2027-growing-at-a-cagr-of-24-4",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g30831028/global-speech-and-voice-recognition-market-to-hit-28-1-billion-by-2027-growing-at-a-cagr-of-24-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30831028",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30831028",
+      "publishedDateTime": "2023-02-09T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

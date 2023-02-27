@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-24-meta-to-launch-ai-language-model-llama.md",
+      "title": "Meta to launch AI language model LLaMA",
+      "excerpt": "REUTERS/Dado Ruvic/Illustration/File Photo Feb 24 (Reuters) - Meta Platforms Inc (META.O) said on Friday it will release a new AI large language model called LLaMA designed to generate text, conversations and summarize written material.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
+      "originalUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/fJBJrVyXjYaAylhHFyAuMY-sz8Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SC4LDVC3ZMXJIUUQDZRBHPHU4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-24T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-dont-worry-about-ai-breaking-out-of-its-boxworry-about-us-breaking-in.md",
+      "title": "Don’t worry about AI breaking out of its box—worry about us breaking in",
+      "excerpt": "No AI researcher of substance has suggested that Sydney is within light years of being sentient. But transcripts like this unabridged readout of a two-hour interaction with Kevin Roose of the New York Times,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/ai-attack-dog-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/amp/",
+      "publishedDateTime": "2023-02-24T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-how-artificial-intelligence-helps-protect-intellectual-property.md",
+      "title": "How Artificial Intelligence Helps Protect Intellectual Property",
+      "excerpt": "Brands today have enough challenges: build great products, reach target customers cost-effectively, and increase sales and revenue. The last thing they want to contend with is finding out that someone somewhere is copying their products and selling them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f7c6727d0ada838b093b46/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/amp/",
+      "publishedDateTime": "2023-02-24T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-everything-you-wanted-to-know-about-ai-but-were-afraid-to-ask.md",
       "title": "Everything you wanted to know about AI – but were afraid to ask",
       "excerpt": "From chatbots to deepfakes, here is the lowdown on the current state of artificial intelligence Barely a day goes by without some new story about AI, or artificial intelligence. The excitement about it is palpable – the possibilities, some say ...",
@@ -64,7 +219,7 @@
       "originalUrl": "https://venturebeat.com/security/experts-predict-how-ai-will-energize-cybersecurity-in-2023-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -203,58 +358,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-24-the-implications-of-chatgpt-on-cybercrime.md",
-      "title": "The Implications Of ChatGPT On Cybercrime",
-      "excerpt": "Researchers at CyberArk demonstrated how ChatGPT can be easily abused to create polymorphic malware that is highly evasive as well as difficult to detect. Every time researchers queried ChatGPT, they received a unique piece of code that could be used to create numerous mutations of the same malware program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f767765a57e6cb05093b42/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/",
-      "publishedDateTime": "2023-02-24T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-24-how-machine-learning-is-revolutionizing-cx-outsourcing.md",
       "title": "How machine learning is revolutionizing CX outsourcing",
       "excerpt": "CONTACT centers in the Philippines have long been the driving force behind the exponential growth of the business process outsourcing (BPO) industry, providing superlative customer service to companies around the world.",
@@ -306,7 +409,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -349,6 +452,57 @@
       ]
     },
     {
+      "path": "_news/2023-02-24-i-wrote-a-novel-with-chatgpt-authors-have-no-fear-your-jobs-are-safe-but-ai-will-give-you-great-ideas.md",
+      "title": "I wrote a novel with ChatGPT. Authors, have no fear, your jobs are safe — but AI will give you great ideas.",
+      "excerpt": "Sergi Arguimbau, a senior mobile developer at the unicorn startup ManoMano, published his AI-generated book on Amazon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2",
+      "originalUrl": "https://www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63f69b465ca81e001855cc68?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2?amp",
+      "publishedDateTime": "2023-02-24T02:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-3-microsoft-azure-ai-product-features-that-accelerate-language-learning.md",
       "title": "3 Microsoft Azure AI product features that accelerate language learning",
       "excerpt": "The Microsoft Azure Cognitive Speech Services platform is a comprehensive collection of technologies and services aimed at accelerating the incorporation of speech into applications and amplifying differentiation to the market as a result. Among the services available are Speech to Text, Text to Speech,",
@@ -357,7 +511,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/3-microsoft-azure-ai-product-features-that-accelerate-language-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 259,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -451,7 +605,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -691,7 +845,7 @@
       "originalUrl": "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 97,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -721,58 +875,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.md",
-      "title": "Baidu says its alternative to ChatGPT is coming to the public in March",
-      "excerpt": "\"We will embed Ernie bot into Baidu search first and we'll open it ... Beijing has also emphasized building up self-sufficiency in technology. Nikkei Asia on Wednesday reported, citing sources ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 349,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107198302-16770905622023-02-22t172145z_471337376_rc2ggz9l6na2_rtrmadp_0_baidu-ai-ernie.jpeg?v=1677132176",
-          "width": 3500,
-          "height": 2333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html",
-      "publishedDateTime": "2023-02-23T17:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -824,6 +926,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise.md",
+      "title": "Quantive enlists generative AI to help improve business strategy for enterprise",
+      "excerpt": "Quantive today announced a new set of AI-based capabilities to help business users build, manage and track OKRs. The updates include integrations from technology built by Cliff, as well as OpenAI models including GPT-3, hosted on Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/",
+      "originalUrl": "https://venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/amp/",
+      "publishedDateTime": "2023-02-23T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1034,7 +1179,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/future-of-mobile-speech-recognition-software-market-by-2029-trends-and-predictions-2023-02-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -1074,162 +1219,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-warren-buffetts-5-top-ai-stocks-heres-why-you-should-own-them-too.md",
-      "title": "Warren Buffett's 5 Top AI Stocks -- Here's Why You Should Own Them, Too",
-      "excerpt": "Microsoft has been at the center of the conversation about AI in recent weeks because of its integration of OpenAI's ChatGPT with the Bing search engine. Its Azure cloud-hosting services, like AWS, feature lots of AI options for customers. Microsoft's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/23/warren-buffetts-5-top-ai-stocks-heres-why-you-shou/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/23/warren-buffetts-5-top-ai-stocks-heres-why-you-shou/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/721380/ai-artificial-intelligence-in-circle-on-keyboard.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-23T02:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-you-could-profit-by-investing-in-extremely-disruptive-ai-tech-experts-sayheres-how.md",
-      "title": "You could profit by investing in 'extremely disruptive' AI tech, experts say—here's how",
-      "excerpt": "AI feels like it has a chance to be a bigger deal than that, says Lamont. \"Artificial intelligence is a technology that's likely to be extremely disruptive,\" he says. From there, you'll have to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/22/how-to-invest-in-artificial-intelligence-etfs.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/22/how-to-invest-in-artificial-intelligence-etfs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107196743-1676665034824-gettyimages-1208358564-abrf00695.jpeg?v=1677096180",
-          "width": 2045,
-          "height": 1466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/22/how-to-invest-in-artificial-intelligence-etfs.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/how-to-invest-in-artificial-intelligence-etfs.html",
-      "publishedDateTime": "2023-02-22T22:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-andrew-ng-even-with-generative-ai-buzz-supervised-learning-will-create-more-value-in-short-term.md",
-      "title": "Andrew Ng: Even with generative AI buzz, supervised learning will create ‘more value’ in short term",
-      "excerpt": "Andrew Ng, founder and CEO of Landing AI shares his wisdom about generative AI, supervised learning, deep learning and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/andrew-ng-2.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/amp/",
-      "publishedDateTime": "2023-02-22T20:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

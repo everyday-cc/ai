@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla recalls nearly 363,000 vehicles over 'Full Self-Driving' software"
-    excerpt: "DETROIT — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn't always ..."
-    publishedDateTime: 2023-02-23T04:44:00Z
-    webUrl: "https://www.wwltv.com/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
-    ampWebUrl: "https://www.wwltv.com/amp/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
-    cdnAmpWebUrl: "https://www-wwltv-com.cdn.ampproject.org/c/s/www.wwltv.com/amp/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
-    type: article
-    provider:
-      name: WWLTV
-      domain: wwltv.com
-    quality: 59
-    images:
-      - url: "https://media.wwltv.com/assets/CCT/images/b3d09246-bf53-49a1-8d32-776c3b4babc4/b3d09246-bf53-49a1-8d32-776c3b4babc4_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "goxrzoei48gi3/WPkyHDt6PFV4wAIGwytmzo7BtIlkDExisgJl7TX3foLOflx1DbFrVu2LBp/hqYbaeg9oNFtYU+6hDeRMCXUkrCVg0Yw0JJg1wDsbXLvfmLenjcWCMTl74HcmL5ygNkPsrgdkTE9mrHqkkLb48z1moh9T2LViJ88y2zULP68UKSbSTYu+tEM4sxlG97g5sPyUJAH6ui4r6ljU9z62Gs3PcQoNYbC7UPmzngRonwEyKioklz+sEMkjDDytxKeect9Op8A6xNv4VxW0X49y3z7XBpaQ6+F+IUHA3bip5vPktdlZ+pRRPXhBqtpFfQNmF3dQF+y2TfIfdQS96sXjPu1e4Ycdj0GnhdsHo+1Jfkt3ld9Ikm2Q8L5gMhJYumia5olE99DVnHnuKwAf+IOrQT4g4oQ7npAfM33JvpO7bG1seKv+PjeK7VpJMvBPa4y8LPAiSfRLsHeTeojAn8G3jtRJbGQNHvS77lqCvbmmnDEb9lWsZToh+4hW7PAXokTfA2J5iCfr/y9g==;kaRHF4myhsufrNQ05uUvNg=="
 ---

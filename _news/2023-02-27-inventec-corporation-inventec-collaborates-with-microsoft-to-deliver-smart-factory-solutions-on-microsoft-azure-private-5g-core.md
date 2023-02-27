@@ -152,6 +152,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Responsible AI: The research collaboration behind new open-source tools offered by Microsoft"
+    excerpt: "As computing and AI advancements spanning decades are enabling incredible opportunities for people and society, they’re also raising questions about responsible development and deployment. For example,"
+    publishedDateTime: 2023-02-27T17:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/responsible-ai-the-research-collaboration-behind-new-open-source-tools-offered-by-microsoft/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 43
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2023/02/RAI_blog-2023Feb_TW_LI_FB_with-logo_1200x627.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "How to Power Intelligent Enterprises with SAP on Microsoft Cloud"
     excerpt: "Microsoft’s Dara Ibrahim, Co-op UK’s Simon Fullalove, and TCS’ Chandrashekar Saligram explore how Microsoft, TCS, and SAP collaborate to power future-ready enterprises."
     publishedDateTime: 2023-02-23T23:19:00Z
@@ -177,26 +191,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "iMocha and Microsoft collaborate to Simplify Assessment of Business Language Skills with AI-EnglishPro"
-    excerpt: "Mocha, the worlds largest skills intelligence assessment platform, in collaboration with Microsoft announced the launch of its advanced AI-EnglishPro. Powered by the Microsoft Azure Cloud and Azure AI,"
-    publishedDateTime: 2023-02-23T05:05:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2361115-imocha-and-microsoft-collaborate-to-simplify-assessment-of-business-language-skills-with-ai-englishpro"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2361115-imocha-and-microsoft-collaborate-to-simplify-assessment-of-business-language-skills-with-ai-englishpro?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2361115-imocha-and-microsoft-collaborate-to-simplify-assessment-of-business-language-skills-with-ai-englishpro?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 38
-  - title: "AWS, IBM, Microsoft, Red Hat crowned PaaS leaders"
-    excerpt: "Amazon Web Services, IBM, Microsoft and Red Hat have all been named as leaders in the platform-as-a-service market, research firm GlobalData has claimed."
-    publishedDateTime: 2023-02-23T05:45:00Z
-    webUrl: "https://www.arnnet.com.au/article/705837/aws-ibm-microsoft-red-hat-crowned-paas-leaders/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 36
   - title: "Meta takes on Google and Microsoft with own tool for building AI chatbots"
     excerpt: "Meta Platforms Inc. introduced a research tool for building artificial intelligence-based chatbots and other products, seeking to create a buzz for its own technology in a field lately focused on internet rivals Google and Microsoft Corp."
     publishedDateTime: 2023-02-25T06:44:00Z
@@ -215,15 +209,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 34
-  - title: "Microsoft Just Starting To Hit Next Gear Of Growth, Backed By ChatGPT And AI, Analyst Says"
-    excerpt: "Azure/Office 365, along with AI monetization on Azure with consumer search piece will likely add $20/share in 12-18 month: Ives The analyst expects Activision deal to close by late summer. The Microsoft Analyst: Wedbush analyst Daniel Ives maintained an ..."
-    publishedDateTime: 2023-02-24T10:16:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/02/31043193/microsoft-just-starting-to-hit-next-gear-of-growth-backed-by-chatgpt-and-ai-analyst"
+  - title: "GSMA debuts open API toolkit as AWS and Microsoft roll out new carrier offerings"
+    excerpt: "The GSMA Association, the influential telecommunications industry group, is rolling out a new toolkit for creating applications that integrate with multiple carrier networks. The technology is known as the GSMA Open Gateway and made its debut today at MWC Barcelona 2023."
+    publishedDateTime: 2023-02-27T19:45:00Z
+    webUrl: "https://siliconangle.com/2023/02/27/gsma-debuts-open-api-toolkit-aws-microsoft-roll-new-carrier-offerings/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
 
 secured: "W8LCW8Umi/EibkMNY30Wn4s/SsvBilYZnBMazS4RSrB+ReBvUwuP9xV0B5UTZvB4bQB9XIEM0/mA14Y82e0s2as+hx2WC+VqThFqAlZ6YClMsMHLCBkBDSQkPLAdUvvbQmjhww+0laluvr/ZKN+RICYVMtPubi07yqf9YbwEsuu64YU3VJvBe4DtyN5VHCz8oEVnVw9gqoYiQVgO+O1hKhlHjb7JLNCAGreAPywzpEIxUxV8DInmWt0pfACVhthuX68HQwxnK7kZApvU5NiGYXjnpd8mGvG/mQzwJHBo6ZgYBf5DKN1G+LID02yX7C/0qrhfct9mgAamDyCfc5NpcHLpOCkpbuq/SjSSadx2SOOqW45A6oxm8EEEU0ET+QeDUFfR00fsf0UqskYIAHiMS61uniOZLr3olNt6zE74jOjZtTqPdu2h2q2kIdlCB0IlzU7SsB4OCO22KbjqD1Nk3brP96ejy5j77k2A70/KdRYgKl4a5PuTWibzbM8rRuHqCD+KKkBzho2zIGnyfui2uQ==;qjbwfcxEfWL9zjKB5O1WZA=="
 ---

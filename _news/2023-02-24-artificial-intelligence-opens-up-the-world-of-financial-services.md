@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
       - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/024/iStock-1312400050_-_Amount_3.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Financial services’ AI appetite grows, study says"
+    excerpt: "Top uses for AI in the financial services sector include ‘next-best action’ systems; portfolio optimization; and fraud detection."
+    publishedDateTime: 2023-02-27T21:37:00Z
+    webUrl: "https://www.cfodive.com/news/financial-services-ai-appetite-grows-study-says/643587/"
+    type: article
+    provider:
+      name: cfodive
+      domain: cfodive.com
+    quality: 39
+    images:
+      - url: "https://www.cfodive.com/imgproxy/2VcpDEawlm1498rKC3S7gsBFK_IK5pwONO68FOBNDuo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDQ3NDkwNDAuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
 
 secured: "KR3ywgpwE4ZeiWp2KUMw1OdsK53aLUnLJJZcrGgiPUN/x0971u1CMw6uUh//BHQYU6C2sq8DP6H5k8M19NZSuS7RSmpM+meLPSd+Gt9QRPu5ej9i7Ls16IctZRjbr3pbZhB15UsXvnjMVRoyoIAHvdZ96nwwzyuplyql9go3vVxcbAhybdTrvQhes6JNhhfDF8krkFqGFFZCw/gEqg9siEtzZS57WX/iKpXET2Q/7AWeapvKXNO3qYgTEhpilG7dxQY4o5Oi0SlEU4J2vKaRMl9XTdNu+dAbhqmtNjcJY269y/A4ut5O00lu3Jm9R9qFTcEswywJNDRBab8fBEnk0G8BcMNqyP7fWw2p0ZYCwqiwxOEcN0aZpUHcPC6GSt83TQBPevolNrS5VtVutHnEZkcFA6aHScCDO1uiG04rciOqwiZ+q3o2VVgk557q2XFEOHO8UHbgu6MU8wysVnkqVE0pDLpnC1lKXYATEUoAbD6PhIQ1P5fhp0Aeb++nu1i9pSjNyAfm7cLxBlp7d7CwjA==;JBkuz77h6ANu8ceUrs1wNA=="

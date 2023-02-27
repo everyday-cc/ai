@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T19:37:00Z
 originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Shaping-Data-Management-for-the-Modern-and-Demanding-Application-157355.aspx"
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Shaping-Data-Management-for-the-Modern-and-Demanding-Application-157355.aspx"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: dbta

@@ -46,6 +46,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 61
+  - title: "Qualcomm ran a complete Stable Diffusion AI model on an Android phone"
+    excerpt: "Qualcomm was able to adapt the image creation capabilities of Stable Diffusion to a single Android smartphone powered by a Snapdragon 8 Gen 2 SoC device."
+    publishedDateTime: 2023-02-27T18:44:00Z
+    webUrl: "https://www.techspot.com/news/97744-qualcomm-ran-complete-stable-diffusion-ai-model-android.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
 
 secured: "E0dDEOd/VU2bVcZMcShtDYTpArrkjOo491Ygdrd3FuVuQD0Y0BVP/iji3gDf84udteWud6j7/CPHIF+Gzg1V4fTPrihfNtdHpvHnW6j71TY7dCm1f8MEDxl5K4snmoZXLJnJy9WGBhTOkocJpf6uHUQUimGYzE1WcL0R6orpLESP38EG5L0HH1mSyfP5nnw+N6ayCAvcQeFboEK1mzB6DcuqYT9pCh7QZ8YSv/co2bt/NKv2VkmB8Wu5UFBjfsZuZ7n2n/anBAE7R3O8sn0/Ylz+Cc2kqf/5Wx79IGU3ajVYasu690gw46Dy7W3BvePU0HSJwh8dHdVR8XCEZRRYj9OUq1yH8tg517H6TAPCnOtsJJBR1FDTwBFv3rc+QfnMW4MIHZGNSNnkHYYLKMgZtQ218aUl7QsYGPPPCxgbQ7HbE4bAGLpVr8CD+h5EdN72M9kjW7ux2HQgPlYRotpaQGvnbhOmW113T4vK2N1ldTX8ge2Ohw944CMKiE83Dzuvj/204lFNX0K/sd6bvmymOQ==;OmRIJZTe7d2gzpBXamaDkw=="
 ---

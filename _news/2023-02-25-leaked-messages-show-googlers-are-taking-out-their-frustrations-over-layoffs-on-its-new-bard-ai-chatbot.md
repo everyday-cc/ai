@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Get Ready to See More AI Chatbots on Facebook, Instagram"
+    excerpt: "Meta CEO Mark Zuckerberg is looking to capitalize on ChatGPT's popularity with a new product group focused on 'generative AI' for the company's apps and services."
+    publishedDateTime: 2023-02-27T22:45:00Z
+    webUrl: "https://www.pcmag.com/news/get-ready-to-see-more-ai-chatbots-on-facebook-instagram"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04hJf3Kd3R9NFigeXksEOcy-1.fit_lim.size_1200x630.v1677535536.png"
+        width: 1079
+        height: 630
+        isCached: true
   - title: "Facebook owner Meta joins AI chatbot race"
     excerpt: "After Microsoft ChatGPT and Google's Bard, Meta is joining the AI chatbot race with its own state-of-the-art foundational large language model designed to help researchers advance their work in the field of artificial intelligence."
     publishedDateTime: 2023-02-25T08:30:00Z

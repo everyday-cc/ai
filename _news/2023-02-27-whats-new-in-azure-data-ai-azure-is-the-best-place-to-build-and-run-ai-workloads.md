@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T09:00:20Z
 originalUrl: "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/"
 webUrl: "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/"
 type: article
+quality: 77
+heat: 77
+published: true
 
 provider:
   name: Microsoft

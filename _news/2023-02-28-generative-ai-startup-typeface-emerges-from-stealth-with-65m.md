@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T20:36:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-startup-typeface/"
 webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-startup-typeface/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: news.crunchbase

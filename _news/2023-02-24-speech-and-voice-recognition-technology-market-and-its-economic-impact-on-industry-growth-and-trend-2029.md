@@ -79,6 +79,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Phone Market Size, Assessment, Key Factors And Challenges By 2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Facial Recognition Phone Market\" Report covers specified competitive outlook consisting of the market proportion"
+    publishedDateTime: 2023-02-27T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-size-assessment-key-factors-and-challenges-by-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
   - title: "Speech Recognition Market Booming With Rising Demands and Massive Opportunities, 2023 - 2029"
     excerpt: "Speech Recognition Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Semiconductor & Electronics] category in the industry, by Type (Speaker Dependent,"
     publishedDateTime: 2023-02-27T02:18:00Z
@@ -116,15 +125,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Latest Deep Learning Software Market 2023-2029: Thinking From The Worldwide Experts | New Comprehensive Research Study by 107 Pages"
-    excerpt: "Deep Learning Software Market“ | New Research Visions Report 2023 with Page of no. (107), By Applications [Large Enterprises, SMEs] , By Types [Artificial Neural Network Software, Image Recognition Software,"
-    publishedDateTime: 2023-02-23T03:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-latest-deep-learning-software-market-2023-2029-thinking-from-the-worldwide-experts-new-comprehensive-research-study-by-107-pages-2023-02-22"
+  - title: "Artificial Intelligence as a Service Market 2023 Top Ranking Strategies: Trends, Predictions and Technologies 2029"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-27T15:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2023-top-ranking-strategies-trends-predictions-and-technologies-2029-2023-02-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 17
+    quality: 25
 
 secured: "Rh2g/pgDCVSC95KswPtO9nRK469NMZP0VQ2MzZ1jSbls4fyjhNojVEH4iHLCXAHlPl8FUKLtkW1hOBErlBt1/ASvLid48HBfF/kGbUfO+B17phvgHJ46+BGcv8LFLNyFwD+l+E3VSA1O7tnD0lSDtcxYQ+uRRHl1bCpw6nDC9MLufH0OPprusl2CzCSy+rVHoSdVNxYXipD+PYw2/PgnGA2KEROUJPUgbAyO9kpHK7JZrqE17vHzAbFEuNxbHmrP9whGTBMHmLpSDn1nZ1yD/isK/pUzELMqbH12CHfrQiztT90pyLFDryiJv7+VL4Zu5npg3BfjIQt9YaYgZnLD2iscZWOSztLO1rLmj4c2m8w=;wWkSmWQ2uVX0w38cE4omDA=="
 ---

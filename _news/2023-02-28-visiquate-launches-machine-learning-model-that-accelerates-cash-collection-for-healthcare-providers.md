@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T19:16:00Z
 originalUrl: "https://menafn.com/1105661770/Visiquate-Launches-Machine-Learning-Model-That-Accelerates-Cash-Collection-For-Healthcare-Providers"
 webUrl: "https://menafn.com/1105661770/Visiquate-Launches-Machine-Learning-Model-That-Accelerates-Cash-Collection-For-Healthcare-Providers"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Mena FN

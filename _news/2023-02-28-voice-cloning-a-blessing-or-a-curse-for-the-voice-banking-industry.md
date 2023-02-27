@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T19:16:00Z
 originalUrl: "https://www.finextra.com/blogposting/23813/voice-cloning-a-blessing-or-a-curse-for-the-voice-banking-industry"
 webUrl: "https://www.finextra.com/blogposting/23813/voice-cloning-a-blessing-or-a-curse-for-the-voice-banking-industry"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Finextra

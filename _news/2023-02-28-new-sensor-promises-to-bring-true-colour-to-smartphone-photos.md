@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T18:48:00Z
 originalUrl: "https://thenextweb.com/news/new-sensor-promises-to-bring-true-colour-to-smartphone-photos"
 webUrl: "https://thenextweb.com/news/new-sensor-promises-to-bring-true-colour-to-smartphone-photos"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Next Web

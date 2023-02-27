@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-28-in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips.md",
+      "title": "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips",
+      "excerpt": "The fascination with generative AI has spring-loaded demand for products that can help deliver on its promise. And startups are primed to pounce. ‘There’s new openings for attack,’ says one venture capitalist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
+      "originalUrl": "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 564,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-732623/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
+      "publishedDateTime": "2023-02-27T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-26-mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips.md",
       "title": "MediaTek may soon integrate Nvidia's AI GPUs in flagship mobile chips",
       "excerpt": "This would be a big step for Nvidia because it would show that established desktop GPU designs can also be ported to smartphone SoCs, reports Gizmochina",
@@ -157,7 +209,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1428,49 +1480,6 @@
         "name": "PCGamesN",
         "domain": "pcgamesn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-is-apple-letting-another-ai-opportunity-slip-away.md",
-      "title": "Is Apple letting another AI opportunity slip away?",
-      "excerpt": "AI that lets you select the text in any image. Apple does all this stuff. It’s so important to the company that they build a Neural Engine into all their chips, specialized hardware that accelerates machine learning tasks like these. Apple’s even ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.macworld.com/article/1507282/apple-generative-ai-chatgpt-bard-bing.html",
-      "originalUrl": "https://www.macworld.com/article/1507282/apple-generative-ai-chatgpt-bard-bing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

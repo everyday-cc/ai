@@ -39,6 +39,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Companies oversell the self-driving capabilities of their cars, with horrific outcomes"
+    excerpt: "This self-driving feature was found to possibly cause vehicles to misbehave when entering intersections or exceed the speed limits, posing a risk for safety. Create an account or sign in to continue with your reading experience. This is just another ..."
+    publishedDateTime: 2023-02-27T20:57:00Z
+    webUrl: "https://nationalpost.com/pmn/news-pmn/companies-oversell-the-self-driving-capabilities-of-their-cars-with-horrific-outcomes"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 0
 
 secured: "ir2VfyuQQYW7/Zp0QV9PvFXzRz4RDKYljK4aAs6pUTMMrdcOkZy3TNhJ8SbTJ1U15LlLCurr3EHzbmFNDVQw9w91yuphZa86AgKOp5xGsiWXrVfLMrDOWD1MHKE8UbyaNoe3mzd7roM8rTvLeaSEuCgmxnozGKmn1oK3fqMx4QtiXXwzqPhcPn4t5hMcTGbY+Br/Px/DlIEt618sry9blWl0cTa8rar6WQVnriuEv2Zpu+10RgadGKCYNWxv55l+qYPNAk11VPHVQZ0ZCHy4YdvWvaPwzDTDntNOd3HRQ0TIsbk9lp5tRUFOBKzjtw1NU3LnSLbME3vIOEqnPqIhnwy3XivO5l++FivRvF7yzjM=;81oidOwLFRojlqvzViUscg=="
 ---

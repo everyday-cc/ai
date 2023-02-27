@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/"
 type: article
 quality: 96
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla recalls nearly 363,000 vehicles over 'Full Self-Driving' software"
-    excerpt: "DETROIT — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn't always ..."
-    publishedDateTime: 2023-02-23T04:44:00Z
-    webUrl: "https://www.wwltv.com/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
-    ampWebUrl: "https://www.wwltv.com/amp/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
-    cdnAmpWebUrl: "https://www-wwltv-com.cdn.ampproject.org/c/s/www.wwltv.com/amp/article/news/nation-world/tesla-recall-full-self-driving-beta-flaws/507-2d117027-141e-4d0c-8c29-b6871ea7a420"
-    type: article
-    provider:
-      name: WWLTV
-      domain: wwltv.com
-    quality: 59
-    images:
-      - url: "https://media.wwltv.com/assets/CCT/images/b3d09246-bf53-49a1-8d32-776c3b4babc4/b3d09246-bf53-49a1-8d32-776c3b4babc4_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
 
 secured: "ecU5OCbxVNktE6nYow1E5KL/rMf359LFeoe1b8IP2GrqvXuoZOSjViUDZw0L+MCLPTzfbq8ZB7zaa77F3IyhSdPiWXtnSwK4YVY6jRVLAbYTR2iFdQHZMSn0Gn+VADKob010MdYHyka7o7dqkymbyAMn+tU6R09zVEagYevHMH+K8e1Cg1Q+/Aq46MSE9IqXgqhqsqUqipU2cMy6ihP5r7MP2nUnDbgzMy81TPqFnTkQCIuRrePnigHkOWfzk2loVdUAjVxWKestXVLhvZCl/qooWxT/gAVENxAgkL5MzIok4u7x/XG2O6FRv8VmX7wCq3esLb8+x4tAu4UrNwabKgxQtSwYVS2hyEf6zDEm2v2guNbg5HLFW5zFTRpU37PFfgJRQMnbLHps0UJHZffCBICayu5KiR7R51y6SPKZAEXs5xJ9/dDJXT5I5bk65c5Dp6fFZlr+i//XAgYKadQCDqfH5hYRmCjtHx8lGcomm/mPbYeDZD7UggDFRsto4XCcHfdG97+/XQf1KabeNq9c1g==;mUgX8DFRqCnros66EB5zuw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-g
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 61
+  - title: "Qualcomm ran a complete Stable Diffusion AI model on an Android phone"
+    excerpt: "Qualcomm was able to adapt the image creation capabilities of Stable Diffusion to a single Android smartphone powered by a Snapdragon 8 Gen 2 SoC device."
+    publishedDateTime: 2023-02-27T18:44:00Z
+    webUrl: "https://www.techspot.com/news/97744-qualcomm-ran-complete-stable-diffusion-ai-model-android.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "Qualcomm Shrinks AI Art Generator to Run on an Android Phone"
     excerpt: "The company has adapted the Stable Diffusion art generator to run on a smartphone, and it's reportedly as fast as it is on a powerful desktop machine."
     publishedDateTime: 2023-02-23T18:34:00Z

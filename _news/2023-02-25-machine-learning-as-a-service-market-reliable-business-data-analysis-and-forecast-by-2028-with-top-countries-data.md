@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Role of AI-based Surgical Robots Market 2023: Business Developments and Strategies by 2029"
+    excerpt: "New 99 Pages Report] A Recently published “AI-based Surgical Robots Market” Size (2023) research report offers"
+    publishedDateTime: 2023-02-27T15:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-role-of-ai-based-surgical-robots-market-2023-business-developments-and-strategies-by-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market 2023 Size to Set a High Potential Growth by 2028"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-02-25T10:32:00Z
@@ -123,6 +137,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Software Market 2023 Competence Analysis Forecast to 2029 with Top Players"
+    excerpt: "Top “ Computer Vision Software Market ” Size 2023 Key players Profiled in the Report are [, Sighthound, Algolux, Deep Vision AI Inc., ViSenze, Umbo CV,] most important, influential, or successful companies,"
+    publishedDateTime: 2023-02-27T16:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-2023-competence-analysis-forecast-to-2029-with-top-players-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -183,6 +211,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+  - title: "Speech Recognition Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Speech Recognition Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,"
+    publishedDateTime: 2023-02-27T11:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
   - title: "Artificial Intelligence in Construction Market is Booming Worldwide to Show Significant Growth over the Forecast 2023 to 2029"
     excerpt: "Artificial Intelligence in Construction Market Size 2023-2029 | New Report (114 Pages) | Information Technology | In"
     publishedDateTime: 2023-02-27T06:27:00Z
@@ -225,6 +262,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Clinical Natural Language Processing Market 2023 Competence Analysis Forecast to 2029 with Top Players"
+    excerpt: "Top “ Clinical Natural Language Processing Market ” Size 2023 Key players Profiled in the Report are [, Artificial Solutions, IBM Corporation, NLP Technologies, Inc., eContext, Dolbey Systems, Inc., Apple,"
+    publishedDateTime: 2023-02-27T16:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-2023-competence-analysis-forecast-to-2029-with-top-players-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
   - title: "Artificial Neural Networks Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2029"
     excerpt: "The global Artificial Neural Networks market size is projected to reach multi million by 2029, in comparison to 2023, with unexpected CAGR during the forecast period, the Artificial Neural Networks Market Report Contains113pages Including Full TOC,"
     publishedDateTime: 2023-02-24T03:40:00Z

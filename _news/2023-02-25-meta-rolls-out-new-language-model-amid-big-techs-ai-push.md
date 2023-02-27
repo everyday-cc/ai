@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Meta rolls out new language model amid Big Tech's AI push"
-excerpt: "Meta Platforms Inc is releasing a new large language model based on artificial intelligence (AI) aimed at the research community, Chief Executive Officer Mark Zuckerberg said in a Facebook post on Friday,"
-publishedDateTime: 2023-02-24T16:58:00Z
-originalUrl: "https://www.channelnewsasia.com/business/meta-rolls-out-new-language-model-amid-big-techs-ai-push-3303901"
-webUrl: "https://www.channelnewsasia.com/business/meta-rolls-out-new-language-model-amid-big-techs-ai-push-3303901"
+title: "Meta rolls out new language model amid Big Tech’s AI push"
+excerpt: "Meta Platforms Inc is releasing a new large language model based on artificial intelligence (AI) aimed at the research community, Chief"
+publishedDateTime: 2023-02-24T17:12:00Z
+originalUrl: "https://www.shorenewsnetwork.com/2023/02/24/meta-rolls-out-new/"
+webUrl: "https://www.shorenewsnetwork.com/2023/02/24/meta-rolls-out-new/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: shorenewsnetwork
+  domain: shorenewsnetwork.com
 
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ1N0O0-BASEIMAGE.jpg"
+    width: 800
+    height: 494
+    isCached: true
 
 related:
   - title: "Meta to launch AI language model LLaMA"
@@ -191,7 +197,16 @@ related:
       name: shorenewsnetwork
       domain: shorenewsnetwork.com
     quality: 19
+  - title: "Meta to release AI-based language model for researchers"
+    excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
+    publishedDateTime: 2023-02-27T18:04:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/meta-to-release-ai-based-language-model-for-researchers.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
-secured: "waR1/FLPvWRzz+xSBZG1lm30I+kApL4JyeWVMFlvdfMp+5NEh3rFso319tqysAfi8Ml/DAnEeRgd1ArCIwGJEYs7ie7EQ3ESNHzCHVlt1Yo0bbV5IuNs4CxL0GtN05JrVEc4GpSqq8OnnwgJQYFPz2bfe6lvwk2JzSCiPtJEAPfIGJboVVjXCsFPwDrDPMG9KdVG+JZiGwwDmVuf68kHcR0nHvZz1Yna6qJLjDB0ZNGvj8hybKq/tCVSo9nGnkoGrxRBYme/a4Y8qMo6UhfrIjJG9EzPKyuumu5ygTZxZ9CXM8q2PYRyHvX7DCpV4jHvudrCEZIXX+vsrdtJkigq3/hC2cFn2XpoIPTfl8FCH7WU1UKHD/2Blior3bkzgQanOd0YR3GVLihVbw2LDHgfFd8leXGjx26pavlMtdDui1MooO+Ux6sHPDA/Oz3BxpR65U2NHHifgJPoWOO628DNiz+tpbWHG4OpFFPXDAqSJYaYEgudioz4MlO2FSVQr2RJlbOdVM90H+G/6AittKtutA==;IT13XIAzQpO2kUiHqSmUmQ=="
+secured: "dfuVnXcqQ6SbwCViWi1yHGci2zD7zKn+f/oXuLfPaO34hfWoW9cdcNAOqBHfLYa0c/hsg6TEgiODhAKBoVTEJ179moh7pvQjLmibSD/ajEpC9lXX07NKWiDMpHnbstBbPcm78dnEpHGXyZklCVnsOzWWsr27msQb4Kzrv02YaKWmuQoGPKrmKufvkFASVlmcS+a+q7wgG8gA1EtSYuC6U7PX2NZkUdti1V7XEyG6ySwK8V1eKCX1+WMojX9s/m65e/LjcjowgifAdsb0graLj2KrmWGQ3C2BtUHCIS92wYKTp0wlDt9gU/NMiLR08V441xTNaAAFA5m1RXeJ0LEb41fu6Qtsm5ATK+fLhH1mP9I=;CqhZ2zQGoJwsbZHd9mj3mQ=="
 ---
 

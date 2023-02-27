@@ -38,6 +38,22 @@ related:
         width: 1080
         height: 1080
         isCached: true
+  - title: "Commentary: Companies oversell the self-driving capabilities of their cars, with horrific outcomes"
+    excerpt: "Tesla announced the recall of over 350,000 vehicles—more than 20,000 in Canada —due to a problem with its \"Full Self-Driving Capability\" system. This self-driving feature was found to possibly cause vehicles to misbehave when entering intersections or exceed the speed limits,"
+    publishedDateTime: 2023-02-27T19:34:00Z
+    webUrl: "https://techxplore.com/news/2023-02-commentary-companies-oversell-self-driving-capabilities.html"
+    ampWebUrl: "https://techxplore.com/news/2023-02-commentary-companies-oversell-self-driving-capabilities.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-commentary-companies-oversell-self-driving-capabilities.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 30
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/companies-oversell-the.jpg"
+        width: 1000
+        height: 567
+        isCached: true
 
 secured: "+W1X0PlR6R9fMLUoRKcqiAnCyMTpg3Bj1aBrk9XgCWuTq39YcTEhbjPqK0pYVPXJWDQVY9VhIC2P/mq3nkPBqdwHYVQzdVsBvj7fbLug9sT1Br/8tIZnEAgUWKSWXqFHjJYHfZyoAx7byBcoh6J3JHSQpMYCwVKJam8uG6rr5DJu1R9bc4lSjBLEPP09wTRKUOkHViz9aihfF9uTR93lwyMmhzaWOcayqaMn3/9eFZftiIhNhWS0ZHNF6PfHpDmXIswg3/ppfHmlOAs6DuT35LEPBwvHYBenCSjXR314Rw6bzbml0ZjYwLzM6hyatsY9MpFmlRAIncms/Hkd6SlqZH8I3U547Qqq0nDZQbhY5qk=;sx/pEsGX7Ou588HlGjZ0Jg=="
 ---

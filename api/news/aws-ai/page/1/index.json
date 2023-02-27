@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-27-tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning.md",
+      "title": "Tune ML models for additional objectives like fairness with SageMaker Automatic Model Tuning",
+      "excerpt": "Model tuning is the experimental process of finding the optimal parameters and configurations for a machine learning (ML) model that result in the best possible desired outcome with a validation dataset. Single objective optimization with a performance metric is the most common approach for tuning ML",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T12:47:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-westpac-and-aws-swim-deeper-into-generative-ai-for-banking.md",
       "title": "Westpac and AWS swim deeper into generative AI for banking",
       "excerpt": "Cloud giant AWS has signed a five-year deal with Westpac, a similar contract to one the bank signed with Microsoft Azure last year as it develops AI.",
@@ -87,50 +131,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-accelerate-disaster-response-with-computer-vision-for-satellite-imagery-using-amazon-sagemaker-and-amazon-augmented-ai.md",
-      "title": "Accelerate disaster response with computer vision for satellite imagery using Amazon SageMaker and Amazon Augmented AI",
-      "excerpt": "In this blog post we are discussing how to accelerate disaster response efforts using computer vision techniques for processing satellite imagery using AWS services.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-disaster-response-with-computer-vision-for-satellite-imagery-using-amazon-sagemaker-and-amazon-augmented-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-disaster-response-with-computer-vision-for-satellite-imagery-using-amazon-sagemaker-and-amazon-augmented-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T12:59:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     },
     {

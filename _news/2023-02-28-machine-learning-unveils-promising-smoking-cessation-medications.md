@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T20:10:00Z
 originalUrl: "https://scitechdaily.com/machine-learning-unveils-promising-smoking-cessation-medications/"
 webUrl: "https://scitechdaily.com/machine-learning-unveils-promising-smoking-cessation-medications/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: SciTech Daily

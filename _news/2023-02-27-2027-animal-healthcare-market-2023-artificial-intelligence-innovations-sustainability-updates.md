@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2027-animal-healthcare-m
 webUrl: "https://www.marketwatch.com/press-release/2027-animal-healthcare-market-2023-artificial-intelligence-innovations-sustainability-updates-2023-02-26"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -43,6 +43,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2028 Acute Coronary Syndrome (ACS) Market 2023 Artificial Intelligence, Innovations, Sustainability Updates"
+    excerpt: "The “Acute Coronary Syndrome (ACS) market“ is set to experience magnificent growth in the coming years, with a"
+    publishedDateTime: 2023-02-27T03:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2028-acute-coronary-syndrome-acs-market-2023-artificial-intelligence-innovations-sustainability-updates-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2028 Healthcare & Hospital Flooring Market 2023 Artificial Intelligence, Innovations, Sustainability Updates"
+    excerpt: "The “Healthcare and Hospital Flooring market“ is set to experience magnificent growth in the coming years, with a"
+    publishedDateTime: 2023-02-27T03:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2028-healthcare-hospital-flooring-market-2023-artificial-intelligence-innovations-sustainability-updates-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
   - title: "Telecom Artificial Intelligence Software, Hardware and Services Market New Innovations and Future Expansion 2023-2028"
     excerpt: "The report titled Telecom Artificial Intelligence Software, Hardware and Services Market which was recently added by 360 Research Reports, aims at providing the clients with the business growth and investment opportunities present in the market globally."
     publishedDateTime: 2023-02-27T00:26:00Z

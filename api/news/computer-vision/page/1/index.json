@@ -114,7 +114,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-global-research-report-2023---2028-2023-02-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 459,
+      "heat": 479,
       "tags": null,
       "images": [
         {
@@ -155,50 +155,6 @@
       "topics": [
         "Facebook AI",
         "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-accelerate-disaster-response-with-computer-vision-for-satellite-imagery-using-amazon-sagemaker-and-amazon-augmented-ai.md",
-      "title": "Accelerate disaster response with computer vision for satellite imagery using Amazon SageMaker and Amazon Augmented AI",
-      "excerpt": "In this blog post we are discussing how to accelerate disaster response efforts using computer vision techniques for processing satellite imagery using AWS services.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-disaster-response-with-computer-vision-for-satellite-imagery-using-amazon-sagemaker-and-amazon-augmented-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-disaster-response-with-computer-vision-for-satellite-imagery-using-amazon-sagemaker-and-amazon-augmented-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T12:59:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Computer Vision"
       ]
     },
@@ -1395,6 +1351,49 @@
       "provider": {
         "name": "cc.gatech.edu",
         "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-smartphone-vision-syndrome-hyderabad-woman-suffers-blindness-after-spending-hours-on-phone.md",
+      "title": "Smartphone vision syndrome: Hyderabad woman suffers blindness after spending hours on phone",
+      "excerpt": "Long-term use of devices such as computers, smartphones, or tablets can cause various eye-related disabling symptoms, referred to as computer vision syndrome (CVS) or digital vision syndrome ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html",
+      "originalUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/02/Collage-Maker-08-Feb-2023-01.34-PM-770x435.jpg",
+          "width": 770,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html/amp",
+      "publishedDateTime": "2023-02-08T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

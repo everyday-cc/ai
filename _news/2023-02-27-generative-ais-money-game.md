@@ -25,22 +25,40 @@ images:
     isCached: true
 
 related:
-  - title: "Yes, Artificial Intelligence Has A Creative Side, Sort Of"
-    excerpt: "Despite perceptions, artificial intelligence doesn’t have a shred of creativity within it. It’s all statistical algorithms, slurping data from sources created by humans somewhere along the line. It will never be a source of innovation, but will serve ..."
-    publishedDateTime: 2023-02-23T03:23:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/amp/"
+  - title: "How generative AI is changing game development (and UGC)"
+    excerpt: "Generative AI is iterating on existing uses of AI in game development and content creation. But how much should it be used for?"
+    publishedDateTime: 2023-02-24T01:34:00Z
+    webUrl: "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/"
+    ampWebUrl: "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-02-27T16:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/02/27/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63f6e7b2e6d9f35a9b8ba852/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
+  - title: "How to create, release, and share generative AI responsibly"
+    excerpt: "Companies including OpenAI and TikTok have signed up to a new set of guidelines designed to help them be more transparent around generative AI."
+    publishedDateTime: 2023-02-27T13:44:00Z
+    webUrl: "https://www.technologyreview.com/2023/02/27/1069166/how-to-create-release-and-share-generative-ai-responsibly/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "sYBdfIdw+Nj8tDG50+Y8Vtti3p8QtNSTIcNYrukfIR3vmUEiwXhI2D23xXTDxcMhSgw2HFpgQEbFfwz4k9d9HAQhAA1Jgjd2cVfHC+TeAJDEm4ZC7ttGF5gaOV6wloKLAiQJwSErcBdQQ5o6Ms+CF/Q+OBoVvWe+ffAoPv/i2PeEjAyMvaLiJhRyQ0FSYcYKTf3BkJXSpL+l+piVCXJkEJOCOgC7Mwx8ZvU++RYgZioAFbI0KY4qZL1H//vwYqyzKaOSizBj5bfJ5zJhcotKeIWaII5D+CiE29y7a58kw6P5r0SksgadPkrKoxZC69ZQcLB3Kqyc7ZDYfM0N1TH6q3nYQWlcPAB3DKftk9PRnKjZsd5+bDLhrgu9h+lZt7RkJunnmZJ+6KXTw0debjEQEtGh0TF6Hw+KKO77dOkx8dq+extDmsgb9wbJu2pGPX6NCf2BLk67tldhzX1d4y0L7gWRHeaArmq0KogSUA9A5DfHdZfCpS9zDomJCrk9AIA3FVREM+rg+IgfsnG6UnPhwQ==;qnU1rDT2WJi8DZxeNVK0lg=="
 ---

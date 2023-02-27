@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T20:00:00Z
 originalUrl: "https://arstechnica.com/information-technology/2023/02/sorry-in-advance-snapchat-warns-of-hallucinations-with-new-ai-conversation-bot/"
 webUrl: "https://arstechnica.com/information-technology/2023/02/sorry-in-advance-snapchat-warns-of-hallucinations-with-new-ai-conversation-bot/"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Ars Technica

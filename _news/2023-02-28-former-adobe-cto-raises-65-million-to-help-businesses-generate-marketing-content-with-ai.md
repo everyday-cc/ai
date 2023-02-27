@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T18:40:00Z
 originalUrl: "https://www.forbes.com/sites/rashishrivastava/2023/02/27/former-adobe-cto-raises-65-million-to-help-businesses-generate-marketing-content-with-ai/"
 webUrl: "https://www.forbes.com/sites/rashishrivastava/2023/02/27/former-adobe-cto-raises-65-million-to-help-businesses-generate-marketing-content-with-ai/"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: Forbes

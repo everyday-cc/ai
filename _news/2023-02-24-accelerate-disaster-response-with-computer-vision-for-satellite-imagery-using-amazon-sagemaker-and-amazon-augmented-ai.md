@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-disaster-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-disaster-response-with-computer-vision-for-satellite-imagery-using-amazon-sagemaker-and-amazon-augmented-ai/"
 type: article
 quality: 77
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -24,6 +24,15 @@ topics:
   - Computer Vision
 
 related:
+  - title: "Tune ML models for additional objectives like fairness with SageMaker Automatic Model Tuning"
+    excerpt: "Model tuning is the experimental process of finding the optimal parameters and configurations for a machine learning (ML) model that result in the best possible desired outcome with a validation dataset. Single objective optimization with a performance metric is the most common approach for tuning ML"
+    publishedDateTime: 2023-02-27T20:47:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 90
   - title: "Achieve high performance at scale for model serving using Amazon SageMaker multi-model endpoints with GPU"
     excerpt: "Amazon SageMaker multi-model endpoints (MMEs) provide a scalable and cost-effective way to deploy a large number of machine learning (ML) models. It gives you the ability to deploy multiple ML models in a single serving container behind a single endpoint. From there, SageMaker manages loading and unloading"
     publishedDateTime: 2023-02-24T20:56:04Z

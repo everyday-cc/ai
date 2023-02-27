@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-27T18:01:00Z
 originalUrl: "https://www.iol.co.za/business-report/companies/have-you-heard-of-an-ai-whisperer-techs-hottest-new-job-b0b244c7-49a2-4567-a703-c75c6e756115"
 webUrl: "https://www.iol.co.za/business-report/companies/have-you-heard-of-an-ai-whisperer-techs-hottest-new-job-b0b244c7-49a2-4567-a703-c75c6e756115"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
