@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T12:47:00Z
 originalUrl: "https://www.forbes.com/sites/cindygordon/2023/02/27/ohio-toxic-train-wreck-causes-citizen-concerns-on-health-and-safety-how-can-ai-help-prevent-the-next-disaster/"
 webUrl: "https://www.forbes.com/sites/cindygordon/2023/02/27/ohio-toxic-train-wreck-causes-citizen-concerns-on-health-and-safety-how-can-ai-help-prevent-the-next-disaster/"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Forbes

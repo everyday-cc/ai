@@ -7,8 +7,8 @@ originalUrl: "https://www.afr.com/companies/financial-services/westpac-and-aws-s
 webUrl: "https://www.afr.com/companies/financial-services/westpac-and-aws-swim-deeper-into-generative-ai-for-banking-20230224-p5cne4"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Australian Financial Review
@@ -40,6 +40,15 @@ related:
         width: 1257
         height: 835
         isCached: true
+  - title: "Westpac signs five-year cloud deal with Amazon Web Services"
+    excerpt: "Westpac has signed a five-year deal with Amazon Web Services to bolster its hybrid cloud strategy. Westpac will tap into advanced AWS capabilities like machine learning, compute, and data analytics, to further accelerate the bank’s digital transformation,"
+    publishedDateTime: 2023-02-27T13:53:00Z
+    webUrl: "https://www.finextra.com/newsarticle/41868/westpac-signs-five-year-cloud-deal-with-amazon-web-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 21
 
 secured: "AamlGoPU5CvrGwGlfXwtMyEvv9d5O/H7RDLMweicA+oXTI86ltOl749RxBEhucY0QeQWNtBWi1N2/H716kyafwAAy0r8UJ9gN9DJXEPKNiQ8mOVmJgPGSYqMw+DMBmcAE0WvIe2UdBi5vIceM0/Sgx2iCVg+IlCbGp8X8Hwkxn50dsHiBrcvPp+GM514PNX2dqA26mq7aTlaXYgA9qEeWjK+REhJgfcfJecyz5o+bEfTKbUWunj2JUMDgJNUMBF1P4vfaaX85UHkzbuznZ9oS0BwY2IH6jNMs30QXAuIUHsrRkx5DrZo/KZkyuBwh+lz5Gvmu/yJdcCl1fg1+bYv7iOD2SMRfGXWJseAyvmG2Inn2E5iefEtuCcRhm65OgxMKM5z05+dPCbVHEt6ql2Q69uCCB8nNX8Vjog5OuWHv5gQRWt+TZ2aCR+A4vjg62Xd4xAbSFP3iZrC3+ZImmSdTAacTI7jGArFQvlLmEvE6owZmpaX7wvNZHmIPrNd+td/eOiET6noHYkPjtvzHMtxWw==;0wc/bLHhP29ZnUFNHN3Mng=="
 ---

@@ -39,22 +39,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Most Americans uncomfortable with artificial intelligence in healthcare, survey says"
-    excerpt: "Feb. 22 (UPI) --As artificial intelligence expands in the field of health and medicine, 60% of Americans say they are \"uncomfortable\" with AI being used for their own healthcare, according to a new survey. The Pew Research Center survey, released Wednesday ..."
-    publishedDateTime: 2023-02-23T00:59:00Z
-    webUrl: "https://www.upi.com/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/"
-    ampWebUrl: "https://www.upi.com/amp/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2023/02/22/americans-uncomfortable-artificial-intelligence-healthcare-survey/4801677114829/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 67
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/4801677114829/2023/1/4fe1a038a4ed6104ece698c5f67f3b1c/v1.5/Most-Americans-uncomfortable-with-artificial-intelligence-in-healthcare-survey-says.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Most Americans Wouldn’t Trust Their Health Provider’s Use Of AI"
     excerpt: "A Pew Research poll reported on by the Hill shows a majority of Americans wouldn’t be comfortable with health providers relying on artificial intelligence as part of care — only 39% would be"
     publishedDateTime: 2023-02-23T12:58:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,29 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market 2023 Size to Set a High Potential Growth by 2028"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-02-25T10:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-size-to-set-a-high-potential-growth-by-2028-2023-02-25"
+  - title: "Facial Recognition Door Lock Market Geographical Segmentation By Forecast Revenue 2023-2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Facial Recognition Door Lock Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029. The global"
+    publishedDateTime: 2023-02-26T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-02-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chip Market Size to Reach at Extensive Growth by 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Deep learning chip is an artificial intelligence (AI) device that enables a machine to learn the given tasks and perform them without being explicitly programmed. These chips ..."
-    publishedDateTime: 2023-02-23T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
   - title: "MLOps Market 2023 Expected to Reach Significant Rate by 2029"
     excerpt: "Feb (The Expresswire) -- \"MLOps Market\" Insights 2023 By Applications (Iguazio, Modzy, Google Cloud, Datarobot, Algorithmia Inc.,"
     publishedDateTime: 2023-02-24T03:16:00Z

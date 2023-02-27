@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T13:00:00Z
 originalUrl: "https://www.wsj.com/articles/companies-face-growing-liability-from-illinois-biometric-privacy-law-c0ebd642"
 webUrl: "https://www.wsj.com/articles/companies-face-growing-liability-from-illinois-biometric-privacy-law-c0ebd642"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Wall Street Journal

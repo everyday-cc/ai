@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 698
         isCached: true
+  - title: "Tesla disappoints owners with updated language around ‘Full Self-Driving Beta’"
+    excerpt: "Tesla has updated some of the language around its “Full Self-Driving Beta” program following the NHTSA recall, and some"
+    publishedDateTime: 2023-02-27T15:29:00Z
+    webUrl: "https://electrek.co/2023/02/27/tesla-disappoints-owners-updated-language-around-full-self-driving-beta/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 65
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "/bRFT6g+J9tJ3VGEntWBcNLMogclzfQspKCtImdn1SVi5qQrjjtZ84dcXBbND7YIMzeDFGwyiE02yDUshFPTNPfVZKSxiiY+AmLvhT2X5TkeW50zWgJ+iu5Hmh2OM54mHwiC1BGqPbpmy2MdGNRCK0ujRxWWp30vcMwPoV1cMvi9hzmDTfwKC+U1TeLS3VMQDsOZxuyGMKH7YfXAerz5DMYZ0ogQPwvEloAVl3U82zZ26zzrfa82b0DKD6fDytb49vjEh1TJczAmabj1WlczVCwYBHhU2a9znIsX5NeQIfz6Ttejsxbg90MD+dDiBN1R5luXIsb58p33+Dxto43DSUGebGZtMHd4HyXgVRWcCM4=;3fr4rEvsizgL2hI/6Ch/Qw=="
 ---

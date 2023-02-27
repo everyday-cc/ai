@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Riding the tech tidal wave: A journey through 5 waves of fintech evolution"
-    excerpt: "The past ten years have been changing and shifting toward a tech-dominant lifestyle, upending national economies around the globe. According to a report by Research and the Markets, the global market for digital transformation"
-    publishedDateTime: 2023-02-26T11:11:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/riding-the-tech-tidal-wave-a-journey-through-5-waves-of-fintech-evolution/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/riding-the-tech-tidal-wave-a-journey-through-5-waves-of-fintech-evolution/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/riding-the-tech-tidal-wave-a-journey-through-5-waves-of-fintech-evolution/"
+  - title: "AI-Powered Tax System Is Creating A New Paradigm. Will Banks And Fintechs Adopt The Technology To Help Their Customers Save On Their Tax Bill?"
+    excerpt: "Tax impacts nearly 100% of Americans and is one of the largest expenses people bear each year. Yet, most of us go all year without having a clue if we are ahead or behind on our obligations to the tax authorities."
+    publishedDateTime: 2023-02-27T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/02/27/ai-powered-tax-system-is-creating-a-new-paradigm-will-banks-and-fintechs-adopt-the-technology-to-help-their-customers-save-on-their-tax-bill/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/02/27/ai-powered-tax-system-is-creating-a-new-paradigm-will-banks-and-fintechs-adopt-the-technology-to-help-their-customers-save-on-their-tax-bill/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/02/27/ai-powered-tax-system-is-creating-a-new-paradigm-will-banks-and-fintechs-adopt-the-technology-to-help-their-customers-save-on-their-tax-bill/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 42
+      name: Forbes
+      domain: forbes.com
+    quality: 51
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
-  - title: "Altai Ventures Launches Fund to Help Insurtech, Fintech Founders"
-    excerpt: "Altai Ventures, an early-stage venture capital firm, recently announced the closing of Altai Ventures Fund II, LP (focused on Fintech)."
-    publishedDateTime: 2023-02-24T20:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/02/202912-altai-ventures-launches-fund-to-help-insurtech-fintech-founders/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Dollars-Money-Cash-Pay-768x1024.jpeg"
-        width: 768
-        height: 1024
-        isCached: true
-  - title: "A Local Leader Discusses the Future of Fintech — And How His Team is Shaping It"
-    excerpt: "At the Federal Reserve Bank of Chicago, a new product is helping shape the future of fintech. Learn how the team is driving industrywide progress."
-    publishedDateTime: 2023-02-24T15:55:00Z
-    webUrl: "https://www.builtinchicago.org/2023/02/24/local-leader-discusses-future-fintech-and-how-his-team-shaping-it"
-    type: article
-    provider:
-      name: Built In Chicago
-      domain: builtinchicago.org
-    quality: 20
-    images:
-      - url: "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/styles/og/public/2023-02/mobile%20payments%20illustration.png"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63f774f52430dcaed98ba854/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 426
         isCached: true
   - title: "How Is Fintech Changing The Way We Bank?"
     excerpt: "The world of banking is changing rapidly, and the engine driving this change is the phenomenon known as fintech. As a result, our relationship with money has been completely upended."
@@ -78,15 +50,6 @@ related:
       name: Financial IT
       domain: financialit.net
     quality: 19
-  - title: "TENET FINTECH GROUP INC"
-    excerpt: "Toronto, Ontario--(Newsfile Corp. - February 1, 2023) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative AI service provider and operator of the ..."
-    publishedDateTime: 2023-02-23T00:00:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58202975-tenet-fintech-group-inc-tenet-closes-second-tranche-of-private-placement-of-up-to-cad-dollar-7m-non-secured-convertible-debenture-financing-ahead-of-pendin-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
 
 secured: "tXkVwYvYYdL41mEtEndAMsFJRc/5XSeHe6+xYejFPI3GkqDy1n81vzWg95/6mvM0F/oZqaBOvjRPna2fNtNsTBw+oDzGZnwRAYDJ/acRpqCwu0WvEHfAwEds0kxk7ZSem2/eq874mU3+21escAsMI9so4s4At37qH/X5PDyaBTnKsVEYHYHxUhCcyNwPcz9NDfvyYvBnRc3IC4jqbKWFkn/dw2UY/UPk4WRSt8TUIN5I+mrXlvtm+JH1iGHYenF7zvbfC7taPCNF0bG4xZQDWry5iwEy99bUQWh0HAHtZahHJ2kUi5NRn1+Uyc4hw46n+y2EF7uejpSNpF1EsJ6sIppnhgtxMipYlCrkrZX5wDrgoBQT4DJ1Wn/dCMMqeJ6wps8z0g2bwihXFPtA6+nJJLTCIRJsCPemxjbBMEM9Z4hZDD3aozsZV9AvuE3nDDqqhlWdSF8hQgO3TWdFVTfM4MW3nCueAy+C7WZVqSnCbEYwWw9v4oJg0XfRvvZhJTTshKGOsLcB5d33z30lFE9LdA==;WDQyPXqum2aVi2IrfYwXJA=="
 ---

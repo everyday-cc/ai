@@ -1,28 +1,22 @@
 ---
 category: news
-title: "China's first ChatGPT-like software to be made open source"
-excerpt: "Named after the artificial intelligence featured in the Chinese Sci-fi movie The Wandering Earth II, MOSS became the first ChatGPT-like software unveiled in China when it was made available to the public for testing on Feb 21."
-publishedDateTime: 2023-02-27T08:04:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202302/27/WS63fc640ea31057c47ebb114b.html"
-webUrl: "https://www.chinadaily.com.cn/a/202302/27/WS63fc640ea31057c47ebb114b.html"
+title: "China's First ChatGPT-like Software to Be Made Open Source"
+excerpt: "MOSS, the first large-scale conversational language model in China, will be made open source by the end of March, said the research and developing team on Sunday. Named after the artificial intelligence featured in the Chinese Sci-fi movieTheWandering Earth II,"
+publishedDateTime: 2023-02-27T12:18:00Z
+originalUrl: "https://en.dahe.cn/2023/02-27/1194601.html"
+webUrl: "https://en.dahe.cn/2023/02-27/1194601.html"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: 中国日报网
-  domain: chinadaily.com.cn
+  name: en.dahe
+  domain: dahe.cn
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "http://img2.chinadaily.com.cn/images/202302/27/63fc66aba31057c4b4b5da42.jpeg"
-    width: 593
-    height: 395
-    isCached: true
 
 related:
   - title: "Baidu says its alternative to ChatGPT is coming to the public in March"
@@ -70,6 +64,22 @@ related:
     quality: 88
     images:
       - url: "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Snapchat Launches Its Own ChatGPT-Powered AI Chatbot"
+    excerpt: "Snapchat on Monday said it is launching its own generative artificial intelligence chatbot, called My AI, powered by the latest version of OpenAI's ChatGPT. Snapchat calls My AI an experimental feature,"
+    publishedDateTime: 2023-02-27T15:31:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/snapchat-launches-its-own-chatgpt-powered-ai-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/snapchat-launches-its-own-chatgpt-powered-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/snapchat-launches-its-own-chatgpt-powered-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/9cafdb325bf2a75205d177ac0dd168bec62eeee7/hub/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
         isCached: true
@@ -182,6 +192,20 @@ related:
         width: 640
         height: 453
         isCached: true
+  - title: "Advanced chips from AI computer giant aims to power ChatGPT-like tools"
+    excerpt: "Advanced language models powered by Artificial Intelligence have taken the technology industry by storm of late. Platforms like Google and Microsoft are racing to integrate AI capabilities into their search engines after OpenAI's revolutionary model ChatGPT led the way in integrating AI to produce outstanding results."
+    publishedDateTime: 2023-02-27T15:28:00Z
+    webUrl: "https://interestingengineering.com/innovation/advanced-chips-from-ai-computer-giant-aims-to-power-chatgpt-like-tools"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 58
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/27/image/jpeg/1t6BjRZn3zQgI3t7pKhgevrQiYdcwpQK5zx2iqLk.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet"
     excerpt: "Google, with Bard, and OpenAI, with ChatGPT are making AI chatbot technology previously restricted to test labs more accessible to the general public. How do these Large Language Model (LLM) programs work?"
     publishedDateTime: 2023-02-23T23:02:00Z
@@ -290,6 +314,6 @@ related:
       domain: asahi.com
     quality: 4
 
-secured: "515wtEcmfZueoIfOCuDKnMguQVQfKty4lMzFoQ5eeiNO3ND0i9eoL9jmRCgkwzP+AguC/IyogcB4LFphslhOtUOWx5p14x6lVapSZKs7ruutPt9xXiEQS5B7qauck4mAFG3XCDFNBxbnQTZmrO/JcT+chtpqSPGc2nx9RSk5MLvYqfCKeXIMmQCOm0Q8GpQtwIjcvQ7VCHNER7PQOKTSP02RZVF4OGIe3neR7efSzd0mFrYt620QYWMojRW1AQF0hR1hVAB/ncmFSoqk9YweudXvIXCrGyLjoxAwf8j1OZz8NDEkxduOY1uES/mT7BiMXzrN+P0d1mGP+5SYqYIxg0cWVhiie3wpd7rreBc5dBM=;whtxeajVP+TYltsp+q/+2w=="
+secured: "EK9e7IDNcMJI4mVzZqF3Ms7zXRhRjeyZTNY7bLsIiFENMWaGEk1ZY7kiD/M6U4EWxXWPpQKA+ijBvAifHEjTmzlYfSD/gVH25SPuudSUeCwucmXzk3hk+f6cXGeCpiTB9y3CV34fAsjeZh//c6Tn9KIpk2SdB9CUZQQO73pUHE9UpkgkqyrM9/V147zfIwhb/BhvyiuhXRNtTQElKVX7r0Pucp7kb76RJMlH1OjpA49z8Wy/wZZk3e92jtIRgEusssnVEXFoaagTQGKvs/tr8Yi40iA0CMlxGqEU/rScJm9Stl3rBDkAKhCcVtZAcE8Bps09caDHPA3UJnWwjf7AwOrHztO9EKZ2D4W/BwFrs4I=;Zp7p2iM7cZ+dXGp2VLxTHQ=="
 ---
 

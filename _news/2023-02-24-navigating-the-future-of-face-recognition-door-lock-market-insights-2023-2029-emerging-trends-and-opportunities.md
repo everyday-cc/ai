@@ -23,24 +23,10 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Courses for NLP Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
-    excerpt: "Deep Learning Courses for NLP Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type (, Informal"
-    publishedDateTime: 2023-02-24T02:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automated Machine Learning (AutoML) Market Analysis Report 2023 Along with Statistics Figures, till 2029"
-    excerpt: "The report focuses on the Automated Machine Learning (AutoML) market size, segment size (mainly covering product type, application, and geography), competitor landscape, recent status, and development trends."
-    publishedDateTime: 2023-02-27T04:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-02-27"
+  - title: "Artificial Intelligence-as-a-Service (AIaaS) Market Is the FASTEST-RISING Industry from 2023 to 2029"
+    excerpt: "Feb (The Expresswire) -- \"Artificial Intelligence-as-a-Service (AIaaS) Market\" Research Insights Report 2023 | TOP 3 KEY PLAYERS in"
+    publishedDateTime: 2023-02-26T16:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-aiaas-market-is-the-fastest-rising-industry-from-2023-to-2029-2023-02-26"
     type: article
     provider:
       name: MarketWatch
@@ -51,133 +37,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Statistical Natural Language Processing Market Is Booming Globally Forecast 2023-2029"
-    excerpt: "Statistical Natural Language Processing Market 2023 with 113 Pages Report and enhance with extents shares into"
-    publishedDateTime: 2023-02-26T23:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-is-booming-globally-forecast-2023-2029-2023-02-26"
+  - title: "Machine Learning as a Service (MLaaS) Market Updates in 2023, Latest Developments Trend and Future Expansion by 2029"
+    excerpt: "The Readers in the section will understand how the Machine Learning as a Service (MLaaS) market scenario changed across"
+    publishedDateTime: 2023-02-24T05:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-updates-in-2023-latest-developments-trend-and-future-expansion-by-2029-2023-02-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Gaming opportunities for investors in 2023: Generative AI, low-code, metaverse, and more"
-    excerpt: "and the potential role of generative AI in game development. The quarterly analyst report on the gaming sector covers trends and issues predictions for how VC investments in video games will proceed over the course of 2023. This is PitchBook’s first ..."
-    publishedDateTime: 2023-02-24T05:01:00Z
-    webUrl: "https://www.geekwire.com/2023/gaming-opportunities-for-investors-in-2023-generative-ai-low-code-metaverse-and-more/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 58
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/PitchBook-Feb-2023-report-Gaming-Landscape.jpg"
-        width: 1387
-        height: 785
-        isCached: true
-  - title: "Machine Learning Courses Market 2023-2029: Latest Developments and Share Insights | 100 Pages"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-02-26T10:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-2023-2029-latest-developments-and-share-insights-100-pages-2023-02-26"
+  - title: "Automatic Speech Recognition Market 2023 Current Insights with [ NEWEST INDUSTRY DATA ] till 2029"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Automatic Speech Recognition Market\" Research Insights Report 2023 | TOP 3 KEY PLAYERS in Automatic Speech"
+    publishedDateTime: 2023-02-24T18:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-2023-current-insights-with-newest-industry-data-till-2029-2023-02-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Access Control Terminal Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
-    excerpt: "Face Recognition Access Control Terminal Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type"
-    publishedDateTime: 2023-02-24T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-access-control-terminal-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Software Market (New Insights Report) By 2023 which is Booming Strong Growth in the Globe till 2029"
-    excerpt: "Face Recognition Software Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Information & Communication Technology] category in the industry, by Type ("
-    publishedDateTime: 2023-02-27T02:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-new-insights-report-by-2023-which-is-booming-strong-growth-in-the-globe-till-2029-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market 2023 With Top Key Players is thriving worldwide by 2029"
-    excerpt: "Machine Learning Market Size 2023-2029 | New Report (118 Pages) | Information Technology | In This Reports Machine"
-    publishedDateTime: 2023-02-23T05:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2023-with-top-key-players-is-thriving-worldwide-by-2029-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-  - title: "How COVID-19 Impacting Natural Language Processing Market 2023 Globally by 2028?"
-    excerpt: "“Global Natural Language Processing market size was valued at USD 13017.98 million in 2022 and is expected to expand at a CAGR of 18.27% during the forecast period, reaching USD 35630.81 million by 2028.”Ask for Sample Report GlobalNatural Language ..."
-    publishedDateTime: 2023-02-24T04:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-covid-19-impacting-natural-language-processing-market-2023-globally-by-2028-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-  - title: "Cloud Natural Language Processing Market International Business Analysis, Development Outlook and Regional Strategies 2028"
-    excerpt: "Cloud Natural Language Processing Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type (, Rule"
-    publishedDateTime: 2023-02-24T02:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Collaboration Market Booming With Rising Demands and Massive Opportunities, 2023 - 2029"
-    excerpt: "Cognitive Collaboration Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Information & Communication Technology] category in the industry, by Type (,"
-    publishedDateTime: 2023-02-27T02:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-booming-with-rising-demands-and-massive-opportunities-2023---2029-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Prospecting for copper with machine learning and zircons"
-    excerpt: "Zircons are common, hardy minerals that can be found in rocks up to 4 billion years old. Their structure and texture can reflect the conditions in which they formed, earning them a reputation as nature's time capsules."
-    publishedDateTime: 2023-02-24T17:03:00Z
-    webUrl: "https://phys.org/news/2023-02-prospecting-copper-machine-zircons.html"
-    ampWebUrl: "https://phys.org/news/2023-02-prospecting-copper-machine-zircons.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-prospecting-copper-machine-zircons.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 39
   - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
     excerpt: "Insights] Top “Artificial Intelligence in Platform as a Service (PaaS) Market” Size 2023 Key players Profiled in"
     publishedDateTime: 2023-02-25T06:29:00Z
@@ -187,33 +74,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 20
-  - title: "Prospecting for Copper with Machine Learning and Zircons"
-    excerpt: "Using artificial intelligence, researchers can now identify zircons derived from valuable copper deposits. Get the most fascinating science news stories of the week in your inbox every Friday. Zircons are common,"
-    publishedDateTime: 2023-02-23T14:10:00Z
-    webUrl: "https://eos.org/research-spotlights/prospecting-for-copper-with-machine-learning-and-zircons"
-    type: article
-    provider:
-      name: Eos
-      domain: eos.org
-    quality: 19
-  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
-    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
-    publishedDateTime: 2023-02-27T12:43:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-  - title: "Paraffin Physical Therapy Market Booming Worldwide Opportunity, Competitive Analysis, Future Prospects by 2028"
-    excerpt: "The Paraffin Physical Therapy Market has seen steady growth in recent years, as more people are seeking alternative forms of pain relief. The market is expected to continue to grow in the coming years,"
-    publishedDateTime: 2023-02-24T07:24:00Z
-    webUrl: "https://www.fmiblog.com/2023/02/24/paraffin-physical-therapy-market-booming-worldwide-opportunity-competitive-analysis-future-prospects-by-2028/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "1p93pEvpZO/z5i0psg/PSbZUNZi2OQPmtyzhvhqQTc96wFn790bHxr/JyCpWZ5+qZyjmtIfrfS4oFlrIyZgVT1FmkUFlbhIvHrW1KKZ4cgjwdBGvZaUOkkf+ZANHgYyy8BTnXzpD2ZW+Y+q2MOR+/WiHCw9b8VHytou3SAEA3PtfjbKdsH+qOmwcm1dsjSBymEmLGmYgITosq6/DhRJ3MIqffG9YhGL9g0VtWW8y8t8+zaNKdb8XfwOTcGPwZPZjo/OtWrL6L4jBf3OwCDwLND9PB8hT9kpN/uGZB68TTfN6I1E7e6Q8Z20juDEamvcMt5cSKbUm3bLwAwYSHZ4anSJ4EvrYnTjAxfhYFvhS+oE=;dar7mdHIAo/0FP44nH4f0w=="
 ---

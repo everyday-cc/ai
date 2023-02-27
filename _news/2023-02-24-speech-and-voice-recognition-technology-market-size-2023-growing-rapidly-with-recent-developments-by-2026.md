@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Role of Computer Vision Software Market 2023: Business Developments and Strategies by 2029"
-    excerpt: "New 115 Pages Report] A Recently published “Computer Vision Software Market” Size (2023) research report offers"
-    publishedDateTime: 2023-02-26T11:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-role-of-computer-vision-software-market-2023-business-developments-and-strategies-by-2029-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Object Recognition Imaging Systems Market Survey Predicts Strong Growth through 2029 with Top Growing Regions"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-02-26T10:57:00Z
@@ -66,6 +52,57 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Access Control Terminal Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Face Recognition Access Control Terminal Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type"
+    publishedDateTime: 2023-02-24T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-access-control-terminal-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Software Market (New Insights Report) By 2023 which is Booming Strong Growth in the Globe till 2029"
+    excerpt: "Face Recognition Software Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Information & Communication Technology] category in the industry, by Type ("
+    publishedDateTime: 2023-02-27T02:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-new-insights-report-by-2023-which-is-booming-strong-growth-in-the-globe-till-2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition Market Booming With Rising Demands and Massive Opportunities, 2023 - 2029"
+    excerpt: "Speech Recognition Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Semiconductor & Electronics] category in the industry, by Type (Speaker Dependent,"
+    publishedDateTime: 2023-02-27T02:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-booming-with-rising-demands-and-massive-opportunities-2023---2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+  - title: "Speech & Voice Recognition Systems Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- [93 Insights] Top “Speech and Voice Recognition Systems Market” Size 2023 Key players Profiled in the Report are [, Dictation, AbilityNet, Microsoft, Alphabet, Sensory, Iflytek, Raytheon BBN Technologies, Nuance,] most ..."
+    publishedDateTime: 2023-02-24T05:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

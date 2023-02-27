@@ -29,10 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Future of Mobile Speech Recognition Software Market by 2029: Trends and Predictions"
-    excerpt: "The recently published Mobile Speech Recognition Software Market Report, spanning across 112 pages, provides a comprehensive analysis of the market, including its classifications, product specifications,"
-    publishedDateTime: 2023-02-23T11:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/future-of-mobile-speech-recognition-software-market-by-2029-trends-and-predictions-2023-02-23"
+  - title: "Artificial Intelligence in Machine Learning Market Size, Share, Outlook and Forecast to 2028"
+    excerpt: "The report titled Artificial Intelligence in Machine Learning Market which was recently added by 360 Research Reports, aims at providing the clients with the business growth and investment opportunities present in the market globally."
+    publishedDateTime: 2023-02-27T00:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-machine-learning-market-size-share-outlook-and-forecast-to-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Chip Market Size to Reach at Extensive Growth by 2023"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Deep learning chip is an artificial intelligence (AI) device that enables a machine to learn the given tasks and perform them without being explicitly programmed. These chips ..."
+    publishedDateTime: 2023-02-23T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+  - title: "Deep Learning Software Market to Grow Significantly by Leading Players 2023 to 2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Deep Learning Software Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-27T01:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-26"
     type: article
     provider:
       name: MarketWatch
@@ -43,52 +66,80 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Object Recognition Imaging Systems Market Survey Predicts Strong Growth through 2029 with Top Growing Regions"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-02-26T10:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-survey-predicts-strong-growth-through-2029-with-top-growing-regions-2023-02-26"
+  - title: "Face Recognition Technology Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Face Recognition Technology Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-24T12:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-02-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Technology Market Size 2023 Growing Rapidly with Recent Developments by 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-02-23T16:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-2023-growing-rapidly-with-recent-developments-by-2026-2023-02-23"
+  - title: "AI In Computer Vision Market Size: Overview, Share, Trends with Current Market Scenario, 2028"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- \"AI In Computer Vision Market\" Insights 2023 By Applications (Hardware, Software), By Types (Healthcare,"
+    publishedDateTime: 2023-02-24T03:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-overview-share-trends-with-current-market-scenario-2028-2023-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 53
+  - title: "Deep Learning in CT Scanners Market Size 2023 With Regional Scope, Report Coverage, Historic Data, Outlook 2029"
+    excerpt: "Deep Learning in CT Scanners Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
+    publishedDateTime: 2023-02-27T03:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "The Latest Deep Learning Software Market 2023-2029: Thinking From The Worldwide Experts | New Comprehensive Research Study by 107 Pages"
-    excerpt: "Deep Learning Software Market“ | New Research Visions Report 2023 with Page of no. (107), By Applications [Large Enterprises, SMEs] , By Types [Artificial Neural Network Software, Image Recognition Software,"
-    publishedDateTime: 2023-02-23T03:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-latest-deep-learning-software-market-2023-2029-thinking-from-the-worldwide-experts-new-comprehensive-research-study-by-107-pages-2023-02-22"
+  - title: "Speech and Voice Recognition Technology Market Size, Share, Outlook and Forecast to 2028"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Technology Market\" Research Report 2023 Provides a Basic overview of the Industry"
+    publishedDateTime: 2023-02-24T00:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-share-outlook-and-forecast-to-2028-2023-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data Science and Machine Learning Service Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
+    excerpt: "Data Science and Machine Learning Service Market ” Size 2023 Top Key players Profiled in the Report are (Banking, Insurance, Retail, Media and Entertainment,) most important, influential, or successful companies,"
+    publishedDateTime: 2023-02-27T04:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
+    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2023-02-27T12:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 17
-  - title: "Speech and Voice Recognition Technology Market and its Economic Impact on Industry : Growth And Trend 2029"
-    excerpt: "Additionally, the report includes information on Speech and Voice Recognition Technology Market size, recent trends, growth, share, development status, market dynamics, cost structure, and competitive landscape."
-    publishedDateTime: 2023-02-24T04:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-and-its-economic-impact-on-industry-growth-and-trend-2029-2023-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
 
 secured: "Tms5rYtiDOjAVPRLlUi1wizZnHNXG6NRjoJcxBn16My3YFgkeX441gWktt+s3QK0yEhOSKBYkRjDFFdgkpv/C4LY/nOmUMTM1m4/myTXijV7M4fTe7oci6+oSdWKq1KwapQuDgfVClqZacFHMFLORCj6tuTnkAO7lLI2sgi5fGwuXOHXcexpzJHW9VzbBY7CNjcAdn6toE7FdKklLrQJP9cqH9qc6Uaue/oD5K4VF533DM/3IjmmykDUCkZKd8/5y6ZWmAT8PFmXcem0qB0+6K1zpRHNRqCRp6pBDR/sMZfJWanN0K1AkrZaFwLiEWoVMjj+LtI2MqhAP/z+LC+q1c1UTE3WGAizyhe+t6zkYok=;xEEMor+urWuqWuobGTGiDQ=="
 ---

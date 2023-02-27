@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T11:59:00Z
 originalUrl: "https://www.cbsnews.com/essentials/spring-cleaning-2023-best-appliance-deals-you-can-score/"
 webUrl: "https://www.cbsnews.com/essentials/spring-cleaning-2023-best-appliance-deals-you-can-score/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CBS News

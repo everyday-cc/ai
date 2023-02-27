@@ -213,6 +213,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market provide Valuable Insights for Market Players [2023-2028]"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in BFSI Market\"Research Report give Analysis of Industry Development Growth"
+    publishedDateTime: 2023-02-27T06:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-provide-valuable-insights-for-market-players-2023-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive System & Artificial Intelligence (AI) Systems Market Is Booming Worldwide Forecast 2023-2029"
     excerpt: "Cognitive System and Artificial Intelligence (AI) Systems Market 2023 with 101 Pages Report and enhance with extents"
     publishedDateTime: 2023-02-26T23:38:00Z

@@ -29,29 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Equipment Market Size with Competitive Landscape, New Projects and Investment Analysis till 2028"
-    excerpt: "The “Facial Recognition Equipment Market” Analysis 2023-2027 is a detailed sketch of the business sphere in terms"
-    publishedDateTime: 2023-02-24T01:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-equipment-market-size-with-competitive-landscape-new-projects-and-investment-analysis-till-2028-2023-02-23"
+  - title: "Artificial Intelligence Market International Business Analysis, Development Outlook and Regional Strategies 2029"
+    excerpt: "Artificial Intelligence Market 2023 Will Provide Report Analysis that quickly emerging as one of the [ICT] category in the industry, by Type (Hardware, Software, Services), and En"
+    publishedDateTime: 2023-02-27T02:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-international-business-analysis-development-outlook-and-regional-strategies-2029-2023-02-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Growth Analysis, Size, Prominent Players, Overview, and Forecast 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 24, 2023 (Heraldkeepers) -- The Global Artificial Intelligence in Drug Discovery Market is poised to value USD 5740 million by 2028 end at a CAGR of 45.7% during the ..."
-    publishedDateTime: 2023-02-24T11:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-growth-analysis-size-prominent-players-overview-and-forecast-2028-2023-02-24"
+  - title: "Cloud Natural Language Processing Market International Business Analysis, Development Outlook and Regional Strategies 2028"
+    excerpt: "Cloud Natural Language Processing Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type (, Rule"
+    publishedDateTime: 2023-02-24T02:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 23
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sn+i073mZV2M1v8nUJH+/6wSCbnjwuwjmEWARv7U+IjMrL+HRZtDNJsF5fzy0sccKEmf0s8AA8THQu7AmWE6gL4wDOmWDMONNMID63UnwI/n9rG3ykIxUH6SprGyCW/aaECDOj4N1+ZIZJNR7YGoRpiJtaPVPRQmKk0CBXs+AfE8TasnVfgdJ439yfg6nc0dlSyHwefHApCUxZFfQFnQ3w9o+600NfVCODP7FGDusK+Ru+bQyq9YSHASuPVang7k3vF3ydtEp2zcbRqUrladfjr7OEQOZHx7DzMW7d5dTYfLg4zZcghxYBovLPv6hqzZl/rBaBVUtaUSRWSEoyrijQa5gNmfECgOyd2V3HmB2iA=;dqYEaa32yOz9D99VdLPILA=="
 ---

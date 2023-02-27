@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scan
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029-2023-02-26"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -29,29 +29,117 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Aviation Market (New Report) to Observe An Articulate Development During 2023-2029"
-    excerpt: "Artificial Intelligence in Aviation Market Size 2023-2029 | New Report (128 Pages) | Analytics | In This Reports"
-    publishedDateTime: 2023-02-27T03:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-new-report-to-observe-an-articulate-development-during-2023-2029-2023-02-26"
+  - title: "Artificial Intelligence in Machine Learning Market Size, Share, Outlook and Forecast to 2028"
+    excerpt: "The report titled Artificial Intelligence in Machine Learning Market which was recently added by 360 Research Reports, aims at providing the clients with the business growth and investment opportunities present in the market globally."
+    publishedDateTime: 2023-02-27T00:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-machine-learning-market-size-share-outlook-and-forecast-to-2028-2023-02-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "2023, Computer Vision System Market Is Dazzling Worldwide |Size, Share, Demand and Analysis by 2029"
-    excerpt: "Computer Vision System Market Size 2023-2029 | New Report (116 Pages) | Information Technology | In This Reports"
-    publishedDateTime: 2023-02-23T05:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-system-market-is-dazzling-worldwide-size-share-demand-and-analysis-by-2029-2023-02-23"
+  - title: "Deep Learning Chip Market Size to Reach at Extensive Growth by 2023"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Deep learning chip is an artificial intelligence (AI) device that enables a machine to learn the given tasks and perform them without being explicitly programmed. These chips ..."
+    publishedDateTime: 2023-02-23T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+  - title: "Deep Learning Software Market to Grow Significantly by Leading Players 2023 to 2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Deep Learning Software Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-27T01:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Technology Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Face Recognition Technology Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-24T12:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Role of Computer Vision Software Market 2023: Business Developments and Strategies by 2029"
+    excerpt: "New 115 Pages Report] A Recently published “Computer Vision Software Market” Size (2023) research report offers"
+    publishedDateTime: 2023-02-26T11:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-role-of-computer-vision-software-market-2023-business-developments-and-strategies-by-2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Computer Vision Market Size: Overview, Share, Trends with Current Market Scenario, 2028"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- \"AI In Computer Vision Market\" Insights 2023 By Applications (Hardware, Software), By Types (Healthcare,"
+    publishedDateTime: 2023-02-24T03:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-overview-share-trends-with-current-market-scenario-2028-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+  - title: "Speech and Voice Recognition Technology Market Size, Share, Outlook and Forecast to 2028"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Technology Market\" Research Report 2023 Provides a Basic overview of the Industry"
+    publishedDateTime: 2023-02-24T00:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-share-outlook-and-forecast-to-2028-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data Science and Machine Learning Service Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
+    excerpt: "Data Science and Machine Learning Service Market ” Size 2023 Top Key players Profiled in the Report are (Banking, Insurance, Retail, Media and Entertainment,) most important, influential, or successful companies,"
+    publishedDateTime: 2023-02-27T04:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-02-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
+    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2023-02-27T12:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "UoWzAGhRKPwXyGfzE8OZ8zT3VG8G3hP48KL/n8Xi1Pgk7gPnaTDjo/pfL9x3QbHOPt6ViIImBsBpA0TvkqYpI2ZwRGUJ4J4gQzQpUCimUJ/rtklw0uhoeS+JtXcUNjlYLt9W7ldNt8dgL0sR4YMmnTgPFezJNVdVa7kndg7AZZLH9HrBdNTYH/v1kyp7/8aJjPnrrL8GIo1L/y94/bAXYQ0oGjzuaFnFiX0XkHZq7MEqPygVzieYhTrMsMXA3/u1oGrXhkHgSzLRVNcTJoqzK6pk9I8WF/JQne6QLMHmIUxDoOJ9XNuFyWKhVyuu/w7+nHsvoSaKWh5CS9Auyxd1wnXZqsDi09fOpNqSypcykCY=;UHvNL3EcJ4HRFWCbO2U/WQ=="
 ---

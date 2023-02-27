@@ -44,29 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market 2023 Size to Set a High Potential Growth by 2028"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-02-25T10:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-size-to-set-a-high-potential-growth-by-2028-2023-02-25"
+  - title: "Facial Recognition Door Lock Market Geographical Segmentation By Forecast Revenue 2023-2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Facial Recognition Door Lock Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029. The global"
+    publishedDateTime: 2023-02-26T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-02-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chip Market Size to Reach at Extensive Growth by 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Deep learning chip is an artificial intelligence (AI) device that enables a machine to learn the given tasks and perform them without being explicitly programmed. These chips ..."
-    publishedDateTime: 2023-02-23T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
 
 secured: "qKUQf+m9opdw27EcQyiv5a29fJJ576kUYM/2hOT7+GGt8yE8S6TSjSgYAj8MRKTJ9UAuZNE5YcuWaX/GZzXmjwoRSbwpzr+exGEj6SbViu5j7B+r5a/Los59YeDn8YUt5evMmZi1gP1mgEaMT89smMr0u4lEgIpTl5WmTdr/IyZRXhoWQV11T3RxWmZ+Y4quUFudog+s/SHfZuWRRYq+cmTeoJBySc8ku1dBniVC5wkhD5otlHzM9/g61MTBDy9EY5Mt4rQKGWCE0kvAWdAIPxunQnY+IuwZzT65ZcAMUmK0HzV1gkA7cIyfWFd1XTfDRteMtP19tBKqGjPl0lfPYcfLrg/RbdM+9xPTGw/g68U=;GTqpWV0KcMLHk4tzrIFXsw=="
 ---

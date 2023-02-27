@@ -121,17 +121,6 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 34
-  - title: "How can you beat facial recognition cameras? Try this very expensive sweater, says clothing maker"
-    excerpt: "With facial recognition technology operating out of venues, from stadiums to airports, one clothing maker has a solution: Apparel that dupes cameras into identifying people as animals. Cap-able, an Italian startup,"
-    publishedDateTime: 2023-02-22T21:44:00Z
-    webUrl: "https://www.silive.com/news/2023/02/how-can-you-beat-facial-recognition-cameras-try-this-very-expensive-sweater-says-clothing-maker.html"
-    ampWebUrl: "https://www.silive.com/news/2023/02/how-can-you-beat-facial-recognition-cameras-try-this-very-expensive-sweater-says-clothing-maker.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2023/02/how-can-you-beat-facial-recognition-cameras-try-this-very-expensive-sweater-says-clothing-maker.html?outputType=amp"
-    type: article
-    provider:
-      name: Staten Island Advance
-      domain: silive.com
-    quality: 26
 
 secured: "L9TzqtEd/NG9/hKhBzwQ9Nd0zSXbZjSDl/UTCmHThjnUALNTjfUGj1dGx70AXRDmRR9S4pZicDOkN2gGvTyIMCX6vyqlfmP0u+RhjxtPsj2/mINbii9Lco/wLlGcQs0eKce163vtmPVuHajcU0hF+nkTY5FzTO9Ng2AX9yUD0+ykW0wVtEYlomy8Xc+CUtSxoUHmmxGxXKWpTD3WVhYhD84VTeh9T29UFqrRakglXlGZX9uEbC1FlfQAyxoCMJMIzuQV8d8kc/jppPV0cmObukBzZdi/bd1R3p9SGmkkypbzq2232A/mpj0y84wtfrQGtsCxB5xuZFJMani3hlSNq1aTlnly5HY9zb1ttueD1UKdFEarUQr8KC4tcCMP5NC33F+bQSdzvHTbIWhK47g5SjaDwP18ycxRI2A/RF/VcZpKM13EONG+9Einy/TwqJNs5hu11MvFXgxcpPnR4DeoywW3mqobqKdG37UKnjMkCzqkn51vN4J2Y2xLQms7PQVNefsQ9dvqtfyErYbPhqPjJQ==;asQacLlsR/JIDI+iYb9ZOw=="
 ---

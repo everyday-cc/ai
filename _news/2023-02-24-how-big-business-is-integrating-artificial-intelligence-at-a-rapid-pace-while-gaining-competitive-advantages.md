@@ -2,12 +2,12 @@
 category: news
 title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
 excerpt: "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market."
-publishedDateTime: 2023-02-24T15:02:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/02/24/9766176.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/02/24/9766176.htm"
+publishedDateTime: 2023-02-24T15:32:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/02/24/9766176.htm"
+webUrl: "https://it.tmcnet.com/news/2023/02/24/9766176.htm"
 type: article
-quality: 15
-heat: 15
+quality: 13
+heat: 13
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
 
 related:
   - title: "FinancialNewsMedia.com: How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
@@ -29,6 +28,6 @@ related:
       domain: finanznachrichten.de
     quality: 5
 
-secured: "m5qbT7z0n0PwNHFOsaU9E1QUNfPzWwnvHY+DcGrnRy1+Q34Tn04rsUZuTaEjTXMQ1os2vCp0gmzUepuRnrDJy2SaZ7KWiX/iJuPJseVc47T5aOVSkwlgk+JgQc1Pe9VlW6WG5rcpmZxQGnb1frum0+2IFJDnjFN5YUWTJak56Uxf6eSruHNRf9avAZl3cvkBkqCOfjz7euS5S7/OtpAjm7+V5CK68lxUCHhhR1k8rXSLbuiz5J1P93hEVTALgG9oLoTPf9qq8MGbUN9SjzBHmwhT9xPKCc+LAnQVxs6h1obePjyOUrPqDd45N5t2glR7F7f1t85Wi224v6FNAbX4aQBa/LdmwodsCCDJ/akia70=;MMyFmEN6RmylmNrbIAP2/Q=="
+secured: "QRE4JvfUTIm5C6PuuPL/1J2jxFxtPLbCfIIH5YwV2ylenizVUSnhut1B/W+Exs4vRCEVBvajzIOx+VR+bTMyCOv/We2nTPUHML9N56d9c+dHFVReBOBsVPE/LJfNTTDXeFz3ykskJkSWChxf4bHnJsMH0g8P/hBBLSqc20UL6l8l0KXEZUxqY/J+4+M16C4SV4qWNUQ+9N474OWkZNVOZ3Y9Nl+Oi1lo7i7AWnFZEvfmnOTQ/CyaDosSgr9TCKzq80G3ya21aUajlSC4mQ/+uy8k0gocfG88nOj27ci7U0JkX7bsmgAPP3bFFxMwA/bn0oneSyMjslXijHmvxVqHLCnnXB9uAAdoO0wl5CoDTEY=;bq/XMFsoU8RwEJnvWvIDyg=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T12:09:00Z
 originalUrl: "https://www.itworldcanada.com/post/thirdeye-ar-glasses-designed-to-revolutionize-ar-content-creation-for-developers"
 webUrl: "https://www.itworldcanada.com/post/thirdeye-ar-glasses-designed-to-revolutionize-ar-content-creation-for-developers"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: IT World Canada

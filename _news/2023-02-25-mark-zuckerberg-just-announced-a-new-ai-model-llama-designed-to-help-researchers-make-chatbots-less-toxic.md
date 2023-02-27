@@ -73,6 +73,20 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Amazon files 2 trademarks covering robots featuring AI in metaverse"
+    excerpt: "Amazon a leader in the e-commerce industry and leader in cloud services with its Amazon Web Services (AWS), is making inroads with AI."
+    publishedDateTime: 2023-02-27T15:22:00Z
+    webUrl: "https://finbold.com/amazon-files-2-trademarks-covering-robots-featuring-ai-in-metaverse/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 54
+    images:
+      - url: "https://finbold.com/app/uploads/2023/02/Amazon-files-2-trademarks-for-‘robots-featuring-AI-in-the-metaverse.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "Ufzjy6IETpLme++PiOL/etSqW3DMy7nOGVx77b+qsbTrRi8JWKobBGN3b+xt4IGlHFnf2YsLfoDdtbzN/0ZTonKw/JBs7iyIJvZ4YEskGBhLk5EFoeHHsyi5g+vcLahZalGGJf3Ia7XrEfSDHdj8oeCDMz3peWMi+KeQpNuBlQIPBGo9bFyKHi3RRI0aUERr20mm1VoKKMiZeDz1sPjpRx7qnuT63qzdC61YurkIjELh7Imvl/0ff7uT9ySvqaRRE4EdQsrk2uPrcmKXJGAfSdIC8hMutCHh7xa84qyjM5HhmQiLd3/2bVAWDovgAVKbY+fj9Ij36mQbO8qJhetoTg137VA07qTOv7Jiw8mdu+1akQNpcLT4cUkBdYoBGNpxcK9fxBs57i2/EiS5zhD92S95p/XpmukeUXvCwUtIbgM/XUQOQdYBr/tzWFtt+RBAmSfY/DMF70razQINZm3awKdRmIdUA1AD1nVN+uXCVAqMYSTgfIc7awgIVRhO6JGWyNQI30f7zJXLTMUr0/Lg3w==;2/Ihv3IBXxAjZwOeB+h39w=="
 ---

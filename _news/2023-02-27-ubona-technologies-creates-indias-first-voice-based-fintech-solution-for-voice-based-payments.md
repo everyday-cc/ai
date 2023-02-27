@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T13:07:00Z
 originalUrl: "https://financialit.net/news/e-payments/ubona-technologies-creates-indias-first-voice-based-fintech-solution-voice-based"
 webUrl: "https://financialit.net/news/e-payments/ubona-technologies-creates-indias-first-voice-based-fintech-solution-voice-based"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Financial IT
@@ -14,6 +17,52 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Riding the tech tidal wave: A journey through 5 waves of fintech evolution"
+    excerpt: "The past ten years have been changing and shifting toward a tech-dominant lifestyle, upending national economies around the globe. According to a report by Research and the Markets, the global market for digital transformation"
+    publishedDateTime: 2023-02-26T11:11:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/riding-the-tech-tidal-wave-a-journey-through-5-waves-of-fintech-evolution/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/riding-the-tech-tidal-wave-a-journey-through-5-waves-of-fintech-evolution/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/riding-the-tech-tidal-wave-a-journey-through-5-waves-of-fintech-evolution/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 42
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
+  - title: "Altai Ventures Launches Fund to Help Insurtech, Fintech Founders"
+    excerpt: "Altai Ventures, an early-stage venture capital firm, recently announced the closing of Altai Ventures Fund II, LP (focused on Fintech)."
+    publishedDateTime: 2023-02-24T20:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/02/202912-altai-ventures-launches-fund-to-help-insurtech-fintech-founders/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Dollars-Money-Cash-Pay-768x1024.jpeg"
+        width: 768
+        height: 1024
+        isCached: true
+  - title: "A Local Leader Discusses the Future of Fintech — And How His Team is Shaping It"
+    excerpt: "At the Federal Reserve Bank of Chicago, a new product is helping shape the future of fintech. Learn how the team is driving industrywide progress."
+    publishedDateTime: 2023-02-24T15:55:00Z
+    webUrl: "https://www.builtinchicago.org/2023/02/24/local-leader-discusses-future-fintech-and-how-his-team-shaping-it"
+    type: article
+    provider:
+      name: Built In Chicago
+      domain: builtinchicago.org
+    quality: 20
+    images:
+      - url: "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/styles/og/public/2023-02/mobile%20payments%20illustration.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EjiG2FRfP3rKsF/nj+GL5VUNSZ3mwC0NGIL5VeracK63+wALnexK7EHnoNlGm/IKkWKCBO4zwBCdNkjrNmSooaiS8W5TD8ffwdePNh6Auy6f21JC0U6Pq+geeffmgzczh3Kall/1KVsuIrk4v2ObZry54QnqvOF4Sp9iRbzzJH698GXD+Ng25Ean2t+uT/+UTbZzQTNeL+w2QNAxcduIcM88tPKYFi6tUi786IabDyRSWmQYCESVSQksP8NWdqT2jYSPxoYAUmbURr2YuobYulKax7bSuA26QIFCYEGh1fiaFpyjG8OcU24zu9F6YFumNk4VtRv/JbOL2KfHu2cdG3T/uWVQcg1gmAy5vo8W2Zw=;vw2VotEJRT8KvIh29Ma+YQ=="
 ---

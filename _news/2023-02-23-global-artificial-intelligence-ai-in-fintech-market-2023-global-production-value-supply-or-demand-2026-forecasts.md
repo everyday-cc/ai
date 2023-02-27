@@ -207,6 +207,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market provide Valuable Insights for Market Players [2023-2028]"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in BFSI Market\"Research Report give Analysis of Industry Development Growth"
+    publishedDateTime: 2023-02-27T06:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-provide-valuable-insights-for-market-players-2023-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size Global Research Report, 2023 - 2028"
     excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2023 Will Provide Report Analysis that quickly emerging as one of the [IIII] category in the industry, by Type (,"
     publishedDateTime: 2023-02-25T07:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/russia-ukraine-facial-recognition-techno
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/russia-ukraine-facial-recognition-technology-death-military/amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "War in Ukraine accelerates global drive toward killer robots"
+    excerpt: "Both announcements reflect a crucial lesson militaries around the world have learned from recent combat operations in Ukraine and Nagorno-Karabakh: Weaponized artificial intelligence is the future of warfare."
+    publishedDateTime: 2023-02-27T12:26:00Z
+    webUrl: "https://www.salon.com/2023/02/27/in-ukraine-accelerates-global-drive-toward-killer-robots_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 54
+    images:
+      - url: "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2018/08/robot-sniper.jpg"
+        width: 1200
+        height: 810
+        isCached: true
   - title: "War In Ukraine Becomes Latest Chapter In The Rise Of The Killer Robots"
     excerpt: "This article is part of TPM Cafe, TPM’s home for opinion and news analysis. It was originally published at The Conversation. The U.S. military is intensifying its commitment to the development and"
     publishedDateTime: 2023-02-26T14:33:00Z

@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Bing's chat AI bot wants to be your new phone assistant. Here's how it's doing it"
-    excerpt: "The experiences with the AI chatbot have ranged from slightly scary ... or a simplified response. If there is a language barrier, you can also ask Bing to translate its response as it is fluent in over 100 languages. The Bing chatbot -- both on desktop ..."
-    publishedDateTime: 2023-02-22T22:06:00Z
-    webUrl: "https://www.zdnet.com/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "Facebook owner Meta joins AI chatbot race"
     excerpt: "After Microsoft ChatGPT and Google's Bard, Meta is joining the AI chatbot race with its own state-of-the-art foundational large language model designed to help researchers advance their work in the field of artificial intelligence."
     publishedDateTime: 2023-02-25T08:30:00Z

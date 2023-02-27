@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bing's chat AI bot wants to be your new phone assistant. Here's how it's doing it"
-    excerpt: "The experiences with the AI chatbot have ranged from slightly scary ... or a simplified response. If there is a language barrier, you can also ask Bing to translate its response as it is fluent in over 100 languages. The Bing chatbot -- both on desktop ..."
-    publishedDateTime: 2023-02-22T22:06:00Z
-    webUrl: "https://www.zdnet.com/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-you-can-get-access-to-bings-chat-ai-bot-heres-how/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "Leaked messages show Googlers are taking out their frustrations over layoffs on its new Bard AI chatbot"
     excerpt: "\"I'd tell you a joke about layoffs at Google, but I'm afraid I wouldn't have a job tomorrow,\" Bard said when asked to tell a joke about the layoffs."
     publishedDateTime: 2023-02-24T22:26:00Z

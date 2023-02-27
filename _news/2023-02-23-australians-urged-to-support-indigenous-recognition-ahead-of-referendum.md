@@ -46,6 +46,15 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 19
+  - title: "Leading Australian social justice bodies unite to back Indigenous voice to parliament referendum"
+    excerpt: "Allies for Uluru to act as ‘conduit’ for organisations to support yes campaign, and include Fred Hollows Foundation and Oxfam"
+    publishedDateTime: 2023-02-27T13:00:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/feb/28/leading-australian-social-justice-bodies-unite-to-back-indigenous-voice-to-parliament-referendum"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 0
 
 secured: "T7eOJVjaRTKX6+s6CK3zSIuiEDf+X8mYynSLMotg0x8npPb+HS3bUPvynKoXx7P7gWZGIjmVSt86QS1zhTs2dNsjx0Q9mD5eUScNDkyWqh18xuqw6Q/uIhYyhLEdxou/lELAKPxAogeIdLtuRnIe0AV7G60dugZwJNPfbQhU8l34am+ftg6UbXpRBthRsT5fWq/OIuiQ0/qI4sML2vMfKCtsWW/EUOub0C7OVopqu9ltJKs05bU+kqMEFElpl0+wJI7emSjH45B3yiOZ0sSkHWWqnhim1ng7V81C9vwRGIkzydJBNfOiiRO8peTWD51xkdu/Gc3VGTox+Q4vYSaERSg4YFRuILQsBIL9CoxPVnhz4zNUGiomvHp0KK5TaCj2KClpKVmh0RZw/MYtT/Ci/reSvCgyaJcrwbfYLCocapyAGw0HVTJXI0VfbNftP51Styhu012BO6S3gchzPmGZvDaGKktEGoAqtVvOTNbvkl3arUKZFyl3xdwRNdzJQmKIQC4KchjKTyRH24J+tXsYfQ==;HUTCGIzFDfgl1Plc7WBpEg=="
 ---

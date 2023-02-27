@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Snapchat Launches Its Own ChatGPT-Powered AI Chatbot"
+    excerpt: "Snapchat on Monday said it is launching its own generative artificial intelligence chatbot, called My AI, powered by the latest version of OpenAI's ChatGPT. Snapchat calls My AI an experimental feature,"
+    publishedDateTime: 2023-02-27T15:31:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/snapchat-launches-its-own-chatgpt-powered-ai-chatbot/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/snapchat-launches-its-own-chatgpt-powered-ai-chatbot/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/snapchat-launches-its-own-chatgpt-powered-ai-chatbot/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/9cafdb325bf2a75205d177ac0dd168bec62eeee7/hub/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ChatGPT and its implications for customer experience"
     excerpt: "LLM-based chatbots like ChatGPT and conventional chatbots fulfill somewhat different purposes, but LLMs will be heavily used in CX."
     publishedDateTime: 2023-02-26T17:15:00Z
@@ -173,6 +189,20 @@ related:
         width: 640
         height: 453
         isCached: true
+  - title: "Advanced chips from AI computer giant aims to power ChatGPT-like tools"
+    excerpt: "Advanced language models powered by Artificial Intelligence have taken the technology industry by storm of late. Platforms like Google and Microsoft are racing to integrate AI capabilities into their search engines after OpenAI's revolutionary model ChatGPT led the way in integrating AI to produce outstanding results."
+    publishedDateTime: 2023-02-27T15:28:00Z
+    webUrl: "https://interestingengineering.com/innovation/advanced-chips-from-ai-computer-giant-aims-to-power-chatgpt-like-tools"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 58
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/27/image/jpeg/1t6BjRZn3zQgI3t7pKhgevrQiYdcwpQK5zx2iqLk.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet"
     excerpt: "Google, with Bard, and OpenAI, with ChatGPT are making AI chatbot technology previously restricted to test labs more accessible to the general public. How do these Large Language Model (LLM) programs work?"
     publishedDateTime: 2023-02-23T23:02:00Z
@@ -225,20 +255,6 @@ related:
       - url: "https://img.ksl.com/slc/2916/291697/29169717.JPG?filter=kslv2/responsive_story_lg"
         width: 1228
         height: 690
-        isCached: true
-  - title: "China's first ChatGPT-like software to be made open source"
-    excerpt: "Named after the artificial intelligence featured in the Chinese Sci-fi movie The Wandering Earth II, MOSS became the first ChatGPT-like software unveiled in China when it was made available to the public for testing on Feb 21."
-    publishedDateTime: 2023-02-27T08:04:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202302/27/WS63fc640ea31057c47ebb114b.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202302/27/63fc66aba31057c4b4b5da42.jpeg"
-        width: 593
-        height: 395
         isCached: true
   - title: "Nvidia to drive AI business amid ChatGPT hype"
     excerpt: "As the sluggish PC market drags on Nvidia's performance, the fabless chip design company is eyeing the AI hype that is driven by services, especially ChatGPT. Nvidia posted its fiscal fourth-quarter financial results that ended on January 29, 2023."
@@ -293,6 +309,15 @@ related:
     provider:
       name: 朝日新聞社
       domain: asahi.com
+    quality: 4
+  - title: "China's First ChatGPT-like Software to Be Made Open Source"
+    excerpt: "MOSS, the first large-scale conversational language model in China, will be made open source by the end of March, said the research and developing team on Sunday. Named after the artificial intelligence featured in the Chinese Sci-fi movieTheWandering Earth II,"
+    publishedDateTime: 2023-02-27T12:18:00Z
+    webUrl: "https://en.dahe.cn/2023/02-27/1194601.html"
+    type: article
+    provider:
+      name: en.dahe
+      domain: dahe.cn
     quality: 4
 
 secured: "mWOTxc4/hYnUNK3neWQuP4IDQ4zM9Woy+tmjLUmFLHLTb4PhM6E/1WPcFqweAsbeZXfL7V22EnPtAiasyHrR2xELEoGboNsa6n4ZPaWAVKaMTlh0fQhAfzrnnZLqDxuU+thZyezCpf5QUJuY1jMtVH00HPEQc/mq4DvRi200AloUrJ9UHgnuDdmIRJDFxZJGji3BYmmSU+XPOa4bj/ir0khj3zpwj8Ik8gjRS5AHemeGS0K4x8/4NI/TNwKAaCJmCJtg2BEyuf7RY1qi6QYjHK07c23BOAUyTQ0MuZCeqzeYxGTryIlhfKt3579N9CA1YbZ5TuCrdHTdRPNufHFpKsKEVWUlGMABZ6conOzj0802J3pi5clZ+mKeOmZMocWrFn5oa8Od79ZWwN2rdaxQggqpEACNKaOf9pP7uNo1fkNxb62+4z9IQNlqsjZ0Thu5iTvjgBhrP9aLVMEU/oq8Gsc8GFaiZ9HXJW5xmXGDsmTNp3Wdod0pfGPzbu1mqvhXvmzNCkH+ORHRd4jIufbMoA==;yPqSAlwi8MbtX+mGH4yJOA=="

@@ -35,15 +35,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Nvidia Teases DGX Cloud AI-As-A-Service As Earnings Wow Wall Street"
-    excerpt: "Jensen Huang, Nvidia’s CEO and co-founder, calls DGX Cloud the ‘next level’ of the GPU designer’s business model and says it’s meant to ‘help put AI within reach of every enterprise customer.’ The service is already available on Oracle Cloud ..."
-    publishedDateTime: 2023-02-23T00:11:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-teases-dgx-cloud-ai-as-a-service-as-earnings-wow-wall-street"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 21
   - title: "Airtel, Nvidia partner to deploy AI powered speech analytics solutions for customer services"
     excerpt: "In order to develop the technology that enables automated speech recognition, Airtel leveraged the NVIDIANeMo conversational AI toolkit and Nvidia Tri"
     publishedDateTime: 2023-02-23T17:25:00Z

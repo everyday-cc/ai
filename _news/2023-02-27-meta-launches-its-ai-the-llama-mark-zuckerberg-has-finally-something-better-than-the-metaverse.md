@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-ma
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "Amazon files 2 trademarks covering robots featuring AI in metaverse"
+    excerpt: "Amazon a leader in the e-commerce industry and leader in cloud services with its Amazon Web Services (AWS), is making inroads with AI."
+    publishedDateTime: 2023-02-27T15:22:00Z
+    webUrl: "https://finbold.com/amazon-files-2-trademarks-covering-robots-featuring-ai-in-metaverse/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 54
+    images:
+      - url: "https://finbold.com/app/uploads/2023/02/Amazon-files-2-trademarks-for-‘robots-featuring-AI-in-the-metaverse.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Mark Zuckerberg just announced a new AI model 'LLaMA,' designed to help researchers make chatbots less 'toxic'"
     excerpt: "Meta is releasing its generative AI model called \"LLaMA\" to drive research into what it called an \"important ... its CEO Mark Zuckerberg said in a Facebook post on Friday. \"LLMs have shown a lot of promise in generating text, having conversations ..."

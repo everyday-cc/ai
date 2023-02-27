@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T13:00:00Z
 originalUrl: "https://www.theatlantic.com/technology/archive/2023/02/sports-stadiums-security-facial-recognition-surveillance-technology/673215/"
 webUrl: "https://www.theatlantic.com/technology/archive/2023/02/sports-stadiums-security-facial-recognition-surveillance-technology/673215/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Atlantic

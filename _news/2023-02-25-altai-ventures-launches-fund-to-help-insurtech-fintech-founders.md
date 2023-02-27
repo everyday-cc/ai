@@ -41,20 +41,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Exploring 7 of the Latest Technological Trends in Fintech"
-    excerpt: "Fintech firms can use both technologies to automate fraud detection and loan origination processes while providing more accurate insights into customer behavior. By leveraging these tools, businesses can cut manual labor  costs while increasing overall performance accuracy and efficiency."
-    publishedDateTime: 2023-02-25T21:30:00Z
-    webUrl: "https://www.finextra.com/blogposting/23806/exploring-7-of-the-latest-technological-trends-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/a4428d07-be55-4674-973f-7b5d26aab3e3.jpg"
-        width: 500
-        height: 375
-        isCached: true
   - title: "A Local Leader Discusses the Future of Fintech — And How His Team is Shaping It"
     excerpt: "At the Federal Reserve Bank of Chicago, a new product is helping shape the future of fintech. Learn how the team is driving industrywide progress."
     publishedDateTime: 2023-02-24T15:55:00Z
@@ -69,24 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Is Fintech Changing The Way We Bank?"
-    excerpt: "The world of banking is changing rapidly, and the engine driving this change is the phenomenon known as fintech. As a result, our relationship with money has been completely upended."
-    publishedDateTime: 2023-02-25T14:10:00Z
-    webUrl: "https://financialit.net/blog/fintech/how-fintech-changing-way-we-bank"
+  - title: "Ubona Technologies Creates India’s First Voice-based Fintech Solution for Voice-based Payments"
+    excerpt: "While digital payments have become a lot easier and quicker with the advent of UPI apps, the lack of access to smartphones or any disruption in internet connectivity makes digital payments impossible."
+    publishedDateTime: 2023-02-27T13:07:00Z
+    webUrl: "https://financialit.net/news/e-payments/ubona-technologies-creates-indias-first-voice-based-fintech-solution-voice-based"
     type: article
     provider:
       name: Financial IT
       domain: financialit.net
-    quality: 19
-  - title: "TENET FINTECH GROUP INC"
-    excerpt: "Toronto, Ontario--(Newsfile Corp. - February 1, 2023) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative AI service provider and operator of the ..."
-    publishedDateTime: 2023-02-23T00:00:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58202975-tenet-fintech-group-inc-tenet-closes-second-tranche-of-private-placement-of-up-to-cad-dollar-7m-non-secured-convertible-debenture-financing-ahead-of-pendin-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
+    quality: 0
 
 secured: "q6TxdT3zFWXUQthwZgxzvn6WU303sIRlLEVY0SKAA3KNgYzs+Kp1LiBEXkRiGyiRN6z1SM8sNP69tuYHfHfmpLCs/mg6bQeH2qMTo0fshltULHlpWtKTfE/e9gBJ4nPpif18L/y6ENbr++kUKewvsP8z5CL2LOP2JXaSaLcZ9rfl6D9huagVfuO9AeOnM4DLo3bVGh1Z0jlG4i7NfCghIIYpQIH4VJlC21jSNoWh1sMoVVOjHnHP4MSftXLUrdLvJwkuwexxGeMfMPEnUOWC0HsjXDI5Z74GWT9v1Tpkga4Mkmpiq2uYGym3Qv35cyrNLhLr3FEMx3HVoVPcI4CXTL4BEvFUj0Iyaqsfb+gnckuwAGDCSQ13odcYZAGrKTSvYKQIibVIBzdMSOak6xVPxaXa2P+J63C89fsXyN5euFz1rZo2xEcLdTAldv2Q3R8nxR87nmYndlqyB7O/yoOA5mmVZeDxhwRZqk+64wgkP7pVKzgHwm1cMyBETyy3SSVpZmikQB/rEzFSjVqDD2R3RQ==;gT67HDvnJ2/kZTcHfcot9g=="
 ---

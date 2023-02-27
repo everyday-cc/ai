@@ -42,6 +42,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 34
+  - title: "Leading Australian social justice bodies unite to back Indigenous voice to parliament referendum"
+    excerpt: "Allies for Uluru to act as ‘conduit’ for organisations to support yes campaign, and include Fred Hollows Foundation and Oxfam"
+    publishedDateTime: 2023-02-27T13:00:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/feb/28/leading-australian-social-justice-bodies-unite-to-back-indigenous-voice-to-parliament-referendum"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 0
 
 secured: "x4e91dD/rp/6Dk3VNcLBj+WBPB1Wegz9uqeoapxhgpDJIodTMH8/ktnRk+8FtX3f8k1ISWXZye1HF7H1XCxO1Ln1f6mE3PFwBXZuRTiUMbsj6R0+doUipO9AewmpFJS6bX1znYtMKIfpnFT76ye+JDOzpfVnvESD8bA4PFQAEPP3/5yI64U47f03wkAFBY6fmPPLBRcyhApAr+GZQqktUGpTU2Yyta/aRJRBk+hD42qPGBwkTR9X9jDyN5ceJvlP0Cr2GRudyy7VyliLltAuyNHaj33MUW5g4hEytwSoWaPkvmxTdXYBraMckxj2bHleQHyMZmPFosnE0/j8U86qL2KaiS+S+Hjxyhj0hYcxtUtgKCH0i5tK7YT7WDm88izD3oeVCq4z2u7TYFarZA0MCcRYmUQrhCBse1c3g0JnRuUim6pXZEP6b+73X2Wj2L6fe4AGI0Cevm2qiPALaXt219N+1JFBkvCVLTGKQ42hP5LB5Vwggz56S/IYGywl/vwS6ibqCCWKIvKiTfg2fvqgng==;FInnb0b6CKdnoXuJK0pRyw=="
 ---

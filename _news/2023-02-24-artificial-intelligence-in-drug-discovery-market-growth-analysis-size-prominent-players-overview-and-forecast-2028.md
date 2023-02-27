@@ -22,24 +22,191 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Equipment Market Size with Competitive Landscape, New Projects and Investment Analysis till 2028"
-    excerpt: "The “Facial Recognition Equipment Market” Analysis 2023-2027 is a detailed sketch of the business sphere in terms"
-    publishedDateTime: 2023-02-24T01:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-equipment-market-size-with-competitive-landscape-new-projects-and-investment-analysis-till-2028-2023-02-23"
+  - title: "Artificial Intelligence (AI) Robots Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2029"
+    excerpt: "What is the projected market size and growth rate of the Artificial Intelligence (AI) Robots Market? Artificial Intelligence (AI) Robots Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,"
+    publishedDateTime: 2023-02-25T12:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2029-2023-02-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 78
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars Market International Business Analysis, Development Outlook and Regional Strategies 2028"
-    excerpt: "Providing a complete overview of the global Self-driving Cars market is a complex task, as there are many different markets and industries around the world. However, I can provide a high-level summary of some of the key trends and factors that are currently impacting the global Self-driving Cars market."
-    publishedDateTime: 2023-02-23T03:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-international-business-analysis-development-outlook-and-regional-strategies-2028-2023-02-22"
+  - title: "Data and AI Ethics Market In 2023 : Volume, Analysis, Future Prediction, Overview and Forecast 2028"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Data and AI Ethics Market\" Report provides a Detailed analysis of global market size, regional and country-level"
+    publishedDateTime: 2023-02-23T22:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-in-2023-volume-analysis-future-prediction-overview-and-forecast-2028-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data and AI Ethics Market Size 2023 will Projected to Grow with Statistics, Forecasts till 2029"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-24T01:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-projected-to-grow-with-statistics-forecasts-till-2029-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market 2023 Size to Set a High Potential Growth by 2028"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-25T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-size-to-set-a-high-potential-growth-by-2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Chipset Market Future Trends Demand 2023, and Forecast to 2028"
+    excerpt: "Deep Learning Chipset Market\" is expected to grow at a steady growth during the forecast period 2023-2028, Deep"
+    publishedDateTime: 2023-02-26T03:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-future-trends-demand-2023-and-forecast-to-2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare Natural Language Processing Market Insights : Industry dynamics, New Technologies and Forecast to 2028"
+    excerpt: "Healthcare Natural Language Processing Market\" is expected to grow at a steady growth during the forecast period"
+    publishedDateTime: 2023-02-27T00:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-insights-industry-dynamics-new-technologies-and-forecast-to-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Future Growth of the Artificial Intelligence in Oil and Gas Market Size 2023-2029"
+    excerpt: "Browse Market Size, charts, tables and figures extent in-depth TOC with 114 Report Pages on Artificial Intelligence in Oil and Gas Market by Application (, Civil Oil and Gas Industry, Oil and Gas Industry for Vehicles and Ships,"
+    publishedDateTime: 2023-02-25T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-growth-of-the-artificial-intelligence-in-oil-and-gas-market-size-2023-2029-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Medical Market\" Report covers specified competitive outlook consisting of the"
+    publishedDateTime: 2023-02-25T01:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Robotics Market Forecast: An In-Depth Analysis of Industry Trends and Growth Potential 2023-2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Artificial Intelligence"
+    publishedDateTime: 2023-02-27T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-forecast-an-in-depth-analysis-of-industry-trends-and-growth-potential-2023-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+  - title: "Legal Tech Artificial Intelligence Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2028"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Legal Tech Artificial Intelligence Market\" Report covers specified competitive outlook consisting of the market"
+    publishedDateTime: 2023-02-24T23:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2028-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning as a Service Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Machine Learning as a Service Market\" Report provides a Detailed analysis of global market size, regional"
+    publishedDateTime: 2023-02-25T02:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Discover How Computer Vision Software Market 2023 Industry Growth Across World"
+    excerpt: "[113 Pages Report]\"Computer Vision Software Market\" size is projected to reach Multimillion USD by 2026, In comparison to 2023, at unexpected CAGR during 2023-2026 and generated magnificent revenue. This study provides all the most recent market facts and ..."
+    publishedDateTime: 2023-02-24T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/discover-how-computer-vision-software-market-2023-industry-growth-across-world-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+  - title: "Artificial Intelligence Delivery Robot Market Size, Analysis, Key Segments, Share, Growth, and Forecast 2028"
+    excerpt: "Feb (The Expresswire) -- \"Artificial Intelligence Delivery Robot Market\" Research Report 2023 Provides a Basic overview of the Industry"
+    publishedDateTime: 2023-02-26T19:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-delivery-robot-market-size-analysis-key-segments-share-growth-and-forecast-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+  - title: "Artificial Intelligence in Construction Market is Booming Worldwide to Show Significant Growth over the Forecast 2023 to 2029"
+    excerpt: "Artificial Intelligence in Construction Market Size 2023-2029 | New Report (114 Pages) | Information Technology | In"
+    publishedDateTime: 2023-02-27T06:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-is-booming-worldwide-to-show-significant-growth-over-the-forecast-2023-to-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice And Speech Recognition Software Market In-depth analysis which provides critical revenue and estimates for the period 2023 To 2028"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Voice And Speech Recognition Software Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029."
+    publishedDateTime: 2023-02-26T03:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-in-depth-analysis-which-provides-critical-revenue-and-estimates-for-the-period-2023-to-2028-2023-02-25"
     type: article
     provider:
       name: MarketWatch
@@ -49,6 +216,43 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Video Analytics and Artificial Intelligence Market 2023 Industry Growth, Companies Profile, Competitive Landscape and Key Regions 2029"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Video Analytics and Artificial Intelligence Market\" Report provides a Detailed analysis of global market size,"
+    publishedDateTime: 2023-02-25T12:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/video-analytics-and-artificial-intelligence-market-2023-industry-growth-companies-profile-competitive-landscape-and-key-regions-2029-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Neural Networks Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2029"
+    excerpt: "The global Artificial Neural Networks market size is projected to reach multi million by 2029, in comparison to 2023, with unexpected CAGR during the forecast period, the Artificial Neural Networks Market Report Contains113pages Including Full TOC,"
+    publishedDateTime: 2023-02-24T03:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2029-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+  - title: "Artificial-Intelligence-In-Education-Market Analysis Focus On Leading Key Players And Revenue Growth Analysis By Forecast To 2023-2033"
+    excerpt: "Key Companies Covered in the Artificial-Intelligence-in-Education-Market Research Blackboard Inc., Knewton, IBM Corporation, IBM Corporation, Google In"
+    publishedDateTime: 2023-02-24T06:22:00Z
+    webUrl: "https://menafn.com/1105633199/Artificial-Intelligence-In-Education-Market-Analysis-Focus-On-Leading-Key-Players-And-Revenue-Growth-Analysis-By-Forecast-To-2023-2033"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 9
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?495750"
+        width: 348
+        height: 249
         isCached: true
 
 secured: "WgRg7ELGFStj3I2xf03Gpairp3/f7zb/h6mBRM3JdGpjXXn+g8v6w6bAUydmGDSBh+FRXn4bmuRAP/JCseXRqxRjdCmV4y+8GUsq9JeioktJ4qriW3XuHvIWF5V8XZHdqG+SQZL4E6poO9mup8hTgeUfQlg0FT3pj6DcoHwYA3I3Jmn3eFJtOVQOalAAu5qP5znD+JnZ+T/lauyzbCBcqMHSz99zjL04wU/RkbRz/TtrrN8T6D5xNuFm6HiiHhNRzk5myswARLnWjLG/R5qfC5EC7FbyFaaORwaT1vJ++MbfXIZPuc2OcMXkYv/dmmdvGGmE3bsv5BDzJxhrilNcqn8CTgzWhcDInYqKW1k+ybU=;dgIEAniK9NDVuX6Af8SWAg=="

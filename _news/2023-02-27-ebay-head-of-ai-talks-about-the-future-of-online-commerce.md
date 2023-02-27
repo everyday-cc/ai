@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T11:16:00Z
 originalUrl: "https://www.forbes.com/sites/shelleykohan/2023/02/27/ebay-head-of-ai-talks-about-the-future-of-online-commerce/"
 webUrl: "https://www.forbes.com/sites/shelleykohan/2023/02/27/ebay-head-of-ai-talks-about-the-future-of-online-commerce/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

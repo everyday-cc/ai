@@ -99,20 +99,36 @@ related:
       domain: pcmag.com
     quality: 60
   - title: "Microsoft introduces next-generation hybrid cloud platform"
-    excerpt: "Microsoft: According to a report in tech publication TechCrunch, the tech giant believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership."
+    excerpt: "According to a report in tech publication TechCrunch, the tech giant believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership."
     publishedDateTime: 2023-02-27T08:28:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
+    webUrl: "https://cio.economictimes.indiatimes.com/news/cloud-computing/microsoft-introduces-next-generation-hybrid-cloud-platform/98268257"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/cloud-computing/microsoft-introduces-next-generation-hybrid-cloud-platform/98268257"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/cloud-computing/microsoft-introduces-next-generation-hybrid-cloud-platform/98268257"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
+      name: cio.economictimes.indiatimes
       domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-98270586,imgsize-112440,width-1200,height-628,overlay-ettelecom/microsoft-introduces-next-generation-hybrid-cloud-platform.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-98268257,imgsize-112440,width-1200,height-628,overlay-etcio/microsoft-introduces-next-generation-hybrid-cloud-platform.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Stefanini Group partners with Microsoft to integrate simultaneous translation platform into Microsoft Teams"
+    excerpt: "Integrating Microsoft Azure AI, Voicero is now available through Microsoft Azure Marketplace and AppSource SOUTHFIELD, Mich., /PRNewswire/ -- Millions of meetings are held daily by people who speak"
+    publishedDateTime: 2023-02-27T14:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31071136/stefanini-group-partners-with-microsoft-to-integrate-simultaneous-translation-platform-into-micros"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31071136"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31071136"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "How to Power Intelligent Enterprises with SAP on Microsoft Cloud"
     excerpt: "Microsoft’s Dara Ibrahim, Co-op UK’s Simon Fullalove, and TCS’ Chandrashekar Saligram explore how Microsoft, TCS, and SAP collaborate to power future-ready enterprises."

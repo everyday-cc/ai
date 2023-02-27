@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T14:24:00Z
 originalUrl: "https://www.fcbarcelona.com/en/club/news/3086527/mental-health-and-artificial-intelligence-open-sports-tomorrow-congress"
 webUrl: "https://www.fcbarcelona.com/en/club/news/3086527/mental-health-and-artificial-intelligence-open-sports-tomorrow-congress"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: FC Barcelona

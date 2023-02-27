@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla disappoints owners with updated language around ‘Full Self-Driving Beta’"
+    excerpt: "Tesla has updated some of the language around its “Full Self-Driving Beta” program following the NHTSA recall, and some"
+    publishedDateTime: 2023-02-27T15:29:00Z
+    webUrl: "https://electrek.co/2023/02/27/tesla-disappoints-owners-updated-language-around-full-self-driving-beta/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 65
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla recalls nearly 363,000 vehicles over 'Full Self-Driving' software"
     excerpt: "DETROIT — U.S. safety regulators have pressured Tesla into recalling nearly 363,000 vehicles with its “Full Self-Driving” system because it misbehaves around intersections and doesn't always ..."
     publishedDateTime: 2023-02-23T04:44:00Z

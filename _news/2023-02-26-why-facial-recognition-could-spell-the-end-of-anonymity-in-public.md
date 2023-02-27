@@ -113,17 +113,6 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 34
-  - title: "How can you beat facial recognition cameras? Try this very expensive sweater, says clothing maker"
-    excerpt: "With facial recognition technology operating out of venues, from stadiums to airports, one clothing maker has a solution: Apparel that dupes cameras into identifying people as animals. Cap-able, an Italian startup,"
-    publishedDateTime: 2023-02-22T21:44:00Z
-    webUrl: "https://www.silive.com/news/2023/02/how-can-you-beat-facial-recognition-cameras-try-this-very-expensive-sweater-says-clothing-maker.html"
-    ampWebUrl: "https://www.silive.com/news/2023/02/how-can-you-beat-facial-recognition-cameras-try-this-very-expensive-sweater-says-clothing-maker.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2023/02/how-can-you-beat-facial-recognition-cameras-try-this-very-expensive-sweater-says-clothing-maker.html?outputType=amp"
-    type: article
-    provider:
-      name: Staten Island Advance
-      domain: silive.com
-    quality: 26
   - title: "New York City Council holds hearing on facial recognition technology"
     excerpt: "New York City Council holds hearing on facial recognition technology Facial recognition technology was the controversial topic at a New York City Council hearing Friday. As CBS2's Doug Williams reports, there was one noticeable absence."
     publishedDateTime: 2023-02-24T22:24:00Z

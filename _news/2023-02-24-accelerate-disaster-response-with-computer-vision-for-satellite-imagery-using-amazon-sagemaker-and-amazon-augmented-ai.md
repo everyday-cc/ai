@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-disaster-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerate-disaster-response-with-computer-vision-for-satellite-imagery-using-amazon-sagemaker-and-amazon-augmented-ai/"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -24,15 +24,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Boomi uses BYOC on Amazon SageMaker Studio to scale custom Markov chain implementation"
-    excerpt: "This post is co-written with Swagata Ashwani, Senior Data Scientist at Boomi. Boomi is an enterprise-level software as a service (SaaS) independent software vendor (ISV) that creates developer enablement tooling for software engineers. These tools integrate via API into Boomi’s core service offering."
-    publishedDateTime: 2023-02-22T21:04:28Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/boomi-uses-byoc-on-amazon-sagemaker-studio-to-scale-custom-markov-chain-implementation/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
   - title: "Achieve high performance at scale for model serving using Amazon SageMaker multi-model endpoints with GPU"
     excerpt: "Amazon SageMaker multi-model endpoints (MMEs) provide a scalable and cost-effective way to deploy a large number of machine learning (ML) models. It gives you the ability to deploy multiple ML models in a single serving container behind a single endpoint. From there, SageMaker manages loading and unloading"
     publishedDateTime: 2023-02-24T20:56:04Z
