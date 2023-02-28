@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-artifi.jpg"
@@ -43,6 +44,6 @@ related:
         height: 250
         isCached: true
 
-secured: "b3UvIjhHKimKfG0HMNAwDDC6UCy6IlVelZVhXeaWjI/O8RCtG8dgvFNaYx5sSHbJOFpO8oCblrzWqXS2UYfBt97Hg3LwKR8wrgFNoNFN2S2ZU+jItGFG9pTeSHfByt7JW1d4RQVYWAJGlxxqdRXbacIPEsSNR9xNSag34dYMBPvDGYx+a60SqTJ6sAO04o3r2PtA6FmU+QAZZsgvAhDOt5KV/UjWTEhlf7mqkNUZ2koCZK+K64dDZVPR9lSIjodl/BD+hCKpEf5haxT4j7j0gnWphSeq7eWE0healaX4aLPr8Ufn2lNYwdUMpw3kpDHj1hsOZK1s/VUWzSwIyM8TRql2rRrim+eLeLMMl/quYRc=;5jeLzNhENl5HotwB+kQ3ZQ=="
+secured: "blK35LLyXvrN3ymMXCpbJQeVQgzPm/KwrJx/4V7yd3/+i/q15KgD5DkQ3DjKoWv+t89FauH7YDDdE8MU8aLS2rGaMoB+QQqB+RQQZtCtnjVwdg78od5Atwh0bRjv5sb1LmG9uzqTpzwx17u1ibMa8kp+b9FtiPwgrwb0/px2SA137nkcBKJMvYFGdu9aZVhRxNdjDrvZ868YJ97aDrKQHyAjF5Bc255vTaEIkjnRYhzgSBIwRk+nk0HLdnsRCXYkUy/xjv9UsI/Art+GMzd8+dhXNAPN8HHNX6O2Nt6Ck3hx5Hzq2Y0GeebamfnXEwYlRTwUEv7PtRwxUPc/3/AzmUMsQH4GV/Y+SPr3yzTkMO7LIYYiInt1pzQhn4HNjx8zLuT1bIXzxgz4pLhJ2tsL0oi5+9M/RQ/sqdNWoaoLUGisGSpAmIEc3migX4HYQVigUeDRWpXv6L9vcerRG0ttnoPRJtEbMTvtsvQm9D1CMljawzZ/8q7UUea7eCVwnCcDfM1NmiK90M8oXeQmecFPiQ==;bi5+hkH9Is8ozx5OvE36WQ=="
 ---
 

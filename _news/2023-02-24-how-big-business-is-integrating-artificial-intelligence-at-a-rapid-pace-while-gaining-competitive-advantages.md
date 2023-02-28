@@ -1,79 +1,20 @@
 ---
 category: news
 title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
-excerpt: "FinancialNewsMedia.com News Commentary PALM BEACH, Fla.,  /PRNewswire/ -- Artificial Intelligence (AI) is becoming used in more and more markets and industries worldwide. At the current growth rate, A"
-publishedDateTime: 2023-02-24T12:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/02/n31047086/how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-"
-webUrl: "https://www.benzinga.com/pressreleases/23/02/n31047086/how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-"
-ampWebUrl: "https://www.benzinga.com/amp/content/31047086"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31047086"
+excerpt: "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market."
+publishedDateTime: 2023-02-24T15:32:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/02/24/9766176.htm"
+webUrl: "https://it.tmcnet.com/news/2023/02/24/9766176.htm"
 type: article
-quality: 55
-heat: -1
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-related:
-  - title: "How machine learning is revolutionizing CX outsourcing"
-    excerpt: "CONTACT centers in the Philippines have long been the driving force behind the exponential growth of the business process outsourcing (BPO) industry, providing superlative customer service to companies around the world."
-    publishedDateTime: 2023-02-24T11:17:00Z
-    webUrl: "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127"
-    ampWebUrl: "https://www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp"
-    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2023/02/24/public-square/how-machine-learning-is-revolutionizing-cx-outsourcing/1880127/amp"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 59
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/02/24/161618.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Customer Service Philippines: How NLP is revolutionizing the airline industry"
-    excerpt: "The integration of Natural Language Processing (NLP) technology is revolutionizing the way airlines interact with their customers. By utilizing this technology or by outsourcing their customer service"
-    publishedDateTime: 2023-02-27T06:49:00Z
-    webUrl: "https://technology.inquirer.net/121718/customer-service-philippines-how-nlp-is-revolutionizing-the-airline-industry"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 51
-    images:
-      - url: "https://technology.inquirer.net/files/2023/02/PDI-Customer-Service-Philippines-photo-620x413.jpg"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "AI scientist-author Toby Walsh: 'We are increasingly outsourcing some of our thinking to machines'"
-    excerpt: "Artificial Intelligence scientist, professor, author Toby Walsh, who was a prominent speaker at this year's Jaipur Literature Festival, talks about morality and ethics in the development of technology and the danger of handing over decision-making to machines."
-    publishedDateTime: 2023-02-25T08:12:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/lifestyle/artificial-intelligence-scientist-author-toby-walsh-interview-10152821.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/lifestyle/artificial-intelligence-scientist-author-toby-walsh-interview-10152821.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/lifestyle/artificial-intelligence-scientist-author-toby-walsh-interview-10152821.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 45
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/02/AI1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
-secured: "Nc0WjJzlDUwlbMeiPDKlQ8PfenYpinTWTV36/2i1qFgHXIHvg2Tbu/COZP1cwUbjFg3F04pFKReWBw0D/uAr1HKj2subcaWx5vxyOzE3oxmQafy4MHFZNNbmGbOaMFIpGb/PVKm3cW5PNnGoIOMHf5lPt3gBZt7RRStTRBhO338DL2nHGvHpnAsrO31lhFlszFEtN+dDv+CVjrnAJRJgsGr+yLM5Z+ZzIQsFeEc6hN5ZmnaxN35VyzND/zUcHk2UOcsyK3g5fHv2WzOOaXZxA1P9r88/s4RFg8n5ZTNTTMpHsEFcyRdUMuHWPwrM8f1ilF4pDACc5dA/k/BWU/IXv9pbJhHYGdXm8JlE9cGxjes=;w4AY6HO8LzVPEcxWyUuRjw=="
+secured: "FxXzTbopp0vU73bsb6vtvuaFi7/MoVmtygpujY6UeC4V5+roku4S+ChIWq/QsolllzCRYEC9rSwPPkoIjYc96cGerm4hM49At5k2ZHvLOe4P4e74fRPVEBYmJeTuky6jzTbXlwzgiSO+aQofF7boRGTzXthjMvzUWouKdSQbuE8VvWkzn288MUtOQNVVes37GFujsq3f1wVwM0itxdBZ+MHzFZdDprGO24iFOw3aoxqQ7/jELNhfGuwiUwBmi6+778nD1fywCMIWyK6Y16wpbQgiwgrx8Qqp090HMvkUsTK4HLSBbHX/44WA2qo+NJZGn7bDz5lkBUU1KW6n7V4kFv7Xm7cGFifx9RwDrFWxyQQ=;P9c0VeaVSeVKtLJVb5m/Bw=="
 ---
 

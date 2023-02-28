@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/3f/43ff8c82-e6aa-548e-a507-ebb884546010/63f1b9da8623d.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "vfDtR1eHbwHqLBmWWUzJ/1XN1jlPeobOysEtAyttIhl0xOiRo6qH/+5yxx9FzSMmqc5EgHjjE1J3Jpv1sKlibto668DNe8OhscwU3zB2Wo3jarOdonwvnNIaKk1PB5EeSGfIQiuJFsy7DVB2E2tRQ2Qmsk08uiLAjG/EIGTi06MkND+aH1Z8qDVgkXJn1xfASRBWFZ939Shk5VoYfKCjVAfidwi4V7LhGuch1joFE2Xi3ttsd/XgLBu47ePe5k/gjIqr3BuiuEkpq67epMYhM/QvFCT9mOEsW215cTh8hd772Er0yTU9xuG1+cSwnfMWwDmtYAcxqP89/+YUgx7G2OmsDx7BPZFYVfr8wxQeA8w=;ZJdnzUcHLfNSOagkSGNF5Q=="
+secured: "FrbIRliu6fjUNP5f4Ipfc87xpsoCjXz8sInmH4BlRGgd18jO1SpZl0pR7D6f7gqEnS8YJdwXrVFPmM5jlYfipw6Z+KJKGxy5gYzcPAZyT+9SowV/MjUnEM8CE9Rnsnfi5L8vA1Lb7jK2l9sgC7BTdSsxj2NE2NbsZheId5L5u2r/DTRp5LyqqPDUy4CS6xlJzRNAB2AaThda00VNqqjUG3m+W6ROcMHsQznjL2x91pabgSoQeDnVDyFrFLPOsO7yFXui2vtwxoqBlsSHpBNrYqvm73nw6C/izkC82Lu8opM6IgWRgi5JO+LRSsnuvKjsbU+eoOCIre/9tO4vk2PbtbbbdVvvrZu/B8e+MC36SyA=;OBmsBGkYdNqqtFkIqMQiTA=="
 ---
 
