@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4582169-amd-ai-chip-boom"
 webUrl: "https://seekingalpha.com/article/4582169-amd-ai-chip-boom"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1536
     height: 864
     isCached: true
+
+related:
+  - title: "Two Books on Artificial Intelligence"
+    excerpt: "Two new books ably take up the challenge of explaining developments in artificial intelligence to lay audiences."
+    publishedDateTime: 2023-02-28T05:33:00Z
+    webUrl: "https://www.foreignaffairs.com/reviews/two-books-artificial-intelligence"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/issue_medium_2x/public/images/2023/02/22/Cover%20image_Four%20battlegrounds.jpg?itok=L2qMK--k"
+        width: 486
+        height: 694
+        isCached: true
 
 secured: "mw5BhVSaEosDomsZ16o/YGkKbnHD36C8DGGSHOy/bwrvzcO902mOuVDF86avDOkI7WaleKkGHXbj20dkHU8EbI7B/XMfAp/eVLv+EWt8EmriyJ4+VUipDEIGEZ02n2f0p2Tq04Niwi5SmnRv9WuTJbJL9JpvIPgJkoewQPcF31DJADSZ072QXVnkkc0V6v4HNwqm+XFwuzfQBOL/7XJG+wqj/xgxk7X6leBC3262Xv1hxVg0OKSbVvDQqx06Lb2n0b6MzhU/h7aTyXn1IxwnKcvNPHMRAUFLez2QCbGmWxP4wGpevA2iK3N7/Ms5N1YajQZXqBuNeG82RcsDJd655gbECIZPwAW2e+hchPyIOqb0vgN1iyBv2aoNpshcbHtI0nT7804g6krHGRA5ZWvH9XoiTCOiL8F7egDGg89H1UVlvz8j5Pfx62iErsFFjSB9R3eI1e8CDna4yK6PpVvTNmpa0ibxtMyi7qRlcdeUn/4gNv4KzvMbxl+EVrmwy6qER0Jx36v53WabZ885/w+6dw==;TH5npEs8m7Y+OjzShLtO6Q=="
 ---

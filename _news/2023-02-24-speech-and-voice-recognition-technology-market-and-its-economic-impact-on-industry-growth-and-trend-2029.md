@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Growing Demand for Image Recognition Market 2023 [New Report]: Revolutionizing the Manufacturing Landscape"
+    excerpt: "BrowseImage Recognition Detailed TOC 2023, Tables and Figures with Charts which is spread across 125 Pages that provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2023-02-28T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-growing-demand-for-image-recognition-market-2023-new-report-revolutionizing-the-manufacturing-landscape-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Rh2g/pgDCVSC95KswPtO9nRK469NMZP0VQ2MzZ1jSbls4fyjhNojVEH4iHLCXAHlPl8FUKLtkW1hOBErlBt1/ASvLid48HBfF/kGbUfO+B17phvgHJ46+BGcv8LFLNyFwD+l+E3VSA1O7tnD0lSDtcxYQ+uRRHl1bCpw6nDC9MLufH0OPprusl2CzCSy+rVHoSdVNxYXipD+PYw2/PgnGA2KEROUJPUgbAyO9kpHK7JZrqE17vHzAbFEuNxbHmrP9whGTBMHmLpSDn1nZ1yD/isK/pUzELMqbH12CHfrQiztT90pyLFDryiJv7+VL4Zu5npg3BfjIQt9YaYgZnLD2iscZWOSztLO1rLmj4c2m8w=;wWkSmWQ2uVX0w38cE4omDA=="
 ---

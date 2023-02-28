@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-survey-predicts-strong-growth-through-2029-with-top-growing-regions-2023-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -166,7 +166,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-global-research-report-2023---2028-2023-02-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 499,
+      "heat": 519,
       "tags": null,
       "images": [
         {
@@ -208,6 +208,49 @@
         "Facebook AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-ai-and-computer-vision-a-powerful-combination-for-growth-in-the-coming-years.md",
+      "title": "AI and Computer Vision: A Powerful Combination for Growth in the Coming Years",
+      "excerpt": "Chicago, Feb. 24, 2023 (GLOBE NEWSWIRE) -- The AI in Computer Vision Industry by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial), End-Use Industry (Security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g31046068/ai-and-computer-vision-a-powerful-combination-for-growth-in-the-coming-years",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g31046068/ai-and-computer-vision-a-powerful-combination-for-growth-in-the-coming-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31046068",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31046068",
+      "publishedDateTime": "2023-02-24T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1360,49 +1403,6 @@
       "provider": {
         "name": "cc.gatech.edu",
         "domain": "gatech.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-smartphone-vision-syndrome-hyderabad-woman-suffers-blindness-after-spending-hours-on-phone.md",
-      "title": "Smartphone vision syndrome: Hyderabad woman suffers blindness after spending hours on phone",
-      "excerpt": "Long-term use of devices such as computers, smartphones, or tablets can cause various eye-related disabling symptoms, referred to as computer vision syndrome (CVS) or digital vision syndrome ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html",
-      "originalUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/02/Collage-Maker-08-Feb-2023-01.34-PM-770x435.jpg",
-          "width": 770,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/smartphone-vision-syndrome-woman-suffers-blindness-after-spending-hours-on-phone-10030421.html/amp",
-      "publishedDateTime": "2023-02-08T00:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

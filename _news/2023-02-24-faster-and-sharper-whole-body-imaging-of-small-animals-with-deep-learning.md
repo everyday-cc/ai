@@ -48,15 +48,6 @@ related:
         width: 650
         height: 854
         isCached: true
-  - title: "Prospecting for Copper with Machine Learning and Zircons"
-    excerpt: "Using artificial intelligence, researchers can now identify zircons derived from valuable copper deposits. Get the most fascinating science news stories of the week in your inbox every Friday. Zircons are common,"
-    publishedDateTime: 2023-02-23T14:10:00Z
-    webUrl: "https://eos.org/research-spotlights/prospecting-for-copper-with-machine-learning-and-zircons"
-    type: article
-    provider:
-      name: Eos
-      domain: eos.org
-    quality: 19
 
 secured: "RttVKuQEAMz9jfny8B8rYBQN0cOdHSBU2uaNNcVMCHova44H+30D002QdByu9EEDipk60pR6K0iZcgukDyFjYIhxhKmQnIQlDnuz/4Rrkt7a2WFpElrdMw8YuDPwtBga/2liV4EqiDAfbTU7meBR38SztHSuToNoM2do28T1ScJFb3uBplmoqPccJ8Ql/jyTUyvyIOggVfH0n+c1/+On9xf8IUga4qXGo9f54o1ZS3Q4SPLop5JV+KY1b4FfoX6LMr3QP5xVMBV6RIDvCa4b4QQuDaws+to+4VN3f1j3u08avZXOSPiGUDGiI+iRILb7rR5iyvaUQXTh6oCuaEqmgkLVwuXCtAI4TojjzFSJeX8=;dd3NGvsP6hcPcSCUsgICuw=="
 ---

@@ -94,6 +94,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+  - title: "Face Recognition Device Market Size 2023 with Business Development, with Competitive Landscapes till 2028"
+    excerpt: "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future"
+    publishedDateTime: 2023-02-27T16:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Technology Market Size, Share, Outlook and Forecast to 2028"
     excerpt: "Feb 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Technology Market\" Research Report 2023 Provides a Basic overview of the Industry"
     publishedDateTime: 2023-02-24T00:57:00Z

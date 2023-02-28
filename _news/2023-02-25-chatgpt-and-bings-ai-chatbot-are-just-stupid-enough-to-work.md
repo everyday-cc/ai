@@ -352,17 +352,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 62
-  - title: "ChatGPT’s Biggest Competition: Here Are The Companies Working On Rival AI Chatbots"
-    excerpt: "The roaring success of ChatGPT, an artificial intelligence chatbot created by U.S. non-profit OpenAI, has sparked a frantic rush to get new AI products to market, a frenzy that is consuming tech’s biggest behemoths and countless startups as they fight ..."
-    publishedDateTime: 2023-02-23T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/"
-    ampWebUrl: "https://www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2023/02/23/chatgpts-biggest-competition-here-are-the-companies-working-on-rival-ai-chatbots/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
   - title: "Elon Musk recruits team to develop OpenAI's ChatGPT rival"
     excerpt: "Elon Musk has approached AI researchers in recent weeks about forming a new research lab to develop an alternative to OpenAI's ChatGPT, the Information reported on Monday, citing people with direct knowledge of the effort."
     publishedDateTime: 2023-02-28T04:06:00Z
@@ -488,6 +477,22 @@ related:
       - url: "https://i.insider.com/63f7fa454ca0e30019ba3f74?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Meta to Work on ChatGPT-Like Generative Artificial Intelligence, Will Explore AI Tools for WhatsApp, Instagram"
+    excerpt: "AI has emerged as a bright spot for investments in the tech industry, which has been struggling with slowing growth, and has cut thousands of jobs as well as dialed down on experimental bets to beat the downturn."
+    publishedDateTime: 2023-02-28T05:10:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/meta-chatgpt-generative-ai-development-whatsapp-instagram-mark-zuckerberg-artifical-intelligence-3820604"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/meta-chatgpt-generative-ai-development-whatsapp-instagram-mark-zuckerberg-artifical-intelligence-3820604/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/meta-chatgpt-generative-ai-development-whatsapp-instagram-mark-zuckerberg-artifical-intelligence-3820604/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 52
+    images:
+      - url: "https://i.gadgets360cdn.com/large/meta_logo_reuters_1654851801984.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "China’s ChatGPT Stance Could Mean New Challenges for AI Stocks"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) has been seen as the technology of the future"

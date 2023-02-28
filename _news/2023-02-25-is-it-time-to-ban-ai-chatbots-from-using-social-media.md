@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Get Ready to See More AI Chatbots on Facebook, Instagram"
-    excerpt: "Meta CEO Mark Zuckerberg is looking to capitalize on ChatGPT's popularity with a new product group focused on 'generative AI' for the company's apps and services."
-    publishedDateTime: 2023-02-27T22:45:00Z
-    webUrl: "https://www.pcmag.com/news/get-ready-to-see-more-ai-chatbots-on-facebook-instagram"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04hJf3Kd3R9NFigeXksEOcy-1.fit_lim.size_1200x630.v1677535536.png"
-        width: 1079
-        height: 630
-        isCached: true
   - title: "Leaked messages show Googlers are taking out their frustrations over layoffs on its new Bard AI chatbot"
     excerpt: "\"I'd tell you a joke about layoffs at Google, but I'm afraid I wouldn't have a job tomorrow,\" Bard said when asked to tell a joke about the layoffs."
     publishedDateTime: 2023-02-24T22:26:00Z
@@ -68,20 +54,6 @@ related:
       - url: "https://ummid.com/news/2023/february/25.02.2023/meta-language-model.jpg"
         width: 790
         height: 530
-        isCached: true
-  - title: "Facebook owner Meta to form AI product team as chatbot competition heats up"
-    excerpt: "The chatbot battle is heating up, and Mr Mark Zuckerberg is making it clear that Meta Platforms is focusing on artificial intelligence-powered tools too. “We are creating a new top-level product group at Meta focused on generative AI to turbocharge our work in this area,"
-    publishedDateTime: 2023-02-28T03:53:00Z
-    webUrl: "https://www.straitstimes.com/business/facebook-owner-meta-to-form-ai-product-team-as-chatbot-competition-heats-up"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 37
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/02/28/FILES-US-FACEBOOK-INTERNET-COMPUTERS-SANDBERG-203002_4.jpg?VersionId=XERuVRuH2GzwS813mxRp1.a0uRldSeIp"
-        width: 860
-        height: 573
         isCached: true
 
 secured: "LXtGwFtBqnvtKtUeSGiRTgHtWQo7SY1WncD0Gu7NPTMGXFQ9wkjpxoRx/mtFqqo3jQdvJrSTyeDn3KWRNLBElQTphKCRMtZ4M+YML62r4PgA+8CRhbNeWX2KtGC2WUKcISxZSBwoyOe3j73zO5yCRZJ+/qIrLwRiXMbnZnmugNq0VEDnpjJCCUvXJ4144zFtRExZ90rJTE8ol1ghk+8YH42LKRJUlczVW1oyZ1/FgbwAGwmDfDbgfYqZvLfz09t/pTd9cnrUH46h/fgKUsHJ8LhzzZLJRjQ+TQxiKTocPJ5cfxJo0xdEqhlEA/140ge8VZDfDuiPAtFz6HgOs+m098zCjHHdBlFv4oT50D/qhde5wsUvZSiWdj70prSq/LYksYDafTwKMV8dPX2eydm30FWmXq+Qt2jMqFZ9ry2avImVI5N5HN2VGz2tv9OCFvqpkhjPseJjHUvLQyB2fQeelHtkFvW2pxYNl3fSMmIej+JkKBxSFEfCGnXvjfSmQRsGhDBD/ELbSxYHXP3Prrtc7g==;IMkgSVkCvMrS27zOEf3Fvg=="

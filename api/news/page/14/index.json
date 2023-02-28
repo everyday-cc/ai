@@ -2,6 +2,125 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-02-12-googles-300m-ai-bet-startup-tackles-long-covid-and-giving-computers-a-sense-of-smell.md",
+      "title": "Google's $300M AI bet, startup tackles long Covid, and giving computers a 'sense of smell'",
+      "excerpt": "One major startup story you need to know As the world remains captivated by OpenAI's artificial intelligence tool ChatGPT, Google is making sure it doesn't fall too far behind in the AI race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/tampabay/inno/stories/news/2023/02/07/google-ai-inno-national-beat.html",
+      "originalUrl": "https://www.bizjournals.com/tampabay/inno/stories/news/2023/02/07/google-ai-inno-national-beat.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-12T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-12-kits-w-invents-driverless-automated-tractor.md",
+      "title": "KITS-W invents driverless automated tractor",
+      "excerpt": "HANAMKONDA: The Department of Computer Science and Engineering, Kakatiya Institute of Technology & Science, Warangal (KITS-W), has invented a driverless automated tractor for farmers. According to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/12/kits-w-invents-driverless-automated-tractor-2546692.html",
+      "originalUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/12/kits-w-invents-driverless-automated-tractor-2546692.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/2/12/w600X390/New_Project.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/states/telangana/2023/feb/12/kits-w-invents-driverless-automated-tractor-2546692.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2023/feb/12/kits-w-invents-driverless-automated-tractor-2546692.amp",
+      "publishedDateTime": "2023-02-12T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-12-ford-invests-in-argo-ai-a-new-artificial-intelligence-company-in-drive-for-autonomous-vehicle-leadership.md",
+      "title": "Ford invests in Argo AI, a new artificial intelligence company, in drive for autonomous vehicle leadership",
+      "excerpt": "“We are at an inflection point in using artificial intelligence in a wide range of applications, and the successful deployment of self-driving cars will fundamentally change how people and goods ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/ford-invests-argo-ai-new-artificial-intelligence-company-drive-autonomous-vehicle-leader",
+      "originalUrl": "https://www.albawaba.com/business/pr/ford-invests-argo-ai-new-artificial-intelligence-company-drive-autonomous-vehicle-leader",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/pr_new/Peter_Rander_Argo_AI_COO__Mark_Fields_Ford_president_and_CEO__Bryan_Salesky_Argo_AI_CEO__and_Raj_Nair_Ford_EVP.jpg?itok=SxB5EILv",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/ford-invests-argo-ai-new-artificial-intelligence-company-drive-autonomous-vehicle-leader",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ford-invests-argo-ai-new-artificial-intelligence-company-drive-autonomous-vehicle-leader",
+      "publishedDateTime": "2023-02-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-12-another-high-altitude-object-shot-down-over-northern-canada.md",
       "title": "Another high altitude object shot down over Northern Canada",
       "excerpt": "Ryder said the object did not appear to have propulsion ... A nearly 60-year wait for the highest level of recognition is nearly over for Col. Paris Davis, one of the first Black Green Berets ...",
@@ -1044,126 +1163,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-ai-robotics-venture-fair-from-carnegie-mellon-university-and-innovation-works-returns-for-2023.md",
-      "title": "AI Robotics Venture Fair from Carnegie Mellon University and Innovation Works returns for 2023",
-      "excerpt": "The annual AI Robotics Venture Fair from Carnegie Mellon University and Innovation Works Inc., the region's largest seed-stage startup investment firm, now has a set date for this year's event, which looks to offer funding opportunities to budding enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/02/10/ai-robotics-venture-fair-returns-cmu-iw.html",
-      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/02/10/ai-robotics-venture-fair-returns-cmu-iw.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T10:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-new-artificial-intelligence-being-used-to-plagiarize-upstate-professor-says.md",
-      "title": "New artificial intelligence being used to plagiarize, Upstate professor says",
-      "excerpt": "WHO COULD POSSIBLY SEE THAT SNOW FLYING AROUND? CHRIS, THANKS. NEW ARTIFICIAL INTELLIGENCE IS MAKING CHEATING EVEN EASIER, BUT MAKING IT HARDER TO DETECT, ACCORDING TO EXPERTS AND UPSTATE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wyff4.com/article/south-carolina-artificial-intelligence-plagiarism/42818119",
-      "originalUrl": "https://www.wyff4.com/article/south-carolina-artificial-intelligence-plagiarism/42818119",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/121c8786-db3e-449b-9f20-83aaa6f5cf3c/121c8786-db3e-449b-9f20-83aaa6f5cf3c_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wyff4.com/amp/article/south-carolina-artificial-intelligence-plagiarism/42818119",
-      "cdnAmpWebUrl": "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/south-carolina-artificial-intelligence-plagiarism/42818119",
-      "publishedDateTime": "2023-02-10T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WYFF",
-        "domain": "wyff4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-understanding-and-debugging-deep-learning-models-exploring-ai-interpretability-methods.md",
-      "title": "Understanding and Debugging Deep Learning Models: Exploring AI Interpretability Methods",
-      "excerpt": "Subscribe for free. Deep learning models can be very complex and understanding their internals can be challenging There are several methods of providing interpretability in machine learning To ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/deep-learning-models-ai-interpretability-methods/",
-      "originalUrl": "https://www.infoq.com/articles/deep-learning-models-ai-interpretability-methods/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/deep-learning-models-ai-interpretability-methods/en/headerimage/generatedHeaderImage-1675867673135.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

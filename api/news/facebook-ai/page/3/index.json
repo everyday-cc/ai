@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-01-20-federated-learning-ai-model-could-lead-to-healthcare-breakthrough.md",
+      "title": "Federated learning AI model could lead to healthcare breakthrough",
+      "excerpt": "AI biotech vendor Owkin has revealed just how powerful the federated model can be for healthcare, including breast cancer treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
+      "originalUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-ai-model-could-lead-to-healthcare-breakthrough/amp/",
+      "publishedDateTime": "2023-01-19T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-teachers-are-adapting-to-concerns-about-a-powerful-new-ai-tool.md",
       "title": "Teachers are adapting to concerns about a powerful new AI tool",
       "excerpt": "When Kristen Asplin heard about a powerful new AI chatbot tool called ChatGPT going viral online recently with its ability to write frighteningly good essays in seconds, she worried about",
@@ -1351,51 +1405,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-02-pytorch-machine-learning-framework-compromised-with-malicious-dependency.md",
-      "title": "PyTorch Machine Learning Framework Compromised with Malicious Dependency",
-      "excerpt": "PyTorch, a well-known machine learning framework, fell victim to a supply chain attack between Dec. 25 and Dec. 30, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
-      "originalUrl": "https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEifiFY4TB4xInGZvI7gizGIvPBUZbr9Egk3zV-NefK97gEBfE_67-u41jrPzOlaz7iS94W4hu0BamT55Wb3QxIoK69F_mYwYhM9fVaNVFrzMt0csy-wjD7fDViYLZCBN8-BP1zKl_7pqUNJbEXYYRdKYgJWc6DSJVTeQ2EFLN5rh6KuBwY-h29g2_0R/s728-rj-e3650/python.png",
-          "width": 728,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
-      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
-      "publishedDateTime": "2023-01-02T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hacker News",
-        "domain": "thehackernews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

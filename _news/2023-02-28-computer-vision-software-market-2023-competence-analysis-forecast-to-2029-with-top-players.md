@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Services Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Cognitive Services Market\" Report provides a Detailed analysis of global market size, regional and country-level"
+    publishedDateTime: 2023-02-28T01:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
     excerpt: "Feb 24, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Medical Market\" Report covers specified competitive outlook consisting of the"
     publishedDateTime: 2023-02-25T01:46:00Z
@@ -164,6 +178,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+  - title: "Enterprise Artificial Intelligence Market 2023 Huge Demand, Growth Opportunities and Expansion by 2029"
+    excerpt: "Enterprise Artificial Intelligence Market Size 2023-2029 | New Report (113 Pages) | Information Technology | In"
+    publishedDateTime: 2023-02-27T16:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-2023-huge-demand-growth-opportunities-and-expansion-by-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Legal Tech Artificial Intelligence Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2028"
     excerpt: "Feb 24, 2023 (The Expresswire) -- \"Legal Tech Artificial Intelligence Market\" Report covers specified competitive outlook consisting of the market"
     publishedDateTime: 2023-02-24T23:41:00Z

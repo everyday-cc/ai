@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Future-ready: Australian army tests mind-controlled combat AI robodogs"
-    excerpt: "The Australian military is reportedly testing a unique artificial intelligence (AI) \"brain robotic interface\" to control \"robodogs\" synced with troopers' minds."
-    publishedDateTime: 2023-02-23T14:47:00Z
-    webUrl: "https://interestingengineering.com/innovation/mind-controlled-combat-ai-robodogs"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 19
   - title: "Leading Australian social justice bodies unite to back Indigenous voice to parliament referendum"
     excerpt: "Allies for Uluru to act as ‘conduit’ for organisations to support yes campaign, and include Fred Hollows Foundation and Oxfam"
     publishedDateTime: 2023-02-27T13:00:00Z

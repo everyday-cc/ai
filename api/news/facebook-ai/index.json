@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-28-new-meta-team-to-turbocharge-ai-for-whatsapp-instagram.md",
+      "title": "New Meta Team to 'Turbocharge' AI for WhatsApp, Instagram",
+      "excerpt": "Meta is centralizing its artificial intelligence work to boost products and add \"creative\" tools, CEO Mark Zuckerberg says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/social-media/new-meta-team-to-turbocharge-ai-for-whatsapp-instagram/",
+      "originalUrl": "https://www.cnet.com/news/social-media/new-meta-team-to-turbocharge-ai-for-whatsapp-instagram/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/a6bed624e36db5c134a8e94abddb1f20b91ab1c1/hub/2019/02/28/38e55267-ea0d-4e3d-bd39-56e6fab0c220/20160222-facebook-ceo-mark-zuckerberg-01.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-meta-team-to-turbocharge-ai-for-whatsapp-instagram/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-meta-team-to-turbocharge-ai-for-whatsapp-instagram/",
+      "publishedDateTime": "2023-02-27T12:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat.md",
       "title": "OpenAI has grand ‘plans’ for AGI. Here’s another way to read its manifesto | The AI Beat",
       "excerpt": "In this week's AI Beat, senior writer Sharon Goldman suggests an alternate reading of OpenAI's prophecy (oops, 'plan') for AGI and beyond.",
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-global-research-report-2023---2028-2023-02-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 499,
+      "heat": 519,
       "tags": null,
       "images": [
         {
@@ -1419,49 +1471,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-google-unveils-conversational-ai-service-bard.md",
-      "title": "Google Unveils Conversational AI Service Bard",
-      "excerpt": "Tech major Google, owned by Alphabet Inc., has unveiled a new chatbot tool called Bard. The experimental conversational artificial",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/google-unveils-conversational-ai-service-bard-1032073920",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/google-unveils-conversational-ai-service-bard-1032073920",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

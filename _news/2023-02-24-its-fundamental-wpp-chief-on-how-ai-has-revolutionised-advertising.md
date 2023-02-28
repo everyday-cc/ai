@@ -23,6 +23,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "How Boman.ai is revolutionising DevSecOps, the game-changing tool for effortless secure software development"
+    excerpt: "Sumeru Solutions has developed a revolutionary plug-and-protect DevSecOps tool powered by AI/ML called Boman.ai. It can help you achieve DevSecOps in record time."
+    publishedDateTime: 2023-02-28T06:03:00Z
+    webUrl: "https://yourstory.com/2023/02/bomanai-revolutionising-secure-software-development-tool-devsecops"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 20
+    images:
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagebzg4-1677476865577.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+
 secured: "X8PD8kCRabapZPYePe0c+rrqN1CltntDCW+XVuYyutLOFsSriFpDOD4gjGq2kCHGRhbaNzDYrDrsx661Q+22l9P2elZqxc/izEi51Uq064NCu+HVVOOBf6W/8cdb3mjEyshOg0O6M0uI0hJYX7szB7AYDUiCFVl3sEmuWymTw33crv6R9FHYeSwGoQc5L1xWqZdJgiZ8gcwslmSv0UCWEcKTRBt/fZXVEzJn5i9iOx1z4ghR0JS90O5+LoWx6UNUSqZKgL7o784JNNm+4KR3uuDzgFi+AzIMOzoiP9nmLQn6Ivx6ZoxMbK6YHUJCxa/12zk0qgMIW64X0ZE9BcL8yzUj240asYlS5wmGPeYkIoL0+sin/Lo4ttqGUfPysBWbcxvj3lpbGJbe0weinahWaWdZKvwONQssrn1Jr+cGOeUTiwC51Atok6VPvmJUAalwhx9YyGmhDpy05ytGX8uEJ5XZn/fSUGDPq93Ht5hM7OQ31VI98zcRzScDICQNhVGyVASfkUBFEkYEbxY3A5aRSg==;r/iofcbKmlDV2qX7HyMczA=="
 ---
 

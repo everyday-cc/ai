@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-24-google-photos-ai-powered-magic-eraser-is-now-a-google-one-subscription-perk.md",
+      "title": "Google Photos’ AI-powered ‘Magic Eraser’ is now a Google One subscription perk",
+      "excerpt": "But it won’t be free. Today, Google announced that the popular tool, which uses AI to remove unwanted content from images, will become available to Google One subscribers in addition to existing Pixel owners. Google One subscribers will receive a small ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/23/google-photos-ai-powered-magic-eraser-is-now-a-google-one-subscription-perk/",
+      "originalUrl": "https://techcrunch.com/2023/02/23/google-photos-ai-powered-magic-eraser-is-now-a-google-one-subscription-perk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-887454024.jpg?resize=1200,797",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/23/google-photos-ai-powered-magic-eraser-is-now-a-google-one-subscription-perk/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/23/google-photos-ai-powered-magic-eraser-is-now-a-google-one-subscription-perk/amp/",
+      "publishedDateTime": "2023-02-23T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise.md",
+      "title": "IBM’s Cloud AI Supercomputer Vela Builds AI Foundation Models For Enterprise",
+      "excerpt": "The recent publicity around ChatGPT and other large language models (LLM) has brought attention to the use of foundation models as a fundamental business tool. IBM Research developed its own AI supercomputer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/amp/",
+      "publishedDateTime": "2023-02-23T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-nvidia-stock-rises-after-slight-beat-driven-by-ai-chips.md",
+      "title": "Nvidia stock rises after slight beat driven by A.I. chips",
+      "excerpt": "Data center revenue, which includes AI chips, rose 11% on an annual basis to $3.62 billion. In this article Nvidia stock rose more than 8% in extended trading Wednesday after the company reported ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107121389-16636908112022-09-20t154548z_456040631_rc23lw99akst_rtrmadp_0_nvidia-gaming.jpeg?v=1677103157",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
+      "publishedDateTime": "2023-02-23T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-23-the-case-for-software-criticism.md",
       "title": "The Case for Software Criticism",
       "excerpt": "Software may be the defining cultural artifact of our time. So why isn’t there a culture of critical analysis around it?",
@@ -1079,152 +1225,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-image-recognition-in-retail-market-size-2023-growth-statistics-industry-demand-top-players-data-share-upcoming-trends-forecast-2031.md",
-      "title": "Image Recognition in Retail Market Size 2023 Growth Statistics, Industry Demand, Top Players Data, Share, Upcoming Trends, Forecast 2031",
-      "excerpt": "Image recognition is the process of analyzing an input image and predicting its category. The implementation of Image recognition in the retail stores improves in store execution and brand visibility and benefits the retail stores by increasing sales growth,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-growth-statistics-industry-demand-top-players-data-share-upcoming-trends-forecast-2031-2023-02-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-growth-statistics-industry-demand-top-players-data-share-upcoming-trends-forecast-2031-2023-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T22:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-computer-vision-in-artificial-intelligence-ai-market-next-big-thing-forecast-2023-2029.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market Next Big Thing Forecast 2023-2029",
-      "excerpt": "Computer Vision in Artificial Intelligence (AI) Market 2023 with 128 Pages Report and enhance with extents shares",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-next-big-thing-forecast-2023-2029-2023-02-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-next-big-thing-forecast-2023-2029-2023-02-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 320,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T16:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-how-to-invest-in-ai-startups.md",
-      "title": "How To Invest in AI Startups",
-      "excerpt": "Every now and then, an industry pops up that is so transformative, it literally changes the way society functions forever. In much the same way there was a world before electricity and after it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/money/how-to-invest-in-ai-startups",
-      "originalUrl": "https://www.benzinga.com/money/how-to-invest-in-ai-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnwp-s3.benzinga.com/wp-content/uploads/2021/12/01175321/zblw0fg8xu8-768x598.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

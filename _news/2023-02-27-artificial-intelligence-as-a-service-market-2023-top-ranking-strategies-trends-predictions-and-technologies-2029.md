@@ -59,6 +59,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "The Latest Artificial Intelligence Software Market 2023-2029: Thinking From The Worldwide Experts | New Comprehensive Research Study by 118 Pages"
+    excerpt: "Artificial Intelligence Software Market“ | New Research Visions Report 2023 with Page of no. (118), By Applications"
+    publishedDateTime: 2023-02-28T02:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-latest-artificial-intelligence-software-market-2023-2029-thinking-from-the-worldwide-experts-new-comprehensive-research-study-by-118-pages-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3i2J08AkUaE8ScV/8xK2YFEfzXUKuqXBGQzZUWWkpdQFdPjc+arLKCE+dXcuUq4bGJtfB1LMxgtQJ5sl+5+n7grWvoYcEdzgYjE9IsNuQEcC0u5KX9hbFZ+2liq7xTrGZ8Y0GnnQEFbtwVOPdffk29ZQV2Yc63xPz8qNmhbpdssf0F+qwP21J0LTn6+ujN7P77cbxBvF+WAuf56HPILf5/iMSZiez0BgPxC7hL57M3yWrZWHIRfOlLUqG9SO4c8d8pos4+tlJ/omD/HnQ7HLY7hHwVGgCcPqWXGLYsZFuukV0jO2kEcMoO+VNgQbqRCEcHf5ciCXofvdezpD6Ho3JeosqurrfWjcSpe8y8AXttU=;jnPFU9+DyZfwywdPYohjCQ=="
 ---

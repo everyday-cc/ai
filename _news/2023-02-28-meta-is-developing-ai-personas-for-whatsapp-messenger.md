@@ -37,11 +37,39 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://www.cnet.com/a/img/resize/a6bed624e36db5c134a8e94abddb1f20b91ab1c1/hub/2019/02/28/38e55267-ea0d-4e3d-bd39-56e6fab0c220/20160222-facebook-ceo-mark-zuckerberg-01.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Get Ready to See More AI Chatbots on Facebook, Instagram"
+    excerpt: "Meta CEO Mark Zuckerberg is looking to capitalize on ChatGPT's popularity with a new product group focused on 'generative AI' for the company's apps and services."
+    publishedDateTime: 2023-02-27T22:45:00Z
+    webUrl: "https://www.pcmag.com/news/get-ready-to-see-more-ai-chatbots-on-facebook-instagram"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04hJf3Kd3R9NFigeXksEOcy-1.fit_lim.size_1200x630.v1677535536.png"
+        width: 1079
+        height: 630
+        isCached: true
+  - title: "Facebook owner Meta to form AI product team as chatbot competition heats up"
+    excerpt: "The chatbot battle is heating up, and Mr Mark Zuckerberg is making it clear that Meta Platforms is focusing on artificial intelligence-powered tools too. “We are creating a new top-level product group at Meta focused on generative AI to turbocharge our work in this area,"
+    publishedDateTime: 2023-02-28T03:53:00Z
+    webUrl: "https://www.straitstimes.com/business/facebook-owner-meta-to-form-ai-product-team-as-chatbot-competition-heats-up"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/02/28/FILES-US-FACEBOOK-INTERNET-COMPUTERS-SANDBERG-203002_4.jpg?VersionId=XERuVRuH2GzwS813mxRp1.a0uRldSeIp"
+        width: 860
+        height: 573
         isCached: true
 
 secured: "PRRSQBf97a/9EU3O4NjQosxlZwcOX+HhoAT5+i5vFHFat+0bfT9regRjoue9VgRzQ4YbdjDsKi9iWqQe8+CLZF9lhWXGzJNKa0k0LQdKrkkDKKIVQeJIVjiOhFiF+8nZB5GyC3qT5V/q2vYui7v6Mns/N5IdtMDS3zrSHw+1R5BOXeL2gFV1gEUEAhHUOpXhVwl49LBC7JDQthu1LpX9ioOHS2kkDZ4HU+sEy3mgklyWSCs1auzyxr2H4P2x6vE1tY921tQ6E2evy7W5iozm4maq6yh5efJat8ESrm8DcCtdnInIX/S51pX0iJibMMSDQO+3hjUq88DyU7bnqK97kniWPGL6QqoguroSLG9d8GQ=;paXRT9Iz9NF2r1xqBqrXWA=="

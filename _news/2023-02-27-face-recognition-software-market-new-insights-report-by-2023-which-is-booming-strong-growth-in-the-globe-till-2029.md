@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Growing Demand for Image Recognition Market 2023 [New Report]: Revolutionizing the Manufacturing Landscape"
+    excerpt: "BrowseImage Recognition Detailed TOC 2023, Tables and Figures with Charts which is spread across 125 Pages that provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2023-02-28T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-growing-demand-for-image-recognition-market-2023-new-report-revolutionizing-the-manufacturing-landscape-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Technology Market and its Economic Impact on Industry : Growth And Trend 2029"
     excerpt: "Additionally, the report includes information on Speech and Voice Recognition Technology Market size, recent trends, growth, share, development status, market dynamics, cost structure, and competitive landscape."
     publishedDateTime: 2023-02-24T04:40:00Z

@@ -2,6 +2,144 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2022-12-15-presto-voice-brings-custom-voices-to-enhance-automated-drive-thru-guest-experience.md",
+      "title": "Presto Voice Brings Custom Voices to Enhance Automated Drive-Thru Guest Experience",
+      "excerpt": "Presto Automation Inc. (Nasdaq: PRST), a leader in restaurant technology, announced today the introduction of a custom voice feature in its Presto Voice TM drive-thru automation solution. This highly innovative feature,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/presto-voice-brings-custom-voices-to-enhance-automated-drive-thru-guest-experience/article_5b7f2a6d-580c-57c6-bde7-5856c5f9e234.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/presto-voice-brings-custom-voices-to-enhance-automated-drive-thru-guest-experience/article_5b7f2a6d-580c-57c6-bde7-5856c5f9e234.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-15T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech.md",
+      "title": "Werner CIO Looks to Outfit Company Trucks With AI-Enabled Tech",
+      "excerpt": "The Omaha, Neb.-based company plans to install dashboard cameras with artificial-intelligence capabilities from Samsara in its fleet of 8,500 trucks",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
+      "originalUrl": "https://www.wsj.com/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-685993/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/werner-cio-looks-to-outfit-company-trucks-with-ai-enabled-tech-11671071051",
+      "publishedDateTime": "2022-12-15T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-the-self-driving-era-is-here-the-question-is-what-comes-next.md",
+      "title": "The self-driving era is here, the question is what comes next",
+      "excerpt": "TORONTO - The self-driving era is here ... s not how this is going to work,” said Raquel Urtasun, a leading artificial intelligence researcher and chief executive of Toronto-based autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html",
+      "originalUrl": "https://www.thestar.com/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/business/2022/12/24/take-the-stars-annual-quiz-how-much-do-you-remember-about-the-year-in-business/_1_main.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2022/12/15/the-self-driving-era-is-here-the-question-is-what-comes-next.html",
+      "publishedDateTime": "2022-12-15T01:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-15-portal-rtx-player-finds-rtx-4090-gpu-in-game.md",
       "title": "Portal RTX Player Finds RTX 4090 GPU In-Game",
       "excerpt": "Someone discovers the RTX version of Portal contains Nvidia's most powerful new-gen GPU, no doubt an Easter egg planted by team green itself. It looks as though Nvidia has placed an Easter egg in ...",
@@ -956,143 +1094,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-encharge-ai-emerges-from-stealth-with-217m-to-develop-ai-accelerator-hardware.md",
-      "title": "EnCharge AI emerges from stealth with $21.7M to develop AI accelerator hardware",
-      "excerpt": "Axelera and GigaSpaces are both developing in-memory hardware to accelerate AI workloads. NeuroBlade last October raised $83 million for its in-memory inference chip for data centers and edge devices.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/",
-      "originalUrl": "https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-85757679.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/14/encharge-ai-emerges-from-stealth-with-21-7m-to-develop-ai-accelerator-hardware/amp/",
-      "publishedDateTime": "2022-12-14T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-ai-diagnostics-startup-altris-ai-raises-1-million-to-prevent-blindness.md",
-      "title": "AI-Diagnostics Startup Altris AI Raises $1 Million To Prevent Blindness",
-      "excerpt": "Altris AI, which is a US-based startup originally from Ukraine, is building solutions for the $58 billion global ophthalmology market. Joint Journey, Pharmaceutical Company Farmak, Artesian ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/g30075260/ai-diagnostics-startup-altris-ai-raises-1-million-to-prevent-blindness",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/g30075260/ai-diagnostics-startup-altris-ai-raises-1-million-to-prevent-blindness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30075260",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30075260",
-      "publishedDateTime": "2022-12-14T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-avra-medical-robotics-inc-otc-avmr-provides-update-on-merger.md",
-      "title": "AVRA Medical Robotics, Inc. (OTC: AVMR) PROVIDES UPDATE ON MERGER",
-      "excerpt": "AVRA Medical Robotics, Inc. (\"AVRA\" or \"the Company\") (OTC:AVMR), a medical robotics software and artificial intelligence company announced that it is continuing to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/g30076650/avra-medical-robotics-inc-otc-avmr-provides-update-on-merger",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/g30076650/avra-medical-robotics-inc-otc-avmr-provides-update-on-merger",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30076650",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30076650",
-      "publishedDateTime": "2022-12-14T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

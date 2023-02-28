@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the field of Al computer vision."
-publishedDateTime: 2023-02-27T17:57:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
-webUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
+excerpt: "The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is expected to grow at a CAGR of 21.5% from 2023 to 2028 according to a new report by MarketsandMarkets™."
+publishedDateTime: 2023-02-27T18:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
 type: article
-quality: 23
+quality: 21
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 related:
   - title: "Computer Vision in Artificial Intelligence (AI) Market Size Global Research Report, 2023 - 2028"
@@ -76,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market Growth Research Forecast 2023-2028 | 113 Pages Report"
+    excerpt: "The Report on “Artificial Intelligence (AI) in Healthcare Market” Research 2023-2028 covers all the essential aspects"
+    publishedDateTime: 2023-02-27T16:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growth-research-forecast-2023-2028-113-pages-report-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automated Machine Learning (AutoML) Market Research Report-Forecast 2023 to 2029"
     excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “ Automated Machine Learning (AutoML) Market ” Size 2023 Key players Profiled in the Report are [,"
     publishedDateTime: 2023-02-27T15:29:00Z
@@ -103,22 +116,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global AI in Education Market Size & Analysis"
-    excerpt: "According to a recently revamped/updated market research report published by Global Market Estimates, the Global AI in Education Market is projected to grow from"
-    publishedDateTime: 2023-02-23T13:31:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/g31028837/global-ai-in-education-market-size-analysis"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31028837"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31028837"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 76
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Artificial Intelligence (AI) in Education Market In 2023 : Volume, Analysis, Future Prediction, Overview and Forecast 2028"
     excerpt: "Feb 24, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Education Market\" Report covers specified competitive outlook consisting of the"
@@ -180,6 +177,20 @@ related:
     excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “ Artificial Intelligence (AI) Chips Market ” Size 2023 Key players Profiled in the Report are [,"
     publishedDateTime: 2023-02-27T15:51:00Z
     webUrl: "https://www.marketwatch.com/press-release/2029-forecast-artificial-intelligence-ai-chips-market-by-growth-rate-data-analytics-sparked-innovation-with-top-players-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI (Artificial Intelligence) Image Recognition Market is booming in near Future 2023-2028"
+    excerpt: "Image Recognition Market? AI (Artificial Intelligence) Image Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
+    publishedDateTime: 2023-02-28T01:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-is-booming-in-near-future-2023-2028-2023-02-27"
     type: article
     provider:
       name: MarketWatch
@@ -483,6 +494,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Rise of AI-based Surgical Robots Market Report 2023-2029 Highlighting Growing Demand and Future Opportunities with 99 Pages of Research Analysis"
+    excerpt: "AI-based Surgical Robots Market 2023: | 99 Pages Report Worldwide Industry Trends, Size, Development, Opportunity,"
+    publishedDateTime: 2023-02-28T02:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-rise-of-ai-based-surgical-robots-market-report-2023-2029-highlighting-growing-demand-and-future-opportunities-with-99-pages-of-research-analysis-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market Share Growth 2023 All-Inclusive Research Growth Opportunities by 2027"
     excerpt: "The \"Artificial Intelligence in Drug Discovery Market\" Growth for 2023 research report provides a comprehensive analysis"
     publishedDateTime: 2023-02-24T05:19:00Z
@@ -572,6 +597,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "Qas7vR+K85lv/RVJha9hrZgtCajVQPObwDm/D+0Ob8ELRfiV7Z83rf20NKKCpCLBfQHMdhmi289ADIWAxd/qmtqRbOchXVKJ1Fl/hFiem50J6zNLJSZn23XutXW5o9aJ0kyJqk/Zu81Xp5WaSr+7CT1Su0PsxevyTMtyZhABazRzwrqimnPHWLWM5KV6llOMVnmxc42NzmkuqN6/iw0V7Pp1HmNKLhTZsuwWbnKTPJi0Ak8kHUFeGRzI9bn4cG2ThMZU1+iahhK11ELjJ38j8z4iWt04KGpidvo899nOqgwXWfdaajzgswAC86Y4c4ljSy8qKdSBOfuOC2XSL4Wo6nHQjN6qUWiwm3zi+L5XGsqZx4zja8ikSIAw4NsFWrerOfEIFpJZK5eMOX3Daw1zajts2anj1CY219FPrhHYazUK36F2fF4+1VFui4aBgnK8/Y+Dr9EF34fecaekITvIlLBhFtUhaqeQGInHOpC942PIM0SxA/QB5tU71lU9EHSyElW5omhYKSYIfTkOv6RcLQ==;hCeqSsR0eoPnXCBBLjBmnA=="
+secured: "BnBoSC3afAO/Gr4BG2eW5Kr8lbriEkPo2btXLzWqDiHXMBYPS08Ahk5TQT+BflQ+BHthZLeJF04Q+XMKc3tNaJaHCOnRcoktUD841jSY1Kd/36beB96NdGSmfahvaZp7hKsm0V4i4i8fUDvUDPMayvgAXzLb/j9eQf0k36ESHDQlr0YQ8p0DX55LzimHIDcmk2MAl5bn2sOj9fP5IEP0hGwIi8B6EGzUk1TVCGDZoT0PNGFRJx1tPSFYyYnPjDsaT/y2U8b92lmBYPoboVlhCKc/90B+fSzXGUup6ElPvT/ogRx5wJxpLu33conkpp1qNKJLbcjpspstljQUMBEISli6WroEz8qip9JBDnCiviOfbrgvC2+8Yso/aNfBofrijtr00JYvbNZEFw/gIcjGSbdmtyui4g6gPnKDKBPh0xcztbnUep271vPhubTKj0fXcxIKQ5d2DVJfpbjqxU6cEE/06ZXiOaRa+op3DlafnB1ssb5BKOLcEdIP4Ek7FZVKhLhGTIxXs3YcZkW1mFfb+Q==;da6zXUA4MWRTqE+t7hI12w=="
 ---
 

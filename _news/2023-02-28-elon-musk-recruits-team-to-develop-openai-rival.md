@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/world/elon-musk-recruits-team-to-d
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: moneycontrol.com
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk Assembling Team to Develop ChatGPT Rival, Held Talks With Former DeepMind AI Researcher: Report"
+    excerpt: "Tesla and Twitter chief Musk has been recruiting Igor Babuschkin, a researcher who recently left Alphabet's DeepMind AI unit, the report said."
+    publishedDateTime: 2023-02-28T04:43:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/elon-musk-chatgpt-ai-chatbot-rival-artificial-intelligence-new-research-lab-igor-babuschkin-3820521"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/elon-musk-chatgpt-ai-chatbot-rival-artificial-intelligence-new-research-lab-igor-babuschkin-3820521/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/elon-musk-chatgpt-ai-chatbot-rival-artificial-intelligence-new-research-lab-igor-babuschkin-3820521/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 57
+    images:
+      - url: "https://i.gadgets360cdn.com/large/openai_chatgpt_plus_subscription_unsplash_1675279843231.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Elon Musk is hiring ex-Google staffer to develop ChatGPT rival: Report"
+    excerpt: "Tesla and Twitter chief Musk has been recruiting Igor Babuschkin, a researcher who recently left Alphabet's (GOOGL.O) DeepMind AI unit, the report said."
+    publishedDateTime: 2023-02-28T06:06:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/chatgpt-elon-musk-openai-google-alphabet-10171421.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/chatgpt-elon-musk-openai-google-alphabet-10171421.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/chatgpt-elon-musk-openai-google-alphabet-10171421.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/02/Collage-Maker-28-Feb-2023-11.28-AM-770x435.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Elon Musk now feels Artificial Intelligence existential anxiety"
     excerpt: "Tech billionaire Elon Musk said that he still prefers to be alive to witness artificial intelligence (AI), even if he was feeling a bit of AI existential angst."
     publishedDateTime: 2023-02-27T11:45:00Z
@@ -37,6 +69,6 @@ related:
       domain: iol.co.za
     quality: 17
 
-secured: "lIDfg9jw2PWZB8mD/sU8IukxwOSGo+jHRBMHUdhRsYtmTjleLiJ1IHyYNmsz1KfRXZL32cvV5XLHwbWNIRYQXFBIDUl+d/X3g4hHWPMjRe6keLaeYy0opwaKvDvLubh+dd0PQy0SO8tBxmQHfYw4wtvlHBEBMJQfoL0O2Y7pGOIr6FNnBAFGmbDBlHtbTPKe78dapZcUpeDW9ta/nGEz1hYxk8romtWrXZoGTyQsi6MdXkyIFsZbbaAn0hIuKokEH3SKgYHRz2hpFhRKXnnA0EF8LaYPVGFRG4esiN2sV7YR0CkfrOSmkSv9JuIFzJuWuoa5s7iAjSfdiJML8AWN4R4LFDC/5Td6Y04wKCjGeUY=;ItNLRz3V4pjuMsmizDHKhw=="
+secured: "gkoF4xf6w6WsmOsB3qrdwzZgypwYXIY8FNH+9W9QCa3sPT3za35J0eMfAirQzQiQRj7wlFF+UaDGzElDP7qdbpHg5qbcvtUnEf9/yHiusRBVVwFgFmQHxQz/O5E9sv4grLq2VICmJtAEgOPSeJOr541TNN6RgfqtL8DcAo0UFE1xbCrSB8ZsPWfQIqxJfBjxddaOuQLX42s8dYT51CnJgZKTCMrlOttBpBdITYD/stKgJ8hpwOFI9+PdcAvtRLGOHogDNrySD8hf8EHBPPC/FfhW0j2i6fRgy+8AkXtq0XOhAYsjL6NZZ51Sjpnuko8ICKBNQOjpd7R+i/DpBBqRkmuTW32SUFKpSbdrpQhfVBaniSSYM9KLi20aA751w1pdvLaRoFNcizDxJWl6B8PIJtxPif4MpZIM2hbve0/ZmPTg0j5jJlfg4wF4eFtQ4TBrs3ydAHephPPBOZFr3M/r4zjajEBeCUkXoKcqbCcBKpd7QlXE7rseowRwdwuomx8MmNFM4kCoAgwre2HD6vB6xw==;8tjmpw9iQmpXBxMcSiIT2Q=="
 ---
 

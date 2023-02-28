@@ -80,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+  - title: "Face Recognition Device Market Size 2023 with Business Development, with Competitive Landscapes till 2028"
+    excerpt: "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future"
+    publishedDateTime: 2023-02-27T16:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning in CT Scanners Market Size 2023 With Regional Scope, Report Coverage, Historic Data, Outlook 2029"
     excerpt: "Deep Learning in CT Scanners Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
     publishedDateTime: 2023-02-27T03:56:00Z
