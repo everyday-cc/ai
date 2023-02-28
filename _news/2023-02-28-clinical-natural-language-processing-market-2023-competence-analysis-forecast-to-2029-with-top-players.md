@@ -269,6 +269,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Truck Technology Market 2023 : Players, Countries, Type and Application, Regional Forecast to 2028"
+    excerpt: "What is the projected market size and growth rate of the Self-Driving Truck Technology Market? Self-Driving Truck Technology Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023,"
+    publishedDateTime: 2023-02-27T09:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-2023-players-countries-type-and-application-regional-forecast-to-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Neural Networks Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2029"
     excerpt: "The global Artificial Neural Networks market size is projected to reach multi million by 2029, in comparison to 2023, with unexpected CAGR during the forecast period, the Artificial Neural Networks Market Report Contains113pages Including Full TOC,"
     publishedDateTime: 2023-02-24T03:40:00Z

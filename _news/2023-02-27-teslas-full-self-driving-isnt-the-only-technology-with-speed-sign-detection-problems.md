@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 136
 published: true
 
 provider:
@@ -60,6 +60,34 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla’s Full Self-Driving hits another road bump after massive EV recall"
+    excerpt: "The recall request was made by the National Highway Traffic Safety Administration (NHTSA) in the US due to safety concerns. The recall impacts over 363,000 vehicles with FSD installed in the US and Canada."
+    publishedDateTime: 2023-02-28T00:20:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/startupsmart-technology/teslas-full-self-driving-massive-ev-recall/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 38
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/02/tesla-fans-schweiz-2swaWy4Xhb0-unsplash-1.jpg"
+        width: 1466
+        height: 710
+        isCached: true
+  - title: "Tesla Has Totally Paused New Installations of \"Full Self-Driving\" After Safety Concerns"
+    excerpt: "Tesla is pausing installations of its controversial \"Full Self-Driving\" software after federal regulators called it a \"crash risk.\""
+    publishedDateTime: 2023-02-27T21:30:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-fsd-installation-pause"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 31
+    images:
+      - url: "https://wp-assets.futurism.com/2023/02/tespause.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ecU5OCbxVNktE6nYow1E5KL/rMf359LFeoe1b8IP2GrqvXuoZOSjViUDZw0L+MCLPTzfbq8ZB7zaa77F3IyhSdPiWXtnSwK4YVY6jRVLAbYTR2iFdQHZMSn0Gn+VADKob010MdYHyka7o7dqkymbyAMn+tU6R09zVEagYevHMH+K8e1Cg1Q+/Aq46MSE9IqXgqhqsqUqipU2cMy6ihP5r7MP2nUnDbgzMy81TPqFnTkQCIuRrePnigHkOWfzk2loVdUAjVxWKestXVLhvZCl/qooWxT/gAVENxAgkL5MzIok4u7x/XG2O6FRv8VmX7wCq3esLb8+x4tAu4UrNwabKgxQtSwYVS2hyEf6zDEm2v2guNbg5HLFW5zFTRpU37PFfgJRQMnbLHps0UJHZffCBICayu5KiR7R51y6SPKZAEXs5xJ9/dDJXT5I5bk65c5Dp6fFZlr+i//XAgYKadQCDqfH5hYRmCjtHx8lGcomm/mPbYeDZD7UggDFRsto4XCcHfdG97+/XQf1KabeNq9c1g==;mUgX8DFRqCnros66EB5zuw=="

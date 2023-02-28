@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/meta-launch-ai-language-model-l
 webUrl: "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/"
 type: article
 quality: 69
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -117,6 +117,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/6381677267118/2023/1/1696bd9d3de6be4a6ca08ac770e4d116/v1.5/Meta-announces-new-AI-language-model.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Meta Heats Up the AI Race With Their State-Of-The-Art Foundation Language Model LLaMA"
+    excerpt: "Meta AI has entered the AI race dominated by large language models (LLMs) such as OpenAI’s ChatGPT, Microsoft’s GPT-powered Bing, and Google’s Bard. Meta CEO Mark Zuckerberg posted the news in a Facebook post: “Today we’re releasing a new state-of-the-art AI large language model called LLaMA designed to help researchers advance their"
+    publishedDateTime: 2023-02-27T23:49:00Z
+    webUrl: "https://syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/"
+    ampWebUrl: "https://syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 52
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
         isCached: true
   - title: "Meta introduces its own AI tool, LLaMA"
     excerpt: "Meta said \"there is still more research that needs to be done to address the risks of bias, toxic comments, .. \""

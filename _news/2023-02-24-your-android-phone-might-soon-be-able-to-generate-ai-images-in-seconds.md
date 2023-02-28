@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Viral “Photographer” Reveals His Images Were AI-Generated"
+    excerpt: "On average, it took Avery about 85 generated images (~21 prompts, as one prompt yields four images) to find one that was usable and worth editing. “It takes an enormous amount of effort to take AI-generated elements and create something that looks like it was taken by a human photographer,"
+    publishedDateTime: 2023-02-27T21:26:00Z
+    webUrl: "https://hyperallergic.com/803915/viral-photographer-reveals-his-images-were-ai-generated/"
+    type: article
+    provider:
+      name: Hyperallergic
+      domain: hyperallergic.com
+    quality: 39
+    images:
+      - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2023/02/ai-g.jpg"
+        width: 1200
+        height: 768
+        isCached: true
 
 secured: "ie+KaIAK0Sc0OXbepAJ7MY4uKhNQI8PHt3G0ohnoo8YtCe8FLjf08bX0JpeUg4BP9Nt5hFdAyrM0IWwVCnCDYIXfpNOyH3OPNWG6AYIcdvDD2iRDs0xqdjTaB09x3lTuf5D6InjbfHB6wXrNBgRrK6FZGapCXZWB8P8PfX2EaKQEC2mpUHXbyKlZXTuh4TveTfh+72gRBTRLJaGPC7LhQR53azseh+iJHR3Znk0XCl3PFm2Xivv/H0MnQJYE0BxZ1RJoFEwxIe2SJkaaSjoJTlxmXTWOYs4iIdOmgexOOrWH1zo/jpWHYL27Ku8ag03T8OoKs9kV685Qi+QrXFfIQ64+dv9bhSGmB0e8pLQ9bUxsLmLYRLV1ZHgZKWmFjxp3sWP2Zb5jYz7nlLKybjiADjMNx0NQa8onZpLtV2EknYMnYPDIITeiMOQspMeotA8y/hTv71v5mLAa8NIDE8A0K9OteqViuBJWJlKIq6Q1/Bog8+LEKzLml55lXUswQO5rTYMevzHdjS/MMR/XDfH8Kg==;g5S7uWUTJasX0BZGmh7ZFg=="
 ---

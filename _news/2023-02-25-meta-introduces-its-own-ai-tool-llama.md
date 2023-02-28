@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Meta Heats Up the AI Race With Their State-Of-The-Art Foundation Language Model LLaMA"
+    excerpt: "Meta AI has entered the AI race dominated by large language models (LLMs) such as OpenAI’s ChatGPT, Microsoft’s GPT-powered Bing, and Google’s Bard. Meta CEO Mark Zuckerberg posted the news in a Facebook post: “Today we’re releasing a new state-of-the-art AI large language model called LLaMA designed to help researchers advance their"
+    publishedDateTime: 2023-02-27T23:49:00Z
+    webUrl: "https://syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/"
+    ampWebUrl: "https://syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 52
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
   - title: "Meta reveals LLaMA language model as AI wars heat up"
     excerpt: "Meet LLaMA, Meta’s large language model On Facebook’s AI blog, Meta describes LLaMA as a “foundational ... “Even with all the recent advancements in large language models, full research access to them remains limited because of the resources ..."
     publishedDateTime: 2023-02-24T18:50:00Z

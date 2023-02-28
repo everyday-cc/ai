@@ -61,6 +61,34 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla’s Full Self-Driving hits another road bump after massive EV recall"
+    excerpt: "The recall request was made by the National Highway Traffic Safety Administration (NHTSA) in the US due to safety concerns. The recall impacts over 363,000 vehicles with FSD installed in the US and Canada."
+    publishedDateTime: 2023-02-28T00:20:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/startupsmart-technology/teslas-full-self-driving-massive-ev-recall/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 38
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/02/tesla-fans-schweiz-2swaWy4Xhb0-unsplash-1.jpg"
+        width: 1466
+        height: 710
+        isCached: true
+  - title: "Tesla Has Totally Paused New Installations of \"Full Self-Driving\" After Safety Concerns"
+    excerpt: "Tesla is pausing installations of its controversial \"Full Self-Driving\" software after federal regulators called it a \"crash risk.\""
+    publishedDateTime: 2023-02-27T21:30:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-fsd-installation-pause"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 31
+    images:
+      - url: "https://wp-assets.futurism.com/2023/02/tespause.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "goxrzoei48gi3/WPkyHDt6PFV4wAIGwytmzo7BtIlkDExisgJl7TX3foLOflx1DbFrVu2LBp/hqYbaeg9oNFtYU+6hDeRMCXUkrCVg0Yw0JJg1wDsbXLvfmLenjcWCMTl74HcmL5ygNkPsrgdkTE9mrHqkkLb48z1moh9T2LViJ88y2zULP68UKSbSTYu+tEM4sxlG97g5sPyUJAH6ui4r6ljU9z62Gs3PcQoNYbC7UPmzngRonwEyKioklz+sEMkjDDytxKeect9Op8A6xNv4VxW0X49y3z7XBpaQ6+F+IUHA3bip5vPktdlZ+pRRPXhBqtpFfQNmF3dQF+y2TfIfdQS96sXjPu1e4Ycdj0GnhdsHo+1Jfkt3ld9Ikm2Q8L5gMhJYumia5olE99DVnHnuKwAf+IOrQT4g4oQ7npAfM33JvpO7bG1seKv+PjeK7VpJMvBPa4y8LPAiSfRLsHeTeojAn8G3jtRJbGQNHvS77lqCvbmmnDEb9lWsZToh+4hW7PAXokTfA2J5iCfr/y9g==;kaRHF4myhsufrNQ05uUvNg=="
 ---

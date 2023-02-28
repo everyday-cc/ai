@@ -220,17 +220,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Chinese apps remove ChatGPT as global AI race heats up"
-    excerpt: "Two other apps, ChatgptAiAi and Chat AI Conversation, said their ChatGPT services went offline due to “relevant business changes” and policy changes. Though it’s unclear what prompted these closures, there are other signs China may be souring on ChatGPT."
-    publishedDateTime: 2023-02-23T08:41:00Z
-    webUrl: "https://www.cnn.com/2023/02/23/tech/china-apps-remove-chatgpt-ai-race-intl-hnk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/23/tech/china-apps-remove-chatgpt-ai-race-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/23/tech/china-apps-remove-chatgpt-ai-race-intl-hnk/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 67
   - title: "The Unexpected Winners Of The ChatGPT Generative AI Revolution"
     excerpt: "In fact, my first paper on generative chemistry, was published in 2016, first granted patent in 2018, and the first AI-generated drug went through the first phase of clinical trials. OpenAI’s GPT-3 platform was launched in June, and released to the ..."
     publishedDateTime: 2023-02-23T23:13:00Z
@@ -267,6 +256,20 @@ related:
     quality: 67
     images:
       - url: "https://images.wsj.net/im-732096/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Facebook Parent, Snap Embrace AI Technology That Powers ChatGPT Chatbot"
+    excerpt: "Meta Platforms Inc. and Snap Inc. are embracing the much talked-about artificial-intelligence technology popularized by OpenAI’s viral ChatGPT chatbot."
+    publishedDateTime: 2023-02-27T22:48:00Z
+    webUrl: "https://www.wsj.com/articles/meta-ai-instagram-whatsapp-snap-chatbot-fa21774e"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-732550/social"
         width: 1280
         height: 640
         isCached: true
@@ -391,6 +394,22 @@ related:
         width: 712
         height: 400
         isCached: true
+  - title: "Hollywood’s onto artificial intelligence’s new shtick ChatGPT"
+    excerpt: "Even unreal Hollywood’s onto artificial intelligence’s new shtick ChatGPT. On late-night TV, “The Morning Show’s” Jimmy Kimmel demonstrated ChatGPT writing a script on command without droning on how the stuff beats what pros dish out."
+    publishedDateTime: 2023-02-27T23:43:00Z
+    webUrl: "https://nypost.com/2023/02/27/hollywoods-onto-artificial-intelligences-new-shtick-chatgpt/"
+    ampWebUrl: "https://nypost.com/2023/02/27/hollywoods-onto-artificial-intelligences-new-shtick-chatgpt/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/27/hollywoods-onto-artificial-intelligences-new-shtick-chatgpt/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/02/NYPICHPDPICT000007057194-e1677537779321.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Snapchat is launching its own ChatGPT bot called My AI"
     excerpt: "Snapchat is launching its own chatbot powered by OpenAI's ChatGPT called My AI that'll be available to Snapchat Plus subscribers to start with plans to roll it out to all Snapchat users in the future."
     publishedDateTime: 2023-02-27T18:25:00Z
@@ -406,6 +425,22 @@ related:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/02/27/snapchat-launching-chatgpt-bot-my-ai-news_feature.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Snapchat launches \"My AI,\" its own ChatGPT-powered chatbot"
+    excerpt: "Popular social media app Snapchat on Monday launched its own chatbot called \"My AI,\" using the latest version of OpenAI's rapidly growing generative text tool, ChatGPT. My AI is a custom chatbot that for now is only available to Snapchat+ users,"
+    publishedDateTime: 2023-02-27T22:13:00Z
+    webUrl: "https://www.cbsnews.com/news/snapchat-chatgpt-my-ai-openai-chatbot/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/snapchat-chatgpt-my-ai-openai-chatbot/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/snapchat-chatgpt-my-ai-openai-chatbot/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 57
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/27/3796b085-8fa6-4c8e-ba66-b157d965ae83/thumbnail/1200x630/76139d640e393ffb1ea53256f519a324/gettyimages-1247536766.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Gary Vaynerchuk compares the rise of AI like ChatGPT to the way the internet revolutionized work: 'AI is coming for our jobs and that's ok'"
     excerpt: "Vaynerchuk, an early investor in companies like Facebook and Uber ... many workers are finding that they can use AI tools to enhance their productivity at work: it's useful for research, analyzing large amounts of data, and scheduling tasks, for instance."

@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-07-study-links-ultra-processed-foods-to-dementia-and-cognitive-decline.md",
+      "title": "Study links ultra-processed foods to dementia and cognitive decline",
+      "excerpt": "Ultra-processed foods might go easy on a person's taste buds and wallet, but a new study now suggests they are linked to dementia and cognitive decline. The study, titled \"Association Between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/news/study-links-ultra-processed-foods-to-dementia-and-cognitive-decline",
+      "originalUrl": "https://www.washingtonexaminer.com/news/study-links-ultra-processed-foods-to-dementia-and-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/05f6b89/2147483647/strip/true/crop/2290x1202+0+79/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F89%2Fb3%2Fa4f148c84b9f9ea2a5f97d18530e%2Fmcdonalds-cop.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T22:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-microsoft-announces-future-ready-champions-of-code-program-to-empower-indias-developer-community.md",
+      "title": "Microsoft Announces Future Ready Champions Of Code Program To Empower India's Developer Community",
+      "excerpt": "Microsoft today announced the launch of Future Ready Champions of Code, a pan India program for developers, focused o",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community",
+      "originalUrl": "https://menafn.com/1105276380/Microsoft-Announces-Future-Ready-Champions-Of-Code-Program-To-Empower-Indias-Developer-Community",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-12/06/F_b9964image_story.jpg",
+          "width": 600,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T19:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-hearing-aids-slow-cognitive-decline-but-reasons-why-still-a-mystery.md",
       "title": "Hearing aids slow cognitive decline, but reasons why still a mystery",
       "excerpt": "The findings raise the curious suggestion that using hearing restoration devices could somehow slow the progression of cognitive decline. For about a decade researchers have been uncovering ...",

@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/ai-generated-stock-images-of-climate-change-18
 webUrl: "https://gizmodo.com/ai-generated-stock-images-of-climate-change-1850155713"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 49
+  - title: "Viral “Photographer” Reveals His Images Were AI-Generated"
+    excerpt: "On average, it took Avery about 85 generated images (~21 prompts, as one prompt yields four images) to find one that was usable and worth editing. “It takes an enormous amount of effort to take AI-generated elements and create something that looks like it was taken by a human photographer,"
+    publishedDateTime: 2023-02-27T21:26:00Z
+    webUrl: "https://hyperallergic.com/803915/viral-photographer-reveals-his-images-were-ai-generated/"
+    type: article
+    provider:
+      name: Hyperallergic
+      domain: hyperallergic.com
+    quality: 39
+    images:
+      - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2023/02/ai-g.jpg"
+        width: 1200
+        height: 768
+        isCached: true
 
 secured: "lcGr1CC0fybymmvPm2TUa4kT/mObPcXh8SbroVo6REOBnsVzsVPadtoVOOPV4QZGaQneGoafNjP0NJuvtTMBn8DB5uCJaXtCXt3SjfW6wPAGdybbtf9WynwsAvahNUSmyyW4sxX+fmmhcVBHPLLBdgbg0quf4ZTNlGNv6eUH+vxIJPgBVY8drst1lDKoUYlK85cjOukUyHktDMpSAaw+v3ChTJA8e+rbIu/Boy8z8Zlr8zBJWusV/hWjwfPG6plkVsaNt5nTyxS+zC7bP9W12IBZIFOc6SJsnjpRjHpn5CpanwuPzSok/1bwAJRuHao3dGmihMa7fsalHYjbUXSNQjK/KHXf+bXeoTq/ji7q/CQ=;T0eRXBIquWgbsgfMOV600g=="
 ---

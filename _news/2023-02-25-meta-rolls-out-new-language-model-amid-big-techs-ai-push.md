@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Meta Heats Up the AI Race With Their State-Of-The-Art Foundation Language Model LLaMA"
+    excerpt: "Meta AI has entered the AI race dominated by large language models (LLMs) such as OpenAI’s ChatGPT, Microsoft’s GPT-powered Bing, and Google’s Bard. Meta CEO Mark Zuckerberg posted the news in a Facebook post: “Today we’re releasing a new state-of-the-art AI large language model called LLaMA designed to help researchers advance their"
+    publishedDateTime: 2023-02-27T23:49:00Z
+    webUrl: "https://syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/"
+    ampWebUrl: "https://syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 52
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
   - title: "Meta introduces its own AI tool, LLaMA"
     excerpt: "Meta said \"there is still more research that needs to be done to address the risks of bias, toxic comments, .. \""
     publishedDateTime: 2023-02-25T06:29:00Z
@@ -207,6 +223,6 @@ related:
       domain: beckershospitalreview.com
     quality: 19
 
-secured: "dfuVnXcqQ6SbwCViWi1yHGci2zD7zKn+f/oXuLfPaO34hfWoW9cdcNAOqBHfLYa0c/hsg6TEgiODhAKBoVTEJ179moh7pvQjLmibSD/ajEpC9lXX07NKWiDMpHnbstBbPcm78dnEpHGXyZklCVnsOzWWsr27msQb4Kzrv02YaKWmuQoGPKrmKufvkFASVlmcS+a+q7wgG8gA1EtSYuC6U7PX2NZkUdti1V7XEyG6ySwK8V1eKCX1+WMojX9s/m65e/LjcjowgifAdsb0graLj2KrmWGQ3C2BtUHCIS92wYKTp0wlDt9gU/NMiLR08V441xTNaAAFA5m1RXeJ0LEb41fu6Qtsm5ATK+fLhH1mP9I=;CqhZ2zQGoJwsbZHd9mj3mQ=="
+secured: "2k+6U+gTf6GxDETqmG2N7X+4OK8+cGuTbwuezRyuC3v3/DFal8cSGGcAlqRHzllB3gOCqYbQ/3YNioYmaDaxNL0Muhl6Gr0hLLbIt6qD+WJlFw4F8qfzyVHojxx7zYswpQl9CS3chnfTvRqhsRus3pmn4BaQJlSIEzworbQZhGPxjZqDpVn5K0x0yYr7fCHQyXCdTnitCNQ9FmsePiWdIyJeHsYaL9TJTUXZbXRY4VAoEgAtPBZoxdp318UbE92PJpICzqWxuExpPB03ERYCH2H7/kkFrGJzAGYzDZJH5TispBxJrkd8GKt/K+pTggtOchw/4Hu+UUYuFMk7/k2uj+uG18cKgriMuL5J3Rt0L3Aajzp1VUti9arbxWcTMJJuh/iEwIDwdkazWZf4nKCSTAtDSCOwjuJz97xF9G90Eo5mfbwJcEfxb9q6iKkYVvITfEvxao/hk1YVJDG94peGTD5KS9jZRqziYFw5OZs+FOaR8+kzFAa3FxacMBxYdy3Fo07Tifj87Q2rC5mIKu+seQ==;wtlbluvxPeLHZ2EEmfeSyQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-machine-learning-market-size-share-outlook-and-forecast-to-2028-2023-02-26"
 type: article
 quality: 73
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Chip Market Size to Reach at Extensive Growth by 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Deep learning chip is an artificial intelligence (AI) device that enables a machine to learn the given tasks and perform them without being explicitly programmed. These chips ..."
-    publishedDateTime: 2023-02-23T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-to-reach-at-extensive-growth-by-2023-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
   - title: "Deep Learning Software Market to Grow Significantly by Leading Players 2023 to 2028"
     excerpt: "Feb 26, 2023 (The Expresswire) -- \"Deep Learning Software Market\" Research Report 2023 Provides a Basic overview of the Industry including"
     publishedDateTime: 2023-02-27T01:08:00Z

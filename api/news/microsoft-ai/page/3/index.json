@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-08-video-game-playing-causes-no-harm-to-young-childrens-cognitive-abilities-study-finds.md",
+      "title": "Video game playing causes no harm to young children's cognitive abilities, study finds",
+      "excerpt": "The team looked for association between the students' video game play and their performance on the standardized Cognitive Ability Test 7, known as CogAT, which evaluates verbal, quantitative and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/02/230207191554.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/02/230207191554.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T20:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-08-microsofts-cloud-business-a-key-pillar-of-the-clubs-investment-case-stands-to-gain-from-the-ai-craze.md",
+      "title": "Microsoft's cloud business, a key pillar of the Club's investment case, stands to gain from the AI craze",
+      "excerpt": "Microsoft (MSFT) CEO Satya Nadella said Tuesday that the technology giant's profitable cloud-computing division, Azure, will help it monetize its burgeoning artificial intelligence (AI) capabilities. While we maintain a healthy skepticism around the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/07/microsofts-cloud-business-stands-to-gain-from-the-ai-craze.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/07/microsofts-cloud-business-stands-to-gain-from-the-ai-craze.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107179799-1674054065249-107179799-1673990952874-gettyimages-1244789692-SKOREA_MICROSOFT.jpg?v=1675811778&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T19:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-ai-designed-chips-reach-scale-with-first-100-commercial-tape-outs-using-synopsys-technology.md",
       "title": "AI-designed chips reach scale with first 100 commercial tape-outs using Synopsys technology",
       "excerpt": "Synopsys, Inc. reaches scale for AI-driven chip designs as major semiconductor customers register the first 100 commercial tape-outs with the company's Synopsys DSO.ai (Design Space Optimization AI) autonomous design system. Recent customers, including ...",
@@ -1154,75 +1249,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-law-firms-developing-gpt-35-tools-for-now-they-may-be-few-and-far-between.md",
-      "title": "Law Firms Developing GPT-3.5 Tools? For Now, They May Be Few and Far Between",
-      "excerpt": "While legal tech providers are steadily releasing tools leveraging GPT-3.5, even innovative law firms who regularly develop legal tech may have a challenging time following suit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2023/02/06/law-firms-developing-gpt-3-5-tools-for-now-they-may-be-few-and-far-between/",
-      "originalUrl": "https://www.law.com/legaltechnews/2023/02/06/law-firms-developing-gpt-3-5-tools-for-now-they-may-be-few-and-far-between/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth.md",
-      "title": "Q4 2022 cloud results: Amazon, Microsoft, & Google earnings show slowing growth",
-      "excerpt": "Amazon, Google, and Microsoft all posted double-digit growth in their cloud divisions, but at a lower rate than prior years of breakneck growth. In its fourth-quarter earnings report, Amazon Web Services (AWS) said that it brought in $21.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

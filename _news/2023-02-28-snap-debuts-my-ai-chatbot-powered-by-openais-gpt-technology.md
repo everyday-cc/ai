@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-
 webUrl: "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-ai-chatbot-powered-by-openai-s-gpt-technology"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 686
     isCached: true
+
+related:
+  - title: "First domestic chatbot MOSS to be made open source"
+    excerpt: "An open-source software is released under a license in which the copyright holder grants users the rights to use, study, change and distribute the software and its source code. Named after the artificial intelligence-based computer that controls the space station in the popular Chinese sci-fi film The Wandering Earth II,"
+    publishedDateTime: 2023-02-27T23:34:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202302/28/WS63fd392fa31057c47ebb1211.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202302/28/63fd392ea31057c4b4b5dd8b.jpeg"
+        width: 684
+        height: 456
+        isCached: true
 
 secured: "H8aZZ2ypf7yscZuAPm05PSOOgS9jHZUEzwEkNwWM5H1usSKvu8+2k8vJX+tyk6VgKS9cPYqkHvccaYMrpbTup3WlJAeg+/PNOSU5e4gspw3kwu1XZc6Jis+fj8zYMbQhZf8/oKuklvhmtuQFmDOxA9tbdcRRKao+AiAotIAokQ7uJUZEnpmKyoJlXrCxcnH8Y5qpgKrwul27gA9C5gERazg/rxgwKBh2L3pwALW7M7cv0EaU/MvCKuivVu9kgEWOP3wW1P1MGP/27E6g/Tdu3cQbnbBwb34sdYMecmTle+aAURKp4wn4K7ize2M8oRndWuJVWIR/af9C05yBF2Z/8O/BLaTKE2vF7uvPe8LEls96x6w3z6O7BTouCtRCUrNdcU0klRt99rTJlT6q1iM8IiMYjrI8KQ40U1PdqJMaaBUFHRjbwXMlhQiYSjp0xirjKwRO6iWk4HYdDYsuwyb7n/mxciBz0DeTb+cbptcYXqYqYvP+BuQAewcoP0wChX9uf+FLqhJJRrgJ58uT5e65yw==;vIzdkHwGD/KPhQ93epUSPQ=="
 ---

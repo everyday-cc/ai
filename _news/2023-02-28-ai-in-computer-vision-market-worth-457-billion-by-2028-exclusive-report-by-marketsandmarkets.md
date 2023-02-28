@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-excerpt: "The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is expected to grow at a CAGR of 21.5% from 2023 to 2028 according to a new report by MarketsandMarkets™."
-publishedDateTime: 2023-02-27T18:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
+excerpt: "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the field of Al computer vision."
+publishedDateTime: 2023-02-27T17:57:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
+webUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
 type: article
-quality: 21
+quality: 23
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 related:
   - title: "Computer Vision in Artificial Intelligence (AI) Market Size Global Research Report, 2023 - 2028"
@@ -468,15 +469,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Fintech Market 2023: Global Production, Value, Supply or Demand 2026 Forecasts"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Market Analysis and Insights:Global Artificial Intelligence (AI) in Fintech Market As FinTech applies data and technology to financial services in an effort to address ..."
-    publishedDateTime: 2023-02-23T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-fintech-market-2023-global-production-value-supply-or-demand-2026-forecasts-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
   - title: "Global Artificial Intelligence in the Telecommunication Market 2023: Global Production, Value, Supply or Demand 2026 Forecasts"
     excerpt: "Global Artificial Intelligence in the Telecommunication Market 2023 New Updated Research Report is spread across 99 pages and provides Size, Share, Growth, and Forecast with exclu"
     publishedDateTime: 2023-02-24T04:16:00Z
@@ -538,6 +530,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "5xfJRbvt70z89mqO44pD83Gn3jXZENO0sV4wh6/TG3XCUGvTZsPp6Id+iA6jVPBFvnlzP2ToyFq9k7bSNE2UWCHJPQBjJiNtB6kvCWodwaK/QfAyfBLkXRov6ne+U+74Gl1rotmCkj0ZLoLFqqJQeN4FJ9klheM9zLwFACAwG/BGdCH2CzdbBYcykag1Alg6t/9IW7OEyGTPp+WU15YgglusU1U8tiicOAv0XwxPuoiJibIn84dUXoOwQWNv6cYgu0wOsxOPrSIJyNaVcjUEzswv3+XEJVxWrtAUU3OgkzrXXzUh/hHz4XQ/66nIXJYUjJw/dwMpCUN3cD4H0slFdNYlaCqfXA5D6VFkLEC/TE4vDtY1rI44FlJ6x+OfiP2DFRRpx1tE+IemSqn9yj9gnh2OhEX+apgtwVR5dgbeyosHmv4GnRJDBQWFuNvYQPdN7dAYVePbaCdtT9WTWtM2cIKT1wZydB3IfW5qMSupRYNW57KoCDNjeSWto9Jik1mOPxX4+pP3J4TaW1QoK0vBPQ==;RkDV/9QnMKlipmzn31XeyQ=="
+secured: "UrU8eLPFC8UZt4c6SUl76pSZw/1pUnqaNGvzRJR9IOMlA7I6wW1c8aKmGP1l9j16tK5kxSEZEqNfK+x3F1EVWSsBHkhDE728mo0oaIJEr/3dgcYbNH7sdph4EtBAH2DgPRVOWazlcbe+Ztc4i6aN3QJiYPOQR8p+A9GRbx07sQr6qjjwyuEYlkw/a+8ybbenkaeYegKYm+DqRfEuUcGW9mH6PQt42WGb7L2e3eHMV9gRL0KTSNTA6t/2WmDy8157qq1HZXwHhFVJmoTe3gx83CVXo5fX//ih3U9Y3GfCE6fXsFy/XWslZW+xJikvPL4qx3p0r/ywHNNkPaUEueBXWAxOt+fwhAbP+KHwZK+n9734/A/Q1/vhhw/GML24LWWTxUMT4mm2sN8I/0HagaNhZtHBFb7j8fDJHiiA7zr1unjX6GoXx9KDqr4QGNREL3CY8GvO2wNNkGXOmpI9VpqW0q2wBD7k8FFxmSZeZ5FgG4VeWb6LNXa9DLdsT0lsT4Ud8y4AyhzLGe5KFu0HxLL6Vg==;ZTjQkMHTnztAMIRKhidEXA=="
 ---
 

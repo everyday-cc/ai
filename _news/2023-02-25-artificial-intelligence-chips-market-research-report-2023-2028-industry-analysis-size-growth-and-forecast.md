@@ -473,15 +473,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Fintech Market 2023: Global Production, Value, Supply or Demand 2026 Forecasts"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Market Analysis and Insights:Global Artificial Intelligence (AI) in Fintech Market As FinTech applies data and technology to financial services in an effort to address ..."
-    publishedDateTime: 2023-02-23T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-fintech-market-2023-global-production-value-supply-or-demand-2026-forecasts-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
   - title: "Global Artificial Intelligence in the Telecommunication Market 2023: Global Production, Value, Supply or Demand 2026 Forecasts"
     excerpt: "Global Artificial Intelligence in the Telecommunication Market 2023 New Updated Research Report is spread across 99 pages and provides Size, Share, Growth, and Forecast with exclu"
     publishedDateTime: 2023-02-24T04:16:00Z
@@ -520,14 +511,14 @@ related:
       domain: marketwatch.com
     quality: 23
   - title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is expected to grow at a CAGR of 21.5% from 2023 to 2028 according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-02-27T18:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
+    excerpt: "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the field of Al computer vision."
+    publishedDateTime: 2023-02-27T17:57:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 21
+    quality: 23
   - title: "Global Human Capital Management (HCM) Market Report 2022: Integration of AI and Machine Learning Drives Growth"
     excerpt: "Market Outlook 2031\" report has been added to ResearchAndMarkets.com's offering. The global human capital management market is likely to grow at a CAGR of 10.53% over the forecast period i.e. 2022-2031."
     publishedDateTime: 2023-02-27T20:19:00Z

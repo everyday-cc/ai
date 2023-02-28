@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2029-2023-02-25"
 type: article
 quality: 78
-heat: 298
+heat: 308
 published: true
 
 provider:
@@ -256,6 +256,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Truck Technology Market 2023 : Players, Countries, Type and Application, Regional Forecast to 2028"
+    excerpt: "What is the projected market size and growth rate of the Self-Driving Truck Technology Market? Self-Driving Truck Technology Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023,"
+    publishedDateTime: 2023-02-27T09:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-2023-players-countries-type-and-application-regional-forecast-to-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
