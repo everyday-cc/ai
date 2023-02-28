@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T12:01:00Z
 originalUrl: "https://www.lawfareblog.com/how-much-can-speech-or-debate-clause-protect-mike-pence"
 webUrl: "https://www.lawfareblog.com/how-much-can-speech-or-debate-clause-protect-mike-pence"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Lawfare

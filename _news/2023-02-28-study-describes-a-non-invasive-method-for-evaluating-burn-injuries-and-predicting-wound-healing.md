@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T14:30:00Z
 originalUrl: "https://medicaldialogues.in/dermatology/news/study-describes-a-non-invasive-method-for-evaluating-burn-injuries-and-predicting-wound-healing-107399"
 webUrl: "https://medicaldialogues.in/dermatology/news/study-describes-a-non-invasive-method-for-evaluating-burn-injuries-and-predicting-wound-healing-107399"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily

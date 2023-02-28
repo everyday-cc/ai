@@ -126,20 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Technology Market Size, Share, Outlook and Forecast to 2028"
-    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Technology Market\" Research Report 2023 Provides a Basic overview of the Industry"
-    publishedDateTime: 2023-02-24T00:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-share-outlook-and-forecast-to-2028-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data Science and Machine Learning Service Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
     excerpt: "Data Science and Machine Learning Service Market ” Size 2023 Top Key players Profiled in the Report are (Banking, Insurance, Retail, Media and Entertainment,) most important, influential, or successful companies,"
     publishedDateTime: 2023-02-27T04:28:00Z

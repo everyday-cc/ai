@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-02-prospecting-copper-machine-zircons.amp
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-prospecting-copper-machine-zircons.amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Faster and sharper whole-body imaging of small animals with deep learning"
-    excerpt: "A research team presents technology that enhances photoacoustic computed tomography using a deep-learning approach."
-    publishedDateTime: 2023-02-24T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/02/230224135103.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 48
   - title: "Faster and sharper whole-body imaging of small animals using deep learning"
     excerpt: "More information: Seongwook Choi et al, Deep Learning Enhances Multiparametric Dynamic Volumetric Photoacoustic Computed Tomography In Vivo (DL‐PACT), Advanced Science (2022). DOI: 10.1002/advs."
     publishedDateTime: 2023-02-24T14:37:00Z

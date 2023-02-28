@@ -71,15 +71,22 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Leading In The AI-Powered World"
-    excerpt: "According to a report, the global AI market share was $119.78 billion USD in 2022. By 2030, it is expected to hit $1,597.1 billion USD, registering an impressive CAGR of 38.1%. From industries like healthcare, technology, manufacturing, fintech ..."
-    publishedDateTime: 2023-02-24T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/02/24/leading-in-the-ai-powered-world/"
+  - title: "Vestigo Ventures Invests in Knowbl Enterprise-Ready Conversational AI Platform"
+    excerpt: "Brand, Compliant Content, Negating \"TMI\" Risks and Frustrations Common in ChatGPT While the buzz around ChatGPT is considerable, Vestigo Ventures, an early-stage fintech venture capital firm"
+    publishedDateTime: 2023-02-28T14:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/02/b31093587/vestigo-ventures-invests-in-knowbl-enterprise-ready-conversational-ai-platform"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31093587"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31093587"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "ALDI Nord and Trigo Win RETA Award in Best AI & Robotics Application Category"
     excerpt: "The award was presented by EHI Retail Institute and recognizes outstanding technology solutions in retail. The jury commended ALDI Nord and Trigo for reinventing the discount model with future technologies in its latest store concept ALDI Shop & Go,"
     publishedDateTime: 2023-02-28T11:57:00Z

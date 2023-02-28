@@ -114,6 +114,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Habytat announces AI-powered pets for its social metaverse"
+    excerpt: "Habytat plans to launch AI-powered pets onto its social metaverse platform this year. Users can vote on the types of pets."
+    publishedDateTime: 2023-02-28T13:31:00Z
+    webUrl: "https://venturebeat.com/games/habytat-announces-ai-powered-pets-for-its-social-metaverse/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "qplA+V7liw8nziuXbxGIcGaQrXln/pgBksWsK+eaMmJo6SGkdrUoVUeMKTRQmLKkIfqI98Cuup4yeYQ1oz18Pa+n3K9/Os7pVGwojT0ioFBIrrP5Lcc3irMIrVew48wQUW7bSMLzYePmDvZ0A91xDqIkVfWtTJ4TqReXvfEc4f9nZYZjAFkikNFZpXZVnxhJQb5rnAgrLaut6XIHH55mZSJoyIKpRcSMK+BrTKR5vvFLSyJhMsaZtKzNT6zClbQiYFqgdnFrBNLiyHupXw2BizyQl5kdkIimZOhzm8EDBi4W5M0H79SiVqWFXMi2czg4ezYICK1XHRJs1lShMWPb+luGqtNiSjnBwJe+Cz/LWvR+cwtos6gh8d2/MSfY1HYXY1DdENR7z4m3/votNEyqn6JjK1K6YWZmQZEmgp1guTG99QpVpsci4IpHS+vtC6YuXhJm+HdK+L0M/NZL64TdQygCxgO0aJ0Qf3GFjsnUtyROmj5wPmI3sIAMh7D/BWqWdcEZoyHYrtnYPbmpdbcycA==;kQtsiwbYnSpp8I9naOjddg=="
 ---

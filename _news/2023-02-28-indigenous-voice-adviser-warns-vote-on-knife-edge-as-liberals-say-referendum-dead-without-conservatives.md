@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T13:00:00Z
 originalUrl: "https://www.theguardian.com/australia-news/2023/feb/28/indigenous-voice-adviser-warns-vote-on-knife-edge-as-liberals-say-referendum-dead-without-conservatives"
 webUrl: "https://www.theguardian.com/australia-news/2023/feb/28/indigenous-voice-adviser-warns-vote-on-knife-edge-as-liberals-say-referendum-dead-without-conservatives"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Guardian

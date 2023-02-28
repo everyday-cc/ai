@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-machine-learning-market-size-share-outlook-and-forecast-to-2028-2023-02-26"
 type: article
 quality: 73
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -117,20 +117,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Technology Market Size, Share, Outlook and Forecast to 2028"
-    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Technology Market\" Research Report 2023 Provides a Basic overview of the Industry"
-    publishedDateTime: 2023-02-24T00:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-share-outlook-and-forecast-to-2028-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

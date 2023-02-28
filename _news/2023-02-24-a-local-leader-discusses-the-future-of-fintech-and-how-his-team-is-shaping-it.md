@@ -55,6 +55,20 @@ related:
         width: 768
         height: 1024
         isCached: true
+  - title: "AI Eye Podcast: AppTech Payments Corp (NASDAQ: $APCX) Discusses the Importance of Fintech Patents, AI and the Future Banking Transformation"
+    excerpt: "Investorideas.com, a global investor news source covering Artificial Intelligence (AI) and Fintech, brings you today's edition of The AI Eye featuring an exclusive podcast interview with Mr. Mehrak Hamzeh,"
+    publishedDateTime: 2023-02-28T14:59:00Z
+    webUrl: "https://www.investorideas.com/news/2023/artificial-intelligence/02281APCX-Fintech-AI-Banking.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 20
+    images:
+      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+        width: 1280
+        height: 1206
+        isCached: true
   - title: "Ubona Technologies Creates India’s First Voice-based Fintech Solution for Voice-based Payments"
     excerpt: "While digital payments have become a lot easier and quicker with the advent of UPI apps, the lack of access to smartphones or any disruption in internet connectivity makes digital payments impossible."
     publishedDateTime: 2023-02-27T13:07:00Z

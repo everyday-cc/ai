@@ -2,6 +2,394 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-02-14-16-things-pop-culture-gets-wrong-about-artificial-intelligence.md",
+      "title": "16 Things Pop Culture Gets Wrong About Artificial Intelligence",
+      "excerpt": "And while they’re optimistic about the future capabilities of artificial intelligence, their projections pale in comparison to the sentient robots and super technologies often depicted on TV and movie screens and predicted in science fiction. In truth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63eaba767015a27b1139473b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-02-14T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-ai-experts-professors-reveal-how-chatgpt-will-radically-alter-the-classroom-age-of-the-creator.md",
+      "title": "AI experts, professors reveal how ChatGPT will radically alter the classroom: ‘Age of the creator’",
+      "excerpt": "\"AI is going to push us into this new movement ... Despite the benefits, there are also concerns students and professionals should keep in mind. New York-based legal ethics lawyer David A. Lewis said that he had seen an increase in cases in which people ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator",
+      "originalUrl": "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c45c254e-02b2-4af2-846a-e4db67eadaeb/30431e0e-2941-403b-aaad-0e9a67cabaf2/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-experts-professors-chatgpt-radically-alter-classroom-age-creator.amp",
+      "publishedDateTime": "2023-02-14T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-amazons-zoox-robotaxi-now-giving-rides-to-employees-on-public-roads-in-california.md",
+      "title": "Amazon's Zoox robotaxi now giving rides to employees on public roads in California",
+      "excerpt": "Amazon-owned Zoox said employees are test-riding its driverless robotaxis on public roads in California. For now, the tests are limited to employees at Zoox's Foster City, California, headquarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106810720-1607953690861-Zoox_Autonomous_Vehicle_-_Single_Side_-_Coit_Tower_SF.jpg?v=1676314425",
+          "width": 2800,
+          "height": 1867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/13/zoox-robotaxi-now-giving-rides-to-employees-on-california-public-roads.html",
+      "publishedDateTime": "2023-02-13T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-amazons-self-driving-car-shuttles-people-on-public-roads-for-the-first-time.md",
+      "title": "Amazon’s Self-Driving Car Shuttles People on Public Roads for the First Time",
+      "excerpt": "The company said the robotaxi trip marks the first time that a vehicle designed without human controls has carried passengers on a public road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.supplychainbrain.com/articles/36633-amazons-self-driving-car-shuttles-people-on-public-roads-for-the-first-time",
+      "originalUrl": "https://www.supplychainbrain.com/articles/36633-amazons-self-driving-car-shuttles-people-on-public-roads-for-the-first-time",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supplychainbrain.com/ext/resources/2023/02/13/Amazon-SelfDriving-BLOOMBERG.jpg?height=635&t=1676352059&width=1200",
+          "width": 953,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain",
+        "domain": "supplychainbrain.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-amazons-new-self-driving-robotaxis-may-soon-be-hitting-public-roads.md",
+      "title": "Amazon's new self-driving robotaxis may soon be hitting public roads",
+      "excerpt": "Amazon's self-driving vehicle unit known as Zoox has successfully tested its robotaxi on a public road using employees as passengers.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
+      "originalUrl": "https://abc7news.com/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/12811548_amazon-robo-taxis-TN-img.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7news.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/amazon-robotaxis-selfdriving-cars-taxis/12810849/",
+      "publishedDateTime": "2023-02-13T20:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-ev-x-ai-heres-how-ai-advancements-can-kick-start-ev-stocks.md",
+      "title": "EV x AI: Here’s How AI Advancements Can Kick Start EV Stocks",
+      "excerpt": "Through improved AI, engineers can foster positive outcomes for EVs and raise the investment proposition of their stocks. Popular EV stocks on TipRanks According to a September 2022 report by the International Energy Agency, “Electric car sales reached a ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ev-x-ai-here-s-how-ai-advancements-can-kick-start-ev-stocks-1032092590",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ev-x-ai-here-s-how-ai-advancements-can-kick-start-ev-stocks-1032092590",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/02/image-337-1024x460.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T20:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-states-face-recognition-app-for-pensioners-annual-verification.md",
+      "title": "State’s face recognition app for pensioners’ annual verification",
+      "excerpt": "Meanwhile, a meeting of the Pradhan Mantri Adarsh Gram Yojana convergence committee, constituted for successful operation, effective implementation and monitoring of the scheme was organised at ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-97907398,width-1070,height-580,imgsize-1288749,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
+      "publishedDateTime": "2023-02-13T19:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-check-out-more-than-50-pitch-decks-used-by-fintechs-to-raise-millions-in-funding-from-top-vcs.md",
+      "title": "Check out more than 50 pitch decks used by fintechs to raise millions in funding from top VCs",
+      "excerpt": "This 11-page pitch deck helped Hum Capital, a fintech using AI to match investors with startups, raise a $9 million Series A. There's more venture capital flowing into Latin America than ever ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5",
+      "originalUrl": "https://www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62b31d286ab6180018cfe44d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fintech-pitch-deck-fundraise-lance-altruist-honeybook-digital-finance-startups-2021-5?amp",
+      "publishedDateTime": "2023-02-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-14-ford-invests-in-argo-ai-a-new-artificial-intelligence-company-in-drive-for-autonomous-vehicle-leadership.md",
       "title": "Ford invests in Argo AI, a new artificial intelligence company, in drive for autonomous vehicle leadership",
       "excerpt": "“We are at an inflection point in using artificial intelligence in a wide range of applications, and the successful deployment of self-driving cars will fundamentally change how people and goods ...",
@@ -794,396 +1182,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-the-data-dilemma-four-common-barriers-to-ai-success.md",
-      "title": "The Data Dilemma: Four Common Barriers To AI Success",
-      "excerpt": "Given these potential benefits, I get asked by executives if there is a surefire way to achieve AI success. While there are steps that companies can take to best understand and us",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/13/the-data-dilemma-four-common-barriers-to-ai-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/13/the-data-dilemma-four-common-barriers-to-ai-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e646cde58e2f403421a4a0/0x0.jpg?format=jpg&crop=4544,2557,x0,y487,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/13/the-data-dilemma-four-common-barriers-to-ai-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/13/the-data-dilemma-four-common-barriers-to-ai-success/amp/",
-      "publishedDateTime": "2023-02-13T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence.md",
-      "title": "Tech is exciting again! Why? Thank the sudden surge in artificial intelligence",
-      "excerpt": "If the introduction of smartphones defined the 2000s, much of the 2010s in Silicon Valley was defined by the ambitious technologies that didn't fully arrive, such as self-driving cars. Artificial intelligence may be different.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/02/13/tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence/",
-      "originalUrl": "https://wraltechwire.com/2023/02/13/tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg",
-          "width": 772,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/02/13/tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/02/13/tech-is-exciting-again-why-thank-the-sudden-surge-in-artificial-intelligence/?amp=1",
-      "publishedDateTime": "2023-02-13T02:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-accelerating-your-machine-learning-pipeline-with-an-ml-platform-team.md",
-      "title": "Accelerating Your Machine Learning Pipeline With An ML Platform Team",
-      "excerpt": "If your data scientists are responding to issues with models at odd hours or burning cycles supporting tooling, you're likely ready to set up a centralized ML platform team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/13/accelerating-your-machine-learning-pipeline-with-an-ml-platform-team/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/13/accelerating-your-machine-learning-pipeline-with-an-ml-platform-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63441bf6d07b3ba342aa314f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/13/accelerating-your-machine-learning-pipeline-with-an-ml-platform-team/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/13/accelerating-your-machine-learning-pipeline-with-an-ml-platform-team/amp/",
-      "publishedDateTime": "2023-02-13T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-zero-shot-learning-and-the-foundations-of-generative-ai.md",
-      "title": "Zero-shot learning and the foundations of generative AI",
-      "excerpt": "Some ways to learn the algorithms and tools include using Amazon SageMaker to build a news-based alert system or using zero-shot learning in conversational agents. Developers and data scientists should also consider the new learning techniques and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3687315/zero-shot-learning-and-the-foundations-of-generative-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3687315/zero-shot-learning-and-the-foundations-of-generative-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/29/19/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-large-100935023-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3687315/zero-shot-learning-and-the-foundations-of-generative-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3687315/zero-shot-learning-and-the-foundations-of-generative-ai.amp.html",
-      "publishedDateTime": "2023-02-13T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-warren-buffetts-secret-portfolio-owns-3-brand-name-ai-stocks.md",
-      "title": "Warren Buffett's Secret Portfolio Owns 3 Brand-Name AI Stocks",
-      "excerpt": "The other key growth driver for IBM is AI. Although supercomputer Watson is perhaps the best example of IBM's AI and analytics in action, it's far from the most practical. Instead, IBM offers an abundance of services incorporating AI and machine-learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/13/warren-buffett-secret-portfolio-owns-3-ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/13/warren-buffett-secret-portfolio-owns-3-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/720055/warren-buffett-berkshire-hathaway-brka-brkb-motley-fool.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T02:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-sportradar-unveils-ground-breaking-ai-driven-computer-vision-at-ice-london.md",
-      "title": "Sportradar unveils ground-breaking AI-driven Computer Vision at ICE London",
-      "excerpt": "Sportradar used last week’s ICE London as a high-profile launchpad for its brand-new AI-driven Computer Vision technology.",
-      "sourceUrl": null,
-      "webUrl": "https://sbcnews.co.uk/sportsbook/2023/02/13/sportradar-computer-vision/",
-      "originalUrl": "https://sbcnews.co.uk/sportsbook/2023/02/13/sportradar-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.sbcnews.co.uk/sbcnews/2023/02/Blank-660-x-330-29.jpg",
-          "width": 660,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sbcnews.co.uk/sportsbook/2023/02/13/sportradar-computer-vision/?amp=1",
-      "cdnAmpWebUrl": "https://sbcnews-co-uk.cdn.ampproject.org/c/s/sbcnews.co.uk/sportsbook/2023/02/13/sportradar-computer-vision/?amp=1",
-      "publishedDateTime": "2023-02-13T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sbcnews.co.uk",
-        "domain": "sbcnews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-ai-etfs-are-rallying-this-year-as-chatgpt-hysteria-heats-up-what-to-know-before-jumping-in.md",
-      "title": "A.I. ETFs are rallying this year as ChatGPT hysteria heats up. What to know before jumping in",
-      "excerpt": "So far this year, AI-focused funds such as the iShares Robotics & Artificial Intelligence Multisector and the ARK Autonomous Technology & Robotics , are higher by about 19% each. ARKQ YTD mountain ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/12/what-to-know-about-ai-focused-etfs-as-chatgpt-craze-takes-hold.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/12/what-to-know-about-ai-focused-etfs-as-chatgpt-craze-takes-hold.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107167129-1671131974126-gettyimages-1245565704-raa-openaich221212_npWP2.jpeg?v=1676204570&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-12T21:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-5-key-features-of-machine-learning.md",
-      "title": "5 key features of machine learning",
-      "excerpt": "Machine learning has a wide range of applications in the finance, healthcare, marketing and transportation industries. It is used to analyze and process large amounts of data, make predictions ...",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/5-key-features-of-machine-learning",
-      "originalUrl": "https://cointelegraph.com/news/5-key-features-of-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDIvZjE4YzMyNmItYWRlMC00N2MyLThjMzAtZWY5ZGYxZjA3NDlkLmpwZw==.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/5-key-features-of-machine-learning/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/5-key-features-of-machine-learning/amp",
-      "publishedDateTime": "2023-02-12T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -24,6 +24,22 @@ images:
     height: 663
     isCached: true
 
+related:
+  - title: "Meta Platforms, Snap Expand Artificial Intelligence Offerings"
+    excerpt: "Meta Platforms and Snapchat are pushing deeper into the artificial intelligence (AI) business with new AI products, following OpenAI’s viral success with ChatGPT."
+    publishedDateTime: 2023-02-28T15:26:00Z
+    webUrl: "https://www.investopedia.com/meta-platforms-snap-expand-artificial-intelligence-offerings-7152521"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 37
+    images:
+      - url: "https://www.investopedia.com/thmb/qjYiFEFkKIZ6646fbNW9f-juC1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-524249610-3b68ff07514c4e72b049d2feda7d59ef.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+
 secured: "wx87M6zuqXCCyDqF/AhAQe7YfA8RrMeRQF4xNlKclLA57rsPPZACFbnCixIeuUTibGsKKHwCmSi0++HkvMg9t9Fku8fQtaq+RrJ/J2hNk2v6zptCw9BJXYFggz9ownQ2X3hUQyc+PjikU+uIwzxfWpHHapwFAh8owH7/knE0X/yOAGFwl+dO4DuVbyw/ASsgYbQem1f+PLPRxmBpNI2CRlk8R5gxD6CkM3l62XadglYW7f3l/mLKU9mMPpJoFf/xeFEnSwWR+enIQEueaX31zvDo6FzeD1RpLb6uZvRaPpXWVygYrVrXqPVXELI2OTh31K2mbb/Ymv0fwYTswzMdOx6vVEfdLuxLQNvCYLMBF4A=;MAaBSnoTOG+zG/EXgkaAvg=="
 ---
 

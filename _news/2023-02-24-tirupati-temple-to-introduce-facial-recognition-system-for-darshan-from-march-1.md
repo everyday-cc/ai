@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/feature/tirupati-temple-to-introduce-facial-rec
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/tirupati-temple-to-introduce-facial-recognition-system-for-darshan-from-march-1-3801768/amp/1"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: NDTV
@@ -38,6 +38,15 @@ related:
       name: NDTV
       domain: ndtv.com
     quality: 34
+  - title: "TTD to introduce face recognition technology at Tirumala from Wednesday"
+    excerpt: "Tirumala Tirupati Devasthanams (TTD) will introduce face recognition technology at Tirumala — situated in Andhra Pradesh's Tirupati district — to prov"
+    publishedDateTime: 2023-02-28T13:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/amaravati/ttd-to-introduce-face-recognition-technology-at-tirumala-from-wednesday/articleshow/98309199.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "12Ioe9f889D8V4XOgK42KP5hKawI3eBMm+e8NoeAAXTK3zuWEKlTNJgxuLDBoHLoj4H5r8efVKrDpjj/Lo88dRN6O831Y4/8WxbJrpY+cYVs1r7VsCXWaWrp/zigA3d40syNgpM/IYqFCk4ykRfxBon7HWamwWYWzdHK32b0W8llW5iydm6mmoKynTyK6Lw2lmIh+bEyyyW9vUdCwrQp9r3+XlqGTMP99YLK9iEcceYY+qaqyumiSkR2g2pmwkjngpExBS4cpS9Ug+OPq8/FOAwwJWHGjgOyttEP/5Yw2Jw2DQGK/g0dU9DDq9ujIN6cBg5lFKqvG7tTd71rYfwFf+cymi/C/+asmBe7aJPhVuE=;4/VHEKXBE+x2nW5rdNbhZQ=="
 ---

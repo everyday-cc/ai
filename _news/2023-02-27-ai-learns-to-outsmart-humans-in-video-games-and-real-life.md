@@ -49,17 +49,6 @@ related:
         width: 600
         height: 302
         isCached: true
-  - title: "AI art replicates inequity at scale. We need to learn about its biases – and outsmart the algorithm"
-    excerpt: "An artist used Midjourney to design the cover of Tracey Spicer’s upcoming book. The process, she found, was exciting – and terrifying"
-    publishedDateTime: 2023-02-23T22:45:00Z
-    webUrl: "https://www.theguardian.com/books/2023/feb/24/ai-art-replicates-inequity-at-scale-we-need-to-learn-about-its-biases-and-outsmart-the-algorithm"
-    ampWebUrl: "https://amp.theguardian.com/books/2023/feb/24/ai-art-replicates-inequity-at-scale-we-need-to-learn-about-its-biases-and-outsmart-the-algorithm"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/feb/24/ai-art-replicates-inequity-at-scale-we-need-to-learn-about-its-biases-and-outsmart-the-algorithm"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 23
   - title: "Outsmarting humans just one step for AI video game players"
     excerpt: "Video game players have competed against computer-controlled opponents for decades, but they haven't been as smart and fast as GT Sophy, the new AI driver on PlayStation's Grand Turismo. Visit"
     publishedDateTime: 2023-02-27T11:00:00Z

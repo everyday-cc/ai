@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/health-and-wellness/mind-and-spirit/article-7327
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-and-wellness/mind-and-spirit/article-732778/amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 640
     height: 428
     isCached: true
+
+related:
+  - title: "New Israeli company aims to design life-saving proteins from scratch"
+    excerpt: "DenovAI is approved by the Israel Innovation Authority and will receive a $2 million grant from AION Labs and its investment partners Pfizer, AstraZeneca, Merck, Teva and Israel Biotech Fund."
+    publishedDateTime: 2023-02-28T16:00:00Z
+    webUrl: "https://www.jpost.com/health-and-wellness/article-732959"
+    ampWebUrl: "https://m.jpost.com/health-and-wellness/article-732959/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-and-wellness/article-732959/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/518195"
+        width: 640
+        height: 428
+        isCached: true
 
 secured: "pCAriMJVzx0H0UXv8o0sf2FIHSbT5+ZdjheJ+9m/xjcYagZYOR84muDBFYxFrHqTn1Xb2dblDMs/dmkm29OLN1l022dGBAwJ3X31d2n/LVjc7u7qqAtBJifQ6u3BGIu53BzTu1mvPeRvgo6/oXNden7d7Xj6m3cdoCI+VQ0At/46CG2GlXkPAKf+AWZLmYk7TxgarVYlhKwI2GH2rYvncbN1oDj8ETxcYVpn2W1m6FqU/kRmwyGGKAxw2e35KTPVj3If3LKT3dmG/qZCO7r8pqqHPSwHI3Hwix69qDtb9zxKPnij++sE1IfeUWZLEvEzEds7Sq+xBsoYsZHxnMgybhx4oASZQH6pko8CeuNmsuk=;dsYOcjqaKjEkPo/rJxDQTw=="
 ---

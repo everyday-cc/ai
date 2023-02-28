@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T12:00:00Z
 originalUrl: "https://www.wsj.com/articles/how-doctors-use-ai-to-help-diagnose-patients-ce4ad025?mod=wsjhp_columnists_pos1"
 webUrl: "https://www.wsj.com/articles/how-doctors-use-ai-to-help-diagnose-patients-ce4ad025?mod=wsjhp_columnists_pos1"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Wall Street Journal

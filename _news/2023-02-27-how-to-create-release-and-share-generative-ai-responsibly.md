@@ -76,15 +76,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."
-    publishedDateTime: 2023-02-24T00:20:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/02/23/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
 
 secured: "ju5IaDYxuWZRr+ABRoCBC2TUOBoBUl7XUvQdlWHZ39aEbuadvft/i0wwxyk4FJObF0Dz7RUcdjlTQKB8Zbak/7JkeSg3LI98nYOtt3/nnjc4tsdOsfdlDOutT4/a3cLnvRxbU4Ij6bFwkjQhGFYriIQp+OFtJYprNBe4Nmdglfw/MPKstxormJfvgZr4SbVjvG9hLIj2SpilIALnIytNxmdq2SwyEHaz3+WpeslqGSHxjPq8UGQYZT69eIvVJKI74dbYIIG6aA9jdNxGXzhmcCXWBRBhARKPGOQvZnx1f5jaCYbdlJpXqUThZ6qCeZzaB+H6h04fM0Q9+uK9rf8/uoWdbvLsj1N+4guODFtx2+qau4+IO95ErkTEQYkbPUEKWHxUs9iU3st21IyTZUVR3rl5n7V9KWErIQk4pxNmq/oJREfgwiro6Xc8+QpwYz6kw51BVRXRkC/ZWbPkuDOIyCkAnr8YRRfEVScIvJKWkeRSlPpp6OCgmcAd696aPCjz6ZC6jiHi0/asA8Sc1yXP7g==;ZlPsSdzyitJYTAP8kLKfhw=="
 ---

@@ -42,17 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tabnine readies AI-generated unit testing for developers"
-    excerpt: "Tabnine Test Generation, now in beta, uses artificial intelligence to generate unit tests for Python, Java, and JavaScript code."
-    publishedDateTime: 2023-02-23T23:07:00Z
-    webUrl: "https://www.infoworld.com/article/3688931/tabnine-readies-ai-generated-unit-testing-for-developers.html"
-    ampWebUrl: "https://www.infoworld.com/article/3688931/tabnine-readies-ai-generated-unit-testing-for-developers.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3688931/tabnine-readies-ai-generated-unit-testing-for-developers.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 67
   - title: "Your Android phone might soon be able to generate AI images in seconds"
     excerpt: "Qualcomm used a phone powered by the Snapdragon 8 Gen 2 chip to generate an AI image of a cat wearing armor. Here's how they did it."
     publishedDateTime: 2023-02-24T09:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.kiplinger.com/business/can-a-private-business-ban-some
 webUrl: "https://www.kiplinger.com/business/can-a-private-business-ban-someone-from-entering"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "You and The Law | Can a business ban you from entering their premises?"
+    excerpt: "One of the strangest phone calls I’ve received thus far in 2023 was from “Rudy,” who called to ask if a private business’ ban against him could be lifted. He began our conversation with, “Can you"
+    publishedDateTime: 2023-02-28T12:00:00Z
+    webUrl: "https://www.times-standard.com/2023/02/28/you-and-the-law-can-a-business-ban-you-from-entering-their-premises/"
+    ampWebUrl: "https://www.times-standard.com/2023/02/28/you-and-the-law-can-a-business-ban-you-from-entering-their-premises/amp/"
+    cdnAmpWebUrl: "https://www-times--standard-com.cdn.ampproject.org/c/s/www.times-standard.com/2023/02/28/you-and-the-law-can-a-business-ban-you-from-entering-their-premises/amp/"
+    type: article
+    provider:
+      name: Times-Standard
+      domain: times-standard.com
+    quality: 44
+    images:
+      - url: "https://www.times-standard.com/wp-content/uploads/2018/07/ETS_Filler-1.png"
+        width: 750
+        height: 563
+        isCached: true
 
 secured: "Bcas905o9gHztKPsDAyPRAlzxLdeoqxqaqU9IArJXPQSvz0IKn66e00aKVsNXo7BQCyslFJ77yMdbpLEDfCZ2PANAdP4qLwIV8iqs1/cP/I+fvE7B9ZHEm1hr6vnUH2reI0h5Ll5wvXJ9mjrhPvGdWqD5Cpop01vyVHgqMPtaGwp0g0wf7kqmPrld4J+CTBAugqnVKyl+4+fI+iuQslKT7Kwsmc/G0kN17dq2FyQivooJOAmII3sd5Q2Ovw8EWSeao1PWrk6l5bDlBiSpJ7qtPKyKbg3N9OQpXWdFx1H+SkoKUFHW4eJWFlCa0h11hYNHvM+WajFj+aF/d7uA5EDlnCLQ+sDiNvnrRbRrPNm3k8cJh/nSVxAjAa6M0Iq/5SwCnhV3subENX4Em8F0cSwlB/jfYGPVIUhAUfMoCbYw5hy0GqggOEFFRRnv0KeWQuv+MlReshtpQjsw4RziWGGws6aTL08H21p2FiTVw9mZlOqIS9ZbGkZLMxC6r/i17U0I3+LmDCxRG1iwQno1szJkw==;JeGknT4l8zfyO7sc9k9rEQ=="
 ---

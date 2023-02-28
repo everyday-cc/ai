@@ -117,6 +117,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Habytat announces AI-powered pets for its social metaverse"
+    excerpt: "Habytat plans to launch AI-powered pets onto its social metaverse platform this year. Users can vote on the types of pets."
+    publishedDateTime: 2023-02-28T13:31:00Z
+    webUrl: "https://venturebeat.com/games/habytat-announces-ai-powered-pets-for-its-social-metaverse/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "Ufzjy6IETpLme++PiOL/etSqW3DMy7nOGVx77b+qsbTrRi8JWKobBGN3b+xt4IGlHFnf2YsLfoDdtbzN/0ZTonKw/JBs7iyIJvZ4YEskGBhLk5EFoeHHsyi5g+vcLahZalGGJf3Ia7XrEfSDHdj8oeCDMz3peWMi+KeQpNuBlQIPBGo9bFyKHi3RRI0aUERr20mm1VoKKMiZeDz1sPjpRx7qnuT63qzdC61YurkIjELh7Imvl/0ff7uT9ySvqaRRE4EdQsrk2uPrcmKXJGAfSdIC8hMutCHh7xa84qyjM5HhmQiLd3/2bVAWDovgAVKbY+fj9Ij36mQbO8qJhetoTg137VA07qTOv7Jiw8mdu+1akQNpcLT4cUkBdYoBGNpxcK9fxBs57i2/EiS5zhD92S95p/XpmukeUXvCwUtIbgM/XUQOQdYBr/tzWFtt+RBAmSfY/DMF70razQINZm3awKdRmIdUA1AD1nVN+uXCVAqMYSTgfIc7awgIVRhO6JGWyNQI30f7zJXLTMUr0/Lg3w==;2/Ihv3IBXxAjZwOeB+h39w=="
 ---

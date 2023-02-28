@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T14:21:00Z
 originalUrl: "https://www.law.com/legaltechnews/2023/02/28/big-tech-is-battling-for-ai-supremacy-what-does-that-mean-for-legal/"
 webUrl: "https://www.law.com/legaltechnews/2023/02/28/big-tech-is-battling-for-ai-supremacy-what-does-that-mean-for-legal/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Law

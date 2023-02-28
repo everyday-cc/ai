@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data and AI Ethics Market In 2023 : Volume, Analysis, Future Prediction, Overview and Forecast 2028"
-    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Data and AI Ethics Market\" Report provides a Detailed analysis of global market size, regional and country-level"
-    publishedDateTime: 2023-02-23T22:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-in-2023-volume-analysis-future-prediction-overview-and-forecast-2028-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data and AI Ethics Market Size 2023 will Projected to Grow with Statistics, Forecasts till 2029"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-02-24T01:10:00Z
@@ -339,6 +325,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+  - title: "Artificial Intelligence-Emotion Recognition Market New Updates Drivers, Challenges and Competitive Strategic Window for Opportunities till 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 27, 2023 (The Expresswire) -- Artificial Intelligence-Emotion Recognition Market size is expected to reach Multimillion USD by 2029, In comparison to 2023, at unexpected ..."
+    publishedDateTime: 2023-02-28T10:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-new-updates-drivers-challenges-and-competitive-strategic-window-for-opportunities-till-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Neural Networks Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2029"
     excerpt: "The global Artificial Neural Networks market size is projected to reach multi million by 2029, in comparison to 2023, with unexpected CAGR during the forecast period, the Artificial Neural Networks Market Report Contains113pages Including Full TOC,"
     publishedDateTime: 2023-02-24T03:40:00Z
@@ -352,6 +352,15 @@ related:
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 24, 2023 (Heraldkeepers) -- The Global Artificial Intelligence in Drug Discovery Market is poised to value USD 5740 million by 2028 end at a CAGR of 45.7% during the ..."
     publishedDateTime: 2023-02-24T11:06:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-growth-analysis-size-prominent-players-overview-and-forecast-2028-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+  - title: "Face Recognition Systems Market Size, Analysis with Key Players having Regional Statistics and Application Forecast to 2029"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Face Recognition Systems Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-27T17:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-size-analysis-with-key-players-having-regional-statistics-and-application-forecast-to-2029-2023-02-27"
     type: article
     provider:
       name: MarketWatch

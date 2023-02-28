@@ -2,6 +2,356 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2022-12-09-deepminds-latest-ai-project-solves-programming-challenges-like-a-newb.md",
+      "title": "DeepMind’s latest AI project solves programming challenges like a newb",
+      "excerpt": "Google's DeepMind AI division has tackled everything from StarCraft to protein folding. So it's probably no surprise that its creators have eventually turned to what is undoubtedly a personal ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/",
+      "originalUrl": "https://arstechnica.com/science/2022/12/deepminds-latest-ai-project-solves-programming-challenges-like-a-newb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine.md",
+      "title": "How to Send Your Face Back in Time With MyHeritage's 'AI Time Machine'",
+      "excerpt": "It's introduced other intriguing features including Deep Nostalgia, which animates pictures of people to make it look like they're moving, and LiveStory, which takes that a step further and animates a person's face and mouth so it looks like they're telling their life story.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/internet/how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine/",
+      "originalUrl": "https://www.cnet.com/culture/internet/how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/2ad5b78d37feb2659b458818b35723610c99cbb5/hub/2022/12/01/325e1577-8baf-4e71-800d-544c302a1674/screen-shot-2022-12-01-at-1-06-14-pm.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/how-to-send-your-face-back-in-time-with-myheritages-ai-time-machine/",
+      "publishedDateTime": "2022-12-08T13:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-pixyle-ai-wants-to-make-visual-search-more-intuitive-for-online-retailers.md",
+      "title": "Pixyle AI wants to make visual search more intuitive for online retailers",
+      "excerpt": "When Svetlana Kordumova was studying for her doctorate in AI and computer vision, she grew frustrated by the process of looking for items to buy online. Search results were often inaccurate, and she knew the tech she was learning could improve the experience.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/",
+      "originalUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/Pixyle-AI-product-data-enrichment.png?resize=1200,685",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/07/pixyle-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/07/pixyle-ai/amp/",
+      "publishedDateTime": "2022-12-08T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-brain-plasticity-study-oxytocin-drives-development-of-neural-connections-in-adult-born-neurons.md",
+      "title": "Brain plasticity study: Oxytocin drives development of neural connections in adult-born neurons",
+      "excerpt": "The researchers discovered that the levels of oxytocin increase in the olfactory bulb, peaking at the time the new neurons incorporate themselves into neural networks. Using viral labeling ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-brain.jpg",
+          "width": 1920,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-brain-plasticity-oxytocin-neural-adult-born.amp",
+      "publishedDateTime": "2022-12-08T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-the-tsa-plans-to-take-facial-recognition-technology-nationwide.md",
+      "title": "The TSA plans to take facial recognition technology nationwide",
+      "excerpt": "The Transportation Security Administration has been testing facial recognition technology as an option for travelers at select U.S. airports for years, touting it as a way to speed up identity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
+      "originalUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2022/09/Airport.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/tsa-plans-take-facial-recognition-technology-nationwide.amp",
+      "publishedDateTime": "2022-12-08T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-the-ai-revolution-is-closer-than-you-think.md",
+      "title": "The AI Revolution Is Closer Than You Think",
+      "excerpt": "Two recent developments show how rapidly AI creative tools are becoming a practical alternative to human creators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/",
+      "originalUrl": "https://www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63924c996966143e208a1359/0x0.jpg?format=jpg&crop=680,383,x0,y0,safe&width=1200",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2022/12/08/the-ai-revolution-is-closer-than-you-think/amp/",
+      "publishedDateTime": "2022-12-08T11:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-reston-based-octo-to-be-acquired-by-ibm.md",
+      "title": "Reston-based Octo to be acquired by IBM",
+      "excerpt": "In May, it opened oLabs, a $10 million, 14,000-square-foot research and development lab dedicated to federal customers, including the military, where Octo has worked on artificial intelligence and other projects. Octo is IBM’s eighth acquisition this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.virginiabusiness.com/article/reston-based-octo-to-be-acquired-by-ibm/",
+      "originalUrl": "https://www.virginiabusiness.com/article/reston-based-octo-to-be-acquired-by-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virginia Business",
+        "domain": "virginiabusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-us-regulators-sue-to-block-microsofts-69b-activision-acquisition.md",
+      "title": "US regulators sue to block Microsoft's $69B Activision acquisition",
+      "excerpt": "United Kingdom and European Union regulators are also looking to probe the acquisition, but the FTC is the first agency to formally challenge it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/seattle/news/2022/12/08/microsoft-ftc-activision-lawsuit-block.html",
+      "originalUrl": "https://www.bizjournals.com/seattle/news/2022/12/08/microsoft-ftc-activision-lawsuit-block.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-new-research-shows-empowering-advertisements-fall-short-in-cognitive-tests.md",
       "title": "New research shows 'empowering' advertisements fall short in cognitive tests",
       "excerpt": "Those that neither mentioned empowerment nor focused on women's physical beauty—think commercials for Apple, Geico, Allstate and Microsoft—were designated as low on both metrics. After viewing ...",
@@ -775,361 +1125,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-where-to-find-the-best-open-source-security-technology.md",
-      "title": "Where to Find the Best Open Source Security Technology",
-      "excerpt": "And security operations are no exception. Open source software has found its way into cybersecurity engineering and operations. Snort, OpenSSL, Yara, Wireshark, etc., are often found in organizations' arsenal of security tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/application-security/where-to-find-the-best-open-source-security-technology",
-      "originalUrl": "https://www.darkreading.com/application-security/where-to-find-the-best-open-source-security-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt90b0eff3433dd498/6283b986daa31875dc0c9773/Open_source_Skorzewiak_Alamy.jpg",
-          "width": 4096,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-3-revolutionary-stocks-id-buy-right-now-without-hesitation.md",
-      "title": "3 Revolutionary Stocks I'd Buy Right Now Without Hesitation",
-      "excerpt": "It's hard to see Eli Lilly as a revolutionary stock. The pharmaceutical company was formed in 1876 by a Civil War veteran and has been in the S&P 500 since 1971. However, the company has been on the forefront of two of the biggest medical breakthroughs this year: Alzheimer's drug donanemab and diabetes drug Mounjaro (tirzepatide),",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-revolutionary-stocks-id-buy-right-now-without-hesitation-3",
-      "originalUrl": "https://www.nasdaq.com/articles/3-revolutionary-stocks-id-buy-right-now-without-hesitation-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-ai-in-fintech-market-to-observe-strong-growth-by-2028-microsoft-google-intel.md",
-      "title": "AI in Fintech Market to Observe Strong Growth by 2028 | Microsoft, Google, Intel",
-      "excerpt": "Latest Study on Industrial Growth of AI in Fintech Market 2023-2029. A detailed study accumulated to offer the Latest insights about acute features of the AI in Fintech market. The report contains ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-to-observe-strong-growth-by-2028-microsoft-google-intel",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-to-observe-strong-growth-by-2028-microsoft-google-intel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/12/Commuters-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know.md",
-      "title": "Factors To Consider When Adopting Artificial Intelligence And Machine Learning: What Businesses Need To Know",
-      "excerpt": "Artificial intelligence (AI) and machine learning (ML), or AI/ML, are quickly becoming a crucial next step for business growth. Recent years have seen more and more businesses adopting this technology and witnessing significant benefits in several areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6390d461115ce3b59c08ccfa/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/08/factors-to-consider-when-adopting-artificial-intelligence-and-machine-learning-what-businesses-need-to-know/amp/",
-      "publishedDateTime": "2022-12-08T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-amazon-fake-gpu-saga.md",
-      "title": "Amazon fake GPU saga",
-      "excerpt": "Presumably, because the fake GPU looked like Semtex. Amazon said that the refund would only be processed when the “correct” item is returned, which given that Legault never got the correct ...",
-      "sourceUrl": null,
-      "webUrl": "https://fudzilla.com/news/graphics/55966-amazon-fake-gpu-saga",
-      "originalUrl": "https://fudzilla.com/news/graphics/55966-amazon-fake-gpu-saga",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-the-broken-promise-of-ai-what-went-wrong-between-2012-and-2022.md",
-      "title": "The Broken Promise Of AI: What Went Wrong Between 2012 And 2022",
-      "excerpt": "AI is a worthwhile pursuit. The premise that lots of data plus lots of modeling equals interesting stuff isn’t flawed; it just ignores the necessity of starting with a problem and working toward fixing it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/the-broken-promise-of-ai-what-went-wrong-between-2012-and-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/the-broken-promise-of-ai-what-went-wrong-between-2012-and-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61549381e6d4424cc52c8592/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/08/the-broken-promise-of-ai-what-went-wrong-between-2012-and-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/08/the-broken-promise-of-ai-what-went-wrong-between-2012-and-2022/amp/",
-      "publishedDateTime": "2022-12-08T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-driverless-cars-to-hit-uk-motorways-safety-fears-for-motorcyclists-as-road-trials-planned-for-2023.md",
-      "title": "Driverless cars to hit UK motorways: Safety fears for motorcyclists as road trials planned for 2023",
-      "excerpt": "Real-life on-the-road tests of self-driving vehicles are due to begin in the UK next year, sparking fears that they could put riders in danger. According to the Department for Transport, we could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorcyclenews.com/news/2022/december/driverless-car-trials-set-for-uk-motorways-in-2023/",
-      "originalUrl": "https://www.motorcyclenews.com/news/2022/december/driverless-car-trials-set-for-uk-motorways-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mcn-images.bauersecure.com/wp-images/192039/autonomous-car-on-motorway.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Cycle News",
-        "domain": "motorcyclenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-four-person-dev-team-gets-apples-m-series-gpu-working-in-linux.md",
-      "title": "Four-person dev team gets Apple’s M-series GPU working in Linux",
-      "excerpt": "For the brave people running Linux on Apple Silicon, their patience has paid off. GPU drivers that provide desktop hardware acceleration are now available in Asahi Linux, unleashing more of the M ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/asahi1-800x450.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/amp/",
-      "publishedDateTime": "2022-12-08T02:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

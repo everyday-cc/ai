@@ -2,6 +2,239 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-27-meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse.md",
+      "title": "Meta Launches Its AI The ‘LLaMA’ ; Mark Zuckerberg Has Finally Something Better Than The Metaverse",
+      "excerpt": "Amid a flurry of generative AI cluttering the interwebs, now Facebook’s parent Meta has dangled its ChatGPT rival carrot. Dubbed the Large Language Meta AI or LLaMA, the AI is positioned as a game changer by Meta.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse",
+      "originalUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/q-11_t5k7.620.jpg",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1",
+      "publishedDateTime": "2023-02-27T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-how-machine-learning-will-transform-your-industry.md",
+      "title": "How Machine Learning Will Transform Your Industry",
+      "excerpt": "While ML and associated technologies like natural language processing are gaining traction in current workflows, it's important to pay close attention to ethical standards that differentiate humans from machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631b3e240f6280e0b3d70386/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 839,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/amp/",
+      "publishedDateTime": "2023-02-27T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-whats-new-in-azure-data-ai-azure-is-the-best-place-to-build-and-run-ai-workloads.md",
+      "title": "What's new in Azure Data & AI: Azure is the best place to build and run AI workloads",
+      "excerpt": "Bringing together purpose-built AI infrastructure and managed data and AI services into one environment streamlines management and automation, often reducing the complexity of building, training, and bringing AI models into production.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/",
+      "originalUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T01:00:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus.md",
+      "title": "Microsoft introduces next-gen hybrid cloud platform 'Azure Operator Nexus'",
+      "excerpt": "It believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-01/18/full/1674005450-4001.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html",
+      "publishedDateTime": "2023-02-26T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems.md",
+      "title": "Tesla’s Full Self Driving Isn’t The Only Technology With Speed Sign Detection Problems",
+      "excerpt": "Speed limiting technology has also been mandated over in Europe, where the EU’s Vehicle General Safety Regulation has now been in force for a little over 6 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/",
+      "originalUrl": "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fbc34008dd180580147637/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/",
+      "publishedDateTime": "2023-02-26T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-till-2029.md",
       "title": "Automated Machine Learning (AutoML) Market Analysis Report 2023 Along with Statistics Figures, till 2029",
       "excerpt": "The report focuses on the Automated Machine Learning (AutoML) market size, segment size (mainly covering product type, application, and geography), competitor landscape, recent status, and development trends.",
@@ -10,7 +243,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-02-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -105,7 +338,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2027-animal-healthcare-market-2023-artificial-intelligence-innovations-sustainability-updates-2023-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -199,7 +432,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-machine-learning-market-size-share-outlook-and-forecast-to-2028-2023-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -397,7 +630,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-survey-predicts-strong-growth-through-2029-with-top-growing-regions-2023-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -501,7 +734,7 @@
       "originalUrl": "https://www.business-standard.com/article/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -964,263 +1197,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-25-software-engineer-who-warned-about-ai-its-a-runaway-train.md",
-      "title": "Software engineer who warned about AI: ‘It’s a runaway train’",
-      "excerpt": "Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/tech/2023/02/25/smr-google-engineer-who-warned-about-ai.cnn",
-      "originalUrl": "https://www.cnn.com/videos/tech/2023/02/25/smr-google-engineer-who-warned-about-ai.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230225095128-smr-google-engineer-who-warned-about-ai-00040301-super-tease.png",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tech/2023/02/25/smr-google-engineer-who-warned-about-ai.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tech/2023/02/25/smr-google-engineer-who-warned-about-ai.cnn",
-      "publishedDateTime": "2023-02-25T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-25-these-ai-artists-are-creating-the-fat-black-characters-so-sorely-lacking-in-mainstream-sci-fi-and-fantasy.md",
-      "title": "These AI Artists Are Creating The Fat, Black Characters So Sorely Lacking In Mainstream Sci-Fi And Fantasy",
-      "excerpt": "Fat, Black people deserve to be main characters capable of anything.” BuzzFeed Contributor The AI artist Jervae (right) and one of their creations As a young child growing up in Greenville, North Carolina,",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/davisc0994/ai-art-fat-black-sci-fi-fantasy-characters?ref=upstract.com",
-      "originalUrl": "https://www.buzzfeednews.com/article/davisc0994/ai-art-fat-black-sci-fi-fantasy-characters?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2018-09/17/18/tmp/buzzfeed-prod-web-02/tmp-name-2-6439-1537224865-0_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/davisc0994/ai-art-fat-black-sci-fi-fantasy-characters",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/davisc0994/ai-art-fat-black-sci-fi-fantasy-characters",
-      "publishedDateTime": "2023-02-25T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "buzzfeednews.com",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-25-artificial-intelligence-ai-robots-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2029.md",
-      "title": "Artificial Intelligence (AI) Robots Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2029",
-      "excerpt": "What is the projected market size and growth rate of the Artificial Intelligence (AI) Robots Market? Artificial Intelligence (AI) Robots Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2029-2023-02-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2029-2023-02-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 348,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-25T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-25-10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition.md",
-      "title": "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition",
-      "excerpt": "They say you can have anything you want in life if you dress for it. According to the makers of these anti-facial recognition garments, that includes privacy. These sweaters, masks, glasses, and makeup tips will scramble the algorithms and dazzle your friends.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479",
-      "originalUrl": "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5962a488996ecd92c5b806c0c89f5c0a.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-25T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-25-kpmg-global-study-confirms-trusting-ai-remains-a-major-employee-confidence-gap.md",
-      "title": "KPMG Global Study Confirms Trusting AI Remains A Major Employee Confidence Gap",
-      "excerpt": "KPMG and The University of Queensland recently released a global study of over 17,000 people in 17 countries. Major finding is that only 50 percent of the 17,000 respondents trust AI. Developing corporate purpose for effective AI governance is key to increase employee trust in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/02/25/kpmg-global-study-confirms-trusting-ai-remains-a-major-confidence-gap/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/02/25/kpmg-global-study-confirms-trusting-ai-remains-a-major-confidence-gap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f9e6729ecbb24e188ba856/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/02/25/kpmg-global-study-confirms-trusting-ai-remains-a-major-confidence-gap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/02/25/kpmg-global-study-confirms-trusting-ai-remains-a-major-confidence-gap/amp/",
-      "publishedDateTime": "2023-02-25T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

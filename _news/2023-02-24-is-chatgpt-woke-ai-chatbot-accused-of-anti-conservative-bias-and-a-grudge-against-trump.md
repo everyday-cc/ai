@@ -179,6 +179,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk is seeking to create a rival to OpenAI, the company behind ChatGPT, report says"
+    excerpt: "Musk has approached researchers about forming a new artificial intelligence research lab, The Information reported."
+    publishedDateTime: 2023-02-28T11:42:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-2023-2?amp"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://i.insider.com/63cfac1c0a375c0018fa8bdc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "What Elon Musk, Bill Gates, and 12 other business leaders think about AI tools like ChatGPT"
     excerpt: "While some business leaders are excited about AI's potential for good, others are skeptical, unimpressed, and even scared about what the tech can do."
     publishedDateTime: 2023-02-26T12:06:00Z
@@ -241,17 +257,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "The Unexpected Winners Of The ChatGPT Generative AI Revolution"
-    excerpt: "In fact, my first paper on generative chemistry, was published in 2016, first granted patent in 2018, and the first AI-generated drug went through the first phase of clinical trials. OpenAI’s GPT-3 platform was launched in June, and released to the ..."
-    publishedDateTime: 2023-02-23T23:13:00Z
-    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/02/23/the-unexpected-winners-of-the-chatgpt-generative-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/02/23/the-unexpected-winners-of-the-chatgpt-generative-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/02/23/the-unexpected-winners-of-the-chatgpt-generative-ai-revolution/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
   - title: "The AI emotions dreamed up by ChatGPT"
     excerpt: "AI chatbots are already imagining what feelings they'll end up with. But if they did develop them, would we even notice? I'm talking to Dan, otherwise known as \"Do Anything Now\", a shady young chatbot with a whimsical fondness for penguins – and a ..."
     publishedDateTime: 2023-02-25T00:59:00Z
@@ -519,14 +524,14 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet"
-    excerpt: "Google, with Bard, and OpenAI, with ChatGPT are making AI chatbot technology previously restricted to test labs more accessible to the general public. How do these Large Language Model (LLM) programs work?"
-    publishedDateTime: 2023-02-23T23:02:00Z
-    webUrl: "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai"
+  - title: "How SlashNext is using generative AI to shut down ChatGPT phishing attacks"
+    excerpt: "SlashNext releases a generative AI solution that's designed to identify phishing emails and social engineering scams."
+    publishedDateTime: 2023-02-28T13:00:00Z
+    webUrl: "https://venturebeat.com/security/slashnext-using-generative-ai-shut-down-chatgpt-phishing-attacks/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 47
   - title: "Snap Launches My AI Chatbot Using OpenAI Technology"
     excerpt: "Social-media company makes the new feature available to users of its Snapchat+ premium service."
@@ -623,15 +628,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft Just Starting To Hit Next Gear Of Growth, Backed By ChatGPT And AI, Analyst Says"
-    excerpt: "Azure/Office 365, along with AI monetization on Azure with consumer search piece will likely add $20/share in 12-18 month: Ives The analyst expects Activision deal to close by late summer. The Microsoft Analyst: Wedbush analyst Daniel Ives maintained an ..."
-    publishedDateTime: 2023-02-24T10:16:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/02/31043193/microsoft-just-starting-to-hit-next-gear-of-growth-backed-by-chatgpt-and-ai-analyst"
+  - title: "Elon Musk Might Start Up a ChatGPT Rival, Report Says"
+    excerpt: "Musk, who co-founded ChatGPT's creator, OpenAI, has approached AI researchers about forming a research lab, The Information reports."
+    publishedDateTime: 2023-02-28T13:34:00Z
+    webUrl: "https://www.cnet.com/tech/elon-musk-reportedly-eyeing-development-of-chatgpt-rival/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
+      name: CNET
+      domain: cnet.com
+    quality: 32
   - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
     excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
     publishedDateTime: 2023-02-24T14:15:00Z
@@ -650,6 +655,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 19
+  - title: "AlertEnterprise Looks to Transform Physical Security with Reveal of New Security AI Chatbot Powered by ChatGPT"
+    excerpt: "The Guardian AI Chatbot is developed with the world-renowned GPT-3 platform created by OpenAI and is designed to instantly deliver security operators the physical access and security insights that matter most with quick questions and prompts."
+    publishedDateTime: 2023-02-28T14:21:00Z
+    webUrl: "https://www.afp.com/en/news/1313/alertenterprise-looks-transform-physical-security-reveal-new-security-ai-chatbot-powered-chatgpt-202302280056301"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 16
   - title: "Jasper AI Is A ChatGPT Alternative With No Waitlist And A Chrome Extension"
     excerpt: "ChatGPT it making news everywhere lately. It has caused some concern for apparently being \"too smart,\" and its addition in the latest Bing beta ha geenrated some interesting results, to say the least."
     publishedDateTime: 2023-02-25T18:19:00Z
@@ -659,6 +673,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 15
+  - title: "Revolutionizing the Future of Education: How ChatGPT is Transforming the Way We Study"
+    excerpt: "ChatGPT is allowing students and educators to use it as a solution for writing and even analytical purposes. This is revolutionizing the future of education"
+    publishedDateTime: 2023-02-28T11:21:00Z
+    webUrl: "https://pctechmag.com/2023/02/chatgpt-is-transforming-the-way-we-study/"
+    type: article
+    provider:
+      name: PC Tech Magazine
+      domain: pctechmag.com
+    quality: 14
   - title: "China says it sees the potential of ChatGPT-like technology"
     excerpt: "BEIJING--China's Ministry of Science and Technology said on Friday said it saw the potential of ChatGPT-like tech and would be pushing for the integration of artificial intelligence into Chinese society and the economy."
     publishedDateTime: 2023-02-24T08:39:00Z

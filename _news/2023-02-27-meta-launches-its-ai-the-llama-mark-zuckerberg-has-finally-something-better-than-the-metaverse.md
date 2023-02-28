@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-ma
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1"
 type: article
 quality: 75
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Habytat announces AI-powered pets for its social metaverse"
+    excerpt: "Habytat plans to launch AI-powered pets onto its social metaverse platform this year. Users can vote on the types of pets."
+    publishedDateTime: 2023-02-28T13:31:00Z
+    webUrl: "https://venturebeat.com/games/habytat-announces-ai-powered-pets-for-its-social-metaverse/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "JIx3ju27Dbc4eeHTEf5LYUpu19Uv5tWld21tghxViUJC5EILSf2lUoob1ENnkKgLEKKn19dR5UGcgFCNHfy6jUM0TfJHtrZQ01xop2IEKYOwyDGL9Zn0DIhAfmJcd1rEvHonaX+bHsUbzihD41x8I0nf0H7jITGcR/wGtKwlELrpkrpM+UMTfgjjV0aqJWBLmYChWcqdLOzjUCp0pVxGVga/SUlTn2dPaouLu8Aiq1JRd2TTpyS2v7wpSb21277fcH3HhC4zjLVnrGMlSUsSlX4Rs/0YK3Jc5yolbQ6wDvWhcrHjYMWAjqRD6y+Vrz485bujjB6khxyz5LyQJxjbKK65/e+fBiFNTktLlvIU/Cw=;O73D1pPAjFt4MjhBmOGo2Q=="
 ---

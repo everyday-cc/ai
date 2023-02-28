@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T12:13:00Z
 originalUrl: "https://www.fmiblog.com/2023/02/28/logistics-robots-market-is-anticipated-to-hold-a-share-of-us-38-13-billion-by-2033/"
 webUrl: "https://www.fmiblog.com/2023/02/28/logistics-robots-market-is-anticipated-to-hold-a-share-of-us-38-13-billion-by-2033/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Future Market Insights

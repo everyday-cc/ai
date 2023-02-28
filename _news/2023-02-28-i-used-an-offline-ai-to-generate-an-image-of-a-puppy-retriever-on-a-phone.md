@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/qualcomm-offline-ai-image-generat
 webUrl: "https://www.androidauthority.com/qualcomm-offline-ai-image-generator-3290206/"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tabnine readies AI-generated unit testing for developers"
-    excerpt: "Tabnine Test Generation, now in beta, uses artificial intelligence to generate unit tests for Python, Java, and JavaScript code."
-    publishedDateTime: 2023-02-23T23:07:00Z
-    webUrl: "https://www.infoworld.com/article/3688931/tabnine-readies-ai-generated-unit-testing-for-developers.html"
-    ampWebUrl: "https://www.infoworld.com/article/3688931/tabnine-readies-ai-generated-unit-testing-for-developers.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3688931/tabnine-readies-ai-generated-unit-testing-for-developers.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 67
   - title: "These AI-Generated Images of Climate Change Make Me Uncomfortable"
     excerpt: "We may earn a commission from links on this page. It’s getting harder to avoid AI-generated images and text—and harder to spot them in the first place—and that’s true even on Shutterstock, one of the world’s leading providers of stock photography."
     publishedDateTime: 2023-02-25T00:20:00Z

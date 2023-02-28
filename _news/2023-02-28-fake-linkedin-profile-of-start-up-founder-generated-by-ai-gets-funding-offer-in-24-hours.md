@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T14:11:00Z
 originalUrl: "https://www.moneycontrol.com/news/trends/fake-linkedin-profile-of-start-up-founder-generated-by-ai-gets-funding-offer-in-24-hours-10176831.html"
 webUrl: "https://www.moneycontrol.com/news/trends/fake-linkedin-profile-of-start-up-founder-generated-by-ai-gets-funding-offer-in-24-hours-10176831.html"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: moneycontrol.com

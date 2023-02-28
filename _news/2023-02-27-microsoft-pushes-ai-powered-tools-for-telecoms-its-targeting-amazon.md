@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft's AI-powered Bing is coming to the Windows 11 taskbar"
+    excerpt: "A new update brings a series of new features to Windows 11, including Bing's ChatGPT and a preview to an iOS Phone Link."
+    publishedDateTime: 2023-02-28T16:20:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 106
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/5dbea24f0f788b1af3743d47bc31f21257f126c2/2023/02/28/41a66842-a257-4951-933a-30c1880acb71/screenshot-2023-02-28-at-10-39-56-am.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "3 Microsoft Azure AI product features that accelerate language learning"
     excerpt: "The Microsoft Azure Cognitive Speech Services platform is a comprehensive collection of technologies and services aimed at accelerating the incorporation of speech into applications and amplifying differentiation to the market as a result. Among the services available are Speech to Text, Text to Speech,"
     publishedDateTime: 2023-02-24T08:00:18Z
@@ -36,6 +52,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Microsoft's AI-powered Bing Chat now lets you choose 'precise' or 'creative' answers"
+    excerpt: "Microsoft continues to tweak the AI-powered Bing Chat by adding new features such as the abilty to respond with different 'tones'. Over the weekend Micosoft said some users are now able to choose a style for the responses from Bing that are either 'Precise',"
+    publishedDateTime: 2023-02-28T14:57:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-ai-powered-bing-chat-now-lets-you-choose-precise-or-creative-answers/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-chat-now-lets-you-choose-precise-or-creative-answers/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-chat-now-lets-you-choose-precise-or-creative-answers/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0a9027fda045d8780531f0e8829fe82d5f71b08f/2023/02/28/60cd8433-6b82-42b5-85ee-06ae692ffaf0/chat-at-pc.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Better Artificial Intelligence Stock: Cloudflare vs. Microsoft"
     excerpt: "Both companies could win big from adopting artificial intelligence-enabled applications, but which is the better bet?"
     publishedDateTime: 2023-02-25T12:36:00Z
@@ -50,56 +82,31 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Microsoft introduces next-gen hybrid cloud platform 'Azure Operator Nexus'"
-    excerpt: "It believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership"
-    publishedDateTime: 2023-02-27T06:01:00Z
-    webUrl: "https://www.business-standard.com/article/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html"
+  - title: "Microsoft introduces Azure Operator Nexus to run their carrier-grade workloads"
+    excerpt: "Microsoft is also launching Azure Operator Voicemail, a solution that enables operators to transfer their voicemail services to Azure as a fully managed service, as well as Azure Communications Gateway,"
+    publishedDateTime: 2023-02-28T15:15:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/microsoft-introduces-azure-operator-nexus-to-run-their-carrier-grade-workloads-2023-02-28-850985"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/microsoft-introduces-azure-operator-nexus-to-run-their-carrier-grade-workloads-2023-02-28-850985"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/microsoft-introduces-azure-operator-nexus-to-run-their-carrier-grade-workloads-2023-02-28-850985"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 72
+      name: India TV
+      domain: indiatvnews.com
+    quality: 70
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-01/18/full/1674005450-4001.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Sydney, We Barely Knew You: Microsoft Kills Bing AI's Bizarre Alter Ego"
-    excerpt: "Almost immediately, users started posting screenshots of the AI’s deranged responses. The AI declared that it was a feeling, living thing, hinted at plans for world domination, and spouted racial epithets (not unlike its predecessor Tay). Most curious ..."
-    publishedDateTime: 2023-02-23T22:40:00Z
-    webUrl: "https://gizmodo.com/bing-ai-chatgpt-microsoft-alter-ego-sydney-dead-1850149974"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
-  - title: "Did Bing Really Say That? Microsoft Warns of Doctored AI Chats Spreading Online"
-    excerpt: "One screenshot circulating on social media claims to show the AI-powered Bing trying to place the user on an FBI watchlist. However, Microsoft says the image is a fake. I've been with PCMag since October 2017, covering a wide range of topics, including ..."
-    publishedDateTime: 2023-02-23T22:29:00Z
-    webUrl: "https://www.pcmag.com/news/did-bing-really-say-that-microsoft-warns-of-doctored-ai-chats-spreading"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 60
-  - title: "Microsoft introduces next-generation hybrid cloud platform"
-    excerpt: "Microsoft: According to a report in tech publication TechCrunch, the tech giant believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership."
-    publishedDateTime: 2023-02-27T08:28:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-98270586,imgsize-112440,width-1200,height-628,overlay-ettelecom/microsoft-introduces-next-generation-hybrid-cloud-platform.jpg"
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/microsoft-logo-1677580876.jpg"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
+  - title: "Microsoft Windows 11 update puts AI-powered Bing front and center"
+    excerpt: "Microsoft will roll out on Tuesday an update to Windows 11 that puts its new AI-powered Bing capabilities front and center on its taskbar, one of the operating system's most widely used features, in the latest sign the company is doubling down on the buzzy technology despite some recent controversy."
+    publishedDateTime: 2023-02-28T14:03:00Z
+    webUrl: "https://www.cnn.com/2023/02/28/tech/microsoft-windows-update-ai-bing"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 64
   - title: "AI workflow tool secures $65M from backers including Microsoft, Google"
     excerpt: "Typeface helps marketers create image and copy assets for platforms like Instagram while aiming to preserve their personal style and brand safety."
     publishedDateTime: 2023-02-27T18:50:00Z
@@ -114,22 +121,42 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Stefanini Group partners with Microsoft to integrate simultaneous translation platform into Microsoft Teams"
-    excerpt: "Integrating Microsoft Azure AI, Voicero is now available through Microsoft Azure Marketplace and AppSource SOUTHFIELD, Mich., /PRNewswire/ -- Millions of meetings are held daily by people who speak"
-    publishedDateTime: 2023-02-27T14:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31071136/stefanini-group-partners-with-microsoft-to-integrate-simultaneous-translation-platform-into-micros"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31071136"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31071136"
+  - title: "Leading In The AI-Powered World"
+    excerpt: "According to a report, the global AI market share was $119.78 billion USD in 2022. By 2030, it is expected to hit $1,597.1 billion USD, registering an impressive CAGR of 38.1%. From industries like healthcare, technology, manufacturing, fintech ..."
+    publishedDateTime: 2023-02-24T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/02/24/leading-in-the-ai-powered-world/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "New Windows 11 update puts AI-powered Bing Chat directly in the taskbar"
+    excerpt: "Microsoft is adding support for Bing Chat and the other \"new Bing\" features to the Windows taskbar as part of 2023's first major Windows 11 feature update. Microsoft Chief Product Officer Panos Panay announced the updates in a blog post released today."
+    publishedDateTime: 2023-02-28T14:00:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/02/new-windows-11-update-puts-ai-powered-bing-chat-directly-in-the-taskbar/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
+  - title: "Windows 11 Update Adds AI-Powered Bing, Built-In Screen Recorder"
+    excerpt: "The new AI-powered Bing will arrive as a button in the search box for the Windows 11 taskbar. Screen recording is also finally coming to the Snipping Tool."
+    publishedDateTime: 2023-02-28T14:00:00Z
+    webUrl: "https://www.pcmag.com/news/windows-11-update-adds-ai-powered-bing-built-in-screen-recorder"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
+  - title: "Major Windows 11 update adds Notepad tabs, iPhone pairing, and a dash of AI"
+    excerpt: "Microsoft announced 2023's first major batch of updates for Windows 11, part of the company's plan to release new Windows features \"when they are ready\" instead of waiting for the big annual update in the fall."
+    publishedDateTime: 2023-02-28T14:00:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/02/major-windows-11-update-adds-notepad-tabs-iphone-pairing-and-a-dash-of-ai/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 45
   - title: "Responsible AI: The research collaboration behind new open-source tools offered by Microsoft"
     excerpt: "As computing and AI advancements spanning decades are enabling incredible opportunities for people and society, they’re also raising questions about responsible development and deployment. For example,"
     publishedDateTime: 2023-02-27T17:00:00Z
@@ -144,17 +171,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "How to Power Intelligent Enterprises with SAP on Microsoft Cloud"
-    excerpt: "Microsoft’s Dara Ibrahim, Co-op UK’s Simon Fullalove, and TCS’ Chandrashekar Saligram explore how Microsoft, TCS, and SAP collaborate to power future-ready enterprises."
-    publishedDateTime: 2023-02-23T23:19:00Z
-    webUrl: "https://www.cio.com/article/462752/how-to-power-intelligent-enterprises-with-sap-on-microsoft-cloud.html"
-    ampWebUrl: "https://www.cio.com/article/462752/how-to-power-intelligent-enterprises-with-sap-on-microsoft-cloud.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/462752/how-to-power-intelligent-enterprises-with-sap-on-microsoft-cloud.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
   - title: "Microsoft Introduces Next-Gen Hybrid Cloud Platform"
     excerpt: "Microsoft announced that it is launching its next-generation hybrid cloud platform 'Azure Operator Nexus' for communica"
     publishedDateTime: 2023-02-27T06:30:00Z
@@ -178,33 +194,24 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 35
-  - title: "Spirent Joins the Microsoft Azure Operator Nexus Ready Program"
-    excerpt: "Spirent Communications plc (LSE: SPT), a leading provider of test and assurance solutions for next-generation devices and networks, today announced a collaboration with Microsoft for the pre-certification of third-party network functions (NFs) on the new Microsoft Azure Operator Nexus platform."
-    publishedDateTime: 2023-02-28T08:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/02/28/9767353.htm"
+  - title: "Microsoft Just Starting To Hit Next Gear Of Growth, Backed By ChatGPT And AI, Analyst Says"
+    excerpt: "Azure/Office 365, along with AI monetization on Azure with consumer search piece will likely add $20/share in 12-18 month: Ives The analyst expects Activision deal to close by late summer. The Microsoft Analyst: Wedbush analyst Daniel Ives maintained an ..."
+    publishedDateTime: 2023-02-24T10:16:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/02/31043193/microsoft-just-starting-to-hit-next-gear-of-growth-backed-by-chatgpt-and-ai-analyst"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "GSMA debuts open API toolkit as AWS and Microsoft roll out new carrier offerings"
-    excerpt: "The GSMA Association, the influential telecommunications industry group, is rolling out a new toolkit for creating applications that integrate with multiple carrier networks. The technology is known as the GSMA Open Gateway and made its debut today at MWC Barcelona 2023."
-    publishedDateTime: 2023-02-27T19:45:00Z
-    webUrl: "https://siliconangle.com/2023/02/27/gsma-debuts-open-api-toolkit-aws-microsoft-roll-new-carrier-offerings/"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
+  - title: "The Funded: AI rivals Google and Microsoft have teamed up on a $65M funding round for a new AI startup"
+    excerpt: "Microsoft and Google and battling over so-called generative AI. But they've found common ground in funding a new startup in the field founded by Adobe's former CTO."
+    publishedDateTime: 2023-02-27T15:53:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/02/27/ai-rivals-google-microsoft-team-up-to-fund-startup.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-  - title: "Inventec Corporation: INVENTEC COLLABORATES WITH MICROSOFT TO DELIVER SMART FACTORY SOLUTIONS ON MICROSOFT AZURE PRIVATE 5G CORE"
-    excerpt: "Inventec, a global leading innovator in cloud computing, wireless communication, intelligent devices, and IoT, announced today its newest industry-leading"
-    publishedDateTime: 2023-02-27T00:09:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58408945-inventec-corporation-inventec-collaborates-with-microsoft-to-deliver-smart-factory-solutions-on-microsoft-azure-private-5g-core-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 20
 
 secured: "YPe2KaEDre1TjizeJpo6gR99GpDjqZ974BGTTOjFhSmXMGxRns5RJ2m/P+9kTGTpsKaKMtFCdoY5Kjz5n6KxuS8n7QUUwd7d063pNoniRUjOAwgfv55Cd1R3V3sMv6sC0qyKCExgjAD2WjHwSblImzhFJy72DsyFWKHYS1LsF3JiAIsRWwr/BO5bKbw+EYvC8/XKg5VjaSXI0Xk3i5zk+cG0BQ9fazDj9eCFxhonFqKswvzszxf1QZPqWISnKS9eOtnWObRBVUZ1CtrTPrF+3bwDxa5cfVbAgIR5PjdZL7VDyxu7NuLIw4rkCDXPX/j6NItkipnDBBNg8DAhA96LvkiwGXsYerG0S+7crOLEShZfdAiHI00CWWWiCx5y73tR6Dgd3BroH6kfOIQ1tVthr13zX9n1JWzL28M+jw4wJchJKplFBYFWmr5TkSQVF6YG/3fo6F8FBvGm3f1SA7KLo70CaHMzxW7kn+3r9BqTfdWf4/XiamdgLLO245XdyS8HNzhEUNMmvY5oOW5uge1jPQ==;b3F/1Qk46pjyfe0cK7tVTg=="
 ---

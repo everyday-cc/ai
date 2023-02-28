@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T14:40:00Z
 originalUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-patient-medical-alzheimer.html"
 webUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-patient-medical-alzheimer.html"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Medical Xpress
@@ -13,7 +16,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "uPscBqECEWDBN14kETZHHIulLVNgby8FjpH4iRGqNq9/Hb/USYzW4nnLrfdGzixVfw83vHG72SsHqjAXGBq2udwgPTNAONYyZqIUnX9l163hSif60rNvOAYh7BpNS3qKq0zGUDijdoZEf5PYQr0PcQNJN/5tHIXwOX4CoKQb6b3UN+HDLS9Lj5kBpqWIF3ff6SRVADytqY8QxXqnGC2EMfbNHtpqEjvWG5GzXh4spcx9GxOuDNbwBV1mE5giYmIWLnqTIaIjvKyMidnKIV5eSNwwz7DrS21tuBiJYBWQ2Q9P82CJgVfsbJE7wzGrKTvY3pG2o3xGNcaNZ5jfea+i3811iot8rGalvFPSpMMGtWh9aNYO2g2YGg+cZNB2T+Uwv4XBV7Rycw75MJ9jdGjltZpKEwImCMBGpcdxVYLAbo4P/Cn258c1QEZME+AWXhGJq8XhEO+4xF8eODeI5YFpRwFjguvLIOfVxjJCCnC54vaJ0pI5Rovjfc9vQl7rVe1d9QqnzuP2Xkxz5kqpwZcgkQ==;nj6d5SmkTVHKepIpmwkZag=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-artificial-intel-2.jpg"
+    width: 1400
+    height: 1728
+    isCached: true
+
+secured: "/3ZzH8DCHo1HWoJ6iulUeuwwKaThVmD3a/jnLNDCtSzM4+m3mAHyHrKeY8+7ctAX3nf/2R3A8fDsS3vtk89p9DDaHcC4/MlXMZ/ZbKppyVFqxP2kZTmQSDo0DzkM9DvPA+tj5UEbCY/FfHl4nPRHtfHCxm7gdw7Kd8Oflb0njtNY+Xx3PXAPLPQNXdDlOtAXvKbgHR4z9UhOK5Vafq3sh3Kzd16Gu99RzVwtiXYtjcMx2ySG8rrsk4uf0VLIIEn9fVkC79jBeM8phFRxObnc7TYeB4lq6X5Cq8LmmwCRCitupfNhT8/LUGjElYrao0eDZO0uX8MnrBrUnvgzDZseAtiNjX2NbGLTYBK+K9votKw=;ioJU9eqCgNLyXV+ZHnDQaA=="
 ---
 

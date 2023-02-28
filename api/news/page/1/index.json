@@ -2,6 +2,206 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-01-microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar.md",
+      "title": "Microsoft's AI-powered Bing is coming to the Windows 11 taskbar",
+      "excerpt": "A new update brings a series of new features to Windows 11, including Bing's ChatGPT and a preview to an iOS Phone Link.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
+      "originalUrl": "https://www.zdnet.com/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 266,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5dbea24f0f788b1af3743d47bc31f21257f126c2/2023/02/28/41a66842-a257-4951-933a-30c1880acb71/screenshot-2023-02-28-at-10-39-56-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
+      "publishedDateTime": "2023-02-28T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-torc-robotics-announces-agreement-to-acquire-algolux.md",
+      "title": "Torc Robotics Announces Agreement to Acquire Algolux",
+      "excerpt": "Torc Robotics, an independent subsidiary of Daimler Truck AG and a pioneer in commercializing self-driving vehicle technology, announced today that it has signed an",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g31095754/torc-robotics-announces-agreement-to-acquire-algolux",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g31095754/torc-robotics-announces-agreement-to-acquire-algolux",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31095754",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31095754",
+      "publishedDateTime": "2023-02-28T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-the-intersection-between-ai-and-blockchain-technology-industries-of-tomorrow.md",
+      "title": "The Intersection Between AI And Blockchain Technology – Industries Of Tomorrow",
+      "excerpt": "The intersection between AI and blockchain technology has the potential to transform various industries by enhancing their security, transparency, and overall efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe18e3c3faa2f1d106f7ee/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/amp/",
+      "publishedDateTime": "2023-02-28T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-face-recognition-software-led-to-his-arrest-it-was-dead-wrong.md",
+      "title": "Face Recognition Software Led to His Arrest. It Was Dead Wrong",
+      "excerpt": "But an intelligence analyst using face recognition software had labeled him a possible match with the suspect seen on CCTV footage from the bus, police records show, and an officer had confirmed it. At a police station and in a meeting with her husband’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/",
+      "originalUrl": "https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63f94dcc8695ea54b16e31ff/master/pass/Lights_Over_Head.png",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/amp",
+      "publishedDateTime": "2023-02-28T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-i-used-an-offline-ai-to-generate-an-image-of-a-puppy-retriever-on-a-phone.md",
       "title": "I used an offline AI to generate an image of a puppy retriever on a phone",
       "excerpt": "We tested Qualcomm's offline AI image generator, which runs on a phone and is said to take less than 15 seconds. How fast and good was it?",
@@ -10,7 +210,7 @@
       "originalUrl": "https://www.androidauthority.com/qualcomm-offline-ai-image-generator-3290206/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -149,7 +349,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -192,7 +392,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -501,7 +701,7 @@
       "originalUrl": "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 584,
+      "heat": 604,
       "tags": null,
       "images": [
         {
@@ -803,7 +1003,7 @@
       "originalUrl": "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1041,196 +1241,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse.md",
-      "title": "Meta Launches Its AI The ‘LLaMA’ ; Mark Zuckerberg Has Finally Something Better Than The Metaverse",
-      "excerpt": "Amid a flurry of generative AI cluttering the interwebs, now Facebook’s parent Meta has dangled its ChatGPT rival carrot. Dubbed the Large Language Meta AI or LLaMA, the AI is positioned as a game changer by Meta.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse",
-      "originalUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/q-11_t5k7.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1",
-      "publishedDateTime": "2023-02-27T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-how-machine-learning-will-transform-your-industry.md",
-      "title": "How Machine Learning Will Transform Your Industry",
-      "excerpt": "While ML and associated technologies like natural language processing are gaining traction in current workflows, it's important to pay close attention to ethical standards that differentiate humans from machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631b3e240f6280e0b3d70386/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 839,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/amp/",
-      "publishedDateTime": "2023-02-27T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-whats-new-in-azure-data-ai-azure-is-the-best-place-to-build-and-run-ai-workloads.md",
-      "title": "What's new in Azure Data & AI: Azure is the best place to build and run AI workloads",
-      "excerpt": "Bringing together purpose-built AI infrastructure and managed data and AI services into one environment streamlines management and automation, often reducing the complexity of building, training, and bringing AI models into production.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/",
-      "originalUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T01:00:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems.md",
-      "title": "Tesla’s Full Self Driving Isn’t The Only Technology With Speed Sign Detection Problems",
-      "excerpt": "Speed limiting technology has also been mandated over in Europe, where the EU’s Vehicle General Safety Regulation has now been in force for a little over 6 months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/",
-      "originalUrl": "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fbc34008dd180580147637/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/",
-      "publishedDateTime": "2023-02-26T22:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

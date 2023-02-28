@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-excerpt: "The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is expected to grow at a CAGR of 21.5% from 2023 to 2028 according to a new report by MarketsandMarkets™."
-publishedDateTime: 2023-02-27T18:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
+excerpt: "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the field of Al computer vision."
+publishedDateTime: 2023-02-27T17:57:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
+webUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
 type: article
 quality: 21
 heat: -1
@@ -425,6 +425,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision in Artificial Intelligence (AI) Market Analysis Report 2023 Along with Statistics Figures, till 2029"
+    excerpt: "What are the Key Industry Development in Computer Vision in Artificial Intelligence (AI) Market? Computer Vision in Artificial Intelligence (AI) Marketsize, segment (mainly coveringMajorType (, Hardware,"
+    publishedDateTime: 2023-02-28T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
   - title: "Artificial Intelligence (AI) in Construction Market Research Report-Forecast 2023 to 2029"
     excerpt: "Top “ Artificial Intelligence (AI) in Construction Market ” Size 2023 Key players Profiled in the Report are [, SmarTVid.Io, Microsoft, Predii, Lili.Ai, Bentley Systems, IBM, Doxel, Oracle, Autodesk,"
     publishedDateTime: 2023-02-27T16:23:00Z
@@ -578,6 +587,15 @@ related:
         width: 465
         height: 250
         isCached: true
+  - title: "Artificial Intelligence in Precision Farming Market Analysis Report 2023 Along with Statistics Figures, till 2029"
+    excerpt: "Artificial Intelligence in Precision Farming Market 2022 Report offers a Inclusive valuation regarding the competitive landscape of the Artificial Intelligence in Precision Farming market and includes a deep description of performance by top key global players (Experimental Study,"
+    publishedDateTime: 2023-02-28T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
   - title: "Cloud AI in Fintech Market Size 2023-2029 Current Development, Sale, Revenue, Application, Production Cost, Revenue Region"
     excerpt: "Feb (The Expresswire) -- \"Cloud AI in Fintech Market\" Report covers specified competitive outlook consisting of the market proportion and"
     publishedDateTime: 2023-02-24T02:04:00Z
@@ -611,6 +629,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "4WjC+fyYQbkXJn2x0KiH8wytE23t9KiXkkdssJAuvFhrNEuH9/zHy2nUjjDOUQoDTdxCMZt2oI1yAk20EhedgeIUmxZZlo2rFHUMJvpsgs5OQUcox2UfQbMqzeSi/aTHOaxEcyBqHKOYbrREGDq5X0ZeK0lHe9rOdE/vrByanDDsYQxPFTCn8DCy9GfRCLCZg3ySiIE2+rLz5X0Ru4LMtpnWDyqP7hM13zIgwN6+iE+6e31mVVZLGXvIhOyG2tmewydhBzsPaZ6e/JwTCPSqdV2XCOPQd6kHLWySLLZt8VgeW9dPa7AOccpoj/5x5Ohm4SGM4WzO+3O+4H5aGseIU/QUZFJIX2S5/HNh7VcjcRrYbdj7/nvXc2LXchOtjE570YDCCTy5nC6cdBy/H7tAtepz5w1Zbh/+ThuRB+vIo7jh6WQ6S7MgAs6YyEkczxJCifOdl7oy+CpUbwBRXmxa6v/KxVdeun3QUTAys7jzSs5Sl7a3Zo4Gn6RZI6ZQREH1wN+t0ogrC4YcwOj7VsBd7g==;mSrAvu3+ln9y4WXqdQ5flw=="
+secured: "39O+pWDkWhuB8yOA+O9jI7oK6o+X9XmXLvb3AqOn6ue+6cIncVkuAFR7++seX+upwPa4mAJ2vy0iEDm/EdIOk09xSH2P5TYaBsLgjdNGndG//l7BuUYT1stQw8vAO7ZLdA3VAY4j++R3VBTQfZ5PVIVnadIH0x+5qqHnbBbzJShyP/ujuDdbYtMJrmJmJhkVPW2hwI/Z5QAxUIIJEiv3BYGYVYqO7SHkWC9fv+bO28l1h6cA099Si9I9ZKtVvLwMg35jbVjbiKGr00xgOdunuVkCJIOUKnnJSJvyQyutakjzJYmfmACgqsoCPJptEldjNBb/MdKLPAcAZqra4nkFX8shyD67oKE0NBYVZOGrunDVgV7btx3gPNQ1V6Z5HT7wPNiLRcW90JnjOYlJgfpFeGdZ94XlQDBoegaVuJbkMeo9tJYWNk+y2VvWrrMmdf14bM2eL4fk14yO0Hv+faeZFubWXbNdX5+7S+s8FH3xm1kubRQfCgFwVQTcbMarB/1VsN9MtXhzji1Vo7YRvKtwmA==;hlG/5rhgrSS89MQGUy+Pcw=="
 ---
 

@@ -137,20 +137,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Technology Market Size, Share, Outlook and Forecast to 2028"
-    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Speech and Voice Recognition Technology Market\" Research Report 2023 Provides a Basic overview of the Industry"
-    publishedDateTime: 2023-02-24T00:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-share-outlook-and-forecast-to-2028-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
     excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
     publishedDateTime: 2023-02-27T12:43:00Z

@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-09-computer-vision-maps-christmas-lights.md",
+      "title": "Computer Vision Maps Christmas Lights",
+      "excerpt": "For some things, hooking up a relay to a microcontroller can get the job done, but [Andy] has turned to computer vision to solve some of the more time-consuming aspects of these displays.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/",
+      "originalUrl": "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/10/led-light-map-main.jpg",
+          "width": 1195,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions.md",
+      "title": "Protecting Critical Utilities Customers and Assets with Computer Vision AI Solutions",
+      "excerpt": "To continuously deliver electricity successfully and safely at good rates, Utilities must make use of emerging technologies such as computer vision, analytics and AI to increase efficiency, maintain operations, and improve the safety and security of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tdworld.com/resources/webinars/webinar/21256517/protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions",
+      "originalUrl": "https://www.tdworld.com/resources/webinars/webinar/21256517/protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/12/dreamstime_xxl_132528154.63a0768d0c203.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "T&D",
+        "domain": "tdworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-08-innocent-black-man-jailed-after-facial-recognition-got-it-wrong-his-lawyer-says.md",
       "title": "Innocent Black Man Jailed After Facial Recognition Got It Wrong, His Lawyer Says",
       "excerpt": "He was locked up for nearly a week. A facial recognition tool identified Reid as a suspect in the theft of the luxury purses, and that was all the cops needed to put him in jail, according to the ...",
@@ -1195,101 +1281,6 @@
         "name": "TopSpeed",
         "domain": "topspeed.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-shamir-selects-imdts-3d-stereo-vision-technology-to-power-its-next-generation-digital-measurement-device.md",
-      "title": "SHAMIR SELECTS IMDT's 3D STEREO VISION TECHNOLOGY TO POWER ITS NEXT-GENERATION DIGITAL MEASUREMENT DEVICE",
-      "excerpt": "Spark™ 4, Shamir's newest ultra-precise digital measurement device, deploys IMDT's accurate 3D technology to offer opticians a simple and effective ophthalmic measurement experience KFAR SABA, Israel,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/12/16/9731983.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/12/16/9731983.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1968947/imdt_spark4.jpg",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-16T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-16-toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve.md",
-      "title": "Toxic waste is becoming a massive problem that AI can solve",
-      "excerpt": "The issue of hazardous waste should not be taken lightly; if left unchecked, there are serious repercussions. Here's how AI can help.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/",
-      "originalUrl": "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340683804.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 704,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/amp/",
-      "publishedDateTime": "2022-12-15T20:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

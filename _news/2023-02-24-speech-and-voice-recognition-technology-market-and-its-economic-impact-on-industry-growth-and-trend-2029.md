@@ -65,6 +65,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Natural Language Processing Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
+    excerpt: "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Cloud Natural"
+    publishedDateTime: 2023-02-28T03:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
 
 secured: "Rh2g/pgDCVSC95KswPtO9nRK469NMZP0VQ2MzZ1jSbls4fyjhNojVEH4iHLCXAHlPl8FUKLtkW1hOBErlBt1/ASvLid48HBfF/kGbUfO+B17phvgHJ46+BGcv8LFLNyFwD+l+E3VSA1O7tnD0lSDtcxYQ+uRRHl1bCpw6nDC9MLufH0OPprusl2CzCSy+rVHoSdVNxYXipD+PYw2/PgnGA2KEROUJPUgbAyO9kpHK7JZrqE17vHzAbFEuNxbHmrP9whGTBMHmLpSDn1nZ1yD/isK/pUzELMqbH12CHfrQiztT90pyLFDryiJv7+VL4Zu5npg3BfjIQt9YaYgZnLD2iscZWOSztLO1rLmj4c2m8w=;wWkSmWQ2uVX0w38cE4omDA=="
 ---

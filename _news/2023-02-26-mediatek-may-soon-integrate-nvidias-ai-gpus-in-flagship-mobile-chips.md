@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/mediatek-ma
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
         width: 1420
         height: 1000
         isCached: true
-  - title: "Chip Maker Nvidia Shares Soar 14% As Imaginations For AI Future Run Wild"
-    excerpt: "CEO Jensen Huang bragged his company will be “the best AI salespeople [in] the world,” but some say Nvidia’s AI-fueled stock boost is unwarranted."
-    publishedDateTime: 2023-02-23T22:22:00Z
-    webUrl: "https://www.forbes.com/sites/dereksaul/2023/02/23/chip-maker-nvidia-shares-soar-14-as-imaginations-for-ai-future-run-wild/"
-    ampWebUrl: "https://www.forbes.com/sites/dereksaul/2023/02/23/chip-maker-nvidia-shares-soar-14-as-imaginations-for-ai-future-run-wild/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/02/23/chip-maker-nvidia-shares-soar-14-as-imaginations-for-ai-future-run-wild/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
   - title: "Nvidia results show its growing lead in AI chip race"
     excerpt: "AI is taking over the tech industry and, according to research firm Gartner, the share of specialized chips such as GPUs that are used in data centers is expected to rise to more than 15% by 2026 ..."
     publishedDateTime: 2023-02-24T01:30:00Z

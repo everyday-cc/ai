@@ -82,6 +82,15 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 17
+  - title: "AI News roundup: Elon Musk working on ChatGPT rival, Snapchat eyes slice of AI pie, Zoom's AI integrations and more"
+    excerpt: "Elon Musk is recruiting Igor Babuschkin, a researcher who recently left Google's parent company Alphabet's AI unit, to develop an alternative to ChatGPT. The tech billionaire has approached AI (artificial intelligence) researchers in recent weeks to form a new research lab for it,"
+    publishedDateTime: 2023-02-28T13:28:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-elon-musk-working-on-chatgpt-rival-snapchat-eyes-slice-of-ai-pie-zooms-ai-integrations-and-more-10176581.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 0
 
 secured: "GbdwPpoe33q4D4Nc89hGRxzH78raYt5+nwp3NE9L/3Nqv+FxjVSKq24CyWSPJMVWfYqGspUv2OCHCzlBYQJLZvyZfAGj9Fv13xWG/kxjxd3TLnKli0j9kzbpgQCDCn5atlQuW+B6JRBh4Y0OZOsc5osEsdMLfEkj2yxAjshz6mz0PRfqn+doj95NG2s6Ezf8oIC+iE9KAfHKOGyMcx20Wo5pxVrpzZ3WbMhUmUkyE0ZT78oXfzd1og4MiGSBogLlFK1M3I1pnbSpQTPPe3m0tV016YyJkdCXu1FI0jQPjIKnq2QmYTC+x/Y8KRqMWVGIHOihuLimUJ2IVVRK/klY7tlaeKQnxva9ME1STdMiIku706nlvui8KvXrtd4tiqSdRD/+l6K4YfOpcmlCVNaQC/T44EWiYkQGpF03fPgPQgXBIp80v/UtVwV9Ruq0nXAK+PuiSjn6lyqKCMgs3cpPD1jDhdRl1+ijJStQVedpR/NWHeqSepcylknYwffSJgrKYlLyGmddX0W8nh9hoKgd8Q==;u3q5o/60qhdKiV/EMi7wkg=="
 ---

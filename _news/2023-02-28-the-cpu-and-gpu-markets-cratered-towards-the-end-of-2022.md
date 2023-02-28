@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T13:41:00Z
 originalUrl: "https://www.techspot.com/news/97754-cpu-gpu-markets-cratered-towards-end-2022.html"
 webUrl: "https://www.techspot.com/news/97754-cpu-gpu-markets-cratered-towards-end-2022.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: TechSpot

@@ -49,17 +49,6 @@ related:
         width: 1420
         height: 1000
         isCached: true
-  - title: "Chip Maker Nvidia Shares Soar 14% As Imaginations For AI Future Run Wild"
-    excerpt: "CEO Jensen Huang bragged his company will be “the best AI salespeople [in] the world,” but some say Nvidia’s AI-fueled stock boost is unwarranted."
-    publishedDateTime: 2023-02-23T22:22:00Z
-    webUrl: "https://www.forbes.com/sites/dereksaul/2023/02/23/chip-maker-nvidia-shares-soar-14-as-imaginations-for-ai-future-run-wild/"
-    ampWebUrl: "https://www.forbes.com/sites/dereksaul/2023/02/23/chip-maker-nvidia-shares-soar-14-as-imaginations-for-ai-future-run-wild/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/02/23/chip-maker-nvidia-shares-soar-14-as-imaginations-for-ai-future-run-wild/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
   - title: "AMD slowly catching up to Nvidia in GPU sales"
     excerpt: "Thanks to its highly scalable GPU architectures, AMD GPUs are now powering a wide range of devices from consoles to PCs to mobiles."
     publishedDateTime: 2023-02-24T13:35:00Z

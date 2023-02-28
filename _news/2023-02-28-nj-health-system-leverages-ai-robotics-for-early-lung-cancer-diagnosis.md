@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T13:30:00Z
 originalUrl: "https://healthitanalytics.com/news/nj-health-system-leverages-ai-robotics-for-early-lung-cancer-diagnosis"
 webUrl: "https://healthitanalytics.com/news/nj-health-system-leverages-ai-robotics-for-early-lung-cancer-diagnosis"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Analytics

@@ -283,6 +283,40 @@
       ]
     },
     {
+      "path": "_news/2023-02-22-aws-announces-aws-telco-network-builder.md",
+      "title": "AWS Announces AWS Telco Network Builder",
+      "excerpt": "(NASDAQ: AMZN), today announced the general availability of AWS Telco Network Builder, a fully managed service that helps customers deploy, run, and scale telco networks on AWS. Now, communications service providers (CSPs) can use their familiar telecom industry standard language to describe the details of their network (e.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-aws-telco-network-builder-/2023/02/21/9763854.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-aws-telco-network-builder-/2023/02/21/9763854.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T10:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-amazon-web-services-pairs-with-hugging-face-to-target-ai-developers.md",
       "title": "Amazon Web Services pairs with Hugging Face to target AI developers",
       "excerpt": "The logo for Amazon Web Services (AWS) is seen at the SIBOS banking and financial ... Swami Sivasubramanian, vice president of database, analytics and machine learning at AWS, said he believes technologies like Trainium can help developers save money ...",
@@ -333,6 +367,49 @@
         "AI in Finance",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions.md",
+      "title": "C3 AI Expands Strategic Collaboration Agreement with AWS to Deliver Enhanced AI Solutions",
+      "excerpt": "C3 AI is a leading enterprise AI software provider building enterprise-scale AI applications and accelerating customers’ digital transformation. For example, C3 AI Law Enforcement helps local government agencies use machine learning (ML) to organize and analyze datasets,",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions/article_081fbf42-1473-5c8f-98a0-8b54709d63d7.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions/article_081fbf42-1473-5c8f-98a0-8b54709d63d7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -854,34 +931,25 @@
     },
     {
       "path": "_news/2023-02-14-sway-ai-joins-the-aws-partner-network-to-make-artificial-intelligence-accessible-for-all.md",
-      "title": "Sway AI Joins the AWS Partner Network to Make Artificial Intelligence Accessible for All",
+      "title": "Sway AI Joins The AWS Partner Network To Make Artificial Intelligence Accessible For All",
       "excerpt": "BOSTON, Feb. 14, 2023 /PRNewswire/ -- Today, Sway AI, a leading provider of cloud and no-code artificial intelligence (AI ... joined the Amazon Web Services (AWS) Partner Network (APN), a global ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30900495/sway-ai-joins-the-aws-partner-network-to-make-artificial-intelligence-accessible-for-all",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30900495/sway-ai-joins-the-aws-partner-network-to-make-artificial-intelligence-accessible-for-all",
+      "webUrl": "https://menafn.com/1105572596/Sway-AI-Joins-The-AWS-Partner-Network-To-Make-Artificial-Intelligence-Accessible-For-All",
+      "originalUrl": "https://menafn.com/1105572596/Sway-AI-Joins-The-AWS-Partner-Network-To-Make-Artificial-Intelligence-Accessible-For-All",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30900495",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30900495",
-      "publishedDateTime": "2023-02-14T07:06:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T07:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1352,102 +1420,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-tech-moves-aws-product-head-joins-faculty-bezos-earth-fund-hires-blackrock-leader-and-more.md",
-      "title": "Tech Moves: AWS product head joins Faculty; Bezos Earth Fund hires BlackRock leader; and more",
-      "excerpt": "Submissions: tips@geekwire.com — Jacob Sullivan is now chief product officer at Faculty, a London-based company that builds artificial intelligence systems. Sullivan was previously head of product for the AI DevOps group at Amazon Web Services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/tech-moves-aws-product-head-joins-faculty-bezos-earth-fund-hires-blackrock-leader-and-more/",
-      "originalUrl": "https://www.geekwire.com/2023/tech-moves-aws-product-head-joins-faculty-bezos-earth-fund-hires-blackrock-leader-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/02/Screen-Shot-2023-02-08-at-9.28.04-AM.png",
-          "width": 772,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T11:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-why-amazon-web-services-is-going-to-space.md",
-      "title": "Why Amazon Web Services Is Going To Space",
-      "excerpt": "Credit: Blue Origin Back on Earth, AWS already provides cloud-computing services to the space industry—for example, to satellite companies such as HawkEye 360, a radio-frequency-sniffing satellite operator that used the Amazon SageMaker Autopilot ...",
-      "sourceUrl": null,
-      "webUrl": "https://aviationweek.com/aerospace/commercial-space/why-amazon-web-services-going-space",
-      "originalUrl": "https://aviationweek.com/aerospace/commercial-space/why-amazon-web-services-going-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2023-02/aws-1_d-orbit_promo.jpg?itok=DJnXFHYI",
-          "width": 595,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aviation Week",
-        "domain": "aviationweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

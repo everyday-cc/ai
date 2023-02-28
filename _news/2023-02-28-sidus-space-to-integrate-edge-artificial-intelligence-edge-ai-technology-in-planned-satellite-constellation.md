@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T14:23:00Z
 originalUrl: "https://spaceref.com/space-commerce/sidus-space-to-integrate-edge-artificial-intelligence-edge-ai-technology-in-planned-satellite-constellation/"
 webUrl: "https://spaceref.com/space-commerce/sidus-space-to-integrate-edge-artificial-intelligence-edge-ai-technology-in-planned-satellite-constellation/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: SpaceRef

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2027-animal-healthcare-m
 webUrl: "https://www.marketwatch.com/press-release/2027-animal-healthcare-market-2023-artificial-intelligence-innovations-sustainability-updates-2023-02-26"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare AI Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
-    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Healthcare AI Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,"
-    publishedDateTime: 2023-02-23T22:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2028 Acute Coronary Syndrome (ACS) Market 2023 Artificial Intelligence, Innovations, Sustainability Updates"
     excerpt: "The “Acute Coronary Syndrome (ACS) market“ is set to experience magnificent growth in the coming years, with a"
     publishedDateTime: 2023-02-27T03:30:00Z

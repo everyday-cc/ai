@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/28/exploring-the-possibilities-of-conversational-ai-what-do-we-want/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/28/exploring-the-possibilities-of-conversational-ai-what-do-we-want/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

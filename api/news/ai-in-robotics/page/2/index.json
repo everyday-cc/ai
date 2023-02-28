@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-16-artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today.md",
+      "title": "Artificial intelligence, robots and blockchain deliver next-generation healthcare, today",
+      "excerpt": "Artificial intelligence, for example, is doing the “dirty work” of drug discovery by running simulations of drug efficacy instead of timely trial-and-error testing. Blockchain secures healthcare records and connects patients with new clinical trials.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today",
+      "originalUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NjJlMjMwZDE4YTZhZmQ1N2E4MjEyM2NkMWMwNjU4Ni5qcGc=.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/artificial-intelligence-robots-and-blockchain-deliver-next-generation-healthcare-today/amp",
+      "publishedDateTime": "2023-02-16T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future.md",
       "title": "What will Indian healthcare look like in 2047? Robotics, AI, biotech will shape the future",
       "excerpt": "Healthcare of 2047 will be substantially different from today. All ecosystem players will be impacted by these changes and will need to be prepared to embrace emerging trends and pivot their business models as appropriate.",
@@ -1287,49 +1332,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-the-robots-coming-for-our-jobs-will-also-help-fire-us.md",
-      "title": "The Robots Coming for Our Jobs Will Also Help Fire Us",
-      "excerpt": "Artificial intelligence has infiltrated decision-making on hiring, training and evaluations. Now it’s creeping into the layoff process as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-02-07/robots-coming-for-our-jobs-will-also-help-fire-us",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-02-07/robots-coming-for-our-jobs-will-also-help-fire-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

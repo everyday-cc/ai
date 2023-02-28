@@ -2,6 +2,246 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-23-healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence.md",
+      "title": "Healthcare May Be The Ultimate Proving Ground For Artificial Intelligence",
+      "excerpt": "Healthcare may lag other industries in artificial intelligence (AI) adoption, but may be the ultimate proving ground where AI can really demonstrate its worth across many dimensions — introducing greater productivity and responsiveness into a sector ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/22/healthcare-may-be-the-ultimate-proving-ground-for-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-02-22T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-our-progress-toward-quantum-error-correction.md",
+      "title": "Our progress toward quantum error correction",
+      "excerpt": "For the first time ever, our Quantum AI researchers have experimentally demonstrated it’s possible to reduce errors by increasing the number of qubits.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/message-ceo/our-progress-toward-quantum-error-correction/",
+      "originalUrl": "https://blog.google/inside-google/message-ceo/our-progress-toward-quantum-error-correction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/message-ceo/our-progress-toward-quantum-error-correction/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/message-ceo/our-progress-toward-quantum-error-correction/amp/",
+      "publishedDateTime": "2023-02-22T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service.md",
+      "title": "AWS And Hugging Face Partner To Offer An Alternative To Microsoft’s Azure OpenAI Service",
+      "excerpt": "The Hugging Face community can leverage AWS ML services and infrastructure, such as Amazon SageMaker, AWS Trainium and AWS Inferentia, to train, fine-tune and deploy the models. With the hype and attention that LLMs have been getting, I expected AWS to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/02/22/aws-and-hugging-face-partner-to-offer-an-alternative-to-microsofts-azure-openai-service/amp/",
+      "publishedDateTime": "2023-02-22T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-artificial-intelligence-delivers-its-latest-innovation.md",
+      "title": "Artificial Intelligence Delivers Its Latest Innovation",
+      "excerpt": "\"Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.\" -Ginni Rometty, Executive Chairman of IBM Artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
+      "originalUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2198602/computer-code.jpg",
+          "width": 2500,
+          "height": 1668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-delivers-its-latest-innovation-1782812?amp=1",
+      "publishedDateTime": "2023-02-22T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "IBM AI",
+        "AI in Autos",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-baidu-to-deploy-conversational-ai-across-search-in-car-entertainment-and-more.md",
+      "title": "Baidu to deploy conversational AI across search, in-car entertainment and more",
+      "excerpt": "This appears to mirror the collaboration between Microsoft and OpenAI, through which Azure’s customers can access the AI lab’s technologies. Lastly, Baidu plans to boost its in-car voice assistant with Ernie. The search giant has over the past few ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/",
+      "originalUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1061811420.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/22/baidu-chatgpt/amp/",
+      "publishedDateTime": "2023-02-22T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-baidus-board-authorizes-share-buyback-program.md",
       "title": "Baidu's Board Authorizes Share Buyback Program",
       "excerpt": "(RTTNews) - AI company Baidu, Inc. (BIDU) announced its board of directors has authorized a new share repurchase program under which the company may repurchase up to $5 billion of its shares ...",
@@ -340,6 +580,40 @@
       ]
     },
     {
+      "path": "_news/2023-02-22-aws-announces-aws-telco-network-builder.md",
+      "title": "AWS Announces AWS Telco Network Builder",
+      "excerpt": "(NASDAQ: AMZN), today announced the general availability of AWS Telco Network Builder, a fully managed service that helps customers deploy, run, and scale telco networks on AWS. Now, communications service providers (CSPs) can use their familiar telecom industry standard language to describe the details of their network (e.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-aws-telco-network-builder-/2023/02/21/9763854.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-aws-telco-network-builder-/2023/02/21/9763854.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T10:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai.md",
       "title": "Deep Learning Robotics (DLR) Awarded New Patent for Revolutionary Technology in Robotics and AI",
       "excerpt": "Deep Learning Robotics (DLR), a leading innovator in the field of robotics and artificial intelligence, announced at the AI Week in Tel-Aviv the grant of a new patent for",
@@ -478,6 +752,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions.md",
+      "title": "C3 AI Expands Strategic Collaboration Agreement with AWS to Deliver Enhanced AI Solutions",
+      "excerpt": "C3 AI is a leading enterprise AI software provider building enterprise-scale AI applications and accelerating customers’ digital transformation. For example, C3 AI Law Enforcement helps local government agencies use machine learning (ML) to organize and analyze datasets,",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions/article_081fbf42-1473-5c8f-98a0-8b54709d63d7.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions/article_081fbf42-1473-5c8f-98a0-8b54709d63d7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -803,349 +1120,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-roger-c-schank-theorist-of-artificial-intelligence-dies-at-76.md",
-      "title": "Roger C. Schank, Theorist of Artificial Intelligence, Dies at 76",
-      "excerpt": "By Steve Lohr Roger C. Schank, a scientist who made influential contributions to the field of artificial intelligence and then, as an academic, author and entrepreneur, focused on how people learn ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
-      "originalUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/17Schank-czhl-print1/17Schank-czhl-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
-      "publishedDateTime": "2023-02-20T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-artificial-intelligence-opens-new-possibilities-if-the-data-allows.md",
-      "title": "Artificial Intelligence Opens New Possibilities, If The Data Allows",
-      "excerpt": "It's the result of the data behind it. Can artificial intelligence make us more creative and innovative? It’s a subject of hot debate and discussion. A recent analysis out of the Gottlieb Duttweiler Institute suggests that,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f3fbedc81e448fba56b89c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/20/artificial-intelligence-opens-new-possibilities-if-the-data-allows/amp/",
-      "publishedDateTime": "2023-02-20T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-cryptocurrency-miners-are-leading-the-next-stage-of-ai.md",
-      "title": "Cryptocurrency miners are leading the next stage of AI",
-      "excerpt": "Cryptocurrency miners are converting their mining rigs to facilitate AI processing, and the implications could be both legal and financial.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/cryptocurrency-miners-may-lead-the-next-stage-of-ai",
-      "originalUrl": "https://cointelegraph.com/news/cryptocurrency-miners-may-lead-the-next-stage-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDIvYzk0MDZjNDItYmQ4MC00OWYzLWE4NWQtNjZlZjExZDc4NzA0LmpwZw==.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/cryptocurrency-miners-may-lead-the-next-stage-of-ai/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/cryptocurrency-miners-may-lead-the-next-stage-of-ai/amp",
-      "publishedDateTime": "2023-02-20T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-fine-tune-text-to-image-stable-diffusion-models-with-amazon-sagemaker-jumpstart.md",
-      "title": "Fine-tune text-to-image Stable Diffusion models with Amazon SageMaker JumpStart",
-      "excerpt": "In November 2022, we announced that AWS customers can generate images from text with Stable Diffusion models in Amazon SageMaker JumpStart. Stable Diffusion is a deep learning model that allows you to generate realistic, high-quality images and stunning art in just a few seconds. Although creating impressive",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-text-to-image-stable-diffusion-models-with-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-text-to-image-stable-diffusion-models-with-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/20/Featured-images-for-ML-13389.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-20T07:59:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-sony-challenges-gran-turismo-7-players-to-race-against-gt-sophy-ai.md",
-      "title": "Sony Challenges Gran Turismo 7 Players to Race Against GT Sophy AI",
-      "excerpt": "A new Gran Turismo Sophy 'Race Together' time-limited in-game event will be available for any players who have reached Collector Level 6. Four races (Tsukuba Circuit, Alsace Villa",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/sony-challenges-gran-turismo-7-players-to-race-against-gt-sophy-ai",
-      "originalUrl": "https://www.pcmag.com/news/sony-challenges-gran-turismo-7-players-to-race-against-gt-sophy-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/06mbRwaBo3EQ2rKNbRdZXt9-1.fit_lim.size_1200x630.v1676904976.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-20T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software.md",
-      "title": "Tesla Recall Hits Nearly 363,000 Cars With “Full Self-Driving” Software",
-      "excerpt": "Tesla is recalling almost 363,000 vehicles due to concerns about its Full Self-Driving Beta software The National Highway Traffic Safety Administration posted the recall notice on their website last Thursday Tesla will address the recall with an over-the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/amp/",
-      "publishedDateTime": "2023-02-20T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-race-against-sonys-ai-in-gran-turismo-7-for-a-limited-time.md",
-      "title": "Race against Sony's AI in 'Gran Turismo 7' for a limited time",
-      "excerpt": "Gamers around the world will get their shot at racing Sony AI’s GT Sophy tomorrow, when the Gran Turismo 7 racing AI arrives for a limited time on Playstation 5..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/sony-ai-racing-gt-sophy-gran-turismo-7-limited-time-ps5-140054394.html",
-      "originalUrl": "https://www.engadget.com/sony-ai-racing-gt-sophy-gran-turismo-7-limited-time-ps5-140054394.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/nhHY_kEDkJ.mqOyNqRjbcg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/31f1cea0-ae2f-11ed-a187-dafa10870a16.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/sony-ai-racing-gt-sophy-gran-turismo-7-limited-time-ps5-140054394.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-ai-racing-gt-sophy-gran-turismo-7-limited-time-ps5-140054394.html",
-      "publishedDateTime": "2023-02-20T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

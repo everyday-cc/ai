@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 839
     isCached: true
+
+related:
+  - title: "How AI Will Transform Events"
+    excerpt: "Stefan Deeran is the co-founder and COO of Vendelux, a leading AI platform for event marketers and conference organizers. Business networking events and conferences are expected to return to pre-pandemic levels this year, but they’ll look different than ..."
+    publishedDateTime: 2023-02-28T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/28/how-ai-will-transform-events/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "9yp5ymdofiQDSs/oQ7mIMx0XS9WQxYPbRJurr17LsSwIlTKvISZyQqQu9FYqDDv+z3GAsKKDDcoeWNKb8AyKy46RF47yKm1NAqRs2MqfiDm05pQTqhhgsKEDKva30AH4aQjqg/9U0I/r0vbS1w5/h+avuX08TG06FYTabZ6tanC5B5gwPsD2yeItDdzqCwT1arTYah6A3urieMlFE+7DVLrrYIrKJSlEGdKxcE6Sk5YMECYrbb9YKKqZvUD1aU/vJpXPoqjdhomHGgbIK7M69l/D4rV3CeWKWhQL6av+V5JxEwqfH/YEtuFQkt7AgCC2Pl3fIKjNBtnh871bWPSVTU5RYfmZ02vcBg7fyH8OFt2kgH4H3NGvM28RHgJ4+G/hShlFxwroJGwtE9VQ6fKr7Ox0ek5bF57kxyAdT27XZbsgwvc1T2L0TLyAoY9FFWUWfQ0CRzROIZUm+lE65beHUXw44bMzhKyKq7qhgk2XKXXtHzS+pQoi09LxSNktnRUhaxKiKRBntGt0VH2eoOye6w==;3rvtN5Dc19DgIQPtTCKW6g=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T14:00:00Z
 originalUrl: "https://www.newscientist.com/article/2361343-artificial-intelligence-training-is-powered-mostly-by-fossil-fuels/"
 webUrl: "https://www.newscientist.com/article/2361343-artificial-intelligence-training-is-powered-mostly-by-fossil-fuels/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: New Scientist

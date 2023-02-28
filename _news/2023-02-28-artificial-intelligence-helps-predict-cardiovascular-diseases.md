@@ -37,7 +37,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-artifi.jpg"
         width: 2880

@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T14:48:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-bandwidth-accelerates-enterprise-cloud-adoption-product-innovation-with-/2023/02/28/9767742.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-bandwidth-accelerates-enterprise-cloud-adoption-product-innovation-with-/2023/02/28/9767742.htm"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: TMCnet

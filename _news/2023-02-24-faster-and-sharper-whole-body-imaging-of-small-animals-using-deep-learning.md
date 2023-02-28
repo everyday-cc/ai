@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Faster and sharper whole-body imaging of small animals with deep learning"
-    excerpt: "A research team presents technology that enhances photoacoustic computed tomography using a deep-learning approach."
-    publishedDateTime: 2023-02-24T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/02/230224135103.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 48
   - title: "Prospecting for copper with machine learning and zircons"
     excerpt: "Zircons are common, hardy minerals that can be found in rocks up to 4 billion years old. Their structure and texture can reflect the conditions in which they formed, earning them a reputation as nature's time capsules."
     publishedDateTime: 2023-02-24T17:03:00Z

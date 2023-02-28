@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T14:14:00Z
 originalUrl: "https://techxplore.com/news/2023-02-city-traffic-machine.html"
 webUrl: "https://techxplore.com/news/2023-02-city-traffic-machine.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

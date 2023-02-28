@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/object-recognition-imagi
 webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-survey-predicts-strong-growth-through-2029-with-top-growing-regions-2023-02-26"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Natural Language Processing Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
+    excerpt: "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Cloud Natural"
+    publishedDateTime: 2023-02-28T03:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
   - title: "Speech and Voice Recognition Technology Market and its Economic Impact on Industry : Growth And Trend 2029"
     excerpt: "Additionally, the report includes information on Speech and Voice Recognition Technology Market size, recent trends, growth, share, development status, market dynamics, cost structure, and competitive landscape."
     publishedDateTime: 2023-02-24T04:40:00Z

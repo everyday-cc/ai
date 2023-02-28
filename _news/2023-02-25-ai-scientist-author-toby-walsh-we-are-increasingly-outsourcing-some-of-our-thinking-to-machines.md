@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
-    excerpt: "FinancialNewsMedia.com News Commentary PALM BEACH, Fla.,  /PRNewswire/ -- Artificial Intelligence (AI) is becoming used in more and more markets and industries worldwide. At the current growth rate, A"
-    publishedDateTime: 2023-02-24T12:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31047086/how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31047086"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31047086"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Customer Service Philippines: How NLP is revolutionizing the airline industry"
     excerpt: "The integration of Natural Language Processing (NLP) technology is revolutionizing the way airlines interact with their customers. By utilizing this technology or by outsourcing their customer service"
     publishedDateTime: 2023-02-27T06:49:00Z

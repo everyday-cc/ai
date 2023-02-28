@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T13:19:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-symphonyai-expands-microsoft-collaboration-adding-netreveal-watch-list-/2023/02/28/9767484.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-symphonyai-expands-microsoft-collaboration-adding-netreveal-watch-list-/2023/02/28/9767484.htm"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: TMCnet
@@ -14,6 +17,17 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Inventec Corporation: INVENTEC COLLABORATES WITH MICROSOFT TO DELIVER SMART FACTORY SOLUTIONS ON MICROSOFT AZURE PRIVATE 5G CORE"
+    excerpt: "Inventec, a global leading innovator in cloud computing, wireless communication, intelligent devices, and IoT, announced today its newest industry-leading"
+    publishedDateTime: 2023-02-27T00:09:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58408945-inventec-corporation-inventec-collaborates-with-microsoft-to-deliver-smart-factory-solutions-on-microsoft-azure-private-5g-core-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 5
 
 secured: "O+oC17GzTkRM+aGYs/yfOTql3vB/MXUqkEINxxxv3ZKCiI9eu1baVMXCdaA3OtjkFzOcMxrBaCeiXULXAs2X+SanuBbMqCpCMkznpbGn2MAK18ZUVqnW1GjAuX/ZVTgDu+d0PlsIbXXQ+iqgsp7NAoVN9XShkYgjdPK6KR7x2PMswcTBAuVUcxr1rgks7A+9YBUb77EwZ80Q9OK7wAC3E4K4qdcTUiwIvSRqUmuK11BWiDEsvRTJD74j8n3HfGyoIx8sH+Yxj/mDk+tm1UJ0uOa2CNs/9ynHH8E6seTfkPzIg7ML7NU+O4FTnElf2dkHrqorULGl2dh0YEn0pAiRdgjLnxR37tpXJqyfNYEpGig=;kdfNbGnksFS1gIR2wAKPZQ=="
 ---

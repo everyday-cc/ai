@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/world/elon-musk-recruits-team-to-d
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html/amp"
 type: article
 quality: 59
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -82,6 +82,15 @@ related:
       name: Independent Online
       domain: iol.co.za
     quality: 17
+  - title: "AI News roundup: Elon Musk working on ChatGPT rival, Snapchat eyes slice of AI pie, Zoom's AI integrations and more"
+    excerpt: "Elon Musk is recruiting Igor Babuschkin, a researcher who recently left Google's parent company Alphabet's AI unit, to develop an alternative to ChatGPT. The tech billionaire has approached AI (artificial intelligence) researchers in recent weeks to form a new research lab for it,"
+    publishedDateTime: 2023-02-28T13:28:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-elon-musk-working-on-chatgpt-rival-snapchat-eyes-slice-of-ai-pie-zooms-ai-integrations-and-more-10176581.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 0
 
 secured: "gkoF4xf6w6WsmOsB3qrdwzZgypwYXIY8FNH+9W9QCa3sPT3za35J0eMfAirQzQiQRj7wlFF+UaDGzElDP7qdbpHg5qbcvtUnEf9/yHiusRBVVwFgFmQHxQz/O5E9sv4grLq2VICmJtAEgOPSeJOr541TNN6RgfqtL8DcAo0UFE1xbCrSB8ZsPWfQIqxJfBjxddaOuQLX42s8dYT51CnJgZKTCMrlOttBpBdITYD/stKgJ8hpwOFI9+PdcAvtRLGOHogDNrySD8hf8EHBPPC/FfhW0j2i6fRgy+8AkXtq0XOhAYsjL6NZZ51Sjpnuko8ICKBNQOjpd7R+i/DpBBqRkmuTW32SUFKpSbdrpQhfVBaniSSYM9KLi20aA751w1pdvLaRoFNcizDxJWl6B8PIJtxPif4MpZIM2hbve0/ZmPTg0j5jJlfg4wF4eFtQ4TBrs3ydAHephPPBOZFr3M/r4zjajEBeCUkXoKcqbCcBKpd7QlXE7rseowRwdwuomx8MmNFM4kCoAgwre2HD6vB6xw==;8tjmpw9iQmpXBxMcSiIT2Q=="
 ---

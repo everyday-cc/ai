@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T13:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/28/how-ai-will-transform-events/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/28/how-ai-will-transform-events/"
 type: article
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -17,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "How Machine Learning Will Transform Your Industry"
+    excerpt: "While ML and associated technologies like natural language processing are gaining traction in current workflows, it's important to pay close attention to ethical standards that differentiate humans from machines."
+    publishedDateTime: 2023-02-27T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/631b3e240f6280e0b3d70386/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 839
+        isCached: true
 
 secured: "fZUSfYOvH7IGyHeJLpzePhGxJ1VVmpYegzdAmDfY8pX/ondlgjp9PSPlQz17EV4fGBDLYyZgdpmcAGEEj5ED8nvSOtJUtIDXkiB7bQEdhrdjHj8thGlsIrVFwSQStltcGiLWGRl+NaES2AdvPTnp45HLrQQCT6UuyiQeajhNRvpIm71tAcf0ptdJ0q2GZ36C5HJq59CIEBPRoo0/qJLf14HAJrFFO+gaJzNdrkzec/BXKuvocrxsyMbI8V2buTNdMRO2EkC5iZBaCbuNKd/KLp3s9MkO+Tbs6bXxxzekCip7A1WknVN+yTh4fYCAkN530O2JnKXOcAOgXsoxR6tL71lNuo0slzoV7avUhQTXxWR1fJX+2jK6uI+GTMa7SYEGcLIj31s6LDYE92WcX8GzafnNRF6BMascyLaIKrfFynGOE6fDXItTsECvj6YxEP3sfNGEhF0UAUjDjWTn7dPeGFutT5AbsMvVlcaAIOuiFRNkqhISyzhISqoJulozylyYqFqw1iQJkBcQe7AEx1DgBw==;QnA4mz2SV+KpxBIBgM3RVA=="
 ---

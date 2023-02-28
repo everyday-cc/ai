@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Eye Podcast: AppTech Payments Corp (NASDAQ: $APCX) Discusses the Importance of Fintech Patents, AI and the Future Banking Transformation"
+    excerpt: "Investorideas.com, a global investor news source covering Artificial Intelligence (AI) and Fintech, brings you today's edition of The AI Eye featuring an exclusive podcast interview with Mr. Mehrak Hamzeh,"
+    publishedDateTime: 2023-02-28T14:59:00Z
+    webUrl: "https://www.investorideas.com/news/2023/artificial-intelligence/02281APCX-Fintech-AI-Banking.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 20
+    images:
+      - url: "https://www.investorideas.com/images/AI-Eye.jpg"
+        width: 1280
+        height: 1206
+        isCached: true
 
 secured: "EjiG2FRfP3rKsF/nj+GL5VUNSZ3mwC0NGIL5VeracK63+wALnexK7EHnoNlGm/IKkWKCBO4zwBCdNkjrNmSooaiS8W5TD8ffwdePNh6Auy6f21JC0U6Pq+geeffmgzczh3Kall/1KVsuIrk4v2ObZry54QnqvOF4Sp9iRbzzJH698GXD+Ng25Ean2t+uT/+UTbZzQTNeL+w2QNAxcduIcM88tPKYFi6tUi786IabDyRSWmQYCESVSQksP8NWdqT2jYSPxoYAUmbURr2YuobYulKax7bSuA26QIFCYEGh1fiaFpyjG8OcU24zu9F6YFumNk4VtRv/JbOL2KfHu2cdG3T/uWVQcg1gmAy5vo8W2Zw=;vw2VotEJRT8KvIh29Ma+YQ=="
 ---

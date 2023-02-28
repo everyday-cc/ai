@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T14:00:00Z
 originalUrl: "https://www.theverge.com/2023/2/28/23618245/nvidia-rtx-video-super-resolution-upscale-videos-rtx-gpu"
 webUrl: "https://www.theverge.com/2023/2/28/23618245/nvidia-rtx-video-super-resolution-upscale-videos-rtx-gpu"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: The Verge

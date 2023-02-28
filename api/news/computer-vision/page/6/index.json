@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-12-16-shamir-selects-imdts-3d-stereo-vision-technology-to-power-its-next-generation-digital-measurement-device.md",
+      "title": "SHAMIR SELECTS IMDT's 3D STEREO VISION TECHNOLOGY TO POWER ITS NEXT-GENERATION DIGITAL MEASUREMENT DEVICE",
+      "excerpt": "Spark™ 4, Shamir's newest ultra-precise digital measurement device, deploys IMDT's accurate 3D technology to offer opticians a simple and effective ophthalmic measurement experience KFAR SABA, Israel,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/12/16/9731983.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/12/16/9731983.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1968947/imdt_spark4.jpg",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-16T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-16-toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve.md",
+      "title": "Toxic waste is becoming a massive problem that AI can solve",
+      "excerpt": "The issue of hazardous waste should not be taken lightly; if left unchecked, there are serious repercussions. Here's how AI can help.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/",
+      "originalUrl": "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1340683804.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 704,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/toxic-waste-is-becoming-a-massive-problem-that-ai-can-solve/amp/",
+      "publishedDateTime": "2022-12-15T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-16-eys3d-microelectronics-eys3d-hits-ces-with-computer-vision-and-ai-for-medical-aiot-industrial-and-retail-robotics.md",
       "title": "eYs3D Microelectronics: eYs3D Hits CES with Computer Vision and AI for Medical, AIoT, Industrial and Retail Robotics",
       "excerpt": "TAIPEI, TAIWAN / ACCESSWIRE / December 15, 2022 / eYs3D, a silicon-plus-AI computer vision solutions company, will showcase a powerful new vision platform for robotics at the upcoming CES 2023 ...",
@@ -1256,92 +1351,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-aetina-corporation-aetina-launches-new-ai-inference-platforms-with-high-performance-and-expandability-for-use-in-ai-and-computer-vision.md",
-      "title": "Aetina Corporation: Aetina Launches New AI Inference Platforms with High Performance and Expandability for Use in AI and Computer Vision",
-      "excerpt": "NEW TAIPEI CITY, Dec. 7, 2022 /PRNewswire/ -- Aetina has launched new AI inference platforms-AIP-SQ67 series-with high performance and expandability for use in AI and IoT. The AIP-SQ67 series ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57776970-aetina-corporation-aetina-launches-new-ai-inference-platforms-with-high-performance-and-expandability-for-use-in-ai-and-computer-vision-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-12/57776970-aetina-corporation-aetina-launches-new-ai-inference-platforms-with-high-performance-and-expandability-for-use-in-ai-and-computer-vision-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T17:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-tsa-is-ready-for-nationwide-deployment-of-its-facial-recognition-system.md",
-      "title": "TSA is ready for nationwide deployment of its facial recognition system",
-      "excerpt": "The TSA started using its biometric system in 16 US airports as an optional screening procedure requiring the traveler to insert their ID document and have",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html",
-      "originalUrl": "https://www.techspot.com/news/96871-tsa-ready-nationwide-deployment-facial-recognition-system.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/12/2022-12-06-image-13.jpg",
-          "width": 2048,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-06T12:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

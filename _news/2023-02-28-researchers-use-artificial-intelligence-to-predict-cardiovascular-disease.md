@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiova
 ampWebUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 

@@ -436,6 +436,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision in Artificial Intelligence (AI) Market Analysis Report 2023 Along with Statistics Figures, till 2029"
+    excerpt: "What are the Key Industry Development in Computer Vision in Artificial Intelligence (AI) Market? Computer Vision in Artificial Intelligence (AI) Marketsize, segment (mainly coveringMajorType (, Hardware,"
+    publishedDateTime: 2023-02-28T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
   - title: "Artificial Intelligence (AI) in Construction Market Research Report-Forecast 2023 to 2029"
     excerpt: "Top “ Artificial Intelligence (AI) in Construction Market ” Size 2023 Key players Profiled in the Report are [, SmarTVid.Io, Microsoft, Predii, Lili.Ai, Bentley Systems, IBM, Doxel, Oracle, Autodesk,"
     publishedDateTime: 2023-02-27T16:23:00Z
@@ -575,6 +584,15 @@ related:
         width: 465
         height: 250
         isCached: true
+  - title: "Artificial Intelligence in Precision Farming Market Analysis Report 2023 Along with Statistics Figures, till 2029"
+    excerpt: "Artificial Intelligence in Precision Farming Market 2022 Report offers a Inclusive valuation regarding the competitive landscape of the Artificial Intelligence in Precision Farming market and includes a deep description of performance by top key global players (Experimental Study,"
+    publishedDateTime: 2023-02-28T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
   - title: "Cloud AI in Fintech Market Size 2023-2029 Current Development, Sale, Revenue, Application, Production Cost, Revenue Region"
     excerpt: "Feb (The Expresswire) -- \"Cloud AI in Fintech Market\" Report covers specified competitive outlook consisting of the market proportion and"
     publishedDateTime: 2023-02-24T02:04:00Z
@@ -585,9 +603,9 @@ related:
       domain: marketwatch.com
     quality: 23
   - title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is expected to grow at a CAGR of 21.5% from 2023 to 2028 according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2023-02-27T18:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
+    excerpt: "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the field of Al computer vision."
+    publishedDateTime: 2023-02-27T17:57:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
     type: article
     provider:
       name: TMCnet

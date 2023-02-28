@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-s
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
         width: 600
         height: 302
         isCached: true
-  - title: "AI art replicates inequity at scale. We need to learn about its biases – and outsmart the algorithm"
-    excerpt: "An artist used Midjourney to design the cover of Tracey Spicer’s upcoming book. The process, she found, was exciting – and terrifying"
-    publishedDateTime: 2023-02-23T22:45:00Z
-    webUrl: "https://www.theguardian.com/books/2023/feb/24/ai-art-replicates-inequity-at-scale-we-need-to-learn-about-its-biases-and-outsmart-the-algorithm"
-    ampWebUrl: "https://amp.theguardian.com/books/2023/feb/24/ai-art-replicates-inequity-at-scale-we-need-to-learn-about-its-biases-and-outsmart-the-algorithm"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/feb/24/ai-art-replicates-inequity-at-scale-we-need-to-learn-about-its-biases-and-outsmart-the-algorithm"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 23
   - title: "AI learns to outsmart humans in video games - and real life"
     excerpt: "Speed around a French village in the video game Gran Turismo and you might spot a Corvette behind you trying to catch your slipstream. The technique of using the draft of an opponent's racecar to speed up and overtake them is one favored by skilled players of PlayStation's realistic racing game."
     publishedDateTime: 2023-02-27T15:49:00Z

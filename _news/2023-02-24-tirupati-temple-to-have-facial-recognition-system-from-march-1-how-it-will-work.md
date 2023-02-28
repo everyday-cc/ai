@@ -37,6 +37,15 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "TTD to introduce face recognition technology at Tirumala from Wednesday"
+    excerpt: "Tirumala Tirupati Devasthanams (TTD) will introduce face recognition technology at Tirumala — situated in Andhra Pradesh's Tirupati district — to prov"
+    publishedDateTime: 2023-02-28T13:14:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/amaravati/ttd-to-introduce-face-recognition-technology-at-tirumala-from-wednesday/articleshow/98309199.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "BMdKeZ4S5xADMmdup/amt0wSD7XpdfXmxrNXQm/Q6P57M1WER+a5O/ywitztIsH71mXsTrZHmPvOX4tL+at79/FYWrlD/lq5np41bjOoZIxYAimOaTFOPeKot+07Ftqm6wXO47aO25ojAi+ZG5eO6P1LkNPk9/QNctMV2jLuOoTMjrm8NUUq04T0TIsKw4SbXORCImz+Im2y2DF8SgeccFYQP/GKCIL8r2rWevOrI8VqqTWvxUsYsFGW0+LVHV5UsNU+TwLOFMyFbjpn1ZgFszxf7bk0xihywrmH2vR0ft3zieezzJE39muhcnpZ/8euFyah8wUvA0wUrN1R8ti220Lazv5XfeB2jR5103z921Qe77sw+LSp0yiX88A1kYB4M6VJBYGTFg2f1+sSObpSPnSKI9zMWMmiI12W7WIGvxakAH7BNWDZ6TYEolnHs+oc04pVbxo5OyH3PeiQVgY67LkDUYYoT17i5LJ9vwYimr44KoeUMLVilsDNntT3RvhLSMMu0BLniqyj7EOB4na1XA==;+Aenp0HsBr17mp2aznPU1w=="
 ---
