@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 637
         isCached: true
-  - title: "Nvidia CEO Says AI Will Allow Anyone to Be a Programmer"
-    excerpt: "ChatGPT and generative AI has become all the rage in recent weeks. Nvidia has done its share of talking up the technology recently. The company’s CEO has hailed it as the next big thing in computing."
-    publishedDateTime: 2023-02-23T19:18:00Z
-    webUrl: "https://www.extremetech.com/computing/343320-nvidia-ceo-says-ai-will-allow-anyone-to-be-a-programmer"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "G4PcXhK/z3WxVqUBdY8fJH9wv7u/BhkmVN5C2sMiBQqlE8rMXuT7husEYRkzZBT93L46AfVZ395zHK81g7Yl2LQ9MGL8+urzPKvMJ9uoGV1NvYZQxg/rBdyIN0zdVpXx788Pzfj/b/Cp0cpm6Er5DtKC89TH74L4P2/5MwFvduQFpUXNsfjIhYcsSrqQtTInWVnmfUWOJdYhK4XSlmXPaafotUh/Trv2zX2TUBLRQwjtPZ9mwRiW6JQadHofYFQBu7ueXeINCS1HzbRacOEfSLkq1McTYaV2auf+PJk6UmfQAX2Yf9ibpobbkpDI70TWUzO2FHaPX69TyRHsUSxxioymNj0BPAqMcc29oLqJDUT7wPLU/P5jeiByXKI240paw+UDLuUBaUOf4if6vQ3D6kHU9gDb3AY/QZ1zPwYmI2qN3ZkZ6vDQm+3tBxEEqsvebZyDU50zUEaU0EphN5+9sWp/0ZOyb0xfg+pbdzrmVG49dT+spe6Fg/Fom/pOfTlPXNUcGnYU8E8DC/Iu6TOPTQ==;je4R7mPQjyCazOrmwC3bDQ=="
 ---

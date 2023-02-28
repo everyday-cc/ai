@@ -92,22 +92,6 @@ related:
         width: 1200
         height: 899
         isCached: true
-  - title: "Generative AI Like ChatGPT Is Popping Up Everywhere. Your Questions Answered"
-    excerpt: "A neural network is a type of machine learning system that can be ... may lie in new ways of collaborating with AI to accentuate what both biological and artificial intelligence do best. Simple, really: Information isn't knowledge. LLMs are kind of ..."
-    publishedDateTime: 2023-02-23T20:55:00Z
-    webUrl: "https://www.cnet.com/science/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/generative-ai-like-chatgpt-is-popping-up-everywhere-your-questions-answered/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
-    images:
-      - url: "https://www.cnet.com/a/img/resize/34665e15cd4d205dc158ff96642961778a596655/hub/2016/05/23/c27c80f7-d624-42c0-ab6f-107aba5db447/universe-13518651920.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Snapchat Launches Its Own ChatGPT-Powered AI Chatbot"
     excerpt: "Snapchat on Monday said it is launching its own generative artificial intelligence chatbot, called My AI, powered by the latest version of OpenAI's ChatGPT. Snapchat calls My AI an experimental feature,"
     publishedDateTime: 2023-02-27T15:31:00Z
@@ -388,6 +372,22 @@ related:
         width: 638
         height: 422
         isCached: true
+  - title: "Zuckerberg's Meta To Take On ChatGPT, Creates New Group Focused On AI"
+    excerpt: "Meta will integrate the output on its products, such as Instagram and Messenger The company will build some creative and expressive tools using AI, according to Zuckerberg Mark Zuckerberg's Meta is creating a new product group focused on artificial intelligence,"
+    publishedDateTime: 2023-02-28T11:31:00Z
+    webUrl: "https://www.ibtimes.com/zuckerbergs-meta-take-chatgpt-creates-new-group-focused-ai-3672268"
+    ampWebUrl: "https://www.ibtimes.com/zuckerbergs-meta-take-chatgpt-creates-new-group-focused-ai-3672268?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/zuckerbergs-meta-take-chatgpt-creates-new-group-focused-ai-3672268?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://d.ibtimes.com/en/full/3841978/zuckerberg-renamed-company-meta-year-ago.jpg"
+        width: 768
+        height: 511
+        isCached: true
   - title: "Advanced chips from AI computer giant aims to power ChatGPT-like tools"
     excerpt: "Advanced language models powered by Artificial Intelligence have taken the technology industry by storm of late. Platforms like Google and Microsoft are racing to integrate AI capabilities into their search engines after OpenAI's revolutionary model ChatGPT led the way in integrating AI to produce outstanding results."
     publishedDateTime: 2023-02-27T15:28:00Z
@@ -512,15 +512,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "China’s ChatGPT Stance Could Mean New Challenges for AI Stocks"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) has been seen as the technology of the future"
-    publishedDateTime: 2023-02-23T19:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chinas-chatgpt-stance-could-mean-new-challenges-for-ai-stocks-1032120931"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Bing, Bard, and ChatGPT: AI chatbots are rewriting the internet"
     excerpt: "Google, with Bard, and OpenAI, with ChatGPT are making AI chatbot technology previously restricted to test labs more accessible to the general public. How do these Large Language Model (LLM) programs work?"
     publishedDateTime: 2023-02-23T23:02:00Z

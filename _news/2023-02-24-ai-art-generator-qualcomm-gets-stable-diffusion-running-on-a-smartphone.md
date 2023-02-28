@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-g
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can Stable Diffusion generative AI run on a smartphone? Qualcomm says — Yes it can"
-    excerpt: "Stable Diffusion is developed by startup Stability AI and is one of the most popular generative AI models for image creation in use today, often competing against OpenAI’s DALL-E. To be clear, the technology needed to train generative AI models is ..."
-    publishedDateTime: 2023-02-23T19:10:00Z
-    webUrl: "https://venturebeat.com/ai/can-stable-diffusion-generative-ai-run-on-a-smartphone-qualcomm-says-yes-it-can/"
-    ampWebUrl: "https://venturebeat.com/ai/can-stable-diffusion-generative-ai-run-on-a-smartphone-qualcomm-says-yes-it-can/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-stable-diffusion-generative-ai-run-on-a-smartphone-qualcomm-says-yes-it-can/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
   - title: "Qualcomm ran a complete Stable Diffusion AI model on an Android phone"
     excerpt: "Qualcomm was able to adapt the image creation capabilities of Stable Diffusion to a single Android smartphone powered by a Snapdragon 8 Gen 2 SoC device."
     publishedDateTime: 2023-02-27T18:44:00Z

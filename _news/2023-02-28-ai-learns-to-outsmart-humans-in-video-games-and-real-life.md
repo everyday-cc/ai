@@ -2,14 +2,14 @@
 category: news
 title: "AI learns to outsmart humans in video games - and real life"
 excerpt: "Video game players have competed against computer-controlled opponents for decades, but they haven't been as smart and fast as GT Sophy, the new AI driver on PlayStation's Gran Turismo"
-publishedDateTime: 2023-02-27T16:04:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
-webUrl: "https://abcnews.go.com/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
+publishedDateTime: 2023-02-27T16:02:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
+webUrl: "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
 type: article
-quality: 57
-heat: 97
+quality: 59
+heat: 99
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
   domain: abcnews.go.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -70,6 +71,6 @@ related:
       domain: richmond.com
     quality: 17
 
-secured: "wxSeVR5tZzQLvp0EFIsDwjIfold9cCAdcO8BktBz7WVgRkSTG8GeLNCR4/DNKaoGoOiaJO2Yq+3z+X0ItlsKpVXAHt44jMUBPMnyERyzmGyDnxUj10mAe52cesw+XRzjxkMCDn19OgLH3oJqIShNbMf3w7rkPOpd1hyzmXZYB3oyFOaUgepd2K76QHhHJyPXrnCSopdhSNVqXuTIyd4/mkKiFLUktHERrftDy/8gm0eBHXn54xx+QfU0WJIZ5tVJeQq1FSPiEV9JVJ9A/QvnlK2xPnx31F/P0lhAzb2FwKY/H/qoPocZzsj93E4noGyVPSGes+JalI3LGNkfdr4Nc3QmylKlhhllaAq8izQaOoU=;kMnAF55tAA3eRMFTt45g9g=="
+secured: "BWzAVAPHGDi7YgClySp+FONtQ8jIe6VUMLYPvdayZ3SpBub2mBIAtgdmVoFGO+cw9Nhdy1T9Xz2IQ4DrkVqj6OCKYkUx+HN1HZZnW0wkvWRP0QClBoCUESqvTDlshV931njbRVlFdTXU1ng7qGQl25xTaeKO/uZRgG3I1POUgW2k4PlHX8cMYmnAgS3BUav2poMbVx351p7GpIqe5tV3W8QRGSqo6f6dOt14gMqbX15BpR7HCBgdbyngz0LwohbVQCwECQm+Ca4kO06Qtdd9CKY830rib+3NZ6BThjTDdvFVDiOh1vF/ousklyVh8c0g3CC7fqvZ7q25UYdGaSAWmdbV+P9oIaR12cq2EaeAi3w=;DRNAg9JryMpoXVsltpUKnA=="
 ---
 

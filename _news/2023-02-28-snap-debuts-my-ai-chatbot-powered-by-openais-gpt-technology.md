@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-
 webUrl: "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-ai-chatbot-powered-by-openai-s-gpt-technology"
 type: article
 quality: 67
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Snapchat ‘My AI’ Chatbot: What Is It, How Does It Work, How to Use, and More"
+    excerpt: "Learn everything you need to know about Snapchat My AI chatbot, including how does it work, how to use it, and how to enable/disable it."
+    publishedDateTime: 2023-02-28T11:42:00Z
+    webUrl: "https://beebom.com/snapchat-my-ai-chatbot/"
+    ampWebUrl: "https://beebom.com/snapchat-my-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/snapchat-my-ai-chatbot/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 54
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2023/02/Featured-Image-Snapchat.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "First domestic chatbot MOSS to be made open source"
     excerpt: "An open-source software is released under a license in which the copyright holder grants users the rights to use, study, change and distribute the software and its source code. Named after the artificial intelligence-based computer that controls the space station in the popular Chinese sci-fi film The Wandering Earth II,"
     publishedDateTime: 2023-02-27T23:34:00Z

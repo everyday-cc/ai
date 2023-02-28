@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Nvidia CEO Says AI Will Allow Anyone to Be a Programmer"
-    excerpt: "ChatGPT and generative AI has become all the rage in recent weeks. Nvidia has done its share of talking up the technology recently. The company’s CEO has hailed it as the next big thing in computing."
-    publishedDateTime: 2023-02-23T19:18:00Z
-    webUrl: "https://www.extremetech.com/computing/343320-nvidia-ceo-says-ai-will-allow-anyone-to-be-a-programmer"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "quRo1vKr9TOhVze7hqpyrdfBXLpPC/3+u3vZTf2loNKLXc9UqtYmTxDRxLj0/itZBPPKRcvsPxZGfGpIetZvgB/FV71L4nU+bKRI8RoJckAxNwmjk/gM6OgutVip6D3Z+NwBet8LFKHan9YebVQKaF+HLe4EFkxX2WH/aUzAgEUk1Fm2H35cm83kBooTU6XpZWET8NWcb802YVaF6zg0S5AsbAKw9sIzk0UJqyYAh5O1l/KdmQXbp8faZ5t1zfEeVl0bayOqeXMU2LdtAbsfMhdOOUNA4T0S94RBg9GM3q9EAlf2/zTx9g3B57GYvyqIuVXnq0hUXm62fKt2ht3ttd1k6STuSuAIzsYOc4dAOzsm04yhq2lpMx6Tk9rN3JhoAEwTwIX0OI2i5Lmr4C0pBybFGNUiavEPMbwOAk3gpGlDdx72c55AWs2/uNSYUKfv3cgZLPcOK6kpnGUZVK9j5PfoMhwKpq/q/wEhqrJNrDpDCXbq3yyr8A5slyrxlJnjuHXGGXNs/zaA25b+N3oiOQ==;AVG8lpeW7xIOMlIostjxEA=="
 ---

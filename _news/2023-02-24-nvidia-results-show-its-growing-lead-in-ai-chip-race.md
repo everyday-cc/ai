@@ -60,17 +60,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 83
-  - title: "How Nvidia dominated AI — and plans to keep it that way as generative AI explodes"
-    excerpt: "Nvidia has dominated the AI landscape. Can it handle 2023's challenges and win big in the generative AI gold rush?"
-    publishedDateTime: 2023-02-23T20:00:00Z
-    webUrl: "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/"
-    ampWebUrl: "https://venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-nvidia-dominated-ai-and-plans-to-keep-it-that-way-as-generative-ai-explodes/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
   - title: "AMD slowly catching up to Nvidia in GPU sales"
     excerpt: "Thanks to its highly scalable GPU architectures, AMD GPUs are now powering a wide range of devices from consoles to PCs to mobiles."
     publishedDateTime: 2023-02-24T13:35:00Z

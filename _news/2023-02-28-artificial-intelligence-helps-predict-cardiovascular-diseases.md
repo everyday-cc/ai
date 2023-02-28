@@ -28,18 +28,20 @@ images:
 
 related:
   - title: "Researchers use artificial intelligence to predict cardiovascular disease"
-    excerpt: "According to a recent study researchers may be able to predict cardiovascular illness in individuals by using artificial intelligence AI to look at the genes"
-    publishedDateTime: 2023-02-28T10:50:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273576198/researchers-use-artificial-intelligence-to-predict-cardiovascular-disease"
+    excerpt: "Researchers may be able to predict cardiovascular disease—such as arterial fibrillation and heart failure—in patients by using artificial intelligence (AI) to examine the genes in their DNA, according to a new Rutgers study."
+    publishedDateTime: 2023-02-27T19:05:00Z
+    webUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html"
+    ampWebUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 38
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 56
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1677579024.jpg"
-        width: 630
-        height: 420
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-artifi.jpg"
+        width: 2880
+        height: 4023
         isCached: true
 
 secured: "1gPlLNcbfJhz64NT4P1EYcxBc2q4IER4lT1i9eLNxcfYaCdNOlhgNC3ZHvzRHITed3vAm9oe2IdAJsF6AwIqhT6SQjkERQTiBWY/k7WzyCfHZLH5azXbxcy+CXHkQKv6E6NRzcnGTtzumzthFodJorRWEIFBLU3WKmiSXaOIs5q3+r9GuDfAfX9lbUUjp8LJqF/lSRvWf8AJZJlrxkN5hrx3D6dgzaia+4PGS9U7qOHBSfsGAWBcfLr3XJnkvnmD9BaLfTG265ZvkxCgvNILa3j24eWMWDVZgtUOY/LJmNFy4B3Sc8XTf3/C59Cy88GWNeOfPlj7xMKhvRUilvLNYPAOxHzKMrF8haSVEhPCfjE=;lia01M0Ud75Y8P66c9lfbQ=="

@@ -80,6 +80,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "ALDI Nord and Trigo Win RETA Award in Best AI & Robotics Application Category"
+    excerpt: "The award was presented by EHI Retail Institute and recognizes outstanding technology solutions in retail. The jury commended ALDI Nord and Trigo for reinventing the discount model with future technologies in its latest store concept ALDI Shop & Go,"
+    publishedDateTime: 2023-02-28T11:57:00Z
+    webUrl: "https://technews.tmcnet.com/news/2023/02/28/9767450.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 46
 
 secured: "FyuZKB4uPdMO8I5iJZ0mXnrZbz5ObC1gjxlRaj6VfF+grn8w8TQQQq89WG2z8GCm3OCc576Z42X9SoDmOOA3nClqHDxnDJhiKnzn7ba0CbdMyF5SmRvx441MeXtmX8yCzLzaZWwvXPlCDNrZDV8OTgKI6HClYRpuN7gHds/unIAk8cQPgl+xX40+Xst8lbpI7APFdt8lxXpezToLMiPOOXcn0/jfqxjizoq8Sptey70iFg/seN9Ny8snTKQ/mUVeD2x+afFTc+Y1+HMrSR/NYWRBGU9P0nO+qMTjKq9/gRNqn12waShSYZ5R8ane1JHHufbOyB7DbiHAf6YNnkqcuO5JtzD41DFIKkJa6hfv7iOQnK7SJ1wtglfRLDwgY7Ec95BG5Lk9NWaouQVy/wGDuuFyRIBI4H1hUeNn3KmjbIUqkngbP8tS7hbbA8MMKfkI9F/KrT76sJRMg8hJLrIcVF3HDAuHP9LZw4SF0SqVhl4bjqggJKsonm6xFw3CK/IQJIjld1XDtGiL/huOuSlgow==;Jgff39P6kcwh9wx5zkTTIw=="
 ---

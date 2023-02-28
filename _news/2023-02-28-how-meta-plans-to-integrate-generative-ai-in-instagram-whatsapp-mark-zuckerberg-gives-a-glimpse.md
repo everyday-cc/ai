@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Zuckerberg announces Meta's artificial intelligence push, including AI-powered chat for WhatsApp & Messenger"
+    excerpt: "Zuckerberg wrote that the creation of the AI group will involve pulling together other teams working on generative AI from across the company. The Meta boss"
+    publishedDateTime: 2023-02-28T11:57:00Z
+    webUrl: "https://www.techspot.com/news/97757-mark-zuckerberg-announces-meta-artificial-intelligence-push-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 43
   - title: "Meta plans to ‘turbocharge’ generative AI into its platforms"
     excerpt: "Meta CEO Mark Zuckerberg said the company is making a new product group to create new AI experiences for Instagram, WhatsApp and Messenger."
     publishedDateTime: 2023-02-28T10:20:00Z
@@ -118,6 +127,6 @@ related:
         height: 573
         isCached: true
 
-secured: "8QfBP8lO8oml7S/XfdrDEcLEMlJfOI79Np0H8pingbXlCTRg6DjialHBw1NEi46cjkH1tyAqABXe6QZ6HT3vkGjFrbux/P+FB6rDwULL+MuNXkcdkMoE7Z83SjCEDX761KC8texWbZ0yC7xuCggGStLWDDIgtaLTxPlA2Haf630AfJcpkElui7QBjlIV4cdbRsZWwNovOqgvloylkhDuLoZ+LJZqUUNn2gzfZUZUDKR3BURtfRz+8lr9x9LqhIXpAwTUXPaHDFGxKdO3WLiNGuGUgEW7nFp2BxundlME/qROHEGWotO/EyuQ9Zv0c4GhMsMVxZNHycDk+6rkLSUXEpVY1BUhToCD0RC+I72NN2Q=;bG0i8s84WrjzL+b2tvREMw=="
+secured: "KhlBjiPrMl1JcjnwA2FEAVCtpAUlMr2uMWVp0Z9NhNm0MNRhWJVxoInYv16f+0PQHe1URveNP5xUv8UkN136GkxAuqUYprV2ggRRFcbWVXbjWOirUmewKjYJTv98qwtsQ/9uEShFn/cJWVESM9aQSPyaiK4ZHxQ2NPsJMYqI4PjckOtp+ifDZHfXPVdjEEA9/aITTrhsH6KX2e6mMffkz+/W7W+itq0hk040/bow4j5+OFCpCLwXnGvuA0uUkeFzbR/TQDiSvZbHBrWI9GidqXDNYPIeHqGuGN43Uc+/M8klfb6AzlRxtykc6W6/SZSw33tDvp6wiQpMrM/i6TugT5lcb0RXBi3o+JMzkDf6UrkFkma8d/KwRq4h4Tg6NvTlYHIeKuIhv6iaryt8bdiyHVH22o1NMnK7biPXDZngxdWsTiEa0Vc+PGOwcZDVXZ2byKhIbKimUtlxk2yotNIH6OL2KIwsH5BhF2WVr/Xivh4eSnhyUcB1cCRFXUUGaW+UtHHGYI2AO7vSejUPBmnZxA==;Cvn9IZncQUCB4uo5jaxXrA=="
 ---
 

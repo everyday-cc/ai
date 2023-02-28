@@ -39,17 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Can Stable Diffusion generative AI run on a smartphone? Qualcomm says — Yes it can"
-    excerpt: "Stable Diffusion is developed by startup Stability AI and is one of the most popular generative AI models for image creation in use today, often competing against OpenAI’s DALL-E. To be clear, the technology needed to train generative AI models is ..."
-    publishedDateTime: 2023-02-23T19:10:00Z
-    webUrl: "https://venturebeat.com/ai/can-stable-diffusion-generative-ai-run-on-a-smartphone-qualcomm-says-yes-it-can/"
-    ampWebUrl: "https://venturebeat.com/ai/can-stable-diffusion-generative-ai-run-on-a-smartphone-qualcomm-says-yes-it-can/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-stable-diffusion-generative-ai-run-on-a-smartphone-qualcomm-says-yes-it-can/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
 
 secured: "bk6GFa3iBefw0u5y4buBgOMwXY4dT2UhR6VROl9x3NzRnwgp1mxWrUbhi5m3kqdr+XDmtYaepmZ7dlb+YKepEwAvcwn9Thkk2qqTb8OhoDvO7BPQ1F1M7LJK6wxicGDXOd8ePZnKd+/eMjOJgp5NnQqhlbH7Z+2aHVEvx8QQ7Pp34bNdnDIY73mCS3umlJjPSTiOQbTGt3iR+tg75MRddjDSrHV8knAlr9UHvtAqAEC7QvK7rcUr1o/aTL5gGhAoJ3KQCzjHXu+takI4u66DPUD7uTBsccWNR5bmsV+hm5Jqe1Polh8uKdTjFXrDTBup1u0hW51sR0oPQEN7SPlFihooQVDA8sSkMOVv+cL2caw6CTM5woHTLwgIXQQVkDhg2wa2xRhAEkRw4z+XIjHO2rTzwfc1Cr6otjpsU9wpFX4gR7rdpeL0EA67BRYOnxQOfdSoECFn7a2vrJwFAqB2Gz9kCFe3meTFlyuGkytlkDMcO4TMeKe3uMQ9DiJf1G2iu24aKZA40R2rvKZGIL5OZg==;tDL0kg887imKlsDDAj92GA=="
 ---

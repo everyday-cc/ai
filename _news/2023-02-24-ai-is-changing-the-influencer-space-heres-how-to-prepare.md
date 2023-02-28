@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "How Artificial Intelligence is Changing The US Intelligence Community"
+    excerpt: "One particular area of focus for the IC is artificial intelligence. Juliane Gallina, associate deputy director of digital innovation at the Central Intelligence Agency and Wash100 Award recipient, listed AI and machine learning as one of the top five emerging technologies critical to today’s IC missions in a video interview with Executive Mosaic."
+    publishedDateTime: 2023-02-28T10:55:00Z
+    webUrl: "https://www.govconwire.com/2023/02/how-artificial-intelligence-is-changing-the-us-intelligence-community/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 37
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/02/unnamed-file-24.jpeg"
+        width: 1200
+        height: 628
+        isCached: true
+
 secured: "yTJ9ML8/i47lJD/9ktKnNBINjuijdM2PfbjAIACEYASq8y61W01ReO9Q0kF/3B3LDYNJmTJaXaACY/EpqYSOza3c8qx+8LsUHAtZgRDCh2dQWQ/FWQg09G0yMxFlrmK5lycKUTca5RRO2AkKyTEhR5mpoO8FPceHzmQJmXTOHQgLWmXomMKMcIGAG8RSsHoZ/6DF0Rh0SMvt1yNAtHb6Lbl0YDBWAS1zWeVG67BqHJfzdJklsdRwE2v9gMh6OTOpAnI6hnfQ4Xo6tbSXn4TvpADm6kCe1fMM3oGKiOpCyTVoU+WO6YGsGoqaULNF8xGBurzQMT/sc5DBqxJb+aoKT8OtmHpgmKWFFGrJJPVKWoR5o0cBRbgaNFfeF+LyeumK9sRs4rU/ht5QOpYs2R8APMBCWl0mOCKng9MIw0SoFnQ4qtJ/ZDHaF3evzlMTW0BuwW+uSlk2vdrhiFvw66IvWTgB7ZIpS/6rcFNArIXODRKs2PeWU4H+l7kdNKTfidj8ACD6wjcxVDHH7fs/Cpix2w==;ObEzh4NsruH+6O5qW2Wt9Q=="
 ---
 
