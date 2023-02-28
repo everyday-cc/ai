@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market International Business Analysis, Development Outlook and Regional Strategies 2029"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- [118+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Machine Learning Market” Size 2023 Key players Profiled in the Report ..."
+    publishedDateTime: 2023-02-27T14:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-international-business-analysis-development-outlook-and-regional-strategies-2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
 
 secured: "eXbImKH/soFfUD6Y+mcUEAp/30ArQt88ep0G1/ahgXnlelb1pu2ShsXUUlEPdtuiv6WCV+thtMuchxto62dRyZ2nnmtSJG34gR3iVLpori4jefpcaD0IU6DPaNXfZwzAJ8Nl6I59qawyNw/d0lFBudJHNNthpsa43FgIbFhiGM677ygGl34Bl0RQC+ffDLHcUjBUsvknfZ6uZ9yK9IcLBQxtaSDOn4GeCHmLcyR51huHHgh192v03HAay2RJpiP6uwCjXi1tocVop94Z1qNVhA9Gbw0zl39bFwN/mSCeLft4hbkHUOqygkjlmyAst0hlCmbHNuUJu0nuPlrmJpQwX8JphRFw+K3JJt8rYRcIiOo=;hqEqYGWFdizHRBAXf9gnTQ=="
 ---

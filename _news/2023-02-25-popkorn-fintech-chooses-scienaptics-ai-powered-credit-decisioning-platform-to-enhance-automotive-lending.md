@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Popkorn Fintech chooses Scienaptic's AI-Powered Credit Decisioning Platform to enhance automotive lending"
-excerpt: "Leading global AI-powered credit decisioning platform provider Scienaptic AI announced today that Popkorn Fintech has chosen its platform to sharpen its loan decisions. Popkorn Fintech will be using Scienaptic's platform for instant decisioning and credit assignment."
-publishedDateTime: 2023-02-25T14:04:00Z
+excerpt: "Popkorn platform is free for consumers. Popkorn Fintech aims to put AI-driven technology in the hands of frontline sales professionals at automotive dealerships to close loan requirements of ..."
+publishedDateTime: 2023-02-25T14:25:00Z
 originalUrl: "https://news.webindia123.com/news/Articles/Business/20230225/4043205.html"
 webUrl: "https://news.webindia123.com/news/Articles/Business/20230225/4043205.html"
 type: article
@@ -19,23 +19,32 @@ topics:
   - AI
 
 related:
-  - title: "Popkorn Fintech chooses Scienaptic's AI-Powered Credit Decisioning Platform to enhance automotive lending"
-    excerpt: "Leading global AI-powered credit decisioning platform provider Scienaptic AI announced today that Popkorn Fintech has chosen its platform to sharpen its loan"
-    publishedDateTime: 2023-02-25T17:10:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/popkorn-fintech-chooses-scienaptic-s-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending-123022500830_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/popkorn-fintech-chooses-scienaptic-s-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending-123022500830_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/popkorn-fintech-chooses-scienaptic-s-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending-123022500830_1.html"
+  - title: "Blue Motor Finance Partners With Zinia for Implementation of Decision Intelligence AI Platform"
+    excerpt: "Press Release Fintech lender, Blue, has announced a new partnership with Zinia, the pioneering Decision Intelligence company, to supercharge AI driven decisions across the business.Blue is a technology-focused lender delivering innovative motor finance solutions"
+    publishedDateTime: 2023-02-24T02:24:00Z
+    webUrl: "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/"
+    ampWebUrl: "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 42
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+  - title: "AI Competition Winners Announced"
+    excerpt: "Dr Mounir Hamdi, dean of the College of Science and Engineering at HBKU, said:“The competition recognises the developers who are paving the path for future innovative AI technologies that ... smart cities, Fintech, education, social media platforms ..."
+    publishedDateTime: 2023-02-25T04:11:00Z
+    webUrl: "https://menafn.com/1105641901/AI-Competition-Winners-Announced"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-02/25/full/20230225190821.jpg"
-        width: 600
-        height: 450
+      - url: "https://menafn.com/updates/pr/2023-02/24/GT_6dd43image_story.jpeg"
+        width: 1000
+        height: 526
         isCached: true
 
-secured: "5Bb4Wd6mrHH7soutMtPn6Y5lkJyIV/lt2iqe+tIb1HQvOV66dZBHn8ltvhnNr2FhdU99Fs4+ZjsQ7g1zL2XSgvN2i7vP3T+Z2LHM+amgfSTbWikk2NIgfoMcYIaUfgzfCzB579ydRmvzR4UhGMQOramz6dZcq5qarhb9fWVHPu23kvYFoSLrhKI9wcd8BcQlMREbWPxw3T3dbQYhwbzJlIEm7sycSUjnKILnW6M8YlgkyyneWNqKZ7TNanxoVWKsoXuK1RGKP4I+yBvDhNxpemyQlR+2ZQ3p6QrWsNUyisFuUs4g213/RVqKZwjmFsRlbbzPGXX7H7tKaR3E+0sOC/JBaRGoOWzPhzfam9PRV08=;YOIz7iyBFKu8dxZVSr1CpQ=="
+secured: "hP71bSDtb/d5E9udOKLsF//LzLbeycRgNB+xHzCoxZOeNNRhOZtCZEXFmqlMsV5s2qNkqlScNShWGgEiNl2LH+gt6OgzKGZ0hlqI3hLSfeYcCIiCLWS4p7OSDJpYdLY4lS1lkCEN5iqRQqZPtHwQ53VKpc59m49YbfAzJt4QBlFD1cGtmHmFbwG/imOeMLn+jMYQJVu9ojCiXoLH69BzBP7LZL94PZubiji8fHETM750Me1nWlhsEKJc9o9qgvEJqTZuoFma5ZzmX0O2TntQdcq+yT7I4PLm4x9FZRT3m2h6QLP9wZBhIJzp64ISdbOZylCv9smeVigCyLl4MmfdP9EpE9M/asXNqTibrNjybWY=;AdzRKjq+IARobD6uCq9aeA=="
 ---
 

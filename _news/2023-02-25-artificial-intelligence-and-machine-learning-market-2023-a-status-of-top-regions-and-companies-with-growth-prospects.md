@@ -581,14 +581,14 @@ related:
       domain: marketwatch.com
     quality: 23
   - title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the field of Al computer vision."
-    publishedDateTime: 2023-02-27T17:57:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
+    excerpt: "The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is expected to grow at a CAGR of 21.5% from 2023 to 2028 according to a new report by MarketsandMarkets™."
+    publishedDateTime: 2023-02-27T18:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 23
+    quality: 21
   - title: "Artificial Intelligence Chips Market Research Report 2023-2028: Industry Analysis, Size, Growth, And Forecast"
     excerpt: "The 2023 research report on the global 'artificial intelligence chips market' offers a comprehensive analysis of the market, providing insights into the challenges, drivers, and trends shaping the industry. The report presents a primary overview of the ..."
     publishedDateTime: 2023-02-25T06:44:00Z

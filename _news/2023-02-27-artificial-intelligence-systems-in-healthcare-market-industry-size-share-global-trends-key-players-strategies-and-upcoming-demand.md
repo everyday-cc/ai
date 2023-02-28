@@ -80,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+  - title: "Artificial Intelligence Systems in Healthcare Market 2023: Uncovering the Top Growing Regions for Business Expansion by 2027"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-27T16:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2023-uncovering-the-top-growing-regions-for-business-expansion-by-2027-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Telecom Artificial Intelligence Software, Hardware and Services Market New Innovations and Future Expansion 2023-2028"
     excerpt: "The report titled Telecom Artificial Intelligence Software, Hardware and Services Market which was recently added by 360 Research Reports, aims at providing the clients with the business growth and investment opportunities present in the market globally."
     publishedDateTime: 2023-02-27T00:26:00Z

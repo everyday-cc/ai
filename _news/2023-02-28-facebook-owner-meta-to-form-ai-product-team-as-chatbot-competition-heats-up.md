@@ -71,6 +71,52 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Meta looks to ‘turbocharge’ generative AI work"
+    excerpt: "The Facebook parent company creates a new top-level product group focused on generative artificial intelligence."
+    publishedDateTime: 2023-02-28T10:00:00Z
+    webUrl: "https://www.itweb.co.za/content/KjlyrvwB8NPqk6am"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/KjlyrvwB8NPqk6am"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KjlyrvwB8NPqk6am"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/02/Meta-tech-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Meta plans to integrate generative AI in Instagram, WhatsApp? Mark Zuckerberg gives a glimpse"
+    excerpt: "Mark Zuckerberg said they are looking into text-based experiences such as WhatsApp and Messenger chat, images such as \"creative Instagram filters and ad formats,\" and \"video and multi-modal experiences."
+    publishedDateTime: 2023-02-28T10:23:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/how-meta-plans-to-integrate-generative-ai-in-instagram-whatsapp-mark-zuckerberg-gives-a-glimpse-10175101.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/how-meta-plans-to-integrate-generative-ai-in-instagram-whatsapp-mark-zuckerberg-gives-a-glimpse-10175101.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/how-meta-plans-to-integrate-generative-ai-in-instagram-whatsapp-mark-zuckerberg-gives-a-glimpse-10175101.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 46
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2017/05/Mark_Zuckerberg_Facebook_zuckerberg.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Meta plans to ‘turbocharge’ generative AI into its platforms"
+    excerpt: "Meta CEO Mark Zuckerberg said the company is making a new product group to create new AI experiences for Instagram, WhatsApp and Messenger."
+    publishedDateTime: 2023-02-28T10:20:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-generative-ai-zuckerberg-instagram-whatsapp"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/02/52320866096_1b8a2e1240_o.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "dZlsO9e1cGrROf61ISauK4qNXq6QZfdfsPRA1pGdyEYSSU41+jgDSrA/W91Ky/NzqR2KvxOO6JbSnRM+L7vB+WG3MMLbfcojhZUJQUz2Kc9N/qxL7g+F5yLlf6+Wb4J2/l0OklNvuD2k6Nb3BenJoFtdMt9DjKg9Lft/QbImr8qljLD4vXCY+tBI/UwHoALkrvGZl3mne+PeCCULm9+iBxb8fX6LN171KeOkO9goeopK+qLjns4j6r3nzO0kQtAtEasGilO4yFyALPUkFsJ5WQXExUJY7X9tlEw7QQim12hpCuHdPHv5WxCaO1V4gLnSy7yDjvIzGZB0noXk9ePoExLc7oo3K/kLsV3AB6Q75iy+sVAqqbKBh3kZ54cMsA+UGPNZaBiC+YBJyr8bjg8tWD5duE+zmv9BJE2ZoylyuYuDW/pDHT/WUSVOu1ktFm7oKGYGLPLISM3//Q8wz+TaIaMkp7RUsiCZkN0xIGeqCcNfREzZe10XDxc/9VkfU6j814cOYS6rpEClgInsybt5UA==;CS5FifFeg6CeltEdc+xpUg=="
 ---

@@ -23,6 +23,31 @@ topics:
   - AI
 
 related:
+  - title: "I used an offline AI to generate an image of a puppy retriever on a phone"
+    excerpt: "We tested Qualcomm's offline AI image generator, which runs on a phone and is said to take less than 15 seconds. How fast and good was it?"
+    publishedDateTime: 2023-02-28T10:00:00Z
+    webUrl: "https://www.androidauthority.com/qualcomm-offline-ai-image-generator-3290206/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 68
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/02/Stable-Diffusion-Qualcomm-Doggo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Tabnine readies AI-generated unit testing for developers"
+    excerpt: "Tabnine Test Generation, now in beta, uses artificial intelligence to generate unit tests for Python, Java, and JavaScript code."
+    publishedDateTime: 2023-02-23T23:07:00Z
+    webUrl: "https://www.infoworld.com/article/3688931/tabnine-readies-ai-generated-unit-testing-for-developers.html"
+    ampWebUrl: "https://www.infoworld.com/article/3688931/tabnine-readies-ai-generated-unit-testing-for-developers.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3688931/tabnine-readies-ai-generated-unit-testing-for-developers.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 67
   - title: "These AI-Generated Images of Climate Change Make Me Uncomfortable"
     excerpt: "We may earn a commission from links on this page. It’s getting harder to avoid AI-generated images and text—and harder to spot them in the first place—and that’s true even on Shutterstock, one of the world’s leading providers of stock photography."
     publishedDateTime: 2023-02-25T00:20:00Z
@@ -36,20 +61,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ca8c497bfb955c38763c9699a57deec9.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Viral “Photographer” Reveals His Images Were AI-Generated"
-    excerpt: "On average, it took Avery about 85 generated images (~21 prompts, as one prompt yields four images) to find one that was usable and worth editing. “It takes an enormous amount of effort to take AI-generated elements and create something that looks like it was taken by a human photographer,"
-    publishedDateTime: 2023-02-27T21:26:00Z
-    webUrl: "https://hyperallergic.com/803915/viral-photographer-reveals-his-images-were-ai-generated/"
-    type: article
-    provider:
-      name: Hyperallergic
-      domain: hyperallergic.com
-    quality: 39
-    images:
-      - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2023/02/ai-g.jpg"
-        width: 1200
-        height: 768
         isCached: true
 
 secured: "ie+KaIAK0Sc0OXbepAJ7MY4uKhNQI8PHt3G0ohnoo8YtCe8FLjf08bX0JpeUg4BP9Nt5hFdAyrM0IWwVCnCDYIXfpNOyH3OPNWG6AYIcdvDD2iRDs0xqdjTaB09x3lTuf5D6InjbfHB6wXrNBgRrK6FZGapCXZWB8P8PfX2EaKQEC2mpUHXbyKlZXTuh4TveTfh+72gRBTRLJaGPC7LhQR53azseh+iJHR3Znk0XCl3PFm2Xivv/H0MnQJYE0BxZ1RJoFEwxIe2SJkaaSjoJTlxmXTWOYs4iIdOmgexOOrWH1zo/jpWHYL27Ku8ag03T8OoKs9kV685Qi+QrXFfIQ64+dv9bhSGmB0e8pLQ9bUxsLmLYRLV1ZHgZKWmFjxp3sWP2Zb5jYz7nlLKybjiADjMNx0NQa8onZpLtV2EknYMnYPDIITeiMOQspMeotA8y/hTv71v5mLAa8NIDE8A0K9OteqViuBJWJlKIq6Q1/Bog8+LEKzLml55lXUswQO5rTYMevzHdjS/MMR/XDfH8Kg==;g5S7uWUTJasX0BZGmh7ZFg=="

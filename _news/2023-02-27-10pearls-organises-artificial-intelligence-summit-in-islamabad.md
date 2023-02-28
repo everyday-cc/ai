@@ -7,7 +7,7 @@ originalUrl: "https://www.dawn.com/news/1739418/10pearls-organises-artificial-in
 webUrl: "https://www.dawn.com/news/1739418/10pearls-organises-artificial-intelligence-summit-in-islamabad"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 800
     height: 480
     isCached: true
+
+related:
+  - title: "AI Summit 2023 held in Islamabad"
+    excerpt: "Pearls hosts leading AI Summit this month, featuring AI tech panel discussions and tech talks, workshops, and more"
+    publishedDateTime: 2023-02-28T09:22:00Z
+    webUrl: "https://tribune.com.pk/story/2403694/ai-summit-2023-held-in-islamabad"
+    ampWebUrl: "https://tribune.com.pk/story/2403694/ai-summit-2023-held-in-islamabad?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2403694/ai-summit-2023-held-in-islamabad?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 59
+    images:
+      - url: "https://i.tribune.com.pk/media/images/C17231677574962-0/C17231677574962-0.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Mmsse2RZG4O8FglL7bSkG+FQ0CjK/ydd0BlyVT/WMIhp5rVEjgXSgrE8ARUctacdUh2Avh50qo6rq2xHnYe2WrN1i1yd1e5UsaM+k6mgQekKGfrz6l8bxb/Oa2w8S5Myi7ar0TZGrcjVTSEzqSb6Vjr4HWzfG8GgsttjWc7SpQ/MCqmFOPvKvDdHXozCeconNLPPJbeNy7h3HqPplQ8Y2i92l4Kbj13/6TJH9vDnZVkPMIk4QvOr0upKYL0qcQeK/K5nOsA+H+5t+kRUeOOUShYULUDWLJng5PtlEUL3AVnOMJpPGGhE3a8BKr3d3pkeE+bMT347J9nuq3PszDacdzRC+U2zUIggCqUIp4yGSvM=;GtgH4h0qxR5ws+JKXw/32A=="
 ---

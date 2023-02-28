@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "OpenAI Foundry to offer dedicated compute for customers to run AI workloads"
-    excerpt: "While the document does not disclose where that compute will be hosted, it is likely on Microsoft Azure. Microsoft has invested more than ... this week said that it would integrate Hugging Face's AI software development hub into its cloud."
-    publishedDateTime: 2023-02-23T18:12:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/openai-foundry-to-offer-dedicated-compute-for-customers-to-run-ai-workloads/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 17
 
 secured: "RFQd12iE2qeYEyPKT6+8pIFu8BGBqiCkjcTMdEpQVaTHT18lvmlaI1WvsIFm7KePFiBQ4zZFOhyXdTmpFvjntWEfY9V8F5N9Dfvaqd9RtXEMmm7YgFFeloFoXfxgPdE92OZ5vjANJINELzsvfCQo32p3ME10gTeJWJLW00KmM9aDJuYDJEh0F92o9LSVhEe9uxkOBgDG7chLmJnXnaAI8Np2+2znKMDsurrbDbXncDrGNJqAjReXhkC554UHIeTUxIErNRSE2eKNNkv9ppeO/0LR6Okx+pfUokn0cVL73eMTJW59BsMgw2qG4GCtatPIm0pWZEelILSZvqiFuhTQGyyAJ0zVRGfYyAM42gTo1/9roxjHgD4TAL3lFgcEX5pMORHAzf5fntq8bn1SrkJ3lLS/Kvahuua6hmWlAzaRnzJzOKyHfuakwpd9sOncs6g8BVWYWiuUr6piZgwRoibRg2kI6GfwCDrTN/kkJBVJxVgmnMGRnAUTfJBMAdaQFS1MMv2wSzthNdEdtcIYKpHrLQ==;n1R+2VJFUkd025yFXq5bQw=="
 ---

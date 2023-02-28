@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing (NLP) Market to Grow Significantly by Leading Players 2023 to 2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) Market\" Report provides a Detailed analysis of global market size, regional"
+    publishedDateTime: 2023-02-28T01:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market 2023 Expected to Reach Significant Rate by 2027"
     excerpt: "Feb 25, 2023 (The Expresswire) -- \"Computer Vision Market\" Insights 2023 By Applications ( On Premise, Cloud), By Types ( Medical Imaging, Surgery,"
     publishedDateTime: 2023-02-26T01:39:00Z
@@ -44,34 +58,42 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market 2023 Demonstrates A signify Growth By 2029"
-    excerpt: "Computer Vision Market 2023 with 119 Pages Report and enhance with extents shares into sub-counties are covered in"
-    publishedDateTime: 2023-02-28T00:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27"
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023 Will Provide Report Analysis that quickly emerging as one of the [IIII] category in the industry, by"
+    publishedDateTime: 2023-02-25T06:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Door Lock Market Geographical Segmentation By Forecast Revenue 2023-2028"
-    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Facial Recognition Door Lock Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029. The global"
-    publishedDateTime: 2023-02-26T05:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-02-26"
+    quality: 47
+  - title: "How COVID-19 Impacting Natural Language Processing Market 2023 Globally by 2028?"
+    excerpt: "“Global Natural Language Processing market size was valued at USD 13017.98 million in 2022 and is expected to expand at a CAGR of 18.27% during the forecast period, reaching USD 35630.81 million by 2028.”Ask for Sample Report GlobalNatural Language ..."
+    publishedDateTime: 2023-02-24T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-covid-19-impacting-natural-language-processing-market-2023-globally-by-2028-2023-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 44
+  - title: "2023 Clinical Natural Language Processing Market: Top Growing Opportunities and Growth Outlook by 2029"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Clinical Natural Language"
+    publishedDateTime: 2023-02-24T07:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-clinical-natural-language-processing-market-top-growing-opportunities-and-growth-outlook-by-2029-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+  - title: "2023 Maximizing Statistical Natural Language Processing Market: Competitive Space and Growth Prospects by 2029"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Statistical Natural"
+    publishedDateTime: 2023-02-27T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-maximizing-statistical-natural-language-processing-market-competitive-space-and-growth-prospects-by-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
 
 secured: "qKUQf+m9opdw27EcQyiv5a29fJJ576kUYM/2hOT7+GGt8yE8S6TSjSgYAj8MRKTJ9UAuZNE5YcuWaX/GZzXmjwoRSbwpzr+exGEj6SbViu5j7B+r5a/Los59YeDn8YUt5evMmZi1gP1mgEaMT89smMr0u4lEgIpTl5WmTdr/IyZRXhoWQV11T3RxWmZ+Y4quUFudog+s/SHfZuWRRYq+cmTeoJBySc8ku1dBniVC5wkhD5otlHzM9/g61MTBDy9EY5Mt4rQKGWCE0kvAWdAIPxunQnY+IuwZzT65ZcAMUmK0HzV1gkA7cIyfWFd1XTfDRteMtP19tBKqGjPl0lfPYcfLrg/RbdM+9xPTGw/g68U=;GTqpWV0KcMLHk4tzrIFXsw=="
 ---

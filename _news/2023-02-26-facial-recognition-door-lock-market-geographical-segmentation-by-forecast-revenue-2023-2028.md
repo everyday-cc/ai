@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-02-26"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: MarketWatch
@@ -29,43 +29,52 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market 2023 Expected to Reach Significant Rate by 2027"
-    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Computer Vision Market\" Insights 2023 By Applications ( On Premise, Cloud), By Types ( Medical Imaging, Surgery,"
-    publishedDateTime: 2023-02-26T01:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25"
+  - title: "Face Recognition Access Control Terminal Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Face Recognition Access Control Terminal Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type"
+    publishedDateTime: 2023-02-24T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-access-control-terminal-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market 2023 Demonstrates A signify Growth By 2029"
-    excerpt: "Computer Vision Market 2023 with 119 Pages Report and enhance with extents shares into sub-counties are covered in"
-    publishedDateTime: 2023-02-28T00:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27"
+  - title: "Facial Recognition Equipment Market Size with Competitive Landscape, New Projects and Investment Analysis till 2028"
+    excerpt: "The “Facial Recognition Equipment Market” Analysis 2023-2027 is a detailed sketch of the business sphere in terms"
+    publishedDateTime: 2023-02-24T01:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-equipment-market-size-with-competitive-landscape-new-projects-and-investment-analysis-till-2028-2023-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "MLOps Market 2023 Expected to Reach Significant Rate by 2029"
-    excerpt: "Feb (The Expresswire) -- \"MLOps Market\" Insights 2023 By Applications (Iguazio, Modzy, Google Cloud, Datarobot, Algorithmia Inc.,"
-    publishedDateTime: 2023-02-24T03:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mlops-market-2023-expected-to-reach-significant-rate-by-2029-2023-02-23"
+  - title: "Facial Recognition Phone Market Size, Assessment, Key Factors And Challenges By 2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Facial Recognition Phone Market\" Report covers specified competitive outlook consisting of the market proportion"
+    publishedDateTime: 2023-02-27T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-size-assessment-key-factors-and-challenges-by-2028-2023-02-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 42
+  - title: "Speech & Voice Recognition Systems Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- [93 Insights] Top “Speech and Voice Recognition Systems Market” Size 2023 Key players Profiled in the Report are [, Dictation, AbilityNet, Microsoft, Alphabet, Sensory, Iflytek, Raytheon BBN Technologies, Nuance,] most ..."
+    publishedDateTime: 2023-02-24T05:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-g
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-art-generator-qualcomm-gets-stable-diffusion-running-on-a-smartphone/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Qualcomm Shrinks AI Art Generator to Run on an Android Phone"
-    excerpt: "The company has adapted the Stable Diffusion art generator to run on a smartphone, and it's reportedly as fast as it is on a powerful desktop machine."
-    publishedDateTime: 2023-02-23T18:34:00Z
-    webUrl: "https://www.extremetech.com/computing/343334-qualcomm-shrinks-ai-art-generator-to-run-on-snapdragon-powered-android-phone"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "HAriXj++0cl36bBGWxhpr1rtSyVhskOdetewr0Qkg/eKMXRMrzQrZ56E07P/8UpNu9EjddxRZpq1eywDtkr+ztDSmf7hSFswrtCxXdf3clGd0q/cJRySrjJJPo6noLSdSXn7eS1Ub2VlDnjRkhitCr8G4R8tIJaDGW9sLN73E6/thvfE+2A2Li2pNPLyIxSreUeVi1HlWYqZey+W8D/WVuocE3Ht+JvF6RQTop5iu57ulrM4/oicRRRScY15tlQ8E9zFwCpq1mQ6dEej2PQqw4f16XP8nItmdMxlKpiIO9P2nP5/bAJD0Ggggx9KPj7lmp31jS8V3eElq1qC2KI7d4d1ZaFegle4jc9LgQjKQVAFOL1FYJk2nuYCIxF71X6WYf0LCyUROZ5Z5cjIAIRSOJqUm0TvdLC5sTmeDAchTNya/el9aOuyd1P0dzwU+VaCsyOtvsG8Jn8i04Q4ta3OZWqChPNQCOHqPmulUw54htZXN+kkwWaR/cQ7p2SCtCAZggarldVUvZi0H5Z8cNHFNA==;I/IUvqqI2Izyhih5vR/TBA=="
 ---

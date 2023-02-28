@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-m
 webUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479"
 type: article
 quality: 69
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "US Air Force experimenting with facial recognition on drones"
+    excerpt: "New Scientist magazine has found a contract between the US Air Force and a defence firm that shows the government uses reconnaissance and surveillance drones equipped with facial recognition to aid in special operations missions. It would appear that these ..."
+    publishedDateTime: 2023-02-28T10:21:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/56412-us-air-force-experimenting-with-facial-recognition-on-drones"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bc84d79d282a65f1ffb605ed78a6844c_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "US sparks fear of assassinations with new AI-powered facial recognition tech"
     excerpt: "The United States Air Force has developed new facial recognition technology powered by AI, sparking fear of remote assassinations."
     publishedDateTime: 2023-02-27T08:34:00Z

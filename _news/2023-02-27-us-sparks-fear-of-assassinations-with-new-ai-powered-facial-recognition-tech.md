@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US Air Force experimenting with facial recognition on drones"
+    excerpt: "New Scientist magazine has found a contract between the US Air Force and a defence firm that shows the government uses reconnaissance and surveillance drones equipped with facial recognition to aid in special operations missions. It would appear that these ..."
+    publishedDateTime: 2023-02-28T10:21:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/56412-us-air-force-experimenting-with-facial-recognition-on-drones"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bc84d79d282a65f1ffb605ed78a6844c_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "DHS S&T concludes facial recognition can work for small groups, while maintaining privacy"
     excerpt: "The results from the “2022 Biometric Technology Rally” could inform the way forward for TSA and other government agencies as they increasingly adopt facial recognition"
     publishedDateTime: 2023-02-25T00:41:00Z

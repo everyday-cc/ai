@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/world/elon-musk-recruits-team-to-d
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html/amp"
 type: article
 quality: 59
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i.gadgets360cdn.com/large/openai_chatgpt_plus_subscription_unsplash_1675279843231.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Elon Musk Ropes In DeepMind Researcher to Build OpenAI Rival"
+    excerpt: "Company is effectively controlled by Microsoft,” Musk, the one who co-founded OpenAI with Sam Altman in 2015, recently said that the way the company has now become closed source and maximising profit,"
+    publishedDateTime: 2023-02-28T09:58:00Z
+    webUrl: "https://analyticsindiamag.com/elon-musk-ropes-in-deepmind-researcher-to-build-openai-rival/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/02/ElonMusk_AIM.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Elon Musk is hiring ex-Google staffer to develop ChatGPT rival: Report"
     excerpt: "Tesla and Twitter chief Musk has been recruiting Igor Babuschkin, a researcher who recently left Alphabet's (GOOGL.O) DeepMind AI unit, the report said."

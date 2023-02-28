@@ -50,15 +50,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 61
-  - title: "Qualcomm Shrinks AI Art Generator to Run on an Android Phone"
-    excerpt: "The company has adapted the Stable Diffusion art generator to run on a smartphone, and it's reportedly as fast as it is on a powerful desktop machine."
-    publishedDateTime: 2023-02-23T18:34:00Z
-    webUrl: "https://www.extremetech.com/computing/343334-qualcomm-shrinks-ai-art-generator-to-run-on-snapdragon-powered-android-phone"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "bk6GFa3iBefw0u5y4buBgOMwXY4dT2UhR6VROl9x3NzRnwgp1mxWrUbhi5m3kqdr+XDmtYaepmZ7dlb+YKepEwAvcwn9Thkk2qqTb8OhoDvO7BPQ1F1M7LJK6wxicGDXOd8ePZnKd+/eMjOJgp5NnQqhlbH7Z+2aHVEvx8QQ7Pp34bNdnDIY73mCS3umlJjPSTiOQbTGt3iR+tg75MRddjDSrHV8knAlr9UHvtAqAEC7QvK7rcUr1o/aTL5gGhAoJ3KQCzjHXu+takI4u66DPUD7uTBsccWNR5bmsV+hm5Jqe1Polh8uKdTjFXrDTBup1u0hW51sR0oPQEN7SPlFihooQVDA8sSkMOVv+cL2caw6CTM5woHTLwgIXQQVkDhg2wa2xRhAEkRw4z+XIjHO2rTzwfc1Cr6otjpsU9wpFX4gR7rdpeL0EA67BRYOnxQOfdSoECFn7a2vrJwFAqB2Gz9kCFe3meTFlyuGkytlkDMcO4TMeKe3uMQ9DiJf1G2iu24aKZA40R2rvKZGIL5OZg==;tDL0kg887imKlsDDAj92GA=="
 ---

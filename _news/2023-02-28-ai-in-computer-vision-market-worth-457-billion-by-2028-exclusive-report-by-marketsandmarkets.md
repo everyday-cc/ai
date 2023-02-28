@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the field of Al computer vision."
-publishedDateTime: 2023-02-27T17:57:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
-webUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
+excerpt: "The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is expected to grow at a CAGR of 21.5% from 2023 to 2028 according to a new report by MarketsandMarkets™."
+publishedDateTime: 2023-02-27T18:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
 type: article
-quality: 23
+quality: 21
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 related:
   - title: "Computer Vision in Artificial Intelligence (AI) Market Size Global Research Report, 2023 - 2028"
@@ -612,6 +611,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "3I51TX66TGkRFNmU3Tn1AZHhix65jysj+4ZKtfAjKYheG+A79EFmRDON9MtyfcJzKJoBOYtIveEDl6ISEO8cweDepmf1gadSc3mwQBxf3KSM5wbcxhSKzuwV2KLkD4F6NQi5GJTteE2AK2yY9aSKmjX5dKoGeSIEVonlfSvo1Ef0K+vxY+whV6G+2DNIj5dA2/VPXcwe8M06sx1kb6XhvL6yazIrsJtjCea0PKcukze8QQyacviogonkF/6ZhlDV09JrmFeA4KlOefr4aMsadl18ticRc3P9XS4B0wydfWDFXUfqnMYnnXRm8OPj3DDix7nKTDNE0RyEVse0xBIa8aBMfw1CQn4WO5Ah79NIO1ifzf/B2f9gWwK+MR8LWPRWCyPzH+m6ROblxEQYZy14Z3ldrSPFnlsZuXC+SekvrUuQkmpXwzB641ubVdcpgcimvf0TpVhqWiAzjkIE+JtLn+VtHuPKudTGzEEOT2dgJLyE+/OnA12S6Wic9mJptRcvRGUGrrD8aVKdbs+QUl5d5A==;lUTr3iY0zVIGjgsuzUS7wg=="
+secured: "4WjC+fyYQbkXJn2x0KiH8wytE23t9KiXkkdssJAuvFhrNEuH9/zHy2nUjjDOUQoDTdxCMZt2oI1yAk20EhedgeIUmxZZlo2rFHUMJvpsgs5OQUcox2UfQbMqzeSi/aTHOaxEcyBqHKOYbrREGDq5X0ZeK0lHe9rOdE/vrByanDDsYQxPFTCn8DCy9GfRCLCZg3ySiIE2+rLz5X0Ru4LMtpnWDyqP7hM13zIgwN6+iE+6e31mVVZLGXvIhOyG2tmewydhBzsPaZ6e/JwTCPSqdV2XCOPQd6kHLWySLLZt8VgeW9dPa7AOccpoj/5x5Ohm4SGM4WzO+3O+4H5aGseIU/QUZFJIX2S5/HNh7VcjcRrYbdj7/nvXc2LXchOtjE570YDCCTy5nC6cdBy/H7tAtepz5w1Zbh/+ThuRB+vIo7jh6WQ6S7MgAs6YyEkczxJCifOdl7oy+CpUbwBRXmxa6v/KxVdeun3QUTAys7jzSs5Sl7a3Zo4Gn6RZI6ZQREH1wN+t0ogrC4YcwOj7VsBd7g==;mSrAvu3+ln9y4WXqdQ5flw=="
 ---
 

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Face Blindness Is More Common Than We Thought"
+    excerpt: "According to a study, as many as one in 33 people (more than 10 million Americans) may meet the criteria for face blindness."
+    publishedDateTime: 2023-02-28T09:52:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/face-blindness-is-more-common-than-we-thought-370643"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 24
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/370643/face-blindness-is-more-common-than-we-thought-370643-640x360.jpg?cb=20230228"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Face blindness may be more common than currently believed"
     excerpt: "Face blindness, a mystifying condition that can trick us into believing we recognize people we've never met or make us fail to recognize those we have, has been previously estimated to affect between 2 and 2."
     publishedDateTime: 2023-02-28T00:09:00Z

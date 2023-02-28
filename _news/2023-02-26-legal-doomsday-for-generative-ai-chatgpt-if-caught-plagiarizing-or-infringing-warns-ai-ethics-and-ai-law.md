@@ -486,6 +486,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Utmel: Post-Chatgpt Era, How AI Chips Can Succeed"
+    excerpt: "ChatGPT, a new artificial intelligence chatbot, is considered to be 'starting a new AI revolution' with its unprecedented momentum. HONGKONG, Feb"
+    publishedDateTime: 2023-02-28T09:29:00Z
+    webUrl: "https://menafn.com/1105668949/Utmel-Post-Chatgpt-Era-How-AI-Chips-Can-Succeed"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?131336"
+        width: 383
+        height: 250
+        isCached: true
   - title: "Meta to Work on ChatGPT-Like Generative Artificial Intelligence, Will Explore AI Tools for WhatsApp, Instagram"
     excerpt: "AI has emerged as a bright spot for investments in the tech industry, which has been struggling with slowing growth, and has cut thousands of jobs as well as dialed down on experimental bets to beat the downturn."
     publishedDateTime: 2023-02-28T05:10:00Z

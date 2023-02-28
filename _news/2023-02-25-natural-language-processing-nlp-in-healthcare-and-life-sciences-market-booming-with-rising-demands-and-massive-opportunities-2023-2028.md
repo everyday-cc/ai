@@ -24,57 +24,57 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
-    excerpt: "Insights] Top “Natural Language Processing For Healthcare And Life Sciences Market” Size 2023 Key players Profiled"
-    publishedDateTime: 2023-02-25T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
+  - title: "Natural Language Processing (NLP) Market to Grow Significantly by Leading Players 2023 to 2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) Market\" Report provides a Detailed analysis of global market size, regional"
+    publishedDateTime: 2023-02-28T01:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Access Control Terminal Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
-    excerpt: "Face Recognition Access Control Terminal Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type"
-    publishedDateTime: 2023-02-24T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-access-control-terminal-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23"
+  - title: "Computer Vision Market 2023 Expected to Reach Significant Rate by 2027"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Computer Vision Market\" Insights 2023 By Applications ( On Premise, Cloud), By Types ( Medical Imaging, Surgery,"
+    publishedDateTime: 2023-02-26T01:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market Booming With Rising Demands and Massive Opportunities, 2023 - 2029"
-    excerpt: "Speech Recognition Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Semiconductor & Electronics] category in the industry, by Type (Speaker Dependent,"
-    publishedDateTime: 2023-02-27T02:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-booming-with-rising-demands-and-massive-opportunities-2023---2029-2023-02-26"
+  - title: "MLOps Market 2023 Expected to Reach Significant Rate by 2029"
+    excerpt: "Feb (The Expresswire) -- \"MLOps Market\" Insights 2023 By Applications (Iguazio, Modzy, Google Cloud, Datarobot, Algorithmia Inc.,"
+    publishedDateTime: 2023-02-24T03:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mlops-market-2023-expected-to-reach-significant-rate-by-2029-2023-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
-  - title: "Speech & Voice Recognition Systems Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
-    excerpt: "Feb 23, 2023 (The Expresswire) -- [93 Insights] Top “Speech and Voice Recognition Systems Market” Size 2023 Key players Profiled in the Report are [, Dictation, AbilityNet, Microsoft, Alphabet, Sensory, Iflytek, Raytheon BBN Technologies, Nuance,] most ..."
-    publishedDateTime: 2023-02-24T05:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "How COVID-19 Impacting Natural Language Processing Market 2023 Globally by 2028?"
+    excerpt: "“Global Natural Language Processing market size was valued at USD 13017.98 million in 2022 and is expected to expand at a CAGR of 18.27% during the forecast period, reaching USD 35630.81 million by 2028.”Ask for Sample Report GlobalNatural Language ..."
+    publishedDateTime: 2023-02-24T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-covid-19-impacting-natural-language-processing-market-2023-globally-by-2028-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
   - title: "2023 Clinical Natural Language Processing Market: Top Growing Opportunities and Growth Outlook by 2029"
     excerpt: "Feb 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Clinical Natural Language"
     publishedDateTime: 2023-02-24T07:49:00Z
@@ -84,6 +84,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+  - title: "2023 Maximizing Statistical Natural Language Processing Market: Competitive Space and Growth Prospects by 2029"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Statistical Natural"
+    publishedDateTime: 2023-02-27T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-maximizing-statistical-natural-language-processing-market-competitive-space-and-growth-prospects-by-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
 
 secured: "He2J9Xi+NZxQ+NDg6qlh2VvQjZk75MD3gcHsE6HM1D4OFmRWR0D2kilenYbT+TGeqVn1GSnSYxEHYK2BIgTigbr1YczVA0N9X+JahPZ80YeEEyGNaz15+/roj1SONCtYcUeQbc7kAoXU5p8Fd3P4ZJyeasqAMpe2JObbWFFnGc0uVE6t0dhmEtgt+I+D8x+weU/2Z1CfhLCqiCbi87dtKZepFh18+LkhrX2fp7FAvfP5E+65yoYsLlYB9SsaBPVG5mrw957Ni3JXzFJ4zTDO1x08KuK5g2tzRs6aRYqK2MDYVgK/kLimjLK5ktt7ei4O3X0VrtnhkBkTccpmJkKuGzaLwUPVqApWqxjsJFYw0OU=;lMUa7vfgl03kgWR1S7oSug=="
 ---

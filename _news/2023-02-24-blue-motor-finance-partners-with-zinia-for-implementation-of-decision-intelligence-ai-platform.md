@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/blue-motor-finance-partners-with-zi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
         width: 1000
         height: 526
         isCached: true
+  - title: "Popkorn Fintech chooses Scienaptic's AI-Powered Credit Decisioning Platform to enhance automotive lending"
+    excerpt: "Popkorn platform is free for consumers. Popkorn Fintech aims to put AI-driven technology in the hands of frontline sales professionals at automotive dealerships to close loan requirements of ..."
+    publishedDateTime: 2023-02-25T14:25:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230225/4043205.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
 
 secured: "u/77luOTr7cEf8h64AQyibltD1y1HEJf04iPfZ0umL1OHDJt6N0ZKwj81EVZ762ei30JYawn805/RY7vvmcPX4msdzLyWS7lLgzxNEf/jis3Xpsh7DyOdQLL97YWjHvU5cn03dPI/cW2zmApDeJ/+lcmTT3FPPPr14DT/quEl2sNKhmHBvCwDqgz0gsWcjIylfy6tLJWI1E6MlqysyOnsko8mnrqFd0LPHvSuFBlZSETg7rTQDxvZOLyOYIcbMPj/2WZ8avzhAI56kPeHvBHZ+lVK3LgE/QjFf0exrYQIBwzkmOCEKksawX43qA+vvY2WfArauzrefdGA4h2TJsWcBY2wKnPi5Tyoa2a9VlCY0Q=;7rCdnY5jgnLtBv4CDRCfvg=="
 ---

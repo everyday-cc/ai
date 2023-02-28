@@ -70,6 +70,6 @@ related:
       domain: richmond.com
     quality: 17
 
-secured: "phlPlUHhMdwopASUMiSgjrUBkwDKBefxk5wWMOs0/fy3Oxz0uPnTuDim8nbHDxsgLlfkDUJyHHdwC+qpHW/rbRtssYUYnCjlBhG7WeL6/Xql7WJrVEGYx4rz2L+u+rB16BEVvO6XGUT9tIOY8XBsNLjDBrkhcTFTl7851t8B+ybiOZGAk0kCHof43dNWM0sKDNgep/Zxp6yWsYlzZ7Auy5vrXu/N0NoE/y25krONTTJvyBhdQVU3QqC+VMNg+iuseaAmgj8c/EM/1jTwCLzFrmPod3OOAVQyfcjnY8xZYxQ12ZL+YjAE5PFuAHeIEwFzcJ4jprU31sub4EReT2wNeIe/hbFM73mwyuiR21n3eps=;58kE/GJhiLoOevO0XWsuCg=="
+secured: "wxSeVR5tZzQLvp0EFIsDwjIfold9cCAdcO8BktBz7WVgRkSTG8GeLNCR4/DNKaoGoOiaJO2Yq+3z+X0ItlsKpVXAHt44jMUBPMnyERyzmGyDnxUj10mAe52cesw+XRzjxkMCDn19OgLH3oJqIShNbMf3w7rkPOpd1hyzmXZYB3oyFOaUgepd2K76QHhHJyPXrnCSopdhSNVqXuTIyd4/mkKiFLUktHERrftDy/8gm0eBHXn54xx+QfU0WJIZ5tVJeQq1FSPiEV9JVJ9A/QvnlK2xPnx31F/P0lhAzb2FwKY/H/qoPocZzsj93E4noGyVPSGes+JalI3LGNkfdr4Nc3QmylKlhhllaAq8izQaOoU=;kMnAF55tAA3eRMFTt45g9g=="
 ---
 

@@ -67,6 +67,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+  - title: "Artificial Intelligence Systems in Healthcare Market 2023: Uncovering the Top Growing Regions for Business Expansion by 2027"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-27T16:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2023-uncovering-the-top-growing-regions-for-business-expansion-by-2027-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Systems in Healthcare Market Industry Size, Share, Global Trends, Key Players Strategies and Upcoming Demand"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 27, 2023 (The Expresswire) -- \"Artificial Intelligence Systems in Healthcare Market\" Report covers specified competitive outlook consisting of the market proportion and ..."
     publishedDateTime: 2023-02-27T11:52:00Z

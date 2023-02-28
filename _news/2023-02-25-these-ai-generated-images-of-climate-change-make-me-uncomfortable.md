@@ -7,8 +7,8 @@ originalUrl: "https://gizmodo.com/ai-generated-stock-images-of-climate-change-18
 webUrl: "https://gizmodo.com/ai-generated-stock-images-of-climate-change-1850155713"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gizmodo
@@ -28,6 +28,31 @@ images:
     isCached: true
 
 related:
+  - title: "I used an offline AI to generate an image of a puppy retriever on a phone"
+    excerpt: "We tested Qualcomm's offline AI image generator, which runs on a phone and is said to take less than 15 seconds. How fast and good was it?"
+    publishedDateTime: 2023-02-28T10:00:00Z
+    webUrl: "https://www.androidauthority.com/qualcomm-offline-ai-image-generator-3290206/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 68
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/02/Stable-Diffusion-Qualcomm-Doggo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Tabnine readies AI-generated unit testing for developers"
+    excerpt: "Tabnine Test Generation, now in beta, uses artificial intelligence to generate unit tests for Python, Java, and JavaScript code."
+    publishedDateTime: 2023-02-23T23:07:00Z
+    webUrl: "https://www.infoworld.com/article/3688931/tabnine-readies-ai-generated-unit-testing-for-developers.html"
+    ampWebUrl: "https://www.infoworld.com/article/3688931/tabnine-readies-ai-generated-unit-testing-for-developers.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3688931/tabnine-readies-ai-generated-unit-testing-for-developers.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 67
   - title: "Your Android phone might soon be able to generate AI images in seconds"
     excerpt: "Qualcomm used a phone powered by the Snapdragon 8 Gen 2 chip to generate an AI image of a cat wearing armor. Here's how they did it."
     publishedDateTime: 2023-02-24T09:30:00Z
@@ -37,20 +62,6 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 49
-  - title: "Viral “Photographer” Reveals His Images Were AI-Generated"
-    excerpt: "On average, it took Avery about 85 generated images (~21 prompts, as one prompt yields four images) to find one that was usable and worth editing. “It takes an enormous amount of effort to take AI-generated elements and create something that looks like it was taken by a human photographer,"
-    publishedDateTime: 2023-02-27T21:26:00Z
-    webUrl: "https://hyperallergic.com/803915/viral-photographer-reveals-his-images-were-ai-generated/"
-    type: article
-    provider:
-      name: Hyperallergic
-      domain: hyperallergic.com
-    quality: 39
-    images:
-      - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2023/02/ai-g.jpg"
-        width: 1200
-        height: 768
-        isCached: true
 
 secured: "lcGr1CC0fybymmvPm2TUa4kT/mObPcXh8SbroVo6REOBnsVzsVPadtoVOOPV4QZGaQneGoafNjP0NJuvtTMBn8DB5uCJaXtCXt3SjfW6wPAGdybbtf9WynwsAvahNUSmyyW4sxX+fmmhcVBHPLLBdgbg0quf4ZTNlGNv6eUH+vxIJPgBVY8drst1lDKoUYlK85cjOukUyHktDMpSAaw+v3ChTJA8e+rbIu/Boy8z8Zlr8zBJWusV/hWjwfPG6plkVsaNt5nTyxS+zC7bP9W12IBZIFOc6SJsnjpRjHpn5CpanwuPzSok/1bwAJRuHao3dGmihMa7fsalHYjbUXSNQjK/KHXf+bXeoTq/ji7q/CQ=;T0eRXBIquWgbsgfMOV600g=="
 ---

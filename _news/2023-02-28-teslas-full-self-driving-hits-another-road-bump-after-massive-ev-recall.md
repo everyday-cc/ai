@@ -103,6 +103,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Tesla Halts Rollout Of Full Self-Driving Beta Software Amid Recall"
+    excerpt: "Elon Musk-run Tesla has paused the rollout of its Full Self-Driving (FSD) beta software in the US and Canada until a"
+    publishedDateTime: 2023-02-28T10:48:00Z
+    webUrl: "https://menafn.com/1105669115/Tesla-Halts-Rollout-Of-Full-Self-Driving-Beta-Software-Amid-Recall"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-02/28/I_345aaimage_story.jpg"
+        width: 400
+        height: 284
+        isCached: true
   - title: "Tesla Has Totally Paused New Installations of \"Full Self-Driving\" After Safety Concerns"
     excerpt: "Tesla is pausing installations of its controversial \"Full Self-Driving\" software after federal regulators called it a \"crash risk.\""
     publishedDateTime: 2023-02-27T21:30:00Z

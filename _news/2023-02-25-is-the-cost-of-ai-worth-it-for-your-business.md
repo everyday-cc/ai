@@ -22,6 +22,22 @@ topics:
   - Microsoft AI
   - AI
 
+related:
+  - title: "All businesses should start incorporating AI now"
+    excerpt: "By automating tasks like data entry, document processing and customer service, businesses can improve efficiency and reduce errors."
+    publishedDateTime: 2023-02-28T09:14:00Z
+    webUrl: "https://www.itweb.co.za/content/WnxpEv4YOr47V8XL"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 37
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2017/12/resized/-fs-Artificial-intelligence-2017.xl.jpg"
+        width: 816
+        height: 459
+        isCached: true
+
 secured: "GvQYmxPcNPxmHpaTZEgexd2sfkqoK8nAibul45ycbobOXSf+YhUlxjptxP0V/Ck8m0zUM4agPvsb/So6WgJnYPB1p/kiSfiKKjZtLwN81ghdK9j6SG8R+mHWuIkQCutSuK2IJq44nzERwE/DqqDz53lozeZJrVOtsasoMo7d9UrE6aBSTr3aCyQhn/eCJt1IUnJIVIMW8uQdIAJPLZzVBYkzlgYvLu634WxPRRJQpFSQHwa4xb+pPY0peEPm5Oq/HU/6WAHN288aS+NtkUhOEEqJNnjicuDlOGp2bXQWhBFSAs9SpncYlOANmsK1rxJtEOMHHuWUrHFNYoCHRuKYHbe61crxDFDu2UA4oLw93N2E7Qcr9GvutkdyUPTTOME0l7lTxXJbRfzjfD09a0ok8va2WVe7lKOq1ChqUGtkcP3iLPDFh0mK3EWNSbaFAE1S66TY/7ZZd1BmbmJzbW92mJBYB9Rjssx4i7PBTZ5yWobnnpxzEg/VAak2vSefQDIRb+wHGqPE7cgdMOgtBN3PQw==;4581xAzFAHGKUmYK7Q8evA=="
 ---
 

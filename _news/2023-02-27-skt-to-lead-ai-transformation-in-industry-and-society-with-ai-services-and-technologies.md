@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/31062898"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31062898"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "Artificial Intelligence as a Service Market 2023 Top Ranking Strategies: Trends, Predictions and Technologies 2029"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-27T15:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2023-top-ranking-strategies-trends-predictions-and-technologies-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
 
 secured: "VyEmKTxIti8iSsyu1+xKCvkpwjePcU4+jx6ai3Op98RfF22WIsmLWi1YpCYRJfngtPL7UkM2ioL6zNpjweKVrpjLsGXZfl1c28K99DPBhgDTW5QyIvcYX+HEAdoySEq7n2Geqw21TKLsNdbIinzhKKwSynGp6p0c/NxFYgS/LDWJsFDFPvOEd094kuuHHJTIHG+TSvgfhRuibQVsdi+rvkt6KSsnt5sLK3hEVGkwEfLFgJ5H7OvGwrZElJ3XZ5EECuHyMGj388odBpHmjycx8syPiptGz+4CWGOFOY4bX3DHBh4JB9vuMQwuuBRlPuUgJm4aPgVARK+LAV90ZXtz2tLgSYzqQKMWAS5eGGK0HSo=;PYA18z7l+vEJX1IKuu8Ceg=="
 ---

@@ -485,6 +485,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Utmel: Post-Chatgpt Era, How AI Chips Can Succeed"
+    excerpt: "ChatGPT, a new artificial intelligence chatbot, is considered to be 'starting a new AI revolution' with its unprecedented momentum. HONGKONG, Feb"
+    publishedDateTime: 2023-02-28T09:29:00Z
+    webUrl: "https://menafn.com/1105668949/Utmel-Post-Chatgpt-Era-How-AI-Chips-Can-Succeed"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?131336"
+        width: 383
+        height: 250
+        isCached: true
   - title: "Meta to Work on ChatGPT-Like Generative Artificial Intelligence, Will Explore AI Tools for WhatsApp, Instagram"
     excerpt: "AI has emerged as a bright spot for investments in the tech industry, which has been struggling with slowing growth, and has cut thousands of jobs as well as dialed down on experimental bets to beat the downturn."
     publishedDateTime: 2023-02-28T05:10:00Z
@@ -687,6 +701,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "c+QN62rQDa8mzLN+0r5OwtSpKapE4toSNfAbT49IWHB1gzMHa6APkVo3XBSZpeZbYdn6NxW36yxSbjC+SzW944cmgMCpRpFGpyVsENP4aTD4wJ2u3rehYXvrAmJAcMSDPMifwZLQDd7Q5Kxi0QdNOaFM0k9MLu8nL73fIIWUnxgeUFn767+p9Og2kk7kUu0W9OiHDP2z7jv/ZDxnNO75H4MU1MNPm1yXUZtt7m60kfEKsHsqziTLlYXX4cmyQiTwvXtRFrE8HHvr+FM2dZyy3xGiTLTgXoe3gtr+yBZztYQe7Z/IMI66xJC88wxEnskMhHS2tUWVHjcjOExDNWMdkFgNteUwE49k5aqFMWxUicE=;aTnuBTjPama69Evd55GUzg=="
+secured: "WhQsmMSrKu219Q0KnNp9YoFJSe8zO9MGIUduVP9V+XV6r90Y+WDtGivIpj1hbiEAOeGPfyEbsjAsn0HHTQ4FWBVPhbrjP6xIo6wrMEtziOXhRbiOwqCAENPbf8BnUmxBkRDTmLKP7/rkZHAF8spvcfervNB7MVTJoE8ZdU0c9f6SEM4Zp6ZtGcjUdjq1nKW7lH7AXSrQEM4RGfmg1qZkEMOSH9bNQdKBLHjslfd0p8Cna7Hfos+s6ybuOlaav14EMpNjBMvHxJlw51KW8R8TYjZdpXBFZbNAJoIs15DSKfQoK5EB6ren1RFzx4JSDu1UdXbhHqJ5h3nTkge8rPTwxvFwKIVYD93OAIHs7SOEkCYEEiCtOEw+Dk5bxNd/mZRPbuBTO9td/YeKxbuUojjMN4S15/ZSTGg9CxMmMReRLJmEEQS1KfoX8RfGvfb6aRA1Df6U5soz6HUbWheJm33203llbDC9I4yBCcnCn9u1LwHP8NHNgS7NgvZVmA8mmz/xS0H+y3nea14IJOApX4REiw==;7TneLV9M/ta2blU6FsaoCA=="
 ---
 

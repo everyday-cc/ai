@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-data-science-and-
 webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-service-market-2023-2029-current-status-and-future-prospects-2023-02-27"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -29,38 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Statistical Natural Language Processing Market Is Booming Globally Forecast 2023-2029"
-    excerpt: "Statistical Natural Language Processing Market 2023 with 113 Pages Report and enhance with extents shares into"
-    publishedDateTime: 2023-02-26T23:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-is-booming-globally-forecast-2023-2029-2023-02-26"
+  - title: "Artificial Intelligence in Aviation Market (New Report) to Observe An Articulate Development During 2023-2029"
+    excerpt: "Artificial Intelligence in Aviation Market Size 2023-2029 | New Report (128 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-02-27T03:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-new-report-to-observe-an-articulate-development-during-2023-2029-2023-02-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "How COVID-19 Impacting Natural Language Processing Market 2023 Globally by 2028?"
-    excerpt: "“Global Natural Language Processing market size was valued at USD 13017.98 million in 2022 and is expected to expand at a CAGR of 18.27% during the forecast period, reaching USD 35630.81 million by 2028.”Ask for Sample Report GlobalNatural Language ..."
-    publishedDateTime: 2023-02-24T04:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-covid-19-impacting-natural-language-processing-market-2023-globally-by-2028-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-  - title: "2023 Maximizing Statistical Natural Language Processing Market: Competitive Space and Growth Prospects by 2029"
-    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Statistical Natural"
-    publishedDateTime: 2023-02-27T12:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-maximizing-statistical-natural-language-processing-market-competitive-space-and-growth-prospects-by-2029-2023-02-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
 
 secured: "aPd38AHL+WNQ+eKknqvYlUiDMfMaGsgMW3+m58R79IlFeLR3NvgVvtHwqHX5cN7y3OZxZJJN1gCaYPuBxXjQpm27RkzOGLJyypQzXxTmA02wzpz6p6B2HXqYH5VL+Fc8cG7wT01HmjshwdePOJrRd+LX4znKw0CdzjPpcSpjyPqxLWpxOnDROngRPe7+H2CvHizeOlOnRRBqUEUijp9EtaSD8SU713Is9UGCcwa01vVx4FBFgsa2lbbpGjGFiI0qa02LdPjZOK72lCwag3WrUVUcfIaC1+64MgXByRa7gm+zpUYr/YuN/Ice1MscHBDNtzQEqXUFjvDbJzKK+RVPz+c9wNMKDujBrP7hZY1llwE=;kxvkmTsNzTJKqOEcd7DeOQ=="
 ---
