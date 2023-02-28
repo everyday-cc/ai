@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "Automated Machine Learning (AutoML) Market Analysis Report 2023 Along with Statistics Figures, till 2029"
