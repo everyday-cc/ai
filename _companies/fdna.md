@@ -31,7 +31,7 @@ tags:
   - Cancer
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1280825066377416707/qtusxek3_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1630532911756718082/Qd19gAPW_400x400.jpg"
     width: 400
     height: 400
     isCached: true
