@@ -2,6 +2,111 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-12-08-why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot.md",
+      "title": "Why Everyone's Obsessed With ChatGPT, a Mindblowing AI Chatbot",
+      "excerpt": "This artificial intelligence bot is an impressive writer, but you should still be careful how much you trust its answers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/",
+      "originalUrl": "https://www.cnet.com/tech/computing/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 309,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/084641681c8362c3ce0c3eb8a53365351adcaaac/hub/2022/12/06/3dd7180c-d0e7-47ca-bc37-b5df15a41a25/ai-chat-gettyimages.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-everyones-obsessed-with-chatgpt-a-mindblowing-ai-chatbot/",
+      "publishedDateTime": "2022-12-07T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-improve-scalability-for-amazon-rekognition-stateless-apis-using-multiple-regions.md",
+      "title": "Improve scalability for Amazon Rekognition stateless APIs using multiple regions",
+      "excerpt": "In previous blog post, we described an end-to-end identity verification solution in a single AWS Region. The solution uses the Amazon Rekognition APIs DetectFaces for face detection and CompareFaces for face comparison. We think of those APIs as stateless APIs because they don’t depend on an Amazon Rekognition",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-scalability-for-amazon-rekognition-stateless-apis-using-multiple-regions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-scalability-for-amazon-rekognition-stateless-apis-using-multiple-regions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/07/improve-scalability-rekognition-multiple-regions.jpg",
+          "width": 1547,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T09:18:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-heres-how-to-use-lensa-the-chart-topping-app-that-uses-ai-to-transform-your-selfies-into-digital-avatars.md",
       "title": "Here's how to use Lensa, the chart-topping app that uses AI to transform your selfies into digital avatars",
       "excerpt": "Lensa is the top free app on Apple's App Store. For a small fee, it turns your selfies into AI-generated digital art. Here's how it works.",
@@ -1049,93 +1154,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-googles-vertex-ai-vision-brings-no-code-to-computer-vision.md",
-      "title": "Google's Vertex AI Vision brings no-code to computer vision",
-      "excerpt": "Vertex AI Vision combines video sources, machine learning models, and data warehouses to deliver rich insights and computer vision",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3680148/googles-vertex-ai-vision-brings-no-code-to-computer-vision.html",
-      "originalUrl": "https://www.infoworld.com/article/3680148/googles-vertex-ai-vision-brings-no-code-to-computer-vision.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/28/10/shutterstock_561931702-100932824-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3680148/googles-vertex-ai-vision-brings-no-code-to-computer-vision.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3680148/googles-vertex-ai-vision-brings-no-code-to-computer-vision.amp.html",
-      "publishedDateTime": "2022-12-07T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-up-to-18x-faster-directx-9-gaming-with-intels-latest-arc-gpu-driver.md",
-      "title": "Up to 1.8x FASTER DirectX 9 gaming with Intel's latest Arc GPU driver",
-      "excerpt": "at least on the Arc 770 Limited Edition GPU. Closing out its video shows the configuration of its test bench, and it's no slouch. CPU: Intel Core i9-12900K Motherboard: ASUS ROG Maximus Z690 Hero ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/hardware/computers-desktops/18x-faster-directx-9-intel-arc-gpu-driver",
-      "originalUrl": "https://www.windowscentral.com/hardware/computers-desktops/18x-faster-directx-9-intel-arc-gpu-driver",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-07T02:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

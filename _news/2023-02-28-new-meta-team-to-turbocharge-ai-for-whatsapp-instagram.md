@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/new-meta-team-to-turbocharge-ai
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-meta-team-to-turbocharge-ai-for-whatsapp-instagram/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

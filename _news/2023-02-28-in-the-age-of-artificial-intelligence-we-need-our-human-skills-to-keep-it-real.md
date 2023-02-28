@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-ar
 ampWebUrl: "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/amp/"
 type: article
-quality: 83
-heat: 83
+quality: 85
+heat: 85
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63fd198a82408876dac8b544/0x0.jpg?format=jpg&width=1200"

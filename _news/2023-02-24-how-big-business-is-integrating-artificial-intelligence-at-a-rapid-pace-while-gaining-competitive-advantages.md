@@ -2,9 +2,9 @@
 category: news
 title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
 excerpt: "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market."
-publishedDateTime: 2023-02-24T15:02:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/02/24/9766176.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/02/24/9766176.htm"
+publishedDateTime: 2023-02-24T15:32:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/02/24/9766176.htm"
+webUrl: "https://it.tmcnet.com/news/2023/02/24/9766176.htm"
 type: article
 quality: 15
 heat: 15
@@ -29,6 +29,6 @@ related:
       domain: finanznachrichten.de
     quality: 5
 
-secured: "dNzzjp2SoBL00eGqNamnsZSI7701qMR3DPdZwO0swSHXjlxDwSVzInZNkG7i7OWIxbVY0d6fCd4CtlC+XyO2dd8jnmHJbHsSed+9PyvZ/noUjiUmuIBJ16RCOAMyvQYLWBb4Ru+2Tj9kGIo8e+0UlHUPddvZ4onDYCSwMV7rO7Uku4FVkzhYH0WAr8T/p15tR2KdYhQC5E5K+kf83qZQg+qsCccE7ZLhWV5cWdoiN0o90805bcG9pD6rnDHcoe/mseZjDjMYuxdB6qrBYt6qlePUtP9eFNzpkCVSdq75Ypjqkcsn/8FdX6TiHYeqw9GR3HgJpldJkfs9rQ5hgmrtT0iZrw/ll3im5wuavQcaqCg=;NDqfd6zCT4WwXFV4/aL1aA=="
+secured: "vVWmFqG4RopgL52NKsJeHbZxYuzoXZY+ma4fRJX3Um+3GXfILZTjnHI3fu9odWkO4TNXv2EEbH1MECpMNyQ8g0iPSBM9LoI9JWMvzGwTtHq5jQwBwAVBVaa9lSH1zSh25ZgI9x9wooqd08BA3KjVxNgzG6OoLVx2sgmK9/A6KtkfSqJFKM3k/5gTKayEywno70e8NeNUd7corxnLVVnUBI3ykwOnTpdQOkhBp0BuIXmKgJTWa/KRaI7vZq2IpCRd9EawhIJYBelFfigV0BQF/h64/5ZKBZGGd4neG0T2hcY/TfpTP17l+YCa8dThQyLeVms3T1etkQfO5W515wWQ89HKwuxBxqwLiEdF5QnKgKk=;9lRoY7UMDE648PGC6DwvIw=="
 ---
 

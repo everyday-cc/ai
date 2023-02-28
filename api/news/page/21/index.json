@@ -2,6 +2,111 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-02-07-this-tiny-flying-robot-could-work-as-an-artificial-pollinator.md",
+      "title": "This tiny flying robot could work as an artificial pollinator",
+      "excerpt": "“[It] can be powered and controlled by a light source ... With this goal in mind, the team’s planning to improve the material sensitivity that would allow the robot to operate in sunlight, and is looking to upscale the structure so it could be equipped ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/tiny-flying-robot-could-work-as-artificial-pollinator",
+      "originalUrl": "https://thenextweb.com/news/tiny-flying-robot-could-work-as-artificial-pollinator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F02%2FUntitled-design-2023-02-07T141819.709.jpg&signature=3e18eb83e96922a94f25ac993f80c306",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-this-company-is-beating-google-to-chat-based-search-and-its-not-microsoft.md",
+      "title": "This Company Is Beating Google to Chat-Based Search, and It's Not Microsoft",
+      "excerpt": "Baidu is best known for its search engine, but it has been investing in artificial intelligence for several years, and those efforts are beginning to bear fruit. Baidu has launched fully driverless robotaxis in Wuhan and Chongqing, and it plans to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/07/baidu-beating-google-chat-based-search/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/07/baidu-beating-google-chat-based-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/719430/china-e-commerce.jpg",
+          "width": 2120,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-risks-of-facial-recognition-technology.md",
       "title": "Risks of Facial Recognition Technology",
       "excerpt": "Besides facial recognition, AI-based image recognition is expected to be used in various fields. The technology can be used to help self-driving vehicles detect a dangerous object. It can also be used in medical image processing to assist diagnosis.",
@@ -871,82 +976,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-the-download-generative-ai-for-video-and-detecting-ai-text.md",
-      "title": "The Download: generative AI for video, and detecting AI text",
-      "excerpt": "Runway, the generative AI startup that co-created last year’s breakout text-to-image model Stable Diffusion, has released an AI model that can transform existing videos into new ones by applying styles from a text prompt or reference image.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/02/07/1067934/download-generative-ai-video-detecting-ai-text/",
-      "originalUrl": "https://www.technologyreview.com/2023/02/07/1067934/download-generative-ai-video-detecting-ai-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-this-industry-will-add-200-trillion-to-the-economy-by-2030-says-ark-invest-heres-1-stock-to-buy-if-it-does.md",
-      "title": "This Industry Will Add $200 Trillion to the Economy by 2030, Says Ark Invest -- Here's 1 Stock to Buy if It Does",
-      "excerpt": "C3.ai pioneered enterprise artificial intelligence, and its stock could see monumental ... ran a test to see how much C3.ai could improve application development time on AWS, and the results were remarkable. By using C3.ai in conjunction with AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/02/07/industry-200-trillion-2030-ark-invest-1-stock-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/02/07/industry-200-trillion-2030-ark-invest-1-stock-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

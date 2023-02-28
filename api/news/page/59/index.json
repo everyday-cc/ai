@@ -2,6 +2,101 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-01-13-framework-science-revolutionizes-hiring-process-with-cost-effective-ai-powered-staff-augmentation-services-and-fintech.md",
+      "title": "Framework Science Revolutionizes Hiring Process with Cost-Effective, AI-Powered Staff Augmentation Services and Fintech",
+      "excerpt": "Our focus on cost-effectiveness, AI-powered processes, and fintech payments set us apart from other providers.”— Jesus Romero SAN FRANCISCO, CALIFORNIA, UNITED STATES, January 12, 2023/ EINPresswire.com / -- Framework Science Revolutionizes Hiring Process with Cost-Effective,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/mexico-ein-presswire-newsmatics-business-6b2dbec690e258cbae8c4b14731138db",
+      "originalUrl": "https://apnews.com/article/mexico-ein-presswire-newsmatics-business-6b2dbec690e258cbae8c4b14731138db",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-datastax-acquires-machine-learning-services-firm-kaskada.md",
+      "title": "DataStax acquires machine learning services firm Kaskada",
+      "excerpt": "Seattle-based Kaskada claims to be the first company to train machines using event-based data and real-time data being fed from streaming sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.html",
+      "originalUrl": "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/21/14/handshake_deal_partnership_teamwork_contract_merger_network_by_metamorworks_gettyimages-933315234_2400x1600-100788512-large-100922376-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.amp.html",
+      "publishedDateTime": "2023-01-12T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-internet-shudders-at-ai-designed-to-sext-users-with-roleplaying-and-pictures.md",
       "title": "Internet shudders at AI designed to sext users with roleplaying and pictures",
       "excerpt": "The team behind the artificial intelligence chatbot named Replika is copping some backlash from social media and Replika users for their recent advertisements attempting to sell the chatbot to new ...",
@@ -1020,101 +1115,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-lilbits-pc-shipments-fall-in-q4-2022-imagination-launches-a-new-ray-tracing-gpu-for-mobile.md",
-      "title": "Lilbits: PC shipments fall in Q4, 2022, Imagination launches a new ray-tracing GPU for mobile",
-      "excerpt": "PC shipments in the fourth quarter of 2022 were down by 28.1% to 28.5% from the same period a year earlier. One part of the reason could be that many of the folks who were in the market for new computers already bought one in the past few years and don’t have any reason to upgrade yet.",
-      "sourceUrl": null,
-      "webUrl": "https://liliputing.com/lilbitslilbits-pc-shipments-fall-in-q4-2022-imagination-launches-a-new-ray-tracing-gpu-for-mobile/",
-      "originalUrl": "https://liliputing.com/lilbitslilbits-pc-shipments-fall-in-q4-2022-imagination-launches-a-new-ray-tracing-gpu-for-mobile/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://liliputing.com/wp-content/uploads/2023/01/idc.jpg",
-          "width": 915,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T14:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Liliputing",
-        "domain": "liliputing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-opinion-ryan-murphys-golden-globes-speech-was-more-than-words.md",
-      "title": "Opinion: Ryan Murphy’s Golden Globes speech was more than words",
-      "excerpt": "It's clear that culture is -- perhaps by necessity -- carrying the weight of progress right now for LGBTQ Americans, writes Allison Hope. Ryan Murphy's speech at the Golden Globes, for instance, was a particular bright spot in an increasingly dark political moment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/01/11/opinions/ryan-murphy-golden-globes-lgbtq-tar-sort-of-hope-ctrp/index.html",
-      "originalUrl": "https://www.cnn.com/2023/01/11/opinions/ryan-murphy-golden-globes-lgbtq-tar-sort-of-hope-ctrp/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230106142618-billy-porter-ryan-murphy-230110-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/01/11/opinions/ryan-murphy-golden-globes-lgbtq-tar-sort-of-hope-ctrp/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/01/11/opinions/ryan-murphy-golden-globes-lgbtq-tar-sort-of-hope-ctrp/index.html",
-      "publishedDateTime": "2023-01-11T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

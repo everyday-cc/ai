@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market 2023 Demonstrates A signify Growth By 2029"
+    excerpt: "Computer Vision Market 2023 with 119 Pages Report and enhance with extents shares into sub-counties are covered in"
+    publishedDateTime: 2023-02-28T00:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "MLOps Market 2023 Expected to Reach Significant Rate by 2029"
     excerpt: "Feb (The Expresswire) -- \"MLOps Market\" Insights 2023 By Applications (Iguazio, Modzy, Google Cloud, Datarobot, Algorithmia Inc.,"
     publishedDateTime: 2023-02-24T03:16:00Z

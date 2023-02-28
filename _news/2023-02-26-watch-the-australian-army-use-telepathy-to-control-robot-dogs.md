@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australians urged to support Indigenous recognition ahead of referendum"
-    excerpt: "ADELAIDE/SYDNEY, Feb 23 (Reuters) - A First Nations group leading the push for the constitutional recognition of Australia's Indigenous ... to change its constitution to include an Indigenous \"Voice\", which is a representative body that can advise ..."
-    publishedDateTime: 2023-02-23T09:14:00Z
-    webUrl: "https://www.reuters.com/world/asia-pacific/australians-urged-support-indigenous-recognition-ahead-referendum-2023-02-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 34
   - title: "Future-ready: Australian army tests mind-controlled combat AI robodogs"
     excerpt: "The Australian military is reportedly testing a unique artificial intelligence (AI) \"brain robotic interface\" to control \"robodogs\" synced with troopers' minds."
     publishedDateTime: 2023-02-23T14:47:00Z

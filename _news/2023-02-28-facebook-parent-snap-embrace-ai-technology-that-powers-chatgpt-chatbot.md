@@ -140,6 +140,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Snap Warns Users About ChatGPT As Coca-Cola Adopts AI, Banks Ban It"
+    excerpt: "Snapchat has added ChatGPT to help users plan trips and birthday gifts, but warns the AI can be tricked into saying anything and that it should not be relied on for advice. Other companies like Coca-Cola are going all-in,"
+    publishedDateTime: 2023-02-27T20:27:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63fd3193ec46bc6e911778bc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Snapchat launches an AI chatbot powered by OpenAI’s GPT technology"
     excerpt: "The company announced today that it's launching \"My AI,\" a new chatbot running the latest version of OpenAI's GPT technology that it has customized for its users."
     publishedDateTime: 2023-02-27T18:42:00Z
@@ -662,6 +678,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "i84h19zLa3bYsBHlocbJPGgnsQaQB83m07S3YYO5wlkUIbvWH6s20KHHKHH3IkLZBW/dqCcEKU+E6K6C3sfYwMSJfg8BPA2ipjRdt1TQRe96EOixnsfB1T9kjN0GlvucQbYBxuGVOCFPuA/pULAwXgxeBjGxQzBMvkx5TzbxgENVZYfGee5FXVAmtWKD/6SmSX+QUNFjChRBiZeKRFstPqGcrtjYW/Uk3NuqiQANsBTNxIzL9XW0m6cm3/ZREDrjscUq+PUN2rDazexTeSQQip2StBDhNe37mISforvDS80pxfITQsDGXef0tNgM+GpdBge+Qsf24susBkcIr9Hnvg75eG9nC5tR5dULxxc10sY=;KlhVYs0Fl3urqJdbeuhbTw=="
+secured: "dV0oRMeT3Dawheubve4Gr84GPIct0XPYzPL87p7adiLgBAEq/zxl8qIrmfYGcQ4RCUPARgp4sD8TMoaK418OrkSvvUbQb+nXvb2RGEjYc6PrUdqC4di3Ol0w8rj1AIpG0g/lJ5yTI9h/LaAtdY6PBJlI4uzzryqJ4sibvhIM3lj9R5KW3Xy+kYU8l69ufcNGQ6fJI0DjdRB8YT8G2N8evYrjjlGv4nwJqcM28oC//rVNDJ9ZxmO+PdAiIEW9cN4luMq2XV5Xs4uyGQrII/yq0Pw/bhblVMwtXCvQp5YcVoRdMC9ly9jfCzQSBJF5/1nbUkoS32dyV9j7i484jvR1vYRUpJ+PuRQPNEuyEsxO8pl6977Ypw/u65oEss7T3eclMugWbREDtM11BYZqBavNtYoQ//dzUWCqxGrCuZISL3gZh9wnWpNAc6K4QUIWo9Z4fu55u3s6hjLVjF0MGiuLgkDfr/hH7ikcCDREuDoBQ6aUG5lEk/rvZ3hdgQuCtBMZ5CxETCFpCc0P7dPTAcKXdw==;+WEc2T51RppmtB1CFUUg5w=="
 ---
 

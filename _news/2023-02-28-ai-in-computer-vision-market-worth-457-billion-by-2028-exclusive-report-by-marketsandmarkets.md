@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the field of Al computer vision."
-publishedDateTime: 2023-02-27T17:57:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
-webUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
+excerpt: "The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is expected to grow at a CAGR of 21.5% from 2023 to 2028 according to a new report by MarketsandMarkets™."
+publishedDateTime: 2023-02-27T18:22:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
 type: article
-quality: 23
+quality: 21
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 related:
   - title: "Computer Vision in Artificial Intelligence (AI) Market Size Global Research Report, 2023 - 2028"
@@ -246,6 +245,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI-Powered Cognitive Search Market Research Report-Forecast 2023 to 2029"
+    excerpt: "Top “ AI-Powered Cognitive Search Market ” Size 2023 Key players Profiled in the Report are [, IBM Watson, Coveo, Squirro, Micro Focus, Mindbreeze, BMC Software, BA Insight, Lucidworks, Attivio, PerkinElmer,"
+    publishedDateTime: 2023-02-27T15:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-research-report-forecast-2023-to-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size Global Research Report, 2023 - 2028"
     excerpt: "Artificial intelligence (AI) in Supply Chain and Logistics Market 2023 Will Provide Report Analysis that quickly emerging as one of the [IIII] category in the industry, by Type (,"
     publishedDateTime: 2023-02-25T07:30:00Z
@@ -325,6 +338,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence for Accounting Market 2023 | Global Industry Report Forecast 2029"
+    excerpt: "Top “ Artificial Intelligence for Accounting Market ” Size 2023 Key players Profiled in the Report are [, IBM, Google, AWS, Kore.ai, Hyper Anna, Botkeeper, SMACC, Deloitte, YayPay, MindBridge Analytics,"
+    publishedDateTime: 2023-02-27T15:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-2023-global-industry-report-forecast-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -530,6 +557,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "UrU8eLPFC8UZt4c6SUl76pSZw/1pUnqaNGvzRJR9IOMlA7I6wW1c8aKmGP1l9j16tK5kxSEZEqNfK+x3F1EVWSsBHkhDE728mo0oaIJEr/3dgcYbNH7sdph4EtBAH2DgPRVOWazlcbe+Ztc4i6aN3QJiYPOQR8p+A9GRbx07sQr6qjjwyuEYlkw/a+8ybbenkaeYegKYm+DqRfEuUcGW9mH6PQt42WGb7L2e3eHMV9gRL0KTSNTA6t/2WmDy8157qq1HZXwHhFVJmoTe3gx83CVXo5fX//ih3U9Y3GfCE6fXsFy/XWslZW+xJikvPL4qx3p0r/ywHNNkPaUEueBXWAxOt+fwhAbP+KHwZK+n9734/A/Q1/vhhw/GML24LWWTxUMT4mm2sN8I/0HagaNhZtHBFb7j8fDJHiiA7zr1unjX6GoXx9KDqr4QGNREL3CY8GvO2wNNkGXOmpI9VpqW0q2wBD7k8FFxmSZeZ5FgG4VeWb6LNXa9DLdsT0lsT4Ud8y4AyhzLGe5KFu0HxLL6Vg==;ZTjQkMHTnztAMIRKhidEXA=="
+secured: "RyuMG8HhuPOlfYB84tgQNDsjab8paC9UdK8ODKsx3MiMXml7YIEwwBuRiOyxIe020iTB4D4pyk58u7NuYUSavL/jMDt1QBykOZ3FIbZN3KzTxAfJ1kuCJKaELeCqA1e4y+rmFnj9dTyfvGtqG4QQCtHiyD6WaOS1+QUOx/93oBr4VJRDd0/SGU2yP6p0D2hJFL2j27A+c5kAkBE9nalxtQmWlrdIEpqtveL5ieCIXIxt3nGiyQEzU5qMJwBLvBkfpCkK2qxLVVHuFAdo6IOB/vOOWqvDm8lUIRbmkJRGncXCwD4skWl54I+iA48N8ABrAfHEsJYe3+z0B4IH+cQMuY7YwaiiARkI/2RxIp2MOtsX9th697ALBtS/NSGonv+7Mg6dkMIjoQ+bbi9NS3Xf2aw8qlk/P+7Ssg9uKERvKaQuxR6gQCYzLSkOZjSeKWJXssKodPoop3n0sqDeEpKZ/N4+PhO4qOmE5JFSwLMKP3MSoHLpVbCUMgazSOxK4qx84ruel+3ni1gGnjVoc2EDjg==;6tF84MPnYqznjdjsEK3N6A=="
 ---
 

@@ -2,59 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-01-16-microsofts-panos-panay-teases-next-gen-ai-powered-windows-11-windows-120-0.md",
-      "title": "Microsoft's Panos Panay teases next gen AI-powered Windows 11 & Windows 120 0",
-      "excerpt": "Next-gen Windows 11 and Windows 12 OSs could be drastically different from what we have now. Senior executive of Microsoft, Panos Panay recently shared some very early details regarding this.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
-      "originalUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/01/1673818486_win_11_wallpaper_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
-      "publishedDateTime": "2023-01-15T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-16-dhc-talking-therapies-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
       "title": "DHC Talking Therapies - NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
       "excerpt": "We'd also like to use analytics cookies. These collect feedback and send information about how our site is used to services called Adobe Analytics, Qualtrics Feedback, Microsoft Clarity and Google Analytics. We use this information to improve our site.",
@@ -1305,6 +1252,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-08-fda-approves-alzheimers-drug-shown-to-moderately-slow-cognitive-decline-in-early-stages-of-the-disease.md",
+      "title": "FDA approves Alzheimer’s drug shown to moderately slow cognitive decline in early stages of the disease",
+      "excerpt": "The Food and Drug Administration on Friday approved a new Alzheimer’s disease treatment that moderately slows cognitive decline in people with early-stage disease. The drug, called Leqembi ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2023/01/06/fda-approves-alzheimers-drug-leqembi-eisai/",
+      "originalUrl": "https://www.statnews.com/2023/01/06/fda-approves-alzheimers-drug-leqembi-eisai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2019/04/AdobeStock_92675828-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-07T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

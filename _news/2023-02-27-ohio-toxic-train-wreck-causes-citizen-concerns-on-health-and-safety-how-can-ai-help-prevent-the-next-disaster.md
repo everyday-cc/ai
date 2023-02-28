@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2023/02/27/ohio-toxic-tra
 webUrl: "https://www.forbes.com/sites/cindygordon/2023/02/27/ohio-toxic-train-wreck-causes-citizen-concerns-on-health-and-safety-how-can-ai-help-prevent-the-next-disaster/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -20,17 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "The AI Disaster Scenario"
-    excerpt: "Is it right to freak out? Is it wrong? Will AI end the human race? But also: Aren’t these tools awe-inspiring?"
-    publishedDateTime: 2023-02-27T17:14:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/02/ai-chatgpt-microsoft-bing-chatbot-questions/673202/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 49
 
 secured: "wDSlagFPbe1DMidXzc70/vo/2xCfAy2GUFxc+uSg6GFE9HFzHAY9JyxK9/ZPjZVJIH9IkjLPaZGb3zgwYv5RZFhr7dTBGBucqvNaavuF/hHDtWoFBB2yaI4NHJ5+DEnxCtox1j0weYOqk+rxFp5Myl6otdJCIsoV8UhQRP3lXmqDvtowyeElG+UxpMRxqo6unEooOfn1NXYf4pBE/9uglwW0DErfiqgK4Am6R2stnfcok/fDHvX7JFkGHOMqh1WwR5Q0wY/2R8UaZh9QMumPOGzLQQMmorQPqOiJfjG7Onzx89EOphPGvgE3sMvUg/1EPKu5TQo2vJaZ5X46h+HwszXA7gdgtLLvuYqGjoggnPq2eNAjmU2H/rG/8zRpus3kllX3Z0FP0/gWyT39pNFmLtRL+102NTFmXuctFvj8N4F4siCOxAL8U1FN+A6HlOr3hbRMLHGcExy/gP0bR2DXKfHai/7OlN4XkAhgEkKrKvAwc67ii5CEZhkneHSE4lctaMG45HiPF0SrEodw8CVrrw==;SdbRF+FK9m7B68a1oSPZkA=="
 ---

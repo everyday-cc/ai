@@ -282,6 +282,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech & Voice Recognition Systems Market Report with Executive Summary, Size, Analysis and Forecast to 2023-2028"
+    excerpt: "Speech and Voice Recognition Systems Market\" is expected to grow at a steady growth during the forecast period"
+    publishedDateTime: 2023-02-27T11:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-report-with-executive-summary-size-analysis-and-forecast-to-2023-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Clinical Natural Language Processing Market 2023 Competence Analysis Forecast to 2029 with Top Players"
     excerpt: "Top “ Clinical Natural Language Processing Market ” Size 2023 Key players Profiled in the Report are [, Artificial Solutions, IBM Corporation, NLP Technologies, Inc., eContext, Dolbey Systems, Inc., Apple,"
     publishedDateTime: 2023-02-27T16:26:00Z

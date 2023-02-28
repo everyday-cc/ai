@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Computer Vision Market 2023 Demonstrates A signify Growth By 2029"
+    excerpt: "Computer Vision Market 2023 with 119 Pages Report and enhance with extents shares into sub-counties are covered in"
+    publishedDateTime: 2023-02-28T00:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Door Lock Market Geographical Segmentation By Forecast Revenue 2023-2028"
     excerpt: "Feb 26, 2023 (The Expresswire) -- \"Facial Recognition Door Lock Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029. The global"
     publishedDateTime: 2023-02-26T05:32:00Z

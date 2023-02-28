@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-01-26-if-you-retire-early-you-could-face-faster-cognitive-decline-as-you-age-according-to-a-new-study.md",
-      "title": "If you retire early, you could face 'faster cognitive decline' as you age, according to a new study",
-      "excerpt": "The researchers found that early retirement can lead to \"faster cognitive decline among the elderly.\" In 2009, China introduced the New Rural Pension Scheme (NRP), an initiative that provided ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/retire-early-retirement-old-age-consequences-study-2023-1",
-      "originalUrl": "https://www.businessinsider.com/retire-early-retirement-old-age-consequences-study-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63d18a0740fbb600192b745d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/retire-early-retirement-old-age-consequences-study-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/retire-early-retirement-old-age-consequences-study-2023-1?amp",
-      "publishedDateTime": "2023-01-26T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-26-recent-study-shows-cognitive-benefits-of-hearing-aids.md",
       "title": "Recent study shows cognitive benefits of hearing aids",
       "excerpt": "PHOENIX (3TV/CBS 5) — A recent study shows hearing aids are a preventative tool against dementia and cognitive decline. Done by National University of Singapore researchers, the study found the ...",
@@ -1374,6 +1322,59 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-microsofts-panos-panay-teases-next-gen-ai-powered-windows-11-windows-120-0.md",
+      "title": "Microsoft's Panos Panay teases next gen AI-powered Windows 11 & Windows 120 0",
+      "excerpt": "Next-gen Windows 11 and Windows 12 OSs could be drastically different from what we have now. Senior executive of Microsoft, Panos Panay recently shared some very early details regarding this.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "originalUrl": "https://www.neowin.net/news/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/01/1673818486_win_11_wallpaper_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsofts-panos-panay-teases-next-gen-ai-powered-windows-11--windows-12/",
+      "publishedDateTime": "2023-01-15T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI",
         "Microsoft AI"
       ]

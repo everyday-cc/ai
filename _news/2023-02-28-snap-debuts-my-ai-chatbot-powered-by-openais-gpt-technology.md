@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-
 webUrl: "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-ai-chatbot-powered-by-openai-s-gpt-technology"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

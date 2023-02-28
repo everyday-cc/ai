@@ -134,6 +134,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Snap Warns Users About ChatGPT As Coca-Cola Adopts AI, Banks Ban It"
+    excerpt: "Snapchat has added ChatGPT to help users plan trips and birthday gifts, but warns the AI can be tricked into saying anything and that it should not be relied on for advice. Other companies like Coca-Cola are going all-in,"
+    publishedDateTime: 2023-02-27T20:27:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63fd3193ec46bc6e911778bc/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Snapchat launches an AI chatbot powered by OpenAI’s GPT technology"
     excerpt: "The company announced today that it's launching \"My AI,\" a new chatbot running the latest version of OpenAI's GPT technology that it has customized for its users."
     publishedDateTime: 2023-02-27T18:42:00Z

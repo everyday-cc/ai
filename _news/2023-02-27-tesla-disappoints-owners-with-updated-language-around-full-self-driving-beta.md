@@ -61,6 +61,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla, Elon Musk sued by shareholders over self-driving safety claims"
+    excerpt: "In a proposed class action filed in San Francisco federal court, shareholders said Tesla defrauded them over four years with false and misleading statements that concealed how its technologies, suspected as a possible cause of multiple fatal crashes,"
+    publishedDateTime: 2023-02-28T01:17:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/06/ElonMusk.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Elon Musk overstated Tesla’s autopilot and self-driving tech, new lawsuit says"
+    excerpt: "Shareholders sue the Twitter CEO again, alleging they were defrauded with false claims of the vehicles’ capabilities"
+    publishedDateTime: 2023-02-28T00:59:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/feb/27/elon-musk-tesla-lawsuit-autopilot"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/27/elon-musk-tesla-lawsuit-autopilot"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/27/elon-musk-tesla-lawsuit-autopilot"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
+    images:
+      - url: "https://i.guim.co.uk/img/media/507c6ba18333b1c786cb97ce07c6f6b26ee0d77a/1672_911_3263_1959/master/3263.jpg?width=620&quality=85&auto=format&fit=max&s=d4f55b793af42b111c8ee0c5a51c60c7"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Tesla’s Full Self-Driving hits another road bump after massive EV recall"
     excerpt: "The recall request was made by the National Highway Traffic Safety Administration (NHTSA) in the US due to safety concerns. The recall impacts over 363,000 vehicles with FSD installed in the US and Canada."
     publishedDateTime: 2023-02-28T00:20:00Z

@@ -184,49 +184,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-24-quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise.md",
-      "title": "Quantive enlists generative AI to help improve business strategy for enterprise",
-      "excerpt": "Quantive today announced a new set of AI-based capabilities to help business users build, manage and track OKRs. The updates include integrations from technology built by Cliff, as well as OpenAI models including GPT-3, hosted on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/",
-      "originalUrl": "https://venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/amp/",
-      "publishedDateTime": "2023-02-23T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-24-ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise.md",
       "title": "IBM’s Cloud AI Supercomputer Vela Builds AI Foundation Models For Enterprise",
       "excerpt": "The recent publicity around ChatGPT and other large language models (LLM) has brought attention to the use of foundation models as a fundamental business tool. IBM Research developed its own AI supercomputer,",
@@ -1458,6 +1415,59 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-13-mlops-market-size-analysis-between-top-international-players-through-business-aspects-way-2029.md",
+      "title": "MLOps Market Size Analysis between Top International Players through Business Aspects way 2029",
+      "excerpt": "The Global MLOps market is valued at Multimillion USD 2023 and will reach multimillion USD by the end of 2029, growing at",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/mlops-market-size-analysis-between-top-international-players-through-business-aspects-way-2029-2023-02-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/mlops-market-size-analysis-between-top-international-players-through-business-aspects-way-2029-2023-02-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

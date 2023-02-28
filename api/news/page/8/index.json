@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-02-17-how-many-people-have-actually-been-killed-by-self-driving-cars.md",
+      "title": "How Many People Have Actually Been Killed By Self-Driving Cars?",
+      "excerpt": "When it comes to self-driving cars, the Society of Automotive Engineers recognizes six levels of autonomous driving: from level 0, at which a vehicle has no driver assistance of any kind ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1202594/how-many-people-have-actually-been-killed-by-self-driving-cars/",
+      "originalUrl": "https://www.slashgear.com/1202594/how-many-people-have-actually-been-killed-by-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/how-many-people-have-actually-been-killed-by-self-driving-cars/l-intro-1676585301.jpg",
+          "width": 1600,
+          "height": 898,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T23:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029.md",
       "title": "2023 Machine Learning Chip Market: Maximize Growth Potential and Increasing Demand Forecast to 2029",
       "excerpt": "The “Machine Learning Chip Market” Research Report 2023-2029 | Latest 111 Pages Report | It throws light on competitive",
@@ -684,6 +736,49 @@
       ]
     },
     {
+      "path": "_news/2023-02-17-manufacturing-predictions-for-the-next-decade.md",
+      "title": "Manufacturing Predictions for the Next Decade",
+      "excerpt": "“This will involve robotics improving through artificial intelligence, and that artificial intelligence will improve through collaboration with people.” Putman predicts that we’ll see the robot market produce equipment this is increasingly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/manufacturing-predictions-next-decade",
+      "originalUrl": "https://www.designnews.com/automation/manufacturing-predictions-next-decade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/feature_1.jpeg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-watch-next-gen-artificial-intelligence-rocket-league-bots-learn-live-on-twitch.md",
       "title": "Watch Next-Gen Artificial Intelligence ‘Rocket League’ Bots Learn Live On Twitch",
       "excerpt": "Now you can watch as the next generation of AI-powered Rocket League bots apply what they’re learning live on Twitch. On stream are the latest and greatest AI bots that are trained in RLGym, a machine learning environment that enables Rocket League bots to learn to play via API at 800 times the normal game speed.",
@@ -1125,110 +1220,6 @@
         "AI in Autos",
         "AI in Robotics",
         "AI Hardware",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-this-week-in-xr-ai-supplants-metaverse-web3-bigscreen-unveils-sleek-vr-headset.md",
-      "title": "This Week In XR: AI Supplants Metaverse, Web3, Bigscreen Unveils Sleek VR Headset",
-      "excerpt": "Indeed, the question could be asked of Crypto and Web3, all of whom are descending the “slope of disillusion” on Gartner Hype Cycle, on their way from “peak of elevated expectations” to the “trough of disillusion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/02/16/this-week-in-xr-ai-supplants-metaverse-web3-bigscreen-unveils-sleek-vr-headset/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/02/16/this-week-in-xr-ai-supplants-metaverse-web3-bigscreen-unveils-sleek-vr-headset/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6205919fb4af7b6f499ea195/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/02/16/this-week-in-xr-ai-supplants-metaverse-web3-bigscreen-unveils-sleek-vr-headset/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/02/16/this-week-in-xr-ai-supplants-metaverse-web3-bigscreen-unveils-sleek-vr-headset/amp/",
-      "publishedDateTime": "2023-02-16T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-is-artificial-intelligence-good-for-society.md",
-      "title": "Is Artificial Intelligence Good For Society?",
-      "excerpt": "Artificial intelligence (AI) has captivated the world, with exciting new publicly available AI-driven tools like ChatGPT, Dall-E, a new version of Microsoft’s Bing search engine and an ego-bruised Google trying to catch up. Someone with basic computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/16/is-artificial-intelligence-good-for-society/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/16/is-artificial-intelligence-good-for-society/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ee9ef21fd62838a9ed2985/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/16/is-artificial-intelligence-good-for-society/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/16/is-artificial-intelligence-good-for-society/amp/",
-      "publishedDateTime": "2023-02-16T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
         "AI in Healthcare"
       ]
     }

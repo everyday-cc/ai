@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-25-meta-unveils-a-new-large-language-model-that-can-run-on-a-single-gpu-updated.md",
+      "title": "Meta unveils a new large language model that can run on a single GPU [Updated]",
+      "excerpt": "The LLaMA collection of language models range from 7 billion to 65 billion parameters in size. By comparison, OpenAI's GPT-3 model—the foundational model behind ChatGPT —has 175 billion parameters. Meta trained its LLaMA models using publicly available datasets,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/meta_llm_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/",
+      "publishedDateTime": "2023-02-24T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-artificial-intelligence-companies-you-may-want-to-invest-in-now.md",
+      "title": "Artificial Intelligence Companies You May Want To Invest In Now",
+      "excerpt": "Even if you somehow avoided that news, AI offerings are everywhere. We’ll review some artificial intelligence companies well-positioned to magnify earnings in the coming years. If you’re a seasoned investor, you’ll likely have heard about most of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f909efaf73498cf7093b40/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-companies-you-may-want-to-invest-in-now/amp/",
+      "publishedDateTime": "2023-02-24T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-using-the-power-of-ai-new-open-source-tool-simplifies-animal-behavior-analysis.md",
+      "title": "Using the power of AI, new open-source tool simplifies animal behavior analysis",
+      "excerpt": "A team from the University of Michigan has developed a new software tool to help researchers across the life sciences more efficiently analyze animal behaviors.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-02-power-ai-open-source-tool-animal.html",
+      "originalUrl": "https://phys.org/news/2023-02-power-ai-open-source-tool-animal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/using-the-power-of-art.jpg",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-02-power-ai-open-source-tool-animal.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-power-ai-open-source-tool-animal.amp",
+      "publishedDateTime": "2023-02-24T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-teslas-new-engineering-hq-in-california-will-focus-on-ai-and-robotics.md",
       "title": "Tesla’s new engineering HQ in California will focus on AI and robotics",
       "excerpt": "Tesla recently announced its plans to expand its engineering center in California. Elon Musk, its founder, has now hinted that the upcoming facility will focus mainly on developing its AI capabilities.",
@@ -54,7 +201,7 @@
       "originalUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -881,48 +1028,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-24-how-generative-ai-is-changing-game-development-and-ugc.md",
-      "title": "How generative AI is changing game development (and UGC)",
-      "excerpt": "Generative AI is iterating on existing uses of AI in game development and content creation. But how much should it be used for?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/",
-      "originalUrl": "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/how-generative-ai-is-changing-game-development-and-ugc/amp/",
-      "publishedDateTime": "2023-02-23T17:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-24-google-photos-ai-powered-magic-eraser-is-now-a-google-one-subscription-perk.md",
       "title": "Google Photos’ AI-powered ‘Magic Eraser’ is now a Google One subscription perk",
       "excerpt": "But it won’t be free. Today, Google announced that the popular tool, which uses AI to remove unwanted content from images, will become available to Google One subscribers in addition to existing Pixel owners. Google One subscribers will receive a small ...",
@@ -970,49 +1075,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise.md",
-      "title": "Quantive enlists generative AI to help improve business strategy for enterprise",
-      "excerpt": "Quantive today announced a new set of AI-based capabilities to help business users build, manage and track OKRs. The updates include integrations from technology built by Cliff, as well as OpenAI models including GPT-3, hosted on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/",
-      "originalUrl": "https://venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/amp/",
-      "publishedDateTime": "2023-02-23T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1160,57 +1222,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-samsung-galaxy-s23-this-new-feature-creates-an-ai-version-of-your-voice-to-respond-to-calls.md",
-      "title": "Samsung Galaxy S23: This new feature creates an AI version of your voice to respond to calls",
-      "excerpt": "Samsung is releasing a new voice-cloning feature that people with a Galaxy smartphone can use to create an AI-generated version of their voice for answering calls. The feature is coming to the Bixby smartphone assistant as an AI enhancement to the \"text ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/samsung-galaxy-s23-this-new-feature-creates-an-ai-version-of-your-voice-to-answer-calls/",
-      "originalUrl": "https://www.zdnet.com/article/samsung-galaxy-s23-this-new-feature-creates-an-ai-version-of-your-voice-to-answer-calls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7353a4935df4fedf23b4270ae60d83b7b66c0cc7/2023/02/09/783b5969-5823-4008-9c6c-2e04b1815851/samsung-galaxy-s23-ultra-display.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsung-galaxy-s23-this-new-feature-creates-an-ai-version-of-your-voice-to-answer-calls/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-galaxy-s23-this-new-feature-creates-an-ai-version-of-your-voice-to-answer-calls/",
-      "publishedDateTime": "2023-02-23T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

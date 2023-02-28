@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-23T11:59:00Z
 originalUrl: "https://seekingalpha.com/news/3939207-top-dividend-stocks-machine-learning-ai-screen-picks"
 webUrl: "https://seekingalpha.com/news/3939207-top-dividend-stocks-machine-learning-ai-screen-picks"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1367783784/image_1367783784.jpg?io=getty-c-w750"

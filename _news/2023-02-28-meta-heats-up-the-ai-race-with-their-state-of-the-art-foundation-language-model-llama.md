@@ -130,6 +130,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Meta rolls out new language model amid Big Tech’s AI push"
+    excerpt: "Meta Platforms Inc is releasing a new large language model based on artificial intelligence (AI) aimed at the research community, Chief Executive Officer Mark Zuckerberg said in a Facebook post on Friday,"
+    publishedDateTime: 2023-02-24T15:29:00Z
+    webUrl: "https://kfgo.com/2023/02/24/meta-rolls-out-new-language-model-amid-big-techs-ai-push/"
+    type: article
+    provider:
+      name: KFGO
+      domain: kfgo.com
+    quality: 39
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-02/24/2023-02-24T162444Z_1_LYNXMPEJ1N0O0_RTROPTP_3_META-PLATFORMS-SUBSCRIPTION.JPG"
+        width: 800
+        height: 494
+        isCached: true
   - title: "Meta introduces its own AI tool, LLaMA"
     excerpt: "Meta said \"there is still more research that needs to be done to address the risks of bias, toxic comments, .. \""
     publishedDateTime: 2023-02-25T06:29:00Z
@@ -223,6 +237,6 @@ related:
       domain: beckershospitalreview.com
     quality: 19
 
-secured: "e7eIlKmuSOCjUzRiLAlp16qHWfMiLpewADmlACcdwwIk+yKlG9NiEOhAVcn8/p/p1jyxcQEt6ItLqgTAamvrMZ1nE4aL39UCmO6MpzlL1Cor0DDXU1xWs3OBE+/zmivVh0aBkOhbbVYdNk64aEDdaBsNp3viMla3gQEzoJCIb2GV2E2Zn8HzBrVgZ00zhSe2q/XSITcIojtw1Ig6+Ki2wZNLp2L3mYA2PZHOxifh2JUGkNH+wiacdoMVyGBnMGhhzJG90wRbLqpg83Ptqa6vFRCMNXsb9ou6nbQqTf1gZIziHgUWjCPwOIfW+oTWO0VZMQ6WJoF5k432fApJh4cxUm4PTMOqDhlvgsDOpJWKYQw=;p8UJv7pbjDeNMuC16YHVFg=="
+secured: "IExPcdyuKqB81IcMqQ7adb+Lr9pwod8BRZyUPfH6O166K7Yjo13rF98ahnY/vdo0Yhrf75xAcyfd21A6kSe5DNS73CqJFScATmAS8fasz8fmGq5YQ6nSN/i43tuDKBosj5DpK2N6lA3mQ0lCuBIOVbwBW9VG+A2+wTCp862TDQB2w/eDkPH48FMbp7eRQWl1Bi82NKu0oN/c3tK7mD73rksreXxqX+tsUmA0CpnlcmYXuUM53WrR2cnm6GE/jK9LwG0tCganYQs+yIxkAv/USlMmk9UT9mbZl4HYaM7HsVQpS1QCHN1A0YLWNdDThikksluNjWyDMJ7vqUypqF9laKtV759CC/DcyXFnxIPfg9DK9rYA2PuwbgDelOjgMvx4s7Zu0sH+docsHp9bi78IsHjet7I7awe+wA5Z/2XsQ/HMW9Xi+PJGb4NxGUhOCiQK6qaeQPCLIwIRdvA5OxlzbafP5Bfn+PrxGMvFPnUSl4HCIfwyQ9yj9kofVqDEbyezBQF2l+fqci9l1QtpzOBzuQ==;c14oRSkvrcWGdtyUR+IvcA=="
 ---
 

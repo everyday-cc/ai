@@ -19,17 +19,73 @@ topics:
   - AI
 
 related:
-  - title: "Quantive enlists generative AI to help improve business strategy for enterprise"
-    excerpt: "Quantive today announced a new set of AI-based capabilities to help business users build, manage and track OKRs. The updates include integrations from technology built by Cliff, as well as OpenAI models including GPT-3, hosted on Microsoft Azure."
-    publishedDateTime: 2023-02-23T21:00:00Z
-    webUrl: "https://venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/"
-    ampWebUrl: "https://venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/quantive-enlists-generative-ai-to-help-improve-business-strategy-for-enterprise/amp/"
+  - title: "The purpose and impact of creative AI"
+    excerpt: "Will generative AI be more of a problem than it’s worth? Here are some ways creative AI can be a help and not a threat."
+    publishedDateTime: 2023-02-28T02:07:00Z
+    webUrl: "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 65
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The AI Disaster Scenario"
+    excerpt: "Is it right to freak out? Is it wrong? Will AI end the human race? But also: Aren’t these tools awe-inspiring?"
+    publishedDateTime: 2023-02-27T17:14:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/02/ai-chatgpt-microsoft-bing-chatbot-questions/673202/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 71
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/yEbASzqMFEbd7XXl2z4_NjZ8B6U=/0x61:2876x1559/1200x625/media/img/mt/2023/02/AI_Questions/original.gif"
+        width: 1200
+        height: 625
+        isCached: true
+  - title: "Generative AI's money game"
+    excerpt: "The generative AI revolution will be monetized, but nobody can yet say exactly how. The big picture: It seems logical that if AI can conduct conversations and produce images, companies will figure out how to use it to build revenue and profits — but there's no guarantee,"
+    publishedDateTime: 2023-02-27T10:30:00Z
+    webUrl: "https://www.axios.com/2023/02/27/chatgpt-generative-ai-money-business-models"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 39
+    images:
+      - url: "https://images.axios.com/4qnhkuDT2tSK5ZwlaYSu68HwJTk=/1366x768/smart/2023/02/26/1677429474220.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-02-27T16:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/02/27/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "How to create, release, and share generative AI responsibly"
+    excerpt: "Companies including OpenAI and TikTok have signed up to a new set of guidelines designed to help them be more transparent around generative AI."
+    publishedDateTime: 2023-02-27T13:44:00Z
+    webUrl: "https://www.technologyreview.com/2023/02/27/1069166/how-to-create-release-and-share-generative-ai-responsibly/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "OqmFEv/Euo66dP/rwOc+KqKBBFyU6QtCjsJevE/LpsKp5gfi3iekEQqTVjHqVYNwLYIqbqT7BWN+kbXdLqghuuaWD/rs1tqhW6QNtoC8alyuZWIvD+UA0FLz3ie96x6MR3rLxZ/ABi6yW07nfIuxLbrOtoB/NJf26HNRfAi9IjgPxlqtki0JryKZxQEEtaHwaeqEGf9pHoFDmDuMLyAkwrw+sSwdrLOwZxd7c+TARn0EOYAJOyuH5lLbTKtGlRoWWz7cHxu8XlUXQ+4AA/0dF3bg7F8fRLL8Cmoq4tZ9h5kJz1x5MOw8fegz9acgGCYK0HlZlVmio+7uZSsmI7jwW9sZLlDldIEE9HKJBvMFTLcZDvWeP+EjJo2r+okAv2CDh0bDsS8nrg+nLc5UeY6wM2agYzcJBobLbw9oRp57xLp3W84a8Rzhj52DZxLkJL+kRrH+Spg61pZxwM+TIKKnUq9giyfYrtKOCaZlyl68+N8vRbyBKrGlJQVzI0mcE+rjJUSRa7nYx5YQPr8P/W0SMA==;ei7BCw/wMp+gXCvuApundg=="
 ---

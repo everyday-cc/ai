@@ -144,6 +144,20 @@ related:
         width: 790
         height: 320
         isCached: true
+  - title: "Meta rolls out new language model amid Big Tech’s AI push"
+    excerpt: "Meta Platforms Inc is releasing a new large language model based on artificial intelligence (AI) aimed at the research community, Chief Executive Officer Mark Zuckerberg said in a Facebook post on Friday,"
+    publishedDateTime: 2023-02-24T15:29:00Z
+    webUrl: "https://kfgo.com/2023/02/24/meta-rolls-out-new-language-model-amid-big-techs-ai-push/"
+    type: article
+    provider:
+      name: KFGO
+      domain: kfgo.com
+    quality: 39
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-02/24/2023-02-24T162444Z_1_LYNXMPEJ1N0O0_RTROPTP_3_META-PLATFORMS-SUBSCRIPTION.JPG"
+        width: 800
+        height: 494
+        isCached: true
   - title: "Meta reveals LLaMA language model as AI wars heat up"
     excerpt: "Meet LLaMA, Meta’s large language model On Facebook’s AI blog, Meta describes LLaMA as a “foundational ... “Even with all the recent advancements in large language models, full research access to them remains limited because of the resources ..."
     publishedDateTime: 2023-02-24T18:50:00Z

@@ -1,20 +1,26 @@
 ---
 category: news
-title: "YouLianCloud Officially Accesses Baidu ERNIE Bot, Driving the Development of Financial AIGC"
-excerpt: "SHANGHAI, Feb. 20, 2023 /PRNewswire/ -- On February 14, 2023, YouLianCloud announced to be the first batch of early experience officers of ERNIE Bot. Subsequently, YouLianCloud will fully ..."
-publishedDateTime: 2023-02-21T03:27:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20230220cn19992/youliancloud-officially-accesses-baidu-ernie-bot-driving-the-development-of-financial-aigc"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20230220cn19992/youliancloud-officially-accesses-baidu-ernie-bot-driving-the-development-of-financial-aigc"
+title: "Youliancloud Officially Accesses Baidu ERNIE Bot, Driving The Development Of Financial AIGC"
+excerpt: "Next, YouLianCloud will apply the results of Baidu's leading intelligent dialogue technology in the field of financial AIGC. This move marks the priority of YouLianCloud to gain the support of ..."
+publishedDateTime: 2023-02-21T05:06:00Z
+originalUrl: "https://menafn.com/1105606328/Youliancloud-Officially-Accesses-Baidu-ERNIE-Bot-Driving-The-Development-Of-Financial-AIGC"
+webUrl: "https://menafn.com/1105606328/Youliancloud-Officially-Accesses-Baidu-ERNIE-Bot-Driving-The-Development-Of-Financial-AIGC"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "RPOMMfxJSXnx0wgwi6XxNFZDUDnh8a++plLdz9mK+DLydq8kEIFnmO/5Z8Bi2y9TUQUN/ixCOi63bWALyaqCZ74qT16RgXRXvUjydjNwRXPnHp5aXTBGgDDS9CDYaJEKju53WKuxsco2+eYndfbrm0OFk6TApTQOATHnEHFsBG/a5TJNvdzWMRgmxW0foVFxsmsj6cq4aRFfcHon1JrUzdjsAftSmr60/dIctinlzfswMl6Cwu75JDeRhiolpAVAndiCixd+4+qdRCT0AptELACoiZNy0jT/hDwsdYKowOSOrPdEkIfOy3PSzNlj0dg6ux5dXqN1xs5p4fcodJONbSGoCJGRxgtHkBezCGTDV7o=;AsPZGbv21rhVYHvds2kXoA=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?364172"
+    width: 444
+    height: 250
+    isCached: true
+
+secured: "04MYtH3oKwdi3qVBg9z6hW8fAYl876QKiIjqJTGoe+vj5Cw9aRt0VCtCABlrfHS1UEJhYya1ttueqCcjHQBCdvm/2YvjdqjUcqnuT5Z1cJONI6QYjd44L0T8cJ9T8GEZliiYj5+AUPV7ibcOOrjpsv4ibMU68n/R7H3ZJnzwhb0dI6zmhUiVXHvCnROtitfEcozW2NXtvxXuMl8JG05XaGsqnHTUFv/733ZDVNJ0ygEYItCXbZB0sKkYkmUjLnStjQFo9OZE6LAlUScWvRGzs/YS4tTW0R7gi0QBzcf6EFxliTNwhkjqsiZu7DXUds1BywQ2MpUrS0PuPvAcPjUtBFphlMz2DUwvkIbZ5cZoq9o=;qKa9zxze8HCNeKmVQi4L6g=="
 ---
 

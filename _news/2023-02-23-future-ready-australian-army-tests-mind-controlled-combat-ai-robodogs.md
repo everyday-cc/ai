@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Australians urged to support Indigenous recognition ahead of referendum"
-    excerpt: "ADELAIDE/SYDNEY, Feb 23 (Reuters) - A First Nations group leading the push for the constitutional recognition of Australia's Indigenous ... to change its constitution to include an Indigenous \"Voice\", which is a representative body that can advise ..."
-    publishedDateTime: 2023-02-23T09:14:00Z
-    webUrl: "https://www.reuters.com/world/asia-pacific/australians-urged-support-indigenous-recognition-ahead-referendum-2023-02-23/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 34
   - title: "Leading Australian social justice bodies unite to back Indigenous voice to parliament referendum"
     excerpt: "Allies for Uluru to act as ‘conduit’ for organisations to support yes campaign, and include Fred Hollows Foundation and Oxfam"
     publishedDateTime: 2023-02-27T13:00:00Z

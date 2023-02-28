@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-28-in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real.md",
+      "title": "In The Age Of Artificial Intelligence, We Need Our Human Skills To Keep It Real",
+      "excerpt": "We're still early in the “hype cycle” of inflated expectations and fears, but in a world increasingly driven by artificial intelligence, we’ll need humans at the wheel more than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/",
+      "originalUrl": "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fd198a82408876dac8b544/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/amp/",
+      "publishedDateTime": "2023-02-27T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-26-the-robot-revolution-arrives-on-mountain-views-castro-street.md",
       "title": "The robot revolution arrives on Mountain View’s Castro Street",
       "excerpt": "You can see a working robot in action at the new concept store and robot space opened by software company InOrbit.",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2029-2023-02-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 308,
+      "heat": 318,
       "tags": null,
       "images": [
         {
@@ -1056,6 +1108,49 @@
       ]
     },
     {
+      "path": "_news/2023-02-17-manufacturing-predictions-for-the-next-decade.md",
+      "title": "Manufacturing Predictions for the Next Decade",
+      "excerpt": "“This will involve robotics improving through artificial intelligence, and that artificial intelligence will improve through collaboration with people.” Putman predicts that we’ll see the robot market produce equipment this is increasingly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/manufacturing-predictions-next-decade",
+      "originalUrl": "https://www.designnews.com/automation/manufacturing-predictions-next-decade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/feature_1.jpeg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-biden-administration-backs-curbs-on-military-artificial-intelligence-uses.md",
       "title": "Biden administration backs curbs on military artificial intelligence uses",
       "excerpt": "The Biden administration on Thursday announced a proposed arms control agreement to limit the use of artificial intelligence and autonomy for the world’s military forces and weapons systems.",
@@ -1286,101 +1381,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-ai-innovations-in-retail-demand-effective-data-strategies.md",
-      "title": "AI innovations in retail demand effective data strategies",
-      "excerpt": "AI’s transformative powers are being realized across industries ... This gives the machine learning algorithm a “head start” by using a larger dataset to identify common traits, like what a human looks like, or what shapes they are made up of.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-innovations-in-retail-demand-effective-data-strategies/",
-      "originalUrl": "https://venturebeat.com/ai/ai-innovations-in-retail-demand-effective-data-strategies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/GettyImages-1362495625.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-innovations-in-retail-demand-effective-data-strategies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-innovations-in-retail-demand-effective-data-strategies/amp/",
-      "publishedDateTime": "2023-02-15T20:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-verses-partners-with-svt-robotics-to-expand-application-of-ai-in-industrial-environments.md",
-      "title": "VERSES partners with SVT Robotics to expand application of AI in industrial environments",
-      "excerpt": "SVT’s integration with VERSES’ network operating system, KOSM, is expected to accelerate deployments of AI powered robots into warehouses and distribution centers https://www.verses.ai/",
-      "sourceUrl": null,
-      "webUrl": "https://www.logisticsmgmt.com/article/verses_partners_with_svt_robotics_to_expand_application_of_ai_in_industrial",
-      "originalUrl": "https://www.logisticsmgmt.com/article/verses_partners_with_svt_robotics_to_expand_application_of_ai_in_industrial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sc247.s3.amazonaws.com/images/made/images/2022_article/LM2302_F_Ex_Global-Main800px_350_200_bor1_b9b3be_s_c1.jpg",
-          "width": 352,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Logistics Management",
-        "domain": "logisticsmgmt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/statistical-natural-lang
 webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-is-booming-globally-forecast-2023-2029-2023-02-26"
 type: article
 quality: 62
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 29
-  - title: "Trade Statistics of Natural Language Processing Market Size 2023 | by the Influence of COVID-19 and Forecast till 2025"
-    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Natural Language Processing Market"
-    publishedDateTime: 2023-02-23T10:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/trade-statistics-of-natural-language-processing-market-size-2023-by-the-influence-of-covid-19-and-forecast-till-2025-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
 
 secured: "9lc1z6Zt1vtVTPL1CElHYxvb4tf/AmKvH46NeRF5dolPeXG+E6wTOlDfFYhpeC+eOJRag4NZvrUiJglf12qMauOvpauzlNRxiociAYBTqKB2uiMkKySAAqh3WNPxcHkU2CddZLabHTeChxeF6ijzkGS1ZJwT1Jsf68ahZ5ejMf6BuuRx0BZMWWSXxRfCT4m40i/p00D3i/ra7dovunrDcQKCkysjUIX8L98RECoDI5ATCRV/5rKR2w1blwNNUjdHI1TpgUR385c1zAcPeiOxw74UEp267BpeZ8eWS6zqI/GQnQkQ7ABzi50sl7CTSK+3AU9D3/rHi+pLhdWRbGiX653uJiJq2icMLqcE1q2BEmc=;Rn4aBBmWBqbftcdbZUKC8g=="
 ---

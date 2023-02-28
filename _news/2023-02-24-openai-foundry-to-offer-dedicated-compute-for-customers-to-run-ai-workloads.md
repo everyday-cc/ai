@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Fighting ‘Woke AI,’ Musk Recruits Team to Develop OpenAI Rival"
+    excerpt: "Elon Musk has approached artificial intelligence researchers in recent weeks about forming a new research lab to develop an alternative to ChatGPT, the high-profile chatbot made by the startup OpenAI,"
+    publishedDateTime: 2023-02-28T00:31:00Z
+    webUrl: "https://www.theinformation.com/articles/fighting-woke-ai-musk-recruits-team-to-develop-openai-rival"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/9923/d29c6a47-a141-47aa-a443-32a96eb3d0f7.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "t9igQcCxAna8Xw/iShQaoJpa95EzPv7ecF1X7t0W9M4EolFmbEjD9MTry1tmQyA/nj+KoQRa3prqFNhGH+ymxOBvPyK9TtnsbZ+TzNusR2p1ttROL0YAIJ3YldDHPskVVDI/bW0zif3nnh8ymA0xv+mDU+lVvcm8cjHR8uF8UyycROZZF04DTHZAfLRMr8miLK0S7ZTzS2B6yY8onHVhwE1/Qq1zF8050v7zCiFsAgYA/phohgCDshd0EZMdP1oIShdldO61cmEyiWJmBEgjh0RQ7IeMaLRAKMtea8NE2LuF8kLDEKbaN84VESzSCxgnUEHl43/rPrz3wKHipU6KA2cRPxT4jJVmLcabe4s8TokvCSl9ubb/K1xf+jN2L28Tg3svne4O2H8kc7ysiLrVxQpU2gGBvRAnkOSkxtDyADuNEyRghcN4/llFmr9S7tFp3b01TStFQ5QR7jI1wGFYJBUBvplQZ1EIv9DJqHdE+JgnBLejY4u1s++IId4O1JGGzwZWa5AZP2p0/7Q6/YVD5Q==;x1ztlIPf5xdUFUuFXGjNzg=="
 ---

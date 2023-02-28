@@ -1,0 +1,127 @@
+---
+category: news
+title: "Elon Musk overstated Tesla’s autopilot and self-driving tech, new lawsuit says"
+excerpt: "Shareholders sue the Twitter CEO again, alleging they were defrauded with false claims of the vehicles’ capabilities"
+publishedDateTime: 2023-02-28T00:59:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/feb/27/elon-musk-tesla-lawsuit-autopilot"
+webUrl: "https://www.theguardian.com/technology/2023/feb/27/elon-musk-tesla-lawsuit-autopilot"
+ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/27/elon-musk-tesla-lawsuit-autopilot"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/27/elon-musk-tesla-lawsuit-autopilot"
+type: article
+quality: 55
+heat: -1
+published: false
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/507c6ba18333b1c786cb97ce07c6f6b26ee0d77a/1672_911_3263_1959/master/3263.jpg?width=620&quality=85&auto=format&fit=max&s=d4f55b793af42b111c8ee0c5a51c60c7"
+    width: 620
+    height: 372
+    isCached: true
+
+related:
+  - title: "Tesla’s Full Self Driving Isn’t The Only Technology With Speed Sign Detection Problems"
+    excerpt: "Speed limiting technology has also been mandated over in Europe, where the EU’s Vehicle General Safety Regulation has now been in force for a little over 6 months."
+    publishedDateTime: 2023-02-27T06:01:00Z
+    webUrl: "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/"
+    ampWebUrl: "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 96
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63fbc34008dd180580147637/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 698
+        isCached: true
+  - title: "Tesla pauses rollout of Full Self-Driving beta software"
+    excerpt: "Tesla paused the rollout of its Full Self-Driving beta software in the United States and Canada following a recall of the system."
+    publishedDateTime: 2023-02-27T18:03:00Z
+    webUrl: "https://techcrunch.com/2023/02/27/tesla-pauses-rollout-of-full-self-driving-beta-software/"
+    ampWebUrl: "https://techcrunch.com/2023/02/27/tesla-pauses-rollout-of-full-self-driving-beta-software/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/27/tesla-pauses-rollout-of-full-self-driving-beta-software/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tesla, Elon Musk sued by shareholders over self-driving safety claims"
+    excerpt: "In a proposed class action filed in San Francisco federal court, shareholders said Tesla defrauded them over four years with false and misleading statements that concealed how its technologies, suspected as a possible cause of multiple fatal crashes,"
+    publishedDateTime: 2023-02-28T01:17:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/06/ElonMusk.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Tesla disappoints owners with updated language around ‘Full Self-Driving Beta’"
+    excerpt: "Tesla has updated some of the language around its “Full Self-Driving Beta” program following the NHTSA recall, and some"
+    publishedDateTime: 2023-02-27T15:29:00Z
+    webUrl: "https://electrek.co/2023/02/27/tesla-disappoints-owners-updated-language-around-full-self-driving-beta/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 65
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla’s Full Self-Driving hits another road bump after massive EV recall"
+    excerpt: "The recall request was made by the National Highway Traffic Safety Administration (NHTSA) in the US due to safety concerns. The recall impacts over 363,000 vehicles with FSD installed in the US and Canada."
+    publishedDateTime: 2023-02-28T00:20:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/startupsmart-technology/teslas-full-self-driving-massive-ev-recall/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 38
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2023/02/tesla-fans-schweiz-2swaWy4Xhb0-unsplash-1.jpg"
+        width: 1466
+        height: 710
+        isCached: true
+  - title: "Tesla Has Totally Paused New Installations of \"Full Self-Driving\" After Safety Concerns"
+    excerpt: "Tesla is pausing installations of its controversial \"Full Self-Driving\" software after federal regulators called it a \"crash risk.\""
+    publishedDateTime: 2023-02-27T21:30:00Z
+    webUrl: "https://futurism.com/the-byte/tesla-fsd-installation-pause"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 31
+    images:
+      - url: "https://wp-assets.futurism.com/2023/02/tespause.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "Xh4Sv2GH0L7zI4IajucHeLKy2zdrelGXZ4qUNYiYf0GfSnqzB47kjaQVrjNJr1OiGX+mjYKY+A8pEXBfSU8d5+wshg4GaJYICRvd85je0YNJTcwZf5dtrzrE1yDakJxH84H2i09xgEu+HCZ+RRxjoNVMy5Ju8PTOD7eliETmYSfN7kIu6FXYEczwsZPJPjOVxD6HwX1boHucsMayDgjdcnzfMT+6PCtpufI/p9ZPrIQmlL6JPmO8/Clr+IlM+NDtz3sfnukYLCzBl9YohA2Mvcy0JOUGj4wL06kaB8yzo+GMqGMO7GnumK3H23zvO4XvF/keTQ7S6Oho9HCU2QN4HHxsU2yrloiexexTlIO/tQ4=;uDIaGvstvkGW5mX0dEAUxQ=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/openai-has-grand-plans-for-agi-heres-anot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fighting ‘Woke AI,’ Musk Recruits Team to Develop OpenAI Rival"
+    excerpt: "Elon Musk has approached artificial intelligence researchers in recent weeks about forming a new research lab to develop an alternative to ChatGPT, the high-profile chatbot made by the startup OpenAI,"
+    publishedDateTime: 2023-02-28T00:31:00Z
+    webUrl: "https://www.theinformation.com/articles/fighting-woke-ai-musk-recruits-team-to-develop-openai-rival"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/9923/d29c6a47-a141-47aa-a443-32a96eb3d0f7.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI Foundry to offer dedicated compute for customers to run AI workloads"
     excerpt: "While the document does not disclose where that compute will be hosted, it is likely on Microsoft Azure. Microsoft has invested more than ... this week said that it would integrate Hugging Face's AI software development hub into its cloud."
     publishedDateTime: 2023-02-23T18:12:00Z

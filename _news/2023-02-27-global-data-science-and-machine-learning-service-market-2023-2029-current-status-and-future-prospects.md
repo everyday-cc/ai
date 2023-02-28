@@ -61,15 +61,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 29
-  - title: "Trade Statistics of Natural Language Processing Market Size 2023 | by the Influence of COVID-19 and Forecast till 2025"
-    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Natural Language Processing Market"
-    publishedDateTime: 2023-02-23T10:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/trade-statistics-of-natural-language-processing-market-size-2023-by-the-influence-of-covid-19-and-forecast-till-2025-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
 
 secured: "aPd38AHL+WNQ+eKknqvYlUiDMfMaGsgMW3+m58R79IlFeLR3NvgVvtHwqHX5cN7y3OZxZJJN1gCaYPuBxXjQpm27RkzOGLJyypQzXxTmA02wzpz6p6B2HXqYH5VL+Fc8cG7wT01HmjshwdePOJrRd+LX4znKw0CdzjPpcSpjyPqxLWpxOnDROngRPe7+H2CvHizeOlOnRRBqUEUijp9EtaSD8SU713Is9UGCcwa01vVx4FBFgsa2lbbpGjGFiI0qa02LdPjZOK72lCwag3WrUVUcfIaC1+64MgXByRa7gm+zpUYr/YuN/Ice1MscHBDNtzQEqXUFjvDbJzKK+RVPz+c9wNMKDujBrP7hZY1llwE=;kxvkmTsNzTJKqOEcd7DeOQ=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "GIGABYTE at MWC 2023: Advancing AI, ESG and 5G Technology Breakthroughs through \"Power of Computing\""
 excerpt: "GIGABYTE and its subsidiary, Giga Computing, are co-presenting the next-generation server solutions at MWC 2023. The exhibition will cover IT solutions for edge computing, AI development, HPC data centers,"
-publishedDateTime: 2023-02-27T09:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-gigabyte-mwc-2023-advancing-ai-esg-5g-technology-/2023/02/27/9766525.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-gigabyte-mwc-2023-advancing-ai-esg-5g-technology-/2023/02/27/9766525.htm"
+publishedDateTime: 2023-02-27T09:38:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/02/27/9766525.htm"
+webUrl: "https://it.tmcnet.com/news/2023/02/27/9766525.htm"
 type: article
 quality: 4
 heat: 4
@@ -18,6 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "wra/aso94I+2XW9BYVIwIIFyrfcgKVMYAyZ2aW+xwhAvsJ80JPoPJq3xtEj6pDPyJNBJzAuV9YP2zHsWNAvSp3neM+eWrbODXLEDwa+se/MQh1b8sekHjPOyD5RPlvxijkjR6FmBI/VACQoH7cZ7+gGFIto2rWF+/HIsio7C8/oCp4oCYY8tyVvCC3phDuFbcormklYFpWz4C1eDZmXn1z8jkygRAlC2AC9GDXHMpAC+ALprW83YvM9FLbLEy0SuGZ7YKTLK2Jkfro1/PlG0dxZDczwKBSkzs/NPmnGTdqW1dtdPNTNy8iXyNYSIeTQGuCBx8EDqVAaec2qsxsMU4K1O7DSFQyL706/G05/3Ko7goeCgwgL7FK+wpTlwzwUw6PCr1PAv14pM3hMqX38eNN4ywwa7G4+4KwJ55fUCGTaHIcbZCqHbLIMbf56sUAszyd9KMlG31onxARDztSiRmycZb/aiZqQWDcswwWTfrsXi5LYA46jZkFpFqntgU0EgonajicCDjyTRr82cE+Is0g==;NXz6D7H6mCn3DZ3PjYbAiw=="
+secured: "AIS9XfxQ2Ad0fRsc7HsOFNnYlZk91IbF2fIvL37NnkNGI/nlPea7zhRqY+1olrDJrtk3LPcZjRPHwwy3UwueWjaeWmJAHZPOFAG+Oj6DHFe5eAzr+cXLjKTOPFp13MuLNCEYixxaruSmNiXfyiiw+KHqm/mHM7ihRT2IMO90DYRytbJQfVm6kFa+pQyTFlUpuPP/jYTyFc57xHpORT23CYMo8+wQ+FwFXVFRWzFMWVkjhgflrkuc4O3L/bwePnN5D8770+wudPbiZXKHhcwzUbTb/Mm/raTlcAy5R2CRLsV22MwpKDG4rXKT3Cep5lZTCZbrH3fbSwYsmmYhILo+p5atqrZ7L1fgl6geMJznMDq1y9WFwKyP2Q2IIshSEWCeVv7AlxQ1zoEwEeLQMNr/YA+KyldQaYTD6J/VUjYVINk6wBV8lIsWRBHzwzOob5G13ARKX9Nct/Lf+OfBLgk09RfZh0HuLGaDmwxrjh4pRemRwcAzVz/ti8tui4Taap14nr/EgAyC6UGM5hecEksu1Q==;PtkfTuC9ahMKlFE/a+IBlg=="
 ---
 
