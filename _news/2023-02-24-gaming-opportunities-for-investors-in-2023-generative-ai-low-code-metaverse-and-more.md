@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/gaming-opportunities-for-investors-i
 webUrl: "https://www.geekwire.com/2023/gaming-opportunities-for-investors-in-2023-generative-ai-low-code-metaverse-and-more/"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.ryt9.com/img/files/20230227/iq8863e2e3afc3a7fe89450303f04c5036.jpg"
         width: 1260
         height: 680
-        isCached: true
-  - title: "Artificial Intelligence for Edge Devices Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
-    excerpt: "Artificial Intelligence for Edge Devices Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type"
-    publishedDateTime: 2023-02-24T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Artificial Intelligence and Robotics in Aerospace and Defense Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
     excerpt: "Insights] Top “Artificial Intelligence and Robotics in Aerospace and Defense Market” Size 2023 Key players Profiled"

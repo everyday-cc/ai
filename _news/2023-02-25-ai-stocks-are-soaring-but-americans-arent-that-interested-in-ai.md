@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-are-soar
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-are-soaring-but-americans-arent-that-interested-in-ai-1032124725"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Majority of Americans Would Not Rely on AI-Based Healthcare"
+    excerpt: "A recent survey found that 60 percent of Americans would not be comfortable with their providers relying on artificial intelligence to provide healthcare services."
+    publishedDateTime: 2023-02-28T17:29:00Z
+    webUrl: "https://healthitanalytics.com/news/majority-of-americans-would-not-rely-on-ai-based-healthcare"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/majority-of-americans-would-not-rely-on-ai-based-healthcare"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/majority-of-americans-would-not-rely-on-ai-based-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 74
+    images:
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-846841412-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
   - title: "59% of Americans don't want AI robots used during surgery"
     excerpt: "Americans are hesitant about the use of artificial intelligence-driven robots during surgery with 59 percent saying they would not want surgical robots used in their own care, according to a Pew Research Center survey."
     publishedDateTime: 2023-02-24T15:20:00Z

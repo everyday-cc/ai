@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-incredible-possibilities-growth-analysis-and-forecast-to-2029-2023-02-25"
 type: article
 quality: 78
-heat: 358
+heat: 348
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Data and AI Ethics Market Size 2023 will Projected to Grow with Statistics, Forecasts till 2029"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-02-24T01:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-size-2023-will-projected-to-grow-with-statistics-forecasts-till-2029-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Role of AI-based Surgical Robots Market 2023: Business Developments and Strategies by 2029"
     excerpt: "New 99 Pages Report] A Recently published “AI-based Surgical Robots Market” Size (2023) research report offers"
     publishedDateTime: 2023-02-27T15:07:00Z

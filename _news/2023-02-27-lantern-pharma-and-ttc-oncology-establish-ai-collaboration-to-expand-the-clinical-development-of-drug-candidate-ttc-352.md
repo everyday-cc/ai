@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "Kiromic BioPharma Reports Favorable Deltacel™ Preclinical Pharmacology Results"
+    excerpt: "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (\"Kiromic\" or the \"Company\"), a clinical-stage fully-integrated biotherapeutics company using its proprietary DIAMOND ® artificial intelligence and data mining platform to develop cell therapies with a focus on immune-oncology,"
+    publishedDateTime: 2023-02-28T15:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kiromic-biopharma-reports-favorable-deltaceltrade-preclinical-pharmacology-resul-/2023/02/28/9767757.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "p2Rv0t+j22ER7Nv7GCnWViqOoBdJMnQdqbxPSejU4quZMHf+nvZXQea5qMfSUU7idIunYbNa7q51CYCJrFNB/pIjU+7Gp/UkW0l7v5k3lGgt6T5/q4es2nDzB3UYZA3x+3UVqYKE+VpysOpT8vkZjBLCoq4Js8b9mYIoZgwb1I3kMwSVmeXXFweXMPj6ok2fciQn8n7dsBz7upDsbmlNe2M/kL9/dkDjSCKGEex4tiYzAaX+x/JAJWmak5pxyM5n+4rQc80yce9pdgRg2k4eNce8vLFcFVzeMiz1QlCvhG8Lu/7lGP2opx3BrNnKvj6tDpWm+XR4XMfTXF5hueAAegvHBmW6pARfVG1w3+POt2Y=;A7Z4bwtBOjbHIR/7ViC70A=="
 ---
 

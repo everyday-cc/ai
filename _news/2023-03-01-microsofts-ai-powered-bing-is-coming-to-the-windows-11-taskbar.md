@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/"
 type: article
 quality: 106
-heat: 266
+heat: 306
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Windows 11 update puts AI front and center"
+    excerpt: "Microsoft will roll out on Tuesday an update to Windows 11 that puts its new AI-powered Bing capabilities front and center on its taskbar, one of the operating system's most widely used features, in the latest sign the company is doubling down on the buzzy technology despite some recent controversy."
+    publishedDateTime: 2023-02-28T17:15:00Z
+    webUrl: "https://www.cnn.com/2023/02/28/tech/microsoft-windows-update-ai-bing/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/28/tech/microsoft-windows-update-ai-bing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/28/tech/microsoft-windows-update-ai-bing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 104
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220405132229-windows-11-microsoft-laptop-stock-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "3 Microsoft Azure AI product features that accelerate language learning"
     excerpt: "The Microsoft Azure Cognitive Speech Services platform is a comprehensive collection of technologies and services aimed at accelerating the incorporation of speech into applications and amplifying differentiation to the market as a result. Among the services available are Speech to Text, Text to Speech,"
     publishedDateTime: 2023-02-24T08:00:18Z
@@ -57,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft's AI Pivot Pays Off - Investors Ignore Bing's Mediocrity, Embrace ChatGPT Hype Instead"
+    excerpt: "Executives at Microsoft (MSFT) announced Tuesday that the Redmond, Wash.-based company will formally incorporate artificial intelligence into its internet search business. Shares jumped 4.2%."
+    publishedDateTime: 2023-02-28T17:34:00Z
+    webUrl: "https://www.forbes.com/sites/jonmarkman/2023/02/28/microsofts-ai-pivot-pays-offinvestors-ignore-bings-mediocrity-embrace-chatgpt-hype-instead/"
+    ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/02/28/microsofts-ai-pivot-pays-offinvestors-ignore-bings-mediocrity-embrace-chatgpt-hype-instead/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/02/28/microsofts-ai-pivot-pays-offinvestors-ignore-bings-mediocrity-embrace-chatgpt-hype-instead/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63fe48fd88cca7a5e936e6ee/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 802
+        isCached: true
   - title: "Better Artificial Intelligence Stock: Cloudflare vs. Microsoft"
     excerpt: "Both companies could win big from adopting artificial intelligence-enabled applications, but which is the better bet?"
     publishedDateTime: 2023-02-25T12:36:00Z
@@ -70,6 +102,20 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/721593/chatbot-smartphone-person.jpg"
         width: 2121
         height: 1414
+        isCached: true
+  - title: "AWS Eyes Microsoft-Backed ChatGPT With New AI Partnership"
+    excerpt: "AWS AI gets boost with Hugging Face artificial intelligence collaboration targeting developers and machine learning innovation for generative AI."
+    publishedDateTime: 2023-02-28T18:09:00Z
+    webUrl: "https://www.crn.com/news/software/aws-eyes-microsoft-backed-chatgpt-with-new-ai-partnership"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 75
+    images:
+      - url: "https://www.crn.com/resources/027e-176c41db82e7-b8ea9882b3a9-1000/aws-hugging-face.jpeg"
+        width: 1200
+        height: 629
         isCached: true
   - title: "Microsoft Pushes AI-Powered Tools for Telecoms. It’s Targeting Amazon."
     excerpt: "The company's new cloud platform for telecoms companies, named Azure Operator Nexus, has already been provided to AT&T."
@@ -86,6 +132,20 @@ related:
       - url: "https://images.barrons.com/im-532523/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Microsoft and Google back Typeface, an enterprise generative AI startup led by ex-Adobe CTO"
+    excerpt: "A new generative AI startup with ties to Seattle just raised $65 million from Microsoft’s M12 and others to help enterprises produce content. Typeface emerged from stealth mode Monday and… Read More"
+    publishedDateTime: 2023-02-28T18:42:00Z
+    webUrl: "https://www.geekwire.com/2023/microsoft-and-google-back-typeface-an-enterprise-generative-ai-startup-led-by-ex-adobe-cto/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 74
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/Typeface-Image-1.jpg"
+        width: 1032
+        height: 576
         isCached: true
   - title: "Microsoft introduces Azure Operator Nexus to run their carrier-grade workloads"
     excerpt: "Microsoft is also launching Azure Operator Voicemail, a solution that enables operators to transfer their voicemail services to Azure as a fully managed service, as well as Azure Communications Gateway,"
@@ -218,6 +278,6 @@ related:
       domain: bizjournals.com
     quality: 20
 
-secured: "EtaTjn+CV/Kies/1Vuud1RkrDuhEfibUkuxCt0jA4Hj64cAIh++5uCZH8grBgdFXfMQZCYw7Js5Hsb5GOAD5IDPCk4QpxVZFei/XuizjbMxb9J3QL67SnRqMs6sDeuwCN870QzPhvKgJHtpZM3aiImpgDySK++VCSrbczHQcjc8uXIDeNue0MJ0xdCS5V8JLrABT738V3mABeh+zsxEg5oC/mq+fUl4sQQ8JZVfaJIqVFRLAyC0iCvVt62u1OmzqEnpojXt1as/4ZrnjjaVrBGr/Pe6LjeAVjEKINkXyIDO/utRYoZOTIcSl/bp+c3lGz4jT9rZH3rfYnhn0e8UZeOKu+2nf1YKHW79PI29ohCI=;PJ6kekxqlaA+OBJeOmXqdQ=="
+secured: "OsjM1fmX8oU/kyVwmiMJrov3x1KqNHo5H4hh1iUQ90vDaU+XHbtyFsTdUhfztG1LnVHvTElpJimQ0yEfMWVf6K9LxYXF+TFD9igJoK7tUPJGAx1DfsB/Kzh4R23IkQTr5+EXw3N9uyvAX5r1Wds2ddhijtGqS3C7oMw/1C+r1HM/9AnPoz5ilfmyxhUd56z8sPVdPAmS24XExsz+iMKhJxRGpBnqrXqgDKnLOC5kZblFA6UrgJ83UOmn1o1eNaoXgJz5C7IwQkUHymkuNURpH9zCgqPTUjE/e3pzw5KpV2N5PirBAf6d9lU9UOmfzn13dMougLxYgKDtcAeDOUMxVrYLHJ87gi7SYVme6gdlrDQSkbeHCNGuefgUIvC2JnVWteHXbColHWrWaXKpKuJopCtlksILZ2xn7hIF45r+lldaIyW0+wpAw5L7oit0UcQTwzYTiyBbrKvyFiY12gMe62FwHHSPgKL/s1TeKzchzkCQkM+cKuKrKkyd0VkqBMdQPTzjP/UZoKVZy5SKqK1zpQ==;TWOKeO/UL/jXPqSKmSJUkA=="
 ---
 

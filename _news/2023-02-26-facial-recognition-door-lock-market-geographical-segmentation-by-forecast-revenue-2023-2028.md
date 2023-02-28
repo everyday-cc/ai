@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-02-26"
 type: article
 quality: 59
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Access Control Terminal Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
-    excerpt: "Face Recognition Access Control Terminal Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type"
-    publishedDateTime: 2023-02-24T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-access-control-terminal-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Equipment Market Size with Competitive Landscape, New Projects and Investment Analysis till 2028"
-    excerpt: "The “Facial Recognition Equipment Market” Analysis 2023-2027 is a detailed sketch of the business sphere in terms"
-    publishedDateTime: 2023-02-24T01:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-equipment-market-size-with-competitive-landscape-new-projects-and-investment-analysis-till-2028-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Phone Market Size, Assessment, Key Factors And Challenges By 2028"
     excerpt: "Feb 27, 2023 (The Expresswire) -- \"Facial Recognition Phone Market\" Report covers specified competitive outlook consisting of the market proportion"
     publishedDateTime: 2023-02-27T11:51:00Z

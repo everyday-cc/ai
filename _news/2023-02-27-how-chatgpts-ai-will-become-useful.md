@@ -28,38 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips"
-    excerpt: "The fascination with generative AI has spring-loaded demand for products that can help deliver on its promise. And startups are primed to pounce. ‘There’s new openings for attack,’ says one venture capitalist."
-    publishedDateTime: 2023-02-27T20:49:00Z
-    webUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
-    ampWebUrl: "https://www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 104
-    images:
-      - url: "https://images.wsj.net/im-732623/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Baidu says its alternative to ChatGPT is coming to the public in March"
-    excerpt: "\"We will embed Ernie bot into Baidu search first and we'll open it ... Beijing has also emphasized building up self-sufficiency in technology. Nikkei Asia on Wednesday reported, citing sources ..."
-    publishedDateTime: 2023-02-24T01:19:00Z
-    webUrl: "https://www.cnbc.com/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/23/baidu-says-its-alternative-to-chatgpt-is-coming-to-the-public-in-march.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107198302-16770905622023-02-22t172145z_471337376_rc2ggz9l6na2_rtrmadp_0_baidu-ai-ernie.jpeg?v=1677132176"
-        width: 3500
-        height: 2333
-        isCached: true
   - title: "Jasper AI: how to use the ChatGPT alternative now"
     excerpt: "Jasper AI is a powerful, new alternative to ChatGPT that offers quick, generative text with no waitlist. You probably haven’t heard of Jasper AI, originally known as Jarvis AI, until Marvel challenged the name that conflicted with Iron Man’s AI companion."
     publishedDateTime: 2023-02-24T20:24:00Z
@@ -108,22 +76,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Takeover: Coca-Cola And Snap Embrace ChatGPT While Banks Ban It"
-    excerpt: "As excitement and fears build for generative AI, battle lines are being drawn between early adopters and those barring it. Here's a look at which companies are coming out in front."
-    publishedDateTime: 2023-02-27T20:27:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63fd3193ec46bc6e911778bc/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Beyond ChatGPT: 14 Mind-Blowing AI Tools Everyone Should Be Trying Out Now"
     excerpt: "AI tools are becoming accessible to any business or individual, transforming the way they work. The technology is no longer just for academics or tech giants, so here we look at some of the top tools everyone should be trying out."
     publishedDateTime: 2023-02-28T06:32:00Z
@@ -156,22 +108,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Snapchat launches an AI chatbot powered by OpenAI’s GPT technology"
-    excerpt: "The company announced today that it's launching \"My AI,\" a new chatbot running the latest version of OpenAI's GPT technology that it has customized for its users."
-    publishedDateTime: 2023-02-27T18:42:00Z
-    webUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/"
-    ampWebUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/ALT-Comms-banner-2.png?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Snapchat Launches Its Own Chatbot AI to Rival ChatGPT"
     excerpt: "Snapchat on Monday said it is launching its own generative artificial intelligence chatbot, called My AI, powered by the latest version of OpenAI's GPT technology, the same technology used in ChatGPT."
     publishedDateTime: 2023-02-27T17:25:00Z
@@ -188,21 +124,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elon Musk is seeking to create a rival to OpenAI, the company behind ChatGPT, report says"
-    excerpt: "Musk has approached researchers about forming a new artificial intelligence research lab, The Information reported."
-    publishedDateTime: 2023-02-28T11:42:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-2023-2?amp"
+  - title: "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips"
+    excerpt: "The fascination with generative AI has spring-loaded demand for products that can help deliver on its promise. And startups are primed to pounce. ‘There’s new openings for attack,’ says one venture capitalist."
+    publishedDateTime: 2023-02-27T20:49:00Z
+    webUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f?tpl=vc"
     type: article
     provider:
-      name: YAHOO!News
-      domain: businessinsider.com
-    quality: 80
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
     images:
-      - url: "https://i.insider.com/63cfac1c0a375c0018fa8bdc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://images.wsj.net/im-732623/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "What Elon Musk, Bill Gates, and 12 other business leaders think about AI tools like ChatGPT"
     excerpt: "While some business leaders are excited about AI's potential for good, others are skeptical, unimpressed, and even scared about what the tech can do."
@@ -251,6 +185,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63f767765a57e6cb05093b42/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 700
+        isCached: true
+  - title: "I wrote a novel with ChatGPT. Authors, have no fear, your jobs are safe — but AI will give you great ideas."
+    excerpt: "Sergi Arguimbau, a senior mobile developer at the unicorn startup ManoMano, published his AI-generated book on Amazon."
+    publishedDateTime: 2023-02-24T10:10:00Z
+    webUrl: "https://www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/63f69b465ca81e001855cc68?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "LLaMA, Meta’s New AI Language Model is Not Your Average ChatGPT"
     excerpt: "By releasing LLaMA under a noncommercial license that is focused on research use cases, Meta is granting open access to the model."
@@ -337,31 +287,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/canvas/2023/02/24/f3dc19c0-bdb8-4018-bc82-1fa638a5d476_138765ee.jpg?itok=wQ_8nSzg&v=1677218876"
         width: 1200
         height: 630
-        isCached: true
-  - title: "ChatGPT on your PC? Meta unveils new AI model that can run on a single GPU"
-    excerpt: "Smaller-sized AI models could lead to running ChatGPT-style language assistants ... can reportedly outperform GPT-3 while running on a single GPU. Unlike the data center requirements for GPT-3 derivatives, LLaMA-13B opens the door for ChatGPT-like ..."
-    publishedDateTime: 2023-02-24T20:02:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 62
-  - title: "Elon Musk recruits team to develop OpenAI's ChatGPT rival"
-    excerpt: "Elon Musk has approached AI researchers in recent weeks about forming a new research lab to develop an alternative to OpenAI's ChatGPT, the Information reported on Monday, citing people with direct knowledge of the effort."
-    publishedDateTime: 2023-02-28T04:06:00Z
-    webUrl: "https://tribune.com.pk/story/2403674/elon-musk-recruits-team-to-develop-openais-chatgpt-rival"
-    ampWebUrl: "https://tribune.com.pk/story/2403674/elon-musk-recruits-team-to-develop-openais-chatgpt-rival?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2403674/elon-musk-recruits-team-to-develop-openais-chatgpt-rival?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 59
-    images:
-      - url: "https://i.tribune.com.pk/media/images/Musk1652032870-0/Musk1652032870-0.jpg"
-        width: 638
-        height: 422
         isCached: true
   - title: "Zuckerberg's Meta To Take On ChatGPT, Creates New Group Focused On AI"
     excerpt: "Meta will integrate the output on its products, such as Instagram and Messenger The company will build some creative and expressive tools using AI, according to Zuckerberg Mark Zuckerberg's Meta is creating a new product group focused on artificial intelligence,"
@@ -473,21 +398,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Gary Vaynerchuk compares the rise of AI like ChatGPT to the way the internet revolutionized work: 'AI is coming for our jobs and that's ok'"
-    excerpt: "Vaynerchuk, an early investor in companies like Facebook and Uber ... many workers are finding that they can use AI tools to enhance their productivity at work: it's useful for research, analyzing large amounts of data, and scheduling tasks, for instance."
-    publishedDateTime: 2023-02-24T15:42:00Z
-    webUrl: "https://www.businessinsider.com/gary-vaynerchuk-ai-chatgpt-chatbot-microsoft-google-job-labor-trends-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/gary-vaynerchuk-ai-chatgpt-chatbot-microsoft-google-job-labor-trends-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gary-vaynerchuk-ai-chatgpt-chatbot-microsoft-google-job-labor-trends-2023-2?amp"
+  - title: "Would you let ChatGPT control your smart home?"
+    excerpt: "The possibility of improving smart home control by using AI language models to parse natural ... which will be essential for this technology to translate into the smart home."
+    publishedDateTime: 2023-02-24T17:55:00Z
+    webUrl: "https://www.theverge.com/2023/2/24/23613382/chatgpt-smart-home-josh-ai-voice-assistant-demo"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
+      name: The Verge
+      domain: theverge.com
+    quality: 54
     images:
-      - url: "https://i.insider.com/63f7fa454ca0e30019ba3f74?width=1200&format=jpeg"
+      - url: "https://cdn.vox-cdn.com/thumbor/fbizbv7IbwnBMm2lxLKW0bAU-z0=/0x0:1261x709/1200x628/filters:focal(434x466:435x467)/cdn.vox-cdn.com/uploads/chorus_asset/file/24458151/Josh_AI___ChatGPT_and_Josh.ai___Advanced_Home_AI__FL_LP8u4E4g___1261x709___0m51s_.png"
         width: 1200
-        height: 600
+        height: 628
         isCached: true
   - title: "Utmel: Post-Chatgpt Era, How AI Chips Can Succeed"
     excerpt: "ChatGPT, a new artificial intelligence chatbot, is considered to be 'starting a new AI revolution' with its unprecedented momentum. HONGKONG, Feb"
@@ -528,15 +451,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "Snap Launches My AI Chatbot Using OpenAI Technology"
-    excerpt: "Social-media company makes the new feature available to users of its Snapchat+ premium service."
-    publishedDateTime: 2023-02-27T18:46:00Z
-    webUrl: "https://www.wsj.com/articles/snap-launches-my-ai-chatbot-using-openai-technology-fa21774e"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "How ChatGPT mangled the language of heaven"
     excerpt: "Letter: Asked to generate a story from an English translation of a letter in Welsh published in the Guardian, the AI chatbot came up with a lot of twaddle, reports Fiona Collins"
     publishedDateTime: 2023-02-26T18:25:00Z
@@ -552,20 +466,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/80c9106ccd715fc7291a97859d7e6f8d264c9b99/0_191_5827_3496/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=816193f1a966b2f848ab2c0e60e0c1fc"
         width: 620
         height: 372
-        isCached: true
-  - title: "ChatGPT for marketers ­– replacement or ren-AI-ssance?"
-    excerpt: "Pushing the boundaries of AI can deliver for marketing will have a huge impact on customer experience, productivity, and marketing innovation"
-    publishedDateTime: 2023-02-24T16:47:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/chatgpt-for-marketers--replacement-or-ren-ai-ssance"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/025/iStock-815815658.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Meta launches own version of AI to find fixes to ChatGPT’s dangers"
     excerpt: "Facebook-owner Meta on Friday unveiled its own version of the artificial intelligence behind apps such as ChatGPT, saying it would give access to researchers to find fixes to the technology’s potential"
@@ -595,19 +495,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI Ayayay! A Virtual Conversation on Teaching and ChatGPT at UP, Diliman"
-    excerpt: "Cathlyn Ann T. Herrera A virtual roundtable discussion webinar facilitated by the University of the (UP) Diliman Office for the"
-    publishedDateTime: 2023-02-25T06:41:00Z
-    webUrl: "https://www.pressenza.com/2023/02/ai-ayayay-a-virtual-conversation-on-teaching-and-chatgpt-at-up-diliman/"
+  - title: "An Interview With ChatGPT: AI Advice to Be a Better CFO"
+    excerpt: "Can artificial intelligence-based chatbots provide credible insight into how CFOs can do their jobs and run their companies?"
+    publishedDateTime: 2023-02-27T21:03:00Z
+    webUrl: "https://www.cfo.com/technology/2023/02/openai-chatcpt-finance-advice-to-be-a-better-cfo-tech-artificial-intelligence/"
     type: article
     provider:
-      name: Pressenza
-      domain: pressenza.com
-    quality: 38
+      name: CFO
+      domain: cfo.com
+    quality: 39
     images:
-      - url: "https://www.pressenza.com/wp-content/uploads/2023/02/Poster.png"
-        width: 461
-        height: 459
+      - url: "https://assets.cfo.com/images/Zz1kNmQ0ZmUxZWI2YWYxMWVkYTEzODEyYjUyNjQ1ZWIzNg==?width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "ChatGPT and Bing’s AI chatbot are just stupid enough to work"
     excerpt: "Leave the AI-written content to CNET. As a writer, I was naturally curious to see how good ChatGPT was as a news and opinion writer. Not because I wanted to start cheating and having a bot write for me, but because of self-preservation — how close am I ..."
@@ -623,15 +523,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Elon Musk Might Start Up a ChatGPT Rival, Report Says"
-    excerpt: "Musk, who co-founded ChatGPT's creator, OpenAI, has approached AI researchers about forming a research lab, The Information reports."
-    publishedDateTime: 2023-02-28T13:34:00Z
-    webUrl: "https://www.cnet.com/tech/elon-musk-reportedly-eyeing-development-of-chatgpt-rival/"
+  - title: "Tencent Sets Up Team to Develop ChatGPT-Like Bot"
+    excerpt: "Chinese internet giant Tencent Holdings has set up a project team to develop HunyuanAide, its own ChatGPT-like artificial intelligence bot, and to advance special research, including pre-trained models."
+    publishedDateTime: 2023-02-28T11:54:00Z
+    webUrl: "https://www.yicaiglobal.com/news/tencent-sets-up-team-to-develop-chatgpt-like-bot"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 32
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 24
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/tencent-sets-up-team-to-develop-chatgpt-like-bot/37465270122181.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
     excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
     publishedDateTime: 2023-02-24T14:15:00Z

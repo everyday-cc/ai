@@ -7,7 +7,7 @@ originalUrl: "https://www.govconwire.com/2023/02/how-artificial-intelligence-is-
 webUrl: "https://www.govconwire.com/2023/02/how-artificial-intelligence-is-changing-the-us-intelligence-community/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,15 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Changing The Influencer Space. Here’s How To Prepare."
-    excerpt: "With AI tools becoming more accessible, every industry is coming to terms with the new reality. How does the content creator space fit into that story?"
-    publishedDateTime: 2023-02-24T11:59:00Z
-    webUrl: "https://www.forbes.com/sites/anharkarim/2023/02/24/ai-is-changing-the-influencer-space-heres-how-to-prepare/"
+  - title: "Babies Still Beat AI Bots at This Critical Intelligence Benchmark"
+    excerpt: "There’s been a lot of news about artificial intelligence lately. Ever since OpenAI released ChatGPT to the world—followed by Microsoft baking it into Bing—people are growing ever more ..."
+    publishedDateTime: 2023-02-24T03:50:00Z
+    webUrl: "https://www.thedailybeast.com/babies-still-beat-ai-bots-at-this-critical-intelligence-benchmark"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 19
 
 secured: "ESlnqlpZB+GzsjOZ0qp63p3Q2k6MVRZ45OSDkokYR5egSapTNe29Y17FHNtPmaobFO/uFX0/CtdjLVJkPlrGa8tsVsyWbPOzHm18Z8h1JNzRe6w5pWzzDh86AcWpYmG7wubNhWtMSGWJLc4UNPb0nwM1/ir7pozw++9V+c3pO5SK/YtXv1/smYUbB0L66s8/alObmjZ9NVYKOlWZFjCmMZju2JV874u2ocZ+ljgZXhgjt2sZvldSxedRmlYwcB87fFYeTHVp0q1ySf48Z3GDwcbhhobYZWAO8icKqbVOX6TG0KtTjDvHOU30GzE3vR1oSucuNeRRG/vPlD5xP6iP2wxp/FnW8Iq9DDHlW3nMXvJNuRP1ylqeCuaS4/4B/l1QWs6VwWuryzl0chAePKBUrM9/1vhOA/3QE5S+ddMQoMbaG5YdzpvUkOilUKG1YZ/gHKQH1MrNys+QqAcUUAUJiipE1BMTLRqauNYZd5JeyWgrDE18Cb0AvK21APjfpzV7tKGFopc59u7quJ98Gbh6Ig==;VJhymbR2ktdAsXE0txMdOA=="
 ---

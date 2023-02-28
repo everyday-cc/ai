@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/new-meta-team-to-turbocharge-ai
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-meta-team-to-turbocharge-ai-for-whatsapp-instagram/"
 type: article
 quality: 89
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta says it is experimenting with AI-powered chat on WhatsApp and Messenger"
+    excerpt: "Mark Zuckerberg has announced that the company is building \"a new top-level product group\" to integrate generative AI into its services."
+    publishedDateTime: 2023-02-28T18:12:00Z
+    webUrl: "https://techcrunch.com/2023/02/27/meta-says-it-is-experimenting-with-ai-powered-chat-on-whatsapp-and-messenger/"
+    ampWebUrl: "https://techcrunch.com/2023/02/27/meta-says-it-is-experimenting-with-ai-powered-chat-on-whatsapp-and-messenger/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/27/meta-says-it-is-experimenting-with-ai-powered-chat-on-whatsapp-and-messenger/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/10/zuckatar.jpg?resize=1200,749"
+        width: 1200
+        height: 749
+        isCached: true
   - title: "Get Ready to See More AI Chatbots on Facebook, Instagram"
     excerpt: "Meta CEO Mark Zuckerberg is looking to capitalize on ChatGPT's popularity with a new product group focused on 'generative AI' for the company's apps and services."
     publishedDateTime: 2023-02-27T22:45:00Z

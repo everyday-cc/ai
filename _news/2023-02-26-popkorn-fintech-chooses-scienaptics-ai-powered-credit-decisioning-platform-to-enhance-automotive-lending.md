@@ -26,6 +26,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Popkorn Fintech chooses Scienaptic's AI-Powered Credit Decisioning Platform to enhance automotive lending"
+    excerpt: "Popkorn platform is free for consumers. Popkorn Fintech aims to put AI-driven technology in the hands of frontline sales professionals at automotive dealerships to close loan requirements of ..."
+    publishedDateTime: 2023-02-25T14:25:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20230225/4043205.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
+
 secured: "/AvPikrDyaheAlH6A7WkvuaNuuUq/i/AdAtEVAH3savRxFPcy5LmJAuPzFPVmHebEPQPPZQCWeb6i9zuQQ4QvgK6eypl4CMLYNqAvc8XkZgqCiHNjJMsVH5oPO+09QEMvmAQVg3cgAD59EGSRsgtPlLyHGR5icLUpAcedVeGUTxMpDCbBgZ6gGJNA67K3yIhQni7QFoeFFbuShwjKbru3lDJXFISlUqgskDbmcom/KVeiTelWAlXIRQvA0vQXaz0J4TByQpv4IVvA4pFxO+OHI+rLiXXsq61wnfj+Fm9UsBm/3Sm8TajOKAOxhow/Yt0qq/mpe1UiW4CDgApZgb+3ZFhXA2A6TD1PCXCeKILbpMnREiOCFPVtMdB6CeB+3aXQgxmooaMfGcxZqleMM4w60VoidXBVEAh7xUa6qGO+V1zqzOk7WsLatJh3RpAJRUDp0Oiyf0pVJLF83v/PX6vM2e/mCga5Qn+hu92ceNMWX567Ds6z6AXKGUcecH5QyRtqdkZkC7zwQSeWvsrAwBYEg==;vl9pD52x+naS+lIT5IvJag=="
 ---
 

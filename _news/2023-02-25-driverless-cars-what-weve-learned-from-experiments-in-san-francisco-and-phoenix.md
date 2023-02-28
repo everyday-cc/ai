@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Startups Boom In San Francisco Amid $100 Billion Google Mistake"
-    excerpt: "San Francisco’s AI startup scene is blowing up thanks to the ChatGPT craze and investors including Y Combinator, Bessemer Venture Partners, Coatue, Andreessen Horowitz, Tiger Global, Mark Benioff's Time Ventures and Ashton Kutcher's Sound Ventures."
-    publishedDateTime: 2023-02-24T03:05:00Z
-    webUrl: "https://www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/"
-    ampWebUrl: "https://www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ec34c9ea9d35758ecaa5b2/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "San Francisco startup Writer sues Twitter for unpaid subscription fee"
     excerpt: "A new lawsuit alleges that Twitter failed to pay for a subscription to an over $100,000 per year generative AI service."
     publishedDateTime: 2023-02-24T18:04:00Z

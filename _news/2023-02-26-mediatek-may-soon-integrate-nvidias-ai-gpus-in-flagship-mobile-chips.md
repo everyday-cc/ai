@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/mediatek-ma
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1420
         height: 1000
         isCached: true
-  - title: "Nvidia results show its growing lead in AI chip race"
-    excerpt: "AI is taking over the tech industry and, according to research firm Gartner, the share of specialized chips such as GPUs that are used in data centers is expected to rise to more than 15% by 2026 ..."
-    publishedDateTime: 2023-02-24T01:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-results-show-its-growing-lead-in-ai-chip-race-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "AMD slowly catching up to Nvidia in GPU sales"
     excerpt: "Thanks to its highly scalable GPU architectures, AMD GPUs are now powering a wide range of devices from consoles to PCs to mobiles."
     publishedDateTime: 2023-02-24T13:35:00Z

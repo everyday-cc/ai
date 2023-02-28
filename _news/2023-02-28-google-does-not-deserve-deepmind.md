@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/google-does-not-deserve-deepmind/"
 webUrl: "https://analyticsindiamag.com/google-does-not-deserve-deepmind/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "How an AI breakthrough from Alphabet's DeepMind 'changed scientific history' and could lead to new cures"
+    excerpt: "Over 1 million researchers have used the AI breakthrough that helps scientists better understand diseases. Here's how AlphaFold came to be."
+    publishedDateTime: 2023-02-28T17:56:00Z
+    webUrl: "https://www.businessinsider.com/deepmind-alphafold-ai-origin-story-impact-on-biotech-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/63fcd8f5b8468e001896a6a5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "l93Ba4v29RT9LjxuiVz8SxUkznYfkjR0/pDh5cKHTVtmL1TfrXihrskIr1NLkVeOZ5PSeHhy7DNY4uEhGHsfaEd6uUEq9hE5qzp+Zsib06giKbrK6v8oA3JtRiwwpC6sQnnwj0WAhp/KuuPzcZj/TTT45k2kfv7NyEpqs2QqZiMz6TRL5UVkM0k/fCJipNkgzb49D2Jgzqh7mxXHj5E8crMKVtwOhU6RMvePkXL980tnHDlJvW2vZ6JF33HQxgreOWAym/ItlC8nYG01BGMZmD0o79MmMTt1lNyAjTxA5Ebbo29ikZ7SxvNQdqMm55Yvp/UxhO5Aa+Os6CJCSgHlQdTbRDvelIc6OWCisaLWlBpqTqD/1VBp4h65w1UgkymlX5AkG5y1a2HOFeguRiOj10H2fvqo8ke7OAfuFfH7P5PUpPvjj/bZk/B0BuZTpQgJnVJH9jE7wIs6qRPhPHIO5AohTl1M6CI/ZHslzAXGGt6VQ/GBY5pFpTbXtNVFxvOEswtgB47ko9PEZ+kzsxTwvw==;AyBIOOe8roTrs56s3akT5w=="
 ---

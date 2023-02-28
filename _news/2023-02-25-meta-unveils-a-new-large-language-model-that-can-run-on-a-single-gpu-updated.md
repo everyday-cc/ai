@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-yo
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "ChatGPT on your PC? Meta unveils new AI model that can run on a single GPU"
+    excerpt: "Smaller-sized AI models could lead to running ChatGPT-style language assistants ... can reportedly outperform GPT-3 while running on a single GPU. Unlike the data center requirements for GPT-3 derivatives, LLaMA-13B opens the door for ChatGPT-like ..."
+    publishedDateTime: 2023-02-24T20:02:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 62
   - title: "Meta Released LLaMA, an Open Large Language Model with 65-Billion-Parameters"
     excerpt: "It’s part of Meta’s commitment to open science.” “Training smaller foundation models like LLaMA is desirable in the large language model space because it requires far less computing power and resources to test new approaches,"
     publishedDateTime: 2023-02-24T21:03:00Z

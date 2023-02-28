@@ -40,6 +40,31 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Snapchat launches an AI chatbot powered by OpenAI’s GPT technology"
+    excerpt: "The company announced today that it's launching \"My AI,\" a new chatbot running the latest version of OpenAI's GPT technology that it has customized for its users."
+    publishedDateTime: 2023-02-27T18:42:00Z
+    webUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/"
+    ampWebUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/ALT-Comms-banner-2.png?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Snap Launches My AI Chatbot Using OpenAI Technology"
+    excerpt: "Social-media company makes the new feature available to users of its Snapchat+ premium service."
+    publishedDateTime: 2023-02-27T18:46:00Z
+    webUrl: "https://www.wsj.com/articles/snap-launches-my-ai-chatbot-using-openai-technology-fa21774e"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "Facebook owner Meta joins AI chatbot race"
     excerpt: "After Microsoft ChatGPT and Google's Bard, Meta is joining the AI chatbot race with its own state-of-the-art foundational large language model designed to help researchers advance their work in the field of artificial intelligence."
     publishedDateTime: 2023-02-25T08:30:00Z

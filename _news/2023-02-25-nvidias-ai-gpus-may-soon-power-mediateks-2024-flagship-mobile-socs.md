@@ -45,15 +45,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Nvidia results show its growing lead in AI chip race"
-    excerpt: "AI is taking over the tech industry and, according to research firm Gartner, the share of specialized chips such as GPUs that are used in data centers is expected to rise to more than 15% by 2026 ..."
-    publishedDateTime: 2023-02-24T01:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-results-show-its-growing-lead-in-ai-chip-race-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "AMD slowly catching up to Nvidia in GPU sales"
     excerpt: "Thanks to its highly scalable GPU architectures, AMD GPUs are now powering a wide range of devices from consoles to PCs to mobiles."
     publishedDateTime: 2023-02-24T13:35:00Z

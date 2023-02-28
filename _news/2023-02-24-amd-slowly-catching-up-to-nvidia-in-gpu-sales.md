@@ -50,15 +50,6 @@ related:
         width: 1420
         height: 1000
         isCached: true
-  - title: "Nvidia results show its growing lead in AI chip race"
-    excerpt: "AI is taking over the tech industry and, according to research firm Gartner, the share of specialized chips such as GPUs that are used in data centers is expected to rise to more than 15% by 2026 ..."
-    publishedDateTime: 2023-02-24T01:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-results-show-its-growing-lead-in-ai-chip-race-0"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "MediaTek likely to incorporate Nvidia AI GPU in smartphone SoC?"
     excerpt: "Nvidia's AI GPUs may be found in MediaTek's flagship smartphone slated for launch as early as 2024, according to industry sources. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue."
     publishedDateTime: 2023-02-24T03:10:00Z

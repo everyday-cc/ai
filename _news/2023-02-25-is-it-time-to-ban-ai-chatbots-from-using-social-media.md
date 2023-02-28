@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Snapchat launches an AI chatbot powered by OpenAI’s GPT technology"
+    excerpt: "The company announced today that it's launching \"My AI,\" a new chatbot running the latest version of OpenAI's GPT technology that it has customized for its users."
+    publishedDateTime: 2023-02-27T18:42:00Z
+    webUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/"
+    ampWebUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/ALT-Comms-banner-2.png?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Leaked messages show Googlers are taking out their frustrations over layoffs on its new Bard AI chatbot"
     excerpt: "\"I'd tell you a joke about layoffs at Google, but I'm afraid I wouldn't have a job tomorrow,\" Bard said when asked to tell a joke about the layoffs."
     publishedDateTime: 2023-02-24T22:26:00Z
@@ -41,6 +57,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "Snap Launches My AI Chatbot Using OpenAI Technology"
+    excerpt: "Social-media company makes the new feature available to users of its Snapchat+ premium service."
+    publishedDateTime: 2023-02-27T18:46:00Z
+    webUrl: "https://www.wsj.com/articles/snap-launches-my-ai-chatbot-using-openai-technology-fa21774e"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "Facebook owner Meta joins AI chatbot race"
     excerpt: "After Microsoft ChatGPT and Google's Bard, Meta is joining the AI chatbot race with its own state-of-the-art foundational large language model designed to help researchers advance their work in the field of artificial intelligence."
     publishedDateTime: 2023-02-25T08:30:00Z

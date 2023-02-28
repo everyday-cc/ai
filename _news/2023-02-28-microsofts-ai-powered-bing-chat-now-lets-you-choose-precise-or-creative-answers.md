@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Windows 11 update puts AI front and center"
+    excerpt: "Microsoft will roll out on Tuesday an update to Windows 11 that puts its new AI-powered Bing capabilities front and center on its taskbar, one of the operating system's most widely used features, in the latest sign the company is doubling down on the buzzy technology despite some recent controversy."
+    publishedDateTime: 2023-02-28T17:15:00Z
+    webUrl: "https://www.cnn.com/2023/02/28/tech/microsoft-windows-update-ai-bing/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/02/28/tech/microsoft-windows-update-ai-bing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/28/tech/microsoft-windows-update-ai-bing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 104
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220405132229-windows-11-microsoft-laptop-stock-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "3 Microsoft Azure AI product features that accelerate language learning"
     excerpt: "The Microsoft Azure Cognitive Speech Services platform is a comprehensive collection of technologies and services aimed at accelerating the incorporation of speech into applications and amplifying differentiation to the market as a result. Among the services available are Speech to Text, Text to Speech,"
     publishedDateTime: 2023-02-24T08:00:18Z
@@ -56,6 +72,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
+  - title: "Microsoft's AI Pivot Pays Off - Investors Ignore Bing's Mediocrity, Embrace ChatGPT Hype Instead"
+    excerpt: "Executives at Microsoft (MSFT) announced Tuesday that the Redmond, Wash.-based company will formally incorporate artificial intelligence into its internet search business. Shares jumped 4.2%."
+    publishedDateTime: 2023-02-28T17:34:00Z
+    webUrl: "https://www.forbes.com/sites/jonmarkman/2023/02/28/microsofts-ai-pivot-pays-offinvestors-ignore-bings-mediocrity-embrace-chatgpt-hype-instead/"
+    ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/02/28/microsofts-ai-pivot-pays-offinvestors-ignore-bings-mediocrity-embrace-chatgpt-hype-instead/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/02/28/microsofts-ai-pivot-pays-offinvestors-ignore-bings-mediocrity-embrace-chatgpt-hype-instead/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63fe48fd88cca7a5e936e6ee/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 802
+        isCached: true
   - title: "Better Artificial Intelligence Stock: Cloudflare vs. Microsoft"
     excerpt: "Both companies could win big from adopting artificial intelligence-enabled applications, but which is the better bet?"
     publishedDateTime: 2023-02-25T12:36:00Z
@@ -69,6 +101,20 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/721593/chatbot-smartphone-person.jpg"
         width: 2121
         height: 1414
+        isCached: true
+  - title: "AWS Eyes Microsoft-Backed ChatGPT With New AI Partnership"
+    excerpt: "AWS AI gets boost with Hugging Face artificial intelligence collaboration targeting developers and machine learning innovation for generative AI."
+    publishedDateTime: 2023-02-28T18:09:00Z
+    webUrl: "https://www.crn.com/news/software/aws-eyes-microsoft-backed-chatgpt-with-new-ai-partnership"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 75
+    images:
+      - url: "https://www.crn.com/resources/027e-176c41db82e7-b8ea9882b3a9-1000/aws-hugging-face.jpeg"
+        width: 1200
+        height: 629
         isCached: true
   - title: "Microsoft Pushes AI-Powered Tools for Telecoms. It’s Targeting Amazon."
     excerpt: "The company's new cloud platform for telecoms companies, named Azure Operator Nexus, has already been provided to AT&T."
@@ -85,6 +131,20 @@ related:
       - url: "https://images.barrons.com/im-532523/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Microsoft and Google back Typeface, an enterprise generative AI startup led by ex-Adobe CTO"
+    excerpt: "A new generative AI startup with ties to Seattle just raised $65 million from Microsoft’s M12 and others to help enterprises produce content. Typeface emerged from stealth mode Monday and… Read More"
+    publishedDateTime: 2023-02-28T18:42:00Z
+    webUrl: "https://www.geekwire.com/2023/microsoft-and-google-back-typeface-an-enterprise-generative-ai-startup-led-by-ex-adobe-cto/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 74
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/Typeface-Image-1.jpg"
+        width: 1032
+        height: 576
         isCached: true
   - title: "Microsoft introduces Azure Operator Nexus to run their carrier-grade workloads"
     excerpt: "Microsoft is also launching Azure Operator Voicemail, a solution that enables operators to transfer their voicemail services to Azure as a fully managed service, as well as Azure Communications Gateway,"
@@ -217,6 +277,6 @@ related:
       domain: bizjournals.com
     quality: 20
 
-secured: "tkE7kYxTKFeQ0knwSG4uawiWoe1Sk10U9iXMNGoW0Kj3l/U7ZJRSSrUtxp9gsYQnuhhpZEUOjAEk2tE+DDc7r+V+AO4cyHRcNNsDafQfFnr4cCMKNCytrDmjisYV+yBI5Uls158RedzVSIpqX+5LWqJPzU0SzPS/b669XP6ieTExNqHPVCs+OCJWn8ypTpNuYVm3+ke5TjSWVxP1C4kA0XxWkuv2HBq/EHeegKTP+fxflVqu7TZpCEN42H4Dgf7EWIevZ0R7aTZuRXowGU3avJ/sNJ9Z9BfOgn8VfvyJBfwUusfcXshaadNwvK7Qp4JfEAVJci6jqaxgcmWJ3xSf1XMF6aoyXw31mjgKC+t1kus=;62oU/0LSzMSaT8Id9fw5bQ=="
+secured: "UUUvq/3XsMtp0yaZcKszEp9Tvvx13zmcr3UB5vEc8V0wc8/0AiroN1AvwqDLcfo1m9mFCRn82kyp30wR+PyZch6GaqwMLVWpbK7n2mZh+32eIJaLW8jtGX/4H5tdyiZsu6zDDneMDzjAQHHGmv9y2bZyDOJon/MCNI7SvMe/KY/q9GSxZ0Ecpd+BYuCvofuvAl7/pP/jpK1gTBJmE+PDx9kB2L5g8mAbz4PDD8im5B78ctK7NwKm/wZidc9U+wH1USvUYw1G6MH1oUIoobLL/6REvlzrCn7adH/D/P5Y1yvI5J59VAPNJ+ctzRVdJPq9tDKJcwctPTaMTkQVotojdNslZnEfvWVTo3LG7tRvwcDPWzEbODmOIGGozvwNqW7u6IKQuXLm1RR+PB35liS14rwVnOUGhTnethjKeGucmPO4TjzS6GK+LdjqSVuWKl+gp0qEoBCVMU3fw6yoohBGbNV9N2mxey46UDuue2N41jMF+3pAV8D47dLkEHmYwhF72WRerzWWJBhBj7xFXrdSYQ==;lP0TPqIdjjZNVOSbKHlLdA=="
 ---
 

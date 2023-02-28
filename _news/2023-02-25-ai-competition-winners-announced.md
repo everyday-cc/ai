@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105641901/AI-Competition-Winners-Announced"
 webUrl: "https://menafn.com/1105641901/AI-Competition-Winners-Announced"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,26 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Blue Motor Finance Partners With Zinia for Implementation of Decision Intelligence AI Platform"
-    excerpt: "Press Release Fintech lender, Blue, has announced a new partnership with Zinia, the pioneering Decision Intelligence company, to supercharge AI driven decisions across the business.Blue is a technology-focused lender delivering innovative motor finance solutions"
-    publishedDateTime: 2023-02-24T02:24:00Z
-    webUrl: "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/"
-    ampWebUrl: "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/"
+  - title: "Winners of Qatar's 2022 Artificial Intelligence Competition announced"
+    excerpt: "Hamad Bin Khalifa University (HBKU), Qatar Computing Research Institute (QCRI), and HUAWEI have announced the winners of the Artificial Intelligence National Competition. In his speech, QU-CENG Dean Dr."
+    publishedDateTime: 2023-02-24T06:33:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/24/02/2023/winners-of-qatars-2022-artificial-intelligence-competition-announced"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
-  - title: "Popkorn Fintech chooses Scienaptic's AI-Powered Credit Decisioning Platform to enhance automotive lending"
-    excerpt: "Popkorn platform is free for consumers. Popkorn Fintech aims to put AI-driven technology in the hands of frontline sales professionals at automotive dealerships to close loan requirements of ..."
-    publishedDateTime: 2023-02-25T14:25:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20230225/4043205.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 2
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 37
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20230224_1677220599-895.jpg?1677220599"
+        width: 1000
+        height: 556
+        isCached: true
 
 secured: "hFvGzh6Z/TeXbyDCydKSoF02nJ/ub+/lASckDQHpaVbUCO4v+VeIZYfP9F26Z6tM/HVyA1Dr/XfYuJx522Kt33XckSTWttztQ/XytNKCuC4lxlTmo7CzbN4Sz9hXzkriewBDcV5ALC2tXij/EbhteFTwFbbsA7uCWiHpe1F8KodTwXdA8XFbVR541bZWWaekWPSpb2W9iv723sqHvriXDlXKDS8ZKZDZ/LAR4AMTxawj/5O9T1s1NpUeQplfjs4OwFXi18DmmMpIqvvv51O7v5y/fcZ6Kq0biwSHQRbRrk5VG/e2KrCS740LuAcv5kLsVfGOu2Y8H+KOMBoK2evc+bUKxLROmYV/GihU3+yJv5UhUw5G5CJezkWKY9E9LXDgyMrPp7db/jlHn+dbgg3VN/idgBVJzn9Hp/x57PgPqI10vXA5QJuI/P/ATYldzvaPa6zZWoaJW6IxxhQzAlbw89O99NaWX6ZxWV8V32ClMPgRhiNLgI8yUzvQgeeTRccz0zta8eO+9eulpo4bgl237w==;svvEla2rPBL13q/8xhFBXg=="
 ---
