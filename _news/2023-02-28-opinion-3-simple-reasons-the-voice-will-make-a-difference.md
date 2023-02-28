@@ -39,15 +39,6 @@ related:
         width: 840
         height: 560
         isCached: true
-  - title: "Opinion: the straight shot on facial recognition at MSG"
-    excerpt: "Technology like biometric data and facial recognition software is a new frontier, and we as legislators, are tasked with helping draw the map and create legislation that keeps our communities safe. Using this technology to ban members of the public from ..."
-    publishedDateTime: 2023-02-24T03:27:00Z
-    webUrl: "https://www.cityandstateny.com/opinion/2023/02/opinion-straight-shot-facial-recognition-msg/383293/"
-    type: article
-    provider:
-      name: City & State New York
-      domain: cityandstateny.com
-    quality: 34
 
 secured: "nUGDa7yGnW5DtLoTH0a9SYByuxjd6YaYJzu33lpBi3iXDjHRzyw2VCWNCgP2xzIr0sl6FMoKFADUOHHwYK5vbTP1N4jfsOUErvwZDYs091cCN4US0dTHQgGmrt/kMbX/vt+F4qrsr8WPVSuzVNP3sv07Za1MnkgikGiPPI6G8mYbNEG21etwPemCFzvPUpUZJpAzoU1qLGHrWlE4IIx/VBOYs36FgyibakQLqj+ut3x+5tX4GP/NF3fYswrfeoNAx7KgTBtQ4oTKbEOZjslIaAsmWXJi0CEErt2ASD7WmeLZSlCExTOURbArWWXq4OLF8/9Tzgsdstow2vEcXdc4P2j99RsHhyWDE/CMtjpIPJo=;BxPiReg7g8zu2e0AJQEL/Q=="
 ---

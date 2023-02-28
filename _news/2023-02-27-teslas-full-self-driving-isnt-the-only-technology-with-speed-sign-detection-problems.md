@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/"
 type: article
 quality: 96
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?resize=1200,675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla shareholder suit says Musk and co. lied about Full Self-Driving safety"
+    excerpt: "A class-action complaint alleges that Tesla and CEO Elon Musk repeatedly made false statements about the capabilities and safety of the electric carmaker's Autopilot and Full Self-Driving (FSD) technology."
+    publishedDateTime: 2023-02-28T21:29:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/02/tesla-shareholder-suit-says-musk-and-co-lied-about-full-self-driving-safety/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/02/tesla-shareholder-suit-says-musk-and-co-lied-about-full-self-driving-safety/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/02/tesla-shareholder-suit-says-musk-and-co-lied-about-full-self-driving-safety/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/04/getty-tesla-fremont-800x495.jpg"
+        width: 800
+        height: 495
         isCached: true
   - title: "Tesla, Elon Musk sued by shareholders over self-driving safety claims"
     excerpt: "In a proposed class action filed in San Francisco federal court, shareholders said Tesla defrauded them over four years with false and misleading statements that concealed how its technologies, suspected as a possible cause of multiple fatal crashes,"

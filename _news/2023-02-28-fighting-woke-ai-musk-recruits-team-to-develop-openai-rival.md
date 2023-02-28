@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "OpenAI’s Bets on Tech Startups Hint At the Future of Artificial Intelligence"
+    excerpt: "OpenAI’s $100 million Startup Fund and Converge accelerator program have backed about a dozen startups that give a hint at what its next product might be."
+    publishedDateTime: 2023-02-28T22:32:00Z
+    webUrl: "https://observer.com/2023/02/openais-bets-on-tech-startups-hint-at-the-future-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 49
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/02/GettyImages-1246870699.jpg?quality=80&#038;strip"
+        width: 3600
+        height: 2400
+        isCached: true
 
 secured: "RFQd12iE2qeYEyPKT6+8pIFu8BGBqiCkjcTMdEpQVaTHT18lvmlaI1WvsIFm7KePFiBQ4zZFOhyXdTmpFvjntWEfY9V8F5N9Dfvaqd9RtXEMmm7YgFFeloFoXfxgPdE92OZ5vjANJINELzsvfCQo32p3ME10gTeJWJLW00KmM9aDJuYDJEh0F92o9LSVhEe9uxkOBgDG7chLmJnXnaAI8Np2+2znKMDsurrbDbXncDrGNJqAjReXhkC554UHIeTUxIErNRSE2eKNNkv9ppeO/0LR6Okx+pfUokn0cVL73eMTJW59BsMgw2qG4GCtatPIm0pWZEelILSZvqiFuhTQGyyAJ0zVRGfYyAM42gTo1/9roxjHgD4TAL3lFgcEX5pMORHAzf5fntq8bn1SrkJ3lLS/Kvahuua6hmWlAzaRnzJzOKyHfuakwpd9sOncs6g8BVWYWiuUr6piZgwRoibRg2kI6GfwCDrTN/kkJBVJxVgmnMGRnAUTfJBMAdaQFS1MMv2wSzthNdEdtcIYKpHrLQ==;n1R+2VJFUkd025yFXq5bQw=="
 ---

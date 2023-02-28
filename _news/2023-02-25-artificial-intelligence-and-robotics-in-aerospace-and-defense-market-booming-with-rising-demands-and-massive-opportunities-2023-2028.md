@@ -23,34 +23,255 @@ topics:
   - AI
 
 related:
-  - title: "Gaming opportunities for investors in 2023: Generative AI, low-code, metaverse, and more"
-    excerpt: "and the potential role of generative AI in game development. The quarterly analyst report on the gaming sector covers trends and issues predictions for how VC investments in video games will proceed over the course of 2023. This is PitchBook’s first ..."
-    publishedDateTime: 2023-02-24T05:01:00Z
-    webUrl: "https://www.geekwire.com/2023/gaming-opportunities-for-investors-in-2023-generative-ai-low-code-metaverse-and-more/"
+  - title: "Future of Artificial Intelligence (AI) Robots Market 2023-2028: Opportunities and Challenges | 133 Pages"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Artificial Intelligence (AI) Robots"
+    publishedDateTime: 2023-02-27T18:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-robots-market-2023-2028-opportunities-and-challenges-133-pages-2023-02-27"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Role of AI-based Surgical Robots Market 2023: Business Developments and Strategies by 2029"
+    excerpt: "New 99 Pages Report] A Recently published “AI-based Surgical Robots Market” Size (2023) research report offers"
+    publishedDateTime: 2023-02-27T15:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-role-of-ai-based-surgical-robots-market-2023-business-developments-and-strategies-by-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market 2023 Size to Set a High Potential Growth by 2028"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-25T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-size-to-set-a-high-potential-growth-by-2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Courses Market 2023-2029: Latest Developments and Share Insights | 100 Pages"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-26T10:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-2023-2029-latest-developments-and-share-insights-100-pages-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 58
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/PitchBook-Feb-2023-report-Gaming-Landscape.jpg"
-        width: 1387
-        height: 785
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "NVIDIA GTC 2023 to Feature Latest Advances in AI Computing Systems, Generative AI, Industrial Metaverse, Robotics"
-    excerpt: "NVIDIA GTC 2023 to Feature Latest Advances in AI Computing Systems, Generative AI, Industrial Metaverse, Robotics; Keynote by Jensen Huang; Talks by OpenAI, DeepMind Founders Virtual Conference to Offer 650+ Sessions From Leaders in Technology,"
-    publishedDateTime: 2023-02-27T03:13:00Z
-    webUrl: "https://www.ryt9.com/en/prg/265967"
+  - title: "Face Recognition Payment Terminal Market 2023: Growth by 2029 Top Players with Opportunities"
+    excerpt: "New “Face Recognition Payment Terminal Market” Report 2023 by Manufacturers and Forecast to 2029: This Report provides"
+    publishedDateTime: 2023-02-27T13:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-payment-terminal-market-2023-growth-by-2029-top-players-with-opportunities-2023-02-27"
     type: article
     provider:
-      name: RYT9
-      domain: ryt9.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Insights] Top “Natural Language Processing For Healthcare And Life Sciences Market” Size 2023 Key players Profiled"
+    publishedDateTime: 2023-02-25T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Robotics Market Forecast: An In-Depth Analysis of Industry Trends and Growth Potential 2023-2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Artificial Intelligence"
+    publishedDateTime: 2023-02-27T09:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-forecast-an-in-depth-analysis-of-industry-trends-and-growth-potential-2023-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+  - title: "Artificial Intelligence In Military Market Share, Size, Trends, Industry Analysis Report By 2023 To 2029"
+    excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected"
+    publishedDateTime: 2023-02-27T15:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-share-size-trends-industry-analysis-report-by-2023-to-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 50
     images:
-      - url: "https://www.ryt9.com/img/files/20230227/iq8863e2e3afc3a7fe89450303f04c5036.jpg"
-        width: 1260
-        height: 680
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023 Will Provide Report Analysis that quickly emerging as one of the [IIII] category in the industry, by"
+    publishedDateTime: 2023-02-25T06:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+  - title: "The Rise of AI-based Surgical Robots Market Report 2023-2029 Highlighting Growing Demand and Future Opportunities with 99 Pages of Research Analysis"
+    excerpt: "AI-based Surgical Robots Market 2023: | 99 Pages Report Worldwide Industry Trends, Size, Development, Opportunity,"
+    publishedDateTime: 2023-02-28T02:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-rise-of-ai-based-surgical-robots-market-report-2023-2029-highlighting-growing-demand-and-future-opportunities-with-99-pages-of-research-analysis-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition Market Booming With Rising Demands and Massive Opportunities, 2023 - 2029"
+    excerpt: "Speech Recognition Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Semiconductor & Electronics] category in the industry, by Type (Speaker Dependent,"
+    publishedDateTime: 2023-02-27T02:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-booming-with-rising-demands-and-massive-opportunities-2023---2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+  - title: "Data Science and Machine Learning Service Market New Updates Drivers, Challenges and Competitive Strategic Window for Opportunities till 2029"
+    excerpt: "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Data Science and"
+    publishedDateTime: 2023-02-28T03:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-new-updates-drivers-challenges-and-competitive-strategic-window-for-opportunities-till-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 Clinical Natural Language Processing Market: Top Growing Opportunities and Growth Outlook by 2029"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Clinical Natural Language"
+    publishedDateTime: 2023-02-24T07:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-clinical-natural-language-processing-market-top-growing-opportunities-and-growth-outlook-by-2029-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+  - title: "Artificial Intelligence And Machine Learning Market 2023: A Status Of Top Regions And Companies With Growth Prospects"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.'The 2023 research report on the global “artificial intelligence"
+    publishedDateTime: 2023-02-25T08:46:00Z
+    webUrl: "https://menafn.com/1105642591/Artificial-Intelligence-And-Machine-Learning-Market-2023-A-Status-Of-Top-Regions-And-Companies-With-Growth-Prospects"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?835698"
+        width: 465
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence-Emotion Recognition Market New Updates Drivers, Challenges and Competitive Strategic Window for Opportunities till 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 27, 2023 (The Expresswire) -- Artificial Intelligence-Emotion Recognition Market size is expected to reach Multimillion USD by 2029, In comparison to 2023, at unexpected ..."
+    publishedDateTime: 2023-02-28T10:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-new-updates-drivers-challenges-and-competitive-strategic-window-for-opportunities-till-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023 Maximizing Statistical Natural Language Processing Market: Competitive Space and Growth Prospects by 2029"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Statistical Natural"
+    publishedDateTime: 2023-02-27T12:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-maximizing-statistical-natural-language-processing-market-competitive-space-and-growth-prospects-by-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+  - title: "Navigating the Future of Face Recognition Door Lock Market Insights 2023-2029: Emerging Trends and Opportunities"
+    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Door Lock"
+    publishedDateTime: 2023-02-24T09:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/navigating-the-future-of-face-recognition-door-lock-market-insights-2023-2029-emerging-trends-and-opportunities-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+  - title: "Artificial Intelligence as a Service Market 2023 Top Ranking Strategies: Trends, Predictions and Technologies 2029"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-02-27T15:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-2023-top-ranking-strategies-trends-predictions-and-technologies-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+  - title: "Artificial Intelligence in Platform as a Service (PaaS) Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Insights] Top “Artificial Intelligence in Platform as a Service (PaaS) Market” Size 2023 Key players Profiled in"
+    publishedDateTime: 2023-02-25T06:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 20
+  - title: "Artificial Intelligence Chips Market Research Report 2023-2028: Industry Analysis, Size, Growth, And Forecast"
+    excerpt: "The 2023 research report on the global 'artificial intelligence chips market' offers a comprehensive analysis of the market, providing insights into the challenges, drivers, and trends shaping the industry. The report presents a primary overview of the ..."
+    publishedDateTime: 2023-02-25T06:44:00Z
+    webUrl: "https://menafn.com/1105642780/Artificial-Intelligence-Chips-Market-Research-Report-2023-2028-Industry-Analysis-Size-Growth-And-Forecast"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 18
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?30862"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Cloud Natural Language Processing Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
+    excerpt: "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this Cloud Natural"
+    publishedDateTime: 2023-02-28T03:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
 
 secured: "fBBtDuXyDZWkQGuS1uLON7mILmS+UNgSDNmUTkxAzCLOTf0te0/sizjSOTKTaU3zfRfSe3L1+CR8Nzx/hzJe6Etxj52gBNtV33OkqLw9Orj7qJJc5JPATuz8T/jlutPrwH9/ii2COvPwDOOPdTWiLAPK/1aaMfeO7KEpRIgcbZihTK2a73EG1BILFtwhblQ7qFxSz1w3T5KSkeplZxi9MFlqgGK6isB2yAnW3623PUIiI5Ji9wiUOrGqpnggfz7Yf4YQkKtAf8h6S5hxbFT+M5CRxWMlm4pGI7gIRpMjH5nAX6N1Uo5HN55mLbhGIqqpViJxHNDC8XVgygTn3D3nxCo/wcb2o2N0NkjI8gzZ/bQ=;Q/0L3Pc90D0z1eNj2Cb8DA=="
 ---

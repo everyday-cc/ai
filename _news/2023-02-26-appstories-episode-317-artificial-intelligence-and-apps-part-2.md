@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-26T03:48:00Z
 originalUrl: "https://www.macstories.net/linked/appstories-episode-317-artificial-intelligence-and-apps-part-2/"
 webUrl: "https://www.macstories.net/linked/appstories-episode-317-artificial-intelligence-and-apps-part-2/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MacStories

@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SlashNext Launches Industry's First Generative AI Solution for Email Security"
+    excerpt: "This new solution joins SlashNext's existing HumanAI capabilities, which mimic human threat researchers by combining natural language processing, computer vision, and machine learning with relationship graphs and deep contextualization to thwart ..."
+    publishedDateTime: 2023-02-28T21:04:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/28/9767658.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
 
 secured: "AE8/4MOYPT6ERv4FpjxJIYEefpQGFuwyWIOshE0GvY2fyv759UZASrrGXU4IUhf2Eyg7MlMWRVQTpL8wZ9KKmK9ME8LdocFBmIZJZarVZw4tJaVanjDrXLgyjPYPG2Ac3KLjr5CU30UytquMpbo6xHTvZ/SOW7mHn9Lg2TVCj/L45bK8MNHud6OjsdKzNIgSK7eZFNqMOWNhvmO7KEwzMlrFW+O+pedux/swVb+8JJUwNCUBrwBVQgCbuNdHxVL6fmGWIYDb1liw6Cn6SOZClBTLQyWu60v4+1O5Y5xR6yA/HQ/9xjI2y4M3KlsXKlaLmokDI/RVtytmXMhmlCIhA4M9QZLx2g1MONXu2KANMQO5zqVU7W4RVKEjnEk1YZvoX4lvuOZTHRZUi3H1GmkGHTsnLsI4knPQMt30GyiPpZY/udql+tDsmtRtAzmfPQxRZpVVgpkcKcX58ZCJDSHt7Lrs5iQj8DUmESMfaH1mZo4FoJYq2bk9d7pdsKSmHI6MEhMcoAtwNFzcMYqiLnp2Ng==;aQNEFjMR8nk28G7ZPm29Qg=="
 ---

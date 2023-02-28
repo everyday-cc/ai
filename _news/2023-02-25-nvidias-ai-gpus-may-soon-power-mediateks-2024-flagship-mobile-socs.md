@@ -54,15 +54,6 @@ related:
       name: IBTimes UK
       domain: ibtimes.co.uk
     quality: 36
-  - title: "MediaTek likely to incorporate Nvidia AI GPU in smartphone SoC?"
-    excerpt: "Nvidia's AI GPUs may be found in MediaTek's flagship smartphone slated for launch as early as 2024, according to industry sources. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue."
-    publishedDateTime: 2023-02-24T03:10:00Z
-    webUrl: "https://www.digitimes.com/news/a20230223PD216/gpu-mediatek-nvidia-smartphone-soc.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
 
 secured: "nR3nr1mb+TzODrWzVRnc7nFULoZK9I/MbfciVJRXWWbcxffJ52TEg4GXBbvh4fXHwKa9tpkTSQx9i4zdMYTJCbdYIKIxBwjnPhWbDCT7w+yK4vATggZFtaJzzArPokp3jK6OZwLUWalseq80NSmFm5OGvO27ZsoxqHfa0lGko2WEWtqd8qwtHxk2VxJS60NKtW4R4ukqwZf43YR/HOkClazy5EPsf92aCvARkMZsTQab0K97V58q8n/Wgi7ImcxNHrGeJGJM0Us6jLsKEJKOFX2GNJjDs1L5DaFhvdRKND3zHfQUayegpSFh+AX6SKO91jPOlUmmcMPFgHtHVMO8l94TRysdR2x5vENRQ4yvOEbp9KvWu+Lx9wgM9GgXjOSVgxWjQ/GoVsV+ppCICd8X8VRv8sy9rEYbtIGskW1G4t56Ig2w9Kx59lA2X3FLwFGhMVOSXpORr3GUjVYKi8xQCFSPh+NOvfpswDdVDgwOALaQHzMUO+8Wc0YZm6UrxRBRNyDkXUAJehr+8+7jiVj+Cg==;K8bdONBDtYxsBOy0v02cLQ=="
 ---

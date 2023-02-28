@@ -3,10 +3,12 @@ category: news
 title: "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips"
 excerpt: "The fascination with generative AI has spring-loaded demand for products that can help deliver on its promise. And startups are primed to pounce. ‘There’s new openings for attack,’ says one venture capitalist."
 publishedDateTime: 2023-02-27T20:49:00Z
-originalUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f?tpl=vc"
-webUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f?tpl=vc"
+originalUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
+webUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
+ampWebUrl: "https://www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
 type: article
-quality: 84
+quality: 87
 heat: -1
 published: false
 
@@ -19,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -524,6 +525,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Investors are going nuts for ChatGPT-ish artificial intelligence"
+    excerpt: "Not a week goes by without someone unveiling a “generative” artificial intelligence ( AI) underpinned by “foundation” models—the large and complex algorithms that give Chat GPT and other AI s like it their intelligence."
+    publishedDateTime: 2023-02-28T20:29:00Z
+    webUrl: "https://www.economist.com/business/2023/02/28/investors-are-going-nuts-for-chatgpt-ish-artificial-intelligence"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230304_WBD002.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tencent Sets Up Team to Develop ChatGPT-Like Bot"
     excerpt: "Chinese internet giant Tencent Holdings has set up a project team to develop HunyuanAide, its own ChatGPT-like artificial intelligence bot, and to advance special research, including pre-trained models."
     publishedDateTime: 2023-02-28T11:54:00Z
@@ -583,15 +598,6 @@ related:
       name: PC Tech Magazine
       domain: pctechmag.com
     quality: 14
-  - title: "Is ChatGPT ‘woke’? AI chatbot accused of anti-conservative bias and a grudge against Trump"
-    excerpt: "Meta to restore Trump accounts:Trump Facebook and Instagram ... incorrect,” said Jake Denton, research associate with the Heritage Foundation’s Tech Policy Center. But, he says, what happens if ChatGPT or another AI chat feature replaces Google ..."
-    publishedDateTime: 2023-02-24T04:31:00Z
-    webUrl: "https://www.statesman.com/story/tech/2023/02/09/woke-chatgpt-conservatives-bias/11215353002/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 9
   - title: "China says it sees the potential of ChatGPT-like technology"
     excerpt: "BEIJING--China's Ministry of Science and Technology said on Friday said it saw the potential of ChatGPT-like tech and would be pushing for the integration of artificial intelligence into Chinese society and the economy."
     publishedDateTime: 2023-02-24T08:39:00Z
@@ -620,6 +626,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "GgIc9y/KE2yTifpbyrB7jiwK0zyK9OSPQgzesmEPh0/sKvuwzjOgm0qxM+nQYjis2yebPYlmsD+lbWKA1rjkWZBs3bg6FwiP2IysH8kJCuHxLF0qmRuOeGQeX/zbZrc04QQzFQ/cx4ysjZLtWPdkAuKuMM89fy0ia7gohwQDwkzC4rpj8Cj6wCjdEZNLXTV4tzcE4IKKYRuP7U1ntowkJp610AHZ49I59cAHitBi0qx0m8dDm5Sher+N8ByPM7IHkwCLVyRccCBcl9bvhZY9flHwTZbeWA2T29CGlCsKQZLV5C3n/yztKboGVEZcNzjVLCOIcQJVRs/XwsXZRMBznKxkC1j5UugcN6oHuFtcpPMxaHu7N6wHqXL9lQjenXKidDZjuGR+pSK7spcwjTyS1GKb88GqPCmpga86oGRQjBBhXiue3MEWAKxI73mplkh50pLIvVa8+hCDIkI7TJxMLsJWCXSfxOZyvqlCJbgTVMX+hQ1GVgs0vXvkvJtqzu4DRGLFgYi6vYew5bz1KxksDw==;t5COFfe2tzxtedWrYsdCiA=="
+secured: "XL8w6NVPPw4u6jcL9bqor1Fo4QOT9jQFcZGGdRPktZPddNMYzKjSR3EXo4frhqc1F8LRae2O5IX9Jivgnm2GQeHwff17bbVjtwrvR1kVpNZdTQbpIZjPqRm4YlsvVLNJJDn/MMQvx0i465B+Jug1/M/Y7OTyIR3CRlkNkF8RbfI717hKp/csGwJNU/DEjkWrIGi0ZriuVLtWjBUAg/jLgicYOU1+N/1NlcQIoY6B4evQv20LEfM20gfFpa3frqvWW+kh4JLgSZT39pB2yu4gxjheqOEzoM9Z4oBj/JgUEbQN35tAgiDohnWF9BRm2WIPCQqgoH8vhNHdCcAvdMM/+qopxAQXj07CKSrcBo3/91Y=;sCFWrNgWKVb4K21ZQKzHPg=="
 ---
 

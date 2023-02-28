@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: the straight shot on facial recognition at MSG"
-    excerpt: "Technology like biometric data and facial recognition software is a new frontier, and we as legislators, are tasked with helping draw the map and create legislation that keeps our communities safe. Using this technology to ban members of the public from ..."
-    publishedDateTime: 2023-02-24T03:27:00Z
-    webUrl: "https://www.cityandstateny.com/opinion/2023/02/opinion-straight-shot-facial-recognition-msg/383293/"
-    type: article
-    provider:
-      name: City & State New York
-      domain: cityandstateny.com
-    quality: 34
   - title: "OPINION: 3 simple reasons the Voice will make a difference"
     excerpt: "It's been over two decades since our last referendum to change the Constitution. This year's referendum is a once-in-a-generation opportunity that lies in the hands of the Australian people, writes Indigenous Australians Minister Linda Burney."
     publishedDateTime: 2023-02-28T03:33:00Z

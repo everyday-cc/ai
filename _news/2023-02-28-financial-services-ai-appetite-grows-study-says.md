@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Opens Up The World Of Financial Services"
-    excerpt: "The way we make decisions on credit should be fair and inclusive and done in a way that takes into account a greater picture of a person.” Here are the ways AI can help assure more equitable access to financial services: Personalize without branches."
-    publishedDateTime: 2023-02-24T05:21:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63f82c8677a4a0073a41444a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Future Of Data And AI In The Financial Services Industry"
     excerpt: "The financial services industry is undergoing a major transformation driven by the latest trends in data and AI."
     publishedDateTime: 2023-02-27T11:47:00Z
@@ -57,15 +41,114 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Sensing The External World At Signal AI"
-    excerpt: "But that is just what Signal AI is doing with machine learning. They produce “external intelligence” intended as an aid to decision-making. It could also be called “environmental sensing.” The London-based company uses AI to disambiguate,"
-    publishedDateTime: 2023-02-24T17:47:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/02/24/sensing-the-external-world-at-signal-ai/"
+  - title: "The AI industry is hot right now. 5 experts share 4 tips for finding a job in the sector."
+    excerpt: "The hype surrounding ChatGPT and new search engines from Google and Microsoft has shone a spotlight on the AI sector."
+    publishedDateTime: 2023-02-25T09:46:00Z
+    webUrl: "https://www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/63f3832f7b15f100194d2b95?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "The Future Growth of the Artificial Intelligence in Oil and Gas Market Size 2023-2029"
+    excerpt: "Browse Market Size, charts, tables and figures extent in-depth TOC with 114 Report Pages on Artificial Intelligence in Oil and Gas Market by Application (, Civil Oil and Gas Industry, Oil and Gas Industry for Vehicles and Ships,"
+    publishedDateTime: 2023-02-25T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-growth-of-the-artificial-intelligence-in-oil-and-gas-market-size-2023-2029-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How is AI significantly changing the Fit Tech industry?"
+    excerpt: "Did you know that the global market for fitness tech expects to reach $29.4 billion by 2023? With the industry’s exponential growth, the need for innovation and differentiation is more pressing than ever."
+    publishedDateTime: 2023-02-26T03:39:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-is-ai-significantly-changing-the-fit-tech-industry/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-is-ai-significantly-changing-the-fit-tech-industry/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-is-ai-significantly-changing-the-fit-tech-industry/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
+  - title: "Zib Digital Explores the Possible Role AI Will Play in the Future of SEO"
+    excerpt: "According to Zib Digital, the leading SEO agency Sydney-wide, one of the most significant ways that AI is impacting SEO is through the use of natural language processing (NLP)."
+    publishedDateTime: 2023-02-27T01:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/02/g31063062/zib-digital-explores-the-possible-role-ai-will-play-in-the-future-of-seo"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31063062"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31063062"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "SKT to Lead AI Transformation in Industry and Society with AI Services and Technologies"
+    excerpt: "SK Telecom (NYSE:SKM, hereinafter referred to as &#34, SKT&#34, )) today held a press conference in Barcelona, Spain, to unveil its ambitious plans to achieve 'AI to"
+    publishedDateTime: 2023-02-26T23:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31062898/skt-to-lead-ai-transformation-in-industry-and-society-with-ai-services-and-technologies"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31062898"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31062898"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "UST to deepen engagement in banking and financial services space"
+    excerpt: "UST saw significant traction in client base and revenue in the past year due to its innovation and personalised approach to financial services"
+    publishedDateTime: 2023-02-24T16:06:00Z
+    webUrl: "https://www.thehindubusinessline.com/money-and-banking/ust-to-deepen-engagement-in-banking-and-financial-services-space/article66548202.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/ust-to-deepen-engagement-in-banking-and-financial-services-space/article66548202.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/ust-to-deepen-engagement-in-banking-and-financial-services-space/article66548202.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://bl-i.thgim.com/public/incoming/2mczxw/article66548192.ece/alternates/FREE_320/Maureen%2C%20UST.jpg"
+        width: 320
+        height: 240
+        isCached: true
+  - title: "Meta to release new interactive AI model for academia and industry labs"
+    excerpt: "Meta, formerly known as Facebook, made the announcement on ... in government and civil society as well as industry research laboratories. In November last year, the firm released another interactive AI model focused on natural science."
+    publishedDateTime: 2023-02-25T10:48:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230225_16/"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 39
+    images:
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20230225_16_1224364_L.png"
+        width: 640
+        height: 360
+        isCached: true
   - title: "The untapped potential of AI in financial services"
     excerpt: "The rapid advancement of artificial intelligence (AI) technologies has transformed business operations across the globe. From customer service chatbots to adaptive cyber-security, the applications of AI are limitless."
     publishedDateTime: 2023-02-27T11:12:00Z
@@ -79,6 +162,34 @@ related:
       - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/024/iStock-1312400050_-_Amount_3.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Meet the first-ever artificial intelligence editor at the Financial Times"
+    excerpt: "\"I want to make AI more understandable and accessible to our readers, so it doesn’t feel like magic but merely a tool that they can wield.\""
+    publishedDateTime: 2023-02-27T17:49:00Z
+    webUrl: "https://www.niemanlab.org/2023/02/meet-the-first-ever-artificial-intelligence-editor-at-the-financial-times/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 38
+    images:
+      - url: "https://www.niemanlab.org/images/background_of_lush_hedge_maze_simple_illustration_wi_97ed11c4-edea-4d42-8739-1d23cd30e34b@2x-5-700x467.jpg"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "Artificial Intelligence Executes Plans To Transform Into Oil And Gas Industry"
+    excerpt: "Artificial Intelligence, more commonly referred to as AI, has already begun saving oil and gas companies millions of doll"
+    publishedDateTime: 2023-02-27T09:49:00Z
+    webUrl: "https://menafn.com/1105653533/Artificial-Intelligence-Executes-Plans-To-Transform-Into-Oil-And-Gas-Industry"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/updates/pr/2023-02/27/TP_c125eimage_story.jpg"
+        width: 600
+        height: 302
         isCached: true
 
 secured: "2FPC7oKrZj7I3PVJIJHhlvI11HZw/LR0qIYUzF82WmUoYV48CNA9sLrYfLuJYBbhmlX0BDOJHSGnDWprVaP+eKtPk62X2tF7bGjx00KXc7AjxHSt75R3AWBnhu+mgeaEDbR27Sb1LRXxLTw2+W+33p/z7rSP9I+wGDgO/3FVo7miwoyLoTXm4fuEvHAmXBc5v1akXjFE3n/2Rf7c2S52PcYPcUvsGaEYvy5Qi7HFFLDXV0bZ3NOhXWDklJOp3GGqyYWo//JRMra/qWSCnyoFEPnO0OkU1w1j8nxPrLweVxUFsthxl90OLaxdf7I5brimCLAzvLGvGYXe6N/IHNJyv6oUNwgPO/yWgBXQY3JlYAEmlGEnAi2n7Gv9Pb5aGYeLkx01BL2umxdo3bfni7W/egaHgGE5w9O2yxdC5LuOY1IXp7KOzUtDCC+giHvA3Z+mikdt/YiBTmkZy9yuaLfYEOd3dG+F/TosUaqGzJFEAL2wvArtO68ERsqiak50SIhaPhpxrVslNHuFjAog5zmaJg==;rwqqkNS0hhdfuej3Yw0HmA=="

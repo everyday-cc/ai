@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T19:12:00Z
 originalUrl: "https://www.cbsnews.com/essentials/get-keurigs-premium-k-cafe-smart-brewer-for-20-off-on-amazon-now/"
 webUrl: "https://www.cbsnews.com/essentials/get-keurigs-premium-k-cafe-smart-brewer-for-20-off-on-amazon-now/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: CBS News

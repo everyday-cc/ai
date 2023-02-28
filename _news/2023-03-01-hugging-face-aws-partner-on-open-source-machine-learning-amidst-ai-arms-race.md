@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T20:47:00Z
 originalUrl: "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/"
 webUrl: "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/"
 type: article
+quality: 80
+heat: 80
+published: true
 
 provider:
   name: VentureBeat

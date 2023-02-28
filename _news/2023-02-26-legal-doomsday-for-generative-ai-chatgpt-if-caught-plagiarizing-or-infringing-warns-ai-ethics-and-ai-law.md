@@ -80,6 +80,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips"
+    excerpt: "The fascination with generative AI has spring-loaded demand for products that can help deliver on its promise. And startups are primed to pounce. ‘There’s new openings for attack,’ says one venture capitalist."
+    publishedDateTime: 2023-02-27T20:49:00Z
+    webUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
+    ampWebUrl: "https://www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-732623/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Snap Warns Users About ChatGPT As Coca-Cola Adopts AI, Banks Ban It"
     excerpt: "Snapchat has added ChatGPT to help users plan trips and birthday gifts, but warns the AI can be tricked into saying anything and that it should not be relied on for advice. Other companies like Coca-Cola are going all-in,"
     publishedDateTime: 2023-02-27T20:27:00Z
@@ -111,20 +127,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/9cafdb325bf2a75205d177ac0dd168bec62eeee7/hub/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips"
-    excerpt: "The fascination with generative AI has spring-loaded demand for products that can help deliver on its promise. And startups are primed to pounce. ‘There’s new openings for attack,’ says one venture capitalist."
-    publishedDateTime: 2023-02-27T20:49:00Z
-    webUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f?tpl=vc"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 84
-    images:
-      - url: "https://images.wsj.net/im-732623/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "What Elon Musk, Bill Gates, and 12 other business leaders think about AI tools like ChatGPT"
     excerpt: "While some business leaders are excited about AI's potential for good, others are skeptical, unimpressed, and even scared about what the tech can do."
@@ -525,6 +527,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Investors are going nuts for ChatGPT-ish artificial intelligence"
+    excerpt: "Not a week goes by without someone unveiling a “generative” artificial intelligence ( AI) underpinned by “foundation” models—the large and complex algorithms that give Chat GPT and other AI s like it their intelligence."
+    publishedDateTime: 2023-02-28T20:29:00Z
+    webUrl: "https://www.economist.com/business/2023/02/28/investors-are-going-nuts-for-chatgpt-ish-artificial-intelligence"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 37
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230304_WBD002.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tencent Sets Up Team to Develop ChatGPT-Like Bot"
     excerpt: "Chinese internet giant Tencent Holdings has set up a project team to develop HunyuanAide, its own ChatGPT-like artificial intelligence bot, and to advance special research, including pre-trained models."
     publishedDateTime: 2023-02-28T11:54:00Z
@@ -584,15 +600,6 @@ related:
       name: PC Tech Magazine
       domain: pctechmag.com
     quality: 14
-  - title: "Is ChatGPT ‘woke’? AI chatbot accused of anti-conservative bias and a grudge against Trump"
-    excerpt: "Meta to restore Trump accounts:Trump Facebook and Instagram ... incorrect,” said Jake Denton, research associate with the Heritage Foundation’s Tech Policy Center. But, he says, what happens if ChatGPT or another AI chat feature replaces Google ..."
-    publishedDateTime: 2023-02-24T04:31:00Z
-    webUrl: "https://www.statesman.com/story/tech/2023/02/09/woke-chatgpt-conservatives-bias/11215353002/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 9
   - title: "China says it sees the potential of ChatGPT-like technology"
     excerpt: "BEIJING--China's Ministry of Science and Technology said on Friday said it saw the potential of ChatGPT-like tech and would be pushing for the integration of artificial intelligence into Chinese society and the economy."
     publishedDateTime: 2023-02-24T08:39:00Z

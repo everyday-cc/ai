@@ -196,20 +196,6 @@ related:
         width: 800
         height: 494
         isCached: true
-  - title: "Meta to release new interactive AI model for academia and industry labs"
-    excerpt: "Meta, formerly known as Facebook, made the announcement on ... in government and civil society as well as industry research laboratories. In November last year, the firm released another interactive AI model focused on natural science."
-    publishedDateTime: 2023-02-25T10:48:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230225_16/"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 39
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20230225_16_1224364_L.png"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Meta enters Big Tech AI race with launch of language model LLaMA"
     excerpt: "Meta Platforms Inc, the parent company of Facebook, Instagram and WhatsApp, is releasing a new AI tool LLaMA, short for Large Language Model Meta AI,"
     publishedDateTime: 2023-02-24T15:59:00Z

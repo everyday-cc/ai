@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T20:36:00Z
 originalUrl: "https://www.theaustralian.com.au/higher-education/ai-professor-anton-van-den-hengel-mixes-uni-with-business/news-story/0593343367fb01f66c0096c45a31329a"
 webUrl: "https://www.theaustralian.com.au/higher-education/ai-professor-anton-van-den-hengel-mixes-uni-with-business/news-story/0593343367fb01f66c0096c45a31329a"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Australian

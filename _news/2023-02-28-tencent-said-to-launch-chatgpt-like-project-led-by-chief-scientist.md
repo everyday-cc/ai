@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "ChatGPT: A Potential Game Changer for Call Centres"
+    excerpt: "Key use cases With that in mind, what are some of the top use cases where contact centres can leverage such advanced language models in the near to more distant future? While the clear advances ChatGPT makes over current chatbots and virtual assistants are obvious,"
+    publishedDateTime: 2023-02-28T22:44:00Z
+    webUrl: "https://www.finextra.com/blogposting/23821/chatgpt-a-potential-game-changer-for-call-centres"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
+
 secured: "RaYoRYplju7VBKth4GxLnfqpjdjPpBuxjOHlKR5g0UW9qUu+cWZHGAN05OwUF7LCfVD+eXEKdX+CeAudVMjDy8DcNH/mLUVFEoiELksnM0KvZTSeTpyT/NJXmZAv552BOaucHcAe8GHU4rmo8vdF4VeSFRUg86qjwvwmNC0OcOR9OGq9Fhkvyegu/Fh/NtwAd3OHsz0kbcNwJO/xxyHNDvgAiuwyxyyFL5aNq6nBpXVYMaUyrQZE3v8yngGuJN7RoxDSui8yJAy2gnxHGBIGTCV5QWHy3vzDC58CLKvuUS1kQEz19Z85vLckRqyX6xMEd9cgu2kSps66akAwpR5oqPBbnfauXjw7grMrDhJ2RCM=;2c0zGJ2PccCHUFC662uAFA=="
 ---
 

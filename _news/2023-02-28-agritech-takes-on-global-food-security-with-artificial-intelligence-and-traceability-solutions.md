@@ -25,17 +25,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Perth agritech startup Aquatic AI to take WA delicacy marron mainstream globally"
-    excerpt: "One of WA’s most quintessential delicacy, marron, could become synonymous with Australia the same way meat pies and Vegemite toast are."
-    publishedDateTime: 2023-02-24T05:48:00Z
-    webUrl: "https://thewest.com.au/business/startup/perth-agritech-startup-aquatic-ai-to-take-wa-delicacy-marron-mainstream-globally-c-9738990"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 12
-
 secured: "mQwZVJ3UPC6RmmNnph+WpH1IKSeG28bZ4wSEc03KHcNArI9TMOEPIGs4UhqhODglK8yOOmMUDhd12ko+ATr7wakaPMrMY0YdSuRq2WNmI4blAeGOkIw5pcFxtuuPUOwX1NC22j5egYEap8PtzqNp83nW8n/jTCw+UOe30syPLowPT2Fz/cdU+tEMlr9O5WGgKF0CLq+1ma7+LAMsifjgcaRzvlMIuC9BjnxrhvWXJJZzNDl6ZSaLr+DHqmIN1+UCdh1mTus6FI+aX7yXnJewDqVzIwif7Na21DofF05stwFYEl4TSelKYgksVQUcjF0+jU/rh5qvywHTrL5mD0WW+EO8lo7IZLm7lQ2P8k8sJ64=;IAqzn9liCT/aztzkIJIyGA=="
 ---
 

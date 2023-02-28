@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla Pauses Rollout of Driving-Assist Software"
+    excerpt: "Tesla Inc. has temporarily stopped rolling out its $15,000 driver-assistance system until it addresses issues that led the automaker to recall almost 363,000 vehicles. The pause affects customers who have opted in for Full Self-Driving Beta — a support feature for drivers who are responsible for operating their car at all times — but have not yet received a software update containing the feature,"
+    publishedDateTime: 2023-02-28T20:03:00Z
+    webUrl: "https://cacm.acm.org/news/270433-tesla-pauses-rollout-of-driving-assist-software"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "/LYafzKizWuFHWECHnOf1PWHV89i9wsP5P6st6iiDuqEYtPA12fqaWOPYKtcj9d054MgEcf5ARK84X0+zV64qaFJgp3KehbNehQI1r3KiLvWGu551VDdsk371i474ImN5x2HbRYqydWkITszF/mU+TAAdTmRZ6nrix4mjJa2H0rs7SVcA86+bY/mhG30V7i6xtcZ6f8/jE6apI+HTMRdQkF5CmctCjbFc33d8hiZETXBNRlV/X779WMAJoBsLS4e+l/1BFedLBhxuhiyA5cNr27itCsr0JqKS3sImoOGkU0I0r7YMW7lhghteq8MXAXdxEtmLpEZ7QZ5Sc5XMLDmh+Ilb59nbjPfLmWsQmP7L2F0u3lgWF/4wTWcH6VbATTlAIKpoXF7xhYMDjGVwrxOv329me4QuFrcZprLu0LSTFkK3TLRLR7Q6GObGioBRgeRqXamIsOX3hcka89GkD3np/iWeC4im51bDZ8iL8BXzmIU2sEcJLKO+gS0UKzzatVi/QIDlBJ4RYry/YGS7UByzQ==;awNs0cNz9TuRb9/OceMCqQ=="
 ---

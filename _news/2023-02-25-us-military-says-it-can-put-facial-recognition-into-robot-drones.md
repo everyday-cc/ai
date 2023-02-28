@@ -150,6 +150,15 @@ related:
       name: CBS News
       domain: cbsnews.com
     quality: 19
+  - title: "TTD to introduce facial recognition system today"
+    excerpt: "TIRUMALA: The TTD is set to introduce Facial Recognition Technology on an experimental basis at Vaikuntam-2 and in the Accommodation Management System from March 1 onwards. The idea is to"
+    publishedDateTime: 2023-02-28T20:09:00Z
+    webUrl: "https://www.thehansindia.com/news/cities/tirupathi/ttd-to-introduce-facial-recognition-system-today-785467"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 19
 
 secured: "nf4GNx0EtgRIKvXuYTsuArOi1TGksyIQaE82RKnm6MuQBvTpTaocqijBal5Q1jIlkjLng+cVaLn+MsWeQR4R/2OeuhHT/QynYDyH2Dy4OdLTniqsMgd1qavBQI/AnBmFI7TtBa9I6VELU2NibSXXaO9F2bMqtt1pN1On+plvnMH1VNntAS5/EI4LygDNm/bvxGA1nk7lMYY290Mw3cgD2jJrntgNUDwo+4ktTq1gbDaGq5GuG27QT8zO+SpxxmoAl3w3NmSanPzVnXUBYcyKqMhDPBwLZ4/UKC7QkmRsO7cgxLxWZB/GNUP1IcU7isPEnSpoLPMeyDMzjaOWsPwDCus8irQBQhKtDHb3/ow+vp5tVGUpTikPOj/hBb0b9ijMRVXWuZx0h4h7H+ugTMvIEhBknkAEokZoHrWedWr02ZKfPcxC7zBnlGNbT9HvbtwW0d1Vp+GuJvuDfiiOCTYtzl03EKpgcXldBofbOocn2K45LHF+6NkPjwGVKNmzUZ35e3cjCbJM39hehC42I7DXvg==;o010oSIq39V/0K6oTtZ24g=="
 ---

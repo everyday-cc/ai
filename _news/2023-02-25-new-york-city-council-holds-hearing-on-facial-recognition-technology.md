@@ -149,6 +149,15 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 34
+  - title: "TTD to introduce facial recognition system today"
+    excerpt: "TIRUMALA: The TTD is set to introduce Facial Recognition Technology on an experimental basis at Vaikuntam-2 and in the Accommodation Management System from March 1 onwards. The idea is to"
+    publishedDateTime: 2023-02-28T20:09:00Z
+    webUrl: "https://www.thehansindia.com/news/cities/tirupathi/ttd-to-introduce-facial-recognition-system-today-785467"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 19
 
 secured: "L9TzqtEd/NG9/hKhBzwQ9Nd0zSXbZjSDl/UTCmHThjnUALNTjfUGj1dGx70AXRDmRR9S4pZicDOkN2gGvTyIMCX6vyqlfmP0u+RhjxtPsj2/mINbii9Lco/wLlGcQs0eKce163vtmPVuHajcU0hF+nkTY5FzTO9Ng2AX9yUD0+ykW0wVtEYlomy8Xc+CUtSxoUHmmxGxXKWpTD3WVhYhD84VTeh9T29UFqrRakglXlGZX9uEbC1FlfQAyxoCMJMIzuQV8d8kc/jppPV0cmObukBzZdi/bd1R3p9SGmkkypbzq2232A/mpj0y84wtfrQGtsCxB5xuZFJMani3hlSNq1aTlnly5HY9zb1ttueD1UKdFEarUQr8KC4tcCMP5NC33F+bQSdzvHTbIWhK47g5SjaDwP18ycxRI2A/RF/VcZpKM13EONG+9Einy/TwqJNs5hu11MvFXgxcpPnR4DeoywW3mqobqKdG37UKnjMkCzqkn51vN4J2Y2xLQms7PQVNefsQ9dvqtfyErYbPhqPjJQ==;asQacLlsR/JIDI+iYb9ZOw=="
 ---

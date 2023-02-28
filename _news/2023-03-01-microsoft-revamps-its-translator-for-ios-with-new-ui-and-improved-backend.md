@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T19:03:00Z
 originalUrl: "https://www.neowin.net/news/microsoft-revamps-its-translator-for-ios-with-new-ui-and-improved-backend/"
 webUrl: "https://www.neowin.net/news/microsoft-revamps-its-translator-for-ios-with-new-ui-and-improved-backend/"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: Neowin

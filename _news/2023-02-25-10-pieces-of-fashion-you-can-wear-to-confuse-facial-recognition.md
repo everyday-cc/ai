@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-m
 webUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479"
 type: article
 quality: 69
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -153,6 +153,15 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
+    quality: 19
+  - title: "TTD to introduce facial recognition system today"
+    excerpt: "TIRUMALA: The TTD is set to introduce Facial Recognition Technology on an experimental basis at Vaikuntam-2 and in the Accommodation Management System from March 1 onwards. The idea is to"
+    publishedDateTime: 2023-02-28T20:09:00Z
+    webUrl: "https://www.thehansindia.com/news/cities/tirupathi/ttd-to-introduce-facial-recognition-system-today-785467"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
     quality: 19
 
 secured: "/o+ssxTKSogn0TbUbqWcdWQTxLD/j4rCzB1vp19+NFKY+U46u/QJ9oqdnqBvm1LSFOJpKLtPArm+VYTA5nMrrVptlIklrlELIoVZaur9x6RocR8oGqpPhgXh0QUrtKr9tiqXjzxYFyRObietnzYwWuyLd3kSkD4uB0tiRU2ytXOBMUFF7l0+43J2xGxF/kZuBZpXs5mOyJiLVr9KVfeb8X/eqqlU8HYo96KbM60hdppQTVZB9SrSPJMoSQSinpTSRdPJ2O4Ea7RhiVHeZI0IKLRUlhJY0m6v4ujr8ptL/u1F8cqGrsMIi/JGQ37QTk0jsB8i445ngNeeB1NGyTE72UFUDuR9alFdvERWkNnVaLhmGeRAnYRmDfbDuIEhdb5NDkpB8IP2rau/T7JrdK7ByySJbngLp0DsuTMMM2XD4hDOTYdKHcSlx6eb42To5lCmYufiByXmCmiXRMpeh+aJtq0IAth5IxxrihEvKN9E/qeqBVqHojTzPo5wEZGELgjvCdtZhgrX3F3KOzNJikMJ4g==;LWg93nLHZ9mYIzxcnRGB6Q=="

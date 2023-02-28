@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla shareholder suit says Musk and co. lied about Full Self-Driving safety"
+    excerpt: "A class-action complaint alleges that Tesla and CEO Elon Musk repeatedly made false statements about the capabilities and safety of the electric carmaker's Autopilot and Full Self-Driving (FSD) technology."
+    publishedDateTime: 2023-02-28T21:29:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/02/tesla-shareholder-suit-says-musk-and-co-lied-about-full-self-driving-safety/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/02/tesla-shareholder-suit-says-musk-and-co-lied-about-full-self-driving-safety/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/02/tesla-shareholder-suit-says-musk-and-co-lied-about-full-self-driving-safety/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/04/getty-tesla-fremont-800x495.jpg"
+        width: 800
+        height: 495
+        isCached: true
   - title: "Tesla disappoints owners with updated language around ‘Full Self-Driving Beta’"
     excerpt: "Tesla has updated some of the language around its “Full Self-Driving Beta” program following the NHTSA recall, and some"
     publishedDateTime: 2023-02-27T15:29:00Z

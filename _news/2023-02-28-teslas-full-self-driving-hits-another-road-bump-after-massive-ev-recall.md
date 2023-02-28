@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla shareholder suit says Musk and co. lied about Full Self-Driving safety"
+    excerpt: "A class-action complaint alleges that Tesla and CEO Elon Musk repeatedly made false statements about the capabilities and safety of the electric carmaker's Autopilot and Full Self-Driving (FSD) technology."
+    publishedDateTime: 2023-02-28T21:29:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/02/tesla-shareholder-suit-says-musk-and-co-lied-about-full-self-driving-safety/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/02/tesla-shareholder-suit-says-musk-and-co-lied-about-full-self-driving-safety/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/02/tesla-shareholder-suit-says-musk-and-co-lied-about-full-self-driving-safety/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/04/getty-tesla-fremont-800x495.jpg"
+        width: 800
+        height: 495
+        isCached: true
   - title: "Tesla, Elon Musk sued by shareholders over self-driving safety claims"
     excerpt: "In a proposed class action filed in San Francisco federal court, shareholders said Tesla defrauded them over four years with false and misleading statements that concealed how its technologies, suspected as a possible cause of multiple fatal crashes,"
     publishedDateTime: 2023-02-28T03:11:00Z

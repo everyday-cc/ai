@@ -27,20 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Executes Plans To Transform Into Oil And Gas Industry"
-    excerpt: "Artificial Intelligence, more commonly referred to as AI, has already begun saving oil and gas companies millions of doll"
-    publishedDateTime: 2023-02-27T09:49:00Z
-    webUrl: "https://menafn.com/1105653533/Artificial-Intelligence-Executes-Plans-To-Transform-Into-Oil-And-Gas-Industry"
+  - title: "AI learns to outsmart humans in video games - and real life"
+    excerpt: "Video game players have competed against computer-controlled opponents for decades, but they haven’t been as smart and fast as GT Sophy, the new AI driver on PlayStation’s Gran Turismo."
+    publishedDateTime: 2023-02-28T20:11:00Z
+    webUrl: "https://www.kansas.com/entertainment/celebrities/article272612603.html"
+    ampWebUrl: "https://amp.kansas.com/entertainment/celebrities/article272612603.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/entertainment/celebrities/article272612603.html"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2023-02/27/TP_c125eimage_story.jpg"
-        width: 600
-        height: 302
-        isCached: true
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 39
   - title: "AI learns to outsmart humans in video games - and real life"
     excerpt: "Speed around a French village in the video game Gran Turismo and you might spot a Corvette behind you trying to catch your slipstream. The technique of using the draft of an opponent's racecar to speed up and overtake them is one favored by skilled players of PlayStation's realistic racing game."
     publishedDateTime: 2023-02-27T15:49:00Z

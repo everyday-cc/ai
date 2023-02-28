@@ -79,6 +79,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2023 Global AI In Computer Vision Market: Most Recent & In-Depth Analysis and Forecast of Industry till 2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 24, 2023 (The Expresswire) -- The \"AI In Computer Vision Market\" Growth for 2023 research report provides a comprehensive analysis of the market. Besides revenue ..."
+    publishedDateTime: 2023-02-24T17:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-global-ai-in-computer-vision-market-most-recent-in-depth-analysis-and-forecast-of-industry-till-2028-2023-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
   - title: "Telecom Artificial Intelligence Software, Hardware and Services Market New Innovations and Future Expansion 2023-2028"
     excerpt: "The report titled Telecom Artificial Intelligence Software, Hardware and Services Market which was recently added by 360 Research Reports, aims at providing the clients with the business growth and investment opportunities present in the market globally."
     publishedDateTime: 2023-02-27T00:26:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/31095754"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31095754"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1043
     height: 1043
     isCached: true
+
+related:
+  - title: "Torc to acquire Canadian computer vision firm"
+    excerpt: "Blacksburg-based Torc Robotics on Tuesday announced it will acquire Montreal-based computer vision company Algolux Inc. A purchase price was not disclosed. Torc, a self-driving truck company, is an independent"
+    publishedDateTime: 2023-02-28T21:04:00Z
+    webUrl: "https://www.virginiabusiness.com/article/torc-to-acquire-canadian-computer-vision-firm/"
+    type: article
+    provider:
+      name: Virginia Business
+      domain: virginiabusiness.com
+    quality: 19
 
 secured: "Ty0D38oowYG57XLM3tzoYpjDPCCYfOhz6PI3gBI1tOPhoFfh0wfzcUK6jLrAKcOvCIGRz7nFJ5oFWDlw6FEMW1MZ+paji/Iv7NeSyNkHZKLrtqc/Dn0uB1uNq4DEzpiVgcgdl8GFXvMNfkaowLSYJPugLOuBmfkvsM2PmC3vnAmpJRuEyXVmhk50j60CSei268IlYE31/UtUdjFa9Www0prG2MRqvVu/0A5YkW5QfVzG1FE0XBhn+vIdyG+pKdNecUSNFCHTRj1imGdad1ddsCw6aQIKMh2PwUTLa+sRN7VsgMqC4nMjrgMpjM+5lhI7FbFN+2QKy/AadboV3nHyERJFe2VauU3955GiKkBMBdE=;ZlDkMgoRj93/QWQ7KaNsxA=="
 ---

@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AMD: AI Chip Boom"
-    excerpt: "NVIDIA ushered in an AI chip boom with an inflection point in the current quarter. AMD announced several new AI chips in the last few months with plans to accelerate development and new product releases during 2023. The stock only trades at ~13x normalized ..."
-    publishedDateTime: 2023-02-26T10:13:00Z
-    webUrl: "https://seekingalpha.com/article/4582169-amd-ai-chip-boom"
+  - title: "The FTC has its eye on AI scammers"
+    excerpt: "One thing we know about hot marketing terms is that some advertisers won’t be able to stop themselves from overusing and abusing them.'"
+    publishedDateTime: 2023-02-28T20:59:00Z
+    webUrl: "https://www.popsci.com/technology/ftc-artificial-intelligence-warning/"
+    ampWebUrl: "https://www.popsci.com/technology/ftc-artificial-intelligence-warning/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ftc-artificial-intelligence-warning/?amp"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1345658982/image_1345658982.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 864
+      - url: "https://www.popsci.com/uploads/2023/02/28/Depositphotos_128235346_L.jpg?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
 
 secured: "NMgs6CwqA9kFIz6sZeFdRvaAtTSZWVaKB8lWC8dcLjey5eSSQyYY2YQRvx7a5MWgs5DWveza4s1YVT3R8brs+uIoqTjIQnx0/kcQUN9nrtl/MchDZFW6iNhkYkA1IA3cjGG9u8FaSADQDRo/K5T/xgWC9+RlntHy73ZES+cFtyChpUP8ee/Y76Md7SuiKpkueTPisaoaIHb67gHXTPbzZWr5ulJRizRL/SKie5c0RPzSgFM9tMLKaogtsXj603tO+MaRviLhv56u/3Vc7v9cbqdzOUldk1gF0Kn2ByQX9bVJGzsLxLw5IeJmStNMOqbc5EFiPs0cVHQ1IpatpQNNy8D5ahWriewN1mC1wNQxiSqdKpQwcLtuq9chqGj6QppkvM8xLjYoHSWQKCMnIjQ8ihionUtzzfBi12UmDXm4VPWgJKVUZ0n3o8dxiT8Gpj9TPjLyECAO332FHQ5Rwr8XMcTJZSnI4zMRAT1JmMA5XFGXUYAzKFsZ8aI0DWaIjPDyEPC6eZtE3zpHjoa2/41vVw==;h450fzddTVzFp6vOofcOHQ=="
