@@ -67,6 +67,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "Facebook owner Meta to form AI product team as chatbot competition heats up"
+    excerpt: "The chatbot battle is heating up, and Mr Mark Zuckerberg is making it clear that Meta Platforms is focusing on artificial intelligence-powered tools too. “We are creating a new top-level product group at Meta focused on generative AI to turbocharge our work in this area,"
+    publishedDateTime: 2023-02-28T03:53:00Z
+    webUrl: "https://www.straitstimes.com/business/facebook-owner-meta-to-form-ai-product-team-as-chatbot-competition-heats-up"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/02/28/FILES-US-FACEBOOK-INTERNET-COMPUTERS-SANDBERG-203002_4.jpg?VersionId=XERuVRuH2GzwS813mxRp1.a0uRldSeIp"
+        width: 860
+        height: 573
+        isCached: true
 
 secured: "XsUyqzAvSE+gtVew4V91aZz7NluEoEGQOT6FS80y4rtpQmAHQzsaUAXCHYnQBtBxtrkmrDpJP5G8o99jbLPG+72DJNgU4v8U0+59YAKwcYLDGx6ceZZ9IDCdXHslcHIM8QoLlB3SyZmbDCdn0CRcb32kSXqwVxiVS0eVoQ/E9zUPBZsRR/rI/pBOhHykbn6xnvuGrZVntu4FKZc7uRSx8/FoGFk5Sp4ugvK/Kf5km232JdO3tq8//VnFcNjajIGhw4e+x/D2Kd/evnCp0Aes/+NvBA/Pg3kJFBop7Pis6ru2UNZr2e52JwFhrcDO1qSy2h0eo5aCoHeBj3gW3JjXO2yrKjY28ar5KEUazw8pyfNKyMJAaXda3avQrgzVtoY6Cj+aXBjYJfKVsl3rigOApj7/06VWoRGsOAXqdbAlAQo+34Wr0Lg3EN5SNTrz6HIt26ic8yIwDpRhfx91v/hMxJJDvqtXcTzmRZbntPT4kwOkq9n34QVyW0lPyf8suHGa9JF3TT0P47vTv8PuMuN0GA==;rYGsUsh4SOLYKnCmAT1jMQ=="
 ---

@@ -44,6 +44,20 @@ related:
       name: ロイター
       domain: reuters.com
     quality: 34
+  - title: "GM’s plan to deploy self-driving Cruise Origin on hold as feds weigh exemption request"
+    excerpt: "General Motors' mission to get 5,000 self-driving Cruise Origin vehicles in cities nationwide hangs on whether federal regulators will grant the automaker's request to exempt the vehicle from ..."
+    publishedDateTime: 2023-02-26T06:11:00Z
+    webUrl: "https://www.freep.com/story/money/cars/general-motors/2023/02/25/gm-factory-zero-cruise-origin/69893597007/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 16
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/11/17/PDTF/0eba710a-4e07-450d-8f32-cf5ac8aebd4e-FactoryZero_111721_kpm_123.jpeg?auto=webp&crop=2399,1350,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "I8EtKCC85rRavLC2hJ6F38DtNGRsxmXyzHtNzizgEAJ5ceww++YE4L+xjjssNWyTsFNP90wZ7KTKAwHQ6vX7+00sZU4PIDh/CJM6T8VJ0I0X1rg5OxDB+OQEmW/lDq/jhuJGIEB7I9uiU04PM1DCKJQYZBkIUAm1QSX2yrQeEtNkfeA00ssgMXVsqmWvMEDlJJES4RH6VBYNyh+3ST76BWY0ZF+IRVRKROQs0oA2kzrMaNyov4rTDqivCVyhjXAK5R4gV3M1gaVSPHaonSUkvqhMQuRRNj6/Cewd1QX1/vZy0krkdLsRo4l0A4DV2dLnLC4v3ZVYqJZnfuFAo4wttrOrb5g04R90r1D8aF+oT8M=;gkUbjSaxhqiYeFLObgL5DA=="
 ---

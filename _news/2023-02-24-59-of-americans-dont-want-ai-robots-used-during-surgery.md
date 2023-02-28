@@ -39,15 +39,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Most Americans Wouldn’t Trust Their Health Provider’s Use Of AI"
-    excerpt: "A Pew Research poll reported on by the Hill shows a majority of Americans wouldn’t be comfortable with health providers relying on artificial intelligence as part of care — only 39% would be"
-    publishedDateTime: 2023-02-23T12:58:00Z
-    webUrl: "https://khn.org/morning-breakout/most-americans-wouldnt-trust-their-health-providers-use-of-ai/"
-    type: article
-    provider:
-      name: Kaiser Health News
-      domain: khn.org
-    quality: 19
 
 secured: "663iCdZ/U1G3680HN2uqSD4OV0Rp5SaKbMG4WEKvrWSgTQbHH9guaantYcf7P4stR0dJsLjgelNTBQVuZFhReJyjsrBSA2c5TFNJnBraUG6SGLeMmR3B43ytxDCaD7MXkJ5E4quk8todFFUuh5iYkpj7r8WQCD2YIXgMy7yg5E177MgKfhoDoWc3L4hdTaKE/ifNg1SNs4dUJja5nULrQ2vOQmVd9gw4Ewhf1PL9S8NWL4Hyp2vIbfkA9ifS9PRbl2JlAJIInayUwYfXn6I7d16xSkMBnpg3FORgGokC8VONzILN4nBy01S4UNdgTkXEKPGkQz0tctl17AGqOv3whx+w3wIEgycinDyI0GYNzKY=;OUzbiBYwmr/YfkQbpOoqAQ=="
 ---

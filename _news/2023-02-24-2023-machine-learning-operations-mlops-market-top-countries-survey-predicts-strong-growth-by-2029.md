@@ -65,15 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
-    excerpt: "Feb 23, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market\" Research Report 2023 Provides a Basic"
-    publishedDateTime: 2023-02-23T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
 
 secured: "ytM1OcT5fqi53jvZ6/IT/IwlDBOu+H3LDO8y6ANkHOuC8+6SNi4nvrq+lv9ApNXG+3KJdAsj3SliViX9MHxFyfX8Yh1WX6nReycBMynpY/yAY41UT+w41Hrfqb/kx9duiTdB2f3V/SvSjJUCooSjEzYi831S0482er4LRM+YsaX+D1c3a5hLaxrcC2T7cxPj6HTDcZ8b6UyH1DCKTbLEl/hjzkwsIQhKoq/EGTS7lhfRNGufbfR2S2F9kastZbZCs+a8CFmvUiIN0v24XFtHevJsoTftyqjcC942yF9pagoSzGDW3X0SuJN657CIqU2FCvlTgTcSBMlUYRpM+baAIJnXglByfTk8ooK9JgtoAZU=;eAmIcGHnfI+9W3ur2D8R8A=="
 ---

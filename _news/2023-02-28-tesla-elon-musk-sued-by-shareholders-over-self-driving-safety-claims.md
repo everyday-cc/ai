@@ -2,28 +2,28 @@
 category: news
 title: "Tesla, Elon Musk sued by shareholders over self-driving safety claims"
 excerpt: "In a proposed class action filed in San Francisco federal court, shareholders said Tesla defrauded them over four years with false and misleading statements that concealed how its technologies, suspected as a possible cause of multiple fatal crashes,"
-publishedDateTime: 2023-02-28T01:17:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html"
-webUrl: "https://www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html/amp"
+publishedDateTime: 2023-02-28T03:11:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims/articleshow/98290038.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims/articleshow/98290038.cms"
+ampWebUrl: "https://m.economictimes.com/tech/technology/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims/amp_articleshow/98290038.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims/amp_articleshow/98290038.cms"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2022/06/ElonMusk.jpg"
-    width: 1280
-    height: 720
+  - url: "https://img.etimg.com/photo/96809521.cms"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -118,6 +118,6 @@ related:
         height: 630
         isCached: true
 
-secured: "SzPSHsv+CX3k5ytryEF3wQBLs+/2Uz3/2MocnrCvjhvZRgchQwpTsVjfBIfG7bX8V7Fkqu8OjzDvM2KgCPfnIwTQZzKhZYMBzbzvwygHnYimXhN6wZQ1zb2h3qD8gnu4f5RWCp0fpbJzyLc0ISYHGOplO3ZDHMecJFPmSg30iErO+RDXcWgffb0/LrfpNBsj4RmQMOs17yf0+a9c067NyjAbT1bZnqQtM91WA0fZq1k4M6ztuw8FmMfZi0LntkCTCVXQPuvPYr+YygC30fZsYoF1E7wpbXVmQYEirCdgmm5mE54fqFPAUXv1ic4nMu17lDsYfc4laTAWkVc5TiL45x30Al1HDHu5qk0UTEXUtmk=;ikIalsKx/o8/K6t3fJH+1w=="
+secured: "XBnewrz6Jasgd/OuooAY+/Oki08h9FCut1a9LQQkk8Q2hcTOONv/AS0rPMupyvUmw6vDkGZ+hbx5gaZgpzNXTXndeILEujMeoAKJabZ92cdRjQdUFf01RVFW7j6ENAmfGjxL6EjvSBLnAuW+vP1ko371COgo2f6/8jQ0c3stoBc566lAooVcQKjlWOU74OiPc31e/UxWqaQmyFuAGXxBhSi3l3shSXMYEAWU3mBp/4LUr+0hA0K4qZPYGAwR3HwYZxXL3WiMpaHqlCVAuP5slnpY/RniqZFKpo3J9TxFuR1W820DpxGY4czfylAAkDhQXI0iJn5/23SJk+PRlLlDd7EfURncRdKlg+bdtS74BV4=;wicBA7gpPTIQMb00QRWEFA=="
 ---
 

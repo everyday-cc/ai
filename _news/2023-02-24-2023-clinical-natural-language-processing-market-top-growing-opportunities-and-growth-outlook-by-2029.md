@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Access Control Terminal Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Face Recognition Access Control Terminal Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Internet & Communication] category in the industry, by Type"
+    publishedDateTime: 2023-02-24T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-access-control-terminal-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
     excerpt: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market 2023 Will Provide Report Analysis that quickly emerging as one of the [IIII] category in the industry, by"
     publishedDateTime: 2023-02-25T06:31:00Z
@@ -46,6 +60,29 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+  - title: "Speech Recognition Market Booming With Rising Demands and Massive Opportunities, 2023 - 2029"
+    excerpt: "Speech Recognition Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Semiconductor & Electronics] category in the industry, by Type (Speaker Dependent,"
+    publishedDateTime: 2023-02-27T02:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-booming-with-rising-demands-and-massive-opportunities-2023---2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+  - title: "Speech & Voice Recognition Systems Market Booming With Rising Demands and Massive Opportunities, 2023 - 2028"
+    excerpt: "Feb 23, 2023 (The Expresswire) -- [93 Insights] Top “Speech and Voice Recognition Systems Market” Size 2023 Key players Profiled in the Report are [, Dictation, AbilityNet, Microsoft, Alphabet, Sensory, Iflytek, Raytheon BBN Technologies, Nuance,] most ..."
+    publishedDateTime: 2023-02-24T05:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-systems-market-booming-with-rising-demands-and-massive-opportunities-2023---2028-2023-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HVOJhUyQU9g6bgyrYAuzlKUNaDem2aGXQNxFFfS32M0QZfwndisdJuDgy8QbsQbDFAie1cMmASoOf7JVJHBnwiZKFvsqx2HQ8KUPZ6Fr+u3rQHmrwgZsuSS2ikkCvCpGCDKkr70WMJYgLhb3ZvWu+swmHkZz2E5qo3+IMRyoiQJrFxI3G0MDT+68JUWfKpx2fr2Qfpl2sKQ3l0FyDhVlF/4IFkzeSD2luJ7+jO5mG+gg0R7rgs9eGxOm40+OZoAwL0KrYDUt01HD7Suco1oTocbAWrRBUKfIqDinjHmPeRL50nO2IRJ86zMCxwhl64FXiU+0ezf9uW/cv4D3q+TWpVB9557fjbd1BXH0Exz3ASU=;wAkrz4MAmzyo3eyesmohdg=="
 ---

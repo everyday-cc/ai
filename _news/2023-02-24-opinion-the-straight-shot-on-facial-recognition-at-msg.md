@@ -33,6 +33,20 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "OPINION: 3 simple reasons the Voice will make a difference"
+    excerpt: "It's been over two decades since our last referendum to change the Constitution. This year's referendum is a once-in-a-generation opportunity that lies in the hands of the Australian people, writes Indigenous Australians Minister Linda Burney."
+    publishedDateTime: 2023-02-28T03:33:00Z
+    webUrl: "https://www.sbs.com.au/nitv/article/opinion-3-simple-reasons-the-voice-will-make-a-difference/mcm0mwxr9"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 24
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/d376abe/2147483647/strip/true/crop/2048x1152+0+107/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F1e%2Fe2%2Ffc49d8db4b06bb9134b29fc35884%2Faunty-marg-walker-and-aunty-diane-mcnaboe-at-dubbo-week-of-action-even.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Cma/WfS1qgD7mxDR8klSmtzHSx2N1gmD0d1mUYJadh4ogGO6b26KWn4YuhkGPE1jbMRUO0UJDdIBTgD01V0ax95MwzZbGhvAmjPMXgMdDL8zBHFKE8OdvTda38HhKNbARoKYz5bQqttQUnYnQuGAv1vJaRKME11m2QamJ2ucMm3C3xNMuSTv/BVPTa+YtDYanty5Sa3TPh6k9QufaNZJJTzZt7PkdouO+ZcuE4+6Ei7f5FrFhIn5J6kNS/QtMvdQl+DUhUCOCe2vJ5JItWrCUIIWjkH8uh6PYZiAGV521U6ZFRQDjgaGg7OXRAtMOa572LSa0fUpg8PsB8wSofWgFLxwiuw/omiDTF8m2zRovWMA0QIfBr+U9fu21w0FXh/1l+Xy9RlN5+ebFy+VqgwiBEWSQfxmSQuh4K47J7UszPHsOpAxD5GwsZIk8Zeb0cFlSuehbJ8q2VATUf4YTLwudPW/liPv6bt23b+DaYdFu+ixizUMGtk4yDObKNl7b4/uA8x5Vg6RTamPNf4xpsfejA==;6b0tPPnQPmTN5e1sdDSvqw=="
 ---

@@ -20,19 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Baltimore County schools to launch artificial intelligence program at 3 schools"
-    excerpt: "Titled \"Computer and Information Sciences Artificial Intelligence,\" the program will be offered at three schools in the district."
-    publishedDateTime: 2023-02-23T13:02:00Z
-    webUrl: "https://www.cbsnews.com/baltimore/news/baltimore-county-schools-to-launch-artificial-intelligence-program-at-3-schools/"
-    ampWebUrl: "https://www.cbsnews.com/amp/baltimore/news/baltimore-county-schools-to-launch-artificial-intelligence-program-at-3-schools/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/baltimore-county-schools-to-launch-artificial-intelligence-program-at-3-schools/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 33
-
 secured: "IiwH8PQOyLghHtdpVSirVUwLk1OPbTRP/Xp6je/YzDK+vBn6+8zz71fmqK1kKnWDBdWjW4YNU9j+iz/AM+Wnq0elfiLn8nChDA2i2eQ4toHVobOzJGmPog4D0Mb1Pn5gvtyu+0/Q91VyMRY5Mx5hCjNh/PgNVB9sClArTzAVWCU/OzaYU41grex4BVa6Cj2m38lezQz6mRpnD8CT87ErBM+1quXZojoy7V6yc6uXoWd2tW2FXFOoKCd5NyZYOSmZwsz86GOX+C4hXh75cEwARur5ykLaoAn/Ub8BgHmTl2hpJORZC/abROH/rZHPemyUEwjzVXSHv5HPwSnNzlwQ3MEIRJ4PD64DYuu4XRr/+3KvQ1eZl9Z1rEP0LGkj1GGp8qafEZmvcmZO7XYpoZnDUoHaLIs0yyyH+zw8CFblob7n8IsGoOw/Jwj2Jafw2Apyz4JMq0hToah7cP43OUUwXnqG4je0hczfBpVyurLatO94rMcoPS+jRzhwSrURm+YeE1GtJHJEQuQE7J1Qpgounw==;RxljFbvqdz+kVfPRPrO+Gw=="
 ---
 

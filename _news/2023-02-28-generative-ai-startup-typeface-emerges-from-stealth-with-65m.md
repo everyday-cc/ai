@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-27T20:36:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-startup-typeface/"
 webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-startup-typeface/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "ehEUyC+TkeLNW9fsmyN5ZGrvF8lCAo/uWO7KInU3WsLyueo8AgK9Fn85ycieuwC8K0Otl7R9PywMnKZdYzB0F88VJa7EIA0F4rP1CpgxQXkgoFLndUEIjASMSx+3jy0xknzELeKPllEvI7kPcF4oWv1Smkr+sK93clMTIst6hwr91oRlXdeAIRj+rXF9rystPJLra60zPhs3SpIplYnD+a5G/XVeX1H00kwsYOKGPKLkgFBgDFurh8wrjdHJ52GzVQ3WTvyiL5bPrb5EHTrwXeeZsxutZp+6+rppNMnb2dVCiRSyGWMr9E7jabBLYnKgO8pPRHvz0K4wXUWbz5uDmcnt0MhtyvjkqxkH45cT/hg=;Q0QGI3BE8MMzX4lmFDhPZQ=="
+images:
+  - url: "https://news.crunchbase.com/wp-content/uploads/SoftBank_Ai_Investment-2.jpg"
+    width: 900
+    height: 506
+    isCached: true
+
+secured: "dxVBBr1x2cbQPJkt3rvAQXZZMzltYMGjB3oNkt6NTTfon40gR5E5XSWMg1dQHkPqWtagzOE+fOm6rQthfP7Q+paa2ygyAFM3x7+584ZKyJCN5blSTJ80ptQ+2ouEoB4X17eHo/5kyctFwf0T3P0MyMh6yRi/gDSuZf2a34nSxfATXSDTqT40xYlIJbls/MFpf8HTX5t8FCiHFnTTAXu2d3mZLTBGdqjjtmpNelhgUbM2o1Sl0vEw4r/F4JR3JdP/nn9YliHRWUyKONC1cat57kX6wOJk9W5HrnpmREsiL67qPRazdl+rNKB1g8rLPXMXjnI13zQu8xzwqxlLzICeb/SVOXbny4FgX7pBT7e3ljY=;0SusziG+syUwTZJ4t4nRGw=="
 ---
 

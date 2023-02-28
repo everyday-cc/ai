@@ -63,19 +63,19 @@ related:
         isCached: true
   - title: "Tesla, Elon Musk sued by shareholders over self-driving safety claims"
     excerpt: "In a proposed class action filed in San Francisco federal court, shareholders said Tesla defrauded them over four years with false and misleading statements that concealed how its technologies, suspected as a possible cause of multiple fatal crashes,"
-    publishedDateTime: 2023-02-28T01:17:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html/amp"
+    publishedDateTime: 2023-02-28T03:11:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims/articleshow/98290038.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims/amp_articleshow/98290038.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims/amp_articleshow/98290038.cms"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 74
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/06/ElonMusk.jpg"
-        width: 1280
-        height: 720
+      - url: "https://img.etimg.com/photo/96809521.cms"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Elon Musk overstated Tesla’s autopilot and self-driving tech, new lawsuit says"
     excerpt: "Shareholders sue the Twitter CEO again, alleging they were defrauded with false claims of the vehicles’ capabilities"

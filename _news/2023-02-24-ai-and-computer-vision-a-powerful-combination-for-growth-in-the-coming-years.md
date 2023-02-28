@@ -1,29 +1,27 @@
 ---
 category: news
-title: "AI and Computer Vision: A Powerful Combination for Growth in the Coming Years"
-excerpt: "Chicago, Feb. 24, 2023 (GLOBE NEWSWIRE) -- The AI in Computer Vision Industry by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial), End-Use Industry (Security ..."
-publishedDateTime: 2023-02-24T13:03:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/02/g31046068/ai-and-computer-vision-a-powerful-combination-for-growth-in-the-coming-years"
-webUrl: "https://www.benzinga.com/pressreleases/23/02/g31046068/ai-and-computer-vision-a-powerful-combination-for-growth-in-the-coming-years"
-ampWebUrl: "https://www.benzinga.com/amp/content/31046068"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31046068"
+title: "AI And Computer Vision: A Powerful Combination For Growth In The Coming Years"
+excerpt: "Computer vision is one of the areas where AI is having a significant impact. Computer vision is the interpretation and analysis of visual data from images and videos using algorithms and deep learning models."
+publishedDateTime: 2023-02-24T14:19:00Z
+originalUrl: "https://menafn.com/1105638619/AI-And-Computer-Vision-A-Powerful-Combination-For-Growth-In-The-Coming-Years"
+webUrl: "https://menafn.com/1105638619/AI-And-Computer-Vision-A-Powerful-Combination-For-Growth-In-The-Coming-Years"
 type: article
-quality: 71
-heat: 81
-published: true
+quality: 51
+heat: 61
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?243185"
+    width: 445
+    height: 250
     isCached: true
 
 related:
@@ -37,6 +35,6 @@ related:
       domain: vietreader.com
     quality: 34
 
-secured: "4rFExlCsAWKwzvCjJPao6/tzAnp2TZfnvws6bDROQN7LPzIzDSN2TI1PpoPLd9qQk7YLK2AUK4Z9rQp62vdeWzikSv9819IulB2WGAO3d0k1HcCuJatRCLHmwBL5823g/kBfGoo05qcK6LtENtxZRLDSgk5WKn4W8cOPgT4HwfWei7mJItgOxlSAhvVUBJVXoMm3wFOtCCLAeWZwW2Xordz8dH2M2/ByrJrdK/Gpr8VfUrioALOzdsgDF8rPHPnTSWXgVDxUfswbwoIurzLfXLABGn76ZAGPdP8o2rZzBRRYnUQn0cRsrvGCR4WzETJTWUEoB9+XzeSPch3OLxp8djSuGu11vwAbZKBuR8VI8lg=;thpBaFPpnks2sqYnxp0BFA=="
+secured: "miyrD8qps2WVdBSTJePW1aAcPkhyb3x/rtNglrlcL74Ta1uUcaWLO8e729v0IqYrX4s9P0KE4EzTbTdI5gcQTCXWC4LdBwnA/wUXruASz1jB5teL+KF/iI4ifxFY8RLoly1tH0tu8BgYzufqQk9KnlMIpYwKPBuYUAEtN3z0p/i/wuxRu6phsJvSY6JNYkkJKqssjaEZqnAazWVrMctp17X6eDKlu2SuYotiIQb0uEJUV//sM+pWKEtL3uZgWI5aOOn9dZ+gLiwK1Lgu8B2USza268f0g11eWl7hupxEG2bpYKANLURdqf2yQdrWU2gP6mEeteeJ8GKUREtAGf+8/j9VC8QFN0ARAf0R+fBqfP0=;XJu3nzIJY4EIRACcH92Vww=="
 ---
 

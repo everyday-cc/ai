@@ -73,6 +73,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Meta Building A-Team To Create AI Personas: Mark Zuckerberg"
+    excerpt: "The public battle to dominate the AI technology space kicked off late last year with the launch of Microsoft-backed OpenAI's ChatGPT, which has since prompted tech heavyweights from Alphabet Inc to China's Baidu Inc to announce their own offerings."
+    publishedDateTime: 2023-02-28T03:28:00Z
+    webUrl: "https://www.ndtv.com/world-news/meta-building-a-team-to-create-ai-personas-mark-zuckerberg-3820396"
+    ampWebUrl: "https://www.ndtv.com/world-news/meta-building-a-team-to-create-ai-personas-mark-zuckerberg-3820396/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/meta-building-a-team-to-create-ai-personas-mark-zuckerberg-3820396/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2021-10/fv7inbjg_mark-zuckerberg-650_625x300_29_October_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Amazon files 2 trademarks for ‘robots featuring AI’ in the metaverse"
     excerpt: "Amazon a leader in the e-commerce industry and leader in cloud services with its Amazon Web Services (AWS), is making inroads with AI."
     publishedDateTime: 2023-02-27T16:22:00Z

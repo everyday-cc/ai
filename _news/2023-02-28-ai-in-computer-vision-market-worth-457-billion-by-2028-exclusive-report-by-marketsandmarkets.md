@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-excerpt: "The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is expected to grow at a CAGR of 21.5% from 2023 to 2028 according to a new report by MarketsandMarkets™."
-publishedDateTime: 2023-02-27T18:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm"
+excerpt: "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the field of Al computer vision."
+publishedDateTime: 2023-02-27T17:57:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
+webUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
 type: article
-quality: 21
+quality: 23
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 related:
   - title: "Computer Vision in Artificial Intelligence (AI) Market Size Global Research Report, 2023 - 2028"
@@ -351,7 +352,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -426,6 +427,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data Science and Machine Learning Service Market Share, Size, Trends, Industry Analysis Report By 2023 To 2029"
+    excerpt: "Top “ Data Science and Machine Learning Service Market ” Size 2023 Key players Profiled in the Report are [, Bigml, Hewlett-Packard Enterprise Development, International Business Machine, Amazon Web Services,"
+    publishedDateTime: 2023-02-27T16:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-share-size-trends-industry-analysis-report-by-2023-to-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -557,6 +572,6 @@ related:
       domain: tmcnet.com
     quality: 14
 
-secured: "RyuMG8HhuPOlfYB84tgQNDsjab8paC9UdK8ODKsx3MiMXml7YIEwwBuRiOyxIe020iTB4D4pyk58u7NuYUSavL/jMDt1QBykOZ3FIbZN3KzTxAfJ1kuCJKaELeCqA1e4y+rmFnj9dTyfvGtqG4QQCtHiyD6WaOS1+QUOx/93oBr4VJRDd0/SGU2yP6p0D2hJFL2j27A+c5kAkBE9nalxtQmWlrdIEpqtveL5ieCIXIxt3nGiyQEzU5qMJwBLvBkfpCkK2qxLVVHuFAdo6IOB/vOOWqvDm8lUIRbmkJRGncXCwD4skWl54I+iA48N8ABrAfHEsJYe3+z0B4IH+cQMuY7YwaiiARkI/2RxIp2MOtsX9th697ALBtS/NSGonv+7Mg6dkMIjoQ+bbi9NS3Xf2aw8qlk/P+7Ssg9uKERvKaQuxR6gQCYzLSkOZjSeKWJXssKodPoop3n0sqDeEpKZ/N4+PhO4qOmE5JFSwLMKP3MSoHLpVbCUMgazSOxK4qx84ruel+3ni1gGnjVoc2EDjg==;6tF84MPnYqznjdjsEK3N6A=="
+secured: "Qas7vR+K85lv/RVJha9hrZgtCajVQPObwDm/D+0Ob8ELRfiV7Z83rf20NKKCpCLBfQHMdhmi289ADIWAxd/qmtqRbOchXVKJ1Fl/hFiem50J6zNLJSZn23XutXW5o9aJ0kyJqk/Zu81Xp5WaSr+7CT1Su0PsxevyTMtyZhABazRzwrqimnPHWLWM5KV6llOMVnmxc42NzmkuqN6/iw0V7Pp1HmNKLhTZsuwWbnKTPJi0Ak8kHUFeGRzI9bn4cG2ThMZU1+iahhK11ELjJ38j8z4iWt04KGpidvo899nOqgwXWfdaajzgswAC86Y4c4ljSy8qKdSBOfuOC2XSL4Wo6nHQjN6qUWiwm3zi+L5XGsqZx4zja8ikSIAw4NsFWrerOfEIFpJZK5eMOX3Daw1zajts2anj1CY219FPrhHYazUK36F2fF4+1VFui4aBgnK8/Y+Dr9EF34fecaekITvIlLBhFtUhaqeQGInHOpC942PIM0SxA/QB5tU71lU9EHSyElW5omhYKSYIfTkOv6RcLQ==;hCeqSsR0eoPnXCBBLjBmnA=="
 ---
 

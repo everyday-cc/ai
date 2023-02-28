@@ -344,17 +344,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Is It True That Generative AI ChatGPT Will Flood The Internet With Infinite Content, Asks AI Ethics And AI Law"
-    excerpt: "Into all of this comes a slew of AI Ethics and AI Law considerations. The most widely known instance of generative AI is represented by an AI app named ChatGPT. ChatGPT sprung into the public consciousness back in November when it was released by the AI ..."
-    publishedDateTime: 2023-02-23T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/23/is-it-true-that-generative-ai-chatgpt-will-flood-the-internet-with-infinite-content-asks-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/23/is-it-true-that-generative-ai-chatgpt-will-flood-the-internet-with-infinite-content-asks-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/23/is-it-true-that-generative-ai-chatgpt-will-flood-the-internet-with-infinite-content-asks-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "ChatGPT on your PC? Meta unveils new AI model that can run on a single GPU"
     excerpt: "Smaller-sized AI models could lead to running ChatGPT-style language assistants ... can reportedly outperform GPT-3 while running on a single GPU. Unlike the data center requirements for GPT-3 derivatives, LLaMA-13B opens the door for ChatGPT-like ..."
     publishedDateTime: 2023-02-24T20:02:00Z
@@ -375,6 +364,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 61
+  - title: "Elon Musk recruits team to develop OpenAI's ChatGPT rival"
+    excerpt: "Elon Musk has approached AI researchers in recent weeks about forming a new research lab to develop an alternative to OpenAI's ChatGPT, the Information reported on Monday, citing people with direct knowledge of the effort."
+    publishedDateTime: 2023-02-28T04:06:00Z
+    webUrl: "https://tribune.com.pk/story/2403674/elon-musk-recruits-team-to-develop-openais-chatgpt-rival"
+    ampWebUrl: "https://tribune.com.pk/story/2403674/elon-musk-recruits-team-to-develop-openais-chatgpt-rival?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2403674/elon-musk-recruits-team-to-develop-openais-chatgpt-rival?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 59
+    images:
+      - url: "https://i.tribune.com.pk/media/images/Musk1652032870-0/Musk1652032870-0.jpg"
+        width: 638
+        height: 422
+        isCached: true
   - title: "Report - ChatGPT and generative AI demand a smarter approach to EU regulation"
     excerpt: "Grist to the mill, perhaps. With Qualcomm’s AI Research division successfully deploying foundational image model Stable Diffusion on an Android phone this week – 15 seconds for 20 inference steps – such tools are likely to become a generation’s ..."
     publishedDateTime: 2023-02-24T11:20:00Z
@@ -593,15 +598,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
-  - title: "AI for Good develops humanitarian projects using ChatGPT and rivals"
-    excerpt: "An NGO called AI For Good is utilizing the immense power of ChatGPT, Bard, Bing, Neeva, and similar programs, to teach"
-    publishedDateTime: 2023-02-23T12:38:00Z
-    webUrl: "https://www.record-eagle.com/ap/national/ai-for-good-develops-humanitarian-projects-using-chatgpt-and-rivals/article_528ff7d9-f9ae-5125-a455-4cfc7f08dcb4.html"
-    type: article
-    provider:
-      name: Traverse City Record-Eagle
-      domain: record-eagle.com
-    quality: 19
   - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
     excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
     publishedDateTime: 2023-02-24T14:15:00Z
@@ -638,15 +634,6 @@ related:
       name: Austin American-Statesman
       domain: statesman.com
     quality: 9
-  - title: "ChatGPT is Ruining Our Environment, But There’s a Way to Tackle It"
-    excerpt: "As the ChatGPT hype peaked, so did the sense of reckoning around the carbon footprint that the tool may leave behind."
-    publishedDateTime: 2023-02-23T12:22:00Z
-    webUrl: "https://analyticsindiamag.com/why-the-environmental-cost-of-chatgpt-is-overblown/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 4
   - title: "China says it sees the potential of ChatGPT-like technology"
     excerpt: "BEIJING--China's Ministry of Science and Technology said on Friday said it saw the potential of ChatGPT-like tech and would be pushing for the integration of artificial intelligence into Chinese society and the economy."
     publishedDateTime: 2023-02-24T08:39:00Z

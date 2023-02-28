@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-are-soar
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-are-soaring-but-americans-arent-that-interested-in-ai-1032124725"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Most Americans Wouldn’t Trust Their Health Provider’s Use Of AI"
-    excerpt: "A Pew Research poll reported on by the Hill shows a majority of Americans wouldn’t be comfortable with health providers relying on artificial intelligence as part of care — only 39% would be"
-    publishedDateTime: 2023-02-23T12:58:00Z
-    webUrl: "https://khn.org/morning-breakout/most-americans-wouldnt-trust-their-health-providers-use-of-ai/"
-    type: article
-    provider:
-      name: Kaiser Health News
-      domain: khn.org
-    quality: 19
 
 secured: "Ulp/rj3PIWIejwn64KALvWN+syJ03zZlzY4C0IoIYoczDuUWbcwuxZf8Xyr5jyFxUNe012UFBzU8O7nBbQLVYILF6oN+vw3fkf+BVKsWhFEBnFmOePLMQlQcV9xyX2o29KUlvI9GG+kGF4iZmqBV52n5PmeZpwHilEwf3e3HoXi0e5mdKk/ANWv8oquX6rO3OVfRolbt6VCEDPqzYFf2dI3OW3x0aWgFEpGDSCSzrRFKDyuykaWPrtvjYXOXU8YP755ynI0f7KHZe36nZjbTCYwmO4Jsx6WAniP7FI2Hgm7wIUDF1gRHRSTP2juPDKEmvTsFhfX6MmxPcJuCHY+6iNt3Rjpgv+kIVsW2VGbD//o=;kgAwWiqqacqgiJZkgKLpYw=="
 ---

@@ -59,19 +59,19 @@ related:
         isCached: true
   - title: "Tesla, Elon Musk sued by shareholders over self-driving safety claims"
     excerpt: "In a proposed class action filed in San Francisco federal court, shareholders said Tesla defrauded them over four years with false and misleading statements that concealed how its technologies, suspected as a possible cause of multiple fatal crashes,"
-    publishedDateTime: 2023-02-28T01:17:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims-10171441.html/amp"
+    publishedDateTime: 2023-02-28T03:11:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims/articleshow/98290038.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims/amp_articleshow/98290038.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/tesla-elon-musk-sued-by-shareholders-over-self-driving-safety-claims/amp_articleshow/98290038.cms"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 74
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/06/ElonMusk.jpg"
-        width: 1280
-        height: 720
+      - url: "https://img.etimg.com/photo/96809521.cms"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Tesla disappoints owners with updated language around ‘Full Self-Driving Beta’"
     excerpt: "Tesla has updated some of the language around its “Full Self-Driving Beta” program following the NHTSA recall, and some"
@@ -118,6 +118,6 @@ related:
         height: 710
         isCached: true
 
-secured: "lcslyOBUv01ZUkrCYjToDBM08OQ8ZaeUqUTtx5JBOVIpeYve6fq+ZM/ift/+1RTOqyp8wstPey8J+vBwPGz/x6RY/VEcH4q7WAoOmBrvkMcR/pQQAzi1eSkaIJrx9ADwVGj0lFnYq45pxyYXLJNU8PYB0xTmqyZBn9Ooj+Ra+ya0bSMtCaKKdmZ7Pz3QSQ4HPD51yQhQ4wkokImeZVr5j5dxIxGyFJhSP4dPlShYLvmtwm7w3SFxivii4SE7uQXrFiNvPIrvm1X9xqfpmQZCyF8cmTeRPcE866v/U1LQzXs2JCn6IK0KJKqF2htJGlmZ9Fy42stJVcgD2xEO5+5XpymUNEYIIuVQu6ETJKKCSTQ=;F4BnGx8YuzepMX32118cAw=="
+secured: "VWOo63uaAE5NqRDRBM4GBlRd6DC2lMx5qnVuGEdWBKij8veXKL5mo0r70Tp/2p+0KRd3WqWjcISXLVsGAsatM4AUkzqQ6NToV1mMc9LFRoKH1gHw7MyODwHY3AMN3XOdTWvMLgssUFwuzYvrF/b2MItULmsXPjWh1WFzd2WvzAQepKEjn0SphjtMvm2bxll4PCXsYbNaUXLReQo7hqWcV9Hxp3yANKlVD3opSvOdGij+E8UpaFDu/tgacCQlglXUMnsDCzFLc04FDbu9zkKepyzt1PmWVqM1uf8HS7Bvq3dHNuFj2ZUINshv2YAMThzS0mLhUypwHKXhiDqQdCLv76DPZvoFuZyA1GYEc304CLvM2NoEllXcGj1SYWVSv9M45YqGy7ZDRkkUMacPfTKN08bruMgVFK235tvA/OcK7DgKASRT0yuAbxawXMMAJ3QTX7kB80Hc/xVdbHnvv5bddyeXGNNY/yWGBeTDVVE0zkxVvytnhQ12ABVqvjfWBUko1ZebciulHboqlIyWpxVHxA==;R6bRflBH5jPNplfLHDqCwQ=="
 ---
 

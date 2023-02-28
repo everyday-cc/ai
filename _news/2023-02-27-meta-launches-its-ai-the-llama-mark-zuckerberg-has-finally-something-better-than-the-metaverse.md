@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-ma
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1"
 type: article
 quality: 75
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
         width: 834
         height: 308
+        isCached: true
+  - title: "Meta Building A-Team To Create AI Personas: Mark Zuckerberg"
+    excerpt: "The public battle to dominate the AI technology space kicked off late last year with the launch of Microsoft-backed OpenAI's ChatGPT, which has since prompted tech heavyweights from Alphabet Inc to China's Baidu Inc to announce their own offerings."
+    publishedDateTime: 2023-02-28T03:28:00Z
+    webUrl: "https://www.ndtv.com/world-news/meta-building-a-team-to-create-ai-personas-mark-zuckerberg-3820396"
+    ampWebUrl: "https://www.ndtv.com/world-news/meta-building-a-team-to-create-ai-personas-mark-zuckerberg-3820396/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/meta-building-a-team-to-create-ai-personas-mark-zuckerberg-3820396/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2021-10/fv7inbjg_mark-zuckerberg-650_625x300_29_October_21.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "Amazon files 2 trademarks covering robots featuring AI in metaverse"
     excerpt: "Amazon a leader in the e-commerce industry and leader in cloud services with its Amazon Web Services (AWS), is making inroads with AI."

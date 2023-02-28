@@ -1,0 +1,86 @@
+---
+category: news
+title: "Facebook owner Meta to form AI product team as chatbot competition heats up"
+excerpt: "The chatbot battle is heating up, and Mr Mark Zuckerberg is making it clear that Meta Platforms is focusing on artificial intelligence-powered tools too. “We are creating a new top-level product group at Meta focused on generative AI to turbocharge our work in this area,"
+publishedDateTime: 2023-02-28T03:53:00Z
+originalUrl: "https://www.straitstimes.com/business/facebook-owner-meta-to-form-ai-product-team-as-chatbot-competition-heats-up"
+webUrl: "https://www.straitstimes.com/business/facebook-owner-meta-to-form-ai-product-team-as-chatbot-competition-heats-up"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: The Straits Times
+  domain: straitstimes.com
+
+topics:
+  - Facebook AI
+  - AI
+
+images:
+  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/02/28/FILES-US-FACEBOOK-INTERNET-COMPUTERS-SANDBERG-203002_4.jpg?VersionId=XERuVRuH2GzwS813mxRp1.a0uRldSeIp"
+    width: 860
+    height: 573
+    isCached: true
+
+related:
+  - title: "Is It Time To Ban AI Chatbots From Using Social Media?"
+    excerpt: "The fact that someone took the time to create a visual representation of a chatbot is quite impressive. In a video, Lia introduces herself and explains her ambitions. On the Lia homepage, you can chat with the bot and ask questions."
+    publishedDateTime: 2023-02-25T15:44:00Z
+    webUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/"
+    ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63fa39f512762143838ba854/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Get Ready to See More AI Chatbots on Facebook, Instagram"
+    excerpt: "Meta CEO Mark Zuckerberg is looking to capitalize on ChatGPT's popularity with a new product group focused on 'generative AI' for the company's apps and services."
+    publishedDateTime: 2023-02-27T22:45:00Z
+    webUrl: "https://www.pcmag.com/news/get-ready-to-see-more-ai-chatbots-on-facebook-instagram"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04hJf3Kd3R9NFigeXksEOcy-1.fit_lim.size_1200x630.v1677535536.png"
+        width: 1079
+        height: 630
+        isCached: true
+  - title: "Leaked messages show Googlers are taking out their frustrations over layoffs on its new Bard AI chatbot"
+    excerpt: "\"I'd tell you a joke about layoffs at Google, but I'm afraid I wouldn't have a job tomorrow,\" Bard said when asked to tell a joke about the layoffs."
+    publishedDateTime: 2023-02-24T22:26:00Z
+    webUrl: "https://www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "Facebook owner Meta joins AI chatbot race"
+    excerpt: "After Microsoft ChatGPT and Google's Bard, Meta is joining the AI chatbot race with its own state-of-the-art foundational large language model designed to help researchers advance their work in the field of artificial intelligence."
+    publishedDateTime: 2023-02-25T08:30:00Z
+    webUrl: "https://www.ummid.com/news/2023/february/25.02.2023/facebook-owner-meta-joins-ai-chatbot-race.html"
+    type: article
+    provider:
+      name: Ummid
+      domain: ummid.com
+    quality: 41
+    images:
+      - url: "https://ummid.com/news/2023/february/25.02.2023/meta-language-model.jpg"
+        width: 790
+        height: 530
+        isCached: true
+
+secured: "b3/OrYL2Z/GuqK3iJv+U84QEppykpyRE5kkcaOWuord/lWbNGwU1o0qi0C0g3X6xgdIDY+57AmIPMVVzFIO6VVrWzj74/JpjHasaAaujn5SHfMwVediiTGmEdnBaYSVFzzWjDfXEiUALM5yJAARM98GOJsTPQkTqdUuOsCnIA02QoY1Ru7RCtnv/KV6eE2X7xQgcqzj7MXwDtu2FHEfXCJq9orZ29qZu7T1Bfp72EzLrksmklZlQ11zpE0TfUgRgxsgH+8cwi5MMd0W9ZYygu+K9WsFG9rmIvt9liifOMAPvxrOUAMM34inuCyd87v1OUI/C3U7vJFTQHddeEPMMi9aZRQk55OVYC+gi2SSo7ok=;2UfXHn92MczVagXGxLsFyA=="
+---
+
