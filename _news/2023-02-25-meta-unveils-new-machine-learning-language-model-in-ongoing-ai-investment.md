@@ -35,7 +35,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63f978e9df3e33323a36e753/0x0.jpg?format=jpg&width=1200"
         width: 1188
@@ -71,15 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia Shares Soar on Earnings Beat, Chip Demand for AI Applications"
-    excerpt: "Shares of Nvidia (NVDA) are soaring after the software company posted better-than-expected results in the previous quarter while boosting current quarter guidance, and said chip demand for artificial intelligence (AI) applications such as ChatGPT is soaring."
-    publishedDateTime: 2023-02-23T15:35:00Z
-    webUrl: "https://www.investopedia.com/nvidia-shares-soar-on-earnings-beat-chip-demand-for-ai-applications-7112912"
+  - title: "Leading In The AI-Powered World"
+    excerpt: "According to a report, the global AI market share was $119.78 billion USD in 2022. By 2030, it is expected to hit $1,597.1 billion USD, registering an impressive CAGR of 38.1%. From industries like healthcare, technology, manufacturing, fintech ..."
+    publishedDateTime: 2023-02-24T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/02/24/leading-in-the-ai-powered-world/"
     type: article
     provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "FyuZKB4uPdMO8I5iJZ0mXnrZbz5ObC1gjxlRaj6VfF+grn8w8TQQQq89WG2z8GCm3OCc576Z42X9SoDmOOA3nClqHDxnDJhiKnzn7ba0CbdMyF5SmRvx441MeXtmX8yCzLzaZWwvXPlCDNrZDV8OTgKI6HClYRpuN7gHds/unIAk8cQPgl+xX40+Xst8lbpI7APFdt8lxXpezToLMiPOOXcn0/jfqxjizoq8Sptey70iFg/seN9Ny8snTKQ/mUVeD2x+afFTc+Y1+HMrSR/NYWRBGU9P0nO+qMTjKq9/gRNqn12waShSYZ5R8ane1JHHufbOyB7DbiHAf6YNnkqcuO5JtzD41DFIKkJa6hfv7iOQnK7SJ1wtglfRLDwgY7Ec95BG5Lk9NWaouQVy/wGDuuFyRIBI4H1hUeNn3KmjbIUqkngbP8tS7hbbA8MMKfkI9F/KrT76sJRMg8hJLrIcVF3HDAuHP9LZw4SF0SqVhl4bjqggJKsonm6xFw3CK/IQJIjld1XDtGiL/huOuSlgow==;Jgff39P6kcwh9wx5zkTTIw=="
 ---

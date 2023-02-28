@@ -40,7 +40,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63f978e9df3e33323a36e753/0x0.jpg?format=jpg&width=1200"
         width: 1188
@@ -74,15 +74,15 @@ related:
         width: 750
         height: 428
         isCached: true
-  - title: "Nvidia Shares Soar on Earnings Beat, Chip Demand for AI Applications"
-    excerpt: "Shares of Nvidia (NVDA) are soaring after the software company posted better-than-expected results in the previous quarter while boosting current quarter guidance, and said chip demand for artificial intelligence (AI) applications such as ChatGPT is soaring."
-    publishedDateTime: 2023-02-23T15:35:00Z
-    webUrl: "https://www.investopedia.com/nvidia-shares-soar-on-earnings-beat-chip-demand-for-ai-applications-7112912"
+  - title: "Leading In The AI-Powered World"
+    excerpt: "According to a report, the global AI market share was $119.78 billion USD in 2022. By 2030, it is expected to hit $1,597.1 billion USD, registering an impressive CAGR of 38.1%. From industries like healthcare, technology, manufacturing, fintech ..."
+    publishedDateTime: 2023-02-24T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/02/24/leading-in-the-ai-powered-world/"
     type: article
     provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "uuccZFrWXdLDCtRztr5YvQMeqscoBivEKqCa17a85KCIFkb//MMPMwhpjR8ZhfJyw2JEtbYSg+dHLlZBTGuUGEnMtkya0TFBjH3hQ9SxFlkZYG4ttVPFBHCCYXmIn8AOke14zS40PuGCkpita5NpOBI9+X3vLfCdOB/QCjzKAVLjEqR3SqGZaXs69gQi9FQkjsdlM3olx/SnCAQeJU5H9bBzKFLBRV1AKyK5H3LWTIp13XdtSWD8CQ2O0ODKKD5KGm02I9x7sTzu5HB1NEc6AhS7HmtmHiBH3+9+GMdW6Z373xS7otgIJRNknMgD7UFrI/ayq1b4A4xEIA3NmcTDXzyukS4wfSVSFqv7GVi4dtV2YF19TFs34aupDiYaqtfXGRft1/Q5kNWY6tuot3bcYQb2Sw9X5Ad228LiYCckv4yfv7D1GfrElOtg66wRoIneXPH5IfJuJhu7dFnLit4G9VdXbYo11pMv2npLpqWLTr/mvyJiVGVkTGZZDMctT+Ph64fB6pJDIdX3pcQ2ESTQeA==;ccSnoRW6hv9XLHVneJmvJg=="
 ---

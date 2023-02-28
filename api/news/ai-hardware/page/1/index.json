@@ -10,7 +10,7 @@
       "originalUrl": "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 574,
+      "heat": 584,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.business-standard.com/article/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -105,7 +105,7 @@
       "originalUrl": "https://venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -250,6 +250,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response.md",
+      "title": "Nvidia Beats Earning Expectations And Looks Towards AI, Stock Jumps 14% In Response",
+      "excerpt": "The AI market is set to take off—with one popular commentator comparing it to the rise of the Internet—and Nvidia’s chips are the tools of choice for many AI companies. According to CNBC, a New Street Research report found that Nvidia already has a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f899324fa3a14e43093b40/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/",
+      "publishedDateTime": "2023-02-24T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1447,49 +1500,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-nvidia-rtx-4070-ti-review-midrange-gpu-by-name-not-nature.md",
-      "title": "Nvidia RTX 4070 Ti review – midrange GPU by name, not nature",
-      "excerpt": "Sadly, my hopes of an elegant Lovelace GPU have been dashed yet again ... all while avoiding typical AI upscaling caveats. The 4070 Ti can churn out around 60fps in A Plague Tale: Requiem without ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamesn.com/nvidia/rtx-4070-ti-review",
-      "originalUrl": "https://www.pcgamesn.com/nvidia/rtx-4070-ti-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/12/nvidia-rtx-4070-ti-review-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-22-cognitive-services-market-business-overview-2023-and-forecast-to-2030-ibm-microsoft-aws-baidu.md",
+      "title": "Cognitive Services Market Business Overview 2023, and Forecast to 2030 | IBM, Microsoft, AWS, Baidu",
+      "excerpt": "It gives a wide outline of the global Cognitive Services Market and figures for key fragments. The report gives a nitty gritty examination of working organization fragments, item portfolios, business execution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-business-overview-2023-and-forecast-to-2030-ibm-microsoft-aws-baidu-2023-02-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-business-overview-2023-and-forecast-to-2030-ibm-microsoft-aws-baidu-2023-02-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T22:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-image-recognition-in-retail-market-size-2023-growth-statistics-industry-demand-top-players-data-share-upcoming-trends-forecast-2031.md",
       "title": "Image Recognition in Retail Market Size 2023 Growth Statistics, Industry Demand, Top Players Data, Share, Upcoming Trends, Forecast 2031",
       "excerpt": "Image recognition is the process of analyzing an input image and predicting its category. The implementation of Image recognition in the retail stores improves in store execution and brand visibility and benefits the retail stores by increasing sales growth,",
@@ -1102,60 +1155,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-you-might-start-seeing-ai-chatbots-everywhere-thanks-to-the-gpt-effect.md",
-      "title": "You might start seeing AI chatbots everywhere, thanks to 'the GPT effect'",
-      "excerpt": "AI technology is being developed, for instance, in assisting with health care research, to fight cyberattacks, and to improve supply chain logistics. Using AI in this way can help \"if you want to experiment in a low cost way, without making a commitment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2",
-      "originalUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63efcf6efeee2300187c7e43?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp",
-      "publishedDateTime": "2023-02-20T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing"
       ]
     }
   ],

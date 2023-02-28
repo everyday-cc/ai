@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-machine-learning-market-size-share-outlook-and-forecast-to-2028-2023-02-26"
 type: article
 quality: 73
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Finance Market Size, Analysis with Key Players having Regional Statistics and Application Forecast to 2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Machine Learning in Finance Market\" Report provides a Detailed analysis of global market size, regional and"
+    publishedDateTime: 2023-02-27T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-size-analysis-with-key-players-having-regional-statistics-and-application-forecast-to-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

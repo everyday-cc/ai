@@ -23,74 +23,65 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Opens Up The World Of Financial Services"
-    excerpt: "The way we make decisions on credit should be fair and inclusive and done in a way that takes into account a greater picture of a person.” Here are the ways AI can help assure more equitable access to financial services: Personalize without branches."
-    publishedDateTime: 2023-02-24T05:21:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/24/artificial-intelligence-opens-up-the-world-of-financial-services/amp/"
+  - title: "Artificial Intelligence Applications In Investing"
+    excerpt: "Artificial intelligence can make investing more straightforward, bringing investment insights to the masses. Here’s how you can use AI to build your portfolio."
+    publishedDateTime: 2023-02-25T01:57:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 93
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63f82c8677a4a0073a41444a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63f978e9df3e33323a36e753/0x0.jpg?format=jpg&width=1200"
+        width: 1188
+        height: 792
         isCached: true
-  - title: "The Future Of Data And AI In The Financial Services Industry"
-    excerpt: "The financial services industry is undergoing a major transformation driven by the latest trends in data and AI."
-    publishedDateTime: 2023-02-27T11:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/amp/"
+  - title: "This Week in Apps: Meta’s paid verifications, Instagram’s founders’ new app and Spotify’s AI DJ"
+    excerpt: "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app economy in 2023 hit a few snags, as consumer spending last year dropped for the first time by 2% to $167 billion,"
+    publishedDateTime: 2023-02-25T21:21:00Z
+    webUrl: "https://techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/"
+    ampWebUrl: "https://techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 75
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/this-week-in-apps-splash-2023.webp?resize=1200,637"
         width: 1200
-        height: 800
+        height: 637
         isCached: true
-  - title: "Sensing The External World At Signal AI"
-    excerpt: "But that is just what Signal AI is doing with machine learning. They produce “external intelligence” intended as an aid to decision-making. It could also be called “environmental sensing.” The London-based company uses AI to disambiguate,"
-    publishedDateTime: 2023-02-24T17:47:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/02/24/sensing-the-external-world-at-signal-ai/"
+  - title: "Artificial Intelligence for Healthcare Applications Market By Suppliers, Type, Application and Sales Price, Forecast 2023-2029"
+    excerpt: "\"Artificial Intelligence for Healthcare Applications Market\" Report New Research Vision Report 2023 | Qualified Report Spread Across 102 Pages| Highest CAGR Value | Global Industry Research report provides an in-depth analysis of the in terms of several market components,"
+    publishedDateTime: 2023-02-24T04:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-by-suppliers-type-application-and-sales-price-forecast-2023-2029-2023-02-24"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "The untapped potential of AI in financial services"
-    excerpt: "The rapid advancement of artificial intelligence (AI) technologies has transformed business operations across the globe. From customer service chatbots to adaptive cyber-security, the applications of AI are limitless."
-    publishedDateTime: 2023-02-27T11:12:00Z
-    webUrl: "https://www.business-reporter.co.uk/finance/the-untapped-potential-of-ai-in-financial-services"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
     images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/024/iStock-1312400050_-_Amount_3.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 801
+        height: 630
         isCached: true
-  - title: "Financial services’ AI appetite grows, study says"
-    excerpt: "Top uses for AI in the financial services sector include ‘next-best action’ systems; portfolio optimization; and fraud detection."
-    publishedDateTime: 2023-02-27T21:37:00Z
-    webUrl: "https://www.cfodive.com/news/financial-services-ai-appetite-grows-study-says/643587/"
+  - title: "Meta unveils new machine learning language model in ongoing AI investment"
+    excerpt: "Meta Platforms (NASDAQ:META) is jumping anew into the artificial intelligence news cycle with the reminder that it too is making heavy investments in the space - publicly releasing a new large language model (the AI field that has brought developments like ..."
+    publishedDateTime: 2023-02-24T17:20:00Z
+    webUrl: "https://seekingalpha.com/news/3940780-meta-unveils-new-machine-learning-language-model-in-ongoing-ai-investment"
     type: article
     provider:
-      name: cfodive
-      domain: cfodive.com
-    quality: 39
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 53
     images:
-      - url: "https://www.cfodive.com/imgproxy/2VcpDEawlm1498rKC3S7gsBFK_IK5pwONO68FOBNDuo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDQ3NDkwNDAuanBn.jpg"
-        width: 770
-        height: 435
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1361008768/image_1361008768.jpg?io=getty-c-w750"
+        width: 750
+        height: 428
         isCached: true
 
 secured: "WkOmCMyMtg4Qcw/0b3olGa3n1+JojIHT5jd2yRgqtVPrgAtsg5seqtaRc4+z0BQ6YVfd5MTSIUfpPly/BvUqpXPq1S9Q/660L1sOGS6zF2C9tZBWPHLx0vc8FZ4Rxr1RJKMgRNx2d0iRecMQtewQEIUkEV4krSCRd6RAzWqj5xDArkw7NRo5JYwfuaynjm8L6iR5BBA+3FH4sKENRCkTOWKHLdHffr6Wy/CcEjCagPDp2S5KV8Yf1rAocxpfMgjFjXoYsRnh1qzBaMHesKl8mz/4t+xyLWUlnvPJ+jGG2/DVBsNMZVoDb0FsKeDNKvuYxGFsSby3p6NffXFESLjCK79ZYvUADpOMuBMht1bhwrkD9TtNQG2bh1oUnqIq2zVfshYHH2ea0ZVOQqjPb6K7m2FMHVT3AGRc21f2ECLD5UmlOVB8rcyLAZg7sS9mXOrvvl1sbCmlfqxaRpG/VNOlGqIZTtZp+Y/pgqgeAK3p1eldn8+i8BlaILm7/GuIBy6YmIakC2M8xcPVol4LaY4lMA==;SH4WWLJQgUOGaT4pROGP0w=="

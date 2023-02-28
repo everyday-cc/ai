@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/31063303"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31063303"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -27,24 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Airtel, Nvidia partner to deploy AI powered speech analytics solutions for customer services"
-    excerpt: "In order to develop the technology that enables automated speech recognition, Airtel leveraged the NVIDIANeMo conversational AI toolkit and Nvidia Tri"
-    publishedDateTime: 2023-02-23T17:25:00Z
-    webUrl: "https://www.headlinestoday.in/technology/airtel-nvidia-partner-to-deploy-ai-powered-speech-analytics-solutions-for-customer-services-515809763.html"
+  - title: "Nvidia Beats Earning Expectations And Looks Towards AI, Stock Jumps 14% In Response"
+    excerpt: "The AI market is set to take off—with one popular commentator comparing it to the rise of the Internet—and Nvidia’s chips are the tools of choice for many AI companies. According to CNBC, a New Street Research report found that Nvidia already has a ..."
+    publishedDateTime: 2023-02-24T10:03:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/"
     type: article
     provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 8
-  - title: "Airtel deploys AI-powered speech analytics solutions for customer service transformation with NVIDIA"
-    excerpt: "Bharti Airtel, India’s leading telecommunications service provider today announced that it has built an AI-based solution, in"
-    publishedDateTime: 2023-02-24T13:13:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/airtel-deploys-ai-powered-speech-analytics-solutions-for-customer-service-transformation-with-nvidia-46772/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 4
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63f899324fa3a14e43093b40/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ZXRl8Ry772pGV9+PgffQR0T/mnsXIcP/bt2qvd35H8/kX8cnl1j/a9uxNTOf+Giwnov4WDvzYOT9hI/HL0PZRgdPQ/UI0JhZ2Y/X2cajl0WyfR3gAPH+J3cbkNrDe3DktWR5KjoAWVs9/DUiOP2uLeeK5JjtxbQxrUpJ6/b6+Dig/oM9FHdmhOgo25gqPjhgc2056KnMfPS8Bou5WHF9WO+SFxijGmjeaHcfTUu4iGdJIeACWEySQMEAVGxRqFIEdkl/8MeVIyfXVx2ioSYaOPCIlIKn/v7asgzV4CgZ3u5EyS6YH/uZDkdCnUzurn32E7No6aoATNfUu2AuIvpFJoeO/Rt2bi5Nfj0mUbyG/QI=;tE0T7Y8i2rk9X/B2xUqcpg=="
 ---

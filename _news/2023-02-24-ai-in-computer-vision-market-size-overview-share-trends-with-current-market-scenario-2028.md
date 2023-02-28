@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Finance Market Size, Analysis with Key Players having Regional Statistics and Application Forecast to 2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Machine Learning in Finance Market\" Report provides a Detailed analysis of global market size, regional and"
+    publishedDateTime: 2023-02-27T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-size-analysis-with-key-players-having-regional-statistics-and-application-forecast-to-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Technology Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
     excerpt: "Feb 24, 2023 (The Expresswire) -- \"Face Recognition Technology Market\" Research Report 2023 Provides a Basic overview of the Industry including"
     publishedDateTime: 2023-02-24T12:32:00Z

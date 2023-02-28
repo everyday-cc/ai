@@ -7,7 +7,7 @@ originalUrl: "https://www.headlinestoday.in/technology/airtel-nvidia-partner-to-
 webUrl: "https://www.headlinestoday.in/technology/airtel-nvidia-partner-to-deploy-ai-powered-speech-analytics-solutions-for-customer-services-515809763.html"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Red Hat Expands Collaboration With NVIDIA to Advance AI and 5G Solutions Across the Hybrid and Multi Cloud"
-    excerpt: "Red Hat OpenShift support for NVIDIA Aerial SDK and NVIDIA software-defined accelerators aims to speed the development of RAN, edge, AI and private 5G solutions Red Hat, Inc., the world's leading prov"
-    publishedDateTime: 2023-02-27T04:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/b31063303/red-hat-expands-collaboration-with-nvidia-to-advance-ai-and-5g-solutions-across-the-hybrid-and-mul"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31063303"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31063303"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Airtel deploys AI-powered speech analytics solutions for customer service transformation with NVIDIA"
     excerpt: "Bharti Airtel, India’s leading telecommunications service provider today announced that it has built an AI-based solution, in"
     publishedDateTime: 2023-02-24T13:13:00Z

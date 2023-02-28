@@ -142,6 +142,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Beyond ChatGPT: 14 Mind-Blowing AI Tools Everyone Should Be Trying Out Now"
+    excerpt: "AI tools are becoming accessible to any business or individual, transforming the way they work. The technology is no longer just for academics or tech giants, so here we look at some of the top tools everyone should be trying out."
+    publishedDateTime: 2023-02-28T06:32:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/02/28/beyond-chatgpt-14-mind-blowing-ai-tools-everyone-should-be-trying-out-now/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/02/28/beyond-chatgpt-14-mind-blowing-ai-tools-everyone-should-be-trying-out-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/02/28/beyond-chatgpt-14-mind-blowing-ai-tools-everyone-should-be-trying-out-now/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63fdad32ec46bc6e9117794f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Snap Warns Users About ChatGPT As Coca-Cola Adopts AI, Banks Ban It"
     excerpt: "Snapchat has added ChatGPT to help users plan trips and birthday gifts, but warns the AI can be tricked into saying anything and that it should not be relied on for advice. Other companies like Coca-Cola are going all-in,"
     publishedDateTime: 2023-02-27T20:27:00Z

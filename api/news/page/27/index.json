@@ -2,6 +2,40 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-02-07-mixed-reactions-as-australias-nsw-politicians-eye-facial-recognition-for-gaming-industry.md",
+      "title": "Mixed reactions as Australia’s NSW politicians eye facial recognition for gaming industry",
+      "excerpt": "What the politicians are unclear about, however, is which facial recognition technology providers they intend to contract.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202302/mixed-reactions-as-australias-nsw-politicians-eye-facial-recognition-for-gaming-industry",
+      "originalUrl": "https://www.biometricupdate.com/202302/mixed-reactions-as-australias-nsw-politicians-eye-facial-recognition-for-gaming-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-are-robots-coming-to-replace-us-4-jobs-artificial-intelligence-cant-outcompete-yet.md",
       "title": "Are Robots Coming to Replace Us? 4 Jobs Artificial Intelligence Can't Outcompete (Yet!)",
       "excerpt": "Is artificial intelligence (AI) evolving to make our lives easier? I believe the answer is that it is a bit of both in the long run, but there is no need to panic for now.",
@@ -902,49 +936,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-big-tech-companies-use-cloud-computing-arms-to-pursue-alliances-with-ai-groups.md",
-      "title": "Big Tech companies use cloud computing arms to pursue alliances with AI groups",
-      "excerpt": "The deal cemented Microsoft’s position as exclusive infrastructure provider to one of the world’s leading AI startups. Chief executive Satya Nadella claimed that Microsoft had built a supercomputer to handle the OpenAI work,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/02/big-tech-companies-use-cloud-computing-arms-to-pursue-alliances-with-ai-groups/2/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/02/big-tech-companies-use-cloud-computing-arms-to-pursue-alliances-with-ai-groups/2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

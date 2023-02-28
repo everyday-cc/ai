@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Red Hat Expands Collaboration With NVIDIA to Advance AI and 5G Solutions Across the Hybrid and Multi Cloud"
-    excerpt: "Red Hat OpenShift support for NVIDIA Aerial SDK and NVIDIA software-defined accelerators aims to speed the development of RAN, edge, AI and private 5G solutions Red Hat, Inc., the world's leading prov"
-    publishedDateTime: 2023-02-27T04:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/b31063303/red-hat-expands-collaboration-with-nvidia-to-advance-ai-and-5g-solutions-across-the-hybrid-and-mul"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31063303"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31063303"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Airtel, Nvidia partner to deploy AI powered speech analytics solutions for customer services"
     excerpt: "In order to develop the technology that enables automated speech recognition, Airtel leveraged the NVIDIANeMo conversational AI toolkit and Nvidia Tri"
     publishedDateTime: 2023-02-23T17:25:00Z

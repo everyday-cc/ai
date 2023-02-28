@@ -40,7 +40,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63f978e9df3e33323a36e753/0x0.jpg?format=jpg&width=1200"
         width: 1188
@@ -76,15 +76,15 @@ related:
         width: 750
         height: 428
         isCached: true
-  - title: "Nvidia Shares Soar on Earnings Beat, Chip Demand for AI Applications"
-    excerpt: "Shares of Nvidia (NVDA) are soaring after the software company posted better-than-expected results in the previous quarter while boosting current quarter guidance, and said chip demand for artificial intelligence (AI) applications such as ChatGPT is soaring."
-    publishedDateTime: 2023-02-23T15:35:00Z
-    webUrl: "https://www.investopedia.com/nvidia-shares-soar-on-earnings-beat-chip-demand-for-ai-applications-7112912"
+  - title: "Leading In The AI-Powered World"
+    excerpt: "According to a report, the global AI market share was $119.78 billion USD in 2022. By 2030, it is expected to hit $1,597.1 billion USD, registering an impressive CAGR of 38.1%. From industries like healthcare, technology, manufacturing, fintech ..."
+    publishedDateTime: 2023-02-24T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/02/24/leading-in-the-ai-powered-world/"
     type: article
     provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "hhDXFzIUjOcQCqiIhuFBXLtS8gBIArVx43sG1tCvz83Dark/zsZ+UlYk26UYzMBmomMfaOO2fnZWAdPOlc5rLoT7ycw2WKG13GMgx6plJpe4UeNEG4iV7i/192PFgJW42jGfkBRCK2I2zCJ3YmnkGyzYeRHr4HfW5R+XJ7RpEdVsT76HlwpUT5TzFljOKgkrefSZ0Pq5mHxnHrxlLhwA2ncYZF1bqujF1FnMC5wtdTFUuZiZ5NpkpOVPhbd635kip2ZvoijXqhmYyDCBq7FDWAMTS+p0nssOmmLZDafejARFARNJHc09WJme6YxnH1pCMSBu0AE8A7/zNxvbRu44tw7w6wiphjlQsKlViFXg/i0=;SqwO5Ifd7agbSlgp/vgGkw=="
 ---

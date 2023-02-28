@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-app
 ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/"
 type: article
-quality: 91
-heat: 131
+quality: 93
+heat: 133
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63f978e9df3e33323a36e753/0x0.jpg?format=jpg&width=1200"
@@ -76,15 +77,15 @@ related:
         width: 750
         height: 428
         isCached: true
-  - title: "Nvidia Shares Soar on Earnings Beat, Chip Demand for AI Applications"
-    excerpt: "Shares of Nvidia (NVDA) are soaring after the software company posted better-than-expected results in the previous quarter while boosting current quarter guidance, and said chip demand for artificial intelligence (AI) applications such as ChatGPT is soaring."
-    publishedDateTime: 2023-02-23T15:35:00Z
-    webUrl: "https://www.investopedia.com/nvidia-shares-soar-on-earnings-beat-chip-demand-for-ai-applications-7112912"
+  - title: "Leading In The AI-Powered World"
+    excerpt: "According to a report, the global AI market share was $119.78 billion USD in 2022. By 2030, it is expected to hit $1,597.1 billion USD, registering an impressive CAGR of 38.1%. From industries like healthcare, technology, manufacturing, fintech ..."
+    publishedDateTime: 2023-02-24T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/02/24/leading-in-the-ai-powered-world/"
     type: article
     provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "cfr5FwdNVMfkda+cfPJE/JkAHBJQgcn9n23DECLBpyRQzjI/0asgNU/ObMXSLwMfaZbYpzIHyThHCdU4Zj+ZmXWfTm8R1Q1SaSGDiSxREFpN5PiV16TEFJDoAT4h7w5PK7CrtuJos0/puR7lVSb2Grje++6pc1lNgECTt96kx9K+hIucKBvRhYkb0XMpC5u+K/471XHZ2x3lLklDC9bAdMVS8PEEYhNQYvraa4hyxEvikXub5RUrcvyqwkSi1DcOB+jEEKhB3tPchfQ51+gEmr3XP3xTTV05BLHxqBcIUvf6BFSWiuCkWtpqMPI2tQgAEhmI6lr6pJCBms2zq6A/hr4zZYwRR43HIt3eSTGGu/1OVJlQuePk5TDS6+13lbRxSVrbcmvbfRptdDy7HvP1LdVBUfFq/zxOhzFsjZ+nC6djQXJDr+QPhe8xXayGQDetz/gN8pXRzVwuD9UQ+xTKm1WhRfaqu2mOJqzUSpRWZ6Nd5kH0j4OIh9w6Jdfcn6r1Hx/I0dkQuBoPtKN+pKZ3kg==;vV/SVUJA8Dyfc3EOZoeUqQ=="
 ---

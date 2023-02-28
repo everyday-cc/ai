@@ -141,6 +141,59 @@
       ]
     },
     {
+      "path": "_news/2023-02-24-nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response.md",
+      "title": "Nvidia Beats Earning Expectations And Looks Towards AI, Stock Jumps 14% In Response",
+      "excerpt": "The AI market is set to take off—with one popular commentator comparing it to the rise of the Internet—and Nvidia’s chips are the tools of choice for many AI companies. According to CNBC, a New Street Research report found that Nvidia already has a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f899324fa3a14e43093b40/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/",
+      "publishedDateTime": "2023-02-24T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-3-microsoft-azure-ai-product-features-that-accelerate-language-learning.md",
       "title": "3 Microsoft Azure AI product features that accelerate language learning",
       "excerpt": "The Microsoft Azure Cognitive Speech Services platform is a comprehensive collection of technologies and services aimed at accelerating the incorporation of speech into applications and amplifying differentiation to the market as a result. Among the services available are Speech to Text, Text to Speech,",
@@ -149,7 +202,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/3-microsoft-azure-ai-product-features-that-accelerate-language-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 249,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -181,49 +234,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise.md",
-      "title": "IBM’s Cloud AI Supercomputer Vela Builds AI Foundation Models For Enterprise",
-      "excerpt": "The recent publicity around ChatGPT and other large language models (LLM) has brought attention to the use of foundation models as a fundamental business tool. IBM Research developed its own AI supercomputer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/amp/",
-      "publishedDateTime": "2023-02-23T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {

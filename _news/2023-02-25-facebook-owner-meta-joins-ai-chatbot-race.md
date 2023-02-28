@@ -53,6 +53,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "Meta to form AI product team to keep up with chatbot competition"
+    excerpt: "It is trying to use the technology with text-like chats in Meta’s messaging apps and on visual filters for photos and videos."
+    publishedDateTime: 2023-02-28T06:38:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/meta-form-ai-product-team-keep-chatbot-competition"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
 
 secured: "XsUyqzAvSE+gtVew4V91aZz7NluEoEGQOT6FS80y4rtpQmAHQzsaUAXCHYnQBtBxtrkmrDpJP5G8o99jbLPG+72DJNgU4v8U0+59YAKwcYLDGx6ceZZ9IDCdXHslcHIM8QoLlB3SyZmbDCdn0CRcb32kSXqwVxiVS0eVoQ/E9zUPBZsRR/rI/pBOhHykbn6xnvuGrZVntu4FKZc7uRSx8/FoGFk5Sp4ugvK/Kf5km232JdO3tq8//VnFcNjajIGhw4e+x/D2Kd/evnCp0Aes/+NvBA/Pg3kJFBop7Pis6ru2UNZr2e52JwFhrcDO1qSy2h0eo5aCoHeBj3gW3JjXO2yrKjY28ar5KEUazw8pyfNKyMJAaXda3avQrgzVtoY6Cj+aXBjYJfKVsl3rigOApj7/06VWoRGsOAXqdbAlAQo+34Wr0Lg3EN5SNTrz6HIt26ic8yIwDpRhfx91v/hMxJJDvqtXcTzmRZbntPT4kwOkq9n34QVyW0lPyf8suHGa9JF3TT0P47vTv8PuMuN0GA==;rYGsUsh4SOLYKnCmAT1jMQ=="
 ---

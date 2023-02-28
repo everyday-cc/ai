@@ -2,6 +2,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-02-14-new-ai-tool-guides-users-away-from-incendiary-language.md",
+      "title": "New AI tool guides users away from incendiary language",
+      "excerpt": "To help identify when tense online debates are inching toward irredeemable meltdown, Cornell University researchers have developed an artificial intelligence tool that can track these conversations in real-time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/979744",
+      "originalUrl": "https://www.eurekalert.org/news-releases/979744",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-14-touched-by-ai-competitive-intelligence-culls-new-data-insights.md",
       "title": "Touched by AI: Competitive intelligence culls new data insights",
       "excerpt": "“At IBM, we have an AI Ethics Board that supports a centralized governance, review and decision-making process for IBM ethics policies, practices, communications, research, products and services,” said Ramos. “Doing so helps your models adhere to ...",
@@ -1178,58 +1212,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-12-super-bowl-ad-slams-teslas-full-self-driving-tech.md",
-      "title": "Super Bowl ad slams Tesla’s ‘Full Self-Driving’ tech",
-      "excerpt": "The ad cost $598,000, a Dawn Project spokesperson told CNN. It shows a Tesla Model 3, which allegedly has the Full Self-Driving mode turned on, running over a child-sized dummy on a school crosswalk, and then a fake baby in a stroller, in a series of tests ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
-      "originalUrl": "https://www.cnn.com/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 479,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230125081548-telsa-logo-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
-      "publishedDateTime": "2023-02-12T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

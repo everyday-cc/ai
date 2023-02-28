@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/world/elon-musk-recruits-team-to-d
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html/amp"
 type: article
 quality: 59
-heat: 89
+heat: 90
 published: true
 
 provider:

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-02-28-central-banks-split-on-machine-learning-ai-technologies.md",
+      "title": "Central banks split on machine learning, AI technologies",
+      "excerpt": "Central bank respondents use a number of forms of machine learning (ML) and artificial intelligence (AI) tools, the Fintech Benchmarks 2023 reveal. The technologies are not without their challenges, however.",
+      "sourceUrl": null,
+      "webUrl": "https://www.centralbanking.com/benchmarking/fintech/7954616/central-banks-split-on-machine-learning-ai-technologies",
+      "originalUrl": "https://www.centralbanking.com/benchmarking/fintech/7954616/central-banks-split-on-machine-learning-ai-technologies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2022-09/benchmark-banner-FINTECH-2023.jpg?h=77c6f3fe&itok=k3gW3p0e",
+          "width": 1200,
+          "height": 743,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Central Banking",
+        "domain": "centralbanking.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning.md",
       "title": "Tune ML models for additional objectives like fairness with SageMaker Automatic Model Tuning",
       "excerpt": "Model tuning is the experimental process of finding the optimal parameters and configurations for a machine learning (ML) model that result in the best possible desired outcome with a validation dataset. Single objective optimization with a performance metric is the most common approach for tuning ML",
@@ -158,7 +202,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-machine-learning-market-size-share-outlook-and-forecast-to-2028-2023-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -210,7 +254,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-courses-market-2023-2029-latest-developments-and-share-insights-100-pages-2023-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -355,6 +399,60 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-artificial-intelligence-applications-in-investing.md",
+      "title": "Artificial Intelligence Applications In Investing",
+      "excerpt": "Artificial intelligence can make investing more straightforward, bringing investment insights to the masses. Here’s how you can use AI to build your portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f978e9df3e33323a36e753/0x0.jpg?format=jpg&width=1200",
+          "width": 1188,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/",
+      "publishedDateTime": "2023-02-24T17:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
       ]
     },
     {
@@ -1346,86 +1444,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-d-wave-announces-broad-feature-selection-initiative-to-accelerate-aiml-workflows-expansion-of-quantum-cloud-service-to-israel.md",
-      "title": "D-Wave Announces Broad Feature Selection Initiative to Accelerate AI/ML Workflows, Expansion of Quantum Cloud Service to Israel",
-      "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software, and services and the world's first commercial supplier of quantum computers, today announced a series of product and business updates,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/02/16/9761647.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/02/16/9761647.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-the-impact-of-ai-and-machine-learning-on-financial-education.md",
-      "title": "The Impact of AI and Machine Learning on Financial Education",
-      "excerpt": "One of the most common challenges faced by students pursuing financial education is dealing ... It is exactly where the use of AI-based tools and machine learning offer help.",
-      "sourceUrl": null,
-      "webUrl": "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/",
-      "originalUrl": "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://finchannel.com/wp-content/uploads/2023/02/desctopworking1-copy.jpg",
-          "width": 900,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial",
-        "domain": "finchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Education"
       ]
     }
   ],

@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-24-ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake.md",
+      "title": "AI Startups Boom In San Francisco Amid $100 Billion Google Mistake",
+      "excerpt": "San Francisco’s AI startup scene is blowing up thanks to the ChatGPT craze and investors including Y Combinator, Bessemer Venture Partners, Coatue, Andreessen Horowitz, Tiger Global, Mark Benioff's Time Ventures and Ashton Kutcher's Sound Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ec34c9ea9d35758ecaa5b2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/amp/",
+      "publishedDateTime": "2023-02-23T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-24-blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform.md",
+      "title": "Blue Motor Finance Partners With Zinia for Implementation of Decision Intelligence AI Platform",
+      "excerpt": "Press Release Fintech lender, Blue, has announced a new partnership with Zinia, the pioneering Decision Intelligence company, to supercharge AI driven decisions across the business.Blue is a technology-focused lender delivering innovative motor finance solutions",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/",
+      "originalUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/",
+      "publishedDateTime": "2023-02-23T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-google-photos-ai-powered-magic-eraser-is-now-a-google-one-subscription-perk.md",
       "title": "Google Photos’ AI-powered ‘Magic Eraser’ is now a Google One subscription perk",
       "excerpt": "But it won’t be free. Today, Google announced that the popular tool, which uses AI to remove unwanted content from images, will become available to Google One subscribers in addition to existing Pixel owners. Google One subscribers will receive a small ...",
@@ -49,49 +143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise.md",
-      "title": "IBM’s Cloud AI Supercomputer Vela Builds AI Foundation Models For Enterprise",
-      "excerpt": "The recent publicity around ChatGPT and other large language models (LLM) has brought attention to the use of foundation models as a fundamental business tool. IBM Research developed its own AI supercomputer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/02/23/ibms-cloud-ai-supercomputer-vela-builds-ai-foundation-models-for-enterprise/amp/",
-      "publishedDateTime": "2023-02-23T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1172,59 +1223,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-cognitive-services-market-business-overview-2023-and-forecast-to-2030-ibm-microsoft-aws-baidu.md",
-      "title": "Cognitive Services Market Business Overview 2023, and Forecast to 2030 | IBM, Microsoft, AWS, Baidu",
-      "excerpt": "It gives a wide outline of the global Cognitive Services Market and figures for key fragments. The report gives a nitty gritty examination of working organization fragments, item portfolios, business execution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-business-overview-2023-and-forecast-to-2030-ibm-microsoft-aws-baidu-2023-02-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-business-overview-2023-and-forecast-to-2030-ibm-microsoft-aws-baidu-2023-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T22:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

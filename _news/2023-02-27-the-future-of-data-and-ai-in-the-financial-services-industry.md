@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Leading In The AI-Powered World"
-    excerpt: "According to a report, the global AI market share was $119.78 billion USD in 2022. By 2030, it is expected to hit $1,597.1 billion USD, registering an impressive CAGR of 38.1%. From industries like healthcare, technology, manufacturing, fintech ..."
-    publishedDateTime: 2023-02-24T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/02/24/leading-in-the-ai-powered-world/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Sensing The External World At Signal AI"
     excerpt: "But that is just what Signal AI is doing with machine learning. They produce “external intelligence” intended as an aid to decision-making. It could also be called “environmental sensing.” The London-based company uses AI to disambiguate,"
     publishedDateTime: 2023-02-24T17:47:00Z

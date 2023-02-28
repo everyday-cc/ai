@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-02-12-super-bowl-ad-slams-teslas-full-self-driving-tech.md",
+      "title": "Super Bowl ad slams Tesla’s ‘Full Self-Driving’ tech",
+      "excerpt": "The ad cost $598,000, a Dawn Project spokesperson told CNN. It shows a Tesla Model 3, which allegedly has the Full Self-Driving mode turned on, running over a child-sized dummy on a school crosswalk, and then a fake baby in a stroller, in a series of tests ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
+      "originalUrl": "https://www.cnn.com/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 479,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230125081548-telsa-logo-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
+      "publishedDateTime": "2023-02-12T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-12-googles-300m-ai-bet-startup-tackles-long-covid-and-giving-computers-a-sense-of-smell.md",
       "title": "Google's $300M AI bet, startup tackles long Covid, and giving computers a 'sense of smell'",
       "excerpt": "One major startup story you need to know As the world remains captivated by OpenAI's artificial intelligence tool ChatGPT, Google is making sure it doesn't fall too far behind in the AI race.",
@@ -1111,58 +1163,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-microsoft-has-plans-to-shove-its-bing-ai-into-word-powerpoint-and-more.md",
-      "title": "Microsoft Has Plans to Shove Its Bing AI Into Word, PowerPoint, and More",
-      "excerpt": "as the company demoed its AI-powered Viva Sales system last week. The company said in the demo that the “Azure Open AI” can generate a draft based on the type of response a user requests. Microsoft Viva Sales generative AI experience The new Bing ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/microsoft-bing-ai-powerpoint-word-prometheus-1850098510",
-      "originalUrl": "https://gizmodo.com/microsoft-bing-ai-powerpoint-word-prometheus-1850098510",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/62b32458baf04667c8754071c866f6f3.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -34,20 +34,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 99
-  - title: "Microsoft Wants ChatGPT to Control Robots Next"
-    excerpt: "On October 26, 1984, Orion Pictures released The Terminator, a movie about genocidal AI-powered robots unleashed by a tech company. Unfortunately, the executives at Microsoft must have been doing ..."
-    publishedDateTime: 2023-02-23T15:15:00Z
-    webUrl: "https://gizmodo.com/ai-chatgpt-microsoft-control-robots-terminator-1850145030"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 86
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2bdc7fe7d3626985ed3e4a60fc7b7e4c.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Better Artificial Intelligence Stock: Cloudflare vs. Microsoft"
     excerpt: "Both companies could win big from adopting artificial intelligence-enabled applications, but which is the better bet?"
     publishedDateTime: 2023-02-25T12:36:00Z
@@ -192,14 +178,14 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 35
-  - title: "Microsoft brings Bing’s AI chatbot to mobile devices and adds voice support"
-    excerpt: "The software giant announced the move today alongside several other AI-focused product updates ... It supports more than 100 languages and also provides the option to translate between them. “Available on iOS and Android today, the Bing mobile app ..."
-    publishedDateTime: 2023-02-23T15:31:00Z
-    webUrl: "https://siliconangle.com/2023/02/22/microsoft-brings-bings-ai-chatbot-mobile-devices-adds-voice-support/"
+  - title: "Spirent Joins the Microsoft Azure Operator Nexus Ready Program"
+    excerpt: "Spirent Communications plc (LSE: SPT), a leading provider of test and assurance solutions for next-generation devices and networks, today announced a collaboration with Microsoft for the pre-certification of third-party network functions (NFs) on the new Microsoft Azure Operator Nexus platform."
+    publishedDateTime: 2023-02-28T08:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/02/28/9767353.htm"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 34
   - title: "GSMA debuts open API toolkit as AWS and Microsoft roll out new carrier offerings"
     excerpt: "The GSMA Association, the influential telecommunications industry group, is rolling out a new toolkit for creating applications that integrate with multiple carrier networks. The technology is known as the GSMA Open Gateway and made its debut today at MWC Barcelona 2023."

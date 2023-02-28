@@ -138,6 +138,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Beyond ChatGPT: 14 Mind-Blowing AI Tools Everyone Should Be Trying Out Now"
+    excerpt: "AI tools are becoming accessible to any business or individual, transforming the way they work. The technology is no longer just for academics or tech giants, so here we look at some of the top tools everyone should be trying out."
+    publishedDateTime: 2023-02-28T06:32:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/02/28/beyond-chatgpt-14-mind-blowing-ai-tools-everyone-should-be-trying-out-now/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/02/28/beyond-chatgpt-14-mind-blowing-ai-tools-everyone-should-be-trying-out-now/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/02/28/beyond-chatgpt-14-mind-blowing-ai-tools-everyone-should-be-trying-out-now/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63fdad32ec46bc6e9117794f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Snap Warns Users About ChatGPT As Coca-Cola Adopts AI, Banks Ban It"
     excerpt: "Snapchat has added ChatGPT to help users plan trips and birthday gifts, but warns the AI can be tricked into saying anything and that it should not be relied on for advice. Other companies like Coca-Cola are going all-in,"
     publishedDateTime: 2023-02-27T20:27:00Z
@@ -666,6 +682,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "VJheV2YMkX9Es963PREVhYHJMh0gFO6MdK/NqNyI2yHCAZKaqPY9hltoOx7q15Nd05dL2zoTGbLfP43EMcyB8VGSeZfl+UjRv/uc2eBmcJf6jkUKpHVldGPYyUFSalH2nXIIvMxlv1De507bTZJNz8f0t9zK5dca6JkhoIpHlG6WkSUxDmZLwWm4i7cf/hpZ9vLfBe+UTsYMC2W82Z1dRRn/8MYIF+LeHVsGlW3xMU7KK1AxQA94EWlOSHhiuhFYJLhoa3BwTcV/wOfFVasutEcBaLLL6PAuOwD+KbW2aYn6Kg2Eko887R9blVuodwS780/QZiG5BCsrlYtDB5urlpsQBvkAL+ipFe1O1qzrMdM=;KVZ2klmV1vHp4rKjtoh6rA=="
+secured: "pisMD074m7OVP7BaD3HKNIbYLCey964Veo+Ad06rPkinp65bi1+mSX48E/Eee+9zk2W1foc2JMY20N2qltozjSjfFQ/LR4v6p1HlgcsFeMMUte3x7M+l3g07FhKGXka2pId//ovk3q5LQ2tL5Ag+wR6Td+UXDMoo0ifKhyCxG43uMDnrNboqTFDYCz+0y482A/KscrcYNDWngNBFyTBzrdnIrY543CS69lyG1DjAeswIfNq0MwJJwzCssCrL10xdT+3OATENAuZfnZ8Re34bays56RCT+xjIxQKaZhpo1lmGMbIzHy2ZpQ0NiXPoKIOJZKgCyrWyPE+WyZWy7iBwYD79Z8VdLrVYiPa44drhDceOqcBFuyQ8xH8DcrJ660rhQFj+QvQiHVIGsJbJcVo/aWyCtzYioIGb1KMDtmy3icsfrk3bXL04Vi/6u1ZAy+YOXf11gqbcxpQsobJx8onRD/+i3bCs4oNOFGMeRacYV4cqGdQ22IQp0ZnKxqu4FVcExsay9DaTxYuz3pQvaRfTDw==;HCEW7sYQ+MBZhMOUEuLUzg=="
 ---
 

@@ -169,6 +169,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Payment Terminal Market 2023: Growth by 2029 Top Players with Opportunities"
+    excerpt: "New “Face Recognition Payment Terminal Market” Report 2023 by Manufacturers and Forecast to 2029: This Report provides"
+    publishedDateTime: 2023-02-27T13:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-payment-terminal-market-2023-growth-by-2029-top-players-with-opportunities-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Robotics Market Forecast: An In-Depth Analysis of Industry Trends and Growth Potential 2023-2028"
     excerpt: "Feb 27, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Artificial Intelligence"
     publishedDateTime: 2023-02-27T09:28:00Z

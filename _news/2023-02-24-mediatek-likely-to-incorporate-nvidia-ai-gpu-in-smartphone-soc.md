@@ -71,6 +71,24 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 70
+  - title: "Nvidia results show its growing lead in AI chip race"
+    excerpt: "AI is taking over the tech industry and, according to research firm Gartner, the share of specialized chips such as GPUs that are used in data centers is expected to rise to more than 15% by 2026 ..."
+    publishedDateTime: 2023-02-24T01:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-results-show-its-growing-lead-in-ai-chip-race-0"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "AMD slowly catching up to Nvidia in GPU sales"
+    excerpt: "Thanks to its highly scalable GPU architectures, AMD GPUs are now powering a wide range of devices from consoles to PCs to mobiles."
+    publishedDateTime: 2023-02-24T13:35:00Z
+    webUrl: "https://www.ibtimes.co.uk/amd-slowly-catching-nvidia-gpu-sales-1713323"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 36
 
 secured: "H5546hqovy7IV6Bntv0wjLuuinuWZluPcFGhlCqv0dpnmnskQnzR+KR/bn88GRXuaIt4zEV3KJVFUmMF5/3A99rMign30BMuS0HsMQ3imhYgnXPaiImzVbDnHnoOd9MrEzsxB358OR1djFNMoJML8wuWWR3ujaQpWQM5K5s61AaXd0BzaVrUe4CzU2shOtpfJYG7wNb7Oaj2dC2FvuvqBT+spt1Ijaq6MmvmAmk/hei7T/1XA++JeYjH/7Iz4U6uu+8P3FwBX69eJwB8Rq+i+gQ2NuCu0E8GrHE8cXy6AI/00+5bIqEDPK7mP6gGFdtCV40l4LyMXDPmo1BEhNi8sTtoSsGOpxUC/iC1K2J9YNmJcTIcGzsE+FK3MwVv4TNbx8dQTy5cOHVmbxe7yxzdQfeRHYGbJt9Jl9i618WkKwBurKDhVAMZLAFQ/LJjoVHZsV7bfPeWPyqg6YIgRmfLEIpLC1MjGm18oobV3SjI3ILY4EddDyy+AloRu8puGhxH5AS22zWWPTd+1xQOTHA84w==;xj28/VMLlg+lsvkP0bk8XA=="
 ---

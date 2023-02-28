@@ -2,6 +2,58 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-01-10-how-to-put-learners-at-the-center-of-learning.md",
+      "title": "How To Put Learners At The Center Of Learning",
+      "excerpt": "Learning personalization is in order, and as I’ll discuss, it’s easier than you probably think. So, why don’t more companies put individual learners at the center of learning? Typically, it’s not because they don’t want to.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/10/how-to-put-learners-at-the-center-of-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/10/how-to-put-learners-at-the-center-of-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62a38dfdc25c1a78a8876076/0x0.jpg?format=jpg&width=1200",
+          "width": 839,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/10/how-to-put-learners-at-the-center-of-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/01/10/how-to-put-learners-at-the-center-of-learning/amp/",
+      "publishedDateTime": "2023-01-10T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-top-machine-learning-trends-to-watch-out-for-in-2023.md",
       "title": "Top Machine Learning Trends to Watch out for in 2023",
       "excerpt": "Using automated machine learning, professionals can design effective tech models that improve production and efficiency. Fremont, CA: We can",
@@ -1108,49 +1160,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-more-driverless-cars-are-hitting-the-roadways-in-austin.md",
-      "title": "More driverless cars are hitting the roadways in Austin",
-      "excerpt": "AUSTIN, Texas — Driverless cars are on the roadways of Downtown and Central Austin. The cars are part of service similar to Uber called Cruise LLC. The company is based out of San Francisco and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kvue.com/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
-      "originalUrl": "https://www.kvue.com/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kvue.com/assets/KVUE/images/27bd3c50-bb34-423f-b4a9-ad85a9766c1c/27bd3c50-bb34-423f-b4a9-ad85a9766c1c_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kvue.com/amp/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
-      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/money/economy/boomtown-2040/driverless-cars-roadways-austin-cruise-2023/269-ff9c6f48-4e71-4b45-81bd-670ccb4324ca",
-      "publishedDateTime": "2023-01-09T16:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVUE",
-        "domain": "kvue.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

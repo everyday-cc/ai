@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Technology Market Size 2023 Growing Rapidly with Recent Developments by 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-02-23T16:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-2023-growing-rapidly-with-recent-developments-by-2026-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Market International Business Analysis, Development Outlook and Regional Strategies 2029"
     excerpt: "Feb 26, 2023 (The Expresswire) -- [118+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Machine Learning Market” Size 2023 Key players Profiled in the Report ..."
     publishedDateTime: 2023-02-27T14:09:00Z

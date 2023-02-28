@@ -2,6 +2,40 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-02-08-self-driving-cars-would-be-a-climate-disaster.md",
+      "title": "Self-driving cars would be a climate disaster",
+      "excerpt": "Self-driving cars have an emissions problem. A recent study by researchers at the Massachusetts Institute of Technology measured the energy consumed by powerful onboard computers that serve as the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90846919/self-driving-cars-would-be-a-climate-disaster",
+      "originalUrl": "https://www.fastcompany.com/90846919/self-driving-cars-would-be-a-climate-disaster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T00:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-smartphone-vision-syndrome-hyderabad-woman-suffers-blindness-after-spending-hours-on-phone.md",
       "title": "Smartphone vision syndrome: Hyderabad woman suffers blindness after spending hours on phone",
       "excerpt": "Long-term use of devices such as computers, smartphones, or tablets can cause various eye-related disabling symptoms, referred to as computer vision syndrome (CVS) or digital vision syndrome ...",
@@ -1068,58 +1102,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-artificial-intelligence-opens-the-door-to-more-effective-antibodies-potential-applications-for-covid-19.md",
-      "title": "Artificial Intelligence Opens The Door To More Effective Antibodies - Potential Applications For Covid-19",
-      "excerpt": "Advances in artificial intelligence antibody modeling may pave the way to reduce time spent during the identification process. Rather than sorting through millions of B-cell receptor sequences ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/02/07/artificial-intelligence-opens-the-door-to-more-effective-antibodiespotential-applications-for-covid-19/",
-      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/02/07/artificial-intelligence-opens-the-door-to-more-effective-antibodiespotential-applications-for-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e27f0c676fbc18e84c9761/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/02/07/artificial-intelligence-opens-the-door-to-more-effective-antibodiespotential-applications-for-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/02/07/artificial-intelligence-opens-the-door-to-more-effective-antibodiespotential-applications-for-covid-19/amp/",
-      "publishedDateTime": "2023-02-07T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

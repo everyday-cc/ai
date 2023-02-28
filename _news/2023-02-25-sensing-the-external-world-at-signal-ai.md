@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Leading In The AI-Powered World"
-    excerpt: "According to a report, the global AI market share was $119.78 billion USD in 2022. By 2030, it is expected to hit $1,597.1 billion USD, registering an impressive CAGR of 38.1%. From industries like healthcare, technology, manufacturing, fintech ..."
-    publishedDateTime: 2023-02-24T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/02/24/leading-in-the-ai-powered-world/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "The untapped potential of AI in financial services"
     excerpt: "The rapid advancement of artificial intelligence (AI) technologies has transformed business operations across the globe. From customer service chatbots to adaptive cyber-security, the applications of AI are limitless."
     publishedDateTime: 2023-02-27T11:12:00Z

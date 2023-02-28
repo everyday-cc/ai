@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-01-23-honda-planning-self-driving-electric-vehicle-fitted-with-ai.md",
+      "title": "Honda planning self-driving electric vehicle fitted with AI",
+      "excerpt": "Honda Motor Co. said it is developing a self-driving compact electric car equipped with artificial intelligence (AI) that automatically picks up passengers at any location of their choosing. Honda ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "originalUrl": "https://www.asahi.com/ajw/articles/14760121",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p.potaufeu.asahi.com/c996-p/picture/27207743/e21cf678151f1180730d954a38af462c.jpg",
+          "width": 660,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "朝日新聞社",
+        "domain": "asahi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-23-how-ai-and-automation-technology-can-help-accountants.md",
       "title": "How AI and Automation Technology Can Help Accountants",
       "excerpt": "The right way to strike a balance between human brainpower and modern technology involves utilizing artificial intelligence for aspects that make work easier for humans while allowing humans to use their unique brainpower in ways that AI cannot yet function.",
@@ -1043,49 +1086,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-robotics-drug-control-on-senators-mind-this-week-letters.md",
-      "title": "Robotics, drug control on senator’s mind this week (Letters)",
-      "excerpt": "As usual, the beginning of formal session has been exceptionally busy ahead of our bill filing deadline. All bills filed prior are guaranteed a public hearing, an important step.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html",
-      "originalUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V3HL2JSC25CP7NTDBBGK6Q52JA.jpg",
-          "width": 2385,
-          "height": 2385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/westfieldnews/2023/01/robotics-drug-control-on-senators-mind-this-week-letters.html?outputType=amp",
-      "publishedDateTime": "2023-01-20T22:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

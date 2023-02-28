@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Technology Market Size 2023 Growing Rapidly with Recent Developments by 2026"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-02-23T16:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-2023-growing-rapidly-with-recent-developments-by-2026-2023-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Latest Artificial Intelligence Software Market 2023-2029: Thinking From The Worldwide Experts | New Comprehensive Research Study by 118 Pages"
     excerpt: "Artificial Intelligence Software Market“ | New Research Visions Report 2023 with Page of no. (118), By Applications"
     publishedDateTime: 2023-02-28T02:57:00Z

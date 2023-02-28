@@ -70,6 +70,6 @@ related:
       domain: richmond.com
     quality: 17
 
-secured: "2u6lHWjhjMHFeZ/8cWka9j8BRsSj4dBt1O+13GHeoiE1BK1/JniPflgr79O99dh5zb3U6CcbEctm2FoWDOHkAbhUCmxQSE33jpc8GtrPPMY8J7LFowy885B8esRXA+weVrxcFW6Dfu8rw4fITb8IlWrYithi31FrXWpiOP9gHGfOSm62FWJ4t97lwpcYjjFtHg7XG6ndS5MrNmqBdXMbDQGt93nwM+rltKqk3qlVOXVIM+09od2Rjpt+fGeityjUvjTQGK+85N6k5lbV0a7gSa7LqBtpqcGjtbK6n/HVZU6QLTo9VGm3UBrBERnNV6nVxg6WCQG1OaDCnQybHfQKv7gXF2xG4N9zqfOvwY/hDxk=;ni6HdxyNj46q6ZCapCHjIg=="
+secured: "phlPlUHhMdwopASUMiSgjrUBkwDKBefxk5wWMOs0/fy3Oxz0uPnTuDim8nbHDxsgLlfkDUJyHHdwC+qpHW/rbRtssYUYnCjlBhG7WeL6/Xql7WJrVEGYx4rz2L+u+rB16BEVvO6XGUT9tIOY8XBsNLjDBrkhcTFTl7851t8B+ybiOZGAk0kCHof43dNWM0sKDNgep/Zxp6yWsYlzZ7Auy5vrXu/N0NoE/y25krONTTJvyBhdQVU3QqC+VMNg+iuseaAmgj8c/EM/1jTwCLzFrmPod3OOAVQyfcjnY8xZYxQ12ZL+YjAE5PFuAHeIEwFzcJ4jprU31sub4EReT2wNeIe/hbFM73mwyuiR21n3eps=;58kE/GJhiLoOevO0XWsuCg=="
 ---
 

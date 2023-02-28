@@ -8,8 +8,8 @@ webUrl: "https://theconversation.com/is-there-a-way-to-pay-content-creators-whos
 ampWebUrl: "https://theconversation.com/amp/is-there-a-way-to-pay-content-creators-whose-work-is-used-to-train-ai-yes-but-its-not-foolproof-199882"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/is-there-a-way-to-pay-content-creators-whose-work-is-used-to-train-ai-yes-but-its-not-foolproof-199882"
 type: article
-quality: 45
-heat: 45
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.theconversation.com/files/512148/original/file-20230224-22-j2ktnx.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
