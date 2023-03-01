@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Oversight may become common feature of facial recognition policies for police"
+    excerpt: "Biometric surveillance legislation in North American is trying to find a balance between public safety, public privacy and public oversight."
+    publishedDateTime: 2023-03-01T22:01:00Z
+    webUrl: "https://www.biometricupdate.com/202303/oversight-may-become-common-feature-of-facial-recognition-policies-for-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
+        width: 2048
+        height: 792
+        isCached: true
   - title: "TTD to introduce facial recognition system today"
     excerpt: "TIRUMALA: The TTD is set to introduce Facial Recognition Technology on an experimental basis at Vaikuntam-2 and in the Accommodation Management System from March 1 onwards. The idea is to"
     publishedDateTime: 2023-02-28T20:09:00Z

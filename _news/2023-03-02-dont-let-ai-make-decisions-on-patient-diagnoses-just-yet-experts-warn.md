@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/dont-let-ai-make-
 webUrl: "https://www.beckershospitalreview.com/innovation/dont-let-ai-make-decisions-on-patient-diagnoses-just-yet-experts-warn.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "How Doctors Use AI to Help Diagnose Patients"
-    excerpt: "Doctors aren’t relying solely on artificial intelligence, but some are using it to help reach diagnoses or spot risks."
-    publishedDateTime: 2023-02-28T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/how-doctors-use-ai-to-help-diagnose-patients-ce4ad025?mod=wsjhp_columnists_pos1"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
 
 secured: "AqviJ0TNSulYk3yZWQTXBKz/e4njN03wpHMv9VmZ4E+h6iD0N8nO+i5C/ItIiHzp2LfnlGTUNBwKuf3Pdrj8/RneeBWsAIkkaukICqezxM9dZXHFuTDiV5bJn7gId5qujMEors4/00FXXw8odUZXT0vC61h/yK9wsz8Lwm9nWCJlk6nszsmmos320z5CJirg5HxEeP5KPk4e64VIqyCyTPtoLa3Yq54Y7X7jt/7hy0AlThLs6kIdOBxM8EINQKrNN2Fu98xkytdp+x77D7PEDEDPR2VuHr6M4s5CQhjObufAt2t4KvuWLo5glYQmSbHDF+QevYWgGgQPKSfv9YlJ9QSNReanDCangwqsslc99NM=;4qVVV2SDwfjrgJlrVCrRSw=="
 ---

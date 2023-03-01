@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T20:20:00Z
 originalUrl: "https://menafn.com/1105685465/Investornewsbreaks-Predictive-Oncology-Inc-NASDAQ-POAI-CEO-Talks-New-Cvergenx-Partnership-During-Proactive-Interview"
 webUrl: "https://menafn.com/1105685465/Investornewsbreaks-Predictive-Oncology-Inc-NASDAQ-POAI-CEO-Talks-New-Cvergenx-Partnership-During-Proactive-Interview"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Mena FN

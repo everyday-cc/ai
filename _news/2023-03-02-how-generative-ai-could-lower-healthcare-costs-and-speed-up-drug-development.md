@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/"
 type: article
-quality: 103
-heat: 143
+quality: 105
+heat: 145
 published: true
 
 provider:

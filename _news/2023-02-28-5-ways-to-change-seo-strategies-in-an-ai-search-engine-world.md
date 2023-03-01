@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Virtual fashion styling with generative AI using Amazon SageMaker "
+    excerpt: "The fashion industry is a highly lucrative business, with an estimated value of $2.1 trillion by 2025, as reported by the World Bank. This field encompasses a diverse range of segments, such as the creation, manufacture, distribution, and sales of clothing, shoes, and accessories. The industry is in"
+    publishedDateTime: 2023-03-01T19:59:09Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/virtual-fashion-styling-with-generative-ai-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
   - title: "AI-generated content detection tools put to the test"
     excerpt: "The AI chatbot had more than a million users in just 4 days ... including text completion, question answering, language translation and even text generation. Its ability to generate coherent and realistic responses to complex prompts has made it a valuable ..."
     publishedDateTime: 2023-03-01T14:15:00Z

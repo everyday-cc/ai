@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Oversight may become common feature of facial recognition policies for police"
+    excerpt: "Biometric surveillance legislation in North American is trying to find a balance between public safety, public privacy and public oversight."
+    publishedDateTime: 2023-03-01T22:01:00Z
+    webUrl: "https://www.biometricupdate.com/202303/oversight-may-become-common-feature-of-facial-recognition-policies-for-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
+        width: 2048
+        height: 792
+        isCached: true
 
 secured: "hJNdcoH3FZRaFJg2VVgoY+CVqdDjO4tK7q+GWMQXtGLsdYcvwgAT9BmrMLH60GfwU8Q/2qX9Ow9yEwHvkjlTFdxxA8bVJeHdU1KhAn1k1H3IPYpwCGGUZQExTTWOLyQIvz2opgCKd9cPkTsHba5BNdnj+dPXI/MVNKW/0eVocOg9Si4bixRTj4FeDAAqHPovBuWDsXjc1trNGS2xOwmaDPgiTotgIIgwQMQTzZ2fatV9gtAhg7i3YlR+BNDV/n0e3l3eVQnBMHbhTP5QoVaDaLLdIOWE3pDafXF7mzfKIEcRhIctsoxbE7Zm0FyGRejS+RcbNQ5zfTkU0ZiVziKfwPAomw3oUzSUeR9xgQ7CvsUOibdpSnZeDtUsLNcCgTq+BBbiAZSftWhY3mRNSUsDvIHGskYl+cTRrosHdTguGaGogiC07HJc8rVT9VUpJ15Q3ZeBGNhDIowSrqNAKtUB/TwCk5dTO1GdW6BMD5mNiNwlK7QqV3Uo4H/uc1c9wP04tC8HxDDpyorJ+HsHa9A9Vw==;lR3M9IPAtbnGxCESQovqQw=="
 ---

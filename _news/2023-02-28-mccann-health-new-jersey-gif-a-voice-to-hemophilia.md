@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-28T09:48:00Z
 originalUrl: "https://www.lbbonline.com/news/mccann-health-new-jersey-gif-a-voice-to-hemophilia"
 webUrl: "https://www.lbbonline.com/news/mccann-health-new-jersey-gif-a-voice-to-hemophilia"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: lbbonline

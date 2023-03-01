@@ -41,22 +41,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Facebook rolls out new AL language model, LLaMA: What is it, how is it different from ChatGPT and more"
-    excerpt: "Meta, Facebook’s parent company, continues to do significant work in this field and is releasing a new AI language generator named LLaMA today. “Today"
-    publishedDateTime: 2023-02-25T03:06:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/facebook-rolls-out-new-al-language-model-llama-what-is-it-how-is-it-different-from-chatgpt-and-more/articleshow/98223488.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/facebook-rolls-out-new-al-language-model-llama-what-is-it-how-is-it-different-from-chatgpt-and-more/amp_articleshow/98223488.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/facebook-rolls-out-new-al-language-model-llama-what-is-it-how-is-it-different-from-chatgpt-and-more/amp_articleshow/98223488.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 28
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-98223457,width-1070,height-580,imgsize-15346,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
 
 secured: "+B8HttTbf4XPvAQdKbICR04c++NAPmrOyKNlEtH0Q7OECl85WEeXjucx2XKMxgpFzJSz/+QWEYw6vULzbwuqLNrEiLoNAN0uteMQOJYTcdYwLAaN6OgwTzLjQEipkvubWsDw1zE5dqirF+V3hpFFMng2Lxjozf5xHA91IaRPRKk1CCH0IW3Tj50THHQnDLfIk1esSwucHiaDue0fNa6Z8lF5Iwqe3hI1nQRfGHTpEinQv/6HiBdpGvGTHglRpRXyn4AQKtJmBtsCKWSJnVhRfJk31ElWQNqfs1XSZltOHJIldQ1RrCqflrvFxdNlUfaYCXUSR+qiaGDQdznC97hxY3LtiqndRMs3ZBuyjzxwQ+E=;2BQoMZELjJnMD5wsgQuV4Q=="
 ---

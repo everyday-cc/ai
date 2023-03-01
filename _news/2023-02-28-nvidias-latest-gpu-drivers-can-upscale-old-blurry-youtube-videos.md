@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/2/28/23618245/nvidia-rtx-video-super
 webUrl: "https://www.theverge.com/2023/2/28/23618245/nvidia-rtx-video-super-resolution-upscale-videos-rtx-gpu"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,38 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Nvidia’s new AI upscaling tech makes low-res videos look sharper in Chrome, Edge"
+    excerpt: "Nvidia's latest GPU driver introduces its new AI-based upscaling technique for making lower-resolution videos streamed offline look better on a high-resolution display. Now available via the GeForce driver 531."
+    publishedDateTime: 2023-03-01T21:06:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/geforce-rtx-3090-product-gallery-inline-850-32x_345947f0-a017-4ca6-8019-2dc97a0d777f-prv-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "I'm 100% enabling Nvidia's new AI upscaling tech for Twitch streams but it's no DLSS for video"
+    excerpt: "RTX Video Super Resolution is a neat new tool, but don't go expecting miracles—480p still looks a lot like 480p."
+    publishedDateTime: 2023-02-28T16:59:00Z
+    webUrl: "https://www.pcgamer.com/nvidia-rtx-vsr-tested-streaming-performance/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 27
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/MKTmBeRgGL8inHzeAfj2Q5-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "QcNRpNnaGcBaOLeejc8C9AtmfQ1acoMieosPWpowYBCfw1per1L7USXJslO6SZRk4t4Wz234gC3Y2nqhHU71mx4OsNgz3s4Vw7d4087uFVbXPPPbwkbSKN8SReYVjC+QJSYQuH9vRJN9lKw4tUzAMRNZcdOCGogJtW21ArzQrOpMuvB+Doj5DZ2b5bvpiBW25rSFq7zKjbLgZgl+Ic/HEnVYXUes8BtNGPMiSmqoigFdf4D2LP9VTTLhj+/Y1M2/fRHWeMKF0GJNdEab9fffX1T2tK67Zyy2jv2meb23as1Ltd3REqMSmEWhXj+6vf2fSbk/qUy7isNE4G18vV9yLjY4nHHFL2II2MOoV/Js8UH8zu5YUkDTx+U1ZJhARHzyBq+UL59AJ3lv2OSgXaBDQRSMenvxsqFoiXDV7jF9Zhq0PCpmt83w/zCGswROxg+rXKyw4PSYf54WLcG/g6Oo1j9CKNNG3Wq8CuaJ2/JcIWC9RTH3qWZHaYtVOc79jcvNgWOn94Qbm9jGSDyzDE69Qw==;9pqhNkzaecAy6DEfgDbPcw=="
 ---

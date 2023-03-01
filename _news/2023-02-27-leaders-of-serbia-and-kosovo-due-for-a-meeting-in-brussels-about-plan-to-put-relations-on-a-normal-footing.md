@@ -65,6 +65,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Serbian president vows to oppose Kosovo's UN membership: Prime Minister Kurti"
+    excerpt: "I do not want to and there can be no discussion on mutual recognition, recognition, and Kosovo’s membership in the UN,’ says President Aleksandar Vucic - Anadolu Agency"
+    publishedDateTime: 2023-03-01T20:35:00Z
+    webUrl: "https://www.aa.com.tr/en/europe/serbian-president-vows-to-oppose-kosovos-un-membership-prime-minister-kurti/2834899"
+    type: article
+    provider:
+      name: Anadolu Ajansi
+      domain: aa.com.tr
+    quality: 1
 
 secured: "XzmUUud9ITfxIkV+O7PbW3NG4jAAUElTUOxKmuaAu9m+OxJHYSiUD3yhw7gAJg+IwwhIDwNSm9eZMfVj+y3LuG59S+CueRSB8Fvu4gWKCoHg2jGZRGVBgaItcl+Lj8KYieh8E1q7AveJVsq9/hrgKrGBTuKCCSD3Upy7VaJ3+jVewwRY+h4QuvfWToy6I2VouROJTiPSHClrwt9tAlJTQJ1hQAZ9tDZdXUYtoHpFmTl/scXaDlkZePDQf3jDMFV496PBJLA1tAI3+b1SZHQ0ujoMHUQLEaPdQ9hx3FWfzrGR2+b4yKR8G7MoF8r4H+AVohPDiUWTEYTDTMDTjYQ9JNzbBzq3RYH3V3fM5aWGr8rb99vQEe9YJ28DKQf5ewC8dCOZCJSzhx9dbUz8xnXwFWVqRxY9glnhJKB+/1PXFVu+DmO4UiUFJCQHjSGbtUedTW2tgmD3tgmN9hDrtM7xQwfJMIatz/XdKBXb09r0TrC33ntoSq8uGoa7+4+sQJX4rVFhUuSc1Al2x6GxvEyQ/Q==;rBdwJ2rAJ9u551EpiVhYiA=="
 ---

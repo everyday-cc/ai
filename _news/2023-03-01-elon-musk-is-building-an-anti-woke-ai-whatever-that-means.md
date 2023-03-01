@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk taking on 'danger' posed by woke AI — including tool created by company he co-founded"
-    excerpt: "Elon Musk is reportedly putting together a research team to combat what he has termed the deadly threat of woke artificial intelligence"
-    publishedDateTime: 2023-03-01T14:51:00Z
-    webUrl: "https://www.christianpost.com/news/elon-musk-taking-on-dangerous-woke-ai.html"
+  - title: "Elon Musk now feels Artificial Intelligence existential anxiety"
+    excerpt: "Tech billionaire Elon Musk said that he still prefers to be alive to witness artificial intelligence (AI), even if he was feeling a bit of AI existential angst."
+    publishedDateTime: 2023-02-27T11:45:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/elon-musk-now-feels-artificial-intelligence-existential-anxiety-2ff4c848-8bd7-53ef-9e46-c6c300277336"
     type: article
     provider:
-      name: The Christian Post
-      domain: christianpost.com
-    quality: 27
-    images:
-      - url: "https://cdn.christianpost.com/files/original/thumbnail/25/25/252513.jpg"
-        width: 1200
-        height: 835
-        isCached: true
+      name: Independent Online
+      domain: iol.co.za
+    quality: 17
 
 secured: "dArakKXJZYjGDNnGO1948omcHwAc2/Fz+5o0Z639mjCOZkEulhkiEf0B8hNB0mNN6BF3BBJiipHyU684/lpiI9PeIvPmpNoLZr1TZMiMYtkp/FWdA+21y1Q8b6M7G++679gXqUYit3zh4J3ZXpMAwFRfAaZhK8Kff4ZnmQtYrclpynTmk9EP9GwGNp7PmiZ9U7baRuefzl/TFRttfRcxmX8Qxgv/PoB/MJQ41wa22IRLL43yrki408fFQekPffXRIFj5m4fuW+drvhJoPLNrTh9yHb+Sxvnbk+6y0xeEhrW7uOIRHfxhmCqifGwm3NgY97o98pvBSUsF2kqjkBpHz/SU5aATVwLfiLCViuTsCW7KHuWorcZknfC838zC0sJ4X308TQLppae+5g0k8gZUUo1cZLIX5xOz+WvVhQTsgv7He73XX5geN+CVLF5RT+msNtFuPdmLQkCOwd4w456/UhUkz40xFe2sM2do0oacI0uY2LVOlXNRlhJmBygshdZhVNONtGIGBvkXFEbxiWa3tQ==;Y4/q0hOqwvUSpY3NokmIvw=="
 ---

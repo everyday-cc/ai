@@ -27,47 +27,68 @@ images:
     isCached: true
 
 related:
-  - title: "Lidar Stocks Are Dropping. Self Driving Cars Are Taking Too Long."
-    excerpt: "Lidar can enhance vehicle safety and is a key enabler for what will hopefully become truly self-driving cars. In the coming year, about one in five Americans will live in a state that requires employers to disclose salary ranges in job postings."
-    publishedDateTime: 2023-03-01T17:16:00Z
-    webUrl: "https://www.barrons.com/articles/luminar-innoviz-stock-price-earnings-lidar-5e6e22e9"
-    ampWebUrl: "https://www.barrons.com/amp/articles/luminar-innoviz-stock-price-earnings-lidar-5e6e22e9"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-innoviz-stock-price-earnings-lidar-5e6e22e9"
+  - title: "Ford files patent to let self-driving cars drive away without their owners"
+    excerpt: "Ford recently filed a patent that'd allow self-driving vehicles to drive away from their owners in specific situations, such as instances of repossession."
+    publishedDateTime: 2023-03-01T21:00:00Z
+    webUrl: "https://www.shacknews.com/article/134400/ford-files-patent-solo-self-driving-cars"
+    ampWebUrl: "https://www.shacknews.com/article/134400/ford-files-patent-solo-self-driving-cars?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134400/ford-files-patent-solo-self-driving-cars?amphtml=1"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
+      name: Shacknews
+      domain: shacknews.com
+    quality: 42
     images:
-      - url: "https://images.barrons.com/im-734030/social"
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/01/ford-patent-self-driving-vehicles-repossess-themselves-news_feature.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
-  - title: "Luminar Wants to Sell Insurance. It Isn’t All About Lidar and Self-Driving Cars."
-    excerpt: "Lidar provider Luminar Technologies doesn’t want to be a run-of-the-mill car-parts supplier. It wants to be big in automotive safety and an early plan for a new business shows just how far the company will go to make that happen. Tuesday, Luminar (ticker ..."
-    publishedDateTime: 2023-02-28T18:31:00Z
-    webUrl: "https://www.barrons.com/articles/luminar-insurance-lidar-stock-analyst-day-d7da89a2"
-    ampWebUrl: "https://www.barrons.com/amp/articles/luminar-insurance-lidar-stock-analyst-day-d7da89a2"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-insurance-lidar-stock-analyst-day-d7da89a2"
+  - title: "This Tech Giant Leads The Pack In Self-Driving Patent Filings — It's Not Apple Or Google"
+    excerpt: "As the world moves toward green-energy vehicles, automakers, startups as well as tech companies have jumped into the fray. All the 5 big U.S. techs have some ongoing efforts on self-driving technology,"
+    publishedDateTime: 2023-02-28T05:20:00Z
+    webUrl: "https://www.benzinga.com/news/23/02/31082691/this-tech-giant-leads-the-pack-in-self-driving-patent-filings-its-not-apple-or-google"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31082691"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31082691"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
     images:
-      - url: "https://images.barrons.com/im-733199/social"
-        width: 1280
-        height: 640
+      - url: "https://cdn.benzinga.com/files/images/story/2023/02/28/self_driving_tech_photo_by_metamorworks_on_shutterstock.jpg?width=1200&height=800&fit=crop"
+        width: 771
+        height: 514
         isCached: true
-  - title: "Watch Waymo self-driving car navigating San Francisco in heavy rain"
-    excerpt: "The autonomous driving technology company Waymo appears to be making considerable progress when it comes to dealing with one of the biggest challenges facing self-driving cars — inclement weather. In videos posted to Twitter and YouTube by Daylen Yang ..."
-    publishedDateTime: 2023-03-01T14:01:00Z
-    webUrl: "https://www.driving.co.uk/news/technology/watch-waymo-self-driving-car-navigating-san-francisco-in-heavy-rain/"
+  - title: "Commentary: Companies oversell the self-driving capabilities of their cars, with horrific outcomes"
+    excerpt: "Tesla announced the recall of over 350,000 vehicles—more than 20,000 in Canada —due to a problem with its \"Full Self-Driving Capability\" system. This self-driving feature was found to possibly cause vehicles to misbehave when entering intersections or exceed the speed limits,"
+    publishedDateTime: 2023-02-27T19:34:00Z
+    webUrl: "https://techxplore.com/news/2023-02-commentary-companies-oversell-self-driving-capabilities.html"
+    ampWebUrl: "https://techxplore.com/news/2023-02-commentary-companies-oversell-self-driving-capabilities.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-commentary-companies-oversell-self-driving-capabilities.amp"
     type: article
     provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 34
+      name: techxplore
+      domain: techxplore.com
+    quality: 30
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/companies-oversell-the.jpg"
+        width: 1000
+        height: 567
+        isCached: true
+  - title: "Ford Files Deranged Patent For Self-Driving Cars that Repossess Themselves"
+    excerpt: "In the future, if you ever fall behind on your payments for your ridiculously overpriced car, it may not be the repo men that come a-knocking. Instead, your set of wheels may simply drive itself back to the dealership."
+    publishedDateTime: 2023-03-01T21:29:00Z
+    webUrl: "https://futurism.com/the-byte/ford-patent-cars-repossess-themselves"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 22
+    images:
+      - url: "https://wp-assets.futurism.com/2023/03/Ford.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ford files patent to allow self-driving cars to drive away from their owners"
     excerpt: "\"Every time the owner is in the vehicle\" the system can begin to play an \"incessant and unpleasant sound\" The vehicle will warn its owner in stages and strip-back functionality before driving away. Initially the system will target minor features like ..."
     publishedDateTime: 2023-03-01T15:01:00Z
@@ -82,24 +103,15 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "From ChatGPT to Computer Vision Processing: How Deep-Learning Transformers Are Shaping Our World"
-    excerpt: "Is that a dog in the middle of the street? Or an empty box? If you’re riding in a self-driving car, you’ll want the object detection and collision"
-    publishedDateTime: 2023-03-01T08:38:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/53556/from-chatgpt-to-computer-vision-processing.html"
+  - title: "Companies Oversell The Self-Driving Capabilities Of Their Cars, With Horrific Outcomes"
+    excerpt: "Tesla announced the recall of over 350,000 vehicles - more than 20,000 in canada - due to a problem with its“full self-driving cap"
+    publishedDateTime: 2023-02-26T19:51:00Z
+    webUrl: "https://menafn.com/1105648129/Companies-Oversell-The-Self-Driving-Capabilities-Of-Their-Cars-With-Horrific-Outcomes"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 10
-  - title: "Ford plans self-driving car that can repossess itself"
-    excerpt: "The soothsayers of Silicon Valley have promised for years that self-driving vehicles will open up new freedoms.It seems, however, that one of the world’s largest carmakers has another use in mind for the technology — one that can repossess itself if a buyer fails to keep up with payments."
-    publishedDateTime: 2023-03-01T14:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ford-car-patent-possesses-itself-rvw7hhxcg"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 4
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
   - title: "Companies oversell the self-driving capabilities of their cars, with horrific outcomes"
     excerpt: "This self-driving feature was found to possibly cause vehicles to misbehave when entering intersections or exceed the speed limits, posing a risk for safety. Create an account or sign in to continue with your reading experience. This is just another ..."
     publishedDateTime: 2023-02-27T20:57:00Z
@@ -108,15 +120,6 @@ related:
     provider:
       name: National Post
       domain: nationalpost.com
-    quality: 0
-  - title: "Will self-driving cars solve our traffic and street safety problems? A tech historian says no"
-    excerpt: "One common feature in the worlds of science fiction is a future in which humans get where they’re going in a self-driving car. From the Johnny cabs in “Total Recall” to the sleek, vertically driving vehicles in “Minority Report” to the autonomous taxis in HBO’s “Westworld,"
-    publishedDateTime: 2023-03-01T14:30:00Z
-    webUrl: "https://www.latimes.com/california/newsletter/2023-03-01/essential-california-autonomous-vehicles-promise-essential-california"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
     quality: 0
 
 secured: "ElFULsYroEA8aJHNbDBEiP+0uKMfnH7N/jch8qCU+/Rb9SEtqLVf3Kd/i0wxVm8NJfZpIIBefmhU5MoXrGtxh+WeBVjVPkEnVDg2SU5O7pYiAIdLeXV6aeCWUbcyK6dmWdydKBqbmWmyenrIj0HtVM6jYHH6fwaglisRRGak53iMNmY6YDT1Hjy3v89TDqZ85gIgjbOjiSyjyYuxFZQW13Uj/B7Ckcx52vs8IjbYTSy9lRu3MK6TipP3jGSbW5RNG6TOulQQTRkVmC2sfI3nkGDPpYpg3aBTlQOO+EetOKK+abv+Dm1PfEH9ISe4VCTbaFOZ9Exh09qv4Tbe7lRThDoHWNEC3Mcue4kDKlFeOqcwqCgpRvTybxQOMkpKVqCoQULonDmdZEM6CsfaBa4DeAqtui0k2qucwyMC8/04829V3zgwwobtDipXdnXCaSIV2/bI0VA33KaWceX4T2tpThxhtzHLXRj91OSUgDCXWKzB72MeVRglXE9K5/ivwPgX1N6RQhighKmD5AlI7hobUg==;Hw9ek8u8wMGf4RAYdBdRVg=="

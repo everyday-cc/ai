@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Elon Musk Ropes In DeepMind Researcher to Build OpenAI Rival"
-    excerpt: "Company is effectively controlled by Microsoft,” Musk, the one who co-founded OpenAI with Sam Altman in 2015, recently said that the way the company has now become closed source and maximising profit,"
-    publishedDateTime: 2023-02-28T09:58:00Z
-    webUrl: "https://analyticsindiamag.com/elon-musk-ropes-in-deepmind-researcher-to-build-openai-rival/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/02/ElonMusk_AIM.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "7ycEIZqANxOcLUJvWWTE6MI/V5xdcmIR9ATPfp5z0KgKu3pKsGbNuyCiTCUzeqnl7+6sTHgQqJpcicaBebNHslVZwv3Jpru6Q3fshQM/wBpepLlmNEG2bMgffh1IruZdx4g069IFGi+3vj+BdVZC0XV3l9yoNcqhyOrpjsaiW2CiBHOiffRrk/ufEfdSVOpyZ/jx1PZ4ieqIqG1pZxI2OoNFLF0s//s2kjKu338Dp4DFqCwezh0Cw01DZkgbmDbXtm6Xokss0VjxxaDV3sqjE9obfq7xsLpIj+lm783JTTHni/Wpyh2XMes6ylymBdWEu/G2lIELJSmSTVZs0oyHsvAi4r2ffleLoN4I1X5Q7foLJAZVxhKijnz48E5eZz5Bh93ZWKxm/njidvp7ci3BHctVbLb28vADgIC0AGG18XHduHUKF0ohujXmOjKHPKHhJslmFbDDWzuiyYAkWHyQeqnc1QmQWxTFeS/2Ax5lnNY8LId/RVCJJ262m9E/XreSJw9kAhmSG1NXlyJhx9tjwQ==;A9xjHOp/Z/hReJ/7Bbjghw=="
 ---

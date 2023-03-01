@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-02-red-cat-partners-with-athena-ai-for-artificial-intelligence-computer-vision-on-teal-2-military-drone.md",
+      "title": "Red Cat Partners with Athena AI for Artificial intelligence, Computer Vision on Teal 2 Military Drone",
+      "excerpt": "Red Cat Holdings Inc. announced Athena AI as a computer vision partner for the new Teal 2 military-grade drone.",
+      "sourceUrl": null,
+      "webUrl": "https://insideunmannedsystems.com/red-cat-partners-with-athena-ai-for-artificial-intelligence-computer-vision-on-teal-2-military-drone/",
+      "originalUrl": "https://insideunmannedsystems.com/red-cat-partners-with-athena-ai-for-artificial-intelligence-computer-vision-on-teal-2-military-drone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insideunmannedsystems.com/wp-content/uploads/2023/03/Red-Cat-Teal.png",
+          "width": 640,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Future of Autonomy",
+        "domain": "insideunmannedsystems.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-tirupati-temple-facial-recognition-system-for-darshan-from-today.md",
       "title": "Tirupati Temple: Facial recognition system for darshan from today",
       "excerpt": "The facial recognition system is set to begin on an experimental basis at Tirupati temple from 1 March. The system will help the management in dealing with impersonators and the misuse of temple servi",
@@ -150,7 +193,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-in-artificial-intelligence-ai-market-is-thriving-worldwide-by-2029-2023-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 381,
+      "heat": 371,
       "tags": null,
       "images": [
         {
@@ -307,7 +350,7 @@
       "originalUrl": "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1363,58 +1406,6 @@
         "name": "Mena FN",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-verification-authentication-recognition-deciphering-biometric-terms.md",
-      "title": "Verification, authentication, recognition: Deciphering biometric terms",
-      "excerpt": "Most of those concerns stem from the use of facial biometric recognition to identify people, usually in surveillance scenarios. It is imperative that people understand the difference between face ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/verification-authentication-recognition-deciphering-biometric-terms/",
-      "originalUrl": "https://venturebeat.com/security/verification-authentication-recognition-deciphering-biometric-terms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1168365129.jpg?w=1200&strip=all",
-          "width": 1199,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/verification-authentication-recognition-deciphering-biometric-terms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/verification-authentication-recognition-deciphering-biometric-terms/amp/",
-      "publishedDateTime": "2023-02-09T11:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

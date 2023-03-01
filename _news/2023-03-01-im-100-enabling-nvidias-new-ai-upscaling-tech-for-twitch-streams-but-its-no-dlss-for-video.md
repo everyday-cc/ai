@@ -7,7 +7,7 @@ originalUrl: "https://www.pcgamer.com/nvidia-rtx-vsr-tested-streaming-performanc
 webUrl: "https://www.pcgamer.com/nvidia-rtx-vsr-tested-streaming-performance/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Nvidia’s new AI upscaling tech makes low-res videos look sharper in Chrome, Edge"
+    excerpt: "Nvidia's latest GPU driver introduces its new AI-based upscaling technique for making lower-resolution videos streamed offline look better on a high-resolution display. Now available via the GeForce driver 531."
+    publishedDateTime: 2023-03-01T21:06:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/geforce-rtx-3090-product-gallery-inline-850-32x_345947f0-a017-4ca6-8019-2dc97a0d777f-prv-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Nvidia’s latest GPU drivers can upscale old blurry YouTube videos"
+    excerpt: "Nvidia will support videos between 360p and 1440p up to 144Hz in frame rate and upscale all the way up to 4K resolution. This impressive 4K upscaling has previously only been available on Nvidia’s Shield TV,"
+    publishedDateTime: 2023-02-28T14:00:00Z
+    webUrl: "https://www.theverge.com/2023/2/28/23618245/nvidia-rtx-video-super-resolution-upscale-videos-rtx-gpu"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 49
 
 secured: "S5P2RSDv8VZDmXISUn2nwOAB4fLQ4Bdh4oIZgzrQ79hVxai21euatsNX+nyOIeMIO7GgNWwdbopu/IV80n22ONODnqGKMLsesH4qQAP4jbVxizV77iZ4ejDC/qU5BpQ0MM9P8UAjLVks9h1YWC9885ZS0gc4dw9QjVcIGn9sSvVCXGzUlNJoRHDipLHBMCBfebQ4qU1SqSq9iMzPs2do47acrPhouQnzunoKB/QB3V4DTfKlcXNjCByY1igQRgJT81BLn7W/EcGQBd2IiZ34yKWGr83E3KS+IyzWJ+iND4hVvXxJFuDjqWisZ/MZGm/OF323Kp8GUHCECCXJMqVk5RssHBNg3+QftdwG8lnNeEY=;7SVsz0y8k7FYxzYd7xcAyQ=="
 ---

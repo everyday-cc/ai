@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-pred
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-predict-cardiovascular-diseases-210680-1.htm"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -37,12 +37,44 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-artifi.jpg"
         width: 2880
         height: 4023
         isCached: true
+  - title: "How Doctors Use AI to Help Diagnose Patients"
+    excerpt: "Doctors aren’t relying solely on artificial intelligence, but some are using it to help reach diagnoses or spot risks."
+    publishedDateTime: 2023-02-28T12:00:00Z
+    webUrl: "https://www.wsj.com/articles/how-doctors-use-ai-to-help-diagnose-patients-ce4ad025?mod=wsjhp_columnists_pos1"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "Using artificial intelligence and patient medical records to predict Alzheimer's disease"
+    excerpt: "Using data in electronic health records, University of Florida researchers have designed an artificial intelligence system that can predict which patients will develop Alzheimer's disease up to five years before receiving a diagnosis."
+    publishedDateTime: 2023-02-28T14:40:00Z
+    webUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-patient-medical-alzheimer.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 30
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-artificial-intel-2.jpg"
+        width: 1400
+        height: 1728
+        isCached: true
+  - title: "Meta to release AI-based language model for researchers"
+    excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
+    publishedDateTime: 2023-02-27T18:04:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/meta-to-release-ai-based-language-model-for-researchers.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "1gPlLNcbfJhz64NT4P1EYcxBc2q4IER4lT1i9eLNxcfYaCdNOlhgNC3ZHvzRHITed3vAm9oe2IdAJsF6AwIqhT6SQjkERQTiBWY/k7WzyCfHZLH5azXbxcy+CXHkQKv6E6NRzcnGTtzumzthFodJorRWEIFBLU3WKmiSXaOIs5q3+r9GuDfAfX9lbUUjp8LJqF/lSRvWf8AJZJlrxkN5hrx3D6dgzaia+4PGS9U7qOHBSfsGAWBcfLr3XJnkvnmD9BaLfTG265ZvkxCgvNILa3j24eWMWDVZgtUOY/LJmNFy4B3Sc8XTf3/C59Cy88GWNeOfPlj7xMKhvRUilvLNYPAOxHzKMrF8haSVEhPCfjE=;lia01M0Ud75Y8P66c9lfbQ=="
 ---

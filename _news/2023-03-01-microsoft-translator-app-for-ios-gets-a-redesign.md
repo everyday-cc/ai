@@ -222,6 +222,15 @@ related:
       name: CNN
       domain: cnn.com
     quality: 64
+  - title: "'Creative' Tone Loosens the Reins on AI-Powered Microsoft Bing"
+    excerpt: "A 'creative' conversation style is now live alongside 'balanced' and 'precise' tones, which will force the ChatGPT-powered Bing to stick to making factual statements."
+    publishedDateTime: 2023-03-01T19:58:00Z
+    webUrl: "https://www.pcmag.com/news/creative-tone-loosens-the-reins-on-ai-powered-microsoft-bing"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 64
   - title: "AI workflow tool secures $65M from backers including Microsoft, Google"
     excerpt: "Typeface helps marketers create image and copy assets for platforms like Instagram while aiming to preserve their personal style and brand safety."
     publishedDateTime: 2023-02-27T18:50:00Z
@@ -291,15 +300,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Meta takes on Google and Microsoft with own tool for building AI chatbots"
-    excerpt: "Meta Platforms Inc. introduced a research tool for building artificial intelligence-based chatbots and other products, seeking to create a buzz for its own technology in a field lately focused on internet rivals Google and Microsoft Corp."
-    publishedDateTime: 2023-02-25T06:44:00Z
-    webUrl: "https://mybroadband.co.za/news/software/481591-meta-takes-on-google-and-microsoft-with-own-tool-for-building-ai-chatbots.html"
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 35
   - title: "The Funded: AI rivals Google and Microsoft have teamed up on a $65M funding round for a new AI startup"
     excerpt: "Microsoft and Google and battling over so-called generative AI. But they've found common ground in funding a new startup in the field founded by Adobe's former CTO."
     publishedDateTime: 2023-02-27T15:53:00Z

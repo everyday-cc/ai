@@ -6,8 +6,8 @@ publishedDateTime: 2023-02-27T13:09:00Z
 originalUrl: "https://www.genengnews.com/artificial-intelligence/artificial-intelligence-takes-a-stab-at-analyzing-animal-behavior/"
 webUrl: "https://www.genengnews.com/artificial-intelligence/artificial-intelligence-takes-a-stab-at-analyzing-animal-behavior/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

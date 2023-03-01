@@ -259,6 +259,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "Artificial Intelligence in Computer Networks Market Size, Share & Trends Analysis Forecast Report by 2028"
+    excerpt: "Mar 01, 2023 (The Expresswire) -- According to this latest study, In 2023 the growth of Artificial Intelligence in Computer Networks Market will have significant change from previous year. Over the next five years the Artificial Intelligence in Computer ..."
+    publishedDateTime: 2023-03-01T18:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-size-share-trends-analysis-forecast-report-by-2028-2023-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
   - title: "Artificial Intelligence in Precision Farming Market Analysis Report 2023 Along with Statistics Figures, till 2029"
     excerpt: "Artificial Intelligence in Precision Farming Market 2022 Report offers a Inclusive valuation regarding the competitive landscape of the Artificial Intelligence in Precision Farming market and includes a deep description of performance by top key global players (Experimental Study,"
     publishedDateTime: 2023-02-28T03:39:00Z

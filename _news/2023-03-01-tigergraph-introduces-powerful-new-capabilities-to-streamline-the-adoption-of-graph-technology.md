@@ -24,6 +24,26 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "TigerGraph Cloud’s New Capabilities Help Close the Data and Decision Gap"
+    excerpt: "TigerGraph has introduced new updates for security, advanced AI, and machine learning capabilities to streamline the adoption, deployment, and management"
+    publishedDateTime: 2023-03-01T19:19:00Z
+    webUrl: "https://www.datanami.com/2023/03/01/tigergraph-clouds-new-capabilities-help-close-the-data-and-decision-gap/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 3
+  - title: "TigerGraph Expands Cloud Offering with New Capabilities to Streamline Adoption of Graph Tech"
+    excerpt: "TigerGraph, provider of the leading advanced analytics and ML platform for connected data, today announced the"
+    publishedDateTime: 2023-03-01T19:48:00Z
+    webUrl: "https://www.datanami.com/this-just-in/tigergraph-expands-cloud-offering-with-new-capabilities-to-streamline-adoption-of-graph-tech/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 0
+
 secured: "JUxJC+bQ+/G8sFUnR603H1N1hLf60/iXKqAs8YJfAgVEuemLJNADg0Xph+EDsjmUHZmSdxBxW2peGqcWWHsStAyHNBgd5BZpyZdMmrrY/qZlHPJ5FuDkX5WFcDPEsSa2puwTjzm2eC0Q0MAWSbGc6vmp4tMex/dG4XumvbqVIhW71sqHAVXRR+6kFNWZR7JXWFSZKk/cHgxiLTwjiZZ0BVhn8NOwmA2hKwB76J8xS2ssiB0SaUcmeN5oXFTc1wHI6DGXYYtc8bNOXq2XYDBqGAJNtDg8JbEOlMA1oFOc3SVY0u92QxUUAFTSLCY61doQQK1GBf819Tw6o5vhB1xwTSFm4Zl0tcYKf7RBnf/0j7k=;TD5JG9BM5NTwvSJEG+Jrlw=="
 ---
 

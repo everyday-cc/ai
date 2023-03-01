@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/openai-has-grand-plans-for-agi-heres-anot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI’s Bets on Tech Startups Hint At the Future of Artificial Intelligence"
+    excerpt: "OpenAI’s $100 million Startup Fund and Converge accelerator program have backed about a dozen startups that give a hint at what its next product might be."
+    publishedDateTime: 2023-02-28T22:32:00Z
+    webUrl: "https://observer.com/2023/02/openais-bets-on-tech-startups-hint-at-the-future-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 49
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/02/GettyImages-1246870699.jpg?quality=80&#038;strip"
+        width: 3600
+        height: 2400
+        isCached: true
   - title: "Fighting ‘Woke AI,’ Musk Recruits Team to Develop OpenAI Rival"
     excerpt: "Elon Musk has approached artificial intelligence researchers in recent weeks about forming a new research lab to develop an alternative to ChatGPT, the high-profile chatbot made by the startup OpenAI,"
     publishedDateTime: 2023-02-28T00:31:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T19:31:00Z
 originalUrl: "https://www.pcmag.com/news/youtube-teases-ai-powered-special-effects-for-video-creators"
 webUrl: "https://www.pcmag.com/news/youtube-teases-ai-powered-special-effects-for-video-creators"
 type: article
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -17,6 +20,33 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "YouTube’s new head talks 2023 priorities, including AI, podcasting, Shorts and more"
+    excerpt: "YouTube's new head Neal Mohan penned his first letter today to creators indicating that the company will roll out generative AI tools."
+    publishedDateTime: 2023-03-01T18:27:00Z
+    webUrl: "https://techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/"
+    ampWebUrl: "https://techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/01/youtubes-new-head-looks-forward-to-supporting-creators-though-different-formats/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/alexander-shatov-niUkImZcSP8-unsplash.jpg?resize=1200,900"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Generative AI will soon be shaking up YouTube, too"
+    excerpt: "YouTube's new chief executive Neal Mohan, who recently succeeded Susan Wojcicki, penned his first letter to the public regarding YouTube, and he hit the ground running. The letter revealed several upcoming projects for the Google-owned video streaming service,"
+    publishedDateTime: 2023-03-01T19:12:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-will-soon-be-shaking-up-youtube-too/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
 
 secured: "Ys4/+hkfxgFcTfy+dud7HqE3D8KBwb9gLLzSBvqxiL3lrSXz1j1Hxmw7t1dYaD1YFaptOpIa706IHHOhoN41trot0u4STkZaDEvG2hRWahm+RvKd7/P9nH965b88zKiI6PhB+qRrkZbUmzsyLWmwiQFOdamSo99e5d5WSy1GiLs5Qr8r3QCjRgjpHMVcS4rUVYZVkiiRsuiZVUjh6wmnWlwxkebI3LQwjEjxCYOls1hPpcC925a3S5ZDNFVe84M11XY1XWUnRkXYcX4TkjDaqJE/awBPADzvUfLqPMYjnMQ9l+CfWv7T4dkGlyxieamFQv6KNCDytiWrJL6fdtiupkxjcotae3sdhekmnqx1yfzmd5xtJFDxIQzB3U1eyVlSdgtg8E+zI2PzHgtHQswzV7lRdyrMz6XUXdkuHttPvOgbGQPxerjUjqzuuq5lFV8cBsIPFEFjfap1XKeaXNevThc1NMnYfk/AM5C35yMDe+wDvqNjSNQWd49cmqhl9by1DNly2loV7J8XJd7MlmRf/Q==;LpOlLPYnRraR9vYoSQHeOg=="
 ---

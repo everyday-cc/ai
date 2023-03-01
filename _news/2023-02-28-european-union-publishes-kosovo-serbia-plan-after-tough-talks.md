@@ -66,6 +66,15 @@ related:
       name: Radio Free Europe/Radio Liberty
       domain: rferl.org
     quality: 6
+  - title: "Serbian president vows to oppose Kosovo's UN membership: Prime Minister Kurti"
+    excerpt: "I do not want to and there can be no discussion on mutual recognition, recognition, and Kosovo’s membership in the UN,’ says President Aleksandar Vucic - Anadolu Agency"
+    publishedDateTime: 2023-03-01T20:35:00Z
+    webUrl: "https://www.aa.com.tr/en/europe/serbian-president-vows-to-oppose-kosovos-un-membership-prime-minister-kurti/2834899"
+    type: article
+    provider:
+      name: Anadolu Ajansi
+      domain: aa.com.tr
+    quality: 1
 
 secured: "gvgbBuMWHxJw4rD5T/jl05M7WkF+tc2w+tkl1kBg3E2jYzuFeCGhR7f9OCdk+Hqgi7BOWgVB9qKXzyRwg/3gjw37UoBgLeCvC0H9goRGCrrALa9ICzdB2F0YYC1CYZb6DnZA2yY3HiBSySoFjZT0oARWoScNvI5GrbrXkJUXQ6MWppKgdSHaXle+OMiiT2vk/PddD4H2C9XPTTs9UAqkc9ji6SRVvKwL9/9kEnzwWYKsFpaxHK7GxB2t2Xs5OYXbyJxvVHnhC8TY2RxnZH6vHWEG7269z9QXw6ClMeY+QhtLg+9JECTdVM4bcsaeRR/wcecno/+uUd/0i45No0hduUsPoA5Jr8qcUA6dmxHYUFI=;RsHUcCsCPqMi61z0Tuv4fg=="
 ---

@@ -35,6 +35,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Torc to Acquire Computer Vision Company Algolux"
+    excerpt: "Torc Robotics' acquisition of Algolux will strengthen key capabilities toward Torc's commercialization of Level 4 autonomous trucking."
+    publishedDateTime: 2023-03-01T22:09:00Z
+    webUrl: "https://www.truckinginfo.com/10193861/torc-to-acquire-computer-vision-company-algolux"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 39
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2023-03/030123-hdt-torc-__-1200x630-s.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "t78Ox5k6E0jYMZAUvSuPSSUx4mCR59nusjrD3TzkqTSYPKNLA0WHoVgJg1sZj60DUzbWBvY9ZxQVD5YHaI1NzkCs5G36qh+1gjW2EQbEhQJMjOGQe+eTtkekbekX62AakVT7fFvtm6zshSRJT4sFVEa08xQYtzgvk/BNxCN2prL2yac9V9/df5PcPGbaUpoy8g+N7+fyp+sNN0pPe4zigwAO/Byrl0bXHXVS6CPwzT8fqtUYU0tpF3Bio1lrspBa9uy8VUBB8emRfFV74YpuLt8rfKdTb+kZWzRyCtAS99ryLzyHp0eHn9uGuSi84YGMY3Kej0hTyn3UXv75cfMGr+zp9dOztgtigMqp/Pgibvo=;GtJurBsJMFvkYq0uG2Wgow=="
 ---

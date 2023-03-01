@@ -105,6 +105,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Meet the first-ever artificial intelligence editor at the Financial Times"
+    excerpt: "\"I want to make AI more understandable and accessible to our readers, so it doesn’t feel like magic but merely a tool that they can wield.\""
+    publishedDateTime: 2023-02-27T17:49:00Z
+    webUrl: "https://www.niemanlab.org/2023/02/meet-the-first-ever-artificial-intelligence-editor-at-the-financial-times/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 40
+    images:
+      - url: "https://www.niemanlab.org/images/background_of_lush_hedge_maze_simple_illustration_wi_97ed11c4-edea-4d42-8739-1d23cd30e34b@2x-5-700x467.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "The untapped potential of AI in financial services"
     excerpt: "The rapid advancement of artificial intelligence (AI) technologies has transformed business operations across the globe. From customer service chatbots to adaptive cyber-security, the applications of AI are limitless."
     publishedDateTime: 2023-02-27T11:12:00Z
@@ -132,20 +146,6 @@ related:
       - url: "https://www.cfodive.com/imgproxy/2VcpDEawlm1498rKC3S7gsBFK_IK5pwONO68FOBNDuo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDQ3NDkwNDAuanBn.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "Meet the first-ever artificial intelligence editor at the Financial Times"
-    excerpt: "\"I want to make AI more understandable and accessible to our readers, so it doesn’t feel like magic but merely a tool that they can wield.\""
-    publishedDateTime: 2023-02-27T17:49:00Z
-    webUrl: "https://www.niemanlab.org/2023/02/meet-the-first-ever-artificial-intelligence-editor-at-the-financial-times/"
-    type: article
-    provider:
-      name: Nieman Journalism Lab
-      domain: niemanlab.org
-    quality: 38
-    images:
-      - url: "https://www.niemanlab.org/images/background_of_lush_hedge_maze_simple_illustration_wi_97ed11c4-edea-4d42-8739-1d23cd30e34b@2x-5-700x467.jpg"
-        width: 700
-        height: 467
         isCached: true
   - title: "Artificial Intelligence Executes Plans To Transform Into Oil And Gas Industry"
     excerpt: "Artificial Intelligence, more commonly referred to as AI, has already begun saving oil and gas companies millions of doll"

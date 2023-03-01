@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T20:35:00Z
 originalUrl: "https://techcrunch.com/2023/03/01/sesamm-bags-37m-to-give-corporates-esg-insights-using-natural-language-processing/"
 webUrl: "https://techcrunch.com/2023/03/01/sesamm-bags-37m-to-give-corporates-esg-insights-using-natural-language-processing/"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: YAHOO!News

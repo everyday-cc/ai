@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/31095754"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31095754"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Torc to Acquire Computer Vision Company Algolux"
+    excerpt: "Torc Robotics' acquisition of Algolux will strengthen key capabilities toward Torc's commercialization of Level 4 autonomous trucking."
+    publishedDateTime: 2023-03-01T22:09:00Z
+    webUrl: "https://www.truckinginfo.com/10193861/torc-to-acquire-computer-vision-company-algolux"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 39
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2023-03/030123-hdt-torc-__-1200x630-s.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Torc to acquire Canadian computer vision firm"
     excerpt: "Blacksburg-based Torc Robotics on Tuesday announced it will acquire Montreal-based computer vision company Algolux Inc. A purchase price was not disclosed. Torc, a self-driving truck company, is an independent"
     publishedDateTime: 2023-02-28T21:04:00Z

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Alphabet’s self-driving car unit has cut 8% of its staff this year"
+    excerpt: "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year."
+    publishedDateTime: 2023-03-01T22:41:00Z
+    webUrl: "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/230301160548-waymo-file-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Lidar Stocks Are Dropping. Self Driving Cars Are Taking Too Long."
     excerpt: "Lidar can enhance vehicle safety and is a key enabler for what will hopefully become truly self-driving cars. In the coming year, about one in five Americans will live in a state that requires employers to disclose salary ranges in job postings."
     publishedDateTime: 2023-03-01T17:16:00Z
@@ -35,88 +51,20 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Luminar Wants to Sell Insurance. It Isn’t All About Lidar and Self-Driving Cars."
-    excerpt: "Lidar provider Luminar Technologies doesn’t want to be a run-of-the-mill car-parts supplier. It wants to be big in automotive safety and an early plan for a new business shows just how far the company will go to make that happen. Tuesday, Luminar (ticker ..."
-    publishedDateTime: 2023-02-28T18:31:00Z
-    webUrl: "https://www.barrons.com/articles/luminar-insurance-lidar-stock-analyst-day-d7da89a2"
-    ampWebUrl: "https://www.barrons.com/amp/articles/luminar-insurance-lidar-stock-analyst-day-d7da89a2"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/luminar-insurance-lidar-stock-analyst-day-d7da89a2"
+  - title: "Alphabet’s Robotaxi Unit Waymo Says it Laid Off 8%"
+    excerpt: "Alphabet’s robotaxi developer Waymo laid off 137 employees on Wednesday, its second round of cuts this year as the parent company reins in spending across its subsidiaries. The layoffs mean around 8% of Waymo employees,"
+    publishedDateTime: 2023-03-01T16:37:00Z
+    webUrl: "https://www.theinformation.com/articles/alphabets-robotaxi-unit-waymo-says-it-laid-off-8"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
+      name: The Information
+      domain: theinformation.com
+    quality: 54
     images:
-      - url: "https://images.barrons.com/im-733199/social"
-        width: 1280
-        height: 640
+      - url: "https://tii.imgix.net/production/articles/9942/ed3cc3a8-71b6-4d6d-bdee-708d036bcf33.jpeg?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Ford Files Self-Driving Car Patent To Abandon Deadbeat Drivers For Missing Payments"
-    excerpt: "Ford is attempting to patent a computer system that would lock delinquent drivers out of their vehicles if late payments are not submitted."
-    publishedDateTime: 2023-03-01T14:19:00Z
-    webUrl: "https://hothardware.com/news/ford-patent-self-driving-cars-leave-owners-behind-miss-payments"
-    ampWebUrl: "https://amp.hothardware.com/news/ford-patent-self-driving-cars-leave-owners-behind-miss-payments"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/ford-patent-self-driving-cars-leave-owners-behind-miss-payments"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 38
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61025/content/Ford_Autonomous_Test_Vehicle_Hero.jpg"
-        width: 708
-        height: 400
-        isCached: true
-  - title: "Watch Waymo self-driving car navigating San Francisco in heavy rain"
-    excerpt: "The autonomous driving technology company Waymo appears to be making considerable progress when it comes to dealing with one of the biggest challenges facing self-driving cars — inclement weather. In videos posted to Twitter and YouTube by Daylen Yang ..."
-    publishedDateTime: 2023-03-01T14:01:00Z
-    webUrl: "https://www.driving.co.uk/news/technology/watch-waymo-self-driving-car-navigating-san-francisco-in-heavy-rain/"
-    type: article
-    provider:
-      name: Sunday Times Driving
-      domain: driving.co.uk
-    quality: 34
-  - title: "Ford files patent to allow self-driving cars to drive away from their owners"
-    excerpt: "\"Every time the owner is in the vehicle\" the system can begin to play an \"incessant and unpleasant sound\" The vehicle will warn its owner in stages and strip-back functionality before driving away. Initially the system will target minor features like ..."
-    publishedDateTime: 2023-03-01T15:01:00Z
-    webUrl: "https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 21
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/QTZeyW9ecu2pnjkSWFvyZc-1200-80.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "From ChatGPT to Computer Vision Processing: How Deep-Learning Transformers Are Shaping Our World"
-    excerpt: "Is that a dog in the middle of the street? Or an empty box? If you’re riding in a self-driving car, you’ll want the object detection and collision"
-    publishedDateTime: 2023-03-01T08:38:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/53556/from-chatgpt-to-computer-vision-processing.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 10
-  - title: "Companies oversell the self-driving capabilities of their cars, with horrific outcomes"
-    excerpt: "This self-driving feature was found to possibly cause vehicles to misbehave when entering intersections or exceed the speed limits, posing a risk for safety. Create an account or sign in to continue with your reading experience. This is just another ..."
-    publishedDateTime: 2023-02-27T20:57:00Z
-    webUrl: "https://nationalpost.com/pmn/news-pmn/companies-oversell-the-self-driving-capabilities-of-their-cars-with-horrific-outcomes"
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 0
-  - title: "Will self-driving cars solve our traffic and street safety problems? A tech historian says no"
-    excerpt: "One common feature in the worlds of science fiction is a future in which humans get where they’re going in a self-driving car. From the Johnny cabs in “Total Recall” to the sleek, vertically driving vehicles in “Minority Report” to the autonomous taxis in HBO’s “Westworld,"
-    publishedDateTime: 2023-03-01T14:30:00Z
-    webUrl: "https://www.latimes.com/california/newsletter/2023-03-01/essential-california-autonomous-vehicles-promise-essential-california"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 0
 
 secured: "dmr00tt+XnfeE0TBRaSxWtH8/+6Y7kQrTnCasJrjF0btqeAbEgejYuwpaBnaOM+0Dix6KPnRE0/TJRujl3yyYaS/hRRn5JHzC0EmYAk0O5uLQpvwAaus6eImn/XfefQe9azWve715WgQ5dbP95HvyEOvg7534xTra+KsKfz+SRlsjBxdQvmRIogzgIRomXmtc58GHI1lPJSV8gX/R3BJ8wAbwcGqb5Ht5saUBx50xJWvvjO5Ea1MG00+RqVCUn7FGrtzpd7o21D14Pulw7ANZj893GbsHXTHj//coMju0Udsk0oT5m9K91qnLmq/bYe0mt+KJFKOaOzfxjEi16qGgzX/AK4FNI6/ofmBIZOOhfJgXgeRzkYuJBfyYyPxHYEicPij2KCeDpHqDad1LkycdrRDnBrXhMUHZd9q6IOZZCaDFmcJQZY3/9dW9hzBb3MfIeOt8jV6npnjlqyQ8+DebNrL5GGSfs5D7oBddnL10Ma448c8RMumkve23yq3DScyGOLzdDoQxn6ibokwAJkJ4w==;ChJpd/6fV+1sRb6/P9kVqw=="
 ---

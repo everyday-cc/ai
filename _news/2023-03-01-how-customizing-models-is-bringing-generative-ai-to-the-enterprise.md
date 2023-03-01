@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-customizing-models-is-bringing-genera
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-customizing-models-is-bringing-generative-ai-to-the-enterprise/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -45,6 +45,29 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/09/artificial-intelligence.shutterstock_622946219.jpg?w=1200&strip=all"
         width: 1200
         height: 850
+        isCached: true
+  - title: "This startup wants to use generative AI to write your marketing copy"
+    excerpt: "Typeface, a generative AI startup, has received financial backing to make its dream of AI-written content tailored to a company’s voice a reality. Per TechCrunch, the company, founded by former Adobe CTO Abhay Parasnis,"
+    publishedDateTime: 2023-03-01T20:02:00Z
+    webUrl: "https://www.techradar.com/news/this-startup-wants-to-use-generative-ai-to-write-your-marketing-copy"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 64
+  - title: "Club holding Meta is likely to be a winner in the nascent generative AI battle"
+    excerpt: "Meta Platforms (META) is muscling its way into a heated AI arms race just as competitors Microsoft (MSFT) and Alphabet (GOOGL) are making big strides."
+    publishedDateTime: 2023-03-01T18:39:00Z
+    webUrl: "https://www.cnbc.com/2023/03/01/club-holding-meta-likely-to-be-a-winner-in-the-generative-ai-battle-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 63
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107079366-1655929294345-gettyimages-1201476983-AFP_1P2546.jpeg?v=1677703226&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "AI-mazing Ways Artificial Intelligence is Helping Companies Save Money in 2023"
     excerpt: "AI can help automate repetitive tasks, analyze data. It can also help to create new job opportunities, such as roles in data science, AI development, and ethics"

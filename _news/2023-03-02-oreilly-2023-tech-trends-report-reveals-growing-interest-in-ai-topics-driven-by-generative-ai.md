@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T18:53:00Z
 originalUrl: "https://www.datanami.com/this-just-in/oreilly-2023-tech-trends-report-reveals-growing-interest-in-ai-topics-driven-by-generative-ai/"
 webUrl: "https://www.datanami.com/this-just-in/oreilly-2023-tech-trends-report-reveals-growing-interest-in-ai-topics-driven-by-generative-ai/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: datanami.com

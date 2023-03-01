@@ -6,7 +6,7 @@ publishedDateTime: 2023-02-27T17:49:00Z
 originalUrl: "https://www.niemanlab.org/2023/02/meet-the-first-ever-artificial-intelligence-editor-at-the-financial-times/"
 webUrl: "https://www.niemanlab.org/2023/02/meet-the-first-ever-artificial-intelligence-editor-at-the-financial-times/"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 

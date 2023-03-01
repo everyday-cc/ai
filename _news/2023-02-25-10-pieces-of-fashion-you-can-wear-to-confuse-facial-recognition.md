@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-m
 webUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/250a609/2147483647/strip/true/crop/3008x1579+0+210/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F75%2F64%2F46656c3543529141a84f7b10edb3%2Ffacial-recognition.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Oversight may become common feature of facial recognition policies for police"
+    excerpt: "Biometric surveillance legislation in North American is trying to find a balance between public safety, public privacy and public oversight."
+    publishedDateTime: 2023-03-01T22:01:00Z
+    webUrl: "https://www.biometricupdate.com/202303/oversight-may-become-common-feature-of-facial-recognition-policies-for-police"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
+        width: 2048
+        height: 792
         isCached: true
   - title: "TTD to introduce facial recognition system today"
     excerpt: "TIRUMALA: The TTD is set to introduce Facial Recognition Technology on an experimental basis at Vaikuntam-2 and in the Accommodation Management System from March 1 onwards. The idea is to"

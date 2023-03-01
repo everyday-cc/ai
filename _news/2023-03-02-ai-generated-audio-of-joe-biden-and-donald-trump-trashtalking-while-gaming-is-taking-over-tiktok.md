@@ -5,7 +5,12 @@ excerpt: "Profanity-filled AI deepfakes of Biden and Trump chatting while gaming
 publishedDateTime: 2023-03-01T19:06:00Z
 originalUrl: "https://www.businessinsider.com/voice-ai-audio-joe-biden-donald-trump-tiktok-2023-3"
 webUrl: "https://www.businessinsider.com/voice-ai-audio-joe-biden-donald-trump-tiktok-2023-3"
+ampWebUrl: "https://www.businessinsider.com/voice-ai-audio-joe-biden-donald-trump-tiktok-2023-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/voice-ai-audio-joe-biden-donald-trump-tiktok-2023-3?amp"
 type: article
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: Business Insider
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "Ks6vlCbPNNh1pps+QBdt++jmQB/TFShRohSA3kSYMJMHMGQLY2+jWXDT8TqVn0s3cXmvci8TwYr67hhcP5tLgtoIdPe0Zl1/yW5RQRMi+/9yF4UFyhtKCrWS+RBmkhqoqF9jNWRwGYhK9sGX26I14adGaExuOn6IaiGXi0nek9kijFt+uqRDGB/Bofh7R0hneKfBZbU6U8dcE4nVHZ87V7LrkbGl8FHtHgEaqNbFZ07aP+tppjMruHy4/vtyMpVKHsDiJOTn+J1yjzKLwyobxzvSCEHJkxIBPzEbHVblUXXo9wEiMh5XNbVe7MnzH/42KqRKsN+qJo6UnKPWZiG0ruzhTAlSYzEMH4MD6pJYg8Fpa+UA3f0lQ04CWaLmnDMo1avBhTzaLLxxQFCTtD3eKS30Mi9gE7R9qjw9Zotu8GReM6Qs6OdoBqa9eeMvtxTcjJVP1g3i7GOaEphNWBlwTewyez4sRaXA1/BCp2SoPkPUqQzY9iKtyjWKojhdjkBrjxgPvrqJeI38d7W+4lsmOw==;Lo/rhyrR4FcfiGGs0DarwA=="
+images:
+  - url: "https://i.insider.com/63ff8c2ebb1d0b0018876762?width=1200&format=jpeg"
+    width: 1199
+    height: 599
+    isCached: true
+
+secured: "TYJj13VQ0PJ5oHldHmCk6xBwodOIbCt0diVt3mlDJhAWMaNvt7UIRf/rJKVQUiY7FgJPBGXACD0g2KhQuqtJyKcFrWL+KMGI7S519hz4fxcaw2YtwP4PWG+DBgJjYIDDOUNlk4FIohXFQ/xPwuicE3gBXu6Ye57djpZbfnpceH4zQE0xRWzcDRG7gLTn3P6eHicXqDR9H/k5dfCOPHtXD662kmNxMJTUDhY79rdDTruHgP9LqVeIpocomPeKxyaoqOtT1FFABEqFPGl6Ee6UKrBkL6VyP0BzK8BuIyeoxDFmIMdXJaOAZYRLcKjycctrPdf+l9g+uew3qdeCZlifFgCYgbsYUGTn9JUyFouoods=;EPEJyOeCg7ws+m08WOGlGg=="
 ---
 

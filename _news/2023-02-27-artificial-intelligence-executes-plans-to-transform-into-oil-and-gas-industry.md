@@ -105,6 +105,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Meet the first-ever artificial intelligence editor at the Financial Times"
+    excerpt: "\"I want to make AI more understandable and accessible to our readers, so it doesn’t feel like magic but merely a tool that they can wield.\""
+    publishedDateTime: 2023-02-27T17:49:00Z
+    webUrl: "https://www.niemanlab.org/2023/02/meet-the-first-ever-artificial-intelligence-editor-at-the-financial-times/"
+    type: article
+    provider:
+      name: Nieman Journalism Lab
+      domain: niemanlab.org
+    quality: 40
+    images:
+      - url: "https://www.niemanlab.org/images/background_of_lush_hedge_maze_simple_illustration_wi_97ed11c4-edea-4d42-8739-1d23cd30e34b@2x-5-700x467.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Meta to release new interactive AI model for academia and industry labs"
     excerpt: "Meta, formerly known as Facebook, made the announcement on ... in government and civil society as well as industry research laboratories. In November last year, the firm released another interactive AI model focused on natural science."
     publishedDateTime: 2023-02-25T10:48:00Z
@@ -146,20 +160,6 @@ related:
       - url: "https://www.cfodive.com/imgproxy/2VcpDEawlm1498rKC3S7gsBFK_IK5pwONO68FOBNDuo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDQ3NDkwNDAuanBn.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "Meet the first-ever artificial intelligence editor at the Financial Times"
-    excerpt: "\"I want to make AI more understandable and accessible to our readers, so it doesn’t feel like magic but merely a tool that they can wield.\""
-    publishedDateTime: 2023-02-27T17:49:00Z
-    webUrl: "https://www.niemanlab.org/2023/02/meet-the-first-ever-artificial-intelligence-editor-at-the-financial-times/"
-    type: article
-    provider:
-      name: Nieman Journalism Lab
-      domain: niemanlab.org
-    quality: 38
-    images:
-      - url: "https://www.niemanlab.org/images/background_of_lush_hedge_maze_simple_illustration_wi_97ed11c4-edea-4d42-8739-1d23cd30e34b@2x-5-700x467.jpg"
-        width: 700
-        height: 467
         isCached: true
 
 secured: "fdc8WMhz85ot2WukojyhlcXhmAAgYQfqFV3MpLAwpqXFwRqI2FQspryLVdwScGwHnPw4/pVOJBBfMnVuf2eh9OF8M/ru5lMjO5/KHg50ReRJXgWUXBhX0Su+jN+vhHHAIP9J72IDg10/afDQcVXzR/L8C46JLoKXDQ1bLYsBEFHpuqAXkpzf7X0+onQzSIrw8DjuFqymQdbsW2rIfQNIG/ua+rFkZM40O9HnI3ZDnTNXPEFHaHQy+D6pDEBjl9Je7yrvG5IJBmMtnxW+Kj1K2W3j/lZ7mQhb8PwbZNNNK8GE1D1lBDmm8AmyiGespFDCEIPHdzxF7atMFi3y+ZCsDRBitG6LIEa5HB++JObTgSqPI1z1bjx2XPHY5orEDsFjrb6+VFh/yBwh22iJ9wKniZCtE8o7Qz545Xc4kYZzYtmZTOZ7vd2d6Eu9B2Hqhj61H/TUEPCaCxrinuwLHa7nbEc18PUjbKlbtK+mNgrt0ovfCxrdpHA9ZIF+BcrDr7NffvSAhnIUnSdU/VbbrB14JA==;9moIJUfthxtgHS/CiTOC6g=="

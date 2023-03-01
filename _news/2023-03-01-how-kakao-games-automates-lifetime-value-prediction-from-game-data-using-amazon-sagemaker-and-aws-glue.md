@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T19:44:46Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-kakao-games-automates-lifetime-value-prediction-from-game-data-using-amazon-sagemaker-and-aws-glue/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-kakao-games-automates-lifetime-value-prediction-from-game-data-using-amazon-sagemaker-and-aws-glue/"
 type: article
+quality: 68
+heat: 68
+published: false
 
 provider:
   name: AWS

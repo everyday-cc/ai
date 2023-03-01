@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T19:33:00Z
 originalUrl: "https://medicalxpress.com/news/2023-03-ai-paradigm-shift-brain-injury.html"
 webUrl: "https://medicalxpress.com/news/2023-03-ai-paradigm-shift-brain-injury.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Medical Xpress

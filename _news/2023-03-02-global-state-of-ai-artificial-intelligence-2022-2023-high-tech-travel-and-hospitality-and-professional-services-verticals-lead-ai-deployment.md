@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T18:30:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31137123/global-state-of-ai-artificial-intelligence-2022-2023-high-tech-travel-and-hospitality-and-professi"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/n31137123/global-state-of-ai-artificial-intelligence-2022-2023-high-tech-travel-and-hospitality-and-professi"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

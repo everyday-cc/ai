@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T18:46:00Z
 originalUrl: "https://www.wsj.com/articles/venture-investor-b-capital-raises-first-healthcare-fund-589bd57c"
 webUrl: "https://www.wsj.com/articles/venture-investor-b-capital-raises-first-healthcare-fund-589bd57c"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Wall Street Journal
