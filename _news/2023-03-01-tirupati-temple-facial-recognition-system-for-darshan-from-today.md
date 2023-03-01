@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/india/tirupati-temple-facial-recogniti
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today/amp-11677633077133.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -42,6 +42,22 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-98323523,width-1070,height-580,imgsize-1157857,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
+        isCached: true
+  - title: "Tirupati temple to use facial recognition system for darshan from today: How it works"
+    excerpt: "Moreover, this same technology could be used in the allocation of rooms to genuine devotees at subsidised rentals, allowing the admin to deal with the nuisance of touts and middlemen who book rooms and later sell them to devotees at exorbitant rates."
+    publishedDateTime: 2023-03-01T06:54:00Z
+    webUrl: "https://economictimes.indiatimes.com/news/india/tirupati-temple-to-use-facial-recognition-system-for-darshan-from-today-how-it-works-and-risks/articleshow/98327867.cms"
+    ampWebUrl: "https://m.economictimes.com/news/india/tirupati-temple-to-use-facial-recognition-system-for-darshan-from-today-how-it-works-and-risks/amp_articleshow/98327867.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/tirupati-temple-to-use-facial-recognition-system-for-darshan-from-today-how-it-works-and-risks/amp_articleshow/98327867.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://img.etimg.com/photo/96809521.cms"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "28mqB13MRJRwoQAZVtnZII5WYb51yCVXXNiNVOxQE7zLmSXmRU7dzzB+SPR8hJt7T9rWkhfj8mwmroM89lrnCmIfmvwuiuuq1xIZsVq4+IRfF8dJJ4XTShx3oNrloyvcFRyY39ug/tNK474ir9uCT7xvl6VKd46vj2Pia0pTTqorsK3V8jjbpMeAGcIjYRfrbPW7xMB2xYoz4GQIgzRJlN4w2QmAnzG5iK0T96dnV+HLsT7lkbQUIvH7BxnnJLuEzsApUlm8bIpYB1tw82DWvlcU1hk9wXNCe48ZsNOnO0eILrA+TSsvQyg/kWABJL74Fvq3wYMctEXePUzYCvqkiayf+xelL9Rsg39ulvMs+Pm1QmYkSdkOPhi/AXmxZ/phxpHn37RDu/684VKg5+bcl9umHeqCOe2Fu41+LWlr0/EtIIY4Ap/dcbYXKSPxRbeY1XSC5ehraWIYxMlY8B81CJzt+8Brwbj6V2Xd7Pfks2MLk3QKUCkM6XQJ6fSoEbwuXWLJll7bo94B010gEdYYvw==;ECzKOdTDS7y08BLwUNAJNA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leve
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/visible_pictures/a4428d07-be55-4674-973f-7b5d26aab3e3.jpg"
         width: 500
         height: 375
+        isCached: true
+  - title: "27/02 – Weekly Fintech Recap"
+    excerpt: "Partnerships Western Union and Beforepay Offer ‘Send Now, Pay Later’ Service to Consumers for International Money Transfers Western Union and Beforepay announced a first-of-its-kind collaboration, allowing consumers to boost their cross-border money transfers by accessing reliable,"
+    publishedDateTime: 2023-02-27T13:29:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/2702-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_31.jpeg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "How Is Fintech Changing The Way We Bank?"
     excerpt: "The world of banking is changing rapidly, and the engine driving this change is the phenomenon known as fintech. As a result, our relationship with money has been completely upended."

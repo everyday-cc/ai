@@ -54,6 +54,15 @@ related:
         width: 684
         height: 456
         isCached: true
+  - title: "Meta to form AI product team to keep up with chatbot competition"
+    excerpt: "It is trying to use the technology with text-like chats in Meta’s messaging apps and on visual filters for photos and videos."
+    publishedDateTime: 2023-02-28T06:38:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/meta-form-ai-product-team-keep-chatbot-competition"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
 
 secured: "9WtC/ZX8NUCxB8go7X3n3GwMxehH9r6NeUSjnnyuJXJZCUIc3oR4ymWFVn5gryhJ8XoKVqm0ACcEIjdWbL4W3Q8DBDDYtecVejFQ+CPNr8h9yGo9m5Vz4OZ++GrD++mueXoluwQeMVubHrqbduSFPHk3vwlKzbT2N56A4A5vpg8xhIyM0KNlMdaxR5POPDvrQwlr+XHEzcNeo8S75rGqQAnYWN2g8TBvM6/qLTCKNllXrTsl22U75Oti95G426B2KR2Me9zNu50Qdjw36MKMEzUGe0y/4xkBknAuMuBnpfIsnOnHMdJq7bYTryE8IdVD8CoS03MuFN7XsdQE9jvD7fXlVn7ISIh20C0vdA40JiI=;ByRYWXPSJoJdkndTwF/uRg=="
 ---

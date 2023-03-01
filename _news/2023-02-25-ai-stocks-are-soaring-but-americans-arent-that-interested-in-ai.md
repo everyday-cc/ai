@@ -45,20 +45,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "59% of Americans don't want AI robots used during surgery"
-    excerpt: "Americans are hesitant about the use of artificial intelligence-driven robots during surgery with 59 percent saying they would not want surgical robots used in their own care, according to a Pew Research Center survey."
-    publishedDateTime: 2023-02-24T15:20:00Z
-    webUrl: "https://www.beckersasc.com/news-analysis/59-of-americans-dont-want-ai-robots-used-during-surgery.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 54
-    images:
-      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "Ulp/rj3PIWIejwn64KALvWN+syJ03zZlzY4C0IoIYoczDuUWbcwuxZf8Xyr5jyFxUNe012UFBzU8O7nBbQLVYILF6oN+vw3fkf+BVKsWhFEBnFmOePLMQlQcV9xyX2o29KUlvI9GG+kGF4iZmqBV52n5PmeZpwHilEwf3e3HoXi0e5mdKk/ANWv8oquX6rO3OVfRolbt6VCEDPqzYFf2dI3OW3x0aWgFEpGDSCSzrRFKDyuykaWPrtvjYXOXU8YP755ynI0f7KHZe36nZjbTCYwmO4Jsx6WAniP7FI2Hgm7wIUDF1gRHRSTP2juPDKEmvTsFhfX6MmxPcJuCHY+6iNt3Rjpgv+kIVsW2VGbD//o=;kgAwWiqqacqgiJZkgKLpYw=="
 ---

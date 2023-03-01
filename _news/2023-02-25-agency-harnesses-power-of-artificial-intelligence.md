@@ -7,7 +7,7 @@ originalUrl: "https://www.fijitimes.com/agency-harnesses-power-of-artificial-int
 webUrl: "https://www.fijitimes.com/agency-harnesses-power-of-artificial-intelligence/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 983
     height: 821
     isCached: true
-
-related:
-  - title: "Using the power of AI, new open-source tool simplifies animal behavior analysis"
-    excerpt: "A team from the University of Michigan has developed a new software tool to help researchers across the life sciences more efficiently analyze animal behaviors."
-    publishedDateTime: 2023-02-24T16:00:00Z
-    webUrl: "https://phys.org/news/2023-02-power-ai-open-source-tool-animal.html"
-    ampWebUrl: "https://phys.org/news/2023-02-power-ai-open-source-tool-animal.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-power-ai-open-source-tool-animal.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/using-the-power-of-art.jpg"
-        width: 720
-        height: 720
-        isCached: true
-  - title: "Artificial Intelligence Takes a Stab at Analyzing Animal Behavior"
-    excerpt: "Scientists at the University of Michigan have developed an open-source, user-friendly, artificial intelligence driven software called LabGym that automatizes animal behavior analysis in various model systems and could be a boon to life scientists across ..."
-    publishedDateTime: 2023-02-27T13:09:00Z
-    webUrl: "https://www.genengnews.com/artificial-intelligence/artificial-intelligence-takes-a-stab-at-analyzing-animal-behavior/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 37
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2023/02/LabGym_3-e1677505697807.jpg"
-        width: 719
-        height: 583
-        isCached: true
 
 secured: "+u3AGuv2Ou0nl6NfoItDOYyxm5WE5GbILu4zv8F2mHSsuLRZcZQ3//a3xJu0BS85rSMozR5Ghym9bhp4NSNfHNI/M/FQy5zBXOXD2NHJJVH3Gkh9IHqT1BXd4Z7h3FsUnyls8Yqvi8Z6CxS5lI1pUEz3edhJrHF/GkQqcwqzKycyz1CsbOitZUSBZCfwiBOT+oa7R7HWLtkuyEzefgzpywj+C09tfLgO7/saIKAddxEsTdOi+WpBQyXyEH0RPpAf6Q2wcR+bfvWnoZQoEJXRSq5Bxn924xELkzkZ2lsUHey0BXk5GSzBqPF8iNCXHr5gWpaOOXL12TjLpxvKcWgFmdLw6aBT+C0Y+3XXN/bAm9/GC9ru8OrpkE8Au3Z32o1flyAGNtY04qlMuyM1DnQVJghr4btnRR8xBf2HfimbcXBj0wvmHeNebutNm6bJP3L54C0/4+6R1uaeDEaMRcFdKcDMAqx4LNKpuQFewbSFIJ8wseaV4Uyw38gIDGRSZp9VAEmEFdQa5CCrc5VUGL3qcg==;nvMoXE12UEQBWLJwPKKIiw=="
 ---

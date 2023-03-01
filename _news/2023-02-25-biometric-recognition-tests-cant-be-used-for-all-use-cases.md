@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202302/biometric-recognition-tests
 webUrl: "https://www.biometricupdate.com/202302/biometric-recognition-tests-cant-be-used-for-all-use-cases"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "DHS S&T’s Biometric Tech Rally Highlights Efficacy of Group Facial Recognition Systems"
+    excerpt: "Looking for the latest Government Contracting News? Read about DHS S&T's Biometric Tech Rally Highlights Efficacy of Group Facial Recognition Systems."
+    publishedDateTime: 2023-02-28T22:04:00Z
+    webUrl: "https://executivegov.com/2023/02/dhs-sandts-biometric-tech-rally-highlights-efficacy-of-group-facial-recognition/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 31
+    images:
+      - url: "https://em-graphics.s3.us-west-2.amazonaws.com/archintel-media/657dd454-e0fd-4e29-9c17-ca7230abf31c.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Facial Recognition Market size to grow at a CAGR of 18.11% by 2027, Increasing adoption of a multimodal biometric system to be a key trend- Technavio"
     excerpt: "According to Technavio, the global facial recognition market size is estimated to grow by USD 7,634.09 million from 2022 to 2027. The market is estimated to grow at a CAGR of 18.11% during the forecast period."
     publishedDateTime: 2023-02-25T01:53:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-
 webUrl: "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-ai-chatbot-powered-by-openai-s-gpt-technology"
 type: article
 quality: 67
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 684
         height: 456
         isCached: true
+  - title: "Meta to form AI product team to keep up with chatbot competition"
+    excerpt: "It is trying to use the technology with text-like chats in Meta’s messaging apps and on visual filters for photos and videos."
+    publishedDateTime: 2023-02-28T06:38:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/news/meta-form-ai-product-team-keep-chatbot-competition"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
 
 secured: "H8aZZ2ypf7yscZuAPm05PSOOgS9jHZUEzwEkNwWM5H1usSKvu8+2k8vJX+tyk6VgKS9cPYqkHvccaYMrpbTup3WlJAeg+/PNOSU5e4gspw3kwu1XZc6Jis+fj8zYMbQhZf8/oKuklvhmtuQFmDOxA9tbdcRRKao+AiAotIAokQ7uJUZEnpmKyoJlXrCxcnH8Y5qpgKrwul27gA9C5gERazg/rxgwKBh2L3pwALW7M7cv0EaU/MvCKuivVu9kgEWOP3wW1P1MGP/27E6g/Tdu3cQbnbBwb34sdYMecmTle+aAURKp4wn4K7ize2M8oRndWuJVWIR/af9C05yBF2Z/8O/BLaTKE2vF7uvPe8LEls96x6w3z6O7BTouCtRCUrNdcU0klRt99rTJlT6q1iM8IiMYjrI8KQ40U1PdqJMaaBUFHRjbwXMlhQiYSjp0xirjKwRO6iWk4HYdDYsuwyb7n/mxciBz0DeTb+cbptcYXqYqYvP+BuQAewcoP0wChX9uf+FLqhJJRrgJ58uT5e65yw==;vIzdkHwGD/KPhQ93epUSPQ=="
 ---

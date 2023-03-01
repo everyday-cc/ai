@@ -119,22 +119,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "UST to deepen engagement in banking and financial services space"
-    excerpt: "UST saw significant traction in client base and revenue in the past year due to its innovation and personalised approach to financial services"
-    publishedDateTime: 2023-02-24T16:06:00Z
-    webUrl: "https://www.thehindubusinessline.com/money-and-banking/ust-to-deepen-engagement-in-banking-and-financial-services-space/article66548202.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/ust-to-deepen-engagement-in-banking-and-financial-services-space/article66548202.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/ust-to-deepen-engagement-in-banking-and-financial-services-space/article66548202.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/2mczxw/article66548192.ece/alternates/FREE_320/Maureen%2C%20UST.jpg"
-        width: 320
-        height: 240
-        isCached: true
   - title: "The untapped potential of AI in financial services"
     excerpt: "The rapid advancement of artificial intelligence (AI) technologies has transformed business operations across the globe. From customer service chatbots to adaptive cyber-security, the applications of AI are limitless."
     publishedDateTime: 2023-02-27T11:12:00Z

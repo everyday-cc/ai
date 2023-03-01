@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "How D-Id is merging avatars with conversational AI for enterprise use cases"
+    excerpt: "The power of generative AI is now coming to avatars. Today, D-ID releases new chatbot leveraging conversational AI."
+    publishedDateTime: 2023-03-01T07:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-d-id-is-merging-avatars-with-conversational-ai-for-enterprise-use-cases/"
+    ampWebUrl: "https://venturebeat.com/ai/how-d-id-is-merging-avatars-with-conversational-ai-for-enterprise-use-cases/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-d-id-is-merging-avatars-with-conversational-ai-for-enterprise-use-cases/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/09/artificial-intelligence.shutterstock_622946219.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
   - title: "Anthropic begins supplying its text-generating AI models to select startups"
     excerpt: "Anthropic, a startup developing safety-oriented AI models, has quietly begun making its tech available to commercial ventures."
     publishedDateTime: 2023-02-27T16:37:00Z
@@ -66,6 +82,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Generative AI is sowing the seeds of doubt in serious science"
+    excerpt: "Researchers have already developed a bot that could help tell the difference between synthetic and human-generated text"
+    publishedDateTime: 2023-03-01T05:00:00Z
+    webUrl: "https://www.ft.com/content/e34c24f6-1159-4b88-8d92-a4bda685a73c?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "SlashNext debuts generative AI tool for detecting phishing emails"
     excerpt: "SlashNext claims the tool can detect phishing emails with 99.9% accuracy. Pleasanton, Calif.-based SlashNext is backed by $40.5 million in funding. It sells a suite of products for protecting employee devices from hacking attempts."
     publishedDateTime: 2023-02-28T18:17:00Z
@@ -80,15 +110,6 @@ related:
         width: 718
         height: 400
         isCached: true
-  - title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
-    excerpt: "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market."
-    publishedDateTime: 2023-02-24T15:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/02/24/9766176.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
 
 secured: "WfCs8H6qCbrIHeSgfPyh/QpxicaPQqpa5Z1+jkxCuK0s2uFuR3RfeU5u/uMN3VmJzBpm0OEvQTW67wX4TyqqhNKcvpx6E4RJutV4YL2Um+SkKScWzIkL+Qv+HkH1Xeaa5CVH6bj+0I8Xqg+RyJCMQbtyUgMRe6+Jl7LSEZOFPi1M4loOGRS1Zvl6WwHXXAqpBi8QLI/lJJW6F4RaKPotsLzybzdyZnwfLLLdrOkKZQdN4b/41ta9qMB2FkttliVRr/tG13xCYPVbB+F6KsLuX7w2cIbjasabjiU0DrXI+3SMshNgSSMQ1mcNQPRYbBfdYyw9mm51PHSisn7j3B3H54SiMEnOrGxlWGB8uMoGwVmmFrUq99vo984setuwt6WSvE5LAXLIkR4+VaTIEDx+mJSPSkbD66VmcrOJTCA3CxUwre+aaMaxXdFoovK0C5W8nJHX9q9cUpBurg8WQ6Pfvl0ShUc0DrW433KoMVQ+0go9lNReJiNphLZcXwF3L7KxDq2vBX86PPJmY+oBCGLUbA==;dnvaSp4sTnJSoAeh0SqWag=="
 ---

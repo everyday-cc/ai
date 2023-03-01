@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Israeli Startup D-ID Puts A Face On Generative AI Chatbots"
+    excerpt: "Tel Aviv-based D-ID announced today the next stage in its rapidly evolving ride on top of the generative AI wave, launching at Mobile World Congress their chat API, the first platform to enable face-to-face conversations with an “AI Digital Human” in a natural way."
+    publishedDateTime: 2023-03-01T06:00:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63fe71cd4b8a8dd80fcbcbc2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Is It Time To Ban AI Chatbots From Using Social Media?"
     excerpt: "The fact that someone took the time to create a visual representation of a chatbot is quite impressive. In a video, Lia introduces herself and explains her ambitions. On the Lia homepage, you can chat with the bot and ask questions."
     publishedDateTime: 2023-02-25T15:44:00Z
@@ -46,26 +62,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Leaked messages show Googlers are taking out their frustrations over layoffs on its new Bard AI chatbot"
-    excerpt: "\"I'd tell you a joke about layoffs at Google, but I'm afraid I wouldn't have a job tomorrow,\" Bard said when asked to tell a joke about the layoffs."
-    publishedDateTime: 2023-02-24T22:26:00Z
-    webUrl: "https://www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "Snap Launches My AI Chatbot Using OpenAI Technology"
-    excerpt: "Social-media company makes the new feature available to users of its Snapchat+ premium service."
-    publishedDateTime: 2023-02-27T18:46:00Z
-    webUrl: "https://www.wsj.com/articles/snap-launches-my-ai-chatbot-using-openai-technology-fa21774e"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "Facebook owner Meta joins AI chatbot race"
     excerpt: "After Microsoft ChatGPT and Google's Bard, Meta is joining the AI chatbot race with its own state-of-the-art foundational large language model designed to help researchers advance their work in the field of artificial intelligence."
     publishedDateTime: 2023-02-25T08:30:00Z
@@ -80,15 +76,6 @@ related:
         width: 790
         height: 530
         isCached: true
-  - title: "Meta to form AI product team to keep up with chatbot competition"
-    excerpt: "It is trying to use the technology with text-like chats in Meta’s messaging apps and on visual filters for photos and videos."
-    publishedDateTime: 2023-02-28T06:38:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/news/meta-form-ai-product-team-keep-chatbot-competition"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
 
 secured: "gYosbGfZM/JPbQP1esBx9mrhR1VUj9OMJq3dczf0ayWQHH0TuMmM/pYOO3MP6saC+ZGz1o4aGvKgYdJzFUZYIYogeVkvJb9t8njTaeHWvirGw6PzD5b4qtZJZQGM/FrJ3+XKjOBQX3bHje35qP53kzskhDulAO285KB3mo9BeL0hphkKtIovkXKE42wvuyKPjUZlp1vmQMj0kcBqQ5FJeCg3xVeHNFnlbs6jAaDb3Iyr1ZACXBkVk5tFz07wqp3ODed0lNIwvo60W1e6P8zc0sDM9Y1GB4oB2Dm8HWNeBpfZjkk+RYVTKbV/bquZ//I0ZHPFX5o3h6zbLjSv0nc+S0SkVukna4HtFE1KdJm6rMw=;XGaw1tL+YXMltJ3udy19UQ=="
 ---

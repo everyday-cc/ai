@@ -35,20 +35,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "A Local Leader Discusses the Future of Fintech — And How His Team is Shaping It"
-    excerpt: "At the Federal Reserve Bank of Chicago, a new product is helping shape the future of fintech. Learn how the team is driving industrywide progress."
-    publishedDateTime: 2023-02-24T15:55:00Z
-    webUrl: "https://www.builtinchicago.org/2023/02/24/local-leader-discusses-future-fintech-and-how-his-team-shaping-it"
-    type: article
-    provider:
-      name: Built In Chicago
-      domain: builtinchicago.org
-    quality: 20
-    images:
-      - url: "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/styles/og/public/2023-02/mobile%20payments%20illustration.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Eye Podcast: AppTech Payments Corp (NASDAQ: $APCX) Discusses the Importance of Fintech Patents, AI and the Future Banking Transformation"
     excerpt: "Investorideas.com, a global investor news source covering Artificial Intelligence (AI) and Fintech, brings you today's edition of The AI Eye featuring an exclusive podcast interview with Mr. Mehrak Hamzeh,"
     publishedDateTime: 2023-02-28T14:59:00Z

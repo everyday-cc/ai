@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Israeli Startup D-ID Puts A Face On Generative AI Chatbots"
+    excerpt: "Tel Aviv-based D-ID announced today the next stage in its rapidly evolving ride on top of the generative AI wave, launching at Mobile World Congress their chat API, the first platform to enable face-to-face conversations with an “AI Digital Human” in a natural way."
+    publishedDateTime: 2023-03-01T06:00:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63fe71cd4b8a8dd80fcbcbc2/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Is It Time To Ban AI Chatbots From Using Social Media?"
     excerpt: "The fact that someone took the time to create a visual representation of a chatbot is quite impressive. In a video, Lia introduces herself and explains her ambitions. On the Lia homepage, you can chat with the bot and ask questions."
     publishedDateTime: 2023-02-25T15:44:00Z
@@ -58,35 +74,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Leaked messages show Googlers are taking out their frustrations over layoffs on its new Bard AI chatbot"
-    excerpt: "\"I'd tell you a joke about layoffs at Google, but I'm afraid I wouldn't have a job tomorrow,\" Bard said when asked to tell a joke about the layoffs."
-    publishedDateTime: 2023-02-24T22:26:00Z
-    webUrl: "https://www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-layoffs-bard-chatbot-ai-2023-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "Snap Launches My AI Chatbot Using OpenAI Technology"
-    excerpt: "Social-media company makes the new feature available to users of its Snapchat+ premium service."
-    publishedDateTime: 2023-02-27T18:46:00Z
-    webUrl: "https://www.wsj.com/articles/snap-launches-my-ai-chatbot-using-openai-technology-fa21774e"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "Meta to form AI product team to keep up with chatbot competition"
-    excerpt: "It is trying to use the technology with text-like chats in Meta’s messaging apps and on visual filters for photos and videos."
-    publishedDateTime: 2023-02-28T06:38:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/news/meta-form-ai-product-team-keep-chatbot-competition"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
 
 secured: "XsUyqzAvSE+gtVew4V91aZz7NluEoEGQOT6FS80y4rtpQmAHQzsaUAXCHYnQBtBxtrkmrDpJP5G8o99jbLPG+72DJNgU4v8U0+59YAKwcYLDGx6ceZZ9IDCdXHslcHIM8QoLlB3SyZmbDCdn0CRcb32kSXqwVxiVS0eVoQ/E9zUPBZsRR/rI/pBOhHykbn6xnvuGrZVntu4FKZc7uRSx8/FoGFk5Sp4ugvK/Kf5km232JdO3tq8//VnFcNjajIGhw4e+x/D2Kd/evnCp0Aes/+NvBA/Pg3kJFBop7Pis6ru2UNZr2e52JwFhrcDO1qSy2h0eo5aCoHeBj3gW3JjXO2yrKjY28ar5KEUazw8pyfNKyMJAaXda3avQrgzVtoY6Cj+aXBjYJfKVsl3rigOApj7/06VWoRGsOAXqdbAlAQo+34Wr0Lg3EN5SNTrz6HIt26ic8yIwDpRhfx91v/hMxJJDvqtXcTzmRZbntPT4kwOkq9n34QVyW0lPyf8suHGa9JF3TT0P47vTv8PuMuN0GA==;rYGsUsh4SOLYKnCmAT1jMQ=="
 ---

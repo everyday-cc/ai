@@ -7,7 +7,7 @@ originalUrl: "https://www.moneycontrol.com/news/technology/china-moves-to-regula
 webUrl: "https://www.moneycontrol.com/news/technology/china-moves-to-regulate-ai-10k-nvidia-gpu-powers-chatgpt-ai-transforming-sports-catch-all-this-and-more-in-todays-ai-news-10159881.html"
 type: article
 quality: 5
-heat: -1
+heat: 5
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Meet the $10,000 Nvidia chip powering the race for A.I."
-    excerpt: "During Wednesday's fiscal fourth-quarter earnings report, although overall sales declined 21%, investors pushed the stock up about 14% on Thursday, mainly because the company's AI chip business ..."
-    publishedDateTime: 2023-02-24T16:22:00Z
-    webUrl: "https://www.cnbc.com/2023/02/23/nvidias-a100-is-the-10000-chip-powering-the-race-for-ai-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 49
 
 secured: "Q4qHMP4sUIOXbqWS6CD+xd1eB1genjC8VluUk2Jb5oWhFr3RUF7P5cTMQGxl65KfOtrr0zeK4UYsMybS82Uq65GZEegjPsCWnveJ1OtE9iMkm3eFbxONO4Foh4OFUCNUeZl2uGtnGmrG5NekZlrPQZ6zctx3fK/Cs/DcghmLj/eWcqpXfTCSLN4l2klsDRVTzB5bYu8C8fOS7JKMJ/pdRY7ZV2GyA8I5wpWLX9u3y7cUnQF7D/Du9BR3LgDfMhyTbJw2Ff8rpFy4/VC7FJAkn1nuzVnKdnfHvgIWQceKruchm1s4Am0jTBM6WY5hNy7liyPDCvhhq2SE46MgYVsOuybbmLBYZykEn20Dda32fkT3n0XxiXlcohWbSi6+9bDD9A+oPGJy21dX8yt6l1GoCZbINIs8Kxi9dTLvT5b80ZBOheClQ/V7FBieu02zNZDhXJpLylS10aCpt+clZKJBLOM2GBPKUw4tEvCpnlBafLnOtGria4A0OmNXgIET2ScIizPgMm4OHmHEJX3Cgq/I3Q==;eRRyb1fx38XhmnK4iYzuPQ=="
 ---

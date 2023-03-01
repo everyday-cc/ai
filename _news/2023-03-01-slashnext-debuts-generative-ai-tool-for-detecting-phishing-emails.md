@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "How D-Id is merging avatars with conversational AI for enterprise use cases"
+    excerpt: "The power of generative AI is now coming to avatars. Today, D-ID releases new chatbot leveraging conversational AI."
+    publishedDateTime: 2023-03-01T07:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-d-id-is-merging-avatars-with-conversational-ai-for-enterprise-use-cases/"
+    ampWebUrl: "https://venturebeat.com/ai/how-d-id-is-merging-avatars-with-conversational-ai-for-enterprise-use-cases/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-d-id-is-merging-avatars-with-conversational-ai-for-enterprise-use-cases/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/09/artificial-intelligence.shutterstock_622946219.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
   - title: "AI-mazing Ways Artificial Intelligence is Helping Companies Save Money in 2023"
     excerpt: "AI can help automate repetitive tasks, analyze data. It can also help to create new job opportunities, such as roles in data science, AI development, and ethics"
     publishedDateTime: 2023-02-28T01:56:00Z
@@ -77,15 +93,20 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
-    excerpt: "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market."
-    publishedDateTime: 2023-02-24T15:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/02/24/9766176.htm"
+  - title: "Generative AI is sowing the seeds of doubt in serious science"
+    excerpt: "Researchers have already developed a bot that could help tell the difference between synthetic and human-generated text"
+    publishedDateTime: 2023-03-01T05:00:00Z
+    webUrl: "https://www.ft.com/content/e34c24f6-1159-4b88-8d92-a4bda685a73c?shareType=nongift"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
 
 secured: "AE8/4MOYPT6ERv4FpjxJIYEefpQGFuwyWIOshE0GvY2fyv759UZASrrGXU4IUhf2Eyg7MlMWRVQTpL8wZ9KKmK9ME8LdocFBmIZJZarVZw4tJaVanjDrXLgyjPYPG2Ac3KLjr5CU30UytquMpbo6xHTvZ/SOW7mHn9Lg2TVCj/L45bK8MNHud6OjsdKzNIgSK7eZFNqMOWNhvmO7KEwzMlrFW+O+pedux/swVb+8JJUwNCUBrwBVQgCbuNdHxVL6fmGWIYDb1liw6Cn6SOZClBTLQyWu60v4+1O5Y5xR6yA/HQ/9xjI2y4M3KlsXKlaLmokDI/RVtytmXMhmlCIhA4M9QZLx2g1MONXu2KANMQO5zqVU7W4RVKEjnEk1YZvoX4lvuOZTHRZUi3H1GmkGHTsnLsI4knPQMt30GyiPpZY/udql+tDsmtRtAzmfPQxRZpVVgpkcKcX58ZCJDSHt7Lrs5iQj8DUmESMfaH1mZo4FoJYq2bk9d7pdsKSmHI6MEhMcoAtwNFzcMYqiLnp2Ng==;aQNEFjMR8nk28G7ZPm29Qg=="
 ---

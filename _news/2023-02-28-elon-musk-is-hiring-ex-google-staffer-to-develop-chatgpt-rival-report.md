@@ -121,6 +121,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Snap Launches My AI Chatbot Using OpenAI Technology"
+    excerpt: "Social-media company makes the new feature available to users of its Snapchat+ premium service."
+    publishedDateTime: 2023-02-27T18:46:00Z
+    webUrl: "https://www.wsj.com/articles/snap-launches-my-ai-chatbot-using-openai-technology-fa21774e"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "Elon Musk Might Start Up a ChatGPT Rival, Report Says"
     excerpt: "Musk, who co-founded ChatGPT's creator, OpenAI, has approached AI researchers about forming a research lab, The Information reports."
     publishedDateTime: 2023-02-28T13:34:00Z

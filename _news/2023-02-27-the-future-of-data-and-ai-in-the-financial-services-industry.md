@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/amp/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -108,22 +108,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "UST to deepen engagement in banking and financial services space"
-    excerpt: "UST saw significant traction in client base and revenue in the past year due to its innovation and personalised approach to financial services"
-    publishedDateTime: 2023-02-24T16:06:00Z
-    webUrl: "https://www.thehindubusinessline.com/money-and-banking/ust-to-deepen-engagement-in-banking-and-financial-services-space/article66548202.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/ust-to-deepen-engagement-in-banking-and-financial-services-space/article66548202.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/ust-to-deepen-engagement-in-banking-and-financial-services-space/article66548202.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/2mczxw/article66548192.ece/alternates/FREE_320/Maureen%2C%20UST.jpg"
-        width: 320
-        height: 240
         isCached: true
   - title: "Meta to release new interactive AI model for academia and industry labs"
     excerpt: "Meta, formerly known as Facebook, made the announcement on ... in government and civil society as well as industry research laboratories. In November last year, the firm released another interactive AI model focused on natural science."

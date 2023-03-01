@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Breweries using artificial intelligence to create new beers"
-excerpt: "Artificial intelligence is behind a new IPA being served at a Michigan brewery. Atwater Brewery developed the beer with the help of an AI chatbot. \"We asked an AI to create an IPA recipe for us, and it was able to create a recipe to the scale of our brew ..."
-publishedDateTime: 2023-02-28T22:03:00Z
-originalUrl: "https://www.wptv.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
-webUrl: "https://www.wptv.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
-ampWebUrl: "https://www.wptv.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
-cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
+excerpt: "Artificial intelligence is behind a new IPA being served at a Michigan brewery. Atwater Brewery developed the beer with the help of an AI chatbot."
+publishedDateTime: 2023-02-28T20:00:00Z
+originalUrl: "https://www.fox13now.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
+webUrl: "https://www.fox13now.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
+ampWebUrl: "https://www.fox13now.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
+cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
 type: article
 quality: 57
 heat: 57
 published: false
 
 provider:
-  name: WPTV-TV
-  domain: wptv.com
+  name: fox13now
+  domain: fox13now.com
 
 topics:
   - AI
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "FJTRgGhqJSLv3sH8hV1mNZO/ugehLAy+ZSibW1H2XYwmgV8HehaxMVs8XgWCSrWi3DmpYVu7TmMn4QWzPKo25NThkeZCqN1Sn4ssKFEKGbiHe2Iba/XoTqkrnSfuYjSboCW+JKbIp7aZd9s1i4CJo9+5NqGeGBLPHv32GhQ+oh6fXHTadXcF7fpNGmQYNnvLvxeboGI+qGTgpJUcQkM3tWSID54GUtcpn3BlLLX5MwJqVGYEYpbMTXqQFAl1kGjJMcC1sYORI0PdViCNXjDsRWs0o0tilOTehRNiUmbJzCVyhNJo9TeAbiDYzaC1XIqwFTaHWhqB9zsPLGKBlRjWpxAt8q/YLFy+xdTHp80TLUj9maMmKHmQ1VDOH+zZNZi434Apr1xOLe25F7brSR/5NRQbV273yg2UaYqxyVmWAkPaDBL343fYJ+QunIDSwAo5EOgHz7Y4DvEHFcmwShM5agU1VN1VW2ehonNIxhEOdgv/LBh4dbH67LCR4g7d0gvlYtgwFRTAvc/tSW+Z4fnXmw==;l9bcY1j1jO3ok/JmaYuygQ=="
+secured: "W53bj7zi7EI2hDVBU4yhU5mm7rOkA9ip2puFSK4qK1pCdJbu4c1QnZpPwR3X7BUBfze8W05l4h14yJOpkaaoMus0gh8RPgZkSCD3wDuK9oFVaMFhEbpGySB4HQN91fPYued6vCZ82hWiAo5EVHiIa9AOP2g8fnZtRPh6VlZhj8AIXg8aCYwKiV75W4iHBS/MtLTIyGooLGzwY0R8/t7pcYGbVM7OU7yC/cFhQLLPQqYnOcUdbSAj1R2cZG7+rIDIT1htINEdM07ffnRwrrwP/k/BTRIGyyKTQz1ItrNLQdsz4BNuvoCDozrr+5PxMswFYeAp3sSNBxPyRLao4R3dxi4O2vcq4JkZ7WB4+HXoSCA=;jWwgs9i5GUGre0/FYi+Oog=="
 ---
 

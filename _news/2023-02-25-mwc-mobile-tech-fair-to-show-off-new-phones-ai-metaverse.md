@@ -43,22 +43,6 @@ related:
         width: 619
         height: 374
         isCached: true
-  - title: "Mark Zuckerberg announces Meta's new large language model as A.I. race heats up"
-    excerpt: "Large language models underpin applications such as OpenAI's ChatGPT, Microsoft Bing AI, and Google 's unreleased Bard ... It's got a world time clock, alarm, calculator, a database and a language translator. It also has a word processor, a spellchecker ..."
-    publishedDateTime: 2023-02-24T15:44:00Z
-    webUrl: "https://www.cnbc.com/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107131933-1665418142088-gettyimages-1327685522-kd1_0333_20210708121128478.jpeg?v=1677260690"
-        width: 5353
-        height: 4124
-        isCached: true
   - title: "Meta Building A-Team To Create AI Personas: Mark Zuckerberg"
     excerpt: "The public battle to dominate the AI technology space kicked off late last year with the launch of Microsoft-backed OpenAI's ChatGPT, which has since prompted tech heavyweights from Alphabet Inc to China's Baidu Inc to announce their own offerings."
     publishedDateTime: 2023-02-28T03:28:00Z

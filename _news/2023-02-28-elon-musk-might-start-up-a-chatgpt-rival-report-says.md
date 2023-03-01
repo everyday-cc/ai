@@ -116,6 +116,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Snap Launches My AI Chatbot Using OpenAI Technology"
+    excerpt: "Social-media company makes the new feature available to users of its Snapchat+ premium service."
+    publishedDateTime: 2023-02-27T18:46:00Z
+    webUrl: "https://www.wsj.com/articles/snap-launches-my-ai-chatbot-using-openai-technology-fa21774e"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "Elon Musk is hiring ex-Google staffer to develop ChatGPT rival: Report"
     excerpt: "Tesla and Twitter chief Musk has been recruiting Igor Babuschkin, a researcher who recently left Alphabet's (GOOGL.O) DeepMind AI unit, the report said."
     publishedDateTime: 2023-02-28T06:06:00Z

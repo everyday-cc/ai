@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/meta-launch-ai-language-model-l
 webUrl: "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Reuters
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta to launch AI language model LLaMA"
-    excerpt: "REUTERS/Dado Ruvic/Illustration/File Photo Feb 24 (Reuters) - Meta Platforms Inc (META.O) said on Friday it will release a new AI large language model called LLaMA designed to generate text, conversations and summarize written material."
-    publishedDateTime: 2023-02-24T15:24:00Z
-    webUrl: "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://www.reuters.com/resizer/fJBJrVyXjYaAylhHFyAuMY-sz8Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SC4LDVC3ZMXJIUUQDZRBHPHU4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Meta's little LLaMA model comes with big benefits for AI researchers"
     excerpt: "Facebook's parent company has released LLaMA, a relatively small but powerful model that should help researchers address the potentially harmful and sometimes wacky pitfalls of AI."
     publishedDateTime: 2023-02-24T21:44:00Z
@@ -53,22 +39,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "Meta launches LLaMA model, a mightier research tool than OpenAI's GPT-3"
-    excerpt: "The social networking giant plans to make the technology accessible to researchers and integrate it into its product in the future."
-    publishedDateTime: 2023-02-25T11:15:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/02/25/1338442-openai.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Meta brings AI chatbot with own large language model for researchers"
     excerpt: "Smaller, more performant models such as LLaMA enable others in the research community who don't have access to large amounts of infrastructure to study these models, further democratising access in this important,"
     publishedDateTime: 2023-02-26T02:59:00Z
@@ -117,34 +87,6 @@ related:
         width: 790
         height: 320
         isCached: true
-  - title: "Meta rolls out new language model amid Big Tech’s AI push"
-    excerpt: "Meta Platforms Inc is releasing a new large language model based on artificial intelligence (AI) aimed at the research community, Chief Executive Officer Mark Zuckerberg said in a Facebook post on Friday,"
-    publishedDateTime: 2023-02-24T15:29:00Z
-    webUrl: "https://kfgo.com/2023/02/24/meta-rolls-out-new-language-model-amid-big-techs-ai-push/"
-    type: article
-    provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-02/24/2023-02-24T162444Z_1_LYNXMPEJ1N0O0_RTROPTP_3_META-PLATFORMS-SUBSCRIPTION.JPG"
-        width: 800
-        height: 494
-        isCached: true
-  - title: "Meta introduces its own AI tool, LLaMA"
-    excerpt: "Meta said \"there is still more research that needs to be done to address the risks of bias, toxic comments, .. \""
-    publishedDateTime: 2023-02-25T06:29:00Z
-    webUrl: "https://techstory.in/meta-introduces-its-own-ai-tool-llama/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/02/94d394304d1c47ab042f3c061e2a2150.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Meta reveals LLaMA language model as AI wars heat up"
     excerpt: "Meet LLaMA, Meta’s large language model On Facebook’s AI blog, Meta describes LLaMA as a “foundational ... “Even with all the recent advancements in large language models, full research access to them remains limited because of the resources ..."
     publishedDateTime: 2023-02-24T18:50:00Z
@@ -173,33 +115,6 @@ related:
         width: 800
         height: 494
         isCached: true
-  - title: "Meta releases LLaMA to democratize access to large language AI models"
-    excerpt: "Meta Platforms Inc.’s Facebook AI Applied Research group today is publicly releasing a new foundational large language model, known as Large Language Model Meta AI or LLaMA, to help the scientific community advance its research into a subset of ..."
-    publishedDateTime: 2023-02-24T16:24:00Z
-    webUrl: "https://siliconangle.com/2023/02/24/meta-platforms-releases-llama-democratize-access-large-language-ai-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-  - title: "Meta enters Big Tech AI race with launch of language model LLaMA"
-    excerpt: "Meta Platforms Inc, the parent company of Facebook, Instagram and WhatsApp, is releasing a new AI tool LLaMA, short for Large Language Model Meta AI,"
-    publishedDateTime: 2023-02-24T15:59:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1007293/meta-enters-big-tech-ai-race-with-launch-of-language-model-llama-1007293.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 19
-  - title: "Meta to launch AI language model LLaMA"
-    excerpt: "Meta Platforms Inc said on Friday it will release a new AI large language model called LLaMA designed to generate text, conversations and"
-    publishedDateTime: 2023-02-24T16:27:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/02/24/meta-to-launch-ai/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 19
   - title: "Meta to release AI-based language model for researchers"
     excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
     publishedDateTime: 2023-02-27T18:04:00Z

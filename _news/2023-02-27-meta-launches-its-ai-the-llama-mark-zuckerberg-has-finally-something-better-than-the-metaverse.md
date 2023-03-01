@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-ma
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1"
 type: article
 quality: 75
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mark Zuckerberg announces Meta's new large language model as A.I. race heats up"
-    excerpt: "Large language models underpin applications such as OpenAI's ChatGPT, Microsoft Bing AI, and Google 's unreleased Bard ... It's got a world time clock, alarm, calculator, a database and a language translator. It also has a word processor, a spellchecker ..."
-    publishedDateTime: 2023-02-24T15:44:00Z
-    webUrl: "https://www.cnbc.com/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/24/mark-zuckerberg-announces-meta-llama-large-language-model.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107131933-1665418142088-gettyimages-1327685522-kd1_0333_20210708121128478.jpeg?v=1677260690"
-        width: 5353
-        height: 4124
-        isCached: true
   - title: "MWC mobile tech fair to show off new phones, AI, metaverse"
     excerpt: "The latest folding-screen smartphones, immersive metaverse experiences, AI-powered chatbot avatars and other eye-catching technology are set to wow visitors at the annual MWC wireless trade fair"
     publishedDateTime: 2023-02-25T14:01:00Z

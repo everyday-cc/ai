@@ -80,6 +80,20 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 32
+  - title: "27/02 – Weekly Fintech Recap"
+    excerpt: "Partnerships Western Union and Beforepay Offer ‘Send Now, Pay Later’ Service to Consumers for International Money Transfers Western Union and Beforepay announced a first-of-its-kind collaboration, allowing consumers to boost their cross-border money transfers by accessing reliable,"
+    publishedDateTime: 2023-02-27T13:29:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/2702-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_31.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How Is Fintech Changing The Way We Bank?"
     excerpt: "The world of banking is changing rapidly, and the engine driving this change is the phenomenon known as fintech. As a result, our relationship with money has been completely upended."
     publishedDateTime: 2023-02-25T14:10:00Z

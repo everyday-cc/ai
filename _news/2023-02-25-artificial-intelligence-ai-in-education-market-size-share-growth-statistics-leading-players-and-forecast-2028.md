@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-share-growth-statistics-leading-players-and-forecast-2028-2023-02-25"
 type: article
 quality: 79
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
     excerpt: "Feb 26, 2023 (The Expresswire) -- \"Deep Learning Software Market\" Research Report 2023 Provides a Basic overview of the Industry including"
     publishedDateTime: 2023-02-27T01:08:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028"
+    excerpt: "Mar 01, 2023 (The Expresswire) -- \"Machine Learning Market\" Report covers specified competitive outlook consisting of the market proportion and"
+    publishedDateTime: 2023-03-01T06:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-03-01"
     type: article
     provider:
       name: MarketWatch

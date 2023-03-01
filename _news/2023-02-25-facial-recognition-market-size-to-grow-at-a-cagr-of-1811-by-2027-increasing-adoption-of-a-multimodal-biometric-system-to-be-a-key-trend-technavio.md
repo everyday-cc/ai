@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "DHS S&T’s Biometric Tech Rally Highlights Efficacy of Group Facial Recognition Systems"
+    excerpt: "Looking for the latest Government Contracting News? Read about DHS S&T's Biometric Tech Rally Highlights Efficacy of Group Facial Recognition Systems."
+    publishedDateTime: 2023-02-28T22:04:00Z
+    webUrl: "https://executivegov.com/2023/02/dhs-sandts-biometric-tech-rally-highlights-efficacy-of-group-facial-recognition/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 31
+    images:
+      - url: "https://em-graphics.s3.us-west-2.amazonaws.com/archintel-media/657dd454-e0fd-4e29-9c17-ca7230abf31c.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Biometric recognition tests can’t be used for all use cases"
     excerpt: "Successful manufacturers do not treat testing as a formality or a Band-Aid, and buyers should not take results at face value."
     publishedDateTime: 2023-02-24T22:49:00Z

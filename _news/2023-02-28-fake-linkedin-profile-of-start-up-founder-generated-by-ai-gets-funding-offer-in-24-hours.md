@@ -7,7 +7,7 @@ originalUrl: "https://www.moneycontrol.com/news/trends/fake-linkedin-profile-of-
 webUrl: "https://www.moneycontrol.com/news/trends/fake-linkedin-profile-of-start-up-founder-generated-by-ai-gets-funding-offer-in-24-hours-10176831.html"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,40 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Fake, AI-generated start-up gets lucrative funding offer on LinkedIn!"
+    excerpt: "I created a fake LinkedIn profile of a founder.- AI-generated white male face- Stripe alum- Stanford dropout- G…  @roshanpateI I know a bunch of people who worked at Stripe and NONE of them have anything good to say about Chad Smith."
+    publishedDateTime: 2023-03-01T07:21:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/fake-ai-generated-start-up-gets-lucrative-funding-offer-on-linkedin/articleshow/98328132.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/start-up-boss-creates-ai-generated-fake-profile-gets-funding-offer-on-linkedin-within-24-hours/amp_articleshow/98328132.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/start-up-boss-creates-ai-generated-fake-profile-gets-funding-offer-on-linkedin-within-24-hours/amp_articleshow/98328132.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://img.etimg.com/photo/96164744.cms"
+        width: 2448
+        height: 1224
+        isCached: true
+  - title: "Start-up boss creates AI-generated fake profile, gets funding offer on LinkedIn within 24 hours"
+    excerpt: "Stock A fake LinkedIn profile of a startup founder received funding offers in hours! (Representative image) A LinkedIn profile of an entirely fictional startup founder bagged a lucrative funding offer from a VC in just 24 hours!"
+    publishedDateTime: 2023-03-01T07:05:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/start-up-boss-creates-ai-generated-fake-profile-gets-funding-offer-on-linkedin-within-24-hours/articleshow/98328132.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/start-up-boss-creates-ai-generated-fake-profile-gets-funding-offer-on-linkedin-within-24-hours/amp_articleshow/98328132.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/start-up-boss-creates-ai-generated-fake-profile-gets-funding-offer-on-linkedin-within-24-hours/amp_articleshow/98328132.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 45
+    images:
+      - url: "https://img.etimg.com/photo/96164744.cms"
+        width: 2448
+        height: 1224
+        isCached: true
 
 secured: "xEOZQV+EydxlJT7BY0klcw5/WKapPa7QNKmqO2d5fBOaE+mGWKDVeG8tqsshLjmvO5GZXQqTTYy/nIP8Q+mzNqD0uxxjnFgo04BuLYTGBtHbilD5R4jTV5iuZ63kTMRfyq0MRNbdurk82gAWo15UlaGj1c7AWllX7TwG9yNiz6j/aWdl6DRLetNV7IkAs8UiVE3pxemL7tEfUANm+bqFf6suzEV6V88zI6HeWr+Zc3UKA5m/grGZxY6rPrfondCZncV93dXH0aO31Lyal4vSQY5eaNQh6v/MwUTTDUl3OMTuBfPPw1djd6/ZjjTJHzxXwXtfQJpLWXB7MP8jMCxcgszOUb2bSVRk4eeej32lJq8mrxjj5INby0NGlCng03l0maBQCmcFg8wnkbEiUjL4nc+KN1fu9+BE3QxBk0D7aK6Abc5EQCBXa4hQ9ZdYqhp2eAqZjN4PPoiZHUUvJ3OtnDa1hbiA8pbOZ6nogirXZH2Zf/Y+q9fiHjIcrplxdp915da0A6ZCjfH4CtXAV2EubA==;a1WLp7hIpXH7Sqmj+ofyXw=="
 ---
