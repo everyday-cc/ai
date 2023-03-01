@@ -3,7 +3,7 @@ name: "Nando de Freitas"
 bio: "Nando de Freitas is a Professor of Computer Science at the University of Oxford. He is also a Fellow of Linacre College, Oxford. De Freitas is noted as an authority in the field of machine learning, and in particular in the subfields of neural networks, Bayesian inference and Bayesian optimization, and deep learning."
 location: London, England
 type: "profile"
-heat: 149
+heat: 108
 
 affiliation:
   name: google.com - Homepage
@@ -14,7 +14,7 @@ website: https://t.co/uy8OBWPHze
 twitter:
   username: NandoDF
   url: https://twitter.com/NandoDF
-  followers: 92955
+  followers: 92957
 
 googleScholar:
   url: https://scholar.google.com/citations?user=nzEluBwAAAAJ
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Nando de Freitas"
 
-secured: "uRVRnoQZJOXfWBDwftIxncnzMxQXg8ozRDmAeawe4fgYI6vORq14Rn5Pa1HhF636/eGWWmqdD+6UQy26rP50SkgO8+EGHHWUN6yj3vaqg2175qsrGd7tbrykEvuW37zTci5jalr20pFF2D2tALFcbZc75hua4vJqBnHBE/ltpgTmoxxNllbHFbXH32P6Qib+mXST68vuP08w8qene0rwoP5kRZJjKky1s2fte7IAb9VzwMNgp5qA1Q8wSDKxGMuSAVm4vNexgYHFuCDJEMFRj+17iDh2OamJcKwuKJWuaHU7pnLdVAe2WgWjpVLEGQ8nRejXGz0r1xKwFpzsbZyTePbVi60Lrxpul+uE23++5Lph9kPWC0wRMCLDOkgXAYFOkKsO5idr73Si0pPH8raS7k9kp9ajUERS9RV7xl/LE38=;u5tRZSoXIxeI3eJMAAffmg=="
+secured: "jFc5YiK7suD4KRqjV/EEHEwvuZlpPFDVrOQYTgPQhQOYQibtncS2TWaKfanOqWS5z3xOEqEs/XnooeyHJo09z7eLfMZpwK0XRrBQ92XZ6tl8/yWGcgWPVIV8cCPlQpZizmIqACAgAnQ7zyvSogoRSV8WQWBEAxkQxVhRxTAwEYi/+V7qjx7B6YWFS0h1tA3Fg69w8QLjl8qYJ/KOpPCFdbE8OTFk5ev7Rm/Hw8o6bTpu1L/d4MQ2oi7Re9v25vVM4q4r+5h28rbvN60SvhYzfiblzkLBlimTHiCcBqEw5+FB7b7lEVxAs9bhzcQIecbt8AZ1KI2EU1qZk74FmhmZ6ZVkOx6S1OL7J8QGQzNCJxbdr5/yRce+f+U6TXvjIqLMPO8rR4oPHIYnajS9QyNz38s2lwFMhIKOxP1FC3cTJ9g=;p0z+ZIIRt6ICwGWPNH+BdQ=="
 ---
 
