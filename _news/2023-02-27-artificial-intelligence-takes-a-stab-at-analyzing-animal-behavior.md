@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.genengnews.com/wp-content/uploads/2023/02/LabGym_3-e1677505697807.jpg"

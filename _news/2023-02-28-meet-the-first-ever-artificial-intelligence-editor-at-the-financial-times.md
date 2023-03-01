@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.niemanlab.org/images/background_of_lush_hedge_maze_simple_illustration_wi_97ed11c4-edea-4d42-8739-1d23cd30e34b@2x-5-700x467.jpg"

@@ -24,6 +24,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Healthcare
+  - AI Hardware
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
@@ -86,6 +87,6 @@ related:
       domain: technologyreview.com
     quality: 17
 
-secured: "pKXZP4haWkPImaOOHY1MBwZKr5n60HgH0m2tLlEWIJ8nPshjXXe0fbn5TiHNp7GRD+XhZXAEnpDf2w/L9swYr3Ej8Mlq1hYZSqKy+8QqjJo+s2J7CHvYxdRKYfVi8aAKTu/ACw6PvJZ4pTbTAJzfVSx9OjSadoNjUweJd88VEX+vhGbAunw65pkqlSnkW9odtb8caE4EMLGD4CVkT4DxLIEzLSUwQJ61MFBCYbP6YYhpzESXHyI0XjpKwtqS01ri3yW25CXW5jU3aqDl9Yvfk5ILdQw/hpb0Ioupg0qy62QvyUVRQrT+tpt4rXuXwuyHEr075nYmCRGvv4OSYpYkNKQqzrYYWgHvxqKtJxG2OMk=;J7lIjSsAH16e/KwNU/anDQ=="
+secured: "aoFwxxKW6QzMGuPpcH61hhX2bEdY4xiEaLW2bVmwMvkHqRKetrhubclSx17E8zoWi07ID9YvCauCtZc07VkZnos14Tr9cCmH2hjX2INQMgoPpyPDY/10CBw/fuINPfCkoiK8tCxLLdRoMZPfjzqrR+1ps5rT3vIv8g22DGgUXxlJHwPuaCm/oH3Bzc2LFNMnk9P1lOiNZCuicx7dEFBlMaS0mS4qAnaylN1o+S7jvQgMO0+vIx/oTNug0SLCAtBlf0MY1af851f4vwtb3Vs/2UvXH6YELTdiLpi4lQmXNhddtYSH4RbYi1zlVDUVRDAvnKl8wD6KAcpxDWW1a3A6tiVVWCkTmjjtcEHS36VF60EPftlXaN7/R2HTbbY6BIh3VevNvzu58GSoQAenamlLF+Kvb9MBlmSKdBEOtbrb9GX0pOU/AVhE2CG4PtIpFN5mWWb19Nje6lRDJbaJ9Sb2Kbr6gOxcOFS9RR9ULquoWPRPfndUAyGZltzcTMJw8gnmSQ7EQbFNe75r96gkFIwcbA==;8KyuhcW9Ss1sz9iujGurFw=="
 ---
 
