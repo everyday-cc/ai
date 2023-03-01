@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Azure expands its telco solutions"
+    excerpt: "Microsoft announced features for telco's using its Azure cloud services: transformation, automation and AI, network-aware applications and \"ubiquitous computing from cloud to edge.\""
+    publishedDateTime: 2023-02-27T23:27:00Z
+    webUrl: "https://techcrunch.com/2023/02/26/microsoft-azure-expands-its-telco-solutions/"
+    ampWebUrl: "https://techcrunch.com/2023/02/26/microsoft-azure-expands-its-telco-solutions/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/26/microsoft-azure-expands-its-telco-solutions/amp/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1238869000.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft Windows 11 update puts AI front and center"
     excerpt: "Microsoft will roll out on Tuesday an update to Windows 11 that puts its new AI-powered Bing capabilities front and center on its taskbar, one of the operating system's most widely used features, in the latest sign the company is doubling down on the buzzy technology despite some recent controversy."
     publishedDateTime: 2023-02-28T17:15:00Z
@@ -60,15 +76,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "3 Microsoft Azure AI product features that accelerate language learning"
-    excerpt: "The Microsoft Azure Cognitive Speech Services platform is a comprehensive collection of technologies and services aimed at accelerating the incorporation of speech into applications and amplifying differentiation to the market as a result. Among the services available are Speech to Text, Text to Speech,"
-    publishedDateTime: 2023-02-24T08:00:18Z
-    webUrl: "https://azure.microsoft.com/blog/3-microsoft-azure-ai-product-features-that-accelerate-language-learning/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 99
   - title: "Microsoft's AI-powered Bing Chat now lets you choose 'precise' or 'creative' answers"
     excerpt: "Microsoft continues to tweak the AI-powered Bing Chat by adding new features such as the abilty to respond with different 'tones'. Over the weekend Micosoft said some users are now able to choose a style for the responses from Bing that are either 'Precise',"
     publishedDateTime: 2023-02-28T14:57:00Z
@@ -100,6 +107,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63fe48fd88cca7a5e936e6ee/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 802
+        isCached: true
+  - title: "I tried using Bing's AI chatbot's tones. Here's what happened."
+    excerpt: "Select chatbot users can now toggle between 'Precise,' 'Balanced' or 'Creative' tones for responses. Here is what I learned."
+    publishedDateTime: 2023-03-01T00:32:00Z
+    webUrl: "https://www.zdnet.com/article/i-tried-using-bings-ai-chatbots-tones-heres-what-happened/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tried-using-bings-ai-chatbots-tones-heres-what-happened/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tried-using-bings-ai-chatbots-tones-heres-what-happened/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4a2a977d2587c9108a8c21ead6424879077aded1/2023/01/23/ab0629d6-3025-4d76-bc8e-95e872d04683/gettyimages-1246127199.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Better Artificial Intelligence Stock: Cloudflare vs. Microsoft"
     excerpt: "Both companies could win big from adopting artificial intelligence-enabled applications, but which is the better bet?"

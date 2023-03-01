@@ -188,15 +188,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Clinical Natural Language Processing Market: Top Growing Opportunities and Growth Outlook by 2029"
-    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Clinical Natural Language"
-    publishedDateTime: 2023-02-24T07:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-clinical-natural-language-processing-market-top-growing-opportunities-and-growth-outlook-by-2029-2023-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
   - title: "Artificial Intelligence-Emotion Recognition Market New Updates Drivers, Challenges and Competitive Strategic Window for Opportunities till 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 27, 2023 (The Expresswire) -- Artificial Intelligence-Emotion Recognition Market size is expected to reach Multimillion USD by 2029, In comparison to 2023, at unexpected ..."
     publishedDateTime: 2023-02-28T10:17:00Z

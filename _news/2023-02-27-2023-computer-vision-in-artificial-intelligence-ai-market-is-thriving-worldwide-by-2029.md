@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-in-
 webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-in-artificial-intelligence-ai-market-is-thriving-worldwide-by-2029-2023-02-26"
 type: article
 quality: 91
-heat: 351
+heat: 361
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
     excerpt: "GPU for AI Market Research Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. GPU for AIMarket Size is projected to Reach Multimillion USD by 2029,"
     publishedDateTime: 2023-02-26T19:17:00Z
     webUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-is-booming-in-near-future-2023-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Computer Vision Market Research Report-Forecast 2023 to 2029"
+    excerpt: "Top “ AI in Computer Vision Market ” Size 2023 Key players Profiled in the Report are [, QUALCOMM INCORPORATED, Cognex Corporation, General Electric Company, Intel Corporation, NVIDIA CORPORATION, BASLER AG,"
+    publishedDateTime: 2023-02-28T02:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-forecast-2023-to-2029-2023-02-27"
     type: article
     provider:
       name: MarketWatch

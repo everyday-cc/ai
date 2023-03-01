@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-i
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-98270586,imgsize-112440,width-1200,height-628,overlay-ettelecom/microsoft-introduces-next-generation-hybrid-cloud-platform.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Microsoft Expands Azure Services for 5G Wireless Operators"
+    excerpt: "Microsoft described multiple Azure for Operators additions and improvements for 5G communications service providers (CSPs) as part of this week's Mobile World Congress 2023 in Barcelona, Spain."
+    publishedDateTime: 2023-02-28T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2023/02/28/microsoft-expands-azure-services-for-5g-wireless-operators.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticSmall.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "Spirent Joins the Microsoft Azure Operator Nexus Ready Program"
     excerpt: "Spirent Communications plc (LSE: SPT), a leading provider of test and assurance solutions for next-generation devices and networks, today announced a collaboration with Microsoft for the pre-certification of third-party network functions (NFs) on the new Microsoft Azure Operator Nexus platform."

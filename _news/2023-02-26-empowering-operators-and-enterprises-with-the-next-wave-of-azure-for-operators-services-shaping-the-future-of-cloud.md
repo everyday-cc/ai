@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft Expands Azure Services for 5G Wireless Operators"
+    excerpt: "Microsoft described multiple Azure for Operators additions and improvements for 5G communications service providers (CSPs) as part of this week's Mobile World Congress 2023 in Barcelona, Spain."
+    publishedDateTime: 2023-02-28T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2023/02/28/microsoft-expands-azure-services-for-5g-wireless-operators.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Spirent Joins the Microsoft Azure Operator Nexus Ready Program"
     excerpt: "Spirent Communications plc (LSE: SPT), a leading provider of test and assurance solutions for next-generation devices and networks, today announced a collaboration with Microsoft for the pre-certification of third-party network functions (NFs) on the new Microsoft Azure Operator Nexus platform."
     publishedDateTime: 2023-02-28T08:34:00Z

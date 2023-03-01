@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Computer Vision Market Research Report-Forecast 2023 to 2029"
+    excerpt: "Top “ AI in Computer Vision Market ” Size 2023 Key players Profiled in the Report are [, QUALCOMM INCORPORATED, Cognex Corporation, General Electric Company, Intel Corporation, NVIDIA CORPORATION, BASLER AG,"
+    publishedDateTime: 2023-02-28T02:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-forecast-2023-to-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Robots Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2029"
     excerpt: "What is the projected market size and growth rate of the Artificial Intelligence (AI) Robots Market? Artificial Intelligence (AI) Robots Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,"
     publishedDateTime: 2023-02-25T12:06:00Z

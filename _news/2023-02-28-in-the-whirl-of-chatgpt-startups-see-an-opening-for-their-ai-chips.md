@@ -3,12 +3,10 @@ category: news
 title: "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips"
 excerpt: "The fascination with generative AI has spring-loaded demand for products that can help deliver on its promise. And startups are primed to pounce. ‘There’s new openings for attack,’ says one venture capitalist."
 publishedDateTime: 2023-02-27T20:49:00Z
-originalUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
-webUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
-ampWebUrl: "https://www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
+originalUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f?tpl=vc"
+webUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f?tpl=vc"
 type: article
-quality: 87
+quality: 84
 heat: -1
 published: false
 
@@ -21,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -245,20 +244,6 @@ related:
       - url: "https://images.wsj.net/im-732550/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "China Is Betting Big on Artificial Intelligence—Even As It Cracks Down on ChatGPT"
-    excerpt: "Given that China already bans Google, Facebook, Twitter ... founder of Beijing-based IT research firm Marbridge Consulting. Regarding AI, China already has a virtual news anchor for the state-run Xinhua News Agency, a computer science “student ..."
-    publishedDateTime: 2023-02-24T09:00:00Z
-    webUrl: "https://time.com/6258089/china-great-firewall-chatgpt-ai-future/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 66
-    images:
-      - url: "https://time.com/img/icons/wallet-connect.png"
-        width: 256
-        height: 256
         isCached: true
   - title: "ChatGPT Killed the Radio Star? These AI-Powered Chatbots Can Replace DJs"
     excerpt: "The RadioGPT system taps OpenAI's GPT-3 language model, along with an AI-generated voice, to create an artificial DJ capable of reading the news during song breaks."
@@ -598,15 +583,6 @@ related:
       name: PC Tech Magazine
       domain: pctechmag.com
     quality: 14
-  - title: "China says it sees the potential of ChatGPT-like technology"
-    excerpt: "BEIJING--China's Ministry of Science and Technology said on Friday said it saw the potential of ChatGPT-like tech and would be pushing for the integration of artificial intelligence into Chinese society and the economy."
-    publishedDateTime: 2023-02-24T08:39:00Z
-    webUrl: "https://www.asahi.com/ajw/articles/14847406"
-    type: article
-    provider:
-      name: 朝日新聞社
-      domain: asahi.com
-    quality: 4
   - title: "China's First ChatGPT-like Software to Be Made Open Source"
     excerpt: "MOSS, the first large-scale conversational language model in China, will be made open source by the end of March, said the research and developing team on Sunday. Named after the artificial intelligence featured in the Chinese Sci-fi movieTheWandering Earth II,"
     publishedDateTime: 2023-02-27T12:18:00Z
@@ -626,6 +602,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "XL8w6NVPPw4u6jcL9bqor1Fo4QOT9jQFcZGGdRPktZPddNMYzKjSR3EXo4frhqc1F8LRae2O5IX9Jivgnm2GQeHwff17bbVjtwrvR1kVpNZdTQbpIZjPqRm4YlsvVLNJJDn/MMQvx0i465B+Jug1/M/Y7OTyIR3CRlkNkF8RbfI717hKp/csGwJNU/DEjkWrIGi0ZriuVLtWjBUAg/jLgicYOU1+N/1NlcQIoY6B4evQv20LEfM20gfFpa3frqvWW+kh4JLgSZT39pB2yu4gxjheqOEzoM9Z4oBj/JgUEbQN35tAgiDohnWF9BRm2WIPCQqgoH8vhNHdCcAvdMM/+qopxAQXj07CKSrcBo3/91Y=;sCFWrNgWKVb4K21ZQKzHPg=="
+secured: "NM4xR9dEdDi7KuLUMkgfrastZ1ZJKe0kMyYfF1N9HOLFJVykiqtrxFIjmuCOCud3pjn7CESG810i13dseXox1en789UE9w0XSTdpGyX7wYy7BfIVrl2aNOJbXdXctaJMu8STiUL5L/PwvUdsjSRNVSXjTCaCxplF0faq2XMs57lfeEV5E4sn9vYk8yYa2uw7WAjgXGGr1Bj12l0n4AdTwqiu/kvV59Shg2VyUpg8RulBdrHbpqgm9uQhScXMXoVcf7mWgMOSGksyZFUdTuow0sXq0eLwZbzwOuHWjxS/y7iSYo6fudZD4fW1dzodzX5KdVnU9RlbhS1lSz3DJAkkr6PX+QgWJMG+y3MFV6b0KcI=;j5IRoLCeFo6XX+kCLKQfZg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.outlookindia.com/national/modi-lauds-yediyurappa-s-far
 webUrl: "https://www.outlookindia.com/national/modi-lauds-yediyurappa-s-farewell-speech-saying-it-reflected-party-s-ethics-news-264899"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -18,19 +18,6 @@ topics:
   - Natural Language Processing
   - AI
   - AI Ethics
-
-related:
-  - title: "PM Modi Lauds Yediyurappa's 'farewell' Speech Saying It Reflected Party's Ethics"
-    excerpt: "Yediyurappa in his emotional speech on Wednesday said, \"Till the last breath of my life I will honestly strive for building BJP and to bring it to power, let there be no doubts about it.\""
-    publishedDateTime: 2023-02-24T08:18:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/pm-modi-lauds-yediyurappas-farewell-speech-saying-it-reflected-partys-ethics-articleshow.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/pm-modi-lauds-yediyurappas-farewell-speech-saying-it-reflected-partys-ethics-articleshow.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/pm-modi-lauds-yediyurappas-farewell-speech-saying-it-reflected-partys-ethics-articleshow.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 36
 
 secured: "aEZJvDf1QvbRHWf46H9hbL0IY12LoOu6WHurk2ws5aW2Rp2fMnYSJHWbBKcY7chm6d6lC+gwzQYtglcpV8xLXSou9FAg/8OVCx8CNePmk3U1GRKmr1PGiutpCuYBonl1zenWE0nO5u0J+5+5oUjUEiS6oCXuh7Wga/FlwuQrZGtxor6HqbuY50arQRRbjshDFbmWYlsNjiRZYyOoiifyczZCL53tTfuxpt0bXU38cPvPdXw6+t/aFdDiKtMfv/4nUCbxZN11rRl1lk7irLbq8SyVp3lbmGIjwv67+pFsHOJaI8avIcWnWKX5X9xsTcdgE7BER6K2R1C/W/j01Z1/dLBdKJq1XNzgtL23GuwmIfvvh2Hqm8pFDH3egA7lpYdN/8RLY7Po0N4dz7Pbfre2UmJDHb2tCg7jutKnscxQuv1RRkrYf04bCEuk+dBYxhaT1ggn0nLt1SxNQS10YBRXW8CwosskNzsvxcAv/AOLwoxAAcztE+03u6GFiZiH7+lIji4YPwybgHs5z/1NCgtvvw==;MMKX64dcHWAxjhkXUg1wiA=="
 ---

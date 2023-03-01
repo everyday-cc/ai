@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SlashNext debuts generative AI tool for detecting phishing emails"
-    excerpt: "SlashNext claims the tool can detect phishing emails with 99.9% accuracy. Pleasanton, Calif.-based SlashNext is backed by $40.5 million in funding. It sells a suite of products for protecting employee devices from hacking attempts."
-    publishedDateTime: 2023-02-28T18:17:00Z
-    webUrl: "https://siliconangle.com/2023/02/28/slashnext-debuts-generative-ai-tool-detecting-phishing-emails/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/slashnext.png"
-        width: 718
-        height: 400
-        isCached: true
 
 secured: "pyjf60lClcc7rES7pHAkKfz3D6mGr/TfkZkRn9BFbjeVb4/RLvosF7wt+lCBHq3VRSxHmQHjknvqM3P1HcGDhphutcoIOJXsW+GyKcQmGievuc4tNl3QJKUoaietNnAFZLqR+3ct3e7sRLWgZKcBjcRx1C82ZfKd9qZ4JTsXnHBearX8cL6KeCigOD6DqGtl0jcigYgAOqBXXS8gIdedlr7Wjx6feCistLrTWuRp5cJDx8XZlsVyGFHn6uJHPtHSpTW/ypnwoqE5dJocfvw2G7pSqDCxqghRyy/LwAEbq1oiw47coYnlZG9hRqzMzY7kcZZOrhQaBbNAn8OhhTkN8Nc+lnBlRhdEShAQWi5N9II=;2Dkik6DnVhr4ffDzjE2fkg=="
 ---

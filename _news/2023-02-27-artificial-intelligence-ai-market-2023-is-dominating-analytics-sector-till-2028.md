@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Computer Vision Market Research Report-Forecast 2023 to 2029"
+    excerpt: "Top “ AI in Computer Vision Market ” Size 2023 Key players Profiled in the Report are [, QUALCOMM INCORPORATED, Cognex Corporation, General Electric Company, Intel Corporation, NVIDIA CORPORATION, BASLER AG,"
+    publishedDateTime: 2023-02-28T02:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-forecast-2023-to-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Healthcare Market Growth Research Forecast 2023-2028 | 113 Pages Report"
     excerpt: "The Report on “Artificial Intelligence (AI) in Healthcare Market” Research 2023-2028 covers all the essential aspects"
     publishedDateTime: 2023-02-27T16:30:00Z

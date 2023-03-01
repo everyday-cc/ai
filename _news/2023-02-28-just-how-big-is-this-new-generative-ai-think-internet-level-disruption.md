@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/just-how-big-is-this-new-ge
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

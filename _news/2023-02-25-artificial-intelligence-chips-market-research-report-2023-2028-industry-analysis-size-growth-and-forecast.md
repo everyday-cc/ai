@@ -186,15 +186,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023 Clinical Natural Language Processing Market: Top Growing Opportunities and Growth Outlook by 2029"
-    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The “Clinical Natural Language"
-    publishedDateTime: 2023-02-24T07:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-clinical-natural-language-processing-market-top-growing-opportunities-and-growth-outlook-by-2029-2023-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
   - title: "Artificial Intelligence And Machine Learning Market 2023: A Status Of Top Regions And Companies With Growth Prospects"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.'The 2023 research report on the global “artificial intelligence"
     publishedDateTime: 2023-02-25T08:46:00Z

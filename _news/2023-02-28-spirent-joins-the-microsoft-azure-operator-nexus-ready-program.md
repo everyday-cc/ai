@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft Expands Azure Services for 5G Wireless Operators"
+    excerpt: "Microsoft described multiple Azure for Operators additions and improvements for 5G communications service providers (CSPs) as part of this week's Mobile World Congress 2023 in Barcelona, Spain."
+    publishedDateTime: 2023-02-28T00:00:00Z
+    webUrl: "https://redmondmag.com/articles/2023/02/28/microsoft-expands-azure-services-for-5g-wireless-operators.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticSmall.jpg"
+        width: 647
+        height: 450
+        isCached: true
 
 secured: "JeVcHzAi6v3cbUz/r7wLJYs+RInN4IiaI7fkqrzZAS0g1fCP2I8JQE6p1en6BCkKyCB9+b67GC7xYWOaMXXiNeJ+mRt8nAl3pu5twspJPMlKQnpXnmmM99IUnpYHkLIrZw6gQEXJErXKgSXH7nhBryBddOAlzM+b0tyHJA5u9dKOkvwP4E3VIvXeNh4TuO3Wn8XoSY52Mkh+0JJ9FcjnumeZmHcWMjgLij53l7LKs0lBpA0xoKrYCZG/J8HvBOYwvBfJCAOxRdBs8I8gxd2yEMRJoqwjQj7evKKQSvX8+Bu7yFfpnMLj3qGr+IMMefjrztk3hM0v7Cma+tsOzLDxuYYXF9mIqzZGZq3XbD94K28=;U7lBGn+wWhdqzGTQT5Rveg=="
 ---

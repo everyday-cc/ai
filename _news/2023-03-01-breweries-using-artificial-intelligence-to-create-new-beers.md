@@ -8,8 +8,8 @@ webUrl: "https://www.wptv.com/news/national/breweries-using-artificial-intellige
 ampWebUrl: "https://www.wptv.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
 cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
 type: article
-quality: 59
-heat: 59
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: wptv.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JtNXHC6Q6QVXv3T/V4Ew8yYg0SKwqCIcUpHUnWWNYTTLb04VaL2QgIrgoYVu+B7uufBHh1cUmaXg10+s4Wv4H6qMoqccrSPJK6Vvt+stp7PyUs6ayPQMl2y3aMLwbpEGgRO2mFyKqye7GTFRxXLevg/VEeZI30/+YkuSkdOfeLo+X1E/GTe+nhNgxPnejEOHaaYbCi2mFhcBM9Mu5aTgPGBxPbeOYwTUDuuVbDPx5+8IO3bpPRRNA2W0vHT4hxMEFL7dxmEumI/o/e6nRLocN1XadorD8ZQ99unWpkhHo4DoSqYwEMC61RvgaZj3SaIZGkRtley7Erd3GQ8Tg1JQ7clA0w4bcBDVApcjy7cjoa8=;uQ++IqoAA6F0uwtoRMnx0A=="
+secured: "KXQen3zdvClQsAz1SqEvw4g9Db2HPulYikXY6wLYue0kDjQ9fyhNxUFKs0Kgs72PRHShUPUiOSDojyMgT/9qBk7/zib4xHuFJSN9ztCc/1PpgNy4lap9eoRn8qtaRpXVfHcgNtCPn4DcxpmJTrpmsx8OEWV3KY7R6XsRMIRtd8/QKmHUdrmBouMaCOOfpbr7hT0GfRu9GAo2/B6C14wosYEd1OHifjXCkMs8EbFGd2ncPMCzI7HM9lnYsTWOZkxjt9EzB3jAzC9UC1eK5d1DQ9e7xtow1WPMCBJS2C8KHMaSJMclSP4Olh87LQHbaO31uMpEgqqgdNkCoi6sK3uisdoURg/I/5xQ99q89T2qscs=;2V2Ee86GBPd5Eb25l3UqCg=="
 ---
 
