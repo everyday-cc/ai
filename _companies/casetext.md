@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "casetext"
   url: "https://twitter.com/casetext"
-  followers: 5773
+  followers: 5777
 
 size: 11-50 employees
 yearFounded: 2013
@@ -31,7 +31,7 @@ topics:
   - AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/732990695212883968/5jqQ8YCM_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1630934653506064384/fblfAbKR_400x400.png"
     width: 400
     height: 400
     isCached: true
