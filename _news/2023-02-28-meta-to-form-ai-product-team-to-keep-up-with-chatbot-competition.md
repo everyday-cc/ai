@@ -63,15 +63,6 @@ related:
         width: 684
         height: 456
         isCached: true
-  - title: "AlertEnterprise Looks to Transform Physical Security with Reveal of New Security AI Chatbot Powered by ChatGPT"
-    excerpt: "The Guardian AI Chatbot is developed with the world-renowned GPT-3 platform created by OpenAI and is designed to instantly deliver security operators the physical access and security insights that matter most with quick questions and prompts."
-    publishedDateTime: 2023-02-28T14:21:00Z
-    webUrl: "https://www.afp.com/en/news/1313/alertenterprise-looks-transform-physical-security-reveal-new-security-ai-chatbot-powered-chatgpt-202302280056301"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 16
 
 secured: "vAiiWVpNDY+7EHoiC9ZhkexPMHqvH14hmRRKjPd43BFdJJf79/T0815U1tQCJDd1VWSKGB49h9RgT8Yj5iP86hp20uDnpnxvohzl7x/mv45336zoYtm9Vqx5otEwS+BVYT2t4R+F8WYPHYn0bv6cLnujZKY6g0JSnWRAuO1rUkYSuykYAhALlNtGdVrIRK3olI06G6t5DW0IsVliNB73/2usW7bDGGuL9kTUKPQBpzGV50o52WWOHk5dTWVTRHI2Zz4mNUvDcPQMYpo+46CIOxS7PL9vrnGQTZFTLj8Nu6GlyhPvqBb8+uBRRdJ9qalVYEwyMDaPEyZDa4eHpfLSomnJ1lP8BZnmUt1Iz7lFlaHESFV6ZmKN8Ru6O0QfOQ0XzkVRrDQPZFvoY5gnQXv7URW6C48ViC3Jwn9xksJwviIv8S8Nm4hocaYHUJJ4pNikiOm8HNTUfvn5gacd4DtAPau1mmqELNoh2QJsPl0TN1GAPfMKyyULZ57evnmBJsEVshgeQhFLF+Mjhku01iMMYQ==;9O3G18xY5YGFxVmMTnCxqA=="
 ---

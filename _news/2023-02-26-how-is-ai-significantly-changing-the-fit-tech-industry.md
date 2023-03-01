@@ -59,20 +59,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "The Future Growth of the Artificial Intelligence in Oil and Gas Market Size 2023-2029"
-    excerpt: "Browse Market Size, charts, tables and figures extent in-depth TOC with 114 Report Pages on Artificial Intelligence in Oil and Gas Market by Application (, Civil Oil and Gas Industry, Oil and Gas Industry for Vehicles and Ships,"
-    publishedDateTime: 2023-02-25T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-future-growth-of-the-artificial-intelligence-in-oil-and-gas-market-size-2023-2029-2023-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Zib Digital Explores the Possible Role AI Will Play in the Future of SEO"
     excerpt: "According to Zib Digital, the leading SEO agency Sydney-wide, one of the most significant ways that AI is impacting SEO is through the use of natural language processing (NLP)."
     publishedDateTime: 2023-02-27T01:00:00Z

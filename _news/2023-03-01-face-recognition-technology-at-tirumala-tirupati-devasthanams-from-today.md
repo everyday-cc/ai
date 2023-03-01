@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tirumala temple introduces facial recognition technology"
+    excerpt: "Authorities at Sri Venkateswara temple atop Tirumala at Tirupati on Wednesday introduced facial recognition technology for darshan on an experimental basis."
+    publishedDateTime: 2023-03-01T13:39:00Z
+    webUrl: "https://www.thehansindia.com/andhra-pradesh/tirumala-temple-introduces-facial-recognition-technology-785592"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 19
 
 secured: "kVyE6nqS85yS0WZNiMq0ehpY5QESsHn8fKkep5pVqgvjGm4E/8nRRlUnt0KSZwa5Bhz785Egu5yOuRggWtzFlCtVVxiBxPgaHrXmCLPqnFLKvbxQM6Py61HBiTNrxqm1Jve2mlD4ywXEpr2zmCi3tm0WpXv7ty+vyYU4gTn+U5otyIL6AmvEPorr+LTeMbF8YYrF9K7p4vTOvFPQkZEmy2yDRuqoUmoAqOdn95Y8dupup7TW6EXnGqeal0T/DhWwWYOWnSMCw11Xy1GE+D6DPT5dXB/3iwhtttTqOlQhny/czGNopG/lv5hRun0ko19dD8T05si6tc47NHdLZOV6DW7N2LqyJAK5MmSMpHZElJh4qlWHQy5nEnkzWm+wmFCq/sniJFp5HpTRY4WyeWXdYuV/NqpKQqwxqKybj2T0IiPZowFsbDfeJfneucLLhiu96H6vMqRAXyBHV2V+2eqGYhXCiMDce8uf5ASlvfOsFO6mfsWs/jUgG62gwdfRgC8MSNkJZuOfQVbElYpBBWsy4w==;gM7ngjUmU3qgZao67Pi6iQ=="
 ---

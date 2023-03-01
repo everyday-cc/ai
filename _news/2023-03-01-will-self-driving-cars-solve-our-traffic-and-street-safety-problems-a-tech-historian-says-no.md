@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T14:30:00Z
 originalUrl: "https://www.latimes.com/california/newsletter/2023-03-01/essential-california-autonomous-vehicles-promise-essential-california"
 webUrl: "https://www.latimes.com/california/newsletter/2023-03-01/essential-california-autonomous-vehicles-promise-essential-california"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Los Angeles Times

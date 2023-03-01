@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "What Elon Musk, Bill Gates, and 12 other business leaders think about AI tools like ChatGPT"
-    excerpt: "While some business leaders are excited about AI's potential for good, others are skeptical, unimpressed, and even scared about what the tech can do."
-    publishedDateTime: 2023-02-26T12:06:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-bill-gates-business-leaders-quotes-on-chatgpt-ai-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-bill-gates-business-leaders-quotes-on-chatgpt-ai-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-bill-gates-business-leaders-quotes-on-chatgpt-ai-2023-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/5f73621374fe5b0018a8dfcf?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Elon Musk recruits team to develop OpenAI rival"
     excerpt: "Tesla and Twitter chief Musk has been recruiting Igor Babuschkin, a researcher who recently left Alphabet's (GOOGL.O) DeepMind AI unit, the report said."
     publishedDateTime: 2023-02-28T03:59:00Z
@@ -157,19 +141,19 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Meta unveils ChatGPT rival AI LLaMA, but no guarantee on hallucination"
-    excerpt: "The Fundamental AI Research (FAIR) team at Meta, Facebook's parent company, has introduced ChatGPT rival, a new \"state-of-the-art\" artificial intelligence (AI) language model called LLaMA."
-    publishedDateTime: 2023-02-25T11:46:00Z
-    webUrl: "https://interestingengineering.com/innovation/meta-unveils-chatgpt-rival-ai-llama"
+  - title: "Elon Musk taking on 'danger' posed by woke AI — including tool created by company he co-founded"
+    excerpt: "Elon Musk is reportedly putting together a research team to combat what he has termed the deadly threat of woke artificial intelligence"
+    publishedDateTime: 2023-03-01T14:51:00Z
+    webUrl: "https://www.christianpost.com/news/elon-musk-taking-on-dangerous-woke-ai.html"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
+      name: The Christian Post
+      domain: christianpost.com
+    quality: 27
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/25/image/jpeg/TfimQwVaBurGiWknvr0m16eUaOdXaGB9C4PfLklQ.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.christianpost.com/files/original/thumbnail/25/25/252513.jpg"
+        width: 1200
+        height: 835
         isCached: true
   - title: "China's First ChatGPT-like Software to Be Made Open Source"
     excerpt: "MOSS, the first large-scale conversational language model in China, will be made open source by the end of March, said the research and developing team on Sunday. Named after the artificial intelligence featured in the Chinese Sci-fi movieTheWandering Earth II,"
@@ -180,15 +164,6 @@ related:
       name: en.dahe
       domain: dahe.cn
     quality: 4
-  - title: "AI News roundup: Elon Musk working on ChatGPT rival, Snapchat eyes slice of AI pie, Zoom's AI integrations and more"
-    excerpt: "Elon Musk is recruiting Igor Babuschkin, a researcher who recently left Google's parent company Alphabet's AI unit, to develop an alternative to ChatGPT. The tech billionaire has approached AI (artificial intelligence) researchers in recent weeks to form a new research lab for it,"
-    publishedDateTime: 2023-02-28T13:28:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-elon-musk-working-on-chatgpt-rival-snapchat-eyes-slice-of-ai-pie-zooms-ai-integrations-and-more-10176581.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 0
 
 secured: "SlVk7A5JHMOqFqGUDRg3a203P6qsgVqqs3obcIseqkEBee5mZ0qzVqiQpIBLWdqUCvA8WHcHR1NYwzebUworWYRRbxaA+67gF7rJRlG46a0h5PxZGgAFM40RbT5LkuzksyJ45EsojtB0H60RycDY7FC0fJ1JiesJFajqCe+MSjD8iYrVbree4qlBqE3+5oToxXaWN0YwMwQhgZOYH4bUE+RWdln5G6ESfYq19Fq5sYvdm1czJ922NX0+PMEUgRn1Ho/EB5aS+8nZ+zyrhDjwBuv4G9sOtZKZjuSHUZFd0Vtr3BbReoMOlVtyAnrPZzkp/uen5EP2oWSR/QbiM59mdHD7D4OPlPg33VweIO4OJD4hodZt7dHJAevAf3AGM0zIMH9pztTQ/zN8AZRpt6Ipw5QNakw7vHHnlUlyn7fvrrGApQ4BX65TcgLdqxTNqCmlhY7dU3AFbk9fcEeH/CrWWvuNUjweUantALpC5cJs8Dd3fFqdYDFRknb6SR2PLZjPOnCd1ZYEOIpEvzCjs1nOjw==;4ozpaeGb6CAkuaHppXxEDA=="
 ---

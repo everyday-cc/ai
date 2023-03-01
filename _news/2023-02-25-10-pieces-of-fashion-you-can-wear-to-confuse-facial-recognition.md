@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-m
 webUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479"
 type: article
 quality: 69
-heat: 149
+heat: 109
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "DHS S&T concludes facial recognition can work for small groups, while maintaining privacy"
-    excerpt: "The results from the “2022 Biometric Technology Rally” could inform the way forward for TSA and other government agencies as they increasingly adopt facial recognition"
-    publishedDateTime: 2023-02-25T00:41:00Z
-    webUrl: "https://federalnewsnetwork.com/automation/2023/02/dhs-st-concludes-facial-recognition-can-work-for-small-groups-while-maintaining-privacy/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 45
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/09/Biometrics-03.jpg"
-        width: 1097
-        height: 700
-        isCached: true
   - title: "Why facial recognition could spell the end of anonymity in public"
     excerpt: "CCTV doesn’t just recognise your face — it can even sense your emotions and predict crime. Even the country’s biometrics boss is worried"
     publishedDateTime: 2023-02-26T00:01:00Z
@@ -85,33 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "US military says it can put facial recognition into robot drones"
-    excerpt: "The science and technology magazine is reporting that the Air Force now has the power to give facial recognition to autonomous drones."
-    publishedDateTime: 2023-02-24T21:18:00Z
-    webUrl: "https://www.biometricupdate.com/202302/us-military-says-it-can-put-facial-recognition-into-robot-drones"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-  - title: "Air Canada launches facial recognition trial"
-    excerpt: "Air Canada has launched a pilot project that enables travellers to use facial recognition technology to confirm their identification. The system is designed to make the overall travel and airport experience more seamless and enjoyable for customers,"
-    publishedDateTime: 2023-02-24T21:48:00Z
-    webUrl: "https://japantoday.com/category/features/travel/air-canada-launches-facial-recognition-trial"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 34
-  - title: "New York City Council holds hearing on facial recognition technology"
-    excerpt: "New York City Council holds hearing on facial recognition technology Facial recognition technology was the controversial topic at a New York City Council hearing Friday. As CBS2's Doug Williams reports, there was one noticeable absence."
-    publishedDateTime: 2023-02-24T22:24:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/new-york-city-council-holds-hearing-on-facial-recognition-technology/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 19
   - title: "TTD to introduce facial recognition system today"
     excerpt: "TIRUMALA: The TTD is set to introduce Facial Recognition Technology on an experimental basis at Vaikuntam-2 and in the Accommodation Management System from March 1 onwards. The idea is to"
     publishedDateTime: 2023-02-28T20:09:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/meta-launches-
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 720
     isCached: true
+
+related:
+  - title: "Meta brings AI chatbot with own large language model for researchers"
+    excerpt: "Smaller, more performant models such as LLaMA enable others in the research community who don't have access to large amounts of infrastructure to study these models, further democratising access in this important,"
+    publishedDateTime: 2023-02-26T02:59:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/meta-1677317836.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "xyS6sFrgD56KuRgDd3/H9L60HbmMYYuQOI2wZ7rC990T9ZdFr9jNUePm+DibuPBZrVoWAR8eHNi9rJ+lXRC6JomtkZ7y4e8ZAREFB5MBdrD3oO99skJRJ1sPbNppDpSs9s5lDPekT2UpkpgGjoDYkpn0VF+azFlDlukVQPqSZmtSFuT5mnJ6Fgc38o8MY+bEvTZUwwbPeFioY3ZfmEDfP+PPXyuUqZT24yNGRG1itI8e1CcSVIK0HrfXsw43yV+PDN+p3On6gIajXOTHqdz/+e9O/SZnYdOaBohB1JBeohy8ScOu4eQ6YZoS9Dmr3vGVnEyktt397aZa4MvQdSRZNZKj/Kfp+WXzTxONb8ZSI/c=;+iUSKK8c4pfxBS7hrQDkiQ=="
 ---

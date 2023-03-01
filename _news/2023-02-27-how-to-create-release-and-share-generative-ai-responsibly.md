@@ -48,20 +48,38 @@ related:
         width: 1200
         height: 625
         isCached: true
-  - title: "Generative AI's money game"
-    excerpt: "The generative AI revolution will be monetized, but nobody can yet say exactly how. The big picture: It seems logical that if AI can conduct conversations and produce images, companies will figure out how to use it to build revenue and profits — but there's no guarantee,"
-    publishedDateTime: 2023-02-27T10:30:00Z
-    webUrl: "https://www.axios.com/2023/02/27/chatgpt-generative-ai-money-business-models"
+  - title: "Exploring The Intersection Of The Edge, AI And IoT"
+    excerpt: "In this article, I explore the opportunities and approaches at the intersection of these revolutionary market adoption paradigms."
+    publishedDateTime: 2023-03-01T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/01/exploring-the-intersection-of-the-edge-ai-and-iot/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-02-27T16:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/02/27/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
     quality: 39
     images:
-      - url: "https://images.axios.com/4qnhkuDT2tSK5ZwlaYSu68HwJTk=/1366x768/smart/2023/02/26/1677429474220.jpg"
-        width: 1366
-        height: 768
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
+  - title: "What are the implications of artificial intelligence for the future of art? The robot artist Ai-da and her creators discuss"
+    excerpt: "Ai-Da, the artist robot, speaking at the House of Lords on 11 October ... Ai-Da and the wider field of artificial intelligence (AI) art has proven controversial and unsettling for many in the art world, which is understandable given that art is considered ..."
+    publishedDateTime: 2023-02-28T11:37:00Z
+    webUrl: "https://www.theartnewspaper.com/2023/02/28/what-are-the-implications-of-artificial-intelligence-on-the-future-of-art-the-robot-artist-ai-da-and-her-creator-discuss"
+    type: article
+    provider:
+      name: The Art Newspaper
+      domain: theartnewspaper.com
+    quality: 23
 
 secured: "ju5IaDYxuWZRr+ABRoCBC2TUOBoBUl7XUvQdlWHZ39aEbuadvft/i0wwxyk4FJObF0Dz7RUcdjlTQKB8Zbak/7JkeSg3LI98nYOtt3/nnjc4tsdOsfdlDOutT4/a3cLnvRxbU4Ij6bFwkjQhGFYriIQp+OFtJYprNBe4Nmdglfw/MPKstxormJfvgZr4SbVjvG9hLIj2SpilIALnIytNxmdq2SwyEHaz3+WpeslqGSHxjPq8UGQYZT69eIvVJKI74dbYIIG6aA9jdNxGXzhmcCXWBRBhARKPGOQvZnx1f5jaCYbdlJpXqUThZ6qCeZzaB+H6h04fM0Q9+uK9rf8/uoWdbvLsj1N+4guODFtx2+qau4+IO95ErkTEQYkbPUEKWHxUs9iU3st21IyTZUVR3rl5n7V9KWErIQk4pxNmq/oJREfgwiro6Xc8+QpwYz6kw51BVRXRkC/ZWbPkuDOIyCkAnr8YRRfEVScIvJKWkeRSlPpp6OCgmcAd696aPCjz6ZC6jiHi0/asA8Sc1yXP7g==;ZlPsSdzyitJYTAP8kLKfhw=="
 ---

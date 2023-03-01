@@ -62,6 +62,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "NBA Invests in AI-Driven Video-Tracking Firm, Extends Deal"
+    excerpt: "The National Basketball Association has invested in artificial-intelligence-based video-tracking firm Videocites as it looks to take more ownership stakes in businesses that could benefit the league."
+    publishedDateTime: 2023-03-01T14:40:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-01/nba-invests-in-ai-driven-video-tracker-videocites-as-part-of-private-equity-push"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "ALDI Nord and Trigo Win RETA Award in Best AI & Robotics Application Category"
     excerpt: "The award was presented by EHI Retail Institute and recognizes outstanding technology solutions in retail. The jury commended ALDI Nord and Trigo for reinventing the discount model with future technologies in its latest store concept ALDI Shop & Go,"
     publishedDateTime: 2023-02-28T11:57:00Z

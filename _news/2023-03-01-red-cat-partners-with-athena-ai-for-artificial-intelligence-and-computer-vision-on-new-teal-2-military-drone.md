@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T12:30:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/g31122328/red-cat-partners-with-athena-ai-for-artificial-intelligence-and-computer-vision-on-new-teal-2-mili"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/g31122328/red-cat-partners-with-athena-ai-for-artificial-intelligence-and-computer-vision-on-new-teal-2-mili"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Benzinga.com

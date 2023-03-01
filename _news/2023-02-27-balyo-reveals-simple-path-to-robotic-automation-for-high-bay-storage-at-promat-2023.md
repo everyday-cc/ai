@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T00:00:00Z
 originalUrl: "https://www.automation.com/en-us/articles/february-2023/balyo-robotic-automation-high-bay-storage-2023? Control News & Articles"
 webUrl: "https://www.automation.com/en-us/articles/february-2023/balyo-robotic-automation-high-bay-storage-2023? Control News & Articles"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Automation

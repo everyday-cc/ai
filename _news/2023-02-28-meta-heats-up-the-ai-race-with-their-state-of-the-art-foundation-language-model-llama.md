@@ -9,7 +9,7 @@ ampWebUrl: "https://syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-t
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/amp/"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -27,47 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta heats up Big Tech's AI arms race with new language model"
-    excerpt: "REUTERS/Dado Ruvic/Illustration/File Photo Feb 24 (Reuters) - Meta Platforms Inc (META.O) said on Friday it was releasing to researchers a new large language model, the core software of a new artificial intelligence system, heating up an AI arms race as ..."
-    publishedDateTime: 2023-02-25T00:17:00Z
-    webUrl: "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/fJBJrVyXjYaAylhHFyAuMY-sz8Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SC4LDVC3ZMXJIUUQDZRBHPHU4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Meta's little LLaMA model comes with big benefits for AI researchers"
-    excerpt: "Facebook's parent company has released LLaMA, a relatively small but powerful model that should help researchers address the potentially harmful and sometimes wacky pitfalls of AI."
-    publishedDateTime: 2023-02-24T21:44:00Z
-    webUrl: "https://www.zdnet.com/article/metas-little-llama-model-comes-with-big-benefits-for-ai-researchers/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/metas-little-llama-model-comes-with-big-benefits-for-ai-researchers/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-little-llama-model-comes-with-big-benefits-for-ai-researchers/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-  - title: "Meta brings AI chatbot with own large language model for researchers"
-    excerpt: "Smaller, more performant models such as LLaMA enable others in the research community who don't have access to large amounts of infrastructure to study these models, further democratising access in this important,"
-    publishedDateTime: 2023-02-26T02:59:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/meta-1677317836.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta to release AI-based language model for researchers"
     excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
     publishedDateTime: 2023-02-27T18:04:00Z

@@ -5,7 +5,12 @@ excerpt: "The groundbreaking AI solution empowers businesses and brands to autom
 publishedDateTime: 2023-03-01T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/"
+ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/amp/"
 type: article
+quality: 106
+heat: 136
+published: true
 
 provider:
   name: Forbes
@@ -18,7 +23,53 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - Natural Language Processing
 
-secured: "75X7z1P34ChH6K2qEtQVPVvvWNP7CxqAJ1CpCMSbNUj3SYCePF51qhKmOnntXi1yMA44/OjIkt/dv9eWgPCztD/tRa7ZhT419HfOAacYPuwjo8YywsyQTEFeTLev/AcJwehBUVAOMUP+QFMEjZ+B0i54azfdP7IjtZZQoh8zcYRi40OUA4LmeWpFohnM10m14U9e8j3n8FONP95E8LK30uiE5DPxfmkpa2DHcePBlnl09mSWF0ZMtCt2GBmKxNFZeOfwG8RJC0CY+5UMs9CBWQnQ5bf7gjbPLVlQRjicTgPhw6g10uTr3/iwLHZL3elf8EeNkr516Mf1OHjMA8KaL+Z9WhzpPI4uY93cLCAcKLw5xWU35JcOwg9Y7gjRW8VLa8PTrP9QMGvimdRIEimD2qSNy+df2khxCsXSBnVGslTWZEDdsMk0HBYu8tfbbmaz6f8eH2IwBQSd13alU1vLvdCE7f/KuIM4Z7BYixB5qsQz7zN3YwpkEbmOU9uTjUFx9HAWbEdEEszNRFKB48hNCg==;3rZ7rf6DFyQmjSXRuAsvOQ=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/63fe0fd52993fa6c5a1a37e7/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "5 Ways to Change SEO Strategies in an AI Search Engine World"
+    excerpt: "Google and Bing are making major changes to their search engines, which will require businesses to update their SEO strategies to stay ahead of the curve."
+    publishedDateTime: 2023-02-27T18:00:00Z
+    webUrl: "https://www.entrepreneur.com/growing-a-business/5-ways-to-change-seo-strategies-in-an-ai-search-engine-world/444919"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1677079049-GettyImages-1190852587.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "AI-generated content detection tools put to the test"
+    excerpt: "The AI chatbot had more than a million users in just 4 days ... including text completion, question answering, language translation and even text generation. Its ability to generate coherent and realistic responses to complex prompts has made it a valuable ..."
+    publishedDateTime: 2023-03-01T14:15:00Z
+    webUrl: "https://venturebeat.com/ai/ai-generated-content-detection-tools-put-to-the-test/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Infosys AI Head Shares Real-World Struggles of Using Generative AI"
+    excerpt: "The company is partnering with premier institutions, such as the IITs and IIMs, to build a strong tech funnel for talent"
+    publishedDateTime: 2023-02-27T11:52:00Z
+    webUrl: "https://analyticsindiamag.com/infosys-ai-head-shares-the-struggles-of-using-generative-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/02/Gary-Bhattacharjee-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "lL+TlJV6SpvR+VsYJbHpwVZr8KEFvIoJKndXK/urZqjNyHoFj/18MIwJPA9dvEaBHnjKb0JAcxb0MZjJKJLmurmliXhAo8EtNxLlbbilBpXThpNGinvyRBixsstiVkGXrs+dr6lT1NJtWlZu11Q4/evWMZERJoKK/sh9FY1j2Qjtj2DlL1KN4+nHFDsP6/OFtIU8DBx1nCRIXKNqSYmYGjBTLsPsDvMvyuefJ/TgWOKUUGbrUVkMcwP9eqL5WNr5WZOQ1glU3gJ60OSx1FCLFTW8JtvhrL78s5uhKktWMYxKJdD/qgn3uN8AXENp/WARKgnfOrUtJhQ9pYjsoO5y2VPLQ1GtS10xfRinXIy9tmo=;IoMgT4VKinOmQgAZn7Nc3w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/tirupati-temple-facial-recogniti
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/tirupati-temple-facial-recognition-system-for-darshan-from-today/amp-11677633077133.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tirumala temple introduces facial recognition technology"
+    excerpt: "Authorities at Sri Venkateswara temple atop Tirumala at Tirupati on Wednesday introduced facial recognition technology for darshan on an experimental basis."
+    publishedDateTime: 2023-03-01T13:39:00Z
+    webUrl: "https://www.thehansindia.com/andhra-pradesh/tirumala-temple-introduces-facial-recognition-technology-785592"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 19
 
 secured: "28mqB13MRJRwoQAZVtnZII5WYb51yCVXXNiNVOxQE7zLmSXmRU7dzzB+SPR8hJt7T9rWkhfj8mwmroM89lrnCmIfmvwuiuuq1xIZsVq4+IRfF8dJJ4XTShx3oNrloyvcFRyY39ug/tNK474ir9uCT7xvl6VKd46vj2Pia0pTTqorsK3V8jjbpMeAGcIjYRfrbPW7xMB2xYoz4GQIgzRJlN4w2QmAnzG5iK0T96dnV+HLsT7lkbQUIvH7BxnnJLuEzsApUlm8bIpYB1tw82DWvlcU1hk9wXNCe48ZsNOnO0eILrA+TSsvQyg/kWABJL74Fvq3wYMctEXePUzYCvqkiayf+xelL9Rsg39ulvMs+Pm1QmYkSdkOPhi/AXmxZ/phxpHn37RDu/684VKg5+bcl9umHeqCOe2Fu41+LWlr0/EtIIY4Ap/dcbYXKSPxRbeY1XSC5ehraWIYxMlY8B81CJzt+8Brwbj6V2Xd7Pfks2MLk3QKUCkM6XQJ6fSoEbwuXWLJll7bo94B010gEdYYvw==;ECzKOdTDS7y08BLwUNAJNA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T13:16:00Z
 originalUrl: "https://www.ainonline.com/aviation-news/business-aviation/2023-03-01/companies-answer-call-onboard-voice-command"
 webUrl: "https://www.ainonline.com/aviation-news/business-aviation/2023-03-01/companies-answer-call-onboard-voice-command"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Ainonline.com

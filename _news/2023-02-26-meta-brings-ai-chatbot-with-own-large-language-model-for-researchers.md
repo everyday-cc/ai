@@ -27,56 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Meta heats up Big Tech's AI arms race with new language model"
-    excerpt: "REUTERS/Dado Ruvic/Illustration/File Photo Feb 24 (Reuters) - Meta Platforms Inc (META.O) said on Friday it was releasing to researchers a new large language model, the core software of a new artificial intelligence system, heating up an AI arms race as ..."
-    publishedDateTime: 2023-02-25T00:17:00Z
-    webUrl: "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/"
+  - title: "Meta launches LLaMA model, a mightier research tool than OpenAI's GPT-3"
+    excerpt: "The social networking giant plans to make the technology accessible to researchers and integrate it into its product in the future."
+    publishedDateTime: 2023-02-25T11:15:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/fJBJrVyXjYaAylhHFyAuMY-sz8Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SC4LDVC3ZMXJIUUQDZRBHPHU4.jpg"
+      - url: "https://assets.thehansindia.com/h-upload/2023/02/25/1338442-openai.jpg"
         width: 1200
-        height: 628
+        height: 720
         isCached: true
-  - title: "Meta's little LLaMA model comes with big benefits for AI researchers"
-    excerpt: "Facebook's parent company has released LLaMA, a relatively small but powerful model that should help researchers address the potentially harmful and sometimes wacky pitfalls of AI."
-    publishedDateTime: 2023-02-24T21:44:00Z
-    webUrl: "https://www.zdnet.com/article/metas-little-llama-model-comes-with-big-benefits-for-ai-researchers/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/metas-little-llama-model-comes-with-big-benefits-for-ai-researchers/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metas-little-llama-model-comes-with-big-benefits-for-ai-researchers/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-  - title: "Meta Heats Up the AI Race With Their State-Of-The-Art Foundation Language Model LLaMA"
-    excerpt: "Meta AI has entered the AI race dominated by large language models (LLMs) such as OpenAI’s ChatGPT, Microsoft’s GPT-powered Bing, and Google’s Bard. Meta CEO Mark Zuckerberg posted the news in a Facebook post: “Today we’re releasing a new state-of-the-art AI large language model called LLaMA designed to help researchers advance their"
-    publishedDateTime: 2023-02-27T23:49:00Z
-    webUrl: "https://syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/"
-    ampWebUrl: "https://syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 52
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
-        isCached: true
-  - title: "Meta to release AI-based language model for researchers"
-    excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
-    publishedDateTime: 2023-02-27T18:04:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/meta-to-release-ai-based-language-model-for-researchers.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
 
 secured: "7ycEIZqANxOcLUJvWWTE6MI/V5xdcmIR9ATPfp5z0KgKu3pKsGbNuyCiTCUzeqnl7+6sTHgQqJpcicaBebNHslVZwv3Jpru6Q3fshQM/wBpepLlmNEG2bMgffh1IruZdx4g069IFGi+3vj+BdVZC0XV3l9yoNcqhyOrpjsaiW2CiBHOiffRrk/ufEfdSVOpyZ/jx1PZ4ieqIqG1pZxI2OoNFLF0s//s2kjKu338Dp4DFqCwezh0Cw01DZkgbmDbXtm6Xokss0VjxxaDV3sqjE9obfq7xsLpIj+lm783JTTHni/Wpyh2XMes6ylymBdWEu/G2lIELJSmSTVZs0oyHsvAi4r2ffleLoN4I1X5Q7foLJAZVxhKijnz48E5eZz5Bh93ZWKxm/njidvp7ci3BHctVbLb28vADgIC0AGG18XHduHUKF0ohujXmOjKHPKHhJslmFbDDWzuiyYAkWHyQeqnc1QmQWxTFeS/2Ax5lnNY8LId/RVCJJ262m9E/XreSJw9kAhmSG1NXlyJhx9tjwQ==;A9xjHOp/Z/hReJ/7Bbjghw=="
 ---

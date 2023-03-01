@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI ChatGPT As Masterful Manipulator Of Humans, Worrying AI Ethics And AI Law"
+    excerpt: "Concerns are rising that generative AI such as ChatGPT produce manipulative outputted essays. People are going to get confused, angry, and potentially harmed. Take a look at what this is all about and what needs to be done."
+    publishedDateTime: 2023-03-01T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/01/generative-ai-chatgpt-as-masterful-manipulator-of-humans-worrying-ai-ethics-and-ai-law/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/01/generative-ai-chatgpt-as-masterful-manipulator-of-humans-worrying-ai-ethics-and-ai-law/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/01/generative-ai-chatgpt-as-masterful-manipulator-of-humans-worrying-ai-ethics-and-ai-law/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 98
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63fd8c75b8ff700da52bdfdf/0x0.jpg?format=jpg&crop=4050,2700,x94,y0,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Legal Doomsday For Generative AI ChatGPT If Caught Plagiarizing Or Infringing, Warns AI Ethics And AI Law"
     excerpt: "Many people do not know that generative AI such as ChatGPT was data trained by scanning the Internet, which is an approach that some believe unfairly usurps the work of human content creators. Here's a close look at the claims of plagiarizing and copyright infringement."
     publishedDateTime: 2023-02-26T12:00:00Z
@@ -105,22 +121,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How customizing models is bringing generative AI to the enterprise"
-    excerpt: "SambaNova Systems today launched SambaNova Suite, which aims to help enterprises build and deploy customized generative AI models."
-    publishedDateTime: 2023-02-28T23:43:00Z
-    webUrl: "https://venturebeat.com/ai/how-customizing-models-is-bringing-generative-ai-to-the-enterprise/"
-    ampWebUrl: "https://venturebeat.com/ai/how-customizing-models-is-bringing-generative-ai-to-the-enterprise/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-customizing-models-is-bringing-generative-ai-to-the-enterprise/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?w=1200&strip=all"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips"
     excerpt: "The fascination with generative AI has spring-loaded demand for products that can help deliver on its promise. And startups are primed to pounce. ‘There’s new openings for attack,’ says one venture capitalist."
     publishedDateTime: 2023-02-27T20:49:00Z
@@ -134,6 +134,22 @@ related:
       - url: "https://images.wsj.net/im-732623/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "What Elon Musk, Bill Gates, and 12 other business leaders think about AI tools like ChatGPT"
+    excerpt: "While some business leaders are excited about AI's potential for good, others are skeptical, unimpressed, and even scared about what the tech can do."
+    publishedDateTime: 2023-02-26T12:06:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-bill-gates-business-leaders-quotes-on-chatgpt-ai-2023-2"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-bill-gates-business-leaders-quotes-on-chatgpt-ai-2023-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-bill-gates-business-leaders-quotes-on-chatgpt-ai-2023-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://i.insider.com/5f73621374fe5b0018a8dfcf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "ChatGPT and its implications for customer experience"
     excerpt: "LLM-based chatbots like ChatGPT and conventional chatbots fulfill somewhat different purposes, but LLMs will be heavily used in CX."
@@ -179,20 +195,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The AI emotions dreamed up by ChatGPT"
-    excerpt: "AI chatbots are already imagining what feelings they'll end up with. But if they did develop them, would we even notice? I'm talking to Dan, otherwise known as \"Do Anything Now\", a shady young chatbot with a whimsical fondness for penguins – and a ..."
-    publishedDateTime: 2023-02-25T00:59:00Z
-    webUrl: "https://www.bbc.com/future/article/20230224-the-ai-emotions-dreamed-up-by-chatgpt"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0f584wh.jpg"
-        width: 624
-        height: 351
-        isCached: true
   - title: "Facebook Parent, Snap Embrace AI Technology That Powers ChatGPT Chatbot"
     excerpt: "Meta Platforms Inc. and Snap Inc. are embracing the much talked-about artificial-intelligence technology popularized by OpenAI’s viral ChatGPT chatbot."
     publishedDateTime: 2023-02-27T22:48:00Z
@@ -236,6 +238,22 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/27/image/jpeg/1t6BjRZn3zQgI3t7pKhgevrQiYdcwpQK5zx2iqLk.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Hollywood’s onto artificial intelligence’s new shtick ChatGPT"
+    excerpt: "Even unreal Hollywood’s onto artificial intelligence’s new shtick ChatGPT. On late-night TV, “The Morning Show’s” Jimmy Kimmel demonstrated ChatGPT writing a script on command without droning on how the stuff beats what pros dish out."
+    publishedDateTime: 2023-02-27T23:43:00Z
+    webUrl: "https://nypost.com/2023/02/27/hollywoods-onto-artificial-intelligences-new-shtick-chatgpt/"
+    ampWebUrl: "https://nypost.com/2023/02/27/hollywoods-onto-artificial-intelligences-new-shtick-chatgpt/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/27/hollywoods-onto-artificial-intelligences-new-shtick-chatgpt/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/02/NYPICHPDPICT000007057194-e1677537779321.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Snapchat is launching its own ChatGPT bot called My AI"
     excerpt: "Snapchat is launching its own chatbot powered by OpenAI's ChatGPT called My AI that'll be available to Snapchat Plus subscribers to start with plans to roll it out to all Snapchat users in the future."
@@ -294,6 +312,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "How ChatGPT mangled the language of heaven"
+    excerpt: "Letter: Asked to generate a story from an English translation of a letter in Welsh published in the Guardian, the AI chatbot came up with a lot of twaddle, reports Fiona Collins"
+    publishedDateTime: 2023-02-26T18:25:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/feb/26/how-chatgpt-mangled-the-language-of-heaven?amp;amp;amp"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/26/how-chatgpt-mangled-the-language-of-heaven"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/26/how-chatgpt-mangled-the-language-of-heaven"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/80c9106ccd715fc7291a97859d7e6f8d264c9b99/0_191_5827_3496/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=816193f1a966b2f848ab2c0e60e0c1fc"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Meta launches own version of AI to find fixes to ChatGPT’s dangers"
     excerpt: "Facebook-owner Meta on Friday unveiled its own version of the artificial intelligence behind apps such as ChatGPT, saying it would give access to researchers to find fixes to the technology’s potential"
     publishedDateTime: 2023-02-25T04:55:00Z
@@ -308,33 +342,33 @@ related:
         width: 790
         height: 452
         isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-02-27T16:30:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/02/27/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+  - title: "Meta unveils ChatGPT rival AI LLaMA, but no guarantee on hallucination"
+    excerpt: "The Fundamental AI Research (FAIR) team at Meta, Facebook's parent company, has introduced ChatGPT rival, a new \"state-of-the-art\" artificial intelligence (AI) language model called LLaMA."
+    publishedDateTime: 2023-02-25T11:46:00Z
+    webUrl: "https://interestingengineering.com/innovation/meta-unveils-chatgpt-rival-ai-llama"
     type: article
     provider:
-      name: Law
-      domain: law.com
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 39
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "ChatGPT and Bing’s AI chatbot are just stupid enough to work"
-    excerpt: "Leave the AI-written content to CNET. As a writer, I was naturally curious to see how good ChatGPT was as a news and opinion writer. Not because I wanted to start cheating and having a bot write for me, but because of self-preservation — how close am I ..."
-    publishedDateTime: 2023-02-24T23:10:00Z
-    webUrl: "https://bgr.com/tech/chatgpt-and-bings-ai-chatbot-are-just-stupid-enough-to-work/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/New-Bing.jpg?quality=82&strip=all"
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/25/image/jpeg/TfimQwVaBurGiWknvr0m16eUaOdXaGB9C4PfLklQ.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "AI Ayayay! A Virtual Conversation on Teaching and ChatGPT at UP, Diliman"
+    excerpt: "Cathlyn Ann T. Herrera A virtual roundtable discussion webinar facilitated by the University of the (UP) Diliman Office for the"
+    publishedDateTime: 2023-02-25T06:41:00Z
+    webUrl: "https://www.pressenza.com/2023/02/ai-ayayay-a-virtual-conversation-on-teaching-and-chatgpt-at-up-diliman/"
+    type: article
+    provider:
+      name: Pressenza
+      domain: pressenza.com
+    quality: 38
+    images:
+      - url: "https://www.pressenza.com/wp-content/uploads/2023/02/Poster.png"
+        width: 461
+        height: 459
         isCached: true
   - title: "Investors are going nuts for ChatGPT-ish artificial intelligence"
     excerpt: "Not a week goes by without someone unveiling a “generative” artificial intelligence ( AI) underpinned by “foundation” models—the large and complex algorithms that give Chat GPT and other AI s like it their intelligence."
@@ -359,6 +393,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 19
+  - title: "AlertEnterprise Looks to Transform Physical Security with Reveal of New Security AI Chatbot Powered by ChatGPT"
+    excerpt: "The Guardian AI Chatbot is developed with the world-renowned GPT-3 platform created by OpenAI and is designed to instantly deliver security operators the physical access and security insights that matter most with quick questions and prompts."
+    publishedDateTime: 2023-02-28T14:21:00Z
+    webUrl: "https://www.afp.com/en/news/1313/alertenterprise-looks-transform-physical-security-reveal-new-security-ai-chatbot-powered-chatgpt-202302280056301"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 16
   - title: "Jasper AI Is A ChatGPT Alternative With No Waitlist And A Chrome Extension"
     excerpt: "ChatGPT it making news everywhere lately. It has caused some concern for apparently being \"too smart,\" and its addition in the latest Bing beta ha geenrated some interesting results, to say the least."
     publishedDateTime: 2023-02-25T18:19:00Z
@@ -368,6 +411,15 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 15
+  - title: "AI News roundup: Elon Musk working on ChatGPT rival, Snapchat eyes slice of AI pie, Zoom's AI integrations and more"
+    excerpt: "Elon Musk is recruiting Igor Babuschkin, a researcher who recently left Google's parent company Alphabet's AI unit, to develop an alternative to ChatGPT. The tech billionaire has approached AI (artificial intelligence) researchers in recent weeks to form a new research lab for it,"
+    publishedDateTime: 2023-02-28T13:28:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-elon-musk-working-on-chatgpt-rival-snapchat-eyes-slice-of-ai-pie-zooms-ai-integrations-and-more-10176581.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 0
 
 secured: "ttM2FW+zKThI3mK091mrXz4TkoZOOSdNezcwbROJYgIPmaybfNlMjH/M5TmpHs6Evv8LeHAuqT82ryB3I3TFDrqlw9mdZ4TUB31uuvsVKPZEjnJL5gIwFKSSZVhFLMEvf+9w2nCZqOlQwsFaYBm/8EmZoAxeFv0+siisuE+OAL25pQMH0K1gxpPmenzMSePbAj8DpWJ81vSBIpd2yimqXhkYv+OK+PjxUFB4LyFKcEgf/z4BE1TGbNGCsAnQ8xVVLBKQKsQBbQHYTn/UlSAty/8Ma3upte7Li7+JEWM2nkwZrvMSVN097raNy2ioGtAOl0Cc8pwkM0JTce2DyGSONj2TmAJM6xICy1xrd1GBbPQ=;Sb6gqlBXi6e7DIyLa/jMJA=="
 ---

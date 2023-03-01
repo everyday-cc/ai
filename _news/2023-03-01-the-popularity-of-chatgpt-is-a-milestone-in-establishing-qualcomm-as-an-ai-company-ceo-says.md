@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T14:44:00Z
 originalUrl: "https://www.nbcnewyork.com/news/business/money-report/the-popularity-of-chatgpt-is-a-milestone-in-establishing-qualcomm-as-an-ai-company-ceo-says/4129300/"
 webUrl: "https://www.nbcnewyork.com/news/business/money-report/the-popularity-of-chatgpt-is-a-milestone-in-establishing-qualcomm-as-an-ai-company-ceo-says/4129300/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: NBC New York

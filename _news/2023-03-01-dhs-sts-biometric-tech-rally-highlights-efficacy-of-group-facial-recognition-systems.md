@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biometric recognition tests can’t be used for all use cases"
-    excerpt: "Successful manufacturers do not treat testing as a formality or a Band-Aid, and buyers should not take results at face value."
-    publishedDateTime: 2023-02-24T22:49:00Z
-    webUrl: "https://www.biometricupdate.com/202302/biometric-recognition-tests-cant-be-used-for-all-use-cases"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://www.biometricupdate.com/wp-content/themes/bu/img/BU-Newsletter.jpg"
-        width: 995
-        height: 334
-        isCached: true
   - title: "Facial Recognition Market size to grow at a CAGR of 18.11% by 2027, Increasing adoption of a multimodal biometric system to be a key trend- Technavio"
     excerpt: "According to Technavio, the global facial recognition market size is estimated to grow by USD 7,634.09 million from 2022 to 2027. The market is estimated to grow at a CAGR of 18.11% during the forecast period."
     publishedDateTime: 2023-02-25T01:53:00Z

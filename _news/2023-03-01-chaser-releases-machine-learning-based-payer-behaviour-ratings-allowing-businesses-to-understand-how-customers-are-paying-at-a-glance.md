@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T13:00:00Z
 originalUrl: "https://pressreleases.responsesource.com/news/103756/chaser-releases-machine-learning-based-payer-behaviour-ratings-allowing-businesses-to/"
 webUrl: "https://pressreleases.responsesource.com/news/103756/chaser-releases-machine-learning-based-payer-behaviour-ratings-allowing-businesses-to/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: responsesource.com

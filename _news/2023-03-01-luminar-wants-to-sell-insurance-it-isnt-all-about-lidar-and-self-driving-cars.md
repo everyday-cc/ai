@@ -26,6 +26,17 @@ images:
     height: 640
     isCached: true
 
+related:
+  - title: "Ford plans self-driving car that can repossess itself"
+    excerpt: "The soothsayers of Silicon Valley have promised for years that self-driving vehicles will open up new freedoms.It seems, however, that one of the world’s largest carmakers has another use in mind for the technology — one that can repossess itself if a buyer fails to keep up with payments."
+    publishedDateTime: 2023-03-01T14:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ford-car-patent-possesses-itself-rvw7hhxcg"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 4
+
 secured: "8iNtfbjC16OM01DEfJ824D4K3Xu10TjNJ48Dwrq8fspxvVEgld4iFtg06fvPZmblpEeE7yipq73T3sdTaEOEq5qcGIWmFvdkQI0qS2KemVXVYn4FAfzRBrjVlM3iTqhUUB8DtWOct2ET7MJvPA+Pfr9IrMO2TREDoLFU8QwSHBDVp2RP/EaTiAn78o0nTjgQTOC8TlRVQhQ4S1lBk7lYyZjmeSiOZNlaRHnMCZMwXdwtiw7XJOStr/TDLkPPV1XwhzQp3nhbL8bqBebdmdm9EXQicIf6IjIpKk+yp0oG5QGvsDFF+N+WerTD7weCiyJXq5+1HKXDKv1rd1fUaXPMSoPlKM2q9hs1QGXAUWMyvYNHTTXgVBA1Q9QCy8kGQJlC+Ec+8GwpfL8iwSPiRbmWMxv9mwnaroLdPwv4m6H/kf3rwTOWOrLkBQByNU3EwIjrB7rFh10y/ip6g9oAlQSrJ46nhoKvxp9bUqsljzes5WPoynyTNoz/d4hKd9m78m3pBLxiy/rGznuPEhwoHZ6nAg==;r/gl5y+POkssNPNU0BW+cg=="
 ---
 

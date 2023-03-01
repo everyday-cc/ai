@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/just-how-big-is-this-new-ge
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Active learning is the future of generative AI: Here’s how to leverage it"
+    excerpt: "With active learning, training a model moves from being a linear process to a circular one with a strong feedback loop."
+    publishedDateTime: 2023-03-01T00:36:00Z
+    webUrl: "https://techcrunch.com/2023/02/28/active-learning-is-the-future-of-generative-ai-heres-how-to-leverage-it/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 68
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1435756741.jpg?resize=1200,840"
+        width: 1200
+        height: 840
+        isCached: true
 
 secured: "XJ538i6/FQDl53jFe2XRnWcWlRlJZbqL7oEjSyHfGxlOBqLOWXRQEeLqcK5b8V9tgTMnwsdrvUEzx4qw/gySSPgByck2MizgRNGUNWLhXZoZEh1FEI/Cnin8eFMmyra6kCleNve69OucmbWk4fqrc3SpImMJaYy4OdVQn9gOf6ypErAASPESFt2xnVbw+K0HrSnI9bY1PXvgUkvPpIOUyCgFywQvCSVa4AUd7G2CIApjqzLdjknnjcAut5nwKNg4u1d+j65gfRFYFqlHHHvUcFMPAxLCvxFSgi8BvhnWPAfFE0dofODMdG6DNY6HxeLJFSY/0GlgR74EVcPgLqRYDEhANwhuHH3UsHKLqPxCOv3tOlyZ447BoIDpoQN3eC7jyFD4PTJoCebTl8DBFnCfWK6yjeeIblPkzpaASqvr+SpgoQIqVRrpf2PYCeZMF6Ql3pi/FvnSBXTXA4LLMVdCObCxN6e4e1j8SA6BXlkOtejhob4lpmv+04lZh5bJcD4E5faAoxtKept7D5Hufu+xig==;GAIWzUBlDOz5jgFeXdKapw=="
 ---

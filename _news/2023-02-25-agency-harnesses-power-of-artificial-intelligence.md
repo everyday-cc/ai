@@ -23,6 +23,17 @@ images:
     height: 821
     isCached: true
 
+related:
+  - title: "My Week With AI-Powered Winter Gloves"
+    excerpt: "A famously cold person tests smart heated gloves in subzero windchill, a bomb cyclone, and a (relatively) mild walk to the grocery store."
+    publishedDateTime: 2023-03-01T14:00:00Z
+    webUrl: "https://nymag.com/strategist/article/eddie-bauer-guide-pro-smart-heated-gloves-review.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 17
+
 secured: "+u3AGuv2Ou0nl6NfoItDOYyxm5WE5GbILu4zv8F2mHSsuLRZcZQ3//a3xJu0BS85rSMozR5Ghym9bhp4NSNfHNI/M/FQy5zBXOXD2NHJJVH3Gkh9IHqT1BXd4Z7h3FsUnyls8Yqvi8Z6CxS5lI1pUEz3edhJrHF/GkQqcwqzKycyz1CsbOitZUSBZCfwiBOT+oa7R7HWLtkuyEzefgzpywj+C09tfLgO7/saIKAddxEsTdOi+WpBQyXyEH0RPpAf6Q2wcR+bfvWnoZQoEJXRSq5Bxn924xELkzkZ2lsUHey0BXk5GSzBqPF8iNCXHr5gWpaOOXL12TjLpxvKcWgFmdLw6aBT+C0Y+3XXN/bAm9/GC9ru8OrpkE8Au3Z32o1flyAGNtY04qlMuyM1DnQVJghr4btnRR8xBf2HfimbcXBj0wvmHeNebutNm6bJP3L54C0/4+6R1uaeDEaMRcFdKcDMAqx4LNKpuQFewbSFIJ8wseaV4Uyw38gIDGRSZp9VAEmEFdQa5CCrc5VUGL3qcg==;nvMoXE12UEQBWLJwPKKIiw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T13:00:00Z
 originalUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html"
 webUrl: "https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: New York Magazine

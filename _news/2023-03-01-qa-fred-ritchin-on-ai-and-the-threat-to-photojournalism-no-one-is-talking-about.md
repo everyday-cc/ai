@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T14:30:00Z
 originalUrl: "https://www.cjr.org/the_media_today/fred_ritchin_ai_photojournalism.php"
 webUrl: "https://www.cjr.org/the_media_today/fred_ritchin_ai_photojournalism.php"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: cjr.org

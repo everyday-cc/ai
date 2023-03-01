@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-
 webUrl: "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-ai-chatbot-powered-by-openai-s-gpt-technology"
 type: article
 quality: 67
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 19
-  - title: "AlertEnterprise Looks to Transform Physical Security with Reveal of New Security AI Chatbot Powered by ChatGPT"
-    excerpt: "The Guardian AI Chatbot is developed with the world-renowned GPT-3 platform created by OpenAI and is designed to instantly deliver security operators the physical access and security insights that matter most with quick questions and prompts."
-    publishedDateTime: 2023-02-28T14:21:00Z
-    webUrl: "https://www.afp.com/en/news/1313/alertenterprise-looks-transform-physical-security-reveal-new-security-ai-chatbot-powered-chatgpt-202302280056301"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 16
 
 secured: "H8aZZ2ypf7yscZuAPm05PSOOgS9jHZUEzwEkNwWM5H1usSKvu8+2k8vJX+tyk6VgKS9cPYqkHvccaYMrpbTup3WlJAeg+/PNOSU5e4gspw3kwu1XZc6Jis+fj8zYMbQhZf8/oKuklvhmtuQFmDOxA9tbdcRRKao+AiAotIAokQ7uJUZEnpmKyoJlXrCxcnH8Y5qpgKrwul27gA9C5gERazg/rxgwKBh2L3pwALW7M7cv0EaU/MvCKuivVu9kgEWOP3wW1P1MGP/27E6g/Tdu3cQbnbBwb34sdYMecmTle+aAURKp4wn4K7ize2M8oRndWuJVWIR/af9C05yBF2Z/8O/BLaTKE2vF7uvPe8LEls96x6w3z6O7BTouCtRCUrNdcU0klRt99rTJlT6q1iM8IiMYjrI8KQ40U1PdqJMaaBUFHRjbwXMlhQiYSjp0xirjKwRO6iWk4HYdDYsuwyb7n/mxciBz0DeTb+cbptcYXqYqYvP+BuQAewcoP0wChX9uf+FLqhJJRrgJ58uT5e65yw==;vIzdkHwGD/KPhQ93epUSPQ=="
 ---

@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "uqTbtOxWk/cDMP+xrEG7Fa3Q+Sq0MhP1I2crEYciHyp7IKoGgsK0G/bLtRhzr5LKWCL0e9l5mSqNU5XnPYA+RfNlQFkThcfwrjlY7s6zoRzkhueLFaZYofy9tWwWJgY/1FF+6lpCfutk8Z13N1fB6ETHt4eMMVMgWDPODtoKve3leMj/DCFIvOSvLhXFoLIRFusAimQz8mI/9RBmi/xc4Kxo99qjNFP4aycDo4jgE7q8FtmCDVV5Q3FPvrCU9G8quj1dLVkvyLOovkIedE+ggSoyQNAvgzb/S4nAAdOuW+HJvBS9Uw4KxKqWwDzx2HGTBKiNo1OWg0CIcOtuyzLu6BM7TI3ddUwNvIKgoOEY8Sc=;oz2lF98/glbkShz8vS+T9A=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/3f/43ff8c82-e6aa-548e-a507-ebb884546010/63f1b9da8623d.preview.jpg?crop=1744%2C916%2C0%2C136&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "VfZ/66fblcWnIyNJ7FlN9UTgu/mM4Cfgw6ajL+axGulvxvK27SVAoEkK9rSmERuhl4WDHcpcJoxI6/glMaTeYubNHGCnbxLmChZJGhuSqC56ouR1IHdcCU0J+QqMLKjdi1HWP7Z/N0rCedAX5TRlZHN1r+DBw2b3ICPuj/fP981VBeYicXRX/+GBhHX+2bTWT0QJLpme5O9GPg3iwL/U0dtdPSG8xKrlYf6SUzXjRQ6eLynQXcqDrWB2ZcG2Qh1IFO64xi7+zolybnxTuC5vz+yu/up0DsPKLAAbhcypLuM3xxrWU/uspXpBE8knlye0kpN+Zn82bly1Qq06tz89DzvShkWsr+7GdbfaBvhBfSo=;8DOAgwFEm3KR1zlyP8zNGw=="
 ---
 

@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI Stocks Are Soaring… But Americans Aren’t That Interested in AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Den Rise Far before February sparked the current"
-    publishedDateTime: 2023-02-24T21:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-are-soaring-but-americans-arent-that-interested-in-ai-1032124725"
+  - title: "Artificial intelligence impact will be in the trillions, Bank of America analysts say"
+    excerpt: "Artificial intelligence is about to open trillions of dollars of opportunities in the next seven years, according to Bank of America analysts who say it is at an \"iPhone moment.\" \"If data is the new oil,"
+    publishedDateTime: 2023-03-01T14:30:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/03/01/ai-impact-will-be-in-trillions-say-bofa-analysts.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2023/02/ai-artificial-intelligence-touch-1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
 
 secured: "s4WFFX/loiymNpGaD8CHlw7Ek6dfqmT5kUXyngnxNbZsPhABVXEoT2+g8RV16KpWexGNJdtkgV9iIX5MMFMS+fnow3JVGJ7mVqsSZBd0jutx0WUvtagJKXXib7k8Dz+M3OPldC44o+YnWzj/v/mVQKB23zqKBktkTrX5ad2f/MDYx9YyRFBwuaY56C+lGx7P+wYmrxg4290OA5Tzl24bZEd+N8kxkeK1k3+j8S2a73O5pXJUKNjG8CfeHNzhQiN0r1dNfVMChe85AUZE4cpYTQKKPbqp8PcCcf4lIEHrqcztyfC+4v4du0EZ/6SNva9o3Hnq4+512kSL2HjAx3c1qXqx+1blv3aOWRLxkdbKyZoiQW9kpQclF4N4E/vpeLPNgQBLPB3vvnNCs9UL/5ar0oSAEGwY2PWbUZ2S4EssWhRPTIyENXtSwgVU2Y36OdfQAHKrQD3MejWusFVXH57eQc/cH7T8OqS1Ob3uEJdfymfKda6cOz9jlRgMvQ5ibckv0doaD+J2179iaPcB+UBs8w==;C+9ygAkXomtS3nyACfOErA=="
 ---

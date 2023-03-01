@@ -23,17 +23,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Leveraging AI, Analytics and Medical Robotics To Alleviate Caregiver Shortage and Physician Burnout in the Post-pandemic New Normal"
-    excerpt: "Emerging technologies hold the potential to protect doctors, nurses, caregivers, and first responders while driving up efficiencies for manual tasks and processes and enhancing productivity."
-    publishedDateTime: 2023-02-24T21:40:00Z
-    webUrl: "https://medcitynews.com/2023/02/leveraging-ai-analytics-and-medical-robotics-to-alleviate-caregiver-shortage-and-physician-burnout-in-the-post-pandemic-new-normal/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 19
-
 secured: "5pf8Kks4+yNc0pKgOfFycuRlVpV60vvplAFwNospcQwNbu58lK4Ru7pAf/br6vMlLaaeLeGvgvEDaThXLYdHg56PacO1wugGEOQdZ74KB2+Tk0XwDgsRKDA5VSk/ZNlyPojRVL1x6dvSJz35a8EEDLCeGVgjbPTx00yGds3IihS+Jd9py/vCd+fVuwVM+2EseZWgiU+QqHIuevtlKFEaNRSn4RGpEPD44IOjM8Q7jDw94SjkkAs5ZiSu9ZtKx4d98b4gpCTF2eyNi29PHmRW2sNBT+b/JAz8C+AfH0LkDZDG8YQj41NoqUb0YEWxtcmh8UuGAdv813Dl+HlCmoPBb1XA39K7ZHWWd19HSWPsESzpoWZy+uLlTVcLruYLMfSsu9K6OPMeSt6I+98A+ggblEluaK5B/IwjxuoGa7MUS9BR8NgKPZfV+YrbA9Dmaa5n0zpM2NRGuO2k/ACOnY1Y2GHJoh0eeXhDVoqWm0zA4pNJVHdmZxfF3f3cOQIApEyRiou0TI1Zkov4JgRpUpnQkw==;+u7KtSQuBVU65H+ciBVlZQ=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 1080
         height: 1080
         isCached: true
-  - title: "Commentary: Bing and other AI programs are meant to behave like humans. Why are we shocked when they do?"
-    excerpt: "Why are we surprised that Bing's Sydney is getting pouty and that people are using ChatGPT to write stories for sci-fi magazines? We programmed AI to act human."
-    publishedDateTime: 2023-02-24T22:02:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/story/2023-02-24/commentary-ai-bing-chatgpt-sentient-human-creators"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 20
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/e9affcb/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faf%2F23%2Faae89a474d299802f444f5c96206%2Fchat-gpt-02.gif"
-        width: 3000
-        height: 2000
-        isCached: true
 
 secured: "ztwrQdza+84Yd4ARC4urRngJfWzGjH2doO50LbTjOI41mCqw2XDK6yr7jnFNwBsDbZxEXZDRhtpDf2ThE+y4gA+rh5ucYzUqb0KRC58nUa3VaXIYId1wac+V7DNo1Z6xs7MlqkfljJnkD+C5Q5OCPqyPWX2PFo1aFSDlemtcsnAXtfZppGHq91Y00NJlODFvWMWHi0a3NkLLUa12Kn9E2YNKyYikw0oBH/cZ96jv3NZNuggta/fVX/DzYRQxxxSc4D0soIkEqIJ8X6wEh3eRdPDmFO3rr6EXRwdaYFhCqMFJ3iH6wYhn0hSJjytOX/vjRA6QQbeCy+4JSuCpLO8AR2SBLlriQqXsti3MCkb64KQmEsQEWlP05gp0Bzsbu5o689fw0BmcEba5GkOTlEFU71doPgEO2kGEbSq24fjOyLAzGG6h2XR7BHc4jqRmyEa57/bi3h/NqiT4aV+BSxa5x1+qwLWauDEH/OSTGg1vgUQjE2qlsjlIkYdXAJJrnJlEy+WjT4S6+usWPYcCElFPNQ==;lm1+dL+1crsezuwkdpLz1A=="
 ---

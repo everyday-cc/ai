@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T14:01:00Z
 originalUrl: "https://www.driving.co.uk/news/technology/watch-waymo-self-driving-car-navigating-san-francisco-in-heavy-rain/"
 webUrl: "https://www.driving.co.uk/news/technology/watch-waymo-self-driving-car-navigating-san-francisco-in-heavy-rain/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Sunday Times Driving

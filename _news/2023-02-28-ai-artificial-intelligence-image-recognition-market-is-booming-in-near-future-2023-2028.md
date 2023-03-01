@@ -154,20 +154,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
-    excerpt: "What is the projected market size and growth rate of the Artificial Intelligence (AI) Market? Artificial Intelligence (AI) Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,"
-    publishedDateTime: 2023-02-24T23:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-outlook-2023-and-forecast-to-2028-with-top-countries-data-2023-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Market Size 2023 [ NEWEST INDUSTRY DATA of 110 Pages ] till 2029"
     excerpt: "Market \" Research Insights Report 2023 | TOP 3 KEY PLAYERS in Artificial Intelligence (AI) Market Include [ Intel, PALANTIR, FUKOKU (Japan) ]. The [ Information Technology ] Sector is Expected to Dominate During the Forecast Period 2023 2029."
     publishedDateTime: 2023-02-27T17:42:00Z
@@ -247,6 +233,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market 2023 is Ready for Breakout Rally by Industry Share"
+    excerpt: "The recently published Artificial Intelligence (AI) in Drug Discovery Market Report, spanning across pages, provides"
+    publishedDateTime: 2023-03-01T05:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-2023-is-ready-for-breakout-rally-by-industry-share-2023-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

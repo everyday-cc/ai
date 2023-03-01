@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/qualcomm-offline-ai-image-generat
 webUrl: "https://www.androidauthority.com/qualcomm-offline-ai-image-generator-3290206/"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Android Authority
@@ -27,22 +27,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "These AI-Generated Images of Climate Change Make Me Uncomfortable"
-    excerpt: "We may earn a commission from links on this page. It’s getting harder to avoid AI-generated images and text—and harder to spot them in the first place—and that’s true even on Shutterstock, one of the world’s leading providers of stock photography."
-    publishedDateTime: 2023-02-25T00:20:00Z
-    webUrl: "https://gizmodo.com/ai-generated-stock-images-of-climate-change-1850155713"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ca8c497bfb955c38763c9699a57deec9.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "K2QfEfkqOO2UzStjHYF0qTHTGNyrPfxbq+ZXneVJDiYFN5B26he+3ED/LoLqt7tzFY2LBiPSfb/Cez5G+AMQPab4qS+tpJJccoy2iqPKPe+J7NTeFoONMyOufaHBKZf71O+CSf/iXB+2SZotyT67ZbHdmXywBdt7pKpi9c/vTygqWBLf0rFVwmgKyjPfELwmmFHL0FE34KPfTFkWvMs1vZq+JTmtJGqqkT8bnCnhgdnlsjKv+ixz6cgO9gUGWMx8SLKsoOfY9jiKOLv+LehcK08LfJYF9iCA4QKU33XlzYcgJfvPzAiRbYIflC3GyBvZIDXU5amwpSXYqNr8vsrylV7FqBhp4C6EUIYaA5NDckyUGvrppvGgDE5lcQJkxkn4Umu8IQGRfwDPtho8mevHTZXQDOahDMDBHVgB7OQGiRNOjdGypmWu5CUz6Dza/ODoN4WIv7cOCZFTdkCC6Adc+HahMdoTz26yG4HKOAkxKmc4DS1Wq+cIWcXn/06olKT7HeKA/X+v4DsFcwtmX/jQLw==;FLNT/y/JvM3at6G3CdP4jQ=="
 ---

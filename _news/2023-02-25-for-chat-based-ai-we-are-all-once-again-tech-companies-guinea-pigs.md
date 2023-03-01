@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/chat-gpt-open-ai-we-are-tech-guinea-p
 webUrl: "https://www.wsj.com/articles/chat-gpt-open-ai-we-are-tech-guinea-pigs-647d827b"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wall Street Journal
@@ -26,6 +26,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Companies Attempt to Cash in on Artificial Intelligence Hype"
+    excerpt: "Real-time index price for S&P 500 Materials [Sector] (SRMA), along with buy or sell indicators, analysis, charts, historical performance, news and more"
+    publishedDateTime: 2023-03-01T16:35:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/SRMA/pressreleases/14667835/companies-attempt-to-cash-in-on-artificial-intelligence-hype/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 37
+    images:
+      - url: "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/global%20technology%20internet%20globalization.jpg"
+        width: 800
+        height: 580
+        isCached: true
 
 secured: "pXMJCMZWGpsmvAlATvO+5NpcTxzF5pJp/hZFdwk+rkMLUxCsuhfe6FXUd/ONSdDs/v7ga1GxHWVjUklfhXEXXR++xxsoobviy5BNna3jW1xJ8yld2wPzjHp0E/tXIZNs7QKPxcwV+ksDTQUyjdVZ5ETvII6woOIfI48mruS3uph1Z5Y6qtsPqpOwiaOmXX7oBzLuR+MdY4sc1zB+BqUivuS3Daan9qCXETRPMUGb2jvu2PT2j/k0Y516w+bntwqPNLx34oD2r5ahi/0HQvruSsg3BoAG6PwRTYbwf+AMwParyr12Hy9ISxkBCSSVNxPE6HTv2KsV1iTAj6zOyENE7KSPQDYO6aiQmRbSFTNXVE8=;od+dES89u1WogxcyWFJ4IA=="
 ---

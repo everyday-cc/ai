@@ -24,43 +24,89 @@ images:
     isCached: true
 
 related:
-  - title: "SlashNext Launches AI Solution for Email Security"
-    excerpt: "SlashNext, a leader in SaaS-based integrated cloud messaging security across email, web and mobile, announced the launch of Generative HumanAI, an artificial intelligence solution that uses generative AI to defend against advanced business email compromise (BEC),"
-    publishedDateTime: 2023-02-28T13:23:00Z
-    webUrl: "https://channelvisionmag.com/slashnext-launches-ai-solution-for-email-security/"
+  - title: "How customizing models is bringing generative AI to the enterprise"
+    excerpt: "SambaNova Systems today launched SambaNova Suite, which aims to help enterprises build and deploy customized generative AI models."
+    publishedDateTime: 2023-02-28T23:43:00Z
+    webUrl: "https://venturebeat.com/ai/how-customizing-models-is-bringing-generative-ai-to-the-enterprise/"
+    ampWebUrl: "https://venturebeat.com/ai/how-customizing-models-is-bringing-generative-ai-to-the-enterprise/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-customizing-models-is-bringing-generative-ai-to-the-enterprise/amp/"
     type: article
     provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 56
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://channelvisionmag.com/wp-content/uploads/2023/02/slashnext.jpg"
-        width: 500
-        height: 343
-        isCached: true
-  - title: "Informatica Launches Free, AI-powered Solution for Data Practitioners"
-    excerpt: "Informatica, an enterprise cloud data management leader, today launched the industry's only free cloud data loading,"
-    publishedDateTime: 2023-02-28T16:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/informatica-launches-free-ai-powered-solution-for-data-practitioners/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/SambaNovaLogo_H_F.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 627
         isCached: true
-  - title: "SlashNext Launches Industry's First Generative AI Solution for Email Security"
-    excerpt: "This new solution joins SlashNext's existing HumanAI capabilities, which mimic human threat researchers by combining natural language processing, computer vision, and machine learning with relationship graphs and deep contextualization to thwart ..."
-    publishedDateTime: 2023-02-28T21:04:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/02/28/9767658.htm"
+  - title: "How D-Id is merging avatars with conversational AI for enterprise use cases"
+    excerpt: "The power of generative AI is now coming to avatars. Today, D-ID releases new chatbot leveraging conversational AI."
+    publishedDateTime: 2023-03-01T07:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-d-id-is-merging-avatars-with-conversational-ai-for-enterprise-use-cases/"
+    ampWebUrl: "https://venturebeat.com/ai/how-d-id-is-merging-avatars-with-conversational-ai-for-enterprise-use-cases/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-d-id-is-merging-avatars-with-conversational-ai-for-enterprise-use-cases/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/09/artificial-intelligence.shutterstock_622946219.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
+  - title: "AI-mazing Ways Artificial Intelligence is Helping Companies Save Money in 2023"
+    excerpt: "AI can help automate repetitive tasks, analyze data. It can also help to create new job opportunities, such as roles in data science, AI development, and ethics"
+    publishedDateTime: 2023-02-28T01:56:00Z
+    webUrl: "https://www.thefastmode.com/expert-opinion/30692-ai-mazing-ways-artificial-intelligence-is-helping-companies-save-money-in-2023"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 54
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/e13a035f687388d6942bd4c3b9d7a2da.jpg?t=20230228_014912"
+        width: 1126
+        height: 550
+        isCached: true
+  - title: "Anthropic begins supplying its text-generating AI models to select startups"
+    excerpt: "Anthropic, a startup developing safety-oriented AI models, has quietly begun making its tech available to commercial ventures."
+    publishedDateTime: 2023-02-27T16:37:00Z
+    webUrl: "https://techcrunch.com/2023/02/27/anthropic-begins-supplying-its-text-generating-ai-models-to-startups/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 45
+  - title: "How Artificial Intelligence is Changing The US Intelligence Community"
+    excerpt: "One particular area of focus for the IC is artificial intelligence. Juliane Gallina, associate deputy director of digital innovation at the Central Intelligence Agency and Wash100 Award recipient, listed AI and machine learning as one of the top five emerging technologies critical to today’s IC missions in a video interview with Executive Mosaic."
+    publishedDateTime: 2023-02-28T10:55:00Z
+    webUrl: "https://www.govconwire.com/2023/02/how-artificial-intelligence-is-changing-the-us-intelligence-community/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 37
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2023/02/unnamed-file-24.jpeg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Generative AI is sowing the seeds of doubt in serious science"
+    excerpt: "Researchers have already developed a bot that could help tell the difference between synthetic and human-generated text"
+    publishedDateTime: 2023-03-01T05:00:00Z
+    webUrl: "https://www.ft.com/content/e34c24f6-1159-4b88-8d92-a4bda685a73c?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
 
 secured: "AE8/4MOYPT6ERv4FpjxJIYEefpQGFuwyWIOshE0GvY2fyv759UZASrrGXU4IUhf2Eyg7MlMWRVQTpL8wZ9KKmK9ME8LdocFBmIZJZarVZw4tJaVanjDrXLgyjPYPG2Ac3KLjr5CU30UytquMpbo6xHTvZ/SOW7mHn9Lg2TVCj/L45bK8MNHud6OjsdKzNIgSK7eZFNqMOWNhvmO7KEwzMlrFW+O+pedux/swVb+8JJUwNCUBrwBVQgCbuNdHxVL6fmGWIYDb1liw6Cn6SOZClBTLQyWu60v4+1O5Y5xR6yA/HQ/9xjI2y4M3KlsXKlaLmokDI/RVtytmXMhmlCIhA4M9QZLx2g1MONXu2KANMQO5zqVU7W4RVKEjnEk1YZvoX4lvuOZTHRZUi3H1GmkGHTsnLsI4knPQMt30GyiPpZY/udql+tDsmtRtAzmfPQxRZpVVgpkcKcX58ZCJDSHt7Lrs5iQj8DUmESMfaH1mZo4FoJYq2bk9d7pdsKSmHI6MEhMcoAtwNFzcMYqiLnp2Ng==;aQNEFjMR8nk28G7ZPm29Qg=="
 ---

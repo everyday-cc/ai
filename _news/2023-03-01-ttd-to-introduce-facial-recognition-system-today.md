@@ -61,20 +61,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "DHS S&T concludes facial recognition can work for small groups, while maintaining privacy"
-    excerpt: "The results from the “2022 Biometric Technology Rally” could inform the way forward for TSA and other government agencies as they increasingly adopt facial recognition"
-    publishedDateTime: 2023-02-25T00:41:00Z
-    webUrl: "https://federalnewsnetwork.com/automation/2023/02/dhs-st-concludes-facial-recognition-can-work-for-small-groups-while-maintaining-privacy/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 45
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/09/Biometrics-03.jpg"
-        width: 1097
-        height: 700
-        isCached: true
   - title: "Why facial recognition could spell the end of anonymity in public"
     excerpt: "CCTV doesn’t just recognise your face — it can even sense your emotions and predict crime. Even the country’s biometrics boss is worried"
     publishedDateTime: 2023-02-26T00:01:00Z
@@ -89,33 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "US military says it can put facial recognition into robot drones"
-    excerpt: "The science and technology magazine is reporting that the Air Force now has the power to give facial recognition to autonomous drones."
-    publishedDateTime: 2023-02-24T21:18:00Z
-    webUrl: "https://www.biometricupdate.com/202302/us-military-says-it-can-put-facial-recognition-into-robot-drones"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-  - title: "Air Canada launches facial recognition trial"
-    excerpt: "Air Canada has launched a pilot project that enables travellers to use facial recognition technology to confirm their identification. The system is designed to make the overall travel and airport experience more seamless and enjoyable for customers,"
-    publishedDateTime: 2023-02-24T21:48:00Z
-    webUrl: "https://japantoday.com/category/features/travel/air-canada-launches-facial-recognition-trial"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 34
-  - title: "New York City Council holds hearing on facial recognition technology"
-    excerpt: "New York City Council holds hearing on facial recognition technology Facial recognition technology was the controversial topic at a New York City Council hearing Friday. As CBS2's Doug Williams reports, there was one noticeable absence."
-    publishedDateTime: 2023-02-24T22:24:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/new-york-city-council-holds-hearing-on-facial-recognition-technology/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 19
 
 secured: "hJNdcoH3FZRaFJg2VVgoY+CVqdDjO4tK7q+GWMQXtGLsdYcvwgAT9BmrMLH60GfwU8Q/2qX9Ow9yEwHvkjlTFdxxA8bVJeHdU1KhAn1k1H3IPYpwCGGUZQExTTWOLyQIvz2opgCKd9cPkTsHba5BNdnj+dPXI/MVNKW/0eVocOg9Si4bixRTj4FeDAAqHPovBuWDsXjc1trNGS2xOwmaDPgiTotgIIgwQMQTzZ2fatV9gtAhg7i3YlR+BNDV/n0e3l3eVQnBMHbhTP5QoVaDaLLdIOWE3pDafXF7mzfKIEcRhIctsoxbE7Zm0FyGRejS+RcbNQ5zfTkU0ZiVziKfwPAomw3oUzSUeR9xgQ7CvsUOibdpSnZeDtUsLNcCgTq+BBbiAZSftWhY3mRNSUsDvIHGskYl+cTRrosHdTguGaGogiC07HJc8rVT9VUpJ15Q3ZeBGNhDIowSrqNAKtUB/TwCk5dTO1GdW6BMD5mNiNwlK7QqV3Uo4H/uc1c9wP04tC8HxDDpyorJ+HsHa9A9Vw==;lR3M9IPAtbnGxCESQovqQw=="
 ---
