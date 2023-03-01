@@ -215,15 +215,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 29
-  - title: "Navigating the Future of Face Recognition Door Lock Market Insights 2023-2029: Emerging Trends and Opportunities"
-    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “Face Recognition Door Lock"
-    publishedDateTime: 2023-02-24T09:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/navigating-the-future-of-face-recognition-door-lock-market-insights-2023-2029-emerging-trends-and-opportunities-2023-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
   - title: "Artificial Intelligence as a Service Market 2023 Top Ranking Strategies: Trends, Predictions and Technologies 2029"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-02-27T15:18:00Z

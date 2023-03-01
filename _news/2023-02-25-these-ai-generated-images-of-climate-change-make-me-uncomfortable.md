@@ -42,15 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Your Android phone might soon be able to generate AI images in seconds"
-    excerpt: "Qualcomm used a phone powered by the Snapdragon 8 Gen 2 chip to generate an AI image of a cat wearing armor. Here's how they did it."
-    publishedDateTime: 2023-02-24T09:30:00Z
-    webUrl: "https://www.androidauthority.com/qualcomm-android-ai-image-generation-3289045/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 49
 
 secured: "lcGr1CC0fybymmvPm2TUa4kT/mObPcXh8SbroVo6REOBnsVzsVPadtoVOOPV4QZGaQneGoafNjP0NJuvtTMBn8DB5uCJaXtCXt3SjfW6wPAGdybbtf9WynwsAvahNUSmyyW4sxX+fmmhcVBHPLLBdgbg0quf4ZTNlGNv6eUH+vxIJPgBVY8drst1lDKoUYlK85cjOukUyHktDMpSAaw+v3ChTJA8e+rbIu/Boy8z8Zlr8zBJWusV/hWjwfPG6plkVsaNt5nTyxS+zC7bP9W12IBZIFOc6SJsnjpRjHpn5CpanwuPzSok/1bwAJRuHao3dGmihMa7fsalHYjbUXSNQjK/KHXf+bXeoTq/ji7q/CQ=;T0eRXBIquWgbsgfMOV600g=="
 ---

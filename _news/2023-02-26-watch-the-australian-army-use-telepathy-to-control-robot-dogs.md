@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS launches second Australian infrastructure region"
+    excerpt: "Amazon Web Services (AWS) has announced the launch of its second AWS infrastructure Region in Australia—the AWS Asia Pacific (Melbourne) Region. AWS says that with the launch of the new region developers,"
+    publishedDateTime: 2023-03-01T00:54:00Z
+    webUrl: "https://itwire.com/it-industry-news/strategy/aws-launches-second-australian-infrastructure-region.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/a9daf8354b5a01d94bc673149ae8c707_M.jpg"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Leading Australian social justice bodies unite to back Indigenous voice to parliament referendum"
     excerpt: "Allies for Uluru to act as ‘conduit’ for organisations to support yes campaign, and include Fred Hollows Foundation and Oxfam"
     publishedDateTime: 2023-02-27T13:00:00Z

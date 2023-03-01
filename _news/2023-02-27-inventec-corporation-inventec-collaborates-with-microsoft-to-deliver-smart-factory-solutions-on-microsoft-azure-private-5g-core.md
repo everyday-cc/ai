@@ -19,15 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "SymphonyAI expands Microsoft collaboration, adding NetReveal Watch List Management to Microsoft Azure Marketplace"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today it is further expanding its role as a Microsoft partner, adding market-leading SymphonyAI NetReveal Watch List Management (WLM) solutions to the suite of SymphonyAI vertical offerings available via the Microsoft Azure Marketplace."
-    publishedDateTime: 2023-02-28T13:19:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-symphonyai-expands-microsoft-collaboration-adding-netreveal-watch-list-/2023/02/28/9767484.htm"
+  - title: "Red Hat Expands Collaboration With NVIDIA to Advance AI and 5G Solutions Across the Hybrid and Multi Cloud"
+    excerpt: "Red Hat OpenShift support for NVIDIA Aerial SDK and NVIDIA software-defined accelerators aims to speed the development of RAN, edge, AI and private 5G solutions Red Hat, Inc., the world's leading prov"
+    publishedDateTime: 2023-02-27T04:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/02/b31063303/red-hat-expands-collaboration-with-nvidia-to-advance-ai-and-5g-solutions-across-the-hybrid-and-mul"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31063303"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31063303"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Airtel deploys AI-powered speech analytics solutions for customer service transformation with NVIDIA"
+    excerpt: "Bharti Airtel, India’s leading telecommunications service provider today announced that it has built an AI-based solution, in"
+    publishedDateTime: 2023-02-24T13:13:00Z
+    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/airtel-deploys-ai-powered-speech-analytics-solutions-for-customer-service-transformation-with-nvidia-46772/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 4
 
 secured: "W8LCW8Umi/EibkMNY30Wn4s/SsvBilYZnBMazS4RSrB+ReBvUwuP9xV0B5UTZvB4bQB9XIEM0/mA14Y82e0s2as+hx2WC+VqThFqAlZ6YClMsMHLCBkBDSQkPLAdUvvbQmjhww+0laluvr/ZKN+RICYVMtPubi07yqf9YbwEsuu64YU3VJvBe4DtyN5VHCz8oEVnVw9gqoYiQVgO+O1hKhlHjb7JLNCAGreAPywzpEIxUxV8DInmWt0pfACVhthuX68HQwxnK7kZApvU5NiGYXjnpd8mGvG/mQzwJHBo6ZgYBf5DKN1G+LID02yX7C/0qrhfct9mgAamDyCfc5NpcHLpOCkpbuq/SjSSadx2SOOqW45A6oxm8EEEU0ET+QeDUFfR00fsf0UqskYIAHiMS61uniOZLr3olNt6zE74jOjZtTqPdu2h2q2kIdlCB0IlzU7SsB4OCO22KbjqD1Nk3brP96ejy5j77k2A70/KdRYgKl4a5PuTWibzbM8rRuHqCD+KKkBzho2zIGnyfui2uQ==;qjbwfcxEfWL9zjKB5O1WZA=="
 ---

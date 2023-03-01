@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-02-09-study-reveals-that-much-still-not-known-about-cognitive-decline.md",
+      "title": "Study reveals that much still not known about cognitive decline",
+      "excerpt": "More information: Predictors of cognitive functioning trajectories among older Americans: A new investigation covering 20 years of age- and non-age-related cognitive change, PLoS ONE (2023). DOI ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/we-still-dont-know-whi.jpg",
+          "width": 1280,
+          "height": 914,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-this-chinese-stock-is-unveiling-its-own-version-of-chatgpt.md",
       "title": "This Chinese Stock is Unveiling Its Own Version of ChatGPT",
       "excerpt": "Baidu’s growth has fallen behind that of its Chinese tech rivals in recent times, but its well-timed shift towards AI several years ago could soon begin to bear fruit. The company has spent the last few years investing in self-driving cars, deep-learning ...",
@@ -1023,58 +1066,6 @@
         "name": "Barron's",
         "domain": "barrons.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-meta-long-an-ai-leader-tries-not-to-be-left-out-of-the-boom.md",
-      "title": "Meta, Long an A.I. Leader, Tries Not to Be Left Out of the Boom",
-      "excerpt": "It has long had technology to rival chatbots like ChatGPT, but can’t afford to back artificial intelligence that ... the owner of Facebook, WhatsApp and Instagram, unveiled a chatbot of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/02/07/technology/meta-artificial-intelligence-chatgpt.html",
-      "originalUrl": "https://www.nytimes.com/2023/02/07/technology/meta-artificial-intelligence-chatgpt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/08/business/META-AI-illo-Furler/META-AI-illo-Furler-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/02/07/technology/meta-artificial-intelligence-chatgpt.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/07/technology/meta-artificial-intelligence-chatgpt.amp.html",
-      "publishedDateTime": "2023-02-07T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

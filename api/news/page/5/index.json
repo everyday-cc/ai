@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-23-biomarker-identified-that-helps-diagnose-cause-of-cognitive-decline.md",
+      "title": "Biomarker identified that helps diagnose cause of cognitive decline",
+      "excerpt": "It can be difficult to determine whether cognitive decline in older adults is caused by vascular problems or dementia. New research has now identified a biomarker associated with the vascular ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/",
+      "originalUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/0da5c46/2147483647/strip/true/crop/2000x1333+0+1/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0d%2Fd4%2F6519632142a783a09701f8ac2aed%2Fdepositphotos-232740318-l.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/?amp=true",
+      "publishedDateTime": "2023-02-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-23-ai-accelerator-chip-market-2023-is-set-to-fly-excessive-growth-in-years-to-come.md",
       "title": "AI Accelerator Chip Market 2023 Is Set to Fly Excessive Growth in Years to Come",
       "excerpt": "AI Accelerator Chip Market Analysis 2023 (Pre and Post Covid is covered and Report Customization is available):",
@@ -756,7 +808,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1095,49 +1148,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-artificial-intelligence-in-fashion.md",
-      "title": "Artificial Intelligence In Fashion",
-      "excerpt": "As an AI enthusiast, I can tell you that artificial intelligence is quickly becoming a game-changer in the fashion industry. From design to marketing and sales, AI is affecting everything and offering businesses new opportunities to streamline their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/02/21/artificial-intelligence-in-fashion/amp/",
-      "publishedDateTime": "2023-02-21T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

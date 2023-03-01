@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-28-ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it.md",
+      "title": "AI Takeover: Coca-Cola And Snap Embrace ChatGPT While Banks Ban It",
+      "excerpt": "As excitement and fears build for generative AI, battle lines are being drawn between early adopters and those barring it. Here's a look at which companies are coming out in front.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fd3193ec46bc6e911778bc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/",
+      "publishedDateTime": "2023-02-27T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real.md",
       "title": "In The Age Of Artificial Intelligence, We Need Our Human Skills To Keep It Real",
       "excerpt": "We're still early in the “hype cycle” of inflated expectations and fears, but in a world increasingly driven by artificial intelligence, we’ll need humans at the wheel more than ever.",
@@ -62,7 +113,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-robots-market-2023-2028-opportunities-and-challenges-133-pages-2023-02-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 282,
+      "heat": 272,
       "tags": null,
       "images": [
         {
@@ -415,7 +466,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-research-report-forecast-2023-to-2029-2023-02-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 271,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -1181,58 +1232,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.md",
-      "title": "Why Do A.I. Chatbots Tell Lies and Act Weird? Look in the Mirror.",
-      "excerpt": "One of the pioneers of artificial intelligence argues that chatbots are often prodded into producing strange results by the people who are using them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.html",
-      "originalUrl": "https://www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/27/business/00AI-TRUTH/00AI-TRUTH-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.amp.html",
-      "publishedDateTime": "2023-02-26T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

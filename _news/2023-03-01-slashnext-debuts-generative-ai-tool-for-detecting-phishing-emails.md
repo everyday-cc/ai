@@ -79,8 +79,8 @@ related:
         isCached: true
   - title: "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages"
     excerpt: "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market."
-    publishedDateTime: 2023-02-24T15:32:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/02/24/9766176.htm"
+    publishedDateTime: 2023-02-24T15:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/02/24/9766176.htm"
     type: article
     provider:
       name: TMCnet

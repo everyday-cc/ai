@@ -280,15 +280,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 35
-  - title: "Microsoft Just Starting To Hit Next Gear Of Growth, Backed By ChatGPT And AI, Analyst Says"
-    excerpt: "Azure/Office 365, along with AI monetization on Azure with consumer search piece will likely add $20/share in 12-18 month: Ives The analyst expects Activision deal to close by late summer. The Microsoft Analyst: Wedbush analyst Daniel Ives maintained an ..."
-    publishedDateTime: 2023-02-24T10:16:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/02/31043193/microsoft-just-starting-to-hit-next-gear-of-growth-backed-by-chatgpt-and-ai-analyst"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
   - title: "The Funded: AI rivals Google and Microsoft have teamed up on a $65M funding round for a new AI startup"
     excerpt: "Microsoft and Google and battling over so-called generative AI. But they've found common ground in funding a new startup in the field founded by Adobe's former CTO."
     publishedDateTime: 2023-02-27T15:53:00Z
@@ -299,6 +290,6 @@ related:
       domain: bizjournals.com
     quality: 20
 
-secured: "KDWAtPxqz1HtZJxanJIOE0rHhBWBlam9QLCu5WaNt/NPLSOacA+jlmiAQZyKa1OYGDqiC7hX00f+JLOib6/w/OgvXj4kXk46iqI7T0DR/Joezh5QvcQi88qFU8CaMUgRghiQAMeTX7ovflTURtRz5hycq/hDuQUIQ7EySEVzQJpgY6XeOlZTHC425VToG1GKSUpzO2mNAQ6z7mxaI37jTNwumhTd1A8yUZH20mlapmCxVADDtjSkH0ZmwJkvrn5gPrmn1kcA++gfQ6OkarZMRhEfihIF5DRZALqegTzmWvJonX7JsnrOW2gTgZQxW2zFxcE7q9S8MScC0T9uLfhsIQ3gpAx8d18z81+ACgD0k40=;h54br0ZZiQhGjyP3qOra7g=="
+secured: "PKhYXQ2nJUf4PQV0WkACkSBkVK9wRafiZuAntg2X7X423TeNGhEOB9FCITj0V+TtcEyDTp7j/+vvyfFZdKImRdmj47J2akjDJKIWjFO5fWx6Y28VHS09LaCJPDx5wTwG8SXZjMugqQ08y7GiDbJFrmqKD9E6zm7w6eH+yExg6wKxf4fUoSwoJl2osOLmwWuNqmS1EwRXLoEpf3ynK1QMXP/qUjbptVx8n7VuGMsrnyWNnF9itzGW0TwYCCp28kvptMS4tgCTj7dwC2G9anFHCQPgDNyLNMQsrjTbsosl8xncpPVZiV0g5iW2bA+nVKIBsv1MydYRbFN4U23C5WkkYWNR1iKheHHvrnTjdsBAYr3zoihc1NWrBJBv6xYMzjX07g1pbt+OU6jeT/s9Pkd3Uc+yUL8bCu1YaH7oTdYhqd1VpHZhhy/vATISPe3Gv113E1Q1eNJVVXt7oWOvBeVxU/zb9msaqulbEmACFV0tcr3Vb/mKv2gkVDtPrBk75GB9b7mcoD+xLso2AzFngiK5JQ==;Qder08hXt8FCzrPvxSBPJQ=="
 ---
 

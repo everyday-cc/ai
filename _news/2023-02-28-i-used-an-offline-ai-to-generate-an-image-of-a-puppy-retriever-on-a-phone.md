@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/qualcomm-offline-ai-image-generat
 webUrl: "https://www.androidauthority.com/qualcomm-offline-ai-image-generator-3290206/"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Your Android phone might soon be able to generate AI images in seconds"
-    excerpt: "Qualcomm used a phone powered by the Snapdragon 8 Gen 2 chip to generate an AI image of a cat wearing armor. Here's how they did it."
-    publishedDateTime: 2023-02-24T09:30:00Z
-    webUrl: "https://www.androidauthority.com/qualcomm-android-ai-image-generation-3289045/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 49
 
 secured: "K2QfEfkqOO2UzStjHYF0qTHTGNyrPfxbq+ZXneVJDiYFN5B26he+3ED/LoLqt7tzFY2LBiPSfb/Cez5G+AMQPab4qS+tpJJccoy2iqPKPe+J7NTeFoONMyOufaHBKZf71O+CSf/iXB+2SZotyT67ZbHdmXywBdt7pKpi9c/vTygqWBLf0rFVwmgKyjPfELwmmFHL0FE34KPfTFkWvMs1vZq+JTmtJGqqkT8bnCnhgdnlsjKv+ixz6cgO9gUGWMx8SLKsoOfY9jiKOLv+LehcK08LfJYF9iCA4QKU33XlzYcgJfvPzAiRbYIflC3GyBvZIDXU5amwpSXYqNr8vsrylV7FqBhp4C6EUIYaA5NDckyUGvrppvGgDE5lcQJkxkn4Umu8IQGRfwDPtho8mevHTZXQDOahDMDBHVgB7OQGiRNOjdGypmWu5CUz6Dza/ODoN4WIv7cOCZFTdkCC6Adc+HahMdoTz26yG4HKOAkxKmc4DS1Wq+cIWcXn/06olKT7HeKA/X+v4DsFcwtmX/jQLw==;FLNT/y/JvM3at6G3CdP4jQ=="
 ---

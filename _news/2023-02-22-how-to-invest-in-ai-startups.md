@@ -13,6 +13,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdnwp-s3.benzinga.com/wp-content/uploads/2021/12/01175321/zblw0fg8xu8-768x598.jpg?width=1200&height=800&fit=crop"

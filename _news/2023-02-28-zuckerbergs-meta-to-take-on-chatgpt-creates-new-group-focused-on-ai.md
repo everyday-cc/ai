@@ -185,22 +185,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "I wrote a novel with ChatGPT. Authors, have no fear, your jobs are safe — but AI will give you great ideas."
-    excerpt: "Sergi Arguimbau, a senior mobile developer at the unicorn startup ManoMano, published his AI-generated book on Amazon."
-    publishedDateTime: 2023-02-24T10:10:00Z
-    webUrl: "https://www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/i-wrote-novel-chatgpt-author-fear-jobs-safe-ai-ideas-2023-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/63f69b465ca81e001855cc68?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "LLaMA, Meta’s New AI Language Model is Not Your Average ChatGPT"
     excerpt: "By releasing LLaMA under a noncommercial license that is focused on research use cases, Meta is granting open access to the model."
     publishedDateTime: 2023-02-25T07:47:00Z
@@ -316,22 +300,6 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/27/image/jpeg/1t6BjRZn3zQgI3t7pKhgevrQiYdcwpQK5zx2iqLk.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "ChatGPT Thinks Americans Are Excited About AI. Most Are Not."
-    excerpt: "ChatGPT did not write this article. I will admit that I did ask the AI chatbot to write an 800-word article in FiveThirtyEight’s style about current public opinion on AI chatbots like ChatGPT, but our collaboration disintegrated amid editorial differences."
-    publishedDateTime: 2023-02-24T11:00:00Z
-    webUrl: "https://fivethirtyeight.com/features/chatgpt-thinks-americans-are-excited-about-ai-most-are-not/"
-    ampWebUrl: "https://fivethirtyeight.com/features/chatgpt-thinks-americans-are-excited-about-ai-most-are-not/amp/"
-    cdnAmpWebUrl: "https://fivethirtyeight-com.cdn.ampproject.org/c/s/fivethirtyeight.com/features/chatgpt-thinks-americans-are-excited-about-ai-most-are-not/amp/"
-    type: article
-    provider:
-      name: FiveThirtyEight
-      domain: fivethirtyeight.com
-    quality: 57
-    images:
-      - url: "https://fivethirtyeight.com/wp-content/uploads/2023/02/0224_POLLA-16x9-1.png?w=712"
-        width: 712
-        height: 400
         isCached: true
   - title: "Hollywood’s onto artificial intelligence’s new shtick ChatGPT"
     excerpt: "Even unreal Hollywood’s onto artificial intelligence’s new shtick ChatGPT. On late-night TV, “The Morning Show’s” Jimmy Kimmel demonstrated ChatGPT writing a script on command without droning on how the stuff beats what pros dish out."

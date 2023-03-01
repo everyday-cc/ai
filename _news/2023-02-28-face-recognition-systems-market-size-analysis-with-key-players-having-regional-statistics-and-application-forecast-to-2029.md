@@ -214,20 +214,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-  - title: "Artificial Intelligence In Small And Medium Business Market Research: Dos and Don'ts during Forecast Period 2023 to 2027"
-    excerpt: "The “Artificial Intelligence In Small And Medium Business market“ is set to experience magnificent growth in the"
-    publishedDateTime: 2023-02-24T10:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-research-dos-and-donts-during-forecast-period-2023-to-2027-2023-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech & Voice Recognition Systems Market Report with Executive Summary, Size, Analysis and Forecast to 2023-2028"
     excerpt: "Speech and Voice Recognition Systems Market\" is expected to grow at a steady growth during the forecast period"
     publishedDateTime: 2023-02-27T11:52:00Z

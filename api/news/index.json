@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-01-how-the-latest-ai-generated-copyright-loss-could-add-friction-to-music-and-technologys-complicated-relationship.md",
+      "title": "How The Latest AI-Generated Copyright Loss Could Add Friction To Music And Technology’s Complicated Relationship",
+      "excerpt": "With the acceleration of creative tools powered by AI, new challenges for creators and lawmakers create friction in emerging technology genre.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jacquelineschneider/2023/02/28/how-latest-ai-generated-copyright-loss-could-add-friction-to-music-and-technologys-complicated--relationship/",
+      "originalUrl": "https://www.forbes.com/sites/jacquelineschneider/2023/02/28/how-latest-ai-generated-copyright-loss-could-add-friction-to-music-and-technologys-complicated--relationship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fc349173308b72ab147637/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jacquelineschneider/2023/02/28/how-latest-ai-generated-copyright-loss-could-add-friction-to-music-and-technologys-complicated--relationship/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacquelineschneider/2023/02/28/how-latest-ai-generated-copyright-loss-could-add-friction-to-music-and-technologys-complicated--relationship/amp/",
+      "publishedDateTime": "2023-02-28T16:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-how-customizing-models-is-bringing-generative-ai-to-the-enterprise.md",
       "title": "How customizing models is bringing generative AI to the enterprise",
       "excerpt": "SambaNova Systems today launched SambaNova Suite, which aims to help enterprises build and deploy customized generative AI models.",
@@ -495,7 +546,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 316,
+      "heat": 306,
       "tags": null,
       "images": [
         {
@@ -791,7 +842,7 @@
       "originalUrl": "https://www.androidauthority.com/qualcomm-offline-ai-image-generator-3290206/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1168,57 +1219,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it.md",
-      "title": "AI Takeover: Coca-Cola And Snap Embrace ChatGPT While Banks Ban It",
-      "excerpt": "As excitement and fears build for generative AI, battle lines are being drawn between early adopters and those barring it. Here's a look at which companies are coming out in front.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fd3193ec46bc6e911778bc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/",
-      "publishedDateTime": "2023-02-27T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

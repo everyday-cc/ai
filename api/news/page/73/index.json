@@ -2,6 +2,49 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2023-01-04-nvidia-unveils-advances-in-autonomous-robotics-simulation-using-ai.md",
+      "title": "Nvidia unveils advances in autonomous robotics simulation using AI",
+      "excerpt": "Nvidia Corp. today at CES 2023 announced major updates to Isaac Sim, its robotics simulation tool that allows designers and engineers to build and test virtual robots in realistic environments, such as warehouses,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/01/03/nvidia-unveils-advances-autonomous-robotics-simulation-using-ai/",
+      "originalUrl": "https://siliconangle.com/2023/01/03/nvidia-unveils-advances-autonomous-robotics-simulation-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/Isaac-Sim-Improves-RTX-Lidar-and-Sensor-Support.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-04-deep-learning-model-can-detect-disease-causing-mosaic-mutations.md",
       "title": "Deep-Learning Model Can Detect Disease-Causing Mosaic Mutations",
       "excerpt": "California-based researchers described how they trained a deep-learning model to detect DNA mutations called mosaic mutations that could support the development of treatments for several diseases.",
@@ -1043,40 +1086,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-deep-learning-can-predict-tsunami-impacts-in-less-than-a-second.md",
-      "title": "Deep Learning Can Predict Tsunami Impacts in Less Than a Second",
-      "excerpt": "Researchers at Japan's RIKEN Prediction Science Laboratory applied deep learning to predict the impact of tsunamis in less than a second.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/268368-deep-learning-can-predict-tsunami-impacts-in-less-than-a-second",
-      "originalUrl": "https://cacm.acm.org/news/268368-deep-learning-can-predict-tsunami-impacts-in-less-than-a-second",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -277,15 +277,6 @@ related:
       name: MyBroadband
       domain: mybroadband.co.za
     quality: 35
-  - title: "Microsoft Just Starting To Hit Next Gear Of Growth, Backed By ChatGPT And AI, Analyst Says"
-    excerpt: "Azure/Office 365, along with AI monetization on Azure with consumer search piece will likely add $20/share in 12-18 month: Ives The analyst expects Activision deal to close by late summer. The Microsoft Analyst: Wedbush analyst Daniel Ives maintained an ..."
-    publishedDateTime: 2023-02-24T10:16:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/02/31043193/microsoft-just-starting-to-hit-next-gear-of-growth-backed-by-chatgpt-and-ai-analyst"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
   - title: "The Funded: AI rivals Google and Microsoft have teamed up on a $65M funding round for a new AI startup"
     excerpt: "Microsoft and Google and battling over so-called generative AI. But they've found common ground in funding a new startup in the field founded by Adobe's former CTO."
     publishedDateTime: 2023-02-27T15:53:00Z

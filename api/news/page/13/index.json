@@ -2,6 +2,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-02-15-postdoctoral-fellow-mathematicalstatistical-imaging-and-computer-vision.md",
+      "title": "Postdoctoral Fellow - Mathematical/Statistical Imaging and Computer Vision",
+      "excerpt": "The successful candidate will work under the supervision of Dr. Weihong Guo (Department of Mathematics, Applied Mathematics, and Statistics) and Dr. Shuo Li (Departments of Biomedical Engineering and Computer and Data Science) at Case Western Reserve ...",
+      "sourceUrl": null,
+      "webUrl": "https://case.edu/academic-careers/postdoctoral-fellow-mathematicalstatistical-imaging-and-computer-vision",
+      "originalUrl": "https://case.edu/academic-careers/postdoctoral-fellow-mathematicalstatistical-imaging-and-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Case Western Reserve University",
+        "domain": "case.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-14-measure-the-business-impact-of-amazon-personalize-recommendations.md",
       "title": "Measure the Business Impact of Amazon Personalize Recommendations",
       "excerpt": "We’re excited to announce that Amazon Personalize now lets you measure how your personalized recommendations can help you achieve your business goals. After specifying the metrics that you want to track, you can identify which campaigns and recommenders are most impactful and understand the impact of",
@@ -1105,59 +1139,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk.md",
-      "title": "Configure an AWS DeepRacer environment for training and log analysis using the AWS CDK",
-      "excerpt": "This post is co-written by Zdenko Estok, Cloud Architect at Accenture and Sakar Selimcan, DeepRacer SME at Accenture. With the increasing use of artificial intelligence (AI) and machine learning (ML) for a vast majority of industries (ranging from healthcare to insurance, from manufacturing to marketing),",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/13/configure-an-aws-deepracer-environment.jpg",
-          "width": 1567,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T10:23:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
       ]
     }
   ],
