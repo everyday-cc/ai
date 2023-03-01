@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-15-waking-up-to-the-art-of-the-possible-in-artificial-intelligence.md",
+      "title": "Waking Up To The “Art Of The Possible” In Artificial Intelligence",
+      "excerpt": "The excitement about Chat GPT is “waking up” a non-technical business leaders to the vast potential of AI and Machine Learning (ML) to fuel new revenue and profit growth. This article profiles 20 financially viable use cases for AI in sales and marketing applications - and 6 keys to deploying them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ece0df87d17dd26b2ed0f8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1163,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-02-15T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-02-15-four-ways-artificial-intelligence-can-benefit-robotic-surgery.md",
       "title": "Four Ways Artificial Intelligence Can Benefit Robotic Surgery",
       "excerpt": "Artificial intelligence (AI) meets us in our everyday lives ... care in a process that would significantly benefit both surgeons and patients. Surgical robotics is one of the next frontiers for optimizing AI. Following are four ways robotic surgery ...",
@@ -1206,51 +1258,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-the-13-top-vc-firms-dedicated-to-investing-in-artificial-intelligence-and-machine-learning-that-founders-should-know.md",
-      "title": "The 13 top VC firms dedicated to investing in artificial intelligence and machine learning that founders should know",
-      "excerpt": "Here are the 13 top VC firms dedicated to AI and ML investing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/top-venture-capital-firms-investing-artificial-intelligence-machine-learning-2023-2",
-      "originalUrl": "https://www.businessinsider.com/top-venture-capital-firms-investing-artificial-intelligence-machine-learning-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "AI in Healthcare"
       ]
     }
   ],

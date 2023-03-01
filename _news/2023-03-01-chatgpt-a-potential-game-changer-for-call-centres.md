@@ -42,15 +42,6 @@ related:
       name: 腾讯网
       domain: qq.com
     quality: 19
-  - title: "Meta Steps Up Chatbot Buzz, Announces Research Tool LLaMA as Rival to Microsoft's ChatGPT, Google's LaMDA"
-    excerpt: "LLaMA is Meta’s latest entry in the realm of large language models, which “have shown a lot of promise in generating text, having conversations...\""
-    publishedDateTime: 2023-02-24T19:07:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/meta-chatbot-buzz-new-tool-training-ai-systems-llama-google-microsoft-chatgpt-lamda-3812598"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 4
 
 secured: "xV3TnIbsU8QbdrESgaEjc1QHyw+0Qfk202R4AzipCFGDJB/qXufr+YbhtdzY9iNthL/usYNfJPtg1PHR+60mGzOnSIQ0TbWXud/Z4kPQM5hEsYYA+p8R+qE+5rIVPrruCwf+3glpKnc6XFxJz+H86+lNF2HYB7Xc4A4alurYJyhk7WLfyFiRQvbxeECt1egbovLnPGW6WCOeNCKS/Ocb+vHOB1m3VbxH8dRr/JMyE6FneUeKGALDMdMte0anf5uvRIpBXhW8ygSRJWmjP2i1SFfMdfRWpDA5nhVb8NtBnxG41/jUEldVcHgBhdBK49YXK3OrQxDqyj4wjhG7ruf9083CsALUpsWowpJEx0GRRQJMQFbhgelHwYpLyAFafwNWUn0DJ7VQgQGBEgO/1hqEltLMu9cCIQn2pmcqyDIGc+veEnZk1hKCpunA9zeyZEBwLAa6NT6wucPDH9+6JqH2jRKnPioZquyH+K4PdL/vzmBs7QUTzuGZcN2OVX14AYR6ByqUJticV56Cl9F7HBJgmw==;j8eXMZa98UhaYFeTelBgQQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-
 webUrl: "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/"
 type: article
 quality: 77
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -21,6 +21,24 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+related:
+  - title: "Workers & artificial intelligence: The must-have skills for new era that’s upon the world"
+    excerpt: "Artificial intelligence will definitely change how professional work is done. Will AI replace humans in these cognitive professions, much as machines have replaced humans performing manual labor? When answering this question,"
+    publishedDateTime: 2023-03-01T10:34:00Z
+    webUrl: "https://wraltechwire.com/2023/03/01/workers-artificial-intelligence-the-must-have-skills-for-new-era-thats-upon-the-world/"
+    ampWebUrl: "https://wraltechwire.com/2023/03/01/workers-artificial-intelligence-the-must-have-skills-for-new-era-thats-upon-the-world/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/03/01/workers-artificial-intelligence-the-must-have-skills-for-new-era-thats-upon-the-world/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 52
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
+        isCached: true
 
 secured: "/3S4pvswaNpJyLw8ERVhv79ncmytOhJHtIvy3uMqaqq+ZKfta31sTm4iaLpg0HvsOm19V9w7uj/ksdWyO6HeXI5p0Y4C8cf4kRIUs6HdGASR3M5abCoyatuH4oysZfDunNN5HVAcmARnFm0oVB2T0XgurZUpSj+xzHmxlEDoNePfD58nKUvTco24vFws97CqMZlpAwL9bpxyo7Wr0mCfeVHqMJ+TZk0yquRA+BLahwjiUifKTgIfbx5Is0mYJydt6A84zPZvI7Zj2VH2UnETboHowGqhxT1TMnHe8mvn82B0VtYxex+w4zChmXXdj6X1VXaCLbAOx/0RZgHJYMtehYiTdrQ0NuRgz5bpMztgBCY=;1ssM/JB98XqoaVfSdiI1Ng=="
 ---

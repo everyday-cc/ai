@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-01-ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you.md",
+      "title": "Ketamine-Assisted Therapy Coming Soon To An HR Department Near You",
+      "excerpt": "The controversial medication Ketamine is the only legal psychedelic medicine becoming more popular to treat mental health, and it's finding it's way into the workplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/",
+      "originalUrl": "https://www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63e638794656f9a9c2f721e5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/amp/",
+      "publishedDateTime": "2023-03-01T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-majority-of-americans-would-not-rely-on-ai-based-healthcare.md",
       "title": "Majority of Americans Would Not Rely on AI-Based Healthcare",
       "excerpt": "A recent survey found that 60 percent of Americans would not be comfortable with their providers relying on artificial intelligence to provide healthcare services.",
@@ -206,8 +258,8 @@
       "title": "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages",
       "excerpt": "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market.",
       "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/02/24/9766176.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/02/24/9766176.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/02/24/9766176.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/02/24/9766176.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -217,7 +269,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T07:32:00-08:00",
+      "publishedDateTime": "2023-02-24T07:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -1401,58 +1453,6 @@
       "topics": [
         "AI",
         "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-waking-up-to-the-art-of-the-possible-in-artificial-intelligence.md",
-      "title": "Waking Up To The “Art Of The Possible” In Artificial Intelligence",
-      "excerpt": "The excitement about Chat GPT is “waking up” a non-technical business leaders to the vast potential of AI and Machine Learning (ML) to fuel new revenue and profit growth. This article profiles 20 financially viable use cases for AI in sales and marketing applications - and 6 keys to deploying them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ece0df87d17dd26b2ed0f8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1163,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2023/02/15/waking-up-to-the-art-of-the-possible-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-02-15T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Healthcare"
       ]
     }

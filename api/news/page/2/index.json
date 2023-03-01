@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -92,6 +92,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-hollywoods-onto-artificial-intelligences-new-shtick-chatgpt.md",
+      "title": "Hollywood’s onto artificial intelligence’s new shtick ChatGPT",
+      "excerpt": "Even unreal Hollywood’s onto artificial intelligence’s new shtick ChatGPT. On late-night TV, “The Morning Show’s” Jimmy Kimmel demonstrated ChatGPT writing a script on command without droning on how the stuff beats what pros dish out.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/02/27/hollywoods-onto-artificial-intelligences-new-shtick-chatgpt/",
+      "originalUrl": "https://nypost.com/2023/02/27/hollywoods-onto-artificial-intelligences-new-shtick-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/02/NYPICHPDPICT000007057194-e1677537779321.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/02/27/hollywoods-onto-artificial-intelligences-new-shtick-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/27/hollywoods-onto-artificial-intelligences-new-shtick-chatgpt/amp/",
+      "publishedDateTime": "2023-02-27T15:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -215,7 +257,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 90,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -248,6 +290,57 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it.md",
+      "title": "AI Takeover: Coca-Cola And Snap Embrace ChatGPT While Banks Ban It",
+      "excerpt": "As excitement and fears build for generative AI, battle lines are being drawn between early adopters and those barring it. Here's a look at which companies are coming out in front.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fd3193ec46bc6e911778bc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/",
+      "publishedDateTime": "2023-02-27T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -466,7 +559,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-ai-chatbot-powered-by-openai-s-gpt-technology",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -612,7 +705,7 @@
       "originalUrl": "https://venturebeat.com/ai/openai-has-grand-plans-for-agi-heres-another-way-to-read-its-manifesto-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -873,7 +966,7 @@
       "originalUrl": "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -916,7 +1009,7 @@
       "originalUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1011,7 +1104,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1138,102 +1231,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-2023-computer-vision-in-artificial-intelligence-ai-market-is-thriving-worldwide-by-2029.md",
-      "title": "2023, Computer Vision in Artificial Intelligence (AI) Market is thriving worldwide by 2029",
-      "excerpt": "Computer Vision in Artificial Intelligence (AI) Market Size 2023-2029 | New Report (128 Pages) | Information Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-in-artificial-intelligence-ai-market-is-thriving-worldwide-by-2029-2023-02-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-in-artificial-intelligence-ai-market-is-thriving-worldwide-by-2029-2023-02-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 381,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T19:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-how-ai-marketing-tools-can-help-smes-start-ups-take-the-big-leap.md",
-      "title": "How AI marketing tools can help SMEs & start-ups take the big leap",
-      "excerpt": "In today’s edition of TechTalk, we explore the untapped potential of technology by SMEs and start-ups in India and what tools will help them reach to maximum audience",
-      "sourceUrl": null,
-      "webUrl": "https://www.exchange4media.com/digital-news/how-ai-marketing-tools-can-help-smes-start-up-take-the-big-leap-125583.html",
-      "originalUrl": "https://www.exchange4media.com/digital-news/how-ai-marketing-tools-can-help-smes-start-up-take-the-big-leap-125583.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.exchange4media.com/news-photo/125466-e4mtech.jpg",
-          "width": 730,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.exchange4media.com/amp/digital-news/how-ai-marketing-tools-can-help-smes-start-up-take-the-big-leap-125583.html",
-      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/how-ai-marketing-tools-can-help-smes-start-up-take-the-big-leap-125583.html",
-      "publishedDateTime": "2023-02-26T19:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Exchange 4 Media",
-        "domain": "exchange4media.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

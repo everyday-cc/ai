@@ -68,22 +68,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta announces new AI language model"
-    excerpt: "Feb. 24 (UPI) --Meta CEO Mark Zuckerberg announced Friday that the company was releasing a new AI language generator named LLaMA. The new language model is a research tool that is intended to help scientists and engineers explore applications for AI like ..."
-    publishedDateTime: 2023-02-24T19:14:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2023/02/24/Meta-AI-Chat-GPT-Bing-Google-Mark-Zuckerber/6381677267118/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2023/02/24/Meta-AI-Chat-GPT-Bing-Google-Mark-Zuckerber/6381677267118/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/02/24/Meta-AI-Chat-GPT-Bing-Google-Mark-Zuckerber/6381677267118/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 57
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/6381677267118/2023/1/1696bd9d3de6be4a6ca08ac770e4d116/v1.5/Meta-announces-new-AI-language-model.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Meta to release AI-based language model for researchers"
     excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
     publishedDateTime: 2023-02-27T18:04:00Z

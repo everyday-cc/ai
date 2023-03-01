@@ -2,6 +2,186 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-02-17-can-robotics-and-ai-save-us-from-ourselves.md",
+      "title": "Can Robotics and AI Save us from Ourselves?",
+      "excerpt": "In reality, it now appears that robots and artificial intelligence (AI) may help be one of the saviors ... As this technology grows, we could start seeing it used on a larger scale to provide for people who’re stuck in their homes.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/can-robotics-and-ai-save-us-ourselves",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/can-robotics-and-ai-save-us-ourselves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/6849272319_a3cb362b70_h_700W.jpg",
+          "width": 700,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
+      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
+      "excerpt": "DN: How do artificial intelligence and other advanced technologies help in ... contact with their team or is injured and unable to communicate. DN: Explain how robot technology can be used to help with the California wildfires. Karen Panetta: In ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
+      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-manufacturing-predictions-for-the-next-decade.md",
+      "title": "Manufacturing Predictions for the Next Decade",
+      "excerpt": "“This will involve robotics improving through artificial intelligence, and that artificial intelligence will improve through collaboration with people.” Putman predicts that we’ll see the robot market produce equipment this is increasingly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/manufacturing-predictions-next-decade",
+      "originalUrl": "https://www.designnews.com/automation/manufacturing-predictions-next-decade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/feature_1.jpeg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-watch-next-gen-artificial-intelligence-rocket-league-bots-learn-live-on-twitch.md",
+      "title": "Watch Next-Gen Artificial Intelligence ‘Rocket League’ Bots Learn Live On Twitch",
+      "excerpt": "Now you can watch as the next generation of AI-powered Rocket League bots apply what they’re learning live on Twitch. On stream are the latest and greatest AI bots that are trained in RLGym, a machine learning environment that enables Rocket League bots to learn to play via API at 800 times the normal game speed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/maxthielmeyer/2023/02/16/watch-next-gen-artificial-intelligence-rocket-league-bots-learn-live-on-twitch/",
+      "originalUrl": "https://www.forbes.com/sites/maxthielmeyer/2023/02/16/watch-next-gen-artificial-intelligence-rocket-league-bots-learn-live-on-twitch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634b6c7e95bd1497de8e9c6e/0x0.jpg?format=jpg&crop=3690,2076,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maxthielmeyer/2023/02/16/watch-next-gen-artificial-intelligence-rocket-league-bots-learn-live-on-twitch/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maxthielmeyer/2023/02/16/watch-next-gen-artificial-intelligence-rocket-league-bots-learn-live-on-twitch/amp/",
+      "publishedDateTime": "2023-02-16T15:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-nonconsensual-deepfake-porn-puts-ai-in-spotlight.md",
       "title": "Nonconsensual deepfake porn puts AI in spotlight",
       "excerpt": "In its annual \"worldwide threat assessment,\" top US intelligence officials have warned in recent years of the threat posed by so-called deepfakes -- convincing fake videos made using artificial intelligence.",
@@ -1042,205 +1222,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-machine-learning-helps-determine-success-of-advanced-genome-editing.md",
-      "title": "Machine learning helps determine success of advanced genome editing",
-      "excerpt": "These data were then used to train a machine learning algorithm to help researchers design the best fix for a given genetic flaw, which promises to speed up efforts to bring prime editing into the clinic. Base editors were an innovation expanding on CRISPR ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-02-machine-success-advanced-genome.html",
-      "originalUrl": "https://phys.org/news/2023-02-machine-success-advanced-genome.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/crispr-1.jpg",
-          "width": 1915,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-02-machine-success-advanced-genome.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-machine-success-advanced-genome.amp",
-      "publishedDateTime": "2023-02-16T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-fraudsters-are-using-machine-learning-to-help-write-scam-emails-in-different-languages.md",
-      "title": "Fraudsters are using machine learning to help write scam emails in different languages",
-      "excerpt": "Business Email Compromise attacks are effective and costly -- and by using translation tools, attackers are going after a wider range of potential victims.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/fraudsters-are-using-machine-learning-to-help-write-scam-emails-in-different-languages/",
-      "originalUrl": "https://www.zdnet.com/article/fraudsters-are-using-machine-learning-to-help-write-scam-emails-in-different-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d9786550c67acbeb1602d3fb710cd24875c75f9b/2023/02/16/5b62641b-4d10-498a-aab0-58ff38683275/getty-a-businesswoman-looking-at-a-laptop-while-alsoe-examining-paperwork.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fraudsters-are-using-machine-learning-to-help-write-scam-emails-in-different-languages/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fraudsters-are-using-machine-learning-to-help-write-scam-emails-in-different-languages/",
-      "publishedDateTime": "2023-02-16T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-generative-ai-and-rpawhy-your-business-needs-both.md",
-      "title": "Generative AI And RPA—Why Your Business Needs Both",
-      "excerpt": "Together, generative AI and RPA have the power to free up your workforce to focus on more meaningful work. Find out why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/02/16/generative-ai-and-rpa-why-your-business-needs-both/",
-      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/02/16/generative-ai-and-rpa-why-your-business-needs-both/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ed74ef4e58e03b342ed0f6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/02/16/generative-ai-and-rpa-why-your-business-needs-both/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/02/16/generative-ai-and-rpa-why-your-business-needs-both/amp/",
-      "publishedDateTime": "2023-02-16T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-github-copilot-expands-market-for-ai-code-generation-with-new-business-plan.md",
-      "title": "GitHub Copilot expands market for AI code generation with new business plan",
-      "excerpt": "A new enterprise plan for GitHub AI-powered Copilot will provide better coding suggestions, code context and code security.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/github-copilot-expands-market-for-ai-code-generation-with-new-business-plan/",
-      "originalUrl": "https://venturebeat.com/ai/github-copilot-expands-market-for-ai-code-generation-with-new-business-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/github-copilot-expands-market-for-ai-code-generation-with-new-business-plan/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/github-copilot-expands-market-for-ai-code-generation-with-new-business-plan/amp/",
-      "publishedDateTime": "2023-02-16T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

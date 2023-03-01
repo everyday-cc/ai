@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leve
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63f774f52430dcaed98ba854/0x0.jpg?format=jpg&width=1200"
         width: 640
         height: 426
-        isCached: true
-  - title: "Altai Ventures Launches Fund to Help Insurtech, Fintech Founders"
-    excerpt: "Altai Ventures, an early-stage venture capital firm, recently announced the closing of Altai Ventures Fund II, LP (focused on Fintech)."
-    publishedDateTime: 2023-02-24T20:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/02/202912-altai-ventures-launches-fund-to-help-insurtech-fintech-founders/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Dollars-Money-Cash-Pay-768x1024.jpeg"
-        width: 768
-        height: 1024
         isCached: true
   - title: "This Hong Kong fintech employs AI technology to promise collateral-free loans to city’s small businesses"
     excerpt: "FundPark, a fintech-focused platform for trade finance ... he added. “Through AI technology and data analysis, our own proprietary risk-management tool develops its predictive model,” Suen ..."

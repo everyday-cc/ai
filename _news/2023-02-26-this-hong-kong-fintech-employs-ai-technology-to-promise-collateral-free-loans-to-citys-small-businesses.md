@@ -55,20 +55,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Altai Ventures Launches Fund to Help Insurtech, Fintech Founders"
-    excerpt: "Altai Ventures, an early-stage venture capital firm, recently announced the closing of Altai Ventures Fund II, LP (focused on Fintech)."
-    publishedDateTime: 2023-02-24T20:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/02/202912-altai-ventures-launches-fund-to-help-insurtech-fintech-founders/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Dollars-Money-Cash-Pay-768x1024.jpeg"
-        width: 768
-        height: 1024
-        isCached: true
   - title: "Exploring 7 of the Latest Technological Trends in Fintech"
     excerpt: "Fintech firms can use both technologies to automate fraud detection and loan origination processes while providing more accurate insights into customer behavior. By leveraging these tools, businesses can cut manual labor  costs while increasing overall performance accuracy and efficiency."
     publishedDateTime: 2023-02-25T21:30:00Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://channelvisionmag.com/slashnext-launches-ai-solution-for-email-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -146,6 +146,59 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-legal-doomsday-for-generative-ai-chatgpt-if-caught-plagiarizing-or-infringing-warns-ai-ethics-and-ai-law.md",
+      "title": "Legal Doomsday For Generative AI ChatGPT If Caught Plagiarizing Or Infringing, Warns AI Ethics And AI Law",
+      "excerpt": "Many people do not know that generative AI such as ChatGPT was data trained by scanning the Internet, which is an approach that some believe unfairly usurps the work of human content creators. Here's a close look at the claims of plagiarizing and copyright infringement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/26/legal-doomsday-for-generative-ai-chatgpt-if-caught-plagiarizing-or-infringing-warns-ai-ethics-and-ai-law/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/26/legal-doomsday-for-generative-ai-chatgpt-if-caught-plagiarizing-or-infringing-warns-ai-ethics-and-ai-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 329,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f9330cbe0758e7b58ba854/0x0.jpg?format=jpg&crop=1799,1348,x96,y0,safe&width=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/26/legal-doomsday-for-generative-ai-chatgpt-if-caught-plagiarizing-or-infringing-warns-ai-ethics-and-ai-law/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/26/legal-doomsday-for-generative-ai-chatgpt-if-caught-plagiarizing-or-infringing-warns-ai-ethics-and-ai-law/amp/",
+      "publishedDateTime": "2023-02-26T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI",
         "Natural Language Processing"
       ]
@@ -1426,49 +1479,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-automotive-voice-recognition-market-emerging-trends-growth-analysis-cagr-and-opportunities-2023-to-2032.md",
-      "title": "Automotive Voice Recognition Market: Emerging Trends, Growth Analysis, CAGR, And Opportunities 2023 To 2032",
-      "excerpt": "The Automotive Voice Recognition System Market was valued at USD 2.50 Billion in 2022, and it is expected to reach USD 3.75 Billion by 2032, registering a CAGR of around 8.75% during the forecast period, 2023–2032. Automotive voice recognition systems ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105555132/Automotive-Voice-Recognition-Market-Emerging-Trends-Growth-Analysis-CAGR-And-Opportunities-2023-To-2032",
-      "originalUrl": "https://menafn.com/1105555132/Automotive-Voice-Recognition-Market-Emerging-Trends-Growth-Analysis-CAGR-And-Opportunities-2023-To-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?103123",
-          "width": 444,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://cdn.vox-cdn.com/thumbor/DBN09iLiUZQKqjen8HjFjGTjzn8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440533/AI_Hands_A_Bernis_02.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips"
@@ -690,6 +697,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "Q05m1SAzeUSW+/B5Yhb2qgXI+5yluFDo7bucwC0CKnqp/8As85H7cZ/+pjRadBYhoQjnDkS6fTOaO2mrXqoiBbpKQzNl6mSD3xFwp55bTtvlaDKGNQ11otm0L1d31mEsq22CijyaxpqU583ufkxSpHn6sKYyq6ahh3d1pH0kWODsy+XwAkUq2bzMvJ+lRAutdxtq3y7RzgwD4i4G10cl8Ciu0IjnVwiLxLRjjjiDb6wc0FmoSYmwA7+YZTBbSLP8ij+yE8i1M2s58CAd8snN+eqCZDay1LHUV+4F9YKUQ85Q+ilzaqJ3Y6CoIUHERJHPlKXrmTlcpmsWaRJVSakXoksUgO+NdMM1qy9X1/wQP/3DtzkdccG3P6rZi8wKD+H3I0ROhEiYFsixfhupUwRHJpD390kq85FESejiM8X1TO03bVgrko/uETe1z6CPzuRAvFt00hpYm4SrulIi/G6dc54Vg3oUX8S+qmn3jhvc4G83lyXOdx8amr5OTxyIgMfJ2BnaO6DHL5gUy14ohsCwAQ==;r8yXkZkEPUpq9fHG5Uj1Pg=="
+secured: "zlQWTdffzHcrgrEVlMcA9KYO4ZkoIA9n8Lba/+rppZp4PlZ1trkd5o0AdY9TFUV7WjmkiUqbSV4zaG23CN+PGnm3/dqM38vIeGxZXC8KBxClFtjKOWvhCEDXbGy2fO/c0XB5ErRZyejagJMvmAlMZ+BkB1oBAHDX3os3N1z8oEKE6QyvQRV8/ard5AenrEmb6TRzkmeOGj7hcB6hJ7t+J++BTJZoJ4TZXAM0zi4txsVdXwiU9nrlSwdox2BX1rmIDSiVdCB21yLvRXIFzLwSVZNwITpY9KlW3XYn8rGt7M+DcvAyqzJLMwH2E1wjg7oaCiVRyd6gdpPPR+5VSurHIDecytm/3t0ygr6fP80J30c=;UltgfJ5kDfrNXMzxs3DQGA=="
 ---
 

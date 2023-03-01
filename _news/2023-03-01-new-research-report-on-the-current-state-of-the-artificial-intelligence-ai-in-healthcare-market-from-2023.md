@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-01T05:35:00Z
 originalUrl: "https://www.marketwatch.com/press-release/new-research-report-on-the-current-state-of-the-artificial-intelligence-ai-in-healthcare-market-from-2023-2023-03-01"
 webUrl: "https://www.marketwatch.com/press-release/new-research-report-on-the-current-state-of-the-artificial-intelligence-ai-in-healthcare-market-from-2023-2023-03-01"
 type: article
-quality: 81
+quality: 83
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

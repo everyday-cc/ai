@@ -64,6 +64,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 19
+  - title: "AlertEnterprise Looks to Transform Physical Security with Reveal of New Security AI Chatbot Powered by ChatGPT"
+    excerpt: "The Guardian AI Chatbot is developed with the world-renowned GPT-3 platform created by OpenAI and is designed to instantly deliver security operators the physical access and security insights that matter most with quick questions and prompts."
+    publishedDateTime: 2023-02-28T14:21:00Z
+    webUrl: "https://www.afp.com/en/news/1313/alertenterprise-looks-transform-physical-security-reveal-new-security-ai-chatbot-powered-chatgpt-202302280056301"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 16
 
 secured: "7VfnAz5yVa8eWiqredmEEdyX9tImXwSWC9FfvjGospwq6wsrp9QuaKcPK3du+v7PQH6jwNnK1HmlmZm7D8FFG9CvD0yGQcjiCCYxH43emwY9r+Wy7I+edzHrZiA9Ys35vGNjoTw6lTaqeP3rU1HEWrvZR7LpIAmIW+ao2JcnrfyISn9PuI3Bieyb9L8lc0qzzDw4BhQJ9QD0N+Z+TSqCEUMFOsHevz2j+zot4uQ3NFxR00QiptGaDC6C9Bszt6aa9OvZIQEMrhRc8Z+F5S76QC6zU1qEfR6ieNgmROof7pbeIwTNhyz3fQe7FR+DBJ6s3T9+HX1QUSJhe6HRcRxoJvFcDC8nji2uPrB9N3svuRwnAzxluEIkqASGVJzGz4EP4z4J6Enpez/WjkusgmfkR6fX2bDude7BN7gB/cUMvO7vekhjhcoxHQoShyPjN7sl6jgcmE2lLacYHu+LSJC2ZRUUbcZis1PzZEqJ3CxxMyeqtQ6Ovvr4+2nly+63ygbbuIjJrNypl2HRKb0Fbdjr2w==;Yo9zghYNnl8SseOOJBHWwg=="
 ---

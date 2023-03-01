@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-01-26-apple-silicon-mac-pro-to-feature-m2-ultra-chip-with-up-to-76-gpu-cores.md",
-      "title": "Apple silicon Mac Pro to feature M2 Ultra chip with up to 76 GPU cores",
-      "excerpt": "Now, the journalist says this machine may lack user-upgradeable GPUs in addition to non-upgradeable RAM, as Apple silicon Macs still don’t support external GPU support. That said, he expects the ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/apple-silicon-mac-pro-to-feature-m2-ultra-chip-with-up-to-76-gpu-cores/",
-      "originalUrl": "https://bgr.com/tech/apple-silicon-mac-pro-to-feature-m2-ultra-chip-with-up-to-76-gpu-cores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-25-nemalife-develops-second-generation-ai-driven-high-throughput-organism-on-chip-screening-platform.md",
       "title": "NemaLife develops second-generation, AI-driven high-throughput organism-on-chip screening platform",
       "excerpt": "NemaLife Inc., a TechBio company, is delighted to announce that it has advanced the capabilities of its high-throughput organism-on-chip screening platform. Evaluating novel ingredients in mammals can take years and cost millions,",
@@ -1361,6 +1327,49 @@
       "provider": {
         "name": "AppleInsider",
         "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-12-stylish-savage-and-smarter-lenovo-unveils-the-worlds-most-powerful-16-inch-ai-tuned-gaming-laptops-and-an-ecosystem-of-gaming-products.md",
+      "title": "Stylish, Savage, and Smarter: Lenovo unveils the world’s most powerful 16-inch AI-tuned gaming laptops and an ecosystem of gaming products",
+      "excerpt": "Lenovo Legion lineup of battle-ready PCs, monitors, and accessories are unveiled, setting a new standard in PC gaming for 2023 that give",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/stylish-savage-and-smarter-lenovo-unveils-world’s-most-powerful-16-inch-ai-tuned-gaming",
+      "originalUrl": "https://www.albawaba.com/business/pr/stylish-savage-and-smarter-lenovo-unveils-world’s-most-powerful-16-inch-ai-tuned-gaming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2023-01/Legion-towers-scaled.jpg?itok=3sQWnrqm",
+          "width": 2048,
+          "height": 1230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/stylish-savage-and-smarter-lenovo-unveils-world%E2%80%99s-most-powerful-16-inch-ai-tuned-gaming",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/stylish-savage-and-smarter-lenovo-unveils-world%E2%80%99s-most-powerful-16-inch-ai-tuned-gaming",
+      "publishedDateTime": "2023-01-12T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -58,6 +58,52 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Snapchat launches an AI chatbot powered by OpenAI’s GPT technology"
+    excerpt: "The company announced today that it's launching \"My AI,\" a new chatbot running the latest version of OpenAI's GPT technology that it has customized for its users."
+    publishedDateTime: 2023-02-27T18:42:00Z
+    webUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/"
+    ampWebUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/ALT-Comms-banner-2.png?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ChatGPT Killed the Radio Star? These AI-Powered Chatbots Can Replace DJs"
+    excerpt: "The RadioGPT system taps OpenAI's GPT-3 language model, along with an AI-generated voice, to create an artificial DJ capable of reading the news during song breaks."
+    publishedDateTime: 2023-02-27T18:04:00Z
+    webUrl: "https://www.pcmag.com/news/chatgpt-killed-the-radio-star-these-ai-powered-chatbots-can-replace-djs"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 66
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04SpOo2lEosf80ttweNfXwU-1.fit_lim.size_1200x630.v1677515547.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Forget chatbots, this is how corporate America is really using AI"
+    excerpt: "References to AI and related terms during calls with investors are already up 77% from a year earlier. It's no wonder. AI-hungry investors have propelled Nvidia Corp., which makes the chips needed for complex AI computing tasks,"
+    publishedDateTime: 2023-03-01T12:41:00Z
+    webUrl: "https://www.business-standard.com/article/technology/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-123030100958_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-123030100958_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-123030100958_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/01/full/1677674444-8776.jpg"
+        width: 620
+        height: 464
+        isCached: true
 
 secured: "XsUyqzAvSE+gtVew4V91aZz7NluEoEGQOT6FS80y4rtpQmAHQzsaUAXCHYnQBtBxtrkmrDpJP5G8o99jbLPG+72DJNgU4v8U0+59YAKwcYLDGx6ceZZ9IDCdXHslcHIM8QoLlB3SyZmbDCdn0CRcb32kSXqwVxiVS0eVoQ/E9zUPBZsRR/rI/pBOhHykbn6xnvuGrZVntu4FKZc7uRSx8/FoGFk5Sp4ugvK/Kf5km232JdO3tq8//VnFcNjajIGhw4e+x/D2Kd/evnCp0Aes/+NvBA/Pg3kJFBop7Pis6ru2UNZr2e52JwFhrcDO1qSy2h0eo5aCoHeBj3gW3JjXO2yrKjY28ar5KEUazw8pyfNKyMJAaXda3avQrgzVtoY6Cj+aXBjYJfKVsl3rigOApj7/06VWoRGsOAXqdbAlAQo+34Wr0Lg3EN5SNTrz6HIt26ic8yIwDpRhfx91v/hMxJJDvqtXcTzmRZbntPT4kwOkq9n34QVyW0lPyf8suHGa9JF3TT0P47vTv8PuMuN0GA==;rYGsUsh4SOLYKnCmAT1jMQ=="
 ---
