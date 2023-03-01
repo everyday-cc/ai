@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/artificial-intelligence-applications-in-investing/amp/"
 type: article
 quality: 93
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
-        isCached: true
-  - title: "Meta unveils new machine learning language model in ongoing AI investment"
-    excerpt: "Meta Platforms (NASDAQ:META) is jumping anew into the artificial intelligence news cycle with the reminder that it too is making heavy investments in the space - publicly releasing a new large language model (the AI field that has brought developments like ..."
-    publishedDateTime: 2023-02-24T17:20:00Z
-    webUrl: "https://seekingalpha.com/news/3940780-meta-unveils-new-machine-learning-language-model-in-ongoing-ai-investment"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 53
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1361008768/image_1361008768.jpg?io=getty-c-w750"
-        width: 750
-        height: 428
         isCached: true
   - title: "ALDI Nord and Trigo Win RETA Award in Best AI & Robotics Application Category"
     excerpt: "The award was presented by EHI Retail Institute and recognizes outstanding technology solutions in retail. The jury commended ALDI Nord and Trigo for reinventing the discount model with future technologies in its latest store concept ALDI Shop & Go,"

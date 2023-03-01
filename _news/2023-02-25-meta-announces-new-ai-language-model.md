@@ -83,34 +83,6 @@ related:
         width: 790
         height: 320
         isCached: true
-  - title: "Meta reveals LLaMA language model as AI wars heat up"
-    excerpt: "Meet LLaMA, Meta’s large language model On Facebook’s AI blog, Meta describes LLaMA as a “foundational ... “Even with all the recent advancements in large language models, full research access to them remains limited because of the resources ..."
-    publishedDateTime: 2023-02-24T18:50:00Z
-    webUrl: "https://bgr.com/tech/meta-reveals-llama-language-model-as-ai-wars-heat-up/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/02/Meta-Sign.jpg?quality=82&strip=all"
-        width: 2584
-        height: 1672
-        isCached: true
-  - title: "Meta rolls out new language model amid Big Tech’s AI push"
-    excerpt: "Meta Platforms Inc is releasing a new large language model based on artificial intelligence (AI) aimed at the research community, Chief"
-    publishedDateTime: 2023-02-24T17:12:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2023/02/24/meta-rolls-out-new/"
-    type: article
-    provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ1N0O0-BASEIMAGE.jpg"
-        width: 800
-        height: 494
-        isCached: true
   - title: "Meta to release AI-based language model for researchers"
     excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
     publishedDateTime: 2023-02-27T18:04:00Z

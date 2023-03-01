@@ -34,7 +34,7 @@ related:
     provider:
       name: Dallas Morning News
       domain: dallasnews.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/i085YHY9b0Q00iiXIN6-Dq8oyRs=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/KDFSMKGJCRBWXE42CPTDWFPA3Q.jpg"
         width: 1200

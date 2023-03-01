@@ -71,6 +71,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Examining the Artificial Intelligence and Machine Learning Market from 2023-Opportunities and Challenges Ahead"
+    excerpt: "Artificial Intelligence and Machine Learning Market Size 2023 | New Report (132 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-01T05:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/examining-the-artificial-intelligence-and-machine-learning-market-from-2023-opportunities-and-challenges-ahead-2023-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Examining the Facial Recognition Market from 2023-Opportunities and Challenges Ahead"
+    excerpt: "Facial Recognition Market Size 2023 | New Report (115 Pages) | Information Technology | In This Reports Facial"
+    publishedDateTime: 2023-03-01T06:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/examining-the-facial-recognition-market-from-2023-opportunities-and-challenges-ahead-2023-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Courses Market 2023-2029: Latest Developments and Share Insights | 100 Pages"
     excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
     publishedDateTime: 2023-02-26T10:57:00Z

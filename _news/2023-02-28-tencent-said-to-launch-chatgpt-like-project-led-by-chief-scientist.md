@@ -7,7 +7,7 @@ originalUrl: "https://new.qq.com/rain/a/20230228A01I0700"
 webUrl: "https://new.qq.com/rain/a/20230228A01I0700"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,29 @@ topics:
   - AI
 
 related:
+  - title: "Tencent Sets Up Team to Develop ChatGPT-Like Bot"
+    excerpt: "Chinese internet giant Tencent Holdings has set up a project team to develop HunyuanAide, its own ChatGPT-like artificial intelligence bot, and to advance special research, including pre-trained models."
+    publishedDateTime: 2023-02-28T11:54:00Z
+    webUrl: "https://www.yicaiglobal.com/news/tencent-sets-up-team-to-develop-chatgpt-like-bot"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 24
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/tencent-sets-up-team-to-develop-chatgpt-like-bot/37465270122181.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Meta Steps Up Chatbot Buzz, Announces Research Tool LLaMA as Rival to Microsoft's ChatGPT, Google's LaMDA"
+    excerpt: "LLaMA is Meta’s latest entry in the realm of large language models, which “have shown a lot of promise in generating text, having conversations...\""
+    publishedDateTime: 2023-02-24T19:07:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/meta-chatbot-buzz-new-tool-training-ai-systems-llama-google-microsoft-chatgpt-lamda-3812598"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 4
   - title: "ChatGPT: A Potential Game Changer for Call Centres"
     excerpt: "Key use cases With that in mind, what are some of the top use cases where contact centres can leverage such advanced language models in the near to more distant future? While the clear advances ChatGPT makes over current chatbots and virtual assistants are obvious,"
     publishedDateTime: 2023-02-28T22:44:00Z

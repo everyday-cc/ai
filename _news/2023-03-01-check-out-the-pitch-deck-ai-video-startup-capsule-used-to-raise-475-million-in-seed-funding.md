@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/pitch-deck-capsule-video-ai-raises
 webUrl: "https://www.businessinsider.com/pitch-deck-capsule-video-ai-raises-seed-round-2023-2"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "AI search startup Subtl.ai raises $1 million in angel funding"
+    excerpt: "The cognitive search technology based product was jointly developed by Subtl.ai and International Institute of Information Technology (IIIT-H)."
+    publishedDateTime: 2023-03-01T09:55:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-search-startup-subtlai-raises-1-million-in-angel-funding/article66567096.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-search-startup-subtlai-raises-1-million-in-angel-funding/article66567096.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-search-startup-subtlai-raises-1-million-in-angel-funding/article66567096.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 57
+    images:
+      - url: "https://bl-i.thgim.com/public/news/2h1txe/article66567157.ece/alternates/FREE_1200/subtl.91acfde93135fba1920c%20%281%29.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "eSseaEHxDu1bBlYQW2GNuCXDNg5dw047hOFCxg+4a+sp+YDP19JgUeUjQyQ7AADk1YgYGHIwHtWnGRniReINGcplapNsg7g3at6xIcuBVZszX7wbBQUxIMr5tK8cqP2Bjt8UsVXTzRTRY/lgwnieXQSi/OnN6uI/MVm8YpnSwFfFns71P/GJo2kRsQNgJ1KYSjQG0qddf1q+01+pXs+FFLmRdI5HIMg0Bjr1zuXTeay7R/FqyL6BnpdDWmriEiBif6Nmq71mtU7PNkSwaFDvdebt0rzW+gp0jVQKbUIr3UtRld+0f8IrIpM0m9F1F0UmxBiQfS3crI4VT1HigXk/PdNSltHtx4Qas+76p0TLvThV4Irs23F9W68Xr06hcm7KqX8YjU7rmw+RbgNRx5wK7+0OXX0EzPiEfmCn5JdE1jGedRwKddELLeSfzWIed4+k2y1M4Fukiu2UAeZuzKFcU24G1HC1UNePRBsimsGIXaaW8LQ+2/ib+mOaYU9W1GxccL34qltN6JMk3rPUfbmy/g==;58/S0jCHkJj7U6GECvKR9w=="
 ---

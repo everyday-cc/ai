@@ -10,7 +10,7 @@
       "originalUrl": "https://www.dallasnews.com/opinion/commentary/2023/03/01/an-ai-robot-wrote-this-column-or-maybe-not/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -95,7 +96,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -675,7 +676,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 306,
+      "heat": 316,
       "tags": null,
       "images": [
         {
@@ -911,21 +912,21 @@
       ]
     },
     {
-      "path": "_news/2023-02-28-elon-musk-is-seeking-to-create-a-rival-to-openai-the-company-behind-chatgpt-report-says.md",
-      "title": "Elon Musk is seeking to create a rival to OpenAI, the company behind ChatGPT, report says",
-      "excerpt": "Musk has approached researchers about forming a new artificial intelligence research lab, The Information reported.",
+      "path": "_news/2023-02-28-in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips.md",
+      "title": "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips",
+      "excerpt": "With the nascent generative AI market propelling demand for compatible hardware and software to new heights, it’s a good time to be a startup, says CEO Andrew Feldman. As major chip players ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-2023-2",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-2023-2",
+      "webUrl": "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
+      "originalUrl": "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 544,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/63cfac1c0a375c0018fa8bdc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://images.wsj.net/im-732623/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -933,16 +934,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-2023-2?amp",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
       "publishedDateTime": "2023-02-28T03:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "YAHOO!News",
-        "domain": "businessinsider.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -958,7 +959,7 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1146,21 +1147,21 @@
       ]
     },
     {
-      "path": "_news/2023-02-28-the-purpose-and-impact-of-creative-ai.md",
-      "title": "The purpose and impact of creative AI",
-      "excerpt": "Will generative AI be more of a problem than it’s worth? Here are some ways creative AI can be a help and not a threat.",
+      "path": "_news/2023-02-28-elon-musk-recruits-team-to-develop-openai-rival.md",
+      "title": "Elon Musk recruits team to develop OpenAI rival",
+      "excerpt": "Tesla and Twitter chief Musk has been recruiting Igor Babuschkin, a researcher who recently left Alphabet's (GOOGL.O) DeepMind AI unit, the report said.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/",
-      "originalUrl": "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/",
+      "webUrl": "https://www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 100,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/04/pjimage-50.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1168,23 +1169,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/",
-      "publishedDateTime": "2023-02-27T18:07:00-08:00",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html/amp",
+      "publishedDateTime": "2023-02-27T19:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1193,6 +1185,7 @@
         "news"
       ],
       "topics": [
+        "Google AI",
         "AI"
       ]
     }

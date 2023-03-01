@@ -154,20 +154,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition Market 2023 Current Insights with [ NEWEST INDUSTRY DATA ] till 2029"
-    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Automatic Speech Recognition Market\" Research Insights Report 2023 | TOP 3 KEY PLAYERS in Automatic Speech"
-    publishedDateTime: 2023-02-24T18:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-market-2023-current-insights-with-newest-industry-data-till-2029-2023-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data Science and Machine Learning Service Market Share, Size, Trends, Industry Analysis Report By 2023 To 2029"
     excerpt: "Top “ Data Science and Machine Learning Service Market ” Size 2023 Key players Profiled in the Report are [, Bigml, Hewlett-Packard Enterprise Development, International Business Machine, Amazon Web Services,"
     publishedDateTime: 2023-02-27T16:26:00Z
@@ -246,6 +232,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 23
+  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
+    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2023-02-27T12:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "dftS4gmD6bK3CyCDnPNrFqY/pNSvUug49OZddds/5zHh1o/lXXucv+kfJSHABnhyqIfyvSrM6HdcgXyotqBTQK4cLGcW5UINrFfCHK2RAfwGgU+hxO+v1kXk+KGVm4jDFg2puMvsMO42IZYSt32vLtg4xppE/BKW82fkjMobnXbLi76WwbqvE5iJ46/BnE+DSBaY0gnUfjtjqxUUqEbjTaRK1mc/shUh4d+O16RTiau9CP7wpbuaZoa5gPat2DqQo5SnCXsT3EaGHImsQFHrt8+peaKgsFfoq9tR27wir2Rcwi3EWoKW78G9iQMYCFZ8CSmaSBUNnEhAJwt+bpdNEdwLNL5mu9t2PLR3KZrnhS8=;kbHpgquM+bD6k1Q9yvAyXw=="
 ---

@@ -45,6 +45,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Nvidia's new AI tool to breathe new life into streaming video"
+    excerpt: "Nvidia has introduced an Artificial Intelligence (AI)-based image upscaling tool for streaming video. Meant for the company's GeForce RTX 30 and 40 series graphic cards, RTX Video Super Resolution uses the GPU to upscale lower-resolution online video to 4K."
+    publishedDateTime: 2023-03-01T10:35:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/nvidias-new-ai-tool-to-breathe-new-life-into-streaming-video-10181631.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/nvidias-new-ai-tool-to-breathe-new-life-into-streaming-video-10181631.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/nvidias-new-ai-tool-to-breathe-new-life-into-streaming-video-10181631.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/rtx-video-super-resolution_full-size-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "nR3nr1mb+TzODrWzVRnc7nFULoZK9I/MbfciVJRXWWbcxffJ52TEg4GXBbvh4fXHwKa9tpkTSQx9i4zdMYTJCbdYIKIxBwjnPhWbDCT7w+yK4vATggZFtaJzzArPokp3jK6OZwLUWalseq80NSmFm5OGvO27ZsoxqHfa0lGko2WEWtqd8qwtHxk2VxJS60NKtW4R4ukqwZf43YR/HOkClazy5EPsf92aCvARkMZsTQab0K97V58q8n/Wgi7ImcxNHrGeJGJM0Us6jLsKEJKOFX2GNJjDs1L5DaFhvdRKND3zHfQUayegpSFh+AX6SKO91jPOlUmmcMPFgHtHVMO8l94TRysdR2x5vENRQ4yvOEbp9KvWu+Lx9wgM9GgXjOSVgxWjQ/GoVsV+ppCICd8X8VRv8sy9rEYbtIGskW1G4t56Ig2w9Kx59lA2X3FLwFGhMVOSXpORr3GUjVYKi8xQCFSPh+NOvfpswDdVDgwOALaQHzMUO+8Wc0YZm6UrxRBRNyDkXUAJehr+8+7jiVj+Cg==;K8bdONBDtYxsBOy0v02cLQ=="
 ---

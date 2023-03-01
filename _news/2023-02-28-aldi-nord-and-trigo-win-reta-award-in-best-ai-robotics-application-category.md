@@ -67,20 +67,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Meta unveils new machine learning language model in ongoing AI investment"
-    excerpt: "Meta Platforms (NASDAQ:META) is jumping anew into the artificial intelligence news cycle with the reminder that it too is making heavy investments in the space - publicly releasing a new large language model (the AI field that has brought developments like ..."
-    publishedDateTime: 2023-02-24T17:20:00Z
-    webUrl: "https://seekingalpha.com/news/3940780-meta-unveils-new-machine-learning-language-model-in-ongoing-ai-investment"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 53
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1361008768/image_1361008768.jpg?io=getty-c-w750"
-        width: 750
-        height: 428
-        isCached: true
 
 secured: "4qgPIq1GMXxzPYEMFt8Bt336tt/RrTFAO6f72PnRboeB68oGG96BKAhlS4q+Rkppg9XVAahIuRGK9CkrWDfcqcAH56uFZOC0c+vXJkmTd7fwzclkAI+iVIp/f/jqX/A8cDkCUY2NjBIHhiwQRMctiMrSJhHiBQ8JQ4r//7ye8ZeTUG38RM76yvE4BBuegPkN49svrKUUyPnoGbBzzPYydjN85WF/Ly+JjlcCpJ00V7qR7rFm5pMfWllk5PeI2X2A0b3lPFA5gb5j71ZVVSPYYcfxjXYgEM/R/VRNyJJgd7vZPtmjKQX/ya+o8HEnWWIHxHu8RZEUrCmElehq2kDASYSKffZ3Lf0LU3SX/z9YdSTv0XiWJd2ClNLz++0yiY98sxKAs3omiE3MeuLPzO5GSr0WlddPRcGpb5YwGpMWdyF27NQDaDwN4ogzCQG7RIpgW7BE0fXXllxGWrEWXgpkZwsYMdTbrtqBNVN97g5OC0y8TEG8Edx4KpGgAdEgHAWbrWOjq8cF0vOJ3O3iId+TJQ==;IPkmFwqtzSOxPP44jpc+Kw=="
 ---

@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Design effective AI prompts with Microsoft Prompt Engine"
+    excerpt: "Microsoft’s open source tool helps you write code to work with generative AI, ensuring results give correct information and stay on topic."
+    publishedDateTime: 2023-03-01T10:35:00Z
+    webUrl: "https://www.infoworld.com/article/3688991/design-effective-ai-prompts-with-microsoft-prompt-engine.html"
+    ampWebUrl: "https://www.infoworld.com/article/3688991/design-effective-ai-prompts-with-microsoft-prompt-engine.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3688991/design-effective-ai-prompts-with-microsoft-prompt-engine.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Microsoft's AI-powered Bing Chat now lets you choose 'precise' or 'creative' answers"
     excerpt: "Microsoft continues to tweak the AI-powered Bing Chat by adding new features such as the abilty to respond with different 'tones'. Over the weekend Micosoft said some users are now able to choose a style for the responses from Bing that are either 'Precise',"
     publishedDateTime: 2023-02-28T14:57:00Z

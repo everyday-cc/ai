@@ -8,8 +8,8 @@ webUrl: "https://www.dallasnews.com/opinion/commentary/2023/03/01/an-ai-robot-wr
 ampWebUrl: "https://www.dallasnews.com/opinion/commentary/2023/03/01/an-ai-robot-wrote-this-column-or-maybe-not/?outputType=amp"
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/opinion/commentary/2023/03/01/an-ai-robot-wrote-this-column-or-maybe-not/?outputType=amp"
 type: article
-quality: 74
-heat: 84
+quality: 76
+heat: 86
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/i085YHY9b0Q00iiXIN6-Dq8oyRs=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/KDFSMKGJCRBWXE42CPTDWFPA3Q.jpg"
@@ -42,6 +43,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "bQv6Yzvu6UdlwPRpkAnbbkBWq67CQgG8Hk/cYcsyt0qojD4x88eaPEREFtnfJtPI4WCNFMJbb++SMMsD4ZvYfmJlPirLsYsB9UI5zh38kYCB2+gFEOm0i7Py4bb+2bSeihkDfYR7k2cvjBpgsOg2ojmxlbRIK9BjE1TI8HC7f7xYyqnfphO+cVWcVpEDu8h1d5OKVLq0YHo+qNBuOmTz1ninY2sP75FjrN+O/qJUWlWG1KBdnW839hFjeFXMDE3J/PUD8cclqrUW8X2RHcaiDge794KHWzGq5lcKCEE7YlEHVq7vMFjStDAu+09pNpXn15l/0iJ71e1lE3nNMqaELPE78fovzeZ3Ln9N3NLMkhA=;HBmCEHbfEHSJVydoRq0VeA=="
+secured: "RA+BWVqFfX/PtPFt48XecWqh6pN+akxJDSjm8Ry9jG87XvlbSzzHGY/JWUrezpQrxFcZ7Yy30iO9+3XJJncnZV7Z+kETp1z2ZWQX/F02d1d4IHSGfmhV1F6jbaZqUoU7reOHYfmYgMO0e7Lg8Im8VtRhOPtY6+EFl6rYCpaMRFSMq1BTrk+cIGvaf8syORT58tZb0PBii/XKVaYQRRC/eFjuUFiUPgErAccBWa2xpAtA5XdqUYKwXtihZ5689fG9D27wazj476ra282/BmwJ3I1rggh8szS3vpQzQ+nhwKaGTAc9RuIfsbjOb3Q0f0Uvxw8zwOhzi1LCcFv4YA0+HaG+N14CMeqra8p0faTvHKMK3rRz3BAyc4JUBI+xsE+mqHFPHeJzUz9Fi9RBI7855cO0oI1ZrYkepdGeWKLYX+v1jkBBB9HkbPaGgYjKMkkFGpTNySUgllHaDfZZf61zYnlFJwopZy9qmFaU4uHa7AfzWoEw+1A3bX+4zd8DFs7ZSogN2g0xApu4jjgZXp8hTg==;gvSL24mDq9eCpl6c3co5vg=="
 ---
 

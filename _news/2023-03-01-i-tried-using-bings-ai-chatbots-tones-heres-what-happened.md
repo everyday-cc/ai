@@ -62,6 +62,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Design effective AI prompts with Microsoft Prompt Engine"
+    excerpt: "Microsoft’s open source tool helps you write code to work with generative AI, ensuring results give correct information and stay on topic."
+    publishedDateTime: 2023-03-01T10:35:00Z
+    webUrl: "https://www.infoworld.com/article/3688991/design-effective-ai-prompts-with-microsoft-prompt-engine.html"
+    ampWebUrl: "https://www.infoworld.com/article/3688991/design-effective-ai-prompts-with-microsoft-prompt-engine.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3688991/design-effective-ai-prompts-with-microsoft-prompt-engine.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/01/shutterstock_1901618698-100936241-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Microsoft Windows 11 update puts AI front and center"
     excerpt: "Microsoft will roll out on Tuesday an update to Windows 11 that puts its new AI-powered Bing capabilities front and center on its taskbar, one of the operating system's most widely used features, in the latest sign the company is doubling down on the buzzy technology despite some recent controversy."
     publishedDateTime: 2023-02-28T17:15:00Z

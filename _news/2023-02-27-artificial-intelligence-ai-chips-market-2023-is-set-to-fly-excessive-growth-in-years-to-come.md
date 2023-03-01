@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New Research Report on the Current State of the Artificial Intelligence (AI) in Healthcare Market from 2023"
+    excerpt: "Artificial Intelligence (AI) in Healthcare Market Size 2023 | New Report (97 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-01T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/new-research-report-on-the-current-state-of-the-artificial-intelligence-ai-in-healthcare-market-from-2023-2023-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Robots Market 2023 : Incredible Possibilities, Growth Analysis and Forecast To 2029"
     excerpt: "What is the projected market size and growth rate of the Artificial Intelligence (AI) Robots Market? Artificial Intelligence (AI) Robots Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023,"
     publishedDateTime: 2023-02-25T12:06:00Z
@@ -239,6 +253,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market 2023, Size And Share An Expand Worldwide Business Opportunities"
+    excerpt: "Artificial Intelligence (AI) in Drug Discovery Market Size 2023 | New Report (103 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-01T05:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in the Freight Transportation Market by Top Manufacturers, Growing Demand and Supply 2023-2029"
     excerpt: "Feb 26, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in the Freight Transportation Market\" Report covers specified competitive outlook"
     publishedDateTime: 2023-02-26T13:57:00Z
@@ -303,6 +331,20 @@ related:
     excerpt: "Deep Learning in CT Scanners Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
     publishedDateTime: 2023-02-27T03:56:00Z
     webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence-Emotion Recognition Market 2023, As Per The Latest Insights, With a Forecast Period"
+    excerpt: "Artificial Intelligence-Emotion Recognition Market Size 2023 | New Report (100 Pages) | Information Technology | In"
+    publishedDateTime: 2023-03-01T06:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-2023-as-per-the-latest-insights-with-a-forecast-period-2023-03-01"
     type: article
     provider:
       name: MarketWatch

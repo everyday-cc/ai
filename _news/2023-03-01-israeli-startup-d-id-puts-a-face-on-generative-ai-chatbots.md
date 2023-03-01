@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Snapchat launches an AI chatbot powered by OpenAI’s GPT technology"
-    excerpt: "The company announced today that it's launching \"My AI,\" a new chatbot running the latest version of OpenAI's GPT technology that it has customized for its users."
-    publishedDateTime: 2023-02-27T18:42:00Z
-    webUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/"
-    ampWebUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/ALT-Comms-banner-2.png?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facebook owner Meta joins AI chatbot race"
     excerpt: "After Microsoft ChatGPT and Google's Bard, Meta is joining the AI chatbot race with its own state-of-the-art foundational large language model designed to help researchers advance their work in the field of artificial intelligence."
     publishedDateTime: 2023-02-25T08:30:00Z
@@ -78,6 +62,6 @@ related:
         height: 530
         isCached: true
 
-secured: "bSFCF88XFIQzi3UMtdbyNu1ZDih5OmO3dUmxlF6vbWnWAS0SBpOZeyVGrCvlm5d9dlXSVBKNnUzwYLHee6xItVeQGa7SHauFlF30k9H7ejlPJYy1vb+AEsFovWVvJMfmLFKIAFmy+ztUV8WjEfmh3tNN4farlKYcQP/bKJXYA99uCm3nYdGzBCzBOTLA7E4maq/SKW7VvotvfGODUwfSXIzgF+4zikKUt290Yg5iq8vQxaHw7oYm40/DgwdF3hVJUCcvRz86E8kwD0Z1EKFcev+RrSfl6kR3QfKq8JAFJTg47bcaPmgyuQmlFytACwah5J5fIxlykcX0S/TvGtYQ/o59YxE8G+V2pxCC4aiNjPs=;QZAKKCmcWHqR40vlNrsalQ=="
+secured: "+b0ZfJEQNwtkPo6g159lykKHdDIaZtzBlRTERQ5uoAVN4fpYD9+mv/8HF/N2wK7a1WyNrH4Up0YL3TXloN6+mzABKGPAmiEarvC8dDJ42dXU6/P7lDmhBBxWUe6lNdGSe9kuBzuoq6EymKQYBuexJBdtcSsw6JM+0RnKnglsDraGb00o53zx3FzuWeWPJWneJeMXO2n8YwNRblvyS1nkq8ZNMs7cWtB+IQYfyCpsQ1+LTMZizagDz7d6/V8G8YHZVGjIsx1DS3ZjVr7AaCIW6rlGvskEYzkNacF0Fc/hG2l+bQfMqjsS1aXknk4ZiMDJ8by6Gfq12OHqJreSnZXP0O28yZF4ufIHKq44ttTm/zMQUoNj5t96UEqk14rz4wkF4MlUdxrKTOmqUyD3M9QTb7AhVZwnyUJMI+9MtpavptwlD6aWSc8xCSgLdS3XonlQGXTYDGXG9BoZjqLfB7e5jQ0C2EUd/OhyJk3RkwnKixaDtRyI8WkDb7ysVu68Up9jPB43SwJ6mRVzqOCqxl0FIA==;fIXNfLjdBf8FO4n+pGjOvA=="
 ---
 

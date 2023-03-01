@@ -27,17 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the field of Al computer vision."
-    publishedDateTime: 2023-02-27T17:57:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-
 secured: "rculHJVVwysseC/uROI/BlcwMgA1vfPp424qQ3UloFtSc5M4ssNZpN/viXNu8yBio3C4ViaNTi9IBeCDfGi353FdJ3nI2yXEd8oOads0GBfGwSfP6tTgGMhXvulGQcZGc5NShf0stP1zxF7x1/aZgnVba0i0qh1qIcFEuygBd+QGY7Pnjeo8WGLKOAkBd2hOdSp/U38+cg5GIteFRfWhjl3qNvDxXOr/2o/bB+imEid6Q7BCuDJgyhokkUTIr+lXAs9AmFDzP9MY5wqN3WbM7jgX43hIX3/1GIBw71BCt5S2GLHOtCUCc2g43JDNr9rvOxnRmnUszQjxwOLpy19CKH0OJ8WZgEQu+grCxU2sQiE=;VcFMxsL1UoUnUoSQknjwdw=="
 ---
 

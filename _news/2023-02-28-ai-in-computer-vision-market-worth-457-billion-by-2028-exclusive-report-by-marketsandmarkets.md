@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Latest Survey on \"Artificial Intelligence in Manufacturing Market\" Report 2023-2028, Updated Report With 100 Pages"
-    excerpt: "Report Highlights:- \"The global Artificial Intelligence in Manufacturing market size was valued at USD 1459.63 million"
-    publishedDateTime: 2023-02-25T13:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-in-manufacturing-market-report-2023-2028-updated-report-with-100-pages-2023-02-25"
+  - title: "The Power of Artificial Intelligence Delivery Robot Market Trends: 2023 Segmentation in Customer Targeting"
+    excerpt: "New “Artificial Intelligence Delivery Robot Market” Report 2023 by Manufacturers and Forecast to 2029: This Report"
+    publishedDateTime: 2023-02-27T13:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-power-of-artificial-intelligence-delivery-robot-market-trends-2023-segmentation-in-customer-targeting-2023-02-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

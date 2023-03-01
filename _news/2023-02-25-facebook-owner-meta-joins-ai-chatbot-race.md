@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Snapchat launches an AI chatbot powered by OpenAI’s GPT technology"
-    excerpt: "The company announced today that it's launching \"My AI,\" a new chatbot running the latest version of OpenAI's GPT technology that it has customized for its users."
-    publishedDateTime: 2023-02-27T18:42:00Z
-    webUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/"
-    ampWebUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/ALT-Comms-banner-2.png?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "XsUyqzAvSE+gtVew4V91aZz7NluEoEGQOT6FS80y4rtpQmAHQzsaUAXCHYnQBtBxtrkmrDpJP5G8o99jbLPG+72DJNgU4v8U0+59YAKwcYLDGx6ceZZ9IDCdXHslcHIM8QoLlB3SyZmbDCdn0CRcb32kSXqwVxiVS0eVoQ/E9zUPBZsRR/rI/pBOhHykbn6xnvuGrZVntu4FKZc7uRSx8/FoGFk5Sp4ugvK/Kf5km232JdO3tq8//VnFcNjajIGhw4e+x/D2Kd/evnCp0Aes/+NvBA/Pg3kJFBop7Pis6ru2UNZr2e52JwFhrcDO1qSy2h0eo5aCoHeBj3gW3JjXO2yrKjY28ar5KEUazw8pyfNKyMJAaXda3avQrgzVtoY6Cj+aXBjYJfKVsl3rigOApj7/06VWoRGsOAXqdbAlAQo+34Wr0Lg3EN5SNTrz6HIt26ic8yIwDpRhfx91v/hMxJJDvqtXcTzmRZbntPT4kwOkq9n34QVyW0lPyf8suHGa9JF3TT0P47vTv8PuMuN0GA==;rYGsUsh4SOLYKnCmAT1jMQ=="
 ---

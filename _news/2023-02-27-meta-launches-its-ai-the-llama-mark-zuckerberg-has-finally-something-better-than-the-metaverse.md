@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-ma
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1"
 type: article
 quality: 75
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -87,17 +87,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Mark Zuckerberg just announced a new AI model 'LLaMA,' designed to help researchers make chatbots less 'toxic'"
-    excerpt: "Meta is releasing its generative AI model called \"LLaMA\" to drive research into what it called an \"important ... its CEO Mark Zuckerberg said in a Facebook post on Friday. \"LLMs have shown a lot of promise in generating text, having conversations ..."
-    publishedDateTime: 2023-02-24T18:17:00Z
-    webUrl: "https://www.businessinsider.com/mark-zuckerberg-meta-llama-generative-ai-model-chatbot-research-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/mark-zuckerberg-meta-llama-generative-ai-model-chatbot-research-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mark-zuckerberg-meta-llama-generative-ai-model-chatbot-research-2023-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Habytat announces AI-powered pets for its social metaverse"
     excerpt: "Habytat plans to launch AI-powered pets onto its social metaverse platform this year. Users can vote on the types of pets."
     publishedDateTime: 2023-02-28T13:31:00Z

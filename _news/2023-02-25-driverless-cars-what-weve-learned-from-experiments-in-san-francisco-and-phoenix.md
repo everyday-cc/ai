@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105640649/Driverless-Cars-What-Weve-Learned-Fr
 webUrl: "https://menafn.com/1105640649/Driverless-Cars-What-Weve-Learned-From-Experiments-In-San-Francisco-And-Phoenix"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "San Francisco startup Writer sues Twitter for unpaid subscription fee"
-    excerpt: "A new lawsuit alleges that Twitter failed to pay for a subscription to an over $100,000 per year generative AI service."
-    publishedDateTime: 2023-02-24T18:04:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/02/24/startup-writer-sues-twitter.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "Mxz4PECKWIaEtclqAy2OAwZOJt3W5g80sPDEjpukUHygfVgrfScZJLpT6gHafLW56S/jkpICpWGM2G+vm4S8KOzL8RJsDK88fS2UzX15TSiH72zrQAWLhaT3PQcF4frEDOHv9h7q8Fz7RTqMFlBflD9n2S3kFImZD1FT1U4C/q3tRSaat5+ITqih+EAR+FgzrRGsahw9v9jDm7is3+bjrUs3ojKo5cMec0377XzMT85V/x7jCptKESDeqj3y5N3TOkiqrYjdTIxDslapILPwC6lzZpk4+B3JG3nfaCPw6RGI8QlgvFrPkCyFHws1fgvXPMiCoHLwZC7TjkAgo2ogmupk6NsYDonJrC4uJspACj4CuQ7b1auUcqq9zuhTbIGr8kEUoJIXDT6ybPES44g3QPj0wZd1lw3KBpXubB1ykua1TCj3PE0v9ZG3pJfrqqtURTHSfE3js2yYk3KxSuevo5rVGhiMD8mzBR6IKBVscT7d5Oo0IagpqLHp9X+468n3T2rCHsXct3rtWdVli3oJcQ==;6bSYVigAE8RYGNx6tpomBg=="
 ---
