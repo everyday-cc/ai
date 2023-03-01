@@ -138,15 +138,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 32
-  - title: "ShiftPixy Leverages OpenAI/ChatGPT to Streamline Recruiting and Staffing Opportunity Matching"
-    excerpt: "This integration within the ShiftPixy platform will leverage ChatGPT's advanced natural language processing capabilities to instantly analyze worker experience, job descriptions, and other candidate-related data,"
-    publishedDateTime: 2023-02-24T14:39:00Z
-    webUrl: "https://www.tmcnet.com/channels/call-center-management/news/-shiftpixy-leverages-openaichatgpt-streamline-recruiting-staffing-opportunity-mat-/2023/02/24/9766134.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
 
 secured: "lu/1cP9fKS48/E/tlYOlvCx33m1MrrTNCks/FQZoYsgOsIo1k/cR4fZR3kgtA8DDXmBgS+MebINemfbJvJWyL8kOpvaICG0jyXaDdQ84Uo8mbjmYs6k1DrmHvair40hKexVMLREUYrOPw7x+MlrGUfa1wBEabo87fHe7ZJX7PHB0hZQHar5ys0BoY/oZsT/pPvlUKMUeHsGKUA75CSsaCn9+7ftXpV8460Eyz3p+sB/K1y4DWpkbUMtC5SutxwtHNKMnN3pbKICs3hwAARSpsRsnt/+ZhFNWGyDL1EiTvaVLrWUpnfP4OZKBhnTx2oPYH3dc5YIekg9+mCUimSXtDWequNLbV2fgSmLCuZBTfRxQp0FeXc8T8lRiU6iCsHpy32+ISF/EuuM4A4l7D82vuRRVfdJ+O9SFSJw8Zjb4HirHTu8D4TFdmMVFcYmB3tF1loIKoGOhlgCvcru7BoRlwbVj2KwxUBVEz1QHnIt+KqEF8OzYih9eJXBesDz7Ntr3YvL3bsQ80S/M68rthk2aNQ==;CoV7UtECE7xoGWWX392ZAw=="
 ---

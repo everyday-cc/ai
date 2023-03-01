@@ -2,6 +2,75 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-02-07-microsofts-5-latest-updates-on-data-security.md",
+      "title": "Microsoft’s 5 Latest Updates On Data Security",
+      "excerpt": "Microsoft announced product updates for its data security platform, Microsoft Purview, including a new cybersecurity tool for prevention of insider threats and updates to its DLP solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/security/microsoft-s-5-latest-updates-on-data-security",
+      "originalUrl": "https://www.crn.com/news/security/microsoft-s-5-latest-updates-on-data-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-startup-cohere-in-talks-to-raise-funding-at-6b-plus-valuation.md",
+      "title": "AI startup Cohere in talks to raise funding at $6B plus valuation",
+      "excerpt": "Cohere, established by former researchers at Alphabet in 2019, has quickly risen through the AI startup ranks given their intensive research background and close ties to Google.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/ai-startup-cohere-talks-raise-funding-6-billion-plus-valuation",
+      "originalUrl": "https://www.foxbusiness.com/technology/ai-startup-cohere-talks-raise-funding-6-billion-plus-valuation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-oil-companies-announce-large-profits-from-2022-and-meta-stands-out-from-the-tech-crowd-forbes-ai-newsletter-february-4th.md",
       "title": "Oil Companies Announce Large Profits From 2022 And Meta Stands Out From The Tech Crowd - Forbes AI Newsletter February 4th",
       "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
@@ -865,92 +934,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing.md",
-      "title": "Google Chrome browser gets Nvidia RTX GPU tech that could revolutionize Netflix viewing",
-      "excerpt": "Like DLSS, RTX Video Super Resolution (VSR) uses AI to upscale the footage and can ... Those with an RTX 2000 family GPU aren’t able to benefit – at least not initially (we’ll come back ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing",
-      "originalUrl": "https://www.techradar.com/news/google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Bb49HmrSaaKB2AstTQAioW-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-nlp-leader-humaai-launches-industrys-first-generative-ai-platform-for-life-sciences.md",
-      "title": "NLP Leader Huma.AI Launches Industry's First Generative AI Platform for Life Sciences",
-      "excerpt": "Enterprise Generative AI Focused on Life Sciences to Bring Life-Saving Drugs to Market Faster PALO ALTO, Calif. (PRWEB) 06, 2023 Huma.AI, a leading healthcare AI company, announced today the launch of",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/p30731429/nlp-leader-huma-ai-launches-industrys-first-generative-ai-platform-for-life-sciences",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/p30731429/nlp-leader-huma-ai-launches-industrys-first-generative-ai-platform-for-life-sciences",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30731429",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30731429",
-      "publishedDateTime": "2023-02-06T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

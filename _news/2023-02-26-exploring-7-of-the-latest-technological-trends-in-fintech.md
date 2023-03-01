@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How fintech can leverage AI to protect customers from fraud"
+    excerpt: "Biometric authentication- Fintech companies can also use AI to improve their ability to onboard customers. One way to do this is through biometric authentication, such as voice recognition, facial recognition,"
+    publishedDateTime: 2023-02-27T11:28:00Z
+    webUrl: "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.html"
+    ampWebUrl: "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 59
+    images:
+      - url: "https://www.theweek.in/content/dam/week/focus/economy/images/2023/2/27/fintech.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "AI-Powered Tax System Is Creating A New Paradigm. Will Banks And Fintechs Adopt The Technology To Help Their Customers Save On Their Tax Bill?"
     excerpt: "Tax impacts nearly 100% of Americans and is one of the largest expenses people bear each year. Yet, most of us go all year without having a clue if we are ahead or behind on our obligations to the tax authorities."
     publishedDateTime: 2023-02-27T14:00:00Z
@@ -41,6 +57,29 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Altai Ventures Launches Fund to Help Insurtech, Fintech Founders"
+    excerpt: "Altai Ventures, an early-stage venture capital firm, recently announced the closing of Altai Ventures Fund II, LP (focused on Fintech)."
+    publishedDateTime: 2023-02-24T20:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/02/202912-altai-ventures-launches-fund-to-help-insurtech-fintech-founders/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Dollars-Money-Cash-Pay-768x1024.jpeg"
+        width: 768
+        height: 1024
+        isCached: true
+  - title: "This Hong Kong fintech employs AI technology to promise collateral-free loans to city’s small businesses"
+    excerpt: "FundPark, a fintech-focused platform for trade finance ... he added. “Through AI technology and data analysis, our own proprietary risk-management tool develops its predictive model,” Suen ..."
+    publishedDateTime: 2023-02-26T03:01:00Z
+    webUrl: "https://www.scmp.com/business/banking-finance/article/3211408/hong-kong-fintech-employs-ai-technology-promise-collateral-free-loans-citys-small-businesses"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 32
   - title: "How Is Fintech Changing The Way We Bank?"
     excerpt: "The world of banking is changing rapidly, and the engine driving this change is the phenomenon known as fintech. As a result, our relationship with money has been completely upended."
     publishedDateTime: 2023-02-25T14:10:00Z

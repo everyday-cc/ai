@@ -20,22 +20,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Faster and sharper whole-body imaging of small animals using deep learning"
-    excerpt: "More information: Seongwook Choi et al, Deep Learning Enhances Multiparametric Dynamic Volumetric Photoacoustic Computed Tomography In Vivo (DL‐PACT), Advanced Science (2022). DOI: 10.1002/advs."
-    publishedDateTime: 2023-02-24T14:37:00Z
-    webUrl: "https://medicalxpress.com/news/2023-02-faster-sharper-whole-body-imaging-small.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/faster-and-sharper-who.jpg"
-        width: 650
-        height: 854
-        isCached: true
-
 secured: "AbrGNAgH7OD2Krtbk1XAC76/gIF+vfbR1bcM18C9PwTU+L7uiosmhyVdGvRxnNj1hJvLm6YQdMHGN0RHul6ixQMvik1FzyG6pyizPkbfewQWZ4+Db1Bs/UwNNkV6gXGwD1sfvRrPzbuHFTqHYhPho0tCl/itMCKv0/VDTAF7F291Rliv2iIygrSJQdIk8RfMWPbMEglm/1yeiymU/+XQVWTyZtWm5R95ENlMagzgRvbz2f+tzWiV0X0feo9MksjvUdiWoJsfgIngt8nPoR2XYFKspJ8OwNjJNxYUe70gEWSAKEJDABCSFYWSZvlrEY+tMjIq6fm+I1LuEDkb6e08E5viWYea3Xkd8fLQZlkvQPrbWDp1MWkTm+VVdGEGq/aG0uq2V1CV2Cf82HFbCA+3ZHX/Aehl5UXj4LaJxQqUwu3DWPMlEhF53Pe0j1tWcocYChxnER+Zd0u7ylpXL859yOMrIEBs6QU85JakQiczE7gTwtbddiABqK84ak8kWVggyuY2rwzfUjdKnpJPbo65Ew==;SzABJ7iyIgHDgnnhZ6zxTQ=="
 ---
 

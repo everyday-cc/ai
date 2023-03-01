@@ -97,22 +97,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook parent Meta rolls out new language model amid Big Tech’s AI push"
-    excerpt: "Meta’s LLaMA, short for Large Language Model Meta AI, will be available under non-commercial license to researchers and entities affiliated with government, civil society and academia"
-    publishedDateTime: 2023-02-24T13:24:00Z
-    webUrl: "https://www.theglobeandmail.com/business/technology/article-facebook-parent-meta-rolls-out-new-language-model-amid-big-techs-ai/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/business/technology/article-facebook-parent-meta-rolls-out-new-language-model-amid-big-techs-ai/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/technology/article-facebook-parent-meta-rolls-out-new-language-model-amid-big-techs-ai/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 58
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/KGgaDR08TZoIPFDei6s23OACj4s=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/UX5OD222YNLBXF3BKPZUQ7GPXQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Meta Heats Up the AI Race With Their State-Of-The-Art Foundation Language Model LLaMA"
     excerpt: "Meta AI has entered the AI race dominated by large language models (LLMs) such as OpenAI’s ChatGPT, Microsoft’s GPT-powered Bing, and Google’s Bard. Meta CEO Mark Zuckerberg posted the news in a Facebook post: “Today we’re releasing a new state-of-the-art AI large language model called LLaMA designed to help researchers advance their"
     publishedDateTime: 2023-02-27T23:49:00Z

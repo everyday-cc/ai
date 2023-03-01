@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202303/01/WS63feba4aa31057c47eb
 webUrl: "https://global.chinadaily.com.cn/a/202303/01/WS63feba4aa31057c47ebb179d.html"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Forrester: Question generative AI uses before experimentation"
-    excerpt: "Why every organization must study use cases to take advantage of the strengths of new tools such as generative AI and large language models."
-    publishedDateTime: 2023-02-24T14:52:00Z
-    webUrl: "https://venturebeat.com/ai/forrester-question-generative-ai-uses-before-experimentation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-
-secured: "u61f6/W/i8H//ovikyzu7Mva4Ig5HJbckVEwvmKMPn+yrdkgt9k+PI8uKrAoABpcvFcW03MogRUP1R1noPMOldRxqFJWcvWFVKE8GMtTu0tc7rBhjVMD5LrHYXAsXWOd+EDPP47Tktzbh7cG9obKZU7wmmHXWyVjZCmTOp1wrn7MOWFyVLvqdWl0lbvV83cTCZdF6l3AQWhhhBGq1hTmy3DqInQ/dFpbd7XZiH8Imk1PSIsjinpfQenzqbcBna6Zyvsmt9mzHIEVzlFUv7AuI4PxrjxyWlGpRZ8VpZfV6yKVPjj8PGqmxJ+GAns1M1Y70hnPj2dAp+C6GizWHgb/Tt8hb/sAqMWlZcHi8JTyrDo=;t2hByRXAv8hT1Zj+bz2BQA=="
+secured: "7KHQRQgLxt81o9jJgbBNY7kwEBM4gpT0fJ9Ivgzy4NmlCaxDfxr1icIolOAsWFLItUsYD9lZs18qzrUpelrl8PYlsc2Q1ci6EcEt3OBgwALoUHj2/Zi+YUrCO4wJT6iE1d+inkl6IkJV4g6euYOKXlyRYPozkEuSmRChwLPr3aJrY8XmOb8GLEQK89TbEVHvVpYdX7DNWC2Fdr9I+N9jIA2PFc5/zS6Omq90CqqrCbIv1tpS6z7qo50j4/CLuaFj3pOsYxHxSlCV9EJgeuJfrYzU0G4wjpEm8RC9SKpRSSr3dsyinOrEHqgdH+a3PfL82NDuzePcGe3iHHOUgmtm+1PFUtLDRoGbcHTsD2s80dJiqmrTEYVCbi3D7kL5L/4ankLL5ftk7g0aFS/gD5J0rXaAOZjKFTuEvjMEIMStaDpVg1b1TrsLZ/fdVCNPQfz9qNgh4FWPw20v5ilrkqETwNYItgoBmM64wLdqIAfA3doJELXEE/KudXuW3iZMzf5S/4qf9Igjy5iuxXqzECvDMg==;eOn2pHcrC3zxOhPKtIaZ7A=="
 ---
 

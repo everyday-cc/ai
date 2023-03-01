@@ -1,12 +1,12 @@
 ---
 category: news
 title: "How ChatGPT’s AI Will Become Useful"
-excerpt: "It still needs to go through new versions and have its flaws exposed to be good."
-publishedDateTime: 2023-02-26T20:35:00Z
-originalUrl: "https://www.wsj.com/articles/ais-not-useful-yet-but-it-will-be-chatgpt-artificial-intelligence-robots-microsoft-bing-chatbot-elder-care-tyrell-corporation-self-driving-tesla-technology-a1a27df0?mod=flipboard"
-webUrl: "https://www.wsj.com/articles/ais-not-useful-yet-but-it-will-be-chatgpt-artificial-intelligence-robots-microsoft-bing-chatbot-elder-care-tyrell-corporation-self-driving-tesla-technology-a1a27df0?mod=flipboard"
+excerpt: "They had to alter the original code because they discovered almost every player at the start of the first race ... on with the newfangled generative AI chatbots. Everyone’s trying to break ..."
+publishedDateTime: 2023-02-26T21:39:00Z
+originalUrl: "https://www.wsj.com/articles/ais-not-useful-yet-but-it-will-be-chatgpt-artificial-intelligence-robots-microsoft-bing-chatbot-elder-care-tyrell-corporation-self-driving-tesla-technology-a1a27df0?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/ais-not-useful-yet-but-it-will-be-chatgpt-artificial-intelligence-robots-microsoft-bing-chatbot-elder-care-tyrell-corporation-self-driving-tesla-technology-a1a27df0?mod=latest_headlines"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -473,15 +474,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
-    excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
-    publishedDateTime: 2023-02-24T14:15:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/pressreach-2023-2-24-chatgpts-alter-ego-reveals-dark-side-of-artificial-intelligence"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 19
   - title: "Elon Musk Sounds the Alarm About the Dangers of AI And ChatGPT"
     excerpt: "The billionaire entrepreneur had called for regulation of artificial intelligence before the unprecedented breakthrough in the technology."
     publishedDateTime: 2023-02-27T20:42:00Z
@@ -537,6 +529,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "fgzt7wg4CH4ejSv8Qvm3ld8DpzSgNo+cxRixh9IEwhrOhpVvG0DZC1dCBDsVk5mEU4ab497PHG0xnW7kebd8DkHZRPDE3TyGgxFmlREyd1NUbWYzZ+/7YZ7G6yuK15uQNYt/mbp+N3Ipq2i3km2xHVCH13N/nqh5txwqV68I80jx1IDrZbw2jx6dcLsD5quKwydxrnWsiSvXrJ0w5JamH3uxyLQhlQ/LOkUJFnDDld0pKJ2llz/pwAZhnmFkAyY9rqaSJt9Rq56MZZaEvtOjDwxmZQ4OL7taqHLxs7rGTvLp9EL7k+ME99C5RnXi/q/31rrT4bQNUFcc3uj1q/RUIe5+sXBLjllTJaixQro+sZyG3BbJmDU8wjBN3fhLqLbaFqoOC3pjMTzXceo0u7kc7/hFPWG0uxy7Jvxn/muL51nUnUXuRfLStUyvlBpU4ueSEdwAIBzIVa3JA3wQX+UV8n7I7G4TJu9DhHXKId/MBkm9v8IWHP008A+I2ZGRH3rSr/IILiVXH5ofr+HG+Bsbzg==;k1nlUCEryUMuu08pVng5wg=="
+secured: "dIhLbi3zlNu0P8MYncKvNbwSc/+4QZs3SR4xP5Rl5MVeoPpL0t3I29+YlV0aIf8WYRlaeBtMULZArEoToFcFpSKzrb4Z41J1yYdKcthgO0s73HheDNcueuGy898qy3nAvNe+8kZII+Srju45KN6kWkBJm/9hK2Pgbz7m6by8lW/gif6krMVpwcsg5Noby9WsDZn0YT5pVn8bbt0XPZkDsRacWGW1d/+pEWh2x5lbQNq98W1EBsR0riXFbrGUhIeaDxOKutqnSP6hS9UnAaJ4YM5pNAxQGAgpvLTKQ/BHlwDXFeN7usRxfTd7f6jpOywOe4Ti4cZf4G2O52CJ/y+pBb9xWVMbM/D7seQ6YmiD6IY=;Iv2WIyUOfQutC+jNnc63Gg=="
 ---
 

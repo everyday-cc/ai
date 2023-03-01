@@ -41,20 +41,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Altai Ventures Launches Fund to Help Insurtech, Fintech Founders"
-    excerpt: "Altai Ventures, an early-stage venture capital firm, recently announced the closing of Altai Ventures Fund II, LP (focused on Fintech)."
-    publishedDateTime: 2023-02-24T20:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/02/202912-altai-ventures-launches-fund-to-help-insurtech-fintech-founders/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Dollars-Money-Cash-Pay-768x1024.jpeg"
-        width: 768
-        height: 1024
-        isCached: true
   - title: "A Local Leader Discusses the Future of Fintech — And How His Team is Shaping It"
     excerpt: "At the Federal Reserve Bank of Chicago, a new product is helping shape the future of fintech. Learn how the team is driving industrywide progress."
     publishedDateTime: 2023-02-24T15:55:00Z

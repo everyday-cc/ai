@@ -20,15 +20,6 @@ topics:
 
 related:
   - title: "Meet the $10,000 Nvidia chip powering the race for A.I."
-    excerpt: "It’s able to perform many simple calculations simultaneously, which is important for training and using neural network models."
-    publishedDateTime: 2023-02-24T13:14:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/meet-10000-nvidia-chip-powering-race-rcna72155"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
-  - title: "Meet the $10,000 Nvidia chip powering the race for A.I."
     excerpt: "During Wednesday's fiscal fourth-quarter earnings report, although overall sales declined 21%, investors pushed the stock up about 14% on Thursday, mainly because the company's AI chip business ..."
     publishedDateTime: 2023-02-24T16:22:00Z
     webUrl: "https://www.cnbc.com/2023/02/23/nvidias-a100-is-the-10000-chip-powering-the-race-for-ai-.html"

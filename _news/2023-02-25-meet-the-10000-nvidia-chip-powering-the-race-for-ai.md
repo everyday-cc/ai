@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/2023/02/23/nvidias-a100-is-the-10000-chip-pow
 webUrl: "https://www.cnbc.com/2023/02/23/nvidias-a100-is-the-10000-chip-powering-the-race-for-ai-.html"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Meet the $10,000 Nvidia chip powering the race for A.I."
-    excerpt: "It’s able to perform many simple calculations simultaneously, which is important for training and using neural network models."
-    publishedDateTime: 2023-02-24T13:14:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/meet-10000-nvidia-chip-powering-race-rcna72155"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 49
   - title: "China moves to regulate AI, $10K Nvidia GPU powers ChatGPT, AI transforming sports - catch all this and more in today's AI news!"
     excerpt: "China attempts to regulate AI after ChatGPT frenzy. China will introduce rules to govern the use of artificial intelligence across a swath of industries, moving to regulate emerge"
     publishedDateTime: 2023-02-25T14:06:00Z

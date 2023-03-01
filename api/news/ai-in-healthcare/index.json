@@ -677,6 +677,58 @@
       ]
     },
     {
+      "path": "_news/2023-02-17-artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030.md",
+      "title": "Artificial Intelligence in Drug Discovery Market Worth $8.95 Billion by 2030",
+      "excerpt": "Meticulous Research(R)--a leading global market research company, published a research report titled, Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030-2023-02-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030-2023-02-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T21:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
       "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
       "excerpt": "There’s more than one way to position your portfolio to benefit from a continuing AI revolution. You can invest in companies that build AI hardware, develop AI solutions or sell AI tools. Or, you can invest in companies that use AI to make better products.",
@@ -1421,49 +1473,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-study-finds-how-artificial-intelligence-with-infrared-imaging-improves-colon-cancer-therapy.md",
-      "title": "Study finds how artificial intelligence with infrared imaging improves colon cancer therapy",
-      "excerpt": "Researchers at Ruhr University Bochum's Centre for Protein Diagnostics PRODI are utilising artificial intelligence in conjunction with infrared imaging to optimise colon cancer therapy for individual patients. The label-free, automated technology can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/study-finds-how-artificial-intelligence-with-infrared-imaging-improves-colon-cancer-therapy/97941391",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/diagnostics/study-finds-how-artificial-intelligence-with-infrared-imaging-improves-colon-cancer-therapy/97941391",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-97941391,imgsize-9412,width-1200,height-628,overlay-ethealthworld/study-finds-how-artificial-intelligence-with-infrared-imaging-improves-colon-cancer-therapy.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/diagnostics/study-finds-how-artificial-intelligence-with-infrared-imaging-improves-colon-cancer-therapy/97941391",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/study-finds-how-artificial-intelligence-with-infrared-imaging-improves-colon-cancer-therapy/97941391",
-      "publishedDateTime": "2023-02-15T00:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "health.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

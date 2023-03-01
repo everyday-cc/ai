@@ -199,6 +199,22 @@ related:
       name: CNN
       domain: cnn.com
     quality: 64
+  - title: "Microsoft Translator app for iOS gets a redesign"
+    excerpt: "Microsoft has announced a redesign of the Microsoft Translator app for Apple devices, with the goal of making it easier to use and providing users with advanced AI technologies. The new user interface is accessible,"
+    publishedDateTime: 2023-02-28T22:33:00Z
+    webUrl: "https://www.fonearena.com/blog/386962/microsoft-translator-ios-redesign.html"
+    ampWebUrl: "https://www.fonearena.com/blog/386962/microsoft-translator-ios-redesign.html/amp"
+    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/386962/microsoft-translator-ios-redesign.html/amp"
+    type: article
+    provider:
+      name: FoneArena
+      domain: fonearena.com
+    quality: 59
+    images:
+      - url: "https://images.fonearena.com/blog/wp-content/uploads/2023/03/Redesigned-Microsoft-Translator-app-iOS-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "AI workflow tool secures $65M from backers including Microsoft, Google"
     excerpt: "Typeface helps marketers create image and copy assets for platforms like Instagram while aiming to preserve their personal style and brand safety."
     publishedDateTime: 2023-02-27T18:50:00Z

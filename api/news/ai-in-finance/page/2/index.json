@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-07-machine-learning-market-is-set-to-see-revolutionary-growth-in-decade.md",
+      "title": "Machine Learning Market is set to see Revolutionary growth in decade",
+      "excerpt": "Feb 06, 2023 (The Expresswire) -- \"Machine Learning Market\" Size, Share and Trends Analysis Report 2023 - By Applications (BFSI, Healthcare and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-set-to-see-revolutionary-growth-in-decade-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-set-to-see-revolutionary-growth-in-decade-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T19:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-machine-learning-as-a-service-mlaas-market-with-massive-data-and-availability-to-hamper-the-industry-growth-125-pages-report.md",
       "title": "Machine Learning-as-a-Service (MLaaS) Market With Massive Data and Availability to Hamper the Industry Growth | 125 Pages Report",
       "excerpt": "Market research report offers New Insight updates on Business Strategies including Mergers, Acquisitions, Revenue Outsourcing, R and D, Expansion Plans and Collaborations adopted by these Major Global Players,",
@@ -1271,50 +1315,6 @@
         "AI",
         "AI in Finance",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-daniel-calugar-share-how-ai-protects-your-finance-account-from-fraud.md",
-      "title": "Daniel Calugar Share How AI Protects Your Finance Account from Fraud",
-      "excerpt": "Financial fraud costs consumers, merchants, and big banks billions of dollars every year. It's not just the money that's stolen, either, investor Daniel Calugar says; it's the associated costs of trying to recover or to cover the money lost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2329852-daniel-calugar-share-how-ai-protects-your-finance-account-from-fraud",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2329852-daniel-calugar-share-how-ai-protects-your-finance-account-from-fraud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/24_01_2023_10_45_23_4107228.jpg?width=1280",
-          "width": 1280,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2329852-daniel-calugar-share-how-ai-protects-your-finance-account-from-fraud?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2329852-daniel-calugar-share-how-ai-protects-your-finance-account-from-fraud?amp",
-      "publishedDateTime": "2023-01-23T21:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

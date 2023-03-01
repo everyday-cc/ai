@@ -36,15 +36,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 5
-  - title: "Airtel deploys AI-powered speech analytics solutions for customer service transformation with NVIDIA"
-    excerpt: "Bharti Airtel, India’s leading telecommunications service provider today announced that it has built an AI-based solution, in"
-    publishedDateTime: 2023-02-24T13:13:00Z
-    webUrl: "https://www.telecomtv.com/content/digital-platforms-services/airtel-deploys-ai-powered-speech-analytics-solutions-for-customer-service-transformation-with-nvidia-46772/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 4
 
 secured: "ZXRl8Ry772pGV9+PgffQR0T/mnsXIcP/bt2qvd35H8/kX8cnl1j/a9uxNTOf+Giwnov4WDvzYOT9hI/HL0PZRgdPQ/UI0JhZ2Y/X2cajl0WyfR3gAPH+J3cbkNrDe3DktWR5KjoAWVs9/DUiOP2uLeeK5JjtxbQxrUpJ6/b6+Dig/oM9FHdmhOgo25gqPjhgc2056KnMfPS8Bou5WHF9WO+SFxijGmjeaHcfTUu4iGdJIeACWEySQMEAVGxRqFIEdkl/8MeVIyfXVx2ioSYaOPCIlIKn/v7asgzV4CgZ3u5EyS6YH/uZDkdCnUzurn32E7No6aoATNfUu2AuIvpFJoeO/Rt2bi5Nfj0mUbyG/QI=;tE0T7Y8i2rk9X/B2xUqcpg=="
 ---

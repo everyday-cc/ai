@@ -185,14 +185,14 @@ related:
         height: 1707
         isCached: true
   - title: "How ChatGPT’s AI Will Become Useful"
-    excerpt: "It still needs to go through new versions and have its flaws exposed to be good."
-    publishedDateTime: 2023-02-26T20:35:00Z
-    webUrl: "https://www.wsj.com/articles/ais-not-useful-yet-but-it-will-be-chatgpt-artificial-intelligence-robots-microsoft-bing-chatbot-elder-care-tyrell-corporation-self-driving-tesla-technology-a1a27df0?mod=flipboard"
+    excerpt: "They had to alter the original code because they discovered almost every player at the start of the first race ... on with the newfangled generative AI chatbots. Everyone’s trying to break ..."
+    publishedDateTime: 2023-02-26T21:39:00Z
+    webUrl: "https://www.wsj.com/articles/ais-not-useful-yet-but-it-will-be-chatgpt-artificial-intelligence-robots-microsoft-bing-chatbot-elder-care-tyrell-corporation-self-driving-tesla-technology-a1a27df0?mod=latest_headlines"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://images.wsj.net/im-732096/social"
         width: 1280
@@ -473,15 +473,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "ChatGPT’s Alter Ego Reveals Dark Side of Artificial Intelligence"
-    excerpt: "Knightscope ( NASDAQ:KSCP) creates Autonomous Security Robots (ASRs) that deter, detect, and report using four cutting-edge technologies: autonomous driving, robotics, artificial intelligence (AI), and electric vehicles."
-    publishedDateTime: 2023-02-24T14:15:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/pressreach-2023-2-24-chatgpts-alter-ego-reveals-dark-side-of-artificial-intelligence"
-    type: article
-    provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 19
   - title: "Elon Musk Sounds the Alarm About the Dangers of AI And ChatGPT"
     excerpt: "The billionaire entrepreneur had called for regulation of artificial intelligence before the unprecedented breakthrough in the technology."
     publishedDateTime: 2023-02-27T20:42:00Z

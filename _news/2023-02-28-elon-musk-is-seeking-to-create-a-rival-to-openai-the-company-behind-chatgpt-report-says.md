@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-20
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-2023-2?amp"
 type: article
 quality: 80
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -134,15 +134,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 32
-  - title: "ShiftPixy Leverages OpenAI/ChatGPT to Streamline Recruiting and Staffing Opportunity Matching"
-    excerpt: "This integration within the ShiftPixy platform will leverage ChatGPT's advanced natural language processing capabilities to instantly analyze worker experience, job descriptions, and other candidate-related data,"
-    publishedDateTime: 2023-02-24T14:39:00Z
-    webUrl: "https://www.tmcnet.com/channels/call-center-management/news/-shiftpixy-leverages-openaichatgpt-streamline-recruiting-staffing-opportunity-mat-/2023/02/24/9766134.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
   - title: "AI News roundup: Elon Musk working on ChatGPT rival, Snapchat eyes slice of AI pie, Zoom's AI integrations and more"
     excerpt: "Elon Musk is recruiting Igor Babuschkin, a researcher who recently left Google's parent company Alphabet's AI unit, to develop an alternative to ChatGPT. The tech billionaire has approached AI (artificial intelligence) researchers in recent weeks to form a new research lab for it,"
     publishedDateTime: 2023-02-28T13:28:00Z

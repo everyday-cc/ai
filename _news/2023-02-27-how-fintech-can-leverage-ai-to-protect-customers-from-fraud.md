@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leve
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: The Week
@@ -27,22 +27,68 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Helps Protect Intellectual Property"
-    excerpt: "Brands today have enough challenges: build great products, reach target customers cost-effectively, and increase sales and revenue. The last thing they want to contend with is finding out that someone somewhere is copying their products and selling them ..."
-    publishedDateTime: 2023-02-24T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/amp/"
+  - title: "AI-Powered Tax System Is Creating A New Paradigm. Will Banks And Fintechs Adopt The Technology To Help Their Customers Save On Their Tax Bill?"
+    excerpt: "Tax impacts nearly 100% of Americans and is one of the largest expenses people bear each year. Yet, most of us go all year without having a clue if we are ahead or behind on our obligations to the tax authorities."
+    publishedDateTime: 2023-02-27T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/02/27/ai-powered-tax-system-is-creating-a-new-paradigm-will-banks-and-fintechs-adopt-the-technology-to-help-their-customers-save-on-their-tax-bill/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/02/27/ai-powered-tax-system-is-creating-a-new-paradigm-will-banks-and-fintechs-adopt-the-technology-to-help-their-customers-save-on-their-tax-bill/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/02/27/ai-powered-tax-system-is-creating-a-new-paradigm-will-banks-and-fintechs-adopt-the-technology-to-help-their-customers-save-on-their-tax-bill/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 51
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63f7c6727d0ada838b093b46/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63f774f52430dcaed98ba854/0x0.jpg?format=jpg&width=1200"
+        width: 640
+        height: 426
         isCached: true
+  - title: "Altai Ventures Launches Fund to Help Insurtech, Fintech Founders"
+    excerpt: "Altai Ventures, an early-stage venture capital firm, recently announced the closing of Altai Ventures Fund II, LP (focused on Fintech)."
+    publishedDateTime: 2023-02-24T20:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/02/202912-altai-ventures-launches-fund-to-help-insurtech-fintech-founders/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/Dollars-Money-Cash-Pay-768x1024.jpeg"
+        width: 768
+        height: 1024
+        isCached: true
+  - title: "This Hong Kong fintech employs AI technology to promise collateral-free loans to city’s small businesses"
+    excerpt: "FundPark, a fintech-focused platform for trade finance ... he added. “Through AI technology and data analysis, our own proprietary risk-management tool develops its predictive model,” Suen ..."
+    publishedDateTime: 2023-02-26T03:01:00Z
+    webUrl: "https://www.scmp.com/business/banking-finance/article/3211408/hong-kong-fintech-employs-ai-technology-promise-collateral-free-loans-citys-small-businesses"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 32
+  - title: "Exploring 7 of the Latest Technological Trends in Fintech"
+    excerpt: "Fintech firms can use both technologies to automate fraud detection and loan origination processes while providing more accurate insights into customer behavior. By leveraging these tools, businesses can cut manual labor  costs while increasing overall performance accuracy and efficiency."
+    publishedDateTime: 2023-02-25T21:30:00Z
+    webUrl: "https://www.finextra.com/blogposting/23806/exploring-7-of-the-latest-technological-trends-in-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/a4428d07-be55-4674-973f-7b5d26aab3e3.jpg"
+        width: 500
+        height: 375
+        isCached: true
+  - title: "How Is Fintech Changing The Way We Bank?"
+    excerpt: "The world of banking is changing rapidly, and the engine driving this change is the phenomenon known as fintech. As a result, our relationship with money has been completely upended."
+    publishedDateTime: 2023-02-25T14:10:00Z
+    webUrl: "https://financialit.net/blog/fintech/how-fintech-changing-way-we-bank"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 19
 
 secured: "cmvVrcJHzGy1Lo/QXkUIfFqNUK3HVeVnUlC5X0WNUDbNT+EhTP2GKk5Pc/NJKrRYB8CJoFTKoP6/oLMPi8cFH1aXSpKIEyVJ2x3fg5NBFoM4W4qxl1/nO7MAHGly6yC3/JCIjAXqrOy/9pw+K3qGg13a3kOC9A7Y59hWFTR+5XUNtVib+nQFaIHFkRcdU7IHLCobVsWxn2EAdCbZF3jXK6RNitljBE27VlHrpy77pKydo9dh+JtfWZY5L3pazh1JeM0ca5PJoUM0L/hpRLM/gNToZ0h5siqSQzJOnl33QZOKBrwkxfAhnBPOQfM0G8DvyCKamIj7Vct4GWyyKt+pJku57htWGCP3cAL1Zj1khUEDo1hMnAgcnziHRxm4tH6GL0ndBq1F7qWbSaSroZLB8/0l/Sp+9IEubObBuBDzyn06H59CcqOQ3j5aAC8RfDvRDExGiCQvbnkbDH+HAM1wo5XFXydLvTHvjukpRensq3Jk8vkbwJg5VQxn00uRLYHh34FQNSmG/AIvVKPqKN3SCQ==;KzbDsiMxM9eMT5xwMWZJ+w=="
 ---

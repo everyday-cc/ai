@@ -25,6 +25,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "How AI is transforming safety and security in public places"
+    excerpt: "We’re in a technological renaissance period for security and surveillance capabilities. However, activities designed to keep people and places safe started out with highly manual methods. We’ve since organized our efforts and learned new ways to leverage technology to our advantage."
+    publishedDateTime: 2023-02-27T20:35:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/53026728/how-ai-is-transforming-safety-and-security-in-public-places"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 38
+
 secured: "mQwZVJ3UPC6RmmNnph+WpH1IKSeG28bZ4wSEc03KHcNArI9TMOEPIGs4UhqhODglK8yOOmMUDhd12ko+ATr7wakaPMrMY0YdSuRq2WNmI4blAeGOkIw5pcFxtuuPUOwX1NC22j5egYEap8PtzqNp83nW8n/jTCw+UOe30syPLowPT2Fz/cdU+tEMlr9O5WGgKF0CLq+1ma7+LAMsifjgcaRzvlMIuC9BjnxrhvWXJJZzNDl6ZSaLr+DHqmIN1+UCdh1mTus6FI+aX7yXnJewDqVzIwif7Na21DofF05stwFYEl4TSelKYgksVQUcjF0+jU/rh5qvywHTrL5mD0WW+EO8lo7IZLm7lQ2P8k8sJ64=;IAqzn9liCT/aztzkIJIyGA=="
 ---
 

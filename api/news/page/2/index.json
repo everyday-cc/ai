@@ -511,57 +511,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-27-ai-powered-tax-system-is-creating-a-new-paradigm-will-banks-and-fintechs-adopt-the-technology-to-help-their-customers-save-on-their-tax-bill.md",
-      "title": "AI-Powered Tax System Is Creating A New Paradigm. Will Banks And Fintechs Adopt The Technology To Help Their Customers Save On Their Tax Bill?",
-      "excerpt": "Tax impacts nearly 100% of Americans and is one of the largest expenses people bear each year. Yet, most of us go all year without having a clue if we are ahead or behind on our obligations to the tax authorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/02/27/ai-powered-tax-system-is-creating-a-new-paradigm-will-banks-and-fintechs-adopt-the-technology-to-help-their-customers-save-on-their-tax-bill/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/02/27/ai-powered-tax-system-is-creating-a-new-paradigm-will-banks-and-fintechs-adopt-the-technology-to-help-their-customers-save-on-their-tax-bill/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f774f52430dcaed98ba854/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/02/27/ai-powered-tax-system-is-creating-a-new-paradigm-will-banks-and-fintechs-adopt-the-technology-to-help-their-customers-save-on-their-tax-bill/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/02/27/ai-powered-tax-system-is-creating-a-new-paradigm-will-banks-and-fintechs-adopt-the-technology-to-help-their-customers-save-on-their-tax-bill/amp/",
-      "publishedDateTime": "2023-02-27T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-27-the-future-of-data-and-ai-in-the-financial-services-industry.md",
       "title": "The Future Of Data And AI In The Financial Services Industry",
       "excerpt": "The financial services industry is undergoing a major transformation driven by the latest trends in data and AI.",
@@ -662,6 +611,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-how-fintech-can-leverage-ai-to-protect-customers-from-fraud.md",
+      "title": "How fintech can leverage AI to protect customers from fraud",
+      "excerpt": "Biometric authentication- Fintech companies can also use AI to improve their ability to onboard customers. One way to do this is through biometric authentication, such as voice recognition, facial recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.html",
+      "originalUrl": "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/focus/economy/images/2023/2/27/fintech.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html",
+      "publishedDateTime": "2023-02-27T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
