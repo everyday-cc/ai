@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability/amp/"
 type: article
 quality: 116
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "Painting robot tests AI’s ability to be imprecise"
-    excerpt: "News Agency Painting robot tests AI’s ability to be imprecise. Posted . A robotic arm with a brush taped to it at Carnegie Mellon University is collaborating with humans on pain"
-    publishedDateTime: 2023-02-25T01:37:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOV265323022023RP1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20230225&i=OV265323022023RP1&r=OV265323022023RP1&t=2"
-        width: 960
-        height: 540
-        isCached: true
 
 secured: "U74Szm9UXmtuUnnFLlutSDsWLyUy+LF1J90frXrwJIBDMlj2XcoMRqyEoKAw7B+Ri8Dg3wsJsMz8rhevDzapvyqsHKEf02OVj+/RWExiKeTapYwFr/QIVn8R+d9SsG5+cTxWiOG8z3oouA4Ltw7WAZXC9qqH3SkYxpMkT624T7FmnvYF5Vg1BWMT6EpbPYkyNtjb2yTnYbUiha14GcOVD6KGFmLsKX+2r2vZQxd/FmjEpeThsgTxWpgV5BghVZ+0xrpT5aVgK7SrrvMIZ6E2W6+3icM4hM/gyRwHskTIDCzGJKVnVeuMoOKQROIGIK0X+pfKzlKVqx+HchnwMzwHb2Rx31a2g9izXeZDADg8zVrDYYZCwAGbpppq5b4Tl8OGxsaNtJG0SeUFWESiNe8FFDCrOCH2TFDuw4FEXQIq4pRD4vmIcrrf1OHo9DVN4siSftNe//X9o7h5ca0dhImOE4H7b8cnLKk6PxEP0iF/2ON4pUgXkQf93csEXqORB0mfQBF173SHioYxyx65rP5i3g==;VWM4aLkG59P+5i/DeY2Z9w=="
 ---

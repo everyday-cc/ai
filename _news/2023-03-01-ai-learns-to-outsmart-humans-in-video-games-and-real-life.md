@@ -37,6 +37,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Outsmarting humans just one step for AI video game players"
+    excerpt: "A new branch of research is more focused on teaching advanced computers to perform open-ended tasks in complex worlds and interact with humans, not just for the purpose of beating them."
+    publishedDateTime: 2023-03-01T18:43:00Z
+    webUrl: "https://www.stripes.com/living/entertainment/video_games/2023-03-01/bc-us-artificial-intelligence-video-games,-1st-ld-writethru-9271005.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 39
+    images:
+      - url: "https://www.stripes.com/incoming/dd4k3y-video-games-artificial-intelligence/alternates/LANDSCAPE_480/Video%20Games%20Artificial%20Intelligence"
+        width: 480
+        height: 299
+        isCached: true
   - title: "AI learns to outsmart humans in video games - and real life"
     excerpt: "Speed around a French village in the video game Gran Turismo and you might spot a Corvette behind you trying to catch your slipstream. The technique of using the draft of an opponent's racecar to speed up and overtake them is one favored by skilled players of PlayStation's realistic racing game."
     publishedDateTime: 2023-02-27T15:49:00Z

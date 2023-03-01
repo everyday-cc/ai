@@ -151,6 +151,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
+    excerpt: "From the increased prominence of micro-mobility scooters to self-driving food delivery drones, there is a clear trend of increased electrification. It seems the next phase of electrification is coming to a lawn near you. Graze Mowing is a startup raising ..."
+    publishedDateTime: 2023-03-01T17:38:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31133363/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31133363"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31133363"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
 
 secured: "mXvrmn4ArJyHX5V4C1Zz+RAXoVuA7ZTG4v/m9+rK3gICj9U1itfUIqT9tz+kkLAoHQa68bDF23cGl7wV7oDt/lECIMjT2sdYXA2acrycXaQmvB/SrlbjwOhQSvjtw3X1o0KDgUgFxVN5Ns4lcN3nJfksuxqDQLTWjScpcxS3R8f7bIqCqDYyF3lMC8NwP4hnPM0XcsanRD6YN5dDGhEEfDgOXT/8RbdxwNi58LLT3VymjX6ckDM/hKS7VxTPed5C8D4+unH5GeNnb1P0nQSj0sBLaj/mtiRa0Q56qS+AXCcxxy1Orf6NcrGDyOiHLIfDwVYIMZbgfurMhHny9xq49GboM9llZGOwVKBz+Qt6qPHjO8d+DR0D2tCYBzdKERoAqWoB6S4s4xCOZ3vSfWQJWgsRlMAynjORPW8nrnZuaVnQ0Olt3A0RPKyv13W2NQK3PU+wOexaVhJpwg3ZMl4nrRrZu9NaIvQAtaWFRrtSEx8IhImRysup1q7N19wLiIkyCtEdl79ZhSqGQJvn7retWA==;EMMFTRjY7JkLVd84JW+t+w=="
 ---

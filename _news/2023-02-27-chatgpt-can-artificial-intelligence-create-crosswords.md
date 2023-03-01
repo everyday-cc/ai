@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theguardian.com/crosswords/crossword-blog/2023/feb/20/ch
 cdnAmpWebUrl: "https://www-theguardian-com.cdn.ampproject.org/c/s/www.theguardian.com/crosswords/crossword-blog/2023/feb/20/chatgpt-can-artificial-intelligence-create-crosswords"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "An Interview With ChatGPT: AI Advice to Be a Better CFO"
-    excerpt: "Can artificial intelligence-based chatbots provide credible insight into how CFOs can do their jobs and run their companies?"
-    publishedDateTime: 2023-02-27T21:03:00Z
-    webUrl: "https://www.cfo.com/technology/2023/02/openai-chatcpt-finance-advice-to-be-a-better-cfo-tech-artificial-intelligence/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 39
-    images:
-      - url: "https://assets.cfo.com/images/Zz1kNmQ0ZmUxZWI2YWYxMWVkYTEzODEyYjUyNjQ1ZWIzNg==?width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "N5anTj2jI7TvI2qiybcM4ShOJXAeaJ4ACl7tfBoufn3TFBXtSYHZKWo+LFtBPqXJLD32gtj/0gxzIcbODycIzY5412TbZVLTa8rPhLy0kMVn5NhWfU4EiF3+ib39mdfQcZbv3hKNcvtwesBxtWfPgB9xbMyTlnJ4LXR+UzijZhZPWBWY3X2vhiapghVMMZJ4iR6fH9iKcePFVgDAdtfyniJ5yms41jvc0TzCq7Gk/IH/SLnyuargZbkI3Yw1p2IkAl3ZTPaN5+oPTPANzbnHIfGOrpWB0OxDh1+Pe9DKiL8wwO4b+iK8xT8HWFFCsvYZb96qadoyKK/nqnUh+aP5pSU4MRZ9RzTbSfK0/pnPDzM=;YL8TGi6fAOkZAnCwXsLf6g=="
 ---

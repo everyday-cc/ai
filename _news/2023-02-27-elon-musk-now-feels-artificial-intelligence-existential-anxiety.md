@@ -18,20 +18,63 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk Is Building an Anti-Woke AI, Whatever That Means"
-    excerpt: "The world is currently enraptured by the fascinating, eerily human-like powers of language-based AI neural networks like ChatGPT—and Elon Musk, the world’s richest man, is among them. These two fears of Musk’s have intersected as developers of ChatGPT,"
-    publishedDateTime: 2023-03-01T15:21:00Z
-    webUrl: "https://www.popularmechanics.com/technology/robots/a43126181/elon-musk-anti-woke-artificial-intelligence/"
+  - title: "Elon Musk recruits team to develop OpenAI rival"
+    excerpt: "Tesla and Twitter chief Musk has been recruiting Igor Babuschkin, a researcher who recently left Alphabet's (GOOGL.O) DeepMind AI unit, the report said."
+    publishedDateTime: 2023-02-28T03:59:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/elon-musk-recruits-team-to-develop-openai-rival-10171421.html/amp"
     type: article
     provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 37
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
     images:
-      - url: "https://hips.hearstapps.com/hmg-prod/images/elon-musk-attends-the-2022-met-gala-celebrating-in-america-news-photo-1677628375.jpg?crop=1.00xw:0.334xh;0,0.172xh&resize=1200:*"
-        width: 1200
-        height: 601
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/04/pjimage-50.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Elon Musk Assembling Team to Develop ChatGPT Rival, Held Talks With Former DeepMind AI Researcher: Report"
+    excerpt: "Tesla and Twitter chief Musk has been recruiting Igor Babuschkin, a researcher who recently left Alphabet's DeepMind AI unit, the report said."
+    publishedDateTime: 2023-02-28T04:43:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/elon-musk-chatgpt-ai-chatbot-rival-artificial-intelligence-new-research-lab-igor-babuschkin-3820521"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/elon-musk-chatgpt-ai-chatbot-rival-artificial-intelligence-new-research-lab-igor-babuschkin-3820521/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/elon-musk-chatgpt-ai-chatbot-rival-artificial-intelligence-new-research-lab-igor-babuschkin-3820521/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 57
+    images:
+      - url: "https://i.gadgets360cdn.com/large/openai_chatgpt_plus_subscription_unsplash_1675279843231.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Elon Musk is hiring ex-Google staffer to develop ChatGPT rival: Report"
+    excerpt: "Tesla and Twitter chief Musk has been recruiting Igor Babuschkin, a researcher who recently left Alphabet's (GOOGL.O) DeepMind AI unit, the report said."
+    publishedDateTime: 2023-02-28T06:06:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/chatgpt-elon-musk-openai-google-alphabet-10171421.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/chatgpt-elon-musk-openai-google-alphabet-10171421.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/chatgpt-elon-musk-openai-google-alphabet-10171421.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/02/Collage-Maker-28-Feb-2023-11.28-AM-770x435.jpg"
+        width: 770
+        height: 435
+        isCached: true
+  - title: "AI News roundup: Elon Musk working on ChatGPT rival, Snapchat eyes slice of AI pie, Zoom's AI integrations and more"
+    excerpt: "Elon Musk is recruiting Igor Babuschkin, a researcher who recently left Google's parent company Alphabet's AI unit, to develop an alternative to ChatGPT. The tech billionaire has approached AI (artificial intelligence) researchers in recent weeks to form a new research lab for it,"
+    publishedDateTime: 2023-02-28T13:28:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-elon-musk-working-on-chatgpt-rival-snapchat-eyes-slice-of-ai-pie-zooms-ai-integrations-and-more-10176581.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 0
 
 secured: "RHcRN7XEzFmIk+ZRk4u2rS5IVTR1O6f665DBqgfajTt1JU6E1sqXaIP1iiJttM7EeDuHE9kkDhF7eFkcwT+mXwk9nOMsnVTDVe1chUjCGPK/5z1e64rka+3BOqp26Qr3372Xk4aPhGC+ICruzH+yruMPwsQrU5Fx1y4ZeZPOM+7AjEPYExXbEH6YAb366j9VdCAdoDJTDZU7qGh0IrO5weIS7UiVItMjrOawEwi8ZMzni7vhwlY/DsASq4pgSiC5SQUlugYs/RfMsFVViLZ2fzREH2XMc6TNiNOQ8HSGpBQt815NnLmS9nUPnkqBPpdj/7cWUL7djjXNCIo3c9tB0jnNPh1uwD3qhYJpLjK3wAlSZfEBsEjoG2/flambm2AJJxoMJ8+w3u/NUTcYJmcnVC0unL28Nkag3EE5XRuO2fboXtoAn4ricHvQn5pyVzuydQCdobtQ6lTIJQDEDwQNcWLme40R16neLWXGtec2bG8PYJxXzohZyzkADn1Dy+wA/IMnMf/GHkpxx/VagViBnQ==;2OTesh1JEaEzwSK1cbrT1A=="
 ---

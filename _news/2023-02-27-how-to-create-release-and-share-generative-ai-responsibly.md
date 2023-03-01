@@ -18,68 +18,66 @@ topics:
   - AI
 
 related:
-  - title: "The purpose and impact of creative AI"
-    excerpt: "Will generative AI be more of a problem than it’s worth? Here are some ways creative AI can be a help and not a threat."
-    publishedDateTime: 2023-02-28T02:07:00Z
-    webUrl: "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/"
+  - title: "How generative AI could lower healthcare costs and speed up drug development"
+    excerpt: "In the future, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic."
+    publishedDateTime: 2023-03-01T18:03:00Z
+    webUrl: "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all"
+      - url: "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "The AI Disaster Scenario"
-    excerpt: "Is it right to freak out? Is it wrong? Will AI end the human race? But also: Aren’t these tools awe-inspiring?"
-    publishedDateTime: 2023-02-27T17:14:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/02/ai-chatgpt-microsoft-bing-chatbot-questions/673202/"
+  - title: "Absci's zero-shot generative AI finds novel antibodies against cancer"
+    excerpt: "In future drug development, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic."
+    publishedDateTime: 2023-03-01T16:20:00Z
+    webUrl: "https://www.zdnet.com/article/abscis-zero-shot-generative-ai-finds-novel-antibodies-against-cancer/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/abscis-zero-shot-generative-ai-finds-novel-antibodies-against-cancer/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/abscis-zero-shot-generative-ai-finds-novel-antibodies-against-cancer/"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 71
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/yEbASzqMFEbd7XXl2z4_NjZ8B6U=/0x61:2876x1559/1200x625/media/img/mt/2023/02/AI_Questions/original.gif"
+      - url: "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 625
+        height: 675
         isCached: true
-  - title: "Exploring The Intersection Of The Edge, AI And IoT"
-    excerpt: "In this article, I explore the opportunities and approaches at the intersection of these revolutionary market adoption paradigms."
-    publishedDateTime: 2023-03-01T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/01/exploring-the-intersection-of-the-edge-ai-and-iot/"
+  - title: "Better Healthcare AI Stock: Nvidia or GE Healthcare?"
+    excerpt: "Both companies are finding AI a useful part of how they do business. GE Healthcare uses its Edison platform to analyze patient data. Nvidia is developing AI chips for drug development and supercomputers."
+    publishedDateTime: 2023-02-26T16:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/26/better-healthcare-ai-stock-nvidia-or-ge-healthcare/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-02-27T16:30:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/02/27/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/721962/woman-analyst-data-center-tablet-controls.jpg"
+        width: 5760
+        height: 3240
+        isCached: true
+  - title: "Generative AI's money game"
+    excerpt: "The generative AI revolution will be monetized, but nobody can yet say exactly how. The big picture: It seems logical that if AI can conduct conversations and produce images, companies will figure out how to use it to build revenue and profits — but there's no guarantee,"
+    publishedDateTime: 2023-02-27T10:30:00Z
+    webUrl: "https://www.axios.com/2023/02/27/chatgpt-generative-ai-money-business-models"
     type: article
     provider:
-      name: Law
-      domain: law.com
+      name: Axios
+      domain: axios.com
     quality: 39
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://images.axios.com/4qnhkuDT2tSK5ZwlaYSu68HwJTk=/1366x768/smart/2023/02/26/1677429474220.jpg"
+        width: 1366
+        height: 768
         isCached: true
-  - title: "What are the implications of artificial intelligence for the future of art? The robot artist Ai-da and her creators discuss"
-    excerpt: "Ai-Da, the artist robot, speaking at the House of Lords on 11 October ... Ai-Da and the wider field of artificial intelligence (AI) art has proven controversial and unsettling for many in the art world, which is understandable given that art is considered ..."
-    publishedDateTime: 2023-02-28T11:37:00Z
-    webUrl: "https://www.theartnewspaper.com/2023/02/28/what-are-the-implications-of-artificial-intelligence-on-the-future-of-art-the-robot-artist-ai-da-and-her-creator-discuss"
-    type: article
-    provider:
-      name: The Art Newspaper
-      domain: theartnewspaper.com
-    quality: 23
 
 secured: "ju5IaDYxuWZRr+ABRoCBC2TUOBoBUl7XUvQdlWHZ39aEbuadvft/i0wwxyk4FJObF0Dz7RUcdjlTQKB8Zbak/7JkeSg3LI98nYOtt3/nnjc4tsdOsfdlDOutT4/a3cLnvRxbU4Ij6bFwkjQhGFYriIQp+OFtJYprNBe4Nmdglfw/MPKstxormJfvgZr4SbVjvG9hLIj2SpilIALnIytNxmdq2SwyEHaz3+WpeslqGSHxjPq8UGQYZT69eIvVJKI74dbYIIG6aA9jdNxGXzhmcCXWBRBhARKPGOQvZnx1f5jaCYbdlJpXqUThZ6qCeZzaB+H6h04fM0Q9+uK9rf8/uoWdbvLsj1N+4guODFtx2+qau4+IO95ErkTEQYkbPUEKWHxUs9iU3st21IyTZUVR3rl5n7V9KWErIQk4pxNmq/oJREfgwiro6Xc8+QpwYz6kw51BVRXRkC/ZWbPkuDOIyCkAnr8YRRfEVScIvJKWkeRSlPpp6OCgmcAd696aPCjz6ZC6jiHi0/asA8Sc1yXP7g==;ZlPsSdzyitJYTAP8kLKfhw=="
 ---

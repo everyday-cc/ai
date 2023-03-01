@@ -26,19 +26,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Madison Square Garden grilled over facial recognition technology"
-    excerpt: "Madison Square Garden was in the hot seat at a New York City Council meeting Friday as council members posed questions about how the venue uses its facial recognition technology to allegedly ban lawyers involved in lawsuits against them."
-    publishedDateTime: 2023-02-25T01:08:00Z
-    webUrl: "https://www.fox5ny.com/video/1185566"
-    ampWebUrl: "https://www.fox5ny.com/video/1185566.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/video/1185566.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 39
-
 secured: "WzIdc3jbps5VMyEyD+NgnRkgkZzsXl7sifH39HogQDHDZN5l4qJVSzXhm9yCfjmShq6aiw+8xdctzjpU2sAPdjO0aNQjl+Up5+T7BfHaiZkDD74k/PMojE5G7t6QQ/2yyn9fxFaktJEAhDJ4Soty7Ow3jD6kiltUglKtr1PBPW4vcPuF2pBs/N2oMpu7fcYAkNLO5riygbLtA8f2L4tGSPkqiJDw6tpDBZsa2+aygdmRXxNT/fKBo5TXDl2DmdfjWOHaXRMw16KqfwIEjIoKn52aOC4INETnzO4iAzDqCxH6Rq1GK9AnU9xHil2ZNfNqLDbcWyjiMZLsq/3WbDRFom0AVWUxgn8sygJV5cpxDNo=;vWymUKuWG1WkcZ7iOVHjmw=="
 ---
 

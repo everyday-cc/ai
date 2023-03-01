@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/meta-launches-
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hans India
@@ -42,6 +42,20 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/meta-1677317836.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Elon Musk Ropes In DeepMind Researcher to Build OpenAI Rival"
+    excerpt: "Company is effectively controlled by Microsoft,” Musk, the one who co-founded OpenAI with Sam Altman in 2015, recently said that the way the company has now become closed source and maximising profit,"
+    publishedDateTime: 2023-02-28T09:58:00Z
+    webUrl: "https://analyticsindiamag.com/elon-musk-ropes-in-deepmind-researcher-to-build-openai-rival/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/02/ElonMusk_AIM.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "xyS6sFrgD56KuRgDd3/H9L60HbmMYYuQOI2wZ7rC990T9ZdFr9jNUePm+DibuPBZrVoWAR8eHNi9rJ+lXRC6JomtkZ7y4e8ZAREFB5MBdrD3oO99skJRJ1sPbNppDpSs9s5lDPekT2UpkpgGjoDYkpn0VF+azFlDlukVQPqSZmtSFuT5mnJ6Fgc38o8MY+bEvTZUwwbPeFioY3ZfmEDfP+PPXyuUqZT24yNGRG1itI8e1CcSVIK0HrfXsw43yV+PDN+p3On6gIajXOTHqdz/+e9O/SZnYdOaBohB1JBeohy8ScOu4eQ6YZoS9Dmr3vGVnEyktt397aZa4MvQdSRZNZKj/Kfp+WXzTxONb8ZSI/c=;+iUSKK8c4pfxBS7hrQDkiQ=="

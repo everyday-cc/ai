@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/abscis-zero-shot-generative
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/abscis-zero-shot-generative-ai-finds-novel-antibodies-against-cancer/"
 type: article
 quality: 89
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,21 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence boon in battle against cancer"
-    excerpt: "Artificial intelligence (AI) can help diagnose and cure prostate cancer better, two doctors said at an awareness programme on prostate cancer in the city recently. AI can help machines read biopsies as well as a pathologist."
-    publishedDateTime: 2023-02-27T02:34:00Z
-    webUrl: "https://www.telegraphindia.com/my-kolkata/news/artificial-intelligence-boon-in-battle-against-cancer/cid/1919114"
-    ampWebUrl: "https://www.telegraphindia.com/amp/my-kolkata/news/artificial-intelligence-boon-in-battle-against-cancer/cid/1919114"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/my-kolkata/news/artificial-intelligence-boon-in-battle-against-cancer/cid/1919114"
+  - title: "How generative AI could lower healthcare costs and speed up drug development"
+    excerpt: "In the future, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic."
+    publishedDateTime: 2023-03-01T18:03:00Z
+    webUrl: "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 72
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
     images:
-      - url: "https://assets.telegraphindia.com/telegraph/2023/Feb/1677448288_1619370964_1619039265_artificial-intelligence.gif"
-        width: 900
-        height: 500
+      - url: "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Better Healthcare AI Stock: Nvidia or GE Healthcare?"
+    excerpt: "Both companies are finding AI a useful part of how they do business. GE Healthcare uses its Edison platform to analyze patient data. Nvidia is developing AI chips for drug development and supercomputers."
+    publishedDateTime: 2023-02-26T16:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/02/26/better-healthcare-ai-stock-nvidia-or-ge-healthcare/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/721962/woman-analyst-data-center-tablet-controls.jpg"
+        width: 5760
+        height: 3240
         isCached: true
   - title: "Generative AI's money game"
     excerpt: "The generative AI revolution will be monetized, but nobody can yet say exactly how. The big picture: It seems logical that if AI can conduct conversations and produce images, companies will figure out how to use it to build revenue and profits — but there's no guarantee,"
@@ -61,7 +75,16 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "How to create, release, and share generative AI responsibly"
+    excerpt: "Companies including OpenAI and TikTok have signed up to a new set of guidelines designed to help them be more transparent around generative AI."
+    publishedDateTime: 2023-02-27T13:44:00Z
+    webUrl: "https://www.technologyreview.com/2023/02/27/1069166/how-to-create-release-and-share-generative-ai-responsibly/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
-secured: "y5EVvuylAJT2+9D1nqwKCFY4wljYoLWdNZVIJyhlOucbR+H78qLS57nQ0JxwbAz5E7EYNhPxPSrLIcvdiFu6GQsXUPpEj9sVXb8fzls8l4WUNtl9Hb7PmXzajWPkoN/9FlQ/0zHciLCI8gMkY899Mpsq5nHoXYioDHQTgzdnrCLUmPEcRd+4cH0U+6sEL13j8aNvujykTsf199ZY2+kZNYV7VPLOVksjIAvow7e75eEx/4/ImuPnbyNHYLhuaJt2GNtd1n08JiRK2yAVfm/U4xqqEH+8SHglyRLAHxtEBZS82pum04guxGiOd3XoFlExqtID2l+6X6+FzZWl1QRsufzmAyqCyZvdwTetb50xN7g=;O12niI7SoL9v/jLXR34CTg=="
+secured: "KpB7TNxqMTi2kfi+gtkxft3YKXlx7EMIa01TDRdTTSaJRk/5o4+2EqdjusVpQ2GDNTA13egU/lJLOW/OqtSjETNOxRls+RpO2QTGj4X9MmBF+Sl5/jhFrn3Ch+j0SPvzffc+7EJ+2QZI//bXq7cCTr42p1EXZeS33iTcHLvaI/TnOW5QDNsnIDKOJrK8G/FlRHsrOLHTzB0ROY0szlQHci1jPdBl9a8aTBWHJc2TLbJhQ2tHcUrOJvmHR5ju1NCPRPg/we21SOQYu6aElvGYIYX8uNQWXPlz1bonLD6zFtKN3VV1PH+aTRqUnLAYsHr6SOaI2ZPVpRE09Jeo8J9t46ZYf7GvX3teNV2Td5aBDFwgVSEqer22110fwQ1bs+CrgP2grWUyXpqvP+sX29g3siUjciGNYNbRsNFyWgGWiD+2PX6/r/4LiDvm71NDCYUlWQA5zH7PxVU4NAn6o5ssdRUdx0LwYXea/TDN2CYCKQkX/gWah4hO9gChgSdIPZVd5MJYusD91yVmCFWZJI/y8A==;ESdCseFbnoQFeEvrHG8I0Q=="
 ---
 

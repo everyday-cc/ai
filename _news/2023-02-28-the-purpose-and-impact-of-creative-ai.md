@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
       name: The Art Newspaper
       domain: theartnewspaper.com
     quality: 23
-  - title: "How to create, release, and share generative AI responsibly"
-    excerpt: "Companies including OpenAI and TikTok have signed up to a new set of guidelines designed to help them be more transparent around generative AI."
-    publishedDateTime: 2023-02-27T13:44:00Z
-    webUrl: "https://www.technologyreview.com/2023/02/27/1069166/how-to-create-release-and-share-generative-ai-responsibly/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "EEirq4RMXuF9uwcIUzEzUPLIzmk9NeA9E7TQYnCwW8eLUjX/0MKVU1b92gd4/oSgrcBbIW89RIwI/vhBpFcGg3ICr/iCrmTrICSi3FvFeYdRiyZf1ClFBEUrbIO1KwEMr7Z3+g4FsXkw9jApQMXLGs1v3znYklToeZqYe8gnuNW1F/3vie8refOH/oVvQ5sJn9nboq405oxMwtbdtu0lNl7k6O5T2gxLixsmnLzoVH6Sh8XjjqXOSUqKgMQ3ZSyep/CHBKanfVQSOEBQfMO3K+a+E5V5fmVy5HplPKgGaZ9WpABMKiW54SXul0Gr40hIjFbIMgyFKInP6OulGmjfo+Khey/JQylHYzp9p7yGaTaut674o3duO5CbgKt5wKsSJl4bSbpcKVOrPB6ga//N4cduvEalSRYyN/LFk+MC2iiBUdcbJ8jegLJgxgm05USB50BBAcZpTQgxKy0bXKLZAMYRT4zNdb0UM/HjLvuzSQk8NmSRHAizkb1i6g8m2bJ5i48uachld1R1n1rIvL5Q4w==;GyaFIzwjwaN2McnoomMvCw=="
 ---

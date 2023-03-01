@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Two bills to regulate facial recognition technology advance"
+    excerpt: "Two bipartisan bills regulating the use of facial recognition technology in Montana have advanced to floor votes. The bills would limit the technology’s use by government agencies, law enforcement, and public schools."
+    publishedDateTime: 2023-03-01T17:10:00Z
+    webUrl: "https://www.mtpr.org/montana-news/2023-03-01/two-bills-to-regulate-facial-recognition-technology-advances-to-a-floor-vote"
+    type: article
+    provider:
+      name: MTPR
+      domain: mtpr.org
+    quality: 39
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/250a609/2147483647/strip/true/crop/3008x1579+0+210/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F75%2F64%2F46656c3543529141a84f7b10edb3%2Ffacial-recognition.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "TTD to introduce facial recognition system today"
     excerpt: "TIRUMALA: The TTD is set to introduce Facial Recognition Technology on an experimental basis at Vaikuntam-2 and in the Accommodation Management System from March 1 onwards. The idea is to"
     publishedDateTime: 2023-02-28T20:09:00Z

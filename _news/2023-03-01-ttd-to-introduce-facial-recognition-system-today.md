@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Two bills to regulate facial recognition technology advance"
+    excerpt: "Two bipartisan bills regulating the use of facial recognition technology in Montana have advanced to floor votes. The bills would limit the technology’s use by government agencies, law enforcement, and public schools."
+    publishedDateTime: 2023-03-01T17:10:00Z
+    webUrl: "https://www.mtpr.org/montana-news/2023-03-01/two-bills-to-regulate-facial-recognition-technology-advances-to-a-floor-vote"
+    type: article
+    provider:
+      name: MTPR
+      domain: mtpr.org
+    quality: 39
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/250a609/2147483647/strip/true/crop/3008x1579+0+210/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F75%2F64%2F46656c3543529141a84f7b10edb3%2Ffacial-recognition.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hJNdcoH3FZRaFJg2VVgoY+CVqdDjO4tK7q+GWMQXtGLsdYcvwgAT9BmrMLH60GfwU8Q/2qX9Ow9yEwHvkjlTFdxxA8bVJeHdU1KhAn1k1H3IPYpwCGGUZQExTTWOLyQIvz2opgCKd9cPkTsHba5BNdnj+dPXI/MVNKW/0eVocOg9Si4bixRTj4FeDAAqHPovBuWDsXjc1trNGS2xOwmaDPgiTotgIIgwQMQTzZ2fatV9gtAhg7i3YlR+BNDV/n0e3l3eVQnBMHbhTP5QoVaDaLLdIOWE3pDafXF7mzfKIEcRhIctsoxbE7Zm0FyGRejS+RcbNQ5zfTkU0ZiVziKfwPAomw3oUzSUeR9xgQ7CvsUOibdpSnZeDtUsLNcCgTq+BBbiAZSftWhY3mRNSUsDvIHGskYl+cTRrosHdTguGaGogiC07HJc8rVT9VUpJ15Q3ZeBGNhDIowSrqNAKtUB/TwCk5dTO1GdW6BMD5mNiNwlK7QqV3Uo4H/uc1c9wP04tC8HxDDpyorJ+HsHa9A9Vw==;lR3M9IPAtbnGxCESQovqQw=="
 ---

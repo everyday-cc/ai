@@ -47,6 +47,20 @@ related:
       domain: kansascity.com
     quality: 39
   - title: "Outsmarting humans just one step for AI video game players"
+    excerpt: "A new branch of research is more focused on teaching advanced computers to perform open-ended tasks in complex worlds and interact with humans, not just for the purpose of beating them."
+    publishedDateTime: 2023-03-01T18:43:00Z
+    webUrl: "https://www.stripes.com/living/entertainment/video_games/2023-03-01/bc-us-artificial-intelligence-video-games,-1st-ld-writethru-9271005.html"
+    type: article
+    provider:
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 39
+    images:
+      - url: "https://www.stripes.com/incoming/dd4k3y-video-games-artificial-intelligence/alternates/LANDSCAPE_480/Video%20Games%20Artificial%20Intelligence"
+        width: 480
+        height: 299
+        isCached: true
+  - title: "Outsmarting humans just one step for AI video game players"
     excerpt: "Video game players have competed against computer-controlled opponents for decades, but they haven't been as smart and fast as GT Sophy, the new AI driver on PlayStation's Grand Turismo. Visit"
     publishedDateTime: 2023-02-27T11:00:00Z
     webUrl: "https://richmond.com/lifestyles/technology/outsmarting-humans-just-one-step-for-ai-video-game-players/article_981dbb02-083f-5897-ab3b-7e74ff567640.html"

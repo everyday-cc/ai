@@ -73,15 +73,6 @@ related:
       name: The Art Newspaper
       domain: theartnewspaper.com
     quality: 23
-  - title: "How to create, release, and share generative AI responsibly"
-    excerpt: "Companies including OpenAI and TikTok have signed up to a new set of guidelines designed to help them be more transparent around generative AI."
-    publishedDateTime: 2023-02-27T13:44:00Z
-    webUrl: "https://www.technologyreview.com/2023/02/27/1069166/how-to-create-release-and-share-generative-ai-responsibly/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "DSZJA1sq4Sp0TOa4UHBSKvHiRBOLNyMQZuET3JBk2oxy4LGZ2fhFqh5NUQc4oaAKllXfdrnfpB3BDAaMgcx9ussklEiL8KAfZxFzVguwJlCkt8I4AYJsQz3g2JcqdhWMUbNreG47zOtT+o3zies+mAU5+D57fEww6LIxDlUlIDnnmu1ynJHwSFJVDU8CbG5aUuXdz3DMZ0zdB5YvuI8s3TudMp402q1buVhrsXeptNw0FebsIgorTgdYxwztRLr6DbjkgUQtHiY2R8XKzIDov8nmSqu9h204zTW3F8chI3vCD91rCnvOt42SbGUXrc7sKkYjGHXMC06lmkwS4uwUAgjMrKfjvbNEuGgWPNnldCyk+cIhSVDg1oZ4YD/gZs6F/NUXXDrELutZBzO1TiRpiFPJO3cgLwGnGGODebEsA7a05YmpwLw00AKUpdqRJ0lR/HWFPNtOhJS1nXMQrm4o7sENARYK8WcF7KrAZIDWkF1/vY3PUtkrnH++XfMBm/n9n5XiKfPh8kuIRd4fiP+/lw==;0NQsGQRYZSE0ckhYK1f/5w=="
 ---

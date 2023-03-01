@@ -70,22 +70,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Zuckerberg's Meta To Take On ChatGPT, Creates New Group Focused On AI"
-    excerpt: "Meta will integrate the output on its products, such as Instagram and Messenger The company will build some creative and expressive tools using AI, according to Zuckerberg Mark Zuckerberg's Meta is creating a new product group focused on artificial intelligence,"
-    publishedDateTime: 2023-02-28T11:31:00Z
-    webUrl: "https://www.ibtimes.com/zuckerbergs-meta-take-chatgpt-creates-new-group-focused-ai-3672268"
-    ampWebUrl: "https://www.ibtimes.com/zuckerbergs-meta-take-chatgpt-creates-new-group-focused-ai-3672268?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/zuckerbergs-meta-take-chatgpt-creates-new-group-focused-ai-3672268?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://d.ibtimes.com/en/full/3841978/zuckerberg-renamed-company-meta-year-ago.jpg"
-        width: 768
-        height: 511
-        isCached: true
   - title: "Amazon files 2 trademarks covering robots featuring AI in metaverse"
     excerpt: "Amazon a leader in the e-commerce industry and leader in cloud services with its Amazon Web Services (AWS), is making inroads with AI."
     publishedDateTime: 2023-02-27T15:22:00Z

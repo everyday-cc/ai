@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/"
 type: article
 quality: 96
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -151,6 +151,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Tesla Of Lawn Mowers: Soon Your Cars Won't Be Your Only Self-Driving, All-Electric Vehicle"
+    excerpt: "From the increased prominence of micro-mobility scooters to self-driving food delivery drones, there is a clear trend of increased electrification. It seems the next phase of electrification is coming to a lawn near you. Graze Mowing is a startup raising ..."
+    publishedDateTime: 2023-03-01T17:38:00Z
+    webUrl: "https://www.benzinga.com/news/23/03/31133363/the-tesla-of-lawn-mowers-soon-your-cars-wont-be-your-only-self-driving-all-electric-vehicle"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31133363"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31133363"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
 
 secured: "ecU5OCbxVNktE6nYow1E5KL/rMf359LFeoe1b8IP2GrqvXuoZOSjViUDZw0L+MCLPTzfbq8ZB7zaa77F3IyhSdPiWXtnSwK4YVY6jRVLAbYTR2iFdQHZMSn0Gn+VADKob010MdYHyka7o7dqkymbyAMn+tU6R09zVEagYevHMH+K8e1Cg1Q+/Aq46MSE9IqXgqhqsqUqipU2cMy6ihP5r7MP2nUnDbgzMy81TPqFnTkQCIuRrePnigHkOWfzk2loVdUAjVxWKestXVLhvZCl/qooWxT/gAVENxAgkL5MzIok4u7x/XG2O6FRv8VmX7wCq3esLb8+x4tAu4UrNwabKgxQtSwYVS2hyEf6zDEm2v2guNbg5HLFW5zFTRpU37PFfgJRQMnbLHps0UJHZffCBICayu5KiR7R51y6SPKZAEXs5xJ9/dDJXT5I5bk65c5Dp6fFZlr+i//XAgYKadQCDqfH5hYRmCjtHx8lGcomm/mPbYeDZD7UggDFRsto4XCcHfdG97+/XQf1KabeNq9c1g==;mUgX8DFRqCnros66EB5zuw=="
 ---

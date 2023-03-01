@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Better Healthcare AI Stock: Nvidia or GE Healthcare?"
-    excerpt: "Both companies are finding AI a useful part of how they do business. GE Healthcare uses its Edison platform to analyze patient data. Nvidia is developing AI chips for drug development and supercomputers."
-    publishedDateTime: 2023-02-26T16:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/26/better-healthcare-ai-stock-nvidia-or-ge-healthcare/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/721962/woman-analyst-data-center-tablet-controls.jpg"
-        width: 5760
-        height: 3240
-        isCached: true
 
 secured: "eBI1hyKUCzIf1J4yKEVH3l1Z/fF33JdS2Z8vhFsQ4CyK5mx9FkaF0cyiFTlBVgxuEZMuuIWXeYelWBKl0bom/CSxMqja0NdliJxKMY28qQZEb02mNdVMCwwr74ePiFBo3xMNg4RO8v9X5rSEoukn5nonZXxlaNMFSMsYGUCGx/QIL+p2TJxPdicR6emha2stUbLzXWdbKX26NMOYH690iIMhEixcWWdm0KpRV+YBjj3NDhFuIUwWl8+8e+2a5LL4m683SZY5IKG9eqq8gUDlr7ErNhCisWXAlZBl/tF81pLVSWSY9475oskq+SP7rDa29PWheaJ3PfK/QwUX9GfiE0qsgW/qugDNO2T06pxcsNeGF/H0bDnvps/Oud4iRWcii5z/Y0J8rJ8+8buHXA1wOREoWWEdv4BMmjR7cGsqFqZWbWaSWUjVsqiHqJMQ3tE6xTHgT4ZjnHNDPbh5EjdvnpKbvzVim5bXQRxJeA48axEv6hgYcJgsQg0LOZfsUbGL5VtdZkRdGCFg58YC8TJpEg==;7KBUnbgNWtwXQuWHvY+3+Q=="
 ---

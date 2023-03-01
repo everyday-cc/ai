@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -46,36 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63fa39f512762143838ba854/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Snapchat launches an AI chatbot powered by OpenAI’s GPT technology"
-    excerpt: "The company announced today that it's launching \"My AI,\" a new chatbot running the latest version of OpenAI's GPT technology that it has customized for its users."
-    publishedDateTime: 2023-02-27T18:42:00Z
-    webUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/"
-    ampWebUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/ALT-Comms-banner-2.png?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ChatGPT Killed the Radio Star? These AI-Powered Chatbots Can Replace DJs"
-    excerpt: "The RadioGPT system taps OpenAI's GPT-3 language model, along with an AI-generated voice, to create an artificial DJ capable of reading the news during song breaks."
-    publishedDateTime: 2023-02-27T18:04:00Z
-    webUrl: "https://www.pcmag.com/news/chatgpt-killed-the-radio-star-these-ai-powered-chatbots-can-replace-djs"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 66
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04SpOo2lEosf80ttweNfXwU-1.fit_lim.size_1200x630.v1677515547.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Forget chatbots, this is how corporate America is really using AI"
     excerpt: "References to AI and related terms during calls with investors are already up 77% from a year earlier. It's no wonder. AI-hungry investors have propelled Nvidia Corp., which makes the chips needed for complex AI computing tasks,"
