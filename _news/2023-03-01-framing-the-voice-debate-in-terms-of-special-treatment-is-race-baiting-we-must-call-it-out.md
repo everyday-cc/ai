@@ -3,8 +3,8 @@ category: news
 title: "Framing the voice debate in terms of ‘special treatment’ is race-baiting – we must call it out"
 excerpt: "Those attempting to drag the conversation down such a low road wholly intend to appeal to racists and play on Australians’ unconscious biases"
 publishedDateTime: 2023-03-01T01:41:00Z
-originalUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/mar/01/framing-the-voice-debate-in-terms-of-special-treatment-is-race-baiting-we-must-call-it-out?amp;amp;amp"
-webUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/mar/01/framing-the-voice-debate-in-terms-of-special-treatment-is-race-baiting-we-must-call-it-out?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/mar/01/framing-the-voice-debate-in-terms-of-special-treatment-is-race-baiting-we-must-call-it-out"
+webUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/mar/01/framing-the-voice-debate-in-terms-of-special-treatment-is-race-baiting-we-must-call-it-out"
 ampWebUrl: "https://amp.theguardian.com/australia-news/commentisfree/2023/mar/01/framing-the-voice-debate-in-terms-of-special-treatment-is-race-baiting-we-must-call-it-out"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/commentisfree/2023/mar/01/framing-the-voice-debate-in-terms-of-special-treatment-is-race-baiting-we-must-call-it-out"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "IHQtQHyrMHN8KrEldc9+oGzsW4Pkrf9M6BBGK+F/klh2NNIR9JJ8otP9Yv2EuBDd6FJ3oAKAuhMTjXh44otpvoMTrmZxQ9QL+ORF4KGeURDzzxssyxv/Nz3pUnI4/molN2YDqnV8YTJtep858bq4uMKVFJMSYEgnJJQANjNd8/TxxVmruagP1N145kyVzVx1D+2PVfvm55Daa+ySnuLmhAMrYgQSkDFAT++WeUxFiLqWvt9BU2bSPBf8dQUXbDMpFFekZyswvxtJvvC3NiALDyWf9aZR4oA7+JIG7/rG3VoadDleSxM527toD0STnZS5Oqmn1zn0Bw/bJOrhla3ee2AIz+zzxwHgSXW+ZNIHquc=;54Vt+nsrbR2x6YGX5KnRuQ=="
+secured: "OGsXlXkqQMThJkMWS1ZDw00P6qNEksW3PEMl+eyOmKx0M77GX9QHfJILt4UTjRhrBE0GAh+g+CM/b5f+vc4Ead5p/NaU2rydltm2fvDJK7AJmaFL8W1+u2eq3gGt/vK78FpR2nDqogEryeWY4AUuqoYs5+zXhbvYx5djjQ99KJ8GFrt2np29wyHhkbNj+L+kyyYGh0E0Oyk5eRNprIDtPtTRvEvKhHST+ft8kFDKa0Hl3ZUi8bl2I79gHs9jZRl4YF+TAOhshiU+pU7Ya44pHxRQ9I3NiyITlZvskXTimWSgNkDnELY4I+rEefoCt8yZKKY7n/RIhb/0p40ekEwvnCerMkIZ7Q7JZ4rKmyzdVqY=;y9vUCDWa08dzvt1Xwp9bpA=="
 ---
 

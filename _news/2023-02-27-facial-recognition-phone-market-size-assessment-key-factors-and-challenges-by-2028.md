@@ -121,20 +121,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Technology Market Share, Size, Financial Summaries Analysis from 2023 to 2028"
-    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Face Recognition Technology Market\" Research Report 2023 Provides a Basic overview of the Industry including"
-    publishedDateTime: 2023-02-24T12:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-share-size-financial-summaries-analysis-from-2023-to-2028-2023-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Medical Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data"
     excerpt: "Feb 24, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Medical Market\" Report covers specified competitive outlook consisting of the"
     publishedDateTime: 2023-02-25T01:46:00Z
@@ -316,15 +302,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Artificial Intelligence in Drug Discovery Market Growth Analysis, Size, Prominent Players, Overview, and Forecast 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 24, 2023 (Heraldkeepers) -- The Global Artificial Intelligence in Drug Discovery Market is poised to value USD 5740 million by 2028 end at a CAGR of 45.7% during the ..."
-    publishedDateTime: 2023-02-24T11:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-growth-analysis-size-prominent-players-overview-and-forecast-2028-2023-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
   - title: "Global Human Capital Management (HCM) Market Report 2022: Integration of AI and Machine Learning Drives Growth"
     excerpt: "Market Outlook 2031\" report has been added to ResearchAndMarkets.com's offering. The global human capital management market is likely to grow at a CAGR of 10.53% over the forecast period i.e. 2022-2031."
     publishedDateTime: 2023-02-27T20:19:00Z

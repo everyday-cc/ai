@@ -208,15 +208,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Leading In The AI-Powered World"
-    excerpt: "According to a report, the global AI market share was $119.78 billion USD in 2022. By 2030, it is expected to hit $1,597.1 billion USD, registering an impressive CAGR of 38.1%. From industries like healthcare, technology, manufacturing, fintech ..."
-    publishedDateTime: 2023-02-24T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/02/24/leading-in-the-ai-powered-world/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "New Windows 11 update puts AI-powered Bing Chat directly in the taskbar"
     excerpt: "Microsoft is adding support for Bing Chat and the other \"new Bing\" features to the Windows taskbar as part of 2023's first major Windows 11 feature update. Microsoft Chief Product Officer Panos Panay announced the updates in a blog post released today."
     publishedDateTime: 2023-02-28T14:00:00Z

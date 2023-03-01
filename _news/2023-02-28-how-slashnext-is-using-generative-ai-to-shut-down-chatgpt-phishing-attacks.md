@@ -165,22 +165,6 @@ related:
         width: 1200
         height: 617
         isCached: true
-  - title: "The Implications Of ChatGPT On Cybercrime"
-    excerpt: "Researchers at CyberArk demonstrated how ChatGPT can be easily abused to create polymorphic malware that is highly evasive as well as difficult to detect. Every time researchers queried ChatGPT, they received a unique piece of code that could be used to create numerous mutations of the same malware program."
-    publishedDateTime: 2023-02-24T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/24/the-implications-of-chatgpt-on-cybercrime/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63f767765a57e6cb05093b42/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "LLaMA, Meta’s New AI Language Model is Not Your Average ChatGPT"
     excerpt: "By releasing LLaMA under a noncommercial license that is focused on research use cases, Meta is granting open access to the model."
     publishedDateTime: 2023-02-25T07:47:00Z
@@ -282,22 +266,6 @@ related:
       - url: "https://d.ibtimes.com/en/full/3841978/zuckerberg-renamed-company-meta-year-ago.jpg"
         width: 768
         height: 511
-        isCached: true
-  - title: "Report - ChatGPT and generative AI demand a smarter approach to EU regulation"
-    excerpt: "Grist to the mill, perhaps. With Qualcomm’s AI Research division successfully deploying foundational image model Stable Diffusion on an Android phone this week – 15 seconds for 20 inference steps – such tools are likely to become a generation’s ..."
-    publishedDateTime: 2023-02-24T11:20:00Z
-    webUrl: "https://diginomica.com/report-chatgpt-and-generative-ai-demand-smarter-approach-eu-regulation"
-    ampWebUrl: "https://diginomica.com/report-chatgpt-and-generative-ai-demand-smarter-approach-eu-regulation?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/report-chatgpt-and-generative-ai-demand-smarter-approach-eu-regulation?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 58
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-02/524D4B01-485D-499E-861C-D7497AF9A063.jpeg"
-        width: 640
-        height: 453
         isCached: true
   - title: "Advanced chips from AI computer giant aims to power ChatGPT-like tools"
     excerpt: "Advanced language models powered by Artificial Intelligence have taken the technology industry by storm of late. Platforms like Google and Microsoft are racing to integrate AI capabilities into their search engines after OpenAI's revolutionary model ChatGPT led the way in integrating AI to produce outstanding results."

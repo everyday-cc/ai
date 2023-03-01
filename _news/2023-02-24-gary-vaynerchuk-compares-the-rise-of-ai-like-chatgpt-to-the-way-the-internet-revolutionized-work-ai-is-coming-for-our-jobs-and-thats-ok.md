@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gary-vaynerchuk-ai-chatgpt-chatbot-m
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gary-vaynerchuk-ai-chatgpt-chatbot-microsoft-google-job-labor-trends-2023-2?amp"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AI Is Changing The Influencer Space. Here’s How To Prepare."
-    excerpt: "With AI tools becoming more accessible, every industry is coming to terms with the new reality. How does the content creator space fit into that story?"
-    publishedDateTime: 2023-02-24T11:59:00Z
-    webUrl: "https://www.forbes.com/sites/anharkarim/2023/02/24/ai-is-changing-the-influencer-space-heres-how-to-prepare/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "XAj49zreyp8+/4Gh8w6gaBulddtQqWo1J3AZa/kjorxzf13kTIgyPNc5Zi4DyZy5irbppnlj4szaqVQ/IUIPBl05iwyV7tW7ZD8ObYg8wYC9vXM32GVFNKl1ylLQNFrhSdbuF4JDUcdL0EjsXGqGcgmKJU8AnaWjSPhBxIl89ByOwONKD2dQ37WXfaYhF5bT95DEVyj2/LixHy77oIroMpXsE0Xd6TXmkbbd7AtUMCpdTGPDl0nkznoVwRysuUMFPJhS53EcjuII3VZ5Hva/g4uvWFVSPg76E7ZANSK2nIcAuOL164ivN92ubdi39XZHQHC0v+7CJLems59o0TBILXG1otn3bC8bwRam58Nf6FjqxTcMms/HnJXPM7k5JOkvVjWfTUyV+JMxZgY1fbHALHzDn/T+w+PdjGJIP4bYRo16oEojOYpoEquNkt9mZxBl1PAXWUUnkZmKr8qp6a9sN9EZpRWSXO6JnWhCSVbXaVk2dV7SCkbsalvPwcgK/CS8O8l91+O4JBV/xcz1xgSBpQ==;xyMz1m7cCqUa+O5hEftkRA=="
 ---

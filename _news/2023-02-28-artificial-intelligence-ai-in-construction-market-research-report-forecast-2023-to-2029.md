@@ -121,20 +121,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Education Market In 2023 : Volume, Analysis, Future Prediction, Overview and Forecast 2028"
-    excerpt: "Feb 24, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Education Market\" Report covers specified competitive outlook consisting of the"
-    publishedDateTime: 2023-02-24T12:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-in-2023-volume-analysis-future-prediction-overview-and-forecast-2028-2023-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Market 2023 is Dominating [ Analytics Sector ] till 2028"
     excerpt: "Market \" Research Insights Report 2023 | TOP 3 KEY PLAYERS in Artificial Intelligence (AI) Market Include [ Nvidia Corporation, Banjo, Megvii Technology Limited ]. The [ Analytics ] Sector is Expected to Dominate During the Forecast Period 2023 2028."
     publishedDateTime: 2023-02-26T16:34:00Z

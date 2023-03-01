@@ -215,15 +215,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Leading In The AI-Powered World"
-    excerpt: "According to a report, the global AI market share was $119.78 billion USD in 2022. By 2030, it is expected to hit $1,597.1 billion USD, registering an impressive CAGR of 38.1%. From industries like healthcare, technology, manufacturing, fintech ..."
-    publishedDateTime: 2023-02-24T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/02/24/leading-in-the-ai-powered-world/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Windows 11 Update Adds AI-Powered Bing, Built-In Screen Recorder"
     excerpt: "The new AI-powered Bing will arrive as a button in the search box for the Windows 11 taskbar. Screen recording is also finally coming to the Snipping Tool."
     publishedDateTime: 2023-02-28T14:00:00Z
