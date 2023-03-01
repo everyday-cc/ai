@@ -1,41 +1,20 @@
 ---
 category: news
 title: "Popkorn Fintech chooses Scienaptic's AI-Powered Credit Decisioning Platform to enhance automotive lending"
-excerpt: "Popkorn platform is free for consumers. Popkorn Fintech aims to put AI-driven technology in the hands of frontline sales professionals at automotive dealerships to close loan requirements of ..."
-publishedDateTime: 2023-02-25T14:25:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20230225/4043205.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20230225/4043205.html"
+excerpt: "Leading global AI-powered credit decisioning platform provider Scienaptic AI announced today that Popkorn Fintech has chosen its platform to sharpen its loan decisions. Popkorn Fintech will be using Scienaptic's platform for instant decisioning and credit assignment."
+publishedDateTime: 2023-02-25T11:38:00Z
+originalUrl: "https://www.aninews.in/news/business/business/popkorn-fintech-chooses-scienaptics-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending20230225190827/"
+webUrl: "https://www.aninews.in/news/business/business/popkorn-fintech-chooses-scienaptics-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending20230225190827/"
 type: article
-quality: 2
-heat: -1
-published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Asian News International
+  domain: aninews.in
 
 topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Popkorn Fintech chooses Scienaptic's AI-Powered Credit Decisioning Platform to enhance automotive lending"
-    excerpt: "Leading global AI-powered credit decisioning platform provider Scienaptic AI announced today that Popkorn Fintech has chosen its platform to sharpen its loan"
-    publishedDateTime: 2023-02-25T17:10:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/popkorn-fintech-chooses-scienaptic-s-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending-123022500830_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/popkorn-fintech-chooses-scienaptic-s-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending-123022500830_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/popkorn-fintech-chooses-scienaptic-s-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending-123022500830_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 42
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-02/25/full/20230225190821.jpg"
-        width: 600
-        height: 450
-        isCached: true
-
-secured: "enQb5hsvzsMXBxPOx03r7uJ3ll1eYbLjjYQr5EtOC1PrK31EIpGq7HoyMdxiqDUBlknVEHQ621iwga3xo/kE8t+k7/k5Ta6Gzy9iMoBB2nmphjkYXlW8SMTOpKqRUprtL1QB82W8nou6fu2qhzYpfEEzLvN6kOGI+JF2wYjP1vCYvnqusFbDzXEXFTYDv5lpxvLh0VNsYyr71DmzvnqTi1Bnf6xWFiYycsL4w014czE7psqNZ7oscS+iRazP5K94J4o2MyMQ7y3XO7onqlQ1zXtJN1XWXDx9e0w9z+bhdKsG6OivTjzeRCmh8xggRQKr7wxTGCMcQCTnwxtJgXL+47Z9xBoxGNKuWW/TShvLRkE=;lMLlp1234nTuAX3w8H6tAg=="
+secured: "saGphIDoiq+PMW2pLLApw5MZwjYu3HTnVnoAFGa8Cz61x2ztgrc4biTr5dnNvAsQceVfW8oCu7wQPigyzbOx+hrOD129JeAfx0goHQl8BPOwJYAWZ6QrovbMxjI9bKSmJ29hjwa3ujNuU0X0JHiDVQAOvl6GXhRVXJq/c/P+Gy6bxUL9doSwZwCPrcGB5IWRjfliOH0Z3etf2qnO3+2m40a7S4nDKGhPQhVxyPaf8y0vCKihWarjL6uPWoL/ZiZuH7uYAPgeV6AKO1dviskuIJLfsipl/99jPXTmo67R8xuO+qe9J3zGN2gaNgecpg5kcW2xFbvpX+Byu/iNPFtl3WqKm1m3VG2RSqiIKm9sGcvHcwhnxj+nrbNUqJIjpWvH/Nf2oi9qGtwsOcs4PsrnushKSvFV8edjEMMhV0jIZOPT/TJ+raonJ55BvQFhJgbgH4BmWbDdaXq3wr7/Isbc4GiRpocPQ+Z5JSU8F/VJVky5x3c6n0hrMgxqn8r+z+CI+q/LidWhLBMXpgUgl99LWQ==;2ORMFhNIffdFRwKcfD/VCA=="
 ---
 
