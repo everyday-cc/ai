@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-02-icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.md",
+      "title": "ICICI Prudential Life Insurance leverages machine learning models for customers",
+      "excerpt": "ICICI Prudential Life Insurance has deployed advanced machine learning models for their customers. This digital solution predicts future persistency behavior and has enabled the Company to improve persistency across all cohorts.",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-98351567,imgsize-15524,width-1200,height-628,overlay-etcio/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
+      "publishedDateTime": "2023-03-01T19:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-central-banks-split-on-machine-learning-ai-technologies.md",
       "title": "Central banks split on machine learning, AI technologies",
       "excerpt": "Central bank respondents use a number of forms of machine learning (ML) and artificial intelligence (AI) tools, the Fintech Benchmarks 2023 reveal. The technologies are not without their challenges, however.",
@@ -54,7 +98,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-research-report-forecast-2023-to-2029-2023-02-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -159,7 +203,7 @@
       "originalUrl": "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -194,21 +238,21 @@
       ]
     },
     {
-      "path": "_news/2023-02-27-icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers.md",
-      "title": "ICICI Prudential Life Insurance debuts machine learning models for its customers",
-      "excerpt": "To make sure that customers keep profiting from their life insurance policies and stay on track to meet their long-term financial objectives, ICICI Prudential Life Insurance has implemented cutting-edge machine learning models.",
+      "path": "_news/2023-02-25-popkorn-fintech-chooses-scienaptics-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending.md",
+      "title": "Popkorn Fintech chooses Scienaptic's AI-Powered Credit Decisioning Platform to enhance automotive lending",
+      "excerpt": "Leading global AI-powered credit decisioning platform provider Scienaptic AI announced today that Popkorn Fintech has chosen its platform to sharpen its loan decisions. Popkorn Fintech will be using Scienaptic's platform for instant decisioning and credit assignment.",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers-11677487957218.html",
-      "originalUrl": "https://www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers-11677487957218.html",
+      "webUrl": "https://www.aninews.in/news/business/business/popkorn-fintech-chooses-scienaptics-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending20230225190827/",
+      "originalUrl": "https://www.aninews.in/news/business/business/popkorn-fintech-chooses-scienaptics-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending20230225190827/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.livemint.com/img/2023/02/27/600x338/icici-pru-life-kRL--621x414_1677488331407_1677488331638_1677488331638.jpg",
+          "url": "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20230225133458.jpg",
           "width": 600,
-          "height": 337,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -216,13 +260,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers/amp-11677487957218.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers/amp-11677487957218.html",
-      "publishedDateTime": "2023-02-27T01:02:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-25T03:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
+        "name": "Asian News International",
+        "domain": "aninews.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -233,8 +277,7 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {
@@ -1364,40 +1407,6 @@
       "provider": {
         "name": "CoinTelegraph",
         "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-fintech-company-wisor-ai-secures-8-million-in-seed-funding-to-modernize-global-supply-chain.md",
-      "title": "Fintech Company Wisor AI Secures $8 Million in Seed Funding to Modernize Global Supply Chain",
-      "excerpt": "Wisor AI, an advanced freight booking software solution, has raised $8 million in a seed funding round led by Team8. The funding will expedite Wisor's mission to digitize the global supply chain industry and empower freight forwarders to plan,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756068.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756068.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

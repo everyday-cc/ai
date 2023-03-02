@@ -94,15 +94,6 @@ related:
         width: 500
         height: 375
         isCached: true
-  - title: "How Is Fintech Changing The Way We Bank?"
-    excerpt: "The world of banking is changing rapidly, and the engine driving this change is the phenomenon known as fintech. As a result, our relationship with money has been completely upended."
-    publishedDateTime: 2023-02-25T14:10:00Z
-    webUrl: "https://financialit.net/blog/fintech/how-fintech-changing-way-we-bank"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 19
 
 secured: "mDm4RHb/Y/0bO6oBIKHx4X/7zQ+19MUROHYbxaO6v00Qxbkbei9wTf6RBHxaHDvzrYhswWtNBqqNTRpK/hLhxkdmFcmvZs2pnSNE6AfaImzosHvd04/S2ykf3FhIxlsBYcCt6DK9T9hNF8qAFm0+PqroKT8FDJZmOOwKKjE0xyKR/LHjyysziW84fwlvEg2kuvgOtfix708LRz5JEP53lh4H6bJIy73F6qmkYHiaFwGTrv0gnPTdGLTMcDGgQNcx1dF7e/YTnj74z/Z2DP5Ppm8EnsAmSgiMXiYTlFzs1k83PGFIUsf5GlN3x0nGsnuf65DN3s41yklcxpMpS3+vykYfO6IvYMsI0GSfq78YNsVdQk9aBWz8a/zsQkG31bRwbkkviHi9cpVjfPZp0HF4a1UUGzE47T9HsKuGAdxzLfhrL0QEPnJg5uuMcZl7sljcPzsd7580RGFwTI+zKIpuOHKHr0m3efmN2Qz84whaPM2hhcesOyGdgpzirdO3nPzwzFnxUzPtbZZusXVJBGB1Ag==;yVnGPRDMmZWd6aQO5H3a+g=="
 ---

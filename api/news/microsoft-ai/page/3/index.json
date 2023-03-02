@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-09-study-reveals-that-much-still-not-known-about-cognitive-decline.md",
+      "title": "Study reveals that much still not known about cognitive decline",
+      "excerpt": "More information: Predictors of cognitive functioning trajectories among older Americans: A new investigation covering 20 years of age- and non-age-related cognitive change, PLoS ONE (2023). DOI ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/we-still-dont-know-whi.jpg",
+          "width": 1280,
+          "height": 914,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-oracle-cloud-made-all-the-right-moves-in-2022.md",
       "title": "Oracle Cloud Made All The Right Moves In 2022",
       "excerpt": "For example, Adept AI, a machine learning research and product lab ... Last year, Oracle Database Service for Microsoft Azure launched, enabling customers like Marriott to integrate the capabilities of two major cloud providers for better performance ...",
@@ -1229,40 +1272,6 @@
       "provider": {
         "name": "CRN",
         "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules.md",
-      "title": "Generative like AI like ChatGPT is changing lives but humans must set the rules",
-      "excerpt": "To be sure, bad actors could abuse these tools for various illicit schemes, such as sophisticated online scams or writing malware. But the technology’s prospective",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/opinion/generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules",
-      "originalUrl": "https://www.khaleejtimes.com/opinion/generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

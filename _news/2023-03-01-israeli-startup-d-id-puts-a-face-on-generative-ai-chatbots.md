@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/01/full/1677674444-8776.jpg"
         width: 620
         height: 464
+        isCached: true
+  - title: "Forget chatbots, this is how US companies are using AI"
+    excerpt: "AI-hungry investors have propelled Nvidia Corp., which makes the chips needed for complex AI computing tasks, into the best-performing stock among mega-caps this year. Relatively obscure firms with AI in their names have also skyrocketed."
+    publishedDateTime: 2023-03-02T06:25:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/forget-chatbots-this-is-how-us-companies-are-using-ai-11677696638856.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/forget-chatbots-this-is-how-us-companies-are-using-ai/amp-11677696638856.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/forget-chatbots-this-is-how-us-companies-are-using-ai/amp-11677696638856.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2023/03/01/600x338/ai_1677696815878_1677696844097_1677696844097.jpg"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "+b0ZfJEQNwtkPo6g159lykKHdDIaZtzBlRTERQ5uoAVN4fpYD9+mv/8HF/N2wK7a1WyNrH4Up0YL3TXloN6+mzABKGPAmiEarvC8dDJ42dXU6/P7lDmhBBxWUe6lNdGSe9kuBzuoq6EymKQYBuexJBdtcSsw6JM+0RnKnglsDraGb00o53zx3FzuWeWPJWneJeMXO2n8YwNRblvyS1nkq8ZNMs7cWtB+IQYfyCpsQ1+LTMZizagDz7d6/V8G8YHZVGjIsx1DS3ZjVr7AaCIW6rlGvskEYzkNacF0Fc/hG2l+bQfMqjsS1aXknk4ZiMDJ8by6Gfq12OHqJreSnZXP0O28yZF4ufIHKq44ttTm/zMQUoNj5t96UEqk14rz4wkF4MlUdxrKTOmqUyD3M9QTb7AhVZwnyUJMI+9MtpavptwlD6aWSc8xCSgLdS3XonlQGXTYDGXG9BoZjqLfB7e5jQ0C2EUd/OhyJk3RkwnKixaDtRyI8WkDb7ysVu68Up9jPB43SwJ6mRVzqOCqxl0FIA==;fIXNfLjdBf8FO4n+pGjOvA=="

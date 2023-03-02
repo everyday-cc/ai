@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-02-healthcare-natural-language-processing-nlp-market-2023-huge-demand-growth-opportunities-and-expansion.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market 2023 Huge Demand, Growth Opportunities and Expansion",
+      "excerpt": "Healthcare Natural Language Processing (NLP) Market Size 2023 | New Report (122 Pages) | Information Technology | In",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-2023-huge-demand-growth-opportunities-and-expansion-2023-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-2023-huge-demand-growth-opportunities-and-expansion-2023-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-openai-debuts-whisper-api-for-speech-to-text-transcription-and-translation.md",
       "title": "OpenAI debuts Whisper API for speech-to-text transcription and translation",
       "excerpt": "OpenAI is rolling out the Whisper API, a hosted version of the open source speech-to-text model that the company released in late 2022.",
@@ -222,7 +275,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -363,58 +416,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-28-natural-language-processing-nlp-market-to-grow-significantly-by-leading-players-2023-to-2028.md",
-      "title": "Natural Language Processing (NLP) Market to Grow Significantly by Leading Players 2023 to 2028",
-      "excerpt": "Feb 27, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) Market\" Report provides a Detailed analysis of global market size, regional",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T17:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-27-healthcare-natural-language-processing-market-insights-industry-dynamics-new-technologies-and-forecast-to-2028.md",
       "title": "Healthcare Natural Language Processing Market Insights : Industry dynamics, New Technologies and Forecast to 2028",
       "excerpt": "Healthcare Natural Language Processing Market\" is expected to grow at a steady growth during the forecast period",
@@ -423,7 +424,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-insights-industry-dynamics-new-technologies-and-forecast-to-2028-2023-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -465,6 +466,58 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-statistical-natural-language-processing-market-is-booming-globally-forecast-2023-2029.md",
+      "title": "Statistical Natural Language Processing Market Is Booming Globally Forecast 2023-2029",
+      "excerpt": "Statistical Natural Language Processing Market 2023 with 113 Pages Report and enhance with extents shares into",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-is-booming-globally-forecast-2023-2029-2023-02-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-is-booming-globally-forecast-2023-2029-2023-02-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-26T15:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1472,53 +1525,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-criticalriver-partners-with-accureai-to-accelerate-artificial-intelligence-and-machine-learning-adoption-for-businesses.md",
-      "title": "CriticalRiver Partners with Accure.ai to Accelerate Artificial Intelligence and Machine Learning Adoption for Businesses",
-      "excerpt": "The multi-year innovation partnership will provide an accelerated AI/ML platform to automate processes. Accelerates the use of AI to improve processes across key industries. PLEASANTON, Calif. (PRWEB)",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/p30929603/criticalriver-partners-with-accure-ai-to-accelerate-artificial-intelligence-and-machine-learning-a",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/p30929603/criticalriver-partners-with-accure-ai-to-accelerate-artificial-intelligence-and-machine-learning-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30929603",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30929603",
-      "publishedDateTime": "2023-02-15T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "AI in Finance"
       ]
     }
   ],

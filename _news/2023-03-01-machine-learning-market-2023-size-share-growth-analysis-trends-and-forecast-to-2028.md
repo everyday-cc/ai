@@ -30,89 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) Market to Grow Significantly by Leading Players 2023 to 2028"
-    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) Market\" Report provides a Detailed analysis of global market size, regional"
-    publishedDateTime: 2023-02-28T01:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-27"
+  - title: "Healthcare Natural Language Processing Market Insights : Industry dynamics, New Technologies and Forecast to 2028"
+    excerpt: "Healthcare Natural Language Processing Market\" is expected to grow at a steady growth during the forecast period"
+    publishedDateTime: 2023-02-27T00:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-insights-industry-dynamics-new-technologies-and-forecast-to-2028-2023-02-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market 2023 Expected to Reach Significant Rate by 2027"
-    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Computer Vision Market\" Insights 2023 By Applications ( On Premise, Cloud), By Types ( Medical Imaging, Surgery,"
-    publishedDateTime: 2023-02-26T01:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25"
+  - title: "Computer Vision Software Market By Industry Research, Supply, Size, Share and Prospects 2023-2028"
+    excerpt: "Computer Vision Software Market \" is expected to grow at a steady growth during the forecast period 2023-2028, Computer Vision Software Market report offers insights into the latest trends. It summarizes key aspects of the market,"
+    publishedDateTime: 2023-02-26T02:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-by-industry-research-supply-size-share-and-prospects-2023-2028-2023-02-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Software Market to Grow Significantly by Leading Players 2023 to 2028"
-    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Deep Learning Software Market\" Research Report 2023 Provides a Basic overview of the Industry including"
-    publishedDateTime: 2023-02-27T01:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-26"
+  - title: "Self-Driving Truck Technology Market 2023 : Players, Countries, Type and Application, Regional Forecast to 2028"
+    excerpt: "What is the projected market size and growth rate of the Self-Driving Truck Technology Market? Self-Driving Truck Technology Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023,"
+    publishedDateTime: 2023-02-27T09:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-2023-players-countries-type-and-application-regional-forecast-to-2028-2023-02-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Cognitive Services Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028"
-    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Cognitive Services Market\" Report provides a Detailed analysis of global market size, regional and country-level"
-    publishedDateTime: 2023-02-28T01:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-02-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Vehicle Speech Recognition System Market Size is Anticipated to Grow and Reach Million during the period of 2023- 2028"
-    excerpt: "Feb (The Expresswire) -- \"Vehicle Speech Recognition System Market\" research report New Comprehension 2023 |Qualified Report Spread Across|"
-    publishedDateTime: 2023-02-27T07:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-size-is-anticipated-to-grow-and-reach-million-during-the-period-of-2023--2028-2023-02-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Japan Natural Language Processing (NLP) Market To Grow With A CAGR Of 25.5% During 2021-2030"
-    excerpt: "With the growing advancements in deep learning architecture and algorithms in the field of image recognition and speech processing, the demand for natural language processing (NLP) has grown ..."
-    publishedDateTime: 2023-02-26T11:15:00Z
-    webUrl: "https://menafn.com/1105647123/Japan-Natural-Language-Processing-NLP-Market-To-Grow-With-A-CAGR-Of-255-During-2021-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?611155"
-        width: 375
-        height: 250
         isCached: true
 
 secured: "CEOpqw2XX5RkLmoJNOWaUM2vnfWA2qyg+sEV2bX0omi8HNCRpbAo0+wGUW9/j7AHvx+pXlvhLoV0cmKqf4uhNz/uWM2nop2f6lMX5FqGsREZb+jQ+bTXFGzbcXMwK28kOBopOShZCIdAoFl3kahvX+lSDDUGfpH1iegAqWmP6mxT2OTkF64/DoKHJbr5440f+QHi2t2fnIRXn/HIZO+SmFZ2TI9ypoJLC5Kgy7j9+Bd19MQ2ozPfQtWC127MPOjVGG09z8mOHLRVXuBieC7M/sKl+a6YB0NxKzimLGTXvN1T6XP8HfWRRtrNp8Z4cM2/kL98Fr0KnMK58OdF/E8YL5Nrsr2PENudOCV9c1kU/qI=;k54wse/68qqlaPaoci+9BA=="

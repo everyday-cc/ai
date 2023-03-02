@@ -144,6 +144,58 @@
       ]
     },
     {
+      "path": "_news/2023-02-28-cognitive-services-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028.md",
+      "title": "Cognitive Services Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028",
+      "excerpt": "Feb 27, 2023 (The Expresswire) -- \"Cognitive Services Market\" Report provides a Detailed analysis of global market size, regional and country-level",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-02-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-public-cloud-providers-at-mwc-23-lure-telecommunication-companies.md",
       "title": "Public Cloud Providers At MWC 23 Lure Telecommunication Companies",
       "excerpt": "As communication service providers modernize their stack by moving to container network functions (CNF),hyperscalers compete to offer end-to-end platforms based on Kubernetes and converged infrastructure.",
@@ -1425,49 +1477,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-microsoft-will-incorporate-chatgpt-tech-into-azure-teams.md",
-      "title": "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams",
-      "excerpt": "ChatGPT is an AI-powered chatbot that developer OpenAI released in late November. Built on the generative pretrained transformer family of language models, the easy-to-use tool quickly took the internet by storm. It set off an immediate discourse among ...",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams",
-      "originalUrl": "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp",
-      "publishedDateTime": "2023-02-15T12:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,154 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-01-is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure.md",
+      "title": "Is This a Real Raphael Painting? AI Says Yes, But Humans Aren’t So Sure.",
+      "excerpt": "For decades, a group of investors has been hoping to prove that an artwork found in an antique shop is by Raphael, considered one of the greatest painters of the Italian Renaissance",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure-ede9ed54",
+      "originalUrl": "https://www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure-ede9ed54",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-722285/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure-ede9ed54",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure-ede9ed54",
+      "publishedDateTime": "2023-02-28T15:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability.md",
+      "title": "From Photons To Behavior: Torc Robotics Fortifies AI-Based Driving Capability",
+      "excerpt": "Aiming to dominate the truck autoimation space, Torc Robotics is acquiring the Algolux team and intellectual property to super-charge their capabilities in deep learning, computer vision, and computational imaging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability/",
+      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe8507e236baf80ecbcbc2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability/amp/",
+      "publishedDateTime": "2023-02-28T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race.md",
+      "title": "Hugging Face, AWS partner on open-source machine learning amidst AI arms race",
+      "excerpt": "OpenAI stopped open-sourcing most of its machine learning models and is serving them through a paid application programming interface (API). It has also become locked into Microsoft’s cloud platform, and its models are only available on Azure and ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T12:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-smarter-ai-needs-more-memory-and-storage.md",
       "title": "Smarter AI Needs More Memory And Storage",
       "excerpt": "Sanjay Mehrotra of Micron, spoke about the importance of memory to the semiconductor industry and with Rene Haas and Ronnie Chatterji discussed topics such as the CHIPS act, chiplets and the IP industry.",
@@ -540,7 +688,7 @@
       "originalUrl": "https://www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-2023-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -817,7 +965,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -911,15 +1059,15 @@
       ]
     },
     {
-      "path": "_news/2023-02-28-natural-language-processing-nlp-market-to-grow-significantly-by-leading-players-2023-to-2028.md",
-      "title": "Natural Language Processing (NLP) Market to Grow Significantly by Leading Players 2023 to 2028",
-      "excerpt": "Feb 27, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) Market\" Report provides a Detailed analysis of global market size, regional",
+      "path": "_news/2023-02-28-cognitive-services-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028.md",
+      "title": "Cognitive Services Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028",
+      "excerpt": "Feb 27, 2023 (The Expresswire) -- \"Cognitive Services Market\" Report provides a Detailed analysis of global market size, regional and country-level",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-27",
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-02-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -935,7 +1083,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T17:32:00-08:00",
+      "publishedDateTime": "2023-02-27T17:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -958,59 +1106,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-computer-vision-market-2023-demonstrates-a-signify-growth-by-2029.md",
-      "title": "Computer Vision Market 2023 Demonstrates A signify Growth By 2029",
-      "excerpt": "Computer Vision Market 2023 with 119 Pages Report and enhance with extents shares into sub-counties are covered in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1115,102 +1211,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-new-meta-team-to-turbocharge-ai-for-whatsapp-instagram.md",
-      "title": "New Meta Team to 'Turbocharge' AI for WhatsApp, Instagram",
-      "excerpt": "Meta is centralizing its artificial intelligence work to boost products and add \"creative\" tools, CEO Mark Zuckerberg says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/new-meta-team-to-turbocharge-ai-for-whatsapp-instagram/",
-      "originalUrl": "https://www.cnet.com/news/social-media/new-meta-team-to-turbocharge-ai-for-whatsapp-instagram/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/a6bed624e36db5c134a8e94abddb1f20b91ab1c1/hub/2019/02/28/38e55267-ea0d-4e3d-bd39-56e6fab0c220/20160222-facebook-ceo-mark-zuckerberg-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-meta-team-to-turbocharge-ai-for-whatsapp-instagram/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-meta-team-to-turbocharge-ai-for-whatsapp-instagram/",
-      "publishedDateTime": "2023-02-27T12:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning.md",
-      "title": "Tune ML models for additional objectives like fairness with SageMaker Automatic Model Tuning",
-      "excerpt": "Model tuning is the experimental process of finding the optimal parameters and configurations for a machine learning (ML) model that result in the best possible desired outcome with a validation dataset. Single objective optimization with a performance metric is the most common approach for tuning ML",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T12:47:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

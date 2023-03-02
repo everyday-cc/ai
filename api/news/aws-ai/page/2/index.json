@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-10-prime-focus-technologies-cleara-now-available-in-aws-marketplace.md",
+      "title": "Prime Focus Technologies' CLEARÂ® now available in AWS Marketplace",
+      "excerpt": "AWS customers can now purchase CLEAR ® along with their cloud commitments to simplify the procurement process and add to contracted levels of annual AWS spend. \"Much as we are committed to offering customers transformational solutions that help automate the content supply chain,",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1305296&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1305296&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1965978/Prime_Focus_Logo_Logo.jpg",
+          "width": 400,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-openai-rival-cohere-ai-has-flown-under-the-radar-that-may-be-about-to-change.md",
       "title": "OpenAI rival Cohere AI has flown under the radar. That may be about to change.",
       "excerpt": "It is available through API as a managed service, via cloud machine learning (ML) platforms like Amazon Sagemaker and Google Vertex AI. For enterprise customers with the highest data-protection and latency demands, Cohere’s platform is available as ...",
@@ -1156,49 +1199,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-how-aws-helps-lovisa-improve-personalised-shopping-experiences.md",
-      "title": "How AWS helps Lovisa improve personalised shopping experiences",
-      "excerpt": "Australia has a strong history of technical innovation, and the launch of a second AWS Region in Australia provides even greater resilience and enables more customers to develop cloud-based applications that help fuel economic development across the country,",
-      "sourceUrl": null,
-      "webUrl": "https://www.retailbiz.com.au/topics/omnichannel/how-aws-helps-lovisa-improve-personalised-shopping-experiences/",
-      "originalUrl": "https://www.retailbiz.com.au/topics/omnichannel/how-aws-helps-lovisa-improve-personalised-shopping-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.retailbiz.com.au/wp-content/uploads/2023/02/WEB-ONLY-How-AWS-helps-Lovisa-improve-personalised-shopping-experiences_feature-image.jpg",
-          "width": 1920,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-02T20:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "retailbiz.com.au",
-        "domain": "retailbiz.com.au",
         "images": null,
         "publishers": null,
         "authors": null

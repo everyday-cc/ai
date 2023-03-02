@@ -329,6 +329,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Generative AI like ChatGPT is changing the landscape of software: Hotmail co-founder Sabeer Bhatia"
+    excerpt: "Sabeer Bhatia expects that AI assistants like ChatGPT and Bard will bring to software the same transformation that robotics brought to manufacturing."
+    publishedDateTime: 2023-03-02T06:28:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/generative-ai-like-chatgpt-is-changing-the-landscape-of-software-hotmail-co-founder-sabeer-bhatia-10185941.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/generative-ai-like-chatgpt-is-changing-the-landscape-of-software-hotmail-co-founder-sabeer-bhatia-10185941.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/generative-ai-like-chatgpt-is-changing-the-landscape-of-software-hotmail-co-founder-sabeer-bhatia-10185941.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 45
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/01/Sabeer-Bhatia-cofounder-Hotmail-founder-ShowReel-app.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Children taking the International Baccalaureate WILL be allowed to use AI chatbot ChatGPT to write their essays"
     excerpt: "ChatGPT is a large language model ... checking software and translation apps, he added. 'We must accept that it is going to become part of our everyday lives. 'If an AI programme can indeed ..."
     publishedDateTime: 2023-02-27T11:22:00Z

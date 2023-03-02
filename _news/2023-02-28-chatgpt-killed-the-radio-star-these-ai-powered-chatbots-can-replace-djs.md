@@ -108,6 +108,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Forget chatbots, this is how US companies are using AI"
+    excerpt: "AI-hungry investors have propelled Nvidia Corp., which makes the chips needed for complex AI computing tasks, into the best-performing stock among mega-caps this year. Relatively obscure firms with AI in their names have also skyrocketed."
+    publishedDateTime: 2023-03-02T06:25:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/forget-chatbots-this-is-how-us-companies-are-using-ai-11677696638856.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/forget-chatbots-this-is-how-us-companies-are-using-ai/amp-11677696638856.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/forget-chatbots-this-is-how-us-companies-are-using-ai/amp-11677696638856.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2023/03/01/600x338/ai_1677696815878_1677696844097_1677696844097.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "AuNw1UF5mv1TBd5Hg34NCC/sGMWID77bOpmJPyPG32XI/+nIDBECyxN0vxW+QCrcHKlDNo5lH4dRmHmdwwmVzk1xJcbXVsZOU6T2kfGkBhorpQUFPTX9w3J2XbmfZJI/ypoW6kdGbq4ikQNIwBJlvQwABK1TyjT9zRAHOnPfjMKUcwA4pDUohhRwAF+WGAMyug6Jcsw93b9SER0n4vQJ5nYqoji/6l2tRgyke2jKpeQ5O/DedbxwNUxxM+nO30u9SWuWzDWW8vfO69YXvJVZsCjM5h6aZNcLEvSefQTvH0vrata34FU5ZxJ9ESh8yCQSCkDEtgJmAdkeOVVcX+AdRllcXrssbOXDVDVRRHXfIHhiOMloP6o/x8X299T0v5FPZZUcujK+YdO+5MdplBNhbyqPGosNNU6E0SitsAzxmWbtCMgoKwt32LLo7t+9O8dPj17lyMHbgCgwLrxzsReXyZcxUkWx2ONvkxFOH3JR0ldJEUZS0tYHBx3nl2ULYpbJi6Nb4V8wTymGjdurowNo8Q==;gfhoYztpLn3E6xN9g/tdCg=="
 ---

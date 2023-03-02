@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-07-fintech-company-wisor-ai-secures-8-million-in-seed-funding-to-modernize-global-supply-chain.md",
+      "title": "Fintech Company Wisor AI Secures $8 Million in Seed Funding to Modernize Global Supply Chain",
+      "excerpt": "Wisor AI, an advanced freight booking software solution, has raised $8 million in a seed funding round led by Team8. The funding will expedite Wisor's mission to digitize the global supply chain industry and empower freight forwarders to plan,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756068.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756068.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect.md",
       "title": "UAB joins e&enterprise fintech blockchain platform UAE Trade Connect",
       "excerpt": "United Arab Bank (UAB) has announced that it has joined UAE Trade Connect (UTC) as an official member. UTC, the fintech blockchain platform of e& enterprise, is the UAE's first commercialized solution to combat fraud in the trade finance space built on advanced technologies,",
@@ -1261,40 +1295,6 @@
         "AI Hardware",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-toggle-ai-unveils-novel-educational-app-whatif-earnings.md",
-      "title": "TOGGLE AI Unveils Novel Educational App, WhatIF: Earnings?",
-      "excerpt": "TOGGLE AI, the award-winning investing dashboard, announced today the launch of WhatIF: Earnings?, an educational app centered around earnings announcements and subsequent historical stock performance.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/01/24/9747896.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/01/24/9747896.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

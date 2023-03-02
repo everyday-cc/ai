@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leve
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How Is Fintech Changing The Way We Bank?"
-    excerpt: "The world of banking is changing rapidly, and the engine driving this change is the phenomenon known as fintech. As a result, our relationship with money has been completely upended."
-    publishedDateTime: 2023-02-25T14:10:00Z
-    webUrl: "https://financialit.net/blog/fintech/how-fintech-changing-way-we-bank"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 19
 
 secured: "cmvVrcJHzGy1Lo/QXkUIfFqNUK3HVeVnUlC5X0WNUDbNT+EhTP2GKk5Pc/NJKrRYB8CJoFTKoP6/oLMPi8cFH1aXSpKIEyVJ2x3fg5NBFoM4W4qxl1/nO7MAHGly6yC3/JCIjAXqrOy/9pw+K3qGg13a3kOC9A7Y59hWFTR+5XUNtVib+nQFaIHFkRcdU7IHLCobVsWxn2EAdCbZF3jXK6RNitljBE27VlHrpy77pKydo9dh+JtfWZY5L3pazh1JeM0ca5PJoUM0L/hpRLM/gNToZ0h5siqSQzJOnl33QZOKBrwkxfAhnBPOQfM0G8DvyCKamIj7Vct4GWyyKt+pJku57htWGCP3cAL1Zj1khUEDo1hMnAgcnziHRxm4tH6GL0ndBq1F7qWbSaSroZLB8/0l/Sp+9IEubObBuBDzyn06H59CcqOQ3j5aAC8RfDvRDExGiCQvbnkbDH+HAM1wo5XFXydLvTHvjukpRensq3Jk8vkbwJg5VQxn00uRLYHh34FQNSmG/AIvVKPqKN3SCQ==;KzbDsiMxM9eMT5xwMWZJ+w=="
 ---

@@ -2,6 +2,110 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-02-11-generative-ai-may-only-be-a-foreshock-to-ai-singularity.md",
+      "title": "Generative AI may only be a foreshock to AI singularity",
+      "excerpt": "Generative AI, which is based on Large Language Models (LLMs ... Based on this, they estimate that the time needed for a perfect machine language translation will occur by the end of this decade, and at that point, they believe the singularity will ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/generative-ai-may-only-be-a-foreshock-to-ai-singularity/",
+      "originalUrl": "https://venturebeat.com/ai/generative-ai-may-only-be-a-foreshock-to-ai-singularity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1195187835.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/generative-ai-may-only-be-a-foreshock-to-ai-singularity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-may-only-be-a-foreshock-to-ai-singularity/amp/",
+      "publishedDateTime": "2023-02-11T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-11-ai-in-fintech-market-position-and-company-are-improving-and-sharing-worldwide-with-great-growth-opportunities.md",
+      "title": "AI in Fintech Market Position And Company Are Improving And Sharing Worldwide With Great Growth Opportunities",
+      "excerpt": "Feb 11, 2023 (The Expresswire) -- In 2023, Current AI in Fintech Market Size | 2028 | [117] Tables and Figures AI in Fintech Market Size Outlook for 2028...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-position-and-company-are-improving-and-sharing-worldwide-with-great-growth-opportunities-2023-02-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-position-and-company-are-improving-and-sharing-worldwide-with-great-growth-opportunities-2023-02-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-11T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-11-analyzing-the-massive-impact-the-right-language-can-have-on-marketing-campaigns.md",
       "title": "Analyzing the Massive Impact the Right Language Can have on Marketing Campaigns",
       "excerpt": "Persado, the Motivation Artificial Intelligence (AI) company that generates personalized communications at scale, released its 2023 Customer Motivation Report, highlighting the impact of specific narratives on marketing campaign performance.",
@@ -1070,92 +1174,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-deep-multi-magnification-similarity-learning-helps-histopathological-diagnosis.md",
-      "title": "Deep multi-magnification similarity learning helps histopathological diagnosis",
-      "excerpt": "Nazar Mustafa Zaki's team from United Arab Emirates University, proposed a novel deep multi-magnification similarity learning (DSML) approach to improve performance in histopathological ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-deep-multi-magnification-similarity-histopathological-diagnosis.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-deep-multi-magnification-similarity-histopathological-diagnosis.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-multi-magnificati.jpg",
-          "width": 1270,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-ibms-ai-has-a-new-job-sorting-through-nasas-giant-stream-of-earth-and-weather-images.md",
-      "title": "IBM’s AI has a new job: sorting through NASA’s giant stream of Earth and weather images",
-      "excerpt": "The artificial intelligence will also help sift through Earth science studies to answer questions. By Briley Lewis | Published Feb 10, 2023 6:00 AM EST ChatGPT’s cousin was just hired by NASA. On February 1, NASA and IBM announced a new partnership ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/science/nasa-ibm-ai-earth-science/",
-      "originalUrl": "https://www.popsci.com/science/nasa-ibm-ai-earth-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/02/09/Cloud-formation.jpg?auto=webp",
-          "width": 2000,
-          "height": 1102,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/science/nasa-ibm-ai-earth-science/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/nasa-ibm-ai-earth-science/?amp",
-      "publishedDateTime": "2023-02-10T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

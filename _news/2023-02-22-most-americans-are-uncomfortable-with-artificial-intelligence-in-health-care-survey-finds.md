@@ -1,26 +1,31 @@
 ---
 category: news
 title: "Most Americans are uncomfortable with artificial intelligence in health care, survey finds"
-excerpt: "Most Americans feel \"significant discomfort\" about the idea of their doctors using artificial intelligence to help manage their health, a new survey finds, but they generally acknowledge AI's potential to reduce medical mistakes and to eliminate some of the problems doctors may have with racial bias."
-publishedDateTime: 2023-02-22T15:18:00Z
-originalUrl: "https://localnews8.com/health/2023/02/22/most-americans-are-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds/"
-webUrl: "https://localnews8.com/health/2023/02/22/most-americans-are-uncomfortable-with-artificial-intelligence-in-health-care-survey-finds/"
+excerpt: "Sixty percent of Americans who took part in a new survey by the Pew Research Center said that they would be uncomfortable with a health care provider who relied on artificial intelligence to do something like diagnose their disease or recommend a treatment."
+publishedDateTime: 2023-02-22T15:00:00Z
+originalUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
+webUrl: "https://www.cnn.com/2023/02/22/health/artificial-intelligence-health-care/index.html"
 type: article
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
+  - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
-  - url: "https://localnews8.b-cdn.net/2023/02/hypatia-h_c4eb4551c0b29cb6edf582a62d81b330-h_117aebfa8535c7c39995830a035645b7-300.jpg"
-    width: 2000
-    height: 1125
+  - url: "https://media.cnn.com/api/v1/images/stellar/prod/221007140623-doctor-visit-stock.jpg?c=16x9&q=w_800,c_fill"
+    width: 800
+    height: 450
     isCached: true
 
-secured: "iLnBR2K5qk/RGlRGLa45s4TPsfJstFxApwZlcFW0V84GxohHZtdk+6dO4lgD45tlt74/2iRCpl+RrmFFro4eo2tN5eaJ55/L6hWyddLwlr/lNZrUmcktYLEpbdF9VtFzcr2l+D/nblXQqKWIjJPYgAGV9Q9bh6t80HJbkrPc6yKpoYmaSS4+8WBXGW5PBEsbqD2BqtXjB7QaenMM1W1FPYKKnQEMTRfn3m5WgGtyLHluSwx5WNfREhbHurYqoeOJEfO/b8myy6etGpa738j2yBGO7FbHu4dFeoReI5AGhDF3ZA+MHBucBpxyYrMjZpeBMsV4PiHpDxa4g5V4KkWNq+CCEmiQEvCKSRVg3n3Leo4=;wF3/LJfSQuj8XGjLKDnYBQ=="
+secured: "qW7820Jkbl91T2cXqEp6TVQK7epDkHPpnHe6KtoMddW9RVNl2aumLh4MK3VeYGPuSjNtwSytsBKoAPfZKi1rnRRckrVIAhaAokUAG9BLJ/tKeNfwmsof8NkanqhPa2T5thZ3mSDHNfwRl8vl7nK1zV6jOxhRqTNoYdy+tM+njGP5dMhaNY45nVRRN/8rv3L9lXdBPrtTBZqVOHZBFxXGPabhdnM5gDsS/RakXZ0fQq9yVkqXAiH/whhtU8sVHyjbpcVFTWB34hF5XUUXLMW7Ytg9VG3ptGlx4Fmr/lMvQIJOfNvakQhL2bPWC5LmSUSUH6f8QxpxoFeDgYzoYsrYt7QUCvFiVGPtyRLlPi33A10=;hw7eROTe17lCyfMj3hjA6Q=="
 ---
 

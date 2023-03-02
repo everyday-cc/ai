@@ -316,6 +316,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "Generative AI like ChatGPT is changing the landscape of software: Hotmail co-founder Sabeer Bhatia"
+    excerpt: "Sabeer Bhatia expects that AI assistants like ChatGPT and Bard will bring to software the same transformation that robotics brought to manufacturing."
+    publishedDateTime: 2023-03-02T06:28:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/generative-ai-like-chatgpt-is-changing-the-landscape-of-software-hotmail-co-founder-sabeer-bhatia-10185941.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/generative-ai-like-chatgpt-is-changing-the-landscape-of-software-hotmail-co-founder-sabeer-bhatia-10185941.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/generative-ai-like-chatgpt-is-changing-the-landscape-of-software-hotmail-co-founder-sabeer-bhatia-10185941.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 45
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/01/Sabeer-Bhatia-cofounder-Hotmail-founder-ShowReel-app.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How ChatGPT mangled the language of heaven"
     excerpt: "Letter: Asked to generate a story from an English translation of a letter in Welsh published in the Guardian, the AI chatbot came up with a lot of twaddle, reports Fiona Collins"
     publishedDateTime: 2023-02-26T18:25:00Z

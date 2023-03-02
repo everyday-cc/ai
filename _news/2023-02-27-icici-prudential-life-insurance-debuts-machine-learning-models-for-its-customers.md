@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/india/icici-prudential-life-insurance-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers/amp-11677487957218.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mint
@@ -38,7 +38,7 @@ related:
     provider:
       name: cio.economictimes.indiatimes
       domain: indiatimes.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://etimg.etb2bimg.com/thumb/msid-98351567,imgsize-15524,width-1200,height-628,overlay-etcio/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.jpg"
         width: 1200
@@ -55,6 +55,20 @@ related:
       name: News Track
       domain: newstracklive.com
     quality: 37
+  - title: "Chung-Ang University researchers use deep learning to develop a forecasting model for efficiently managing electric grids"
+    excerpt: "This approach has several drawbacks, including a low prediction accuracy. To overcome them, researchers have resorted to deep learning-based models. While they make accurate predictions, their hyperparameters – variables that control the learning process ..."
+    publishedDateTime: 2023-03-01T14:37:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/981256"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 14
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f12370b2-59e3-4195-ae98-11e3b55f14c4/Rendition/low-res/Content/Public"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "tgNIwRdu5V6717FRu8eWpVFEg0qPi8dUNeSS4u2Wog6Bvc/7X1ScFH+EIho5on19BcH5MQa6jcnDAFBn8UDoWRf3UCDgR+WZthfiZLI1N+XtpE6fqsxLJONZs2cyfmk3/ka/npZHl2D47pguPVnJe0ShklDFzOLWoedHCuuTEDQ1JO29WZPtXnpOJvDJmyI7/G38JwbncKwG+FIjPmK/250EKastlwbrOXEALWKobPQmcQlrWROdmjuifdhFU2ZLicigM2B2RmVlikgtZXl5wm9KzvlfJuLdpFPterAaJPSPLI4KBc/dzlw0WPBpIMIBbkLinDbKi6WYQ5WtMfkcRbX8R/hUzVB8knB+digO2jdo4hVqax8WyukEIjKzybEPxtcQxeRb7eoESZdXfgjMElVpoCtdg1rbV+0VVeeb/AcEq+YiUUtDCPGR53tjtSfcqJEeKw7k6PZAt/UYIyIWNEFEu7CpvchEkOSk7LXzOKfTMJ7Q1XRSz2p00EVyjJ9UkbaXjW2At6fRTu6rxW/PBA==;kdMR1y8f7apBEfe0TR57xw=="
 ---

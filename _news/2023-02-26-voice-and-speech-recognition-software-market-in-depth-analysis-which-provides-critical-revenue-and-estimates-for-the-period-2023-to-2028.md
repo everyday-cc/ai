@@ -29,6 +29,48 @@ images:
     isCached: true
 
 related:
+  - title: "Computer Vision Market 2023 Expected to Reach Significant Rate by 2027"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Computer Vision Market\" Insights 2023 By Applications ( On Premise, Cloud), By Types ( Medical Imaging, Surgery,"
+    publishedDateTime: 2023-02-26T01:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market 2023 Demonstrates A signify Growth By 2029"
+    excerpt: "Computer Vision Market 2023 with 119 Pages Report and enhance with extents shares into sub-counties are covered in"
+    publishedDateTime: 2023-02-28T00:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Software Market to Grow Significantly by Leading Players 2023 to 2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Deep Learning Software Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-27T01:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Door Lock Market Geographical Segmentation By Forecast Revenue 2023-2028"
     excerpt: "Feb 26, 2023 (The Expresswire) -- \"Facial Recognition Door Lock Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029. The global"
     publishedDateTime: 2023-02-26T05:32:00Z
@@ -43,51 +85,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market Size 2023 with Business Development, with Competitive Landscapes till 2028"
-    excerpt: "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future"
-    publishedDateTime: 2023-02-27T16:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27"
+  - title: "Vehicle Speech Recognition System Market Size is Anticipated to Grow and Reach Million during the period of 2023- 2028"
+    excerpt: "Feb (The Expresswire) -- \"Vehicle Speech Recognition System Market\" research report New Comprehension 2023 |Qualified Report Spread Across|"
+    publishedDateTime: 2023-02-27T07:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-size-is-anticipated-to-grow-and-reach-million-during-the-period-of-2023--2028-2023-02-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facial Recognition Phone Market Size, Assessment, Key Factors And Challenges By 2028"
-    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Facial Recognition Phone Market\" Report covers specified competitive outlook consisting of the market proportion"
-    publishedDateTime: 2023-02-27T11:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-size-assessment-key-factors-and-challenges-by-2028-2023-02-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-  - title: "Artificial Intelligence Software System Market Segmentation by Type, Revenue, Share, Companies Growth, Restraints, Regions Forecast to 2028"
-    excerpt: "Artificial Intelligence Software System Market research report offers a [Dynamic Overview of 2023]. The Artificial Intelligence Software System Market, covering growth, trends, consumption, segments,"
-    publishedDateTime: 2023-03-01T07:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-segmentation-by-type-revenue-share-companies-growth-restraints-regions-forecast-to-2028-2023-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-  - title: "Cognitive Services Market Size 2023 Trends, Growth, Type And Application, Manufacturers, Regions And Forecast To 2026"
-    excerpt: "(MENAFN- The Express Wire) Global Cognitive Services Market Industry In-Depth ... Top Manufacturers (Microsoft, Expert System, SAS, AWS, Ipsoft, Nokia, Fusion Informatics, Apple, Baidu ..."
-    publishedDateTime: 2023-02-26T23:02:00Z
-    webUrl: "https://menafn.com/1105646163/Cognitive-Services-Market-Size-2023-Trends-Growth-Type-And-Application-Manufacturers-Regions-And-Forecast-To-2026"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 16
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?611155"
-        width: 375
-        height: 250
         isCached: true
 
 secured: "dHt52SSyZBdmn9a2nm8qSY4tLIWipRNCrwAYqoykpnxG14Cu5btV3crQ+H8sw3+qFxJ43c2sSDhgxjajIdMZR93TwhHkY32xVyBUDcgEdPrlMVcQAdy0yPucoNyP32yt9uNgbK/9LE92/znND0r9baK4Qt6TeIVot6ZNq+3oXbyS0j2f7vlTT018hvCSw+x0QtpOYx4/WFdW0kevyiZONE0jbtoCCfQFernLwkWCNzPmrc+ebDBOQXafgaTebhnDqkssNCTZgbCBNR69FmPkwIXTvUbxNtRXmPAAJgx1a+dlyIUrrcc1uaCrpFpbLTkUnG7/rN2NJx2dRf7gZbGljVRAbneNNYbT4WLnCG963l4=;Y54R6pyiHgWoU7AOptJ7oA=="

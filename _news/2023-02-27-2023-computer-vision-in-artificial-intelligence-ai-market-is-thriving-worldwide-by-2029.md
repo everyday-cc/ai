@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-in-
 webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-in-artificial-intelligence-ai-market-is-thriving-worldwide-by-2029-2023-02-26"
 type: article
 quality: 91
-heat: 351
+heat: 361
 published: true
 
 provider:
@@ -276,6 +276,20 @@ related:
     excerpt: "Enterprise Artificial Intelligence Market Size 2023-2029 | New Report (113 Pages) | Information Technology | In"
     publishedDateTime: 2023-02-27T16:57:00Z
     webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-2023-huge-demand-growth-opportunities-and-expansion-by-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2023, Machine Learning in Communication Market to Experience a Significant Increase in Revenues by 2029"
+    excerpt: "Machine Learning in Communication Market Size 2023-2029 | New Report (128 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-03-02T03:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-machine-learning-in-communication-market-to-experience-a-significant-increase-in-revenues-by-2029-2023-03-01"
     type: article
     provider:
       name: MarketWatch

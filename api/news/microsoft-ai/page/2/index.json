@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-16-microsoft-will-incorporate-chatgpt-tech-into-azure-teams.md",
+      "title": "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams",
+      "excerpt": "ChatGPT is an AI-powered chatbot that developer OpenAI released in late November. Built on the generative pretrained transformer family of language models, the easy-to-use tool quickly took the internet by storm. It set off an immediate discourse among ...",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams",
+      "originalUrl": "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp",
+      "publishedDateTime": "2023-02-15T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-this-is-how-how-ai-is-helping-monitor-and-count-puffins.md",
       "title": "This Is How How AI Is Helping Monitor And Count Puffins",
       "excerpt": "Puffins on the Isle of May, a nature preserve off the coast of Scotland. SSE Renewables is trialing ... [+] a new way to count puffins using artificial intelligence. The project is supported by Microsoft, Avanade and NatureScot. The Isle of May is a 140 ...",
@@ -1374,49 +1417,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-study-reveals-that-much-still-not-known-about-cognitive-decline.md",
-      "title": "Study reveals that much still not known about cognitive decline",
-      "excerpt": "More information: Predictors of cognitive functioning trajectories among older Americans: A new investigation covering 20 years of age- and non-age-related cognitive change, PLoS ONE (2023). DOI ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/we-still-dont-know-whi.jpg",
-          "width": 1280,
-          "height": 914,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

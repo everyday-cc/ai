@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-25-globe-aws-collaborate-on-inter-university-deepracer-league.md",
+      "title": "Globe, AWS collaborate on Inter-University DeepRacer League",
+      "excerpt": "Leading digital solutions platform Globe recently collaborated with Amazon Web Services (AWS) to host the inter-university AWS DeepRacer League for young and aspiring data and analytics professionals interested in gaining valuable machine learning (ML) skills.",
+      "sourceUrl": null,
+      "webUrl": "https://businessmirror.com.ph/2023/02/25/globe-aws-collaborate-on-inter-university-deepracer-league/",
+      "originalUrl": "https://businessmirror.com.ph/2023/02/25/globe-aws-collaborate-on-inter-university-deepracer-league/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://businessmirror.com.ph/wp-content/uploads/2023/02/participants-in-article.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-24T23:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessMirror",
+        "domain": "businessmirror.com.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-for-chat-based-ai-we-are-all-once-again-tech-companies-guinea-pigs.md",
+      "title": "For Chat-Based AI, We Are All Once Again Tech Companies’ Guinea Pigs",
+      "excerpt": "The companies touting new chat-based artificial-intelligence systems are running a massive experiment—and we are the test subjects. In this experiment, Microsoft, OpenAI and others are rolling out on the internet an alien intelligence that no one really ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chat-gpt-open-ai-we-are-tech-guinea-pigs-647d827b",
+      "originalUrl": "https://www.wsj.com/articles/chat-gpt-open-ai-we-are-tech-guinea-pigs-647d827b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-731677/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-24T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-artificial-intelligence-applications-in-investing.md",
       "title": "Artificial Intelligence Applications In Investing",
       "excerpt": "Artificial intelligence can make investing more straightforward, bringing investment insights to the masses. Here’s how you can use AI to build your portfolio.",
@@ -1114,100 +1209,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake.md",
-      "title": "AI Startups Boom In San Francisco Amid $100 Billion Google Mistake",
-      "excerpt": "San Francisco’s AI startup scene is blowing up thanks to the ChatGPT craze and investors including Y Combinator, Bessemer Venture Partners, Coatue, Andreessen Horowitz, Tiger Global, Mark Benioff's Time Ventures and Ashton Kutcher's Sound Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ec34c9ea9d35758ecaa5b2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/amp/",
-      "publishedDateTime": "2023-02-23T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform.md",
-      "title": "Blue Motor Finance Partners With Zinia for Implementation of Decision Intelligence AI Platform",
-      "excerpt": "Press Release Fintech lender, Blue, has announced a new partnership with Zinia, the pioneering Decision Intelligence company, to supercharge AI driven decisions across the business.Blue is a technology-focused lender delivering innovative motor finance solutions",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/",
-      "originalUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/",
-      "publishedDateTime": "2023-02-23T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

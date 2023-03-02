@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-01-24-im-a-mom-and-a-teacher-who-was-fired-after-voicing-concerns-for-my-own-kids.md",
-      "title": "I'm a mom and a teacher who was fired after voicing concerns for my own kids",
-      "excerpt": "I raised concerns about a book that was going to be presented to my then 6-year-old and 8-year-old. I was soon fired.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/mom-teacher-fired-after-voicing-concerns-kids",
-      "originalUrl": "https://www.foxnews.com/opinion/mom-teacher-fired-after-voicing-concerns-kids",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6fdff2d-db8b-40d8-bafd-b0dfa201296f/9b51c28c-d0b6-4601-990d-05287b3272d0/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/mom-teacher-fired-after-voicing-concerns-kids.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/mom-teacher-fired-after-voicing-concerns-kids.amp",
-      "publishedDateTime": "2023-01-23T21:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-24-image-recognition-in-retail-market-is-booming-worldwide-including-126-pages-report.md",
       "title": "Image Recognition in Retail Market Is Booming Worldwide | Including 126 Pages Report",
       "excerpt": "In 2023] The Global Image Recognition in Retail Market Size (126 Report Pages) is estimated to be worth USD million",
@@ -1458,6 +1406,58 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-iran-says-face-recognition-will-id-women-breaking-hijab-laws.md",
+      "title": "Iran Says Face Recognition Will ID Women Breaking Hijab Laws",
+      "excerpt": "But Shajarizadeh, who fled to Canada in 2018 after three arrests for flouting hijab law, worries that women like the amusement park worker may now be targeted with face recognition algorithms as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/",
+      "originalUrl": "https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63bcd6f571c6b526845f15bf/master/pass/JM_Iran_Women_Face_Recognition-Business.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iran-says-face-recognition-will-id-women-breaking-hijab-laws/amp",
+      "publishedDateTime": "2023-01-10T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

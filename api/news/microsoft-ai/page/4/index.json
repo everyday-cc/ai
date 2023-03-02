@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-07-generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules.md",
+      "title": "Generative like AI like ChatGPT is changing lives but humans must set the rules",
+      "excerpt": "To be sure, bad actors could abuse these tools for various illicit schemes, such as sophisticated online scams or writing malware. But the technology’s prospective",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/opinion/generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules",
+      "originalUrl": "https://www.khaleejtimes.com/opinion/generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-look-for-stocks-to-lose-30-from-here-says-strategist-david-rosenberg-and-dont-even-think-about-turning-bullish-until-2024.md",
       "title": "Look for stocks to lose 30% from here, says strategist David Rosenberg. And don’t even think about turning bullish until 2024.",
       "excerpt": "There’s nothing right now in my collection of metrics telling me that we’re anywhere close to a bottom.' He suggests owning bonds, gold and consumer staples.",
@@ -1306,59 +1340,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-30-microsoft-named-a-leader-in-the-idc-marketscape-worldwide-general-purpose-computer-vision-ai-software-platform-2022-vendor-assessment.md",
-      "title": "Microsoft named a Leader in the IDC MarketScape: Worldwide General-Purpose Computer Vision AI Software Platform 2022 Vendor Assessment",
-      "excerpt": "I am thrilled to announce that Microsoft has been recognized as a Leader in the IDC MarketScape: Worldwide General-purpose Computer Vision AI Software Platform 2022 Vendor Assessment.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-generalpurpose-computer-vision-ai-software-platform-2022-vendor/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-named-a-leader-in-the-idc-marketscape-worldwide-generalpurpose-computer-vision-ai-software-platform-2022-vendor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/cb6d9b82-2d04-4aaa-82cd-3aa9d78dfb23.png",
-          "width": 773,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-30T00:00:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

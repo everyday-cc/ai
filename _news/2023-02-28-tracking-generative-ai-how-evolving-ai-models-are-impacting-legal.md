@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 625
         isCached: true
+  - title: "Vue.ai Partners With Meta's Creative Shop To Create AI-powered Models For Inclusive Ad Creatives"
+    excerpt: "Vue.ai will enable brands to feature a single outfit across a wide range of AI-generated body types from size 4-20 with its patented technology"
+    publishedDateTime: 2023-03-02T06:14:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/vueai-partners-with-metas-creative-shop-to-create/446752"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1677737726-Hithere.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Exploring The Intersection Of The Edge, AI And IoT"
     excerpt: "In this article, I explore the opportunities and approaches at the intersection of these revolutionary market adoption paradigms."
     publishedDateTime: 2023-03-01T12:30:00Z

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Red Hat Expands Collaboration With NVIDIA to Advance AI and 5G Solutions Across the Hybrid and Multi Cloud"
+    excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today announced a collaboration with NVIDIA to deliver radio access network (RAN)"
+    publishedDateTime: 2023-03-02T06:35:00Z
+    webUrl: "https://www.albawaba.com/business/pr/red-hat-expands-collaboration-nvidia-advance-ai-and-5g-solutions-across-hybrid-and"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/red-hat-expands-collaboration-nvidia-advance-ai-and-5g-solutions-across-hybrid-and"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/red-hat-expands-collaboration-nvidia-advance-ai-and-5g-solutions-across-hybrid-and"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 41
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-03/image003%20%282%29.jpg?itok=XPACCBv1"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Inventec Corporation: INVENTEC COLLABORATES WITH MICROSOFT TO DELIVER SMART FACTORY SOLUTIONS ON MICROSOFT AZURE PRIVATE 5G CORE"
     excerpt: "Inventec, a global leading innovator in cloud computing, wireless communication, intelligent devices, and IoT, announced today its newest industry-leading"
     publishedDateTime: 2023-02-27T00:09:00Z

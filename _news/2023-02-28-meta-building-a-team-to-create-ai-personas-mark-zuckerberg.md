@@ -43,22 +43,6 @@ related:
         width: 619
         height: 374
         isCached: true
-  - title: "MWC mobile tech fair to show off new phones, AI, metaverse"
-    excerpt: "The latest folding-screen smartphones, immersive metaverse experiences, AI-powered chatbot avatars and other eye-catching technology are set to wow visitors at the annual MWC wireless trade fair"
-    publishedDateTime: 2023-02-25T14:01:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461863"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461863"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461863"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Zuckerberg's Meta To Take On ChatGPT, Creates New Group Focused On AI"
     excerpt: "Meta will integrate the output on its products, such as Instagram and Messenger The company will build some creative and expressive tools using AI, according to Zuckerberg Mark Zuckerberg's Meta is creating a new product group focused on artificial intelligence,"
     publishedDateTime: 2023-02-28T11:31:00Z

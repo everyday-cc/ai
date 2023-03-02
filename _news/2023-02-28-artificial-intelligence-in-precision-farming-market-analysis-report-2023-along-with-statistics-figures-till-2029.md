@@ -22,15 +22,15 @@ topics:
   - AI
 
 related:
-  - title: "Latest Survey on \"Artificial Intelligence in Manufacturing Market\" Report 2023-2028, Updated Report With 100 Pages"
-    excerpt: "Report Highlights:- \"The global Artificial Intelligence in Manufacturing market size was valued at USD 1459.63 million"
-    publishedDateTime: 2023-02-25T13:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-in-manufacturing-market-report-2023-2028-updated-report-with-100-pages-2023-02-25"
+  - title: "Statistical Natural Language Processing Market Is Booming Globally Forecast 2023-2029"
+    excerpt: "Statistical Natural Language Processing Market 2023 with 113 Pages Report and enhance with extents shares into"
+    publishedDateTime: 2023-02-26T23:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-is-booming-globally-forecast-2023-2029-2023-02-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

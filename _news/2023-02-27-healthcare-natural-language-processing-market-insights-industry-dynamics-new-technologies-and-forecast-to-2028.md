@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-natural-langu
 webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-insights-industry-dynamics-new-technologies-and-forecast-to-2028-2023-02-26"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028"
+    excerpt: "Mar 01, 2023 (The Expresswire) -- \"Machine Learning Market\" Report covers specified competitive outlook consisting of the market proportion and"
+    publishedDateTime: 2023-03-01T06:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Software Market By Industry Research, Supply, Size, Share and Prospects 2023-2028"
     excerpt: "Computer Vision Software Market \" is expected to grow at a steady growth during the forecast period 2023-2028, Computer Vision Software Market report offers insights into the latest trends. It summarizes key aspects of the market,"
     publishedDateTime: 2023-02-26T02:33:00Z

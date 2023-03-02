@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58417909-ai-i
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58417909-ai-in-computer-vision-market-worth-dollar-45-7-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Agriculture Market Report Historical, Current, and Projected Size, in terms of value 2028"
-    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Agriculture Market\" Report provides a Detailed analysis of global market size,"
-    publishedDateTime: 2023-02-26T13:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-report-historical-current-and-projected-size-in-terms-of-value-2028-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size: Overview, Share, Trends with Current Market Scenario, 2028"
-    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Artificial Intelligence Of Things (AIoT) Solutions Market\" Insights 2023 By Applications (Hardware, Software,"
-    publishedDateTime: 2023-02-26T01:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-overview-share-trends-with-current-market-scenario-2028-2023-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Agriculture Market Worth $4.7 Billion In 2028 - Exclusive Report By Marketsandmarketstm"
     excerpt: "The ai in agriculture market is projected to grow from USD 1.7 billion in 2023 to USD 4.7 billion in 2028; it is expected to grow at a CAGR of 23.1% from 2023 to 2028 according to a new report by MarketsandMarketsTM."
     publishedDateTime: 2023-03-01T18:26:00Z
@@ -62,6 +34,6 @@ related:
         height: 250
         isCached: true
 
-secured: "81y+ssJZbQGbkeXE1UC9cRjRxvE/A1mrvHfx+YvFvVhZIwxyL8EETaWvvLcqOvplOd1rgRJkRp46gvZ5sd+6uhNORE1hc0EJTgOpuxro/LE1ciOO/gbJW5YrHSVp4St3XgnJQZl7JpDjLy7YPkIWljGNtqf8yL+ucBwuiveoRyDTDv8lf5TQ0Ao2oTeOenGwLu5K/XXlulcRoiUMQ9fZXLTFPpmwIw679Qr8V9lhEVmARZ5ADByA419XpySOj6ek114iPPtF8rG3/3GhMIodgibqBvtBJGdOLqXE9FTpzijHORDL1XSjT7m1/2gVFkDZYbul/llH8TLxA0Eca8q74AsUGKY15wOTJbhFggpjdEQ=;K7GUBG9vmtvMWPuU4Dpqiw=="
+secured: "ffj6j4mc9X1SAMTmOAIZXJX4HiI43dXU0xadqOo2PprVn1DCylCHQnHxkbA2iH8TFqB5PybyhhC6DPbINfaXdoXZiqB0BtlEul/Ps/0pXvv4LAKgqeqIqsXBoEZnR8dazINUN6z+Oo71rtMnBk3WndeR94WW1FSkga+XxAbJ8p3MxcUF2Y6wg9krzzqnfHqB8eNL6R4u3sfhMInblLVNfz5YO0lwnGZ2TBBbrme/auK5wBLwm+p/LCFp/TM8ttTaprrmCRi8UnJ3wmuHtZWcl5BZM9RAUZ6VuhCFDytjwJILH1J3u7DGurk+quLGVGc1Icn6xWfI4zFw73En8EqwdMelt4d8+/gIq5+1DTE1tLE=;F38pZAYg48Y8bYUn3ymc9g=="
 ---
 

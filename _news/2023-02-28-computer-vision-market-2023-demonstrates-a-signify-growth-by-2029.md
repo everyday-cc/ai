@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,29 +29,71 @@ images:
     isCached: true
 
 related:
-  - title: "Statistical Natural Language Processing Market Is Booming Globally Forecast 2023-2029"
-    excerpt: "Statistical Natural Language Processing Market 2023 with 113 Pages Report and enhance with extents shares into"
-    publishedDateTime: 2023-02-26T23:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-is-booming-globally-forecast-2023-2029-2023-02-26"
+  - title: "Computer Vision Market 2023 Expected to Reach Significant Rate by 2027"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Computer Vision Market\" Insights 2023 By Applications ( On Premise, Cloud), By Types ( Medical Imaging, Surgery,"
+    publishedDateTime: 2023-02-26T01:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "The Role of Computer Vision Software Market 2023: Business Developments and Strategies by 2029"
-    excerpt: "New 115 Pages Report] A Recently published “Computer Vision Software Market” Size (2023) research report offers"
-    publishedDateTime: 2023-02-26T11:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-role-of-computer-vision-software-market-2023-business-developments-and-strategies-by-2029-2023-02-26"
+  - title: "Deep Learning Software Market to Grow Significantly by Leading Players 2023 to 2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Deep Learning Software Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-27T01:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Door Lock Market Geographical Segmentation By Forecast Revenue 2023-2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Facial Recognition Door Lock Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029. The global"
+    publishedDateTime: 2023-02-26T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vehicle Speech Recognition System Market Size is Anticipated to Grow and Reach Million during the period of 2023- 2028"
+    excerpt: "Feb (The Expresswire) -- \"Vehicle Speech Recognition System Market\" research report New Comprehension 2023 |Qualified Report Spread Across|"
+    publishedDateTime: 2023-02-27T07:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-size-is-anticipated-to-grow-and-reach-million-during-the-period-of-2023--2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice And Speech Recognition Software Market In-depth analysis which provides critical revenue and estimates for the period 2023 To 2028"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Voice And Speech Recognition Software Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029."
+    publishedDateTime: 2023-02-26T03:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-in-depth-analysis-which-provides-critical-revenue-and-estimates-for-the-period-2023-to-2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

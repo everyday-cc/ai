@@ -7,7 +7,7 @@ originalUrl: "https://greensboro.com/opinion/columnists/richard-kyte-here-are-th
 webUrl: "https://greensboro.com/opinion/columnists/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_6c281643-09e3-57a2-b917-fdb3ddb196a0.html"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 369
     isCached: true
 
-secured: "ZVsPPROZWrcO6u/Zyh+LM9xlp/TFD6QJH3MHmFqmeSY0YK/HOgyAhL6/ocSQkzSbY+6IYvj1Ohql/QKKh68I6caTxLdd9R9s0mpztar5Bp4PqhutXYGnAbnocoaHQTmX4cNaxpshWw3d3syMFUG6UW1vwzzpkapRTQP2fdaq8zaHciExeM/TuuIwbj3XQ+TdqQU2EH7IFsrqdCMk6LaFydJjTA7uFLwyWRdW4cnbIlP26flqDkotuPpwMZJHWD/uu0sI20cTsm9rs62BCXzRPwlSEZVxMCAEpaOJtpv6nMKI3E4G57LYPIdqAmYGAtAjxq2fMW2rVLYwCntVeE4AsA2v2RH0V1bZaCCzeHMmtXM=;NkaZ+++v+px7Ox9SKSD3cg=="
+related:
+  - title: "Richard Kyte: The real ethical problem with artificial intelligence"
+    excerpt: "Commentary: The lesson we should take from history’s failed attempts at social reform is that schools are not the place for waging cultural wars."
+    publishedDateTime: 2023-03-01T22:00:00Z
+    webUrl: "https://lacrossetribune.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_0bfe1fae-b844-11ed-b3cf-13c7983a5d6c.html"
+    type: article
+    provider:
+      name: La Crosse Tribune
+      domain: lacrossetribune.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+        width: 256
+        height: 256
+        isCached: true
+
+secured: "83ppsPYJHA9Az4wf4Iu6c9NVGo3hbnALvIbKWrPAuiyEVIwy8p05J9rgNKrOW+gTltkccmisvK3Oqsm0JIgSzClGinpC66TFz10jkN72fibMHjWoW7NBdLlNXrsLmE/4AqeuUgnmFstDqX1/1gdDGFXrG1ADCgQG7oSbRt93cm8m4iju+Lk/0gclkJyTH06zOJAFBLJF2rrtYblfqcsN2pO4gN1RUgGr+ExEkmsmJi425K+TgzZ84igipjhj9Wnu4SfMMGEmigmFHczddBUPd6V+ORzk2Ot2LNr43Kxe2ZUNS9qrU/my4WdFuYPoB7QLU4hnIR+OQg6LNbRde4vuEBlYwlYa2SrozkyC1vvrT0O6Tk3mGxxiyprL1uhM+PBRnOBO9/kw3xlp4Mgk3DbpHRmCuiK16Oc3wdqoZ5IAzDQGe7FF1qyPMnVL8IvxHyDNvN184MC2x4UncjuY+Xd8t/bsEWpZVFvrZk/H2ryHrJE8/fKO8feCRK7Xl/Hz4wfxvG5BTzl1yJAWPJzUFmqnBQ==;jNRLIM0JoFDgii3h73QOCQ=="
 ---
 

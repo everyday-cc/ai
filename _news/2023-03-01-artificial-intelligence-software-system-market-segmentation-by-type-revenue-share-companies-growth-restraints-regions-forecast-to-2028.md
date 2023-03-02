@@ -22,15 +22,59 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Door Lock Market Geographical Segmentation By Forecast Revenue 2023-2028"
-    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Facial Recognition Door Lock Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029. The global"
-    publishedDateTime: 2023-02-26T05:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-02-26"
+  - title: "Cognitive Services Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Cognitive Services Market\" Report provides a Detailed analysis of global market size, regional and country-level"
+    publishedDateTime: 2023-02-28T01:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-02-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Agriculture Market Report Historical, Current, and Projected Size, in terms of value 2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Agriculture Market\" Report provides a Detailed analysis of global market size,"
+    publishedDateTime: 2023-02-26T13:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-report-historical-current-and-projected-size-in-terms-of-value-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
+    excerpt: "DUBLIN, Feb. 27, 2023 /PRNewswire/ -- The \"Japan Deep Learning Market By Offering (Hardware, Software, and Services), By Application (Image Recognition, Signal Recognition, and Data Mining), By ..."
+    publishedDateTime: 2023-02-27T10:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31064687/japan-deep-learning-markets-competition-forecast-and-opportunities-2027"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31064687"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31064687"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size: Overview, Share, Trends with Current Market Scenario, 2028"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Artificial Intelligence Of Things (AIoT) Solutions Market\" Insights 2023 By Applications (Hardware, Software,"
+    publishedDateTime: 2023-02-26T01:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-overview-share-trends-with-current-market-scenario-2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -59,20 +103,61 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "Voice And Speech Recognition Software Market In-depth analysis which provides critical revenue and estimates for the period 2023 To 2028"
-    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Voice And Speech Recognition Software Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029."
-    publishedDateTime: 2023-02-26T03:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-in-depth-analysis-which-provides-critical-revenue-and-estimates-for-the-period-2023-to-2028-2023-02-25"
+  - title: "Data Science and Machine Learning Service Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
+    excerpt: "Data Science and Machine Learning Service Market ” Size 2023 Top Key players Profiled in the Report are (Banking, Insurance, Retail, Media and Entertainment,) most important, influential, or successful companies,"
+    publishedDateTime: 2023-02-27T04:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-02-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "The Growing Demand for Image Recognition Market 2023 [New Report]: Revolutionizing the Manufacturing Landscape"
+    excerpt: "BrowseImage Recognition Detailed TOC 2023, Tables and Figures with Charts which is spread across 125 Pages that provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2023-02-28T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-growing-demand-for-image-recognition-market-2023-new-report-revolutionizing-the-manufacturing-landscape-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market International Business Analysis, Development Outlook and Regional Strategies 2029"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- [118+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Machine Learning Market” Size 2023 Key players Profiled in the Report ..."
+    publishedDateTime: 2023-02-27T14:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-international-business-analysis-development-outlook-and-regional-strategies-2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "Artificial Intelligence in Computer Networks Market Size, Share & Trends Analysis Forecast Report by 2028"
+    excerpt: "Mar 01, 2023 (The Expresswire) -- According to this latest study, In 2023 the growth of Artificial Intelligence in Computer Networks Market will have significant change from previous year. Over the next five years the Artificial Intelligence in Computer ..."
+    publishedDateTime: 2023-03-01T18:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-market-size-share-trends-analysis-forecast-report-by-2028-2023-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+  - title: "This study on Cognitive Systems Spending research analysts emphasizes current market information."
+    excerpt: "This \"Cognitive Systems Spending Market\" offers an all-inclusive analysis of regional and global markets based"
+    publishedDateTime: 2023-03-01T18:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/this-study-on-cognitive-systems-spending-research-analysts-emphasizes-current-market-information-2023-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
   - title: "Cognitive Services Market Size 2023 Trends, Growth, Type And Application, Manufacturers, Regions And Forecast To 2026"
     excerpt: "(MENAFN- The Express Wire) Global Cognitive Services Market Industry In-Depth ... Top Manufacturers (Microsoft, Expert System, SAS, AWS, Ipsoft, Nokia, Fusion Informatics, Apple, Baidu ..."
     publishedDateTime: 2023-02-26T23:02:00Z

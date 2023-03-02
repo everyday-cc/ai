@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-ma
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1"
 type: article
 quality: 75
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MWC mobile tech fair to show off new phones, AI, metaverse"
-    excerpt: "The latest folding-screen smartphones, immersive metaverse experiences, AI-powered chatbot avatars and other eye-catching technology are set to wow visitors at the annual MWC wireless trade fair"
-    publishedDateTime: 2023-02-25T14:01:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461863"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461863"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/mwc-mobile-tech-fair-show-off-new-phones-97461863"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 59
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Meta Building A-Team To Create AI Personas: Mark Zuckerberg"
     excerpt: "The public battle to dominate the AI technology space kicked off late last year with the launch of Microsoft-backed OpenAI's ChatGPT, which has since prompted tech heavyweights from Alphabet Inc to China's Baidu Inc to announce their own offerings."
     publishedDateTime: 2023-02-28T03:28:00Z

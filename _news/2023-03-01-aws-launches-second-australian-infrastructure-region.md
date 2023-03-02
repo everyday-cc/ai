@@ -25,29 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Watch the Australian Army Use Telepathy to Control Robot Dogs"
-    excerpt: "The mere thought of controlling a robot is good enough for the Australian Army. In a new test, the land force has paired with a host of technology researchers to use telepathy to control robot ..."
-    publishedDateTime: 2023-02-25T19:39:00Z
-    webUrl: "https://www.popularmechanics.com/military/research/a43044989/australian-army-uses-telepathy-to-control-robot-dogs/"
+  - title: "AWS is building a new Infrastructure Region in Malaysia with an investment of $6 billion0 0"
+    excerpt: "AWS cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. Last year, AWS had announced plans to invest $4.4 billion in India by 2030 through AWS Asia Pacific (Hyderabad) Region and $5 billion in Thailand."
+    publishedDateTime: 2023-03-02T06:18:00Z
+    webUrl: "https://www.neowin.net/news/aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion/"
+    ampWebUrl: "https://www.neowin.net/amp/aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion/"
     type: article
     provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 39
+      name: Neowin
+      domain: neowin.net
+    quality: 79
     images:
-      - url: "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2023-02-23-at-7-15-13-pm-1677197731.png?crop=1xw:0.9139504563233377xh;center,top&resize=1200:*"
-        width: 1200
-        height: 600
+      - url: "https://cdn.neowin.com/news/images/uploaded/2020/06/1591337796_21743298_1406722539365107_4308832733562613967_n_story.jpg"
+        width: 760
+        height: 428
         isCached: true
-  - title: "Leading Australian social justice bodies unite to back Indigenous voice to parliament referendum"
-    excerpt: "Allies for Uluru to act as ‘conduit’ for organisations to support yes campaign, and include Fred Hollows Foundation and Oxfam"
-    publishedDateTime: 2023-02-27T13:00:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/feb/28/leading-australian-social-justice-bodies-unite-to-back-indigenous-voice-to-parliament-referendum"
+  - title: "AWS to Launch an Infrastructure Region in Malaysia"
+    excerpt: "AWS has committed to the largest international technology investment to date in Malaysia, which will advance our Malaysia Madani vision of a highly skilled, innovative, prosperous, and sustainable economy,"
+    publishedDateTime: 2023-03-02T03:04:00Z
+    webUrl: "https://www.afp.com/en/news/1315/aws-launch-infrastructure-region-malaysia-202303010058411"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 0
+      name: AFP
+      domain: afp.com
+    quality: 19
 
 secured: "d0FtpYrVjMpRtidq6O5C2A97LEtw3Ymavi56/MGuliM8ABtC4ge5aVqytbgB4ZEzfDLyuaXOPGh8MEJ73YJBvtqzLULaBFDxnvG/xTCuv3Agu4Ff7GyIKaxpy3H6VKYW+1PkkK6WTkg5MmnnnFn004O7phZ0E6PDM4zUsbX2v5EVcQnG7z9qZ3EaBbQmuUnSpxtbHeU27NfimgsoVHJmeRflB3e5goMaR/SB5hXRvcPa2pfdB2Rxj0TxmxtIfl1yKXNlmdaVtRGnhFyGyhI/1UyxwdL50Osd1y7x5HvvZRjLuRs2dm/mNvIyPKgVrb+JsBVOxrR0NYGexJaC495VKLuAjyw3HmPhf9z1mF4mp1M2cPw8+RGLrIKzt/L6we4C0t43Ode+cTAt6Laf8lK74pFbJgu1NzW57bD6lEUW1tN9NzC/Jv48Fj45DZ58YQziHsEadNqbhobgHyvUhNbVJXoNBVpwixxAunupzt3ShcaeiB0CIxlaYXbS9bfITQVNX1vwdRi+3LBlqfQVDv+rwg==;8RZz/VxwsgRoQw2Hewsdkg=="
 ---

@@ -2,6 +2,155 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-02-aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion0-0.md",
+      "title": "AWS is building a new Infrastructure Region in Malaysia with an investment of $6 billion0 0",
+      "excerpt": "AWS cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. Last year, AWS had announced plans to invest $4.4 billion in India by 2030 through AWS Asia Pacific (Hyderabad) Region and $5 billion in Thailand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion/",
+      "originalUrl": "https://www.neowin.net/news/aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2020/06/1591337796_21743298_1406722539365107_4308832733562613967_n_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion/",
+      "publishedDateTime": "2023-03-01T22:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-healthcare-natural-language-processing-nlp-market-2023-huge-demand-growth-opportunities-and-expansion.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market 2023 Huge Demand, Growth Opportunities and Expansion",
+      "excerpt": "Healthcare Natural Language Processing (NLP) Market Size 2023 | New Report (122 Pages) | Information Technology | In",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-2023-huge-demand-growth-opportunities-and-expansion-2023-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-2023-huge-demand-growth-opportunities-and-expansion-2023-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.md",
+      "title": "ICICI Prudential Life Insurance leverages machine learning models for customers",
+      "excerpt": "ICICI Prudential Life Insurance has deployed advanced machine learning models for their customers. This digital solution predicts future persistency behavior and has enabled the Company to improve persistency across all cohorts.",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-98351567,imgsize-15524,width-1200,height-628,overlay-etcio/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
+      "publishedDateTime": "2023-03-01T19:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-first-robotics-competition-returns-to-utah-local-students-take-part.md",
       "title": "FIRST Robotics Competition returns to Utah; local students take part",
       "excerpt": "This week, high school students from around the nation will go head-to-head in the Utah Regional FIRST Robotics Competition at the Maverik Center.",
@@ -712,7 +861,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/03/01/generative-ai-chatgpt-as-masterful-manipulator-of-humans-worrying-ai-ethics-and-ai-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 378,
+      "heat": 388,
       "tags": null,
       "images": [
         {
@@ -903,7 +1052,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1081,154 +1230,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure.md",
-      "title": "Is This a Real Raphael Painting? AI Says Yes, But Humans Aren’t So Sure.",
-      "excerpt": "For decades, a group of investors has been hoping to prove that an artwork found in an antique shop is by Raphael, considered one of the greatest painters of the Italian Renaissance",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure-ede9ed54",
-      "originalUrl": "https://www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure-ede9ed54",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-722285/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure-ede9ed54",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure-ede9ed54",
-      "publishedDateTime": "2023-02-28T15:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability.md",
-      "title": "From Photons To Behavior: Torc Robotics Fortifies AI-Based Driving Capability",
-      "excerpt": "Aiming to dominate the truck autoimation space, Torc Robotics is acquiring the Algolux team and intellectual property to super-charge their capabilities in deep learning, computer vision, and computational imaging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability/",
-      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe8507e236baf80ecbcbc2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability/amp/",
-      "publishedDateTime": "2023-02-28T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race.md",
-      "title": "Hugging Face, AWS partner on open-source machine learning amidst AI arms race",
-      "excerpt": "OpenAI stopped open-sourcing most of its machine learning models and is serving them through a paid application programming interface (API). It has also become locked into Microsoft’s cloud platform, and its models are only available on Azure and ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/",
-      "originalUrl": "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

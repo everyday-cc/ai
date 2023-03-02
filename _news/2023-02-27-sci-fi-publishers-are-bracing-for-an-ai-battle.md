@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/sci-fi-story-submissions-generative-ai
 webUrl: "https://www.wired.com/story/sci-fi-story-submissions-generative-ai-problem/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "These AI Artists Are Creating The Fat, Black Characters So Sorely Lacking In Mainstream Sci-Fi And Fantasy"
-    excerpt: "Fat, Black people deserve to be main characters capable of anything.” BuzzFeed Contributor The AI artist Jervae (right) and one of their creations As a young child growing up in Greenville, North Carolina,"
-    publishedDateTime: 2023-02-25T14:01:00Z
-    webUrl: "https://www.buzzfeednews.com/article/davisc0994/ai-art-fat-black-sci-fi-fantasy-characters?ref=upstract.com"
-    ampWebUrl: "https://www.buzzfeednews.com/amphtml/davisc0994/ai-art-fat-black-sci-fi-fantasy-characters"
-    cdnAmpWebUrl: "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/davisc0994/ai-art-fat-black-sci-fi-fantasy-characters"
-    type: article
-    provider:
-      name: buzzfeednews.com
-      domain: buzzfeednews.com
-    quality: 69
-    images:
-      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2018-09/17/18/tmp/buzzfeed-prod-web-02/tmp-name-2-6439-1537224865-0_dblbig.jpg"
-        width: 625
-        height: 415
-        isCached: true
 
 secured: "h49j/AumsZwiX1PhKlH3Z658CpJ4tlgQwUI7a7QC5kcO07YIk7eRXHZH9+2EeunQpV36wVyJSFc+zrIL0htaeEgsLozUPbVPu6EJjmw+AK5Ec9VFLvnUdqvyuwNOenOlGD771xz9U+LszDrfUjsKN4wL8bd6/GhUB9L7qOvR9ez/gCeMI9Bhkz/d0eSxefFO3cTa4wn27GtRsD4EL0APa1I4py/tvH5yWD2hOPSBwf6jfpJXeWqgcGGvf47BTZ3Dj6sqauLwftL6XESGvYF1wcpBVjV5m7owFPXpasMs+srFNpnaedD+75XkLd86lJRMmszn2v5Kc2Ws4+KvMLpAtjRIxwsG7gYFeEnFG5hAm1YVzZ21kKhfZthftMhwj4N/o1cJIdzfxXeLZ3I/ukNVN/iQ3bYi6npxzNdRE5qyTmJWJe58DLMcXi0jwgmTZNGxdg6lQvoG4TzQpFIWa1y4KcRkyMR7KxW9xG9ePN3ipJ1JKmTJ+OIe02KRPV1qGeEVBL+/0tn/D2VNF80dr0hwKQ==;m9vpSHAcRF1Z3+RLaIO0dw=="
 ---

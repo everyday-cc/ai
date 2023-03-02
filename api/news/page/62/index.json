@@ -2,6 +2,101 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-01-13-pittsburghs-ai-expertise-may-give-rise-to-an-already-growing-startup-market.md",
+      "title": "Pittsburgh’s AI expertise may give rise to an already growing startup market",
+      "excerpt": "Pittsburgh is an AI powerhouse. Now that seemingly every VC is interested in the category, the Steel City's startup scene could see a boost.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/12/pittsburghs-ai-expertise-may-give-rise-to-an-already-growing-startup-market/",
+      "originalUrl": "https://techcrunch.com/2023/01/12/pittsburghs-ai-expertise-may-give-rise-to-an-already-growing-startup-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1351881393.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-security-technology-startup-awarded-over-4000000-for-humanitarian-support.md",
+      "title": "Security Technology Startup Awarded Over $4,000,000 for Humanitarian Support",
+      "excerpt": "Secured™, a service-disabled veteran owned small business security technology firm, is revolutionizing the field of drone surveillance with the first commercially-available automated AI Object Recognition & Change Detection software designed to merge sensor data in near real-time.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/science-pr-newswire-drones-business-ea798c837083b6e25c7ff06f122f1b04",
+      "originalUrl": "https://apnews.com/article/science-pr-newswire-drones-business-ea798c837083b6e25c7ff06f122f1b04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-12T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-using-machine-learning-to-help-monitor-climate-induced-hazards.md",
       "title": "Using machine learning to help monitor climate-induced hazards",
       "excerpt": "Combining satellite technology with machine learning may allow scientists to better track and prepare for climate-induced natural hazards, according to research presented last month at the annual meeting of the American Geophysical Union.",
@@ -1011,83 +1106,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-artificial-intelligence-in-healthcare-market-2023-future-demand-with-emerging-trends-key-dynamics-till-to-2028.md",
-      "title": "Artificial Intelligence in Healthcare Market 2023 Future Demand with Emerging Trends, Key Dynamics till to 2028",
-      "excerpt": "Jan (The Expresswire) -- \"\"Artificial Intelligence in Healthcare Market\"\" Insights 2023 | New Updated Report [ No of Pages 128 ] The [ Medical",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-future-demand-with-emerging-trends-key-dynamics-till-to-2028-2023-01-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2023-future-demand-with-emerging-trends-key-dynamics-till-to-2028-2023-01-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-12-robot-pals-and-ai-tools-whats-ahead-for-tech-in-the-classroom.md",
-      "title": "Robot pals and AI tools: What’s ahead for tech in the classroom?",
-      "excerpt": "The robot smiles, frowns, blinks, and even tears up – digitally, of course. His Paris-based creator, Blue Frog Robotics, bills him as an “emotional companion” that can solve problems faced by education systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csmonitor.com/text_edition/USA/Education/2023/0110/Robot-pals-and-AI-tools-What-s-ahead-for-tech-in-the-classroom",
-      "originalUrl": "https://www.csmonitor.com/text_edition/USA/Education/2023/0110/Robot-pals-and-AI-tools-What-s-ahead-for-tech-in-the-classroom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-11T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Christian Science Monitor",
-        "domain": "csmonitor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
