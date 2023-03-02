@@ -2,6 +2,51 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-12-06-ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts.md",
+      "title": "Uber’s facial recognition is locking Indian drivers out of their accounts",
+      "excerpt": "Srikanth is far from the only worker in India who must interact with facial recognition technology. In addition to the country’s 600,000 Uber drivers, many others work for the homegrown ride-sharing platform Ola and for startups such as Swiggy, Zomato, and Urban Company. All ask their platform workers to upload selfies for logins or verifications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/",
+      "originalUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/12/Adnan-Taqi2.jpg?w=3000",
+          "width": 3000,
+          "height": 1832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/12/06/1064287/ubers-facial-recognition-is-locking-indian-drivers-out-of-their-accounts/amp/",
+      "publishedDateTime": "2022-12-06T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-06-artificial-intelligence-machine-learning-and-the-future-of-entertainment.md",
       "title": "Artificial Intelligence, Machine Learning, And The Future Of Entertainment",
       "excerpt": "By 2030, the AI in media and entertainment industry is set to be worth a staggering $99.3 billion with the current compound annual growth rate being 26%.",
@@ -1116,57 +1161,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-06-why-designing-ai-for-humans-requires-productive-discomfort.md",
-      "title": "Why designing AI for humans requires 'productive discomfort'",
-      "excerpt": "When the consumer version of Google Glass appeared on the scene in 2014, it was heralded as the start of a new era of human-computer ... Just remember Google Glass when you're thinking about what can AI do -- people have to want it.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-designing-ai-for-humans-requires-productive-discomfort/",
-      "originalUrl": "https://www.zdnet.com/article/why-designing-ai-for-humans-requires-productive-discomfort/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f748509203a5703ad1ec5ad7840e4842cdb63d79/2022/12/02/4631c01c-b209-4b8c-a497-091a6049e34c/artificial-intelligence.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-designing-ai-for-humans-requires-productive-discomfort/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-designing-ai-for-humans-requires-productive-discomfort/",
-      "publishedDateTime": "2022-12-05T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

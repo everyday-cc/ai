@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in IoT Market Demand, Share, Key Players, Size, Growth Analysis, and Forecast 2029"
+    excerpt: "Mar 02, 2023 (The Expresswire) -- \"Artificial Intelligence in IoT Market\" Size, Share and Trends Analysis Report 2023 - By Applications"
+    publishedDateTime: 2023-03-02T04:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-demand-share-key-players-size-growth-analysis-and-forecast-2029-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
 
 secured: "fWf0vpsa+lTyyS6VssgPRhP9wePD3mf0eRpp7NY9W/ORiF21/oeO8DThz/o6KPeLF693ZkkzyKznc/qay2hrP1B0PMjDLPUCeHM8NkfCJtn0dI6b34zaT0Xii1jdt5KhUIi5iOQqvNsC0yaoEOYjNB1Eu992+bP5hrjjJKXmvL9z1Qv4BR7HZueNf27qso9HebVZIg9wU4o5t5NeqEHgncBFv2V6KTEk1wc8HOb1kJE9l81KekHlS/kwaR4wzlAIxyX1Olk9d6Ek+T9DwtaNeRHFZwiUq4zWhgFlGGtRegsu1+ljC50iFltWAY2iay2TtMIa9yqoMSLvmKJTQdoVBCdVxb221K+t8oUrsxA8bz4=;QPEgpLMNDnvxksQGVK+xvg=="
 ---

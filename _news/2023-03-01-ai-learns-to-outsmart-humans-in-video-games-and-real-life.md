@@ -1,24 +1,28 @@
 ---
 category: news
-title: "AI learns to outsmart humans in video games - and real life"
-excerpt: "Video game players have competed against computer-controlled opponents for decades, but they haven’t been as smart and fast as GT Sophy, the new AI driver on PlayStation’s Gran Turismo."
-publishedDateTime: 2023-03-01T04:25:00Z
-originalUrl: "https://www.idahostatesman.com/entertainment/article272612603.html"
-webUrl: "https://www.idahostatesman.com/entertainment/article272612603.html"
-ampWebUrl: "https://amp.idahostatesman.com/entertainment/article272612603.html"
-cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/entertainment/article272612603.html"
+title: "AI learns to outsmart humans in video games — and real life"
+excerpt: "Video game players have competed against computer-controlled opponents for decades, but they haven't been as smart and fast as GT Sophy, the new AI driver on PlayStation's Gran Turismo."
+publishedDateTime: 2023-03-01T03:02:00Z
+originalUrl: "https://www.ksl.com/article/50588238/ai-learns-to-outsmart-humans-in-video-games--and-real-life"
+webUrl: "https://www.ksl.com/article/50588238/ai-learns-to-outsmart-humans-in-video-games--and-real-life"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Idaho Statesman
-  domain: idahostatesman.com
+  name: KSL
+  domain: ksl.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://img.ksl.com/slc/2917/291786/29178647.jpeg?filter=kslv2/responsive_story_lg"
+    width: 1228
+    height: 690
+    isCached: true
 
 related:
   - title: "AI learns to outsmart humans in video games - and real life"
@@ -70,6 +74,6 @@ related:
       domain: richmond.com
     quality: 17
 
-secured: "VhKmhpUj9l1kTJ57VNwTiF199kVB27nSYcpsjeF8gStgXMSuwclbXbXjr168FTGzuPZ8Wcl4j66AAcgA1YQOImKT/hUluKf70ZqnwXraxtHz/hGIPIACAJhOvDEAdvpwiuNsnx36QOTaF4h5Zd43bZ2NqcCoq5qTVEtFH/io2AFT6cvyRqN/Yg3UUhd7vj7eX4abCR0VZLUi5uhqSoU0QM+uP5mWR1ANqtkkEtd2MZ2yNM/g7nKZ3oSvVl19nu/wm4+xUoE9tXfAep5ovcaB3pHCl+6pHgVEDzWakGWvFZ8YYEzBuUPQVkv+SJRXm9lMHAa6UvfRTN76zHmNnTqN+eiJY6hEldYITX74g9WeSMKG/rs7YSOLXue1PaChe8sNMuZVY+ayJQr+ntiK6UiQkLAyRVeibI/zSpNrrOQO+oYiDl6FZQ1SYTUyYRxezHT/yYvBZtEUiGOaWqFARP9FJ6qDDa6yFu6unKUfbDSAA+EG8QQIMKiuIl6099vjcYgAWDNlF9DQrULK0rhB1pEG0Q==;+sZwUAgz0mZKpTrsTJlMKQ=="
+secured: "zeniLYOb/eZhOUQDAfKuapH07VnsrUSajQxdiKp07CEvspbhy4N9IrmvAewgsRP5sT7QTnyzp2RGw/V2deNXPiw1kzVf1kHjJBmKv2IQYOFUgtutvH9W/ZPNQPtCXlR4vL3ppyFo/R9BHWZ8o6eNS/Pb8qm8P6ROtpo49vHX/RfxPzb87XYixgMn1u9UN/7ktlD+VyXk5qD7802rCSxLR6lJCdkg2sVYM2gNfr+McKQ9XSfTs5riLtXGxQpTRgbbL9c1XcpKNLS8C7MaZNG8nkXxopPXqrWfT1qqLQ2s5ZBYkgcWngJdnbUG93Y5FLgcgttxwdiYvBMzp2hbsVm6gNw8+tmPL9qKS0/uR2jzYHM=;fmUPgztPKlYJ33ifPj4KVQ=="
 ---
 

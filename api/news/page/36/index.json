@@ -2,6 +2,40 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-02-06-east-elem-students-use-robotics-to-create-unique-art.md",
+      "title": "East Elem. students use robotics to create unique art",
+      "excerpt": "Students at East Elementary School used rolling robots to create artwork, as part of the school’s broader robotics and coding curriculum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cullmantimes.com/news/east-elem-students-use-robotics-to-create-unique-art/article_13c70da6-a64f-11ed-be52-2f36e534b2fd.html",
+      "originalUrl": "https://www.cullmantimes.com/news/east-elem-students-use-robotics-to-create-unique-art/article_13c70da6-a64f-11ed-be52-2f36e534b2fd.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Cullman Times",
+        "domain": "cullmantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-ibm-watson-impresses-in-brain-tumour-analysis.md",
       "title": "IBM Watson impresses in brain tumour analysis",
       "excerpt": "IBM is busy applying its Watson AI to as many health arenas as possible and it looks like cancer genomic sequencing could be its next big market. In a new proof-of-concept study testing a beta ...",
@@ -955,49 +989,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-04-flexiv-launches-revolutionary-force-controlled-parallel-robot.md",
-      "title": "Flexiv Launches 'Revolutionary' Force-Controlled Parallel Robot",
-      "excerpt": "Flexiv says Moonlight is the world's first force-controlled parallel robot and is ideal for applications that require precise motion and force control, such as screw fastening, ultra-accurate ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105523319/Flexiv-Launches-Revolutionary-Force-Controlled-Parallel-Robot",
-      "originalUrl": "https://menafn.com/1105523319/Flexiv-Launches-Revolutionary-Force-Controlled-Parallel-Robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-02/03/R&AN_b68b1image_story.jpg",
-          "width": 800,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-03T21:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

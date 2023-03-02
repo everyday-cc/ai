@@ -2,6 +2,51 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-02-06-the-13-top-vc-firms-dedicated-to-investing-in-artificial-intelligence-and-machine-learning-that-founders-should-know.md",
+      "title": "The 13 top VC firms dedicated to investing in artificial intelligence and machine learning that founders should know",
+      "excerpt": "Here are the 13 top VC firms dedicated to AI and ML investing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-venture-capital-firms-investing-artificial-intelligence-machine-learning-2023-2",
+      "originalUrl": "https://www.businessinsider.com/top-venture-capital-firms-investing-artificial-intelligence-machine-learning-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-the-best-chatgpt-alternatives-according-to-chatgpt.md",
       "title": "The best ChatGPT alternatives (according to ChatGPT)",
       "excerpt": "He added that using Amazon Web Services and Amazon SageMaker can help with fine-tuning the code. The DialoGPT code is available on GitHub. ALBERT (A Lite BERT) is a truncated version of the original BERT and was developed by Google in December 2019.",
@@ -879,40 +924,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-niprd-advocates-use-of-artificial-intelligence-to-boost-healthcare-delivery-nigeria.md",
-      "title": "NIPRD advocates use of artificial intelligence to boost healthcare delivery: Nigeria",
-      "excerpt": "Introducing Artificial Intelligence interventions for centralized medical record database will unlock potential value for the healthcare ecosystem by providing up-to-date, accurate and complete inform",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/economy/africa/niprd-advocates-use-of-artificial-intelligence-to-boost-healthcare-delivery-nigeria-g335n1q4",
-      "originalUrl": "https://www.zawya.com/en/economy/africa/niprd-advocates-use-of-artificial-intelligence-to-boost-healthcare-delivery-nigeria-g335n1q4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/economy/africa/niprd-advocates-use-of-artificial-intelligence-to-boost-healthcare-delivery-nigeria-g335n1q4?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/economy/africa/niprd-advocates-use-of-artificial-intelligence-to-boost-healthcare-delivery-nigeria-g335n1q4?amp=1",
-      "publishedDateTime": "2023-02-06T00:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

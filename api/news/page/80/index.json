@@ -2,6 +2,58 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2022-12-22-msg-allegedly-used-facial-recognition-to-remove-rival-attorney-from-rockettes-show.md",
+      "title": "MSG Allegedly Used Facial Recognition to Remove Rival Attorney From Rockettes Show",
+      "excerpt": "A privacy expert told Gizmodo this was one of the first instances of a private firm using facial recognition to retaliate against an opposing lawyer.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528",
+      "originalUrl": "https://gizmodo.com/mgs-facial-recognition-msg-rockettes-show-1849919528",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ed4e62703fb59872a94cd9d96d70476a.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-21T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-22-model-engineering-college-to-set-up-centre-of-excellence-in-ai-robotics.md",
       "title": "Model Engineering College to set up centre of excellence in AI, Robotics",
       "excerpt": "APJ Abdul Kalam Technological University (KTU) has set apart ₹10 crore for the first phase of the project. The centre will come up at a space of around 60,000 sq.ft. The centre has been proposed as a separate entity under the university to undertake advanced research in AI,",
@@ -1158,58 +1210,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-21-openai-releases-point-e-an-ai-that-generates-3d-models.md",
-      "title": "OpenAI releases Point-E, an AI that generates 3D models",
-      "excerpt": "The next breakthrough to take the AI world by storm might be 3D model generators. This week, OpenAI open sourced Point-E, a machine learning system that creates a 3D object given a text prompt. According to a paper published alongside the code base,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/",
-      "originalUrl": "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/point-e-openai-e1671557202971.png?resize=1200,729",
-          "width": 1200,
-          "height": 729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/20/openai-releases-point-e-an-ai-that-generates-3d-models/amp/",
-      "publishedDateTime": "2022-12-20T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

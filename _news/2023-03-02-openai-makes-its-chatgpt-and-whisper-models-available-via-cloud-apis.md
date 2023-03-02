@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-01T21:49:00Z
 originalUrl: "https://siliconangle.com/2023/03/01/openai-makes-chatgpt-whisper-models-available-via-cloud-apis/"
 webUrl: "https://siliconangle.com/2023/03/01/openai-makes-chatgpt-whisper-models-available-via-cloud-apis/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/openai.png"
@@ -379,6 +380,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2023/02/27/09/68122731-0-image-a-18_1677491269713.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Kenyon professors discuss implications of ChatGPT, AI art"
+    excerpt: "Kenyon professors go into detail about ChatGPT’s rise to fame, including its remarkable and uncanny capability to mimic the styles of other writers and create art."
+    publishedDateTime: 2023-03-02T16:00:00Z
+    webUrl: "https://kenyoncollegian.com/features/2023/03/kenyon-professors-discuss-implications-of-chatgpt-ai-art/"
+    type: article
+    provider:
+      name: Kenyon Collegian
+      domain: kenyoncollegian.com
+    quality: 39
+    images:
+      - url: "https://kenyoncollegian.com/wp-content/uploads/2023/03/classic-xsml-panel2.jpg"
+        width: 500
+        height: 334
         isCached: true
   - title: "Investors are going nuts for ChatGPT-ish artificial intelligence"
     excerpt: "Not a week goes by without someone unveiling a “generative” artificial intelligence ( AI) underpinned by “foundation” models—the large and complex algorithms that give Chat GPT and other AI s like it their intelligence."

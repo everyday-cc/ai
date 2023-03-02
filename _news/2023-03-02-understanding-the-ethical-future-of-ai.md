@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chips Industry Goes All-in On AI"
+    excerpt: "But an industry long associated with volatility is quietly getting excited that artificial intelligence (AI) could be the key to some longer-term stability. US firm Nvidia dominates the market in specialised chips known as GPUs,"
+    publishedDateTime: 2023-03-02T10:51:00Z
+    webUrl: "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103"
+    ampWebUrl: "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chips-industry-goes-all-ai-3673103?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://d.ibtimes.com/en/full/4427030/enthusiam-artificial-intelligence-within-microchip-industry-palpable-mobile-world-congress.jpg"
+        width: 768
+        height: 510
+        isCached: true
   - title: "How is AI significantly changing the Fit Tech industry?"
     excerpt: "Did you know that the global market for fitness tech expects to reach $29.4 billion by 2023? With the industry’s exponential growth, the need for innovation and differentiation is more pressing than ever."
     publishedDateTime: 2023-02-26T03:39:00Z
@@ -73,17 +89,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Chips Industry Goes All-in On AI"
-    excerpt: "It's been a wild few years for the microchip industry, recovering from a long-term supply squeeze only to be thrust into the centre of a US-China battle to control supply lines of the valuable technology."
-    publishedDateTime: 2023-03-02T15:44:00Z
-    webUrl: "https://www.barrons.com/news/chips-industry-goes-all-in-on-ai-8a80a4e4"
-    ampWebUrl: "https://www.barrons.com/amp/news/chips-industry-goes-all-in-on-ai-8a80a4e4"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chips-industry-goes-all-in-on-ai-8a80a4e4"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
   - title: "SKT to Lead AI Transformation in Industry and Society with AI Services and Technologies"
     excerpt: "SK Telecom (NYSE:SKM, hereinafter referred to as &#34, SKT&#34, )) today held a press conference in Barcelona, Spain, to unveil its ambitious plans to achieve 'AI to"
     publishedDateTime: 2023-02-26T23:32:00Z

@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in IoT Market Demand, Share, Key Players, Size, Growth Analysis, and Forecast 2029"
+    excerpt: "Mar 02, 2023 (The Expresswire) -- \"Artificial Intelligence in IoT Market\" Size, Share and Trends Analysis Report 2023 - By Applications"
+    publishedDateTime: 2023-03-02T04:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-demand-share-key-players-size-growth-analysis-and-forecast-2029-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
   - title: "This study on Cognitive Systems Spending research analysts emphasizes current market information."
     excerpt: "This \"Cognitive Systems Spending Market\" offers an all-inclusive analysis of regional and global markets based"
     publishedDateTime: 2023-03-01T18:11:00Z

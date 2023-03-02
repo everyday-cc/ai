@@ -354,6 +354,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "OpenAI makes its ChatGPT and Whisper models available via cloud APIs"
+    excerpt: "Developers can now integrate OpenAI LLC’s ChatGPT and Whisper models into their software thanks to new application programming interfaces that became available today. An application programming interface,"
+    publishedDateTime: 2023-03-01T21:49:00Z
+    webUrl: "https://siliconangle.com/2023/03/01/openai-makes-chatgpt-whisper-models-available-via-cloud-apis/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/openai.png"
+        width: 989
+        height: 520
+        isCached: true
   - title: "Apple Blocks Update of ChatGPT-Powered App, as Concerns Grow Over AI’s Potential Harm"
     excerpt: "The iPhone maker asked the developer of an email app embedded with AI-language capabilities to set an age restriction, a sign of unease about inappropriate content."
     publishedDateTime: 2023-03-02T11:58:00Z
@@ -379,19 +393,19 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "OpenAI makes its ChatGPT and Whisper models available via cloud APIs"
-    excerpt: "Developers can now integrate OpenAI LLC’s ChatGPT and Whisper models into their software thanks to new application programming interfaces that became available today. An application programming interface,"
-    publishedDateTime: 2023-03-01T21:49:00Z
-    webUrl: "https://siliconangle.com/2023/03/01/openai-makes-chatgpt-whisper-models-available-via-cloud-apis/"
+  - title: "Kenyon professors discuss implications of ChatGPT, AI art"
+    excerpt: "Kenyon professors go into detail about ChatGPT’s rise to fame, including its remarkable and uncanny capability to mimic the styles of other writers and create art."
+    publishedDateTime: 2023-03-02T16:00:00Z
+    webUrl: "https://kenyoncollegian.com/features/2023/03/kenyon-professors-discuss-implications-of-chatgpt-ai-art/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Kenyon Collegian
+      domain: kenyoncollegian.com
     quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/openai.png"
-        width: 989
-        height: 520
+      - url: "https://kenyoncollegian.com/wp-content/uploads/2023/03/classic-xsml-panel2.jpg"
+        width: 500
+        height: 334
         isCached: true
   - title: "Analyzing ChatGPT, artificial intelligence and the impact on our future"
     excerpt: "CBS News Detroit takes a deeper dive into the impact of artificial intelligence as well as ChatGPT. Special guests included: Alexander Davidson, an English teacher at the University of Detroit Jesuit High School Michael Jaafar,"

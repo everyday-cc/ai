@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Chips Industry Goes All-in On AI"
-excerpt: "It's been a wild few years for the microchip industry, recovering from a long-term supply squeeze only to be thrust into the centre of a US-China battle to control supply lines of the valuable technology."
-publishedDateTime: 2023-03-02T15:44:00Z
-originalUrl: "https://www.barrons.com/news/chips-industry-goes-all-in-on-ai-8a80a4e4"
-webUrl: "https://www.barrons.com/news/chips-industry-goes-all-in-on-ai-8a80a4e4"
-ampWebUrl: "https://www.barrons.com/amp/news/chips-industry-goes-all-in-on-ai-8a80a4e4"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chips-industry-goes-all-in-on-ai-8a80a4e4"
+excerpt: "But an industry long associated with volatility is quietly getting excited that artificial intelligence (AI) could be the key to some longer-term stability. US firm Nvidia dominates the market in specialised chips known as GPUs,"
+publishedDateTime: 2023-03-02T10:51:00Z
+originalUrl: "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103"
+webUrl: "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103"
+ampWebUrl: "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chips-industry-goes-all-ai-3673103?amp=1"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://d.ibtimes.com/en/full/4427030/enthusiam-artificial-intelligence-within-microchip-industry-palpable-mobile-world-congress.jpg"
+    width: 768
+    height: 510
+    isCached: true
 
 related:
   - title: "The Future Of Data And AI In The Financial Services Industry"
@@ -156,6 +162,6 @@ related:
         height: 302
         isCached: true
 
-secured: "aY+nQ2Tmjzw+XabkUPNE6E+1IcPYJig5AV2P8R9n03VpgLw+/r5hCTVE007b2SNt5LXeJznBQUSmcEbmwgdZvtu1DjyBHbJU4eyO8mwDba0Db4X8CPrlOf6yRa75DqdzhsmjyAetduh4UQrjEq/DzCAmBCyKxIdjI7+fMYXc4uVoikU2pcEvdLMv9w/d1MbSUaGWjmightG85MXyOTB57fFztudIeqrKhAqTrfmKInsgK8qvxchCETqfovc/VrBgG2kCkb2hf0TsQIxdbeUhFhOUkgmqSGsdACfDfUiLcifzcKyORsoknM/vQYWUKR4WlLP38EMRGznaOqr+/4agW87cqiL8BXcmGeEsE14tPIA=;DebX0i+qI6rDPgbjkZ5XpQ=="
+secured: "AUZ6nEpsQWsg59BXb+qbLjtLPtz2zhdZG+VBdDngKVUlUJjQj39bIOSnnAnC3nXec+ApSbq5vkClcwJo0xPsNiX3Ty4vVl48GV0U6p1187iNeMqoLM+kydHGtFkX3uy6zuAcwBd4F4Juid4d0pgdB8+NjFA6sG7XZ/4vpNRplwQUSFaMyfv9Yp1Gxn5voXczt+cOjuWv9byxlqT5hnwlTNApR6pw01JbUJ7WIURfmt9CKVBVDSTs3X5zs7UqyYCIMU50kxlzvjqhxt5kRdDOLbAV/KHHVc1G9ETdTihFqBLLHBUxjcOi8Y75ZkLpqf4Lb1z3y+2YJX2l/MAd3BlHovC9UZmfLrQz11CFfLkfa7s=;OP4CYgmNxn0cqlYW591vrQ=="
 ---
 

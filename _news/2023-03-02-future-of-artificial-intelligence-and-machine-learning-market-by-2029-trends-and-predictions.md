@@ -272,19 +272,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Educational institutions consider the risks and benefits of Artificial Intelligence (AI) devices"
-    excerpt: "At least five Australian states have banned the use of tools such as ChatGPT in public schools to limit potential cheating and plagiarism."
-    publishedDateTime: 2023-02-26T01:18:00Z
-    webUrl: "https://www.sbs.com.au/language/indonesian/en/podcast-episode/institusi-pendidikan-mempertimbangkan-risiko-dan-manfaat-perangkat-arifisual-intelegent-ai/zbaeag6zz"
+  - title: "Artificial Intelligence (AI) In Retail Market Is Predicted To Advance at a Stupendous CAGR Of 30.3% by 2033: Fact.MR Report"
+    excerpt: "Fact.MR, a market research and competitive intelligence provider, reveals that the global artificial intelligence (AI) in retail market is set to achieve a valuation of US$"
+    publishedDateTime: 2023-03-02T17:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31177573/artificial-intelligence-ai-in-retail-market-is-predicted-to-advance-at-a-stupendous-cagr-of-30-3-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31177573"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31177573"
     type: article
     provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
     images:
-      - url: "https://images.sbs.com.au/dims4/default/47219a0/2147483647/strip/true/crop/5489x3088+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F84%2Fe9%2Fc42754dd4a0282f065bcaf8d5d3b%2Fgettyimages-1456601730.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Automated Machine Learning (AutoML) Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
     excerpt: "Automated Machine Learning (AutoML) Market Report offers an Complete view about Automated Machine Learning (AutoML)"

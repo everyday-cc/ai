@@ -57,15 +57,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "This Hong Kong fintech employs AI technology to promise collateral-free loans to city’s small businesses"
-    excerpt: "FundPark, a fintech-focused platform for trade finance ... he added. “Through AI technology and data analysis, our own proprietary risk-management tool develops its predictive model,” Suen ..."
-    publishedDateTime: 2023-02-26T03:01:00Z
-    webUrl: "https://www.scmp.com/business/banking-finance/article/3211408/hong-kong-fintech-employs-ai-technology-promise-collateral-free-loans-citys-small-businesses"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 32
 
 secured: "mDm4RHb/Y/0bO6oBIKHx4X/7zQ+19MUROHYbxaO6v00Qxbkbei9wTf6RBHxaHDvzrYhswWtNBqqNTRpK/hLhxkdmFcmvZs2pnSNE6AfaImzosHvd04/S2ykf3FhIxlsBYcCt6DK9T9hNF8qAFm0+PqroKT8FDJZmOOwKKjE0xyKR/LHjyysziW84fwlvEg2kuvgOtfix708LRz5JEP53lh4H6bJIy73F6qmkYHiaFwGTrv0gnPTdGLTMcDGgQNcx1dF7e/YTnj74z/Z2DP5Ppm8EnsAmSgiMXiYTlFzs1k83PGFIUsf5GlN3x0nGsnuf65DN3s41yklcxpMpS3+vykYfO6IvYMsI0GSfq78YNsVdQk9aBWz8a/zsQkG31bRwbkkviHi9cpVjfPZp0HF4a1UUGzE47T9HsKuGAdxzLfhrL0QEPnJg5uuMcZl7sljcPzsd7580RGFwTI+zKIpuOHKHr0m3efmN2Qz84whaPM2hhcesOyGdgpzirdO3nPzwzFnxUzPtbZZusXVJBGB1Ag==;yVnGPRDMmZWd6aQO5H3a+g=="
 ---

@@ -2,6 +2,49 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-01-28-dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition.md",
+      "title": "Dolan says he he has no plan to sell Knicks, retire, but he loves facial recognition",
+      "excerpt": "Dolan defended Madison Square Garden’s controversial use of facial recognition technology to ban attorneys from firms involved in lawsuits against the Knicks or MSG from entering the property ...",
+      "sourceUrl": null,
+      "webUrl": "https://nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/",
+      "originalUrl": "https://nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nba.nbcsports.com/wp-content/uploads/sites/12/2023/01/GettyImages-1431321339-e1674869992496.jpg",
+          "width": 698,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://nba-nbcsports-com.cdn.ampproject.org/c/s/nba.nbcsports.com/2023/01/27/dolan-says-he-he-has-no-plan-to-sell-knicks-retire-but-he-loves-facial-recognition/amp/",
+      "publishedDateTime": "2023-01-27T18:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Sports",
+        "domain": "nbcsports.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-28-elon-musk-is-being-investigated-by-the-sec-for-tesla-self-driving-claims-report-says.md",
       "title": "Elon Musk is being investigated by the SEC for Tesla self-driving claims, report says",
       "excerpt": "Elon Musk is facing SEC scrutiny into whether he may have made false or misleading statements about Tesla's self-driving capabilities.",
@@ -1124,48 +1167,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-ai-wrote-a-bill-to-regulate-ai-now-rep-ted-lieu-wants-congress-to-pass-it.md",
-      "title": "AI wrote a bill to regulate AI. Now Rep. Ted Lieu wants Congress to pass it.",
-      "excerpt": "The California Democrat, one of a handful of members with computer science backgrounds, wants a nonpartisan commission to recommend new regulations for artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/ted-lieu-artificial-intelligence-bill-congress-chatgpt-rcna67752",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/ted-lieu-artificial-intelligence-bill-congress-chatgpt-rcna67752",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-01/230126-ted-lieu-jm-1541-f942ef.jpg",
-          "width": 2500,
-          "height": 1663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna67752",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna67752",
-      "publishedDateTime": "2023-01-26T19:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

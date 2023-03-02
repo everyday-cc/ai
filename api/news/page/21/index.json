@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-02-09-how-ai-and-facial-recognition-can-chill-access-to-justice.md",
+      "title": "How AI and Facial Recognition Can Chill Access to Justice",
+      "excerpt": "Madison Square Garden Entertainment Corp. recently drew considerable criticism over its use of facial recognition technology to identify opposing counsel and prevent their access to its properties and entertainment venues. The entertainment conglomerate ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
+      "originalUrl": "https://news.bloomberglaw.com/us-law-week/how-ai-and-facial-recognition-can-chill-access-to-justice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/a243ca6/2147483647/crop/3998x1537%2B0%2B43/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F8e%2Fcc%2F8e7878e54eb2b39aed060426b5ec%2Fmadison-square-garden.jpg",
+          "width": 960,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.bloomberglaw",
+        "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-taking-sleeping-pills-could-have-disastrous-cognitive-side-effects.md",
       "title": "Taking sleeping pills could have disastrous cognitive side effects",
       "excerpt": "New research, however, has shown that commonly-prescribed sleep aids could have negative cognitive effects later in life, which could cause some users to stop taking them. Scientists have recently ...",
@@ -1004,49 +1047,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-the-plateauing-of-cognitive-ability-among-top-earners.md",
-      "title": "The plateauing of cognitive ability among top earners",
-      "excerpt": "The researchers combine wage data from Swedish population registers with scores from cognitive ability tests taken from military conscripts at age 18-19. \"This data trove permits us to test ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "originalUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/executive.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "publishedDateTime": "2023-02-08T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

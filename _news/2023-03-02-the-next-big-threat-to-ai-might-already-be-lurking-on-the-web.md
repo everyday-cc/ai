@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-next-big-threat-to-ai-m
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-big-threat-to-ai-might-already-be-lurking-on-the-web/"
 type: article
 quality: 89
-heat: 100
+heat: 101
 published: true
 
 provider:
@@ -34,12 +34,19 @@ related:
   - title: "Breweries using artificial intelligence to create new beers"
     excerpt: "Artificial intelligence is behind a new IPA being served at a Michigan brewery. Atwater Brewery developed the beer with the help of an AI chatbot."
     publishedDateTime: 2023-02-28T20:00:00Z
-    webUrl: "https://www.wptv.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
+    webUrl: "https://www.wcpo.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
+    ampWebUrl: "https://www.wcpo.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
+    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
     type: article
     provider:
-      name: WPTV-TV
-      domain: wptv.com
-    quality: 19
+      name: WCPO Cincinnati
+      domain: wcpo.com
+    quality: 59
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/3b6e798/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F81%2F3f%2F7993cdd84d51a8add85e10528254%2Fdownload.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "FlN4/VYclzZLffhSv6cUXkntcBV0FLO8o6K6Pi600Hi6kztzAhg766h7SZuPIt0cKhLz1/8JYjQT/gzN4Kv3vaeU5+WLCnbeJoTXaGPH5hUjb8ZEiT7EiZN7RVKSGc0PRIv23Xk9LQjkYMVSMDjZZgRwgO4xQmMHclixGl+3c1pTHINqF0AQpU+yv54zT7XYYHZKJcxEA6s5TV2nq0/WAbERgiEs+3NgiW1ktfbeoOuxU2grfdrBWqJdFTLrFwtRAP8t4nr6a73LuVaGYnsGxwU73xAQuCQGBI2GM7PLY5GpfmG0g59b2R0P7GCkF98a6vD7G8utPHHMDrXo37FIo88Trg91caK/ivqFaWo29Tppvmnl4fU9NEi27kV6KsT4/whlLTfuUR9rlYLSeItM2ky2uanI7z+GkVNeByfEKlOPl3sI9So6wSnFH1EDsI47B1vQZKum9ysZOruZU7/TdwqApTKPh/xKZ68xtmZgDo8nW3vfjo+R/1jv56cOsPRdH7wqRu+DC+m42OQWYGfcAQ==;/kz/1X0iOGOr2LEzAn4cvw=="
 ---

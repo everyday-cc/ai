@@ -2,6 +2,58 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2022-12-08-four-person-dev-team-gets-apples-m-series-gpu-working-in-linux.md",
+      "title": "Four-person dev team gets Apple’s M-series GPU working in Linux",
+      "excerpt": "For the brave people running Linux on Apple Silicon, their patience has paid off. GPU drivers that provide desktop hardware acceleration are now available in Asahi Linux, unleashing more of the M ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/asahi1-800x450.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2022/12/four-person-dev-team-gets-apples-m-series-gpu-working-in-linux/amp/",
+      "publishedDateTime": "2022-12-08T02:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-deutsche-bank-partners-with-nvidia-to-embed-ai-into-financial-services.md",
       "title": "Deutsche Bank partners with NVIDIA to embed AI into financial services",
       "excerpt": "Deutsche Bank has unveiled a multi-year partnership with NVIDIA that’s intended to accelerate the use of artificial intelligence (AI) and machine learning (ML) in the financial services sector.",
@@ -1096,50 +1148,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-lensa-the-ai-portrait-app-has-soared-in-popularity-but-many-artists-question-the-ethics-of-ai-art.md",
-      "title": "Lensa, the AI portrait app, has soared in popularity. But many artists question the ethics of AI art.",
-      "excerpt": "For many online, Lensa AI is a cheap, accessible profile picture generator. But in digital art circles, the popularity of artificial intelligence-generated art has raised major privacy and ethics concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/internet/lensa-ai-artist-controversy-ethics-privacy-rcna60242",
-      "originalUrl": "https://www.nbcnews.com/tech/internet/lensa-ai-artist-controversy-ethics-privacy-rcna60242",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-12/221206-lensa-selfies-ai-celebrities-cs-548f22.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna60242",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna60242",
-      "publishedDateTime": "2022-12-07T13:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

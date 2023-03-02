@@ -668,6 +668,59 @@
       ]
     },
     {
+      "path": "_news/2023-02-20-ai-governance-market-research-growth-analysis-and-outlook-2023-to-2030-top-companies-ibm-google-facebook-aws.md",
+      "title": "AI Governance Market Research, Growth, Analysis and Outlook 2023 to 2030 Top Companies | IBM, Google, Facebook, AWS",
+      "excerpt": "The report begins with the overview of the AI Governance Market and offers throughout development. The forecast",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-governance-market-research-growth-analysis-and-outlook-2023-to-2030-top-companies-ibm-google-facebook-aws-2023-02-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-governance-market-research-growth-analysis-and-outlook-2023-to-2030-top-companies-ibm-google-facebook-aws-2023-02-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-19T21:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-20-ringcentral-dials-in-strategic-partnerships-with-aws-and-avaya.md",
       "title": "RingCentral Dials In Strategic Partnerships With AWS And Avaya",
       "excerpt": "Vice President and Principal Analyst, Melody Brue dives in as this week, RingCentral announced two important partnerships—one with AWS, the other with Avaya.",
@@ -1406,49 +1459,6 @@
       "provider": {
         "name": "Deep",
         "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-prime-focus-technologies-clear-now-available-in-aws-marketplace.md",
-      "title": "Prime Focus Technologies' CLEAR® now available in AWS Marketplace",
-      "excerpt": "Prime Focus Technologies (PFT), the creator of the Supply Chain Automation platform CLEAR®, today announced that customers can now",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/prime-focus-technologies-clear-now-available-aws-marketplace",
-      "originalUrl": "https://www.asiaone.com/business/prime-focus-technologies-clear-now-available-aws-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2023/pr-newswire_500_4_574.jpg?h=7de12b8a&itok=yVymMfbJ",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null

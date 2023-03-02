@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leve
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "This Hong Kong fintech employs AI technology to promise collateral-free loans to city’s small businesses"
-    excerpt: "FundPark, a fintech-focused platform for trade finance ... he added. “Through AI technology and data analysis, our own proprietary risk-management tool develops its predictive model,” Suen ..."
-    publishedDateTime: 2023-02-26T03:01:00Z
-    webUrl: "https://www.scmp.com/business/banking-finance/article/3211408/hong-kong-fintech-employs-ai-technology-promise-collateral-free-loans-citys-small-businesses"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 32
   - title: "27/02 – Weekly Fintech Recap"
     excerpt: "Partnerships Western Union and Beforepay Offer ‘Send Now, Pay Later’ Service to Consumers for International Money Transfers Western Union and Beforepay announced a first-of-its-kind collaboration, allowing consumers to boost their cross-border money transfers by accessing reliable,"
     publishedDateTime: 2023-02-27T13:29:00Z
