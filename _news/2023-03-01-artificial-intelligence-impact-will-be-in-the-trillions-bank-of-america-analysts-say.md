@@ -19,21 +19,37 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Majority of Americans Would Not Rely on AI-Based Healthcare"
-    excerpt: "A recent survey found that 60 percent of Americans would not be comfortable with their providers relying on artificial intelligence to provide healthcare services."
-    publishedDateTime: 2023-02-28T17:29:00Z
-    webUrl: "https://healthitanalytics.com/news/majority-of-americans-would-not-rely-on-ai-based-healthcare"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/majority-of-americans-would-not-rely-on-ai-based-healthcare"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/majority-of-americans-would-not-rely-on-ai-based-healthcare"
+  - title: "‘AI Is The New Electricity’: Bank Of America Picks 20 Stocks To Cash In On ChatGPT Hype"
+    excerpt: "The bank’s 20 plays include Microsoft, an investor in ChatGPT parent OpenAI, and chatbot competitors Alphabet and Baidu."
+    publishedDateTime: 2023-03-01T16:59:00Z
+    webUrl: "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/"
+    ampWebUrl: "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/amp/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 96
     images:
-      - url: "https://healthitanalytics.com/images/sized/GettyImages-846841412-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff676e1d3c3452f8aa9374/0x0.jpg?format=jpg&crop=4044,2274,x0,y44,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Forget chatbots, this is how corporate America is really using AI"
+    excerpt: "References to AI and related terms during calls with investors are already up 77% from a year earlier. It's no wonder. AI-hungry investors have propelled Nvidia Corp., which makes the chips needed for complex AI computing tasks,"
+    publishedDateTime: 2023-03-01T12:41:00Z
+    webUrl: "https://www.business-standard.com/article/technology/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-123030100958_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-123030100958_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-123030100958_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/01/full/1677674444-8776.jpg"
+        width: 620
+        height: 464
         isCached: true
   - title: "Artificial intelligence impact will be in the trillions, Bank of America analysts say"
     excerpt: "Artificial intelligence is about to open trillions of dollars of opportunities in the next seven years, according to Bank of America analysts who say it is at an \"iPhone moment.\" \"If data is the new oil, then AI is the new electricity,\" the BofA analysts ..."

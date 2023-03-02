@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automated-machine-learni
 webUrl: "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-research-report-forecast-2023-to-2029-2023-02-27"
 type: article
 quality: 81
-heat: 231
+heat: 241
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
     excerpt: "Top “ AI-Powered Cognitive Search Market ” Size 2023 Key players Profiled in the Report are [, IBM Watson, Coveo, Squirro, Micro Focus, Mindbreeze, BMC Software, BA Insight, Lucidworks, Attivio, PerkinElmer,"
     publishedDateTime: 2023-02-27T15:29:00Z
     webUrl: "https://www.marketwatch.com/press-release/ai-powered-cognitive-search-market-research-report-forecast-2023-to-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market Growth and Technologies Research Report 2023 to 2028"
+    excerpt: "Mar 02, 2023 (The Expresswire) -- \"Deep Learning Market\" Report New Research Vision Report 2023 | Qualified Report Spread Across| 115 Pages | Global"
+    publishedDateTime: 2023-03-02T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-growth-and-technologies-research-report-2023-to-2028-2023-03-02"
     type: article
     provider:
       name: MarketWatch

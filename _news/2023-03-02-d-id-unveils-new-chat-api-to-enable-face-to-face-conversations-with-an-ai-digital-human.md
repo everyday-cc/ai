@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Is It Time To Ban AI Chatbots From Using Social Media?"
-    excerpt: "The fact that someone took the time to create a visual representation of a chatbot is quite impressive. In a video, Lia introduces herself and explains her ambitions. On the Lia homepage, you can chat with the bot and ask questions."
-    publishedDateTime: 2023-02-25T15:44:00Z
-    webUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/"
-    ampWebUrl: "https://www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/02/25/is-it-time-to-ban-ai-chatbots-from-using-social-media/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63fa39f512762143838ba854/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Snapchat launches an AI chatbot powered by OpenAI’s GPT technology"
     excerpt: "The company announced today that it's launching \"My AI,\" a new chatbot running the latest version of OpenAI's GPT technology that it has customized for its users."
     publishedDateTime: 2023-02-27T18:42:00Z
@@ -92,22 +76,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Forget chatbots, this is how corporate America is really using AI"
-    excerpt: "References to AI and related terms during calls with investors are already up 77% from a year earlier. It's no wonder. AI-hungry investors have propelled Nvidia Corp., which makes the chips needed for complex AI computing tasks,"
-    publishedDateTime: 2023-03-01T12:41:00Z
-    webUrl: "https://www.business-standard.com/article/technology/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-123030100958_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-123030100958_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-123030100958_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/01/full/1677674444-8776.jpg"
-        width: 620
-        height: 464
-        isCached: true
   - title: "Forget chatbots, this is how US companies are using AI"
     excerpt: "AI-hungry investors have propelled Nvidia Corp., which makes the chips needed for complex AI computing tasks, into the best-performing stock among mega-caps this year. Relatively obscure firms with AI in their names have also skyrocketed."
     publishedDateTime: 2023-03-02T06:25:00Z
@@ -123,6 +91,20 @@ related:
       - url: "https://images.livemint.com/img/2023/03/01/600x338/ai_1677696815878_1677696844097_1677696844097.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "The Startup Nation ecosystem embraces generative AI"
+    excerpt: "At the nascent stages of a revolution that will touch every aspect of life, many of the first companies using this powerful technology are Israeli."
+    publishedDateTime: 2023-03-02T06:24:00Z
+    webUrl: "https://www.israel21c.org/the-startup-nation-ecosystem-embraces-generative-ai/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 37
+    images:
+      - url: "https://static.israel21c.org/www/uploads/2023/02/shutterstock_2248618607_by_SuPatMaN_-_COVER.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "M2TJGlimdLdvrTmL5sVR9BNsZv1P9kkfWtBbxbzc09yTRe7yYZTQThTRqJZkfuPChXaiCFHnnL9iV4OwfHQVI4sgDMPXfV+t455o06s20d9foAhmuAKGkTv8ySaq51nMnXu6MEyIxK09RQq9qqGP0k1KXbQoxjxCQawGlgh6CMPtzEE7CWsw29nWPYzGoGEincLcbKvEkjgclINLEgPm+oItgCJ/bgYhKCm3Pio467Y7YQdQS1/p5qbyG+zYcPlSVYx7rhk27hYHHcMUN5xla7T6NwH8EZmsCvT1rMfhWX1eAJpjFH8ocusFloq8rmsc9JQaF1KRpIo8rKbkhIJ1WaxmNHkE1Tkosv/tumCtW9c=;K10vY7hKb6Wpkana3yfdbw=="

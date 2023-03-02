@@ -313,6 +313,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Best Artificial Intelligence (AI) stocks to short in 2023"
+    excerpt: "The most popular AI stocks among investors include firms like Microsoft, Nvidia. Baidu, Tesla, and BigBear among others."
+    publishedDateTime: 2023-03-02T08:08:00Z
+    webUrl: "https://invezz.com/news/2023/03/02/best-artificial-intelligence-ai-stocks-to-short-in-2023/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 52
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/02/173857177-m-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Artificial Intelligence-Emotion Recognition Market 2023, As Per The Latest Insights, With a Forecast Period"
     excerpt: "Artificial Intelligence-Emotion Recognition Market Size 2023 | New Report (100 Pages) | Information Technology | In"
     publishedDateTime: 2023-03-01T06:00:00Z

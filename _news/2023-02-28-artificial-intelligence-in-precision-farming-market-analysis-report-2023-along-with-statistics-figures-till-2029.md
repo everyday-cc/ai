@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Sensors Market 2023: Global Production, Value, Supply or Demand 2028 Forecasts"
+    excerpt: "Mar 02, 2023 (The Expresswire) -- \"Artificial Intelligence Sensors Market\" Report New Research Vision Report 2023 | Qualified Report Spread Across| 106"
+    publishedDateTime: 2023-03-02T04:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-sensors-market-2023-global-production-value-supply-or-demand-2028-forecasts-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SmyEgKhnoqsx2N3Ey8QyC0jncmqF/6CHdj/arzEravBNwSrTUGj3pZPOfxfSoSssoGTr/FkmX93R4e4zMIfy0eLUMQIYQWfOsnWFVCUnepOO61jdfDNt4PPMAVA96C1U1PovypHHMWZPkpBlRGUavGyfrLgxfo1oM0o4N5KhfueBjCVn/I2hYXmXyieEuFrXvKhFpT8s/5wPFae3uU3bb0dIE+NGG3sp1tMCHnBsl8pGfGU8Pxsatqm3hUcl62buV+ULJkoocO22RrtAXReI1TuPGhdCHWOYBpldyKrIOTLh5K+ZTJcWSn+XtSJGD2ro/8uryyeocKGdAjbJ9zqWJS2iBKT3WUcbf+J7+kptDcY=;vpX/cLbUWZUmitTFtPi9qA=="
 ---

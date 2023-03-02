@@ -2,19 +2,19 @@
 category: news
 title: "AI learns to outsmart humans in video games - and real life"
 excerpt: "Video game players have competed against computer-controlled opponents for decades, but they haven’t been as smart and fast as GT Sophy, the new AI driver on PlayStation’s Gran Turismo."
-publishedDateTime: 2023-03-01T00:21:00Z
-originalUrl: "https://www.kansascity.com/entertainment/article272612603.html"
-webUrl: "https://www.kansascity.com/entertainment/article272612603.html"
-ampWebUrl: "https://amp.kansascity.com/entertainment/article272612603.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/entertainment/article272612603.html"
+publishedDateTime: 2023-03-01T04:25:00Z
+originalUrl: "https://www.idahostatesman.com/entertainment/article272612603.html"
+webUrl: "https://www.idahostatesman.com/entertainment/article272612603.html"
+ampWebUrl: "https://amp.idahostatesman.com/entertainment/article272612603.html"
+cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/entertainment/article272612603.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: Idaho Statesman
+  domain: idahostatesman.com
 
 topics:
   - AI in Robotics
@@ -70,6 +70,6 @@ related:
       domain: richmond.com
     quality: 17
 
-secured: "rrQ6V10ovgCV0imi40J6w+HXv+uDFu4VVzqM8tkMS4YCw+xkesQ8AtdBu2a1MCrbAdHHD6zzIlWz357k4Oca0EncY6h+SF9fahrTNefxTKstsTn8HDqZjX73HUxTxcq5C4qyrIIBDy0SZfo5ZAQPGBmceKuyp0FAKTrdQgcZU84+hjhumY50tfDCuuzS34kZMj+/J45+urNIwF9EQwYmedmVZcN2eUvWZ3+ll+w26HwXvkRgihA+ZRZx+C/MzeGbzbLDVLL5sk689afn9tlVO1wrU898gtRoOp4V0ACxWvW5zyt1joS30BAon4gdu0fHE/gl7Lnye7g+PmSYWzk7fzhj4xuIp/5IQeS7VB4sBSNrCDwjP0CtmpLJy/PqMo+nORmoEfybwCu47xAQycHzGPybQNp6Zo7/piDPVW7DCzEkYJ7M8L8qb7ecFyhOHZIL6mDQbwOotsIvAp4f0dnlSiYjMmWhKGNWzoQfnU1E+iFLN78DgQ4o1Zen9iK9Wd7WwWndUBZJkfZ3ZN36WgiDNA==;0kvEzwMsDTodXaCVWezGVw=="
+secured: "VhKmhpUj9l1kTJ57VNwTiF199kVB27nSYcpsjeF8gStgXMSuwclbXbXjr168FTGzuPZ8Wcl4j66AAcgA1YQOImKT/hUluKf70ZqnwXraxtHz/hGIPIACAJhOvDEAdvpwiuNsnx36QOTaF4h5Zd43bZ2NqcCoq5qTVEtFH/io2AFT6cvyRqN/Yg3UUhd7vj7eX4abCR0VZLUi5uhqSoU0QM+uP5mWR1ANqtkkEtd2MZ2yNM/g7nKZ3oSvVl19nu/wm4+xUoE9tXfAep5ovcaB3pHCl+6pHgVEDzWakGWvFZ8YYEzBuUPQVkv+SJRXm9lMHAa6UvfRTN76zHmNnTqN+eiJY6hEldYITX74g9WeSMKG/rs7YSOLXue1PaChe8sNMuZVY+ayJQr+ntiK6UiQkLAyRVeibI/zSpNrrOQO+oYiDl6FZQ1SYTUyYRxezHT/yYvBZtEUiGOaWqFARP9FJ6qDDa6yFu6unKUfbDSAA+EG8QQIMKiuIl6099vjcYgAWDNlF9DQrULK0rhB1pEG0Q==;+sZwUAgz0mZKpTrsTJlMKQ=="
 ---
 

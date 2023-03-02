@@ -37,14 +37,14 @@ related:
         isCached: true
   - title: "AI learns to outsmart humans in video games - and real life"
     excerpt: "Video game players have competed against computer-controlled opponents for decades, but they haven’t been as smart and fast as GT Sophy, the new AI driver on PlayStation’s Gran Turismo."
-    publishedDateTime: 2023-03-01T00:21:00Z
-    webUrl: "https://www.kansascity.com/entertainment/article272612603.html"
-    ampWebUrl: "https://amp.kansascity.com/entertainment/article272612603.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/entertainment/article272612603.html"
+    publishedDateTime: 2023-03-01T04:25:00Z
+    webUrl: "https://www.idahostatesman.com/entertainment/article272612603.html"
+    ampWebUrl: "https://amp.idahostatesman.com/entertainment/article272612603.html"
+    cdnAmpWebUrl: "https://amp-idahostatesman-com.cdn.ampproject.org/c/s/amp.idahostatesman.com/entertainment/article272612603.html"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
+      name: Idaho Statesman
+      domain: idahostatesman.com
     quality: 39
   - title: "Outsmarting humans just one step for AI video game players"
     excerpt: "A new branch of research is more focused on teaching advanced computers to perform open-ended tasks in complex worlds and interact with humans, not just for the purpose of beating them."

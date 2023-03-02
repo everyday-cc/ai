@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-25-kpmg-global-study-confirms-trusting-ai-remains-a-major-employee-confidence-gap.md",
+      "title": "KPMG Global Study Confirms Trusting AI Remains A Major Employee Confidence Gap",
+      "excerpt": "KPMG and The University of Queensland recently released a global study of over 17,000 people in 17 countries. Major finding is that only 50 percent of the 17,000 respondents trust AI. Developing corporate purpose for effective AI governance is key to increase employee trust in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/02/25/kpmg-global-study-confirms-trusting-ai-remains-a-major-confidence-gap/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/02/25/kpmg-global-study-confirms-trusting-ai-remains-a-major-confidence-gap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f9e6729ecbb24e188ba856/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/02/25/kpmg-global-study-confirms-trusting-ai-remains-a-major-confidence-gap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/02/25/kpmg-global-study-confirms-trusting-ai-remains-a-major-confidence-gap/amp/",
+      "publishedDateTime": "2023-02-25T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-globe-aws-collaborate-on-inter-university-deepracer-league.md",
       "title": "Globe, AWS collaborate on Inter-University DeepRacer League",
       "excerpt": "Leading digital solutions platform Globe recently collaborated with Amazon Web Services (AWS) to host the inter-university AWS DeepRacer League for young and aspiring data and analytics professionals interested in gaining valuable machine learning (ML) skills.",
@@ -1152,48 +1203,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-mind-bending-midjourney-ai-art-and-images-from-simple-prompts.md",
-      "title": "Mind-Bending Midjourney AI Art And Images From Simple Prompts",
-      "excerpt": "Here is Rob Lennon with another amazing Twitter thread about using specific keywords, everyday sorts of terms, nothing too technical like aspect ratio or art styles or software version codes, to come up with that stunning image you see in the post.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tjmccue/2023/02/23/mind-bending-midjourney-ai-art-and-images-from-simple-prompts/",
-      "originalUrl": "https://www.forbes.com/sites/tjmccue/2023/02/23/mind-bending-midjourney-ai-art-and-images-from-simple-prompts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2023/02/23/mind-bending-midjourney-ai-art-and-images-from-simple-prompts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/02/23/mind-bending-midjourney-ai-art-and-images-from-simple-prompts/amp/",
-      "publishedDateTime": "2023-02-23T19:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

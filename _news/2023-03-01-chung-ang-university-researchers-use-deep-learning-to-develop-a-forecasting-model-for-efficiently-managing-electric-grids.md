@@ -25,49 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "ICICI Prudential Life Insurance leverages machine learning models for customers"
-    excerpt: "ICICI Prudential Life Insurance has deployed advanced machine learning models for their customers. This digital solution predicts future persistency behavior and has enabled the Company to improve persistency across all cohorts."
-    publishedDateTime: 2023-03-02T03:59:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567"
+  - title: "Making lethal molecules with machine learning"
+    excerpt: "We are but one very small company (among) many hundreds of companies using AI software for drug discovery and de novo design. How many of them have ... the know-how to find the pockets of chemical space that can be filled with molecules predicted to be orders of magnitude more toxic than VX?"
+    publishedDateTime: 2023-03-02T07:30:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/opinion/2023/03/197_346306.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=346306"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=346306"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 57
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 59
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-98351567,imgsize-15524,width-1200,height-628,overlay-etcio/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.jpg"
-        width: 1200
-        height: 628
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/Gwynne_Dyer_w200_7ad3536523c4d.jpg/dims/resize/740/optimize"
+        width: 740
+        height: 1021
         isCached: true
-  - title: "ICICI Prudential Life Insurance debuts machine learning models for its customers"
-    excerpt: "To make sure that customers keep profiting from their life insurance policies and stay on track to meet their long-term financial objectives, ICICI Prudential Life Insurance has implemented cutting-edge machine learning models."
-    publishedDateTime: 2023-02-27T09:02:00Z
-    webUrl: "https://www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers-11677487957218.html"
-    ampWebUrl: "https://www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers/amp-11677487957218.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers/amp-11677487957218.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
-    images:
-      - url: "https://images.livemint.com/img/2023/02/27/600x338/icici-pru-life-kRL--621x414_1677488331407_1677488331638_1677488331638.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "ICICI Prudential Life Insurance debuts machine learning models for its clients"
-    excerpt: "In a bid to making sure that customers keep profiting from their life insurance policies and stay on track to meet their long-term financial..|News Track"
-    publishedDateTime: 2023-02-27T09:53:00Z
-    webUrl: "https://english.newstracklive.com/news/icici-prudential-debuts-machine-learning-models-for-its-clients-sc18-nu318-ta318-1269660-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/icici-prudential-debuts-machine-learning-models-for-its-clients-sc18-nu318-ta318-1269660-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/icici-prudential-debuts-machine-learning-models-for-its-clients-sc18-nu318-ta318-1269660-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 37
 
 secured: "i/kHldEmL1wocQPJeaodkvqREELERwB6KGBdMOAbAXNKvyl89cHVaUPkCATtydLjtsJz1cGx9B8gs/L6nmoUSEg0XSETD2w8k9nh1oezKODDcChLDJ8lE4dMMryFxh2ZRRJEc6IEhqpFz54dyw4s9LgHdiTqlLV7NuL1wVdFqyg1wSxu2iVzuB7yqsRp3UTc545j1BRPpuSy38nLzdw/oy6WK/Oecb4Rp/F2Svg+Xjg8ykID6WfTugNd86R4FGAkIlOenr51eVOMihO+J5u53P7uzRAcfmDej11OzEnwcfG7vkOVqcrI02q03gvBqF81XgcuEgtHQ2xUIlE8kN8uNm0wj8AGiKTtXUcJb9pv21c=;uNqNN5Ugg8lF+KjOcJhcCA=="
 ---

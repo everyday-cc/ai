@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Growth and Technologies Research Report 2023 to 2028"
+    excerpt: "Mar 02, 2023 (The Expresswire) -- \"Deep Learning Market\" Report New Research Vision Report 2023 | Qualified Report Spread Across| 115 Pages | Global"
+    publishedDateTime: 2023-03-02T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-growth-and-technologies-research-report-2023-to-2028-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automated Machine Learning (AutoML) Market Analysis Report 2023 Along with Statistics Figures, till 2029"
     excerpt: "The report focuses on the Automated Machine Learning (AutoML) market size, segment size (mainly covering product type, application, and geography), competitor landscape, recent status, and development trends."
     publishedDateTime: 2023-02-27T04:39:00Z

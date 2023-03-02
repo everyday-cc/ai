@@ -3,8 +3,8 @@ category: news
 title: "Last night AI DJ saved my life? Testing Spotify’s virtual radio host"
 excerpt: "A male voice offers ‘commentary’ as the service curates a stream of songs I’ve heard before. Do I really need this?"
 publishedDateTime: 2023-03-02T05:02:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/mar/01/spotify-ai-dj-service-testing?amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/2023/mar/01/spotify-ai-dj-service-testing?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/technology/2023/mar/01/spotify-ai-dj-service-testing"
+webUrl: "https://www.theguardian.com/technology/2023/mar/01/spotify-ai-dj-service-testing"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/01/spotify-ai-dj-service-testing"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/01/spotify-ai-dj-service-testing"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "0coSasuYaWDJc2qorQWEoGmFsiLr+3AE6+v5KE5o3CF+FYuSCfeJmPF6t4XnRUac9SfICOqwGouCFW4kGX3rqQVws7vFaxCTy3fDrqSioKr5hSW6ca+2l1fcF+2dpB15oGzXjmpIcRHgvfVLiIWSgPrf9Gz4qJCravG/X9McegMud54iyYXcsB5iLShpISMoDJkQVKkqgN5myMzqFZ0SFosM9oyOM2M/vhhwB7xjVsIm79TrBsVGBEWppSkW9Qf+Q7BYZNt9HIwd1tyL8jOOiOlgEZaYbniUTorwgWTlQvGxHGHRe/1zLJnSyhzIJQjBEkUt9ji9anSD10gRhU0AHa8yaZzPE9o0M1hHqUzrJOI=;u9ahiXusRrYyKmhqOwkbcw=="
+secured: "mlaPqy/J+vyqVvvoIoMC8aNCtmKsH5vCYCWPuT0kdURCRNZRSMW6cDMU5ZEaQ+BCDiF1KVcRkes7jxM1GtEf8n35R/eyN86l7UAZdOwQ5uGy9n619a8W4aZXPbdiYhtqfk/TxC9e8aQjCFVLmAa6I/vlVfz9aPaAhIsbrjUbo5sku/Zgu6YAsJSHiq4ziQXwRMoDGJbguDr6dZ+v22giG7lnTVTCZwCTGRCBTTEVymzUNqHgJtg54WYiHTLDTOlzBNUk3sQxuCCFD2TRYQCNGWO5f3iwPwgPSXTuZjc1wWeAgl3E0NNRkSFz1n+qqJCpQtIYbn7iZ1juRZ6Eop/OByhJ95M5CYlLEO2Dbc7F2oM=;DNGJL3+/ynx7Kh+G8NRaKA=="
 ---
 

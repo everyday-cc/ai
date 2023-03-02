@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Growth and Technologies Research Report 2023 to 2028"
+    excerpt: "Mar 02, 2023 (The Expresswire) -- \"Deep Learning Market\" Report New Research Vision Report 2023 | Qualified Report Spread Across| 115 Pages | Global"
+    publishedDateTime: 2023-03-02T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-growth-and-technologies-research-report-2023-to-2028-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Chipset Market Future Trends Demand 2023, and Forecast to 2028"
     excerpt: "Deep Learning Chipset Market\" is expected to grow at a steady growth during the forecast period 2023-2028, Deep"
     publishedDateTime: 2023-02-26T03:28:00Z

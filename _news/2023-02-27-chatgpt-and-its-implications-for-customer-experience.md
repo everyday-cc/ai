@@ -404,6 +404,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence and All About Jazz?: DIG 9000 jams with ChatGPT"
+    excerpt: "DIG 9000 jams with ChatGPT article by Kurt Ellenberger, published on March 2, 2023 at All About Jazz. Find more Jazz and the Net articles"
+    publishedDateTime: 2023-03-02T07:00:00Z
+    webUrl: "https://www.allaboutjazz.com/artificial-intelligence-dig-9000-meets-chat-gpt"
+    type: article
+    provider:
+      name: Jazz
+      domain: allaboutjazz.com
+    quality: 37
+    images:
+      - url: "https://s3.amazonaws.com/allaboutjazz/photos/a_large/53198525dc740455810dc9c526c07479.jpg"
+        width: 936
+        height: 562
+        isCached: true
   - title: "Elon Musk Sounds the Alarm About the Dangers of AI And ChatGPT"
     excerpt: "The billionaire entrepreneur had called for regulation of artificial intelligence before the unprecedented breakthrough in the technology."
     publishedDateTime: 2023-02-27T20:42:00Z

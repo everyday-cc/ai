@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/statistical-natural-lang
 webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-is-booming-globally-forecast-2023-2029-2023-02-26"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence Sensors Market 2023: Global Production, Value, Supply or Demand 2028 Forecasts"
+    excerpt: "Mar 02, 2023 (The Expresswire) -- \"Artificial Intelligence Sensors Market\" Report New Research Vision Report 2023 | Qualified Report Spread Across| 106"
+    publishedDateTime: 2023-03-02T04:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-sensors-market-2023-global-production-value-supply-or-demand-2028-forecasts-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Precision Farming Market Analysis Report 2023 Along with Statistics Figures, till 2029"
     excerpt: "Artificial Intelligence in Precision Farming Market 2022 Report offers a Inclusive valuation regarding the competitive landscape of the Artificial Intelligence in Precision Farming market and includes a deep description of performance by top key global players (Experimental Study,"
     publishedDateTime: 2023-02-28T03:39:00Z

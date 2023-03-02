@@ -35,6 +35,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Alphabet’s Self-Driving Venture Waymo Fires Around 8% Of Its Workforce In The Second Round Of Job Cuts"
+    excerpt: "In its second wave of job cutbacks this year, Waymo, the self-driving technology division of Google Inc., let go of 137 workers, the company said in a statement to Reuters on Wednesday, bringing the year's total to 8% of its workforce."
+    publishedDateTime: 2023-03-02T08:17:00Z
+    webUrl: "https://in.mashable.com/tech/48197/alphabets-self-driving-venture-waymo-fires-around-8-of-its-workforce-in-the-second-round-of-job-cuts"
+    ampWebUrl: "https://in.mashable.com/tech/48197/alphabets-self-driving-venture-waymo-fires-around-8-of-its-workforce-in-the-second-round-of-job-cuts?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/48197/alphabets-self-driving-venture-waymo-fires-around-8-of-its-workforce-in-the-second-round-of-job-cuts?amp=1"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 73
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/e0516cd3-5136-4370-81c3-7ab4f447a66d_cxhj.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Lidar Stocks Are Dropping. Self Driving Cars Are Taking Too Long."
     excerpt: "Lidar can enhance vehicle safety and is a key enabler for what will hopefully become truly self-driving cars. In the coming year, about one in five Americans will live in a state that requires employers to disclose salary ranges in job postings."
     publishedDateTime: 2023-03-01T17:16:00Z
@@ -64,6 +80,20 @@ related:
       - url: "https://tii.imgix.net/production/articles/9942/ed3cc3a8-71b6-4d6d-bdee-708d036bcf33.jpeg?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Alphabet’s Waymo cuts 8% of staff after second round of layoffs"
+    excerpt: "Waymo confirmed the staff reduction in an email on Wednesday, saying it eliminated some engineering roles and rebalanced its headcount."
+    publishedDateTime: 2023-03-02T07:00:00Z
+    webUrl: "https://gulfbusiness.com/alphabets-waymo-cuts-8-of-staff-after-second-round-of-layoffs/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 39
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/03/GettyImages-1470580747.jpg"
+        width: 930
+        height: 571
         isCached: true
 
 secured: "dmr00tt+XnfeE0TBRaSxWtH8/+6Y7kQrTnCasJrjF0btqeAbEgejYuwpaBnaOM+0Dix6KPnRE0/TJRujl3yyYaS/hRRn5JHzC0EmYAk0O5uLQpvwAaus6eImn/XfefQe9azWve715WgQ5dbP95HvyEOvg7534xTra+KsKfz+SRlsjBxdQvmRIogzgIRomXmtc58GHI1lPJSV8gX/R3BJ8wAbwcGqb5Ht5saUBx50xJWvvjO5Ea1MG00+RqVCUn7FGrtzpd7o21D14Pulw7ANZj893GbsHXTHj//coMju0Udsk0oT5m9K91qnLmq/bYe0mt+KJFKOaOzfxjEi16qGgzX/AK4FNI6/ofmBIZOOhfJgXgeRzkYuJBfyYyPxHYEicPij2KCeDpHqDad1LkycdrRDnBrXhMUHZd9q6IOZZCaDFmcJQZY3/9dW9hzBb3MfIeOt8jV6npnjlqyQ8+DebNrL5GGSfs5D7oBddnL10Ma448c8RMumkve23yq3DScyGOLzdDoQxn6ibokwAJkJ4w==;ChJpd/6fV+1sRb6/P9kVqw=="

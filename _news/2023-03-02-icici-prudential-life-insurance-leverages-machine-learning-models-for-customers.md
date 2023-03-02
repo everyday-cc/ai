@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/ici
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       name: News Track
       domain: newstracklive.com
     quality: 37
-  - title: "Chung-Ang University researchers use deep learning to develop a forecasting model for efficiently managing electric grids"
-    excerpt: "This approach has several drawbacks, including a low prediction accuracy. To overcome them, researchers have resorted to deep learning-based models. While they make accurate predictions, their hyperparameters – variables that control the learning process ..."
-    publishedDateTime: 2023-03-01T14:37:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/981256"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 14
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/f12370b2-59e3-4195-ae98-11e3b55f14c4/Rendition/low-res/Content/Public"
-        width: 700
-        height: 466
-        isCached: true
 
 secured: "qCH7aZtKL3K92O42inu2sO+Z1nVb6q2RZMwalpt8RzX/mC+FyE/KAHxBFs2Ft0ZlHRUU9dmiGVHuyOYfoE2xzHkP8KAM0xWQ+FnBjt2M4F1hqDs3EAXYTnW1SM0AYmz4KmE7Ed/lacNOCnczB/S468Q8SnEI7Dl/vVBEStqrldpWE14j39JNJNlcaaIXitwfP9qen0NrJUA4/TWsSzlkK4+mcDx74Rl0AhAcdvUPv3XFIkGleGJ1t4uEuXAyiNyK7kRPEWrC1S/Z3ht7dkMXxpr8dg+TVIRLLwhZH1MQLOZtlRWaXtrcSIPRWKrjTU4R9NIh6jX7top/yTJ6fXeXn4RPVPdLRRmN0e/fQPxK6rN43T07Sr2Lsp6q5V1nB9sJChEyivHC0l4HNHdIpgwfVWCWbUsNvgnmm0nIXP2J+nsiiNUd9GiVyAJpCvWAywc1X/O6eshuTnipZTbjNnwBOH1jEnI8BigN+SLYiY8HCpnpwPaOHWx1ARNq0XH0r4Obv6ZeEg1iPJXtZSWwP0liPw==;0x07AbDAQNyACvSzw/iA8A=="
 ---

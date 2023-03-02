@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/01/generative-ai-cha
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/01/generative-ai-chatgpt-as-masterful-manipulator-of-humans-worrying-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 98
-heat: 388
+heat: 398
 published: true
 
 provider:
@@ -403,6 +403,20 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/02/ff4b8bae-155f-40bd-9d73-330b15b6d758/thumbnail/1200x630/2be48554f1ccbc36cc6708b098d46f90/1dd67744caf227b68e27d928d07c7225.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence and All About Jazz?: DIG 9000 jams with ChatGPT"
+    excerpt: "DIG 9000 jams with ChatGPT article by Kurt Ellenberger, published on March 2, 2023 at All About Jazz. Find more Jazz and the Net articles"
+    publishedDateTime: 2023-03-02T07:00:00Z
+    webUrl: "https://www.allaboutjazz.com/artificial-intelligence-dig-9000-meets-chat-gpt"
+    type: article
+    provider:
+      name: Jazz
+      domain: allaboutjazz.com
+    quality: 37
+    images:
+      - url: "https://s3.amazonaws.com/allaboutjazz/photos/a_large/53198525dc740455810dc9c526c07479.jpg"
+        width: 936
+        height: 562
         isCached: true
   - title: "Elon Musk Sounds the Alarm About the Dangers of AI And ChatGPT"
     excerpt: "The billionaire entrepreneur had called for regulation of artificial intelligence before the unprecedented breakthrough in the technology."

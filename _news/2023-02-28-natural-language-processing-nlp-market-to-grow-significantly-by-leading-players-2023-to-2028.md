@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare Natural Language Processing (NLP) Market Size To Reach at Extensive Growth by 2026"
+    excerpt: "The Report, Titled Global and China Healthcare Natural Language Processing (NLP) Market Size, Status and Forecast"
+    publishedDateTime: 2023-03-02T04:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 90
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Natural Language Processing (NLP) Market 2023 Huge Demand, Growth Opportunities and Expansion"
     excerpt: "Healthcare Natural Language Processing (NLP) Market Size 2023 | New Report (122 Pages) | Information Technology | In"
     publishedDateTime: 2023-03-02T04:02:00Z
@@ -43,57 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Examining the Artificial Intelligence and Machine Learning Market from 2023-Opportunities and Challenges Ahead"
-    excerpt: "Artificial Intelligence and Machine Learning Market Size 2023 | New Report (132 Pages) | Information Technology | In"
-    publishedDateTime: 2023-03-01T05:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/examining-the-artificial-intelligence-and-machine-learning-market-from-2023-opportunities-and-challenges-ahead-2023-03-01"
+  - title: "Global Artificial Intelligence Chip Market 2023 Regional Analysis, Industry Growth, Size, Share, Forecast 2026"
+    excerpt: "The Report, Titled Global Artificial Intelligence Chip Market Report, History and Forecast 2015-2026, Breakdown Data"
+    publishedDateTime: 2023-03-02T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-2023-regional-analysis-industry-growth-size-share-forecast-2026-2023-03-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Examining the Facial Recognition Market from 2023-Opportunities and Challenges Ahead"
-    excerpt: "Facial Recognition Market Size 2023 | New Report (115 Pages) | Information Technology | In This Reports Facial"
-    publishedDateTime: 2023-03-01T06:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/examining-the-facial-recognition-market-from-2023-opportunities-and-challenges-ahead-2023-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Payment Terminal Market 2023: Growth by 2029 Top Players with Opportunities"
-    excerpt: "New “Face Recognition Payment Terminal Market” Report 2023 by Manufacturers and Forecast to 2029: This Report provides"
-    publishedDateTime: 2023-02-27T13:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-payment-terminal-market-2023-growth-by-2029-top-players-with-opportunities-2023-02-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Rise of AI-based Surgical Robots Market Report 2023-2029 Highlighting Growing Demand and Future Opportunities with 99 Pages of Research Analysis"
-    excerpt: "AI-based Surgical Robots Market 2023: | 99 Pages Report Worldwide Industry Trends, Size, Development, Opportunity,"
-    publishedDateTime: 2023-02-28T02:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-rise-of-ai-based-surgical-robots-market-report-2023-2029-highlighting-growing-demand-and-future-opportunities-with-99-pages-of-research-analysis-2023-02-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -113,15 +85,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Speech Recognition Market Booming With Rising Demands and Massive Opportunities, 2023 - 2029"
-    excerpt: "Speech Recognition Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Semiconductor & Electronics] category in the industry, by Type (Speaker Dependent,"
-    publishedDateTime: 2023-02-27T02:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-booming-with-rising-demands-and-massive-opportunities-2023---2029-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
 
 secured: "DUbO61qYH0pMzGgW27+6k8cqNwqle7D56vunfl1MCNLSAYHj8eM/qatJNfvJ38cSjWUp7kXkjf19l0Lyy+upia5boO0oIWq0ThVjZsnFvuiRbyd1wvfJYDLrb/yke14rwjNBGg0WJyk9nn4/VMkWuylhrH/+BS+ObfPJewD9NxHemxB+5MEkxZF4r811A+Ap3nimSVrg6vEzro/xzTcPfLTpF4SrFNxBGLVTBvZLw1hgSX9qNpI2+YeTHbhxmnyTPES/ErEuTBFvR2ZJNt6aY2lIbz8USi919Go5IRy4RcEmjXm+2XQI6Lxz1b6bQRR7djqDRAlgBhk0kxpYETZjlqKf9kAWiczjP9htcuvH1Tc=;7+ccS4RNHe9Cpw919cU0NA=="
 ---

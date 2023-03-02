@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-in-
 webUrl: "https://www.marketwatch.com/press-release/2023-computer-vision-in-artificial-intelligence-ai-market-is-thriving-worldwide-by-2029-2023-02-26"
 type: article
 quality: 91
-heat: 361
+heat: 371
 published: true
 
 provider:
@@ -299,6 +299,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Best Artificial Intelligence (AI) stocks to short in 2023"
+    excerpt: "The most popular AI stocks among investors include firms like Microsoft, Nvidia. Baidu, Tesla, and BigBear among others."
+    publishedDateTime: 2023-03-02T08:08:00Z
+    webUrl: "https://invezz.com/news/2023/03/02/best-artificial-intelligence-ai-stocks-to-short-in-2023/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 52
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/02/173857177-m-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Deep Learning in CT Scanners Market Size 2023 With Regional Scope, Report Coverage, Historic Data, Outlook 2029"
     excerpt: "Deep Learning in CT Scanners Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
