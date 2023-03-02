@@ -1,29 +1,20 @@
 ---
 category: news
 title: "How will artificial intelligence reshape our world? | The Ethical Life podcast"
-excerpt: "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other."
-publishedDateTime: 2023-03-01T23:30:00Z
-originalUrl: "https://madison.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_c2e65db5-ba00-5589-8f66-955fdd147e5a.html"
-webUrl: "https://madison.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_c2e65db5-ba00-5589-8f66-955fdd147e5a.html"
+excerpt: "AI has raised plenty of questions about ethics, and it seemed like an overwhelming topic for this podcast. So we deiced to ask ChatGPT this question: \"I am looking for topics for an upcoming podcast about ethics and AI. What topics should I cover?\""
+publishedDateTime: 2023-03-02T13:02:00Z
+originalUrl: "https://heraldcourier.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_a90f9ed4-6a80-560b-b3f7-ddfc0272b117.html"
+webUrl: "https://heraldcourier.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_a90f9ed4-6a80-560b-b3f7-ddfc0272b117.html"
 type: article
-quality: 50
-heat: 50
-published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Bristol Herald Courier
+  domain: heraldcourier.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/c/2e/c2e65db5-ba00-5589-8f66-955fdd147e5a/63ff73fc4fd36.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
-    width: 1196
-    height: 628
-    isCached: true
-
-secured: "ct2xkuiDi8QUTHNxOcqd/z3OlSk2VoS9ckLLQDAfY9wtEPU0QpvJsjNo/V3f7Rpam0beQ3+xXmkiNTx+BF10p+hrSWbb3bXCJbEyofsbXG4uKSPxT7DoAgpjU4JdF+DNZK41KpkBw3QLxt/GKCRiMs+n+XFlnepGyPwP99b4rnJTyvCcrUQC4p/29q+IQL2dyaELoD4q0EsNhJtojjIei65+9GeBbDHE3GJ8Yfe6Ucz1ifUYwTnydRIzftfvviy+Xwwg8l5s/P4LVChKqKCOJNCf0Y2A0gJD4AQZn8XhKiqkArFZ+0XhMOkSEV2j1cjqf4yvDQsUV1Xuuji5pnAwZjsDMAFlL/oubgxejgab2ps=;41VpKl/PIwOzF/8Z2OeHOA=="
+secured: "59oFfjhI3/4g1EbSt96/h1uzoAntBPtlKGDKhQeY3PDNecOA1fOznWWsONFaEJU0yy02+gQlQIyeguVuXHAZ1NljE1w+4AHwsTMNBcBTxwe84o1i1bN3x11+O1OiTP89XV2ZaptKSYxyFAPFF9FVZBBlUB4sq49OBJmkDRMM6YXUpy8NDETMGWEGr2EMOhilMxj3IWV59RUjBSrVd3aRWa363F65igOvV1TpxS2/oKwJ9Wzn4MuYS0hlMeuJ5B2qiMJgwRBuKW+f0pDPv60njAJt8wJrR95khzeEuD8fgfTzhVv45liuF3H5ylZoVJoqhkfDNBPCjkPNekMQLAXNksiUo79ll6XxIVwCEBXh9WKTcZyy0FZirfSHd66s28eV/r8DFIUqzZEywoW7ojVf4a/OwJIgVPnBcOlYBlOaYEk3kgQEkVBGBN8mo/BcOWxxMA/TA/ZeSSh7DPd6yP8+DSehWl84kacY8cMUxrvr260F0It84v4hliCgxTuF2cTQGVz3P5dVpxRjs8AqiQYFGg==;6YTtas2ENFT7VWILl3OfWw=="
 ---
 
