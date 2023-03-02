@@ -14,7 +14,7 @@ website: https://scale.com/
 twitter:
   username: alexandr_wang
   url: https://twitter.com/alexandr_wang
-  followers: 64865
+  followers: 64904
 
 linkedin:
   url: https://www.linkedin.com/in/alexandrwang/
@@ -26,7 +26,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1566952601224036352/gm16vYhz_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_400x400.jpg
     width: 400
     height: 400
     isCached: true
