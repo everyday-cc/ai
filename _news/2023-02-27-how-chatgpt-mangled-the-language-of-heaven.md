@@ -159,20 +159,6 @@ related:
         width: 1200
         height: 617
         isCached: true
-  - title: "LLaMA, Meta’s New AI Language Model is Not Your Average ChatGPT"
-    excerpt: "By releasing LLaMA under a noncommercial license that is focused on research use cases, Meta is granting open access to the model."
-    publishedDateTime: 2023-02-25T07:47:00Z
-    webUrl: "https://www.gizmochina.com/2023/02/25/meta-language-model-llama/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/dima-solomin-mr26tQgHGmc-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "How ChatGPT’s AI Will Become Useful"
     excerpt: "They had to alter the original code because they discovered almost every player at the start of the first race ... on with the newfangled generative AI chatbots. Everyone’s trying to break ..."
     publishedDateTime: 2023-02-26T21:39:00Z
@@ -340,6 +326,22 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/25/image/jpeg/TfimQwVaBurGiWknvr0m16eUaOdXaGB9C4PfLklQ.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Children taking the International Baccalaureate WILL be allowed to use AI chatbot ChatGPT to write their essays"
+    excerpt: "ChatGPT is a large language model ... checking software and translation apps, he added. 'We must accept that it is going to become part of our everyday lives. 'If an AI programme can indeed ..."
+    publishedDateTime: 2023-02-27T11:22:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11797517/Children-taking-IB-allowed-use-AI-chatbot-ChatGPT-write-essays.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11797517/amp/Children-taking-IB-allowed-use-AI-chatbot-ChatGPT-write-essays.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11797517/amp/Children-taking-IB-allowed-use-AI-chatbot-ChatGPT-write-essays.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 39
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/02/27/09/68122731-0-image-a-18_1677491269713.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "OpenAI makes its ChatGPT and Whisper models available via cloud APIs"
     excerpt: "Developers can now integrate OpenAI LLC’s ChatGPT and Whisper models into their software thanks to new application programming interfaces that became available today. An application programming interface,"

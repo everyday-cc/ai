@@ -172,20 +172,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence And Machine Learning Market 2023: A Status Of Top Regions And Companies With Growth Prospects"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.'The 2023 research report on the global “artificial intelligence"
-    publishedDateTime: 2023-02-25T08:46:00Z
-    webUrl: "https://menafn.com/1105642591/Artificial-Intelligence-And-Machine-Learning-Market-2023-A-Status-Of-Top-Regions-And-Companies-With-Growth-Prospects"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 33
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?835698"
-        width: 465
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence-Emotion Recognition Market New Updates Drivers, Challenges and Competitive Strategic Window for Opportunities till 2029"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 27, 2023 (The Expresswire) -- Artificial Intelligence-Emotion Recognition Market size is expected to reach Multimillion USD by 2029, In comparison to 2023, at unexpected ..."
     publishedDateTime: 2023-02-28T10:17:00Z

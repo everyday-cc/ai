@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Microsoft unveils Kosmos-1, an AI language model with visual perception abilities"
+    excerpt: "On Monday, researchers from Microsoft introduced Kosmos-1, a multimodal model that can reportedly analyze images for content, solve visual puzzles, perform visual text recognition, pass visual IQ tests,"
+    publishedDateTime: 2023-03-01T23:50:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 101
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/multimodal_eyeball-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft's AI-powered Bing Chat now lets you choose 'precise' or 'creative' answers"
     excerpt: "Microsoft continues to tweak the AI-powered Bing Chat by adding new features such as the abilty to respond with different 'tones'. Over the weekend Micosoft said some users are now able to choose a style for the responses from Bing that are either 'Precise',"
     publishedDateTime: 2023-02-28T14:57:00Z
@@ -200,6 +216,20 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/microsoft-logo-1677580876.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft intros AI-powered Azure Operator Nexus for telecoms"
+    excerpt: "Software major Microsoft announced the preview of Azure Operator Nexus, two AI-powered services designed to manage telecom networks. Azure Operator Nexus is a cloud platform designed for the needs ..."
+    publishedDateTime: 2023-02-27T10:30:00Z
+    webUrl: "https://www.telecomlead.com/telecom-equipment/microsoft-intros-ai-powered-azure-operator-nexus-for-telecoms-109141"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 69
+    images:
+      - url: "https://www.telecomlead.com/wp-content/uploads/2023/02/Azure-Operator-Nexus-partners.png"
+        width: 640
+        height: 345
         isCached: true
   - title: "Microsoft Windows 11 update puts AI-powered Bing front and center"
     excerpt: "Microsoft will roll out on Tuesday an update to Windows 11 that puts its new AI-powered Bing capabilities front and center on its taskbar, one of the operating system's most widely used features, in the latest sign the company is doubling down on the buzzy technology despite some recent controversy."

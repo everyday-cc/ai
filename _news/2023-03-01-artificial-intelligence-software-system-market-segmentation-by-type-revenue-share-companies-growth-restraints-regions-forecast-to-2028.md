@@ -277,6 +277,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Cognitive Services Market Size 2023 Trends, Growth, Type And Application, Manufacturers, Regions And Forecast To 2026"
+    excerpt: "(MENAFN- The Express Wire) Global Cognitive Services Market Industry In-Depth ... Top Manufacturers (Microsoft, Expert System, SAS, AWS, Ipsoft, Nokia, Fusion Informatics, Apple, Baidu ..."
+    publishedDateTime: 2023-02-26T23:02:00Z
+    webUrl: "https://menafn.com/1105646163/Cognitive-Services-Market-Size-2023-Trends-Growth-Type-And-Application-Manufacturers-Regions-And-Forecast-To-2026"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?611155"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Global Human Capital Management (HCM) Market Report 2022: Integration of AI and Machine Learning Drives Growth"
     excerpt: "Market Outlook 2031\" report has been added to ResearchAndMarkets.com's offering. The global human capital management market is likely to grow at a CAGR of 10.53% over the forecast period i.e. 2022-2031."
     publishedDateTime: 2023-02-27T20:19:00Z

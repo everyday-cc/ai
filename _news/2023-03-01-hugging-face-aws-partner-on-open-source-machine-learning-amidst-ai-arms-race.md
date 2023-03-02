@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source
 webUrl: "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
   - Machine Learning
   - AWS AI
+
+related:
+  - title: "AWS bets big on open-source machine learning"
+    excerpt: "As the artificial intelligence arms race heats up between Big Tech companies, Amazon Web Services is looking to develop more open-source machine learning capabilities through a partnership with Hugging Face,"
+    publishedDateTime: 2023-03-01T23:06:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/aws-bets-big-on-open-source-machine-learning.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "dyuCK29wgJJ0M2pws+tQ06XKimRFxP2F80VVNfubxGvkgO0E59cKC0rIx7ov8eAf1C2c6ilqlwp4bt4swnC6lDg1Phw1rOGzTxi5rGNjt/3L1wTMpLkrm6GzZasn+PMyzS2hQlK91NG0KxWorssvkBrYaGJUy1+UbeHKXjwuyaC5CkRpAPO3sqpkbKBFyl/dVaItpyRnm3b4kKTR6MjkeMCjbEEjPhgi00+hAw0FGd+Dh0vmmtetmUNEVbeWzF1pKVVqDJOgthOeD1tmoteXmy+eLc4I3MiwDlP/VPVg3os/2Opp4taMzmkAq9sjfPymCqkquXCSpy+7+eJKsYs9RDY7LXIc3MfuZ34RF2hL7Euxo+rbq+/1OczWAgTPwwbPnfTTUKno+5FE4lQbuekEPIa/RRkSrp2IModEhvDVrhA/xPsxS2jIjruRp4yqtkeqolV35UB8ITP92l214GGrRAn/8Tb6q6/dBh7B30uVXXAOG/6o8526ViDrIGaf0dhSgIZhA1d/uBuud4LnKO2tow==;MBe3fbI/U7Jmfbn1qWcy6w=="
 ---

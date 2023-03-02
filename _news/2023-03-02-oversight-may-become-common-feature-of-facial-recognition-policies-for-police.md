@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition"
+    excerpt: "I hate to break it to you, but a world where your every move can be tracked using facial recognition has gone from science fiction to an everyday reality. Facial recognition is common at airports ..."
+    publishedDateTime: 2023-02-28T05:02:00Z
+    webUrl: "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/"
+    ampWebUrl: "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/amp/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 59
+    images:
+      - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/25/5962a488996ecd92c5b806c0c89f5c0a.jpg?quality=80&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "US Air Force experimenting with facial recognition on drones"
     excerpt: "New Scientist magazine has found a contract between the US Air Force and a defence firm that shows the government uses reconnaissance and surveillance drones equipped with facial recognition to aid in special operations missions. It would appear that these ..."
     publishedDateTime: 2023-02-28T10:21:00Z
@@ -105,6 +121,6 @@ related:
       domain: thehansindia.com
     quality: 19
 
-secured: "opqB+sS/eOeXknKGB1pMEOUCKMkQ5QSAt+P3J6LAP8avy+f7G6N6+wftBPlwB4ZGk5pWnJpbXWQ58k/u5GxrtnF7mdl96wkEIhG6n1robnv6imsRuPkrd5lTOLqQwtUC2ZIZLKaOqsv1n/qFYIZGgg0fP78igotFW1M8aeXSn8pUbakMrbPIsFMt6NTf4Q0VjkeGh5xYXiAOJh3WatZjjttZBrq4F03k0dSituVXAUbGk8HDkCeTdcpfF81Mc9Nk7ZAJncZzBUQc3+3mUUjZq7MIUdrZ9+VDDLLgscotkk/rQfK2QrvvglVXdLKtF1WDSVDg3iD3qfNyo00sJxgxh0RHpTaVYR5F2lO0yquehTg=;7kI5/AGj4kWUsTcmRrrouw=="
+secured: "Ed+Z+1A/JZyZLafuUW9CLqm30qbf4tV08mpX6Fh9swMFH4+UuOKMgApb/jHnocziMMxRJn9Qr733vPvQ+e5Ge+u1t95BDdt/iQdFFoM5SdpARjD9DDAMhQEB3WYT7fmeoXDlc/CRGFEHaX/WMCIMu0TCSaiaLcH7AUB+0BOfGlB9J7r8ncqJPgsGOJSrVVf+COBYuEQtEALwbcOUSz99EgsabF88ZqPx4JboM0o86CTX3DvZC/bOPnT7EaQZG7eSUrrh3CuvUSMbqJiWCvmsUQx0+QgmscSc3Apkcoo9GEl6JjKV3AwPDNdVB7ec5SAQRQpqxCRs56CdI4+hfzou2jve97sJlp90q7suuVj0TLpbjnWRE1xfgZRBLjUwzib9tZvtEzv3jylcMWkPigcQkdBtPyv7SjEaVsQryEAJsn6j5Abkvqya+ISim1HXk9vQFl6w/iLXyFAZ5bQDLmVjxl6F0zu0w3p5425u5eAc6zN1rVr30uNvpjZ/WxEuJ0YwaGZysFJvCTIYoCaDyZIY4Q==;6hFcqdTvSFSNmNg9Nzf1Bw=="
 ---
 

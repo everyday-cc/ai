@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "D-ID unveils new chat API to enable face-to-face conversations with an AI digital human"
+    excerpt: "D-ID announced today that it's launching a new live-streaming API to enable face-to-face conversations with an AI digital human."
+    publishedDateTime: 2023-03-01T19:45:00Z
+    webUrl: "https://techcrunch.com/2023/02/28/d-id-unveils-new-chat-api-to-enable-face-to-face-conversations-with-an-ai-digital-human/"
+    ampWebUrl: "https://techcrunch.com/2023/02/28/d-id-unveils-new-chat-api-to-enable-face-to-face-conversations-with-an-ai-digital-human/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/28/d-id-unveils-new-chat-api-to-enable-face-to-face-conversations-with-an-ai-digital-human/amp/"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: techcrunch.com
+    quality: 79
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/Screenshot-2023-02-28-at-4.26.44-PM.png?resize=1200,753"
+        width: 1200
+        height: 753
+        isCached: true
   - title: "ChatGPT Killed the Radio Star? These AI-Powered Chatbots Can Replace DJs"
     excerpt: "The RadioGPT system taps OpenAI's GPT-3 language model, along with an AI-generated voice, to create an artificial DJ capable of reading the news during song breaks."
     publishedDateTime: 2023-02-27T18:04:00Z
@@ -88,20 +104,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04SpOo2lEosf80ttweNfXwU-1.fit_lim.size_1200x630.v1677515547.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Facebook owner Meta joins AI chatbot race"
-    excerpt: "After Microsoft ChatGPT and Google's Bard, Meta is joining the AI chatbot race with its own state-of-the-art foundational large language model designed to help researchers advance their work in the field of artificial intelligence."
-    publishedDateTime: 2023-02-25T08:30:00Z
-    webUrl: "https://www.ummid.com/news/2023/february/25.02.2023/facebook-owner-meta-joins-ai-chatbot-race.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 41
-    images:
-      - url: "https://ummid.com/news/2023/february/25.02.2023/meta-language-model.jpg"
-        width: 790
-        height: 530
         isCached: true
 
 secured: "Bvrj2yG7PBshtMq6F7RMFbMMF2AMv6eFkB33AXByx5R5+QP1JaK+tX0Z6hCvaDfHWn/TjVjlgU9P3WdHb+rUMdJ+xssN3N6Y0el2IZs8lWfXtAnZlZ0MSCok6SMIL5il2fBnT7fiijdhFWcb4i1bgaskKkV9c5XEIAQvAqhGR7zVnf9sb69yeUu5ZwIXfKiRCzvhUohW692Sl7vpgV3qVVSrLN9kxS4xgK2OMXVRWFsQPCABzyH4qa7GhbO3z8jLscDeb2UXcrk37C8rHkDX0+XFzHA4AqFVawn+xvfPy5EGZ1CuJK1Xsem8HgvyQMMkoYuJYspm06RWWH3P0vdb3CduXPnyyWjUio1EnDWtiec=;pepBbF5DvcqqgLBMI1ovcA=="

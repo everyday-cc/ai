@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Billigence Partners With H2O.ai to Transform Its Business With Automated Machine Learning"
-excerpt: "The low-code and flexible architecture makes it easy to explain and enhance machine learning (ML) operations in any sector. “It is our mission to enable companies across the world to become AI superpowers. We can achieve this goal faster and at a greater ..."
-publishedDateTime: 2023-03-01T15:41:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/billigence-partners-with-h2o-ai-to-transform-its-business-with-automated-machine-learning/article_61ea760a-0575-55ed-8efa-f66b9a015ecc.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/billigence-partners-with-h2o-ai-to-transform-its-business-with-automated-machine-learning/article_61ea760a-0575-55ed-8efa-f66b9a015ecc.html"
+excerpt: "By co-creating AI models that predict revenue, fraud and sales, H2O.ai supercharges the business intelligence consultancy Today, the AI cloud leader, H2O.ai, announced a partnership with global busine"
+publishedDateTime: 2023-03-01T14:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/03/b31128198/billigence-partners-with-h2o-ai-to-transform-its-business-with-automated-machine-learning"
+webUrl: "https://www.benzinga.com/pressreleases/23/03/b31128198/billigence-partners-with-h2o-ai-to-transform-its-business-with-automated-machine-learning"
+ampWebUrl: "https://www.benzinga.com/amp/content/31128198"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31128198"
 type: article
-quality: 45
-heat: 45
+quality: 65
+heat: 65
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/JMag-Feb-2023-cover.jpg"
-    width: 350
-    height: 446
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "X0GcgN5uLpb0In6BayUWLleeuz/wsyT5Urt27bCTka2oxu5t/sTXpFwAf5eXrEjkz1M4Y+0V+epvcWe3sIby3m2XbEoZZe3JdE6rvo3i0whs5ZFnVr4j1XLO9CQY1TA5+f/kbzVO+niv9lqquGxD1xJdXG1BClqzOTDHTae9xgEUgh+x+RJl0dyYfpuHyuwAn35RT7PL0eiJuX6B07IbRlcTcd8giRIBiWzfQXqqEGmfE3xYWX1033RIsxu+y/WudMC4VwC9NYKRDy7fK25jTdN+EiS5LJrnfx1+BpsQZQjUCpmYrwW8wC6FK2qDOmrVCIrZlSFoWlKitzSyQlibjhXoztu9jWBEPFjcWekLls8=;q2fnHVhbGhKlq2tRAec4Ow=="
+secured: "iF5CPxWahotlyg7grcxdJOzakh/K/sIuqSBmqG190zRIo046scSwxmHFD3NPJNuGfa+a7PLGvCrylgK6qOwZATuksTMvBGaSv1xlPSXPQeOtXuSHmSIZIr6tRSpwdJCcpKheXpq+pPLld6ZWs0JeBw7FSgguof89W4xpHsDH3xZZjzqLUVzR7H01WYysBZaE5rZ6qMexGTDMQpYvzvmQp/jEaArdUvIW3si1eqRt3mBtzPGj7LVm1m8WppjmuRWYe5ECgh06qN960JFePFuHmTYA1TlVDP4v4tTzo2W24U5zyyeRczrEP7MwO45rp6PiOfQyZKOfe5tiWM8wChxQuWwYShjMMO4nPaWd1CbhLYQ=;iHdEmB2N9fVA04OnGHRjIw=="
 ---
 

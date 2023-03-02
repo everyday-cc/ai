@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/the-power-of-artificial-
 webUrl: "https://www.marketwatch.com/press-release/the-power-of-artificial-intelligence-delivery-robot-market-trends-2023-segmentation-in-customer-targeting-2023-02-27"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: MarketWatch
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the field of Al computer vision."
-    publishedDateTime: 2023-02-27T17:57:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
 
 secured: "9tJREUzTNb7eUIa4kcbIuZh3ahE6FfnjigW4M19IBjg8wa23PKMFrKrbffKlIgBVTs2iuq9hH55ba4BTZrGk7TxjcjT5EfcM9aVaGf/GvUMOB0YHbaECpliEpkzhvaL2mDY/sNKUT6OjYi85Lo6tLfYI5TEx67NTTlbVqb6o9LClXqHgUIyUoxe7duK3khUvZexJ+Ame40mI55+h3V1wCe/282bltLxPDchjbxGAfovzFmcPh3nvEKn6Jox7ZFW5HqLHPSaDWKTgjjFvVvxkiA5K86zrPRNjNSWIXMukKa8epCJHMheeXElfs5ovJUZ33vBqjQ1akB8IkCHRYcsICqZosX4cPjHCbJCu/g7nobQ=;sDd2yLvlUEydf8GO2WBDaw=="
 ---

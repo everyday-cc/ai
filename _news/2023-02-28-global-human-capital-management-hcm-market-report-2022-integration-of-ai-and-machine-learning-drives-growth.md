@@ -283,6 +283,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Cognitive Services Market Size 2023 Trends, Growth, Type And Application, Manufacturers, Regions And Forecast To 2026"
+    excerpt: "(MENAFN- The Express Wire) Global Cognitive Services Market Industry In-Depth ... Top Manufacturers (Microsoft, Expert System, SAS, AWS, Ipsoft, Nokia, Fusion Informatics, Apple, Baidu ..."
+    publishedDateTime: 2023-02-26T23:02:00Z
+    webUrl: "https://menafn.com/1105646163/Cognitive-Services-Market-Size-2023-Trends-Growth-Type-And-Application-Manufacturers-Regions-And-Forecast-To-2026"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?611155"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "MmZtA263WY/pJqUVw63GHlQrNzPOYGWbEY5b4UxOejMoc/oyrjYzhzoO7V2WUNC367vNF1OLRjsl5as0+AzXiqPKqxdIPCekBP8e0RkdGfBYOFtc66VtPKEhfj5xIHGH4fnj37+nlXXaxbXu5Iv5Y/wKsLtA1uhRmAKwo5UM58Htp9hH/nnbUyEgWMwkebpSLtfjGJUxixPnlNxlwG0bAlsHdRQlNbXYik28QdSbKl+1Rw8o9P4pYXhL3Yzb8OqNNGUgppvnfLA31CBcmhbxjIociKKdWHRFtzofA9YkFEyzWY4ypZqrQlTHZzdrrTPP2osYH2aTMhGPR7U0HzhcxE0yBPjBRgh+WRZlWP84p4g=;BfsdxpOAk0Ho4cSfD/74+Q=="
 ---

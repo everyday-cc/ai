@@ -1,39 +1,41 @@
 ---
 category: news
-title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the field of Al computer vision."
-publishedDateTime: 2023-02-27T17:57:00Z
-originalUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
-webUrl: "https://it.tmcnet.com/news/2023/02/27/9767024.htm"
+title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets"
+excerpt: "CHICAGO, Feb. 27, 2023 /PRNewswire/ -- The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is ..."
+publishedDateTime: 2023-02-27T17:36:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58417909-ai-in-computer-vision-market-worth-dollar-45-7-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58417909-ai-in-computer-vision-market-worth-dollar-45-7-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Computer Vision
   - AI
 
 related:
-  - title: "The Power of Artificial Intelligence Delivery Robot Market Trends: 2023 Segmentation in Customer Targeting"
-    excerpt: "New “Artificial Intelligence Delivery Robot Market” Report 2023 by Manufacturers and Forecast to 2029: This Report"
-    publishedDateTime: 2023-02-27T13:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-power-of-artificial-intelligence-delivery-robot-market-trends-2023-segmentation-in-customer-targeting-2023-02-27"
+  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
+    excerpt: "DUBLIN, Feb. 27, 2023 /PRNewswire/ -- The \"Japan Deep Learning Market By Offering (Hardware, Software, and Services), By Application (Image Recognition, Signal Recognition, and Data Mining), By ..."
+    publishedDateTime: 2023-02-27T10:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31064687/japan-deep-learning-markets-competition-forecast-and-opportunities-2027"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31064687"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31064687"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
-secured: "39O+pWDkWhuB8yOA+O9jI7oK6o+X9XmXLvb3AqOn6ue+6cIncVkuAFR7++seX+upwPa4mAJ2vy0iEDm/EdIOk09xSH2P5TYaBsLgjdNGndG//l7BuUYT1stQw8vAO7ZLdA3VAY4j++R3VBTQfZ5PVIVnadIH0x+5qqHnbBbzJShyP/ujuDdbYtMJrmJmJhkVPW2hwI/Z5QAxUIIJEiv3BYGYVYqO7SHkWC9fv+bO28l1h6cA099Si9I9ZKtVvLwMg35jbVjbiKGr00xgOdunuVkCJIOUKnnJSJvyQyutakjzJYmfmACgqsoCPJptEldjNBb/MdKLPAcAZqra4nkFX8shyD67oKE0NBYVZOGrunDVgV7btx3gPNQ1V6Z5HT7wPNiLRcW90JnjOYlJgfpFeGdZ94XlQDBoegaVuJbkMeo9tJYWNk+y2VvWrrMmdf14bM2eL4fk14yO0Hv+faeZFubWXbNdX5+7S+s8FH3xm1kubRQfCgFwVQTcbMarB/1VsN9MtXhzji1Vo7YRvKtwmA==;hlG/5rhgrSS89MQGUy+Pcw=="
+secured: "h+w9/tj0YVWIr8hiwK7z2rsS3poLZQXMgmrgQwD3Hv7iDjEJMbGd9p8npIhcP+x2WlDlEr45YhmVFKxdMB/vrUVUaT0fv93wEMh6gl0iKLo3M0/KF8EMoYQoTtkTGfELuYErddFKCJN3GfLRcAOwhhzjUzPDika913CUuJh7xV9GEf4n318WAvXcjQ54tnxppZtqwCZaIChhNyiXhTzw26zbFr2Ydfjxs6Yot0FI+ODhRPht27yGkPaoPz0b60JgwJy5Lc3O3YXl9HtAE6MUjWaRv60ltLRJTbJJtYKzo0EKsy1RX3m90mDax8LMdatk++HzCyj1HWjqRG2D+u5bW8I++PHgJTDQnq22reypriI=;jbHTdvkpmlis87G1u2HtLw=="
 ---
 
