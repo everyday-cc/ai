@@ -7,7 +7,7 @@ originalUrl: "https://www.centralbanking.com/benchmarking/fintech/7954616/centra
 webUrl: "https://www.centralbanking.com/benchmarking/fintech/7954616/central-banks-split-on-machine-learning-ai-technologies"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 743
     isCached: true
+
+related:
+  - title: "Using artificial intelligence in medicine"
+    excerpt: "As medicine continues to get involved with more advanced technology, more specialties use aspects of artificial intelligence as a diagnostic tool. The computer assistance can instantaneously analyze vast amounts of data. Think of it as a brain in a box."
+    publishedDateTime: 2023-03-01T22:58:00Z
+    webUrl: "https://winknews.com/2023/03/01/using-artificial-intelligence-in-medicine/"
+    type: article
+    provider:
+      name: WINK NEWS
+      domain: winknews.com
+    quality: 37
+    images:
+      - url: "https://winknews.com/wp-content/uploads/2023/03/vlcsnap-2023-03-01-17h43m41s771.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "FYOInNzu2UkwvD3pGTrsiOn/u6U9z8cz3b0eGbY3pdr+d1XBZ+dTXSLM3LgwTHpRwlaPrFFV6KlclOp/zzWkReGaS7SgZkm3qDcbfuOZax/PvpZHVNkIqvfCdHyfaKmMk9dd6eAxdXgV/Kmpu1+CEdDtDc180yadthgIXkc8JS0bX/XcjpIHSv4TAHX6++sKtrzj/E1KmyUcA6rg0t65A6JDEmYhOhIpwcHpaxWK7G/ZVpZsY5nU3PIX1rsFfuaahdJkILn6pqgqAS88ZfZaP8lvy9GPQEXgNyskoc71Z7D2XLAdXcvjxVUa6ZAhDsGzyG+HNtkjJyFH6cnFD58J0h1/GQbnSGUbWRsOzMbny6I=;K9fpt3bt0oB09cv4mr9bUA=="
 ---

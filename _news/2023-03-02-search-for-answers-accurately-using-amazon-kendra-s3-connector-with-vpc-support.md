@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T20:20:58Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/search-for-answers-accurately-using-amazon-kendra-s3-connector-with-vpc-support/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/search-for-answers-accurately-using-amazon-kendra-s3-connector-with-vpc-support/"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: AWS

@@ -49,6 +49,15 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "AWS to Launch an Infrastructure Region in Malaysia"
+    excerpt: "(NASDAQ:AMZN), today announced plans to launch an AWS infrastructure Region in Malaysia. The new AWS Region will give developers, startups, entrepreneurs, and enterprises, as well as government, education,"
+    publishedDateTime: 2023-03-01T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aws-launch-an-infrastructure-region-malaysia-/2023/03/01/9769719.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "ka8+o2WnPimllCSo69Z49O7vQTL/6w4gD0ZDHVvEUP5N3rpHo29qSkDKjsxpvW7bbfOGmS341jxxQVSvxJaiYf0ssOg6HpQETz0d225bnfGRGG8A6psaJZN+MaVcm3ZrZSI3Hb0p/e0pU3gxD39eUbwE0+VzmGqkTgFkjvI+cDa7aWwsldiTPCZDL9fcyjolwnDRPvFF2YPUAOjFuVOkFdphz+A0vOLTxN9DTzKu3ccARfvutA5Wxhxj6Q1WrWW9Iz/UKUSwuYneOznhNf9s1HEkyH0joGJcwMcOdc5hYY18swaa1b2uC9Ys8NRQVzPCwT/Mlpc7Qu44lQebFe9SW1sezAWPC/2Ksf/h0jHc7DY=;Cirr1Uva8A+TrWYqfvLVOw=="
 ---

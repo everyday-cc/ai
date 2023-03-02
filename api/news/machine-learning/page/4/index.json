@@ -2,6 +2,104 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-03-how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector.md",
+      "title": "How To Overcome Five Roadblocks When Implementing AI/ML In The Financial Sector",
+      "excerpt": "Cybercrime and data breaches are perhaps one of the biggest challenges faced by the financial industry. As of 2022, the average cost of a data breach in the financial sector world",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/03/how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/03/how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6138d885572a0ccebef2fe73/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/03/how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/03/how-to-overcome-five-roadblocks-when-implementing-aiml-in-the-financial-sector/amp/",
+      "publishedDateTime": "2023-02-03T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-03-quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security.md",
+      "title": "Quad agrees to leverage machine learning to enhance cyber security",
+      "excerpt": "Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related advanced technologies to enhance cyber security, the White House has said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
+      "originalUrl": "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/24/full/1632506444-4684.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
+      "publishedDateTime": "2023-02-02T19:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.md",
       "title": "Quad agrees to leverage machine learning, related advanced technologies to enhance cyber security",
       "excerpt": "In the longer term, the Group committed to leverage machine learning and related advanced ... chain methodology will encourage major software services, products, and providers leveraged by ...",
@@ -1309,104 +1407,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-researchers-used-facial-recognition-technology-to-identify-a-long-lost-painting-by-raphael.md",
-      "title": "Researchers Used Facial Recognition Technology to Identify a Long Lost Painting By Raphael",
-      "excerpt": "A new study concludes that the previously unattributed de Brécy Tondo is nearly certainly a work by the Italian Old Master.",
-      "sourceUrl": null,
-      "webUrl": "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583",
-      "originalUrl": "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p-news-uploads.storage.googleapis.com/2020/03/de-Bre%CC%81cy-Tondo-painting.x7ee14c4d.jpeg",
-          "width": 1270,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page",
-      "cdnAmpWebUrl": "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/art-world/facial-recognition-raphael-authentication-2246583/amp-page",
-      "publishedDateTime": "2023-01-24T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Artnet",
-        "domain": "artnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028.md",
-      "title": "Artificial Intelligence and Machine Learning Market Growth, Opportunity, Trends, Service, Forecast To 2028",
-      "excerpt": "Artificial Intelligence and Machine Learning Market Size is projected to Reach Multimillion USD by 2029, In comparison",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028-2023-01-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-growth-opportunity-trends-service-forecast-to-2028-2023-01-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "AI in Healthcare"
       ]
     }
   ],

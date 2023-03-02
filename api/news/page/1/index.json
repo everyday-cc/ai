@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-03-stability-ai-hugging-face-and-canva-back-new-ai-research-nonprofit.md",
+      "title": "Stability AI, Hugging Face and Canva back new AI research nonprofit",
+      "excerpt": "Eleuther AI, a group of AI researchers investigating language models, is forming a nonprofit foundation for AI research.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/02/stability-ai-hugging-face-and-canva-back-new-ai-research-nonprofit/",
+      "originalUrl": "https://techcrunch.com/2023/03/02/stability-ai-hugging-face-and-canva-back-new-ai-research-nonprofit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/02/stability-ai-hugging-face-and-canva-back-new-ai-research-nonprofit/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/stability-ai-hugging-face-and-canva-back-new-ai-research-nonprofit/amp/",
+      "publishedDateTime": "2023-03-02T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-how-to-spruce-up-your-facebook-messenger-chats-by-adding-a-theme.md",
       "title": "How to spruce up your Facebook Messenger chats by adding a theme",
       "excerpt": "Facebook Messenger has a hidden gem of an option to make chatting with friends, family, and others a bit more fun.",
@@ -296,7 +348,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-chip-market-by-2029-trends-and-predictions-2023-03-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 313,
+      "heat": 303,
       "tags": null,
       "images": [
         {
@@ -348,7 +400,7 @@
       "originalUrl": "https://www.neowin.net/news/aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1204,59 +1256,6 @@
         "AI",
         "AI in Marketing",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-generative-ai-chatgpt-as-masterful-manipulator-of-humans-worrying-ai-ethics-and-ai-law.md",
-      "title": "Generative AI ChatGPT As Masterful Manipulator Of Humans, Worrying AI Ethics And AI Law",
-      "excerpt": "Concerns are rising that generative AI such as ChatGPT produce manipulative outputted essays. People are going to get confused, angry, and potentially harmed. Take a look at what this is all about and what needs to be done.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/03/01/generative-ai-chatgpt-as-masterful-manipulator-of-humans-worrying-ai-ethics-and-ai-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/03/01/generative-ai-chatgpt-as-masterful-manipulator-of-humans-worrying-ai-ethics-and-ai-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 408,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fd8c75b8ff700da52bdfdf/0x0.jpg?format=jpg&crop=4050,2700,x94,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/03/01/generative-ai-chatgpt-as-masterful-manipulator-of-humans-worrying-ai-ethics-and-ai-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/01/generative-ai-chatgpt-as-masterful-manipulator-of-humans-worrying-ai-ethics-and-ai-law/amp/",
-      "publishedDateTime": "2023-03-01T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

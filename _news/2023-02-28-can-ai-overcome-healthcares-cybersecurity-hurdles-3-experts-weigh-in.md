@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/cybersecurity/can-ai-overcom
 webUrl: "https://www.beckershospitalreview.com/cybersecurity/can-ai-overcome-healthcares-cybersecurity-hurdles-3-experts-weigh-in.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Becker's Hospital Review
@@ -33,6 +33,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 47
+  - title: "NVIDIA CSO David Reber on AI and Cybersecurity"
+    excerpt: "A Nvidia executive discusses how the modern cybersecurity sector is defined by “AI vs. AI.” I spoke with David Reber, CSO of Nvidia, about how the modern cybersecurity sector is defined by “AI vs. AI."
+    publishedDateTime: 2023-03-02T20:13:00Z
+    webUrl: "https://www.eweek.com/security/nvidia-ai-and-cybersecurity/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
     quality: 47
 
 secured: "g3HsyNkr7v4HQ4ESvkWzV71c+sbvKUrAF5CaPdDeJNURR9bpHzdxEloI/ZEyxx+zwc0hxrX+dq8xJ3TSYcH7fCpv+dAexyfJk558TKVET7MMlQHV5b3kulBLIWIGRDkdYhjD165jQELCgL3mitJh0qZhzwyaKlZkSCrNqYkxeqCbxGsOXhYJ+IxXE0U33shlmmKKOwN9U8uBZgAW4TjFnHxNpHAIKVKBhCwIvMiBQTR8N15YJnggouO999kDCQZUu/pheNPXmWvgpbM51ei5L8IuRls9pjn4qIYpy5l1gP8YVsxLwxrlEGMfNIDWcevNmZUac3tILSCV8LuN3aNIvusdIYunKKhrUOQlhjWGGg8=;tWOBqKSeOTHVS5rexsdiWA=="

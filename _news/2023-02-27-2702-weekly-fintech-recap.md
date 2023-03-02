@@ -57,6 +57,20 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "What buzzy fintech innovations can advisors expect this year?"
+    excerpt: "Financial advisors will travel to Florida to learn about the latest fintech technology and how it can improve their practice."
+    publishedDateTime: 2023-03-02T20:58:00Z
+    webUrl: "https://www.investmentnews.com/what-buzzy-fintech-technology-can-advisors-expect-this-year-234578"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 24
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/03/fintechfinger.jpg.optimal.jpg"
+        width: 849
+        height: 566
+        isCached: true
 
 secured: "mDm4RHb/Y/0bO6oBIKHx4X/7zQ+19MUROHYbxaO6v00Qxbkbei9wTf6RBHxaHDvzrYhswWtNBqqNTRpK/hLhxkdmFcmvZs2pnSNE6AfaImzosHvd04/S2ykf3FhIxlsBYcCt6DK9T9hNF8qAFm0+PqroKT8FDJZmOOwKKjE0xyKR/LHjyysziW84fwlvEg2kuvgOtfix708LRz5JEP53lh4H6bJIy73F6qmkYHiaFwGTrv0gnPTdGLTMcDGgQNcx1dF7e/YTnj74z/Z2DP5Ppm8EnsAmSgiMXiYTlFzs1k83PGFIUsf5GlN3x0nGsnuf65DN3s41yklcxpMpS3+vykYfO6IvYMsI0GSfq78YNsVdQk9aBWz8a/zsQkG31bRwbkkviHi9cpVjfPZp0HF4a1UUGzE47T9HsKuGAdxzLfhrL0QEPnJg5uuMcZl7sljcPzsd7580RGFwTI+zKIpuOHKHr0m3efmN2Qz84whaPM2hhcesOyGdgpzirdO3nPzwzFnxUzPtbZZusXVJBGB1Ag==;yVnGPRDMmZWd6aQO5H3a+g=="
 ---

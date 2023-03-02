@@ -71,20 +71,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Voice And Speech Recognition Software Market In-depth analysis which provides critical revenue and estimates for the period 2023 To 2028"
-    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Voice And Speech Recognition Software Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029."
-    publishedDateTime: 2023-02-26T03:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-in-depth-analysis-which-provides-critical-revenue-and-estimates-for-the-period-2023-to-2028-2023-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "U+76lj152DUro81FR8QN7Jz8jEPbBJy4jmcFBdTYk+vf3c2etmQCH28TH/fwdJbG8sKrYtV++4KUcR0u0qWEwr7vB4juIGwhF54MKVHoB/ePD2L1uQE0oAJL0n84brZ7HP36WjvIUdxmuzd5zAL967boparC/anuGNJg8c1YxucGXyVD+7vpzm0lKG4ieKQ6ndlwDD33P+kf7oSV/Rf8/IkAXErT/uA2qzlIEcIt1B/nVZguwDHOTM6IW7Fi9ZLwUSq352Boo4qcqNbjQq0gauNlx0uc1Au1NG3IbhsTpm5GYXIXC+Oo9bQKaeQ0+xb7SMYzwmUc5WUOA1RT6DgBfn1cEPK5XOiJ+576WSsO0EE=;i/AEwHMsVtHbSqbb3D/jvg=="
 ---

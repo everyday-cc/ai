@@ -462,6 +462,15 @@ related:
       name: AFP
       domain: afp.com
     quality: 16
+  - title: "Apple blocks update of ChatGPT-powered app, as concerns grow over AI’s potential harm"
+    excerpt: "Amidst antitrust suits over Apple's use of the App Store, Apple blocked a ChatGPT email app claiming it could harm minors. Apple is asking BlueMail for a 17+ age restriction."
+    publishedDateTime: 2023-03-02T19:06:00Z
+    webUrl: "https://www.foxbusiness.com/technology/apple-blocks-update-chatgpt-powered-app-concerns-grow-over-ai-potential-harm"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 10
 
 secured: "lu/1cP9fKS48/E/tlYOlvCx33m1MrrTNCks/FQZoYsgOsIo1k/cR4fZR3kgtA8DDXmBgS+MebINemfbJvJWyL8kOpvaICG0jyXaDdQ84Uo8mbjmYs6k1DrmHvair40hKexVMLREUYrOPw7x+MlrGUfa1wBEabo87fHe7ZJX7PHB0hZQHar5ys0BoY/oZsT/pPvlUKMUeHsGKUA75CSsaCn9+7ftXpV8460Eyz3p+sB/K1y4DWpkbUMtC5SutxwtHNKMnN3pbKICs3hwAARSpsRsnt/+ZhFNWGyDL1EiTvaVLrWUpnfP4OZKBhnTx2oPYH3dc5YIekg9+mCUimSXtDWequNLbV2fgSmLCuZBTfRxQp0FeXc8T8lRiU6iCsHpy32+ISF/EuuM4A4l7D82vuRRVfdJ+O9SFSJw8Zjb4HirHTu8D4TFdmMVFcYmB3tF1loIKoGOhlgCvcru7BoRlwbVj2KwxUBVEz1QHnIt+KqEF8OzYih9eJXBesDz7Ntr3YvL3bsQ80S/M68rthk2aNQ==;CoV7UtECE7xoGWWX392ZAw=="
 ---

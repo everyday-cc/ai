@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T20:44:00Z
 originalUrl: "https://www.businessinsider.com/nea-generative-ai-search-engine-perplexity-funding-venture-capital-2023-3"
 webUrl: "https://www.businessinsider.com/nea-generative-ai-search-engine-perplexity-funding-venture-capital-2023-3"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: Business Insider

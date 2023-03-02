@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T18:00:00Z
 originalUrl: "https://www.forbes.com/sites/charliefink/2023/03/02/vr-film-producer-announces-ai-film/"
 webUrl: "https://www.forbes.com/sites/charliefink/2023/03/02/vr-film-producer-announces-ai-film/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes
@@ -17,6 +20,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Stability AI Announces Stability For Blender; Text To Image Creation in 3D"
+    excerpt: "Stability for Blender is Stability AI's officially supported, zero-hassle way to use the Stability SDK inside Blender. With no dependencies to install and no GPU required, Stability for Blender lets you add AI post-processing effects to renders with just an internet connection – something that previously required owning prohibitively expensive hardware."
+    publishedDateTime: 2023-03-02T19:50:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/02/9770468.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "y6TG28//Fx/TT+EPugT77vtVc/E0sVd1dMB0GnCVnWHHSwr63gg6/L6/e3+fylbkxzBucZjyWgGW9qXXSAuYgipyCm5UG6NTQfu8pducK1EWieO5zXa7mz/sqGe0V2QON+G/cVAuCqH0vt1J/YfaZl7xgejp5kt3qqkudERnrQL5vjBnTOLbLx5tb+hQZki7y1Fcu51wzyhQfgeBNUWIXgnoOZdM9OM1aw6bfb6FockHo9LxenGAut8LrdOTHzfGstPbEVuhi0c7RZuEbDCciFc1OvWO5fPaxUi87U2G9HDNDOc7Cdx4gpMEdRIZdxWq4Fs5nt3BbhXQdniTQTMOEmqbTaGuuW4XMFkLvPT5Myd7PpLZum78leApjANxs3n/o4S9IbF0sEcVNEG/TyyYtniR4pTf8JH/IT+2zLbMGD5xE4QS0UG5c4lrh8M2pBgiQG3Sq0Kb4O6CpthZlaw6QmgNLgPu7qzxmdouF6lpfALke9lshYqp6xBRgoNTSIzvbLGygMfiJ1xgOSjwjRawzg==;reQV1wvfYqSY/BiFCNQh3g=="
 ---

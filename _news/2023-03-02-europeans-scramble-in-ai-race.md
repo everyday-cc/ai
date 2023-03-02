@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-01T20:34:00Z
 originalUrl: "https://www.digitaljournal.com/tech-science/europeans-scramble-in-ai-race/article"
 webUrl: "https://www.digitaljournal.com/tech-science/europeans-scramble-in-ai-race/article"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Digital Journal

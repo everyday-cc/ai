@@ -183,20 +183,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Door Lock Market Geographical Segmentation By Forecast Revenue 2023-2028"
-    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Facial Recognition Door Lock Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029. The global"
-    publishedDateTime: 2023-02-26T05:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Payment Terminal Market 2023: Growth by 2029 Top Players with Opportunities"
     excerpt: "New “Face Recognition Payment Terminal Market” Report 2023 by Manufacturers and Forecast to 2029: This Report provides"
     publishedDateTime: 2023-02-27T13:57:00Z
@@ -369,6 +355,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile Speech Recognition Software Market Size, Share & Trends Analysis Forecast Report by 2028"
+    excerpt: "Mobile Speech Recognition Software Market \" is expected to grow at a steady growth during the forecast period 2023-2028, Mobile Speech Recognition Software Market report offers insights into the latest trends."
+    publishedDateTime: 2023-03-02T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-size-share-trends-analysis-forecast-report-by-2028-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
   - title: "Self-Driving Truck Technology Market 2023 : Players, Countries, Type and Application, Regional Forecast to 2028"
     excerpt: "What is the projected market size and growth rate of the Self-Driving Truck Technology Market? Self-Driving Truck Technology Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023,"
     publishedDateTime: 2023-02-27T09:20:00Z
@@ -511,15 +506,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 21
-  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
-    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
-    publishedDateTime: 2023-02-27T12:43:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Artificial Intelligence In Agriculture Market Worth $4.7 Billion In 2028 - Exclusive Report By Marketsandmarketstm"
     excerpt: "The ai in agriculture market is projected to grow from USD 1.7 billion in 2023 to USD 4.7 billion in 2028; it is expected to grow at a CAGR of 23.1% from 2023 to 2028 according to a new report by MarketsandMarketsTM."
     publishedDateTime: 2023-03-01T18:26:00Z
@@ -548,6 +534,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "The Computer Vision Software Market Research Report Will Provide Insight Into The Financial Status, Market Size, And Market Revenue Of The Market."
+    excerpt: "The global Computer Vision Software market size is projected to reach multi million by 2030, in comparision to 2021, at unexpected CAGR during 2023-2030 (Ask for Sample Report). This entire report is of 163 pages. Computer vision software is a technology ..."
+    publishedDateTime: 2023-03-02T16:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-computer-vision-software-market-research-report-will-provide-insight-into-the-financial-status-market-size-and-market-revenue-of-the-market-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 11
 
 secured: "TYBSw3bt6MEbALays78/QHLK7a1wtAuJXvD+k4Xc5b1s3nXexW8CVYUYl8vO3NVYlNu9uw+nLwLmbv0Yzb2frkmMjdIBrcInou6JvQhDTsLO3gK0ztqP4YECxAkz2xI9QngMqzmrVqgptRLuobGP4rB/XYLfFO3pojUMIodCxcDPvjPQhTOtXR+W4V4Fz5smHByr5Tc38L3Iktm4jGa/Nj1vdwpTghhsqEEnckO7UQgkssg2iowSjwc4GbSwvNuDYjsIo9ZH6yxK/zQ3lb8p20AWx1EbBCjaXGKXesPt5UQ0pbGEsYnlArHu8Fr2Jnmn+MvXBBhdDFk+Dgdng45mbI8UIBUxpszQtQfwFH2TOGI=;uC8h5+sW51UaWXhKbZznbQ=="
 ---

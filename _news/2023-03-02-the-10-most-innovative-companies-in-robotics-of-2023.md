@@ -37,6 +37,15 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 4
+  - title: "Innovation in artificial intelligence: Leading companies in smart toilet for the construction industry"
+    excerpt: "The construction industry continues to be a hotbed of innovation, with activity driven by an increased focus on environmental sustainability and workplace safety, and the growing importance of technologies such as the Internet of Things (IoT) and robotics."
+    publishedDateTime: 2023-03-02T10:46:00Z
+    webUrl: "https://www.worldconstructionnetwork.com/data-insights/innovators-ai-smart-toilet-construction/"
+    type: article
+    provider:
+      name: worldconstructionnetwork
+      domain: worldconstructionnetwork.com
+    quality: 3
 
 secured: "bwi3LhSjm/I19SEpjEO9vkAkQztIbLkaLSRtZjvVjNvBkKhpW6CQ3e60SACQevmxbeaBMJx6u9VQJ59AuHijM7WPMY5E/uc9nS+uIvpbIlj3vNfNy3cELfBYP5pa3V/YteUwrHqDGYYWM3rrXzVsUQVAYVGs0QxsNMgmOSQ9nHjkfL+VBXwYUYeD8JgveSb2sq26rnfwbvgWWFhoSdtfB68+fIlJqaxGFKRiy5ngd6O8l9f1fzla5KXEY2pv4g/TGfhv7yNnNE96bvH5tUZxb+Cf0CtML2wq84jnmhtfGzjwvGOktkPtpP1AexC0FR8W8fVfbr0qlrK42VCm1oYN2zGQbaZB25sW59KdJSFewbPtyw/Mhwa6nH7XDZacWTlOO7duVLZEObqNo6Tiqd0eQygO+Ondzy8CR7GsJwq/BMkGNH+BIa4hmtC3rUZQVL+wRqklHOs/IDmTPXnZxlF75u+ljXv5G5rx8mztCTZwgwQe1Tx2mBTipm7wBhZbFJqCc5xtjsRXCIwCOGYGQvKCKQ==;VZfxsrEwfQx3RajLgfzmWQ=="
 ---

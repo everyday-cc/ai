@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T19:03:00Z
 originalUrl: "https://www.thehansindia.com/news/cities/tirupathi/facial-recognition-tech-will-root-out-touts-ttd-eo-785806"
 webUrl: "https://www.thehansindia.com/news/cities/tirupathi/facial-recognition-tech-will-root-out-touts-ttd-eo-785806"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Hans India

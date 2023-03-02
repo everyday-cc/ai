@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T18:59:00Z
 originalUrl: "https://venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/"
 webUrl: "https://venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: VentureBeat

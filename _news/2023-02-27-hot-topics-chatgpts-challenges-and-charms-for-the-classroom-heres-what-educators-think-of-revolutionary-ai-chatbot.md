@@ -458,6 +458,15 @@ related:
       name: AFP
       domain: afp.com
     quality: 16
+  - title: "Apple blocks update of ChatGPT-powered app, as concerns grow over AI’s potential harm"
+    excerpt: "Amidst antitrust suits over Apple's use of the App Store, Apple blocked a ChatGPT email app claiming it could harm minors. Apple is asking BlueMail for a 17+ age restriction."
+    publishedDateTime: 2023-03-02T19:06:00Z
+    webUrl: "https://www.foxbusiness.com/technology/apple-blocks-update-chatgpt-powered-app-concerns-grow-over-ai-potential-harm"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 10
   - title: "AI News roundup: Elon Musk working on ChatGPT rival, Snapchat eyes slice of AI pie, Zoom's AI integrations and more"
     excerpt: "Elon Musk is recruiting Igor Babuschkin, a researcher who recently left Google's parent company Alphabet's AI unit, to develop an alternative to ChatGPT. The tech billionaire has approached AI (artificial intelligence) researchers in recent weeks to form a new research lab for it,"
     publishedDateTime: 2023-02-28T13:28:00Z

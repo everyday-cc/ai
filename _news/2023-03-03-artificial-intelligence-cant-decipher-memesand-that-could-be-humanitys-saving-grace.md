@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T20:29:00Z
 originalUrl: "https://www.popularmechanics.com/technology/security/a43013341/why-ai-doesnt-understand-memes/"
 webUrl: "https://www.popularmechanics.com/technology/security/a43013341/why-ai-doesnt-understand-memes/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Popular Mechanics

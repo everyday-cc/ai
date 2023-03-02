@@ -26,6 +26,17 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Machine learning model speeds up assessing catalysts for decarbonization technology from months to milliseconds"
+    excerpt: "Argonne researchers have developed an artificial intelligence-based model to greatly speed up the process for engineering a low-cost catalyst that converts biomass into fuels and useful chemicals with many possible applications."
+    publishedDateTime: 2023-02-28T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/981143"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 0
+
 secured: "xWhSueBfKN8MHN6m6c3SUjVl8ypGDIPCHNPyM+MAhQ8pfAK15ayKDpNe39LGCJ5h5q6ytxJVyx1QPvqIplv+8Rw5ymKvQ/kaUVaVKi+eumkbninjOjYgdcV7DUB4/sEQbK73eAPFEMeG/uMZAPPGigFW59Zh9F/vvb5U7ey3fAiFtK84KujvdzthfgJaxofzzFSwo1iAeiWCDnw3kp+qz+7gYhssy9vvTAhoGl39q/avagGTU2PDxx1tBvzp/ExOasj8CX4AeJXgLbEE1q+BzcUoLxI1iaA/6ZG/tlTUhgp8NE8cvA8KJY+DbOUnpUxGrZM2Vp3xD+vnIgleFmzq82r7WOjhn0AHR8VNAXr02IO+vS5+fPZ7UfOzQjHNwvaGKu6YAninci5WITl6298bCGgX4uWiPdvoylUIEEOYfDshKA/2LO6GM0GuxJxzkFyBeyuvVWQ+XDpAUD4pSWcvxvS562o23EgbIEQ+9rXTDK1dU/Fu5ca6e4fgRQIDnKWGDVK9rASCglqCvNKwGL+EUA==;HcjipJNmxYJJEMpbzEpgeQ=="
 ---
 

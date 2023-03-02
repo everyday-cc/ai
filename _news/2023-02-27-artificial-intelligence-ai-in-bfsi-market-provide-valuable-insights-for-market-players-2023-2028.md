@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-provide-valuable-insights-for-market-players-2023-2028-2023-02-27"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://invezz.com/wp-content/uploads/2023/02/173857177-m-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Voice And Speech Recognition Software Market In-depth analysis which provides critical revenue and estimates for the period 2023 To 2028"
-    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Voice And Speech Recognition Software Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029."
-    publishedDateTime: 2023-02-26T03:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-in-depth-analysis-which-provides-critical-revenue-and-estimates-for-the-period-2023-to-2028-2023-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "79MJxerJcjq2dkrgtY/Q6lEHrO7RWpNqfk6K9m03QuqwmemaUsGEC3K8HpVpSRAGO505pZ3NY18qVoxcLq56x5dgHW/qzRTrFShUWIAr4uQKZYHVG6XVNfc/DRE/iljUv8uOJsAsQy4VSTBH/1RUOAWcl1COg14DrEB2V+3OMKbFmp5bMvu1DTrfZrzBooMrXneohoVlEhwa06b8X/C14uXL0+ZC8NspOUnIMhAxk/Ed8CeAy6a3Q6ympNigkKkX+goVo/7K4lNAQ873rFEEy0fZQyOqCGjySFFd/Flv7RaEhr6IMz6YwNQVQoZzqDkQwkktE5XdHozQzgDZz8GJTwevYBhDlgdA9fREJcUOFtw=;RvFJGOtCRC1uH3FXSPQgag=="

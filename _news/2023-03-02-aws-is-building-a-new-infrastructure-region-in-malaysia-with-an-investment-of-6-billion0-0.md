@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/aws-is-building-a-new-infrastructure-regi
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion/"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "AWS to Launch an Infrastructure Region in Malaysia"
+    excerpt: "(NASDAQ:AMZN), today announced plans to launch an AWS infrastructure Region in Malaysia. The new AWS Region will give developers, startups, entrepreneurs, and enterprises, as well as government, education,"
+    publishedDateTime: 2023-03-01T00:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aws-launch-an-infrastructure-region-malaysia-/2023/03/01/9769719.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "AWS to Launch an Infrastructure Region in Malaysia"
     excerpt: "AWS has committed to the largest international technology investment to date in Malaysia, which will advance our Malaysia Madani vision of a highly skilled, innovative, prosperous, and sustainable economy,"
     publishedDateTime: 2023-03-02T03:04:00Z

@@ -134,6 +134,15 @@ related:
       name: Fox 5
       domain: fox5dc.com
     quality: 4
+  - title: "AAA study: Fear of self-driving cars on the rise"
+    excerpt: "A study done by AAA says the fear of self-driving vehicles is on the rise. (Photo: MGN / General Motors)CHARLOTTE, NC (WWAY) — Concerns about self-driving cars are drastically higher than in 2022. According to a yearly automated vehicle survey released by AAA,"
+    publishedDateTime: 2023-03-02T20:44:00Z
+    webUrl: "https://www.wwaytv3.com/aaa-study-fear-of-self-driving-cars-on-the-rise/"
+    type: article
+    provider:
+      name: WWAY TV
+      domain: wwaytv3.com
+    quality: 4
   - title: "Companies oversell the self-driving capabilities of their cars, with horrific outcomes"
     excerpt: "This self-driving feature was found to possibly cause vehicles to misbehave when entering intersections or exceed the speed limits, posing a risk for safety. Create an account or sign in to continue with your reading experience. This is just another ..."
     publishedDateTime: 2023-02-27T20:57:00Z

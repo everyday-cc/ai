@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/future-of-artificial-int
 webUrl: "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-chip-market-by-2029-trends-and-predictions-2023-03-02"
 type: article
 quality: 93
-heat: 313
+heat: 303
 published: true
 
 provider:
@@ -164,20 +164,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Chipset Market Future Trends Demand 2023, and Forecast to 2028"
-    excerpt: "Deep Learning Chipset Market\" is expected to grow at a steady growth during the forecast period 2023-2028, Deep"
-    publishedDateTime: 2023-02-26T03:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-future-trends-demand-2023-and-forecast-to-2028-2023-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

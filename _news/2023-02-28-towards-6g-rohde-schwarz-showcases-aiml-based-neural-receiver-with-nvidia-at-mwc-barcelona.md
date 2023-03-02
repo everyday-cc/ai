@@ -6,6 +6,9 @@ publishedDateTime: 2023-02-27T18:12:00Z
 originalUrl: "https://www.rfglobalnet.com/doc/towards-g-rohde-schwarz-showcases-ai-ml-based-neural-receiver-with-nvidia-at-mwc-barcelona-0001"
 webUrl: "https://www.rfglobalnet.com/doc/towards-g-rohde-schwarz-showcases-ai-ml-based-neural-receiver-with-nvidia-at-mwc-barcelona-0001"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: RF Globalnet

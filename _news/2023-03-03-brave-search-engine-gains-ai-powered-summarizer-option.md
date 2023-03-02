@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T18:25:00Z
 originalUrl: "https://www.macrumors.com/2023/03/02/brave-search-ai-summarizer/"
 webUrl: "https://www.macrumors.com/2023/03/02/brave-search-ai-summarizer/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: MacRumors

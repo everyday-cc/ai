@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T19:30:00Z
 originalUrl: "https://phys.org/news/2023-03-ai-generated-arguments-minds-controversial-hot-button.html"
 webUrl: "https://phys.org/news/2023-03-ai-generated-arguments-minds-controversial-hot-button.html"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Phys.org

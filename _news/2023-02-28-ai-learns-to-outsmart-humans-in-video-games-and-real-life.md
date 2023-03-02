@@ -2,11 +2,11 @@
 category: news
 title: "AI learns to outsmart humans in video games - and real life"
 excerpt: "Video game players have competed against computer-controlled opponents for decades, but they haven't been as smart and fast as GT Sophy, the new AI driver on PlayStation's Gran Turismo"
-publishedDateTime: 2023-02-27T16:04:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
-webUrl: "https://abcnews.go.com/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
+publishedDateTime: 2023-02-27T16:02:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
+webUrl: "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
 type: article
 quality: 59
 heat: 99
@@ -74,6 +74,6 @@ related:
       domain: richmond.com
     quality: 17
 
-secured: "m3PbpGHC/luWjWmYIx0NpTIbS24TSU7jZgErXCioB2gE61rHOJ3E5CknYoXehdVnFdjNY7Gsf853a88FMYoOdv9zXhP9kccSwcY1NX7Ho1+Em1nrrV33TjuI70d/CQR5eWo4GiZ65tzageK9L7zjsoXHchKqkC31grI7rQoMx7oaUc1QTlofPbrg4fhJOYTmChWzcNAe3SE9Q+sn4q4drkT1elvndQ5FfDmmu/nkWZqHTbXZEw6FGvzJayTe7qJ47CBGqVj3eDH+KNajqSsLfR5mCBCxk3G/Cr3O9dcSwecHG8iAr09FKRMVh4YwZaV7O08aWaPPqfXPqEXvo5MJcyr4KNefKHjqYA3MIV27oDM=;pSIc8+Vc6S0iVzZmy9Ybew=="
+secured: "dy3Tjl9MyUjWx7M7N2jjX5OEzMoJhlM/cjZzUawEWxGwivvVv1KyIP40kkg3mOxiDWEBfTj1xVn1jOkrt6j57KnqKSmmIrLzsBLJhTbQw6nTR9X+qiZMqVvNXt6bVUucg/5MPtDf9FhBg3mJxquaLSRVrvJI8Nd+cVsQ1fX3HHRoP4nzmAV/3CV6GJzuhGFIxC4B3CXwkPCyYD958RBePYG0FCKcVGJ6oW23Qy4X8VZNSzc4atSKjxdNqYBiShsj68Bd4oYsEDblGFkiSCxgPxZ5b7tr3Um3XkJDRfd66tQoa0XXUsk1HVJ1+J+mxIMufLuZTRL30wxAnKeW+YFbugWMwygjhP9veQfI2qnq3Gs=;1kpk0sqUHO5HQHI8J4Mkwg=="
 ---
 

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Chips Industry Goes All-in On AI"
-excerpt: "But an industry long associated with volatility is quietly getting excited that artificial intelligence (AI) could be the key to some longer-term stability. US firm Nvidia dominates the market in specialised chips known as GPUs,"
-publishedDateTime: 2023-03-02T10:51:00Z
-originalUrl: "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103"
-webUrl: "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103"
-ampWebUrl: "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chips-industry-goes-all-ai-3673103?amp=1"
+title: "Chips industry goes all-in on AI"
+excerpt: "It's been a wild few years for the microchip industry, recovering from a long-term supply squeeze only to be thrust into the centre of a US-China battle to control supply lines of the valuable technology."
+publishedDateTime: 2023-03-02T15:19:00Z
+originalUrl: "https://techxplore.com/news/2023-03-chips-industry-all-in-ai.html"
+webUrl: "https://techxplore.com/news/2023-03-chips-industry-all-in-ai.html"
+ampWebUrl: "https://techxplore.com/news/2023-03-chips-industry-all-in-ai.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-chips-industry-all-in-ai.amp"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://d.ibtimes.com/en/full/4427030/enthusiam-artificial-intelligence-within-microchip-industry-palpable-mobile-world-congress.jpg"
-    width: 768
-    height: 510
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/enthusiam-for-artifici.jpg"
+    width: 1024
+    height: 681
     isCached: true
 
 related:
@@ -42,22 +42,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63c15e4efdaea7ad1989b8c5/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How is AI significantly changing the Fit Tech industry?"
-    excerpt: "Did you know that the global market for fitness tech expects to reach $29.4 billion by 2023? With the industry’s exponential growth, the need for innovation and differentiation is more pressing than ever."
-    publishedDateTime: 2023-02-26T03:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-is-ai-significantly-changing-the-fit-tech-industry/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-is-ai-significantly-changing-the-fit-tech-industry/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-is-ai-significantly-changing-the-fit-tech-industry/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
         isCached: true
   - title: "Zib Digital Explores the Possible Role AI Will Play in the Future of SEO"
     excerpt: "According to Zib Digital, the leading SEO agency Sydney-wide, one of the most significant ways that AI is impacting SEO is through the use of natural language processing (NLP)."
@@ -162,6 +146,6 @@ related:
         height: 302
         isCached: true
 
-secured: "sputBuXF1vZpsWVWDhl22LnfqnlhM2ewYpPnLoZRNnCn5tFzdRGSpXTHD8MJEBn04705z557Q7Ln91HcxNpQaMuuvEak6Oks0AWASM/5LMypTojjyt2a2ECJZ4/uaEHt4QcQPZcB36bzWxnt51R/es+g3Rqhs1a3Uhbiz2J/VGLp5lrraLkNad7S+GwegqlwM58jARGKnttWcbcYalsaoZZpMb/YW9OOu1gLoh2ivEcr7Yln6SMAhLUaxFyS317BHlzYsJ1RnypaCnu8XRaZW+dnSYcHgjgIlfCOd2+iDmD7wUYdrs2lxaMmGx85eo+zirYQgEHxKNKBfaPFRB+ha/JzLJqLdMUESruBCPhjqKUdDu0d3XjitQveAqeRJyMBfPLDBzGbScYJLkFxcX+185dxISi1sU2p1t2lgWZm+a8GlOd11A8/uTntEOO4ikHDx2rN539kgE4diQu42IiuFgBnXdrKJEvIgmHuKirI/9C8HKzCXf+qNX/sMlRMqW6VKI5m3gfiW7gF3piOQSwCxw==;GC/gprc22Y/iKp7fHFp38A=="
+secured: "dn4x/B4ysoIoSsY/+JVmf3RcTBL2pUa+Db0G7c+g6uryCsu/yGYPNbUUqLDYOhZRK6zxF7GrE99XVvZNJGvf+HnRCyrxKgF8Vs4SaqzWcU1nc2uwxBrSk6uQ2c8l5LaWXaXHAE3V/YoGZAptjjkDryQPeEdclS2vhLpbcf8GuCoYUOPulFqE8DLA6T2iNslA4lDWZ4wyFRECzL3RVHlvDl9PMtukYY/VdFt9uJZ7siefZrYZBv5b5rFTI5B38tAByxW+gDj66+NRHQkSfm1Hepu5Q16WMPc2EtrmqU0/gL6gHYq3vXV65M6M7ePXubZuwFeTHCzedhRHtRNntmuU7HSBZ6a8JcowkVUmQuLvEqY=;ozrGGK3sTZq14CgTgTFuyg=="
 ---
 

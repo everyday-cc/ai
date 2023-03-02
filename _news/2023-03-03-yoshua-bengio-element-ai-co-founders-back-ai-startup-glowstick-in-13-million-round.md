@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T20:10:00Z
 originalUrl: "https://betakit.com/yoshua-bengio-element-ai-co-founders-back-ai-startup-glowstick-in-1-3-million-round/"
 webUrl: "https://betakit.com/yoshua-bengio-element-ai-co-founders-back-ai-startup-glowstick-in-1-3-million-round/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: BetaKit

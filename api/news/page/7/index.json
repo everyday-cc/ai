@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-23-andrew-ng-even-with-generative-ai-buzz-supervised-learning-will-create-more-value-in-short-term.md",
+      "title": "Andrew Ng: Even with generative AI buzz, supervised learning will create ‘more value’ in short term",
+      "excerpt": "Andrew Ng, founder and CEO of Landing AI shares his wisdom about generative AI, supervised learning, deep learning and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/",
+      "originalUrl": "https://venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/andrew-ng-2.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/venturebeat-qa-andrew-ng-supervised-learning-more-value-generative-ai/amp/",
+      "publishedDateTime": "2023-02-22T20:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-23-yes-artificial-intelligence-has-a-creative-side-sort-of.md",
+      "title": "Yes, Artificial Intelligence Has A Creative Side, Sort Of",
+      "excerpt": "Despite perceptions, artificial intelligence doesn’t have a shred of creativity within it. It’s all statistical algorithms, slurping data from sources created by humans somewhere along the line. It will never be a source of innovation, but will serve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f6e7b2e6d9f35a9b8ba852/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/02/22/yes-artificial-intelligence-has-a-creative-side-sort-of/amp/",
+      "publishedDateTime": "2023-02-22T19:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-23-in-ukraine-identifying-the-dead-comes-at-a-human-rights-cost.md",
       "title": "In Ukraine, Identifying the Dead Comes at a Human Rights Cost",
       "excerpt": "Five days after Russia launched its full-scale invasion of Ukraine, a year ago this week, US-based facial recognition company Clearview AI offered the Ukrainian government free access to its ...",
@@ -919,6 +1022,40 @@
       ]
     },
     {
+      "path": "_news/2023-02-22-infants-outshine-artificial-intelligence-in-determining-what-drives-peoples-actions-study.md",
+      "title": "Infants Outshine Artificial Intelligence In Determining What Drives People's Actions: Study",
+      "excerpt": "The researchers also built and trained learning-driven neural-network models, which are artificial intelligence tools that help computers recognise patterns and simulate human intelligence. The researchers then tested the responses of the neural-network ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.abplive.com/science/infants-outshine-artificial-intelligence-in-determining-what-drives-people-s-actions-study-1583687",
+      "originalUrl": "https://news.abplive.com/science/infants-outshine-artificial-intelligence-in-determining-what-drives-people-s-actions-study-1583687",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T20:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.abplive",
+        "domain": "abplive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-computer-vision-in-artificial-intelligence-ai-market-next-big-thing-forecast-2023-2029.md",
       "title": "Computer Vision in Artificial Intelligence (AI) Market Next Big Thing Forecast 2023-2029",
       "excerpt": "Computer Vision in Artificial Intelligence (AI) Market 2023 with 128 Pages Report and enhance with extents shares",
@@ -1053,118 +1190,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-trust-stamp-announces-notice-of-allowance-for-us-patent-related-to-its-artificial-intelligence-ai-based-biometric-authentication-technology.md",
-      "title": "Trust Stamp Announces Notice of Allowance for U.S Patent Related to its Artificial Intelligence (AI) Based Biometric Authentication Technology",
-      "excerpt": "Atlanta, Feb. 21, 2023 (GLOBE NEWSWIRE) -- Trust Stamp (Nasdaq: IDAI), the Privacy-First Identity Company TM providing artificial intelligence (AI)-powered trust and ...",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/02/21/9763424.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/02/21/9763424.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-the-best-presidents-day-robot-vacuum-deals-you-can-still-get-in-2023.md",
-      "title": "The best Presidents Day robot vacuum deals you can still get in 2023",
-      "excerpt": "While this more affordable Jet Bot+ robot vacuum by Samsung doesn't feature 3D recognition with AI, it does have LiDAR sensor navigation ... app to control your appliance from your smartphone. Start cycles, check time remaining and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
-      "originalUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/18/4e542c82-4239-402b-b2b7-94905fbed0cc/thumbnail/620x349/790b7cbe147c5208ff529d0cf05e9357/eufy-by-anker-robot-vacuum-g32-pro.jpg#",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
-      "publishedDateTime": "2023-02-21T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-aws-announces-aws-telco-network-builder.md",
-      "title": "AWS Announces AWS Telco Network Builder",
-      "excerpt": "(NASDAQ: AMZN), today announced the general availability of AWS Telco Network Builder, a fully managed service that helps customers deploy, run, and scale telco networks on AWS. Now, communications service providers (CSPs) can use their familiar telecom industry standard language to describe the details of their network (e.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/02/21/9763854.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/02/21/9763854.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T10:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

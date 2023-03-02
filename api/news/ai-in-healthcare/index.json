@@ -169,7 +169,7 @@
       "originalUrl": "https://healthitanalytics.com/news/majority-of-americans-would-not-rely-on-ai-based-healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -190,6 +190,49 @@
       "provider": {
         "name": "Analytics",
         "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-can-ai-overcome-healthcares-cybersecurity-hurdles-3-experts-weigh-in.md",
+      "title": "Can AI overcome healthcare's cybersecurity hurdles? 3 experts weigh in",
+      "excerpt": "Artificial intelligence and machine learning have been used for years to help hospitals and health systems combat cybersecurity threats, but with hackers getting more sophisticated, chief information",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/cybersecurity/can-ai-overcome-healthcares-cybersecurity-hurdles-3-experts-weigh-in.html",
+      "originalUrl": "https://www.beckershospitalreview.com/cybersecurity/can-ai-overcome-healthcares-cybersecurity-hurdles-3-experts-weigh-in.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1434,50 +1477,6 @@
         "AI",
         "AI in Marketing",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future.md",
-      "title": "What will Indian healthcare look like in 2047? Robotics, AI, biotech will shape the future",
-      "excerpt": "Healthcare of 2047 will be substantially different from today. All ecosystem players will be impacted by these changes and will need to be prepared to embrace emerging trends and pivot their business models as appropriate.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/articleshow/97967033.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/articleshow/97967033.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/photo/96164744.cms",
-          "width": 2448,
-          "height": 1224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/amp_articleshow/97967033.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/amp_articleshow/97967033.cms",
-      "publishedDateTime": "2023-02-15T21:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
