@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Magic Eraser comes to more devices, Spotify gains an AI DJ, and Netflix decreases prices"
-    excerpt: "In this edition of Week in Review, we recap Google's Magic Eraser coming to more devices, Spotify gaining an AI DJ, and Netflix decreasing prices."
-    publishedDateTime: 2023-02-25T21:15:00Z
-    webUrl: "https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/"
-    ampWebUrl: "https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/amp/"
+  - title: "Last night AI DJ saved my life? Testing Spotify’s virtual radio host"
+    excerpt: "A male voice offers ‘commentary’ as the service curates a stream of songs I’ve heard before. Do I really need this?"
+    publishedDateTime: 2023-03-02T05:02:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/mar/01/spotify-ai-dj-service-testing"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/01/spotify-ai-dj-service-testing"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/01/spotify-ai-dj-service-testing"
     type: article
     provider:
-      name: YAHOO!News
-      domain: techcrunch.com
-    quality: 78
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1184944891.jpeg?resize=1200,800"
-        width: 1200
-        height: 800
+      - url: "https://i.guim.co.uk/img/media/c34f534cd1c1edbf3a6baa4cb909e1d486889dae/0_3_2010_1206/master/2010.jpg?width=620&quality=85&auto=format&fit=max&s=a0c569647b8dc715ea32253e89217fae"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "Wdo9d2uwhGJCfn4HvqyEqSmVV2n/4lu+6Fo0inrlhitIyhC3pSH4c/uEA20GpmUX/QihJpP6d9n9CrXyZo1Gqlx0l/Qv5nWesMG3KWcl5rzYVhItKKu5gZDISryqWlHirWwZlZkux6Hlcq+GkGB9++UmbjTSzxRYPE4tZaCrmznKN2fVMfSxlRt4yz1ll5Cbim6LBK/k3V8uZ2jW0wOqiZE+pgJXcxfQ3Weli+WOHjbXSqgbNfaxe/l332OKP4DLF3C4vafldQ6fpQF0VbPHkcWgHOH5C6i9mMjOyq9RFNQS76xeLcuE5Gx/uQWfdxx/XfYC++poCanhOt6D5T9LtJ5Y5s9xTZbA9psPBC3KnqU=;uyKZ8vDN6Qxg84Ig0fy3yA=="

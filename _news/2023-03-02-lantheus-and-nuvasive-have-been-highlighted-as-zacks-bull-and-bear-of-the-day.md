@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T12:18:00Z
 originalUrl: "https://www.nasdaq.com/articles/lantheus-and-nuvasive-have-been-highlighted-as-zacks-bull-and-bear-of-the-day"
 webUrl: "https://www.nasdaq.com/articles/lantheus-and-nuvasive-have-been-highlighted-as-zacks-bull-and-bear-of-the-day"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Nasdaq

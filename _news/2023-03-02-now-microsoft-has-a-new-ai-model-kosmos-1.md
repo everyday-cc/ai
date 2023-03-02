@@ -312,20 +312,15 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Microsoft's new AI chatbot has been saying some 'crazy and unhinged things'"
-    excerpt: "After Microsoft's powerful AI chatbot verbally attacked people, and even compared one person to Hitler, the company has decided to rein in the technology until it works out the kinks."
-    publishedDateTime: 2023-03-02T10:01:00Z
-    webUrl: "https://www.wwno.org/npr-news/2023-03-02/microsofts-new-ai-chatbot-has-been-saying-some-crazy-and-unhinged-things"
+  - title: "AWS eyes Microsoft-backed ChatGPT with new AI partnership"
+    excerpt: "Amazon Web Services is betting big on open-source artificial intelligence specialist Hugging Face to make generative AI more accessible and easier to deploy by forming a new collaboration agreement to boost its AI capabilities to provide similar technology that rivals Microsoft-backed ChatGPT."
+    publishedDateTime: 2023-03-02T14:14:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4076890/aws-eyes-microsoft-backed-chatgpt-ai-partnership"
     type: article
     provider:
-      name: WWNO
-      domain: wwno.org
-    quality: 52
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/22e6425/2147483647/strip/true/crop/3587x1883+0+254/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F02%2F27%2Fgettyimages-1246872792_custom-d675966801679c4455b339ba77f991896fea5aa8.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 51
   - title: "New Windows 11 update puts AI-powered Bing Chat directly in the taskbar"
     excerpt: "Microsoft is adding support for Bing Chat and the other \"new Bing\" features to the Windows taskbar as part of 2023's first major Windows 11 feature update. Microsoft Chief Product Officer Panos Panay announced the updates in a blog post released today."
     publishedDateTime: 2023-02-28T14:00:00Z
@@ -381,6 +376,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Microsoft's new AI chatbot has been saying some 'crazy and unhinged things'"
+    excerpt: "After Microsoft's powerful AI chatbot verbally attacked people, and even compared one person to Hitler, the company has decided to rein in the technology until it works out the kinks."
+    publishedDateTime: 2023-03-02T09:01:00Z
+    webUrl: "https://www.mprnews.org/story/2023/03/02/npr-ai-microsoft-bing-chatbot"
+    type: article
+    provider:
+      name: MPR News
+      domain: mprnews.org
+    quality: 34
   - title: "The Funded: AI rivals Google and Microsoft have teamed up on a $65M funding round for a new AI startup"
     excerpt: "Microsoft and Google and battling over so-called generative AI. But they've found common ground in funding a new startup in the field founded by Adobe's former CTO."
     publishedDateTime: 2023-02-27T15:53:00Z
@@ -390,6 +394,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 20
+  - title: "The race to build AI-powered humanoids is heating up"
+    excerpt: "Boston Dynamics has pushed the limits of robotics by creating humanoids that can jump and flip. “Existing humanoids today have just been stunts and demos,” Adcock says. “We want to get away from that and show that they can be really useful."
+    publishedDateTime: 2023-03-02T05:59:00Z
+    webUrl: "https://www.fastcompany.com/90859010/the-race-to-build-ai-powered-humanoids-is-heating-up"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
 
 secured: "DVx3tBb7TSYvyR1O2NHqtD5MGMdWiZV2LAmNk4wPPqRV8rRCSIq0RR08c8vK35dAXIFVrVHls9AaHIMAa0RMJqyJjSyW+R7Q2rCW1wAhERtg0MO0oEFBdJiFcI0YF2sh0ZKY43L+/yDfvSMgfHBhkVmFx5zZ6wiWvzAViZANp6Z60ryf2bma4YrjO85/m9WIOYVR/5Lvo0w8H/AI6eaxZGYQlYGYhtjQTSi0iDmOANtSWR9Ei6KlKivuEu35tTO02nhXNDqrLEAgj/b04a7119e/K+Hm2eatW73eZfkP82SRhkQ7yurDdwb5fWUZozvQG6RSYMX36jPLRvVmv/uqTNDXpUZxdfvHjFeKUoai/auZ8jy9PJDZAaMtvgKJ5+vJv2KnfDvixnlsMZEnxH/F0dOl0sgHcRuYzXGz1m28RIi0cwHc9LnLGQjqDrRQQHMu48gz3IMYG0mAZhw/4QP7nkA4KnA9MlUuy6mp8/pluM6C2TAc+viOEfqPex6dF9+Waa2YXCV+w6kzdueSqj01NQ==;X2ACOII7LiC7G6bRsa9k6Q=="
 ---

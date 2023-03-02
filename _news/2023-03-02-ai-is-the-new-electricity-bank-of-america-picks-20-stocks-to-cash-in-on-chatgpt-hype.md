@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-elec
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/amp/"
 type: article
 quality: 96
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/01/full/1677674444-8776.jpg"
         width: 620
         height: 464
+        isCached: true
+  - title: "Forget Chatbots, This Is How Corporate America Is Really Using AI"
+    excerpt: "AI-hungry investors have propelled Nvidia Corp., which makes the chips needed for complex AI computing tasks, into the best-performing stock among mega-caps this year. Relatively obscure firms with AI in their names have also skyrocketed."
+    publishedDateTime: 2023-03-02T16:17:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-71677695312069.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-71677695312069.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-71677695312069.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/03/02/1600x900/CHATGPT-AI-CHINA-1_1677732182977_1677732182977_1677732326164_1677732326164.JPG"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Artificial intelligence impact will be in the trillions, Bank of America analysts say"
     excerpt: "Artificial intelligence is about to open trillions of dollars of opportunities in the next seven years, according to Bank of America analysts who say it is at an \"iPhone moment.\" \"If data is the new oil,"

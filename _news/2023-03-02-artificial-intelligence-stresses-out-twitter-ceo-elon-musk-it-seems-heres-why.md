@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/48224/artificial-intelligence-stresses-
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why?amp=1"
 type: article
 quality: 85
-heat: 105
+heat: 106
 published: true
 
 provider:

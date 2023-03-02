@@ -117,6 +117,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AAA: Fear of self-driving cars on the rise, new survey says"
+    excerpt: "WASHINGTON - The fear of self-driving vehicles is on the rise. A new survey from AAA shows 68% of drivers say they are afraid of self-driving vehicles, an increase from 55% in 2022. \"We were not expecting such a dramatic decline in trust from previous years,"
+    publishedDateTime: 2023-03-02T13:38:00Z
+    webUrl: "https://www.fox5dc.com/news/aaa-fear-of-self-driving-cars-on-the-rise-new-survey-says"
+    type: article
+    provider:
+      name: Fox 5
+      domain: fox5dc.com
+    quality: 4
   - title: "Companies Oversell The Self-Driving Capabilities Of Their Cars, With Horrific Outcomes"
     excerpt: "Tesla announced the recall of over 350,000 vehicles - more than 20,000 in canada - due to a problem with its“full self-driving cap"
     publishedDateTime: 2023-02-26T19:51:00Z

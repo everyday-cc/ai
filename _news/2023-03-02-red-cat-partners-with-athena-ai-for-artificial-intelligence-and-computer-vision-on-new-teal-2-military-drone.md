@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Athena AI, Teal 2 Drone: Computer Vision to Identify Weapons, Friends and Foes at Night"
+    excerpt: "Red Cat Announces Athena AI as Computer Vision Partner for Teal 2 by DRONELIFE Staff Writer Ian M. Crosby Red Cat Holdings [NASDAQ:RCAT]  is held in the AdvisorShares Drone Technology ETF [NYSE ARCA:U"
+    publishedDateTime: 2023-03-02T14:26:00Z
+    webUrl: "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/"
+    ampWebUrl: "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/"
+    cdnAmpWebUrl: "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/"
+    type: article
+    provider:
+      name: Dronelife
+      domain: dronelife.com
+    quality: 66
+    images:
+      - url: "https://dronelife.com/wp-content/uploads/2023/03/Teal_2_View_1-e1677770216137.png"
+        width: 612
+        height: 400
+        isCached: true
   - title: "Red Cat Partners with Athena AI for Artificial intelligence, Computer Vision on Teal 2 Military Drone"
     excerpt: "Red Cat Holdings Inc. announced Athena AI as a computer vision partner for the new Teal 2 military-grade drone."
     publishedDateTime: 2023-03-01T22:05:00Z

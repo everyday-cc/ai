@@ -7,7 +7,7 @@ originalUrl: "https://channelvisionmag.com/slashnext-launches-ai-solution-for-em
 webUrl: "https://channelvisionmag.com/slashnext-launches-ai-solution-for-email-security/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 33
+  - title: "Ambient.ai Launches AI-Powered Forensics to Enable Fast, Fully Integrated Security Investigations"
+    excerpt: "Ambient.ai, the company transforming physical security with computer vision intelligence, today launched its AI-Powered Forensics solution to power near real-time incident investigations. New entity and event-based search capabilities allow teams to search by objects,"
+    publishedDateTime: 2023-03-02T15:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ambientai-launches-ai-powered-forensics-enable-fast-fully-/2023/03/02/9770300.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 23
 
 secured: "W2Dt1e0lP1OakcsmWFR2EkPsGlGsOo92wyoSul90GgqbSt6S3DTeZfkyYaJj1oJuJb8lczJyG3fOhUgRVUOb82k6RGGZySC+vhU5qpXm4A54aUzlWcP+6REk5JR7Wpb52Whm0sSzmYXNsMf+LDjAIKvlGHXSZbd4RE3XumvZbHaWRK9jWBQYoGlQPQ43os81PGE8D9OFunPb8Xox6GvYntlhEMNC6tDI4PUv69qJLO9gK6QzBI1jTCVk5Uecwj5KHvRZrlUyGtSk8gSyqRcjZTsQw8/MJ7VqfTd2MAllgydzv7k6N4JkM/l4YnXi7o4+00kRMlNAmJnZyYVmTmkLaLGyCVLqrVU4eqjcq3wh5cc=;lv4Jt50You6z5Ufdebl1VQ=="
 ---

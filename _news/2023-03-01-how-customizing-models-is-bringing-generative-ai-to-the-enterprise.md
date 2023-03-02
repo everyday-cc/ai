@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-customizing-models-is-bringing-genera
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-customizing-models-is-bringing-generative-ai-to-the-enterprise/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -134,6 +134,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Apple Seemingly Restricting Generative AI Apps to 17+ or Older App Store Rating"
+    excerpt: "Apple has refused to accept an update to email app BlueMail that adds generative AI features based on ChatGPT unless the developer gives it a 17+"
+    publishedDateTime: 2023-03-02T13:05:00Z
+    webUrl: "https://www.macrumors.com/2023/03/02/apple-restricting-generative-ai-apps/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 13
 
 secured: "BIpuOUMlfU/KMscN+N2d+Lf+IeuOWcCBpvs/RTO/XVDMhmqQLSe0KBvuAJiht0rwfO6CKPGkrDgOvCNJP7+j4c/Zt1KCduB099ZBByfY5/E9qsPKgTh8z/M4AdZbRkpCb5z1ASFkU+aOo4p/UE4wmk1zJJg8oH2a9KIlO17NDQdGTTcICio2nTpGyvlccm6QO/Wu+DtLWe8o2Ynd+EK6M807ImhcNTjMIItRWzQWNTDuR6HbRMVOOBF9U+HujBoedXvbUTvewZPSSw0otGRiq3rUKaO6NmGDAcof0x9RkprtMHmXskP6/rHBQBfzlKjtGemzsHFvLxDMN4QfnCyN9q6NPy4i9cipTby5sqNbyUjtcYK4Mm5D6W/z2d4LFLSmhlgQjHT0B0ktRjR5lX7PySOwXaSsPkjLyHXp312wD6RALBbrS9cKCdRMRyEb6suH/gUFSZZtjXHsO5qZzxQClfZUJP0iiEJ0STaLD5tz81EgUvsX80+cnhgMSNwp5sdisEs6qVZgMbGQiyXOkxQUDw==;clWZKOWX6Wz+H2u3FhGcCg=="
 ---

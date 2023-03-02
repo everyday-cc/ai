@@ -19,51 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft introduces next-gen hybrid cloud platform 'Azure Operator Nexus'"
-    excerpt: "It believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership"
-    publishedDateTime: 2023-02-27T06:01:00Z
-    webUrl: "https://www.business-standard.com/article/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html"
+  - title: "Microsoft and MITRE Create Tool to Help Security Teams Prepare for Attacks on Machine Learning Systems"
+    excerpt: "New Arsenal plug-in brings together Microsoft Counterfit, MITRE CALDERA™, and MITRE ATLAS™ to help cybersecurity practitioners better understand threats to machine learning systems Microsoft and MITRE have developed a plug-in that combines several open ..."
+    publishedDateTime: 2023-03-02T16:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/b31174152/microsoft-and-mitre-create-tool-to-help-security-teams-prepare-for-attacks-on-machine-learning-sys"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31174152"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31174152"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 72
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 77
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-01/18/full/1674005450-4001.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Empowering operators and enterprises with the next wave of Azure for Operators services shaping the future of cloud"
-    excerpt: "At Microsoft, our aim is to be the most trusted co-innovation partner through every stage of the digital evolution, committed to working with communications service providers (CSPs), enterprises, developers, and ISVs alike on the future of a ubiquitous cloud that unlocks the true potential of modern"
-    publishedDateTime: 2023-02-26T15:00:11Z
-    webUrl: "https://azure.microsoft.com/blog/empowering-operators-and-enterprises-with-the-next-wave-of-azure-for-operators-services-shaping-the-future-of-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/82ab7088-dfa9-4863-94e0-d0dbc786f84d.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Microsoft introduces next-generation hybrid cloud platform"
-    excerpt: "Microsoft: According to a report in tech publication TechCrunch, the tech giant believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership."
-    publishedDateTime: 2023-02-27T08:28:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/microsoft-introduces-next-generation-hybrid-cloud-platform/98270586"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-98270586,imgsize-112440,width-1200,height-628,overlay-ettelecom/microsoft-introduces-next-generation-hybrid-cloud-platform.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
   - title: "Microsoft Expands Azure Services for 5G Wireless Operators"
     excerpt: "Microsoft described multiple Azure for Operators additions and improvements for 5G communications service providers (CSPs) as part of this week's Mobile World Congress 2023 in Barcelona, Spain."
@@ -78,6 +48,22 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticSmall.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Stefanini Group partners with Microsoft to integrate simultaneous translation platform into Microsoft Teams"
+    excerpt: "Integrating Microsoft Azure AI, Voicero is now available through Microsoft Azure Marketplace and AppSource SOUTHFIELD, Mich., /PRNewswire/ -- Millions of meetings are held daily by people who speak"
+    publishedDateTime: 2023-02-27T14:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31071136/stefanini-group-partners-with-microsoft-to-integrate-simultaneous-translation-platform-into-micros"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31071136"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31071136"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 43
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "JeVcHzAi6v3cbUz/r7wLJYs+RInN4IiaI7fkqrzZAS0g1fCP2I8JQE6p1en6BCkKyCB9+b67GC7xYWOaMXXiNeJ+mRt8nAl3pu5twspJPMlKQnpXnmmM99IUnpYHkLIrZw6gQEXJErXKgSXH7nhBryBddOAlzM+b0tyHJA5u9dKOkvwP4E3VIvXeNh4TuO3Wn8XoSY52Mkh+0JJ9FcjnumeZmHcWMjgLij53l7LKs0lBpA0xoKrYCZG/J8HvBOYwvBfJCAOxRdBs8I8gxd2yEMRJoqwjQj7evKKQSvX8+Bu7yFfpnMLj3qGr+IMMefjrztk3hM0v7Cma+tsOzLDxuYYXF9mIqzZGZq3XbD94K28=;U7lBGn+wWhdqzGTQT5Rveg=="

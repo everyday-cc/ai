@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T13:30:00Z
 originalUrl: "https://news.crunchbase.com/ai-robotics/interesting-startup-deals-february-bloomx-newswhip/"
 webUrl: "https://news.crunchbase.com/ai-robotics/interesting-startup-deals-february-bloomx-newswhip/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: news.crunchbase

@@ -23,6 +23,17 @@ images:
     height: 580
     isCached: true
 
+related:
+  - title: "How AI Is Helping Companies Redesign Processes"
+    excerpt: "The idea of business process reengineering is making a comeback, this time driven by artificial intelligence (AI). In the 1990s, the implementation of enterprise resource planning systems and the internet allowed companies to make changes to broad business processes,"
+    publishedDateTime: 2023-03-02T13:25:00Z
+    webUrl: "https://hbr.org/2023/03/how-ai-is-helping-companies-redesign-processes"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
+
 secured: "3mkQi3h+ivB78MM9TEqlZ91WSMYSV7dFnJEotdUWMU4YxQ14CR1d8dDphaC0MJ/MkFfIUCtB6it6k2TFyUyFmZDf9nitVyl0Zys4IXqu0plPhSdriMeIuLVcbY9tGRUCV42YpNRBhgYBYRk7+HRl73ZayJjUpt5UQVHpHgQFZXikwqXTh30k3a4VHZmAbz0kZLPqbkr8xOZZC0Jq7femOG5Q2mqdQUipqpUBxd+S9AF48+2q0jt7bs5U+Wva3blqFAGYaRxCYjBJrFg/buM8mZZ0BmX+z78f8GIEZDW1Dug4CNen6kxAdg638kRlB6CM2UnPJ3YKVrLoT+UJRmKp13WA8Hj4jS+aymHby6cAu2A=;0Epm1FwIOn/7XyspmVsiyw=="
 ---
 

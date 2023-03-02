@@ -55,20 +55,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Exploring 7 of the Latest Technological Trends in Fintech"
-    excerpt: "Fintech firms can use both technologies to automate fraud detection and loan origination processes while providing more accurate insights into customer behavior. By leveraging these tools, businesses can cut manual labor  costs while increasing overall performance accuracy and efficiency."
-    publishedDateTime: 2023-02-25T21:30:00Z
-    webUrl: "https://www.finextra.com/blogposting/23806/exploring-7-of-the-latest-technological-trends-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/a4428d07-be55-4674-973f-7b5d26aab3e3.jpg"
-        width: 500
-        height: 375
-        isCached: true
   - title: "27/02 – Weekly Fintech Recap"
     excerpt: "Partnerships Western Union and Beforepay Offer ‘Send Now, Pay Later’ Service to Consumers for International Money Transfers Western Union and Beforepay announced a first-of-its-kind collaboration, allowing consumers to boost their cross-border money transfers by accessing reliable,"
     publishedDateTime: 2023-02-27T13:29:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T13:43:00Z
 originalUrl: "https://whdh.com/news/night-shift-brewing-in-everett-uses-artificial-intelligence-to-create-new-craft-beer/"
 webUrl: "https://whdh.com/news/night-shift-brewing-in-everett-uses-artificial-intelligence-to-create-new-craft-beer/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: WHDH

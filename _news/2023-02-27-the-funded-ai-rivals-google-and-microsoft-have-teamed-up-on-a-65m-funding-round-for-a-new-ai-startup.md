@@ -316,20 +316,15 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Microsoft's new AI chatbot has been saying some 'crazy and unhinged things'"
-    excerpt: "After Microsoft's powerful AI chatbot verbally attacked people, and even compared one person to Hitler, the company has decided to rein in the technology until it works out the kinks."
-    publishedDateTime: 2023-03-02T10:01:00Z
-    webUrl: "https://www.wwno.org/npr-news/2023-03-02/microsofts-new-ai-chatbot-has-been-saying-some-crazy-and-unhinged-things"
+  - title: "AWS eyes Microsoft-backed ChatGPT with new AI partnership"
+    excerpt: "Amazon Web Services is betting big on open-source artificial intelligence specialist Hugging Face to make generative AI more accessible and easier to deploy by forming a new collaboration agreement to boost its AI capabilities to provide similar technology that rivals Microsoft-backed ChatGPT."
+    publishedDateTime: 2023-03-02T14:14:00Z
+    webUrl: "https://www.channelweb.co.uk/news/4076890/aws-eyes-microsoft-backed-chatgpt-ai-partnership"
     type: article
     provider:
-      name: WWNO
-      domain: wwno.org
-    quality: 52
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/22e6425/2147483647/strip/true/crop/3587x1883+0+254/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F02%2F27%2Fgettyimages-1246872792_custom-d675966801679c4455b339ba77f991896fea5aa8.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: CRN
+      domain: channelweb.co.uk
+    quality: 51
   - title: "New Windows 11 update puts AI-powered Bing Chat directly in the taskbar"
     excerpt: "Microsoft is adding support for Bing Chat and the other \"new Bing\" features to the Windows taskbar as part of 2023's first major Windows 11 feature update. Microsoft Chief Product Officer Panos Panay announced the updates in a blog post released today."
     publishedDateTime: 2023-02-28T14:00:00Z
@@ -385,6 +380,24 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Microsoft's new AI chatbot has been saying some 'crazy and unhinged things'"
+    excerpt: "After Microsoft's powerful AI chatbot verbally attacked people, and even compared one person to Hitler, the company has decided to rein in the technology until it works out the kinks."
+    publishedDateTime: 2023-03-02T09:01:00Z
+    webUrl: "https://www.mprnews.org/story/2023/03/02/npr-ai-microsoft-bing-chatbot"
+    type: article
+    provider:
+      name: MPR News
+      domain: mprnews.org
+    quality: 34
+  - title: "The race to build AI-powered humanoids is heating up"
+    excerpt: "Boston Dynamics has pushed the limits of robotics by creating humanoids that can jump and flip. “Existing humanoids today have just been stunts and demos,” Adcock says. “We want to get away from that and show that they can be really useful."
+    publishedDateTime: 2023-03-02T05:59:00Z
+    webUrl: "https://www.fastcompany.com/90859010/the-race-to-build-ai-powered-humanoids-is-heating-up"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
 
 secured: "qLJemZ9qAk2R2r9fZpHOvaUM14q44cP3d4binNpxg8xvmF5BF67Jjfd+vnQNG+3P1LC7SxYAOrcA1eHzcYc2A/pzZO0MfeHkbo/WPdlEagy9d2D41YaRXZebo2dvCQ9wt2XGxFn2m3jEukqjyg3FWXKsvMhweRrAiTXLEziDqtJaqE5HiJi5cFf6mcIm5x24PlzCKIfTo+WrMT+nPdmAwH4+/vr6D8kcBBJdgNZqf1b5LOIjwRt5hZkqn+JOjhTMeeHYENGJwwzYnzcJn28H0Yd/pIthE+5HRzIjo9MzZXJxJodjkaq7YI5yCO2uoYk5pkUpGKRfOfo88+5UM5rzOCiYsOfkjGZu17Qf0jgrVoVmgZLoZ7v8SyZ8cuk1P+V9lMVEzAY3uQqF951cFafHcVDGT1C0Jrj+WxAuUDanamWZPVmR6o2t7JRvqwywBo2NBPRC3uFOKfqTUHsrqBeRhJ5FKSOiaSmHWzIB51e2v1HRXsZIzlFdemnk2uBIacYVecpNo+E/NXmKO9d1yBDpLw==;/BaZ7o6oSLB5kOjGi6DnQA=="
 ---

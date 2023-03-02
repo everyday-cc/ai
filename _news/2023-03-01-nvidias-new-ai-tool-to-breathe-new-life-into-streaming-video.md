@@ -43,6 +43,15 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Nvidia's latest GPU drivers to upscale blurry videos via AI"
+    excerpt: "“With RTX Video Super Resolution (VSR), GeForce RTX 40 and 30 Series GPU users can tap AI to upscale lower-resolution content up to 4K, matching their display resolution. The AI removes blocky compression artifacts and improves the video’s sharpness ..."
+    publishedDateTime: 2023-03-02T13:25:00Z
+    webUrl: "https://glamsham.com/world/technology/nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 34
 
 secured: "TPSVe2DySykq+lVbYhgoGaZBlTTPJ0/tnbDmNP0jjINpYyTl9PdZrcaiNWofbmCFJx7T4HZRrfCT9JDSjs4/emmcQBWVwXr0AkKdkmDtC0AY5LLmgQrkzCEJR/GkK3T0Cj5YSTHZq4YGf/BRe+NpmetNMVwRIOITZVGgcppdsGPqVHSWnm4pSVHz6Vs03phaT2iGinH5X5zzzlI7lunTWkDnl9YZL1gk014EbLUQBq6M6XqVDqbaBhC/gFjSlBr2Gk9wUhGQFnzb2SRW1mUkazrO2J+nhYdnyZAauggsXQYEnebZuVcyhkALTjEU7tu4Uz661S1KGrxR5efGz+3gjZIPhiOXujkmhMzxEB+TVlLmTIy4bmnHQOdWfHnL1pOE21uZv/o5N2B+cJ4b3hsIN8N5aVr/ZtM/S5t+rxNVYE0/72gBS8LUDwNVzNSpAxHRN+OkDI7MVukOELAwosv5BHUJfqjkWdzXSf+ItQMdO1qADu9b5yODwqJGT/ig3xpq+yIF0lmsJotVTy/H0N7rhg==;ZDZGvg+O57RRGy686OsYuw=="
 ---

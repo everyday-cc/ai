@@ -71,6 +71,15 @@ related:
         width: 5760
         height: 3240
         isCached: true
+  - title: "How WIRED Will Use Generative AI Tools"
+    excerpt: "Some publications are already using text and image generators. Here’s how WIRED will—and won’t—use the technology."
+    publishedDateTime: 2023-03-02T11:00:00Z
+    webUrl: "https://www.wired.com/story/how-wired-will-use-generative-ai-tools/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "How to create, release, and share generative AI responsibly"
     excerpt: "Companies including OpenAI and TikTok have signed up to a new set of guidelines designed to help them be more transparent around generative AI."
     publishedDateTime: 2023-02-27T13:44:00Z

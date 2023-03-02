@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-generative-ai-could-low
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/"
 type: article
 quality: 105
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 5760
         height: 3240
         isCached: true
+  - title: "How WIRED Will Use Generative AI Tools"
+    excerpt: "Some publications are already using text and image generators. Here’s how WIRED will—and won’t—use the technology."
+    publishedDateTime: 2023-03-02T11:00:00Z
+    webUrl: "https://www.wired.com/story/how-wired-will-use-generative-ai-tools/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "Generative AI's money game"
     excerpt: "The generative AI revolution will be monetized, but nobody can yet say exactly how. The big picture: It seems logical that if AI can conduct conversations and produce images, companies will figure out how to use it to build revenue and profits — but there's no guarantee,"
     publishedDateTime: 2023-02-27T10:30:00Z

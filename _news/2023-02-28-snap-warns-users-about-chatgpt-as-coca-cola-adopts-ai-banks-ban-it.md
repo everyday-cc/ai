@@ -344,6 +344,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Apple Blocks Update of ChatGPT-Powered App, as Concerns Grow Over AI’s Potential Harm"
+    excerpt: "The iPhone maker asked the developer of an email app embedded with AI-language capabilities to set an age restriction, a sign of unease about inappropriate content."
+    publishedDateTime: 2023-03-02T11:58:00Z
+    webUrl: "https://www.wsj.com/articles/apple-blocks-update-of-chatgpt-powered-app-as-concerns-grow-over-ais-potential-harm-c4ca9372"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 40
   - title: "Children taking the International Baccalaureate WILL be allowed to use AI chatbot ChatGPT to write their essays"
     excerpt: "ChatGPT is a large language model ... checking software and translation apps, he added. 'We must accept that it is going to become part of our everyday lives. 'If an AI programme can indeed ..."
     publishedDateTime: 2023-02-27T11:22:00Z

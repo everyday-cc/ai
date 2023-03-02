@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-20
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-chatgpt-rival-openai-ai-2023-2?amp"
 type: article
 quality: 80
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/02/Collage-Maker-28-Feb-2023-11.28-AM-770x435.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "Elon Musk wants to create 'based AI' to fight ChatGPT's 'wokeness'"
+    excerpt: "Elon Musk. Per a report in The Information, Musk has called on artificial intelligence researchers recently in an effort to combat \"woke AI,\" possibly by creating a competitor to popular chatbot ChatGPT,"
+    publishedDateTime: 2023-03-02T16:34:00Z
+    webUrl: "https://www.chron.com/news/local/article/elon-musk-chatgpt-woke-ai-17815678.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/30/03/53/23083734/3/rawImage.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Elon Musk Might Start Up a ChatGPT Rival, Report Says"
     excerpt: "Musk, who co-founded ChatGPT's creator, OpenAI, has approached AI researchers about forming a research lab, The Information reports."

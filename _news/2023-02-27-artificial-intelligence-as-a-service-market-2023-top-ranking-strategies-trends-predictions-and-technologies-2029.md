@@ -106,6 +106,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Future of Artificial Intelligence and Machine Learning Market by 2029: Trends and Predictions"
+    excerpt: "The recently published Artificial Intelligence and Machine Learning Market Report, spanning across 119 pages, provides"
+    publishedDateTime: 2023-03-02T08:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-and-machine-learning-market-by-2029-trends-and-predictions-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2029 Forecast Artificial Intelligence (AI) Chips Market by Growth Rate, Data Analytics, Sparked Innovation with Top Players"
     excerpt: "Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “ Artificial Intelligence (AI) Chips Market ” Size 2023 Key players Profiled in the Report are [,"
     publishedDateTime: 2023-02-27T15:51:00Z
@@ -124,20 +138,6 @@ related:
     excerpt: "Image Recognition Market? AI (Artificial Intelligence) Image Recognition Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2029."
     publishedDateTime: 2023-02-28T01:34:00Z
     webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-is-booming-in-near-future-2023-2028-2023-02-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Future of Artificial Intelligence and Machine Learning Market by 2029: Trends and Predictions"
-    excerpt: "The recently published Artificial Intelligence and Machine Learning Market Report, spanning across 119 pages, provides"
-    publishedDateTime: 2023-03-02T08:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-and-machine-learning-market-by-2029-trends-and-predictions-2023-03-02"
     type: article
     provider:
       name: MarketWatch

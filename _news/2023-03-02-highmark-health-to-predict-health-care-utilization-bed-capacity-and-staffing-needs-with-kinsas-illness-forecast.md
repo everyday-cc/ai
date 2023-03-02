@@ -1,20 +1,23 @@
 ---
 category: news
 title: "Highmark Health to Predict Health Care Utilization, Bed Capacity and Staffing Needs with Kinsa's Illness Forecast"
-excerpt: "Allegheny Health Network will be the first health system to leverage Kinsa's illness insights to anticipate COVID-19 and flu outbreaks weeks before occurring PITTSBURGH and SAN FRANCISCO, March 2, 202"
-publishedDateTime: 2023-03-02T12:42:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31167796/highmark-health-to-predict-health-care-utilization-bed-capacity-and-staffing-needs-with-kinsas-ill"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/n31167796/highmark-health-to-predict-health-care-utilization-bed-capacity-and-staffing-needs-with-kinsas-ill"
+excerpt: "Allegheny Health Network will be the first health system to leverage Kinsa's illness insights to anticipate COVID-19 and flu outbreaks weeks before occurring. PITTSBURGH and SAN F"
+publishedDateTime: 2023-03-02T15:19:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-highmark-health-predict-health-care-utilization-bed-capacity-/2023/03/02/9770134.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-highmark-health-predict-health-care-utilization-bed-capacity-/2023/03/02/9770134.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "suya91lU3JLAkknBA6m7jKs3m92/RUqrdCQ/tV4w14SKiRaNs6YklFL6qlXKb5CIz2vRALZ0EoFRpic2D807IidpYDqdO+/01kVisYzJ5dmS680QuSCOGpZNt1LsAeUEkynumHYt8CGci/bbfxZkrAGx5xb50RZmjV22UHr+BrkZ7p7r1lCadYmX6E29OdLkc24bv1ZQT3Gej3qQ4OlfAkDDsszhBecrZjTzMlfK5BF5I6pjFicDEU2kik6l12fYU8CWZMxjloCwak2ooPWTSjT+98xbcUrInWi1oPCYEl4PS92Q4d5yz+bZBgqvbxT/YYh0iXEG27Cr8jQHC6Xui4ov2gJCSnFBwhlYr5nZMPM=;1J/nfWtUPC+msvxol5AAcg=="
+secured: "sF8J03nnAhf2JIlUaCEwOPPmAZqzcUUju9si7P6jCmSyO4nPB59nf0fH8x8EXsMUYFcj/wL1HnoA9Aklwjip2buc59ojZi00nW68Y+eUUwGbLEy6QAhCaMSSw3wMOfRkTigYvd+cpEJ6T7cI96nf3QBWefqXuJPW0uIWt+dUrEuldqMvOOPxuvH7W4/PM7+hZ4Im8NQO5ZZ1z8gEYGDOlam7Kh5m+Wjvrwpx8lDwS726k2eFEywjVumuGjVORkhub3dkKFgyQxk68tPfuIMQKcHqUXfhmmk+7tI+kp92CNyIjJtVnn5izugF6hH5/Jp6oEuj/Bzb7F9Sv31WQrMRtUXNsHRlRUbgd5Z4pSWmIrg=;tOQfCkb/+4sNI4vVhCTm4g=="
 ---
 

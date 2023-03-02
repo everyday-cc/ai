@@ -87,6 +87,20 @@ related:
         width: 930
         height: 571
         isCached: true
+  - title: "Ford patents self-driving car that will take itself back to showroom if finance payments are missed"
+    excerpt: "Ford has submitted a patent that see self-driving cars driving themselves back to the showroom if finance payments are missed."
+    publishedDateTime: 2023-03-02T16:24:00Z
+    webUrl: "https://www.driving.co.uk/news/ford-patents-self-driving-car-that-will-take-itself-back-to-showroom-if-finance-payments-are-missed/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 27
+    images:
+      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2023/03/autonomous-ford.jpg"
+        width: 1440
+        height: 897
+        isCached: true
   - title: "Ford plans self-driving car that can repossess itself"
     excerpt: "The soothsayers of Silicon Valley have promised for years that self-driving vehicles will open up new freedoms.It seems, however, that one of the world’s largest carmakers has another use in mind for the technology — one that can repossess itself if a buyer fails to keep up with payments."
     publishedDateTime: 2023-03-01T14:00:00Z
@@ -96,6 +110,15 @@ related:
       name: The Times
       domain: thetimes.co.uk
     quality: 4
+  - title: "Tech layoffs surge past 102,000 in ’23; Google self-driving car unit is latest to cut jobs"
+    excerpt: "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year. These and other cuts boost the number of tech sector layoffs beyond 102,"
+    publishedDateTime: 2023-03-02T12:24:00Z
+    webUrl: "https://wraltechwire.com/2023/03/02/tech-layoffs-surge-past-102000-in-23-google-self-driving-car-unit-is-latest-to-cut-jobs/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 0
 
 secured: "IGhz2hvwRs7D5fd9RQzGaBnhrg5tyH8J6vcsmfv8cErxp2h9hU7FEYEFwJBa2tbFauA5QMM5ZesNvhmAVHk6ZPMWbgw+Gy8eIk6uBQbM/huFWiqpmAgpC5kcPWGh/5HjiZXimXpgOv/BqnH7EEKcumBCepiPGyF75yejn4XITOfKDvLo2+0Nr+7WlDw/RdNc+CUpxRWTEL/cDSAxTjVI2xVEgOFhUTT6nOW1Gp850/BFn4vHESBBtGM08+AzdbPilFbVfd0kMAHh8Hx4vo3DbS3Nzg6itwM1Pi0qGM/KgHtFP5q9Lxlj6BRk8mXOQtffuP2MJYNk91G+M7xWLi9DMIPEW6L4YbWNJamSLXDy7pRl8wDcd9FZ9eKbdrIlMo8f/BsybGgenda2GBlnN8Wff5HZYBjwC+Mhl8M83WqQnidMy0iW1gHU7FqNK5BwihTw0q9oS+zigg712bM+CZEVmnDUtJYzkmetzCM1gb5hqms5AxbgoGiVVYljs1RcQ+I4iq/7cfQj3X+4hlrS1+3hFg==;n4wA0Wzh7p4bqkvKOlD8hw=="
 ---

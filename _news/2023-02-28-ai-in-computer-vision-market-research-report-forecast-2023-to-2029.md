@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-forecast-2023-to-2029-2023-02-27"
 type: article
 quality: 84
-heat: 494
+heat: 504
 published: true
 
 provider:
@@ -471,6 +471,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "Deep Learning in Machine Vision Market 2023 Competitive Strategy Analysis, Trend Analysis, and Forecast till 2029"
+    excerpt: "The MarketQuest.biz recently published a Global Deep Learning in Machine Vision Market Outlook 2023 to 2029. This report has been prepared by doing an in-depth analysis of the market based on segments,"
+    publishedDateTime: 2023-02-28T12:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-2023-competitive-strategy-analysis-trend-analysis-and-forecast-till-2029-2023-02-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
   - title: "Artificial Intelligence Software System Market Segmentation by Type, Revenue, Share, Companies Growth, Restraints, Regions Forecast to 2028"
     excerpt: "Artificial Intelligence Software System Market research report offers a [Dynamic Overview of 2023]. The Artificial Intelligence Software System Market, covering growth, trends, consumption, segments,"
     publishedDateTime: 2023-03-01T07:37:00Z
@@ -498,6 +507,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Intelligent Speech and Voice Recognition Market 2023 Current Insights, Trends, Future Trends, CAGR Analysis and Forecast to 2029"
+    excerpt: "The recent Global Intelligent Speech and Voice Recognition Market report outlines the key market statistics as"
+    publishedDateTime: 2023-03-02T01:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-2023-current-insights-trends-future-trends-cagr-analysis-and-forecast-to-2029-2023-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Systems Market Size, Analysis with Key Players having Regional Statistics and Application Forecast to 2029"
     excerpt: "Feb 27, 2023 (The Expresswire) -- \"Face Recognition Systems Market\" Research Report 2023 Provides a Basic overview of the Industry including"
     publishedDateTime: 2023-02-27T17:49:00Z
@@ -516,15 +539,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 21
-  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
-    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
-    publishedDateTime: 2023-02-27T12:43:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
   - title: "Artificial Intelligence In Agriculture Market Worth $4.7 Billion In 2028 - Exclusive Report By Marketsandmarketstm"
     excerpt: "The ai in agriculture market is projected to grow from USD 1.7 billion in 2023 to USD 4.7 billion in 2028; it is expected to grow at a CAGR of 23.1% from 2023 to 2028 according to a new report by MarketsandMarketsTM."
     publishedDateTime: 2023-03-01T18:26:00Z

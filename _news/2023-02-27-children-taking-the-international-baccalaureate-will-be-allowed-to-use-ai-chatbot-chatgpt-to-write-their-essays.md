@@ -357,6 +357,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Apple Blocks Update of ChatGPT-Powered App, as Concerns Grow Over AI’s Potential Harm"
+    excerpt: "The iPhone maker asked the developer of an email app embedded with AI-language capabilities to set an age restriction, a sign of unease about inappropriate content."
+    publishedDateTime: 2023-03-02T11:58:00Z
+    webUrl: "https://www.wsj.com/articles/apple-blocks-update-of-chatgpt-powered-app-as-concerns-grow-over-ais-potential-harm-c4ca9372"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 40
   - title: "OpenAI makes its ChatGPT and Whisper models available via cloud APIs"
     excerpt: "Developers can now integrate OpenAI LLC’s ChatGPT and Whisper models into their software thanks to new application programming interfaces that became available today. An application programming interface,"
     publishedDateTime: 2023-03-01T21:49:00Z

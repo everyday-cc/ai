@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/mar/01/german-publisher-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/mar/01/german-publisher-axel-springer-says-journalists-could-be-replaced-by-ai"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "AI could replace journalists, Axel Springer CEO Mathias Döepfner warns"
+    excerpt: "Mathias Döepfner, who heads parent company which owns Politico and Insider, circulated a memo to employees touting the benefits and pitfalls of AI."
+    publishedDateTime: 2023-03-02T16:49:00Z
+    webUrl: "https://nypost.com/2023/03/02/ai-could-replace-journalists-mathias-doepfner-warns/"
+    ampWebUrl: "https://nypost.com/2023/03/02/ai-could-replace-journalists-mathias-doepfner-warns/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/03/02/ai-could-replace-journalists-mathias-doepfner-warns/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 57
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2023/03/NYPICHPDPICT000007519962.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "VDOHva016+o6Qzujc+q9s7634W4JewIwxfIwbhiQZHPM19oeIYYEzad0QMWaufUiUoaEfMceeZxwJX4+CQJOJp1pL4jy/XsYB0hOPRsONj9Yg/Y6kGlM8TmJtjqiEjZC4jjrrPcX62Q/7OO+pS7w8dDoOsoYu7ZYvT3+22gP7E38HDUlxDYnH2236flfEt9WsOmQxdcnW/x/qNKXvDLf/UfTdelWvc4CKxfyVvR+GwxSeGEdQjd3dF54zwatbYfhFGHBAUGX8vRkLrooiBUO/a9+fpmfamNYI05G8Wyr9QShDtT2As/QJqInJGC8xIEEPyYlwwXCcFOd2nO8NensO3WwAJTfYm2I0P8Hq01Ayh/8lpp+R8lamk4wF9oPpy193ppF30qQCqGCF2yGKB5Bk38MaMvPj5kshAKDJBFxbeOSimZrF88Uq5S2YdxgL7a3p7l0xOyQX7tryCWYdU0iVVYei4jCmLbJzFQrdMov+EGiK+C1qkBislUEQw03huBU7XeuAAXTmkRc+ibkD4HOTw==;ttFqpINDgQeIVhzGOUgrZg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/0/90511_25_us-sparks-fear-of-assassinations-with-new-ai-powered-facial-recognition-tech.jpg"
         width: 620
         height: 413
-        isCached: true
-  - title: "Why facial recognition could spell the end of anonymity in public"
-    excerpt: "CCTV doesn’t just recognise your face — it can even sense your emotions and predict crime. Even the country’s biometrics boss is worried"
-    publishedDateTime: 2023-02-26T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=58f49e68f69f9368e5d590391f5bd519"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F95e76564-b51e-11ed-93c1-9f4b65bf4405.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Two bills to regulate facial recognition technology advance"
     excerpt: "Two bipartisan bills regulating the use of facial recognition technology in Montana have advanced to floor votes. The bills would limit the technology’s use by government agencies, law enforcement, and public schools."

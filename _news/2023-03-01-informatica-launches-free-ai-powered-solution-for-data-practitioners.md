@@ -48,6 +48,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 33
+  - title: "Ambient.ai Launches AI-Powered Forensics to Enable Fast, Fully Integrated Security Investigations"
+    excerpt: "Ambient.ai, the company transforming physical security with computer vision intelligence, today launched its AI-Powered Forensics solution to power near real-time incident investigations. New entity and event-based search capabilities allow teams to search by objects,"
+    publishedDateTime: 2023-03-02T15:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ambientai-launches-ai-powered-forensics-enable-fast-fully-/2023/03/02/9770300.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 23
 
 secured: "r8FZArHVA6708Tfyl+q88iDdcH2XO8DQluR9fMCbMQmZH1sZUS12zd4p4DT50mCvNAXnnxV29bVcNAa863wjoM50KFm1fsjLChpxP+0mTksf5NJmimvNgA+0Cqa5UjfU4BuoID3Pi0vCLpqZaa8mL2rW4SqQhnFiG2DaeMUNOyt4QwflgGWfXlu13CUSQJ+QPueLs015Ak9MeVpLqatL2bsQDVx67Rx3PP1i/hIlmzySX/C+qlcwvQK6AJ5KxjkaDP/wMlhVr01v+pPrWpaDNfn1p5TYqaeIwESLX4EplLfbfg+865FDCJGNseI3VHOjIGT4A8Riq+hk+iWEkrrHdlnIqohsISzivLUQbscO1K8vebA3n9bpuDsHtQ6VHB4bXgjcxu6rXMVAxd50fKGcJWbpHq+FReIBs01if/rGzYfyUJZI/az3pnoByasHVESCzaLnDFRiUBX2GFlXW6xcCH39YGvXJgIPGghD6qBFOFEqEI8ewsglCuhQ5olteaJr6jzYybJq3R0QcV/HjFTwxQ==;XgZ37w67YwrGbcXZqcBhNg=="
 ---

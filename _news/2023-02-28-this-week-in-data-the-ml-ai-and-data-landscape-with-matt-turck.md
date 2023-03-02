@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/this-week-in-data-the-ml
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Control the Future of Data with AI and Information Governance"
+    excerpt: "AI and Information Governance expert encourages business leaders to manage data at scale, build visibility, secure data assets, and achieve compliance—in a new article from Messaging Architects HOBOKEN,"
+    publishedDateTime: 2023-03-02T12:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31167392/control-the-future-of-data-with-ai-and-information-governance"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "nYUgXvqdhsP4bdlCABJgNq28B46d4dYfMX/rhw7kJkgSPFva/gfg654gHvJRPHVysXG0mQjK0M1qth9PkHLfcyUBYWI0gtp8G+jdvDd0kyABI4UCxGpw2sHf9nA5S71OM1h1SN/cgZz0dqU/ebyPmYrxZrx9yeMb/vIyg3p7KFXNh7f3WIg5BuEPp4Yj3oWg6lHk1bJdBGF3Cd4OiT4i3Pu9x3VL879cHT9cT83QXFkYOYVXRxtMXeKG9K7lL5bwDdeE9WbknkhrkGQbNSLGTxlP7+zoHWinExc85V1cTqW0FceW4eQEPIcgcBjX7flfIIfgBXkUJRyogf9M46NLoK45RGH3X1ZM5wf9x4OwooajnHuCuXtbsth1M4AIdF6xxjejFrXzBZ6wuy+/FpLCr6jMjIDh2oGFZXmDMyD9kpwAkvTrL7X5WYOmr9GntnCIE6rr1NeTCTcv4dVwxFwBJd/CDY3qm2p4rjFi/faju5iKjUSsGtdccm65gyxHx03VYeVk4+EpVeqyJodzY//VCQ==;ARumE8Z97e8dJoP2a6PGpA=="
 ---

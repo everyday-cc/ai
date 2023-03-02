@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-02-red-cat-partners-with-athena-ai-for-artificial-intelligence-computer-vision-on-teal-2-military-drone.md",
-      "title": "Red Cat Partners with Athena AI for Artificial intelligence, Computer Vision on Teal 2 Military Drone",
-      "excerpt": "Red Cat Holdings Inc. announced Athena AI as a computer vision partner for the new Teal 2 military-grade drone.",
+      "path": "_news/2023-03-02-athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night.md",
+      "title": "Athena AI, Teal 2 Drone: Computer Vision to Identify Weapons, Friends and Foes at Night",
+      "excerpt": "Red Cat Announces Athena AI as Computer Vision Partner for Teal 2 by DRONELIFE Staff Writer Ian M. Crosby Red Cat Holdings [NASDAQ:RCAT]  is held in the AdvisorShares Drone Technology ETF [NYSE ARCA:U",
       "sourceUrl": null,
-      "webUrl": "https://insideunmannedsystems.com/red-cat-partners-with-athena-ai-for-artificial-intelligence-computer-vision-on-teal-2-military-drone/",
-      "originalUrl": "https://insideunmannedsystems.com/red-cat-partners-with-athena-ai-for-artificial-intelligence-computer-vision-on-teal-2-military-drone/",
+      "webUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
+      "originalUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://insideunmannedsystems.com/wp-content/uploads/2023/03/Red-Cat-Teal.png",
-          "width": 640,
-          "height": 512,
+          "url": "https://dronelife.com/wp-content/uploads/2023/03/Teal_2_View_1-e1677770216137.png",
+          "width": 612,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T14:05:00-08:00",
+      "ampWebUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
+      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
+      "publishedDateTime": "2023-03-02T06:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Future of Autonomy",
-        "domain": "insideunmannedsystems.com",
+        "name": "Dronelife",
+        "domain": "dronelife.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -193,7 +193,7 @@
       "originalUrl": "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -236,7 +236,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-forecast-2023-to-2029-2023-02-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 494,
+      "heat": 504,
       "tags": null,
       "images": [
         {

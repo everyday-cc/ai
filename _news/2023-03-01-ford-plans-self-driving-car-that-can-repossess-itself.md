@@ -95,6 +95,29 @@ related:
         width: 930
         height: 571
         isCached: true
+  - title: "Ford patents self-driving car that will take itself back to showroom if finance payments are missed"
+    excerpt: "Ford has submitted a patent that see self-driving cars driving themselves back to the showroom if finance payments are missed."
+    publishedDateTime: 2023-03-02T16:24:00Z
+    webUrl: "https://www.driving.co.uk/news/ford-patents-self-driving-car-that-will-take-itself-back-to-showroom-if-finance-payments-are-missed/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 27
+    images:
+      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2023/03/autonomous-ford.jpg"
+        width: 1440
+        height: 897
+        isCached: true
+  - title: "Tech layoffs surge past 102,000 in ’23; Google self-driving car unit is latest to cut jobs"
+    excerpt: "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year. These and other cuts boost the number of tech sector layoffs beyond 102,"
+    publishedDateTime: 2023-03-02T12:24:00Z
+    webUrl: "https://wraltechwire.com/2023/03/02/tech-layoffs-surge-past-102000-in-23-google-self-driving-car-unit-is-latest-to-cut-jobs/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 0
 
 secured: "dmr00tt+XnfeE0TBRaSxWtH8/+6Y7kQrTnCasJrjF0btqeAbEgejYuwpaBnaOM+0Dix6KPnRE0/TJRujl3yyYaS/hRRn5JHzC0EmYAk0O5uLQpvwAaus6eImn/XfefQe9azWve715WgQ5dbP95HvyEOvg7534xTra+KsKfz+SRlsjBxdQvmRIogzgIRomXmtc58GHI1lPJSV8gX/R3BJ8wAbwcGqb5Ht5saUBx50xJWvvjO5Ea1MG00+RqVCUn7FGrtzpd7o21D14Pulw7ANZj893GbsHXTHj//coMju0Udsk0oT5m9K91qnLmq/bYe0mt+KJFKOaOzfxjEi16qGgzX/AK4FNI6/ofmBIZOOhfJgXgeRzkYuJBfyYyPxHYEicPij2KCeDpHqDad1LkycdrRDnBrXhMUHZd9q6IOZZCaDFmcJQZY3/9dW9hzBb3MfIeOt8jV6npnjlqyQ8+DebNrL5GGSfs5D7oBddnL10Ma448c8RMumkve23yq3DScyGOLzdDoQxn6ibokwAJkJ4w==;ChJpd/6fV+1sRb6/P9kVqw=="
 ---

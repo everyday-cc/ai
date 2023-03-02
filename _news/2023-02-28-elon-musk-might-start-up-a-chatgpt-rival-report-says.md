@@ -141,6 +141,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Elon Musk wants to create 'based AI' to fight ChatGPT's 'wokeness'"
+    excerpt: "Elon Musk. Per a report in The Information, Musk has called on artificial intelligence researchers recently in an effort to combat \"woke AI,\" possibly by creating a competitor to popular chatbot ChatGPT,"
+    publishedDateTime: 2023-03-02T16:34:00Z
+    webUrl: "https://www.chron.com/news/local/article/elon-musk-chatgpt-woke-ai-17815678.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/30/03/53/23083734/3/rawImage.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Elon Musk taking on 'danger' posed by woke AI — including tool created by company he co-founded"
     excerpt: "Elon Musk is reportedly putting together a research team to combat what he has termed the deadly threat of woke artificial intelligence"
     publishedDateTime: 2023-03-01T14:51:00Z

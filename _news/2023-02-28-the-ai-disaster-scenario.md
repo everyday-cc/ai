@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "10 Threats That The Use Of AI Poses For Companies And Organizations"
+    excerpt: "How, when, and why business leaders employ AI technology has the potential to create a wide range of crisis situations for their companies and organizations."
+    publishedDateTime: 2023-03-02T13:32:00Z
+    webUrl: "https://www.forbes.com/sites/edwardsegal/2023/03/02/10-threats-that-the-use-of-ai-poses-for-companies-and-organizations/"
+    ampWebUrl: "https://www.forbes.com/sites/edwardsegal/2023/03/02/10-threats-that-the-use-of-ai-poses-for-companies-and-organizations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edwardsegal/2023/03/02/10-threats-that-the-use-of-ai-poses-for-companies-and-organizations/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6400a62230cdf3c16355cb60/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vue.ai Partners With Meta's Creative Shop To Create AI-powered Models For Inclusive Ad Creatives"
     excerpt: "Vue.ai will enable brands to feature a single outfit across a wide range of AI-generated body types from size 4-20 with its patented technology"
     publishedDateTime: 2023-03-02T06:14:00Z

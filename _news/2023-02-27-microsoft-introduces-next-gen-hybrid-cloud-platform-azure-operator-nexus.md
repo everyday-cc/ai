@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-i
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html"
 type: article
 quality: 72
-heat: 112
+heat: 92
 published: true
 
 provider:
@@ -57,29 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft Expands Azure Services for 5G Wireless Operators"
-    excerpt: "Microsoft described multiple Azure for Operators additions and improvements for 5G communications service providers (CSPs) as part of this week's Mobile World Congress 2023 in Barcelona, Spain."
-    publishedDateTime: 2023-02-28T00:00:00Z
-    webUrl: "https://redmondmag.com/articles/2023/02/28/microsoft-expands-azure-services-for-5g-wireless-operators.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MapRusticSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Spirent Joins the Microsoft Azure Operator Nexus Ready Program"
-    excerpt: "Spirent Communications plc (LSE: SPT), a leading provider of test and assurance solutions for next-generation devices and networks, today announced a collaboration with Microsoft for the pre-certification of third-party network functions (NFs) on the new Microsoft Azure Operator Nexus platform."
-    publishedDateTime: 2023-02-28T08:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/02/28/9767353.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "9TYalTDWuu7ivDcFCr9B2V8RiVQtY609uu7IrvSTd6joW2vSUv+WtZEkCKCcsCyEgoQEH7LMJ0WbTP9fnqY86puRSNv0/3yVeTPXabMEHwb6DG/gVfktoM7Fgd2XuPYk/ywFxUeMwunTsKXxhMBgxZY9wc/BRDQdO5ENBJlYeoxp6kQdZq0ugKEXJGy+zmfJzvRf22Y3dwztHc4nbWOX/+3NdUPytdzHJ/4u0mcNsJYFw4p1/Sip6UIdXgJHRbTjpe1GVJtbbPJF9ixYbVJdFjs9Yz1RKEKRxxbJWXiFGzCIbDPX7FJA/8hmSvbOrIkCYXrey8EiNBMLmHlFB5o+4ZIvjl1l9MzjuuR+M25FForDulTwPepzHvO5KAOPNqRcLyw0DoOn/aNoNKRoyxLRZYwHwoUmfzKJg90Actjg1a1K4L7+O2jkvVRt+3ALD3/MTKqPWwPKsakog9e0EaH9Q88kEMoSNCp48xLZj7srrkk3nPB3wUCRPoJEh7dPhXmXE9ALCswNt1//lDnBwtWEzQ==;DZ2Pg+vr7Jj+pZVgfBk+fg=="
 ---

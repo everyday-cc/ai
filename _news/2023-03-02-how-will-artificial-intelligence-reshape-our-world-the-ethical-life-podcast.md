@@ -1,20 +1,29 @@
 ---
 category: news
 title: "How will artificial intelligence reshape our world? | The Ethical Life podcast"
-excerpt: "AI has raised plenty of questions about ethics, and it seemed like an overwhelming topic for this podcast. So we deiced to ask ChatGPT this question: \"I am looking for topics for an upcoming podcast about ethics and AI. What topics should I cover?\""
-publishedDateTime: 2023-03-02T13:02:00Z
-originalUrl: "https://heraldcourier.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_a90f9ed4-6a80-560b-b3f7-ddfc0272b117.html"
-webUrl: "https://heraldcourier.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_a90f9ed4-6a80-560b-b3f7-ddfc0272b117.html"
+excerpt: "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other."
+publishedDateTime: 2023-03-02T00:30:00Z
+originalUrl: "https://tucson.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_fadb1a5f-661c-5961-92a1-86efa1b29f24.html"
+webUrl: "https://tucson.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_fadb1a5f-661c-5961-92a1-86efa1b29f24.html"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
-  name: Bristol Herald Courier
-  domain: heraldcourier.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "59oFfjhI3/4g1EbSt96/h1uzoAntBPtlKGDKhQeY3PDNecOA1fOznWWsONFaEJU0yy02+gQlQIyeguVuXHAZ1NljE1w+4AHwsTMNBcBTxwe84o1i1bN3x11+O1OiTP89XV2ZaptKSYxyFAPFF9FVZBBlUB4sq49OBJmkDRMM6YXUpy8NDETMGWEGr2EMOhilMxj3IWV59RUjBSrVd3aRWa363F65igOvV1TpxS2/oKwJ9Wzn4MuYS0hlMeuJ5B2qiMJgwRBuKW+f0pDPv60njAJt8wJrR95khzeEuD8fgfTzhVv45liuF3H5ylZoVJoqhkfDNBPCjkPNekMQLAXNksiUo79ll6XxIVwCEBXh9WKTcZyy0FZirfSHd66s28eV/r8DFIUqzZEywoW7ojVf4a/OwJIgVPnBcOlYBlOaYEk3kgQEkVBGBN8mo/BcOWxxMA/TA/ZeSSh7DPd6yP8+DSehWl84kacY8cMUxrvr260F0It84v4hliCgxTuF2cTQGVz3P5dVpxRjs8AqiQYFGg==;6YTtas2ENFT7VWILl3OfWw=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/f/ad/fadb1a5f-661c-5961-92a1-86efa1b29f24/63ff740179c00.preview.jpg?crop=1116%2C628%2C41%2C0&resize=1116%2C628&order=crop%2Cresize"
+    width: 1116
+    height: 628
+    isCached: true
+
+secured: "thjYFGqiPakKUQfY9NxRBZeC6rHNwhRkQUYaFuLkcHHBj9iD6Gu/flgYkOzTdalEYORLZBWp5CuDi0/5MA2pSHcnx9KsT5U9TEcwLVY0SUK9to8RlIa01Si49Cmiuropy3iI4ouQQ+4YP6FcVUG6JTWn/dxLcdttN55GBkkrCQbF4SX5DopvNkeHIE/nkHluFfcu8ReFtRvy/uf4RgM9fc6PELwfa3asT+1UMqR1E8xC+bszpIucNt27dU17c5ruwEc8sGhDtoZSJV7UDkTsjZG6YYgb6oPpPMtg4QBZpr3LKamBt/CpVokWoSD/cR0dKaJAeaxI9Pzs+nmrC8imcu2mLrxo5DkL9EaWab3QsGc=;2AaPr2Zu+twk5oTssKk1Og=="
 ---
 

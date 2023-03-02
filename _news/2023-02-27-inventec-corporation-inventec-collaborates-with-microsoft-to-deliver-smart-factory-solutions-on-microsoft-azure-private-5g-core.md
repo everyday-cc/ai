@@ -36,21 +36,14 @@ related:
         height: 1043
         isCached: true
   - title: "Red Hat Expands Collaboration With NVIDIA to Advance AI and 5G Solutions Across the Hybrid and Multi Cloud"
-    excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today announced a collaboration with NVIDIA to deliver radio access network (RAN)"
-    publishedDateTime: 2023-03-02T06:35:00Z
-    webUrl: "https://www.albawaba.com/business/pr/red-hat-expands-collaboration-nvidia-advance-ai-and-5g-solutions-across-hybrid-and"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/red-hat-expands-collaboration-nvidia-advance-ai-and-5g-solutions-across-hybrid-and"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/red-hat-expands-collaboration-nvidia-advance-ai-and-5g-solutions-across-hybrid-and"
+    excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today announced a collaboration with NVIDIA to deliver radio access network (RA"
+    publishedDateTime: 2023-03-02T07:22:00Z
+    webUrl: "https://menafn.com/1105689414/Red-Hat-Expands-Collaboration-With-NVIDIA-to-Advance-AI-and-5G-Solutions-Across-the-Hybrid-and-Multi-Cloud"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 41
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-03/image003%20%282%29.jpg?itok=XPACCBv1"
-        width: 960
-        height: 540
-        isCached: true
+      name: Mena FN
+      domain: menafn.com
+    quality: 1
 
 secured: "W8LCW8Umi/EibkMNY30Wn4s/SsvBilYZnBMazS4RSrB+ReBvUwuP9xV0B5UTZvB4bQB9XIEM0/mA14Y82e0s2as+hx2WC+VqThFqAlZ6YClMsMHLCBkBDSQkPLAdUvvbQmjhww+0laluvr/ZKN+RICYVMtPubi07yqf9YbwEsuu64YU3VJvBe4DtyN5VHCz8oEVnVw9gqoYiQVgO+O1hKhlHjb7JLNCAGreAPywzpEIxUxV8DInmWt0pfACVhthuX68HQwxnK7kZApvU5NiGYXjnpd8mGvG/mQzwJHBo6ZgYBf5DKN1G+LID02yX7C/0qrhfct9mgAamDyCfc5NpcHLpOCkpbuq/SjSSadx2SOOqW45A6oxm8EEEU0ET+QeDUFfR00fsf0UqskYIAHiMS61uniOZLr3olNt6zE74jOjZtTqPdu2h2q2kIdlCB0IlzU7SsB4OCO22KbjqD1Nk3brP96ejy5j77k2A70/KdRYgKl4a5PuTWibzbM8rRuHqCD+KKkBzho2zIGnyfui2uQ==;qjbwfcxEfWL9zjKB5O1WZA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html"
 type: article
 quality: 74
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
         width: 930
         height: 571
         isCached: true
+  - title: "Ford patents self-driving car that will take itself back to showroom if finance payments are missed"
+    excerpt: "Ford has submitted a patent that see self-driving cars driving themselves back to the showroom if finance payments are missed."
+    publishedDateTime: 2023-03-02T16:24:00Z
+    webUrl: "https://www.driving.co.uk/news/ford-patents-self-driving-car-that-will-take-itself-back-to-showroom-if-finance-payments-are-missed/"
+    type: article
+    provider:
+      name: Sunday Times Driving
+      domain: driving.co.uk
+    quality: 27
+    images:
+      - url: "https://www.driving.co.uk/wp-content/uploads/sites/5/2023/03/autonomous-ford.jpg"
+        width: 1440
+        height: 897
+        isCached: true
   - title: "Ford plans self-driving car that can repossess itself"
     excerpt: "The soothsayers of Silicon Valley have promised for years that self-driving vehicles will open up new freedoms.It seems, however, that one of the world’s largest carmakers has another use in mind for the technology — one that can repossess itself if a buyer fails to keep up with payments."
     publishedDateTime: 2023-03-01T14:00:00Z
@@ -100,6 +114,15 @@ related:
       name: The Times
       domain: thetimes.co.uk
     quality: 4
+  - title: "Tech layoffs surge past 102,000 in ’23; Google self-driving car unit is latest to cut jobs"
+    excerpt: "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year. These and other cuts boost the number of tech sector layoffs beyond 102,"
+    publishedDateTime: 2023-03-02T12:24:00Z
+    webUrl: "https://wraltechwire.com/2023/03/02/tech-layoffs-surge-past-102000-in-23-google-self-driving-car-unit-is-latest-to-cut-jobs/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 0
 
 secured: "m6HXc42MhjEj68EuIebF5laif3N/jy/gh6s+EOQ9GNW6XJ9pGDJ/NwBv+R3r9A45WikmK9QJr5rvo4LzWjA28M+noPmj+gjAvyKRHV6Jei86VLk2bjSFFKiOc+sQTn+eRGXEAaqPqjgR8PL2F4CXsXd9RXNrZjhgcUDOkBF0MA/RjKGSYpVvwRsSSJS++4QffP8YQkb/uEqALaHFqCNVbi+7c4ZJU7ktKDtQGgzg81aNpwhlW02xghfGsinqmBc0wTZDF20b/Gpt3/oNYoSgEkGvZn/90WKrF5wlbAi+Q8oa0IuyiWU4XgiNYfji6jIhrEKREB4+8cbgLJEXEMNWgPDiAY1GChk15yTBcb6aOng=;UxLwE7I839jKkmFtPSu9kg=="
 ---

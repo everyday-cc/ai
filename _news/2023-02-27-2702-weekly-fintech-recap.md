@@ -66,20 +66,6 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 32
-  - title: "Exploring 7 of the Latest Technological Trends in Fintech"
-    excerpt: "Fintech firms can use both technologies to automate fraud detection and loan origination processes while providing more accurate insights into customer behavior. By leveraging these tools, businesses can cut manual labor  costs while increasing overall performance accuracy and efficiency."
-    publishedDateTime: 2023-02-25T21:30:00Z
-    webUrl: "https://www.finextra.com/blogposting/23806/exploring-7-of-the-latest-technological-trends-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/a4428d07-be55-4674-973f-7b5d26aab3e3.jpg"
-        width: 500
-        height: 375
-        isCached: true
 
 secured: "mDm4RHb/Y/0bO6oBIKHx4X/7zQ+19MUROHYbxaO6v00Qxbkbei9wTf6RBHxaHDvzrYhswWtNBqqNTRpK/hLhxkdmFcmvZs2pnSNE6AfaImzosHvd04/S2ykf3FhIxlsBYcCt6DK9T9hNF8qAFm0+PqroKT8FDJZmOOwKKjE0xyKR/LHjyysziW84fwlvEg2kuvgOtfix708LRz5JEP53lh4H6bJIy73F6qmkYHiaFwGTrv0gnPTdGLTMcDGgQNcx1dF7e/YTnj74z/Z2DP5Ppm8EnsAmSgiMXiYTlFzs1k83PGFIUsf5GlN3x0nGsnuf65DN3s41yklcxpMpS3+vykYfO6IvYMsI0GSfq78YNsVdQk9aBWz8a/zsQkG31bRwbkkviHi9cpVjfPZp0HF4a1UUGzE47T9HsKuGAdxzLfhrL0QEPnJg5uuMcZl7sljcPzsd7580RGFwTI+zKIpuOHKHr0m3efmN2Qz84whaPM2hhcesOyGdgpzirdO3nPzwzFnxUzPtbZZusXVJBGB1Ag==;yVnGPRDMmZWd6aQO5H3a+g=="
 ---

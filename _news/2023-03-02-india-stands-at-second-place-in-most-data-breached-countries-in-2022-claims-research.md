@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T14:02:00Z
 originalUrl: "https://in.mashable.com/tech/48236/india-stands-at-second-place-in-most-data-breached-countries-in-2022-claims-research"
 webUrl: "https://in.mashable.com/tech/48236/india-stands-at-second-place-in-most-data-breached-countries-in-2022-claims-research"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: in.mashable

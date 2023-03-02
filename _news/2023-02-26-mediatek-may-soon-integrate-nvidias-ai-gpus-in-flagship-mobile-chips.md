@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/mediatek-ma
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Nvidia's latest GPU drivers to upscale blurry videos via AI"
+    excerpt: "“With RTX Video Super Resolution (VSR), GeForce RTX 40 and 30 Series GPU users can tap AI to upscale lower-resolution content up to 4K, matching their display resolution. The AI removes blocky compression artifacts and improves the video’s sharpness ..."
+    publishedDateTime: 2023-03-02T13:25:00Z
+    webUrl: "https://glamsham.com/world/technology/nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 34
 
 secured: "QpLxPCTcRGPvXVzkN3NpNcz5cA8l5VxWaIvWWTUAjYUn8Ci/BwbqBWIsMojVrlpYT4KIfAYkY9DGcqz7P66frH91alJNCq201ozmR11NU8LGebDyX9wc96p0VKf/1xvPlwkkEHkxqyV7zST4RXSo3U0b/BE6eoXGrCF+oMcMP0e66fbjg2egRU/wmD45fEH9xzDBDLOzFM5iBFGDNAM/s55MRkaMHnoQeVRmU7OpvKaRmn8g+HvlY8u3PVXmr0T587VU/Ssl4xeEuiYpViq5+tP8JZmT+CBUV609Q0n+6cxX7rZ0rcq/hCfUFvJyN1ghjcC2UTo20y9dwqc+zMQc/JC3SWiaTOm7CKYC6JtRIv+JrbiJZqE8ScMge5aycdi4UfwBQf708TzYd+ua4QQC8+/nyveBJo89tMdHHs4kHwstMUsxXE/w9ovdbTZponDnH/3O/zIsGkMIcO0W5FMbkGX9Es22XUn3sXDbHqVUK/zp9M/qiyz3k6gf4464q4whUdaoOAWc099t8tPZ3dDsKQ==;1+75sc6Yex8/uPTsAB+MkQ=="
 ---

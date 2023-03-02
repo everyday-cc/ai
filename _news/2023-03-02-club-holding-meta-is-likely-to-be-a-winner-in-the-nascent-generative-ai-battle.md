@@ -134,6 +134,15 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Apple Seemingly Restricting Generative AI Apps to 17+ or Older App Store Rating"
+    excerpt: "Apple has refused to accept an update to email app BlueMail that adds generative AI features based on ChatGPT unless the developer gives it a 17+"
+    publishedDateTime: 2023-03-02T13:05:00Z
+    webUrl: "https://www.macrumors.com/2023/03/02/apple-restricting-generative-ai-apps/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 13
 
 secured: "Q8Gdpak0fKpsLPyrlTuYl6LUvtVqLmPv9/w+7nGCstzcCw68SK7kw+7dGlLBAqBCOxU9M/t7efMZ54dsNWXDLYwY5md6UiMTAmaxWbttnToItH3vymXcaEvtKwao/GT5s454/C3sui4YVN83DgPK86hBOxiYn3gbnHt6yn9edBDZ2lfM55N18fHzACgSu5mqv4jU6sEMRwQhtuW4sPAjcHaI/h6dmAQ3Mp48H8Slw/z5rE4e7C2R60K2Us1Wq4cFymegxbqHqFtpPb0RpajVEOi+ef50rZsxx7cbSDgcIjvszdfjsX0drOXg4DXndlodGpNLllrJoflWd9lcz8gkhrQHl47cYoCnxzhQ5l/q64+eZXTgQlpHz73TV8iiGQfSiSeq5+XC65XWyims2Wc8UKjyJfi8NhVcXKB+9s1BCxDF1AULmaAPSo87vqDnNwhFI5MUNI3CEXVXER94+KCdj2DawuICLa9RFaUIZmf8vdbdwDv2R6SWIZiU5sgw/QJa19PVV+Mb64WastGMIMiSHw==;fiePqhmvFVV3IPH/RtZUew=="
 ---

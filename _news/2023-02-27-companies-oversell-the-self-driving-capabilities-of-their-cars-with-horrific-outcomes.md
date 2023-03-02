@@ -125,6 +125,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AAA: Fear of self-driving cars on the rise, new survey says"
+    excerpt: "WASHINGTON - The fear of self-driving vehicles is on the rise. A new survey from AAA shows 68% of drivers say they are afraid of self-driving vehicles, an increase from 55% in 2022. \"We were not expecting such a dramatic decline in trust from previous years,"
+    publishedDateTime: 2023-03-02T13:38:00Z
+    webUrl: "https://www.fox5dc.com/news/aaa-fear-of-self-driving-cars-on-the-rise-new-survey-says"
+    type: article
+    provider:
+      name: Fox 5
+      domain: fox5dc.com
+    quality: 4
   - title: "Companies oversell the self-driving capabilities of their cars, with horrific outcomes"
     excerpt: "This self-driving feature was found to possibly cause vehicles to misbehave when entering intersections or exceed the speed limits, posing a risk for safety. Create an account or sign in to continue with your reading experience. This is just another ..."
     publishedDateTime: 2023-02-27T20:57:00Z

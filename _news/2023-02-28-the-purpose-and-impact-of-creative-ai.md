@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "10 Threats That The Use Of AI Poses For Companies And Organizations"
+    excerpt: "How, when, and why business leaders employ AI technology has the potential to create a wide range of crisis situations for their companies and organizations."
+    publishedDateTime: 2023-03-02T13:32:00Z
+    webUrl: "https://www.forbes.com/sites/edwardsegal/2023/03/02/10-threats-that-the-use-of-ai-poses-for-companies-and-organizations/"
+    ampWebUrl: "https://www.forbes.com/sites/edwardsegal/2023/03/02/10-threats-that-the-use-of-ai-poses-for-companies-and-organizations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edwardsegal/2023/03/02/10-threats-that-the-use-of-ai-poses-for-companies-and-organizations/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6400a62230cdf3c16355cb60/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The AI Disaster Scenario"
     excerpt: "Is it right to freak out? Is it wrong? Will AI end the human race? But also: Aren’t these tools awe-inspiring?"
     publishedDateTime: 2023-02-27T17:14:00Z

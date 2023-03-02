@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T12:58:00Z
 originalUrl: "https://economictimes.indiatimes.com/magazines/panache/sci-fi-meets-reality-at-mwc-ai-clones-to-live-forever-noseprint-ids-for-pets-robots-to-reduce-loneliness/articleshow/98365870.cms"
 webUrl: "https://economictimes.indiatimes.com/magazines/panache/sci-fi-meets-reality-at-mwc-ai-clones-to-live-forever-noseprint-ids-for-pets-robots-to-reduce-loneliness/articleshow/98365870.cms"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Indiatimes

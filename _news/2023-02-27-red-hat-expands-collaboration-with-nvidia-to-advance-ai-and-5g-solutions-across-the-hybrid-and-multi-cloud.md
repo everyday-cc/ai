@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Red Hat Expands Collaboration With NVIDIA to Advance AI and 5G Solutions Across the Hybrid and Multi Cloud"
-    excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today announced a collaboration with NVIDIA to deliver radio access network (RAN)"
-    publishedDateTime: 2023-03-02T06:35:00Z
-    webUrl: "https://www.albawaba.com/business/pr/red-hat-expands-collaboration-nvidia-advance-ai-and-5g-solutions-across-hybrid-and"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/red-hat-expands-collaboration-nvidia-advance-ai-and-5g-solutions-across-hybrid-and"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/red-hat-expands-collaboration-nvidia-advance-ai-and-5g-solutions-across-hybrid-and"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 41
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-03/image003%20%282%29.jpg?itok=XPACCBv1"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Inventec Corporation: INVENTEC COLLABORATES WITH MICROSOFT TO DELIVER SMART FACTORY SOLUTIONS ON MICROSOFT AZURE PRIVATE 5G CORE"
     excerpt: "Inventec, a global leading innovator in cloud computing, wireless communication, intelligent devices, and IoT, announced today its newest industry-leading"
     publishedDateTime: 2023-02-27T00:09:00Z
@@ -52,6 +36,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 5
+  - title: "Red Hat Expands Collaboration With NVIDIA to Advance AI and 5G Solutions Across the Hybrid and Multi Cloud"
+    excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today announced a collaboration with NVIDIA to deliver radio access network (RA"
+    publishedDateTime: 2023-03-02T07:22:00Z
+    webUrl: "https://menafn.com/1105689414/Red-Hat-Expands-Collaboration-With-NVIDIA-to-Advance-AI-and-5G-Solutions-Across-the-Hybrid-and-Multi-Cloud"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 1
 
 secured: "ZXRl8Ry772pGV9+PgffQR0T/mnsXIcP/bt2qvd35H8/kX8cnl1j/a9uxNTOf+Giwnov4WDvzYOT9hI/HL0PZRgdPQ/UI0JhZ2Y/X2cajl0WyfR3gAPH+J3cbkNrDe3DktWR5KjoAWVs9/DUiOP2uLeeK5JjtxbQxrUpJ6/b6+Dig/oM9FHdmhOgo25gqPjhgc2056KnMfPS8Bou5WHF9WO+SFxijGmjeaHcfTUu4iGdJIeACWEySQMEAVGxRqFIEdkl/8MeVIyfXVx2ioSYaOPCIlIKn/v7asgzV4CgZ3u5EyS6YH/uZDkdCnUzurn32E7No6aoATNfUu2AuIvpFJoeO/Rt2bi5Nfj0mUbyG/QI=;tE0T7Y8i2rk9X/B2xUqcpg=="
 ---

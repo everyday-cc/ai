@@ -24,6 +24,17 @@ images:
     height: 768
     isCached: true
 
+related:
+  - title: "When will photographers start owning up to using AI in their photos?"
+    excerpt: "Yet another photographer has caused a stir by sharing AI-generated portraits without acknowledging that they're AI"
+    publishedDateTime: 2023-03-02T13:10:00Z
+    webUrl: "https://www.digitalcameraworld.com/news/when-will-photographers-start-owning-up-to-using-ai-in-their-photos"
+    type: article
+    provider:
+      name: digitalcameraworld
+      domain: digitalcameraworld.com
+    quality: 17
+
 secured: "/yEZ3o0Cp96CZWeKz4iWYXF4cN/gdFrK+7TNubDDxQRLpV8pQpZrKa998RqKDiuDLNpUnRGAEZGUvCzMtZdtBbB6Gk6IS3PrzA7ApdHbldO8XNiElnoRIAJnQ8Yu2pOpNwLm28zJAEh+ursZLYU5rQVotkd4tiLF7+tqWFXZj9PMN/movAkp2P7y5ftJhD9fwxUMPXLbSPASR+iDHNht85acnHlbfQLhit45PQ5sOww4nPmRDRgjUrXN3Vk6/Zgti96N0fSHVyLk7vm2kJGuimJJlCHw4qBSPjuOgP57st2suv9mvc1wvB5Chg1n2QZMzCTV8CbjKYOF7xfP/1WOpzq61l138EstdSl1XpFWi+NVCuKdBMHDnV8bMKC/gQEOfezsFmlxdScNNQ4koJPEeMI3625HfHurIpcIXwUJvP//SXx/HwNwowxfWVi0Zrej4gGv1dUeMb7YVN9Yq0hVbPxAV02oOY1sOVd4df3JQWzCdXlthfkVCrMe3nBnlCyqPsA5Ciqdt4372VMZBr1hew==;B1Z+qQKg8pFyqmEgUVRZEA=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-02T13:01:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/02/hyperintelligent-automation-the-next-paradigm-in-it-evolution/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/02/hyperintelligent-automation-the-next-paradigm-in-it-evolution/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes
