@@ -1,83 +1,20 @@
 ---
 category: news
-title: "Forget Chatbots, This Is How Corporate America Is Really Using AI"
-excerpt: "AI-hungry investors have propelled Nvidia Corp., which makes the chips needed for complex AI computing tasks, into the best-performing stock among mega-caps this year. Relatively obscure firms with AI in their names have also skyrocketed."
-publishedDateTime: 2023-03-02T16:17:00Z
-originalUrl: "https://tech.hindustantimes.com/tech/news/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-71677695312069.html"
-webUrl: "https://tech.hindustantimes.com/tech/news/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-71677695312069.html"
-ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-71677695312069.html"
-cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-71677695312069.html"
+title: "Forget chatbots, this is how corporate America is really using AI"
+excerpt: "Ever since OpenAI's ChatGPT lit up the internet in November, companies can't stop talking about artificial intelligence. Take this earnings season so far: References to AI and related terms during calls with investors are already up 77% from a year earlier."
+publishedDateTime: 2023-03-02T19:15:00Z
+originalUrl: "https://techxplore.com/news/2023-03-chatbots-corporate-america-ai.html"
+webUrl: "https://techxplore.com/news/2023-03-chatbots-corporate-america-ai.html"
 type: article
-quality: 59
-heat: -1
-published: false
 
 provider:
-  name: Hindustan Times Tech
-  domain: hindustantimes.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
 
-images:
-  - url: "https://images.hindustantimes.com/tech/img/2023/03/02/1600x900/CHATGPT-AI-CHINA-1_1677732182977_1677732182977_1677732326164_1677732326164.JPG"
-    width: 1600
-    height: 900
-    isCached: true
-
-related:
-  - title: "‘AI Is The New Electricity’: Bank Of America Picks 20 Stocks To Cash In On ChatGPT Hype"
-    excerpt: "The bank’s 20 plays include Microsoft, an investor in ChatGPT parent OpenAI, and chatbot competitors Alphabet and Baidu."
-    publishedDateTime: 2023-03-01T16:59:00Z
-    webUrl: "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/"
-    ampWebUrl: "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63ff676e1d3c3452f8aa9374/0x0.jpg?format=jpg&crop=4044,2274,x0,y44,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Forget chatbots, this is how corporate America is really using AI"
-    excerpt: "References to AI and related terms during calls with investors are already up 77% from a year earlier. It's no wonder. AI-hungry investors have propelled Nvidia Corp., which makes the chips needed for complex AI computing tasks,"
-    publishedDateTime: 2023-03-01T12:41:00Z
-    webUrl: "https://www.business-standard.com/article/technology/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-123030100958_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-123030100958_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/forget-chatbots-this-is-how-corporate-america-is-really-using-ai-123030100958_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/01/full/1677674444-8776.jpg"
-        width: 620
-        height: 464
-        isCached: true
-  - title: "Artificial intelligence impact will be in the trillions, Bank of America analysts say"
-    excerpt: "Artificial intelligence is about to open trillions of dollars of opportunities in the next seven years, according to Bank of America analysts who say it is at an \"iPhone moment.\" \"If data is the new oil,"
-    publishedDateTime: 2023-03-01T14:30:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/03/01/ai-impact-will-be-in-trillions-say-bofa-analysts.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 27
-  - title: "Artificial intelligence impact will be in the trillions, Bank of America analysts say"
-    excerpt: "Artificial intelligence is about to open trillions of dollars of opportunities in the next seven years, according to Bank of America analysts who say it is at an \"iPhone moment.\" \"If data is the new oil, then AI is the new electricity,\" the BofA analysts ..."
-    publishedDateTime: 2023-03-02T01:38:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2023/03/01/ai-impact-will-be-in-trillions-say-bofa-analysts.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 27
-
-secured: "f/KwrwOPx58tglYsHae/HWNJcNa1p54EwoyR5pEQutzkqLeujBIDGvYRtKPn0BNpb/f9NHo2QK05kDnfexxkB2JsW2sRhjo9Dw2PBikVz6xHAq/tTlfCUTGYR5oH1lJeyO+hzZFHy7htcTUmWdncAcNOhyZx+XPLgMXOoa++g7LlLZpu8YRSueHfs5vGki43q0bKDI749daOHj/IvHtKq9v+DBcGJpVm0evTDEibnJoREM5E8Ba6x828N+kLoYI+OqDOnhtRaSfI3KCX8LbV+D0dDnxaWgwvvHyyEdRCbpCjk8vSluA9mdD3egZFDy04moejSsa2oOilQXAsNyNw2fcjmAmkPrS2lKL51fmNRBQ=;WGMAXqbka9S8EZOA6fGpzQ=="
+secured: "MjgoEL61ogS+m4ua+lRVIubhU8X2GzMFfnHrYskR9rriCYoJPPCGccgSJUrEP07r6n/9JBwylqx7TEDaYL/6+K88Y0LOQvpyXUULTETElX/dVcUUqUY/tg9XtZRl0q7maEPBEaacJTjtNctT+ri+/VRSaQjae9eFpM0kEerkI5QIESySaZM74ivO7XWvE2ritBz0Epj8L4GoW9fSqkcflioosHaSmyiUtT+QpZHN91tm5D8wKtYeaJDRQfprh6b1x5fkpibIpDoqr3hgxi61Bzp22Csj4bGdvQYDT0ybl02Hl9BKf+uiqtAGnSTwQC8bJkPaePUutrZy7DRdCffDaTxs+wkV/oO/xWKtr5l+0Cw69wfPUrdaeQcQflJNrt6ahF+tBPksFqi0Bj75sm+0TrFE9huyRbJmWEgR8io4q7OkaebA1yVcmpFVjFDeRkiKkY30dDBwjpJwYm0NmgkZRG7BWirLJfpv4Gi7/UbhVUV3Xk2Y2rhbrxQHSXMaI6ETsWJmpPWG4xEtt1GDfg2FBQ==;p/QxhOm1gX2XfD/bHxFO0g=="
 ---
 
