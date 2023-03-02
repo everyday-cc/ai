@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/msft-ibm-amzn-3-ai
 webUrl: "https://markets.businessinsider.com/news/stocks/msft-ibm-amzn-3-ai-stocks-that-are-revolutionizing-agriculture-1032137452"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -24,15 +24,45 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "The Future of Autonomous Driving: 7 Top Stocks to Buy for AI-Powered Vehicles"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Autonomous driving and AI-powered vehicles are a growing trend in the"
-    publishedDateTime: 2023-03-01T02:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-future-of-autonomous-driving-7-top-stocks-to-buy-for-ai-powered-vehicles-1032133652"
+  - title: "How Language AI Could Revolutionize Marketing"
+    excerpt: "With artificial intelligence (AI) tools like this in the fold ... like ChatGPT, can translate into other languages in real time. This is just another way this tech can assist content creators ..."
+    publishedDateTime: 2023-02-27T12:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63f8d57ddea4f7c5078ba852/0x0.jpg?format=jpg&crop=3345,2230,x0,y287,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI Could Transform Email"
+    excerpt: "Austin smiles as he demonstrates Japer’s knack for email composition. “These are tools in my tool belt that helped me perform faster, but also better,” he says before sharing that he often uses generative AI to rewrite work emails so they sound like Jerry Seinfeld."
+    publishedDateTime: 2023-03-01T13:00:00Z
+    webUrl: "https://www.wired.com/story/how-to-use-ai-for-email-artificial-intelligence-tips-advice/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
+  - title: "Digital payment systems could revolutionise health care"
+    excerpt: "As managing medical conditions becomes increasingly more difficult in rural areas, technological advances could go a long way in improving access and patient care."
+    publishedDateTime: 2023-03-01T05:07:00Z
+    webUrl: "https://www.eco-business.com/opinion/digital-payment-systems-could-revolutionise-health-care/"
+    type: article
+    provider:
+      name: Eco-business
+      domain: eco-business.com
+    quality: 24
+    images:
+      - url: "https://eco-business.imgix.net/ebmedia/fileuploads/4150943004_e193537d8f_b.jpg?fit=crop&h=801&ixlib=django-1.2.0&q=85&w=1200"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "How Boman.ai is revolutionising DevSecOps, the game-changing tool for effortless secure software development"
     excerpt: "Sumeru Solutions has developed a revolutionary plug-and-protect DevSecOps tool powered by AI/ML called Boman.ai. It can help you achieve DevSecOps in record time."
     publishedDateTime: 2023-02-28T06:03:00Z
@@ -47,15 +77,15 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Using Artificial Intelligence for Aneurysm Rupture Risk Monitoring"
-    excerpt: "Clinicians are leveraging artificial intelligence to measure cerebral aneurysms and stratify rupture risk to enhance clinical decision-making and improve outcomes."
-    publishedDateTime: 2023-03-01T13:49:00Z
-    webUrl: "https://healthitanalytics.com/features/using-artificial-intelligence-for-aneurysm-rupture-risk-monitoring"
+  - title: "Meta to release AI-based language model for researchers"
+    excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
+    publishedDateTime: 2023-02-27T18:04:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/meta-to-release-ai-based-language-model-for-researchers.html"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 17
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "PA0bIB3QpkONsUa77wHWzHphTWt7Qrp0r+Da3gY5tt5K7ZpiGE/UZWSFdqvD3HBTr1pgTcI6JD9ftmhYBib67VzFydQBH5unqqoPYcIWHhaPEoG8vA17VO7UINWGwfFW/vPoCmR6F+wg8X6J8rjZHJRQBAqTT0ojakGxzCmGFtTaQc+r4tBq/wfNhb3V/6nMq4eoyeMUjUNWV1oeZtsH+3CcJE+ChKQ0JZxQEpk0Gx73MbCp6s7LC9H/xVpPsWnZiIrisvXw3iKjgsePBb6HY4lBFj4h7Ab6vDToUxlEf/BP3+Kx7qOvGrL4J2hAqJt2tX5jXogVOARVvwFiNkV6aNz/rEx6II/wrrPoDXwbEsOYsGs4hGqltn87kbE1Zk330ve8LR2QPyTr6Vwnpp9pvsQDJrBR2zWRkFlIPl1O09rqXCvJf+G2yo1UmXwToHr/67896T8xoQphib0G+6VVHkGqVZOdiIqorj91OLAOBQjN5m0B5O/ARvWpdQrWhoZqUcj5ePRPliXpJwoKRKDIPw==;iUrKeXUTf6Go8gOLHjpHhg=="
 ---

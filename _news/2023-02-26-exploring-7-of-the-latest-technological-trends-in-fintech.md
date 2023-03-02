@@ -66,20 +66,6 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 32
-  - title: "Global AI In Fintech Market Is Projected To Grow At A 28% Rate Through The Forecast Period"
-    excerpt: "The Business Research Company's AI In FinTech Global Market Report 2023 – Market Size, Trends, And Global Forecast 2023-2032 LONDON, GREATER LONDON, UK, February 27, 2023 /einpresswire.com ..."
-    publishedDateTime: 2023-02-27T14:31:00Z
-    webUrl: "https://menafn.com/1105659064/Global-AI-In-Fintech-Market-Is-Projected-To-Grow-At-A-28-Rate-Through-The-Forecast-Period"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/updates/pr/2023-02/27/EP_e37dfimage_story.jpeg"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "27/02 – Weekly Fintech Recap"
     excerpt: "Partnerships Western Union and Beforepay Offer ‘Send Now, Pay Later’ Service to Consumers for International Money Transfers Western Union and Beforepay announced a first-of-its-kind collaboration, allowing consumers to boost their cross-border money transfers by accessing reliable,"
     publishedDateTime: 2023-02-27T13:29:00Z

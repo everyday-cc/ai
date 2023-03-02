@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leve
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 32
-  - title: "Global AI In Fintech Market Is Projected To Grow At A 28% Rate Through The Forecast Period"
-    excerpt: "The Business Research Company's AI In FinTech Global Market Report 2023 – Market Size, Trends, And Global Forecast 2023-2032 LONDON, GREATER LONDON, UK, February 27, 2023 /einpresswire.com ..."
-    publishedDateTime: 2023-02-27T14:31:00Z
-    webUrl: "https://menafn.com/1105659064/Global-AI-In-Fintech-Market-Is-Projected-To-Grow-At-A-28-Rate-Through-The-Forecast-Period"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/updates/pr/2023-02/27/EP_e37dfimage_story.jpeg"
-        width: 1024
-        height: 536
-        isCached: true
   - title: "Exploring 7 of the Latest Technological Trends in Fintech"
     excerpt: "Fintech firms can use both technologies to automate fraud detection and loan origination processes while providing more accurate insights into customer behavior. By leveraging these tools, businesses can cut manual labor  costs while increasing overall performance accuracy and efficiency."
     publishedDateTime: 2023-02-25T21:30:00Z

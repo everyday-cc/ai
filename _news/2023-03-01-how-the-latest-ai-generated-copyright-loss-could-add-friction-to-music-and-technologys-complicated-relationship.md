@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/jacquelineschneider/2023/02/28/how-late
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jacquelineschneider/2023/02/28/how-latest-ai-generated-copyright-loss-could-add-friction-to-music-and-technologys-complicated--relationship/amp/"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Forbes
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Artificial Intelligence-Emotion Recognition Market New Updates Drivers, Challenges and Competitive Strategic Window for Opportunities till 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 27, 2023 (The Expresswire) -- Artificial Intelligence-Emotion Recognition Market size is expected to reach Multimillion USD by 2029, In comparison to 2023, at unexpected ..."
+    publishedDateTime: 2023-02-28T10:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-market-new-updates-drivers-challenges-and-competitive-strategic-window-for-opportunities-till-2029-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+4p5rjNKrLxRBsjqD5nzz/RjL/48U5LhWdjPTOrpSOchQEvuYMUi073JJs6i1quiTMdoGcoTf3a/9afyYvwSXbJ37OWe0LJU2ZudUoh5uORr/NwrqAN8OFkyyNfNF4OKWxixXyMmmJhd8FzowlpyZtHduAtptGRrMr51IBnQ1GaOsmV43UqHbg60k7Qp+ZjfIX7aCnKwXpen0l/tURKqwFFTQI2pe10mjCxJLzz4SHv5iuiLtNPpCuZKXVQjb8AxlLRA/i7yV8vm/bJYwTxv5xAKnIA25rS4aDixqq/BkeV6PHoYOAgjTazVHXzpAKkP2X/rIuk0u/9ZZz6gTOEecLDIS9N4AHYUabsoM3L1ajQHxnhyxjVG5js/pdN9YY9nqSdavIzEbNfrMUb5SijDYyg23Dm0gMmqjv9kGxRtIywXdENKBTLEwWRbrJ9aNweyFzI3FtPZal/nVe2rCRpbpX5/nQyr1bS1ZWzQ94AnSqkf1MUNn9+AfXnODvYnIBHLTIdG0Pe5YxDTHHH1nUW/gw==;rlG9bqrvO4t4uT9iLn7ZYw=="
 ---

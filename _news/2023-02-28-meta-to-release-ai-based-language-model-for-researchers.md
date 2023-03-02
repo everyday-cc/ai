@@ -19,60 +19,67 @@ topics:
   - AI
 
 related:
-  - title: "Researchers use artificial intelligence to predict cardiovascular disease"
-    excerpt: "Researchers may be able to predict cardiovascular disease—such as arterial fibrillation and heart failure—in patients by using artificial intelligence (AI) to examine the genes in their DNA, according to a new Rutgers study."
-    publishedDateTime: 2023-02-27T19:05:00Z
-    webUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp"
+  - title: "How Language AI Could Revolutionize Marketing"
+    excerpt: "With artificial intelligence (AI) tools like this in the fold ... like ChatGPT, can translate into other languages in real time. This is just another way this tech can assist content creators ..."
+    publishedDateTime: 2023-02-27T12:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/amp/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 60
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-artifi.jpg"
-        width: 2880
-        height: 4023
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63f8d57ddea4f7c5078ba852/0x0.jpg?format=jpg&crop=3345,2230,x0,y287,safe&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Artificial Intelligence Helps Predict Cardiovascular Diseases"
-    excerpt: "Artificial intelligence approach analyzes genes in patients with cardiovascular disease. The study reveals risk factors linked to heart disease susceptibility"
-    publishedDateTime: 2023-02-28T07:39:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-predict-cardiovascular-diseases-210680-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-predict-cardiovascular-diseases-210680-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-predict-cardiovascular-diseases-210680-1.htm"
+  - title: "3 AI Stocks That Are Revolutionizing Agriculture"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There is a lot of buzz surrounding investing in agriculture AI stocks."
+    publishedDateTime: 2023-03-01T18:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/msft-ibm-amzn-3-ai-stocks-that-are-revolutionizing-agriculture-1032137452"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://www.medindia.net/health-images/adhd-major-risk-factor-for-heart-disease.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "How Doctors Use AI to Help Diagnose Patients"
-    excerpt: "Doctors aren’t relying solely on artificial intelligence, but some are using it to help reach diagnoses or spot risks."
-    publishedDateTime: 2023-02-28T12:00:00Z
-    webUrl: "https://www.wsj.com/articles/how-doctors-use-ai-to-help-diagnose-patients-ce4ad025?mod=wsjhp_columnists_pos1"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "How AI Could Transform Email"
+    excerpt: "Austin smiles as he demonstrates Japer’s knack for email composition. “These are tools in my tool belt that helped me perform faster, but also better,” he says before sharing that he often uses generative AI to rewrite work emails so they sound like Jerry Seinfeld."
+    publishedDateTime: 2023-03-01T13:00:00Z
+    webUrl: "https://www.wired.com/story/how-to-use-ai-for-email-artificial-intelligence-tips-advice/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: Wired
+      domain: wired.com
     quality: 47
-  - title: "Using artificial intelligence and patient medical records to predict Alzheimer's disease"
-    excerpt: "Using data in electronic health records, University of Florida researchers have designed an artificial intelligence system that can predict which patients will develop Alzheimer's disease up to five years before receiving a diagnosis."
-    publishedDateTime: 2023-02-28T14:40:00Z
-    webUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-patient-medical-alzheimer.html"
+  - title: "Digital payment systems could revolutionise health care"
+    excerpt: "As managing medical conditions becomes increasingly more difficult in rural areas, technological advances could go a long way in improving access and patient care."
+    publishedDateTime: 2023-03-01T05:07:00Z
+    webUrl: "https://www.eco-business.com/opinion/digital-payment-systems-could-revolutionise-health-care/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 30
+      name: Eco-business
+      domain: eco-business.com
+    quality: 24
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-artificial-intel-2.jpg"
-        width: 1400
-        height: 1728
+      - url: "https://eco-business.imgix.net/ebmedia/fileuploads/4150943004_e193537d8f_b.jpg?fit=crop&h=801&ixlib=django-1.2.0&q=85&w=1200"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "How Boman.ai is revolutionising DevSecOps, the game-changing tool for effortless secure software development"
+    excerpt: "Sumeru Solutions has developed a revolutionary plug-and-protect DevSecOps tool powered by AI/ML called Boman.ai. It can help you achieve DevSecOps in record time."
+    publishedDateTime: 2023-02-28T06:03:00Z
+    webUrl: "https://yourstory.com/2023/02/bomanai-revolutionising-secure-software-development-tool-devsecops"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 20
+    images:
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagebzg4-1677476865577.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "j01GV9+LuSKJbMD/vfykK7M/JIt/Rjwhfw6Gcm/9uapwsS0mgXr7Miu7Y7l7M3VD7KgSLcNhYPTVS4/cH1hizruf7EDlq7G2b+C8tvT0utH5NarHi4Wafmx6iA5jgBOmhPO4GQXe+y2S8OgxYd2eygCqOV72GmR3yXQ8UxTdfen9JGypvxe8je6kEyMOM6piqLD4cR1hxPzA27/g1y2UJmsYzzKaK2cGAnlvZ0ZjRFco5PZHgUqjtkcgITQwcCZPcC0vASHz18XX61bZQJ+0OXMQN3RVh4BJAAeBeX1lNcghy0GclD2J5UZvnChXP0Gs0wYxG4Zk0nPIWXrTid0beIMk17ssWdWTWTtAf8ONKQU=;sX64bJ8N+SabC4292e1z7Q=="

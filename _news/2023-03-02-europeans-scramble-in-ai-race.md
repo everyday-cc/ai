@@ -1,24 +1,31 @@
 ---
 category: news
-title: "Europeans Scramble In AI Race"
+title: "Europeans scramble in AI race"
 excerpt: "Generative AI chatbots unveiled by US tech firms have captivated the world with their spectacular successes and failures in engaging in conversations."
-publishedDateTime: 2023-03-01T21:11:00Z
-originalUrl: "https://www.barrons.com/news/europeans-scramble-in-ai-race-47faa110"
-webUrl: "https://www.barrons.com/news/europeans-scramble-in-ai-race-47faa110"
-ampWebUrl: "https://www.barrons.com/amp/news/europeans-scramble-in-ai-race-47faa110"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/europeans-scramble-in-ai-race-47faa110"
+publishedDateTime: 2023-03-01T18:09:00Z
+originalUrl: "https://techxplore.com/news/2023-03-europeans-scramble-ai.html"
+webUrl: "https://techxplore.com/news/2023-03-europeans-scramble-ai.html"
+ampWebUrl: "https://techxplore.com/news/2023-03-europeans-scramble-ai.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-europeans-scramble-ai.amp"
 type: article
-quality: 37
-heat: 37
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
+  - AI in Robotics
   - AI
 
-secured: "B7DwJkJZabqFKdzT92dJNtQZvc8p0jYvXT/eKewYQtfhGDUrE7ynlTxyww408kbFYxfZU6tViqV1rD6zFXoK/VJZcpz3Jp11kA3l89dDMqoEy91kgINR1j0Q7VxERu6xj7WcuV/BVR5gwgbWko1HF1wdgJ3tZNRN6EkA8eyzPkmmbpdpr3gFV9gyNNfZcCwlJgcCzg2nZDCnP6vlHaucV/kzA9kcvoShO9b7GROXAmKP4wywJZ6WTz/aMAEIerQw3P/XPOlLJ97GQDaSMR+5mZkqZjc4PJyUTtNplKZ4Bi8yT6m2naCA7CrvM1Yt4NOXGupbPgl+/pdtedYKHHstXrFHOyJjpEZhUnlmnDxlmZU=;8SWyMBd2F8yJUnHJBiDtRA=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2023/artificial-intelligenc-17.jpg"
+    width: 1024
+    height: 681
+    isCached: true
+
+secured: "EYQNvLk6D4kI2ehqVi8fplwYxXrZZ+6BqUSJr6upZSUj6JbbwqaXIEWeynaEeLRlCcxhDJ/Oi/iGJepMLy9ioMK6NqceBgl6oUJpXwAflGRds2kicCtnbXnMO7hGQPQdMBfQVCBTzlRgnyrppORatobSRP9gwHpNjQAcEC1pva3kGOkGGnsRGX3DsnsxbwbB209SCjS22SoDqMKe1gif/igHX1modDYzLXW6R0ybV2KSgFUhlccNcRAeHK/iyzB1dIMU3WuYA5wlnyrTJZd1lrRayUbAHO125Ed4CgX9/FORli+8sMgrw2fKXWSHhjI1bC92uy8GGf3Knc0zNY47cQFsU/jMVmRUkWcCYBge5CA=;M8z5cwpyzYPPUbk+EHDK7Q=="
 ---
 

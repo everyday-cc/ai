@@ -29,20 +29,94 @@ images:
     isCached: true
 
 related:
-  - title: "The Role of Computer Vision Software Market 2023: Business Developments and Strategies by 2029"
-    excerpt: "New 115 Pages Report] A Recently published “Computer Vision Software Market” Size (2023) research report offers"
-    publishedDateTime: 2023-02-26T11:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-role-of-computer-vision-software-market-2023-business-developments-and-strategies-by-2029-2023-02-26"
+  - title: "Face Recognition Device Market Size 2023 with Business Development, with Competitive Landscapes till 2028"
+    excerpt: "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future"
+    publishedDateTime: 2023-02-27T16:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Software Market (New Insights Report) By 2023 which is Booming Strong Growth in the Globe till 2029"
+    excerpt: "Face Recognition Software Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Information & Communication Technology] category in the industry, by Type ("
+    publishedDateTime: 2023-02-27T02:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-new-insights-report-by-2023-which-is-booming-strong-growth-in-the-globe-till-2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vehicle Speech Recognition System Market Size is Anticipated to Grow and Reach Million during the period of 2023- 2028"
+    excerpt: "Feb (The Expresswire) -- \"Vehicle Speech Recognition System Market\" research report New Comprehension 2023 |Qualified Report Spread Across|"
+    publishedDateTime: 2023-02-27T07:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-size-is-anticipated-to-grow-and-reach-million-during-the-period-of-2023--2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Phone Market Size, Assessment, Key Factors And Challenges By 2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Facial Recognition Phone Market\" Report covers specified competitive outlook consisting of the market proportion"
+    publishedDateTime: 2023-02-27T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-size-assessment-key-factors-and-challenges-by-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+  - title: "Data Science and Machine Learning Service Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
+    excerpt: "Data Science and Machine Learning Service Market ” Size 2023 Top Key players Profiled in the Report are (Banking, Insurance, Retail, Media and Entertainment,) most important, influential, or successful companies,"
+    publishedDateTime: 2023-02-27T04:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Growing Demand for Image Recognition Market 2023 [New Report]: Revolutionizing the Manufacturing Landscape"
+    excerpt: "BrowseImage Recognition Detailed TOC 2023, Tables and Figures with Charts which is spread across 125 Pages that provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2023-02-28T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-growing-demand-for-image-recognition-market-2023-new-report-revolutionizing-the-manufacturing-landscape-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market International Business Analysis, Development Outlook and Regional Strategies 2029"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- [118+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Machine Learning Market” Size 2023 Key players Profiled in the Report ..."
+    publishedDateTime: 2023-02-27T14:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-international-business-analysis-development-outlook-and-regional-strategies-2029-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
 
 secured: "lwTQGX0UuiHHN0EmWsGKO8OT9crHvbh/3Fa7RY/3z6tX1kmovW2/U30/xtW9YfNCNGYQ3N4zfzFQkWfRwP+YbDgjc/2OPICHuYZzQSGMZu4a90MrtmndqZv2vFTGRHjP7NXgnMR1wPmsTDFVEN23S4Oe/WKodAwphshH7cFGh05bQK6Ikx9QzWZPcwQ+Xda+LxsDMVRfuSPbf7Ph1PLJ+uByeJ4vNgf0k6Z3wjVx4NSI9Y2yOXy5WKXknu6CeCbvKZHcvjHW02Tjq6nfQDnLMoHWFOERl/h8ud/mQbI8gNoo6etrXxNjMw69nwSx9GwnF8bwMpHOSxMS6pcxhdNCe385tZqVOvaOo2zP/ZgfA9I=;Pt6GEXk5rwgC7dpzuOdEaQ=="
 ---

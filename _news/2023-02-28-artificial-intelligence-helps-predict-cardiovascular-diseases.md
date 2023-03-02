@@ -66,15 +66,6 @@ related:
         width: 1400
         height: 1728
         isCached: true
-  - title: "Meta to release AI-based language model for researchers"
-    excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
-    publishedDateTime: 2023-02-27T18:04:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/meta-to-release-ai-based-language-model-for-researchers.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
 
 secured: "1gPlLNcbfJhz64NT4P1EYcxBc2q4IER4lT1i9eLNxcfYaCdNOlhgNC3ZHvzRHITed3vAm9oe2IdAJsF6AwIqhT6SQjkERQTiBWY/k7WzyCfHZLH5azXbxcy+CXHkQKv6E6NRzcnGTtzumzthFodJorRWEIFBLU3WKmiSXaOIs5q3+r9GuDfAfX9lbUUjp8LJqF/lSRvWf8AJZJlrxkN5hrx3D6dgzaia+4PGS9U7qOHBSfsGAWBcfLr3XJnkvnmD9BaLfTG265ZvkxCgvNILa3j24eWMWDVZgtUOY/LJmNFy4B3Sc8XTf3/C59Cy88GWNeOfPlj7xMKhvRUilvLNYPAOxHzKMrF8haSVEhPCfjE=;lia01M0Ud75Y8P66c9lfbQ=="
 ---

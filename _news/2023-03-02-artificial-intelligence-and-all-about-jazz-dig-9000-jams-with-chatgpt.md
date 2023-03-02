@@ -430,15 +430,6 @@ related:
       name: AFP
       domain: afp.com
     quality: 16
-  - title: "Jasper AI Is A ChatGPT Alternative With No Waitlist And A Chrome Extension"
-    excerpt: "ChatGPT it making news everywhere lately. It has caused some concern for apparently being \"too smart,\" and its addition in the latest Bing beta ha geenrated some interesting results, to say the least."
-    publishedDateTime: 2023-02-25T18:19:00Z
-    webUrl: "https://hothardware.com/news/jasper-ai-chatgpt-alternative-no-waitlist-chrome-extension"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 15
   - title: "AI News roundup: Elon Musk working on ChatGPT rival, Snapchat eyes slice of AI pie, Zoom's AI integrations and more"
     excerpt: "Elon Musk is recruiting Igor Babuschkin, a researcher who recently left Google's parent company Alphabet's AI unit, to develop an alternative to ChatGPT. The tech billionaire has approached AI (artificial intelligence) researchers in recent weeks to form a new research lab for it,"
     publishedDateTime: 2023-02-28T13:28:00Z
@@ -449,6 +440,6 @@ related:
       domain: moneycontrol.com
     quality: 0
 
-secured: "u2ur0XTqezbzWlIcWzEWWnjZWXsiTcUY66xc/B0y7XPbDC6IpwaKj6xn0LcPcV8vqN9xdUPGCJ5Ik0bm113WGULhJshkpLxzooEb1jb7rvQbwSgmlMqpDr4JngGzLsUxoBei/AdahOfQFJ0Awe85fZP3ou4inik29Gh41X7WvzjGTYzrG0r1XMZTE8YLl29ObZpFNUy4bTGDo5/iblwuunKv/DlHwb3BmxShYFxM4LMONTj6hRFcDVANQ3VxyKP/8N9Z3ChmPF05CxvetNa5YJj80xdSB0SHgo5O/KmljOC1r9M+BEAk+xVEnYpKIkeEVdqlidFWhQGGqaDKFKTj6LyZJYkZ9l/S/L2yJljmdUo=;9irW+rMbgloA/MFBqsrF3g=="
+secured: "+k8o20oIKcy8QUsYOVIsQ9YuVz4qwGQA1j1WknvF5gsOF50YwH3jirssAIstKYXd4cKHFuBd5iSj5GkEPjB7TGg7fTV4pTL9FLIgcjN9b3BSw9VPjU3oVnJktO9dxs74oRe4KwuhCzbOdXvzdma0mh53aaFPVMV9VOpQvWejZ/EQbmjHLDpnzNL/OEbchov/MZgvjTk3X9YxmW9iyBbK8cTMV7XAL8bu7+zrMFLr9w0eRI9i/D6E6D/EKNInry0iyK9Na6IMD/2QxW9V2WMj6PYhMXv8VtBhoHRzKACtvf2C34jy9GaDJlwCrMagdeEGeIXNUQy0VJdDd1wTuego7oEMEX1UssDszK6gOx1TgUUhfab8Z4XMp8NiblnFPTuUyOsWZw85Qm19Dk7AFtsuyU1XY8sMKohFs4qEBsUHv7SoWpnQoogI66uNOw/k9KY452FAGaHWR4Lzas0K9zGkUwAoDgj0sJgiSR9IMoWe2w7kuDSywv5Mis0CFNDoInrWxkVFCdOPSnuNriUv7hjlLg==;Ad9H7bkm9HPwptIimDMTaA=="
 ---
 

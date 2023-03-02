@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market Growth Research Forecast 2023-2028 | 113 Pages Report"
+    excerpt: "The Report on “Artificial Intelligence (AI) in Healthcare Market” Research 2023-2028 covers all the essential aspects"
+    publishedDateTime: 2023-02-27T16:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growth-research-forecast-2023-2028-113-pages-report-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2028 Acute Coronary Syndrome (ACS) Market 2023 Artificial Intelligence, Innovations, Sustainability Updates"
     excerpt: "The “Acute Coronary Syndrome (ACS) market“ is set to experience magnificent growth in the coming years, with a"
     publishedDateTime: 2023-02-27T03:30:00Z

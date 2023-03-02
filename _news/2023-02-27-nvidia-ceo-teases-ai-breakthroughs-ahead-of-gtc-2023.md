@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why Nvidia CEO Jensen Huang says this is generative AI’s moment"
-    excerpt: "But Jensen Huang, CEO of Nvidia, said that generative AI is expected to create a significant opportunity that will accelerate later this year. Nvidia’s stock price rose on the opportunity, and Huang noted how generative AI will be front and center at its ..."
-    publishedDateTime: 2023-02-25T18:19:00Z
-    webUrl: "https://venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/"
-    ampWebUrl: "https://venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/amp/"
+  - title: "NVIDIA Report: Telco Transformation Requires Artificial Intelligence"
+    excerpt: "The theme of the event is telco transformation – as it has been for some time. Clearly, the evolution of telcos is"
+    publishedDateTime: 2023-03-01T22:02:00Z
+    webUrl: "https://www.eweek.com/networking/nvidia-telco-transformation-artificial-intelligence/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: eWeek
+      domain: eweek.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/12/image4.jpg?w=1200&strip=all"
-        width: 1200
-        height: 637
+      - url: "https://www.eweek.com/wp-content/uploads/2022/11/best-data-virtualization-tools.jpg"
+        width: 1400
+        height: 700
         isCached: true
 
 secured: "G4PcXhK/z3WxVqUBdY8fJH9wv7u/BhkmVN5C2sMiBQqlE8rMXuT7husEYRkzZBT93L46AfVZ395zHK81g7Yl2LQ9MGL8+urzPKvMJ9uoGV1NvYZQxg/rBdyIN0zdVpXx788Pzfj/b/Cp0cpm6Er5DtKC89TH74L4P2/5MwFvduQFpUXNsfjIhYcsSrqQtTInWVnmfUWOJdYhK4XSlmXPaafotUh/Trv2zX2TUBLRQwjtPZ9mwRiW6JQadHofYFQBu7ueXeINCS1HzbRacOEfSLkq1McTYaV2auf+PJk6UmfQAX2Yf9ibpobbkpDI70TWUzO2FHaPX69TyRHsUSxxioymNj0BPAqMcc29oLqJDUT7wPLU/P5jeiByXKI240paw+UDLuUBaUOf4if6vQ3D6kHU9gDb3AY/QZ1zPwYmI2qN3ZkZ6vDQm+3tBxEEqsvebZyDU50zUEaU0EphN5+9sWp/0ZOyb0xfg+pbdzrmVG49dT+spe6Fg/Fom/pOfTlPXNUcGnYU8E8DC/Iu6TOPTQ==;je4R7mPQjyCazOrmwC3bDQ=="

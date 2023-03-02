@@ -436,15 +436,6 @@ related:
       name: AFP
       domain: afp.com
     quality: 16
-  - title: "Jasper AI Is A ChatGPT Alternative With No Waitlist And A Chrome Extension"
-    excerpt: "ChatGPT it making news everywhere lately. It has caused some concern for apparently being \"too smart,\" and its addition in the latest Bing beta ha geenrated some interesting results, to say the least."
-    publishedDateTime: 2023-02-25T18:19:00Z
-    webUrl: "https://hothardware.com/news/jasper-ai-chatgpt-alternative-no-waitlist-chrome-extension"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 15
   - title: "AI News roundup: Elon Musk working on ChatGPT rival, Snapchat eyes slice of AI pie, Zoom's AI integrations and more"
     excerpt: "Elon Musk is recruiting Igor Babuschkin, a researcher who recently left Google's parent company Alphabet's AI unit, to develop an alternative to ChatGPT. The tech billionaire has approached AI (artificial intelligence) researchers in recent weeks to form a new research lab for it,"
     publishedDateTime: 2023-02-28T13:28:00Z

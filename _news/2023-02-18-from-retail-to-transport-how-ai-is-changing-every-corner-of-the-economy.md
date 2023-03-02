@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i.guim.co.uk/img/media/7d4ea277e7a3c997568af1139384d3c11ba66c5c/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=59db4d7663f4f50f43c99bc626131a7d"

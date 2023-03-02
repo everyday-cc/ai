@@ -22,22 +22,68 @@ topics:
   - AI
 
 related:
-  - title: "AI could help NHS surgeons perform 300 more transplants every year, say UK surgeons"
-    excerpt: "Researchers have secured £1m to refine method of scoring potential organs by comparing images"
-    publishedDateTime: 2023-03-01T05:00:00Z
-    webUrl: "https://www.theguardian.com/society/2023/mar/01/ai-could-help-nhs-surgeons-perform-300-more-transplants-every-year-say-uk-surgeons"
-    ampWebUrl: "https://amp.theguardian.com/society/2023/mar/01/ai-could-help-nhs-surgeons-perform-300-more-transplants-every-year-say-uk-surgeons"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2023/mar/01/ai-could-help-nhs-surgeons-perform-300-more-transplants-every-year-say-uk-surgeons"
+  - title: "How Language AI Could Revolutionize Marketing"
+    excerpt: "With artificial intelligence (AI) tools like this in the fold ... like ChatGPT, can translate into other languages in real time. This is just another way this tech can assist content creators ..."
+    publishedDateTime: 2023-02-27T12:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 51
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://i.guim.co.uk/img/media/49f18d95ee312d52afb66e7b7b150bedf8f4fdbb/0_186_5568_3341/master/5568.jpg?width=620&quality=85&auto=format&fit=max&s=65724c863c61459c18797b1d2d1963c3"
-        width: 620
-        height: 372
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63f8d57ddea4f7c5078ba852/0x0.jpg?format=jpg&crop=3345,2230,x0,y287,safe&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "3 AI Stocks That Are Revolutionizing Agriculture"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There is a lot of buzz surrounding investing in agriculture AI stocks."
+    publishedDateTime: 2023-03-01T18:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/msft-ibm-amzn-3-ai-stocks-that-are-revolutionizing-agriculture-1032137452"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "Digital payment systems could revolutionise health care"
+    excerpt: "As managing medical conditions becomes increasingly more difficult in rural areas, technological advances could go a long way in improving access and patient care."
+    publishedDateTime: 2023-03-01T05:07:00Z
+    webUrl: "https://www.eco-business.com/opinion/digital-payment-systems-could-revolutionise-health-care/"
+    type: article
+    provider:
+      name: Eco-business
+      domain: eco-business.com
+    quality: 24
+    images:
+      - url: "https://eco-business.imgix.net/ebmedia/fileuploads/4150943004_e193537d8f_b.jpg?fit=crop&h=801&ixlib=django-1.2.0&q=85&w=1200"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "How Boman.ai is revolutionising DevSecOps, the game-changing tool for effortless secure software development"
+    excerpt: "Sumeru Solutions has developed a revolutionary plug-and-protect DevSecOps tool powered by AI/ML called Boman.ai. It can help you achieve DevSecOps in record time."
+    publishedDateTime: 2023-02-28T06:03:00Z
+    webUrl: "https://yourstory.com/2023/02/bomanai-revolutionising-secure-software-development-tool-devsecops"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 20
+    images:
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagebzg4-1677476865577.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Meta to release AI-based language model for researchers"
+    excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
+    publishedDateTime: 2023-02-27T18:04:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/meta-to-release-ai-based-language-model-for-researchers.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "uZNBuYo+N05Rc0JCzS5UzqYl3NcgboluN7dOLG1ubJbNBpBk1jJ2U/Rqn2sSRCnRck500rH55TVkVsCmxSkEoWu6nyqVYgRldrfwHpBZJcVDvQdLIE98AomR9MuH9CpyAiUtPvQfn9VBgKCQp9jPjAOb5ZCaC2PfeCQ5i1DjAUAZhJJi44q7mBRLIhujwmsel6A5xxi3WLYt9kIWKYdLxNJzG3Ygzh21f7SSiVI5H/3cXgJCeXRGMTd1xCc4I8OCcRqLfRQPofMUHbt3hHURzpM+mMn5yrfCTtwA/Xe7kazLQGpERJKI1iP9Bo5q7/lGbgqTV2VDfyuTVyNM12vMaZR85k0j+h53I2qUfNQm2FoSAtJKvkY8Xt/r0Z3FTnbDJ5skb6ciaDXm95YUG/nYK9a7krXqKbMm6kVM3Am+0Oi2LuLBZn7BcxmhoNuKysw5r8y4Ihj9DSe8bUTzlD3O4DmwSXesAnoqlQMgcvQenARgcL4ehTarmjvaS9g5D0WaN+DMWBZq8bF+XGjNiU5nbg==;mh/C5W4liczn5U180PeBcQ=="
 ---

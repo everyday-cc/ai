@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105648056/From-Saving-Millions-To-Saving-The-P
 webUrl: "https://menafn.com/1105648056/From-Saving-Millions-To-Saving-The-Planet-AI-Is-Transforming-The-Oil-And-Gas-Industry"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Can Artificial Intelligence Help Cool the Planet?"
+    excerpt: "To some activists, ChatGPT seems like a useful tool for the climate movement. But skeptics warn that the benefits are outweighed by the costs—including misinformation and increased emissions."
+    publishedDateTime: 2023-03-02T10:00:00Z
+    webUrl: "https://www.thenation.com/article/environment/chatgpt-artificial-intelligence-climate-change/"
+    ampWebUrl: "https://www.thenation.com/article/environment/chatgpt-artificial-intelligence-climate-change/tnamp/"
+    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/environment/chatgpt-artificial-intelligence-climate-change/tnamp/"
+    type: article
+    provider:
+      name: The Nation
+      domain: thenation.com
+    quality: 57
+    images:
+      - url: "https://www.thenation.com/wp-content/uploads/2023/02/cover0306.jpg"
+        width: 385
+        height: 513
+        isCached: true
 
 secured: "DdOv9GpL4Jyo/AK3X4mttqxzApGFaPCMUFVeHioBLT7c61BD73mbAmuyZhvCkQkvmk5uGrXcr0+v13WQL2w7J6iAq531jMgPLzzY4HuM1xVB0KJaJtIrqvKbplqTz2EgakHOzZh+iZVMfIJFN6+rHMtFc+1C1z+Kuf1RJnNkgyplCUvaY+/Is1vOM4UX2Tv0jvOdo0IrdRo63eAhWzrn0CYGceQ6bAicgxzqTh4HXy/hYkwqViw6bIedTsmzQGuuX0zX+XlMNKOKdaFpTv9F9Wru6QC60okBgrksVFCnk3FqKKOifKTF5HuPstdaf3Vzg63T56W/nuYpAbq0NhIHbkL3ZnFJcutoOudLdB6CZaJMauAArYJ+OluPD4DiHs8yQnnKkdv3OVv+pF4G78e2aEMhti3sLJPVNdZTDE+qayozeytufeuGnJ2lEGvfE06v2GCIEwoXJdGIqEyWPjdBLeY5LGXnLBqYV+WT1Np1AQlQRiRvH4C4B+9o4Kcoklv1qrvKIycyAgkb6Ktk4QgaHA==;g++TkEBjwRH/YC9ENC0Kzg=="
 ---

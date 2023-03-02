@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-02T06:24:00Z
 originalUrl: "https://www.israel21c.org/the-startup-nation-ecosystem-embraces-generative-ai/"
 webUrl: "https://www.israel21c.org/the-startup-nation-ecosystem-embraces-generative-ai/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://static.israel21c.org/www/uploads/2023/02/shutterstock_2248618607_by_SuPatMaN_-_COVER.jpg"
@@ -101,6 +102,22 @@ related:
       - url: "https://images.livemint.com/img/2023/03/01/600x338/ai_1677696815878_1677696844097_1677696844097.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "Can AI chatbots 'with a brain' replace customer service reps?"
+    excerpt: "Companies hope the conversational bots will reduce the need for human operators.  Can they become smart enough to handle the job?"
+    publishedDateTime: 2023-03-02T10:00:00Z
+    webUrl: "https://www.newsday.com/business/chatbot-chatgpt-1-800-flowerscom-egc-aigo-huuokjdn"
+    ampWebUrl: "https://www.newsday.com/amp/business/chatbot-chatgpt-1-800-flowerscom-egc-aigo-huuokjdn"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/chatbot-chatgpt-1-800-flowerscom-egc-aigo-huuokjdn"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 57
+    images:
+      - url: "https://cdn.newsday.com/ace/c:MTAyZTRmYmMtMDhlYy00:NmY4NWUw/landscape/1280"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xsM7UcfNMNTSvu0FdQuRRVL5Y9kVpXZbdu7MJU8KkZlFBJHucdK1NUA2xGTXJ2HuF8iepJqHzkIVVUKBV1COEPznbxrYyxZnMzQGXMh9LrP6Dpwqs+IZTRAr6VgZ5nU8AoQUHGETiE9v+TrRJ2X5tzNFvLMdqqYNaBGGyJWoYbwvIyN5YBhyQoGvdcpMTTcb5gMGvJz6KgF/3o9mgeRE/a+rbNBEIyhnLZgzjWTJ8K1or2InYboMwStKfOpnG3kFBnFb/kUql0oFkLuLqVKzi9BuU2WX/xyvDjn1YV9r5H6qjRnl6stCyZTOmaNaYa1Tz6NdTCIMiZ8r+ya3O9oDa9VNFXwz8jz222Ooysis0M0=;odUKXqneSxGyJTM/glohcg=="

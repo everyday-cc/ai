@@ -92,6 +92,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Can AI chatbots 'with a brain' replace customer service reps?"
+    excerpt: "Companies hope the conversational bots will reduce the need for human operators.  Can they become smart enough to handle the job?"
+    publishedDateTime: 2023-03-02T10:00:00Z
+    webUrl: "https://www.newsday.com/business/chatbot-chatgpt-1-800-flowerscom-egc-aigo-huuokjdn"
+    ampWebUrl: "https://www.newsday.com/amp/business/chatbot-chatgpt-1-800-flowerscom-egc-aigo-huuokjdn"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/chatbot-chatgpt-1-800-flowerscom-egc-aigo-huuokjdn"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 57
+    images:
+      - url: "https://cdn.newsday.com/ace/c:MTAyZTRmYmMtMDhlYy00:NmY4NWUw/landscape/1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Startup Nation ecosystem embraces generative AI"
     excerpt: "At the nascent stages of a revolution that will touch every aspect of life, many of the first companies using this powerful technology are Israeli."
     publishedDateTime: 2023-03-02T06:24:00Z
@@ -100,7 +116,7 @@ related:
     provider:
       name: Israel21c
       domain: israel21c.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://static.israel21c.org/www/uploads/2023/02/shutterstock_2248618607_by_SuPatMaN_-_COVER.jpg"
         width: 1600

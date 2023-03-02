@@ -439,15 +439,6 @@ related:
       name: AFP
       domain: afp.com
     quality: 16
-  - title: "Jasper AI Is A ChatGPT Alternative With No Waitlist And A Chrome Extension"
-    excerpt: "ChatGPT it making news everywhere lately. It has caused some concern for apparently being \"too smart,\" and its addition in the latest Bing beta ha geenrated some interesting results, to say the least."
-    publishedDateTime: 2023-02-25T18:19:00Z
-    webUrl: "https://hothardware.com/news/jasper-ai-chatgpt-alternative-no-waitlist-chrome-extension"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 15
 
 secured: "lu/1cP9fKS48/E/tlYOlvCx33m1MrrTNCks/FQZoYsgOsIo1k/cR4fZR3kgtA8DDXmBgS+MebINemfbJvJWyL8kOpvaICG0jyXaDdQ84Uo8mbjmYs6k1DrmHvair40hKexVMLREUYrOPw7x+MlrGUfa1wBEabo87fHe7ZJX7PHB0hZQHar5ys0BoY/oZsT/pPvlUKMUeHsGKUA75CSsaCn9+7ftXpV8460Eyz3p+sB/K1y4DWpkbUMtC5SutxwtHNKMnN3pbKICs3hwAARSpsRsnt/+ZhFNWGyDL1EiTvaVLrWUpnfP4OZKBhnTx2oPYH3dc5YIekg9+mCUimSXtDWequNLbV2fgSmLCuZBTfRxQp0FeXc8T8lRiU6iCsHpy32+ISF/EuuM4A4l7D82vuRRVfdJ+O9SFSJw8Zjb4HirHTu8D4TFdmMVFcYmB3tF1loIKoGOhlgCvcru7BoRlwbVj2KwxUBVEz1QHnIt+KqEF8OzYih9eJXBesDz7Ntr3YvL3bsQ80S/M68rthk2aNQ==;CoV7UtECE7xoGWWX392ZAw=="
 ---

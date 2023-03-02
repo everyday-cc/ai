@@ -66,15 +66,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "Meta to release AI-based language model for researchers"
-    excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
-    publishedDateTime: 2023-02-27T18:04:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/meta-to-release-ai-based-language-model-for-researchers.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
 
 secured: "dpdcv/KN3oKAX6jo0Uog0tsqwu7Ed4XAJol2ACKGyBFWRAc79XEdyEW5mdqkEDRPQMidm5HCRGTCxX7l3T36RMSdOmoqI8MqqSo4EKUBDpNS4mXwXehz6DTQRKHaibEgvrh6buyZ367vIPkQvMdAdq6Lhh6wUzqEFwpeTnqVRInDro8VNMIIBMSu4NanGEyBcZI1zVH44Lva+CkYYlGgQp2yhniz6aHGbvS4jLaDH+vK+VFl+XmjL6ItGO3tVwqGtqX4yRdvZgep5HHZL/EJQturltxKEexJ6qZgSODc8q9PePeb8D2a9TTrQNO9xhbtFCvETSmjiTgNkGVharE5WDJVTPzSXKLgBtakHMVO/cMmE/B/m3NOJygl+/GKfRx0DaR1sRipXILQUZSOZ/6WXJ3rk4rda1H1/YgXEfY/tfJtTXHLFx6vQ+IiHpWW0nXTmBT8u3rSRAhB07ZPW8zjywzMMpY8INPqDS6I4J56gf+gPAHv57xV0ZTKu/QsROK/gpNJN5nyo5qBz+WrrErIAw==;AhSaiajX1dky589rLVh1Uw=="
 ---

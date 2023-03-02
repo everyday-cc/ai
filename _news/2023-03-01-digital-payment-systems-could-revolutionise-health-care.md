@@ -7,7 +7,7 @@ originalUrl: "https://www.eco-business.com/opinion/digital-payment-systems-could
 webUrl: "https://www.eco-business.com/opinion/digital-payment-systems-could-revolutionise-health-care/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,65 @@ images:
     width: 1200
     height: 801
     isCached: true
+
+related:
+  - title: "How Language AI Could Revolutionize Marketing"
+    excerpt: "With artificial intelligence (AI) tools like this in the fold ... like ChatGPT, can translate into other languages in real time. This is just another way this tech can assist content creators ..."
+    publishedDateTime: 2023-02-27T12:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63f8d57ddea4f7c5078ba852/0x0.jpg?format=jpg&crop=3345,2230,x0,y287,safe&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "3 AI Stocks That Are Revolutionizing Agriculture"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There is a lot of buzz surrounding investing in agriculture AI stocks."
+    publishedDateTime: 2023-03-01T18:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/msft-ibm-amzn-3-ai-stocks-that-are-revolutionizing-agriculture-1032137452"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "How AI Could Transform Email"
+    excerpt: "Austin smiles as he demonstrates Japer’s knack for email composition. “These are tools in my tool belt that helped me perform faster, but also better,” he says before sharing that he often uses generative AI to rewrite work emails so they sound like Jerry Seinfeld."
+    publishedDateTime: 2023-03-01T13:00:00Z
+    webUrl: "https://www.wired.com/story/how-to-use-ai-for-email-artificial-intelligence-tips-advice/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
+  - title: "How Boman.ai is revolutionising DevSecOps, the game-changing tool for effortless secure software development"
+    excerpt: "Sumeru Solutions has developed a revolutionary plug-and-protect DevSecOps tool powered by AI/ML called Boman.ai. It can help you achieve DevSecOps in record time."
+    publishedDateTime: 2023-02-28T06:03:00Z
+    webUrl: "https://yourstory.com/2023/02/bomanai-revolutionising-secure-software-development-tool-devsecops"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 20
+    images:
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagebzg4-1677476865577.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Meta to release AI-based language model for researchers"
+    excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
+    publishedDateTime: 2023-02-27T18:04:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/meta-to-release-ai-based-language-model-for-researchers.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "EY3TTSzxz5QGbwC4TO5JKkStbtRplbyAQpegHnGqatE4JO70pn2kEjz2sjzIpyp1nEoRw/rluBvLjEsXrj2Osf4ZhDhP02zprAFOPxHUC78hu4GGMPpf9KYwriYK6e7v8KNAC4BJ1+LmQ9alN4euLbElWMHGnwbp5clRYTgl5hd+Xu5wouRxkCnHBikNpIsCLc+wqAQt7uyO0ODeLXGLs76IHixRp/18GHhtK0CbJk730eVKX3NHM7ieUhhMsNcfr64LbiTMvz7AgOOkM38HOO2oAxz0R/HYI3QIj0XH5M6WMcwvMd5BSh+psm3vFLZ+A63Ff83i4Qvsvq1JMJJe1POZy2uFziZt8j15pqoZ7clna0P3yMbJ5L44i8FlxCyflyJWH3VRsbdvJIk4CaSZag1b8CSvxd3jho5jDLSuu3pPiqEHHtIywBw7X170zh3Qo02HV2vQ9wtFhWjbV1ohI9Q0VO+/8p5E4SVFbya1tjzCutn7WwNbKPTr+RGZ90RumAcZskeiRy+gfL8Iw96jqA==;AImDwB1HEUS9OCP4m4odVg=="
 ---

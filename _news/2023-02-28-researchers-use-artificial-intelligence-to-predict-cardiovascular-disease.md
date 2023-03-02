@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp"
 type: article
 quality: 60
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
         width: 1400
         height: 1728
         isCached: true
-  - title: "Meta to release AI-based language model for researchers"
-    excerpt: "Meta CEO Mark Zuckerberg said the company has tested and will soon release its own AI-based language model to researchers."
-    publishedDateTime: 2023-02-27T18:04:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/meta-to-release-ai-based-language-model-for-researchers.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
 
 secured: "blK35LLyXvrN3ymMXCpbJQeVQgzPm/KwrJx/4V7yd3/+i/q15KgD5DkQ3DjKoWv+t89FauH7YDDdE8MU8aLS2rGaMoB+QQqB+RQQZtCtnjVwdg78od5Atwh0bRjv5sb1LmG9uzqTpzwx17u1ibMa8kp+b9FtiPwgrwb0/px2SA137nkcBKJMvYFGdu9aZVhRxNdjDrvZ868YJ97aDrKQHyAjF5Bc255vTaEIkjnRYhzgSBIwRk+nk0HLdnsRCXYkUy/xjv9UsI/Art+GMzd8+dhXNAPN8HHNX6O2Nt6Ck3hx5Hzq2Y0GeebamfnXEwYlRTwUEv7PtRwxUPc/3/AzmUMsQH4GV/Y+SPr3yzTkMO7LIYYiInt1pzQhn4HNjx8zLuT1bIXzxgz4pLhJ2tsL0oi5+9M/RQ/sqdNWoaoLUGisGSpAmIEc3migX4HYQVigUeDRWpXv6L9vcerRG0ttnoPRJtEbMTvtsvQm9D1CMljawzZ/8q7UUea7eCVwnCcDfM1NmiK90M8oXeQmecFPiQ==;bi5+hkH9Is8ozx5OvE36WQ=="
 ---
