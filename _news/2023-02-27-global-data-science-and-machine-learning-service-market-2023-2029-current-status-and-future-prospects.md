@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
-    excerpt: "DUBLIN, Feb. 27, 2023 /PRNewswire/ -- The \"Japan Deep Learning Market By Offering (Hardware, Software, and Services), By Application (Image Recognition, Signal Recognition, and Data Mining), By ..."
-    publishedDateTime: 2023-02-27T10:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31064687/japan-deep-learning-markets-competition-forecast-and-opportunities-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31064687"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31064687"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Speech Recognition Market Booming With Rising Demands and Massive Opportunities, 2023 - 2029"
     excerpt: "Speech Recognition Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Semiconductor & Electronics] category in the industry, by Type (Speaker Dependent,"
     publishedDateTime: 2023-02-27T02:18:00Z

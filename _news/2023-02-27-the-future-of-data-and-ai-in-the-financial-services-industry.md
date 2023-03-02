@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chips Industry Goes All-in On AI"
+    excerpt: "But an industry long associated with volatility is quietly getting excited that artificial intelligence (AI) could be the key to some longer-term stability. US firm Nvidia dominates the market in specialised chips known as GPUs,"
+    publishedDateTime: 2023-03-02T10:51:00Z
+    webUrl: "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103"
+    ampWebUrl: "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chips-industry-goes-all-ai-3673103?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://d.ibtimes.com/en/full/4427030/enthusiam-artificial-intelligence-within-microchip-industry-palpable-mobile-world-congress.jpg"
+        width: 768
+        height: 510
+        isCached: true
   - title: "How is AI significantly changing the Fit Tech industry?"
     excerpt: "Did you know that the global market for fitness tech expects to reach $29.4 billion by 2023? With the industry’s exponential growth, the need for innovation and differentiation is more pressing than ever."
     publishedDateTime: 2023-02-26T03:39:00Z

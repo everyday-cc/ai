@@ -89,6 +89,20 @@ related:
         width: 1000
         height: 567
         isCached: true
+  - title: "AAA: More motorists fear riding in self-driving vehicles"
+    excerpt: "More drivers this year are afraid of riding in a self-driving vehicle than last year, according to a AAA survey. Sixty-eight percent of drivers are afraid of riding in a self-driving vehicle, up from 55% in 2022,"
+    publishedDateTime: 2023-03-02T11:20:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2023/03/02/aaa-more-motorists-fear-riding-in-self-driving-vehicles/69961816007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 24
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/04/19/PDTN/ca64c3d1-49bc-451b-8a16-698043c50ab7-BIZ-AUTO-TESLA-AUTOPILOT-DMT.jpg?auto=webp&crop=2122,1194,x0,y106&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Ford files patent to allow self-driving cars to drive away from their owners"
     excerpt: "\"Every time the owner is in the vehicle\" the system can begin to play an \"incessant and unpleasant sound\" The vehicle will warn its owner in stages and strip-back functionality before driving away. Initially the system will target minor features like ..."
     publishedDateTime: 2023-03-01T15:01:00Z

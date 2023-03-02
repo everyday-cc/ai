@@ -75,22 +75,6 @@ related:
         width: 638
         height: 422
         isCached: true
-  - title: "Artificial intelligence stresses me out, says Elon Musk"
-    excerpt: "Musk appeared to confirm via Twitter reports that he is recruiting a team of AI technologists to build a competitor to OpenAI's text-based ChatGPT, backed by Microsoft Corp."
-    publishedDateTime: 2023-03-02T04:58:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/artificial-intelligence-stresses-me-out-says-elon-musk/articleshow/98352592.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/artificial-intelligence-stresses-me-out-says-elon-musk/amp_articleshow/98352592.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/artificial-intelligence-stresses-me-out-says-elon-musk/amp_articleshow/98352592.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-48874,msid-98352902/elon-musk-ai.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Elon Musk recruits team to develop OpenAI's ChatGPT rival - The Information"
     excerpt: "Elon Musk has approached AI researchers in recent weeks about forming a new research lab to develop an alternative to OpenAI's ChatGPT, the Information reported on Monday, citing people with direct knowledge of the effort."
     publishedDateTime: 2023-02-28T18:42:00Z

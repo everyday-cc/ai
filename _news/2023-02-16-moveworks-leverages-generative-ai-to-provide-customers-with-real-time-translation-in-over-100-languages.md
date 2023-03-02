@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Moveworks Leverages Generative AI to Provide Customers with Real-Time Translation in Over 100 Languages"
-excerpt: "Moveworks, the leading conversational AI platform for the enterprise, today announced that it now provides on-the-fly translation in over 100 different languages for its employee support virtual ..."
-publishedDateTime: 2023-02-16T14:11:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages/article_7340349a-da4e-5369-b90a-708fd4ce1c0f.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-languages/article_7340349a-da4e-5369-b90a-708fd4ce1c0f.html"
+excerpt: "Moveworks delivers state of the art machine translation by combining some of the world's most advanced generative AI and large language models — including OpenAI's GPT-3, Google's RoBERTa model ..."
+publishedDateTime: 2023-02-16T14:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/02/b30942337/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-lang"
+webUrl: "https://www.benzinga.com/pressreleases/23/02/b30942337/moveworks-leverages-generative-ai-to-provide-customers-with-real-time-translation-in-over-100-lang"
+ampWebUrl: "https://www.benzinga.com/amp/content/30942337"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30942337"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "SRPw8WXIbvCLBQZzOneadY2bJckeT5kX+0H+/wH+k95ciNZ+0xZbpVACZsY33lPBF1iKGGf0YcQ2CTzGPUPoGwx2PXm8Q+aDXMB5nPi7uZY2f6lruR7J2hFTZe0V+i666XtKrGdsCQvMeIrDVMJwmymEeMNSW4XGuIkkDY/DbXE1KEPwKzRTzR+4DjtAuGCFblatfkTJ5RQUEEnIdqVv+L6XkVDx8o+PJJKjvq9Mo+qAAun45cNcv43fPk+BeWGp/93LWd+TuWXFpd1tHpNPUPdQODBsZ1hsUbzrXCSObze5+3cKuLFmmPErmqCYcPQ1+x9kM8MGjK8zqlf1qZOWlk6885MhAMlcILv4ynTPWwE=;PhOxJDcVczFfozS/xHb7vQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "QA++zfZpBJufrgQ9fnHUt7VhDgSyX//SKwkpKsx81y0Dm6+YKVOFQMKth9/3B8zo8WWIqGOuHtgA/tFc5vmwHwuP3vstj6FyaKDez4XVAtp9Sa+/mgzKWQo7gEdGFIu2Xr3DMfnlkORr6JN2Nc64+ZlR5pkm2ZMlIvi9Whh2QL9uGOYGk+BphxiB/JyTsKAeTVxMHsbnBT+csj3Z4tsc0+M4vY7KuQBQJkzeM+MsQ2Sv5SuQUACmF8KZ0H1s4/fCh5BHqP8xLcOtoXQYzelvdo/fIl4HTdxQYt4qig0BQDXvIR5YyE6pt1/I5wsdJF+wFH+xtJW/gNukjE0lf0sm9FjIzjlMWT7ZFmE8WjwENTE=;tesXlWYu4HzgUTkZp8mPxw=="
 ---
 

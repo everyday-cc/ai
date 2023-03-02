@@ -67,22 +67,6 @@ related:
         width: 638
         height: 422
         isCached: true
-  - title: "Artificial intelligence stresses me out, says Elon Musk"
-    excerpt: "Musk appeared to confirm via Twitter reports that he is recruiting a team of AI technologists to build a competitor to OpenAI's text-based ChatGPT, backed by Microsoft Corp."
-    publishedDateTime: 2023-03-02T04:58:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/artificial-intelligence-stresses-me-out-says-elon-musk/articleshow/98352592.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/artificial-intelligence-stresses-me-out-says-elon-musk/amp_articleshow/98352592.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/artificial-intelligence-stresses-me-out-says-elon-musk/amp_articleshow/98352592.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-48874,msid-98352902/elon-musk-ai.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Elon Musk Assembling Team to Develop ChatGPT Rival, Held Talks With Former DeepMind AI Researcher: Report"
     excerpt: "Tesla and Twitter chief Musk has been recruiting Igor Babuschkin, a researcher who recently left Alphabet's DeepMind AI unit, the report said."
     publishedDateTime: 2023-02-28T04:43:00Z

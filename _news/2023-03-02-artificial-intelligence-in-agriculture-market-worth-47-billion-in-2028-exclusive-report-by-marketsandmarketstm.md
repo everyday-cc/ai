@@ -526,6 +526,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 21
+  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
+    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2023-02-27T12:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Cognitive Services Market Size 2023 Trends, Growth, Type And Application, Manufacturers, Regions And Forecast To 2026"
     excerpt: "(MENAFN- The Express Wire) Global Cognitive Services Market Industry In-Depth ... Top Manufacturers (Microsoft, Expert System, SAS, AWS, Ipsoft, Nokia, Fusion Informatics, Apple, Baidu ..."
     publishedDateTime: 2023-02-26T23:02:00Z

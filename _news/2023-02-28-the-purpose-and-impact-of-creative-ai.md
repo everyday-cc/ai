@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -90,6 +90,15 @@ related:
       name: The Art Newspaper
       domain: theartnewspaper.com
     quality: 23
+  - title: "The 10 most innovative companies in artificial intelligence of 2023"
+    excerpt: "A ranking of the most innovative companies in AI, including OpenAI, DeepMind, Nvidia, Builder.ai, Voxel, and others"
+    publishedDateTime: 2023-03-02T07:00:00Z
+    webUrl: "https://www.fastcompany.com/90846670/most-innovative-companies-artificial-intelligence-2023"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
 
 secured: "EEirq4RMXuF9uwcIUzEzUPLIzmk9NeA9E7TQYnCwW8eLUjX/0MKVU1b92gd4/oSgrcBbIW89RIwI/vhBpFcGg3ICr/iCrmTrICSi3FvFeYdRiyZf1ClFBEUrbIO1KwEMr7Z3+g4FsXkw9jApQMXLGs1v3znYklToeZqYe8gnuNW1F/3vie8refOH/oVvQ5sJn9nboq405oxMwtbdtu0lNl7k6O5T2gxLixsmnLzoVH6Sh8XjjqXOSUqKgMQ3ZSyep/CHBKanfVQSOEBQfMO3K+a+E5V5fmVy5HplPKgGaZ9WpABMKiW54SXul0Gr40hIjFbIMgyFKInP6OulGmjfo+Khey/JQylHYzp9p7yGaTaut674o3duO5CbgKt5wKsSJl4bSbpcKVOrPB6ga//N4cduvEalSRYyN/LFk+MC2iiBUdcbJ8jegLJgxgm05USB50BBAcZpTQgxKy0bXKLZAMYRT4zNdb0UM/HjLvuzSQk8NmSRHAizkb1i6g8m2bJ5i48uachld1R1n1rIvL5Q4w==;GyaFIzwjwaN2McnoomMvCw=="
 ---

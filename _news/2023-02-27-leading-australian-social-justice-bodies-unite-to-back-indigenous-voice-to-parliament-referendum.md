@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Watch the Australian Army Use Telepathy to Control Robot Dogs"
-    excerpt: "The mere thought of controlling a robot is good enough for the Australian Army. In a new test, the land force has paired with a host of technology researchers to use telepathy to control robot ..."
-    publishedDateTime: 2023-02-25T19:39:00Z
-    webUrl: "https://www.popularmechanics.com/military/research/a43044989/australian-army-uses-telepathy-to-control-robot-dogs/"
+  - title: "For Australia, there’s no wisdom in walking away from Solomon Islands"
+    excerpt: "Australia can and must do all it can to maintain pressure of the Sogavare government to minimise China’s control in Solomon Islands."
+    publishedDateTime: 2023-02-27T17:30:00Z
+    webUrl: "https://www.smh.com.au/world/oceania/for-australia-there-s-no-wisdom-in-walking-away-from-solomon-islands-20230227-p5cnte.html"
     type: article
     provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 39
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 24
     images:
-      - url: "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2023-02-23-at-7-15-13-pm-1677197731.png?crop=1xw:0.9139504563233377xh;center,top&resize=1200:*"
+      - url: "https://static.ffx.io/images/$zoom_0.36979450994402757%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_45%2C$y_25/t_crop_custom/q_86%2Cf_auto/t_smh_opinion_no_age_social_wm/060555993fcd7f1fee27e8f9cec13817a7c03561"
         width: 1200
-        height: 600
+        height: 628
         isCached: true
 
 secured: "KW25ZrKgO/45bTggBNZdY+7tf9A1WmCav+eBbA39ssFjYG83Yzg5BvIbIsOfBZ+xF6MpiwOm1bu3HgxyyjEEoEegOIqokR73t1YNqo5bWT2u2wCy2MHESpcOK9jiIJkuurnX+dvkfW5r6+ULkCms8Wsm3/+gmetezNT9AGFnUAUBpslTt4JWiJnS7GGHOz+eeeItVUZZmlZ7fB5yBQvPTiJ+fwkUV1cCocJbIzDlRl27ZVY886/UXOS6AMioHnkjt4icu4mZTJmnbzluMMc94oPcPv6eeQ3oRjgUntcXaBugfUCy3MI0fORg/P+f4+WO811m8PLpj5npezaN52qZMFzTdUOgHNtRpp77TUGyJ8mK49q2OAtofuJcaORhKztyXwktUHczO2j2tlhS6u/8/60huFV9khBU5suvIlEmOSQzCm6vsNiUGfZOOYy2FkMqSZAZ2ox7T7RVJkch0hxYiGLkZQUxzxUEl+3LkM2x/z5gpPiN6EOFt4l3YlEcsR/kOoA6EyJICZySRuCyLvU/Cg==;lrhXhPbnJcRNSL/BYtDJtg=="

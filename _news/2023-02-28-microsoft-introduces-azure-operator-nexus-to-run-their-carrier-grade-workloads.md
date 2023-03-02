@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Now Microsoft has a new AI model - Kosmos-1"
+    excerpt: "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ..."
+    publishedDateTime: 2023-03-02T12:47:00Z
+    webUrl: "https://www.zdnet.com/article/now-microsoft-has-a-new-ai-model-kosmos-1/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/now-microsoft-has-a-new-ai-model-kosmos-1/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/now-microsoft-has-a-new-ai-model-kosmos-1/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 106
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/9eb542dc5da1385a63f904e78ed20e49a61400bc/2023/03/02/a4df13d7-83f2-4e04-a21e-6699b494d00a/working-at-pc.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Azure expands its telco solutions"
     excerpt: "Microsoft announced features for telco's using its Azure cloud services: transformation, automation and AI, network-aware applications and \"ubiquitous computing from cloud to edge.\""
     publishedDateTime: 2023-02-27T23:27:00Z
@@ -290,6 +306,20 @@ related:
       - url: "https://www.marketingdive.com/imgproxy/2VcpDEawlm1498rKC3S7gsBFK_IK5pwONO68FOBNDuo/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDQ3NDkwNDAuanBn.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "Microsoft's new AI chatbot has been saying some 'crazy and unhinged things'"
+    excerpt: "After Microsoft's powerful AI chatbot verbally attacked people, and even compared one person to Hitler, the company has decided to rein in the technology until it works out the kinks."
+    publishedDateTime: 2023-03-02T10:01:00Z
+    webUrl: "https://www.wwno.org/npr-news/2023-03-02/microsofts-new-ai-chatbot-has-been-saying-some-crazy-and-unhinged-things"
+    type: article
+    provider:
+      name: WWNO
+      domain: wwno.org
+    quality: 52
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/22e6425/2147483647/strip/true/crop/3587x1883+0+254/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F02%2F27%2Fgettyimages-1246872792_custom-d675966801679c4455b339ba77f991896fea5aa8.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "New Windows 11 update puts AI-powered Bing Chat directly in the taskbar"
     excerpt: "Microsoft is adding support for Bing Chat and the other \"new Bing\" features to the Windows taskbar as part of 2023's first major Windows 11 feature update. Microsoft Chief Product Officer Panos Panay announced the updates in a blog post released today."

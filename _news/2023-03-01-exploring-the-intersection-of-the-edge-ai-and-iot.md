@@ -89,6 +89,15 @@ related:
       name: The Art Newspaper
       domain: theartnewspaper.com
     quality: 23
+  - title: "The 10 most innovative companies in artificial intelligence of 2023"
+    excerpt: "A ranking of the most innovative companies in AI, including OpenAI, DeepMind, Nvidia, Builder.ai, Voxel, and others"
+    publishedDateTime: 2023-03-02T07:00:00Z
+    webUrl: "https://www.fastcompany.com/90846670/most-innovative-companies-artificial-intelligence-2023"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
 
 secured: "HC8OF7lujdAKN7Rte8iIsmbVGK4TIlvVcutquan6Gkk/FfyF1+BGWjGU4S19/nwQTfca7yov1P4pFtakQ5hFJkpRIsmu3pvgpFq7ekm+KgxwsP517GxSpcQmxW1cJGtJPSFMpJBC1+vuMEBmR6aIavKJoRsHBP4iWevbJYOqnccUo2HX0FloLX7/rOkumTbRahGWSICxPOyudjHZ6D5LKVfufxXjrhvMW59QFUy2QV91THuS9X8LzHW+nujj6cLVqZAUM0VcPrBBmi8j68DYXrioen2Cl3CxEet9Jv/fnZXshm/lGoseF2TyM7205N7yTN12BAjwmfajcnIB5WcubF0jWSvnZIyLCmaIGUIMeF6TkzjkG+jR5D2w99sd+dLP82stkFjGqVmBkb6XB8SKUrJvvwMYwcdhO7rbSKPP4/g4yn8jm0xtwfXwGPO3jm5ieR3spz6h9Vib8yRCsgdpK1OfyqO0VRW/+/S0uTmm4wiRuGkffgnSzP7uQ6v9gNWaHPmeSwRn3xs+IpIsQeeL1A==;tX8iLcTW/NTCfM3wAn/5Wg=="
 ---

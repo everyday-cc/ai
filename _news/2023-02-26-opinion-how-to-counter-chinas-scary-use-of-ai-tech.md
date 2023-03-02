@@ -7,7 +7,7 @@ originalUrl: "https://www.latimes.com/opinion/story/2023-02-26/us-china-artifici
 webUrl: "https://www.latimes.com/opinion/story/2023-02-26/us-china-artificial-intelligence-uighurs-surveillance"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Opinion: How to counter China’s scary use of artificial intelligence data"
+    excerpt: "Nowhere is the competition in developing artificial intelligence fiercer than in the accelerating rivalry between the United States and China. At stake in this competition is not just who leads in AI but who sets the rules for how it is used around the world."
+    publishedDateTime: 2023-03-02T12:45:00Z
+    webUrl: "https://www.eastbaytimes.com/2023/03/02/opinion-how-to-counter-chinas-scary-use-of-artificial-intelligence-data/"
+    ampWebUrl: "https://www.eastbaytimes.com/2023/03/02/opinion-how-to-counter-chinas-scary-use-of-artificial-intelligence-data/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/03/02/opinion-how-to-counter-chinas-scary-use-of-artificial-intelligence-data/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 56
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2023/03/OPED-CHINA-AI-TECHNOLOGY-COMMENTARY-GET-1.jpg?w=1024&h=930"
+        width: 1024
+        height: 929
+        isCached: true
   - title: "OPINION: 3 simple reasons the Voice will make a difference"
     excerpt: "It's been over two decades since our last referendum to change the Constitution. This year's referendum is a once-in-a-generation opportunity that lies in the hands of the Australian people, writes Indigenous Australians Minister Linda Burney."
     publishedDateTime: 2023-02-28T03:33:00Z

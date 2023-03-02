@@ -511,6 +511,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 23
+  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
+    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2023-02-27T12:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Artificial Intelligence In Agriculture Market Worth $4.7 Billion In 2028 - Exclusive Report By Marketsandmarketstm"
     excerpt: "The ai in agriculture market is projected to grow from USD 1.7 billion in 2023 to USD 4.7 billion in 2028; it is expected to grow at a CAGR of 23.1% from 2023 to 2028 according to a new report by MarketsandMarketsTM."
     publishedDateTime: 2023-03-01T18:26:00Z
@@ -540,6 +549,6 @@ related:
         height: 250
         isCached: true
 
-secured: "QRSacSmNZmT9Hl/MjyujBqAdWcWpIAlwAb2GrxHHQSMGtScjDgpF5/Ss1ThNHM/lnWosIVohKevaiifnJzgL2/2olt6HPib763Gqn/vSbw4BlhreXu852kKIYy4fcFv+jb3InPvwypoqLhlDV5Et2Ifcp/us1QROPrEXM4CquQFaSvaWp3aFJJ5yxT65upHMnM28kd0ixR3TCU90k7wyaY6HsIe8LOU9FN0PE8DEqZQ144ro/hND4XvATZba+b5UJVxz9aRaQ97jQ4Td1ckL/H75NIG4yWSMtTkio9Xmh/EFPqcNVuNXvq94EBjtuOm3ooUxNSZSLkwxla0Uw+ySYeOBALG+6VfUiVQ2QvcU+60=;89wVVxUukALzztQHFy5lsw=="
+secured: "FEBXZbPXBY8QxizyOtN1e8DUYbdCqkxI6DXtmqG3eRs9f+yZsawG0I6ab1ev2NZB3O8C13v1LRMaYMsjc5AcpqGFIuBYHEcMpTTvkl2a842/wIHqf7LQVOYIK5p9R6Gr9b1IsmUe6+OQ6okgnoKkPijWl0xixO8lnWAfadupKCaa6eh4VI++6vXdGZgw+XuJjFoRcnwL6EFL8vDrUkekuxSe6XVIag3z80yH6DsB8y57kIY33zVFFZcxkQmzs7beNaAwnhuf7ggCAw4Uob1Qz2hLw1jw67Blb7mMKzprQhfRwhNpIHTZBtF3F1DlVq/Ir7jOPFpgfRA5ZsPcAWsBxJVOKvqaeDSXgrSZDKseY5o=;5UAiXcbxCWgtZe71UnktZg=="
 ---
 

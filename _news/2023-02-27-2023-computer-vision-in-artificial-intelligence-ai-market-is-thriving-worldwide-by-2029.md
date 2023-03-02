@@ -128,6 +128,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Future of Artificial Intelligence and Machine Learning Market by 2029: Trends and Predictions"
+    excerpt: "The recently published Artificial Intelligence and Machine Learning Market Report, spanning across 119 pages, provides"
+    publishedDateTime: 2023-03-02T08:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-and-machine-learning-market-by-2029-trends-and-predictions-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Role of AI-based Surgical Robots Market 2023: Business Developments and Strategies by 2029"
     excerpt: "New 99 Pages Report] A Recently published “AI-based Surgical Robots Market” Size (2023) research report offers"
     publishedDateTime: 2023-02-27T15:07:00Z
