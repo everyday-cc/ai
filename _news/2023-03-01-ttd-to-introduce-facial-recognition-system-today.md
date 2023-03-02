@@ -20,20 +20,6 @@ topics:
 
 related:
   - title: "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition"
-    excerpt: "They say you can have anything you want in life if you dress for it. According to the makers of these anti-facial recognition garments, that includes privacy. These sweaters, masks, glasses, and makeup tips will scramble the algorithms and dazzle your friends."
-    publishedDateTime: 2023-02-25T12:00:00Z
-    webUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5962a488996ecd92c5b806c0c89f5c0a.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition"
     excerpt: "I hate to break it to you, but a world where your every move can be tracked using facial recognition has gone from science fiction to an everyday reality. Facial recognition is common at airports ..."
     publishedDateTime: 2023-02-28T05:02:00Z
     webUrl: "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/"
@@ -64,20 +50,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/3/2/w600X390/IGI_facial_.jpg"
         width: 600
         height: 390
-        isCached: true
-  - title: "US Air Force experimenting with facial recognition on drones"
-    excerpt: "New Scientist magazine has found a contract between the US Air Force and a defence firm that shows the government uses reconnaissance and surveillance drones equipped with facial recognition to aid in special operations missions. It would appear that these ..."
-    publishedDateTime: 2023-02-28T10:21:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/56412-us-air-force-experimenting-with-facial-recognition-on-drones"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/bc84d79d282a65f1ffb605ed78a6844c_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "US sparks fear of assassinations with new AI-powered facial recognition tech"
     excerpt: "The United States Air Force has developed new facial recognition technology powered by AI, sparking fear of remote assassinations."
@@ -134,20 +106,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
         width: 2048
         height: 792
-        isCached: true
-  - title: "Anchorage Assembly member wants to ban the city from using of facial recognition technology"
-    excerpt: "Oftentimes, facial recognition algorithms and the databases they use end up having inaccuracies,\" said Assembly member Joey Sweet."
-    publishedDateTime: 2023-03-01T23:00:00Z
-    webUrl: "https://alaskapublic.org/2023/03/01/anchorage-assembly-member-wants-to-ban-the-city-from-using-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Alaska Public Media
-      domain: alaskapublic.org
-    quality: 29
-    images:
-      - url: "https://media.alaskapublic.org/wp-content/uploads/2023/01/IMG_7718-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
 
 secured: "hJNdcoH3FZRaFJg2VVgoY+CVqdDjO4tK7q+GWMQXtGLsdYcvwgAT9BmrMLH60GfwU8Q/2qX9Ow9yEwHvkjlTFdxxA8bVJeHdU1KhAn1k1H3IPYpwCGGUZQExTTWOLyQIvz2opgCKd9cPkTsHba5BNdnj+dPXI/MVNKW/0eVocOg9Si4bixRTj4FeDAAqHPovBuWDsXjc1trNGS2xOwmaDPgiTotgIIgwQMQTzZ2fatV9gtAhg7i3YlR+BNDV/n0e3l3eVQnBMHbhTP5QoVaDaLLdIOWE3pDafXF7mzfKIEcRhIctsoxbE7Zm0FyGRejS+RcbNQ5zfTkU0ZiVziKfwPAomw3oUzSUeR9xgQ7CvsUOibdpSnZeDtUsLNcCgTq+BBbiAZSftWhY3mRNSUsDvIHGskYl+cTRrosHdTguGaGogiC07HJc8rVT9VUpJ15Q3ZeBGNhDIowSrqNAKtUB/TwCk5dTO1GdW6BMD5mNiNwlK7QqV3Uo4H/uc1c9wP04tC8HxDDpyorJ+HsHa9A9Vw==;lR3M9IPAtbnGxCESQovqQw=="

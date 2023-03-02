@@ -2,6 +2,430 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2023-01-10-c3ai-bear-with-this-company-as-it-executes-a-turnaround.md",
+      "title": "C3.ai: Bear With This Company As It Executes A Turnaround",
+      "excerpt": "C3.ai has kicked off a business model transition to convert its contracts into consumption-based pricing and away from subscriptions. See why AI stock is a Buy.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4568926-c3ai-bear-company-executes-turnaround",
+      "originalUrl": "https://seekingalpha.com/article/4568926-c3ai-bear-company-executes-turnaround",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1219304976/image_1219304976.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-federal-regulators-investigating-elon-musks-full-self-driving-new-years-eve-tweet.md",
+      "title": "Federal Regulators Investigating Elon Musk's 'Full Self Driving' New Year's Eve Tweet",
+      "excerpt": "The NHTSA wants to know what Musk meant when he tweeted about disabling driver alerts on Tesla's \"Full Self Driving\" driver assist system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/business-news/fed-regulators-looking-at-musks-full-self-driving-tweet/442568",
+      "originalUrl": "https://www.entrepreneur.com/business-news/fed-regulators-looking-at-musks-full-self-driving-tweet/442568",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1673332382-GettyImages-492682174-tesla-fsd.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-deep-learning-expert-says-gpt-startups-may-be-in-for-a-very-rude-awakening.md",
+      "title": "Deep Learning Expert Says GPT Startups May Be in for a Very Rude Awakening",
+      "excerpt": "\"The current climate in AI has so many parallels to 2021 web3 it's making me uncomfortable,\" François Chollet, an influential deep learning researcher at Google and the creator of the deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/deep-learning-expert-gpt-startups-rude-awakening",
+      "originalUrl": "https://futurism.com/deep-learning-expert-gpt-startups-rude-awakening",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2023/01/deep-learning-expert-gpt-startups-rude-awakening.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T23:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-this-lawsuit-against-microsoft-could-change-the-future-of-ai.md",
+      "title": "This lawsuit against Microsoft could change the future of AI",
+      "excerpt": "With ChatGPT, artificial intelligence and what it can do is suddenly all the rage. But an intellectual property lawsuit against Microsoft could undermine the future of AI before it gets off the ground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.html",
+      "originalUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/09/lawsuit-judge-law-court-decision-sued-100614065-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.amp.html",
+      "publishedDateTime": "2023-01-09T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-cognitive-systems-spending-market-comprehensive-shares-historical-trends-and-forecast-by-2026.md",
+      "title": "Cognitive Systems Spending Market Comprehensive Shares, Historical Trends And Forecast By 2026",
+      "excerpt": "The global cognitive systems spending market is experiencing numerous technological advancements permitted with exceptional features for several industries, especially in the banking sector. Cognitive systems with high-definition technology can help in determining the world’s most composite data analysis difficulties by entering into the complexity of exploiting the power of big data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2023/01/10/cognitive-systems-spending-market-comprehensive-shares-historical-trends-and-forecast-by-2026/",
+      "originalUrl": "https://www.fmiblog.com/2023/01/10/cognitive-systems-spending-market-comprehensive-shares-historical-trends-and-forecast-by-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2023/01/Chemistry-4.0-Market-420x300.jpg",
+          "width": 420,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T22:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-global-edge-ai-chips-market-size-2023-research-report-by-growth-rate-analysis-type-application-revenue-estimates-and-forecast-to-2028.md",
+      "title": "Global Edge AI Chips Market Size 2023 Research Report by Growth Rate Analysis, Type, Application, Revenue Estimates and Forecast to 2028",
+      "excerpt": "Jan 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Edge AI Chips Market”",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-size-2023-research-report-by-growth-rate-analysis-type-application-revenue-estimates-and-forecast-to-2028-2023-01-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-size-2023-research-report-by-growth-rate-analysis-type-application-revenue-estimates-and-forecast-to-2028-2023-01-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T22:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-my-lawyer-the-robot.md",
+      "title": "My lawyer, the robot",
+      "excerpt": "Henshon, who chairs the American Bar Association’s Artificial Intelligence and Robotics Committee, said it could provide legal help in lower-stakes scenarios where a person would otherwise go ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/digital-future-daily/2023/01/09/my-lawyer-the-robot-00077085",
+      "originalUrl": "https://www.politico.com/newsletters/digital-future-daily/2023/01/09/my-lawyer-the-robot-00077085",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/e3/dc/f49acf6b4ec487735cca6be11236/tec-samsung-fitness-gadgets.JPEG",
+          "width": 5184,
+          "height": 3456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T20:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-data-science-and-machine-learning-service-market-report-2023-in-depth-market-analysis-and-future-prospects-till-2029.md",
+      "title": "Data Science and Machine Learning Service Market Report 2023 In-Depth Market Analysis and Future Prospects Till 2029",
+      "excerpt": "Data Science and Machine Learning Service Market (US, Europe, Asia-Pacific) 2023 research includes historical and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-2023-in-depth-market-analysis-and-future-prospects-till-2029-2023-01-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-2023-in-depth-market-analysis-and-future-prospects-till-2029-2023-01-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T20:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-edge-ai-chips-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data.md",
+      "title": "Edge AI Chips Market : Reliable Business Data Analysis and Forecast by 2028 with Top Countries Data",
+      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this industry. \"Edge AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2023-01-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-reliable-business-data-analysis-and-forecast-by-2028-with-top-countries-data-2023-01-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-artificial-intelligence-ai-chips-market-2023-advance-technology-latest-trend-and-future-expansion-by-2028.md",
       "title": "Artificial Intelligence (AI) Chips Market 2023 : Advance Technology, Latest Trend and Future Expansion by 2028",
       "excerpt": "Rising demand for nvbnvbElectronics, Automotive, Consumer Goods will drive the Artificial Intelligence (AI) Chips segment growth over the next five years. Global Market Analysis f",
@@ -732,429 +1156,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-university-of-toronto-scientists-use-machine-learning-to-fast-track-drug-formulation-development.md",
-      "title": "University of Toronto scientists use machine learning to fast-track drug formulation development",
-      "excerpt": "Scientists at the University of Toronto have successfully tested the use of machine learning models to guide the design of long-acting injectable drug formulations. The potential for machine learning algorithms to accelerate drug formulation could reduce the time and cost associated with drug development,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/976052",
-      "originalUrl": "https://www.eurekalert.org/news-releases/976052",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-why-artificial-intelligence-is-set-to-be-a-game-changer-for-businesses-in-2023-according-to-7-founders.md",
-      "title": "Why artificial intelligence is set to be a game changer for businesses in 2023, according to 7 founders",
-      "excerpt": "If you've seen artificial-intelligence-generated selfies ... They mentioned innovations in healthcare, wellness, and supply chains, but the most common trend was AI. Many said they expected ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1",
-      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63b895d0fd2a2700180838c7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp",
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-the-ai-market-an-overview.md",
-      "title": "The AI Market: An Overview",
-      "excerpt": "The AI market is growing exponentially, both in terms of revenue and level of innovation. If there’s a leading technology of the current era, artificial intelligence (AI) is clearly a top contender. The hype is constant and flows from all quarters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-market/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image4.jpeg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T15:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-conversational-ai-startup-nlx-raises-46m-to-fuel-expansion-and-product-development.md",
-      "title": "Conversational AI startup NLX raises $4.6M to fuel expansion and product development",
-      "excerpt": "Founded in 2018, NLX offers automated and frictionless multimodal self-service tools powered by conversational AI. Its service allows organizations to build and manage “next-generation conversational experiences,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/01/09/conversational-ai-startup-nlx-raises-4-6m-fuel-expansion-product-development/",
-      "originalUrl": "https://siliconangle.com/2023/01/09/conversational-ai-startup-nlx-raises-4-6m-fuel-expansion-product-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/nlx.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T15:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-5-predictions-for-banking-and-fintech-in-2023.md",
-      "title": "5 Predictions For Banking And Fintech In 2023",
-      "excerpt": "Embedded fintech—the integration of fintech products ... years of hearing pundits and futurists tell them how disruptive AI is going to be in banking, 2023 will finally be the year that bank ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ronshevlin/2023/01/09/5-predictions-for-banking-and-fintech-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/ronshevlin/2023/01/09/5-predictions-for-banking-and-fintech-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc46a0abf2a73aa3830711/0x0.jpg?format=jpg&crop=4092,3698,x0,y268,safe&width=1200",
-          "width": 1200,
-          "height": 1084,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ronshevlin/2023/01/09/5-predictions-for-banking-and-fintech-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2023/01/09/5-predictions-for-banking-and-fintech-in-2023/amp/",
-      "publishedDateTime": "2023-01-09T15:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-will-amds-mi300-beat-nvidia-in-ai.md",
-      "title": "Will AMD’s MI300 Beat NVIDIA In AI?",
-      "excerpt": "CES Keynote address, AMD’s CEO Dr. Lisa Su reiterated the company’s plan to bring the Instinct MI300 to market by the end of this year, and showed the monster silicon in hand. The chip is certainly a major milestone for the company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/01/09/will-amds-mi300-beat-nvidia-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/01/09/will-amds-mi300-beat-nvidia-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b73bb6c46c27a64e429d7b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 660,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/01/09/will-amds-mi300-beat-nvidia-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/01/09/will-amds-mi300-beat-nvidia-in-ai/amp/",
-      "publishedDateTime": "2023-01-09T15:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-conscious-robots-will-be-bigger-than-curing-cancer-scientists-say.md",
-      "title": "Conscious Robots Will Be 'Bigger Than Curing Cancer,' Scientists Say",
-      "excerpt": "Scientists have long considered robot consciousness a subject fraught with ethical—maybe even moral—pitfalls, and so they left it out of the artificial intelligence equation. But that’s no ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/technology/robots/a42435316/robot-consciousness-reality/",
-      "originalUrl": "https://www.popularmechanics.com/technology/robots/a42435316/robot-consciousness-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod/images/artificial-intelligence-machine-learning-royalty-free-image-1673292674.jpg?crop=0.835xw:0.627xh;0.0897xw,0&resize=1200:*",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-top-self-driving-car-stories-of-2022-in-review-big-ups-big-downs.md",
-      "title": "Top Self-Driving Car Stories Of 2022 In Review - Big Ups, Big Downs",
-      "excerpt": "Baidu showed off their custom robotaxi design ... MORE FROM FORBESReports Of The Death Of Self-Driving Cars Are Greatly ExaggeratedBy Brad Templeton Waymo has also said they will soon operate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2023/01/09/top-self-driving-car-stories-of-2022-in-reviewbig-ups-big-downs/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2023/01/09/top-self-driving-car-stories-of-2022-in-reviewbig-ups-big-downs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b3a653cd0b01463a95e410/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2023/01/09/top-self-driving-car-stories-of-2022-in-reviewbig-ups-big-downs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2023/01/09/top-self-driving-car-stories-of-2022-in-reviewbig-ups-big-downs/amp/",
-      "publishedDateTime": "2023-01-09T15:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-aws-not-impacted-by-amazons-18000-layoffs-sources.md",
-      "title": "AWS Not Impacted By Amazon’s 18,000 Layoffs: Sources",
-      "excerpt": "Employees at Amazon Web Service will not be significantly affected by Amazon’s 18,000 layoff round this month, according to sources, although AWS still remains in a hiring pause. Amazon’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/aws-not-impacted-by-amazon-s-18-000-layoffs-sources",
-      "originalUrl": "https://www.crn.com/news/cloud/aws-not-impacted-by-amazon-s-18-000-layoffs-sources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/027d-1707e46b7484-4bb6908abadd-1000/crn_in_depth_wave_of_layoffs_in_the_tech_industry.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -23,17 +23,6 @@ images:
     height: 348
     isCached: true
 
-related:
-  - title: "Experts think AI could bring on the next Industrial Revolution — and some even think it could trigger nuclear war"
-    excerpt: "A team of researchers from New York University and other schools surveyed academics, industry professionals, and public sector workers in field of Natural Language Processing last May to assess their opinions on \"controversial issues\" such as artificial ge ..."
-    publishedDateTime: 2023-02-28T20:57:00Z
-    webUrl: "https://www.businessinsider.com/experts-think-ai-bring-next-industrial-revolution-trigger-nuclear-war-2023-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
-
 secured: "Qh4hKe+8dDlltNSB9VGqZiw03Qr1j6f0lDKjF/pyO2wHwL+TaXjm3OsFS5zuSN2UxDpPtORtIGhqZlm1/IwNZ3ZrhvZ0+MyTu3SPqeaQjxRqscMsZcABRVcASHEXKJWxcYZO+KX7x6wDyF49FQARwPG1zE8gqqqL5q62hEvq+FHZe17ZD2NFUpomc+FmuGnyhO1wPBvgi2yKT5u4FM7h477ryKDL+nL0ISWDeHfGZRCC819T94p5Ji4D8463thiRKK3IHsDjWjXPrS1K85Mn1ZXzVxLf06DnLlJdYgVtd/WouCCAyhCJZjZzu/w44aJqJWPMFJewNfdoi467qMNTcvOS7yEIz+Ffs32Uxc7nAgvdk5S5QBpurvOOh4FFFVk4CFbUHQIIKPgZ8LoNPchxeog6F0KY43gQKSCiqexLl4sHkC9dOSub6YB15eNvlfAfh5flgz8YupXDtr4O+Up6bjbYSybbOq9s/FVwkhZMCUVbc2Mi5WWzL9NUs/frw+QIA+iNIXvvHMQAAoy8Y1sUXg==;EY1xdpArZ5V7A/dJsPVAXQ=="
 ---
 

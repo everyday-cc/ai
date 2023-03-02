@@ -2,21 +2,21 @@
   "page": 102,
   "value": [
     {
-      "path": "_news/2022-10-25-from-artificial-intelligence-to-ancestral-foods-check-out-these-november-happenings.md",
-      "title": "From Artificial Intelligence to Ancestral Foods, Check Out These November Happenings",
-      "excerpt": "The ceremony is open to the public and will include an Objects Out of Storage display showcasing artifacts from the museum’s noted military history collections. Guest chefs Elena Terry and Zoe Fess will prepare Seedy SassSquash,",
+      "path": "_news/2022-12-05-aws-reinvent-2022-round-up-data-management-ai-compute-take-centre-stage.md",
+      "title": "AWS re:Invent 2022 round-up: Data management, AI, compute take centre stage",
+      "excerpt": "AI features added to multiple services To help enterprises get more of a return on their data, AWS added new artificial intelligence (AI) features to a range of other services, including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake.",
       "sourceUrl": null,
-      "webUrl": "https://www.smithsonianmag.com/blogs/national-museum-american-history/2022/10/24/november-at-the-national-museum-of-american-history/",
-      "originalUrl": "https://www.smithsonianmag.com/blogs/national-museum-american-history/2022/10/24/november-at-the-national-museum-of-american-history/",
+      "webUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
+      "originalUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://th-thumbnailer.cdn-si-edu.com/uDp3cqkk6y0G3GfJ9d7m41ONrbY=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/7b/cf7bdb68-a1fa-425f-bac2-a0fc7e3e81db/lemelson.png",
-          "width": 650,
-          "height": 400,
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/adam_selipsky_aws_6.jpg",
+          "width": 504,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,192 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T11:46:00-07:00",
+      "publishedDateTime": "2022-12-04T19:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Smithsonian Magazine",
-        "domain": "smithsonianmag.com",
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud.md",
+      "title": "Cerebras Announces Pay-As-You-Go AI Training On Cirrascale Cloud",
+      "excerpt": "Company claims it can train AI 8X faster than AWS at half the cost for large models. Cerebras is not your typical AI chip company. And thats a good thing. We already have a lot of knock-offs taking on NVIDIA, and they all seem to do a good job of knocking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e4946cfebecc8ea93c5c7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-cuttlefish-passed-a-cognitive-test-designed-for-humans.md",
+      "title": "Cuttlefish passed a cognitive test designed for humans",
+      "excerpt": "This discovery, the researchers say, is an example of advanced self-control and shows that the creatures perform better in cognitive tasks. It has also been hypothesized that these positive ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "originalUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2022/12/AdobeStock_159088227.jpeg?quality=82&strip=all",
+          "width": 2400,
+          "height": 1596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-artificial-intelligence-and-heart-care-pt-1.md",
+      "title": "Artificial intelligence and heart care — Pt 1",
+      "excerpt": "ARTIFICIAL intelligence (AI ... systems, and convolutional neural networks. In medical imaging, and more particularly cardiovascular imaging, AI has become very instrumental in efficiently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
+      "originalUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=bed7186e-bbf9-52e7-a219-69c1352aa6fb&function=fit&type=preview",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "publishedDateTime": "2022-12-04T10:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
+      "title": "Sudbury plays host to FIRST robotics competition",
+      "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",
+      "sourceUrl": null,
+      "webUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
+      "originalUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/4/2577491/_jcr_content/renditions/videothumbnail.1670204290046.jpg",
+          "width": 1020,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "publishedDateTime": "2022-12-04T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
         "images": null,
         "publishers": null,
         "authors": null
@@ -45,21 +226,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-25-red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project.md",
-      "title": "Red Hat and IBM team up to enhance AIops with an open-source project",
-      "excerpt": "AIops is what you get when you combine big data and machine learning to automate IT operations processes, including event correlation, anomaly detection and causality determination. At least, that’s how Gartner defines it.",
+      "path": "_news/2022-12-05-why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right.md",
+      "title": "Why you need an organizational AI ethics committee to do AI right",
+      "excerpt": "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
-      "originalUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
+      "webUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "originalUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 748,
+          "height": 629,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,9 +248,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
-      "publishedDateTime": "2022-10-24T11:20:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "publishedDateTime": "2022-12-04T09:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -92,1074 +273,10 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-ai-model-using-daily-step-counts-predicts-unplanned-hospitalizations-during-cancer-therapy.md",
-      "title": "AI model using daily step counts predicts unplanned hospitalizations during cancer therapy",
-      "excerpt": "An artificial intelligence (AI) model developed by researchers can predict the likelihood that a patient may have an unplanned hospitalization during their radiation treatments for cancer. The machine-learning model uses daily step counts as a proxy to monitor patients' health as they go through cancer therapy,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/pedometer.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp",
-      "publishedDateTime": "2022-10-24T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops.md",
-      "title": "Microsoft’s Windows Dev Kit 2023 lets developers tap AI processors on laptops",
-      "excerpt": "Microsoft has released the Windows Dev Kit 2023, initially announced at Build, which features a dedicated AI processor and software for AI app development on laptops.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/",
-      "originalUrl": "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/amp/",
-      "publishedDateTime": "2022-10-24T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-novel-derivative-of-love-hormone-oxytocin-may-reduce-cognitive-impairment-in-alzheimers.md",
-      "title": "Novel derivative of 'love hormone' oxytocin may reduce cognitive impairment in Alzheimer's",
-      "excerpt": "The cognitive decline and memory loss observed in Alzheimer's disease (AD) is attributed to the accumulation of β-amyloid protein (Aβ), which impairs neural function in the brain ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/novel-derivative-of-lo.jpg",
-          "width": 2800,
-          "height": 1575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-derivative-hormone-oxytocin-cognitive-impairment.amp",
-      "publishedDateTime": "2022-10-24T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-holiday-2022-robot-vacuum-buying-guide-the-best-robot-vacuums-to-gift-this-year-according-to-reviewers.md",
-      "title": "Holiday 2022 robot vacuum buying guide: The best robot vacuums to gift this year, according to reviewers",
-      "excerpt": "Not sure where to begin when buying a robot vacuum? Find the best robot vacuums for the 2022 holiday season with this gift guide. Samsung Jet Bot+ robot vacuum with clean station, $732 (reduced from $800) iRobot Roomba j7+ self-emptying robot vacuum with Braava Jet M6 robot mop,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "originalUrl": "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/29/d0146d7a-e3ca-4549-a180-82b71f490e80/thumbnail/1200x630/17e034c21993177d93992b72a8924677/roomba-holiday-header.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "publishedDateTime": "2022-10-24T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-1-in-10-americans-over-65-have-dementia-study-finds.md",
-      "title": "1 in 10 Americans over 65 have dementia, study finds",
-      "excerpt": "One in 10 Americans over 65 had dementia, while 22% experienced mild cognitive impairment, the earliest stage of the slow slide into senility, according to a new study conducted between 2016 and 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
-      "originalUrl": "https://www.cnn.com/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221021141210-elderly-person-holding-hands-with-younger-person-stock-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
-      "publishedDateTime": "2022-10-24T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-top-10-robots-in-gaming-ranked.md",
-      "title": "Top 10 Robots in Gaming, Ranked",
-      "excerpt": "Our shiny metal buddies have wormed their way into all forms of media, and games are no exception, but who among them is the best? Robots always end up being such interesting characters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dualshockers.com/best-robots-in-gaming/",
-      "originalUrl": "https://www.dualshockers.com/best-robots-in-gaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DualShockers",
-        "domain": "dualshockers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-d-wave-quantum-launches-in-aws-marketplace.md",
-      "title": "D-Wave Quantum Launches in AWS Marketplace",
-      "excerpt": "D-Wave Quantum Inc. - a leader in quantum computing systems, software, and services, and the only quantum computing company building both annealing and gate-model quantum computers - announced that it has launched in AWS Marketplace,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bctechnology.com/news/2022/10/24/D-Wave-Quantum-Launches-in-AWS-Marketplace.cfm",
-      "originalUrl": "https://www.bctechnology.com/news/2022/10/24/D-Wave-Quantum-Launches-in-AWS-Marketplace.cfm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bctechnology.com/tmp/social/news/tw/9340EBC648B62D55FB18AB88AAA8FECD7AF4BBAF66A239716A48991BC2E294AA.png?1667260844",
-          "width": 600,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "T-Net",
-        "domain": "bctechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-fact-check-did-ai-predict-humans-evolving-into-cyborgs-in-viral-video.md",
-      "title": "Fact Check: Did AI Predict Humans Evolving into Cyborgs in Viral Video?",
-      "excerpt": "Artist Fabio Comparelli responded to the social media hype surrounding his work, which some claim showed the demise of humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257",
-      "originalUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2138844/evolution-ai.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257?amp=1",
-      "publishedDateTime": "2022-10-24T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-bics-launches-communications-platform-as-a-service.md",
-      "title": "BICS launches Communications Platform as a Service",
-      "excerpt": "BICS says its new CPaaS for text, voice, and messaging can integrate using APIs and plug-ins, no coding required.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
-      "originalUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-tsmc-suspends-advanced-gpu-production-for-chinese-startup.md",
-      "title": "TSMC Suspends Advanced GPU Production for Chinese Startup",
-      "excerpt": "Advanced chip manufacturer TSMC decided to suspend production of GPUs for China's Biren Technology while it decides whether they are performant enough to fall under US sanctions. As far as Biren ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/components/143410/tsmc-suspends-advanced-gpu-production-for-chinese-startup",
-      "originalUrl": "https://uk.pcmag.com/components/143410/tsmc-suspends-advanced-gpu-production-for-chinese-startup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/tsmc-suspe/tsmc-suspends-advanced-gpu-production-for-chinese-startup_p52g.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-edge-ai-hardware-market-worth-2716-million-units-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Edge AI hardware market is projected to grow from 1,056 million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period according to a new report by MarketsandMarkets™.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-edge-ai-hardware-market-worth-2716-million-units-/2022/10/24/9698227.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-edge-ai-hardware-market-worth-2716-million-units-/2022/10/24/9698227.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-video-gaming-may-be-associated-with-better-cognitive-performance-in-children.md",
-      "title": "Video gaming may be associated with better cognitive performance in children",
-      "excerpt": "A study of nearly 2,000 children found that those who reported playing video games for three hours per day or more performed better on cognitive skills tests involving impulse control and working ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/child-gaming.jpg",
-          "width": 2880,
-          "height": 1917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-video-gaming-cognitive-children.amp",
-      "publishedDateTime": "2022-10-24T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers.md",
-      "title": "How The Availability Of AI Is Changing The Security Landscape For Both Users And Developers",
-      "excerpt": "In certain instances, analytics like movement tracking and basic object recognition helped organizations that could afford to implement them, but they were still hampered by limiting factors such as camera quality and processing power. Today, that’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6352a22b37aebac3a2e382e7/0x0.jpg?format=jpg&crop=2015,1134,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/",
-      "publishedDateTime": "2022-10-24T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-edge-ai-hardware-market-worth-2716-million-units-by-2027-exclusive-report-by-marketsandmarketstm.md",
-      "title": "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets(TM)",
-      "excerpt": "This has opened a huge opportunity for the edge AI hardware market players. Smart wearables and health trackers could further accelerate the growth of the edge AI hardware market for wearables. The market for GPU is expected to grow with the highest CAGR during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-hardware-market-worth-2716-million-units-by-2027---exclusive-report-by-marketsandmarketstm-2022-10-24-92033048",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-hardware-market-worth-2716-million-units-by-2027---exclusive-report-by-marketsandmarketstm-2022-10-24-92033048",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-ai-coming-of-age-lessons-for-startups.md",
-      "title": "AI Coming Of Age: Lessons For Startups",
-      "excerpt": "Startups might have an advantage over larger organizations in using AI: Building new business processes is a lot easier than changing existing processes that affect thousands of employees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2d686d44b66e05156c5e3c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/amp/",
-      "publishedDateTime": "2022-10-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform.md",
-      "title": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform",
-      "excerpt": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform Oct 24, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-why-baidu-dingdong-and-pinduoduo-stocks-crashed-on-monday.md",
-      "title": "Why Baidu, Dingdong, and Pinduoduo Stocks Crashed on Monday",
-      "excerpt": "While it's tempting to think that things can't get much worse for Pinduoduo stock (down 41% over the past year), Baidu (down 48%), and Dingdong (down 87%!), the truth is that there's still a lot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/10/24/why-baidu-dingdong-and-pinduoduo-stocks-crashed/",
-      "originalUrl": "https://www.fool.com/investing/2022/10/24/why-baidu-dingdong-and-pinduoduo-stocks-crashed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/705951/chinese-flag-superimposed-on-a-stock-market-chart.jpg",
-          "width": 2059,
-          "height": 1456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-fmr-google-ceo-raises-ethics-concerns-over-conflict-of-interest-with-ai-investments.md",
-      "title": "Fmr. Google CEO raises ethics concerns over conflict of interest with AI investments",
-      "excerpt": "CNBC's Eamon Javers joins 'Squawk Box' to report on the direct AI investments fmr. Google CEO Eric Schmidt made while chairing the Federal Advisory AI Commission, and the fractures in government oversight and ethics systems that enabled Schmidt's activity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2022/10/24/watchdog-raises-ethics-concerns-over-former-google-ceos-role-in-federal-ai-commission.html",
-      "originalUrl": "https://www.cnbc.com/video/2022/10/24/watchdog-raises-ethics-concerns-over-former-google-ceos-role-in-federal-ai-commission.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107139496-16666188131666618807-26181245313-1080pnbcnews.jpg?v=1666618813&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI Ethics",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2022-10-24-ai-is-now-heres-what-it-looks-like-in-practice.md",
-      "title": "AI Is Now: Here’s What It Looks Like In Practice",
-      "excerpt": "Here are a few ways our agency leverages AI and machine learning to help organizations gain a competitive advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/10/24/ai-is-now-heres-what-it-looks-like-in-practice/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/10/24/ai-is-now-heres-what-it-looks-like-in-practice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/628e44e29ba891bb836a6390/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/10/24/ai-is-now-heres-what-it-looks-like-in-practice/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/10/24/ai-is-now-heres-what-it-looks-like-in-practice/amp/",
-      "publishedDateTime": "2022-10-24T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei.md",
-      "title": "The Metaverse Is Here, And OneMeta AI Is Already Changing Its Landscape ($ONEI)",
-      "excerpt": "Many have heard the word \"Metaverse.\" Still, most have absolutely no clue what it is or means. A word of advice- learn about it. Why? Because it will change how people live, interact, and do business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/ab29375003/the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/ab29375003/the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1666363200.png",
-          "width": 1222,
-          "height": 1091,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29375003",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29375003",
-      "publishedDateTime": "2022-10-24T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-5-modelops-capabilities-that-boost-data-science-productivity.md",
-      "title": "5 modelops capabilities that boost data science productivity",
-      "excerpt": "Organizations are hiring data scientists to develop ML models and experiment with AI, but the business impact is lagging for many large enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3677368/5-modelops-capabilities-that-boost-data-science-productivity.html",
-      "originalUrl": "https://www.infoworld.com/article/3677368/5-modelops-capabilities-that-boost-data-science-productivity.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/09/productive-over-worked-over-load-brainstorm-100613878-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3677368/5-modelops-capabilities-that-boost-data-science-productivity.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3677368/5-modelops-capabilities-that-boost-data-science-productivity.amp.html",
-      "publishedDateTime": "2022-10-24T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-new-oracle-interconnect-for-microsoft-azure-region-opens-in-sa.md",
-      "title": "New Oracle Interconnect for Microsoft Azure region opens in SA",
-      "excerpt": "Oracle has announced the opening of a new Oracle Interconnect for Microsoft Azure location in Johannesburg, providing direct connectivity between the Oracle Cloud Johannesburg region and the Microsoft Azure South Africa North region.",
-      "sourceUrl": null,
-      "webUrl": "https://it-online.co.za/2022/10/24/new-oracle-interconnect-for-microsoft-azure-region-opens-in-sa/",
-      "originalUrl": "https://it-online.co.za/2022/10/24/new-oracle-interconnect-for-microsoft-azure-region-opens-in-sa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-azure-scales-530b-parameter-gpt-3-model-with-nvidia-nemo-megatron.md",
-      "title": "Azure Scales 530B Parameter GPT-3 Model with NVIDIA NeMo Megatron",
-      "excerpt": "Combining NVIDIA NeMo Megatron with our Azure AI infrastructure offers a powerful platform that anyone can spin up in minutes without having to incur the costs and burden of managing their own on-premises infrastructure. And of course, we have taken our benchmarking of the new framework to a new level,",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-scales-530b-parameter-gpt3-model-with-nvidia-nemo-megatron/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-scales-530b-parameter-gpt3-model-with-nvidia-nemo-megatron/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/74a401ab-b737-4144-a596-059842980bda.png",
-          "width": 1024,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T02:00:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
     }
   ],
-  "nextPage": 103
+  "nextPage": null
 }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.abc4.com/news/local-news/first-robotics-competition-retu
 cdnAmpWebUrl: "https://www-abc4-com.cdn.ampproject.org/c/s/www.abc4.com/news/local-news/first-robotics-competition-returns-to-utah-local-students-take-part/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

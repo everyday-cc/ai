@@ -25,20 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Latest Survey on \"Artificial Intelligence in Manufacturing Market\" Report 2023-2028, Updated Report With 100 Pages"
-    excerpt: "Report Highlights:- \"The global Artificial Intelligence in Manufacturing market size was valued at USD 1459.63 million"
-    publishedDateTime: 2023-02-25T13:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-survey-on-artificial-intelligence-in-manufacturing-market-report-2023-2028-updated-report-with-100-pages-2023-02-25"
+  - title: "Artificial Intelligence (AI) in Agriculture Market Report Historical, Current, and Projected Size, in terms of value 2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Agriculture Market\" Report provides a Detailed analysis of global market size,"
+    publishedDateTime: 2023-02-26T13:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-report-historical-current-and-projected-size-in-terms-of-value-2028-2023-02-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size: Overview, Share, Trends with Current Market Scenario, 2028"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Artificial Intelligence Of Things (AIoT) Solutions Market\" Insights 2023 By Applications (Hardware, Software,"
+    publishedDateTime: 2023-02-26T01:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-overview-share-trends-with-current-market-scenario-2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets"
+    excerpt: "CHICAGO, Feb. 27, 2023 /PRNewswire/ -- The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is ..."
+    publishedDateTime: 2023-02-27T17:36:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58417909-ai-in-computer-vision-market-worth-dollar-45-7-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 21
 
 secured: "Cg3g8W/FHHPBTZs5bq9PoDaJ66Bdr1KDLX4FJcVNaMi1KjGamku4P/XR0miTKSWTgqULnkGsEJnDNnPDLNshY1ibZT41MXfbQNiTAFHmhbpXptpkAMPKzhs/5WGs74fCwhWqMQqwNBWRPiilXS/3x2BLfBeTTv84oKaec4v82be96gPE0KGdoYpV6O4C/MqGFvia6FrjC3u+2jRbxPDOMEZ+mScBidsehY7X7TX/QOsrjMNstjgWLC/FLmz3i0bRehGhHU6sbmj0aQfxH5sIooTz0sDRZ7KW1mj8u/eHFC5e6kqzv6x0ekZYSgdEN89m6syDrqHFJajwPMckWx+MU7rh2c8R3fj5mCTcFPkDaP0=;9qcR9HPejvmBexmDZvV46Q=="
 ---

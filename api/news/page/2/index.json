@@ -487,7 +487,7 @@
       "originalUrl": "https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -715,6 +715,100 @@
       ]
     },
     {
+      "path": "_news/2023-02-28-10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition.md",
+      "title": "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition",
+      "excerpt": "I hate to break it to you, but a world where your every move can be tracked using facial recognition has gone from science fiction to an everyday reality. Facial recognition is common at airports ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/",
+      "originalUrl": "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/25/5962a488996ecd92c5b806c0c89f5c0a.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/amp/",
+      "publishedDateTime": "2023-02-27T21:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-2-ways-that-artificial-intelligence-could-reshape-the-cannabis-industry.md",
+      "title": "2 Ways That Artificial Intelligence Could Reshape the Cannabis Industry",
+      "excerpt": "Artificial intelligence tools are likely to disrupt most types of economic activity. Labor costs will probably fall as dispensary operations are streamlined. Selling, general, and administrative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/27/2-ways-that-artificial-intelligence-could-reshape/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/27/2-ways-that-artificial-intelligence-could-reshape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/721628/cannabis-seller-weighs-cannabis.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T20:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-the-purpose-and-impact-of-creative-ai.md",
       "title": "The purpose and impact of creative AI",
       "excerpt": "Will generative AI be more of a problem than it’s worth? Here are some ways creative AI can be a help and not a threat.",
@@ -813,6 +907,162 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-natural-language-processing-nlp-market-to-grow-significantly-by-leading-players-2023-to-2028.md",
+      "title": "Natural Language Processing (NLP) Market to Grow Significantly by Leading Players 2023 to 2028",
+      "excerpt": "Feb 27, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) Market\" Report provides a Detailed analysis of global market size, regional",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T17:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-computer-vision-market-2023-demonstrates-a-signify-growth-by-2029.md",
+      "title": "Computer Vision Market 2023 Demonstrates A signify Growth By 2029",
+      "excerpt": "Computer Vision Market 2023 with 119 Pages Report and enhance with extents shares into sub-counties are covered in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-usaf-begins-implementing-facial-recognition-on-some-of-its-drone-fleet.md",
+      "title": "USAF begins implementing facial recognition on some of its drone fleet",
+      "excerpt": "The added capability comes from long-time Seattle tech firm RealNetworks. The name probably sounds familiar because it's the same company that delved into streaming media before",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97753-usaf-begins-implementing-facial-recognition-drone-fleet.html",
+      "originalUrl": "https://www.techspot.com/news/97753-usaf-begins-implementing-facial-recognition-drone-fleet.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-27-image-20.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -961,256 +1211,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it.md",
-      "title": "AI Takeover: Coca-Cola And Snap Embrace ChatGPT While Banks Ban It",
-      "excerpt": "As excitement and fears build for generative AI, battle lines are being drawn between early adopters and those barring it. Here's a look at which companies are coming out in front.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fd3193ec46bc6e911778bc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/",
-      "publishedDateTime": "2023-02-27T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real.md",
-      "title": "In The Age Of Artificial Intelligence, We Need Our Human Skills To Keep It Real",
-      "excerpt": "We're still early in the “hype cycle” of inflated expectations and fears, but in a world increasingly driven by artificial intelligence, we’ll need humans at the wheel more than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/",
-      "originalUrl": "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fd198a82408876dac8b544/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/amp/",
-      "publishedDateTime": "2023-02-27T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-researchers-use-artificial-intelligence-to-predict-cardiovascular-disease.md",
-      "title": "Researchers use artificial intelligence to predict cardiovascular disease",
-      "excerpt": "Researchers may be able to predict cardiovascular disease—such as arterial fibrillation and heart failure—in patients by using artificial intelligence (AI) to examine the genes in their DNA, according to a new Rutgers study.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-artifi.jpg",
-          "width": 2880,
-          "height": 4023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp",
-      "publishedDateTime": "2023-02-27T11:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-future-of-artificial-intelligence-ai-robots-market-2023-2028-opportunities-and-challenges-133-pages.md",
-      "title": "Future of Artificial Intelligence (AI) Robots Market 2023-2028: Opportunities and Challenges | 133 Pages",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.” Artificial Intelligence (AI) Robots",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-robots-market-2023-2028-opportunities-and-challenges-133-pages-2023-02-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-robots-market-2023-2028-opportunities-and-challenges-133-pages-2023-02-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-just-how-big-is-this-new-generative-ai-think-internet-level-disruption.md",
-      "title": "Just how big is this new generative AI? Think internet-level disruption",
-      "excerpt": "If I was in a new city and there was a big bookstore, I had to go. That's because books were only available in libraries and certain bookstores. But then, the early Amazon hit the internets. Suddenly,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
-      "originalUrl": "https://www.zdnet.com/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/920c25a582497b6ce1460737db9ed82450a8a16d/2023/02/27/483408f4-2a36-4d23-a7c8-e8b0e1274884/gettyimages-1247345740.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
-      "publishedDateTime": "2023-02-27T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

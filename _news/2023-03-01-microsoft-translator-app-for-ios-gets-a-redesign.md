@@ -91,7 +91,7 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Microsoft unveils Kosmos-1, an AI language model with visual perception abilities"
+  - title: "Microsoft unveils AI model that understands image content, solves visual puzzles"
     excerpt: "On Monday, researchers from Microsoft introduced Kosmos-1, a multimodal model that can reportedly analyze images for content, solve visual puzzles, perform visual text recognition, pass visual IQ tests,"
     publishedDateTime: 2023-03-01T23:50:00Z
     webUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/"
@@ -107,7 +107,7 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Microsoft unveils AI model that understands image content, solves visual puzzles"
+  - title: "Microsoft unveils Kosmos-1, an AI language model with visual perception abilities"
     excerpt: "On Monday, researchers from Microsoft introduced Kosmos-1, a multimodal model that can reportedly analyze images for content, solve visual puzzles, perform visual text recognition, pass visual IQ tests,"
     publishedDateTime: 2023-03-01T23:50:00Z
     webUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/"
@@ -117,7 +117,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 99
+    quality: 101
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/multimodal_eyeball-800x450.jpg"
         width: 800
@@ -171,20 +171,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Better Artificial Intelligence Stock: Cloudflare vs. Microsoft"
-    excerpt: "Both companies could win big from adopting artificial intelligence-enabled applications, but which is the better bet?"
-    publishedDateTime: 2023-02-25T12:36:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/25/better-artificial-intelligence-stock-cloudflare-vs/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/721593/chatbot-smartphone-person.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "AWS Eyes Microsoft-Backed ChatGPT With New AI Partnership"
     excerpt: "AWS AI gets boost with Hugging Face artificial intelligence collaboration targeting developers and machine learning innovation for generative AI."
     publishedDateTime: 2023-02-28T18:09:00Z
@@ -228,6 +214,20 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/Typeface-Image-1.jpg"
         width: 1032
         height: 576
+        isCached: true
+  - title: "Microsoft reportedly mulls utilizing TSMC CoWoS for AI chip"
+    excerpt: "Microsoft has reportedly approached TSMC and its ecosystem partners about using the foundry's CoWoS packaging for its own AI chip, according to industry sources. Save my User ID and Password Some subscribers prefer to save their log-in information so they ..."
+    publishedDateTime: 2023-03-02T03:27:00Z
+    webUrl: "https://www.digitimes.com/news/a20230301PD214/chatgpt-cowos-microsoft-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 71
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230301pd214_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Microsoft introduces Azure Operator Nexus to run their carrier-grade workloads"
     excerpt: "Microsoft is also launching Azure Operator Voicemail, a solution that enables operators to transfer their voicemail services to Azure as a fully managed service, as well as Azure Communications Gateway,"

@@ -140,7 +140,7 @@
       "originalUrl": "https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -182,6 +182,153 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition.md",
+      "title": "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition",
+      "excerpt": "I hate to break it to you, but a world where your every move can be tracked using facial recognition has gone from science fiction to an everyday reality. Facial recognition is common at airports ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/",
+      "originalUrl": "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/25/5962a488996ecd92c5b806c0c89f5c0a.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/amp/",
+      "publishedDateTime": "2023-02-27T21:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-computer-vision-market-2023-demonstrates-a-signify-growth-by-2029.md",
+      "title": "Computer Vision Market 2023 Demonstrates A signify Growth By 2029",
+      "excerpt": "Computer Vision Market 2023 with 119 Pages Report and enhance with extents shares into sub-counties are covered in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-usaf-begins-implementing-facial-recognition-on-some-of-its-drone-fleet.md",
+      "title": "USAF begins implementing facial recognition on some of its drone fleet",
+      "excerpt": "The added capability comes from long-time Seattle tech firm RealNetworks. The name probably sounds familiar because it's the same company that delved into streaming media before",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97753-usaf-begins-implementing-facial-recognition-drone-fleet.html",
+      "originalUrl": "https://www.techspot.com/news/97753-usaf-begins-implementing-facial-recognition-drone-fleet.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-27-image-20.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -246,7 +393,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-in-artificial-intelligence-ai-market-is-thriving-worldwide-by-2029-2023-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 361,
+      "heat": 351,
       "tags": null,
       "images": [
         {
@@ -291,15 +438,15 @@
       ]
     },
     {
-      "path": "_news/2023-02-26-the-role-of-computer-vision-software-market-2023-business-developments-and-strategies-by-2029.md",
-      "title": "The Role of Computer Vision Software Market 2023: Business Developments and Strategies by 2029",
-      "excerpt": "New 115 Pages Report] A Recently published “Computer Vision Software Market” Size (2023) research report offers",
+      "path": "_news/2023-02-26-facial-recognition-door-lock-market-geographical-segmentation-by-forecast-revenue-2023-2028.md",
+      "title": "Facial Recognition Door Lock Market Geographical Segmentation By Forecast Revenue 2023-2028",
+      "excerpt": "Feb 26, 2023 (The Expresswire) -- \"Facial Recognition Door Lock Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029. The global",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-role-of-computer-vision-software-market-2023-business-developments-and-strategies-by-2029-2023-02-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-role-of-computer-vision-software-market-2023-business-developments-and-strategies-by-2029-2023-02-26",
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-02-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -315,59 +462,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-computer-vision-market-2023-expected-to-reach-significant-rate-by-2027.md",
-      "title": "Computer Vision Market 2023 Expected to Reach Significant Rate by 2027",
-      "excerpt": "Feb 25, 2023 (The Expresswire) -- \"Computer Vision Market\" Insights 2023 By Applications ( On Premise, Cloud), By Types ( Medical Imaging, Surgery,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-25T17:39:00-08:00",
+      "publishedDateTime": "2023-02-25T21:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1307,101 +1402,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-02-11T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints.md",
-      "title": "SIA responds to lawmaker demands to halt facial recognition technology at TSA checkpoints",
-      "excerpt": "The Security Industry Association issued a statement Friday in response to several U.S. Senators calling for the Transportation Security Administration (TSA) to halt the use of facial recognition technology at screening checkpoints. The association is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/industry-news/article/21295414/security-industry-association-sia-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints",
-      "originalUrl": "https://www.securityinfowatch.com/industry-news/article/21295414/security-industry-association-sia-sia-responds-to-lawmaker-demands-to-halt-facial-recognition-technology-at-tsa-checkpoints",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/02/16x9/OPED_TSA_FACIAL_RECOGNITION_COMMENTARY_TB.63e6c83828109.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-object-recognition-imaging-systems-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view.md",
-      "title": "Object Recognition Imaging Systems Market Size 2023 With Presentation Outlook, Horizontal Viewpoint, Global View",
-      "excerpt": "Feb 10, 2023 (The Expresswire) -- Object Recognition Imaging Systems Market Size 2023-2029 | New Report (127 Pages) | In This Reports Object Recognition Imaging Systems Market and its business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-02-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view-2023-02-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T00:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

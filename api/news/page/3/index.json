@@ -2,6 +2,256 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-28-ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it.md",
+      "title": "AI Takeover: Coca-Cola And Snap Embrace ChatGPT While Banks Ban It",
+      "excerpt": "As excitement and fears build for generative AI, battle lines are being drawn between early adopters and those barring it. Here's a look at which companies are coming out in front.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fd3193ec46bc6e911778bc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/27/ai-takeover-coca-cola-and-snap-embrace-chatgpt-while-banks-ban-it/amp/",
+      "publishedDateTime": "2023-02-27T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real.md",
+      "title": "In The Age Of Artificial Intelligence, We Need Our Human Skills To Keep It Real",
+      "excerpt": "We're still early in the “hype cycle” of inflated expectations and fears, but in a world increasingly driven by artificial intelligence, we’ll need humans at the wheel more than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/",
+      "originalUrl": "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fd198a82408876dac8b544/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiemerisotis/2023/02/27/in-the-age-of-artificial-intelligence-we-need-our-human-skills-to-keep-it-real/amp/",
+      "publishedDateTime": "2023-02-27T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-researchers-use-artificial-intelligence-to-predict-cardiovascular-disease.md",
+      "title": "Researchers use artificial intelligence to predict cardiovascular disease",
+      "excerpt": "Researchers may be able to predict cardiovascular disease—such as arterial fibrillation and heart failure—in patients by using artificial intelligence (AI) to examine the genes in their DNA, according to a new Rutgers study.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-use-artifi.jpg",
+          "width": 2880,
+          "height": 4023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp",
+      "publishedDateTime": "2023-02-27T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-future-of-artificial-intelligence-ai-robots-market-2023-2028-opportunities-and-challenges-133-pages.md",
+      "title": "Future of Artificial Intelligence (AI) Robots Market 2023-2028: Opportunities and Challenges | 133 Pages",
+      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.” Artificial Intelligence (AI) Robots",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-robots-market-2023-2028-opportunities-and-challenges-133-pages-2023-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-robots-market-2023-2028-opportunities-and-challenges-133-pages-2023-02-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-just-how-big-is-this-new-generative-ai-think-internet-level-disruption.md",
+      "title": "Just how big is this new generative AI? Think internet-level disruption",
+      "excerpt": "If I was in a new city and there was a big bookstore, I had to go. That's because books were only available in libraries and certain bookstores. But then, the early Amazon hit the internets. Suddenly,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
+      "originalUrl": "https://www.zdnet.com/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/920c25a582497b6ce1460737db9ed82450a8a16d/2023/02/27/483408f4-2a36-4d23-a7c8-e8b0e1274884/gettyimages-1247345740.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/just-how-big-is-this-new-generative-ai-think-internet-level-disruption/",
+      "publishedDateTime": "2023-02-27T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck.md",
       "title": "This week in data: The ML, AI and data landscape with Matt Turck",
       "excerpt": "What happened in data this week? Matt Turck joins Bruno Aziza to discuss key trends and the current ML, AI and data landscape.",
@@ -358,6 +608,58 @@
       ]
     },
     {
+      "path": "_news/2023-02-27-the-power-of-artificial-intelligence-delivery-robot-market-trends-2023-segmentation-in-customer-targeting.md",
+      "title": "The Power of Artificial Intelligence Delivery Robot Market Trends: 2023 Segmentation in Customer Targeting",
+      "excerpt": "New “Artificial Intelligence Delivery Robot Market” Report 2023 by Manufacturers and Forecast to 2029: This Report",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/the-power-of-artificial-intelligence-delivery-robot-market-trends-2023-segmentation-in-customer-targeting-2023-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/the-power-of-artificial-intelligence-delivery-robot-market-trends-2023-segmentation-in-customer-targeting-2023-02-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-the-future-of-data-and-ai-in-the-financial-services-industry.md",
       "title": "The Future Of Data And AI In The Financial Services Industry",
       "excerpt": "The financial services industry is undergoing a major transformation driven by the latest trends in data and AI.",
@@ -600,6 +902,50 @@
       ]
     },
     {
+      "path": "_news/2023-02-27-icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers.md",
+      "title": "ICICI Prudential Life Insurance debuts machine learning models for its customers",
+      "excerpt": "To make sure that customers keep profiting from their life insurance policies and stay on track to meet their long-term financial objectives, ICICI Prudential Life Insurance has implemented cutting-edge machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers-11677487957218.html",
+      "originalUrl": "https://www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers-11677487957218.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2023/02/27/600x338/icici-pru-life-kRL--621x414_1677488331407_1677488331638_1677488331638.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers/amp-11677487957218.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers/amp-11677487957218.html",
+      "publishedDateTime": "2023-02-27T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-whats-new-in-azure-data-ai-azure-is-the-best-place-to-build-and-run-ai-workloads.md",
       "title": "What's new in Azure Data & AI: Azure is the best place to build and run AI workloads",
       "excerpt": "Bringing together purpose-built AI infrastructure and managed data and AI services into one environment streamlines management and automation, often reducing the complexity of building, training, and bringing AI models into production.",
@@ -746,7 +1092,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/2023-computer-vision-in-artificial-intelligence-ai-market-is-thriving-worldwide-by-2029-2023-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 361,
+      "heat": 351,
       "tags": null,
       "images": [
         {
@@ -882,351 +1228,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-artificial-intelligence-boon-in-battle-against-cancer.md",
-      "title": "Artificial intelligence boon in battle against cancer",
-      "excerpt": "Artificial intelligence (AI) can help diagnose and cure prostate cancer better, two doctors said at an awareness programme on prostate cancer in the city recently. AI can help machines read biopsies as well as a pathologist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/my-kolkata/news/artificial-intelligence-boon-in-battle-against-cancer/cid/1919114",
-      "originalUrl": "https://www.telegraphindia.com/my-kolkata/news/artificial-intelligence-boon-in-battle-against-cancer/cid/1919114",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2023/Feb/1677448288_1619370964_1619039265_artificial-intelligence.gif",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/my-kolkata/news/artificial-intelligence-boon-in-battle-against-cancer/cid/1919114",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/my-kolkata/news/artificial-intelligence-boon-in-battle-against-cancer/cid/1919114",
-      "publishedDateTime": "2023-02-26T18:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-when-it-comes-to-money-your-brain-can-be-your-own-worst-enemy.md",
-      "title": "When It Comes to Money, Your Brain Can Be Your Own Worst Enemy",
-      "excerpt": "Our cognitive biases can get in the way of saving for the future, especially for retirement. Here’s how to recognize and overcome them. Send any friend a story As a subscriber, you have 10 gift ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.html",
-      "originalUrl": "https://www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/26/business/26Retiring-illo/26Retiring-illo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.amp.html",
-      "publishedDateTime": "2023-02-26T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-westpac-and-aws-swim-deeper-into-generative-ai-for-banking.md",
-      "title": "Westpac and AWS swim deeper into generative AI for banking",
-      "excerpt": "Cloud giant AWS has signed a five-year deal with Westpac, a similar contract to one the bank signed with Microsoft Azure last year as it develops AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/companies/financial-services/westpac-and-aws-swim-deeper-into-generative-ai-for-banking-20230224-p5cne4",
-      "originalUrl": "https://www.afr.com/companies/financial-services/westpac-and-aws-swim-deeper-into-generative-ai-for-banking-20230224-p5cne4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/images/$zoom_1.3693%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_209%2C$y_225/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/02509b770f53022f2bcca913d7414d922e3a98bb",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-elon-musk-has-promised-self-driving-teslas-for-years-experts-say-its-not-even-close.md",
-      "title": "Elon Musk has promised self-driving Teslas for years. Experts say it's not even close.",
-      "excerpt": "Then in 2019, he said he felt \"very confident\" that, by 2020, Tesla owners who bought the pricey Full Self-Driving option would be able to dispatch their cars as robotaxis and rake in passive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-promise-experts-2023-2",
-      "originalUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-promise-experts-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63f930f7ae0bf0001824b11c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/elon-musk-tesla-full-self-driving-promise-experts-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-tesla-full-self-driving-promise-experts-2023-2?amp",
-      "publishedDateTime": "2023-02-26T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-ai-flew-a-fighter-jet-for-17-hours.md",
-      "title": "AI Flew a Fighter Jet for 17 Hours",
-      "excerpt": "Add \"fly a military fighter jet\" to the list of tasks AI can accomplish. The Defense Department revealed last week that artificial intelligence flew a jet similar to an F-16 for 17 total hours over 12 flights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/ai-flew-a-fighter-jet-for-17-hours/",
-      "originalUrl": "https://www.cnet.com/tech/ai-flew-a-fighter-jet-for-17-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/5e5cc1c57b2d625140ac5b2e2b7a19534e5fda78/hub/2023/02/22/a9575f9d-8367-4ec6-b17c-55c381efbca4/lma-vista.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-flew-a-fighter-jet-for-17-hours/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-flew-a-fighter-jet-for-17-hours/",
-      "publishedDateTime": "2023-02-26T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-the-role-of-computer-vision-software-market-2023-business-developments-and-strategies-by-2029.md",
-      "title": "The Role of Computer Vision Software Market 2023: Business Developments and Strategies by 2029",
-      "excerpt": "New 115 Pages Report] A Recently published “Computer Vision Software Market” Size (2023) research report offers",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-role-of-computer-vision-software-market-2023-business-developments-and-strategies-by-2029-2023-02-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-role-of-computer-vision-software-market-2023-business-developments-and-strategies-by-2029-2023-02-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.md",
-      "title": "Why Do A.I. Chatbots Tell Lies and Act Weird? Look in the Mirror.",
-      "excerpt": "One of the pioneers of artificial intelligence argues that chatbots are often prodded into producing strange results by the people who are using them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.html",
-      "originalUrl": "https://www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/27/business/00AI-TRUTH/00AI-TRUTH-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.amp.html",
-      "publishedDateTime": "2023-02-26T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

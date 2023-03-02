@@ -194,6 +194,50 @@
       ]
     },
     {
+      "path": "_news/2023-02-27-icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers.md",
+      "title": "ICICI Prudential Life Insurance debuts machine learning models for its customers",
+      "excerpt": "To make sure that customers keep profiting from their life insurance policies and stay on track to meet their long-term financial objectives, ICICI Prudential Life Insurance has implemented cutting-edge machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers-11677487957218.html",
+      "originalUrl": "https://www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers-11677487957218.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2023/02/27/600x338/icici-pru-life-kRL--621x414_1677488331407_1677488331638_1677488331638.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers/amp-11677487957218.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers/amp-11677487957218.html",
+      "publishedDateTime": "2023-02-27T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-artificial-intelligence-opens-up-the-world-of-financial-services.md",
       "title": "Artificial Intelligence Opens Up The World Of Financial Services",
       "excerpt": "The way we make decisions on credit should be fair and inclusive and done in a way that takes into account a greater picture of a person.” Here are the ways AI can help assure more equitable access to financial services: Personalize without branches.",
@@ -1354,40 +1398,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect.md",
-      "title": "UAB joins e&enterprise fintech blockchain platform UAE Trade Connect",
-      "excerpt": "United Arab Bank (UAB) has announced that it has joined UAE Trade Connect (UTC) as an official member. UTC, the fintech blockchain platform of e& enterprise, is the UAE's first commercialized solution to combat fraud in the trade finance space built on advanced technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect-1508146",
-      "originalUrl": "https://www.albawaba.com/business/pr/uab-joins-eenterprise-fintech-blockchain-platform-uae-trade-connect-1508146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T02:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,429 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2023-01-10-university-of-toronto-scientists-use-machine-learning-to-fast-track-drug-formulation-development.md",
+      "title": "University of Toronto scientists use machine learning to fast-track drug formulation development",
+      "excerpt": "Scientists at the University of Toronto have successfully tested the use of machine learning models to guide the design of long-acting injectable drug formulations. The potential for machine learning algorithms to accelerate drug formulation could reduce the time and cost associated with drug development,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/976052",
+      "originalUrl": "https://www.eurekalert.org/news-releases/976052",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-why-artificial-intelligence-is-set-to-be-a-game-changer-for-businesses-in-2023-according-to-7-founders.md",
+      "title": "Why artificial intelligence is set to be a game changer for businesses in 2023, according to 7 founders",
+      "excerpt": "If you've seen artificial-intelligence-generated selfies ... They mentioned innovations in healthcare, wellness, and supply chains, but the most common trend was AI. Many said they expected ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1",
+      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63b895d0fd2a2700180838c7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp",
+      "publishedDateTime": "2023-01-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-the-ai-market-an-overview.md",
+      "title": "The AI Market: An Overview",
+      "excerpt": "The AI market is growing exponentially, both in terms of revenue and level of innovation. If there’s a leading technology of the current era, artificial intelligence (AI) is clearly a top contender. The hype is constant and flows from all quarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-market/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image4.jpeg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T15:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-conversational-ai-startup-nlx-raises-46m-to-fuel-expansion-and-product-development.md",
+      "title": "Conversational AI startup NLX raises $4.6M to fuel expansion and product development",
+      "excerpt": "Founded in 2018, NLX offers automated and frictionless multimodal self-service tools powered by conversational AI. Its service allows organizations to build and manage “next-generation conversational experiences,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/01/09/conversational-ai-startup-nlx-raises-4-6m-fuel-expansion-product-development/",
+      "originalUrl": "https://siliconangle.com/2023/01/09/conversational-ai-startup-nlx-raises-4-6m-fuel-expansion-product-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/nlx.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T15:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-5-predictions-for-banking-and-fintech-in-2023.md",
+      "title": "5 Predictions For Banking And Fintech In 2023",
+      "excerpt": "Embedded fintech—the integration of fintech products ... years of hearing pundits and futurists tell them how disruptive AI is going to be in banking, 2023 will finally be the year that bank ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ronshevlin/2023/01/09/5-predictions-for-banking-and-fintech-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/ronshevlin/2023/01/09/5-predictions-for-banking-and-fintech-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc46a0abf2a73aa3830711/0x0.jpg?format=jpg&crop=4092,3698,x0,y268,safe&width=1200",
+          "width": 1200,
+          "height": 1084,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ronshevlin/2023/01/09/5-predictions-for-banking-and-fintech-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2023/01/09/5-predictions-for-banking-and-fintech-in-2023/amp/",
+      "publishedDateTime": "2023-01-09T15:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-will-amds-mi300-beat-nvidia-in-ai.md",
+      "title": "Will AMD’s MI300 Beat NVIDIA In AI?",
+      "excerpt": "CES Keynote address, AMD’s CEO Dr. Lisa Su reiterated the company’s plan to bring the Instinct MI300 to market by the end of this year, and showed the monster silicon in hand. The chip is certainly a major milestone for the company,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/01/09/will-amds-mi300-beat-nvidia-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/01/09/will-amds-mi300-beat-nvidia-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b73bb6c46c27a64e429d7b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/01/09/will-amds-mi300-beat-nvidia-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/01/09/will-amds-mi300-beat-nvidia-in-ai/amp/",
+      "publishedDateTime": "2023-01-09T15:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-conscious-robots-will-be-bigger-than-curing-cancer-scientists-say.md",
+      "title": "Conscious Robots Will Be 'Bigger Than Curing Cancer,' Scientists Say",
+      "excerpt": "Scientists have long considered robot consciousness a subject fraught with ethical—maybe even moral—pitfalls, and so they left it out of the artificial intelligence equation. But that’s no ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popularmechanics.com/technology/robots/a42435316/robot-consciousness-reality/",
+      "originalUrl": "https://www.popularmechanics.com/technology/robots/a42435316/robot-consciousness-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/artificial-intelligence-machine-learning-royalty-free-image-1673292674.jpg?crop=0.835xw:0.627xh;0.0897xw,0&resize=1200:*",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Mechanics",
+        "domain": "popularmechanics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-top-self-driving-car-stories-of-2022-in-review-big-ups-big-downs.md",
+      "title": "Top Self-Driving Car Stories Of 2022 In Review - Big Ups, Big Downs",
+      "excerpt": "Baidu showed off their custom robotaxi design ... MORE FROM FORBESReports Of The Death Of Self-Driving Cars Are Greatly ExaggeratedBy Brad Templeton Waymo has also said they will soon operate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2023/01/09/top-self-driving-car-stories-of-2022-in-reviewbig-ups-big-downs/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2023/01/09/top-self-driving-car-stories-of-2022-in-reviewbig-ups-big-downs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b3a653cd0b01463a95e410/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2023/01/09/top-self-driving-car-stories-of-2022-in-reviewbig-ups-big-downs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2023/01/09/top-self-driving-car-stories-of-2022-in-reviewbig-ups-big-downs/amp/",
+      "publishedDateTime": "2023-01-09T15:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-aws-not-impacted-by-amazons-18000-layoffs-sources.md",
+      "title": "AWS Not Impacted By Amazon’s 18,000 Layoffs: Sources",
+      "excerpt": "Employees at Amazon Web Service will not be significantly affected by Amazon’s 18,000 layoff round this month, according to sources, although AWS still remains in a hiring pause. Amazon’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/aws-not-impacted-by-amazon-s-18-000-layoffs-sources",
+      "originalUrl": "https://www.crn.com/news/cloud/aws-not-impacted-by-amazon-s-18-000-layoffs-sources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/027d-1707e46b7484-4bb6908abadd-1000/crn_in_depth_wave_of_layoffs_in_the_tech_industry.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-with-epa-support-and-new-seed-funding-heres-how-cleanrobotics-plans-to-expand-in-2023.md",
       "title": "With EPA support and new seed funding, here’s how CleanRobotics plans to expand in 2023",
       "excerpt": "Cofounder Tanner Cook told Technical.ly the company plans to use the $4.5 million seed round it raised last year to build and sell more of its AI-powered TrashBots.",
@@ -704,385 +1127,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-nvidia-reportedly-using-ai-optimized-drivers-to-improve-their-gpu-drivers.md",
-      "title": "NVIDIA Reportedly Using AI-Optimized Drivers To Improve Their GPU Drivers",
-      "excerpt": "NVIDIA is reportedly looking to include artificial intelligence (AI) in its new GPU (Graphics Processing Unit) drivers expected to release in the first",
-      "sourceUrl": null,
-      "webUrl": "https://www.techworm.net/2023/01/nvidia-ai-optimized-drivers-gpu-driver.html",
-      "originalUrl": "https://www.techworm.net/2023/01/nvidia-ai-optimized-drivers-gpu-driver.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techworm.net/wp-content/uploads/2023/01/NVIDIA.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techworm.net",
-        "domain": "techworm.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-cobalt-robotics-expands-deployment-with-ally-financial-to-secure-its-facilities-keep-employees-safe-save-money-and-tackle-labor-shortage.md",
-      "title": "Cobalt Robotics Expands Deployment with Ally Financial to Secure Its Facilities, Keep Employees Safe, Save Money, and Tackle Labor Shortage",
-      "excerpt": "Cobalt Robotics, the only machine learning company to automate repetitive manual security and facility tasks with autonomous robots around the world, today announced it has expanded its customer implementation with Ally Financial,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/01/09/9739892.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/01/09/9739892.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-4-ways-to-dominate-facebook-ads-in-2023.md",
-      "title": "4 Ways To Dominate Facebook Ads In 2023",
-      "excerpt": "In 2022, the digital marketing industry faced several challenges. Among these, the two major challenges were AI and the increased cost of digital ads. According to recent research, the Cost-Per-Click (CPC) for Facebook ads has shown a 17% increase in  the year 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/4-ways-to-dominate-facebook-ads-in-2023/",
-      "originalUrl": "https://techbullion.com/4-ways-to-dominate-facebook-ads-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/01/4-Ways-To-Dominate-Facebook-Ads-In-2023-1-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life.md",
-      "title": "GULIGULI Showed off Smart Pet Companion Robot at CES 2023, Helping Pets Live Their Best Life",
-      "excerpt": "GULIGULI unveils at CES a robot that lets you see, talk to, play with, and even provide treats to your cat or dog when you’re not home. GULIGULI, maker of innovative pet supplies, is putting an end to pet and pet owner loneliness with its new app-controlled pet companion robot.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-1-9-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-1-9-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-best-gpu-deals-for-january-2023.md",
-      "title": "Best GPU deals for January 2023",
-      "excerpt": "Things are improving, though, and there are some good GPU deals popping up online if you ... at 192-bit, with DLSS AI acceleration and ray tracing support for hyper-realistic, fluid motion ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/",
-      "originalUrl": "https://www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2018/05/razer-core-x-ext-gpu-openl.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/best-cheap-gpu-deals/",
-      "publishedDateTime": "2023-01-09T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-speech-pattern-analysis-can-help-diagnose-manage-psychiatric-disorders.md",
-      "title": "Speech pattern analysis can help diagnose, manage psychiatric disorders",
-      "excerpt": "Advances in natural language processing, speech recognition, and computer science have underscored the fact that using speech analysis as an objective, clinical measurement of mental illness is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230109/Speech-pattern-analysis-can-help-diagnose-manage-psychiatric-disorders.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230109/Speech-pattern-analysis-can-help-diagnose-manage-psychiatric-disorders.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/depression-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T05:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles.md",
-      "title": "indie Semiconductor Developing More-advanced Vision Processors for Vehicles",
-      "excerpt": "California-based indie Semiconductor, which has an office in Auburn Hills, has announced a strategic partnership with Seeing Machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbusiness.com/tech-mobility-news/indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles/",
-      "originalUrl": "https://www.dbusiness.com/tech-mobility-news/indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2023/01/TMN-SeeingMachine400.jpg",
-          "width": 400,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DBusiness Magazine",
-        "domain": "dbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-natural-language-processing-market-size-worth-usd-16181-billion-by-2029-report-by-fortune-business-insights.md",
-      "title": "Natural Language Processing Market size Worth USD 161.81 Billion by 2029 | Report by Fortune Business Insights",
-      "excerpt": "Moreover, rising adoption of electronics elevated natural language processing adoption. Also rapid digitalization in companies enhanced the adoption of the software. These factors enhanced this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/g30329142/natural-language-processing-market-size-worth-usd-161-81-billion-by-2029-report-by-fortune-busines",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/g30329142/natural-language-processing-market-size-worth-usd-161-81-billion-by-2029-report-by-fortune-busines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-australian-gov-renews-ibm-contract-for-quantum-computing-ai.md",
-      "title": "Australian gov renews IBM contract for quantum computing, AI",
-      "excerpt": "This includes IBM’s suite of technology capabilities like IBM Watson, which uses AI to automate processes, and the IBM Cloud, to store government data. The new agreement follows the first of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/public-sector/369819/australian-gov-renews-ibm-contract-for-quantum-computing-ai",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/public-sector/369819/australian-gov-renews-ibm-contract-for-quantum-computing-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1673259843/itpro/2023/January/IBM_DTA_Australia_press.png",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

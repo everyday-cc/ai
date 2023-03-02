@@ -338,20 +338,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Meta unveils ChatGPT rival AI LLaMA, but no guarantee on hallucination"
-    excerpt: "The Fundamental AI Research (FAIR) team at Meta, Facebook's parent company, has introduced ChatGPT rival, a new \"state-of-the-art\" artificial intelligence (AI) language model called LLaMA."
-    publishedDateTime: 2023-02-25T11:46:00Z
-    webUrl: "https://interestingengineering.com/innovation/meta-unveils-chatgpt-rival-ai-llama"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/25/image/jpeg/TfimQwVaBurGiWknvr0m16eUaOdXaGB9C4PfLklQ.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Children taking the International Baccalaureate WILL be allowed to use AI chatbot ChatGPT to write their essays"
     excerpt: "ChatGPT is a large language model ... checking software and translation apps, he added. 'We must accept that it is going to become part of our everyday lives. 'If an AI programme can indeed ..."
     publishedDateTime: 2023-02-27T11:22:00Z
@@ -433,6 +419,6 @@ related:
       domain: moneycontrol.com
     quality: 0
 
-secured: "PpyOgRVEhFxMaNygLnhusRl5svTxUg1h4XUcsn7CZp/dj21ztFtAtJmFw8STHU69QNuhWXrbAK/NsAytJ6e1uJMwQCJuMZGzpVsECnhzN2NN65BR01dOSi2O8UG/7Yhv5VF/o3yagE/MLcu3SKncsSHmgk34TPifhsvS5xR5RMzPtByXI8+L6ZlLfZFJnZa4HDb8ypm+qaVYhIWRssAugWO4+2OI2zHSSOF9ItLrTohTiw9xwjjvuKJ0DS8Spdw47RBg+L7mrBu3obGQyahnqCIgzQJsZllt9bLJoewWTctsCeTxttD3Hs8lHIplpA1Rdjjy1WKF97hixv4wXjDsxc1TmxMXVGUHZrS8am3Y88c=;THTbjQEik8Vbfj3SArTFlA=="
+secured: "9fskN5CDx04SspMWN5XKpUhyy/fYszIcBxSPRoCiNPKVbAnokK4XnTlkleN7cbh7Nq1mcR2ZIOG1hE7Is2nyRDRYBvO7NiFY3mfipUh2K+PGLfBGowSzOGLESR6wdvM/VoNlc80LeeoDU3lUW3zuSoUCj9Sg02c4YJ1Ho8McPbEOFcbfH8BXf9ZD12x8CXDMBCwUN2zukRmgB4qF3veFnZAXh1uyPJA7ng3RBXoeQpbfaOGVY4RQL/xi+S5SZC/qNR9ExddDPgbrbdpa1ffGkcQoFCFLtBwB5KkOd6gtyHi41Uiem/E9VI99Ri8NjfsNGJLr8Y4fbXHFgOd5zcV/lXXzMOU753pDDbyElqfFOGWuGEAeMU3Iur3Qr0WS8wUQgts05LqaUrUZnCvfkyD4ICKznNMJULSpdpqEljrh0RcyTlZO1TIxyxWxuD31WOY19A4v1PJYLGb+iLAHBuxo8cYG39FxmWQtuq2zIBiB9E+CWY54nfAUUsL8V5rVYqKMb+WypwekqN7z1JPd/a0lHQ==;LzKHy2mz25zPPbBda7eIpw=="
 ---
 

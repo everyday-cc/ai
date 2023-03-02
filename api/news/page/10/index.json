@@ -2,6 +2,440 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-02-18-combat-ai-robodogs-follow-telepathic-commands-from-soldiers.md",
+      "title": "Combat AI ‘robodogs’ follow telepathic commands from soldiers",
+      "excerpt": "Robinson and fellow soldiers did course training with the mind-reading headsets and robodogs ... A new high-tech headset allows soldiers to control robot dogs using only their thoughts.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/",
+      "originalUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/02/robodog-Newsflash-BrainRobotics-04-copy.jpg?quality=75&strip=all&w=661",
+          "width": 661,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/amp/",
+      "publishedDateTime": "2023-02-17T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-roblox-is-bringing-generative-ai-to-its-gaming-universe.md",
+      "title": "Roblox Is Bringing Generative AI to Its Gaming Universe",
+      "excerpt": "The company aims to draw on the new technology’s code-writing ability to make its digital worlds even more customizable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/",
+      "originalUrl": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63ef9162ec9575838d5299ab/master/pass/Roblox-Generative-AI-Materials_science.jpg",
+          "width": 1728,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/roblox-generative-ai-gaming-universe/amp",
+      "publishedDateTime": "2023-02-17T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-how-to-stop-google-from-its-creepy-way-of-using-you-for-facial-recognition.md",
+      "title": "How to stop Google from its creepy way of using you for facial recognition",
+      "excerpt": "Kurt \"The CyberGuy\" Knutsson explains what facial recognition is, how Google uses it and how you can turn it off to protect your security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/how-stop-google-creepy-way-using-you-facial-recognition",
+      "originalUrl": "https://www.foxnews.com/tech/how-stop-google-creepy-way-using-you-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/535bd83c-c540-49fc-9cfd-df5e8a6d92f6/b96391e6-71e0-41b9-b57b-5eafc906e24d/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/how-stop-google-creepy-way-using-you-facial-recognition.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/how-stop-google-creepy-way-using-you-facial-recognition.amp",
+      "publishedDateTime": "2023-02-17T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-inside-the-studio-with-an-ai-guided-painting-robot.md",
+      "title": "Inside the Studio With an AI-Guided Painting Robot",
+      "excerpt": "To help illustrate our cover story on how the AI arms race is changing the world, we reached out to award-winning AI artist Pindar Van Arman, who uses artificial intelligence to create his art. Van Arman, who built his first “painting robot” 15 years ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6256108/artificial-intelligence-artist/",
+      "originalUrl": "https://time.com/6256108/artificial-intelligence-artist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://time.com/img/icons/wallet-connect.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-gfai-stock-alert-guardforce-ai-officially-acquires-keweis-robotics-assets.md",
+      "title": "GFAI Stock Alert: Guardforce AI Officially Acquires Kewei’s Robotics Assets",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence (AI) world received an exciting update this week.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gfai-stock-alert-guardforce-ai-officially-acquires-keweis-robotics-assets-1032106638",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gfai-stock-alert-guardforce-ai-officially-acquires-keweis-robotics-assets-1032106638",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-artificial-intelligence-robotics-market-size-2023-expected-to-deliver-dynamic-progression-until-2026.md",
+      "title": "Artificial Intelligence Robotics Market Size 2023 : Expected To Deliver Dynamic Progression Until 2026",
+      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-2023-expected-to-deliver-dynamic-progression-until-2026-2023-02-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-2023-expected-to-deliver-dynamic-progression-until-2026-2023-02-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-best-robot-vacuum-deals-under-100-ahead-of-presidents-day.md",
+      "title": "Best robot vacuum deals under $100 ahead of Presidents Day",
+      "excerpt": "This robot vacuum can recognize what objects to avoid, so you won't have to deal with it constantly crashing into the couch or a pile of laundry on the floor. Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/12/02/2487fba3-46f6-4beb-8eed-f66994896979/thumbnail/1200x630/a0e7cdce21c7b1a9b4232d35af859d8c/anker-eufy-robot-vacuum-100-hero.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-robot-vacuum-deals-under-100-in-2023-02-17/",
+      "publishedDateTime": "2023-02-17T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-meta-to-integrate-generative-ai-features-on-instagram-and-facebook.md",
+      "title": "Meta to integrate generative AI features on Instagram and Facebook",
+      "excerpt": "Facebook parent Meta plans to integrate \"generative ... it hadn't captured the public's imagination until last year when AI research lab OpenAI unveiled products such as Dall-E, which creates ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm",
+      "originalUrl": "https://www.moneycontrol.com/storyboard18/quantum-brief/meta-to-integrate-generative-ai-features-on-instagram-and-facebook-5596.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.storyboard18.com/storyboard18/2023/02/yurteasgbdr-768x432.png",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-17T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-consumer-apps-are-using-this-startup-to-power-their-audio-ai.md",
+      "title": "Consumer Apps Are Using This Startup To Power Their Audio AI",
+      "excerpt": "AI has been the centerpiece of conversation around technology as we’ve entered a new year. There’s lots of buzz and hype around the space and where the industry is headed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/02/17/consumer-apps-are-using-this-startup-to-power-their-audio-ai/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/02/17/consumer-apps-are-using-this-startup-to-power-their-audio-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63e259c919d9f74be1414461/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/02/17/consumer-apps-are-using-this-startup-to-power-their-audio-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/02/17/consumer-apps-are-using-this-startup-to-power-their-audio-ai/amp/",
+      "publishedDateTime": "2023-02-17T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-global-deep-learning-market-report-2023-2027-rise-in-the-adoption-of-cloud-technology-applications-in-automotive-industry-fueling-demand.md",
       "title": "Global Deep Learning Market Report 2023:-2027: Rise in the Adoption of Cloud Technology & Applications in Automotive Industry Fueling Demand",
       "excerpt": "The global deep learning market is expected to grow at an impressive CAGR in the forecast period, 2023-2027 Reduction in hardware costs, improvement of computational power, and rise in adoption of cloud-based technology are the primary factors driving the demand for the global deep learning market for the next five years.",
@@ -801,413 +1235,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-with-ai-accurate-demand-forecasting-is-possible.md",
-      "title": "With AI, accurate demand forecasting is possible",
-      "excerpt": "How artificial intelligence is making accurate demand forecasting possible — finally — for companies willing to leave legacy systems behind.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/with-ai-accurate-demand-forecasting-is-possible/",
-      "originalUrl": "https://venturebeat.com/ai/with-ai-accurate-demand-forecasting-is-possible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_708536860-e1622819708357.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/with-ai-accurate-demand-forecasting-is-possible/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/with-ai-accurate-demand-forecasting-is-possible/amp/",
-      "publishedDateTime": "2023-02-16T20:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-deep-learning-chipset-market-future-scope-demand-perceptive-and-comprehensive-analysis-by-2028.md",
-      "title": "Deep Learning Chipset Market : Future Scope, Demand, Perceptive and Comprehensive Analysis By 2028",
-      "excerpt": "Feb (The Expresswire) -- \"Deep Learning Chipset Market\" Report provides a Detailed analysis of global market size, regional and country-level",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-future-scope-demand-perceptive-and-comprehensive-analysis-by-2028-2023-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-future-scope-demand-perceptive-and-comprehensive-analysis-by-2028-2023-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T19:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-chinese-chipmakers-to-advance-gpu-development-for-chatgpt.md",
-      "title": "Chinese chipmakers to advance GPU development for ChatGPT",
-      "excerpt": "The rising popularity of ChatGPT, an AI-powered chatbot developed by OpenAI, has encouraged Chinese chipmakers to accelerate their related GPU development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html",
-      "originalUrl": "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20230216pd213_files/2_r.jpg",
-          "width": 336,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-open-ai-aligning-ai-systems-with-human-values-is-a-top-priority-for-our-company.md",
-      "title": "Open AI: “Aligning AI Systems with Human Values Is a Top Priority for Our Company”",
-      "excerpt": "In a blog post titled “How should AI systems behave, and who should decide” published on the OpenAI’s website, the company insisted that “our mission is to ensure that artificial general intelligence (AGI) benefits all of humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://iblnews.org/open-ai-aligning-ai-systems-with-human-values-is-a-top-priority-for-our-company/",
-      "originalUrl": "https://iblnews.org/open-ai-aligning-ai-systems-with-human-values-is-a-top-priority-for-our-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ibleducation.com/wp-content/themes/ibl-web-ibleducation-theme/img/aws-logo-c.png",
-          "width": 3237,
-          "height": 1946,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T17:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBL News",
-        "domain": "iblnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty.md",
-      "title": "Master Deep Learning and AI with IITM Pravartak | Learn from IIT Madras Faculty",
-      "excerpt": "Taught by distinguished IIT-Madras faculty, this programme, offered in collaboration with Emeritus, aims to enhance the tech skills of early and mid-level professionals",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty-11676549902004.html",
-      "originalUrl": "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty-11676549902004.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/02/16/600x338/EMRT_1676550476050_1676550481097_1676550481097.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty/amp-11676549902004.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/master-deep-learning-and-ai-with-iitm-pravartak-learn-from-iit-madras-faculty/amp-11676549902004.html",
-      "publishedDateTime": "2023-02-16T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-cutting-edge-umbc-research-uses-artificial-intelligence-and-robots-to-assist-national-security.md",
-      "title": "Cutting-edge UMBC research uses artificial intelligence and robots to assist national security",
-      "excerpt": "The United States is increasingly turning to artificial intelligence to protect against threats and assist in disasters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/baltimore/news/cutting-edge-umbc-research-uses-artificial-intelligence-and-robots-to-assist-national-security/",
-      "originalUrl": "https://www.cbsnews.com/baltimore/news/cutting-edge-umbc-research-uses-artificial-intelligence-and-robots-to-assist-national-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/02/17/2b7924ed-a841-4ffc-8378-c862e23c9c39/thumbnail/1200x630/7f7e95599493d2df7d3d251764a28879/download.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/baltimore/news/cutting-edge-umbc-research-uses-artificial-intelligence-and-robots-to-assist-national-security/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/cutting-edge-umbc-research-uses-artificial-intelligence-and-robots-to-assist-national-security/",
-      "publishedDateTime": "2023-02-16T16:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-can-robotics-and-ai-save-us-from-ourselves.md",
-      "title": "Can Robotics and AI Save us from Ourselves?",
-      "excerpt": "In reality, it now appears that robots and artificial intelligence (AI) may help be one of the saviors ... As this technology grows, we could start seeing it used on a larger scale to provide for people who’re stuck in their homes.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/can-robotics-and-ai-save-us-ourselves",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/can-robotics-and-ai-save-us-ourselves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/6849272319_a3cb362b70_h_700W.jpg",
-          "width": 700,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
-      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
-      "excerpt": "DN: How do artificial intelligence and other advanced technologies help in ... contact with their team or is injured and unable to communicate. DN: Explain how robot technology can be used to help with the California wildfires. Karen Panetta: In ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-manufacturing-predictions-for-the-next-decade.md",
-      "title": "Manufacturing Predictions for the Next Decade",
-      "excerpt": "“This will involve robotics improving through artificial intelligence, and that artificial intelligence will improve through collaboration with people.” Putman predicts that we’ll see the robot market produce equipment this is increasingly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/manufacturing-predictions-next-decade",
-      "originalUrl": "https://www.designnews.com/automation/manufacturing-predictions-next-decade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/feature_1.jpeg",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

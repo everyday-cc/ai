@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/03/01/generative-ai-cha
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/03/01/generative-ai-chatgpt-as-masterful-manipulator-of-humans-worrying-ai-ethics-and-ai-law/amp/"
 type: article
 quality: 98
-heat: 388
+heat: 378
 published: true
 
 provider:
@@ -329,20 +329,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/80c9106ccd715fc7291a97859d7e6f8d264c9b99/0_191_5827_3496/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=816193f1a966b2f848ab2c0e60e0c1fc"
         width: 620
         height: 372
-        isCached: true
-  - title: "Meta unveils ChatGPT rival AI LLaMA, but no guarantee on hallucination"
-    excerpt: "The Fundamental AI Research (FAIR) team at Meta, Facebook's parent company, has introduced ChatGPT rival, a new \"state-of-the-art\" artificial intelligence (AI) language model called LLaMA."
-    publishedDateTime: 2023-02-25T11:46:00Z
-    webUrl: "https://interestingengineering.com/innovation/meta-unveils-chatgpt-rival-ai-llama"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/25/image/jpeg/TfimQwVaBurGiWknvr0m16eUaOdXaGB9C4PfLklQ.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Children taking the International Baccalaureate WILL be allowed to use AI chatbot ChatGPT to write their essays"
     excerpt: "ChatGPT is a large language model ... checking software and translation apps, he added. 'We must accept that it is going to become part of our everyday lives. 'If an AI programme can indeed ..."

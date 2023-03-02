@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/openais-cto-murati-wants-less-hype-a
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openais-cto-murati-wants-less-hype-around-gpt-4-chatgpt-2023-3?amp"
 type: article
 quality: 68
-heat: 78
+heat: 79
 published: true
 
 provider:

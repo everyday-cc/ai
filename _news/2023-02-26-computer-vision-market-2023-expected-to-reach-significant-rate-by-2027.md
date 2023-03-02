@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-expected-to-reach-significant-rate-by-2027-2023-02-25"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,19 +29,89 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market 2023 Demonstrates A signify Growth By 2029"
-    excerpt: "Computer Vision Market 2023 with 119 Pages Report and enhance with extents shares into sub-counties are covered in"
-    publishedDateTime: 2023-02-28T00:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2023-demonstrates-a-signify-growth-by-2029-2023-02-27"
+  - title: "Natural Language Processing (NLP) Market to Grow Significantly by Leading Players 2023 to 2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Natural Language Processing (NLP) Market\" Report provides a Detailed analysis of global market size, regional"
+    publishedDateTime: 2023-02-28T01:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Deep Learning Software Market to Grow Significantly by Leading Players 2023 to 2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Deep Learning Software Market\" Research Report 2023 Provides a Basic overview of the Industry including"
+    publishedDateTime: 2023-02-27T01:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028"
+    excerpt: "Mar 01, 2023 (The Expresswire) -- \"Machine Learning Market\" Report covers specified competitive outlook consisting of the market proportion and"
+    publishedDateTime: 2023-03-01T06:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Services Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Cognitive Services Market\" Report provides a Detailed analysis of global market size, regional and country-level"
+    publishedDateTime: 2023-02-28T01:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2023-size-share-growth-analysis-trends-and-forecast-to-2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vehicle Speech Recognition System Market Size is Anticipated to Grow and Reach Million during the period of 2023- 2028"
+    excerpt: "Feb (The Expresswire) -- \"Vehicle Speech Recognition System Market\" research report New Comprehension 2023 |Qualified Report Spread Across|"
+    publishedDateTime: 2023-02-27T07:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-size-is-anticipated-to-grow-and-reach-million-during-the-period-of-2023--2028-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Japan Natural Language Processing (NLP) Market To Grow With A CAGR Of 25.5% During 2021-2030"
+    excerpt: "With the growing advancements in deep learning architecture and algorithms in the field of image recognition and speech processing, the demand for natural language processing (NLP) has grown ..."
+    publishedDateTime: 2023-02-26T11:15:00Z
+    webUrl: "https://menafn.com/1105647123/Japan-Natural-Language-Processing-NLP-Market-To-Grow-With-A-CAGR-Of-255-During-2021-2030"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 43
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?611155"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "djbFJ8e7zqnMSXr98J6VIrdCDT1CiBJhGFIBsxlSm9nGHX1Cke/2L5Lsd5UfOINgxRKs4pnKTJjhPcd4YtywikxIa9Imo6wf8ueaBaD+QlbMtF7JJEXPSJGse/1xMTY74yEcDfsgRTvNHvR/k921PM50TDW3lCrtaCXuf2pFWSAfQhBroYWHHY58yQwUeG6tGvdPa3VimXouJ/a8CU8dAQzXxxZ3dzChEMPuDIevv0T3YCG+tuHpONn4s8aw7kJsS4/Qv+eWHyIUALtQ2yrSIaLqFQ63C5aydT6P/yKu+vLBwQ1f+HSMw/+CjjRE3LJ//ykZ3nDhgzEKfnlVMZpCKI+rX9/if54NUv2Yqlsnbmg=;P0kcIyxa7m+gkPvBKZ/htg=="

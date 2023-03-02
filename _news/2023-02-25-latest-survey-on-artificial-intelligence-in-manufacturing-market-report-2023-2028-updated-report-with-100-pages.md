@@ -28,20 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Agriculture Market Worth $4.7 Billion In 2028 - Exclusive Report By Marketsandmarketstm"
-    excerpt: "The ai in agriculture market is projected to grow from USD 1.7 billion in 2023 to USD 4.7 billion in 2028; it is expected to grow at a CAGR of 23.1% from 2023 to 2028 according to a new report by MarketsandMarketsTM."
-    publishedDateTime: 2023-03-01T18:26:00Z
-    webUrl: "https://menafn.com/1105685156/Artificial-Intelligence-In-Agriculture-Market-Worth-47-Billion-In-2028-Exclusive-Report-By-Marketsandmarketstm"
+  - title: "Artificial Intelligence in Precision Farming Market Analysis Report 2023 Along with Statistics Figures, till 2029"
+    excerpt: "Artificial Intelligence in Precision Farming Market 2022 Report offers a Inclusive valuation regarding the competitive landscape of the Artificial Intelligence in Precision Farming market and includes a deep description of performance by top key global players (Experimental Study,"
+    publishedDateTime: 2023-02-28T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-02-27"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?845867"
-        width: 450
-        height: 250
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
 
 secured: "rculHJVVwysseC/uROI/BlcwMgA1vfPp424qQ3UloFtSc5M4ssNZpN/viXNu8yBio3C4ViaNTi9IBeCDfGi353FdJ3nI2yXEd8oOads0GBfGwSfP6tTgGMhXvulGQcZGc5NShf0stP1zxF7x1/aZgnVba0i0qh1qIcFEuygBd+QGY7Pnjeo8WGLKOAkBd2hOdSp/U38+cg5GIteFRfWhjl3qNvDxXOr/2o/bB+imEid6Q7BCuDJgyhokkUTIr+lXAs9AmFDzP9MY5wqN3WbM7jgX43hIX3/1GIBw71BCt5S2GLHOtCUCc2g43JDNr9rvOxnRmnUszQjxwOLpy19CKH0OJ8WZgEQu+grCxU2sQiE=;VcFMxsL1UoUnUoSQknjwdw=="
 ---

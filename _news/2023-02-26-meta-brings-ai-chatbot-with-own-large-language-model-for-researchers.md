@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatb
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: India TV
@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Meta launches LLaMA model, a mightier research tool than OpenAI's GPT-3"
-    excerpt: "The social networking giant plans to make the technology accessible to researchers and integrate it into its product in the future."
-    publishedDateTime: 2023-02-25T11:15:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/meta-launches-llama-model-a-mightier-research-tool-than-openais-gpt-3-784922"
+  - title: "Meta Heats Up the AI Race With Their State-Of-The-Art Foundation Language Model LLaMA"
+    excerpt: "Meta AI has entered the AI race dominated by large language models (LLMs) such as OpenAI’s ChatGPT, Microsoft’s GPT-powered Bing, and Google’s Bard. Meta CEO Mark Zuckerberg posted the news in a Facebook post: “Today we’re releasing a new state-of-the-art AI large language model called LLaMA designed to help researchers advance their"
+    publishedDateTime: 2023-02-27T23:49:00Z
+    webUrl: "https://syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/"
+    ampWebUrl: "https://syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/02/27/meta-heats-up-the-ai-race-with-their-state-of-the-art-foundation-language-model-llama/amp/"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 52
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/02/25/1338442-openai.jpg"
-        width: 1200
-        height: 720
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
+  - title: "China is bored of Baidu. Here’s how their AI chatbot will transform the company"
+    excerpt: "The most high-profile AI chatbot from China is internet company Baidu’s Ernie Bot, which it plans to integrate into its search engine, the same way that Microsoft has integrated ChatGPT into Bing. Most reporting,"
+    publishedDateTime: 2023-02-28T11:00:00Z
+    webUrl: "https://restofworld.org/2023/chatbot-ernie-transforms-baidu/"
+    type: article
+    provider:
+      name: Rest of World
+      domain: restofworld.org
+    quality: 35
+    images:
+      - url: "https://149346090.v2.pressablecdn.com/wp-content/uploads/2023/02/GettyImages-1246868369-1600x900.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "7ycEIZqANxOcLUJvWWTE6MI/V5xdcmIR9ATPfp5z0KgKu3pKsGbNuyCiTCUzeqnl7+6sTHgQqJpcicaBebNHslVZwv3Jpru6Q3fshQM/wBpepLlmNEG2bMgffh1IruZdx4g069IFGi+3vj+BdVZC0XV3l9yoNcqhyOrpjsaiW2CiBHOiffRrk/ufEfdSVOpyZ/jx1PZ4ieqIqG1pZxI2OoNFLF0s//s2kjKu338Dp4DFqCwezh0Cw01DZkgbmDbXtm6Xokss0VjxxaDV3sqjE9obfq7xsLpIj+lm783JTTHni/Wpyh2XMes6ylymBdWEu/G2lIELJSmSTVZs0oyHsvAi4r2ffleLoN4I1X5Q7foLJAZVxhKijnz48E5eZz5Bh93ZWKxm/njidvp7ci3BHctVbLb28vADgIC0AGG18XHduHUKF0ohujXmOjKHPKHhJslmFbDDWzuiyYAkWHyQeqnc1QmQWxTFeS/2Ax5lnNY8LId/RVCJJ262m9E/XreSJw9kAhmSG1NXlyJhx9tjwQ==;A9xjHOp/Z/hReJ/7Bbjghw=="

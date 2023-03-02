@@ -2,12 +2,14 @@
 category: news
 title: "When Dyslexics Meet Artificial Intelligence"
 excerpt: "In this blog, we will discuss the implications of dyslexia for employers and employees in a world where artificial intelligence (AI) will be of growing importance. Dyslexia is a disorder characterized by reading below the expected level for one’s age."
-publishedDateTime: 2023-03-01T18:39:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/platform-for-success/202303/when-dyslexics-meet-artificial-intelligence"
-webUrl: "https://www.psychologytoday.com/intl/blog/platform-for-success/202303/when-dyslexics-meet-artificial-intelligence"
+publishedDateTime: 2023-03-01T22:00:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/platform-for-success/202303/when-dyslexics-meet-artificial-intelligence"
+webUrl: "https://www.psychologytoday.com/us/blog/platform-for-success/202303/when-dyslexics-meet-artificial-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/platform-for-success/202303/when-dyslexics-meet-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/platform-for-success/202303/when-dyslexics-meet-artificial-intelligence?amp"
 type: article
-quality: 17
-heat: 17
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI
 
-secured: "QxknGI5E0eBV10hPHZdj2O0h5jnizOXQ7zd3D4X13G/rbmmWDa8sinTcONpoKnEBv5NqMxapOrV0D52mrE1sLLbN7efrdBXNm8yWQ+TXwpiD4bBzznmo+0dPpQF8GAwlPcBNREZhJPbmwF07AgYXwzkLzhnLmIBRczbUE6hDUThI0UVwlMNgKJWx3q4fPVGxCzlLkz/7kGJeLb3ea+wbn9+6d/UD1K2zAo5sJBduG9FUrLBuGHZYBBBEWBXEhHIlFdwm7qu8d3rXoAjdL8w5HQy17jKxUEzS+WWX1cTlJdtOJpXOel8/3sCV5RuZUh3A7n2vKBTmmS0rIuihy55LaWYvG7slksLjRxEcTSNhM2zshxOUNWUQxXcwj3oiDS60PuCuDY2+6eLDcSKunQABBTirsDY4TnHrMLsnaSTxhKTXDcZ4Bw6yBpvNA+3WWxuNlYg/ZzrX6NmU5cjOXp/sP15neQKrHsH7NvQ5had/quvpfzZfb2NkPqUdieO+SWFeoluGGhlPnGBuv7IJh+zkbQ==;S1jKIUwHlm+COgGHSukGpg=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-03/dyxlexia.jpeg.jpg?itok=3NYExbM9"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "dlcdz2MKy6DSWbUeQj7bLmn9Kn7dSBZZPR9N7OFR8v04hN4SvRbWrpcZB9JI/b+9XK5J4C3WnqYkEih+d8OEFFCxT+MnrOeb027sJa0ryK1ifc/rBTWFCfaBeMEXcsZhIA+iUH50SLL5JmCRkcECspQaCPjsTGCJZJ5bdyComoYT2Pfa6DS2zc/zIdoLeQH4O3JsWoHZzjQubU7ZVZ7TSArvUz3xqbJxVaOSJFTinhg1mp2AEpYuzx8KKt9uhXuCshya0Bkhlvc5dDgBM3HwFDo/xQBA3LPrBGAEeK2GrnfUx2r4/xSnA+NLL4mFGc1ATIfenY9otsAvAvw3WaZHv8hRnTZyEhplJKNo/aV6RBs=;gzjEVbOcsaNlOD1Okz2QMg=="
 ---
 

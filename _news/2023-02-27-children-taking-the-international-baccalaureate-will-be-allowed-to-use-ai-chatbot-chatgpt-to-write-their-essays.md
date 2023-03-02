@@ -341,20 +341,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Meta unveils ChatGPT rival AI LLaMA, but no guarantee on hallucination"
-    excerpt: "The Fundamental AI Research (FAIR) team at Meta, Facebook's parent company, has introduced ChatGPT rival, a new \"state-of-the-art\" artificial intelligence (AI) language model called LLaMA."
-    publishedDateTime: 2023-02-25T11:46:00Z
-    webUrl: "https://interestingengineering.com/innovation/meta-unveils-chatgpt-rival-ai-llama"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/02/25/image/jpeg/TfimQwVaBurGiWknvr0m16eUaOdXaGB9C4PfLklQ.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "OpenAI makes its ChatGPT and Whisper models available via cloud APIs"
     excerpt: "Developers can now integrate OpenAI LLC’s ChatGPT and Whisper models into their software thanks to new application programming interfaces that became available today. An application programming interface,"
     publishedDateTime: 2023-03-01T21:49:00Z

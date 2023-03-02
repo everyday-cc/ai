@@ -178,20 +178,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Construction Market Report with Executive Summary, Size, Analysis and Forecast to 2023-2028"
-    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Artificial Intelligence in Construction Market\" Report provides a Detailed analysis of global market size, regional"
-    publishedDateTime: 2023-02-25T12:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-report-with-executive-summary-size-analysis-and-forecast-to-2023-2028-2023-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech Recognition Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
     excerpt: "Feb 27, 2023 (The Expresswire) -- \"Speech Recognition Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,"
     publishedDateTime: 2023-02-27T11:17:00Z
@@ -233,6 +219,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 23
+  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
+    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2023-02-27T12:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "gOP7Z4/WYUi++cQ5RFRZOMh8xTJzD+BEb7qhWb9AU4t0p6zIvZ8gH/qPohLq071ukMhTf2SwYs+oJGhLN9k+aLmm0gL2d6/fGCajHJz5vgdIrs+Wq+bIcHmBV0g6wThvkQMDCYpgIHbq4TYRXp4eldgnKUAeRhBLFWzT5PrmbE0FrXxQvcW7Sze/ve0MetKHKLLLXsQ8Jw1wEn38ssxCPgnWK7n8Wk2EJYZ//YB5Iy26nzEw4h6QCGE5gNR5iEP7OgZa0CVE/zsRV96hfLnBUFV24ZekAyK+Idted6unD7GMyjpd4mffOckERrjV6My+7LPzwlJd3oUoD8zu1XVamEtJ7jfl03oNvjjNISyJ77M=;PC95NEc11Fyy2d9vMRtYpw=="
 ---

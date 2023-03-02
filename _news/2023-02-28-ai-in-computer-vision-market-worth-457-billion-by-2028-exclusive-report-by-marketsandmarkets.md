@@ -19,23 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
-    excerpt: "DUBLIN, Feb. 27, 2023 /PRNewswire/ -- The \"Japan Deep Learning Market By Offering (Hardware, Software, and Services), By Application (Image Recognition, Signal Recognition, and Data Mining), By ..."
-    publishedDateTime: 2023-02-27T10:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31064687/japan-deep-learning-markets-competition-forecast-and-opportunities-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31064687"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31064687"
+  - title: "Artificial Intelligence (AI) in Agriculture Market Report Historical, Current, and Projected Size, in terms of value 2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Agriculture Market\" Report provides a Detailed analysis of global market size,"
+    publishedDateTime: 2023-02-26T13:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-report-historical-current-and-projected-size-in-terms-of-value-2028-2023-02-26"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 57
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Of Things (AIoT) Solutions Market Size: Overview, Share, Trends with Current Market Scenario, 2028"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Artificial Intelligence Of Things (AIoT) Solutions Market\" Insights 2023 By Applications (Hardware, Software,"
+    publishedDateTime: 2023-02-26T01:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-overview-share-trends-with-current-market-scenario-2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Agriculture Market Worth $4.7 Billion In 2028 - Exclusive Report By Marketsandmarketstm"
+    excerpt: "The ai in agriculture market is projected to grow from USD 1.7 billion in 2023 to USD 4.7 billion in 2028; it is expected to grow at a CAGR of 23.1% from 2023 to 2028 according to a new report by MarketsandMarketsTM."
+    publishedDateTime: 2023-03-01T18:26:00Z
+    webUrl: "https://menafn.com/1105685156/Artificial-Intelligence-In-Agriculture-Market-Worth-47-Billion-In-2028-Exclusive-Report-By-Marketsandmarketstm"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 17
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?845867"
+        width: 450
+        height: 250
         isCached: true
 
-secured: "IV9W9Q3FolGom9e6CzdH9lKhr7iwSlCfdoVWE6jFKrBEpggw2ABINNVtt+HX2DAX2m3EweY5xBq/DR8HmIA9g8j66l/XPYwhgNDHzQjYod+a8RUX/5I1s4GlQGovyuT8qR0Q5KjODJB4Djhtc9sPkh2VtKeHO2rScs8SQ/bS2SQakgyur/l1gCDT3sw3T4NruCoSxLVA0QjYSdin5V4ipM0msVsNRESYXK0bFIojsZllkZF/5y8hUR7Eyv2KOix5jkC2cIxADKzyH8DNlii6Wyrill7Vs/RJ3NZMBlTzK9VVAkSQN8CxexyndDKXPzrVu7FQCYRsjlY0/Bq8j7wz/M36Nd1Zg+Fl8kMtQFq3HME=;Gok+mavo6z4m/ISAuhv7hA=="
+secured: "81y+ssJZbQGbkeXE1UC9cRjRxvE/A1mrvHfx+YvFvVhZIwxyL8EETaWvvLcqOvplOd1rgRJkRp46gvZ5sd+6uhNORE1hc0EJTgOpuxro/LE1ciOO/gbJW5YrHSVp4St3XgnJQZl7JpDjLy7YPkIWljGNtqf8yL+ucBwuiveoRyDTDv8lf5TQ0Ao2oTeOenGwLu5K/XXlulcRoiUMQ9fZXLTFPpmwIw679Qr8V9lhEVmARZ5ADByA419XpySOj6ek114iPPtF8rG3/3GhMIodgibqBvtBJGdOLqXE9FTpzijHORDL1XSjT7m1/2gVFkDZYbul/llH8TLxA0Eca8q74AsUGKY15wOTJbhFggpjdEQ=;K7GUBG9vmtvMWPuU4Dpqiw=="
 ---
 

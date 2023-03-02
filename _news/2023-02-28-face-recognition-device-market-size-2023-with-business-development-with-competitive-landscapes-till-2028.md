@@ -29,33 +29,65 @@ images:
     isCached: true
 
 related:
-  - title: "The Role of Computer Vision Software Market 2023: Business Developments and Strategies by 2029"
-    excerpt: "New 115 Pages Report] A Recently published “Computer Vision Software Market” Size (2023) research report offers"
-    publishedDateTime: 2023-02-26T11:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-role-of-computer-vision-software-market-2023-business-developments-and-strategies-by-2029-2023-02-26"
+  - title: "Facial Recognition Door Lock Market Geographical Segmentation By Forecast Revenue 2023-2028"
+    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Facial Recognition Door Lock Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029. The global"
+    publishedDateTime: 2023-02-26T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-geographical-segmentation-by-forecast-revenue-2023-2028-2023-02-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market International Business Analysis, Development Outlook and Regional Strategies 2029"
-    excerpt: "Artificial Intelligence Market 2023 Will Provide Report Analysis that quickly emerging as one of the [ICT] category in the industry, by Type (Hardware, Software, Services), and En"
-    publishedDateTime: 2023-02-27T02:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-international-business-analysis-development-outlook-and-regional-strategies-2029-2023-02-26"
+  - title: "Facial Recognition Phone Market Size, Assessment, Key Factors And Challenges By 2028"
+    excerpt: "Feb 27, 2023 (The Expresswire) -- \"Facial Recognition Phone Market\" Report covers specified competitive outlook consisting of the market proportion"
+    publishedDateTime: 2023-02-27T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-phone-market-size-assessment-key-factors-and-challenges-by-2028-2023-02-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 42
+  - title: "Voice And Speech Recognition Software Market In-depth analysis which provides critical revenue and estimates for the period 2023 To 2028"
+    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Voice And Speech Recognition Software Market\" Insights 2023 By Types, Applications, Regions and Forecast to 2029."
+    publishedDateTime: 2023-02-26T03:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-software-market-in-depth-analysis-which-provides-critical-revenue-and-estimates-for-the-period-2023-to-2028-2023-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence Software System Market Segmentation by Type, Revenue, Share, Companies Growth, Restraints, Regions Forecast to 2028"
+    excerpt: "Artificial Intelligence Software System Market research report offers a [Dynamic Overview of 2023]. The Artificial Intelligence Software System Market, covering growth, trends, consumption, segments,"
+    publishedDateTime: 2023-03-01T07:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-segmentation-by-type-revenue-share-companies-growth-restraints-regions-forecast-to-2028-2023-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+  - title: "Cognitive Services Market Size 2023 Trends, Growth, Type And Application, Manufacturers, Regions And Forecast To 2026"
+    excerpt: "(MENAFN- The Express Wire) Global Cognitive Services Market Industry In-Depth ... Top Manufacturers (Microsoft, Expert System, SAS, AWS, Ipsoft, Nokia, Fusion Informatics, Apple, Baidu ..."
+    publishedDateTime: 2023-02-26T23:02:00Z
+    webUrl: "https://menafn.com/1105646163/Cognitive-Services-Market-Size-2023-Trends-Growth-Type-And-Application-Manufacturers-Regions-And-Forecast-To-2026"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?611155"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "1OncKKkua3HCWWhr8ekfhXEnoafMG4oFWFSIJuO3TehP2A74VMKJEmw0TfrMshpOmeTrg6b3UnXFRc2JkQCSh7vm9AGm+3TZNnKOhrB7FKww+rg7Pw1gPbkp9g2wX4gx+1SytmXSQt0HL1skubA4FFcXIVnAWGG+CbITWu/wI14Ktqu9FG399PpAO4bsp9cO57tZtXD8E83gwWSTvSkaBAMO3iKIbLaBlZAYauchHKzM84oCBB7bsBp0Nw3lyBbTPOOzK/6jEDIu4T7+RBZvAiW8dpQgP39IS/4V///KssjHTvr4fdZg/hzQeeokvhZMH/aOhL4ACqUBQGD1l0E2m9NmwD6B9P+5lKjOIDbz79Q=;+dExJKvzp+podYU5fhoqGw=="

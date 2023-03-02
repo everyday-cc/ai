@@ -28,20 +28,6 @@ images:
 
 related:
   - title: "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition"
-    excerpt: "They say you can have anything you want in life if you dress for it. According to the makers of these anti-facial recognition garments, that includes privacy. These sweaters, masks, glasses, and makeup tips will scramble the algorithms and dazzle your friends."
-    publishedDateTime: 2023-02-25T12:00:00Z
-    webUrl: "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5962a488996ecd92c5b806c0c89f5c0a.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition"
     excerpt: "I hate to break it to you, but a world where your every move can be tracked using facial recognition has gone from science fiction to an everyday reality. Facial recognition is common at airports ..."
     publishedDateTime: 2023-02-28T05:02:00Z
     webUrl: "https://www.gizmodo.com.au/2023/02/10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition/"
@@ -56,20 +42,6 @@ related:
       - url: "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/02/25/5962a488996ecd92c5b806c0c89f5c0a.jpg?quality=80&resize=1280,720"
         width: 1280
         height: 720
-        isCached: true
-  - title: "US Air Force experimenting with facial recognition on drones"
-    excerpt: "New Scientist magazine has found a contract between the US Air Force and a defence firm that shows the government uses reconnaissance and surveillance drones equipped with facial recognition to aid in special operations missions. It would appear that these ..."
-    publishedDateTime: 2023-02-28T10:21:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/56412-us-air-force-experimenting-with-facial-recognition-on-drones"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/bc84d79d282a65f1ffb605ed78a6844c_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "US sparks fear of assassinations with new AI-powered facial recognition tech"
     excerpt: "The United States Air Force has developed new facial recognition technology powered by AI, sparking fear of remote assassinations."
@@ -127,20 +99,6 @@ related:
         width: 2048
         height: 792
         isCached: true
-  - title: "Anchorage Assembly member wants to ban the city from using of facial recognition technology"
-    excerpt: "Oftentimes, facial recognition algorithms and the databases they use end up having inaccuracies,\" said Assembly member Joey Sweet."
-    publishedDateTime: 2023-03-01T23:00:00Z
-    webUrl: "https://alaskapublic.org/2023/03/01/anchorage-assembly-member-wants-to-ban-the-city-from-using-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Alaska Public Media
-      domain: alaskapublic.org
-    quality: 29
-    images:
-      - url: "https://media.alaskapublic.org/wp-content/uploads/2023/01/IMG_7718-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "TTD to introduce facial recognition system today"
     excerpt: "TIRUMALA: The TTD is set to introduce Facial Recognition Technology on an experimental basis at Vaikuntam-2 and in the Accommodation Management System from March 1 onwards. The idea is to"
     publishedDateTime: 2023-02-28T20:09:00Z
@@ -151,6 +109,6 @@ related:
       domain: thehansindia.com
     quality: 19
 
-secured: "45rfpYMnqBk6I7/VDkj+NUEExYDzz2kCAkpWgTpVm/uaKnuqH3oZTN1u0T6c3VPynoNbTHD2gOq5aPeqiaaNhLqHJnQScYXgN2kWCnFCx0OgWym+YFgPiOIlb8nOcjZiHX/xEQvW/ZkyUjzKgSK/FZb7wBdmMKvKop44eLD0NWfY9OOLrhRXc0JQpiDZ+E6ApH54mNsq/UL5lmVsnV5F+qJaRVSNM81LCXdK+oXok0onN0fSCjDbTkxj5W4Mgubi4a97i35SUty85xX5oQPJzdwnKzDR/bDjt35ExeS80i/FOixePH/bl5bew420mGs1Eum5yeY8966dA7yg9vvpwhdl49RQeP5Lmsz1pX4UgBE=;4JjP1KyWltbSK3r+9abWyg=="
+secured: "6cBS+5s4JESpbMMyXVJVhjB9gA50HQKrwhZZluIz6LrkmUyY1yBAtRCU99hvyv+23rpQpOpiP6/lNET+tgshJGDTQQAIDWymxUcvQ7m2AzEiSmRsUB4bJKxjEM/H2OtCQa7O2JGqPo22AYri54HW1dGdpwTjor8HLCqY5x5wa0zhnswR+3hDQXYLJYWrTzqqcdlNiYXz6MBuDJ01i9NG/GmLIuZ7Wt6K66LZfRgr4sR3TB77vYVuaf2+go3mFoZdD3ELTZ/vEVSFZIl6n8N5qM9Gcze76Pw256uyn0R3Gax6ekJMt0uWs1tXs7kB1kbn5kv4/Tkik7PbGe+lgTCDVTBZRX1ZugQoxIEQuvw491ifd7fjNPQW2UGk29hycouO6PMO3WO4qTfSARjPcucbuo10nuILxRmB8KIJVU5FEYj0N3VvtCmwdk65bLU91mUOvyB69XL15zHRtKc3ImhDLq2F0o7Ww336x9JnWURoF5P4Z5/hJvgh/hK29RrNI1V9e+40J3vWY54zrw2xaXW1zA==;+QOXCxrUJb5mRpGGdq2uKw=="
 ---
 

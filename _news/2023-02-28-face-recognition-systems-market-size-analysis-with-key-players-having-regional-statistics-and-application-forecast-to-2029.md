@@ -177,20 +177,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Construction Market Report with Executive Summary, Size, Analysis and Forecast to 2023-2028"
-    excerpt: "Feb 25, 2023 (The Expresswire) -- \"Artificial Intelligence in Construction Market\" Report provides a Detailed analysis of global market size, regional"
-    publishedDateTime: 2023-02-25T12:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-report-with-executive-summary-size-analysis-and-forecast-to-2023-2028-2023-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech Recognition Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
     excerpt: "Feb 27, 2023 (The Expresswire) -- \"Speech Recognition Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,"
     publishedDateTime: 2023-02-27T11:17:00Z
@@ -232,6 +218,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 33
+  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
+    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2023-02-27T12:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "iqSxrK9fETbxkx5DaKpXbglpXyKqMCMVwoKjVi8EMlj4DWtm6T0Ch2r+nRGdSS6Q1tjEt0/2b9SUfa14MU0c3muZ82Kem8E8VxALnFgPwEr6se7Km3uoj471KywXg29vGGBhQrlkbPaE5J69pYg2bc63z0Co6ua+ofo4zJYh9oy4XKwQ+J4sxkB45GjqEI7KgfXonsAwV27O+G5BrnCzjf5b2jWhgPjNsm6yt2nLDWm3ijoceZzPGZwmgJPFINfMAUSc7rgUi95+JHxJZ6houUt7Av3mGjyUepqRxnm7gWjhF45jBwovUsNxlaHpkvfon4MrJM9K2fxrtBCo7oZGsAEAJ5+XiUgyXnZg838/xlc=;QPCWcDLZUg6CWtccVX0BiA=="
 ---

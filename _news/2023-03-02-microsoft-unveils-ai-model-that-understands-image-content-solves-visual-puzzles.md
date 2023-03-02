@@ -8,7 +8,7 @@ webUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-unveil
 ampWebUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/amp/"
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/amp/"
 type: article
-quality: 99
+quality: 101
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/multimodal_eyeball-800x450.jpg"
@@ -159,20 +160,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Better Artificial Intelligence Stock: Cloudflare vs. Microsoft"
-    excerpt: "Both companies could win big from adopting artificial intelligence-enabled applications, but which is the better bet?"
-    publishedDateTime: 2023-02-25T12:36:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/25/better-artificial-intelligence-stock-cloudflare-vs/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/721593/chatbot-smartphone-person.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "AWS Eyes Microsoft-Backed ChatGPT With New AI Partnership"
     excerpt: "AWS AI gets boost with Hugging Face artificial intelligence collaboration targeting developers and machine learning innovation for generative AI."
     publishedDateTime: 2023-02-28T18:09:00Z
@@ -216,6 +203,20 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2023/02/Typeface-Image-1.jpg"
         width: 1032
         height: 576
+        isCached: true
+  - title: "Microsoft reportedly mulls utilizing TSMC CoWoS for AI chip"
+    excerpt: "Microsoft has reportedly approached TSMC and its ecosystem partners about using the foundry's CoWoS packaging for its own AI chip, according to industry sources. Save my User ID and Password Some subscribers prefer to save their log-in information so they ..."
+    publishedDateTime: 2023-03-02T03:27:00Z
+    webUrl: "https://www.digitimes.com/news/a20230301PD214/chatgpt-cowos-microsoft-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 71
+    images:
+      - url: "https://img.digitimes.com/newsshow/20230301pd214_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Microsoft introduces Azure Operator Nexus to run their carrier-grade workloads"
     excerpt: "Microsoft is also launching Azure Operator Voicemail, a solution that enables operators to transfer their voicemail services to Azure as a fully managed service, as well as Azure Communications Gateway,"
@@ -360,6 +361,6 @@ related:
       domain: bizjournals.com
     quality: 20
 
-secured: "MVOPlhSdH/qZIyK0vfHlaZHqhXNaCBB23ZUDHZrEd4gfOl+IyAlPcnR1On9SUm5TRfoJ+WyYLraH1B3THaBnxoX9z4ebvGekyWKJ14Re8dHf883CcyIhAmNYwcWDm/dlzwvhQO4viBhMj5f6y68hjbZhnneos56ojpleqYC6RP+nZqBqDq9P16lds+Td48ctZKNvJSQ/OLKQmLdSsNVs/4nHAPVSVMRsAp1VOtKC6wYZ+ItRPcHDeIb0x7neBDFml0GgRy+5MwlRP1rzJqSrD43O6H9PTSOgTWSJaVEoXVRy093kzBWgh9smRe0dOLt2AcFRZWHRy4NbHXQgV5XAYo/ZvHbSWbUU+6XTILTxDpQ=;z3/8Xv3ovtdvFT27pH4diA=="
+secured: "L22PqKNS8dWGrJB4rOeIHXpa6CsRPU/WdAUrraV7v5ZLSBXIVr6Kd8M+z0saACiV/E+1XvxFa02x8mW/gYY9JlZ8SKG5+9vAk2Z+H0blHk4iC45lDPbDIcX4ningZIsGUw7PaXTNby/88Jf+ZxJ8gWNw8cMNNiCQDpo8nqTZ2rwvTegt1R2gI/3xWEhp+xWCMzakQVDuheQh2Ig1YrfAbizik8pK2ve6Jth//JFiLflmtevdTGnZ+fr6ODRYaqrjPpDEJEiRAn/Ypk4nSTjhkBxpfik02IbY3H3Dv9EtFzpuuqgTO/FhaWZePj/IKxvcMmPxnN0PV7PizIEeJTfKrLEergU0bILVE1g8ZUxyXEYyf7dDosj8ycgh2DgJkebKQi7mATCLUqZwHCsVvu+TVXrjUe0TuTlhHtBIIh27Q2LFa7prc3m6++GeHOkegoXvJnz/yQ9zhIivauW+99NUQmFl5JZMbJLcDrsUXZMkn9nLv5cgtH1aNEFtkaguQkf+LasuBGF/AhO1ife2AnPYoA==;q9aZjeXSYNQ2XAIIMFinYQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/india/icici-prudential-life-insurance-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/icici-prudential-life-insurance-debuts-machine-learning-models-for-its-customers/amp-11677487957218.html"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Mint
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "ICICI Prudential Life Insurance leverages machine learning models for customers"
+    excerpt: "ICICI Prudential Life Insurance has deployed advanced machine learning models for their customers. This digital solution predicts future persistency behavior and has enabled the Company to improve persistency across all cohorts."
+    publishedDateTime: 2023-03-02T03:59:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 55
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-98351567,imgsize-15524,width-1200,height-628,overlay-etcio/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "ICICI Prudential Life Insurance debuts machine learning models for its clients"
     excerpt: "In a bid to making sure that customers keep profiting from their life insurance policies and stay on track to meet their long-term financial..|News Track"
     publishedDateTime: 2023-02-27T09:53:00Z
