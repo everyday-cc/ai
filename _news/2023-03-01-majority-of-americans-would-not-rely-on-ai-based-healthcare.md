@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/majority-of-americans-would-n
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/majority-of-americans-would-not-rely-on-ai-based-healthcare"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,15 @@ related:
     excerpt: "Artificial intelligence is about to open trillions of dollars of opportunities in the next seven years, according to Bank of America analysts who say it is at an \"iPhone moment.\" \"If data is the new oil,"
     publishedDateTime: 2023-03-01T14:30:00Z
     webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/03/01/ai-impact-will-be-in-trillions-say-bofa-analysts.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
+  - title: "Artificial intelligence impact will be in the trillions, Bank of America analysts say"
+    excerpt: "Artificial intelligence is about to open trillions of dollars of opportunities in the next seven years, according to Bank of America analysts who say it is at an \"iPhone moment.\" \"If data is the new oil, then AI is the new electricity,\" the BofA analysts ..."
+    publishedDateTime: 2023-03-02T01:38:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2023/03/01/ai-impact-will-be-in-trillions-say-bofa-analysts.html"
     type: article
     provider:
       name: The Business Journals

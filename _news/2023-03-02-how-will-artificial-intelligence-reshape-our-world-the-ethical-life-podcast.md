@@ -2,29 +2,28 @@
 category: news
 title: "How will artificial intelligence reshape our world? | The Ethical Life podcast"
 excerpt: "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other."
-publishedDateTime: 2023-03-01T23:30:00Z
-originalUrl: "https://omaha.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_bf184fe2-58d8-5144-a146-419e01ac4620.html"
-webUrl: "https://omaha.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_bf184fe2-58d8-5144-a146-419e01ac4620.html"
+publishedDateTime: 2023-03-02T00:30:00Z
+originalUrl: "https://tucson.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_fadb1a5f-661c-5961-92a1-86efa1b29f24.html"
+webUrl: "https://tucson.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_fadb1a5f-661c-5961-92a1-86efa1b29f24.html"
 type: article
-quality: 52
-heat: 52
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/f1/bf184fe2-58d8-5144-a146-419e01ac4620/63ff73fea6856.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
-    width: 1196
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/f/ad/fadb1a5f-661c-5961-92a1-86efa1b29f24/63ff740179c00.preview.jpg?crop=1116%2C628%2C41%2C0&resize=1116%2C628&order=crop%2Cresize"
+    width: 1116
     height: 628
     isCached: true
 
-secured: "2/6yTNDjmMzubk2dPAVpZP2smbxmBTfAKwwqaTZT/HVWJxzP/SIMtGKQqR85rSPDoHk8C9qdRSg+zNjbTQtqkHbiE0PN9HWL4OvtW+3NcU3+DhkXE84TBvZkR1ZCln9oyolDn8FwO3bxp8TfYttPcmlbOkpIr0HWz/W8ZjMJ6KplgDkZkKNkEBz0+PybOjK6eMH5dJBvlon9IfBZfFuygVuCMgjea5wSkhwi5WtdXIZVNn+T2Vrdqilk7IFq/6S5bAcQSjkQ77Qg7O/qo/ZzsHc15Gj0FICVwPUOx1zAIy/U1KAM2GHJNhI3iMaMLelobGfofANoUA6Hq8zOJXx8S09xNyqvSBoMVy1iGXw3ZCI=;B1KduuqAavAGRQVKFEQhcw=="
+secured: "MejSFchLDTO0LiE+wSU17DpQ5ju0zYTUmVzqV8C1RvNVPBzIO23IL7porrjDu9G2mfDzWx/zYbk551r+pIxjl5u96BhBpbMh2030h1tUQDKby6eC0yRjmsN6VkL2JMJf+mWg5nPDaWB03PosxA6rKfaaXPdZVUuORTWPRsEtcfdKyE1hdbENDbh4rV3EbSfceC6COyR2M64n7Iop4h8liJX0M46HufSKmtSkRpP3VWb666Uw9oUBhpeaTCApp4Et3fPvC3tNiTOd+BZql57J97ARy9uvu7xnkGhz0qbA5zo3CyqT0MsF5hWNYPUGX0k+F6peV5W1gKybKUyoTYpwD0WNSbiT0Wi83zek15MbBt4=;+fkObmd2i7A3SHuTQxKapA=="
 ---
 

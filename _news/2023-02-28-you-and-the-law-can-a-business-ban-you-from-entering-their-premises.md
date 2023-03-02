@@ -26,22 +26,6 @@ images:
     height: 563
     isCached: true
 
-related:
-  - title: "Can a Private Business Ban Someone From Entering?"
-    excerpt: "Yes, as long as the ban does not violate the law and is non-discriminatory, as this clueless guy discovered when he tried to take an illegal substance into a theme park."
-    publishedDateTime: 2023-02-25T10:29:00Z
-    webUrl: "https://www.kiplinger.com/business/can-a-private-business-ban-someone-from-entering"
-    type: article
-    provider:
-      name: Kiplinger
-      domain: kiplinger.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/wotMb8yAqhHey9fzBDRagU-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "ly2z/dD0935m0AjSg5KoxxmFkq3zVBNESneg8kjLty/xNn87Guc/YcTgTdfU2f1/NRzTMG0PHLa75qMcKObiH5PnNcbPPhHmkIjloUXuRoGcxc6bf59JBOUwAWHx3BOB/KJ921Eb0DNvCjhevln0hAh8jbkiat5L+IFv64OUYrM67s36xxoeThJNNnRcyMdhkZseWhXOq16NignveQFKV/vjGgxAxWnPpKgsBnvAmlTCEOVUVDB1bLZBHG1yob/CTSFI83kug3Gas0pjW+eAjFwoHvjGnaPZlBwKXw8/YvvuJyjrfUNGYKhZnxGp+WYXDdlKjaJy8/ii99umX43H3LpJFD6Urs5aVGw5NrStlwM=;nIOwJH2xuTk70m9to5UjCA=="
 ---
 

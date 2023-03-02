@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "IGI facial recognition system to help make boarding faster"
+    excerpt: "Authorities said that DigiYatra is a digital platform for air travellers which aims to make travel more convenient and efficient for passengers by using facial recognition technology."
+    publishedDateTime: 2023-03-02T01:48:00Z
+    webUrl: "https://www.newindianexpress.com/cities/delhi/2023/mar/02/igi-facial-recognition-system-to-help-make-boarding-faster-2552366.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/delhi/2023/mar/02/igi-facial-recognition-system-to-help-make-boarding-faster-2552366.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/delhi/2023/mar/02/igi-facial-recognition-system-to-help-make-boarding-faster-2552366.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/3/2/w600X390/IGI_facial_.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "US Air Force experimenting with facial recognition on drones"
     excerpt: "New Scientist magazine has found a contract between the US Air Force and a defence firm that shows the government uses reconnaissance and surveillance drones equipped with facial recognition to aid in special operations missions. It would appear that these ..."
     publishedDateTime: 2023-02-28T10:21:00Z
@@ -110,6 +126,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/11164502/police-scaled.jpg"
         width: 2048
         height: 792
+        isCached: true
+  - title: "Anchorage Assembly member wants to ban the city from using of facial recognition technology"
+    excerpt: "Oftentimes, facial recognition algorithms and the databases they use end up having inaccuracies,\" said Assembly member Joey Sweet."
+    publishedDateTime: 2023-03-01T23:00:00Z
+    webUrl: "https://alaskapublic.org/2023/03/01/anchorage-assembly-member-wants-to-ban-the-city-from-using-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Alaska Public Media
+      domain: alaskapublic.org
+    quality: 29
+    images:
+      - url: "https://media.alaskapublic.org/wp-content/uploads/2023/01/IMG_7718-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "TTD to introduce facial recognition system today"
     excerpt: "TIRUMALA: The TTD is set to introduce Facial Recognition Technology on an experimental basis at Vaikuntam-2 and in the Accommodation Management System from March 1 onwards. The idea is to"

@@ -43,20 +43,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Nvidia’s AI GPUs May Soon Power MediaTek’s 2024 Flagship Mobile SoCs"
-    excerpt: "MediaTek's SoCs could benefit from Nvidia's GPUs for improved AI performance. Will it impact smartphone sales?"
-    publishedDateTime: 2023-02-25T10:56:00Z
-    webUrl: "https://www.gizmochina.com/2023/02/25/nvidia-ai-gpu-mediatek-soc/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/soc_mediatek_nvidia.jpg"
-        width: 1420
-        height: 1000
-        isCached: true
 
 secured: "TPSVe2DySykq+lVbYhgoGaZBlTTPJ0/tnbDmNP0jjINpYyTl9PdZrcaiNWofbmCFJx7T4HZRrfCT9JDSjs4/emmcQBWVwXr0AkKdkmDtC0AY5LLmgQrkzCEJR/GkK3T0Cj5YSTHZq4YGf/BRe+NpmetNMVwRIOITZVGgcppdsGPqVHSWnm4pSVHz6Vs03phaT2iGinH5X5zzzlI7lunTWkDnl9YZL1gk014EbLUQBq6M6XqVDqbaBhC/gFjSlBr2Gk9wUhGQFnzb2SRW1mUkazrO2J+nhYdnyZAauggsXQYEnebZuVcyhkALTjEU7tu4Uz661S1KGrxR5efGz+3gjZIPhiOXujkmhMzxEB+TVlLmTIy4bmnHQOdWfHnL1pOE21uZv/o5N2B+cJ4b3hsIN8N5aVr/ZtM/S5t+rxNVYE0/72gBS8LUDwNVzNSpAxHRN+OkDI7MVukOELAwosv5BHUJfqjkWdzXSf+ItQMdO1qADu9b5yODwqJGT/ig3xpq+yIF0lmsJotVTy/H0N7rhg==;ZDZGvg+O57RRGy686OsYuw=="
 ---

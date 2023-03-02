@@ -95,6 +95,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft unveils AI model that understands image content, solves visual puzzles"
+    excerpt: "On Monday, researchers from Microsoft introduced Kosmos-1, a multimodal model that can reportedly analyze images for content, solve visual puzzles, perform visual text recognition, pass visual IQ tests,"
+    publishedDateTime: 2023-03-01T23:50:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 99
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/multimodal_eyeball-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft's AI-powered Bing Chat now lets you choose 'precise' or 'creative' answers"
     excerpt: "Microsoft continues to tweak the AI-powered Bing Chat by adding new features such as the abilty to respond with different 'tones'. Over the weekend Micosoft said some users are now able to choose a style for the responses from Bing that are either 'Precise',"
     publishedDateTime: 2023-02-28T14:57:00Z

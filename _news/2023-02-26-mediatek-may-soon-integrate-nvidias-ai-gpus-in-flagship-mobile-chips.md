@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/mediatek-ma
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s AI GPUs May Soon Power MediaTek’s 2024 Flagship Mobile SoCs"
-    excerpt: "MediaTek's SoCs could benefit from Nvidia's GPUs for improved AI performance. Will it impact smartphone sales?"
-    publishedDateTime: 2023-02-25T10:56:00Z
-    webUrl: "https://www.gizmochina.com/2023/02/25/nvidia-ai-gpu-mediatek-soc/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/02/soc_mediatek_nvidia.jpg"
-        width: 1420
-        height: 1000
-        isCached: true
   - title: "Nvidia's new AI tool to breathe new life into streaming video"
     excerpt: "Nvidia has introduced an Artificial Intelligence (AI)-based image upscaling tool for streaming video. Meant for the company's GeForce RTX 30 and 40 series graphic cards, RTX Video Super Resolution uses the GPU to upscale lower-resolution online video to 4K."
     publishedDateTime: 2023-03-01T10:35:00Z

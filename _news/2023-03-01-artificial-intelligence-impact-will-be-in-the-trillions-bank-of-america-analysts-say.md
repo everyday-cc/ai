@@ -35,6 +35,15 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "Artificial intelligence impact will be in the trillions, Bank of America analysts say"
+    excerpt: "Artificial intelligence is about to open trillions of dollars of opportunities in the next seven years, according to Bank of America analysts who say it is at an \"iPhone moment.\" \"If data is the new oil, then AI is the new electricity,\" the BofA analysts ..."
+    publishedDateTime: 2023-03-02T01:38:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2023/03/01/ai-impact-will-be-in-trillions-say-bofa-analysts.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
 
 secured: "oyzZHkk+eDi75lVhK9JBv87eDp+14nqelY8vAnqzN+aROR85jMxfvfXl8xcS7SGiiZMkncBtfOPlJn8k+C7t9G172X01++R/S2bT7/+yN2iu6AiX1u5kFlyw+dJgO23xmG9xNKJ6uNr3qSstFCqikpvAd75xA2xDg48a3zMhHdzfODwIZxIX/IT+Jxb1d71idx9N3qUcQdbSb6ah4Q3dQspbux1ce1tzA29MAbMDBodjbcyFtYJLL0XYKC6yVFzVX/0GC9kEa2iwRJ+mCCx1r/xYkDeP/ETO5cvy/Owlt9a40T5YGDUWW6r0iRAaWFW6dQSiZxf08E5Tcky2ojtna6/J0+Er3LT5ZzjXXa22RCnEV0kFdrE0P/vku5FwwS3l2WmgK5Ge5k4PFj0jnPw7X0+Y+hY2DkJ842mTsZVmpt3ZABEbOurBLsfeOE9BSKsS7xGeqUHp2B4LTyd0QTOgvLyeSb4mwvkm954bZ8ibmC5wbJMZJvaYfUiRYakn7o70x8e+yQBlQukS7hvLbzwlAA==;G2zUiL7gE3k989sXIcLDSQ=="
 ---

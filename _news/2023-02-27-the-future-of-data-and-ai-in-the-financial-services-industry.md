@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The AI industry is hot right now. 5 experts share 4 tips for finding a job in the sector."
-    excerpt: "The hype surrounding ChatGPT and new search engines from Google and Microsoft has shone a spotlight on the AI sector."
-    publishedDateTime: 2023-02-25T09:46:00Z
-    webUrl: "https://www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-get-job-artificial-intelligence-ai-chatgpt-bing-google-2023-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/63f3832f7b15f100194d2b95?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "How is AI significantly changing the Fit Tech industry?"
     excerpt: "Did you know that the global market for fitness tech expects to reach $29.4 billion by 2023? With the industry’s exponential growth, the need for innovation and differentiation is more pressing than ever."
     publishedDateTime: 2023-02-26T03:39:00Z
@@ -108,20 +92,6 @@ related:
       - url: "https://www.niemanlab.org/images/background_of_lush_hedge_maze_simple_illustration_wi_97ed11c4-edea-4d42-8739-1d23cd30e34b@2x-5-700x467.jpg"
         width: 700
         height: 467
-        isCached: true
-  - title: "Meta to release new interactive AI model for academia and industry labs"
-    excerpt: "Meta, formerly known as Facebook, made the announcement on ... in government and civil society as well as industry research laboratories. In November last year, the firm released another interactive AI model focused on natural science."
-    publishedDateTime: 2023-02-25T10:48:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20230225_16/"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 39
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20230225_16_1224364_L.png"
-        width: 640
-        height: 360
         isCached: true
   - title: "The untapped potential of AI in financial services"
     excerpt: "The rapid advancement of artificial intelligence (AI) technologies has transformed business operations across the globe. From customer service chatbots to adaptive cyber-security, the applications of AI are limitless."

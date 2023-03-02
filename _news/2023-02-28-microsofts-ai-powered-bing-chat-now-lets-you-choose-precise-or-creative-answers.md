@@ -111,6 +111,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft unveils AI model that understands image content, solves visual puzzles"
+    excerpt: "On Monday, researchers from Microsoft introduced Kosmos-1, a multimodal model that can reportedly analyze images for content, solve visual puzzles, perform visual text recognition, pass visual IQ tests,"
+    publishedDateTime: 2023-03-01T23:50:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 99
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/multimodal_eyeball-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft's AI Pivot Pays Off - Investors Ignore Bing's Mediocrity, Embrace ChatGPT Hype Instead"
     excerpt: "Executives at Microsoft (MSFT) announced Tuesday that the Redmond, Wash.-based company will formally incorporate artificial intelligence into its internet search business. Shares jumped 4.2%."
     publishedDateTime: 2023-02-28T17:34:00Z

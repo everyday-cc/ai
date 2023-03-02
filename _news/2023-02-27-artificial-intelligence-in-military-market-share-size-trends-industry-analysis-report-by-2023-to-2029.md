@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market 2023 Size to Set a High Potential Growth by 2028"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-02-25T10:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2023-size-to-set-a-high-potential-growth-by-2028-2023-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Examining the Artificial Intelligence and Machine Learning Market from 2023-Opportunities and Challenges Ahead"
     excerpt: "Artificial Intelligence and Machine Learning Market Size 2023 | New Report (132 Pages) | Information Technology | In"
     publishedDateTime: 2023-03-01T05:53:00Z

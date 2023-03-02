@@ -267,6 +267,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google, Meta, Snapchat Chase ChatGPT As Artificial Intelligence Race Ramps Up"
+    excerpt: "Chasing Microsoft, global tech giants have rolled out announcements on how they will implement ChatGPT-like artificial intelligence into their world leading platforms and applications, with YouTube the latest to present plans."
+    publishedDateTime: 2023-03-02T02:16:00Z
+    webUrl: "https://www.ndtv.com/world-news/google-meta-snapchat-chase-chatgpt-as-artificial-intelligence-race-ramps-up-3826635"
+    ampWebUrl: "https://www.ndtv.com/world-news/google-meta-snapchat-chase-chatgpt-as-artificial-intelligence-race-ramps-up-3826635/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/google-meta-snapchat-chase-chatgpt-as-artificial-intelligence-race-ramps-up-3826635/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 56
+    images:
+      - url: "https://c.ndtvimg.com/2023-02/vlco1prg_chatgpt-650_625x300_21_February_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Utmel: Post-Chatgpt Era, How AI Chips Can Succeed"
     excerpt: "ChatGPT, a new artificial intelligence chatbot, is considered to be 'starting a new AI revolution' with its unprecedented momentum. HONGKONG, Feb"
     publishedDateTime: 2023-02-28T09:29:00Z
@@ -365,6 +381,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/openai.png"
         width: 989
         height: 520
+        isCached: true
+  - title: "Analyzing ChatGPT, artificial intelligence and the impact on our future"
+    excerpt: "CBS News Detroit takes a deeper dive into the impact of artificial intelligence as well as ChatGPT. Special guests included: Alexander Davidson, an English teacher at the University of Detroit Jesuit High School Michael Jaafar,"
+    publishedDateTime: 2023-03-02T02:00:00Z
+    webUrl: "https://www.cbsnews.com/detroit/video/analyzing-chatgpt-artificial-intelligence-and-the-impact-on-our-future/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/02/ff4b8bae-155f-40bd-9d73-330b15b6d758/thumbnail/1200x630/2be48554f1ccbc36cc6708b098d46f90/1dd67744caf227b68e27d928d07c7225.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Elon Musk Sounds the Alarm About the Dangers of AI And ChatGPT"
     excerpt: "The billionaire entrepreneur had called for regulation of artificial intelligence before the unprecedented breakthrough in the technology."
