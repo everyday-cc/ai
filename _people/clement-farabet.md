@@ -14,7 +14,7 @@ website: http://www.clement.farabet.net/
 twitter:
   username: clmt
   url: https://twitter.com/clmt
-  followers: 11189
+  followers: 11190
 
 linkedin:
   url: https://www.linkedin.com/in/clementfarabet
