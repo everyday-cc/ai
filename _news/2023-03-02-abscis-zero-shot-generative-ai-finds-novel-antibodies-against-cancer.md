@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Better Healthcare AI Stock: Nvidia or GE Healthcare?"
-    excerpt: "Both companies are finding AI a useful part of how they do business. GE Healthcare uses its Edison platform to analyze patient data. Nvidia is developing AI chips for drug development and supercomputers."
-    publishedDateTime: 2023-02-26T16:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/26/better-healthcare-ai-stock-nvidia-or-ge-healthcare/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/721962/woman-analyst-data-center-tablet-controls.jpg"
-        width: 5760
-        height: 3240
-        isCached: true
   - title: "How WIRED Will Use Generative AI Tools"
     excerpt: "Some publications are already using text and image generators. Here’s how WIRED will—and won’t—use the technology."
     publishedDateTime: 2023-03-02T11:00:00Z

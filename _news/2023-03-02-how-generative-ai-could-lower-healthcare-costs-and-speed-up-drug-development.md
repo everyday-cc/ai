@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-generative-ai-could-low
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/"
 type: article
 quality: 105
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Better Healthcare AI Stock: Nvidia or GE Healthcare?"
-    excerpt: "Both companies are finding AI a useful part of how they do business. GE Healthcare uses its Edison platform to analyze patient data. Nvidia is developing AI chips for drug development and supercomputers."
-    publishedDateTime: 2023-02-26T16:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/02/26/better-healthcare-ai-stock-nvidia-or-ge-healthcare/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/721962/woman-analyst-data-center-tablet-controls.jpg"
-        width: 5760
-        height: 3240
         isCached: true
   - title: "How WIRED Will Use Generative AI Tools"
     excerpt: "Some publications are already using text and image generators. Here’s how WIRED will—and won’t—use the technology."

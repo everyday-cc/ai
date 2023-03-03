@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Confidential Computing is Changing the AI Chip Game"
+    excerpt: "Plenty of companies are scared of exposing their data to ChatGPT, since the AI utilises the input prompt data to further train the model. On the other hand, to be able to make these AI models better,"
+    publishedDateTime: 2023-03-03T06:21:00Z
+    webUrl: "https://analyticsindiamag.com/how-confidential-computing-is-changing-the-ai-chip-game/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/Confidential-Computing-Key-to-the-AI-Chip-Race_.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "3 AI Stocks That Are Revolutionizing Agriculture"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There is a lot of buzz surrounding investing in agriculture AI stocks."
     publishedDateTime: 2023-03-01T18:18:00Z

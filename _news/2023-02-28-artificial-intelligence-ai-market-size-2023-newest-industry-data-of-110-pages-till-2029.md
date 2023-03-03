@@ -168,6 +168,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Future of Artificial Intelligence in the Education Sector Market by 2029: Trends and Predictions"
+    excerpt: "The recently published Artificial Intelligence in the Education Sector Market Report, spanning across 129 pages, provides"
+    publishedDateTime: 2023-03-03T06:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-in-the-education-sector-market-by-2029-trends-and-predictions-2023-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Social Media Market 2023 Growth, Trends With the Rise in ICT Industry 2029"
     excerpt: "Top “ Artificial Intelligence (AI) in Social Media Market ” Size 2023 Key players Profiled in the Report are [, Adobe System Incorporated., Facebook Inc., Clarabridge Inc., HootSuite Media Inc., Amazon Web Services Inc."
     publishedDateTime: 2023-02-27T15:55:00Z
@@ -223,6 +237,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Future of Artificial Intelligence Courses for C-suite Executives Market by 2029: Trends and Predictions"
+    excerpt: "The recently published Artificial Intelligence Courses for C-suite Executives Market Report, spanning across 107"
+    publishedDateTime: 2023-03-03T06:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-courses-for-c-suite-executives-market-by-2029-trends-and-predictions-2023-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Confidential Computing is Changing the AI Chip Game"
+    excerpt: "Plenty of companies are scared of exposing their data to ChatGPT, since the AI utilises the input prompt data to further train the model. On the other hand, to be able to make these AI models better,"
+    publishedDateTime: 2023-03-03T06:21:00Z
+    webUrl: "https://analyticsindiamag.com/how-confidential-computing-is-changing-the-ai-chip-game/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/Confidential-Computing-Key-to-the-AI-Chip-Race_.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How AI Could Transform Email"
     excerpt: "Austin smiles as he demonstrates Japer’s knack for email composition. “These are tools in my tool belt that helped me perform faster, but also better,” he says before sharing that he often uses generative AI to rewrite work emails so they sound like Jerry Seinfeld."
     publishedDateTime: 2023-03-01T13:00:00Z

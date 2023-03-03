@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-02T18:47:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-research-report-reveals-the-latest-trends-and-opportunities-2023-03-02"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-research-report-reveals-the-latest-trends-and-opportunities-2023-03-02"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -51,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 81
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market 2023 is Dominating [ Analytics Sector ] till 2028"
-    excerpt: "Market \" Research Insights Report 2023 | TOP 3 KEY PLAYERS in Artificial Intelligence (AI) Market Include [ Nvidia Corporation, Banjo, Megvii Technology Limited ]. The [ Analytics ] Sector is Expected to Dominate During the Forecast Period 2023 2028."
-    publishedDateTime: 2023-02-26T16:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-2023-is-dominating-analytics-sector-till-2028-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -107,20 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence-as-a-Service (AIaaS) Market Is the FASTEST-RISING Industry from 2023 to 2029"
-    excerpt: "Feb (The Expresswire) -- \"Artificial Intelligence-as-a-Service (AIaaS) Market\" Research Insights Report 2023 | TOP 3 KEY PLAYERS in"
-    publishedDateTime: 2023-02-26T16:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-aiaas-market-is-the-fastest-rising-industry-from-2023-to-2029-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

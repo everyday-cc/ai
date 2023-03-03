@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-02-15-what-ai-means-for-corporate-lawyering.md",
-      "title": "What AI Means for Corporate Lawyering",
-      "excerpt": "Artificial intelligence and the technology behind tools like ChatGPT change the dynamics of corporate lawyering by enabling fast and relevant insights into two common questions clients ask: what’s missing and what’s market?",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/corpcounsel/2023/02/15/what-ai-means-for-corporate-lawyering/",
-      "originalUrl": "https://www.law.com/corpcounsel/2023/02/15/what-ai-means-for-corporate-lawyering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/397/2023/02/Smart-House-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-15-a-link-between-hearing-voices-and-hearing-your-own-voice.md",
       "title": "A Link Between Hearing Voices and Hearing Your Own Voice",
       "excerpt": "The more the brain’s self-recognition network is disturbed by the surgery ... “Every time she heard her voice, she thought it was someone else,” Dr. Orepic said. “And when she hears someone else, she says ‘It’s me.’”",
@@ -1264,6 +1221,40 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-google-promises-its-ai-will-be-released-to-trusted-users-soon.md",
+      "title": "Google promises its AI will be released to trusted users soon",
+      "excerpt": "Bard should be ready for public release in a few weeks  Google's parent firm Alphabet announced the release of its Bard conversational AI service, which it said will be rolled out to \"trusted users\" before its public release in the coming weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/ai/56285-google-promises-its-ai-will-be-released-to-trusted-users-soon",
+      "originalUrl": "https://www.fudzilla.com/news/ai/56285-google-promises-its-ai-will-be-released-to-trusted-users-soon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T01:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
         "images": null,
         "publishers": null,
         "authors": null

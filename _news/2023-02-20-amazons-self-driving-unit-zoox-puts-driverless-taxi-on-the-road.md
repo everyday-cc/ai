@@ -2,7 +2,7 @@
 category: news
 title: "Amazon's self-driving unit Zoox puts driverless taxi on the road"
 excerpt: "Zoox, an Amazon-owned company, has begun testing its driverless taxis on public ... MARS conference on robotics and artificial intelligence at the Aria Hotel in Las Vegas, Nevada."
-publishedDateTime: 2023-02-20T12:18:00Z
+publishedDateTime: 2023-02-20T12:20:00Z
 originalUrl: "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html"
 webUrl: "https://www.stltoday.com/news/national/amazons-self-driving-unit-zoox-puts-driverless-taxi-on-the-road/article_43ff8c82-e6aa-548e-a507-ebb884546010.html"
 type: article
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Z+thRmpPdgvno7i9n63L6s+b21ocTyOVfgxCrasEKyi0qw0wfpoZzjpkJCi79sDSY3LhQInzGJFZv+1Bayuf3sXXnSjppg7gYWtsfve0NZFXdkE4dXV37UpdOaclXmQOcaCYhtPNhnic70FRcOVT1eBVY1seUYj3HidGXqq/ku98hok+RIM/IurErCESk1AjZFXcE/7jrqMOxSPVpUJhZMzi5nkxHk5nLVxXTBTJ3aUbE2hF2nn3mhWEThwyFzb696CNrH1Bpsl+y+Qn9tsXjorqTvPEkZHrkDP6BEGP4hVAMyIPaoPClO1CZAdRVDTboiTP957c6YMLqzhfhbF44afP/0j6I3xEO6mjgojOtRI=;qgftCuyGunfIINOJtPhjNA=="
+secured: "LbxcIslWYCk9KQjiTM+qSXyDrSyTrdQOW+Tg3GtDA9luMFcisYBHWJ5lr5dUiIXhCYw07Wu7WhKNgbOMM0ch/SP0JCiXJplziArJ6D+B2Gov/cw3AzlIXOqNioWTOsDoxNx7XRDso+YGFAHR47HhSIZhAQYETrsOEMIZg5/uVkYQDNBNLz6c9zvxKpED0XmGaheNNF61eRkJ6MwQ/+t1bmDk0emNG4oLOyi9ZrXMzzzjTimX8LiyM96B6oUZpMgUp+JvswaYKi27ZW4qW2/7cfEJM8UUg2KnW5ZISAZpaDBfR0BxDD8wm4Y36Txv47yleeMReCHP8iJ5bStvcN1c7699DSvGxErIPjuCgCF87Tg=;hDutzuvsZ3civRxC6Zc2uQ=="
 ---
 

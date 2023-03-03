@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/we-are-building-next-gen
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/amp_articleshow/98383176.cms"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 450
     isCached: true
 
-secured: "K4PqSEUF10izFR7ey9iVq/Vd6WPrKlOZAbhzzPfdwu6vn3q/Xeo2MpJ/dQZktGvPEexeyrDJtpoWof3Cde+IeCn8CdKovWvRWfN9oXN7Tsvbsd96po3qONE204xahqJiuitf0BJKNi070WEj/+LsLjxZHgnIfhbNBKrgChumZ3chl6+6OYgMOIB9MltXLLEeYRBlNLSKtIOxBKd9qBEzSUxuv5+R/f3AjkjTD2d32m3qS8NUdGRkz+1FIgdjSnC3AitUQbaedB2R5TiZHPtvBg4b1EeXrW6SSs8a6LqP/2sEn3IQKq7JZs868JibyCkm4LVfd61sagU4yyqI5JGJwa0M1iuvgCtS1CX2N7vqQdo=;A+gXLu01vjBn6Ifp3h04ag=="
+related:
+  - title: "We're building next-gen AI to become a global powerhouse: Rajeev Chandrasekhar (IANS Interview)"
+    excerpt: "Chandrasekhar told IANS that artificial intelligence (AI) is a \"kinetic enabler\" of the digital economy and the government will infuse"
+    publishedDateTime: 2023-03-03T07:25:00Z
+    webUrl: "https://glamsham.com/world/technology/were-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar-ians-interview"
+    ampWebUrl: "https://glamsham.com/world/technology/were-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar-ians-interview?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/were-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar-ians-interview?amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 47
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/03/fbe34b3732685c48791c42fd43d232db.jpg"
+        width: 400
+        height: 260
+        isCached: true
+
+secured: "C3SQ7NVMFA6oJ/+m8LvmdjuGSTSUtGIVV+vZaSejZS9WTkEvSwfGoIab0v8/adtHeTeWx/ekvDzuklOIftgcZThDL1Xi12xjGedEkaYjHnYR9rCTXfVwjZG4JKvsEe8xpm/76Adic/+5OAH6YAxGg+QX8qqKAhjDvIuLRhYtZqybe090rdQXWHdoZktXaOet5PiP81xwM1hsQI/TcoDtLwoh4fDkdru6uBgeyOsvJDKecN2wV8+u0AKioz6AtCCQGRGzeNdbT5IfW75/eaun262VG/u98p3CR3x1xUx+DDABrAAomRz6yn21UfXLsevvTRaN9kAkOFJF3CvX7nuOdzjsxB6B62d5d+o14ko47M6Q14DUdDgfldGK4Ae/kVmkb9/ZtecJ2cUDOgII7CwVkkFGSTcQELy0Lqd2pTAJlhOdQWlBf5Nwg8RlmVN4YnuYUx+nvIwewsO9kDunao6wtK/XQi+tpGvsY0rXnRhJM27l0lBFq0pefoxaas1IPb7107hzyg5LvYymQPcz01XLRw==;7d3VWIKsBpsus8G9mMlQ4g=="
 ---
 
