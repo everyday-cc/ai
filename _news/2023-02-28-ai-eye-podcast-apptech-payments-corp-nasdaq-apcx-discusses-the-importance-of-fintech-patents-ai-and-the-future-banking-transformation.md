@@ -7,7 +7,7 @@ originalUrl: "https://www.investorideas.com/news/2023/artificial-intelligence/02
 webUrl: "https://www.investorideas.com/news/2023/artificial-intelligence/02281APCX-Fintech-AI-Banking.asp"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Riding the tech tidal wave: A journey through 5 waves of fintech evolution"
-    excerpt: "The past ten years have been changing and shifting toward a tech-dominant lifestyle, upending national economies around the globe. According to a report by Research and the Markets, the global market for digital transformation"
-    publishedDateTime: 2023-02-26T11:11:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/riding-the-tech-tidal-wave-a-journey-through-5-waves-of-fintech-evolution/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/riding-the-tech-tidal-wave-a-journey-through-5-waves-of-fintech-evolution/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/riding-the-tech-tidal-wave-a-journey-through-5-waves-of-fintech-evolution/"
+  - title: "AI Eye Podcast: Apptech Payments Corp (NASDAQ: $APCX) Discusses The Importance Of Fintech Patents, AI And The Future Banking Transformation"
+    excerpt: "AppTech Payments Corp. is an innovative Fintech company whose mission is to deliver a better way for businesses to provide their customers with immersive commerce experiences. CommerseTM, its all-new,"
+    publishedDateTime: 2023-02-28T22:25:00Z
+    webUrl: "https://menafn.com/1105678294/AI-Eye-Podcast-Apptech-Payments-Corp-NASDAQ-APCX-Discusses-The-Importance-Of-Fintech-Patents-AI-And-The-Future-Banking-Transformation"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 42
+      name: Mena FN
+      domain: menafn.com
+    quality: 20
     images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?778947"
+        width: 333
+        height: 250
         isCached: true
   - title: "Ubona Technologies Creates India’s First Voice-based Fintech Solution for Voice-based Payments"
     excerpt: "While digital payments have become a lot easier and quicker with the advent of UPI apps, the lack of access to smartphones or any disruption in internet connectivity makes digital payments impossible."

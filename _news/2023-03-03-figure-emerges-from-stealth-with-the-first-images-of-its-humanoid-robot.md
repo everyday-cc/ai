@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Figure Humanoid Robot Startup Comes Out of Stealth"
+    excerpt: "A startup that just exited stealth mode this week, Figure, wants to make 5'6\" humanoid robots as ubiquitous as press releases and student essays authored by ChatGPT. TechCrunch first reported on Figure in September 2022,"
+    publishedDateTime: 2023-03-03T04:15:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/figure-humanoid-robot-startup-comes-out-of-stealth/446847"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1677811301-youtube-still-figure-humanoid-robot-hero.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Generative AI Startup Typeface Emerges From Stealth with $65M"
     excerpt: "Typeface launched with $65 million in funding from Lightspeed Venture Partners, Menlo Ventures, M12 and Google Ventures."
     publishedDateTime: 2023-02-27T20:36:00Z

@@ -224,6 +224,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in IoT Market Research Report Reveals The Latest Trends And Opportunities."
+    excerpt: "The Artificial Intelligence in IoT market is a rapidly growing industry, with a significant increase in demand over the past few years. The market is characterized by the presence of numerous players offering a wide range of products and services."
+    publishedDateTime: 2023-03-02T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-research-report-reveals-the-latest-trends-and-opportunities-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Data Science and Machine Learning Service Market Share, Size, Trends, Industry Analysis Report By 2023 To 2029"
     excerpt: "Top “ Data Science and Machine Learning Service Market ” Size 2023 Key players Profiled in the Report are [, Bigml, Hewlett-Packard Enterprise Development, International Business Machine, Amazon Web Services,"
     publishedDateTime: 2023-02-27T16:26:00Z
@@ -517,6 +531,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 23
+  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
+    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2023-02-27T12:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Artificial Intelligence In Agriculture Market Worth $4.7 Billion In 2028 - Exclusive Report By Marketsandmarketstm"
     excerpt: "The ai in agriculture market is projected to grow from USD 1.7 billion in 2023 to USD 4.7 billion in 2028; it is expected to grow at a CAGR of 23.1% from 2023 to 2028 according to a new report by MarketsandMarketsTM."
     publishedDateTime: 2023-03-01T18:26:00Z
@@ -555,6 +578,6 @@ related:
       domain: marketwatch.com
     quality: 11
 
-secured: "xO+Z4dVmboo4c/vkEiSsDvPixjubf+86t22aanU0Et1thGN0AKj8f6WNXYMlNdpqi8i1SXMe0RPEHVA08uv6ETHGM5by/Xhr+zSeur2Ro7NrlERbCiG+H13qOhH9yBntPbia6VFjrhsjy52g5FSG1s43yuEJHgG32M50/SpyPdCbt9ZZLTw50GrErqf7csumqY/NHbHsAE7plxbA8cdRtgSEfwM6nl7MT6ffUvNOflk++EIDPdisGKK9hoAqEuBgpcKxfnHW9BQ6vwK5m7VZlxPu5QolFNqrQBIXsnxySOv/DVof/nsVnMIkTTMTqFKnkKRLP7Z6r7DOaq+2ROAj961ulLrdfT7ykKXh/o1ySyM=;35nUelhKacRjZSsDn8SSwA=="
+secured: "p2gXhr/+8IpajiJpuleOAOwiPMRHfdU1YYtMYsX9QBidPbansX5UPZnwuOrlQf7sk6hj8T69ZnHIgMQ7e8CjzkDJ3rsmldZCnykFZxOZbfr/ivPhe3UCQ3H9adxG0eSDNQwrIsOTrpWoaj5ejI76X/ACvcpZvHRTvkBTXKQj0YkSwPQbihRQs2x9+ffLXolmTd3kXWvdegHMk7S/5HOBXhBycm46C1Jq9x/cQXH4MbxOnvIDBhiyiLmH1VtX4d866MuUAT1jcmAmq1Hzk7w9vjLXx9etsEisP9TcFJWwrvcLHNJ0fI5R2m6ttI6of2dJyKmpRcWwRPiqt9wCvGG5mZXk8nzH6i2+hJRCeUgML/Y=;g3VT4miu9RD4GNOFwFNqHw=="
 ---
 

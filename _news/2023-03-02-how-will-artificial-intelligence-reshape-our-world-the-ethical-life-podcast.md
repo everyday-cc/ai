@@ -3,8 +3,8 @@ category: news
 title: "How will artificial intelligence reshape our world? | The Ethical Life podcast"
 excerpt: "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other."
 publishedDateTime: 2023-03-01T23:30:00Z
-originalUrl: "https://www.stltoday.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_378de492-0a0a-5125-907c-ad805d76756f.html"
-webUrl: "https://www.stltoday.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_378de492-0a0a-5125-907c-ad805d76756f.html"
+originalUrl: "https://www.stltoday.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_378de492-0a0a-5125-907c-ad805d76756f.html"
+webUrl: "https://www.stltoday.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_378de492-0a0a-5125-907c-ad805d76756f.html"
 type: article
 quality: 50
 heat: 50
@@ -24,6 +24,6 @@ images:
     height: 628
     isCached: true
 
-secured: "s3zs9rBUbAGmR5k7qU6m9AGlN7+imTyg2Y2rr0c3lWk9qELFvDVGZvhsjyKMu1VSPT2eYq4HSUFJu8QX79KrU/oSpOInGX7ZcKREGkvKVc9+nYW7G0tTVbcas98OSissJD2q8BaVz+a2fHG/FI9/6mFDoOm0h7swE7KFj45CBIxBfOenYG3W7lUv2xL4FSZz2+S1h02KfNx1nFqIs8cpgwiSBxc7ADQSqYD3blK6KVgXs0fMPJ38aT95Aw2eRlmO/BRIMgI8da+TKAtG5L22LgoCETyQXEfHDkdo/AMjQCe/RBWaERiOpUn0Xp85+ZeJGK2zjmDNf7WHhVL8E2vb6Zd6O8s9XUTMSi8vbhsQAi99pHWTsu5hpV/G5lg49UBtQ9IHkbeTsKpm5M76qp1nA2jBFU0gpA8Xct8lnM5/wQ+UwdU3b+u5qoFvK2wrX/eRv1Y4HySXRCw8+GHfl8nrb4vVpu5I0Kessumq0MoC8gSS3mxXHgEkR18FE4iF3P5eYBnl3uvz+QKMJiWfw++oUg==;6K1eDZUrUWhywXn/19aS1w=="
+secured: "nzSgA8V09ZrgOeDv62yIMLTa39D0nqhjSVK4q3uX5a/GeqjGgwvY3qZZ/3N6poUOpmkeisx9/LEVgeaIvP4hf7maFzy6EmP1pwyRPJ2DCOjvu4G3tqMu1dfg7Rd6PFK93qOQpzcwfBvUWIdN6xW8AQl3hl4ksFKEAbAmkfazGbwS0oBBNrESg32c0p/9/zbmp6fafX4fTDjOToC+uz7mPeXoriYiZ9l4vQMabweRb9G+/G7LmaEfDwO/N2hXoPM4cePFl9F7AHc1YDCm+JJv/pzWvkSTm5Yu6BMrbrVCZdRt2+6L8kdpj6+GOhWUe3oIcotti/NR/BgxMTV+atNvqm3ymWWc6w8trG/7iRzj/ig=;rPqj1V5R3iL6UPHmW8NM4Q=="
 ---
 

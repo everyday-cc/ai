@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Legal Doomsday For Generative AI ChatGPT If Caught Plagiarizing Or Infringing, Warns AI Ethics And AI Law"
-    excerpt: "Many people do not know that generative AI such as ChatGPT was data trained by scanning the Internet, which is an approach that some believe unfairly usurps the work of human content creators. Here's a close look at the claims of plagiarizing and copyright infringement."
-    publishedDateTime: 2023-02-26T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/26/legal-doomsday-for-generative-ai-chatgpt-if-caught-plagiarizing-or-infringing-warns-ai-ethics-and-ai-law/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/02/26/legal-doomsday-for-generative-ai-chatgpt-if-caught-plagiarizing-or-infringing-warns-ai-ethics-and-ai-law/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/26/legal-doomsday-for-generative-ai-chatgpt-if-caught-plagiarizing-or-infringing-warns-ai-ethics-and-ai-law/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63f9330cbe0758e7b58ba854/0x0.jpg?format=jpg&crop=1799,1348,x96,y0,safe&width=1200"
-        width: 1200
-        height: 899
-        isCached: true
   - title: "Snapchat Launches Its Own ChatGPT-Powered AI Chatbot"
     excerpt: "Snapchat on Monday said it is launching its own generative artificial intelligence chatbot, called My AI, powered by the latest version of OpenAI's ChatGPT. Snapchat calls My AI an experimental feature,"
     publishedDateTime: 2023-02-27T15:31:00Z
@@ -121,22 +105,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/9cafdb325bf2a75205d177ac0dd168bec62eeee7/hub/2019/07/25/e374ca7d-8d20-420a-9bd0-fd6b53b03b54/snapchat-logo-1.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "What Elon Musk, Bill Gates, and 12 other business leaders think about AI tools like ChatGPT"
-    excerpt: "While some business leaders are excited about AI's potential for good, others are skeptical, unimpressed, and even scared about what the tech can do."
-    publishedDateTime: 2023-02-26T12:06:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-bill-gates-business-leaders-quotes-on-chatgpt-ai-2023-2"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-bill-gates-business-leaders-quotes-on-chatgpt-ai-2023-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-bill-gates-business-leaders-quotes-on-chatgpt-ai-2023-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/5f73621374fe5b0018a8dfcf?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "ChatGPT and its implications for customer experience"
     excerpt: "LLM-based chatbots like ChatGPT and conventional chatbots fulfill somewhat different purposes, but LLMs will be heavily used in CX."

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Japan Natural Language Processing (NLP) Market To Grow With A CAGR Of 25.5% During 2021-2030"
-    excerpt: "With the growing advancements in deep learning architecture and algorithms in the field of image recognition and speech processing, the demand for natural language processing (NLP) has grown ..."
-    publishedDateTime: 2023-02-26T11:15:00Z
-    webUrl: "https://menafn.com/1105647123/Japan-Natural-Language-Processing-NLP-Market-To-Grow-With-A-CAGR-Of-255-During-2021-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?611155"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "JLWsLeXwZfD/22FxSKS6M/UkbeFbncjOkFxGy3nbXeIPee1e2GXa7fnBhb5aIDlNzgESNFGSTAwVl7BrL6T3k9+6y851PemJZg8Uy8fZIgqiZ7UwHQWFGs6oEM0w889smc6b8frg6FZqyzDk2rxr4FR2N5upabZ10g5vNE7CbuCV8ELveG/Vpj8GntESADJpPjEu7X4Vj7GqPDA2jzOVR6c/OtTcXWkIpws/UBw4GMnhhvcRGb/uEFXH7aHCpi/yVddR0aelNTE4l+LTpb/HqXJtDusxGGmr3EkPDq5DZiM3NZHNsYqSLsx7f2d3yVa3eBGqD2gprJ7WAnPw5vYSg1xolZw2a4yQKitAJiJdJ48=;nV2EcPxpRdpAb7TzjidtbQ=="
 ---

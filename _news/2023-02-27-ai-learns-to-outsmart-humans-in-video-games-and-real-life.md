@@ -21,10 +21,10 @@ topics:
 related:
   - title: "AI learns to outsmart humans in video games - and real life"
     excerpt: "Video game players have competed against computer-controlled opponents for decades, but they haven't been as smart and fast as GT Sophy, the new AI driver on PlayStation's Gran Turismo"
-    publishedDateTime: 2023-02-27T16:02:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
+    publishedDateTime: 2023-02-27T16:04:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
     type: article
     provider:
       name: ABC

@@ -235,6 +235,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in IoT Market Research Report Reveals The Latest Trends And Opportunities."
+    excerpt: "The Artificial Intelligence in IoT market is a rapidly growing industry, with a significant increase in demand over the past few years. The market is characterized by the presence of numerous players offering a wide range of products and services."
+    publishedDateTime: 2023-03-02T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-research-report-reveals-the-latest-trends-and-opportunities-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning in CT Scanners Market Size 2023 With Regional Scope, Report Coverage, Historic Data, Outlook 2029"
     excerpt: "Deep Learning in CT Scanners Market Size 2023-2029 | New Report (121 Pages) | Information Technology | In This Reports"
     publishedDateTime: 2023-02-27T03:56:00Z
@@ -523,6 +537,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 21
+  - title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
+    excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2023-02-27T12:43:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
   - title: "Artificial Intelligence In Agriculture Market Worth $4.7 Billion In 2028 - Exclusive Report By Marketsandmarketstm"
     excerpt: "The ai in agriculture market is projected to grow from USD 1.7 billion in 2023 to USD 4.7 billion in 2028; it is expected to grow at a CAGR of 23.1% from 2023 to 2028 according to a new report by MarketsandMarketsTM."
     publishedDateTime: 2023-03-01T18:26:00Z
