@@ -108,6 +108,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Technology Market Exploration 2023: Business Intelligence and Technologies by 2027"
+    excerpt: "Speech and Voice Recognition Technology Market” report with historic and upcoming business growth revenue with leading"
+    publishedDateTime: 2023-03-03T08:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-exploration-2023-business-intelligence-and-technologies-by-2027-2023-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market International Business Analysis, Development Outlook and Regional Strategies 2029"
     excerpt: "Feb 26, 2023 (The Expresswire) -- [118+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Machine Learning Market” Size 2023 Key players Profiled in the Report ..."
     publishedDateTime: 2023-02-27T14:09:00Z

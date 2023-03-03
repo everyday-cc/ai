@@ -102,15 +102,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "What are the implications of artificial intelligence for the future of art? The robot artist Ai-da and her creators discuss"
-    excerpt: "Ai-Da, the artist robot, speaking at the House of Lords on 11 October ... Ai-Da and the wider field of artificial intelligence (AI) art has proven controversial and unsettling for many in the art world, which is understandable given that art is considered ..."
-    publishedDateTime: 2023-02-28T11:37:00Z
-    webUrl: "https://www.theartnewspaper.com/2023/02/28/what-are-the-implications-of-artificial-intelligence-on-the-future-of-art-the-robot-artist-ai-da-and-her-creator-discuss"
-    type: article
-    provider:
-      name: The Art Newspaper
-      domain: theartnewspaper.com
-    quality: 23
 
 secured: "VCTjqZV8EAghTY8HfPSb3tGh/OxtTtx8qqfR35rR1XUYWV4fIioZrGHmKwr+fCJKlC1VSz2oXtPjr0/tYfqQ8O4HtJ5O3UPHQvnpF6eTsAcd5Vn6Bd5RDnrHqp+pyPp7m/s9p+q/WOymcTd6V75KrY6R3Ub7vMukwTylXboOT6RFh5NhHbYwnHMh3ogvfXSZVgDb6Z2Q+ebzKvGYyq17uSnVU27CeSCPDGBFJrVoxn1mgA0yM5MI7LvSfoIQ8FZM2Jx8lTywpwJ240fNnBHG5e1HP0EPe/8Muaszma+Mp52SXX9Oz9/L+48mt4tR8ZoEp8x2UX1xy8hZHGg3t8SKYXYnjVOqualwbg0cc5cWFJSTbhp86TsjbObL6XUm7aVsYKz+pObCAQeyDXmnh87J8cFdtWJzcuFU1k1c5KLvMxvpmUiG8Yh9aLk45+T/4mu7sbDysiSm7N0ZvZY1+syLju8cqnrf0xOboqn/W5UsVw8iFk2kH6er3AnpwdbVl5VaS0DLEeT4G7k0qtgcsKRDow==;YK6NpuNaAhp8gB2vIA9oww=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/28/five
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/28/five-artificial-intelligence-predictions-for-the-near-future/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,20 +23,68 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning predicts the future of driver safety"
-    excerpt: "With fleets producing terabytes of data every year, more safety leaders are using the power of machine learning and predictive analytics to reduce risky driving and create more operation insights to improve performance."
-    publishedDateTime: 2023-03-01T15:00:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21260941/machine-learning-predicts-the-future-of-truck-driver-safety"
+  - title: "Welcome to the Museum of the Future AI Apocalypse"
+    excerpt: "The temporary exhibit is funded until May by an anonymous donor, but the space shows the influence of a number of tech founders and thinkers, from a framed tweet about AI and effective altruism by Facebook cofounder Dustin Moskovitz to the bathtub full of ..."
+    publishedDateTime: 2023-03-03T12:00:00Z
+    webUrl: "https://www.wired.com/story/welcome-to-the-museum-of-the-future-ai-apocalypse/"
+    ampWebUrl: "https://www.wired.com/story/welcome-to-the-museum-of-the-future-ai-apocalypse/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/welcome-to-the-museum-of-the-future-ai-apocalypse/amp"
     type: article
     provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 39
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2023/03/16x9/dreamstime_m_191741474.63ff4af7dd240.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://media.wired.com/photos/640138f56b8fce2586a7ac74/master/pass/AGI-Museum-Opening-spambots-2-Business.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "OpenAI’s Bets on Tech Startups Hint At the Future of Artificial Intelligence"
+    excerpt: "OpenAI’s $100 million Startup Fund and Converge accelerator program have backed about a dozen startups that give a hint at what its next product might be."
+    publishedDateTime: 2023-02-28T22:32:00Z
+    webUrl: "https://observer.com/2023/02/openais-bets-on-tech-startups-hint-at-the-future-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: observer
+      domain: observer.com
+    quality: 49
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/02/GettyImages-1246870699.jpg?quality=80&#038;strip"
+        width: 3600
+        height: 2400
+        isCached: true
+  - title: "EBay Head Of AI Talks About The Future Of Online Commerce"
+    excerpt: "Here’s a look at how generative AI, real-time personalization, immersive experiences, and the metaverse will shape the future of online commerce."
+    publishedDateTime: 2023-02-27T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/shelleykohan/2023/02/27/ebay-head-of-ai-talks-about-the-future-of-online-commerce/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "AI can’t write this: 10 ways to AI-proof your content for years to come"
+    excerpt: "Despite all the hype, AI still fails at many areas of content creation. Here's how you can double down on things only humans can do."
+    publishedDateTime: 2023-02-28T15:01:00Z
+    webUrl: "https://searchengineland.com/ai-proof-your-content-393638"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 37
+    images:
+      - url: "https://searchengineland.com/wp-content/seloads/2023/02/AI-cant-write-this-10-ways-to-AI-proof-your-content-for-years-to-come.png"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "What are the implications of artificial intelligence for the future of art? The robot artist Ai-da and her creators discuss"
+    excerpt: "Ai-Da, the artist robot, speaking at the House of Lords on 11 October ... Ai-Da and the wider field of artificial intelligence (AI) art has proven controversial and unsettling for many in the art world, which is understandable given that art is considered ..."
+    publishedDateTime: 2023-02-28T11:37:00Z
+    webUrl: "https://www.theartnewspaper.com/2023/02/28/what-are-the-implications-of-artificial-intelligence-on-the-future-of-art-the-robot-artist-ai-da-and-her-creator-discuss"
+    type: article
+    provider:
+      name: The Art Newspaper
+      domain: theartnewspaper.com
+    quality: 23
 
 secured: "Th/nk40ywUVqMxPNHo5NpxcyP66kz7xBEIKwyOee+etpbZbJqqNtS/aWUQoWE5KbWwocwMWqbtU6z3JWCuDSGATfznYFer7p1ruvsdq9ZxyhdfDFDwEgj8Hbl5zvao7D/V6N+4vkyVPJ+tu53I/xgaDJaxA33aWt+U9zpma9odBkG4U479x+E1NX3f0OX7OYk8qrHJ2H0KQEUBHwmuy3SqP9lQ7DYskLXvzXa5qzDk17JoYkaOeyNUq0sBHgbDVKQG0VTr1aS5PeVcS5IWpPZPKtTIIAOt4VaoVwY6E86HHUYnwuhy/W3weT5pR/7Kb24efWvUbm0S7BaaUjhXGbxf925dGk5dTmMjrfE7f3fCNbv4TyOFqeCtnTT9hSqsWNnrWDE/FxvOi3ArKVIY4sdPjDRUDLqxGg1KLR+x/aazMeWt61Q8dhePEwCB9c9uQSDfhmu2avysM+i/j1SrP7zZoZn5IbBLgZRK12jh6LxH1CASMHlVPd4lTZZ/NxVeGcIs/Q3F3HrtMramzkrEInLA==;QKpqALMv8FQfP/QeLIS7Bw=="
 ---

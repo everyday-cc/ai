@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/"
 type: article
 quality: 106
-heat: 386
+heat: 396
 published: true
 
 provider:
@@ -175,6 +175,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/4a2a977d2587c9108a8c21ead6424879077aded1/2023/01/23/ab0629d6-3025-4d76-bc8e-95e872d04683/gettyimages-1246127199.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft and Alphabet Fail to Show at the AI Party"
+    excerpt: "Artificial intelligence is the buzziest of buzz words on Wall Street. Apart, that is, for the two firms that are seen to be at the cutting edge of the technology."
+    publishedDateTime: 2023-03-03T11:53:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-03/microsoft-and-alphabet-fail-to-show-at-the-ai-party-tech-watch"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGjuPtL7f_GU/v0/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AWS Eyes Microsoft-Backed ChatGPT With New AI Partnership"
     excerpt: "AWS AI gets boost with Hugging Face artificial intelligence collaboration targeting developers and machine learning innovation for generative AI."

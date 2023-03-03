@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-device-
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27"
 type: article
 quality: 52
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
     excerpt: "BrowseImage Recognition Detailed TOC 2023, Tables and Figures with Charts which is spread across 125 Pages that provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
     publishedDateTime: 2023-02-28T03:05:00Z
     webUrl: "https://www.marketwatch.com/press-release/the-growing-demand-for-image-recognition-market-2023-new-report-revolutionizing-the-manufacturing-landscape-2023-02-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Technology Market Exploration 2023: Business Intelligence and Technologies by 2027"
+    excerpt: "Speech and Voice Recognition Technology Market” report with historic and upcoming business growth revenue with leading"
+    publishedDateTime: 2023-03-03T08:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-exploration-2023-business-intelligence-and-technologies-by-2027-2023-03-03"
     type: article
     provider:
       name: MarketWatch

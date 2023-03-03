@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/lifeandstyle/2023/mar/02/ai-in-exams-a
 webUrl: "https://www.theguardian.com/lifeandstyle/2023/mar/02/ai-in-exams-a-wandering-walrus-and-has-a-cat-been-to-space-take-the-thursday-quiz"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Volatility Alert, Thursday's Rally, C3.ai Jumps, Bless the Fed Pragmatists"
+    excerpt: "The charts for the S&P 500 and Naasdaq Composite suggest that the market could be in for a period of increased volatility soon."
+    publishedDateTime: 2023-03-03T11:07:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/stocks/volatility-alert-thursday-s-rally-c3-ai-jumps-bless-the-fed-pragmatists-16117424"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 35
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/5a522a38-136c-11e8-b8cf-074c479e2d81.png"
+        width: 1152
+        height: 768
+        isCached: true
 
 secured: "p3mMfcoQ0a01GLOvBZXhjWmq7mttiSbfz6Wqibls/tvCLJyVEiT81VtN+6lC0pPB4WTZ/XPEAmLMHZguW14Yh5FEdYyUqt8e/BydaCsrq3BBOQVvoioUFUDl3DD9XhgkJwsdFBam0/3QzdSoexcd4yVUyeR3BK2DWmTZspVF2Gd94dWtGoab9zEX1aDQD7qma0XrhRPAAwoB3MMtVgOKdvqxa+Ct7L6IHGov4cqBxymr4D3cNMA2qCH1f8CKUTXBYw6nf8v5EKpk3xdoqtyCCuXnkFopkj1sgOQqYNWhT0jUmkd5E81BDWUjTR9CM+vZ3Rw3VfaJhBJFqX9jexYz6Fd13qCxBmBNJRpD26Q3ELfSGIeeXbxWBEiVkGiWKSafAppx3nrQr7vPBERgh5YkmGIvDvnC+GzdHA/dwJHNPpQX7x5zsGcAiOMO/FYARFnkS9RN23SlqRuqwfPGVncvxhxZJJ8G55Nl0rgSmeLX7e5s0BEidLrCcd1SnWG+Xp9OMlv+nuEqQQ16tIjinMmf/g==;MZpCinxtY928Izq5JC3d5Q=="
 ---

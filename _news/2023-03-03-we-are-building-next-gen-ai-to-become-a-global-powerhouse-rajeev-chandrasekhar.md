@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/we-are-building-next-gen
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/amp_articleshow/98383176.cms"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2023/02/microsoft-bing-10-1019x573.jpg"
         width: 1019
         height: 573
+        isCached: true
+  - title: "We’re building next-gen AI to make India a global powerhouse: Rajeev Chandrasekhar"
+    excerpt: "As the world goes gaga over AI chatbots, Union Minister of State for Electronics and IT Rajeev Chandrasekhar has a clear vision: To make India a global powerhouse of AI which does not just stop on integrating foreign chatbots but building next-generation of AI-based innovations to empower billions of citizens."
+    publishedDateTime: 2023-03-03T11:12:00Z
+    webUrl: "https://www.thenewsminute.com/article/we-re-building-next-gen-ai-make-india-global-powerhouse-rajeev-chandrasekhar-174045"
+    ampWebUrl: "https://www.thenewsminute.com/article/we-re-building-next-gen-ai-make-india-global-powerhouse-rajeev-chandrasekhar-174045?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/we-re-building-next-gen-ai-make-india-global-powerhouse-rajeev-chandrasekhar-174045?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 53
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/Rajeev_Chandrashekhar_Facebook_1200_2.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "We're building next-gen AI to become a global powerhouse: Rajeev Chandrasekhar (IANS Interview)"
     excerpt: "Chandrasekhar told IANS that artificial intelligence (AI) is a \"kinetic enabler\" of the digital economy and the government will infuse"

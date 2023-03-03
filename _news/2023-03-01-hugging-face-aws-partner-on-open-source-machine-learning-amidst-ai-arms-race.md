@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source
 webUrl: "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Hugging Face Makes OpenAI’s Worst Nightmare Come True"
+    excerpt: "The battleground for generative AI is becoming an increasingly intense one and it isn’t just the big tech companies that want to stake a claim."
+    publishedDateTime: 2023-03-03T11:29:00Z
+    webUrl: "https://analyticsindiamag.com/hugging-face-makes-openais-worst-nightmare-come-true/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/hugging-face.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "dyuCK29wgJJ0M2pws+tQ06XKimRFxP2F80VVNfubxGvkgO0E59cKC0rIx7ov8eAf1C2c6ilqlwp4bt4swnC6lDg1Phw1rOGzTxi5rGNjt/3L1wTMpLkrm6GzZasn+PMyzS2hQlK91NG0KxWorssvkBrYaGJUy1+UbeHKXjwuyaC5CkRpAPO3sqpkbKBFyl/dVaItpyRnm3b4kKTR6MjkeMCjbEEjPhgi00+hAw0FGd+Dh0vmmtetmUNEVbeWzF1pKVVqDJOgthOeD1tmoteXmy+eLc4I3MiwDlP/VPVg3os/2Opp4taMzmkAq9sjfPymCqkquXCSpy+7+eJKsYs9RDY7LXIc3MfuZ34RF2hL7Euxo+rbq+/1OczWAgTPwwbPnfTTUKno+5FE4lQbuekEPIa/RRkSrp2IModEhvDVrhA/xPsxS2jIjruRp4yqtkeqolV35UB8ITP92l214GGrRAn/8Tb6q6/dBh7B30uVXXAOG/6o8526ViDrIGaf0dhSgIZhA1d/uBuud4LnKO2tow==;MBe3fbI/U7Jmfbn1qWcy6w=="

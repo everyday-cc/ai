@@ -35,6 +35,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 80
+  - title: "Hugging Face Makes OpenAI’s Worst Nightmare Come True"
+    excerpt: "The battleground for generative AI is becoming an increasingly intense one and it isn’t just the big tech companies that want to stake a claim."
+    publishedDateTime: 2023-03-03T11:29:00Z
+    webUrl: "https://analyticsindiamag.com/hugging-face-makes-openais-worst-nightmare-come-true/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/hugging-face.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "StA3QS00IZoMOv2k6C2BI8yYashVLNoU6wQ+SxHU9QOedJHQ3zseGH19UAhcO8kcksI8dXwi3IdbIOpEZ90KX/dB97WrH3Tz2FHPvifheSu5oGP/hbXcz3fcu+g5T6FT4j6+dPkhF4aH55X2BldqmeiCJO5Jpwi0NiZj1j8MRuNlBSD6me0s0bGspeMQf9T1onMDPZ0AVbNlc3Y6aW4GPQarVDrW6B6zEf+iTmhIxZ7Hjfo6D8sW6prVLwfP7+74Bnle8bDOLyD6QYLjQ0AMaQeKNxAIMRdIqIrOOgsVUqBozmdnLblYIY+iPJt63WMNCtVX+su0kcoyfn8ZgWmdlMUfln8ig/rYLdxnDSUHbZw=;SCA64NtenulJIp4G9qsAKw=="
 ---

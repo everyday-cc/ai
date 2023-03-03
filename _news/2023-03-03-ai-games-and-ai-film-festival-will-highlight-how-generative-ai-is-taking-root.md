@@ -5,10 +5,12 @@ excerpt: "Get ready for the AI revolution. A group of companies is staging The C
 publishedDateTime: 2023-03-02T18:59:00Z
 originalUrl: "https://venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/"
 webUrl: "https://venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/"
+ampWebUrl: "https://venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/amp/"
 type: article
-quality: 46
-heat: 46
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: VentureBeat
@@ -22,6 +24,12 @@ topics:
   - Facebook AI
   - AI
 
-secured: "WbHvhlgWxBBIhnSKmKagezVKnuH5JqXO4uwTCv9vlB7oQ0rt0EFYKz2INrtDX2v0u67XHSmiRwoUhjpoC3aGXCfAwt+vfIjl+1hLwC7c6fcTl5E6YA9Xt0BMdrtGj4EVbX1J1fMJiPUYSjhDo6J8OimFHhmddkmT6h8eN5Pr2/75vG08EdkqwyBoftNb72+8hZvo3HhbDpksyYCoNHMPjXajLD3izLUCd7cebEtzH64I6BmjwcGYu/rmFAjnvLZLdkVpQhgiAhq1iYlL9xmJt9I9h2EquQbo8pssd28Vzw00uSumfXU+VMBZcoPjajD5r8n3tTTtWxORsQ4NeZARGtJMaLQcqkYnkb2lNy0hpcs=;PKAApFzF02R+zX73PlqSmQ=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/03/ai-games-and-film.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "lVUNAj/ZejqvZ0ptt2rpCi6snWJ8r7IQbng5WgDuCcuSbNZ99Zc30pkcG97YNoEABv/tqRb2J7FND3HO5zy7kw6AbsLmQsis4pvT/qBsERde1BQ9E/LA9X6Wt+6hXulZCWhO5fb9YjxkgBJA4gdjuHBTeAhBrQo6wszePlYZqlee8mtSZ8u9TNopLKaQeb+vJ9eO47ISyephIXNrfLQspeDO5x2Revoa+oH99RRmTHoe3evjKeGvRmmCBhkmaJWUuucLkJvKdSKeHjDGTD9H/fgA3Bv7xFjXa7kPtBncF/J7kpHDRiXDL9TPd8WYbLE7H0PQPU0K7fPh9CR3PHtxF7d9mGgqfBu22H7XNK6aIew=;4nhndRX/I4psk8OJC131FA=="
 ---
 

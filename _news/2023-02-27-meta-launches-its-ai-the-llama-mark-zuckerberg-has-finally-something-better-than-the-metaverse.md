@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-ma
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1"
 type: article
 quality: 75
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://c.ndtvimg.com/2021-10/fv7inbjg_mark-zuckerberg-650_625x300_29_October_21.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Zuckerberg's Meta To Take On ChatGPT, Creates New Group Focused On AI"
+    excerpt: "Meta will integrate the output on its products, such as Instagram and Messenger The company will build some creative and expressive tools using AI, according to Zuckerberg Mark Zuckerberg's Meta is creating a new product group focused on artificial intelligence,"
+    publishedDateTime: 2023-02-28T11:31:00Z
+    webUrl: "https://www.ibtimes.com/zuckerbergs-meta-take-chatgpt-creates-new-group-focused-ai-3672268"
+    ampWebUrl: "https://www.ibtimes.com/zuckerbergs-meta-take-chatgpt-creates-new-group-focused-ai-3672268?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/zuckerbergs-meta-take-chatgpt-creates-new-group-focused-ai-3672268?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://d.ibtimes.com/en/full/3841978/zuckerberg-renamed-company-meta-year-ago.jpg"
+        width: 768
+        height: 511
         isCached: true
   - title: "Amazon files 2 trademarks covering robots featuring AI in metaverse"
     excerpt: "Amazon a leader in the e-commerce industry and leader in cloud services with its Amazon Web Services (AWS), is making inroads with AI."

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-natural-langu
 webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-insights-industry-dynamics-new-technologies-and-forecast-to-2028-2023-02-26"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: MarketWatch
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "How and Where the Artificial Neural Networks Market is Set to Grow in forecast period 2029"
+    excerpt: "Mar 02, 2023 (The Expresswire) -- \"Artificial Neural Networks Market\" Insights 2023 By Applications (BFSI, Retail and eCommerce, IT, Healthcare and"
+    publishedDateTime: 2023-03-03T03:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kmOQQ90qBFKPwS4kOMgI7NLMyHaTTcO8fg8WZDh6j+jesr0lFjhRut+TpKZxFIDs0gZ2S/rUzrmIRUOcax5BHLgK3jMse0A44dt/86zhObMQ+Lc/13h2jCY/wZ0ZxPNzid7j9Cof5NOz/qePUP+5JLQpRFzR3SrsGMwsfiIz8qZ6AEG4tkqQFKv0Eb26CzKlhFrcRDNyySRQNLGGgfV/8cFttWFcvGtyqVrVTKtj6hVkniOJ8bDEaGIWI6EGoQX3avECHGTv0rq7St+YTa8Qa6IM3TuJ5Po3Tfd+5ZdfG9I7s8NUEBF3t+xXBvHP728xX85hI67PUG564fN+3upTSeWxFCXgp29i5/IJ4T3prwU=;VksI9C6YafBcf/UnTo/J5A=="
 ---

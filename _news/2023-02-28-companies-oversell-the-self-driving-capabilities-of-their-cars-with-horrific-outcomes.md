@@ -157,15 +157,6 @@ related:
       name: WWAY TV
       domain: wwaytv3.com
     quality: 4
-  - title: "Companies Oversell The Self-Driving Capabilities Of Their Cars, With Horrific Outcomes"
-    excerpt: "Tesla announced the recall of over 350,000 vehicles - more than 20,000 in canada - due to a problem with its“full self-driving cap"
-    publishedDateTime: 2023-02-26T19:51:00Z
-    webUrl: "https://menafn.com/1105648129/Companies-Oversell-The-Self-Driving-Capabilities-Of-Their-Cars-With-Horrific-Outcomes"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "I8EtKCC85rRavLC2hJ6F38DtNGRsxmXyzHtNzizgEAJ5ceww++YE4L+xjjssNWyTsFNP90wZ7KTKAwHQ6vX7+00sZU4PIDh/CJM6T8VJ0I0X1rg5OxDB+OQEmW/lDq/jhuJGIEB7I9uiU04PM1DCKJQYZBkIUAm1QSX2yrQeEtNkfeA00ssgMXVsqmWvMEDlJJES4RH6VBYNyh+3ST76BWY0ZF+IRVRKROQs0oA2kzrMaNyov4rTDqivCVyhjXAK5R4gV3M1gaVSPHaonSUkvqhMQuRRNj6/Cewd1QX1/vZy0krkdLsRo4l0A4DV2dLnLC4v3ZVYqJZnfuFAo4wttrOrb5g04R90r1D8aF+oT8M=;gkUbjSaxhqiYeFLObgL5DA=="
 ---

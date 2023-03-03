@@ -7,7 +7,7 @@ originalUrl: "https://www.fleetowner.com/technology/article/21260941/machine-lea
 webUrl: "https://www.fleetowner.com/technology/article/21260941/machine-learning-predicts-the-future-of-truck-driver-safety"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Five Artificial Intelligence Predictions For The Near Future"
-    excerpt: "Artificial intelligence is poised to change our business landscape—from creative workflow to tailored therapy to individualized customer experiences—it is already altering our environment."
-    publishedDateTime: 2023-02-28T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/28/five-artificial-intelligence-predictions-for-the-near-future/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "kGsZoXYdaJK9Ob9oPXipPU3c3xbg1Uo85JxJDAeKG1Bzwk6s5WgOnZLJYjShgkAQk2pqRg1wXqXmRAeBrS/8bzolqLATQ2U9lDCK78bOn0e6PNIkHy23bTz1vqguXyUKQOwWbsVOXRND50fRWquILIGJ5x97JrPMRbbYiAcMIn+IyxFAMbvkhaasw0JfAqfaaLS7vvXtJkKAV2a1yd0XAdQCjUfHwwOVY9LMdVo82VYAtgxbBTXPvtNmR0n2IFIaEJ+kAiIqX84RSH/w9DPdIlEKvczi8/OARV+T1E0MNwlkYjRdd8JKG05ZNbvJVakdeHP6vXGgiV2g2eOfHwGYeRi1FOHu9tPQmAySmNhQ+XFM0oryVTWheMtdZ9WZKnpw8Yf6lXA7SNMXQkGMztN24Aqk1R79LTW8pWGbk470suQn9ksEeE5miUVIoBjYbCZ/f7rPdqpzm7qrbThW73Py1EqClMkVH+5FeywMQkAeZ0xr0KytnjUCD9MRaqeYQVrbMvdkF770viICda6caAVLuQ==;oqn91B6+T24STh7ouCl8NQ=="
 ---

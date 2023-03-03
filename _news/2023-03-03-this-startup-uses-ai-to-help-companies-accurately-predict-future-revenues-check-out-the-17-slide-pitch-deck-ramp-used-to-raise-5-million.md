@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "EBay Head Of AI Talks About The Future Of Online Commerce"
-    excerpt: "Here’s a look at how generative AI, real-time personalization, immersive experiences, and the metaverse will shape the future of online commerce."
-    publishedDateTime: 2023-02-27T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/shelleykohan/2023/02/27/ebay-head-of-ai-talks-about-the-future-of-online-commerce/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "DpKbWVCuam1bqdYWMqCRA8bmALOmM0vzAHfc+Zb1Bfwcq4T5/NkgoTRZkyCCXCoQFT0eWCN5N6MpiNgeZLspiOIcafqP6d/dywz5Vdg3UXx437JAkzJQbWfmIdh1ZyhKZbCxZnZZ47AdqEGl8uCWn2wH6vUXGzF2GX0ELsAtJt8iSRmZtp9ChQ8LfyOrc8ubwd+4vVbC7DDw4sN5uTd6DRLLDzhpZEva/g9qpMCJnJoS/tTZVMbQ3/AbXWkkHc1qEmo3ZspAutjoaKT1o2KwdqLyZ5mtzKFMJ6ev5v7meWT0jqwNMowaLsnauSua2AV7eIxW7X+3w3o8+VTBK7J5KRmNCGs5uGYlg0Kl1Oi6MIrdbq1yBxmCrEniTouDDYlPBc0G3gMj/UNWHv3A8xalBVjYfkhi3VY8OAroP3dLCXwekKmH7bZgUP3+URd/dCuFIL6OdGm1F6cUnRH9VJti89E1s00AMMfcutG6SIbCSPpRvWhNbmbVwtTGc+WSOq46cFpOB0br8nO/7FUXoNvt7Q==;z73BejhuwF2Fw1gaD5h+2w=="
 ---

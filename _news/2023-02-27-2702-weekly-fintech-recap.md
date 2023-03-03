@@ -41,6 +41,20 @@ related:
         width: 760
         height: 443
         isCached: true
+  - title: "The unraveling of fintech darling Vise"
+    excerpt: "From the outside, fintech Vise oozed success: top-notch VCs, sky-high valuations, and prodigy founders. The reality, staffers say, was very different."
+    publishedDateTime: 2023-03-03T10:02:00Z
+    webUrl: "https://www.businessinsider.com/unraveling-fintech-startup-vise-new-york-unicorn-venture-capital-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://i.insider.com/63f6233f5ca81e001855b130?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI-Powered Tax System Is Creating A New Paradigm. Will Banks And Fintechs Adopt The Technology To Help Their Customers Save On Their Tax Bill?"
     excerpt: "Tax impacts nearly 100% of Americans and is one of the largest expenses people bear each year. Yet, most of us go all year without having a clue if we are ahead or behind on our obligations to the tax authorities."
     publishedDateTime: 2023-02-27T14:00:00Z

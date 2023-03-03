@@ -19,98 +19,68 @@ topics:
   - AI
 
 related:
-  - title: "The purpose and impact of creative AI"
-    excerpt: "Will generative AI be more of a problem than it’s worth? Here are some ways creative AI can be a help and not a threat."
-    publishedDateTime: 2023-02-28T02:07:00Z
-    webUrl: "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/"
+  - title: "Welcome to the Museum of the Future AI Apocalypse"
+    excerpt: "The temporary exhibit is funded until May by an anonymous donor, but the space shows the influence of a number of tech founders and thinkers, from a framed tweet about AI and effective altruism by Facebook cofounder Dustin Moskovitz to the bathtub full of ..."
+    publishedDateTime: 2023-03-03T12:00:00Z
+    webUrl: "https://www.wired.com/story/welcome-to-the-museum-of-the-future-ai-apocalypse/"
+    ampWebUrl: "https://www.wired.com/story/welcome-to-the-museum-of-the-future-ai-apocalypse/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/welcome-to-the-museum-of-the-future-ai-apocalypse/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://media.wired.com/photos/640138f56b8fce2586a7ac74/master/pass/AGI-Museum-Opening-spambots-2-Business.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "10 Threats That The Use Of AI Poses For Companies And Organizations"
-    excerpt: "How, when, and why business leaders employ AI technology has the potential to create a wide range of crisis situations for their companies and organizations."
-    publishedDateTime: 2023-03-02T13:32:00Z
-    webUrl: "https://www.forbes.com/sites/edwardsegal/2023/03/02/10-threats-that-the-use-of-ai-poses-for-companies-and-organizations/"
-    ampWebUrl: "https://www.forbes.com/sites/edwardsegal/2023/03/02/10-threats-that-the-use-of-ai-poses-for-companies-and-organizations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edwardsegal/2023/03/02/10-threats-that-the-use-of-ai-poses-for-companies-and-organizations/amp/"
+  - title: "Five Artificial Intelligence Predictions For The Near Future"
+    excerpt: "Artificial intelligence is poised to change our business landscape—from creative workflow to tailored therapy to individualized customer experiences—it is already altering our environment."
+    publishedDateTime: 2023-02-28T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/02/28/five-artificial-intelligence-predictions-for-the-near-future/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6400a62230cdf3c16355cb60/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The AI Disaster Scenario"
-    excerpt: "Is it right to freak out? Is it wrong? Will AI end the human race? But also: Aren’t these tools awe-inspiring?"
-    publishedDateTime: 2023-02-27T17:14:00Z
-    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/02/ai-chatgpt-microsoft-bing-chatbot-questions/673202/"
+    quality: 49
+  - title: "OpenAI’s Bets on Tech Startups Hint At the Future of Artificial Intelligence"
+    excerpt: "OpenAI’s $100 million Startup Fund and Converge accelerator program have backed about a dozen startups that give a hint at what its next product might be."
+    publishedDateTime: 2023-02-28T22:32:00Z
+    webUrl: "https://observer.com/2023/02/openais-bets-on-tech-startups-hint-at-the-future-of-artificial-intelligence/"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 71
+      name: observer
+      domain: observer.com
+    quality: 49
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/yEbASzqMFEbd7XXl2z4_NjZ8B6U=/0x61:2876x1559/1200x625/media/img/mt/2023/02/AI_Questions/original.gif"
-        width: 1200
-        height: 625
+      - url: "https://observer.com/wp-content/uploads/sites/2/2023/02/GettyImages-1246870699.jpg?quality=80&#038;strip"
+        width: 3600
+        height: 2400
         isCached: true
-  - title: "Vue.ai Partners With Meta's Creative Shop To Create AI-powered Models For Inclusive Ad Creatives"
-    excerpt: "Vue.ai will enable brands to feature a single outfit across a wide range of AI-generated body types from size 4-20 with its patented technology"
-    publishedDateTime: 2023-03-02T06:14:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/vueai-partners-with-metas-creative-shop-to-create/446752"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1677737726-Hithere.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Exploring The Intersection Of The Edge, AI And IoT"
-    excerpt: "In this article, I explore the opportunities and approaches at the intersection of these revolutionary market adoption paradigms."
-    publishedDateTime: 2023-03-01T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/01/exploring-the-intersection-of-the-edge-ai-and-iot/"
+  - title: "EBay Head Of AI Talks About The Future Of Online Commerce"
+    excerpt: "Here’s a look at how generative AI, real-time personalization, immersive experiences, and the metaverse will shape the future of online commerce."
+    publishedDateTime: 2023-02-27T11:16:00Z
+    webUrl: "https://www.forbes.com/sites/shelleykohan/2023/02/27/ebay-head-of-ai-talks-about-the-future-of-online-commerce/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-02-27T16:30:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/02/27/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+  - title: "AI can’t write this: 10 ways to AI-proof your content for years to come"
+    excerpt: "Despite all the hype, AI still fails at many areas of content creation. Here's how you can double down on things only humans can do."
+    publishedDateTime: 2023-02-28T15:01:00Z
+    webUrl: "https://searchengineland.com/ai-proof-your-content-393638"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 37
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://searchengineland.com/wp-content/seloads/2023/02/AI-cant-write-this-10-ways-to-AI-proof-your-content-for-years-to-come.png"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "The 10 most innovative companies in artificial intelligence of 2023"
-    excerpt: "A ranking of the most innovative companies in AI, including OpenAI, DeepMind, Nvidia, Builder.ai, Voxel, and others"
-    publishedDateTime: 2023-03-02T07:00:00Z
-    webUrl: "https://www.fastcompany.com/90846670/most-innovative-companies-artificial-intelligence-2023"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
 
 secured: "hCAIEQF+Cl+YnzwShBgpNsQkkXOudJYPS44bzueYwSIbX9u03taetGgixNOQF6RTgTTItSuJYA1nunjceEpv6swySKhbZsub+0u9O4D+hnY5g1j8SU3im7yl1lhwxXAk4LrxM1XCqh/cxUJaj6dibAWgSKlS7VtPz44MQRzYNzYePp1xDfE2Ia9sc7hYFnEt7oILH7GlpY9YhGnCgn24pbVjNFrzPmqzzfVVSXU5gViXAv+cBTATXi6O+yelWRCh4xv/G498hWn+ic4SHjmk6p7z4YJWHBss+AqIs1nnbmf5/2bWVB33Hjes/77vKMl5s+vAlr7iJLygF+gMrOI2X+i4nG23CfZudP1+Sa26XZKQzxcpbpXB9/SZ5p2NFiklvRS49YO0kFq4aBuHBSyaYcNPB/KpvqVdAN6RKP5VlxsiPBDyVYo5HhbP5J2ZbCGN595T02aoyYIarW8PCL66p1eK1jRHJ873x7VbwalVcSIIYmd5bS1Zc+L3iRIlGm5R6xaj5fl8IxzwOm3J4Ev0CA==;/dAO+xv1n50cTRcCefAoNQ=="
 ---

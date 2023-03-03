@@ -46,6 +46,20 @@ related:
         width: 760
         height: 443
         isCached: true
+  - title: "The unraveling of fintech darling Vise"
+    excerpt: "From the outside, fintech Vise oozed success: top-notch VCs, sky-high valuations, and prodigy founders. The reality, staffers say, was very different."
+    publishedDateTime: 2023-03-03T10:02:00Z
+    webUrl: "https://www.businessinsider.com/unraveling-fintech-startup-vise-new-york-unicorn-venture-capital-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://i.insider.com/63f6233f5ca81e001855b130?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "27/02 – Weekly Fintech Recap"
     excerpt: "Partnerships Western Union and Beforepay Offer ‘Send Now, Pay Later’ Service to Consumers for International Money Transfers Western Union and Beforepay announced a first-of-its-kind collaboration, allowing consumers to boost their cross-border money transfers by accessing reliable,"
     publishedDateTime: 2023-02-27T13:29:00Z

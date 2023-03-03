@@ -175,6 +175,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft and Alphabet Fail to Show at the AI Party"
+    excerpt: "Artificial intelligence is the buzziest of buzz words on Wall Street. Apart, that is, for the two firms that are seen to be at the cutting edge of the technology."
+    publishedDateTime: 2023-03-03T11:53:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-03/microsoft-and-alphabet-fail-to-show-at-the-ai-party-tech-watch"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 84
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGjuPtL7f_GU/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AWS Eyes Microsoft-Backed ChatGPT With New AI Partnership"
     excerpt: "AWS AI gets boost with Hugging Face artificial intelligence collaboration targeting developers and machine learning innovation for generative AI."
     publishedDateTime: 2023-02-28T18:09:00Z

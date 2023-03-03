@@ -96,15 +96,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "What are the implications of artificial intelligence for the future of art? The robot artist Ai-da and her creators discuss"
-    excerpt: "Ai-Da, the artist robot, speaking at the House of Lords on 11 October ... Ai-Da and the wider field of artificial intelligence (AI) art has proven controversial and unsettling for many in the art world, which is understandable given that art is considered ..."
-    publishedDateTime: 2023-02-28T11:37:00Z
-    webUrl: "https://www.theartnewspaper.com/2023/02/28/what-are-the-implications-of-artificial-intelligence-on-the-future-of-art-the-robot-artist-ai-da-and-her-creator-discuss"
-    type: article
-    provider:
-      name: The Art Newspaper
-      domain: theartnewspaper.com
-    quality: 23
   - title: "The 10 most innovative companies in artificial intelligence of 2023"
     excerpt: "A ranking of the most innovative companies in AI, including OpenAI, DeepMind, Nvidia, Builder.ai, Voxel, and others"
     publishedDateTime: 2023-03-02T07:00:00Z

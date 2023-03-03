@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/future-of-artificial-int
 webUrl: "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-chip-market-by-2029-trends-and-predictions-2023-03-02"
 type: article
 quality: 93
-heat: 323
+heat: 313
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 87
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "GPU for AI Market is booming in near Future 2023-2028"
-    excerpt: "GPU for AI Market Research Report is spread across 99 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. GPU for AIMarket Size is projected to Reach Multimillion USD by 2029,"
-    publishedDateTime: 2023-02-26T19:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-is-booming-in-near-future-2023-2028-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

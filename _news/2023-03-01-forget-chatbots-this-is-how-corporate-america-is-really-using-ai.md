@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Capitalize on the $900 billion AI boom by buying these 20 top stock picks, according to Bank of America"
+    excerpt: "Investors impressed by ChatGPT may want to get exposure to artificial intelligence before it grows into a $900 billion business by 2026."
+    publishedDateTime: 2023-03-03T10:30:00Z
+    webUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-bank-of-america-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://i.insider.com/6400ec0e994ec3001894166d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Forget chatbots, this is how corporate America is really using AI"
     excerpt: "Ever since OpenAI's ChatGPT lit up the internet in November, companies can't stop talking about artificial intelligence. Take this earnings season so far: References to AI and related terms during calls with investors are already up 77% from a year earlier."
     publishedDateTime: 2023-03-02T19:15:00Z

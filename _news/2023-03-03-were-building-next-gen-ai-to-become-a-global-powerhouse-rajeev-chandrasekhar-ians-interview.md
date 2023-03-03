@@ -59,6 +59,22 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "We’re building next-gen AI to make India a global powerhouse: Rajeev Chandrasekhar"
+    excerpt: "As the world goes gaga over AI chatbots, Union Minister of State for Electronics and IT Rajeev Chandrasekhar has a clear vision: To make India a global powerhouse of AI which does not just stop on integrating foreign chatbots but building next-generation of AI-based innovations to empower billions of citizens."
+    publishedDateTime: 2023-03-03T11:12:00Z
+    webUrl: "https://www.thenewsminute.com/article/we-re-building-next-gen-ai-make-india-global-powerhouse-rajeev-chandrasekhar-174045"
+    ampWebUrl: "https://www.thenewsminute.com/article/we-re-building-next-gen-ai-make-india-global-powerhouse-rajeev-chandrasekhar-174045?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/we-re-building-next-gen-ai-make-india-global-powerhouse-rajeev-chandrasekhar-174045?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 53
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/Rajeev_Chandrashekhar_Facebook_1200_2.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "W+6+w2r1YXgaExLJQWTRsj1y3hgJMl+ditGyxXsABNc1QRWlvkTj/yexMf1uD5lHgp12ryaqSLT2z/y+u5kVh9dr8lrGlYWQnlAoKwlz993WVhm6PTWtAscx3anw6PxXzDUEIww0SC3cxS8PGqL/EhiszWDIn7fKYsyPQeq2x/85FItoCKcdEUD8NGctJpuqGCK93Dszdh8qZwuXWX7jjDE/ghy+geitVBsLlBIsogYefgQsiXaoBsfWW45VZ1GU9ivBDd7lpYsDX9lgV44tNtDmWXO4MDny5qiHE1uPN2xBRjHjXCu4pbxN1Ae4gAD13bXg29Kp8flbHUy+hYYjkk9ZX7UIrjJScwfvZnrzzcQ=;JU8GQyr1ox4pJp6krjcTCw=="
 ---

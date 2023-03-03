@@ -7,8 +7,8 @@ originalUrl: "https://www.pbs.org/video/ai-art-1677793713/"
 webUrl: "https://www.pbs.org/video/ai-art-1677793713/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: PBS
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "EBay Head Of AI Talks About The Future Of Online Commerce"
-    excerpt: "Here’s a look at how generative AI, real-time personalization, immersive experiences, and the metaverse will shape the future of online commerce."
-    publishedDateTime: 2023-02-27T11:16:00Z
-    webUrl: "https://www.forbes.com/sites/shelleykohan/2023/02/27/ebay-head-of-ai-talks-about-the-future-of-online-commerce/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "This startup uses AI to help companies accurately predict future revenues. Check out the 17-slide pitch deck Ramp used to raise $5 million."
     excerpt: "Ramp has developed a SaaS tool that gives finance teams a more efficient method to forecast customer revenue and financial insights."
     publishedDateTime: 2023-03-03T06:00:00Z
