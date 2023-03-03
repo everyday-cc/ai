@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-06-self-driving-laboratories-do-research-on-autopilot.md",
+      "title": "Self-Driving Laboratories Do Research On Autopilot",
+      "excerpt": "The concept of the self-driving laboratory aims to do exactly that, and could revolutionize materials research in particular. Materials research is a complex field and a challenging one to work in.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/09/29/self-driving-laboratories-do-research-on-autopilot/",
+      "originalUrl": "https://hackaday.com/2022/09/29/self-driving-laboratories-do-research-on-autopilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-a-simple-guide-to-the-expansive-world-of-artificial-intelligence.md",
       "title": "A simple guide to the expansive world of artificial intelligence",
       "excerpt": "Artificial intelligence is in everything nowadays. Use this guide to understand what, exactly, AI is, and how to think about its different applications.",
@@ -1271,58 +1305,6 @@
         "name": "Android",
         "domain": "androidheadlines.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-would-baidus-answer-to-chatgpt-make-a-difference.md",
-      "title": "Would Baidu’s answer to ChatGPT make a difference?",
-      "excerpt": "Baidu, China’s top search engine provider ... and where its limitations lie. A driving force shaping China’s tech development over the past few years is the rise of digital sovereignty ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/",
-      "originalUrl": "https://techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/01/baidu-ces-2018-0522.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/amp/",
-      "publishedDateTime": "2023-01-31T02:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

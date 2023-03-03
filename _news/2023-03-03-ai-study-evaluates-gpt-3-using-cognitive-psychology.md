@@ -3,13 +3,13 @@ category: news
 title: "AI Study Evaluates GPT-3 Using Cognitive Psychology"
 excerpt: "A new study published in the Proceedings of the National Academy of Sciences of the United States of America (PNAS) by researchers affiliated with the Max Planck Institute for Biological Cybernetics analyzes the general intelligence of large language model (LLM) GPT-3 using cognitive psychology."
 publishedDateTime: 2023-03-03T01:28:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology?amp"
+originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology"
+webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology?amp"
 type: article
-quality: 57
-heat: 77
+quality: 59
+heat: 79
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
@@ -55,6 +56,6 @@ related:
         height: 426
         isCached: true
 
-secured: "mEpF7oPfvBmbyv/EVNRNApk5w6L14bQ9lpo6GTsjP/fK5amMZEHkksJhvCy/uUYWk+atYXuc2b9Ny0dktj596aDaQ4ITjF08Z1TA7owOEvZQ5ETx6Xp0B/f+LdjSEfsWYlbthiAMM0lkwYsbRr3Q+w2jbCii1LO7WowFDRl9xDpKIWaFFrHPCzed63+kZw4IiwhsU/fm6R8krcfT4mys69K/4LZtraEvLPiXdXAJy9dDz+9CqeQ9JlmFvp0QJK0Ady+N4YhN04ihGV5Pel4oSgap6hjxq1RbMGHZFAH8H5n8m/ICiP1azVXyhgueA0p8hEC6nQLHpjDBLfHTuoVfImgd+Y0iPOb9rZJgbYPs+ag=;67R3qaz6NeURuOAjHWzARQ=="
+secured: "z90wEJruou3BQ7GhgEx1N82+mwetOAkMcCMUCs9fo70uycBOtaCq7991JTPEhmbGBFEHn5b+54vm5OyQMeI4aS5pKPHBArdU/2NNngGteIwf3CkEWj+tjC4PK1hOUKasusY46RuRyt4XSaEYPJ9Q8eUgUkyiGA64pBRqLLcrBLuygJ0JATHX0VPWWyV2JnOi8OzyfVehWegYc4ZZCwKaUmPPLXgTogJ0jdeREJ15MhMPXAMHVd+yP+YtL/SZ+TToexBlW+qYZEZy/o72DFiu6MDq5265gF4tyclcY1qyZCR0G9QN1yn8T1nsi9w5U/7Ly2Vf9n3Ct0fXc3RAw1/+BHNd1Nn0PEKcaMHbaPhmYnE=;AA5YkXe7kd+tkmjeCQKaIw=="
 ---
 

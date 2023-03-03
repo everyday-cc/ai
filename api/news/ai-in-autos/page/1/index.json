@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-03-how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas.md",
+      "title": "How Artificial Intelligence Is Making It Easier To Scout Soccer Players Overseas",
+      "excerpt": "In the past, the cost of overseas scouting meant Africa's best players like Yaya Touré only had a few routes to the top. Now, AI and high-resolution cameras are revolutionizing youth scouting, allowing clubs to scout players from West Africa to Iceland without leaving the office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/",
+      "originalUrl": "https://www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6401ab4a5d18a8b0965a1649/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/amp/",
+      "publishedDateTime": "2023-03-03T00:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022.md",
       "title": "68% Of Americans Afraid Of Self-Driving Cars, Up From 55% In 2022",
       "excerpt": "Santa Monica, using IONIQ 5 AV Tuesday, Feb. 21, 2023. (Allen J. Schaben / Los Angeles Times via Getty Images) Roughly 68% of Americans say they’re afraid of self-driving cars, according to a new poll by AAA, a huge jump from 2022 when 55% of Americans ...",
@@ -1399,49 +1451,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software.md",
-      "title": "Tesla Recall Hits Nearly 363,000 Cars With “Full Self-Driving” Software",
-      "excerpt": "Tesla is recalling almost 363,000 vehicles due to concerns about its Full Self-Driving Beta software The National Highway Traffic Safety Administration posted the recall notice on their website last Thursday Tesla will address the recall with an over-the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/amp/",
-      "publishedDateTime": "2023-02-20T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

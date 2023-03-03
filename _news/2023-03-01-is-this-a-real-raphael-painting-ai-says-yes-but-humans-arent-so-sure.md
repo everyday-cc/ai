@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-ye
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/is-this-a-real-raphael-painting-ai-says-yes-but-humans-arent-so-sure-ede9ed54"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "AI in art: Facial recognition says Renaissance master Raphael is behind mystery painting"
-    excerpt: "A painting with a long-unknown origin was almost certainly a work of the master painter Raphael, according to new AI analysis that used facial recognition."
-    publishedDateTime: 2023-02-26T18:41:00Z
-    webUrl: "https://www.ctvnews.ca/lifestyle/ai-in-art-facial-recognition-says-renaissance-master-raphael-is-behind-mystery-painting-1.6290045"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 27
 
 secured: "fLU3NijgDn3MtZpD+HfIW633POpcOTIkEklUYecwXyVmvKrlBx5WlO6J7a848rWcYiMLLH6tBqyf2w/BqCBbKSUA1CTa7Mxkh7nw49/ISjc7HMufvrlRtqNlKws/3jKowUP6MytdM4LBajVho5buRhQmxoiJwMEpK7AswpQtAzfnKNKh3R1nuTYE0CUpG3vmfixpBsYjQBrYnTjcxj96mWnSlDbmEyBxuahHPXMM4iZA0cvH8rSrZU25ThzvT/peTExOLMEoaPlDmSpLsB6norWK28VsCS5rFHUHNaFzI3scHqUXICXtGXZk3X8EQioXH4d2lyweVs1/UR5ZQLkrapiayWW70YYLGaDgAE4JxO/6tgtjHKfPOQFSABP3VJTvg88UkMXJtFClZehJp1Vfw8f3v/r4NBMXtFNB6WZI7XePLw9Gd34g0Mq60ACV0JKbbChkcAuhTGdKuheQZurGUBpHBfl9f/j4gTPb32VDsn1mjiGHj56j/rXLlsHOshAfqRuDy1ypWT3Bvp0JNtWMOw==;9aG/0s2qPynQogJ7Udbbrg=="
 ---

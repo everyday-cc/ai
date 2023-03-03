@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Cars Market 2023: Latest Market Intellegence to Enable Effective Growth Opportunity and Competative Strategies by Forecast 2029"
+    excerpt: "Self-Driving Cars Market 2023: | 104 Pages Report Worldwide Industry Trends, Size, Development, Opportunity, and"
+    publishedDateTime: 2023-03-03T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-latest-market-intellegence-to-enable-effective-growth-opportunity-and-competative-strategies-by-forecast-2029-2023-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NvzUIR2Yv1VdaxdKnBPCBGGOVohZlm3nUJyB0MRisL3FR5ZDSpW+QU6Bkzxk+veDqsxLzGyJUHDwj1YrZZIPkGZXMPr8humss/ni5olLQDp6Odv/sb6ptUbK5rqyp4f+TTkC0HnfdikjLzMiT8z9e2rjUCOVG73mCdcbGNkUAkk44GmqZXe4Uwr2z2kUQUO/I412G6lF5YVKaJ9vDDdJXprtrf2TFQNsQAqoO+rmRan//Svga/hqGqSRaneWn7bfvy9vi3stcnMgQadyT3FmPNF4kZpxRHG5EswIrjw2jEXcOeUMwFpC8OYeqpJG7or/s2iAhLetcF8hpqzIZlx1/3cmsSzQUyscPnBnSGaeGqk=;Co/t76D+1u+FZ+B4eS4LFQ=="
 ---

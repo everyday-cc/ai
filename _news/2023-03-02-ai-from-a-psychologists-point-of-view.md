@@ -28,14 +28,14 @@ related:
   - title: "AI Study Evaluates GPT-3 Using Cognitive Psychology"
     excerpt: "A new study published in the Proceedings of the National Academy of Sciences of the United States of America (PNAS) by researchers affiliated with the Max Planck Institute for Biological Cybernetics analyzes the general intelligence of large language model (LLM) GPT-3 using cognitive psychology."
     publishedDateTime: 2023-03-03T01:28:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology?amp"
+    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology?amp"
     type: article
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic8872.jpg?itok=e6Cya6lj"
         width: 1528

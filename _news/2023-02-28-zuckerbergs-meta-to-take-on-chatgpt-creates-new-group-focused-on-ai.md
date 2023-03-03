@@ -171,22 +171,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ChatGPT and its implications for customer experience"
-    excerpt: "LLM-based chatbots like ChatGPT and conventional chatbots fulfill somewhat different purposes, but LLMs will be heavily used in CX."
-    publishedDateTime: 2023-02-26T17:15:00Z
-    webUrl: "https://venturebeat.com/ai/chatgpt-and-its-implications-for-customer-experience/"
-    ampWebUrl: "https://venturebeat.com/ai/chatgpt-and-its-implications-for-customer-experience/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/chatgpt-and-its-implications-for-customer-experience/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 76
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all"
-        width: 1200
-        height: 617
-        isCached: true
   - title: "How ChatGPT’s AI Will Become Useful"
     excerpt: "They had to alter the original code because they discovered almost every player at the start of the first race ... on with the newfangled generative AI chatbots. Everyone’s trying to break ..."
     publishedDateTime: 2023-02-26T21:39:00Z
@@ -472,22 +456,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 45
-  - title: "How ChatGPT mangled the language of heaven"
-    excerpt: "Letter: Asked to generate a story from an English translation of a letter in Welsh published in the Guardian, the AI chatbot came up with a lot of twaddle, reports Fiona Collins"
-    publishedDateTime: 2023-02-26T18:25:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/feb/26/how-chatgpt-mangled-the-language-of-heaven?amp;amp;amp"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/feb/26/how-chatgpt-mangled-the-language-of-heaven"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/feb/26/how-chatgpt-mangled-the-language-of-heaven"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 44
-    images:
-      - url: "https://i.guim.co.uk/img/media/80c9106ccd715fc7291a97859d7e6f8d264c9b99/0_191_5827_3496/master/5827.jpg?width=620&quality=85&auto=format&fit=max&s=816193f1a966b2f848ab2c0e60e0c1fc"
-        width: 620
-        height: 372
-        isCached: true
   - title: "OpenAI makes its ChatGPT and Whisper models available via cloud APIs"
     excerpt: "Developers can now integrate OpenAI LLC’s ChatGPT and Whisper models into their software thanks to new application programming interfaces that became available today. An application programming interface,"
     publishedDateTime: 2023-03-01T21:49:00Z

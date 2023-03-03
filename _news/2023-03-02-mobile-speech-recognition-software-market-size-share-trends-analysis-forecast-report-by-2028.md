@@ -365,6 +365,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Future of Face Recognition Systems Market and Impact of Information Technology Industry Insight (2023-2025) | Research Reports World"
+    excerpt: "The Multivendor Atm Software Market (2023-2025) latest Research Report predicts significant growth in the global"
+    publishedDateTime: 2023-03-03T04:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-of-face-recognition-systems-market-and-impact-of-information-technology-industry-insight-2023-2025-research-reports-world-2023-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Driving Truck Technology Market 2023 : Players, Countries, Type and Application, Regional Forecast to 2028"
     excerpt: "What is the projected market size and growth rate of the Self-Driving Truck Technology Market? Self-Driving Truck Technology Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023,"
     publishedDateTime: 2023-02-27T09:20:00Z

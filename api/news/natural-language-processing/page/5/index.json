@@ -2,6 +2,104 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-17-how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing.md",
+      "title": "How Will ChatGPT Affect Your Job If You Work In Advertising And Marketing?",
+      "excerpt": "ChatGPT is a tools that is enabling anyone to see the power of artificial intelligence and machine learning. It is also forcing people to think about the implications of such powerful technology on jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c64c5d2085183335766ebe/0x0.jpg?format=jpg&width=1200",
+          "width": 1034,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/01/17/how-will-chatgpt-affect-your-job-if-you-work-in-advertising-and-marketing/amp/",
+      "publishedDateTime": "2023-01-16T22:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-column-facial-recognition-will-transform-airport-security-checkpoints.md",
+      "title": "Column: Facial recognition will transform airport security checkpoints",
+      "excerpt": "Imagine using technology that never forgets a face, while improving airport security and shortening lines. Such technology exists and may be coming to an airport near you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.meadvilletribune.com/opinion/column-facial-recognition-will-transform-airport-security-checkpoints/article_7ba6038c-9367-11ed-9b72-afc9da8ed730.html",
+      "originalUrl": "https://www.meadvilletribune.com/opinion/column-facial-recognition-will-transform-airport-security-checkpoints/article_7ba6038c-9367-11ed-9b72-afc9da8ed730.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/meadvilletribune.com/content/tncms/custom/image/dd8c79a0-d940-11e7-a71b-87c93befe28f.jpg?resize=600%2C600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T21:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Meadville Tribune",
+        "domain": "meadvilletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-2023-with-presentation-outlook-horizontal-viewpoint-global-view.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size 2023 with Presentation Outlook, Horizontal Viewpoint, Global View",
       "excerpt": "Natural Language Processing (NLP) in Healthcare and Life Sciences Marketsize, segment (mainly coveringMajorType (, Statistical NLP, Hybrid based NLP, Rule NLP, ,),End Users (, Healthcare, Life Sciences,",
@@ -1293,92 +1391,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-how-ai-could-solve-the-metaverses-language-problem.md",
-      "title": "How AI Could Solve the Metaverse’s Language Problem",
-      "excerpt": "Enter OneMeta AI. The company's Verbum service, which is making its debut at CES 2023, can provide real-time translation of up to 50 individuals, all speaking a different language (it supports 82 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/business/2023/01/06/how-ai-could-solve-the-metaverses-language-problem/",
-      "originalUrl": "https://www.coindesk.com/business/2023/01/06/how-ai-could-solve-the-metaverses-language-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coindesk.com/resizer/QILsslD04soTOYWm0_eSrRprQl4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B2PZS44TNVDKNOQTKTUYAWU364.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/business/2023/01/06/how-ai-could-solve-the-metaverses-language-problem/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/01/06/how-ai-could-solve-the-metaverses-language-problem/?outputType=amp",
-      "publishedDateTime": "2023-01-06T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-amazon-alexa-to-allow-voice-initiated-electric-vehicle-charging.md",
-      "title": "Amazon Alexa To Allow Voice-initiated Electric Vehicle Charging",
-      "excerpt": "Now, automakers are quickly bringing this convenience to the cabins of vehicles. Voice recognition has been around for a few decades now and while it still isn't 100 percent proficient ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/amazon-alexa-allow-voice-initiated-electric-vehicle-charging-1770504",
-      "originalUrl": "https://www.newsweek.com/amazon-alexa-allow-voice-initiated-electric-vehicle-charging-1770504",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T21:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

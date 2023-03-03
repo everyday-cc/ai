@@ -59,6 +59,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Sri Lankan Breaks Language Barrier In AI With 'Linguagpt'"
+    excerpt: "A Sri Lankan student named Sisilal De Silva and his colleague Benjamin Weston have managed to develop 'LinguaGPT,” an artificial intelligence application that is accessible in over 100 different languages."
+    publishedDateTime: 2023-03-03T10:38:00Z
+    webUrl: "https://menafn.com/1105699798/Sri-Lankan-Breaks-Language-Barrier-In-AI-With-Linguagpt"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?564306"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Digital payment systems could revolutionise health care"
     excerpt: "As managing medical conditions becomes increasingly more difficult in rural areas, technological advances could go a long way in improving access and patient care."
     publishedDateTime: 2023-03-01T05:07:00Z
@@ -97,6 +111,6 @@ related:
       domain: beckershospitalreview.com
     quality: 19
 
-secured: "5tvacsLoQgqGPF7ZgpxIe4trYowjiRXasEgq/lQJfHgBfvhN6YiK/zz4P1J6SVzOTIZdxYFLO4q59cAIh7FYm8V7UIsJVHQGOOShaajN/z70UtO9fYnOflhkF4tO/lw/5Zjx6IYeGFsOm8B1X876iOTDVg3M4zeN7avWzAgAB+o5uoItHVpraigoEMRwKb9O9hgHKVohZ4SKf43fl3LYEH+snXfuSkD4Y8GOyPm/B/+suXZuORrJPa3md3PXw7XHld9AAS1yUy4Y2YGXxQl7gBqH/R3ON59nojU26oTLOMqHipTV9lw5K4//6b7du4lL5J4vVrUAhi2VJ4lFWdQo3F/QuumYgxlNhE0Vo6iX7GU=;6wT7XJmy2D40UzEhOT5qsg=="
+secured: "E0VoW2jV3zM0k3pa4i9raMofQ5nQBVRQaGr5i/C652hLUDdOeI4MdSQ3F42foZP6uDBM0TGAPm5R3mqH+1tcJmeUZB+5mVra1wXtoq5qySwIh/oe2hNVcLu53t8Cu9aBN4mFwprMBeeGRDLCgVU7scWQPHeJyOvEV4xH9t+CAfjzTyS0YVjTHvoKh9bg63SfbcAGP+5i0f86ED7l0vDX4ljYqpMIFYxXVX7MxjS0Z+GkAd5vP63Xyo+5NkWvmCE9Xqrft1hdrIG2z49Zwdmtr7nkKBXvlFJN71r1LBPdqD6oQJ+t7eCvLV0uYO1BFB6iexLhXpWU5a1r6vjjYIgZxU/TF/eGFQQRU/c/V0OIv36AafWNxVI0MikR0z2xr4+siAQnzBVisU/uQNzMA618AqnvEHojVCxNJd6rDJMMNGZNDLxh7rlndarLoVLy6QZlEY8+/cFpAiMQBd1p/hKrr4qTHwIWbOqyCRH7LZw7r+pUXikkByN/SY+ekr/B9odTSX2wqggcHK5I0IIZEaPcHQ==;eiGFB51F1ys/pTPIW7+ZLQ=="
 ---
 

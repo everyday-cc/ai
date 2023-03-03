@@ -39,6 +39,15 @@ related:
         width: 800
         height: 580
         isCached: true
+  - title: "Apple pumps the brakes on artificial intelligence"
+    excerpt: "Apple slapped an age restriction on an email app with ChatGPT capabilities. Does this signal a slowdown of the generative AI arms race?"
+    publishedDateTime: 2023-03-03T05:00:00Z
+    webUrl: "https://www.fastcompany.com/90859710/apple-pumps-the-brakes-on-artificial-intelligence"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
 
 secured: "b6MADzB/0rZ514GD0g8+DBaUxmHOBLzKiA5Jj8JomuWHE7pryMSS775eaLhX0wIBmEjBVzCFnBQkTLQ7Q1CApbLi5L1H/fj2JBAz/f5FXrPweL8uW/qKpXxjWCdv+Fnlc+dM00rEQNG66l20Y585IQWJxCTv25i3yrvNuEdRBSbI2Z7uRUcN7UhjTIPSKxW+JapqUuesBmbxX5UKBC0WY88d7QhmiKmwPeV++3F4qhQZUXWrPj9HzEeF6nXA72OVEFunFxZnb7raUzIE+LPIDqJgZXTJJjJKTQh4RdDP0MKCIKDqKpeKcG/26JHmor2YS4QuTE5IekaflETsOENX2JJ10bzSQtuahN3vliCdplA=;yhzfXXVQNEuA01TNEiW9bg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/02/27/how-language-ai-could-revolutionize-marketing/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Sri Lankan Breaks Language Barrier In AI With 'Linguagpt'"
+    excerpt: "A Sri Lankan student named Sisilal De Silva and his colleague Benjamin Weston have managed to develop 'LinguaGPT,” an artificial intelligence application that is accessible in over 100 different languages."
+    publishedDateTime: 2023-03-03T10:38:00Z
+    webUrl: "https://menafn.com/1105699798/Sri-Lankan-Breaks-Language-Barrier-In-AI-With-Linguagpt"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?564306"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Digital payment systems could revolutionise health care"
     excerpt: "As managing medical conditions becomes increasingly more difficult in rural areas, technological advances could go a long way in improving access and patient care."
     publishedDateTime: 2023-03-01T05:07:00Z

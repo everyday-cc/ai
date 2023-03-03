@@ -2,6 +2,91 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-02-01-bizarre-robot-flies-revealed-and-they-could-replace-bees-and-save-humanity.md",
+      "title": "Bizarre ‘robot flies’ revealed, and they could replace bees and ‘save humanity’",
+      "excerpt": "RESEARCHERS have developed tiny robot \"flies\" that travel via wind and are controlled by light. The team, who hails from Tampere University in Finland, published their findings in the journal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/",
+      "originalUrl": "https://www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/02/aj-robot-flies-comp.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/news-tech/10150954/bizarre-robot-flies-replace-bees-save-humanity/amp/",
+      "publishedDateTime": "2023-01-31T17:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-01-artificial-intelligence-aids-discovery-of-super-tight-binding-antibodies.md",
+      "title": "Artificial intelligence aids discovery of super tight-binding antibodies",
+      "excerpt": "Scientists developed an artificial intelligence tool that could accelerate the development of new high affinity antibody drugs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230130213953.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230130213953.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-31T17:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-ai-ethical-risks-in-the-music-industry-are-accelerating-and-we-are-not-ready-for-what-is-coming-our-way.md",
       "title": "AI Ethical Risks In the Music Industry Are Accelerating And We Are Not Ready For What Is Coming Our Way",
       "excerpt": "This article reinforces that the AI Ethical Risks in the music industry are accelerating and we are not ready for what is coming our way.",
@@ -1067,109 +1152,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-would-baidus-answer-to-chatgpt-make-a-difference.md",
-      "title": "Would Baidu’s answer to ChatGPT make a difference?",
-      "excerpt": "Baidu, China’s top search engine provider ... and where its limitations lie. A driving force shaping China’s tech development over the past few years is the rise of digital sovereignty ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/",
-      "originalUrl": "https://techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/01/baidu-ces-2018-0522.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/31/would-baidus-answer-to-chatgpt-make-a-difference/amp/",
-      "publishedDateTime": "2023-01-31T02:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-ais-app-for-that-moment.md",
-      "title": "AI’s 'App For That' Moment",
-      "excerpt": "In many senses, commercial AI is in a similar position as early smartphones. Most business leaders agree, according to my company's research, that AI will play a big role in the success of their businesses over the next five years. Yet, a huge chunk of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/ais-app-for-that-moment/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/ais-app-for-that-moment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62178f63b64cb456b4949c9c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 861,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/31/ais-app-for-that-moment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/31/ais-app-for-that-moment/amp/",
-      "publishedDateTime": "2023-01-31T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

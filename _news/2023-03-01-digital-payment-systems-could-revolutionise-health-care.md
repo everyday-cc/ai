@@ -73,6 +73,20 @@ related:
       name: Wired
       domain: wired.com
     quality: 47
+  - title: "Sri Lankan Breaks Language Barrier In AI With 'Linguagpt'"
+    excerpt: "A Sri Lankan student named Sisilal De Silva and his colleague Benjamin Weston have managed to develop 'LinguaGPT,” an artificial intelligence application that is accessible in over 100 different languages."
+    publishedDateTime: 2023-03-03T10:38:00Z
+    webUrl: "https://menafn.com/1105699798/Sri-Lankan-Breaks-Language-Barrier-In-AI-With-Linguagpt"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?564306"
+        width: 375
+        height: 249
+        isCached: true
   - title: "How Boman.ai is revolutionising DevSecOps, the game-changing tool for effortless secure software development"
     excerpt: "Sumeru Solutions has developed a revolutionary plug-and-protect DevSecOps tool powered by AI/ML called Boman.ai. It can help you achieve DevSecOps in record time."
     publishedDateTime: 2023-02-28T06:03:00Z

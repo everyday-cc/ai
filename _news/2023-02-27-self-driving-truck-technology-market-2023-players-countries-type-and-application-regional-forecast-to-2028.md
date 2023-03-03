@@ -380,6 +380,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
+  - title: "The Future of Face Recognition Systems Market and Impact of Information Technology Industry Insight (2023-2025) | Research Reports World"
+    excerpt: "The Multivendor Atm Software Market (2023-2025) latest Research Report predicts significant growth in the global"
+    publishedDateTime: 2023-03-03T04:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-of-face-recognition-systems-market-and-impact-of-information-technology-industry-insight-2023-2025-research-reports-world-2023-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech & Voice Recognition Systems Market Report with Executive Summary, Size, Analysis and Forecast to 2023-2028"
     excerpt: "Speech and Voice Recognition Systems Market\" is expected to grow at a steady growth during the forecast period"
     publishedDateTime: 2023-02-27T11:52:00Z

@@ -370,6 +370,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
+  - title: "The Future of Face Recognition Systems Market and Impact of Information Technology Industry Insight (2023-2025) | Research Reports World"
+    excerpt: "The Multivendor Atm Software Market (2023-2025) latest Research Report predicts significant growth in the global"
+    publishedDateTime: 2023-03-03T04:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-of-face-recognition-systems-market-and-impact-of-information-technology-industry-insight-2023-2025-research-reports-world-2023-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-Driving Truck Technology Market 2023 : Players, Countries, Type and Application, Regional Forecast to 2028"
     excerpt: "What is the projected market size and growth rate of the Self-Driving Truck Technology Market? Self-Driving Truck Technology Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023,"
     publishedDateTime: 2023-02-27T09:20:00Z
@@ -550,6 +564,6 @@ related:
       domain: marketwatch.com
     quality: 11
 
-secured: "3WsFK7eSLtnosHLYLzk7jT/QtQcnf4Da9QznS7svH8hke/NoEzb46D09EuQSlF8E8DJkWA+724XCExPsC3BoB3AszuwZg1o4f9d9BVEfIuoQVsbwnFkLtv/Jek8CVg27HF/aw8pCbCw/RI3dJ2zfd8PDcg2hUiT5LOwIpJYGlRy2sLIHkk25Nv9y1XT/vlnlMtTkYwOEy7b3Ip8E1qsDeZKPa6JLmFub/HFD4nzoesZuJU/eWF9VgvCeIHl0lr6psGcyChNuuZrWIUQfXBgv+ogYVAYO7xI58wCwvK9UoLuh5AOBtt83WzsBB5CVfaia07qfCfxzYjeXYUAKbwg5Ram1WovugW4G0xNXdtMe9pU=;udACNvtZrEKLZpP0OoilTg=="
+secured: "gKpKuNiwYWv49AfTJiU/OvBAQVcRybf4hBFvqyziH2QfLKuw+2dY1aHylmJ49C9Q+51CEtGKm6xjVPUm6u7cm1I2+h9Q4jf7qZg3g42egbO93YZg72aveQY5vrft4Q77cRZHCHg+fZzFEGFkAIF8cfoT3tE/RxU1rIKxPnO8C3L8bCn1ZINS/WbDJG4E+EsRu/6p4/WNhMcWmLFHA463EUqN+m2FakXiT40s8cnC+hlw9HSsx2Y6tCQZ5F9T39q2GshSlBLnS9zsoX0rsX6rCD90Xja5AG5L+Iq95quUy31sfrBAPf0KCshWn+XMDSchd6zkqgDD/GREApF1HdNS8R5uEy+mMhlJsYvr2G0v/NA=;scytCvxyRK/C037y+mKCpw=="
 ---
 
