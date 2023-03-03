@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "scale_ai"
   url: "https://twitter.com/scale_ai"
-  followers: 29559
+  followers: 29562
 
 size: 51-200 employees
 yearFounded: 2016
