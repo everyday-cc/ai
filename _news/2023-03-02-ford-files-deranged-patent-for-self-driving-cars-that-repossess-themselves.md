@@ -117,6 +117,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Ford Is Getting Back Into Self-Driving Cars Again, This Time Without VW"
+    excerpt: "Ford's announcement comes just months after the Dearborn automaker shuttered its previous self-driving subsidiary, Argo AI."
+    publishedDateTime: 2023-03-02T19:36:00Z
+    webUrl: "https://www.thedrive.com/news/ford-is-getting-back-into-self-driving-cars-again-this-time-without-vw"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 19
   - title: "AAA: Drivers grow more fearful of self-driving cars, as autonomous technology advances"
     excerpt: "Fear of self-driving cars is on the rise, according to AAA, even as drivers express interest in the partially-automated vehicle technology."
     publishedDateTime: 2023-03-02T09:55:00Z

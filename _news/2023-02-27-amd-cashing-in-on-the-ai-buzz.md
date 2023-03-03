@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4582378-amd-cashing-in-on-the-ai-
 webUrl: "https://seekingalpha.com/article/4582378-amd-cashing-in-on-the-ai-buzz"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AMD: AI Chip Boom"
-    excerpt: "NVIDIA ushered in an AI chip boom with an inflection point in the current quarter. AMD announced several new AI chips in the last few months with plans to accelerate development and new product releases during 2023. The stock only trades at ~13x normalized ..."
-    publishedDateTime: 2023-02-26T10:13:00Z
-    webUrl: "https://seekingalpha.com/article/4582169-amd-ai-chip-boom"
+  - title: "Companies Attempt to Cash in on Artificial Intelligence Hype"
+    excerpt: "Real-time index price for S&P 500 Materials [Sector] (SRMA), along with buy or sell indicators, analysis, charts, historical performance, news and more"
+    publishedDateTime: 2023-03-01T16:35:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/SRMA/pressreleases/14667835/companies-attempt-to-cash-in-on-artificial-intelligence-hype/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 37
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1345658982/image_1345658982.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 864
+      - url: "https://media.barchart.com/contributors-admin/common-images/images/Tech%20(Ecommerce%2C%20Social%20Media%2C%20etc.)/global%20technology%20internet%20globalization.jpg"
+        width: 800
+        height: 580
         isCached: true
 
 secured: "b6MADzB/0rZ514GD0g8+DBaUxmHOBLzKiA5Jj8JomuWHE7pryMSS775eaLhX0wIBmEjBVzCFnBQkTLQ7Q1CApbLi5L1H/fj2JBAz/f5FXrPweL8uW/qKpXxjWCdv+Fnlc+dM00rEQNG66l20Y585IQWJxCTv25i3yrvNuEdRBSbI2Z7uRUcN7UhjTIPSKxW+JapqUuesBmbxX5UKBC0WY88d7QhmiKmwPeV++3F4qhQZUXWrPj9HzEeF6nXA72OVEFunFxZnb7raUzIE+LPIDqJgZXTJJjJKTQh4RdDP0MKCIKDqKpeKcG/26JHmor2YS4QuTE5IekaflETsOENX2JJ10bzSQtuahN3vliCdplA=;yhzfXXVQNEuA01TNEiW9bg=="

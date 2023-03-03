@@ -2,21 +2,29 @@
 category: news
 title: "GIGABYTE at MWC 2023: Advancing AI, ESG and 5G Technology Breakthroughs through \"Power of Computing\""
 excerpt: "GIGABYTE and its subsidiary, Giga Computing, are co-presenting the next-generation server solutions at MWC 2023. The exhibition will cover IT solutions for edge computing, AI development, HPC data centers,"
-publishedDateTime: 2023-02-27T09:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-gigabyte-mwc-2023-advancing-ai-esg-5g-technology-/2023/02/27/9766525.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-gigabyte-mwc-2023-advancing-ai-esg-5g-technology-/2023/02/27/9766525.htm"
+publishedDateTime: 2023-02-27T07:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/02/b31063984/gigabyte-at-mwc-2023-advancing-ai-esg-and-5g-technology-breakthroughs-through-power-of-computing"
+webUrl: "https://www.benzinga.com/pressreleases/23/02/b31063984/gigabyte-at-mwc-2023-advancing-ai-esg-and-5g-technology-breakthroughs-through-power-of-computing"
+ampWebUrl: "https://www.benzinga.com/amp/content/31063984"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31063984"
 type: article
-quality: 4
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "GIGABYTE At MWC 2023: Advancing AI, ESG And 5G Technology Breakthroughs Through“Power Of Computing”"
@@ -34,6 +42,6 @@ related:
         height: 563
         isCached: true
 
-secured: "29JEibuvIqjSmjvAukprDjbHyfddDtsikvs6uXMTw+0VIG8thg8hhzJK2jYSnuwiHITMSg/SJ4uSplyBkk1dgJEYxU45BnvDSoP5wLa1prtQBnIAqWsWKxXtV0sWNbQ2V8ilAo8q7xMjTsTpuj3vY4u2mLiKYVQ+1UPLGMBEHKv8mkXqF1LzGJa4zj/8j84Q+Vao66EiN1wbO4OPEc8rZJWXeWorMmYx+w3m42/SokHfxi9oASY+8ppjVWjLvlnJhbt3iJ5AMGTPd56SfMQX1thOfKOq8h4j7YnI3W9BrgohiPhUN9EmehwVFgm2c6vHRpEkbJ0IRhkCxHKyOxiWzbyTq4uPz21P9S+jvPwSjlRpavTPak+OjCOK+HQEzjKfJ8XNNMrgGARdrznHIhYp6sNMpk9sC/GtZYBchn1Vvvup/NYp8Q/kTICmctr1nfd9tP8j/saAPwQjN5jsiatp/qx66CDIZyPl+CN5/QJJaX6IEZ4tiPegtZFYEyn59JBRoPMQ38f4FnAFam5anWnvgQ==;duTrUecfHmkgDkpKJxoDwQ=="
+secured: "eoXavbEVM2sPh/CjiH4jEjejvAPfqnw2zWXq8bf+g/noE3QJOTw57/87oPzTmVMMqbx1OQifQwC6UhOnokazk9RqfRf/Gh2tYvNpXQon72EPvlEoOnqdNN+edK5gpIlZR4jNXJAwudlcrnecWman+eYFFSwjN+bhmT1cWgBCDuZmL2rIkS9B7+3wNKMtWpZqr1MPFrT35rgoABTrzQgv4VJ+nVVKNxxb2O0gED3w68aQ2hNmMpZNfuxRbIcj2tkRvhLjzdC8DI9VuPrNefzO42WTp+3UGqrBAgtqkFQo/BCkQAntK53AxxccC/AFSabXRyFMKGJ+NlSWt/cJ4ZQzviWDX7bAzYThArozoIyBJOo=;sWOTVNAM8XYLbUCmtzjvBw=="
 ---
 

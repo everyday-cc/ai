@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2023-03-02/ford-l
 webUrl: "https://money.usnews.com/investing/news/articles/2023-03-02/ford-launches-automated-driving-unit-latitude-ai-months-after-winding-down-argo"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Ford Launches New Company To Focus On Driver Assist, Latitude AI"
+    excerpt: "After announcing the shutdown of Argo AI last fall, Ford hired more than 500 engineers from the automated driving company and they will now form the core of Latitude AI, a Pittsburgh based subsidiary focused on next generation driver assist systems."
+    publishedDateTime: 2023-03-03T00:06:00Z
+    webUrl: "https://www.forbes.com/sites/samabuelsamid/2023/03/02/ford-launches-new-company-to-focus-on-driver-assist-latitude-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2023/03/02/ford-launches-new-company-to-focus-on-driver-assist-latitude-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2023/03/02/ford-launches-new-company-to-focus-on-driver-assist-latitude-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64014707a6f1955734058201/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Ford creates new Latitude AI business to develop hands-free, automated driving tech"
     excerpt: "Ford unveiled Thursday a new business unit called Latitude AI, designed to develop automated driving tech for future vehicles."
     publishedDateTime: 2023-03-02T19:17:00Z
@@ -41,15 +57,6 @@ related:
       name: Crain's Detroit
       domain: crainsdetroit.com
     quality: 19
-  - title: "Ford Is Getting Back Into Self-Driving Cars Again, This Time Without VW"
-    excerpt: "Ford's announcement comes just months after the Dearborn automaker shuttered its previous self-driving subsidiary, Argo AI."
-    publishedDateTime: 2023-03-02T19:36:00Z
-    webUrl: "https://www.thedrive.com/news/ford-is-getting-back-into-self-driving-cars-again-this-time-without-vw"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 19
   - title: "Ford ($F) to Leverage Artificial Intelligence Technology to Enable Automated Driving Systems"
     excerpt: "Ford Motor Company (NYSE:F) has announced the creation of Latitude AI, a wholly-owned subsidiary that focuses on the development of automated driving technology.  Latitude aims to create a customer-centric experience by automating driving during tedious,"
     publishedDateTime: 2023-03-02T20:08:00Z
@@ -59,15 +66,6 @@ related:
       name: thenewswire.ca
       domain: thenewswire.com
     quality: 8
-  - title: "Ford launches self-driving unit with former Argo employees, including 100 in Palo Alto"
-    excerpt: "Former Argo AI employees have been hired on by Ford Motor Co. to oversee the buildout of Latitude AI, including 100 in Palo Alto"
-    publishedDateTime: 2023-03-02T22:36:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2023/03/02/ford-latitute-ai-subsidiary-launches-with-argo.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "zX+DEmdcrFoLKiRcT0Zn/cYo+j0E8aBs105vZyK6Xe32ZaNT4gYLmVb54FJCU2YPOtOgBjkM8FTgQLHjfK/ac8mdbnxQ6wXHXS7iLCU0ry9VaYjjHnUR5nkPJKB65PuZqpBxmuEV83vmU+oZaDVWrgUnBqdTVAEHPMVOKjusGHHdQ0DUIo7JqketSd3BII/0V1m48yXm+yA5Z2T+x5Rsoq8SbMWD2F4GVIhkF1nqiK6aMzEe/L8S1RucGiqIojW+sgxznl2DIe0WvaebmXuwxOpo68FafXvOZ6woX+w+8fuvy72mmZOKj30PuHqqmnJYbqPdZXh7k1KYRJzgAGDiz/slHGJVMqWn45eoJu91r3Ajd2+yswliYbjxcWsYglNyalKeXW/WLUzft1rYQiSFE71CjzGOMUiFJQrW+DEIvJBbYCP5xW8wCQ0mu/gWZXO1vs4JrWlsB0QbX0uQzSYE4KJMgeP80ZUui2e1PZaxSpI9jOkIJGk+XHJN6FKLf6UOBKfbXglYwV6z7Zs094+1jQ==;ksW53Es6c3cg6gEPwrd0Ww=="
 ---

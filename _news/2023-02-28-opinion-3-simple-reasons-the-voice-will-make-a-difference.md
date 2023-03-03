@@ -7,7 +7,7 @@ originalUrl: "https://www.sbs.com.au/nitv/article/opinion-3-simple-reasons-the-v
 webUrl: "https://www.sbs.com.au/nitv/article/opinion-3-simple-reasons-the-voice-will-make-a-difference/mcm0mwxr9"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: How to counter China’s scary use of AI tech"
-    excerpt: "China is exporting its repressive use of artificial intelligence. It's up to democracies to set responsible rules for the technology."
-    publishedDateTime: 2023-02-26T11:00:00Z
-    webUrl: "https://www.latimes.com/opinion/story/2023-02-26/us-china-artificial-intelligence-uighurs-surveillance"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 37
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7b11360/2147483647/strip/true/crop/2950x1967+0+0/resize/840x560!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc7%2F20%2F189c43e24a608d2da757e603ffea%2Fgettyimages-1228208911.jpg"
-        width: 840
-        height: 560
-        isCached: true
   - title: "Opinion: How to counter China’s scary use of artificial intelligence data"
     excerpt: "Nowhere is the competition in developing artificial intelligence fiercer than in the accelerating rivalry between the United States and China. At stake in this competition is not just who leads in AI but who sets the rules for how it is used around the world."
     publishedDateTime: 2023-03-02T13:16:00Z

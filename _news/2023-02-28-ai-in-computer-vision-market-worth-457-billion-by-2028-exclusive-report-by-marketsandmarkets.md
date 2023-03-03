@@ -336,6 +336,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service Market Report 2023-2028: A $31.0 Billion Opportunity – IMARCGroup.com"
+    excerpt: "Market Research and Forecast Report 2023-2028\"The global machine learning as a service (MLaaS) market size reached US$ 5.7 Billion in 2022. the market to reached US$ 31.0 Billion by"
+    publishedDateTime: 2023-03-02T23:19:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31185653/machine-learning-as-a-service-market-report-2023-2028-a-31-0-billion-opportunity-imarcgroup-com"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31185653"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31185653"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Speech Recognition Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
     excerpt: "Feb 27, 2023 (The Expresswire) -- \"Speech Recognition Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,"
     publishedDateTime: 2023-02-27T11:17:00Z
@@ -539,6 +555,6 @@ related:
       domain: marketwatch.com
     quality: 11
 
-secured: "0l7IMERz/4bkJM+GxPz3RyLCRhaikOg+SJuV83KmjvgQcNn13ncKzEGh6X+V48ooeHG+eimh8PTMkQ6536O9m8mj2uI6ePu7aCEwahJ6nZRBDpJZnprq6+JiSaYWOeSAZjD5AY4yUMeTd8V139G91PhNoFW7ruDpCgMlZKDCv/YksBA352GfU6a4x15v/DN4eOMGIf6gAv0GX7wlQODF6Hy6fAL3bGsDwbsdxD+pGIfgzmrmUcB323H+5/Zn2pSbTXs8b0BWTQnLI8vdHXqI5Zg/RE6tYBkCOpuCPWmZ2gX2GmxQWbdlmdUq0cjPZDI8xOIJNzguQtUqfNLoPLmyQFZB192Nq+46SggPTfqv/IQ=;pwcPbZzw85R7nA0g45qqwQ=="
+secured: "xO+Z4dVmboo4c/vkEiSsDvPixjubf+86t22aanU0Et1thGN0AKj8f6WNXYMlNdpqi8i1SXMe0RPEHVA08uv6ETHGM5by/Xhr+zSeur2Ro7NrlERbCiG+H13qOhH9yBntPbia6VFjrhsjy52g5FSG1s43yuEJHgG32M50/SpyPdCbt9ZZLTw50GrErqf7csumqY/NHbHsAE7plxbA8cdRtgSEfwM6nl7MT6ffUvNOflk++EIDPdisGKK9hoAqEuBgpcKxfnHW9BQ6vwK5m7VZlxPu5QolFNqrQBIXsnxySOv/DVof/nsVnMIkTTMTqFKnkKRLP7Z6r7DOaq+2ROAj961ulLrdfT7ykKXh/o1ySyM=;35nUelhKacRjZSsDn8SSwA=="
 ---
 

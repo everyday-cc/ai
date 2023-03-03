@@ -3,18 +3,18 @@ category: news
 title: "Breweries using artificial intelligence to create new beers"
 excerpt: "Artificial intelligence is behind a new IPA being served at a Michigan brewery. Atwater Brewery developed the beer with the help of an AI chatbot."
 publishedDateTime: 2023-02-28T20:00:00Z
-originalUrl: "https://www.wtkr.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
-webUrl: "https://www.wtkr.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
-ampWebUrl: "https://www.wtkr.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
-cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
+originalUrl: "https://www.wptv.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
+webUrl: "https://www.wptv.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
+ampWebUrl: "https://www.wptv.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
+cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WTKR
-  domain: wtkr.com
+  name: WPTV-TV
+  domain: wptv.com
 
 topics:
   - AI in Autos
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "09vfbP4wqxQnZhgk2Ffoqo235gznzQERygXZrAscY2pI+pHvJwkxnW1Xb92WV7uTlirpqOvHgy9hM3XOcbWWZqbqjxVt3Co8RHC15oI9Yk+miM1zQ8LekZEDGJj4Drkx0+2AudBBFY+XuT2p8F6drB+/RpEFFyVodEjRlWJHEXpjIzV6pY8cOmvJ5bfOud5tIVibSqbn4z+JdHLIlXtDXxVYZtjKWAsJwHgxSoUorOtKh9aqxRsyEWmDm38tUy3Dh12QInjHaQ6Ig0fKNq2qr6Xfgd5FmU/scNyEEMG5kN0Ts6xKbmc1S1FVyZHeKcFEtI/L+pA9c3XAIYeUk6P6MzjEPrUYVyHLT9zlAz9KnMo=;cnkaM5fPyzNZ7wBvWPWKHA=="
+secured: "lglCort5DbkGPBRYJy+tyvrFii0MYnCw9eY4jee2iBYNXnKlQP00L9GXse9XDQqNLJJk2SnG8bPKPmnYNEESjgh/oaXdj9PUQLtYsq67qewUPEb18lvfNSljY95kukPSe0bvCSYMy2bcykeTeOnQeDTytpSCFi85VGiI91fYBxCAVvl2pEVB9wvSVCFkwiE+rlSaCxmTUi8mHJqfw+n8s9vKRAc287ieHoFoCmhMlnxUfTMK4JMIIMnWU8MDt0t/JTWsTpD0Z2iZ0WcfrSVfIAxLBG/4wFvuL6FJU8A0CkmqEggyAxITmuz/HVvw4pFmb2yzWLm8xyOu6UAyLQlp5/uSPKB/19ouFmgaJFS+67w=;WFn5KB8YGhWFfpTwQ56MoA=="
 ---
 

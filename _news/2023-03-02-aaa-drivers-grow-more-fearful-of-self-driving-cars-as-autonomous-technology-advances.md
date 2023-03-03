@@ -131,6 +131,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Ford Is Getting Back Into Self-Driving Cars Again, This Time Without VW"
+    excerpt: "Ford's announcement comes just months after the Dearborn automaker shuttered its previous self-driving subsidiary, Argo AI."
+    publishedDateTime: 2023-03-02T19:36:00Z
+    webUrl: "https://www.thedrive.com/news/ford-is-getting-back-into-self-driving-cars-again-this-time-without-vw"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 19
   - title: "AAA study: Fear of self-driving cars on the rise"
     excerpt: "A study done by AAA says the fear of self-driving vehicles is on the rise. (Photo: MGN / General Motors)CHARLOTTE, NC (WWAY) — Concerns about self-driving cars are drastically higher than in 2022. According to a yearly automated vehicle survey released by AAA,"
     publishedDateTime: 2023-03-02T20:44:00Z
@@ -159,6 +168,6 @@ related:
       domain: nationalpost.com
     quality: 0
 
-secured: "Nb9x513GdhHB+ykPjJtvcb62qjjZMB0bmSb7S7qs8/bf+tEg5TOSNf4E4zZqM5W2ch22NcdudQUm1xTYGXtvZBOBnbll5XU1zXw+H7rI0MdCaivVPiZMXN+jOL1XtxlKLRPbnZvfchZAEDrJpny9X5EiMCy9g3QmeU0Sa3UxHOjURM+3nMUDf7oTHrC83dN5BIddia9/NAzjgflS/6WLxNMXPT8RksVTcXGD3aUCx6g2z7xfPoKO1iU/ia26HpulvJwJDy6mMIJI47TBrBXSZUSHVZ9XFCX5p1WSMTur+Zm7PlWADg1Wgw/KSY1OO3brWj6JbOzC91ZbC2IcOnnW3NIFmAK4oCGn1z5t8z8HbaM=;e9g86mFwoL9mY2aYjb9sZQ=="
+secured: "qRecQq5mBsnFtGlFBnwbovSTLsKHk+T7R7IqVPmW6gLpUmIT9lRUgsVj4UMwJ7+mLlapCUBsK+ksKTEptiaLnHxbmHqB2fCZwRpzemWLipyyiVcw1wtCT7V7ZQbady1KMm/Mk9R/Lf/gHYHdguyi+RNB0vfz8FA94KoL92qmemJESzCjPH4CcPO20xfk3xDRud9lPdbIntDShFNw8/+gqPwJKDAW+SRn4rD99vyI9kBbtvSjo6z3f64Lz4xJh5kkkIZ39EczzM7S8yeaspiEwT4vEImcYiPR6CQsFfJrnqWFksd7iYMABIcjYhCT218odWLypZeVpcF9h52G/5/i4RMx7hcwkJxYtuy+S51DDF+eZDcJw2RR7AEOqAegB8dno55b96hnv6chf3c+UxDep0urita9Yw2VRYq2jjL8aCm1gEXP+KqYgVSGWspyhv/Ld9gn9vlsrmEw6f9rWqyLx5QokH8SL1OrNKjbVWr2peqGe2AbUbfAWriHasl44/NnQyg+B0aB+GNCn2zFTUxjIQ==;hb2O/9JNSY/Ve9FcI+8s3g=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-02T21:09:00Z
 originalUrl: "https://www.businesswire.com/news/home/20230302005592/en/C3-AI-Announces-Fiscal-Third-Quarter-2023-Financial-Results"
 webUrl: "https://www.businesswire.com/news/home/20230302005592/en/C3-AI-Announces-Fiscal-Third-Quarter-2023-Financial-Results"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 related:
   - title: "VR Film Producer Announces AI Film"

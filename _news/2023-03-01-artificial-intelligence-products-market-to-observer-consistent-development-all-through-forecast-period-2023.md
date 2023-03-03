@@ -331,6 +331,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service Market Report 2023-2028: A $31.0 Billion Opportunity – IMARCGroup.com"
+    excerpt: "Market Research and Forecast Report 2023-2028\"The global machine learning as a service (MLaaS) market size reached US$ 5.7 Billion in 2022. the market to reached US$ 31.0 Billion by"
+    publishedDateTime: 2023-03-02T23:19:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ab31185653/machine-learning-as-a-service-market-report-2023-2028-a-31-0-billion-opportunity-imarcgroup-com"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31185653"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31185653"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Speech Recognition Market Outlook 2023 and Forecast to 2028 with Top Countries Data"
     excerpt: "Feb 27, 2023 (The Expresswire) -- \"Speech Recognition Market\" Research Report 2023 Provides a Basic overview of the Industry including definitions,"
     publishedDateTime: 2023-02-27T11:17:00Z

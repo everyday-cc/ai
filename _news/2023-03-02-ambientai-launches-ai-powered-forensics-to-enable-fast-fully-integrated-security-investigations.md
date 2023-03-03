@@ -20,19 +20,21 @@ topics:
   - AI in Security
 
 related:
-  - title: "SlashNext Launches AI Solution for Email Security"
-    excerpt: "SlashNext, a leader in SaaS-based integrated cloud messaging security across email, web and mobile, announced the launch of Generative HumanAI, an artificial intelligence solution that uses generative AI to defend against advanced business email compromise (BEC),"
-    publishedDateTime: 2023-02-28T13:23:00Z
-    webUrl: "https://channelvisionmag.com/slashnext-launches-ai-solution-for-email-security/"
+  - title: "Brave Search launches an AI-powered summarization feature"
+    excerpt: "Brave Search launched a new \"Summarizer\" feature, which is powered by different large langue models (LLMs) than OpenAI's GPT."
+    publishedDateTime: 2023-03-02T20:19:00Z
+    webUrl: "https://techcrunch.com/2023/03/02/brave-search-launches-an-ai-powered-summarization-feature/"
+    ampWebUrl: "https://techcrunch.com/2023/03/02/brave-search-launches-an-ai-powered-summarization-feature/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/brave-search-launches-an-ai-powered-summarization-feature/amp/"
     type: article
     provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 56
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://channelvisionmag.com/wp-content/uploads/2023/02/slashnext.jpg"
-        width: 500
-        height: 343
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/image004-1.jpg?resize=1200,813"
+        width: 1200
+        height: 813
         isCached: true
   - title: "Informatica Launches Free, AI-powered Solution for Data Practitioners"
     excerpt: "Informatica, an enterprise cloud data management leader, today launched the industry's only free cloud data loading,"
@@ -48,15 +50,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SlashNext Launches Industry's First Generative AI Solution for Email Security"
-    excerpt: "This new solution joins SlashNext's existing HumanAI capabilities, which mimic human threat researchers by combining natural language processing, computer vision, and machine learning with relationship graphs and deep contextualization to thwart ..."
-    publishedDateTime: 2023-02-28T21:04:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/02/28/9767658.htm"
+  - title: "Brave Search Engine Gains AI-Powered 'Summarizer' Option"
+    excerpt: "Open-source privacy-focused browser Brave today introduced a new \"Summarizer\" option for its dedicated search engine, Brave Search."
+    publishedDateTime: 2023-03-02T18:25:00Z
+    webUrl: "https://www.macrumors.com/2023/03/02/brave-search-ai-summarizer/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
+      name: MacRumors
+      domain: macrumors.com
+    quality: 17
 
 secured: "koq2tBXfoctjwVvN9et/57b3O29CJ+ZkiNYuhUwy9IXXSQ8uZjmSdmJiVKF+0CJ7PYHK76vuWuCPRKN2e7IxDez/vLWYLqWnM/O67PL8IgxVBYhJ5lOL2b5fisIyT/xspV8aPkGVaer0RBulUfziZOv4cHaBVFNiguKIVsYmwgiwCq+O0pGxG6HY47qewS6p7rHCLvEXNw/brFtFE4oeXB1Oq/DpinBLoXWX5DI072rQLcK5YlZTv8N6F3hypNZauUN168pRV2XjO/VP+HO6vZ9vC/IVMus0CD4JGZ5q54Mlvfb253t8JElRc40U445mD5aRErhik3aGuy0noCvUtknPIrMVzBQnOgzW5fqUgQo=;TK71PtY9uOivOajLtSPzoQ=="
 ---

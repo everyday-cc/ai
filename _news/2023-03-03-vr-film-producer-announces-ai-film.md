@@ -30,7 +30,7 @@ related:
     provider:
       name: newsroom.businesswire.com
       domain: businesswire.com
-    quality: 19
+    quality: 21
   - title: "Stability AI Announces Stability For Blender; Text To Image Creation in 3D"
     excerpt: "Stability for Blender is Stability AI's officially supported, zero-hassle way to use the Stability SDK inside Blender. With no dependencies to install and no GPU required, Stability for Blender lets you add AI post-processing effects to renders with just an internet connection – something that previously required owning prohibitively expensive hardware."
     publishedDateTime: 2023-03-02T19:50:00Z
