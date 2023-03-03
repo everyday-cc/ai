@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-26-protecting-the-hidden-layer-in-neural-networks.md",
+      "title": "Protecting the Hidden Layer in Neural Networks",
+      "excerpt": "In this episode of \"Cybersecurity Unplugged,\" Chris \"Tito\" Sestito discusses technology to protect neural networks and artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcareinfosecurity.com/interviews/protecting-hidden-layer-in-neural-networks-i-5228",
+      "originalUrl": "https://www.healthcareinfosecurity.com/interviews/protecting-hidden-layer-in-neural-networks-i-5228",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://0267f973c7f511eda6a4-193e28812cee85d6e20ea22afb83e185.ssl.cf1.rackcdn.com/protecting-neural-networks-showcase_image-6-i-5228.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcareinfosecurity.com",
+        "domain": "healthcareinfosecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-new-software-incorporates-dendritic-properties-into-neural-network-models.md",
       "title": "New software incorporates dendritic properties into neural network models",
       "excerpt": "The new software allows the incorporation of important dendritic properties into neural network models ... brain function and in the field of artificial intelligence. Deciphering the secrets ...",
@@ -1391,49 +1434,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-hpe-buys-ai-startup-pachyderm-to-build-new-ai-ml-platform.md",
-      "title": "HPE Buys AI Startup Pachyderm To Build New AI, ML Platform",
-      "excerpt": "HPE acquires AI startup Pachyderm to boost artificial intelligence portfolio, create a new HPE platform and increase customer adoption of machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/data-center/hpe-buys-ai-startup-pachyderm-to-build-new-ai-ml-platform",
-      "originalUrl": "https://www.crn.com/news/data-center/hpe-buys-ai-startup-pachyderm-to-build-new-ai-ml-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/027d-170f6fdc6c62-5d4dd72b3d70-1000/hpe-sign.jpeg",
-          "width": 610,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-13T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Machine Learning"
       ]
     }

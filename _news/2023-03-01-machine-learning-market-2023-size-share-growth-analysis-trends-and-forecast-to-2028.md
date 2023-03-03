@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Growing Demand of Voice And Speech Recognition Software market report 2023-2027"
+    excerpt: "Mar 03, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.” Latest 2023 \"Voice And Speech"
+    publishedDateTime: 2023-03-03T08:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/growing-demand-of-voice-and-speech-recognition-software-market-report-2023-2027-2023-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence for Accounting Market 2023 | Global Industry Report Forecast 2029"
     excerpt: "Top “ Artificial Intelligence for Accounting Market ” Size 2023 Key players Profiled in the Report are [, IBM, Google, AWS, Kore.ai, Hyper Anna, Botkeeper, SMACC, Deloitte, YayPay, MindBridge Analytics,"
     publishedDateTime: 2023-02-27T15:59:00Z

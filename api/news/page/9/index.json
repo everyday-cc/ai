@@ -2,6 +2,93 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-02-21-neuromorphic-camera-and-machine-learning-aid-nanoscopic-imaging.md",
+      "title": "Neuromorphic camera and machine learning aid nanoscopic imaging",
+      "excerpt": "Their novel technique, which combines optical microscopy with a neuromorphic camera and machine learning algorithms, presents a major step forward in pinpointing objects smaller than 50 nanometers ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.html",
+      "originalUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/neuromorphic-camera-an.jpg",
+          "width": 2000,
+          "height": 1477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.amp",
+      "publishedDateTime": "2023-02-21T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-21-c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions.md",
+      "title": "C3 AI Expands Strategic Collaboration Agreement with AWS to Deliver Enhanced AI Solutions",
+      "excerpt": "C3 AI is a leading enterprise AI software provider building enterprise-scale AI applications and accelerating customers’ digital transformation. For example, C3 AI Law Enforcement helps local government agencies use machine learning (ML) to organize and analyze datasets,",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions/article_081fbf42-1473-5c8f-98a0-8b54709d63d7.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions/article_081fbf42-1473-5c8f-98a0-8b54709d63d7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-21-artificial-intelligence-in-fashion.md",
       "title": "Artificial Intelligence In Fashion",
       "excerpt": "As an AI enthusiast, I can tell you that artificial intelligence is quickly becoming a game-changer in the fashion industry. From design to marketing and sales, AI is affecting everything and offering businesses new opportunities to streamline their ...",
@@ -1031,111 +1118,6 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-gpu-for-ai-market-2023-industry-size-shares-segment-and-forecast-up-to-2031.md",
-      "title": "GPU for AI Market 2023 Industry Size, Shares, Segment and Forecast up to 2031",
-      "excerpt": "The GPU for AI Market revenue was $$ Million USD in 2023, grew to $$ Million USD in 2023, and will reach $$ Million USD in 2031, with a CAGR of $$ during 2023-203 1 Request To Download Sample of This Strategic Report:  The conflict has an impact on the information and communications technology (ICT) market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-2023-industry-size-shares-segment-and-forecast-up-to-2031-2023-02-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-2023-industry-size-shares-segment-and-forecast-up-to-2031-2023-02-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-20T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-artificial-intelligence-is-booming-but-how-will-it-impact-your-career.md",
-      "title": "Artificial Intelligence is booming – but how will it impact your career?",
-      "excerpt": "Artificial Intelligence is the latest technology buzz topic thanks to the boom of ChatGPT. The AI-powered chatbot, created by Microsoft-backed OpenAI, has both impressed and shocked with its ability to answer questions, write essays and even argue legal cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107196527-1676650643558-gettyimages-1394953811-_dsc9542-gi.jpeg?v=1676894627",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/20/artificial-intelligence-is-booming-but-will-it-impact-your-career-and-job.html",
-      "publishedDateTime": "2023-02-20T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

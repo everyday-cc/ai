@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -73,6 +73,22 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1677737726-Hithere.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Could the Disruptive Power of AI-Generated Images and Videos Impact K–12 Learning?"
+    excerpt: "Platforms like Stable Diffusion and DALL-E 2 allow users to input a text prompt to create an AI-generated image that may or may not accurately reflect what the user intended. Other tech companies are now getting into the mix."
+    publishedDateTime: 2023-03-03T18:18:00Z
+    webUrl: "https://edtechmagazine.com/k12/higher/k12/higher/article/2023/03/could-disruptive-power-ai-generated-images-and-videos-impact-k-12-learning"
+    ampWebUrl: "https://edtechmagazine.com/k12/higher/k12/higher/article/2023/03/could-disruptive-power-ai-generated-images-and-videos-impact-k-12-learning?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/higher/k12/higher/article/2023/03/could-disruptive-power-ai-generated-images-and-videos-impact-k-12-learning?amp"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 53
+    images:
+      - url: "https://edtechmagazine.com/themes/cdw/images/audio/cdw_edtech_k12_audio.png"
+        width: 772
+        height: 409
         isCached: true
   - title: "Exploring The Intersection Of The Edge, AI And IoT"
     excerpt: "In this article, I explore the opportunities and approaches at the intersection of these revolutionary market adoption paradigms."

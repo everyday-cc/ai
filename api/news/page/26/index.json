@@ -2,6 +2,84 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-02-07-6-jobs-artificial-intelligence-is-already-replacing-and-how-investors-can-capitalize-on-it.md",
+      "title": "6 Jobs Artificial Intelligence Is Already Replacing and How Investors Can Capitalize on It",
+      "excerpt": "It’s no secret artificial intelligence (AI ... but business is likely to pick up the pace in the future. From a self-driving Tesla Semi to Starship’s Food Delivery robot fleet, robots powered by AI are beginning to dominate the delivery sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/02/30766478/6-jobs-artificial-intelligence-is-already-replacing-how-investors-can-capitalize-on-it",
+      "originalUrl": "https://www.benzinga.com/news/23/02/30766478/6-jobs-artificial-intelligence-is-already-replacing-how-investors-can-capitalize-on-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/02/07/arseny-togulev-meckpokjyjm-unsplash.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30766478",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30766478",
+      "publishedDateTime": "2023-02-07T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-kognitos-raises-675m-seed-to-bring-the-power-of-generative-ai-to-enterprise-automation.md",
+      "title": "Kognitos Raises $6.75M Seed to Bring the Power of Generative AI to Enterprise Automation",
+      "excerpt": "Kognitos launches the first generative AI platform that allows business users to automate business processes in plain English - bringing funding total to $9.35 million. SAN JOSE,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756210.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756210.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-ai-chip-startup-cerebras-systems-announces-pioneering-simulation-of-computational-fluid-dynamics.md",
       "title": "AI chip startup Cerebras Systems announces pioneering simulation of computational fluid dynamics",
       "excerpt": "It could run several hundred times faster than what is possible using traditional distributed computers. A single WSE-2 AI chip is said to contain 2.6 trillion transistors, or 2.55 trillion more than the most advanced graphics processing unit on the market.",
@@ -885,74 +963,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-the-battle-for-ai-supremacy-begins.md",
-      "title": "The Battle for AI Supremacy Begins",
-      "excerpt": "In 2023, the race for artificial intelligence dominance bears striking semblance to the ‘Cold War Era’ but with Google and Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/the-battle-for-ai-supremacy-begins/",
-      "originalUrl": "https://analyticsindiamag.com/the-battle-for-ai-supremacy-begins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-apple-to-hold-first-in-person-summit-in-years-focused-on-ai.md",
-      "title": "Apple to hold first in-person summit in years, focused on AI",
-      "excerpt": "As Apple begins to ease its COVID policies, the company has decided to hold its annual internal AI summit in person, which could mean the company may soon return to traditional media events.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/02/07/apple-to-hold-first-in-person-ai-summit-in-years",
-      "originalUrl": "https://appleinsider.com/articles/23/02/07/apple-to-hold-first-in-person-ai-summit-in-years",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T04:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

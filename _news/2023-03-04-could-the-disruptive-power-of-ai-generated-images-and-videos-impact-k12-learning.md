@@ -1,0 +1,125 @@
+---
+category: news
+title: "Could the Disruptive Power of AI-Generated Images and Videos Impact K–12 Learning?"
+excerpt: "Platforms like Stable Diffusion and DALL-E 2 allow users to input a text prompt to create an AI-generated image that may or may not accurately reflect what the user intended. Other tech companies are now getting into the mix."
+publishedDateTime: 2023-03-03T18:18:00Z
+originalUrl: "https://edtechmagazine.com/k12/higher/k12/higher/article/2023/03/could-disruptive-power-ai-generated-images-and-videos-impact-k-12-learning"
+webUrl: "https://edtechmagazine.com/k12/higher/k12/higher/article/2023/03/could-disruptive-power-ai-generated-images-and-videos-impact-k-12-learning"
+ampWebUrl: "https://edtechmagazine.com/k12/higher/k12/higher/article/2023/03/could-disruptive-power-ai-generated-images-and-videos-impact-k-12-learning?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/higher/k12/higher/article/2023/03/could-disruptive-power-ai-generated-images-and-videos-impact-k-12-learning?amp"
+type: article
+quality: 53
+heat: -1
+published: false
+
+provider:
+  name: EdTech
+  domain: edtechmagazine.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://edtechmagazine.com/themes/cdw/images/audio/cdw_edtech_k12_audio.png"
+    width: 772
+    height: 409
+    isCached: true
+
+related:
+  - title: "The purpose and impact of creative AI"
+    excerpt: "Will generative AI be more of a problem than it’s worth? Here are some ways creative AI can be a help and not a threat."
+    publishedDateTime: 2023-02-28T02:07:00Z
+    webUrl: "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-purpose-and-impact-of-creative-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "10 Threats That The Use Of AI Poses For Companies And Organizations"
+    excerpt: "How, when, and why business leaders employ AI technology has the potential to create a wide range of crisis situations for their companies and organizations."
+    publishedDateTime: 2023-03-02T13:32:00Z
+    webUrl: "https://www.forbes.com/sites/edwardsegal/2023/03/02/10-threats-that-the-use-of-ai-poses-for-companies-and-organizations/"
+    ampWebUrl: "https://www.forbes.com/sites/edwardsegal/2023/03/02/10-threats-that-the-use-of-ai-poses-for-companies-and-organizations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edwardsegal/2023/03/02/10-threats-that-the-use-of-ai-poses-for-companies-and-organizations/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6400a62230cdf3c16355cb60/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The AI Disaster Scenario"
+    excerpt: "Is it right to freak out? Is it wrong? Will AI end the human race? But also: Aren’t these tools awe-inspiring?"
+    publishedDateTime: 2023-02-27T17:14:00Z
+    webUrl: "https://www.theatlantic.com/newsletters/archive/2023/02/ai-chatgpt-microsoft-bing-chatbot-questions/673202/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 71
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/yEbASzqMFEbd7XXl2z4_NjZ8B6U=/0x61:2876x1559/1200x625/media/img/mt/2023/02/AI_Questions/original.gif"
+        width: 1200
+        height: 625
+        isCached: true
+  - title: "Vue.ai Partners With Meta's Creative Shop To Create AI-powered Models For Inclusive Ad Creatives"
+    excerpt: "Vue.ai will enable brands to feature a single outfit across a wide range of AI-generated body types from size 4-20 with its patented technology"
+    publishedDateTime: 2023-03-02T06:14:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/vueai-partners-with-metas-creative-shop-to-create/446752"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1677737726-Hithere.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Exploring The Intersection Of The Edge, AI And IoT"
+    excerpt: "In this article, I explore the opportunities and approaches at the intersection of these revolutionary market adoption paradigms."
+    publishedDateTime: 2023-03-01T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/01/exploring-the-intersection-of-the-edge-ai-and-iot/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-02-27T16:30:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/02/27/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "The 10 most innovative companies in artificial intelligence of 2023"
+    excerpt: "A ranking of the most innovative companies in AI, including OpenAI, DeepMind, Nvidia, Builder.ai, Voxel, and others"
+    publishedDateTime: 2023-03-02T07:00:00Z
+    webUrl: "https://www.fastcompany.com/90846670/most-innovative-companies-artificial-intelligence-2023"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
+
+secured: "5uKYtJy+MC+BpbtHq8geoYMS8ky+td+/K+XHumb69eY3KMAgUil+DI3sMQlDTF48XSdqCwXpiJCCnLpR7eQayyFkG5B9e26nCEJgXSzniFJBxPGFARv8HVbPrieRc+qMEd/uCwTykwhsXoy8OCsAGkHGca5lbLHA+AOaxO3Rbe6FK4jOnODYxqPEB3Fir9IlwaDDr22AtUUBILSO0dHZVt1ix5P2vN1jFARnk52/ip8ZVa7qfaBGh50Tq7nXbM9F+5sR7PKa2RUbD+C3rEw0zt/g7o27yT/xgzatYVK7NBIgD8Ja+z77bIHrqNTDlWWf5SWrGNFezEToBiDfpY7Zv6UXPeRRlToUSq5EjDTbI3c=;3Ww3r0MPhUkvn42wHlns2w=="
+---
+

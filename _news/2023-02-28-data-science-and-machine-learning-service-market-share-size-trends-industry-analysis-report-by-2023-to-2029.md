@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Growing Demand of Voice And Speech Recognition Software market report 2023-2027"
+    excerpt: "Mar 03, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.” Latest 2023 \"Voice And Speech"
+    publishedDateTime: 2023-03-03T08:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/growing-demand-of-voice-and-speech-recognition-software-market-report-2023-2027-2023-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028"
     excerpt: "Mar 01, 2023 (The Expresswire) -- \"Machine Learning Market\" Report covers specified competitive outlook consisting of the market proportion and"
     publishedDateTime: 2023-03-01T06:14:00Z

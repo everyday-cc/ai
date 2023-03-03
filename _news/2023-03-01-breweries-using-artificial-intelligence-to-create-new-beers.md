@@ -8,7 +8,7 @@ webUrl: "https://www.wkbw.com/news/national/breweries-using-artificial-intellige
 ampWebUrl: "https://www.wkbw.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
 cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://ewscripps.brightspotcdn.com/dims4/default/3b6e798/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F81%2F3f%2F7993cdd84d51a8add85e10528254%2Fdownload.png"
@@ -44,6 +45,6 @@ related:
         height: 675
         isCached: true
 
-secured: "kTQCl0x9Qd+kSFS8a61I0rSG+EatndxVT/Y07mTb6CFQDxTRbMRQcGzwg3pHIhwE118LEv5uRzFywwmIXEKGG3aT4MWmw4AcIyVjBW73La+50HTPX/ACTzaX5KuY0ZdYSK4817E9zpSrD4PENfLuFipeQyvnFYxb9pt/MPLEfgh5iK3igme5uqIag8TJPweJ29lLKIo8lV2sKIjgNapc/KUei2L/Xgmy5Td2hf3v+/qoBDv2B9CDNDPlxWyXNpJOoVHhV4v1HNN6qpzIGOCBITjWuHVUUYMfeaHgbfvNvTQQZrJwBrqwF3gClB7hF3Pa6SoSPUijL95ixJSSB7D7P6d1IpGsQr9s5IS0D+NNm8w=;gVwWWqZ+6cjMh9Uc54LOKQ=="
+secured: "ZSmV9z6DkHhBpNY1HzHwKMat0tvflqdo/vgwDZF5ffUP4pRiWiprsGLqQyIvw4kaGjTmyxRIzdJirpkELABjrmA+ct/qlvrElO16QwavQ9onBqTwfXIQJAXx+jNiLkdLfxgectA4ulQkMUR++Ka+MfodnG+xlkoYsiMjvEhXhgmERwsRc3u3FL9uYT7B+4qgJEiaM9TSK/yyuN2GznJ7p/wjAP2xKEqdzU95W92Tc7qBBUepUnfr8hhwGZ00a9tEjxipcxhwfnhqS3+5KFS7eXUsyNC/naETo0G9KZNo3v3bVs5HgP2KJlO6b88vHOGMPMfwjVlPs33fWnitNKqdY6SfmWWftCShWqYBweZkuu6NWWgGdiYfDvrKxqpujgDQvfWFHF5WxYIvReK7OqYYgSEnqWahQ8vTHLBwUL1FoDPtX7egNL9JxX7OM/6klVF+r+2BY7J7hKLDgh9LCWpZ1qdFFG9HJEuRlN62OfxGmnhkoiaNNnUVkIcG+BvLTDK8vJocYUeBKYmXBTBn62MQSg==;5Apcns7adfDQeIUOp8EYAg=="
 ---
 

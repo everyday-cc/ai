@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Growing Demand of Voice And Speech Recognition Software market report 2023-2027"
+    excerpt: "Mar 03, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.” Latest 2023 \"Voice And Speech"
+    publishedDateTime: 2023-03-03T08:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/growing-demand-of-voice-and-speech-recognition-software-market-report-2023-2027-2023-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market 2023 Size, Share, Growth, Analysis, Trends and Forecast to 2028"
     excerpt: "Mar 01, 2023 (The Expresswire) -- \"Machine Learning Market\" Report covers specified competitive outlook consisting of the market proportion and"
     publishedDateTime: 2023-03-01T06:14:00Z
@@ -508,6 +522,6 @@ related:
       domain: marketwatch.com
     quality: 11
 
-secured: "NyYznZc9eCGnkjgmtt/SyTi0B7Yf8nPITJ+nIrdBbV+h7WqZ+Bz33bNWOfpobbgBtA3bKUpcm+KBnuG9uuMqd4zVRfSuw0inVvTxmYC3ImpTiYesT9weGRNC00QcNSlaMT46tV2Ow6sBu/AfncCZ3k8Xy49qbN7+07eNKM/dggG9kSWW38I+cSV+TuQNF5ETOF9GLLdcgt9EhE7v+kwgaGWfPCs9B5+lNpmctVmdPqP/H07BlDFwG01geEqcfJt+nUSUqjSibDhitYAcdtE0LNAc+lX9U7cNMwtQ5Ripxs0BfVJq2YlvaaKpwPZK9mgG1uB2TWW+TFUJFojXJCmx/MRSRd6WmljMvzEhOEL0Q+M=;5j2gHQfI67iUZfh+NQnpCw=="
+secured: "GvjmtSSRE0ZzOpv8UY064dz7vpl0uV8vPUwMjRJiZAB/oG9AS1dpcllsuZc3KvcnWBkm14UgmjYG0Mr6MTmIkp5oskH1dxcEWt71Hy2ZgdhnZ/W/rnETFD7XpkATEHo0yNVFmrtyDdc95qSTJUIzyI3MxAUkzQcfvINxQ5evO8x5hbJ3FmDAe7A5PC7f0Q/l95XTf75C3rdoZR+iGlOFHMU8d1+IjTicV84TlGX/2AASejsmVpcKx9jsosLTx3Myzfu7IkuwN95ggyaKIao3ORTfog1fOWbl8ljX/+MX1GaE4wp/1MwRmX7ggfrj/rpT2fX9HN12V2xrWiC1HXRriirTIlt5Jb8kDRXo3pbcXMs=;SWuBtGUI/+fUGaG4M95phw=="
 ---
 

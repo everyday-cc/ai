@@ -2,6 +2,84 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-01-03-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.md",
+      "title": "Not all AI is actually “artificial intelligence” — what you need to know",
+      "excerpt": "Neural networks aren’t the only approach to AI. Another prominent camp in artificial intelligence research is symbolic AI — instead of digesting huge data sets, it relies on rules and ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html",
+      "originalUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html/amp",
+      "publishedDateTime": "2023-01-03T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-artificial-intelligence-and-robots-will-contribute-to-more-made-in-europe.md",
+      "title": "Artificial intelligence and robots will contribute to more «made in Europe»",
+      "excerpt": "In a new EU project, NORCE researchers will contribute to the increased automated production of goods. This will ensure better access to goods",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229020",
+      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/16e5dedc-fda4-44a8-a470-b9b862cd9cbc-773a43cd-87d5-46df-91bf-eeaddfe85613--logo-horizontal-black.png",
+          "width": 654,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AlphaGalileo",
+        "domain": "alphagalileo.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-03-artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies.md",
       "title": "Artificial Intelligence Robotics Market Growth and Key Dynamics 2023-2027 | Opportunities and Challenges, Top Regions and Emerging Technologies",
       "excerpt": "New Research on “Artificial Intelligence Robotics Market” Report 2023 provides distinguishes and intelligence analysis on industry growth revenue, size, share and future trends. The report ...",
@@ -1011,84 +1089,6 @@
         "AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-02-microsoft-coding-hackathon-winners-list-out-tcs-wipro-indusnet-top-3.md",
-      "title": "Microsoft Coding Hackathon Winners' List Out; TCS, Wipro, IndusNet Top 3",
-      "excerpt": "Microsoft India on Monday announced the top three winning teams of the coding hackathon, shortlisted based on their innovation and impact, were from Tata Consultancy Services (TCS), Wipro, and IndusNet.",
-      "sourceUrl": null,
-      "webUrl": "https://ummid.com/news/2023/january/02.01.2023/microsoft-coding-hackathon-winners-list-out-tcs-wipro-indusnet-top-3.html",
-      "originalUrl": "https://ummid.com/news/2023/january/02.01.2023/microsoft-coding-hackathon-winners-list-out-tcs-wipro-indusnet-top-3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T04:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ummid",
-        "domain": "ummid.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-02-the-humanization-of-machine-learning-in-our-daily-lives.md",
-      "title": "The Humanization of Machine Learning in Our Daily Lives",
-      "excerpt": "Recently, machine learning has become a major buzzword, despite being around for decades. Businesses are struggling to comprehend the",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/the-humanization-of-machine-learning-in-our-daily-lives-nid-10428.html",
-      "originalUrl": "https://www.cioapplications.com/news/the-humanization-of-machine-learning-in-our-daily-lives-nid-10428.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/bsqp8cio-450-308.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T02:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

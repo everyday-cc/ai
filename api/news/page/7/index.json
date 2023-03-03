@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-02-24-nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response.md",
+      "title": "Nvidia Beats Earning Expectations And Looks Towards AI, Stock Jumps 14% In Response",
+      "excerpt": "The AI market is set to take off—with one popular commentator comparing it to the rise of the Internet—and Nvidia’s chips are the tools of choice for many AI companies. According to CNBC, a New Street Research report found that Nvidia already has a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f899324fa3a14e43093b40/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/24/nvidia-beats-earning-expectations-and-looks-towards-ai-stock-jumps-14-in-response/amp/",
+      "publishedDateTime": "2023-02-24T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-tirupati-temple-to-introduce-facial-recognition-system-for-darshan-from-march-1.md",
       "title": "Tirupati Temple To Introduce Facial Recognition System For Darshan From March 1",
       "excerpt": "The famous Tirupati temple in Andhra Pradesh is set to introduce facial recognition system for the devotees from March 1. Tirumala Tiurpathi Devastanams (TTD), the trust that manages the temple ...",
@@ -1170,58 +1223,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-baidu-beats-fourth-quarter-revenue-estimates-flags-chatbot-launch.md",
-      "title": "Baidu beats fourth-quarter revenue estimates, flags chatbot launch",
-      "excerpt": "Revenue from Baidu Core, which includes search-based ad sales, cloud offerings and its autonomous driving initiatives, fell 1% to 25.7 billion yuan. While non-online marketing revenue rose 11% to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-announces-share-buyback-2023-02-22/",
-      "originalUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-announces-share-buyback-2023-02-22/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/9LTJYqY1aeAPZk8JCItvML1wkSk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JZSDFNXKHRKZNPBRY2X7CQXEJM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-22T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

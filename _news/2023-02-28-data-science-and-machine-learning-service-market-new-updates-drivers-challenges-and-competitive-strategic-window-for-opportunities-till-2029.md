@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market Booming With Rising Demands and Massive Opportunities, 2023 - 2029"
-    excerpt: "Speech Recognition Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Semiconductor & Electronics] category in the industry, by Type (Speaker Dependent,"
-    publishedDateTime: 2023-02-27T02:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-booming-with-rising-demands-and-massive-opportunities-2023---2029-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
 
 secured: "Kia22ilHi6rwuvzRdATTu3rm46lScp55hJ7OvWeoARKP18mu0Xagch0+pxg+NkGB+CwvJi5cUGUM2Ejn6Ll6fjB5vk3OcY3PLT7Jq38nSO7mfo0thGC4zdKl/qIzp9N/NNqemDxXLQUUCRISzVII8UgHyvEzw6+Sharcn2IhanVg2ksykTXwEPTFdKo7tLfndlG3xcGIAZRj7qYbN43ot9jfEJrBa545qOUuVFLk3yAakCoSlf9IF1oc6Sk2LSQiyRTsCbg8Q2tfS10FUpR/NViytm+81rQfJFpsnq8Nsfvok1i3HLBSYCFkC0FS7n32roAv0DRlCjwHZpcRz2+vM8j1KesrzAiNE0Dm7vFnqOA=;Gd4RBPBdN7aNy7Zy2+oVcA=="
 ---

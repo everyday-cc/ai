@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Collaboration Market Booming With Rising Demands and Massive Opportunities, 2023 - 2029"
-    excerpt: "Cognitive Collaboration Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Information & Communication Technology] category in the industry, by Type (,"
-    publishedDateTime: 2023-02-27T02:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-collaboration-market-booming-with-rising-demands-and-massive-opportunities-2023---2029-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "LN+rVnBcN2sGRsAnLOASG9+XXeqsB9n8GMlLRMkZr2op29jT5mbD4tI7ROb9kaOJLcTGUQyvJiBFVhGLvxmBGj+r3eZlu29Ul+NpLGU8tdB6ZW6645OK3zCp1nQ1GLutDsP0vNJSMzlpVWrRYwUHisNiFPFCuxgFknZh8U5Sm4qWn47m5bBtkqgx76B7zs0emtU4CBVzIzFNTZy0RMIdubu7GK/ydTHC/0m3+4L1h0slgbapkgtyybRUigznLFGfP/ZBw5UfABD0ONjZWUvwEoP/zKfGGdFIUuAuNyVQZLQBJoYOTxvG0rYjQGLZJ4sZgUCOYlHlGtNnhYfeJ6CDIqsJ3li89CqG+mAB9QOgQqc=;NGZeSAoCRNJeuix1J6Ja8A=="
 ---

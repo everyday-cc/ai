@@ -71,6 +71,20 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Chime's top tech exec details how the fintech is building an AI chatbot to speed up how quickly it launches new products and features"
+    excerpt: "Chime CTO James Barrese hopes the fintech's in-house version of ChatGPT will help the startup navigate security and privacy risks associated with AI."
+    publishedDateTime: 2023-03-02T15:03:00Z
+    webUrl: "https://www.businessinsider.com/fintech-chime-to-launch-internal-chatgpt-ai-tool-this-year-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/63fd208db8468e001896b8c5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "What buzzy fintech innovations can advisors expect this year?"
     excerpt: "Financial advisors will travel to Florida to learn about the latest fintech technology and how it can improve their practice."
     publishedDateTime: 2023-03-02T20:58:00Z

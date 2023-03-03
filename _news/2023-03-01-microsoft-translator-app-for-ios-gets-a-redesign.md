@@ -187,6 +187,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Index your Microsoft Exchange content using the Exchange connector for Amazon Kendra"
+    excerpt: "Amazon Kendra is a highly accurate and simple-to-use intelligent search service powered by machine learning (ML). Amazon Kendra offers a suite of data source connectors to simplify the process of ingesting and indexing your content, wherever it resides. Valuable data in organizations is stored in both"
+    publishedDateTime: 2023-03-03T17:37:54Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/index-your-microsoft-exchange-content-using-the-exchange-connector-for-amazon-kendra/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/03/index-microsoft-exchange-kendra.jpg"
+        width: 1564
+        height: 779
+        isCached: true
   - title: "Microsoft and Alphabet Fail to Show at the AI Party"
     excerpt: "Artificial intelligence is the buzziest of buzz words on Wall Street. Apart, that is, for the two firms that are seen to be at the cutting edge of the technology."
     publishedDateTime: 2023-03-03T11:53:00Z
@@ -307,6 +321,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 64
+  - title: "Microsoft and Alphabet fail to show at the AI party"
+    excerpt: "Artificial intelligence is the buzziest of buzz words on Wall Street. Apart, that is, for the two firms that are seen to be at the cutting edge of the technology."
+    publishedDateTime: 2023-03-03T18:50:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/mar/03/microsoft-and-alphabet-fail-to-show-at-the-ai-part/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 56
+    images:
+      - url: "https://thumb.spokesman.com/7ORHrsvNtX1RXNIKClHIGfMRCgc=/1200x630/smart/media.spokesman.com/photos/2023/03/03/6402373809d2b.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI workflow tool secures $65M from backers including Microsoft, Google"
     excerpt: "Typeface helps marketers create image and copy assets for platforms like Instagram while aiming to preserve their personal style and brand safety."
     publishedDateTime: 2023-02-27T18:50:00Z
@@ -348,6 +376,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
+  - title: "People of AI: How these Microsoft employees are shaping the defining technology of our time"
+    excerpt: "AI at Microsoft is powered by—and for—people. See how those people are developing innovating solutions to the world's most challenging issues."
+    publishedDateTime: 2023-03-03T16:59:00Z
+    webUrl: "https://news.microsoft.com/source/shortform/people-of-ai-how-these-microsoft-employees-are-shaping-the-defining-technology-of-our-time/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 46
+    images:
+      - url: "https://news.microsoft.com/source/wp-content/uploads/2023/02/01.jpg"
+        width: 795
+        height: 1004
+        isCached: true
   - title: "Major Windows 11 update adds Notepad tabs, iPhone pairing, and a dash of AI"
     excerpt: "Microsoft announced 2023's first major batch of updates for Windows 11, part of the company's plan to release new Windows features \"when they are ready\" instead of waiting for the big annual update in the fall."
     publishedDateTime: 2023-02-28T14:00:00Z

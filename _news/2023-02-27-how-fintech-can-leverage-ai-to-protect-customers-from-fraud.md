@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leve
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63f774f52430dcaed98ba854/0x0.jpg?format=jpg&width=1200"
         width: 640
         height: 426
+        isCached: true
+  - title: "Chime's top tech exec details how the fintech is building an AI chatbot to speed up how quickly it launches new products and features"
+    excerpt: "Chime CTO James Barrese hopes the fintech's in-house version of ChatGPT will help the startup navigate security and privacy risks associated with AI."
+    publishedDateTime: 2023-03-02T15:03:00Z
+    webUrl: "https://www.businessinsider.com/fintech-chime-to-launch-internal-chatgpt-ai-tool-this-year-2023-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/63fd208db8468e001896b8c5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "27/02 – Weekly Fintech Recap"
     excerpt: "Partnerships Western Union and Beforepay Offer ‘Send Now, Pay Later’ Service to Consumers for International Money Transfers Western Union and Beforepay announced a first-of-its-kind collaboration, allowing consumers to boost their cross-border money transfers by accessing reliable,"

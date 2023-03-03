@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-03-achieve-rapid-time-to-value-business-outcomes-with-faster-ml-model-training-using-amazon-sagemaker-canvas.md",
+      "title": "Achieve rapid time-to-value business outcomes with faster ML model training using Amazon SageMaker Canvas",
+      "excerpt": "Machine learning (ML) can help companies make better business decisions through advanced analytics. Companies across industries apply ML to use cases such as predicting customer churn, demand forecasting, credit scoring, predicting late shipments, and improving manufacturing quality. In this blog post,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-rapid-time-to-value-business-outcomes-with-faster-ml-model-training-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-rapid-time-to-value-business-outcomes-with-faster-ml-model-training-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/03/achieve-rapid-time-to-value.jpg",
+          "width": 1566,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-03T09:35:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029.md",
       "title": "How and Where the Artificial Neural Networks Market is Set to Grow in forecast period 2029",
       "excerpt": "Mar 02, 2023 (The Expresswire) -- \"Artificial Neural Networks Market\" Insights 2023 By Applications (BFSI, Retail and eCommerce, IT, Healthcare and",
@@ -151,7 +204,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/examining-the-artificial-intelligence-and-machine-learning-market-from-2023-opportunities-and-challenges-ahead-2023-03-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -284,50 +337,6 @@
       ]
     },
     {
-      "path": "_news/2023-02-27-tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning.md",
-      "title": "Tune ML models for additional objectives like fairness with SageMaker Automatic Model Tuning",
-      "excerpt": "Model tuning is the experimental process of finding the optimal parameters and configurations for a machine learning (ML) model that result in the best possible desired outcome with a validation dataset. Single objective optimization with a performance metric is the most common approach for tuning ML",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T12:47:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-02-28-this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck.md",
       "title": "This week in data: The ML, AI and data landscape with Matt Turck",
       "excerpt": "What happened in data this week? Matt Turck joins Bruno Aziza to discuss key trends and the current ML, AI and data landscape.",
@@ -440,7 +449,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-02-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -832,6 +841,49 @@
         "Machine Learning",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-trading-with-the-momentum-transformer-an-interpretable-deep-learning-architecture.md",
+      "title": "Trading with the momentum transformer: an interpretable deep learning architecture",
+      "excerpt": "Only users who have a paid subscription or are part of a corporate subscription are able to print or copy content. To access these options, along with all other subscription benefits, please contact info@risk.net or view our subscription options here: http ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.risk.net/cutting-edge/7956074/trading-with-the-momentum-transformer-an-interpretable-deep-learning-architecture",
+      "originalUrl": "https://www.risk.net/cutting-edge/7956074/trading-with-the-momentum-transformer-an-interpretable-deep-learning-architecture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.risk.net/sites/default/files/styles/metatag_image_large/public/2023-02/momentum-coverter.jpg?itok=2jFc-8WF",
+          "width": 1200,
+          "height": 743,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T20:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Risk",
+        "domain": "risk.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1333,59 +1385,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-machine-learning-as-a-service-mlaas-market-size-share-and-forecast-2028-with-top-countries-data.md",
-      "title": "Machine Learning-as-a-Service (MLaaS) Market Size, Share and Forecast 2028 with Top Countries Data",
-      "excerpt": "Machine Learning-as-a-Service (MLaaS) Market Size is projected to Reach Multimillion ... as well as end-users.Secondary sources include the research of the annual and financial reports of the top companies, public files, new journals, etc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-share-and-forecast-2028-with-top-countries-data-2023-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-share-and-forecast-2028-with-top-countries-data-2023-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

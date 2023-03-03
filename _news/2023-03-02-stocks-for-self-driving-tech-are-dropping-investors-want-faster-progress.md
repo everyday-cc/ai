@@ -36,6 +36,20 @@ related:
       name: Sunday Times Driving
       domain: driving.co.uk
     quality: 34
+  - title: "AAA: More motorists fear riding in self-driving vehicles"
+    excerpt: "More drivers this year are afraid of riding in a self-driving vehicle than last year, according to a new AAA survey. Sixty-eight percent of drivers are afraid of riding in a self-driving vehicle, up from 55% in 2022,"
+    publishedDateTime: 2023-03-03T03:00:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/mar/02/aaa-more-motorists-fear-riding-in-self-driving-veh/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 24
+    images:
+      - url: "https://thumb.spokesman.com/th5QAXZvuesUH3NKAs2EjpJkgbs=/1200x630/smart/media.spokesman.com/photos/2023/03/02/6401386335412.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HhlHqH0y5q1zWh4u7hrs0rWNsuilVA5qBJMWukJbJcrDJgJZ2tpZERY3fudE37WNWHFgj2mlbAA/ay9kVnBgriSA3hvYMYdUOOnAUCt1ezbwKJb2HG3NO6I8C8ejqwjZJ/fWlfJjMhsGYlNKsYuvBLNVBR/apeEnAIUruroVpfn3DLxBUZUbRROn25fD0bAM4NKHzqQmx29glevxatVBrRhqUnc6F/g4OaN8KRbcHe5osiP/Id9A0einMVt9gtIJUDv39QrU+YjWETDA6Y+Y8UxuscbR2B8azFsB5W2rosUqkPBso0OPp1fbywPBspA5pkrrGeM1jRIUChSs/bZFWtJFrnm1sl2cSVaggtXVUuFTKvbIK6O7AkcbEsCRrzMOZRxgilqpEm77Eymqv9rcNC8vwQELInTk48xGTprPW+teEvrhWS9Mt+B2WnIJhQHu0hJFkwa8T2UkdhQyi5th3jd+7L20Jghn6e/IeLVu75f2iY60Ii16XZamhk88rc+TleYHHVh/4f6Oj8Za+nWP5Q==;BZvhB4QUCVXnVl5bh+BtZQ=="
 ---

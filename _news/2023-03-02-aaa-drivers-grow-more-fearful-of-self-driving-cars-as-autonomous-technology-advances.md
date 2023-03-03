@@ -140,6 +140,20 @@ related:
       name: The Drive
       domain: thedrive.com
     quality: 19
+  - title: "A new Ford patent imagines a future in which self-driving cars repossess themselves"
+    excerpt: "The company says it has no plans to put ideas from the patent into action. Instead, it serves as a vision of what the future of repossession could look like with self-driving and smart cars."
+    publishedDateTime: 2023-03-03T18:53:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1160932390"
+    type: article
+    provider:
+      name: Capital Public Radio
+      domain: capradio.org
+    quality: 18
+    images:
+      - url: "https://media.npr.org/assets/img/2023/03/03/20230055958-2-ba4dc97bdc6c2a7095062d3ca48d60cc2ae7b85d.jpg?s=6"
+        width: 948
+        height: 710
+        isCached: true
   - title: "AAA study: Fear of self-driving cars on the rise"
     excerpt: "A study done by AAA says the fear of self-driving vehicles is on the rise. (Photo: MGN / General Motors)CHARLOTTE, NC (WWAY) — Concerns about self-driving cars are drastically higher than in 2022. According to a yearly automated vehicle survey released by AAA,"
     publishedDateTime: 2023-03-02T20:44:00Z

@@ -41,7 +41,7 @@ related:
     provider:
       name: WKBW
       domain: wkbw.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/3b6e798/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F81%2F3f%2F7993cdd84d51a8add85e10528254%2Fdownload.png"
         width: 1280

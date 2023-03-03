@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-device-
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27"
 type: article
 quality: 52
-heat: 122
+heat: 102
 published: true
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market International Business Analysis, Development Outlook and Regional Strategies 2029"
-    excerpt: "Artificial Intelligence Market 2023 Will Provide Report Analysis that quickly emerging as one of the [ICT] category in the industry, by Type (Hardware, Software, Services), and En"
-    publishedDateTime: 2023-02-27T02:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-international-business-analysis-development-outlook-and-regional-strategies-2029-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Software Market (New Insights Report) By 2023 which is Booming Strong Growth in the Globe till 2029"
-    excerpt: "Face Recognition Software Market 2023 Will Provide Report Analysis that quickly emerging as one of the [Information & Communication Technology] category in the industry, by Type ("
-    publishedDateTime: 2023-02-27T02:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-software-market-new-insights-report-by-2023-which-is-booming-strong-growth-in-the-globe-till-2029-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Phone Market Size, Assessment, Key Factors And Challenges By 2028"
     excerpt: "Feb 27, 2023 (The Expresswire) -- \"Facial Recognition Phone Market\" Report covers specified competitive outlook consisting of the market proportion"
     publishedDateTime: 2023-02-27T11:51:00Z

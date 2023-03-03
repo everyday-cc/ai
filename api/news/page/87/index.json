@@ -2,6 +2,101 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-12-15-biden-vows-to-expand-us-involvement-in-africa-in-speech-to-dozens-of-leaders.md",
+      "title": "Biden Vows to Expand U.S. Involvement in Africa in Speech to Dozens of Leaders",
+      "excerpt": "The United States has been lagging behind countries like China and Russia in a fierce competition for influence in Africa. Heads of state from almost 50 countries are in Washington for a summit, the first in eight years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2022/12/14/us/biden-africa-summit",
+      "originalUrl": "https://www.nytimes.com/live/2022/12/14/us/biden-africa-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/12/14/multimedia/14dc-africasummit-promo-1215/14dc-africasummit-1-246a-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2022/12/14/us/biden-africa-summit.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2022/12/14/us/biden-africa-summit.amp.html",
+      "publishedDateTime": "2022-12-14T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-15-exercise-mindfulness-dont-boost-cognitive-function-in-elderly-study-confirms.md",
+      "title": "Exercise, mindfulness don't boost cognitive function in elderly? Study confirms",
+      "excerpt": "An extensive study that looked at whether mindfulness training and exercise could improve cognitive performance in older persons showed no such improvement after either intervention. Researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/lifestyle/health/exercise-mindfulness-don-t-boost-cognitive-function-in-elderly-study-confirms-101671016207608.html",
+      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/exercise-mindfulness-don-t-boost-cognitive-function-in-elderly-study-confirms-101671016207608.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/12/14/1600x900/pexels-brett-sayles-3729182_1664608913158_1671016541290_1671016541290.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/exercise-mindfulness-don-t-boost-cognitive-function-in-elderly-study-confirms-101671016207608-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/exercise-mindfulness-don-t-boost-cognitive-function-in-elderly-study-confirms-101671016207608-amp.html",
+      "publishedDateTime": "2022-12-14T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-15-apple-tv-devices-now-recognize-up-to-six-different-voices.md",
       "title": "Apple TV devices now recognize up to six different voices",
       "excerpt": "Not now Turn on Turned onTurn on Personalized voice recognition certainly isn't a novel concept. Rival assistants have had comparable functionality for years, and Recognize My Voice has been ...",
@@ -1021,100 +1116,6 @@
         "Facebook AI",
         "Google AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-artificial-intelligence-in-fashion-retail-market-size-outlook-share-prominent-players-growth-and-forecast-2028.md",
-      "title": "Artificial Intelligence In Fashion Retail Market Size, Outlook, Share, Prominent Players, Growth, and Forecast 2028",
-      "excerpt": "Artificial Intelligence In Fashion Retail Market\" is sectioned top to bottom in this review. Worldwide and geological",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-size-outlook-share-prominent-players-growth-and-forecast-2028-2022-12-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-size-outlook-share-prominent-players-growth-and-forecast-2028-2022-12-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T17:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles.md",
-      "title": "Tesla to Add Radar in Hopes of Achieving Full Self Driving in Vehicles",
-      "excerpt": "Chuck Gersham, CEO of Owl Autonomous Imaging, says that radar technology should theoretically be the correct move in pursuit of FSD but doesn’t believe it’ll be the last change by Tesla along this route.",
-      "sourceUrl": null,
-      "webUrl": "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/",
-      "originalUrl": "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketscale.com/wp-content/uploads/2022/12/shutterstock_1140629366-scaled.jpg",
-          "width": 1920,
-          "height": 1273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T16:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marketscale",
-        "domain": "marketscale.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

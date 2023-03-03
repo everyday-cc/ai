@@ -2,6 +2,100 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-12-14-artificial-intelligence-in-fashion-retail-market-size-outlook-share-prominent-players-growth-and-forecast-2028.md",
+      "title": "Artificial Intelligence In Fashion Retail Market Size, Outlook, Share, Prominent Players, Growth, and Forecast 2028",
+      "excerpt": "Artificial Intelligence In Fashion Retail Market\" is sectioned top to bottom in this review. Worldwide and geological",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-size-outlook-share-prominent-players-growth-and-forecast-2028-2022-12-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-size-outlook-share-prominent-players-growth-and-forecast-2028-2022-12-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T17:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles.md",
+      "title": "Tesla to Add Radar in Hopes of Achieving Full Self Driving in Vehicles",
+      "excerpt": "Chuck Gersham, CEO of Owl Autonomous Imaging, says that radar technology should theoretically be the correct move in pursuit of FSD but doesn’t believe it’ll be the last change by Tesla along this route.",
+      "sourceUrl": null,
+      "webUrl": "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/",
+      "originalUrl": "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://marketscale.com/wp-content/uploads/2022/12/shutterstock_1140629366-scaled.jpg",
+          "width": 1920,
+          "height": 1273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T16:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "marketscale",
+        "domain": "marketscale.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-amazons-alexa-adds-text-to-speech-gestures-and-captioning-features.md",
       "title": "Amazon's Alexa Adds Text-to-Speech, Gestures and Captioning Features",
       "excerpt": "Amazon on Tuesday added three new Alexa features to its Echo Show smart display that are geared toward improving accessibility. The first, called Gestures, lets users dismiss timers by just ...",
@@ -1018,105 +1112,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-chronomics-detects-covid-19-test-results-with-amazon-rekognition-custom-labels.md",
-      "title": "Chronomics detects COVID-19 test results with Amazon Rekognition Custom Labels",
-      "excerpt": "Chronomics is a tech-bio company that uses biomarkers—quantifiable information taken from the analysis of molecules—alongside technology to democratize the use of science and data to improve the lives of people. Their goal is to analyze biological samples and give actionable information to help you make",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/chronomics-detects-covid-19-test-results-with-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/chronomics-detects-covid-19-test-results-with-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/13/chronomics-rekognition-custom-labels.jpg",
-          "width": 1560,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T08:55:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-could-artificial-intelligence-help-us-build-a-technological-world-that-is-more-ethical.md",
-      "title": "Could artificial intelligence help us build a technological world that is more ethical?",
-      "excerpt": "A robot may not injure a human being or, through inaction, allow a human being to come to harm. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.html",
-      "originalUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/could-artificial-intel.jpg",
-          "width": 883,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-artificial-intelligence-technological-world-ethical.amp",
-      "publishedDateTime": "2022-12-13T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics",
-        "AI in Robotics",
-        "AI in Healthcare"
       ]
     }
   ],

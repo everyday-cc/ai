@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-02-23-baidu-beats-fourth-quarter-revenue-estimates-flags-chatbot-launch.md",
+      "title": "Baidu beats fourth-quarter revenue estimates, flags chatbot launch",
+      "excerpt": "Revenue from Baidu Core, which includes search-based ad sales, cloud offerings and its autonomous driving initiatives, fell 1% to 25.7 billion yuan. While non-online marketing revenue rose 11% to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-announces-share-buyback-2023-02-22/",
+      "originalUrl": "https://www.reuters.com/technology/chinas-baidu-beats-quarterly-revenue-estimates-announces-share-buyback-2023-02-22/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/9LTJYqY1aeAPZk8JCItvML1wkSk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JZSDFNXKHRKZNPBRY2X7CQXEJM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-22T12:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-23-openais-foundry-will-let-customers-buy-dedicated-compute-to-run-its-ai-models.md",
       "title": "OpenAI’s Foundry will let customers buy dedicated compute to run its AI models",
       "excerpt": "OpenAI is quietly launching a new developer platform that lets customers run the company’s newer machine learning models ... a “static allocation” of compute capacity (perhaps on Azure, OpenAI’s preferred public cloud platform) dedicated to ...",
@@ -676,6 +728,49 @@
       ]
     },
     {
+      "path": "_news/2023-02-22-trading-with-the-momentum-transformer-an-interpretable-deep-learning-architecture.md",
+      "title": "Trading with the momentum transformer: an interpretable deep learning architecture",
+      "excerpt": "Only users who have a paid subscription or are part of a corporate subscription are able to print or copy content. To access these options, along with all other subscription benefits, please contact info@risk.net or view our subscription options here: http ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.risk.net/cutting-edge/7956074/trading-with-the-momentum-transformer-an-interpretable-deep-learning-architecture",
+      "originalUrl": "https://www.risk.net/cutting-edge/7956074/trading-with-the-momentum-transformer-an-interpretable-deep-learning-architecture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.risk.net/sites/default/files/styles/metatag_image_large/public/2023-02/momentum-coverter.jpg?itok=2jFc-8WF",
+          "width": 1200,
+          "height": 743,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T20:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Risk",
+        "domain": "risk.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-infants-outshine-artificial-intelligence-in-determining-what-drives-peoples-actions-study.md",
       "title": "Infants Outshine Artificial Intelligence In Determining What Drives People's Actions: Study",
       "excerpt": "The researchers also built and trained learning-driven neural-network models, which are artificial intelligence tools that help computers recognise patterns and simulate human intelligence. The researchers then tested the responses of the neural-network ...",
@@ -1054,93 +1149,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-neuromorphic-camera-and-machine-learning-aid-nanoscopic-imaging.md",
-      "title": "Neuromorphic camera and machine learning aid nanoscopic imaging",
-      "excerpt": "Their novel technique, which combines optical microscopy with a neuromorphic camera and machine learning algorithms, presents a major step forward in pinpointing objects smaller than 50 nanometers ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.html",
-      "originalUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/neuromorphic-camera-an.jpg",
-          "width": 2000,
-          "height": 1477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-neuromorphic-camera-machine-aid-nanoscopic.amp",
-      "publishedDateTime": "2023-02-21T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions.md",
-      "title": "C3 AI Expands Strategic Collaboration Agreement with AWS to Deliver Enhanced AI Solutions",
-      "excerpt": "C3 AI is a leading enterprise AI software provider building enterprise-scale AI applications and accelerating customers’ digital transformation. For example, C3 AI Law Enforcement helps local government agencies use machine learning (ML) to organize and analyze datasets,",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions/article_081fbf42-1473-5c8f-98a0-8b54709d63d7.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/c3-ai-expands-strategic-collaboration-agreement-with-aws-to-deliver-enhanced-ai-solutions/article_081fbf42-1473-5c8f-98a0-8b54709d63d7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-21T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

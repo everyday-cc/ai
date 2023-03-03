@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/extract-non-phi-data
 webUrl: "https://aws.amazon.com/blogs/machine-learning/extract-non-phi-data-from-amazon-healthlake-reduce-complexity-and-increase-cost-efficiency-with-amazon-athena-and-amazon-sagemaker-canvas/"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,49 @@ images:
     width: 1567
     height: 781
     isCached: true
+
+related:
+  - title: "Achieve rapid time-to-value business outcomes with faster ML model training using Amazon SageMaker Canvas"
+    excerpt: "Machine learning (ML) can help companies make better business decisions through advanced analytics. Companies across industries apply ML to use cases such as predicting customer churn, demand forecasting, credit scoring, predicting late shipments, and improving manufacturing quality. In this blog post,"
+    publishedDateTime: 2023-03-03T17:35:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/achieve-rapid-time-to-value-business-outcomes-with-faster-ml-model-training-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/03/achieve-rapid-time-to-value.jpg"
+        width: 1566
+        height: 781
+        isCached: true
+  - title: "Tune ML models for additional objectives like fairness with SageMaker Automatic Model Tuning"
+    excerpt: "Model tuning is the experimental process of finding the optimal parameters and configurations for a machine learning (ML) model that result in the best possible desired outcome with a validation dataset. Single objective optimization with a performance metric is the most common approach for tuning ML"
+    publishedDateTime: 2023-02-27T20:47:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/tune-ml-models-for-additional-objectives-like-fairness-with-sagemaker-automatic-model-tuning/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 90
+  - title: "How Kakao Games automates lifetime value prediction from game data using Amazon SageMaker and AWS Glue"
+    excerpt: "This post is co-written with Suhyoung Kim, General Manager at KakaoGames Data Analytics Lab. Kakao Games is a top video game publisher and developer headquartered in South Korea. It specializes in developing and publishing games on PC, mobile, and virtual reality (VR) serving globally. In order to maximize"
+    publishedDateTime: 2023-03-01T19:44:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-kakao-games-automates-lifetime-value-prediction-from-game-data-using-amazon-sagemaker-and-aws-glue/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
+  - title: "Predicting city traffic using a machine learning model"
+    excerpt: "A new machine learning model can predict traffic activity in different zones of cities. To do so, a Complexity Science Hub researcher used data from a main car-sharing company in Italy as a proxy for overall city traffic."
+    publishedDateTime: 2023-02-28T14:14:00Z
+    webUrl: "https://techxplore.com/news/2023-02-city-traffic-machine.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 19
 
 secured: "5UAF21bu0StNhvgcP98qPbSLNIOIz7aJySH9JyALKi3tnNAPvSTNKAmBjnsxpofSGyJ9DFQJ14Hekj0/EdaKPr4Qz5vv+XNloLYtZbps9fDqRJjViJixryQuenQchS2Rt1J4tlWDrnkAqKk65w5U4hd7IUKbgl82kZbnftsoJla66dVfoGg8SZufbSAoARNzfSbZRWEIbGgxHrPVXWtH566TLMeejKEyoU47xBmPV2+z/RKEvO5GyHmmeTTz5lhqL4vmB4CMrwUmY8wdKi1RiV2RYKRLU3hoJtGMDjgzKkBgBnoDMJFl995GZLhWoz5c2zKYu/1bIlHlJFimCSbIiYi9eIhPjOmx9pK/WQdb8pY=;ouiSFsUK6pUM3JTb3Vj04A=="
 ---
