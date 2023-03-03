@@ -59,6 +59,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Use of Artificial intelligence generates questions about the future of art"
+    excerpt: "Artificial intelligence is everywhere and part of our conversations about education, politics and social media. It's also a hot topic in the arts world as programs that generate art using AI are widely available to the public."
+    publishedDateTime: 2023-03-02T22:36:00Z
+    webUrl: "https://www.pbs.org/newshour/show/use-of-artificial-intelligence-generates-questions-about-the-future-of-art"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/use-of-artificial-intelligence-generates-questions-about-the-future-of-art"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/use-of-artificial-intelligence-generates-questions-about-the-future-of-art"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 57
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/03/aiArt-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Understanding the ethical future of AI"
     excerpt: "Dr. Matt Lease, professor in the School of Information at the University of Texas at Austin, provides a better understanding of AI and Chat GPT."
     publishedDateTime: 2023-03-02T15:01:00Z
@@ -146,6 +162,6 @@ related:
         height: 302
         isCached: true
 
-secured: "dn4x/B4ysoIoSsY/+JVmf3RcTBL2pUa+Db0G7c+g6uryCsu/yGYPNbUUqLDYOhZRK6zxF7GrE99XVvZNJGvf+HnRCyrxKgF8Vs4SaqzWcU1nc2uwxBrSk6uQ2c8l5LaWXaXHAE3V/YoGZAptjjkDryQPeEdclS2vhLpbcf8GuCoYUOPulFqE8DLA6T2iNslA4lDWZ4wyFRECzL3RVHlvDl9PMtukYY/VdFt9uJZ7siefZrYZBv5b5rFTI5B38tAByxW+gDj66+NRHQkSfm1Hepu5Q16WMPc2EtrmqU0/gL6gHYq3vXV65M6M7ePXubZuwFeTHCzedhRHtRNntmuU7HSBZ6a8JcowkVUmQuLvEqY=;ozrGGK3sTZq14CgTgTFuyg=="
+secured: "fQvljLjEDqkUt0M2+3B74oEevVWZ/ZFRjpJ7xwArViJcqsaaQhraQQsPvJx4JIGtdeNFqOwKp5M2TB4om+AGES4KD2uJfG18wr2O9PKYyQ9vXLRIBg0Il/EyKn7LV+MUq8n9dddogalXvrzVUbizQBg4F5y2XYKIqzjU/4nREJBDNeXS1xbfqSJR5hiTwKgOfTO5vNe8djkDKaRmBaDgaJvxhaOZEtsUOakXDtotQGUkmGyqM32KobE0by/mTwtmGfGwhh794mlC6e5B/oRd3fT1bI2T41Nw2fbtJs/xxK3S1E6vbJ6Tg3w4mNcm2FBzmC4GfPNCl8V3K7GtyjoLcrJBpJGJtmCBkb/wf01N0RzjBIR9y0IAmUOA2TjAw76Qs/gbtoDtpyYFH31G4Zy0rm6A5QbNnee0qbYMnEtg+CdG02s8YnhjAAJeP5/mHA+hCIh+hEtVd4+dgUPn5unAdJ7AUrutSzBbpnZkj7uJ2RRinEtJrlHla7U29Ve0SpFNBU2PXlNcIw04tqNrOem22w==;JP7jkfscDCBQRt46Ztvung=="
 ---
 

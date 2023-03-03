@@ -55,6 +55,15 @@ related:
       name: thenewswire.ca
       domain: thenewswire.com
     quality: 8
+  - title: "Ford launches self-driving unit with former Argo employees, including 100 in Palo Alto"
+    excerpt: "Former Argo AI employees have been hired on by Ford Motor Co. to oversee the buildout of Latitude AI, including 100 in Palo Alto"
+    publishedDateTime: 2023-03-02T22:36:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/03/02/ford-latitute-ai-subsidiary-launches-with-argo.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "SNFVOnlTWNJuRicRTX0SD1QnBlkuIEgDP85WoXE4ReynXSdwPS3qQLXhKv/xDXst0Q97xL5+uDRa0xiHoNrU1PFUXF4iiM7JqATXyFz8MAUU0s5NAFXmnCdrUr6rDsPo8F8yDmIHd3yTHfoag754QctesYQK3LVD1uxPhYFaD/Wa7YfT6d0W/RtyMdsJHUAgh/KjwI3zcVC+2NDK1gBM5QsjLp1nTsj9MSlaY0Jlei8tGYyL979IOuogNvvstGwDE3r2FDZNgNm7CMyJX798odPadwXPUTlsvIG9fvEDCkJOp4PRZEpffOZTAOz05qsokK0pJu2219UYvhfZq3WbLEOUUNTNLaULasCTv/cvtXc8NKOo9nlrBKNtzHtwQsWMoLOcRqC70ES5Ish5tDqkDExA9MOniffLQMQxONvb/z1+mjNKhCqTwsv6TbYnnX52+hDegtuXCyWiNLBO5OL/aVq7mKoHuFtEgfl3Zi+xHv6FBCbAv/HeJcSWJxdf2aamWmJWyNdc25LxaTsXCRzSsA==;QQoeDTAPpWVnG35f4HtWYg=="
 ---

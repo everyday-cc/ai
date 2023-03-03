@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Richard Kyte: Here are the ethical questions we should be asking about AI"
-excerpt: "Most expert predictions, however, fall somewhere between those two extremes, depending largely on how the companies designing and implementing AI models deal with a number of ethical concerns. Those concerns are focused on things like who will have oversight,"
+excerpt: "Richard Kyte is director of the D.B. Reinhart Institute for Ethics in Leadership at Viterbo University in La Crosse, Wis., and co-host of \"The Ethical Life\" podcast. Our society has experienced plenty of disruptive technology over the past couple of centuries,"
 publishedDateTime: 2023-03-02T02:29:00Z
-originalUrl: "https://greensboro.com/opinion/columnists/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_6c281643-09e3-57a2-b917-fdb3ddb196a0.html"
-webUrl: "https://greensboro.com/opinion/columnists/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_6c281643-09e3-57a2-b917-fdb3ddb196a0.html"
+originalUrl: "https://www.stltoday.com/news/national/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_9a3f6f5b-eccb-56ba-b8f9-c295ecce862d.html"
+webUrl: "https://www.stltoday.com/news/national/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_9a3f6f5b-eccb-56ba-b8f9-c295ecce862d.html"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: News & Record
-  domain: greensboro.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/6/c2/6c281643-09e3-57a2-b917-fdb3ddb196a0/63ff7d4405d21.preview.jpg?crop=703%2C369%2C32%2C69&resize=703%2C369&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/a3/9a3f6f5b-eccb-56ba-b8f9-c295ecce862d/63ff7d4e69d8a.preview.jpg?crop=703%2C369%2C32%2C69&resize=703%2C369&order=crop%2Cresize"
     width: 703
     height: 369
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 256
         isCached: true
 
-secured: "83ppsPYJHA9Az4wf4Iu6c9NVGo3hbnALvIbKWrPAuiyEVIwy8p05J9rgNKrOW+gTltkccmisvK3Oqsm0JIgSzClGinpC66TFz10jkN72fibMHjWoW7NBdLlNXrsLmE/4AqeuUgnmFstDqX1/1gdDGFXrG1ADCgQG7oSbRt93cm8m4iju+Lk/0gclkJyTH06zOJAFBLJF2rrtYblfqcsN2pO4gN1RUgGr+ExEkmsmJi425K+TgzZ84igipjhj9Wnu4SfMMGEmigmFHczddBUPd6V+ORzk2Ot2LNr43Kxe2ZUNS9qrU/my4WdFuYPoB7QLU4hnIR+OQg6LNbRde4vuEBlYwlYa2SrozkyC1vvrT0O6Tk3mGxxiyprL1uhM+PBRnOBO9/kw3xlp4Mgk3DbpHRmCuiK16Oc3wdqoZ5IAzDQGe7FF1qyPMnVL8IvxHyDNvN184MC2x4UncjuY+Xd8t/bsEWpZVFvrZk/H2ryHrJE8/fKO8feCRK7Xl/Hz4wfxvG5BTzl1yJAWPJzUFmqnBQ==;jNRLIM0JoFDgii3h73QOCQ=="
+secured: "u1iMcykJRhVWXvu8qwHNrkukYTobpqUgFObf9iRSNYhGMuRkNQ5npRXhpDiDageD/5VNdzw3nvm5JtN1jwPaHFxTLqfdCOw4EQf7wJ/OJR8u7AP6tACyni4f76ybLF89je3oIdO32R9qH93ZnS2KTd7HUEFcMOselbyGJs+5SGA0pOpJbR80rgquHKD9pZ1gy37zXbfXyOumIzjjXSbV2jeYe7ZOLiypSIFGu3CDH1976RyMzNjkt+Bqs5peSny957jsoUbzkCpHV2XizwE4d0p2k63yPAXPbK9DnGuGOrpvbh0N6HjLN+sWzMJ84vfoSBnyYYb1KxriLgkOjIG7aopdZhNg4ND6MXLukrehTsQ=;VYi3thf64OugsYLwCiQnMw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/27/the-future-of-data-and-ai-in-the-financial-services-industry/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "Use of Artificial intelligence generates questions about the future of art"
+    excerpt: "Artificial intelligence is everywhere and part of our conversations about education, politics and social media. It's also a hot topic in the arts world as programs that generate art using AI are widely available to the public."
+    publishedDateTime: 2023-03-02T22:36:00Z
+    webUrl: "https://www.pbs.org/newshour/show/use-of-artificial-intelligence-generates-questions-about-the-future-of-art"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/use-of-artificial-intelligence-generates-questions-about-the-future-of-art"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/use-of-artificial-intelligence-generates-questions-about-the-future-of-art"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 57
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/03/aiArt-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Understanding the ethical future of AI"
     excerpt: "Dr. Matt Lease, professor in the School of Information at the University of Texas at Austin, provides a better understanding of AI and Chat GPT."

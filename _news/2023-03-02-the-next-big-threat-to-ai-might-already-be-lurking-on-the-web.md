@@ -34,13 +34,13 @@ related:
   - title: "Breweries using artificial intelligence to create new beers"
     excerpt: "Artificial intelligence is behind a new IPA being served at a Michigan brewery. Atwater Brewery developed the beer with the help of an AI chatbot."
     publishedDateTime: 2023-02-28T20:00:00Z
-    webUrl: "https://www.wcpo.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
-    ampWebUrl: "https://www.wcpo.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
+    webUrl: "https://www.wtkr.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
+    ampWebUrl: "https://www.wtkr.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
+    cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
     type: article
     provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
+      name: WTKR
+      domain: wtkr.com
     quality: 59
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/3b6e798/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F81%2F3f%2F7993cdd84d51a8add85e10528254%2Fdownload.png"

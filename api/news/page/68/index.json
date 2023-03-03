@@ -2,6 +2,273 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2023-01-10-the-impact-of-the-mind-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.md",
+      "title": "The impact of the MIND dietary pattern on cognitive health and incidence of dementia",
+      "excerpt": "Around seventeen population-based studies conducted in Sweden, Australia, France, the US, Spain, Israel, Brazil, and the Netherlands, have analyzed the association between MIND and cognitive health.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230110/The-impact-of-the-MIND-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230110/The-impact-of-the-MIND-dietary-pattern-on-cognitive-health-and-incidence-of-dementia.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-unique-real-world-data-shows-early-retirement-hastens-cognitive-decline.md",
+      "title": "Unique real-world data shows early retirement hastens cognitive decline",
+      "excerpt": "New research from economists at Binghamton University shows early retirement can be linked to an acceleration of age-related cognitive decline. Looking at data from a unique pension program in ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/health-wellbeing/early-retirement-accelerates-cognitive-decline-china-pension-study/",
+      "originalUrl": "https://newatlas.com/health-wellbeing/early-retirement-accelerates-cognitive-decline-china-pension-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/f3f1f57/2147483647/strip/true/crop/3825x2008+0+381/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd9%2F5c%2Fbae30bda4f58bb78d6978d47e2e0%2Fdepositphotos-25100239-xl.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-university-of-toronto-scientists-use-machine-learning-to-fast-track-drug-formulation-development.md",
+      "title": "University of Toronto scientists use machine learning to fast-track drug formulation development",
+      "excerpt": "Scientists at the University of Toronto have successfully tested the use of machine learning models to guide the design of long-acting injectable drug formulations. The potential for machine learning algorithms to accelerate drug formulation could reduce the time and cost associated with drug development,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/976052",
+      "originalUrl": "https://www.eurekalert.org/news-releases/976052",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-why-artificial-intelligence-is-set-to-be-a-game-changer-for-businesses-in-2023-according-to-7-founders.md",
+      "title": "Why artificial intelligence is set to be a game changer for businesses in 2023, according to 7 founders",
+      "excerpt": "If you've seen artificial-intelligence-generated selfies ... They mentioned innovations in healthcare, wellness, and supply chains, but the most common trend was AI. Many said they expected ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1",
+      "originalUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63b895d0fd2a2700180838c7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-trends-2023-business-healthcare-2023-1?amp",
+      "publishedDateTime": "2023-01-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-the-ai-market-an-overview.md",
+      "title": "The AI Market: An Overview",
+      "excerpt": "The AI market is growing exponentially, both in terms of revenue and level of innovation. If there’s a leading technology of the current era, artificial intelligence (AI) is clearly a top contender. The hype is constant and flows from all quarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-market/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image4.jpeg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T15:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-conversational-ai-startup-nlx-raises-46m-to-fuel-expansion-and-product-development.md",
+      "title": "Conversational AI startup NLX raises $4.6M to fuel expansion and product development",
+      "excerpt": "Founded in 2018, NLX offers automated and frictionless multimodal self-service tools powered by conversational AI. Its service allows organizations to build and manage “next-generation conversational experiences,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/01/09/conversational-ai-startup-nlx-raises-4-6m-fuel-expansion-product-development/",
+      "originalUrl": "https://siliconangle.com/2023/01/09/conversational-ai-startup-nlx-raises-4-6m-fuel-expansion-product-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/nlx.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T15:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-5-predictions-for-banking-and-fintech-in-2023.md",
       "title": "5 Predictions For Banking And Fintech In 2023",
       "excerpt": "Embedded fintech—the integration of fintech products ... years of hearing pundits and futurists tell them how disruptive AI is going to be in banking, 2023 will finally be the year that bank ...",
@@ -860,247 +1127,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-attention-uses-natural-language-processing-to-help-sales-reps-sell-faster.md",
-      "title": "Attention uses natural language processing to help sales reps sell faster",
-      "excerpt": "Attention wants to fix that with its sales assistant, which uses AI tech and natural language processing to automatically fill in CRMs after calls and draft follow-up emails. The New York-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/01/09/attention/",
-      "originalUrl": "https://techcrunch.com/2023/01/09/attention/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1337983366.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/01/09/attention/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/09/attention/amp/",
-      "publishedDateTime": "2023-01-09T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-worlds-first-ai-generated-online-course-created-by-minnesota-startup.md",
-      "title": "World's first AI-generated online course created by Minnesota startup",
-      "excerpt": "World's first AI-created online course made by Minnesota start-up 04:09 MINNEAPOLIS – A Minnesota startup says it has made the world's first online course that was created entirely by using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/minnesota/news/worlds-first-ai-generated-online-course-created-by-minnesota-startup/",
-      "originalUrl": "https://www.cbsnews.com/minnesota/news/worlds-first-ai-generated-online-course-created-by-minnesota-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-nvidia-reportedly-using-ai-optimized-drivers-to-improve-their-gpu-drivers.md",
-      "title": "NVIDIA Reportedly Using AI-Optimized Drivers To Improve Their GPU Drivers",
-      "excerpt": "NVIDIA is reportedly looking to include artificial intelligence (AI) in its new GPU (Graphics Processing Unit) drivers expected to release in the first",
-      "sourceUrl": null,
-      "webUrl": "https://www.techworm.net/2023/01/nvidia-ai-optimized-drivers-gpu-driver.html",
-      "originalUrl": "https://www.techworm.net/2023/01/nvidia-ai-optimized-drivers-gpu-driver.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techworm.net/wp-content/uploads/2023/01/NVIDIA.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techworm.net",
-        "domain": "techworm.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-cobalt-robotics-expands-deployment-with-ally-financial-to-secure-its-facilities-keep-employees-safe-save-money-and-tackle-labor-shortage.md",
-      "title": "Cobalt Robotics Expands Deployment with Ally Financial to Secure Its Facilities, Keep Employees Safe, Save Money, and Tackle Labor Shortage",
-      "excerpt": "Cobalt Robotics, the only machine learning company to automate repetitive manual security and facility tasks with autonomous robots around the world, today announced it has expanded its customer implementation with Ally Financial,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/01/09/9739892.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/01/09/9739892.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-4-ways-to-dominate-facebook-ads-in-2023.md",
-      "title": "4 Ways To Dominate Facebook Ads In 2023",
-      "excerpt": "In 2022, the digital marketing industry faced several challenges. Among these, the two major challenges were AI and the increased cost of digital ads. According to recent research, the Cost-Per-Click (CPC) for Facebook ads has shown a 17% increase in  the year 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/4-ways-to-dominate-facebook-ads-in-2023/",
-      "originalUrl": "https://techbullion.com/4-ways-to-dominate-facebook-ads-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/01/4-Ways-To-Dominate-Facebook-Ads-In-2023-1-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life.md",
-      "title": "GULIGULI Showed off Smart Pet Companion Robot at CES 2023, Helping Pets Live Their Best Life",
-      "excerpt": "GULIGULI unveils at CES a robot that lets you see, talk to, play with, and even provide treats to your cat or dog when you’re not home. GULIGULI, maker of innovative pet supplies, is putting an end to pet and pet owner loneliness with its new app-controlled pet companion robot.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-1-9-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/getnews-2023-1-9-guliguli-showed-off-smart-pet-companion-robot-at-ces-2023-helping-pets-live-their-best-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Buffalo News",
-        "domain": "buffalonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

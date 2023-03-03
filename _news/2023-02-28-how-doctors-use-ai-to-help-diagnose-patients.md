@@ -54,6 +54,22 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "AI Tools Can Support Early Cardiovascular Disease Diagnosis"
+    excerpt: "A recent study indicated that artificial intelligence and machine learning could help clinicians diagnose cardiovascular disease early through DNA examination."
+    publishedDateTime: 2023-03-02T17:44:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-tools-can-support-early-cardiovascular-disease-diagnosis"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/ai-tools-can-support-early-cardiovascular-disease-diagnosis"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-tools-can-support-early-cardiovascular-disease-diagnosis"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2020-08-28-GettyImages-922385448-e4b00c1efb9503a805928b101c78b499.png"
+        width: 480
+        height: 278
+        isCached: true
   - title: "Using artificial intelligence and patient medical records to predict Alzheimer's disease"
     excerpt: "Using data in electronic health records, University of Florida researchers have designed an artificial intelligence system that can predict which patients will develop Alzheimer's disease up to five years before receiving a diagnosis."
     publishedDateTime: 2023-02-28T14:40:00Z

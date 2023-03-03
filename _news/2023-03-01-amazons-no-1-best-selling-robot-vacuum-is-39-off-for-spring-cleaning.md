@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/essentials/best-eufy-robot-vacuum-deals/
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-eufy-robot-vacuum-deals/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Best Spring Cleaning Deals on Samsung Appliances to Refresh Your Kitchen and Laundry Room"
+    excerpt: "Shop spring cleaning deals on Samsung appliances for huge savings on washing machines, vacuums, refrigerators, and more."
+    publishedDateTime: 2023-03-03T00:22:00Z
+    webUrl: "https://www.etonline.com/the-best-spring-cleaning-deals-on-samsung-appliances-to-refresh-your-kitchen-and-laundry-room"
+    ampWebUrl: "https://www.etonline.com/the-best-spring-cleaning-deals-on-samsung-appliances-to-refresh-your-kitchen-and-laundry-room?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/the-best-spring-cleaning-deals-on-samsung-appliances-to-refresh-your-kitchen-and-laundry-room?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 33
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-02/samsung%20kitchen.jpeg?h=957bc5a8&itok=vR1VkKt7"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Spring Cleaning 2023: Best appliance deals you can score right now"
     excerpt: "Spring hasn't sprung just yet, but there's already plenty of deals on home appliances to celebrate the season. Shop slashed prices on robot vacuums, washing machines, electric dryers, refrigerators, induction ranges and electric ranges,"
     publishedDateTime: 2023-02-27T11:59:00Z

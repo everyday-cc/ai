@@ -1,30 +1,29 @@
 ---
 category: news
 title: "How will artificial intelligence reshape our world? | The Ethical Life podcast"
-excerpt: "Episode 79: Artificial intelligence has been one of the most talked about topics so far this year — and with good reason. In just the past two months, there has been a flood of news stories talking about the amazing possibilities of this new technology ..."
-publishedDateTime: 2023-03-01T19:30:00Z
-originalUrl: "https://buffalonews.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_28c65c27-a710-5e6a-9c61-766f2fcf4615.html"
-webUrl: "https://buffalonews.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_28c65c27-a710-5e6a-9c61-766f2fcf4615.html"
+excerpt: "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other."
+publishedDateTime: 2023-03-01T23:30:00Z
+originalUrl: "https://www.stltoday.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_378de492-0a0a-5125-907c-ad805d76756f.html"
+webUrl: "https://www.stltoday.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_378de492-0a0a-5125-907c-ad805d76756f.html"
 type: article
-quality: 52
-heat: 52
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: Buffalo News
-  domain: buffalonews.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI Ethics
+  - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/2/8c/28c65c27-a710-5e6a-9c61-766f2fcf4615/63ff73fa02949.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/78/378de492-0a0a-5125-907c-ad805d76756f/63ff7400ab587.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
     width: 1196
     height: 628
     isCached: true
 
-secured: "sb4quaOdokituol6PHjFeJnh3DoAvS7VCeL1zTKVDmeSG391+pd7Or/Lco31/KaBINCXLKebB1NHnKU5cClXUDnlN2XQgdZ0Ih0dfKx4WTsVwGeqruxM+bvfS3CKTVfQsuhOpKlf37EP0mDeeXp9bQyVJqVnl4YFZ9+02g0yytjIP9k0jCp1G0TN3UohBjcccG/RA5dMyDcFHvqo8Ci6sM7CUipNQzLuPO+A3Xb94sG8USYQdff0hz9NB71COuovJwQz3xm04+gPrq/SjWAqJ7w69BcS81YA1jWxRdTJdUW47RsWWXtoJoG8moPMqS64/DoJscPS1JJtK5XVAu7mglQ01/aUF45Zi7wcc6E7PuM=;TyVGM3IBinj3P4vKff94WQ=="
+secured: "Uwrfw5dWb1AXyfFtx4D5OPpRFisE/wXZKujCwIMZ9Z3/0hdsB8WSJC8c0PFt0QeNFGZM2AFgryk+vF8d6wMIOvvcfaOsI4QS3mCQ0EeYNAA8bzlTn+KWQhpCSLfz+7+mJynK7AtOUyGXztkqICwpS8/wwg4/ZNayJh92RVmM8OWLh82WSGIPuzPq0yb2vK/0zuABDh9B+a7XDb+8BIfHLeYsLX318yNaX4IStgfiGpu3feU7GyGh70jBAAn2M9ZPagdlQ0uUEK3sz/qNtSnXXzP5AZoXziBI9TSvAd8UUSgAz1H7NBtATGFOQZkrd9DHcSUQeu7xf3jXInUUBBqSCTiBgXU8r8jsz+wAxljtWm4=;VC49Go0NzxHdLPd07mxHJw=="
 ---
 

@@ -2,6 +2,211 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-03-story-machine-demonstrates-how-ai-is-helping-game-development.md",
+      "title": "Story Machine demonstrates how AI is helping game development",
+      "excerpt": "Story Machine, a game creation engine from Robot Invader, uses AI to create art assets for games -- what's its purpose for developers?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/story-machine-demonstrates-how-ai-is-helping-game-development/",
+      "originalUrl": "https://venturebeat.com/games/story-machine-demonstrates-how-ai-is-helping-game-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Story-Machine-Generate-Images.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/story-machine-demonstrates-how-ai-is-helping-game-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/story-machine-demonstrates-how-ai-is-helping-game-development/amp/",
+      "publishedDateTime": "2023-03-02T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-indent-raises-81m-funding-for-its-ai-powered-customer-video-review-tool.md",
+      "title": "Indent raises $8.1M funding for its AI-powered customer video review tool",
+      "excerpt": "Indent, a South Korean video review platform, raises $8.1 million Series A to continue developing its AI-powered marketing tool.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/02/indent-raises-8-1m-funding-to-continue-developing-its-ai-powered-customer-video-review-tool/",
+      "originalUrl": "https://techcrunch.com/2023/03/02/indent-raises-8-1m-funding-to-continue-developing-its-ai-powered-customer-video-review-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/vrw_amp.png?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/02/indent-raises-8-1m-funding-to-continue-developing-its-ai-powered-customer-video-review-tool/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/indent-raises-8-1m-funding-to-continue-developing-its-ai-powered-customer-video-review-tool/amp/",
+      "publishedDateTime": "2023-03-02T15:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022.md",
+      "title": "68% Of Americans Afraid Of Self-Driving Cars, Up From 55% In 2022",
+      "excerpt": "Santa Monica, using IONIQ 5 AV Tuesday, Feb. 21, 2023. (Allen J. Schaben / Los Angeles Times via Getty Images) Roughly 68% of Americans say they’re afraid of self-driving cars, according to a new poll by AAA, a huge jump from 2022 when 55% of Americans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640125a0ec7e342f308619bf/0x0.jpg?format=jpg&crop=1900,1068,x0,y98,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/amp/",
+      "publishedDateTime": "2023-03-02T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3.md",
+      "title": "Adobe’s Scott Belsky talks generative AI — and why it’s not going to end up like web3",
+      "excerpt": "Adobe's Scott Belsky says that generative AI is nothing like web3 hype because it helps increase efficiency and reduce work for creatives.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/",
+      "originalUrl": "https://techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1294781336.jpg?resize=1200,601",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/amp/",
+      "publishedDateTime": "2023-03-02T15:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-stability-ai-hugging-face-and-canva-back-new-ai-research-nonprofit.md",
       "title": "Stability AI, Hugging Face and Canva back new AI research nonprofit",
       "excerpt": "Eleuther AI, a group of AI researchers investigating language models, is forming a nonprofit foundation for AI research.",
@@ -50,6 +255,110 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-neural-chip-plays-doom-while-only-drawing-one-milliwatt-of-power.md",
+      "title": "Neural chip plays Doom while only drawing one milliwatt of power",
+      "excerpt": "In the latest entry of Doom running on weird things comes an AI machine-learning chip from Syntiant. That may not sound too exciting initially — it's just another processor. What is remarkable is the meager amount of power it took to run the game.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97796-neural-chip-plays-doom-while-only-drawing-one.html",
+      "originalUrl": "https://www.techspot.com/news/97796-neural-chip-plays-doom-while-only-drawing-one.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-02-image-15.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot.md",
+      "title": "Figure emerges from stealth with the first images of its humanoid robot",
+      "excerpt": "Founded by Archer co-founder Brett Adcock, the startup is spending lot of time and money to build a general purpose bipedal humanoid robot.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/",
+      "originalUrl": "https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/FIGURE01_Humanoid_2.jpg?resize=1200,666",
+          "width": 1200,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/amp/",
+      "publishedDateTime": "2023-03-02T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -695,7 +1004,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -842,6 +1151,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-02-venture-investor-b-capital-raises-first-healthcare-fund.md",
+      "title": "Venture Investor B Capital Raises First Healthcare Fund",
+      "excerpt": "The firm has raised about $250 million for the healthcare-only vehicle and plans to devote about $250 million more to medical investments through a diversified growth fund.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/venture-investor-b-capital-raises-first-healthcare-fund-589bd57c",
+      "originalUrl": "https://www.wsj.com/articles/venture-investor-b-capital-raises-first-healthcare-fund-589bd57c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T10:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-youtubes-new-head-talks-2023-priorities-including-ai-podcasting-shorts-and-more.md",
       "title": "YouTube’s new head talks 2023 priorities, including AI, podcasting, Shorts and more",
       "excerpt": "YouTube's new head Neal Mohan penned his first letter today to creators indicating that the company will roll out generative AI tools.",
@@ -890,372 +1242,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-openai-debuts-whisper-api-for-speech-to-text-transcription-and-translation.md",
-      "title": "OpenAI debuts Whisper API for speech-to-text transcription and translation",
-      "excerpt": "OpenAI is rolling out the Whisper API, a hosted version of the open source speech-to-text model that the company released in late 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/",
-      "originalUrl": "https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/mic-feature-1.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/amp/",
-      "publishedDateTime": "2023-03-01T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development.md",
-      "title": "How generative AI could lower healthcare costs and speed up drug development",
-      "excerpt": "In the future, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
-      "originalUrl": "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
-      "publishedDateTime": "2023-03-01T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype.md",
-      "title": "‘AI Is The New Electricity’: Bank Of America Picks 20 Stocks To Cash In On ChatGPT Hype",
-      "excerpt": "The bank’s 20 plays include Microsoft, an investor in ChatGPT parent OpenAI, and chatbot competitors Alphabet and Baidu.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/",
-      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ff676e1d3c3452f8aa9374/0x0.jpg?format=jpg&crop=4044,2274,x0,y44,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/amp/",
-      "publishedDateTime": "2023-03-01T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-introducing-the-amazon-comprehend-flywheel-for-mlops.md",
-      "title": "Introducing the Amazon Comprehend flywheel for MLOps",
-      "excerpt": "The world we live in is rapidly changing, and so are the data and features that companies and customers use to train their models. Retraining models to keep them in sync with these changes is critical to maintain accuracy. Therefore, you need an agile and dynamic approach to keep models up to date and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-comprehend-flywheel-for-mlops/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-comprehend-flywheel-for-mlops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/28/introducing-comprehend-flywheel.jpg",
-          "width": 1563,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T07:27:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-this-is-what-us-presidents-would-look-like-with-mullets-according-to-ai.md",
-      "title": "This Is What U.S. Presidents Would Look Like With Mullets, According to AI",
-      "excerpt": "Innovative imaginations of U.S. presidents sporting some extreme hairstyles have left the internet in stitches. Using Artificial Intelligence (AI), Cam Harless, 34, who lives in Florida, has put a fun spin on pictures of historical and well-known figures in a Twitter thread featuring all 46 U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/what-us-presidents-would-look-like-mullet-ai-1784814",
-      "originalUrl": "https://www.newsweek.com/what-us-presidents-would-look-like-mullet-ai-1784814",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2202770/trump-jfk-ai-pictures.png",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/what-us-presidents-would-look-like-mullet-ai-1784814?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-us-presidents-would-look-like-mullet-ai-1784814?amp=1",
-      "publishedDateTime": "2023-03-01T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-bridgewater-exits-ray-dalio-era-with-hedge-fund-overhaul-bets-on-ai-and-job-cuts.md",
-      "title": "Bridgewater Exits Ray Dalio Era With Hedge Fund Overhaul, Bets on AI and Job Cuts",
-      "excerpt": "Bridgewater Associates was bound to be different once billionaire founder Ray Dalio no longer commanded the world’s largest hedge fund. Very different, it turns out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-01/bridgewater-exits-dalio-era-with-hedge-fund-overhaul-bets-on-ai-sustainability",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-01/bridgewater-exits-dalio-era-with-hedge-fund-overhaul-bets-on-ai-sustainability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLZRpBFsqaM0/v0/1200x676.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-brave-new-world-ai-generated-content-and-seo-marketing.md",
-      "title": "Brave New World: AI-Generated Content And SEO Marketing",
-      "excerpt": "The groundbreaking AI solution empowers businesses and brands to automate essential SEO tasks, such as keyword research and content strategy. Still, it faces challenges in crafting compelling articles or briefs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe0fd52993fa6c5a1a37e7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/amp/",
-      "publishedDateTime": "2023-03-01T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "Natural Language Processing"
       ]
     }
   ],

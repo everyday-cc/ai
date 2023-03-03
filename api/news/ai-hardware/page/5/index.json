@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-01-13-global-chipmakers-to-invest-over-300m-in-ai-designed-chips-this-year.md",
+      "title": "Global chipmakers to invest over $300m in AI-designed chips this year",
+      "excerpt": "The world’s leading semiconductor companies will likely spend more than $300 million in the development of artificial intelligence (AI) to help design semiconductors faster this year as a global chip shortage continues to put a strain on demand,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20230113000498",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20230113000498",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F01%2F13%2F20230113000455_0.jpg",
+          "width": 630,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20230113000498",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230113000498",
+      "publishedDateTime": "2023-01-12T21:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-this-ai-lawyer-is-set-to-take-on-two-real-life-speeding-ticket-disputes.md",
       "title": "This AI lawyer is set to take on two real life speeding ticket disputes",
       "excerpt": "Designed by legal advice startup DoNotPay (opens in new tab), the AI will help the defendants—who remain unidentified—by telling them exactly what to say and when, through an",
@@ -1327,49 +1370,6 @@
       "provider": {
         "name": "Kotaku Australia",
         "domain": "kotaku.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-06-amds-newest-mobile-processors-have-an-ai-engine.md",
-      "title": "AMD’s Newest Mobile Processors Have an AI Engine",
-      "excerpt": "On Wednesday night, AMD fired back during its CES keynote with competing products in both categories: new mobile gpus, new mobile Ryzen 7040 series chips with a built in AI engine, and new 3D V ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/",
-      "originalUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/01/05/bf92f220b490c9783cc135ef688984c2.png?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/amp/",
-      "publishedDateTime": "2023-01-05T17:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
         "images": null,
         "publishers": null,
         "authors": null

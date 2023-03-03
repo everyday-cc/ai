@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-02-venture-investor-b-capital-raises-first-healthcare-fund.md",
+      "title": "Venture Investor B Capital Raises First Healthcare Fund",
+      "excerpt": "The firm has raised about $250 million for the healthcare-only vehicle and plans to devote about $250 million more to medical investments through a diversified growth fund.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/venture-investor-b-capital-raises-first-healthcare-fund-589bd57c",
+      "originalUrl": "https://www.wsj.com/articles/venture-investor-b-capital-raises-first-healthcare-fund-589bd57c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T10:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development.md",
       "title": "How generative AI could lower healthcare costs and speed up drug development",
       "excerpt": "In the future, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic.",
@@ -161,49 +204,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-01-majority-of-americans-would-not-rely-on-ai-based-healthcare.md",
-      "title": "Majority of Americans Would Not Rely on AI-Based Healthcare",
-      "excerpt": "A recent survey found that 60 percent of Americans would not be comfortable with their providers relying on artificial intelligence to provide healthcare services.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/majority-of-americans-would-not-rely-on-ai-based-healthcare",
-      "originalUrl": "https://healthitanalytics.com/news/majority-of-americans-would-not-rely-on-ai-based-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-846841412-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/majority-of-americans-would-not-rely-on-ai-based-healthcare",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/majority-of-americans-would-not-rely-on-ai-based-healthcare",
-      "publishedDateTime": "2023-02-28T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-28-can-ai-overcome-healthcares-cybersecurity-hurdles-3-experts-weigh-in.md",
       "title": "Can AI overcome healthcare's cybersecurity hurdles? 3 experts weigh in",
       "excerpt": "Artificial intelligence and machine learning have been used for years to help hospitals and health systems combat cybersecurity threats, but with hackers getting more sophisticated, chief information",
@@ -255,7 +255,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {

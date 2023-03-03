@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Nvidia's new AI tool to breathe new life into streaming video"
+    excerpt: "Nvidia has introduced an Artificial Intelligence (AI)-based image upscaling tool for streaming video. Meant for the company's GeForce RTX 30 and 40 series graphic cards, RTX Video Super Resolution uses the GPU to upscale lower-resolution online video to 4K."
+    publishedDateTime: 2023-03-01T10:35:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/nvidias-new-ai-tool-to-breathe-new-life-into-streaming-video-10181631.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/nvidias-new-ai-tool-to-breathe-new-life-into-streaming-video-10181631.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/nvidias-new-ai-tool-to-breathe-new-life-into-streaming-video-10181631.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/rtx-video-super-resolution_full-size-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
   - title: "Nvidia’s latest GPU drivers can upscale old blurry YouTube videos"
     excerpt: "Nvidia will support videos between 360p and 1440p up to 144Hz in frame rate and upscale all the way up to 4K resolution. This impressive 4K upscaling has previously only been available on Nvidia’s Shield TV,"
     publishedDateTime: 2023-02-28T14:00:00Z
@@ -50,6 +66,15 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 49
+  - title: "Nvidia's latest GPU drivers to upscale blurry videos via AI"
+    excerpt: "“With RTX Video Super Resolution (VSR), GeForce RTX 40 and 30 Series GPU users can tap AI to upscale lower-resolution content up to 4K, matching their display resolution. The AI removes blocky compression artifacts and improves the video’s sharpness ..."
+    publishedDateTime: 2023-03-02T13:25:00Z
+    webUrl: "https://glamsham.com/world/technology/nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 34
 
 secured: "S5P2RSDv8VZDmXISUn2nwOAB4fLQ4Bdh4oIZgzrQ79hVxai21euatsNX+nyOIeMIO7GgNWwdbopu/IV80n22ONODnqGKMLsesH4qQAP4jbVxizV77iZ4ejDC/qU5BpQ0MM9P8UAjLVks9h1YWC9885ZS0gc4dw9QjVcIGn9sSvVCXGzUlNJoRHDipLHBMCBfebQ4qU1SqSq9iMzPs2do47acrPhouQnzunoKB/QB3V4DTfKlcXNjCByY1igQRgJT81BLn7W/EcGQBd2IiZ34yKWGr83E3KS+IyzWJ+iND4hVvXxJFuDjqWisZ/MZGm/OF323Kp8GUHCECCXJMqVk5RssHBNg3+QftdwG8lnNeEY=;7SVsz0y8k7FYxzYd7xcAyQ=="
 ---

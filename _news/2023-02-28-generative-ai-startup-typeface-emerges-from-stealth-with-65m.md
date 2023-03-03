@@ -7,7 +7,7 @@ originalUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-startup
 webUrl: "https://news.crunchbase.com/ai-robotics/venture-funding-ai-startup-typeface/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 900
     height: 506
     isCached: true
+
+related:
+  - title: "Figure emerges from stealth with the first images of its humanoid robot"
+    excerpt: "Founded by Archer co-founder Brett Adcock, the startup is spending lot of time and money to build a general purpose bipedal humanoid robot."
+    publishedDateTime: 2023-03-02T19:23:00Z
+    webUrl: "https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/"
+    ampWebUrl: "https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/amp/"
+    type: article
+    provider:
+      name: YAHOO!Finance
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/FIGURE01_Humanoid_2.jpg?resize=1200,666"
+        width: 1200
+        height: 666
+        isCached: true
 
 secured: "DMBjw0atPGmxz+DY/vRUA4OGVk7h259i3ukZ3tGv6RsN5LdruUbAySTLpyO16JDgaK6D84rydMtfRozCbMEDF5tFIuhWNeoz8XCcYimPA4bgIKZuMm0i2MzFzv9p6mdgsbQ3FjBIZKZ2fRMSx89MZn/W5UeWd83HZERe0eJaezIb00HqQ7vEUEytyn8/xfqMYfLYU+Kdxm9Np+MN0vbwSNkmomC3LpBrRan4Rad7uKTFrTIF4ol1RjOnIHlFkXSz8XT44YSAuEDmvmzd/cjyOhH2CTufucl6VemtIJMFhAhxY2MlaBwRUZFtt1Cy9yMbhNMsGeIXZ0mABhRv3MASvDJOzTcFd9vNIk0+UckXTz3nis0BhDEUnTJREIfoM94mNo+bOaqlIz0C2rSrLpsmQAVGP+qvFcnz/iKAaY/sHQYWsLOoAZfYZvn8f9usMDtMDoOaw6OCz1d1EkTyXtWWxofrR/dRdOpfRHqZEZW8lUs1meq4ZOvHH4daIWlfBH6qE/wuh96lCe1sz5yDuaPhUA==;zL3qYs4M/WHEfqOtMDyIng=="
 ---

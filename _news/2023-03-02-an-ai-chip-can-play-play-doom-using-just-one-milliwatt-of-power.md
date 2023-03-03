@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/90563/an-ai-chip-can-play-doom-usin
 webUrl: "https://www.tweaktown.com/news/90563/an-ai-chip-can-play-doom-using-just-one-milliwatt-of-power/index.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Neural chip plays Doom while only drawing one milliwatt of power"
+    excerpt: "In the latest entry of Doom running on weird things comes an AI machine-learning chip from Syntiant. That may not sound too exciting initially — it's just another processor. What is remarkable is the meager amount of power it took to run the game."
+    publishedDateTime: 2023-03-02T21:34:00Z
+    webUrl: "https://www.techspot.com/news/97796-neural-chip-plays-doom-while-only-drawing-one.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-02-image-15.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Engineers teach their 1-milliwatt neural chip to play Doom, say this is serious work yo, everyone nods"
     excerpt: "The NDP200 is an ultralow power chip that was not designed for your gaming rig. This thing is designed to essentially monitor video via neural networks while using barely any power and, when it spots something of interest like a person walking past,"
     publishedDateTime: 2023-03-02T15:00:00Z

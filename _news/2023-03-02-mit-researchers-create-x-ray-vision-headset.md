@@ -41,6 +41,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "X-Ray Vision: MIT’s Augmented Reality Headset Enables You To See Hidden Objects"
+    excerpt: "The device could help workers locate objects for fulfilling e-commerce orders or identify parts for assembling products. MIT researchers have built an augmented reality headset that gives the wearer X-ray vision."
+    publishedDateTime: 2023-03-02T23:52:00Z
+    webUrl: "https://scitechdaily.com/x-ray-vision-mits-augmented-reality-headset-enables-you-to-see-hidden-objects/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 0
 
 secured: "CAuc05IocUWU+hxrc5jVZ83ibCUWzfIzFplOxj+JROKAkltnOqoNESYr3yvB7gZpF6S3X4y3zkpmqXIw6fX25/prbMeZME3DXd3VTcCiEGDONo+63fATSluwmSQla9NsZ00RB5jYnO/ru7HWT0wO/Ia1egCIuXF8DuuFlXgPEpJ8U+aGj+v0RdqW678fUUZ2BXqLTKSQ6OzUdRpdStQruLGTb2us5DlbJx9n7AxIJIGiZ/x6PNDuDEkCOH0yOQ0Vep8LCym0k+KlVkGz2pQVIArLuvz7AfLfQsryGPxzqB9KwpGGUn8zDUXEyjNYj0pusA6tC3JsUnLWD0dCOEvErfrxMJmSnwEbYMyV0kOeFJk=;dOSrvVj8Fp/vbulP9dUDog=="
 ---

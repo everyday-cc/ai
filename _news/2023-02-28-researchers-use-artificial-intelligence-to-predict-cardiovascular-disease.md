@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.amp"
 type: article
 quality: 60
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://www.medindia.net/health-images/adhd-major-risk-factor-for-heart-disease.jpg"
         width: 300
         height: 250
+        isCached: true
+  - title: "AI Tools Can Support Early Cardiovascular Disease Diagnosis"
+    excerpt: "A recent study indicated that artificial intelligence and machine learning could help clinicians diagnose cardiovascular disease early through DNA examination."
+    publishedDateTime: 2023-03-02T17:44:00Z
+    webUrl: "https://healthitanalytics.com/news/ai-tools-can-support-early-cardiovascular-disease-diagnosis"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/ai-tools-can-support-early-cardiovascular-disease-diagnosis"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/ai-tools-can-support-early-cardiovascular-disease-diagnosis"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2020-08-28-GettyImages-922385448-e4b00c1efb9503a805928b101c78b499.png"
+        width: 480
+        height: 278
         isCached: true
   - title: "How Doctors Use AI to Help Diagnose Patients"
     excerpt: "Doctors aren’t relying solely on artificial intelligence, but some are using it to help reach diagnoses or spot risks."

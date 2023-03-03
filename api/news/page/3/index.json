@@ -2,6 +2,293 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-01-scientists-eye-lab-grown-brains-to-replace-silicon-based-computer-chips.md",
+      "title": "Scientists eye lab-grown brains to replace silicon-based computer chips",
+      "excerpt": "Silicon computer chips are fast approaching physical limits. Replacing them with rudimentary minibrains might be the next step forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/brain-organoid-biocomputer/",
+      "originalUrl": "https://www.popsci.com/technology/brain-organoid-biocomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/02/28/Depositphotos_357533210_L.jpg?auto=webp",
+          "width": 2000,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/brain-organoid-biocomputer/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/brain-organoid-biocomputer/?amp",
+      "publishedDateTime": "2023-02-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar.md",
+      "title": "Microsoft's AI-powered Bing is coming to the Windows 11 taskbar",
+      "excerpt": "A new update brings a series of new features to Windows 11, including Bing's ChatGPT and a preview to an iOS Phone Link.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
+      "originalUrl": "https://www.zdnet.com/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 386,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5dbea24f0f788b1af3743d47bc31f21257f126c2/2023/02/28/41a66842-a257-4951-933a-30c1880acb71/screenshot-2023-02-28-at-10-39-56-am.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
+      "publishedDateTime": "2023-02-28T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-torc-robotics-announces-agreement-to-acquire-algolux.md",
+      "title": "Torc Robotics Announces Agreement to Acquire Algolux",
+      "excerpt": "Torc Robotics, an independent subsidiary of Daimler Truck AG and a pioneer in commercializing self-driving vehicle technology, announced today that it has signed an",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g31095754/torc-robotics-announces-agreement-to-acquire-algolux",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g31095754/torc-robotics-announces-agreement-to-acquire-algolux",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31095754",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31095754",
+      "publishedDateTime": "2023-02-28T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-the-intersection-between-ai-and-blockchain-technology-industries-of-tomorrow.md",
+      "title": "The Intersection Between AI And Blockchain Technology – Industries Of Tomorrow",
+      "excerpt": "The intersection between AI and blockchain technology has the potential to transform various industries by enhancing their security, transparency, and overall efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe18e3c3faa2f1d106f7ee/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/amp/",
+      "publishedDateTime": "2023-02-28T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-slashnext-launches-ai-solution-for-email-security.md",
+      "title": "SlashNext Launches AI Solution for Email Security",
+      "excerpt": "SlashNext, a leader in SaaS-based integrated cloud messaging security across email, web and mobile, announced the launch of Generative HumanAI, an artificial intelligence solution that uses generative AI to defend against advanced business email compromise (BEC),",
+      "sourceUrl": null,
+      "webUrl": "https://channelvisionmag.com/slashnext-launches-ai-solution-for-email-security/",
+      "originalUrl": "https://channelvisionmag.com/slashnext-launches-ai-solution-for-email-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://channelvisionmag.com/wp-content/uploads/2023/02/slashnext.jpg",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ChannelVision Magazine",
+        "domain": "channelvisionmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-face-recognition-software-led-to-his-arrest-it-was-dead-wrong.md",
+      "title": "Face Recognition Software Led to His Arrest. It Was Dead Wrong",
+      "excerpt": "But an intelligence analyst using face recognition software had labeled him a possible match with the suspect seen on CCTV footage from the bus, police records show, and an officer had confirmed it. At a police station and in a meeting with her husband’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/",
+      "originalUrl": "https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63f94dcc8695ea54b16e31ff/master/pass/Lights_Over_Head.png",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/amp",
+      "publishedDateTime": "2023-02-28T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-elon-musk-is-seeking-to-create-a-rival-to-openai-the-company-behind-chatgpt-report-says.md",
       "title": "Elon Musk is seeking to create a rival to OpenAI, the company behind ChatGPT, report says",
       "excerpt": "Musk has approached researchers about forming a new artificial intelligence research lab, The Information reported.",
@@ -838,7 +1125,7 @@
       "originalUrl": "https://medicalxpress.com/news/2023-02-artificial-intelligence-cardiovascular-disease.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -921,309 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck.md",
-      "title": "This week in data: The ML, AI and data landscape with Matt Turck",
-      "excerpt": "What happened in data this week? Matt Turck joins Bruno Aziza to discuss key trends and the current ML, AI and data landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Feb-27.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/this-week-in-data-the-ml-ai-and-data-landscape-with-matt-turck/amp/",
-      "publishedDateTime": "2023-02-27T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-dod-ai-drones-that-can-recognize-faces-pose-ethical-minefield.md",
-      "title": "DoD AI Drones That Can Recognize Faces Pose Ethical Minefield",
-      "excerpt": "Artificially intelligent military drones that can use facial recognition technology to detect the faces of targets are now being developed by the U.S. This has led many people to raise concerns ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088",
-      "originalUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2201396/ai-used-drones.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-drone-facial-recognition-ethic-issues-1784088?amp=1",
-      "publishedDateTime": "2023-02-27T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-snap-debuts-my-ai-chatbot-powered-by-openais-gpt-technology.md",
-      "title": "Snap Debuts ‘My AI’ Chatbot Powered By OpenAI’s GPT Technology",
-      "excerpt": "Snap Inc., maker of the photo-sharing app Snapchat, has released an AI-enabled chatbot, becoming the latest major tech company to roll out features powered by OpenAI’s GPT technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-ai-chatbot-powered-by-openai-s-gpt-technology",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-02-27/snap-debuts-my-ai-chatbot-powered-by-openai-s-gpt-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivCtDmk3INvI/v1/1200x686.jpg",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028.md",
-      "title": "Face Recognition Device Market Size 2023 with Business Development, with Competitive Landscapes till 2028",
-      "excerpt": "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-ai-learns-to-outsmart-humans-in-video-games-and-real-life.md",
-      "title": "AI learns to outsmart humans in video games - and real life",
-      "excerpt": "Video game players have competed against computer-controlled opponents for decades, but they haven't been as smart and fast as GT Sophy, the new AI driver on PlayStation's Gran Turismo",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/wirestory_89a1b6359a3f4343807ab849958d10b8_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481",
-      "publishedDateTime": "2023-02-27T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-ai-driven-medical-care-a-health-data-reality-check.md",
-      "title": "AI-Driven Medical Care? A Health Data Reality Check",
-      "excerpt": "\"The reality is that we have a disaggregated, fragmented system with a lack of organization around common, transparent, high-quality information.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/",
-      "originalUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fcd9130c056943e7dc82c2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelmillenson/2023/02/27/ai-driven-medical-care-a-health-data-reality-check/amp/",
-      "publishedDateTime": "2023-02-27T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

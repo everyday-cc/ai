@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "C3 AI Announces Fiscal Third Quarter 2023 Financial Results"
+    excerpt: "C3.ai, Inc. (“C3 AI,” “C3,” or the “Company”) (NYSE: AI), the Enterprise AI application software company, today announced financial results for its fi"
+    publishedDateTime: 2023-03-02T21:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20230302005592/en/C3-AI-Announces-Fiscal-Third-Quarter-2023-Financial-Results"
+    type: article
+    provider:
+      name: newsroom.businesswire.com
+      domain: businesswire.com
+    quality: 19
   - title: "Stability AI Announces Stability For Blender; Text To Image Creation in 3D"
     excerpt: "Stability for Blender is Stability AI's officially supported, zero-hassle way to use the Stability SDK inside Blender. With no dependencies to install and no GPU required, Stability for Blender lets you add AI post-processing effects to renders with just an internet connection – something that previously required owning prohibitively expensive hardware."
     publishedDateTime: 2023-03-02T19:50:00Z

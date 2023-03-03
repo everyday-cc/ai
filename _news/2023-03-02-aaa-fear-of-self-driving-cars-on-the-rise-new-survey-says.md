@@ -19,139 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "Ford files patent to let self-driving cars drive away without their owners"
-    excerpt: "Ford recently filed a patent that'd allow self-driving vehicles to drive away from their owners in specific situations, such as instances of repossession."
-    publishedDateTime: 2023-03-01T21:00:00Z
-    webUrl: "https://www.shacknews.com/article/134400/ford-files-patent-solo-self-driving-cars"
-    ampWebUrl: "https://www.shacknews.com/article/134400/ford-files-patent-solo-self-driving-cars?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/134400/ford-files-patent-solo-self-driving-cars?amphtml=1"
+  - title: "68% Of Americans Afraid Of Self-Driving Cars, Up From 55% In 2022"
+    excerpt: "Santa Monica, using IONIQ 5 AV Tuesday, Feb. 21, 2023. (Allen J. Schaben / Los Angeles Times via Getty Images) Roughly 68% of Americans say they’re afraid of self-driving cars, according to a new poll by AAA, a huge jump from 2022 when 55% of Americans ..."
+    publishedDateTime: 2023-03-02T23:23:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/amp/"
     type: article
     provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 42
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/01/ford-patent-self-driving-vehicles-repossess-themselves-news_feature.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ford Files Self-Driving Car Patent To Abandon Deadbeat Drivers For Missing Payments"
-    excerpt: "Ford is attempting to patent a computer system that would lock delinquent drivers out of their vehicles if late payments are not submitted."
-    publishedDateTime: 2023-03-01T14:19:00Z
-    webUrl: "https://hothardware.com/news/ford-patent-self-driving-cars-leave-owners-behind-miss-payments"
-    ampWebUrl: "https://amp.hothardware.com/news/ford-patent-self-driving-cars-leave-owners-behind-miss-payments"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/ford-patent-self-driving-cars-leave-owners-behind-miss-payments"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 38
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61025/content/Ford_Autonomous_Test_Vehicle_Hero.jpg"
-        width: 708
-        height: 400
-        isCached: true
-  - title: "This Tech Giant Leads The Pack In Self-Driving Patent Filings — It's Not Apple Or Google"
-    excerpt: "As the world moves toward green-energy vehicles, automakers, startups as well as tech companies have jumped into the fray. All the 5 big U.S. techs have some ongoing efforts on self-driving technology,"
-    publishedDateTime: 2023-02-28T05:20:00Z
-    webUrl: "https://www.benzinga.com/news/23/02/31082691/this-tech-giant-leads-the-pack-in-self-driving-patent-filings-its-not-apple-or-google"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31082691"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31082691"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/02/28/self_driving_tech_photo_by_metamorworks_on_shutterstock.jpg?width=1200&height=800&fit=crop"
-        width: 771
-        height: 514
-        isCached: true
-  - title: "Commentary: Companies oversell the self-driving capabilities of their cars, with horrific outcomes"
-    excerpt: "Tesla announced the recall of over 350,000 vehicles—more than 20,000 in Canada —due to a problem with its \"Full Self-Driving Capability\" system. This self-driving feature was found to possibly cause vehicles to misbehave when entering intersections or exceed the speed limits,"
-    publishedDateTime: 2023-02-27T19:34:00Z
-    webUrl: "https://techxplore.com/news/2023-02-commentary-companies-oversell-self-driving-capabilities.html"
-    ampWebUrl: "https://techxplore.com/news/2023-02-commentary-companies-oversell-self-driving-capabilities.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-02-commentary-companies-oversell-self-driving-capabilities.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 30
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/companies-oversell-the.jpg"
-        width: 1000
-        height: 567
-        isCached: true
-  - title: "AAA: More motorists fear riding in self-driving vehicles"
-    excerpt: "More drivers this year are afraid of riding in a self-driving vehicle than last year, according to a AAA survey. Sixty-eight percent of drivers are afraid of riding in a self-driving vehicle, up from 55% in 2022,"
-    publishedDateTime: 2023-03-02T11:20:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2023/03/02/aaa-more-motorists-fear-riding-in-self-driving-vehicles/69961816007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 24
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/04/19/PDTN/ca64c3d1-49bc-451b-8a16-698043c50ab7-BIZ-AUTO-TESLA-AUTOPILOT-DMT.jpg?auto=webp&crop=2122,1194,x0,y106&format=pjpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/640125a0ec7e342f308619bf/0x0.jpg?format=jpg&crop=1900,1068,x0,y98,safe&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Ford Files Deranged Patent For Self-Driving Cars that Repossess Themselves"
-    excerpt: "In the future, if you ever fall behind on your payments for your ridiculously overpriced car, it may not be the repo men that come a-knocking. Instead, your set of wheels may simply drive itself back to the dealership."
-    publishedDateTime: 2023-03-01T21:29:00Z
-    webUrl: "https://futurism.com/the-byte/ford-patent-cars-repossess-themselves"
+  - title: "Majority of Americans Would Not Rely on AI-Based Healthcare"
+    excerpt: "A recent survey found that 60 percent of Americans would not be comfortable with their providers relying on artificial intelligence to provide healthcare services."
+    publishedDateTime: 2023-02-28T17:29:00Z
+    webUrl: "https://healthitanalytics.com/news/majority-of-americans-would-not-rely-on-ai-based-healthcare"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/majority-of-americans-would-not-rely-on-ai-based-healthcare"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/majority-of-americans-would-not-rely-on-ai-based-healthcare"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 22
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 74
     images:
-      - url: "https://wp-assets.futurism.com/2023/03/Ford.jpg"
-        width: 1200
-        height: 630
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-846841412-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
         isCached: true
-  - title: "Ford files patent to allow self-driving cars to drive away from their owners"
-    excerpt: "\"Every time the owner is in the vehicle\" the system can begin to play an \"incessant and unpleasant sound\" The vehicle will warn its owner in stages and strip-back functionality before driving away. Initially the system will target minor features like ..."
-    publishedDateTime: 2023-03-01T15:01:00Z
-    webUrl: "https://www.pcgamer.com/ford-files-patent-to-allow-self-driving-cars-to-drive-away-from-their-owners/"
+  - title: "Nearly 70% of Americans are now ‘afraid’ of self-driving cars, survey says"
+    excerpt: "We were not expecting such a dramatic decline in trust ...,' said the director of automotive research for AAA."
+    publishedDateTime: 2023-03-02T21:08:00Z
+    webUrl: "https://www.silive.com/news/2023/03/nearly-70-of-americans-are-now-afraid-of-self-driving-cars-survey-says.html"
+    ampWebUrl: "https://www.silive.com/news/2023/03/nearly-70-of-americans-are-now-afraid-of-self-driving-cars-survey-says.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2023/03/nearly-70-of-americans-are-now-afraid-of-self-driving-cars-survey-says.html?outputType=amp"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 21
+      name: Staten Island Advance
+      domain: silive.com
+    quality: 57
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/QTZeyW9ecu2pnjkSWFvyZc-1200-80.jpg"
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XVEQSEDXGBHKJH2LZNTSTSDTPY.JPG"
         width: 1024
-        height: 576
+        height: 683
         isCached: true
-  - title: "AAA study: Fear of self-driving cars on the rise"
-    excerpt: "A study done by AAA says the fear of self-driving vehicles is on the rise. (Photo: MGN / General Motors)CHARLOTTE, NC (WWAY) — Concerns about self-driving cars are drastically higher than in 2022. According to a yearly automated vehicle survey released by AAA,"
-    publishedDateTime: 2023-03-02T20:44:00Z
-    webUrl: "https://www.wwaytv3.com/aaa-study-fear-of-self-driving-cars-on-the-rise/"
-    type: article
-    provider:
-      name: WWAY TV
-      domain: wwaytv3.com
-    quality: 4
-  - title: "Companies Oversell The Self-Driving Capabilities Of Their Cars, With Horrific Outcomes"
-    excerpt: "Tesla announced the recall of over 350,000 vehicles - more than 20,000 in canada - due to a problem with its“full self-driving cap"
-    publishedDateTime: 2023-02-26T19:51:00Z
-    webUrl: "https://menafn.com/1105648129/Companies-Oversell-The-Self-Driving-Capabilities-Of-Their-Cars-With-Horrific-Outcomes"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
-  - title: "Companies oversell the self-driving capabilities of their cars, with horrific outcomes"
-    excerpt: "This self-driving feature was found to possibly cause vehicles to misbehave when entering intersections or exceed the speed limits, posing a risk for safety. Create an account or sign in to continue with your reading experience. This is just another ..."
-    publishedDateTime: 2023-02-27T20:57:00Z
-    webUrl: "https://nationalpost.com/pmn/news-pmn/companies-oversell-the-self-driving-capabilities-of-their-cars-with-horrific-outcomes"
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 0
 
 secured: "3SUW+fYbry5036VUvaIO6bhiADlZWeK1UYBLIkuovy0ULkaQT4icUZoKPlL5bXUKdGg/cxtHD2hgGe9v1h1tKTvkTh4I6xrfPTXuW4ZOScW2sDCPMen5Z/vW8SrpZhix6dX7uA0ISWtuAKO5j+RgAvp0he1FEPWK6lLxbvAhAOgzFDyc9WKNT58nB1tFvUc/UnSDvT3qNJY/r4LTmQ+wUwqLGd/CeSiiGcGRaDCocCHI32ubO2BxY54Q0EW8oWeDs2h77pAbKl01KxSTQ/5ToSO0fQiHyqRmxxE8PuJ7k0/+PWg8j0zT5IS0i3lgJT+VxaW8MRN30smQLMNoIriv9wkeH4f/OPbqjKD3mZBQJ/M=;+ShvESllOvK2beS85XI2GQ=="
 ---

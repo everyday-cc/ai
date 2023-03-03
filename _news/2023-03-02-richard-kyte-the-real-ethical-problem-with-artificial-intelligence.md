@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "Richard Kyte: Here are the ethical questions we should be asking about AI"
-    excerpt: "Most expert predictions, however, fall somewhere between those two extremes, depending largely on how the companies designing and implementing AI models deal with a number of ethical concerns. Those concerns are focused on things like who will have oversight,"
+    excerpt: "Richard Kyte is director of the D.B. Reinhart Institute for Ethics in Leadership at Viterbo University in La Crosse, Wis., and co-host of \"The Ethical Life\" podcast. Our society has experienced plenty of disruptive technology over the past couple of centuries,"
     publishedDateTime: 2023-03-02T02:29:00Z
-    webUrl: "https://greensboro.com/opinion/columnists/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_6c281643-09e3-57a2-b917-fdb3ddb196a0.html"
+    webUrl: "https://www.stltoday.com/news/national/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_9a3f6f5b-eccb-56ba-b8f9-c295ecce862d.html"
     type: article
     provider:
-      name: News & Record
-      domain: greensboro.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 53
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/6/c2/6c281643-09e3-57a2-b917-fdb3ddb196a0/63ff7d4405d21.preview.jpg?crop=703%2C369%2C32%2C69&resize=703%2C369&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/a3/9a3f6f5b-eccb-56ba-b8f9-c295ecce862d/63ff7d4e69d8a.preview.jpg?crop=703%2C369%2C32%2C69&resize=703%2C369&order=crop%2Cresize"
         width: 703
         height: 369
         isCached: true

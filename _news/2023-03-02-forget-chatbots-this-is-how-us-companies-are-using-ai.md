@@ -89,6 +89,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Beyond Chatbots: Here’s How Companies Are Leveraging AI"
+    excerpt: "The usefulness of artificial intelligence platforms — like the much hyped ChatGPT – stretches far beyond answering online queries and the private sector is putting the technology to work in a number of profitable ways."
+    publishedDateTime: 2023-03-03T00:03:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/beyond-chatbots-heres-how-companies-are-leveraging-ai"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/beyond-chatbots-heres-how-companies-are-leveraging-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/beyond-chatbots-heres-how-companies-are-leveraging-ai?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/924278a/2147483647/strip/true/crop/945x493+27+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa9%2F7c%2F482519b54fdf9803aab912c63ebf%2Fshutterstock-1483917968.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Can AI chatbots 'with a brain' replace customer service reps?"
     excerpt: "Companies hope the conversational bots will reduce the need for human operators.  Can they become smart enough to handle the job?"
     publishedDateTime: 2023-03-02T10:00:00Z

@@ -2,6 +2,290 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-26-ai-flew-a-fighter-jet-for-17-hours.md",
+      "title": "AI Flew a Fighter Jet for 17 Hours",
+      "excerpt": "Add \"fly a military fighter jet\" to the list of tasks AI can accomplish. The Defense Department revealed last week that artificial intelligence flew a jet similar to an F-16 for 17 total hours over 12 flights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/ai-flew-a-fighter-jet-for-17-hours/",
+      "originalUrl": "https://www.cnet.com/tech/ai-flew-a-fighter-jet-for-17-hours/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/5e5cc1c57b2d625140ac5b2e2b7a19534e5fda78/hub/2023/02/22/a9575f9d-8367-4ec6-b17c-55c381efbca4/lma-vista.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-flew-a-fighter-jet-for-17-hours/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-flew-a-fighter-jet-for-17-hours/",
+      "publishedDateTime": "2023-02-26T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.md",
+      "title": "Why Do A.I. Chatbots Tell Lies and Act Weird? Look in the Mirror.",
+      "excerpt": "One of the pioneers of artificial intelligence argues that chatbots are often prodded into producing strange results by the people who are using them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.html",
+      "originalUrl": "https://www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/27/business/00AI-TRUTH/00AI-TRUTH-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/26/technology/why-do-ai-chatbots-tell-lies-and-act-weird-look-in-the-mirror.amp.html",
+      "publishedDateTime": "2023-02-26T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-mediatek-may-soon-integrate-nvidias-ai-gpus-in-flagship-mobile-chips.md",
+      "title": "MediaTek may soon integrate Nvidia's AI GPUs in flagship mobile chips",
+      "excerpt": "This would be a big step for Nvidia because it would show that established desktop GPU designs can also be ported to smartphone SoCs, reports Gizmochina",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-08/17/full/1597687742-5446.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html",
+      "publishedDateTime": "2023-02-25T23:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-can-ai-be-great-equaliser-for-equity-in-education.md",
+      "title": "‘Can AI be great equaliser for equity in education?’",
+      "excerpt": "\"A glimpse of the future shows us AI software being used for generating 3D videos to assist in explaining complex ideas or processes, software for self-paced learning, and real-time speech-to-speech translation that can bridge language barriers in ...",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education",
+      "originalUrl": "https://tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/1501987-hackingcyberthreatreuters-1504945967/1501987-hackingcyberthreatreuters-1504945967.jpg",
+          "width": 1024,
+          "height": 717,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education?amp=1",
+      "publishedDateTime": "2023-02-25T20:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-meta-brings-ai-chatbot-with-own-large-language-model-for-researchers.md",
+      "title": "Meta brings AI chatbot with own large language model for researchers",
+      "excerpt": "Smaller, more performant models such as LLaMA enable others in the research community who don't have access to large amounts of infrastructure to study these models, further democratising access in this important,",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
+      "originalUrl": "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/meta-1677317836.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
+      "publishedDateTime": "2023-02-25T18:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-artificial-intelligence-of-things-aiot-solutions-market-size-overview-share-trends-with-current-market-scenario-2028.md",
+      "title": "Artificial Intelligence Of Things (AIoT) Solutions Market Size: Overview, Share, Trends with Current Market Scenario, 2028",
+      "excerpt": "Feb 25, 2023 (The Expresswire) -- \"Artificial Intelligence Of Things (AIoT) Solutions Market\" Insights 2023 By Applications (Hardware, Software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-overview-share-trends-with-current-market-scenario-2028-2023-02-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-of-things-aiot-solutions-market-size-overview-share-trends-with-current-market-scenario-2028-2023-02-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-25T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-26-machine-learning-operations-mlops-market-is-booming-worldwide-with-top-countries-data.md",
       "title": "Machine Learning Operations (MLOps) Market is Booming Worldwide with Top Countries Data",
       "excerpt": "Feb 25, 2023 (The Expresswire) -- \"Machine Learning Operations (MLOps) Market\" Report provides a Detailed analysis of global market size, regional",
@@ -948,281 +1232,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-25-using-the-power-of-ai-new-open-source-tool-simplifies-animal-behavior-analysis.md",
-      "title": "Using the power of AI, new open-source tool simplifies animal behavior analysis",
-      "excerpt": "A team from the University of Michigan has developed a new software tool to help researchers across the life sciences more efficiently analyze animal behaviors.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-02-power-ai-open-source-tool-animal.html",
-      "originalUrl": "https://phys.org/news/2023-02-power-ai-open-source-tool-animal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/using-the-power-of-art.jpg",
-          "width": 720,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-02-power-ai-open-source-tool-animal.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-power-ai-open-source-tool-animal.amp",
-      "publishedDateTime": "2023-02-24T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-teslas-new-engineering-hq-in-california-will-focus-on-ai-and-robotics.md",
-      "title": "Tesla’s new engineering HQ in California will focus on AI and robotics",
-      "excerpt": "Tesla recently announced its plans to expand its engineering center in California. Elon Musk, its founder, has now hinted that the upcoming facility will focus mainly on developing its AI capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/teslas-new-hq-ai-robotics",
-      "originalUrl": "https://interestingengineering.com/innovation/teslas-new-hq-ai-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/02/24/image/jpeg/h1XTCmeKK7kKgWtz5my1qFvBDqgC04Vy2fzcnm2Y.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-how-big-business-is-integrating-artificial-intelligence-at-a-rapid-pace-while-gaining-competitive-advantages.md",
-      "title": "How Big Business is Integrating Artificial Intelligence at a Rapid Pace While Gaining Competitive Advantages",
-      "excerpt": "The higher demand for automated and technologically advanced hardware and software products across various end-use verticals and the favorable government policies that encourages the industries in North America to adopt artificial intelligence has significantly contributed towards the growth of the artificial intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/02/24/9766176.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/02/24/9766176.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-meta-to-launch-ai-language-model-llama.md",
-      "title": "Meta to launch AI language model LLaMA",
-      "excerpt": "REUTERS/Dado Ruvic/Illustration/File Photo Feb 24 (Reuters) - Meta Platforms Inc (META.O) said on Friday it will release a new AI large language model called LLaMA designed to generate text, conversations and summarize written material.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
-      "originalUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/fJBJrVyXjYaAylhHFyAuMY-sz8Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SC4LDVC3ZMXJIUUQDZRBHPHU4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-dont-worry-about-ai-breaking-out-of-its-boxworry-about-us-breaking-in.md",
-      "title": "Don’t worry about AI breaking out of its box—worry about us breaking in",
-      "excerpt": "No AI researcher of substance has suggested that Sydney is within light years of being sentient. But transcripts like this unabridged readout of a two-hour interaction with Kevin Roose of the New York Times,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/ai-attack-dog-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/02/dont-worry-about-ai-breaking-out-of-its-box-worry-about-us-breaking-in/amp/",
-      "publishedDateTime": "2023-02-24T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-how-artificial-intelligence-helps-protect-intellectual-property.md",
-      "title": "How Artificial Intelligence Helps Protect Intellectual Property",
-      "excerpt": "Brands today have enough challenges: build great products, reach target customers cost-effectively, and increase sales and revenue. The last thing they want to contend with is finding out that someone somewhere is copying their products and selling them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63f7c6727d0ada838b093b46/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/24/how-artificial-intelligence-helps-protect-intellectual-property/amp/",
-      "publishedDateTime": "2023-02-24T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -27,22 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek may soon integrate Nvidia's AI GPUs in flagship mobile chips"
-    excerpt: "This would be a big step for Nvidia because it would show that established desktop GPU designs can also be ported to smartphone SoCs, reports Gizmochina"
-    publishedDateTime: 2023-02-26T07:34:00Z
-    webUrl: "https://www.business-standard.com/article/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/mediatek-may-soon-integrate-nvidia-s-ai-gpus-in-flagship-mobile-chips-123022600208_1.html"
+  - title: "Nvidia’s new AI upscaling tech makes low-res videos look sharper in Chrome, Edge"
+    excerpt: "Nvidia's latest GPU driver introduces its new AI-based upscaling technique for making lower-resolution videos streamed offline look better on a high-resolution display. Now available via the GeForce driver 531."
+    publishedDateTime: 2023-03-01T21:06:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/"
+    ampWebUrl: "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 89
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-08/17/full/1597687742-5446.jpg"
-        width: 620
-        height: 464
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/geforce-rtx-3090-product-gallery-inline-850-32x_345947f0-a017-4ca6-8019-2dc97a0d777f-prv-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Nvidia’s latest GPU drivers can upscale old blurry YouTube videos"
+    excerpt: "Nvidia will support videos between 360p and 1440p up to 144Hz in frame rate and upscale all the way up to 4K resolution. This impressive 4K upscaling has previously only been available on Nvidia’s Shield TV,"
+    publishedDateTime: 2023-02-28T14:00:00Z
+    webUrl: "https://www.theverge.com/2023/2/28/23618245/nvidia-rtx-video-super-resolution-upscale-videos-rtx-gpu"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 49
   - title: "Nvidia's latest GPU drivers to upscale blurry videos via AI"
     excerpt: "“With RTX Video Super Resolution (VSR), GeForce RTX 40 and 30 Series GPU users can tap AI to upscale lower-resolution content up to 4K, matching their display resolution. The AI removes blocky compression artifacts and improves the video’s sharpness ..."
     publishedDateTime: 2023-03-02T13:25:00Z
@@ -52,6 +61,20 @@ related:
       name: glamsham.com
       domain: glamsham.com
     quality: 34
+  - title: "I'm 100% enabling Nvidia's new AI upscaling tech for Twitch streams but it's no DLSS for video"
+    excerpt: "RTX Video Super Resolution is a neat new tool, but don't go expecting miracles—480p still looks a lot like 480p."
+    publishedDateTime: 2023-02-28T16:59:00Z
+    webUrl: "https://www.pcgamer.com/nvidia-rtx-vsr-tested-streaming-performance/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 27
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/MKTmBeRgGL8inHzeAfj2Q5-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "TPSVe2DySykq+lVbYhgoGaZBlTTPJ0/tnbDmNP0jjINpYyTl9PdZrcaiNWofbmCFJx7T4HZRrfCT9JDSjs4/emmcQBWVwXr0AkKdkmDtC0AY5LLmgQrkzCEJR/GkK3T0Cj5YSTHZq4YGf/BRe+NpmetNMVwRIOITZVGgcppdsGPqVHSWnm4pSVHz6Vs03phaT2iGinH5X5zzzlI7lunTWkDnl9YZL1gk014EbLUQBq6M6XqVDqbaBhC/gFjSlBr2Gk9wUhGQFnzb2SRW1mUkazrO2J+nhYdnyZAauggsXQYEnebZuVcyhkALTjEU7tu4Uz661S1KGrxR5efGz+3gjZIPhiOXujkmhMzxEB+TVlLmTIy4bmnHQOdWfHnL1pOE21uZv/o5N2B+cJ4b3hsIN8N5aVr/ZtM/S5t+rxNVYE0/72gBS8LUDwNVzNSpAxHRN+OkDI7MVukOELAwosv5BHUJfqjkWdzXSf+ItQMdO1qADu9b5yODwqJGT/ig3xpq+yIF0lmsJotVTy/H0N7rhg==;ZDZGvg+O57RRGy686OsYuw=="
 ---

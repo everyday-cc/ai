@@ -2,6 +2,372 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-02-openai-debuts-whisper-api-for-speech-to-text-transcription-and-translation.md",
+      "title": "OpenAI debuts Whisper API for speech-to-text transcription and translation",
+      "excerpt": "OpenAI is rolling out the Whisper API, a hosted version of the open source speech-to-text model that the company released in late 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/",
+      "originalUrl": "https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/mic-feature-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/01/openai-debuts-whisper-api-for-text-to-speech-transcription-and-translation/amp/",
+      "publishedDateTime": "2023-03-01T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development.md",
+      "title": "How generative AI could lower healthcare costs and speed up drug development",
+      "excerpt": "In the future, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
+      "originalUrl": "https://www.zdnet.com/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-generative-ai-could-lower-healthcare-costs-and-speed-up-drug-development/",
+      "publishedDateTime": "2023-03-01T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype.md",
+      "title": "‘AI Is The New Electricity’: Bank Of America Picks 20 Stocks To Cash In On ChatGPT Hype",
+      "excerpt": "The bank’s 20 plays include Microsoft, an investor in ChatGPT parent OpenAI, and chatbot competitors Alphabet and Baidu.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/",
+      "originalUrl": "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ff676e1d3c3452f8aa9374/0x0.jpg?format=jpg&crop=4044,2274,x0,y44,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dereksaul/2023/03/01/ai-is-the-new-electricity-bank-of-america-picks-20-stocks-to-cash-in-on-chatgpt-hype/amp/",
+      "publishedDateTime": "2023-03-01T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-introducing-the-amazon-comprehend-flywheel-for-mlops.md",
+      "title": "Introducing the Amazon Comprehend flywheel for MLOps",
+      "excerpt": "The world we live in is rapidly changing, and so are the data and features that companies and customers use to train their models. Retraining models to keep them in sync with these changes is critical to maintain accuracy. Therefore, you need an agile and dynamic approach to keep models up to date and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-comprehend-flywheel-for-mlops/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-comprehend-flywheel-for-mlops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/28/introducing-comprehend-flywheel.jpg",
+          "width": 1563,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T07:27:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-this-is-what-us-presidents-would-look-like-with-mullets-according-to-ai.md",
+      "title": "This Is What U.S. Presidents Would Look Like With Mullets, According to AI",
+      "excerpt": "Innovative imaginations of U.S. presidents sporting some extreme hairstyles have left the internet in stitches. Using Artificial Intelligence (AI), Cam Harless, 34, who lives in Florida, has put a fun spin on pictures of historical and well-known figures in a Twitter thread featuring all 46 U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/what-us-presidents-would-look-like-mullet-ai-1784814",
+      "originalUrl": "https://www.newsweek.com/what-us-presidents-would-look-like-mullet-ai-1784814",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2202770/trump-jfk-ai-pictures.png",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/what-us-presidents-would-look-like-mullet-ai-1784814?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-us-presidents-would-look-like-mullet-ai-1784814?amp=1",
+      "publishedDateTime": "2023-03-01T07:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-bridgewater-exits-ray-dalio-era-with-hedge-fund-overhaul-bets-on-ai-and-job-cuts.md",
+      "title": "Bridgewater Exits Ray Dalio Era With Hedge Fund Overhaul, Bets on AI and Job Cuts",
+      "excerpt": "Bridgewater Associates was bound to be different once billionaire founder Ray Dalio no longer commanded the world’s largest hedge fund. Very different, it turns out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-01/bridgewater-exits-dalio-era-with-hedge-fund-overhaul-bets-on-ai-sustainability",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-01/bridgewater-exits-dalio-era-with-hedge-fund-overhaul-bets-on-ai-sustainability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLZRpBFsqaM0/v0/1200x676.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-brave-new-world-ai-generated-content-and-seo-marketing.md",
+      "title": "Brave New World: AI-Generated Content And SEO Marketing",
+      "excerpt": "The groundbreaking AI solution empowers businesses and brands to automate essential SEO tasks, such as keyword research and content strategy. Still, it faces challenges in crafting compelling articles or briefs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe0fd52993fa6c5a1a37e7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/01/brave-new-world-ai-generated-content-and-seo-marketing/amp/",
+      "publishedDateTime": "2023-03-01T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-generative-ai-chatgpt-as-masterful-manipulator-of-humans-worrying-ai-ethics-and-ai-law.md",
       "title": "Generative AI ChatGPT As Masterful Manipulator Of Humans, Worrying AI Ethics And AI Law",
       "excerpt": "Concerns are rising that generative AI such as ChatGPT produce manipulative outputted essays. People are going to get confused, angry, and potentially harmed. Take a look at what this is all about and what needs to be done.",
@@ -201,7 +567,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -840,49 +1206,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-01-majority-of-americans-would-not-rely-on-ai-based-healthcare.md",
-      "title": "Majority of Americans Would Not Rely on AI-Based Healthcare",
-      "excerpt": "A recent survey found that 60 percent of Americans would not be comfortable with their providers relying on artificial intelligence to provide healthcare services.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/majority-of-americans-would-not-rely-on-ai-based-healthcare",
-      "originalUrl": "https://healthitanalytics.com/news/majority-of-americans-would-not-rely-on-ai-based-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/GettyImages-846841412-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/majority-of-americans-would-not-rely-on-ai-based-healthcare",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/majority-of-americans-would-not-rely-on-ai-based-healthcare",
-      "publishedDateTime": "2023-02-28T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-01-amazons-no-1-best-selling-robot-vacuum-is-39-off-for-spring-cleaning.md",
       "title": "Amazon's No. 1 best selling robot vacuum is 39% off for spring cleaning",
       "excerpt": "Eufy makes some of the bestselling robot vacuums on Amazon and best robot vacuums of 2023 overall. Right now, you can snag a new Eufy robot vacuum for a great price. We've found the best Eufy robot vacuum deals at Amazon and Walmart to help you get ready for spring cleaning.",
@@ -891,7 +1214,7 @@
       "originalUrl": "https://www.cbsnews.com/essentials/best-eufy-robot-vacuum-deals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -924,293 +1247,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-scientists-eye-lab-grown-brains-to-replace-silicon-based-computer-chips.md",
-      "title": "Scientists eye lab-grown brains to replace silicon-based computer chips",
-      "excerpt": "Silicon computer chips are fast approaching physical limits. Replacing them with rudimentary minibrains might be the next step forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/brain-organoid-biocomputer/",
-      "originalUrl": "https://www.popsci.com/technology/brain-organoid-biocomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/02/28/Depositphotos_357533210_L.jpg?auto=webp",
-          "width": 2000,
-          "height": 1124,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/brain-organoid-biocomputer/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/brain-organoid-biocomputer/?amp",
-      "publishedDateTime": "2023-02-28T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar.md",
-      "title": "Microsoft's AI-powered Bing is coming to the Windows 11 taskbar",
-      "excerpt": "A new update brings a series of new features to Windows 11, including Bing's ChatGPT and a preview to an iOS Phone Link.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
-      "originalUrl": "https://www.zdnet.com/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 386,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5dbea24f0f788b1af3743d47bc31f21257f126c2/2023/02/28/41a66842-a257-4951-933a-30c1880acb71/screenshot-2023-02-28-at-10-39-56-am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
-      "publishedDateTime": "2023-02-28T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-torc-robotics-announces-agreement-to-acquire-algolux.md",
-      "title": "Torc Robotics Announces Agreement to Acquire Algolux",
-      "excerpt": "Torc Robotics, an independent subsidiary of Daimler Truck AG and a pioneer in commercializing self-driving vehicle technology, announced today that it has signed an",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g31095754/torc-robotics-announces-agreement-to-acquire-algolux",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g31095754/torc-robotics-announces-agreement-to-acquire-algolux",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31095754",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31095754",
-      "publishedDateTime": "2023-02-28T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-the-intersection-between-ai-and-blockchain-technology-industries-of-tomorrow.md",
-      "title": "The Intersection Between AI And Blockchain Technology – Industries Of Tomorrow",
-      "excerpt": "The intersection between AI and blockchain technology has the potential to transform various industries by enhancing their security, transparency, and overall efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe18e3c3faa2f1d106f7ee/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/02/28/the-intersection-between-ai-and-blockchain-technology--industries-of-tomorrow/amp/",
-      "publishedDateTime": "2023-02-28T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-slashnext-launches-ai-solution-for-email-security.md",
-      "title": "SlashNext Launches AI Solution for Email Security",
-      "excerpt": "SlashNext, a leader in SaaS-based integrated cloud messaging security across email, web and mobile, announced the launch of Generative HumanAI, an artificial intelligence solution that uses generative AI to defend against advanced business email compromise (BEC),",
-      "sourceUrl": null,
-      "webUrl": "https://channelvisionmag.com/slashnext-launches-ai-solution-for-email-security/",
-      "originalUrl": "https://channelvisionmag.com/slashnext-launches-ai-solution-for-email-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://channelvisionmag.com/wp-content/uploads/2023/02/slashnext.jpg",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ChannelVision Magazine",
-        "domain": "channelvisionmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-face-recognition-software-led-to-his-arrest-it-was-dead-wrong.md",
-      "title": "Face Recognition Software Led to His Arrest. It Was Dead Wrong",
-      "excerpt": "But an intelligence analyst using face recognition software had labeled him a possible match with the suspect seen on CCTV footage from the bus, police records show, and an officer had confirmed it. At a police station and in a meeting with her husband’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/",
-      "originalUrl": "https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63f94dcc8695ea54b16e31ff/master/pass/Lights_Over_Head.png",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/amp",
-      "publishedDateTime": "2023-02-28T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
