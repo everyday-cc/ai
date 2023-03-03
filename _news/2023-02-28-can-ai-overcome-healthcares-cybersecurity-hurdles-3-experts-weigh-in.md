@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/cybersecurity/can-ai-overcom
 webUrl: "https://www.beckershospitalreview.com/cybersecurity/can-ai-overcome-healthcares-cybersecurity-hurdles-3-experts-weigh-in.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
       name: eWeek
       domain: eweek.com
     quality: 47
+  - title: "Cybersecurity’s Third Rail: Software Liability"
+    excerpt: "The Biden administration’s cybersecurity strategy calls for placing responsibility for buggy software on those best positioned to reduce risk. It’s high time, but it won’t be easy."
+    publishedDateTime: 2023-03-03T12:16:00Z
+    webUrl: "https://www.lawfareblog.com/cybersecuritys-third-rail-software-liability"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 19
 
 secured: "g3HsyNkr7v4HQ4ESvkWzV71c+sbvKUrAF5CaPdDeJNURR9bpHzdxEloI/ZEyxx+zwc0hxrX+dq8xJ3TSYcH7fCpv+dAexyfJk558TKVET7MMlQHV5b3kulBLIWIGRDkdYhjD165jQELCgL3mitJh0qZhzwyaKlZkSCrNqYkxeqCbxGsOXhYJ+IxXE0U33shlmmKKOwN9U8uBZgAW4TjFnHxNpHAIKVKBhCwIvMiBQTR8N15YJnggouO999kDCQZUu/pheNPXmWvgpbM51ei5L8IuRls9pjn4qIYpy5l1gP8YVsxLwxrlEGMfNIDWcevNmZUac3tILSCV8LuN3aNIvusdIYunKKhrUOQlhjWGGg8=;tWOBqKSeOTHVS5rexsdiWA=="
 ---

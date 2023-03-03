@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-03T13:47:00Z
 originalUrl: "https://www.gizmochina.com/2023/03/03/vivos-app-speech-to-sign-language-real-time/"
 webUrl: "https://www.gizmochina.com/2023/03/03/vivos-app-speech-to-sign-language-real-time/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Gizmochina

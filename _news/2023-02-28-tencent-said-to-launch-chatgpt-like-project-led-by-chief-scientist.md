@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Tencent Follows Alibaba and Baidu in the AI Race: Plans to Make ChatGPT Replica"
-    excerpt: "The chatbot will use the Tencent Hunyuan AI model which has the capacity for natural language processing, multimodal content understanding, computer vision, content creation, and more. Hunyuan AI model recently won the top position in the CLUE (Chinese ..."
-    publishedDateTime: 2023-03-01T19:38:00Z
-    webUrl: "https://www.gizmochina.com/2023/03/01/tencent-ai-race-to-make-chatgpt-replica/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 45
   - title: "Tencent Sets Up Team to Develop ChatGPT-Like Bot"
     excerpt: "Chinese internet giant Tencent Holdings has set up a project team to develop HunyuanAide, its own ChatGPT-like artificial intelligence bot, and to advance special research, including pre-trained models."
     publishedDateTime: 2023-02-28T11:54:00Z
@@ -42,6 +33,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "ChatGPT: A Potential Game Changer for Call Centres"
+    excerpt: "Key use cases With that in mind, what are some of the top use cases where contact centres can leverage such advanced language models in the near to more distant future? While the clear advances ChatGPT makes over current chatbots and virtual assistants are obvious,"
+    publishedDateTime: 2023-02-28T22:44:00Z
+    webUrl: "https://www.finextra.com/blogposting/23821/chatgpt-a-potential-game-changer-for-call-centres"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "RaYoRYplju7VBKth4GxLnfqpjdjPpBuxjOHlKR5g0UW9qUu+cWZHGAN05OwUF7LCfVD+eXEKdX+CeAudVMjDy8DcNH/mLUVFEoiELksnM0KvZTSeTpyT/NJXmZAv552BOaucHcAe8GHU4rmo8vdF4VeSFRUg86qjwvwmNC0OcOR9OGq9Fhkvyegu/Fh/NtwAd3OHsz0kbcNwJO/xxyHNDvgAiuwyxyyFL5aNq6nBpXVYMaUyrQZE3v8yngGuJN7RoxDSui8yJAy2gnxHGBIGTCV5QWHy3vzDC58CLKvuUS1kQEz19Z85vLckRqyX6xMEd9cgu2kSps66akAwpR5oqPBbnfauXjw7grMrDhJ2RCM=;2c0zGJ2PccCHUFC662uAFA=="
 ---

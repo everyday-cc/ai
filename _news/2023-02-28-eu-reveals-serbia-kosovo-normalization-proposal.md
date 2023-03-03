@@ -55,17 +55,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Leaders Of Serbia And Kosovo Due For A Meeting In Brussels About Plan To Put Relations On A Normal Footing"
-    excerpt: "The leaders of Serbia and Kosovo are due to hold talks on February 27 in Brussels, where an agreement to normalize relations between the two Balkan nations will be at the top of the agenda."
-    publishedDateTime: 2023-02-26T21:13:00Z
-    webUrl: "https://www.rferl.org/a/eu-kosovo-serbia-dialogue-normal-relations-kurti-vucic/32289008.html"
-    ampWebUrl: "https://www.rferl.org/amp/eu-kosovo-serbia-dialogue-normal-relations-kurti-vucic/32289008.html"
-    cdnAmpWebUrl: "https://www-rferl-org.cdn.ampproject.org/c/s/www.rferl.org/amp/eu-kosovo-serbia-dialogue-normal-relations-kurti-vucic/32289008.html"
-    type: article
-    provider:
-      name: Radio Free Europe/Radio Liberty
-      domain: rferl.org
-    quality: 6
   - title: "Serbian president vows to oppose Kosovo's UN membership: Prime Minister Kurti"
     excerpt: "I do not want to and there can be no discussion on mutual recognition, recognition, and Kosovo’s membership in the UN,’ says President Aleksandar Vucic - Anadolu Agency"
     publishedDateTime: 2023-03-01T20:35:00Z

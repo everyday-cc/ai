@@ -3,18 +3,18 @@ category: news
 title: "Breweries using artificial intelligence to create new beers"
 excerpt: "Artificial intelligence is behind a new IPA being served at a Michigan brewery. Atwater Brewery developed the beer with the help of an AI chatbot."
 publishedDateTime: 2023-02-28T20:00:00Z
-originalUrl: "https://www.wtkr.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
-webUrl: "https://www.wtkr.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
-ampWebUrl: "https://www.wtkr.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
-cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
+originalUrl: "https://www.wkbw.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
+webUrl: "https://www.wkbw.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers"
+ampWebUrl: "https://www.wkbw.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
+cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/breweries-using-artificial-intelligence-to-create-new-beers?_amp=true"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WTKR
-  domain: wtkr.com
+  name: WKBW
+  domain: wkbw.com
 
 topics:
   - AI in Autos
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "QFFmi3mzxxxZ9/6PaCnl+oeeZgmb87pCDukvNt+4UST2oKibnL/Fp31MPzDrei3nOsgAoTb4iYq3FBkZdKmYrIUAkWidlebRouTRp2gFAuG1TmtuiH+JkiubyVmKhStWgPunXdXHArKJ4/m5T/lvjgX9mfbdL7hCLrIAsIjBJzwJ9FZ9e5ihqVpbeqEDv6hVBpmBL123aM6Quzn92Cftm3Siz5epK5OBA9BkOxigx+PJAAOHjGfw/bT8dGIFh2TaKyuadI9b9zmZQh6B0FpHt088acnOOLaMIvsWNqQi8khCxneTaRdVpYEJNYVOdxcbzLarNur76RxXU6qP7MHdvuvCd/HZkXCdzzgrAL6zPE0q6+XvxEpET9Ah1raOkcPXY3bC/DbU12Ykn0/e1YJciwd+o02mzpX3ppBJeDy+zBnb2ecgttJwpJTvk1fKUGMJcVRXRGibS+sxc3xnuBzVvOF7FxHs1uZBEx9xZqhqOZHM+XhR2pqpB7+HwZIEcRsyeBxAbKkFC2reJWc36EZB+g==;2ie4PBB6ETNKB3zSuPuJqw=="
+secured: "kTQCl0x9Qd+kSFS8a61I0rSG+EatndxVT/Y07mTb6CFQDxTRbMRQcGzwg3pHIhwE118LEv5uRzFywwmIXEKGG3aT4MWmw4AcIyVjBW73La+50HTPX/ACTzaX5KuY0ZdYSK4817E9zpSrD4PENfLuFipeQyvnFYxb9pt/MPLEfgh5iK3igme5uqIag8TJPweJ29lLKIo8lV2sKIjgNapc/KUei2L/Xgmy5Td2hf3v+/qoBDv2B9CDNDPlxWyXNpJOoVHhV4v1HNN6qpzIGOCBITjWuHVUUYMfeaHgbfvNvTQQZrJwBrqwF3gClB7hF3Pa6SoSPUijL95ixJSSB7D7P6d1IpGsQr9s5IS0D+NNm8w=;gVwWWqZ+6cjMh9Uc54LOKQ=="
 ---
 

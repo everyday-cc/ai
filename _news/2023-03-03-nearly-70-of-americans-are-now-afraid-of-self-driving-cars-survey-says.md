@@ -59,6 +59,20 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "Majority of American Drivers ‘Afraid’ of ‘Self-Driving’ Cars"
+    excerpt: "Responses to a AAA survey indicate a rising fear of automated vehicles in the wake of high-profile crashes and federal investigations."
+    publishedDateTime: 2023-03-03T14:59:00Z
+    webUrl: "https://www.planetizen.com/news/2023/03/121991-majority-american-drivers-afraid-self-driving-cars"
+    type: article
+    provider:
+      name: PLANetizen
+      domain: planetizen.com
+    quality: 39
+    images:
+      - url: "https://www.planetizen.com/files/images/shutterstock_1478569319.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "AAA: Fear of self-driving cars on the rise, new survey says"
     excerpt: "WASHINGTON - The fear of self-driving vehicles is on the rise. A new survey from AAA shows 68% of drivers say they are afraid of self-driving vehicles, an increase from 55% in 2022. \"We were not expecting such a dramatic decline in trust from previous years,"
     publishedDateTime: 2023-03-02T13:38:00Z
@@ -67,6 +81,15 @@ related:
     provider:
       name: Fox 5
       domain: fox5dc.com
+    quality: 4
+  - title: "Fear of Self-Driving Cars on the Rise as Vacation Season Nears"
+    excerpt: "According to an annual automated vehicle survey just released by AAA, concerns about self-driving cars are significantly higher than last year. The survey reveals 68% of drivers are afraid of riding in a self-driving vehicle. That's up from 55% in 2022 ..."
+    publishedDateTime: 2023-03-03T14:14:00Z
+    webUrl: "https://www.worldpropertyjournal.com/real-estate-news/united-states/atlanta-real-estate-news/vacation-real-estate-news-aaa-report-on-self-driving-cars-consumer-fears-of-self-driving-cars-in-2023-mark-jenkins-tesla-self-driving-cars-data-13563.php"
+    type: article
+    provider:
+      name: International
+      domain: worldpropertyjournal.com
     quality: 4
 
 secured: "flxxhGmWEamLV4VTmj6mzKw/pGhe2YjNpQukQUzu1GasJ2cCBcL3NYMUz+8HdcAOLzwmVDKAHSTMG9cojACeDwLebARtRuU0/gDJ/X3/FuSzUdzOlBIFhJKEZWZSnQtW/mjkAXJpGHi7lcVRMEL2NDVU/cZeKh1yg0P4Io9Mgtq7sa3WcJHAx/so8zgmvHCqJlt/wgVVl2zOUy4PjtRwqpLg+lMhUL9hnnyMvKJwDdDkgmD61p+T//yADFQKDknIU9O4B9q0vqJ0fp7SATNIPIrpiHUQYKK/SgU78S5tDGI+d2UQUNaH3YsOtKY3AZZG6nAT+gPqjzUbf2xRATH10pDIxzagZuprQhmUB9AshHY=;6cgDMxjItoy+cOdg287zpQ=="

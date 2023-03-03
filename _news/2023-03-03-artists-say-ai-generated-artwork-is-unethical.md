@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-03T13:19:00Z
 originalUrl: "https://ktla.com/morning-news/artists-say-ai-generated-artwork-is-unethical/"
 webUrl: "https://ktla.com/morning-news/artists-say-ai-generated-artwork-is-unethical/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: KTLA

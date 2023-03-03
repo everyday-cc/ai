@@ -47,20 +47,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "OpenAI’s Bets on Tech Startups Hint At the Future of Artificial Intelligence"
-    excerpt: "OpenAI’s $100 million Startup Fund and Converge accelerator program have backed about a dozen startups that give a hint at what its next product might be."
-    publishedDateTime: 2023-02-28T22:32:00Z
-    webUrl: "https://observer.com/2023/02/openais-bets-on-tech-startups-hint-at-the-future-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 49
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2023/02/GettyImages-1246870699.jpg?quality=80&#038;strip"
-        width: 3600
-        height: 2400
-        isCached: true
   - title: "AI can’t write this: 10 ways to AI-proof your content for years to come"
     excerpt: "Despite all the hype, AI still fails at many areas of content creation. Here's how you can double down on things only humans can do."
     publishedDateTime: 2023-02-28T15:01:00Z

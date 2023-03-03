@@ -45,6 +45,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Cybersecurity’s Third Rail: Software Liability"
+    excerpt: "The Biden administration’s cybersecurity strategy calls for placing responsibility for buggy software on those best positioned to reduce risk. It’s high time, but it won’t be easy."
+    publishedDateTime: 2023-03-03T12:16:00Z
+    webUrl: "https://www.lawfareblog.com/cybersecuritys-third-rail-software-liability"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 19
 
 secured: "G16gLBMJA8ksxZH54hl/brhV7hFLb49NWzTJ8aiVZscAww+k+5saB+tT3vACgfqwb16ym57c0xoFmlfYrJOAqKtOuXAxVDpx0nbBfmqUeRlEVXekT+BDEeXL/+LACcCwvuGC6VmlQxw71pTgrUaFcvqKvhAb/9eWs8zovABYlZTZElXqKUEGs9oxGb3EXzbCGPCY+iiJqVXwBBvQ89sS9hF2KEo1rgzHMExGqj6M/qOiv7MH61bIUjHiYsUxM4UWorp7VTprRDluZkBxIH5JXT4ItjuisfwykfJP2qpIFP5AMxS3TTN4LP0WOssm3sXxh68kQVXd+sI24+Iaet9p0jx0y79zO5Gi+weaYRH4QO6mgL//2WUM0gXoH6AssZzFFfj7qAOUx5TQknMh6XZ/QIwLiB41qIVnYtG65BvSKdMmXErXbQ89HbzUITvgfjkdzw3FkXb7NZhvPpDal824p9GCiWuKlj/3FCX85GqMetdnFzZd7+Y8gp6Z8JZ9PfnTqtoCe2CebaAM0AyrnCDXqA==;DhTHkcgvSuvNeQKcKBSLcg=="
 ---

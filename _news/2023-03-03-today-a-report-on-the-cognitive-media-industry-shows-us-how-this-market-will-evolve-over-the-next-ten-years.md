@@ -28,6 +28,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "This study on Cognitive Systems Spending research analysts emphasizes current market information."
+    excerpt: "This \"Cognitive Systems Spending Market\" offers an all-inclusive analysis of regional and global markets based"
+    publishedDateTime: 2023-03-01T18:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/this-study-on-cognitive-systems-spending-research-analysts-emphasizes-current-market-information-2023-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+
 secured: "JyY1wjYkm6D22Mr3KwvrLmaVGJaHWQDrc6WX9BBx694frvmdEdtYzHHvGEukbiO5vx628x+wOF+wD6mQdwiiuEKa16eDfGME93cWAR4KqYf4KXyxu+tenilQV0eTUuZa3206xf3tlL4usR51tTUzgsVPlstzFqbeZOn3Td97xlkePSGQ30EKhleP6qxbQsMeuBbl/ZVr1xDDf6zofpioJ6fPNpLTx48Wv3EM73eqisMflFol0UTpXlAtgKu0hjyi0Y43wfK9q0+YpMwNQXc6NS6D8eJupRiGrWIsbuIzL3r+dAtDGTiffNU0JOp/8Jp/utZla1GGCw0BIVDtsAXoqBv+OUOo1fM7yXOyOGcXTl4=;PurNM7skZgtbpEpC2jsBlw=="
 ---
 

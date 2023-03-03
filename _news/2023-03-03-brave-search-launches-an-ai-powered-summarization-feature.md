@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/02/brave-search-launches-an-ai-powere
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/brave-search-launches-an-ai-powered-summarization-feature/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Brave adds AI-powered Summarizer tool to its search"
+    excerpt: "Privacy-focused browser maker Brave has launched an AI-powered feature called 'Summarizer' for its search engine. Brave launched its search engine two years ago after acquiring the Tailcat search engine."
+    publishedDateTime: 2023-03-03T12:17:00Z
+    webUrl: "https://www.zdnet.com/article/brave-adds-ai-powered-summarizer-tool-to-its-search/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Informatica Launches Free, AI-powered Solution for Data Practitioners"
     excerpt: "Informatica, an enterprise cloud data management leader, today launched the industry's only free cloud data loading,"
     publishedDateTime: 2023-02-28T16:00:00Z

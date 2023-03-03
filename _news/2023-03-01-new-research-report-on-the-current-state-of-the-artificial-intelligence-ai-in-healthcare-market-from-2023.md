@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market 2023 Is Set to Fly Excessive Growth in Years to Come"
-    excerpt: "Latest Updated Report 2023 With 118 Report Pages] The latest independent research report on Artificial Intelligence (AI) Chips Market 2023 explore investment in Market. It classify how companies deploying these technologies across various industry verticals aim to explore its future to become a major business disrupter."
-    publishedDateTime: 2023-02-26T23:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2023-is-set-to-fly-excessive-growth-in-years-to-come-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Future of Artificial Intelligence (AI) Robots Market 2023-2028: Opportunities and Challenges | 133 Pages"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.” Artificial Intelligence (AI) Robots"
     publishedDateTime: 2023-02-27T18:40:00Z

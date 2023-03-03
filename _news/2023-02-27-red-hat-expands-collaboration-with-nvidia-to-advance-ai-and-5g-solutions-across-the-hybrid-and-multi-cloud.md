@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Inventec Corporation: INVENTEC COLLABORATES WITH MICROSOFT TO DELIVER SMART FACTORY SOLUTIONS ON MICROSOFT AZURE PRIVATE 5G CORE"
-    excerpt: "Inventec, a global leading innovator in cloud computing, wireless communication, intelligent devices, and IoT, announced today its newest industry-leading"
-    publishedDateTime: 2023-02-27T00:09:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58408945-inventec-corporation-inventec-collaborates-with-microsoft-to-deliver-smart-factory-solutions-on-microsoft-azure-private-5g-core-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
   - title: "Red Hat Expands Collaboration With NVIDIA to Advance AI and 5G Solutions Across the Hybrid and Multi Cloud"
     excerpt: "Red Hat, Inc., the world's leading provider of open source solutions, today announced a collaboration with NVIDIA to deliver radio access network (RA"
     publishedDateTime: 2023-03-02T07:22:00Z

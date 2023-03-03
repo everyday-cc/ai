@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Software Market to Grow Significantly by Leading Players 2023 to 2028"
-    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Deep Learning Software Market\" Research Report 2023 Provides a Basic overview of the Industry including"
-    publishedDateTime: 2023-02-27T01:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-to-grow-significantly-by-leading-players-2023-to-2028-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Best Artificial Intelligence (AI) stocks to short in 2023"
     excerpt: "The most popular AI stocks among investors include firms like Microsoft, Nvidia. Baidu, Tesla, and BigBear among others."
     publishedDateTime: 2023-03-02T08:08:00Z

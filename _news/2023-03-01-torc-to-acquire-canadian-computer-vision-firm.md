@@ -35,6 +35,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Torc Robotics Signs Pact to Acquire Canada’s Algolux"
+    excerpt: "Daimler Truck autonomous technology subsidiary Torc Robotics has signed an agreement to acquire Canadian artificial intelligence developer Algolux Inc."
+    publishedDateTime: 2023-03-03T13:25:00Z
+    webUrl: "https://www.ttnews.com/articles/torc-robotics-signs-pact-acquire-canadas-algolux"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 54
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2023-03/torc.jpg"
+        width: 470
+        height: 246
+        isCached: true
   - title: "Torc to Acquire Computer Vision Company Algolux"
     excerpt: "Torc Robotics' acquisition of Algolux will strengthen key capabilities toward Torc's commercialization of Level 4 autonomous trucking."
     publishedDateTime: 2023-03-01T22:09:00Z

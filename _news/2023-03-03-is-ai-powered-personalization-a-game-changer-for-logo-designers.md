@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-03T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/03/is-ai-powered-personalization-a-game-changer-for-logo-designers/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/03/is-ai-powered-personalization-a-game-changer-for-logo-designers/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

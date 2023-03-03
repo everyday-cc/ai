@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tec
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/03/rtx-video-super-resolution_full-size-scaled.jpg"
         width: 2048
         height: 1152
+        isCached: true
+  - title: "Nvidia’s Rolls Out Latest GPU Drivers To Upscale Blurry Videos Via AI"
+    excerpt: "Nvidia has released new GPU drivers, which will upscale old blurry web videos on RTX 30 and 40-series cards. About 80 per cent of internet bandwidth today is streaming video, and 90 per cent of that content streams at 1080p or lower,"
+    publishedDateTime: 2023-03-03T08:37:00Z
+    webUrl: "https://www.techshout.com/nvidias-rolls-out-latest-gpu-drivers-to-upscale-blurry-videos-via-ai/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 54
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2023/03/nvidia-rtx-2060-graphic-card.jpg"
+        width: 690
+        height: 460
         isCached: true
   - title: "Nvidia’s latest GPU drivers can upscale old blurry YouTube videos"
     excerpt: "Nvidia will support videos between 360p and 1440p up to 144Hz in frame rate and upscale all the way up to 4K resolution. This impressive 4K upscaling has previously only been available on Nvidia’s Shield TV,"

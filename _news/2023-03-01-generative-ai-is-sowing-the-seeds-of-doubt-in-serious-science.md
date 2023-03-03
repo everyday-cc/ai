@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Preparing For Business Success With Generative AI"
+    excerpt: "Today while we are still absorbing all the many different ways AI can be applied, generative AI technologies like ChatGPT have taken the world by storm. Overnight the tone of the technology industry changed—going from gloom and doom to positive optimism."
+    publishedDateTime: 2023-03-03T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/03/preparing-for-business-success-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/03/preparing-for-business-success-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/03/preparing-for-business-success-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63e3b325ebf14eb706db7363/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How D-Id is merging avatars with conversational AI for enterprise use cases"
     excerpt: "The power of generative AI is now coming to avatars. Today, D-ID releases new chatbot leveraging conversational AI."
     publishedDateTime: 2023-03-01T07:00:00Z

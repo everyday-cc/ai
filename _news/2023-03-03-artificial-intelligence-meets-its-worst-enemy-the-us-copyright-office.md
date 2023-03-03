@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-03T11:09:00Z
 originalUrl: "https://newrepublic.com/article/170898/ai-midjourney-art-copyright-office"
 webUrl: "https://newrepublic.com/article/170898/ai-midjourney-art-copyright-office"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:

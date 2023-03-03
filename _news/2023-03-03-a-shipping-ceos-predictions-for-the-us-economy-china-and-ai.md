@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/maersk-ceo-clerc-china-ai-reces
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/maersk-ceo-clerc-china-ai-recession-shipping-faa0521b"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     height: 640
     isCached: true
 
-secured: "dVP5K3NFQ+oJ4nh47w0bDcGA4H2K17CK7TSG5i4A0vp9eJEVSoQp1JfxYpHbNTEgY+6hR6yRFA1Gbfdtd+oEn5iKON55UMhs4b3Nw9LfbI1O2Wk9CvCIl1L38AAATn6tJVfhMuYI3W6lvmVj2cweaRc8P5nOrw1fbJlZrfUEMbzaCF77a9IzPmXg5jWqcbcXK14vIXYl6jLQGCVWs1QwMO47icNybdwMg743hQn5EjdQ9fbhy6dHVb0Zubgg1KrH62GeJMObY16zUiWWCL3PCthYyNyVq2g1YvxJ/5XGEjhzG3ZHskSSI1J13WRyjamC6+9RWpgz55ze8lpLsVVdmhBGF+QvXcdBd7saCeebnpM=;effCC4qxuxz4DU6BfDyjjg=="
+related:
+  - title: "Prepare For The AI Phishing Onslaught"
+    excerpt: "There’s another area for which ChatGPT and its AI competitors have startling implications as well: phishing. I’m not just talking about an AI-empowered leap in phishing sophistication but phishing volume as well."
+    publishedDateTime: 2023-03-03T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/03/prepare-for-the-ai-phishing-onslaught/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+
+secured: "Ys0r7aLjuyTro0b+Y5iHfPD4W36UGDUubYms2I8pKs7CZ4VfPrw3Pz2TBIzYYlW1tZ0gkTtYz1gdBozft/RXPXu/uSQ+1+wNpSkOq6fv5f0M72mSViPUP3Zs5aG7bwNc2kVZ3N1PC3ohmfqh8J4N6lYaoLJdypdPmU0jH0beOcQ+l3Vc70vpzmM5b+wVD0uzALdYSa+PabqpiYZSGObpmtUN/0PTTH4J4GorztQuSe5YQJo5gKVEdfQ/WfYkxNZnmna1FGA/4el0ezSHnAERRM7vbwdn9aX6mdT5xZUO8SI/YHvPkaH8LYS3Cznn3XSCOabodhqovOekIrPofNshnDeRVCWMGkZzOh8lGjl7avBEmRPTiioXetAfv0kHMlynJDPBuzpdKmt1wMt7jcK1j+HOGYOu/utOAKMNzajDVkpPSmbfjU+atKbFW6xQmWTNkUG6mltYQPP/MF229iKjJBKHgUIHJ6t58AnL0Hi3jmvkl2iejAcH2w6Ww/IkWm6hzyBhuU5ZMPAzeGihz+VFVA==;iDm2JUdIyChhPcs2sz43jw=="
 ---
 

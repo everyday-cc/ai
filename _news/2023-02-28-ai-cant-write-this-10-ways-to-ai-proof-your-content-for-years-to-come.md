@@ -49,20 +49,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "OpenAI’s Bets on Tech Startups Hint At the Future of Artificial Intelligence"
-    excerpt: "OpenAI’s $100 million Startup Fund and Converge accelerator program have backed about a dozen startups that give a hint at what its next product might be."
-    publishedDateTime: 2023-02-28T22:32:00Z
-    webUrl: "https://observer.com/2023/02/openais-bets-on-tech-startups-hint-at-the-future-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: observer
-      domain: observer.com
-    quality: 49
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2023/02/GettyImages-1246870699.jpg?quality=80&#038;strip"
-        width: 3600
-        height: 2400
-        isCached: true
   - title: "EBay Head Of AI Talks About The Future Of Online Commerce"
     excerpt: "Here’s a look at how generative AI, real-time personalization, immersive experiences, and the metaverse will shape the future of online commerce."
     publishedDateTime: 2023-02-27T11:16:00Z

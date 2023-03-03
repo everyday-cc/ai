@@ -67,6 +67,29 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Majority of American Drivers ‘Afraid’ of ‘Self-Driving’ Cars"
+    excerpt: "Responses to a AAA survey indicate a rising fear of automated vehicles in the wake of high-profile crashes and federal investigations."
+    publishedDateTime: 2023-03-03T14:59:00Z
+    webUrl: "https://www.planetizen.com/news/2023/03/121991-majority-american-drivers-afraid-self-driving-cars"
+    type: article
+    provider:
+      name: PLANetizen
+      domain: planetizen.com
+    quality: 39
+    images:
+      - url: "https://www.planetizen.com/files/images/shutterstock_1478569319.jpg"
+        width: 1000
+        height: 750
+        isCached: true
+  - title: "Fear of Self-Driving Cars on the Rise as Vacation Season Nears"
+    excerpt: "According to an annual automated vehicle survey just released by AAA, concerns about self-driving cars are significantly higher than last year. The survey reveals 68% of drivers are afraid of riding in a self-driving vehicle. That's up from 55% in 2022 ..."
+    publishedDateTime: 2023-03-03T14:14:00Z
+    webUrl: "https://www.worldpropertyjournal.com/real-estate-news/united-states/atlanta-real-estate-news/vacation-real-estate-news-aaa-report-on-self-driving-cars-consumer-fears-of-self-driving-cars-in-2023-mark-jenkins-tesla-self-driving-cars-data-13563.php"
+    type: article
+    provider:
+      name: International
+      domain: worldpropertyjournal.com
+    quality: 4
 
 secured: "3SUW+fYbry5036VUvaIO6bhiADlZWeK1UYBLIkuovy0ULkaQT4icUZoKPlL5bXUKdGg/cxtHD2hgGe9v1h1tKTvkTh4I6xrfPTXuW4ZOScW2sDCPMen5Z/vW8SrpZhix6dX7uA0ISWtuAKO5j+RgAvp0he1FEPWK6lLxbvAhAOgzFDyc9WKNT58nB1tFvUc/UnSDvT3qNJY/r4LTmQ+wUwqLGd/CeSiiGcGRaDCocCHI32ubO2BxY54Q0EW8oWeDs2h77pAbKl01KxSTQ/5ToSO0fQiHyqRmxxE8PuJ7k0/+PWg8j0zT5IS0i3lgJT+VxaW8MRN30smQLMNoIriv9wkeH4f/OPbqjKD3mZBQJ/M=;+ShvESllOvK2beS85XI2GQ=="
 ---

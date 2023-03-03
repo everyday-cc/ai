@@ -55,6 +55,20 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Nvidia’s Rolls Out Latest GPU Drivers To Upscale Blurry Videos Via AI"
+    excerpt: "Nvidia has released new GPU drivers, which will upscale old blurry web videos on RTX 30 and 40-series cards. About 80 per cent of internet bandwidth today is streaming video, and 90 per cent of that content streams at 1080p or lower,"
+    publishedDateTime: 2023-03-03T08:37:00Z
+    webUrl: "https://www.techshout.com/nvidias-rolls-out-latest-gpu-drivers-to-upscale-blurry-videos-via-ai/"
+    type: article
+    provider:
+      name: TechShout
+      domain: techshout.com
+    quality: 54
+    images:
+      - url: "https://www.techshout.com/wp-content/uploads/2023/03/nvidia-rtx-2060-graphic-card.jpg"
+        width: 690
+        height: 460
+        isCached: true
   - title: "Nvidia's latest GPU drivers to upscale blurry videos via AI"
     excerpt: "“With RTX Video Super Resolution (VSR), GeForce RTX 40 and 30 Series GPU users can tap AI to upscale lower-resolution content up to 4K, matching their display resolution. The AI removes blocky compression artifacts and improves the video’s sharpness ..."
     publishedDateTime: 2023-03-02T13:25:00Z

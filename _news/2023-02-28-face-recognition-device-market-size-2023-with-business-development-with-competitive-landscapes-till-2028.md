@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/face-recognition-device-
 webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2023-with-business-development-with-competitive-landscapes-till-2028-2023-02-27"
 type: article
 quality: 52
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Vehicle Speech Recognition System Market Size is Anticipated to Grow and Reach Million during the period of 2023- 2028"
-    excerpt: "Feb (The Expresswire) -- \"Vehicle Speech Recognition System Market\" research report New Comprehension 2023 |Qualified Report Spread Across|"
-    publishedDateTime: 2023-02-27T07:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-size-is-anticipated-to-grow-and-reach-million-during-the-period-of-2023--2028-2023-02-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

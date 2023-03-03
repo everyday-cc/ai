@@ -35,15 +35,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Inventec Corporation: INVENTEC COLLABORATES WITH MICROSOFT TO DELIVER SMART FACTORY SOLUTIONS ON MICROSOFT AZURE PRIVATE 5G CORE"
-    excerpt: "Inventec, a global leading innovator in cloud computing, wireless communication, intelligent devices, and IoT, announced today its newest industry-leading"
-    publishedDateTime: 2023-02-27T00:09:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-02/58408945-inventec-corporation-inventec-collaborates-with-microsoft-to-deliver-smart-factory-solutions-on-microsoft-azure-private-5g-core-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
 
 secured: "sWv46n+lCN5/vOjw84FInQPLOQY0bXhmlTMo7F+TqMN+O7fU+Hrj+JCNf99dlXgHUTHD9X059UDtvnu4s4JhvU45+BPhtRaFS25nztZMjlycsTbiz+OrxL/TY9F3NheGD+JzFoV5cQr++RnRi7WXWPW5vqkLET+0H9AciNftD4GFnQKRVmJwljh/0ZkL5LjZcw+Hk8M6Zn5g7bNYzLG95huZmv5nnKVXPw0vnTPW3t6KD7Rrx8uQ7nYP/kRC+CfyytW580QEYvUNbpCTfxhEhRFMbXvf8r2by9NLDv/ylFmIxdd1W1oxzRO9h91x/y92vFm0/mYhSsatqQyvyHbq6QFXwA4yBraGO7tltg/OjUo=;MqmUeh+5JeriQERZroHypw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-03T10:30:00Z
 originalUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-bank-of-america-2023-3"
 webUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-bank-of-america-2023-3"
 type: article
-quality: 72
+quality: 74
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ topics:
   - AI
   - AI in Finance
   - AI Hardware
+  - AI in Autos
 
 images:
   - url: "https://i.insider.com/6400ec0e994ec3001894166d?width=1200&format=jpeg"

@@ -45,6 +45,15 @@ related:
       name: eWeek
       domain: eweek.com
     quality: 47
+  - title: "Cybersecurity’s Third Rail: Software Liability"
+    excerpt: "The Biden administration’s cybersecurity strategy calls for placing responsibility for buggy software on those best positioned to reduce risk. It’s high time, but it won’t be easy."
+    publishedDateTime: 2023-03-03T12:16:00Z
+    webUrl: "https://www.lawfareblog.com/cybersecuritys-third-rail-software-liability"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 19
 
 secured: "3NoGEDKen66Wh/okbwasb7B6ax1MNxzAQLJrYG+ryogL95VeMtbENtJ6T2zQ0boDJU60ORJ7p+E3D/64lhAKDVX+cOJpzCNMFikyWSFZxWQd6xi/CLQywDWydgbCoIAEHeBViOvVgN70arRocfwwOLa5xQ24fVoR9oP7wJQI8nzerpheHNIs0WyLqwyKDNa5Y2JOldrgUic7ElKk7YL4iu047v4i/m87FNTtNQeQvcoG+2QYCOTgC85pSSxLTgtu4oix55QXY6T2A3ZwrFYD0DwhbsGO7kUx04r4NcccFdiePVeBNTrYHxBfBoBsa6qnUQ3duuO5BMKiqX0XppS/zi8P+jGdZebAAAZdcaG6hk4wDlXcs3JMyFzddEPqNiuVgUcbborKgFb4yTZwr9O5iw04lrut0x70lYHwt9UEG+hWLj9FvHJyRHun82qXkbaSw07o6s7P11L98u/3EVA/gZ8KQcyXQj3ynYhtFc703qJj9PtkH3FgWmjsikM3ak3k3NUWOLuVKV62C0Avq0gQXw==;bgzfp+0gTJPwY8pkZQiaEQ=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 813
         isCached: true
+  - title: "Brave adds AI-powered Summarizer tool to its search"
+    excerpt: "Privacy-focused browser maker Brave has launched an AI-powered feature called 'Summarizer' for its search engine. Brave launched its search engine two years ago after acquiring the Tailcat search engine."
+    publishedDateTime: 2023-03-03T12:17:00Z
+    webUrl: "https://www.zdnet.com/article/brave-adds-ai-powered-summarizer-tool-to-its-search/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 47
   - title: "Ambient.ai Launches AI-Powered Forensics to Enable Fast, Fully Integrated Security Investigations"
     excerpt: "Ambient.ai, the company transforming physical security with computer vision intelligence, today launched its AI-Powered Forensics solution to power near real-time incident investigations. New entity and event-based search capabilities allow teams to search by objects,"
     publishedDateTime: 2023-03-02T15:44:00Z

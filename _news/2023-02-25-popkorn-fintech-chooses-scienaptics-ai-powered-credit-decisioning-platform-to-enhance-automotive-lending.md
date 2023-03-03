@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Popkorn Fintech chooses Scienaptic's AI-Powered Credit Decisioning Platform to enhance automotive lending"
-excerpt: "Leading global AI-powered credit decisioning platform provider Scienaptic AI announced today that Popkorn Fintech has chosen its platform to sharpen its loan decisions. Popkorn Fintech will be using Scienaptic's platform for instant decisioning and credit assignment."
-publishedDateTime: 2023-02-25T11:38:00Z
-originalUrl: "https://www.aninews.in/news/business/business/popkorn-fintech-chooses-scienaptics-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending20230225190827/"
-webUrl: "https://www.aninews.in/news/business/business/popkorn-fintech-chooses-scienaptics-ai-powered-credit-decisioning-platform-to-enhance-automotive-lending20230225190827/"
+excerpt: "Popkorn platform is free for consumers. Popkorn Fintech aims to put AI-driven technology in the hands of frontline sales professionals at automotive dealerships to close loan requirements of ..."
+publishedDateTime: 2023-02-25T14:25:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Business/20230225/4043205.html"
+webUrl: "https://news.webindia123.com/news/Articles/Business/20230225/4043205.html"
 type: article
 
 provider:
-  name: Asian News International
-  domain: aninews.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20230225133458.jpg"
-    width: 600
-    height: 450
-    isCached: true
-
-secured: "16+v3rqoBvBQi7Y2ixLwMo23/Fd9jywbRqfw/j7x528CqgQGtbCXYMm37zEyMxiMdMLSNutTtD3X0TWDedrjJqaG1YD5zz/CVN3txEbQXX9qBNJmiQjQXRtcY1hvJmLO206cWfjVqi3XZM+RM/JBQZRWhPqDmbMK8aWC5rA3PK/MxJu/mE4W6xRdKfLEgY9Zrl3UCTP4d0/jEmJiSEMW8idDPh8uwVlNYlfhjCVHrg+azrMH9g75QueeGuguqYZpM5de/rsIRmSPueYIEzw+uSU+BmJt/sycZ+3eOfUn6hWAE989VuhjwisC3jUsZZsGCWl5olMkXJvnT2pgxR4HZZTT38FFbi1FkG7I1Pivyv/CatVPClYE7r6YVDgzyBdOoIk1+AoeC2w4AuZnJdOVHzQ2eyDJHA++6LPu6sDs03anMnlS1pOUs+cwZ2Xgrl6Fvae3UiTw3Sxvzhx9oPE4MOW04THZEB3Ry2b8+cuIvkAVRMRumjfRZTD5q1eQtwH9B452SFTJKHiTfn/1NGNyfw==;t3EITBJBxfdmx2gYgRIxWw=="
+secured: "w4LHRpacRqRgfFpa/abVP1kk3GiTLafQzsa3wP//QWWT2X5BVT7Uhva0uOa4iW61f2Lpz+bfnkzBcebMnhUDwQzj18f1VgLKhBWYA9zjhxzY0mWoZD9lI6ebAlseEY1goyyTmSSaqumIkXnZ2tLkZAZWwpfiP534LCNc+CfmB4q+r2uhOH3afeIMxZR2TRha1wQDzn1JXNiwkvhJzfwkHherLT8cljTIa0L8h2lmZgBb4efQEgDQCC0OPWfBVWHPoUJIfyToJd44TrtbVC2EID4i9DiVwICfmRq+mgQk2k2wsRA7Zu31aXgLwaUmOr0rYd5rWB3pldRgP3lncaCtCBB5nOnsntUczs5MihW5jAc=;9dNAPWYSPkriuAOyC6wruA=="
 ---
 

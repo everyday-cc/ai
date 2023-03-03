@@ -59,21 +59,21 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Zib Digital Explores the Possible Role AI Will Play in the Future of SEO"
-    excerpt: "According to Zib Digital, the leading SEO agency Sydney-wide, one of the most significant ways that AI is impacting SEO is through the use of natural language processing (NLP)."
-    publishedDateTime: 2023-02-27T01:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/g31063062/zib-digital-explores-the-possible-role-ai-will-play-in-the-future-of-seo"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31063062"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31063062"
+  - title: "Chips industry goes all-in on AI"
+    excerpt: "US firm Nvidia dominates the market in specialised chips known as GPUs, which happen to be ideal for training AI programmes like the wildly popular chatbot ChatGPT. (REUTERS) It's been a wild few years for the microchip industry,"
+    publishedDateTime: 2023-03-03T16:29:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/chips-industry-goes-all-in-on-ai-71677784260105.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chips-industry-goes-all-in-on-ai-71677784260105.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chips-industry-goes-all-in-on-ai-71677784260105.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 74
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://images.hindustantimes.com/tech/img/2023/03/03/1600x900/UKRAINE-CRISIS-USA-CHINA-0_1677819326720_1677819326720_1677819393562_1677819393562.JPG"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Understanding the ethical future of AI"
     excerpt: "Dr. Matt Lease, professor in the School of Information at the University of Texas at Austin, provides a better understanding of AI and Chat GPT."
@@ -88,22 +88,6 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/02/498e19c0-da72-488e-8b06-d9cba02439ac/thumbnail/1200x630/95864d367cd050f4ce9fcbc145a263d1/906fd3b041edd85641998b9e8cfe4ae3.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "SKT to Lead AI Transformation in Industry and Society with AI Services and Technologies"
-    excerpt: "SK Telecom (NYSE:SKM, hereinafter referred to as &#34, SKT&#34, )) today held a press conference in Barcelona, Spain, to unveil its ambitious plans to achieve 'AI to"
-    publishedDateTime: 2023-02-26T23:32:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/02/n31062898/skt-to-lead-ai-transformation-in-industry-and-society-with-ai-services-and-technologies"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31062898"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31062898"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Meet the first-ever artificial intelligence editor at the Financial Times"
     excerpt: "\"I want to make AI more understandable and accessible to our readers, so it doesn’t feel like magic but merely a tool that they can wield.\""

@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/41868/westpac-signs-five-year
 webUrl: "https://www.finextra.com/newsarticle/41868/westpac-signs-five-year-cloud-deal-with-amazon-web-services"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - AI in Finance
   - AI
   - AWS AI
-
-related:
-  - title: "Westpac strikes five year AWS deal"
-    excerpt: "Westpac has struck a new five year agreement with Amazon Web Services (AWS), almost a year after doing a similar deal with Microsoft for Azure. The bank said it had been working with AWS since 2015 and that the new agreement would expand its access to services,"
-    publishedDateTime: 2023-02-26T21:47:00Z
-    webUrl: "https://www.itnews.com.au/news/westpac-strikes-five-year-aws-deal-591340"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 41
-    images:
-      - url: "https://i.nextmedia.com.au/News/westpac-1220507504.jpg"
-        width: 1257
-        height: 835
-        isCached: true
 
 secured: "hCP5kTZQesf2xYi+I5pe9b/TpzcwCON5Cx9mGxJvTmK0JBYMt6Qh6jpwXb5Vt6EdTyiQAcobYN56gzXixZqDuW6f6u0clCZ9q/DsPaEpu1j29LVbEMXdVEjCqs+kya923mRgRkriIausxhfkUFxtifLEb3jMOfzuCr9eI/RSEbbVkKs3Y8ft97Bjbb/qFFMjkoyLwnmUom97MDds5PJV57YehgUQefT7A/X8Xl8GSnAftT7PzhcpD+Spfmw9+8VP1tjH29CmIpDWiGkpF7lL+DJzakQOl/RvZ0h40VjA23sZitiwcAPH3d0FxPw2prrRF9kbN2qpsb1EUHuyeU9Jf+Z83XFMe161kZfuPAWQZIg=;QBzCufVZiKbGNb8hJ/6W+w=="
 ---

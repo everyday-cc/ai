@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-03T13:16:00Z
 originalUrl: "https://www.radiotimes.com/tv/entertainment/camilla-parker-bowles-antiques-roadshow-newsupdate/"
 webUrl: "https://www.radiotimes.com/tv/entertainment/camilla-parker-bowles-antiques-roadshow-newsupdate/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Radio Times

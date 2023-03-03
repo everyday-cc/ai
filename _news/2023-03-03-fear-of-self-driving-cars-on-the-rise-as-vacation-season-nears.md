@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-03T14:14:00Z
 originalUrl: "https://www.worldpropertyjournal.com/real-estate-news/united-states/atlanta-real-estate-news/vacation-real-estate-news-aaa-report-on-self-driving-cars-consumer-fears-of-self-driving-cars-in-2023-mark-jenkins-tesla-self-driving-cars-data-13563.php"
 webUrl: "https://www.worldpropertyjournal.com/real-estate-news/united-states/atlanta-real-estate-news/vacation-real-estate-news-aaa-report-on-self-driving-cars-consumer-fears-of-self-driving-cars-in-2023-mark-jenkins-tesla-self-driving-cars-data-13563.php"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: International
@@ -14,6 +17,79 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "68% Of Americans Afraid Of Self-Driving Cars, Up From 55% In 2022"
+    excerpt: "Santa Monica, using IONIQ 5 AV Tuesday, Feb. 21, 2023. (Allen J. Schaben / Los Angeles Times via Getty Images) Roughly 68% of Americans say they’re afraid of self-driving cars, according to a new poll by AAA, a huge jump from 2022 when 55% of Americans ..."
+    publishedDateTime: 2023-03-02T23:23:00Z
+    webUrl: "https://www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/640125a0ec7e342f308619bf/0x0.jpg?format=jpg&crop=1900,1068,x0,y98,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Majority of Americans Would Not Rely on AI-Based Healthcare"
+    excerpt: "A recent survey found that 60 percent of Americans would not be comfortable with their providers relying on artificial intelligence to provide healthcare services."
+    publishedDateTime: 2023-02-28T17:29:00Z
+    webUrl: "https://healthitanalytics.com/news/majority-of-americans-would-not-rely-on-ai-based-healthcare"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/majority-of-americans-would-not-rely-on-ai-based-healthcare"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/majority-of-americans-would-not-rely-on-ai-based-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 74
+    images:
+      - url: "https://healthitanalytics.com/images/sized/GettyImages-846841412-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
+  - title: "Nearly 70% of Americans are now ‘afraid’ of self-driving cars, survey says"
+    excerpt: "We were not expecting such a dramatic decline in trust ...,' said the director of automotive research for AAA."
+    publishedDateTime: 2023-03-02T21:08:00Z
+    webUrl: "https://www.silive.com/news/2023/03/nearly-70-of-americans-are-now-afraid-of-self-driving-cars-survey-says.html"
+    ampWebUrl: "https://www.silive.com/news/2023/03/nearly-70-of-americans-are-now-afraid-of-self-driving-cars-survey-says.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2023/03/nearly-70-of-americans-are-now-afraid-of-self-driving-cars-survey-says.html?outputType=amp"
+    type: article
+    provider:
+      name: Staten Island Advance
+      domain: silive.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XVEQSEDXGBHKJH2LZNTSTSDTPY.JPG"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Majority of American Drivers ‘Afraid’ of ‘Self-Driving’ Cars"
+    excerpt: "Responses to a AAA survey indicate a rising fear of automated vehicles in the wake of high-profile crashes and federal investigations."
+    publishedDateTime: 2023-03-03T14:59:00Z
+    webUrl: "https://www.planetizen.com/news/2023/03/121991-majority-american-drivers-afraid-self-driving-cars"
+    type: article
+    provider:
+      name: PLANetizen
+      domain: planetizen.com
+    quality: 39
+    images:
+      - url: "https://www.planetizen.com/files/images/shutterstock_1478569319.jpg"
+        width: 1000
+        height: 750
+        isCached: true
+  - title: "AAA: Fear of self-driving cars on the rise, new survey says"
+    excerpt: "WASHINGTON - The fear of self-driving vehicles is on the rise. A new survey from AAA shows 68% of drivers say they are afraid of self-driving vehicles, an increase from 55% in 2022. \"We were not expecting such a dramatic decline in trust from previous years,"
+    publishedDateTime: 2023-03-02T13:38:00Z
+    webUrl: "https://www.fox5dc.com/news/aaa-fear-of-self-driving-cars-on-the-rise-new-survey-says"
+    type: article
+    provider:
+      name: Fox 5
+      domain: fox5dc.com
+    quality: 4
 
 secured: "ub3+iTyVMEoUPvlm6Le4mPz1cZyypSXC4jyq60t3PhWIQIHXWaRBkMAmshosFSmS9tkIecJ2YzOTrYtT+Mgl70P6mwv7YM8EOtVJyZEvg1Ess/nO04W6gOFV0BsNBDyZRrW6TU4WDs0uLkfxB06UjEx0bRzJp+x3+amC2/M8nwl8zFAZZWXgbxVChrEFNV02jW6Nl4j9R1mFQx3U3A2cTgyUey2CA4+lGp5zpW5W5ropgybWYEWgK+WXPmS+WwjbaOQsi0AWqsHaIfnom5qa8Kwce4wlP6skxgTQP0m1eOebXRpzonlERxCZRgaIVZAaJsTGPKHFpOM3wTxq3vpdd1NvucSWq7y8Y/Py7aOQMtc=;HOuMGB9jC5OAa/5iWlLLbA=="
 ---

@@ -2,11 +2,11 @@
 category: news
 title: "AI learns to outsmart humans in video games - and real life"
 excerpt: "Video game players have competed against computer-controlled opponents for decades, but they haven't been as smart and fast as GT Sophy, the new AI driver on PlayStation's Gran Turismo"
-publishedDateTime: 2023-02-27T16:04:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
-webUrl: "https://abcnews.go.com/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/outsmarting-humans-step-ai-video-game-players-97487341"
+publishedDateTime: 2023-02-27T16:02:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
+webUrl: "https://abcnews.go.com/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/outsmarting-humans-step-ai-video-game-players-97487481"
 type: article
 quality: 59
 heat: 99
@@ -74,6 +74,6 @@ related:
       domain: richmond.com
     quality: 17
 
-secured: "pnJmdTaVPAbpxfxQKeiUzAe4371CGhqZ3DZoi4rXbPbqx0JFANNFaGNgQeKGG2WsSYUCuMSZNBBeMtdhwFf8MDA2KsqtDX0CmGRhmeg9PfHXWnPm1NjBWIoKB8fw4FRRj5ARaeUau2roziioccs6gTLGSrANt9rqeh3sOaOS+ZA9E9FgogeehSQansYkwMUwfV6cluUcdkGd1HnqI3P9Ri0YGI88Whh89e1yRVsE0SqFHhDk1Mvlb85VkYHQlA/QKony0AY9n9AaQ3EVcW0ElyHsm3WV3pH2Z2S7Z+EAf23fw2vwMdfxicbJ0yLLvgxpMa9qgwhQEIqmpR+aYAceULAd1xwRZa/8k5j5V/MAUjofeUx8lQ/iPu3uBrk3vsvw0zEdEWE/rYYAt+LiAsufhWmIGJiM6KvJMVApFp2nbjBrUvaxVBsXMXD+LD7+9DzoRnaouI3iWRRv7qg2Fqm+iQk3wEv4DHAvpWWCQfJXHatI21DPKVtmurflV+vWWm93RCLUVKmYY5/G38Pi4rSmpw==;24LWeZh00yKLK6JC4tXmhQ=="
+secured: "NK8NB92B7xEeWt0/v0BvrlActOp+fSxuKuXig1ibSSnZjSCXF2CADcKqaXTCHxaqrs5dcdZxQXekUtodpQr/8V01wzc/VvIF1O9nQhL88l9KRknGDhFaCUJvRtKLRMHbSCPXTu3YhGDCJP0zYV6pNt64FmpphFLDiBosv1ffB6lr0mKAjjmaS4UA93ft/E08tPOn0BaIKOZTEckuFQPWzio3agPm4F90wS2h6R+i+QEDZNF5cuNZVSuMs/NeGpxSu5PLKvhkvidM8TD0Hl6XavA7RTxSltoNS8Kiv54M1yIQtGiKaSgkhgC493wJ6+6jGyx7X9n37dzBOpBVKwO65MFH9R4zqYM/iRtJ7sALi4s=;O2VXk3yMgwgerZLj0yC+pw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-03T14:15:00Z
 originalUrl: "https://www.silive.com/news/2023/03/port-authority-expanding-self-driving-shuttle-testing-at-jfk-airport.html"
 webUrl: "https://www.silive.com/news/2023/03/port-authority-expanding-self-driving-shuttle-testing-at-jfk-airport.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Staten Island Advance

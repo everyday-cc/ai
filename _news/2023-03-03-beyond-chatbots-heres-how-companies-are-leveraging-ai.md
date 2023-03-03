@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Snapchat launches an AI chatbot powered by OpenAI’s GPT technology"
-    excerpt: "The company announced today that it's launching \"My AI,\" a new chatbot running the latest version of OpenAI's GPT technology that it has customized for its users."
-    publishedDateTime: 2023-02-27T18:42:00Z
-    webUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/"
-    ampWebUrl: "https://techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/27/snapchat-launches-an-ai-chatbot-powered-by-openais-gpt-technology/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/02/ALT-Comms-banner-2.png?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "D-ID unveils new chat API to enable face-to-face conversations with an AI digital human"
     excerpt: "D-ID announced today that it's launching a new live-streaming API to enable face-to-face conversations with an AI digital human."
     publishedDateTime: 2023-03-01T19:45:00Z
@@ -74,20 +58,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/02/Screenshot-2023-02-28-at-4.26.44-PM.png?resize=1200,753"
         width: 1200
         height: 753
-        isCached: true
-  - title: "ChatGPT Killed the Radio Star? These AI-Powered Chatbots Can Replace DJs"
-    excerpt: "The RadioGPT system taps OpenAI's GPT-3 language model, along with an AI-generated voice, to create an artificial DJ capable of reading the news during song breaks."
-    publishedDateTime: 2023-02-27T18:04:00Z
-    webUrl: "https://www.pcmag.com/news/chatgpt-killed-the-radio-star-these-ai-powered-chatbots-can-replace-djs"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 66
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04SpOo2lEosf80ttweNfXwU-1.fit_lim.size_1200x630.v1677515547.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Forget chatbots, this is how US companies are using AI"
     excerpt: "AI-hungry investors have propelled Nvidia Corp., which makes the chips needed for complex AI computing tasks, into the best-performing stock among mega-caps this year. Relatively obscure firms with AI in their names have also skyrocketed."
@@ -136,6 +106,6 @@ related:
         height: 900
         isCached: true
 
-secured: "DFV1UB9/LxnMD4rVF0xysVYRbMwKkTxnZP2z7mkNxzb+36axkpPIEHTcGBrVyvod74ENV17OHAfgJlUUgwt1S9OJnezKpm1bNc0ucNoWArkt1GOOkXMmglE/X1kAvY9zNaNJkje8d7rHUTLYSUaZnjKJ/4nZqHu+H5t0AUVwZniMsS75JeKCOYQ4Y+C7M9WWvH1cWc79CdlobWx1gq6PJuvKjo2Mro08MydWb1AViOhnf/av380hMkgAsoidDf3f1b5B0aChSVul8Tgw9Cn9K9DReyJB6hz8KjrXk2HbNTD6uDYsVpfkSbwsihrFTwXgakkbR0kALa/d2cf+YZ3zIXW3KsVjksrNpVW0irDBlZg=;A8e5m5bKrCpt6gWuD1XXCA=="
+secured: "RZlVXEm7fntc3e6NAIvPMSLsP5ZrCpcW87iEmxvenSYGz/VHF+vip4s1wf8eusc+52iKy8/6zq3xFizy98skGJqX4TiDsxJzZtwfhY3xnoerJwA2tbQy5up4zq1gbHErCI6nCWSimyzCwZ9DmLHR4b3aDr+Rv33UcyR3Nlh0WKyZmDpeu6Y6Pb8NV3bWRvCI9KkgTMz3FIOPS+ISdtyeP6gs1+vel/J0bgB+Rw1SZo64ex+oC+edQETK0NCF3vS+f+K3O2npfXumDZfid/EODTvQdGLip2kIBMH/+XExF+t7ApKElbNA8a3qf1eENI/KJ+dQHHIUz0KXfJpZrrlqfK1qhlFvv5AKSm9s7TmT4WKoGXu9L0qEi6FhtcGooUykn4NLXyyelLfBTkaku1vXUJ40LTrVuuRM2rQ9RR7kZYfaAF0T1bRcqPbmSm0VHJnHDvhILsyQRq7q1NIFB+kkRil+vxh5VkWG1hfhpIriugrX1SX0AnTrEgMg5bBXSmrF1/LygP3eOXO06HyiznMubw==;ALkkF15jrlItYnDOp019rw=="
 ---
 
