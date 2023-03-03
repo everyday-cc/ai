@@ -10,14 +10,14 @@ website: https://t.co/It4puKUIPF
 twitter:
   username: madelinegannon
   url: https://twitter.com/madelinegannon
-  followers: 3296
+  followers: 3297
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://pbs.twimg.com/profile_images/1564265202266394624/s-FSAQiw_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1631492106350129152/x9_weh8G_400x400.jpg
     width: 400
     height: 400
     isCached: true
