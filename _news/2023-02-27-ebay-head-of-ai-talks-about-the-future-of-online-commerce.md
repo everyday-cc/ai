@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "This startup uses AI to help companies accurately predict future revenues. Check out the 17-slide pitch deck Ramp used to raise $5 million."
+    excerpt: "Ramp has developed a SaaS tool that gives finance teams a more efficient method to forecast customer revenue and financial insights."
+    publishedDateTime: 2023-03-03T06:00:00Z
+    webUrl: "https://www.businessinsider.com/ramp-financial-modelling-startup-raises-5-million-in-seed-round-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+    images:
+      - url: "https://i.insider.com/64008c5bce4a630019955733?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "yvwhfPzfmlxNCkzsGaDm+l0Z43o308On4FY8w56zzwrXnkPCCT/PVQtbSkuL1XUcdLcXnKQ7r5GP0BnipHOmNAAuhUKMaj1Ag9EE4R9GweLgvg3cSRTzKysQwslikHmXoTG9oJjRVE3tIpyrjfGoJlWwQs2H/aeHrAsAWqYbIU4bemVlxgoUsM13gJONxel9t64Ae87BxKTQSFaxVzSEGWpf6oa4ATWwAdvlyF8u/6m3bdyKHnpk4/m6tCaXsY7a/cgxFMB1oHbJrHc8kPW3PBydTRN/GAd1jdhnCJM6drL0lAbZg8+QwU3A/l6OoUpf80SjXVjsrnUw9lam2QEFGy6z3ACJQqxhSJxqTB6/1K3RapAMqb3GtbLa2dM6RBh/UQQVgM0iEdN0yYusLvHrNsNeLmzxklR7hn+ieyeulNU9wJ2AAQhHoBS/SBsMmuxQ1bzpG5h/CU+IOMl2Ja2AWwxWYtq+hQK365zVha08RMTPNsM0gOErXm2udqbevlz74m1NALRNynYQRwlonQ9yeQ==;LaE/0f/FaqW9/GFYNPlc5w=="
 ---

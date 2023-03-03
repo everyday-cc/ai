@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 666
         isCached: true
+  - title: "Startup Figure Unveils Photos Of World's First 'General Purpose' Bipedal Humanoid Robot"
+    excerpt: "Artificial intelligence robotics startup Figure has unveiled photos and a video of Figure 01, which the company calls the world's first \"general purpose\" humanoid robot. The biped"
+    publishedDateTime: 2023-03-03T04:43:00Z
+    webUrl: "https://www.ibtimes.com/startup-figure-unveils-photos-worlds-first-general-purpose-bipedal-humanoid-robot-3673430"
+    ampWebUrl: "https://www.ibtimes.com/startup-figure-unveils-photos-worlds-first-general-purpose-bipedal-humanoid-robot-3673430?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/startup-figure-unveils-photos-worlds-first-general-purpose-bipedal-humanoid-robot-3673430?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 51
+    images:
+      - url: "https://d.ibtimes.com/en/full/4427567/ai-robot.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Generative AI Startup Typeface Emerges From Stealth with $65M"
     excerpt: "Typeface launched with $65 million in funding from Lightspeed Venture Partners, Menlo Ventures, M12 and Google Ventures."
     publishedDateTime: 2023-02-27T20:36:00Z

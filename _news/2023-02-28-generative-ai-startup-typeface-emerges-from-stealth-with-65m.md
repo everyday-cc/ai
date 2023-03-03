@@ -55,6 +55,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Startup Figure Unveils Photos Of World's First 'General Purpose' Bipedal Humanoid Robot"
+    excerpt: "Artificial intelligence robotics startup Figure has unveiled photos and a video of Figure 01, which the company calls the world's first \"general purpose\" humanoid robot. The biped"
+    publishedDateTime: 2023-03-03T04:43:00Z
+    webUrl: "https://www.ibtimes.com/startup-figure-unveils-photos-worlds-first-general-purpose-bipedal-humanoid-robot-3673430"
+    ampWebUrl: "https://www.ibtimes.com/startup-figure-unveils-photos-worlds-first-general-purpose-bipedal-humanoid-robot-3673430?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/startup-figure-unveils-photos-worlds-first-general-purpose-bipedal-humanoid-robot-3673430?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 51
+    images:
+      - url: "https://d.ibtimes.com/en/full/4427567/ai-robot.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "DMBjw0atPGmxz+DY/vRUA4OGVk7h259i3ukZ3tGv6RsN5LdruUbAySTLpyO16JDgaK6D84rydMtfRozCbMEDF5tFIuhWNeoz8XCcYimPA4bgIKZuMm0i2MzFzv9p6mdgsbQ3FjBIZKZ2fRMSx89MZn/W5UeWd83HZERe0eJaezIb00HqQ7vEUEytyn8/xfqMYfLYU+Kdxm9Np+MN0vbwSNkmomC3LpBrRan4Rad7uKTFrTIF4ol1RjOnIHlFkXSz8XT44YSAuEDmvmzd/cjyOhH2CTufucl6VemtIJMFhAhxY2MlaBwRUZFtt1Cy9yMbhNMsGeIXZ0mABhRv3MASvDJOzTcFd9vNIk0+UckXTz3nis0BhDEUnTJREIfoM94mNo+bOaqlIz0C2rSrLpsmQAVGP+qvFcnz/iKAaY/sHQYWsLOoAZfYZvn8f9usMDtMDoOaw6OCz1d1EkTyXtWWxofrR/dRdOpfRHqZEZW8lUs1meq4ZOvHH4daIWlfBH6qE/wuh96lCe1sz5yDuaPhUA==;zL3qYs4M/WHEfqOtMDyIng=="
 ---

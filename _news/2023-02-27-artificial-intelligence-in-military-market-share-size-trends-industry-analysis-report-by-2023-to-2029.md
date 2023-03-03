@@ -196,34 +196,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Report Historical, Current, and Projected Size, in terms of value 2028"
-    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in Agriculture Market\" Report provides a Detailed analysis of global market size,"
-    publishedDateTime: 2023-02-26T13:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-report-historical-current-and-projected-size-in-terms-of-value-2028-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in the Freight Transportation Market by Top Manufacturers, Growing Demand and Supply 2023-2029"
-    excerpt: "Feb 26, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in the Freight Transportation Market\" Report covers specified competitive outlook"
-    publishedDateTime: 2023-02-26T13:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-the-freight-transportation-market-by-top-manufacturers-growing-demand-and-supply-2023-2029-2023-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision in Artificial Intelligence (AI) Market Analysis Report 2023 Along with Statistics Figures, till 2029"
     excerpt: "What are the Key Industry Development in Computer Vision in Artificial Intelligence (AI) Market? Computer Vision in Artificial Intelligence (AI) Marketsize, segment (mainly coveringMajorType (, Hardware,"
     publishedDateTime: 2023-02-28T03:39:00Z
@@ -256,6 +228,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in BFSI Market Players to drive Merges and Acquisition Strategies to Expand Market Share, 2023-2027"
+    excerpt: "Artificial Intelligence (AI) in BFSI Market Size With CAGR of 29.6% During the forecast period 2023-2027 | New Report"
+    publishedDateTime: 2023-03-03T04:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-players-to-drive-merges-and-acquisition-strategies-to-expand-market-share-2023-2027-2023-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) In Retail Market Is Predicted To Advance at a Stupendous CAGR Of 30.3% by 2033: Fact.MR Report"
     excerpt: "Fact.MR, a market research and competitive intelligence provider, reveals that the global artificial intelligence (AI) in retail market is set to achieve a valuation of US$"
     publishedDateTime: 2023-03-02T17:00:00Z
@@ -271,6 +257,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "AI and Big Data Analytics in Telecom Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
+    excerpt: "Latest Report will contain the analysis of the impact of Russia-Ukraine War and COVID-19 on this AI and Big Data"
+    publishedDateTime: 2023-03-03T03:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-2023-size-industry-current-trends-demand-and-size-share-estimation-by-2029-with-top-players-2023-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Automated Machine Learning (AutoML) Market 2023 Size Industry, Current Trends, Demand and Size Share Estimation by 2029 with Top Players"
     excerpt: "Automated Machine Learning (AutoML) Market Report offers an Complete view about Automated Machine Learning (AutoML)"

@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/technology/microsoft-i
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Empowering operators and enterprises with the next wave of Azure for Operators services shaping the future of cloud"
-    excerpt: "At Microsoft, our aim is to be the most trusted co-innovation partner through every stage of the digital evolution, committed to working with communications service providers (CSPs), enterprises, developers, and ISVs alike on the future of a ubiquitous cloud that unlocks the true potential of modern"
-    publishedDateTime: 2023-02-26T15:00:11Z
-    webUrl: "https://azure.microsoft.com/blog/empowering-operators-and-enterprises-with-the-next-wave-of-azure-for-operators-services-shaping-the-future-of-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 67
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/82ab7088-dfa9-4863-94e0-d0dbc786f84d.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Microsoft introduces next-generation hybrid cloud platform"
     excerpt: "Microsoft: According to a report in tech publication TechCrunch, the tech giant believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership."
     publishedDateTime: 2023-02-27T08:28:00Z
