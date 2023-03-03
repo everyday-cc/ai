@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "insitro"
   url: "https://twitter.com/insitro"
-  followers: 5104
+  followers: 5103
 
 size: 11-50 employees
 yearFounded: 2018
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Insitro"
 
-secured: "ZHEMJrrWS6a2uQhgmRRuhFHuFdTFePV2Z5tGI159kCascnpKkxHVnQg1TtoZHAV69gAFqHnRhnEQItjtf9xrBsYApmkBWgenLir0XLidyUkvyJrpE/a/PcTByYaOGCD/mlaUncpu9nJQvNogzmp9ZHwUgNBzX0J9e5Uo+a/io2ofGmtZ/zkZxTQiO1MkbqgJSFO7JhOZzPIzJK7LUmuQIyzSSxzai0hBw85ASalhXaBVUkgUpzoN7H/4SNlEkCNAqW8CHJEqwKtdfO480NJXYn+JFSKSNU8fplMgB9S2SQien8kIHmcPBCSXvSsTqqtYjAIHLLnNUqxgn+O3j+09JsN7kcz7fbuBYcxgkKlnz3AWvGrlTHOexre++H5A91UgRntCTSgJy4Ck3XyQTe0NDIGCRiQvz/ms8rh9M0f2VnU=;bLXUPt/zTQ2BXdws8Gth9g=="
+secured: "gYEj0iWEkeg9mWhsKuM2frGYACoERXmwpt7xgDtrhJPUOBh53c5MuOgQwnAVRHN6tGWfMIflPU/OvxQDzB6Upq/r0v6SAVrkFv+NeAVS+6/c7CSZo5y5UINn+V4tw1UTVU1v/G1ug4u0xZ+O3nka0uFTRURlKSYjB+I0JCDl0I3/cHRPvWF6GZwkNVj4rg/CEjqhTFKZxDMqcnAAwpDmzQLJwid55wPLAlQ1Sov+yPSIvjIHLnKzmHFGJR3Hk8GsafNNsHOUbcG386hyXcTSislVngV4Gg3kTJG5PnWcSIUAcvXHScEtbvLSFDSu4Q10ijajNQD5LRnB08BzTUpKW0wBZE8dsBUtGCggN0mg4KdYR/N33vBn4uFs26qEz8NO2HV7/7w2ThamE36nYC6NUyNfCVfsmIBKVibltNTprgw=;ThHMbGxr/0rc1PNrt8t+cg=="
 ---
 

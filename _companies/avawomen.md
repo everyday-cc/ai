@@ -2,7 +2,7 @@
 name: "Ava"
 overview: "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://www.avawomen.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Ok_A0kTEGpw"
 
-secured: "mzzVVdVpzPLQFTJExLmxPlRkeTlJxVjJKhWFE8VTrLAJRRxOnuyxwEFS69soPRl9TDOiLsbjxV02lSvUUSpDqpAREXfttbb+M8K0UaHwY/QKdTf0OZzhbikuyT+8BJwGZdcSG/I8221FFFCOs6UnC5H5d8I8iUVDChIkSHUcUFjWW7Nyux0T+raM1repisA/2pc5Ejq1m5KuL/P+mCw/HxmykghE3oRmgoqLbhde2zdo1To9XI/bBCRfDIxSKXp4qAYGPISLFLIr0i5d90kBvWjfE0cJ/Hz2Rqc5zq5FKm2exRGU7ilNy+oV9d/CreH/FNosrk2rBT7c0hP1lIZgT6ZiFCxmkyy0KyDCXK9LYwW53f613nmB+30uv21oQ8GlcjdIdgUvTDngj8zCgFv+PsOKfTOQjr1aaeW9qK8PwPE=;ZZPbh76OsBRRECeK+tyEqQ=="
+secured: "C/4FHqHheYb5CkwxasYfgXl0oNuXoGjGePPlKP3QlyHvqjMBCSjdP7FEm15+EsJk+dlF/03k7eVyCNWEWmlBh4aYxyQhDPMQRZopewBhoNjUFAc92RK0DWnj5SjWEdXw8FqYdzt5LI2TbbKJDymnwbLBiQUuazTvxVOoVLU5io4S36S2ni5TlsYxDz6LvcbOYY9CNx+QymEEHyZd67I5FQ7ZxsdvELLDau8x8xy9sWODBCktJvWPmlAnVQNvM63JJ8xfPusgyFEb4dV8lcwjeWxU3zzt/V1RN/clpjCfV0F1T3+YxFIGkT4NsoR0PAIY8UGQ3r1vdDylpuLSGjgR+RYd+mta2soTj9nfA8q19ymYKtoPDrwrbWoLlmyklaBIqd4kSFDtnhptzJgaayC2UYAIRlbQga23SFqCrVAIvco=;N6RztsNmmTnU6tHQWqxksw=="
 ---
 
