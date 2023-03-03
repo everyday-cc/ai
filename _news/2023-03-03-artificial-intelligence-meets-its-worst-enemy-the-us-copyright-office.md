@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.newrepublic.com/05deed2bb093722c19f20fdaf139420b424be7ba.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
@@ -23,6 +24,6 @@ images:
     height: 577
     isCached: true
 
-secured: "dDxB1ZgZzNOyjM0Jma3AnrXkW+yomee8z8MBp247IwqfUwE7Q4gAqKIp9X7pVFTqcQYTk/DlfXwJ+CfOT++LwjiaUnkTJKWcHKRQXtK9FdDApGciWNxkTmt9usjARta9tOeXQYrREZNPX2hyZf7ytMHc2kNqfEHhhUGL0bEQ4DzuJxTi9WhR5EHpVnD9mpYVi09njKG3p3PmuxzM6YsLvLP6hdFk4Hrg6xMOWUsxDNUsLUxlAYQZnsEgYDnOLtSHPgtnmHw35+uzi3hgtG+dA4TygqiTmuII3CQc5NCXfyIEwbPTNfi3VNyvz/GWvzA/jbv1Svi4SUVEb+7bOtifvvUs1at1+GmNfPSw9kV/FIs=;FHStZ9mKJCnETUJT1d8ivw=="
+secured: "ipVSkrCa14Y2l1X6u7xvksp3iqP5atG8JBFl0KfrwVf8Qz3vFiPJHOpXurzU2BEpyVnNSnlgdU3AZ2ejtS4DEybZW+9lqQqaf+9caXPLrT0UrfYU0BFHnhZsUAQ/NT5Z8C2kE7JTEj4hpwUn3TWeA0chGNx+U2rabDCIeJl5rQ6eofpzVH4ixCbOBSN3vdah03TtDdJ5/hqC84N2TqcwzbdVqNSvCqlIyM/7GcHE4j7i65BNxhvmdMZR/q2+irL5SwP5wApUygyw5EKx5/FnnyU4/SXabZ04jqCJsc83q1+LdgBToMvdxM+OG2TO0NSjazcgMYjRe8Nd+Cwotdx+QG3qX3xwj6NoxDih9BCqWpRxRHPTeRBJhQZc2ZMMQkUnEYUy9Ij6EXLLDJdu2EuYnFC+GiufmXjYvPYfdRcsybE/VVzd0+J331JReBW4oLFKxg2oDMngJeTMPprIllfRvE9t9rB3/0j5sAYvrACCJSMlCTE7yWiWUejItU+Ouf3TknK1iiLkenTZTI6wBYhRLQ==;caIOpakYMhhBmFnYjzgWng=="
 ---
 
