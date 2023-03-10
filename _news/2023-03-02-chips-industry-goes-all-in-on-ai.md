@@ -5,8 +5,6 @@ excerpt: "US firm Nvidia dominates the market in specialised chips known as GPUs
 publishedDateTime: 2023-03-02T11:53:00Z
 originalUrl: "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103"
 webUrl: "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103"
-ampWebUrl: "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chips-industry-goes-all-ai-3673103?amp=1"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://d.ibtimes.com/en/full/4427030/enthusiam-artificial-intelligence-within-microchip-industry-palpable-mobile-world-congress.jpg"
-    width: 768
-    height: 510
-    isCached: true
-
-secured: "qURgckkfEOcj7MkkwtSWnzHCDa1qx3uIhVlfS5yj6BEYBb+426UsGG6USiv8vcBqgIUfdCZgNDKgXOd/TBCX3pUmxDXetD6gOdGmhhISpupDRpJ3H+IuPtX7QPpEbc4eqRg7T+AodB19AnGnduo2N5DJgfI+oKL8IGgr8Tm+GYI8an2DGDawJWbuttj6ZOr/YfeYRwPxkInHZt7mNkvrjmhTxv2qUI3tFitrFKLA8UgzJ/OlrOG7YUx18IGWkTlCf6vYodQcepDiPmlsZo938w8mEyXOMHuc2G6Khkr0Ywa++7ErJtk0Pic6TwdYNWdJl6WFCdN7V9nzVnpnT8NpicFImNpxVC5maJKU4jcLFz8=;R5Z6XdkVnSSQKDgu85bL9w=="
+secured: "XfNbsz4ZQIVnxmRPGh+k5LNAC/1XQGrJP/mO/TGR6oioXLR6hUDrW9QHKMZtQo/aKVNW4IeOOLmjs+V9d7um/Cb2HLNtWZMMyqnH7kN14qosQY5mxGh95+OoZmiT47beCnaqQzYAbLcuUIqo9EUNNUIVC5Jz1arv+oyyBFDKE1lQHWFPvy4pFtbr+NGsNIFaaB/2yUrvctHNIw+q+QlPpvZcTC3xLxQlStLfkmY9IXo4u40rdwImRI/FZdQdhclCv1AofuV4VnqWb466NquaiE6DsJCmndOxuhSpElJysUEoRewR0BikR0NMvkfRfI2gmH1fqFcz5eVDx4NZBpLo1b0Gr4kJzY6UagMXiuXk89c=;QBXQvhOLuVG2sn0ak8DL/g=="
 ---
 

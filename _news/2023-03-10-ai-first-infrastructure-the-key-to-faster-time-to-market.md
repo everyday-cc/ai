@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/02/AdobeStock_552748421.jpeg?w=1200&strip=all"
