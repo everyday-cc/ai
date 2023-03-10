@@ -1,34 +1,30 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in March"
-excerpt: "Here are three top stocks to invest in artificial intelligence this March. Microsoft (NASDAQ: MSFT) is one of the biggest names in AI right now, with its $1 billion investment in tech start-up OpenAI in 2019 looking like the foresight of the century."
-publishedDateTime: 2023-03-02T17:30:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-march-0"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-march-0"
+excerpt: "AWS. These companies are pushing AI forward, and now is an excellent time to invest in the booming market. The artificial intelligence (AI) market is booming after substantial advances in 2022 ..."
+publishedDateTime: 2023-03-02T21:03:00Z
+originalUrl: "https://www.fool.com/investing/2023/03/02/top-artificial-intelligence-stocks-to-buy/"
+webUrl: "https://www.fool.com/investing/2023/03/02/top-artificial-intelligence-stocks-to-buy/"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
+  - AWS AI
   - AI
 
-related:
-  - title: "The Future of Autonomous Driving: 7 Top Stocks to Buy for AI-Powered Vehicles"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Autonomous driving and AI-powered vehicles are a growing trend in the"
-    publishedDateTime: 2023-03-01T02:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-future-of-autonomous-driving-7-top-stocks-to-buy-for-ai-powered-vehicles-1032133652"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
+images:
+  - url: "https://g.foolcdn.com/editorial/images/722889/artificial-intelligence-investing-algorithms.jpg"
+    width: 4000
+    height: 2667
+    isCached: true
 
-secured: "pvI/rKKmFAGu+BILIFYZ33VbtWw1lqWBSmQjidlsn9wtEEXKFFASKIo76ns5SvVkVDU+BxyEEFpwQBHcHcp2B5qz3fcAXznW2GvM04ZZJGcBNHjbGB0vrTVJsKBsVuk8F31pnKQJ4USgKOFsOA8iSveC5LXoBgVcvz+k6eYaDBsiwlvpXISplTEUCt8ffOnHj47Z2fMZj2pW3XfFcRAowO1NIOiniQHfISz1UcQv25Ll+Hd/t7Cbdp9dl7qNhmO+VHcjMwt6GQRV6BClqyTSKK4EgNQw+dEOk8VSaC7vaOekcjDbtvXxy7gJwNRMLBn6cZIX6KL91OM1KbLLNy42Z0h75RmmIjV1WflyHyynXnE=;UtR3mX6BvNM3Q5uaVmbDgQ=="
+secured: "f+9wmFETFVi4nd9YXb1MPm9STohRxIO1Ji1eoiJP2sUmHDZqVVBI59w8s1OKx5vyc8iEOiIUAYBVw6qtwJTv/dPDqfAH728SVDIyiLFe5sFjB0ptgjJuN4I894GkrYpereqaLukS5hWGWFYD3s9Pr4fhC53bhWuktySIKhjzlZfKKlLkAZH7fC0OtjRPoouNQRzd4WJB9Uggf8abRBZm1X7quU+g6z5ShhLuQ4jtK2/zb6dhEU7JVdB0jqcXqCLE287x2KBOsBAJaVfiKwsGn6Fd58RMUXsSnfPrMSR9HV6hWiOoVdwl0bpOV2DD/ytXM9GltLrOmFuCsAi3M1pYwuSG4u6KBObpXB7Qe5pho64=;GlPQKQsf3K2MSLhew0B14g=="
 ---
 

@@ -1,20 +1,21 @@
 ---
 category: news
 title: "Robotaxi tech improves but can they make money?"
-excerpt: "It is a Cruise robotaxi with no human driver to close the door. I go back to check and sure enough, it was a weak push. A human voice pipes up on a speaker checking everything is OK. I apologise about the door,"
-publishedDateTime: 2023-03-03T00:03:00Z
-originalUrl: "https://www.bbc.co.uk/news/business-64742934"
-webUrl: "https://www.bbc.co.uk/news/business-64742934"
-ampWebUrl: "https://www.bbc.co.uk/news/business-64742934.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-64742934.amp"
+excerpt: "Cruise, a subsidiary of GM, competes with Waymo, owned by Google's parent ... in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar ..."
+publishedDateTime: 2023-03-03T08:09:00Z
+originalUrl: "https://www.bbc.com/news/business-64742934"
+webUrl: "https://www.bbc.com/news/business-64742934"
+ampWebUrl: "https://www.bbc.com/news/business-64742934.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-64742934.amp"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -26,6 +27,6 @@ images:
     height: 576
     isCached: true
 
-secured: "qBPLebBPsA3YzAGNI2/ZaYTrETB/3llED23QJXUc9FyYQ4tZOW/imhNWC4v7Q0dLUa3xtSyy8nktCh9rK4QWY4KOpjhbn3Sz4fbPaOJU6IkIb5m9Lcg27eMwbgvcr4kk73wVZn/BZVqVCr9QiJEqH9kXLgf06jcHdmx1OgJ+FQLOfgVCjfNRRZIoiaP29JTy8q+zL/6VDT2gIHAmdAQqaFXIryCmKNUpYU7i+94vu21CVV2NyJcz0lniLUao6nl4VQfS2/xzQOostZcmU9DKf3ENM+JNYZ13QQyaWJIaMsaFkpO3O8odUxJ1wLFm3EdEi3MUfiDdTQBCZoTad6V9GVAJ+DyQE3c8myu6dNp40h6+zdQjjnef+04cdBAYB2W3tI3eU3/pFYbo3GU2oo56zYseK7tZfaQjEZNd2OKAkFDZdYUr1gs4NE2mMxLanzBegJOjtAbA7kPIRIgDLgXRRsrELBkttWsIaZcq5BbvrOTwWPZ3OUuteVb7+eUO6sa5xSCzJYd5Ku+c6ui5msEqpw==;Xo+m2BY6nlNDa5kBNd4z8A=="
+secured: "Sk2EMecTIgGJOt6A4qXBnlfrHD06FnQqiAZGdK3ylyKcFUX1hwgy16t++FieJ+t1uci47Saka6spdRRvM0RxdwLudTcFheNKXaMSkr5/PTnskgyt5OepdnYBSFAEkk/8REg8RVLDRxcCOcsludhYVQvpDoLwgLei0LlVyOCbnMT+lGz1NTamQ8RqsHm7Ip8mjU5W4htjCS2wgR4AKUWvddI9to0GJcgLhIESEtqf+GYDIlLRaYt/04MFVmIjaHi0jlHM91Lgtqf5rgc2Y0WWrwFvDRH+t5pxkvRklBJZ5YjChaV9L63NkSujY1Ya3ZtYkxCLMHmFQWNk2OSLUuM4Y+YbUkshZ/cVWOn1m7c3ScY=;9E8A5yEOJxxic6UXQf83hg=="
 ---
 

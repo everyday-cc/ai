@@ -2,6 +2,524 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-11-ub-awarded-20-million-to-establish-national-ai-institute-to-help-children-with-speech-language-disorders.md",
+      "title": "UB awarded $20 million to establish national AI institute to help children with speech, language disorders",
+      "excerpt": "The National Science Foundation-funded effort will address the nationwide shortage of speech-language pathologists, ensure at-risk children receive assistance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/news/releases/2023/01/004.html",
+      "originalUrl": "https://www.buffalo.edu/news/releases/2023/01/004.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2023/01/004/_jcr_content/par/image.img.512.auto.jpg/1673369362064.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T10:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-examples-of-natural-language-processing.md",
+      "title": "Examples of Natural Language Processing",
+      "excerpt": "Natural Language Processing will also improve with artificial intelligence and augmented analytics (NLP) development. While Artificial Intelligence (AI) and natural language processing (NLP) may conjure thoughts of robots of the future, NLP is already at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.themanufacturer.com/press-releases/examples-of-natural-language-processing/",
+      "originalUrl": "https://www.themanufacturer.com/press-releases/examples-of-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2023/01/04225930/AdobeStock_520920052.-NLP.jpg",
+          "width": 1100,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "themanufacturer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-google-docs-and-slides-step-up-their-voice-recognition-game.md",
+      "title": "Google Docs and Slides step up their voice recognition game",
+      "excerpt": "Read More. Voice typing tools reliant on speech-to-text algorithms have long been a convenient way to create larger text documents quickly, especially if you’re a slow typist, or you're seeking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/google-docs-slides-better-voice-typing-live-captions/",
+      "originalUrl": "https://www.androidpolice.com/google-docs-slides-better-voice-typing-live-captions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/11/how-to-set-up-outline-in-Google-docs.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-will-new-ai-signal-the-death-of-the-essay.md",
+      "title": "Will new AI signal the ‘death’ of the essay?",
+      "excerpt": "A new open source AI tool has been sending shock waves across the sector as educators witness for the first time, the true power and availability of machine-authored content. Nicholas first began his career with Nottingham Trent University in the UK in international student recruitment.",
+      "sourceUrl": null,
+      "webUrl": "https://thepienews.com/news/will-new-ai-signal-the-death-of-the-essay/",
+      "originalUrl": "https://thepienews.com/news/will-new-ai-signal-the-death-of-the-essay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1pe6f90ru47yo.cloudfront.net/wp-content/uploads/2023/01/10105127/pexels-peter-olexa-4012966-860x375.jpg",
+          "width": 860,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The PIE News",
+        "domain": "thepienews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-achieving-greater-accuracy-in-real-time-vision-processing-with-transformers.md",
+      "title": "Achieving Greater Accuracy In Real-Time Vision Processing With Transformers",
+      "excerpt": "Transformers, first proposed in a Google research paper in 2017, were initially designed for natural language processing (NLP) tasks. Recently, researchers applied transformers to vision applications and got interesting results.",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/achieving-greater-accuracy-in-real-time-vision-processing-with-transformers/",
+      "originalUrl": "https://semiengineering.com/achieving-greater-accuracy-in-real-time-vision-processing-with-transformers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://semiengineering.com/wp-content/uploads/Synopsys_Vision-Processing-with-Transformers-Fig2_transformer-cnn.jpeg",
+          "width": 640,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T00:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-natural-language-processing-guiding-the-way-for-retail-cx.md",
+      "title": "Natural Language Processing: Guiding the Way for Retail CX",
+      "excerpt": "Leaps and bounds ahead of its predecessors, AI equipped with natural language processing (NLP) is capable of understanding language (hundreds of them) in a way that’s almost human — except it’s not learning language like you or I.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mytotalretail.com/article/natural-language-processing-guiding-the-way-for-retail-cx/",
+      "originalUrl": "https://www.mytotalretail.com/article/natural-language-processing-guiding-the-way-for-retail-cx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/01/GettyImages-1200738163.jpg&w=750&h=340",
+          "width": 750,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Total Retail",
+        "domain": "mytotalretail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-ub-awarded-20-million-to-establish-institute-to-create-ai-technologies-to-help-children-with-speech-language-disorders.md",
+      "title": "UB awarded $20 million to establish institute to create AI technologies to help children with speech, language disorders",
+      "excerpt": "The award, which UB will use to create the AI Institute for Exceptional Education, also will advance foundational AI technologies, human-centered AI design, and learning science that improve educational outcomes for young children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/home/story-repository.host.html/content/shared/university/news/ub-reporter-articles/stories/2023/01/nsf-award-ai.detail.html",
+      "originalUrl": "https://www.buffalo.edu/home/story-repository.host.html/content/shared/university/news/ub-reporter-articles/stories/2023/01/nsf-award-ai.detail.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-will-ai-make-creative-workers-redundant.md",
+      "title": "Will AI Make Creative Workers Redundant?",
+      "excerpt": "Software has turned human language translators into editors. ChatGPT and other programs may do something similar to writers and other artists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/will-ai-make-creative-workers-redundant-machine-learning-artificial-intelligence-technology-human-art-11673303015",
+      "originalUrl": "https://www.wsj.com/articles/will-ai-make-creative-workers-redundant-machine-learning-artificial-intelligence-technology-human-art-11673303015",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-699715/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-attention-uses-natural-language-processing-to-help-sales-reps-sell-faster.md",
+      "title": "Attention uses natural language processing to help sales reps sell faster",
+      "excerpt": "Attention wants to fix that with its sales assistant, which uses AI tech and natural language processing to automatically fill in CRMs after calls and draft follow-up emails. The New York-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/01/09/attention/",
+      "originalUrl": "https://techcrunch.com/2023/01/09/attention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1337983366.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/01/09/attention/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/09/attention/amp/",
+      "publishedDateTime": "2023-01-09T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-speech-pattern-analysis-can-help-diagnose-manage-psychiatric-disorders.md",
+      "title": "Speech pattern analysis can help diagnose, manage psychiatric disorders",
+      "excerpt": "Advances in natural language processing, speech recognition, and computer science have underscored the fact that using speech analysis as an objective, clinical measurement of mental illness is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230109/Speech-pattern-analysis-can-help-diagnose-manage-psychiatric-disorders.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230109/Speech-pattern-analysis-can-help-diagnose-manage-psychiatric-disorders.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/depression-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T05:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-natural-language-processing-market-size-worth-usd-16181-billion-by-2029-report-by-fortune-business-insights.md",
+      "title": "Natural Language Processing Market size Worth USD 161.81 Billion by 2029 | Report by Fortune Business Insights",
+      "excerpt": "Moreover, rising adoption of electronics elevated natural language processing adoption. Also rapid digitalization in companies enhanced the adoption of the software. These factors enhanced this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/g30329142/natural-language-processing-market-size-worth-usd-161-81-billion-by-2029-report-by-fortune-busines",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/g30329142/natural-language-processing-market-size-worth-usd-161-81-billion-by-2029-report-by-fortune-busines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-09-the-expanding-ease-and-utility-of-text-analytics-and-natural-language-processing.md",
+      "title": "The expanding ease and utility of text analytics and natural language processing",
+      "excerpt": "Statistical model techniques also produce the benefit of accelerating tradi- tional natural language processing (NLP) methods to reduce their time-to-value. Conversely, pairing these conventional methods with their newer statistical counterparts heightens ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/150767-JH_123.jpg-ORG.jpg",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-06-timekettle-prepares-innovative-translation-tech-showcase-for-ces-2023.md",
       "title": "Timekettle prepares innovative translation tech showcase for CES 2023",
       "excerpt": "Technology company Timekettle is showcasing its cutting-edge translation technical solutions at the 2023 Consumer Electronics Show (\"CES 2023\"), the world's most",
@@ -782,530 +1300,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-presto-voice-brings-custom-voices-to-enhance-automated-drive-thru-guest-experience.md",
-      "title": "Presto Voice Brings Custom Voices to Enhance Automated Drive-Thru Guest Experience",
-      "excerpt": "Presto Automation Inc. (Nasdaq: PRST), a leader in restaurant technology, announced today the introduction of a custom voice feature in its Presto Voice TM drive-thru automation solution. This highly innovative feature,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/presto-voice-brings-custom-voices-to-enhance-automated-drive-thru-guest-experience/article_5b7f2a6d-580c-57c6-bde7-5856c5f9e234.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/presto-voice-brings-custom-voices-to-enhance-automated-drive-thru-guest-experience/article_5b7f2a6d-580c-57c6-bde7-5856c5f9e234.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-15T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-natural-language-processing-nlp-marketa-cagr-of-23-during-the-forecast-period-2022-2032.md",
-      "title": "Natural Language Processing NLP Marketa CAGR of 23% during the forecast period (2022-2032)",
-      "excerpt": "The market for natural language processing (NLP) is expected to reach US$ 45 billion, growing at a CAGR of 23%. (2022-2032). The total market sales for NLP are projected to increase by 3.8x and reach more than US$ 14 Bn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2022/12/15/natural-language-processing-nlp-marketa-cagr-of-23-during-the-forecast-period-2022-2032/",
-      "originalUrl": "https://www.fmiblog.com/2022/12/15/natural-language-processing-nlp-marketa-cagr-of-23-during-the-forecast-period-2022-2032/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2022/12/Carbon-Nanotubes-420x300.jpeg",
-          "width": 420,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-14T23:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-automatically-identify-languages-in-multi-lingual-audio-using-amazon-transcribe.md",
-      "title": "Automatically identify languages in multi-lingual audio using Amazon Transcribe",
-      "excerpt": "If you operate in a country with multiple official languages or across multiple regions, your audio files can contain different languages. Participants may be speaking entirely different languages or may switch between languages. Consider a customer service call to report a problem in an area with a",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-identify-languages-in-multi-lingual-audio-using-amazon-transcribe/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automatically-identify-languages-in-multi-lingual-audio-using-amazon-transcribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-14T11:52:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-biden-vows-to-expand-us-involvement-in-africa-in-speech-to-dozens-of-leaders.md",
-      "title": "Biden Vows to Expand U.S. Involvement in Africa in Speech to Dozens of Leaders",
-      "excerpt": "The United States has been lagging behind countries like China and Russia in a fierce competition for influence in Africa. Heads of state from almost 50 countries are in Washington for a summit, the first in eight years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2022/12/14/us/biden-africa-summit",
-      "originalUrl": "https://www.nytimes.com/live/2022/12/14/us/biden-africa-summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/14/multimedia/14dc-africasummit-promo-1215/14dc-africasummit-1-246a-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2022/12/14/us/biden-africa-summit.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2022/12/14/us/biden-africa-summit.amp.html",
-      "publishedDateTime": "2022-12-14T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-15-apple-tv-devices-now-recognize-up-to-six-different-voices.md",
-      "title": "Apple TV devices now recognize up to six different voices",
-      "excerpt": "Not now Turn on Turned onTurn on Personalized voice recognition certainly isn't a novel concept. Rival assistants have had comparable functionality for years, and Recognize My Voice has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/apple-tv-voice-recognition-tvos-16-2-160638329.html",
-      "originalUrl": "https://www.engadget.com/apple-tv-voice-recognition-tvos-16-2-160638329.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/b28911c0-7bc3-11ed-bf89-4b26e3c560bd",
-          "width": 2000,
-          "height": 1171,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/apple-tv-voice-recognition-tvos-16-2-160638329.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/apple-tv-voice-recognition-tvos-16-2-160638329.html",
-      "publishedDateTime": "2022-12-14T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-aupe-says-alberta-throne-speech-overlooks-education-senior-care.md",
-      "title": "AUPE says Alberta Throne Speech overlooks education, senior care",
-      "excerpt": "“It was a speech that lacked more than what it actually contained ... Consequently, these workers are stretched beyond their limits with little recognition. “What all our members would like to see is wages that not only reflect the hard economic ...",
-      "sourceUrl": null,
-      "webUrl": "https://rabble.ca/labour/aupe-says-alberta-throne-speech-overlooks-education-senior-care/",
-      "originalUrl": "https://rabble.ca/labour/aupe-says-alberta-throne-speech-overlooks-education-senior-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-14T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rabble",
-        "domain": "rabble.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea.md",
-      "title": "transcosmos releases \"transpeech,\" its contact center speech recognition solution in South Korea",
-      "excerpt": "With one-stop services from deploying essential environment for speech recognition to operations, boost contact center service quality and operational efficiency transcosmos inc. hereby announces ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/p30071320/transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/p30071320/transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-14T00:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-amazons-alexa-adds-text-to-speech-gestures-and-captioning-features.md",
-      "title": "Amazon's Alexa Adds Text-to-Speech, Gestures and Captioning Features",
-      "excerpt": "Amazon on Tuesday added three new Alexa features to its Echo Show smart display that are geared toward improving accessibility. The first, called Gestures, lets users dismiss timers by just ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/smart-home/amazons-alexa-adds-text-to-speech-gestures-and-captioning-features/",
-      "originalUrl": "https://www.cnet.com/home/smart-home/amazons-alexa-adds-text-to-speech-gestures-and-captioning-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
-      "title": "4 Mind-Boggling Technology Advances In Store For 2023",
-      "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
-      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63990ad004b32ca023bf8641/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
-      "publishedDateTime": "2022-12-13T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "Computer Vision",
-        "Natural Language Processing",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-speech-and-voice-recognition-market-growing-massively-by-nuance-communications-microsoft-corporation-alphabet.md",
-      "title": "Speech And Voice Recognition Market Growing Massively by Nuance Communications, Microsoft Corporation, Alphabet",
-      "excerpt": "New Jersey, United States, Dec 13, 2022 /DigitalJournal/ Voice and speech recognition is considered a small part of biometric systems. Speech recognition is defined as a process of converting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-growing-massively-by-nuance-communications-microsoft-corporation-alphabet",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-growing-massively-by-nuance-communications-microsoft-corporation-alphabet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Speech-And-Voice-Recognition-1024x635.jpeg",
-          "width": 1024,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-translated-srl-the-speed-of-progress-towards-singularity-in-ai-measured-for-the-first-time-with-data-from-machine-translation-quality-improvements.md",
-      "title": "TRANSLATED SRL: The Speed of Progress Towards Singularity in AI Measured for the First Time With Data From Machine Translation Quality Improvements",
-      "excerpt": "Many A researchers believe that solving the language translation challenge is equivalent to producing Artificial General Intelligence (AGI). The evidence Translated has provided about reducing the gap between what expert human translators and an optimized machine translation system can produce is quite possibly the most compelling evidence of success at scale seen in both the MT and AI community.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/12/13/9729759.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/12/13/9729759.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-natural-language-processing-and-recognition-market-with-tremendous-growth-by-2029-apple-google-microsoft.md",
-      "title": "Natural Language Processing and Recognition Market with Tremendous growth by 2029 Apple, Google, Microsoft",
-      "excerpt": "New Jersey, United States, Dec 13, 2022 /DigitalJournal/ Natural language processing consists of the combination of the computational rule-based modeling of the human language that represents data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-and-recognition-market-with-tremendous-growth-by-2029-apple-google-microsoft",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-and-recognition-market-with-tremendous-growth-by-2029-apple-google-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Natural-Language-Processing-and-Recognition.jpeg",
-          "width": 600,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

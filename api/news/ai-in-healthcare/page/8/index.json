@@ -2,557 +2,21 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-10-24-leveraging-ai-to-benefit-the-healthcare-ecosystem-for-providers-payers-and-members.md",
-      "title": "Leveraging AI to benefit the healthcare ecosystem for providers, payers and members",
-      "excerpt": "The research revealed that leveraging AI will strategically benefit the entire healthcare ecosystem for providers, payers, and members. “Our analysis suggests that artificial-intelligence-enabled prior authorizations can automate 50 to 75 percent of manual tasks,",
+      "path": "_news/2022-12-08-polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics.md",
+      "title": "PolyU and Hanson Robotics’ step towards Artificial Intelligence and Robotics",
+      "excerpt": "The Hong Kong Polytechnic University (PolyU) and Hanson Robotics Limited (Hanson) signed a Memorandum of Understanding to establish the Centre for Humanistic Artificial Intelligence and Robotics (CHAi",
       "sourceUrl": null,
-      "webUrl": "https://www.healthcaredive.com/spons/leveraging-ai-to-benefit-the-healthcare-ecosystem-for-providers-payers-and/634407/",
-      "originalUrl": "https://www.healthcaredive.com/spons/leveraging-ai-to-benefit-the-healthcare-ecosystem-for-providers-payers-and/634407/",
+      "webUrl": "https://indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/",
+      "originalUrl": "https://indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://www.healthcaredive.com/imgproxy/6COrMuxCASV8JiU8rhQdVp8JeVmk0HAMu-PSvt1Q6LA/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL3NodXR0ZXJzdG9ja18yMTMyOTk1OTg1XzEuanBn.jpg",
-          "width": 770,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Dive",
-        "domain": "healthcaredive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-clinical-trials-using-new-cancer-imaging-and-treatment-technology-start-soon-in-ns.md",
-      "title": "Clinical trials using new cancer imaging and treatment technology start soon in N.S.",
-      "excerpt": "It uses artificial intelligence combined with radiation therapy to target tumours with more precision. He said he expects the therapy will result in shorter wait times and result in fewer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/news/canada/nova-scotia/cancer-treatment-artificial-intelligence-halifax-varian-1.6619681",
-      "originalUrl": "https://www.cbc.ca/news/canada/nova-scotia/cancer-treatment-artificial-intelligence-halifax-varian-1.6619681",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6619689.1666046131!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ethos-cancer-treatment.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6619681",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6619681",
-      "publishedDateTime": "2022-10-21T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-dalle-mini-and-the-future-of-artificial-intelligence-art.md",
-      "title": "Dall·E Mini And The Future Of Artificial Intelligence Art",
-      "excerpt": "With many companies investing in artificial intelligence, it’s no surprise that there are AI-powered graphic generators that can create original works of art. Dall-E 2 is particularly good at making photorealistic images from text prompts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6352ceae4b01a4d84be382e7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/",
-      "publishedDateTime": "2022-10-21T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 118 Pages Report",
-      "excerpt": "According to this latest study, In 2022 the growth of Healthcare Natural Language Processing (NLP) Market is projected",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029.md",
-      "title": "Military Artificial Intelligence (AI) Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029",
-      "excerpt": "Military Artificial Intelligence (AI) Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T21:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Sales",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-study-finds-that-artificial-intelligence-can-determine-race-from-medical-images.md",
-      "title": "Study finds that artificial intelligence can determine race from medical images",
-      "excerpt": "Artificial intelligence (AI) is used in a wide variety of health care settings, from analyzing medical images to assisting with surgical procedures. While AI can sometimes outperform trained clinicians,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-that-artif.jpg",
-          "width": 2880,
-          "height": 1338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "publishedDateTime": "2022-10-19T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-the-disruptive-economic-impact-of-artificial-intelligence.md",
-      "title": "The Disruptive Economic Impact Of Artificial Intelligence",
-      "excerpt": "Artificial Intelligence is promising to disrupt many businesses and industries. While there is huge potential, we are currently in the \"between times,\" just before the true disruption is going to occur.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634fa904bbec04b6b78e9c74/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-10-19T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic.md",
-      "title": "Deep Learning in Healthcare Market Is Dazzling Worldwide | Micron Technology, AWS, Mythic",
-      "excerpt": "The Deep Learning in Healthcare – Market Development Outlook Study has been added to HTF MI repository. The study",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-16-opinion-artificial-intelligence-and-its-impact-on-health-care.md",
-      "title": "Opinion: Artificial intelligence and its impact on health care",
-      "excerpt": "From our GPS to our smart TVs, smart locks, video doorbell surveillance systems, and the social media platforms we consistently follow and scroll through, artificial intelligence, or AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-and-its-impact-17509563.php",
-      "originalUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-and-its-impact-17509563.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/27/72/40/23046197/3/rawImage.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-16T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028.md",
-      "title": "Artificial Intelligence AI in Cyber Security Market 2022 Future Demand, Emerging Trends and Latest Technology, Forecast Research Report 2028",
-      "excerpt": "However, this scenario is expected to change owing to decreasing COVID-19 cases. The Artificial Intelligence AI in Cyber Security market is expected register a robust revenue CAGR of 26.56% during the forecast period and reach USD 75976.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T20:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028.md",
-      "title": "Natural Language Processing (NLP) in Healthcare Market Report 2022 Regional Overview and Analysis till 2028",
-      "excerpt": "A novel report on global Natural Language Processing (NLP) in Healthcare market has been recently added to Xcellent",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-can-artificial-intelligence-help-identify-best-treatments-for-cancers-lsu-researchers-say-yes.md",
-      "title": "Can artificial intelligence help identify best treatments for cancers? LSU researchers say yes",
-      "excerpt": "A team of LSU researchers has developed a way to determine which drug therapies work best against an individual's unique type of cancer, possibly providing a way to find cures",
-      "sourceUrl": null,
-      "webUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.html",
-      "originalUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/c/06/c06b7424-44c6-11ed-ab1d-9b7bc78c5670/633daa3a94e74.image.jpg",
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/02/download-5-1.jpg?fit=600%2C315&ssl=1",
           "width": 600,
-          "height": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -560,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.amp.html",
-      "cdnAmpWebUrl": "https://www-theadvocate-com.cdn.ampproject.org/c/s/www.theadvocate.com/baton_rouge/news/education/article_76e1fb2c-3e9d-11ed-9210-8784fc7eaa99.amp.html",
-      "publishedDateTime": "2022-10-12T02:00:00-07:00",
+      "ampWebUrl": "https://indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/amp/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/polyu-and-hanson-robotics-step-towards-artificial-intelligence-and-robotics/amp/",
+      "publishedDateTime": "2022-12-07T16:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Advocate",
-        "domain": "theadvocate.com",
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -576,528 +40,18 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-its-like-molecular-speed-dating-lsu-using-artificial-intelligence-in-cancer-treatments.md",
-      "title": "It's like molecular speed dating: LSU using artificial intelligence in cancer treatments",
-      "excerpt": "A team of LSU researchers has developed a way to determine which drug therapies work best against an individual's unique type of cancer, possibly providing a way to find cures",
-      "sourceUrl": null,
-      "webUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
-      "originalUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/5/fc/5fc540e3-9765-5462-86ed-1865ed2efa75/63460726c216f.image.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
-      "cdnAmpWebUrl": "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
-      "publishedDateTime": "2022-10-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NOLA.com",
-        "domain": "nola.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-is-artificial-intelligence-inching-closer-to-sentience.md",
-      "title": "Is artificial intelligence inching closer to sentience?",
-      "excerpt": "Chatbots are starting to muse about life, death and religion. But could these silicon philosophers one day gain consciousness? Or are they just getting good at mimicking it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html",
-      "originalUrl": "https://www.thestar.com/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestar.com/content/dam/thestar/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green/_2_mars_discovery_district.jpg.size.custom.crop.640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/amp/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html",
-      "publishedDateTime": "2022-10-11T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence in Healthcare Diagnosis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2022-10-11/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2022-10-11/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-ai-and-robotics-is-the-future-of-healthcare-sector.md",
-      "title": "AI and Robotics is the future of healthcare sector",
-      "excerpt": "Recent advances in artificial intelligence and robotics hold great promise for transforming several fields of medicine. Artificial intelligence (AI) and robots have the potential to revolutionise healthcare by automating and improving a wide range",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Dr.-Vijay-Patil.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
-      "publishedDateTime": "2022-10-10T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-the-5-biggest-artificial-intelligence-ai-trends-in-2023.md",
-      "title": "The 5 Biggest Artificial Intelligence (AI) Trends In 2023",
-      "excerpt": "The Field of artificial intelligence (AI) is emerging and evolving faster than ever. Here, we look at some of the major trends in the field of artificial intelligence and machine learning in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6343bdc93a68ef0014de06ad/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/amp/",
-      "publishedDateTime": "2022-10-09T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-recent-advancements-in-artificial-intelligence.md",
-      "title": "Recent Advancements In Artificial Intelligence",
-      "excerpt": "Over the last few years, artificial intelligence (AI) has worked its way into every area of our lives. If you’re a programmer, chances are you’ve started working with GitHubs",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f57db71653ff9e8e4d10083/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-10-07T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-white-house-unveils-artificial-intelligence-bill-of-rights.md",
-      "title": "White House Unveils Artificial Intelligence Bill of Rights",
-      "excerpt": "The White House has unveiled a 'blueprint' for an AI Bill of Rights, which outlines five protections Americans should have in the face of the rising use of these technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/white-house-unveils-artificial-intelligence-bill-of-rights",
-      "originalUrl": "https://healthitanalytics.com/news/white-house-unveils-artificial-intelligence-bill-of-rights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/2021-03-05-GettyImages-474772731-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/white-house-unveils-artificial-intelligence-bill-of-rights",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/white-house-unveils-artificial-intelligence-bill-of-rights",
-      "publishedDateTime": "2022-10-07T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-artificial-intelligence-in-healthcare-market-is-going-to-boom-at-a-cagr-of-5137-in-the-forecast-of-2029.md",
-      "title": "Artificial Intelligence in Healthcare Market is going to boom at a CAGR of 51.37% in the forecast of 2029",
-      "excerpt": "Not to mention, Artificial Intelligence in Healthcare market document delivers an in-depth study with respect to present and upcoming opportunities which puts light on the future investment in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-is-going-to-boom-at-a-cagr-of-51-37-in-the-forecast-of-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-healthcare-market-is-going-to-boom-at-a-cagr-of-51-37-in-the-forecast-of-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-ai-model-study-may-lead-to-identifying-skin-cancer-from-blood-test.md",
-      "title": "AI model study may lead to identifying skin cancer from blood test",
-      "excerpt": "Researchers say an AI model can predict which skin cancer patients will benefit from treatments activating the immune defense system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.labiotech.eu/trends-news/ai-model-study-may-lead-to-identifying-skin-cancer-from-blood-test/",
-      "originalUrl": "https://www.labiotech.eu/trends-news/ai-model-study-may-lead-to-identifying-skin-cancer-from-blood-test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.labiotech.eu/wp-content/uploads/2022/10/shutterstock-1407175277.jpg",
-          "width": 1000,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "labiotech",
-        "domain": "labiotech.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence.md",
-      "title": "Can We Reverse Our Psychological Age And Get Happier At The Same Time Using Artificial Intelligence?",
-      "excerpt": "As the body grows old, our minds are often instigated by mental decline and progressive, natural psychological aging. However, while there are very little we can do about biological aging, there are many ways to reverse psychological aging and get happier at the same time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/10/06/can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/10/06/can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633e91a7876cdce21e209bb4/0x0.jpg?format=jpg&width=1200",
-          "width": 773,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/10/06/can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/10/06/can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-10-06T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-how-to-invest-in-artificial-intelligence.md",
-      "title": "How To Invest In Artificial Intelligence",
-      "excerpt": "We all see the power of artificial intelligence. As investors, we must consider the best way to get into AI so that we don’t get left behind. Here are 10 AI investments to consider right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633e204571c3bea087209bbc/0x0.jpg?format=jpg&crop=1766,993,x0,y137,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-10-05T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
         "AI in Robotics",
-        "Machine Learning",
-        "AWS AI",
-        "Facebook AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2022-10-06-an-ai-model-reveals-how-the-bodys-defense-system-recognizes-skin-cancer.md",
-      "title": "An AI model reveals how the body’s defense system recognizes skin cancer",
-      "excerpt": "The artificial intelligence model could be utilized to enable more effective care for skin cancer patients and could lead to similar breakthroughs in the diagnosis and treatment of other cancers.",
+      "path": "_news/2022-12-07-vision-care-group-and-thinkcyte-announce-research-alliance-in-advanced-cell-therapy.md",
+      "title": "Vision Care Group and ThinkCyte Announce Research Alliance in Advanced Cell Therapy",
+      "excerpt": "Vision Care Group and ThinkCyte today announced a research partnership aimed at advancing cell therapy in retinal disease. The partnership combines Vision Care Group's expertise in developing investigative cellular therapies with Ghost Cytometry,",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/967586",
-      "originalUrl": "https://www.eurekalert.org/news-releases/967586",
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/06/9725495.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/06/9725495.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1107,50 +61,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-massive-bio-and-pertheraai-partner-to-empower-cancer-patients-with-personalized-therapies-and-accurate-trial-recommendations.md",
-      "title": "Massive Bio and Perthera.ai Partner to Empower Cancer Patients with Personalized Therapies and Accurate Trial Recommendations",
-      "excerpt": "Less than three percent of cancer patients today are matched and enrolled in a clinical trial. By combining the advanced computational methods and artificial intelligence capabilities of both companies,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/05/9686538.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/05/9686538.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T04:43:00-07:00",
+      "publishedDateTime": "2022-12-06T09:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -1169,26 +80,35 @@
       ]
     },
     {
-      "path": "_news/2022-10-04-artificial-intelligence-and-health-care-what-premeds-should-know.md",
-      "title": "Artificial Intelligence and Health Care: What Premeds Should Know",
-      "excerpt": "With the advent of electronic medical records and wearable technology, data is becoming exponentially abundant in health care. Artificial intelligence has the potential to reshape medicine. For ...",
+      "path": "_news/2022-12-07-ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-first-quarter-of-2023.md",
+      "title": "AHAI, the AI Based Multi Symptom Check and Therapy Recommendation Platform to be Released in the First Quarter of 2023",
+      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / / Alternative Health, Inc, the US based medical company announced that it will be releasing its evidence based diagnostic and recommendation platform to the public in the",
       "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2022/10/artificial-intelligence-and-health-care-what-premeds-should-know/",
-      "originalUrl": "https://wtop.com/news/2022/10/artificial-intelligence-and-health-care-what-premeds-should-know/",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac29979799/ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-f",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac29979799/ahai-the-ai-based-multi-symptom-check-and-therapy-recommendation-platform-to-be-released-in-the-f",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 80,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/730462/kpvw3onlpimll72idprqlvo2pftwml3r1hdijq68xwcg9rmzcm.jpg",
+          "width": 1600,
+          "height": 948,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2022/10/artificial-intelligence-and-health-care-what-premeds-should-know/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2022/10/artificial-intelligence-and-health-care-what-premeds-should-know/amp/",
-      "publishedDateTime": "2022-10-04T07:49:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29979799",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29979799",
+      "publishedDateTime": "2022-12-06T08:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1203,21 +123,64 @@
       ]
     },
     {
-      "path": "_news/2022-10-04-global-computer-vision-in-healthcare-market-report.md",
-      "title": "Global Computer Vision in Healthcare Market Report…",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Global Computer Vision in Healthcare Market (2022-2027) by Component, Applications, End-user, and Geography, with Competitive Analysis, Impact of COVID-19, and Ansoff Analysis\" report has been added to ResearchAndMarkets.com's ...",
+      "path": "_news/2022-12-06-invea-therapeutics-appoints-mr-jason-fenton-to-its-board-of-directors.md",
+      "title": "Invea Therapeutics Appoints Mr. Jason Fenton to Its Board of Directors",
+      "excerpt": "Mr. Fenton augments board expertise as the Company readies for Phase 1b/2 execution of lead program targeting mast cell biology",
       "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2022-10-04/global-computer-vision-in-healthcare-market-report-2022-escalating-need-for-quality-inspection-and",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2022-10-04/global-computer-vision-in-healthcare-market-report-2022-escalating-need-for-quality-inspection-and",
+      "webUrl": "https://www.bakersfield.com/ap/news/invea-therapeutics-appoints-mr-jason-fenton-to-its-board-of-directors/article_a33bea0c-d4c9-53e7-8cb8-e2a008487595.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/invea-therapeutics-appoints-mr-jason-fenton-to-its-board-of-directors/article_a33bea0c-d4c9-53e7-8cb8-e2a008487595.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-the-top-5-healthcare-trends-in-2023.md",
+      "title": "The Top 5 Healthcare Trends In 2023",
+      "excerpt": "Healthcare never stands still, and new innovations, as well as external factors, are driving continuous change. Here we look at the five biggest healthcare trends in 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638ee3f77ab30981d50d997c/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 448,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1225,14 +188,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T06:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/12/06/the-top-5-healthcare-trends-in-2023/amp/",
+      "publishedDateTime": "2022-12-05T21:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1241,62 +213,27 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Healthcare",
         "AI",
-        "AI in Healthcare"
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_news/2022-10-04-children-with-food-allergy-related-anxiety-can-benefit-from-cognitive-behavioral-therapy.md",
-      "title": "Children with food allergy-related anxiety can benefit from cognitive behavioral therapy",
-      "excerpt": "A new study in Annals of Allergy, Asthma and Immunology, the scientific journal of the American College of Allergy, Asthma and Immunology (ACAAI), shows that targeted cognitive behavioral therapy ...",
+      "path": "_news/2022-12-06-ai-simulants-could-save-time-and-money-on-new-medications.md",
+      "title": "AI ‘Simulants’ Could Save Time and Money on New Medications",
+      "excerpt": "Clinical trials “are really difficult, they’re time-consuming, and they're extremely expensive,” says Naheed Kurji, chair of the Alliance for Artificial Intelligence in Healthcare board ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/966745",
-      "originalUrl": "https://www.eurekalert.org/news-releases/966745",
+      "webUrl": "https://www.webmd.com/a-to-z-guides/news/20221130/ai-simulants-could-save-time-and-money-on-new-medications",
+      "originalUrl": "https://www.webmd.com/a-to-z-guides/news/20221130/ai-simulants-could-save-time-and-money-on-new-medications",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-artificial-intelligence-continues-to-transform-healthcare.md",
-      "title": "Artificial Intelligence Continues to Transform Healthcare",
-      "excerpt": "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
       "images": [
         {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png",
-          "width": 770,
-          "height": 400,
+          "url": "https://img.webmd.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/advancements_for_treatments_of_ra_slideshow/1800ss_getty_rf_artificial_intelligence_concept.jpg",
+          "width": 1800,
+          "height": 1200,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1306,11 +243,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T17:00:00-07:00",
+      "publishedDateTime": "2022-12-05T15:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
+        "name": "WebMD",
+        "domain": "webmd.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1325,21 +262,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-04-white-house-unveils-artificial-intelligence-bill-of-rights.md",
-      "title": "White House unveils artificial intelligence ‘Bill of Rights’",
-      "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of",
+      "path": "_news/2022-12-05-artificial-intelligence-in-healthcare-market-to-hit-usd-70-billion-by-2032-says-global-market-insights-inc.md",
+      "title": "Artificial Intelligence In Healthcare Market To Hit USD 70 Billion By 2032, Says Global Market Insights Inc.",
+      "excerpt": "With the rise in clinical research associated with disease development and diagnosis, the application potential of artificial intelligence in healthcare will further expand globally. Despite these ...",
       "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/",
-      "originalUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/",
+      "webUrl": "https://menafn.com/1105268620/Artificial-Intelligence-In-Healthcare-Market-To-Hit-USD-70-Billion-By-2032-Says-Global-Market-Insights-Inc",
+      "originalUrl": "https://menafn.com/1105268620/Artificial-Intelligence-In-Healthcare-Market-To-Hit-USD-70-Billion-By-2032-Says-Global-Market-Insights-Inc",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg",
-          "width": 1280,
-          "height": 853,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?241302",
+          "width": 375,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1347,13 +284,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/",
-      "publishedDateTime": "2022-10-03T16:26:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T07:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1368,5 +305,5 @@
       ]
     }
   ],
-  "nextPage": 9
+  "nextPage": null
 }

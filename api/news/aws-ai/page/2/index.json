@@ -2,6 +2,302 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-14-measure-the-business-impact-of-amazon-personalize-recommendations.md",
+      "title": "Measure the Business Impact of Amazon Personalize Recommendations",
+      "excerpt": "We’re excited to announce that Amazon Personalize now lets you measure how your personalized recommendations can help you achieve your business goals. After specifying the metrics that you want to track, you can identify which campaigns and recommenders are most impactful and understand the impact of",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/measure-the-business-impact-of-amazon-personalize-recommendations/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/measure-the-business-impact-of-amazon-personalize-recommendations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/14/measure-the-business-impact-personalize.jpg",
+          "width": 1563,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T10:24:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-sway-ai-joins-the-aws-partner-network-to-make-artificial-intelligence-accessible-for-all.md",
+      "title": "Sway AI Joins The AWS Partner Network To Make Artificial Intelligence Accessible For All",
+      "excerpt": "BOSTON, Feb. 14, 2023 /PRNewswire/ -- Today, Sway AI, a leading provider of cloud and no-code artificial intelligence (AI ... joined the Amazon Web Services (AWS) Partner Network (APN), a global ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105572596/Sway-AI-Joins-The-AWS-Partner-Network-To-Make-Artificial-Intelligence-Accessible-For-All",
+      "originalUrl": "https://menafn.com/1105572596/Sway-AI-Joins-The-AWS-Partner-Network-To-Make-Artificial-Intelligence-Accessible-For-All",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-13-configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk.md",
+      "title": "Configure an AWS DeepRacer environment for training and log analysis using the AWS CDK",
+      "excerpt": "This post is co-written by Zdenko Estok, Cloud Architect at Accenture and Sakar Selimcan, DeepRacer SME at Accenture. With the increasing use of artificial intelligence (AI) and machine learning (ML) for a vast majority of industries (ranging from healthcare to insurance, from manufacturing to marketing),",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/configure-an-aws-deepracer-environment-for-training-and-log-analysis-using-the-aws-cdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/13/configure-an-aws-deepracer-environment.jpg",
+          "width": 1567,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T10:23:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-13-mlops-market-size-analysis-between-top-international-players-through-business-aspects-way-2029.md",
+      "title": "MLOps Market Size Analysis between Top International Players through Business Aspects way 2029",
+      "excerpt": "The Global MLOps market is valued at Multimillion USD 2023 and will reach multimillion USD by the end of 2029, growing at",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/mlops-market-size-analysis-between-top-international-players-through-business-aspects-way-2029-2023-02-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/mlops-market-size-analysis-between-top-international-players-through-business-aspects-way-2029-2023-02-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-13T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-13-zero-shot-learning-and-the-foundations-of-generative-ai.md",
+      "title": "Zero-shot learning and the foundations of generative AI",
+      "excerpt": "Some ways to learn the algorithms and tools include using Amazon SageMaker to build a news-based alert system or using zero-shot learning in conversational agents. Developers and data scientists should also consider the new learning techniques and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3687315/zero-shot-learning-and-the-foundations-of-generative-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3687315/zero-shot-learning-and-the-foundations-of-generative-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/29/19/artificial-intelligence-machine-learning-and-modern-computer-and-picture-id1209989402-100903158-large-100912674-large-100935023-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3687315/zero-shot-learning-and-the-foundations-of-generative-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3687315/zero-shot-learning-and-the-foundations-of-generative-ai.amp.html",
+      "publishedDateTime": "2023-02-13T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-12-top-5-stories-of-the-week-ai-continues-to-reign-supreme.md",
+      "title": "Top 5 stories of the week: AI continues to reign supreme",
+      "excerpt": "OpenAI-powered Bing; AWS' ML-fueled fulfillment; IBM supercomputer creating foundation models — these are among our top stories of the week.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-continues-to-reign-supreme/",
+      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-continues-to-reign-supreme/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/anirudh-kCes633Hh1M-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-continues-to-reign-supreme/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ai-continues-to-reign-supreme/amp/",
+      "publishedDateTime": "2023-02-11T12:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-totogi-launches-innovative-churn-prediction-service.md",
       "title": "Totogi Launches Innovative Churn Prediction Service",
       "excerpt": "Totogi, the leading provider of public cloud-based SaaS software for telcos, announced the release of its innovative Churn Prediction Service. This cutting-edge service utilizes machine learning (ML) to accurately predict impending subscriber churn,",
@@ -959,247 +1255,6 @@
         "name": "International Business Times",
         "domain": "ibtimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation.md",
-      "title": "AI startup Cohere in talks to raise funding at $6 billion plus valuation",
-      "excerpt": "Toronto-based Cohere, established by former researchers at Alphabet in 2019, has quickly risen through the AI startup ranks given their intensive research background and close ties to Google, investors said.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/articleshow/97653062.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/articleshow/97653062.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/amp_articleshow/97653062.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation/amp_articleshow/97653062.cms",
-      "publishedDateTime": "2023-02-06T04:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth.md",
-      "title": "Q4 2022 cloud results: Amazon, Microsoft, & Google earnings show slowing growth",
-      "excerpt": "Amazon, Google, and Microsoft all posted double-digit growth in their cloud divisions, but at a lower rate than prior years of breakneck growth. In its fourth-quarter earnings report, Amazon Web Services (AWS) said that it brought in $21.",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/news/q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/news/q4-2022-cloud-results-amazon-microsoft-google-earnings-show-slowing-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-chatgpt-is-fastest-app-to-hit-100m-users-in-history.md",
-      "title": "ChatGPT is fastest app to hit 100m users in history",
-      "excerpt": "ChatGPT, the artificial intelligence communications model has become the first and the fastest mobile app to hit 100 million in two months of coming to",
-      "sourceUrl": null,
-      "webUrl": "https://businessday.ng/technology/article/chatgpt-is-fastest-app-to-hit-100m-users-in-history/",
-      "originalUrl": "https://businessday.ng/technology/article/chatgpt-is-fastest-app-to-hit-100m-users-in-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ai-startup-cohere-in-talks-to-raise-funding-at-6-bln-plus-valuation-sources.md",
-      "title": "AI startup Cohere in talks to raise funding at $6 bln plus valuation -sources",
-      "excerpt": "Cohere, an AI foundation model company that competes with Microsoft-backed OpenAI, is in talks to raise hundreds of millions of dollars in a funding round that could value the startup at more than $6 billion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-startup-cohere-talks-raise-funding-6-bln-plus-valuation-sources-2023-02-06/",
-      "originalUrl": "https://www.reuters.com/technology/ai-startup-cohere-talks-raise-funding-6-bln-plus-valuation-sources-2023-02-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-the-best-chatgpt-alternatives-according-to-chatgpt.md",
-      "title": "The best ChatGPT alternatives (according to ChatGPT)",
-      "excerpt": "He added that using Amazon Web Services and Amazon SageMaker can help with fine-tuning the code. The DialoGPT code is available on GitHub. ALBERT (A Lite BERT) is a truncated version of the original BERT and was developed by Google in December 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/the-best-chatgpt-alternatives-according-to-chatgpt/",
-      "originalUrl": "https://www.digitaltrends.com/computing/the-best-chatgpt-alternatives-according-to-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-logo-closeup.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/the-best-chatgpt-alternatives-according-to-chatgpt/",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/the-best-chatgpt-alternatives-according-to-chatgpt/",
-      "publishedDateTime": "2023-02-06T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-enterprise-artificial-intelligence-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations.md",
-      "title": "Enterprise Artificial Intelligence Market Size 2023 With Strategic Choice-Making Process, Identification of Main Corporations",
-      "excerpt": "Enterprise Artificial Intelligence Market Size 2023-2029 | New Report (113 Pages) | In This Reports Enterprise",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T19:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,551 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-12-09-privacy-compute-market-next-big-thing-with-major-giants-basebitai-google-cloud-microsoft-azure-ibm-cloud.md",
+      "title": "Privacy Compute Market Next Big Thing With Major Giants Basebit.ai, Google Cloud, Microsoft Azure, IBM Cloud",
+      "excerpt": "United State- Infinity Business Insights, a leading market research firm, has announced the release of its latest report",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/privacy-compute-market-next-big-thing-with-major-giants-basebitai-google-cloud-microsoft-azure-ibm-cloud-2022-12-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/privacy-compute-market-next-big-thing-with-major-giants-basebitai-google-cloud-microsoft-azure-ibm-cloud-2022-12-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T21:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-crosswords-no-good-against-mild-cognitive-impairment.md",
+      "title": "Crosswords no good against mild cognitive impairment",
+      "excerpt": "Crosswords: Harmless Game or Debilitating Addiction? I think I may have mild cognitive impairment. See, I keep playing crosswords, which is supposed to stave it off, but I keep doing worse at the crosswords. I like crossword puzzles because I have an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/crosswords-no-good-against-mild-cognitive-impairment/",
+      "originalUrl": "https://www.courthousenews.com/crosswords-no-good-against-mild-cognitive-impairment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.courthousenews.com/wp-content/uploads/2022/12/crossword-puzzle.jpeg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-getting-too-much-salt-not-enough-potassium-may-increase-your-risk-of-cognitive-decline.md",
+      "title": "Getting Too Much Salt, Not Enough Potassium May Increase Your Risk of Cognitive Decline",
+      "excerpt": "Share on Pinterest Getting too much sodium in your diet and not enough potassium may impact your risk of cognitive decline. Bisual Studio/Stocksy A new study showed higher dietary sodium was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health-news/getting-too-much-salt-not-enough-potassium-may-increase-your-risk-of-cognitive-decline",
+      "originalUrl": "https://www.healthline.com/health-news/getting-too-much-salt-not-enough-potassium-may-increase-your-risk-of-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2022/12/hand-salt-732x549-thumbnail.jpg",
+          "width": 732,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-brain-vitamin-d-tied-to-cognitive-function.md",
+      "title": "Brain Vitamin D Tied to Cognitive Function",
+      "excerpt": "Opens in a new tab or window Vitamin D levels in post-mortem brain tissue were linked with cognitive function, an autopsy study showed. Higher concentrations of 25(OH)D 3-- the main form of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/neurology/dementia/102152",
+      "originalUrl": "https://www.medpagetoday.com/neurology/dementia/102152",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/102xxx/102152.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T14:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-habits-that-affect-cognitive-health.md",
+      "title": "Habits that affect cognitive health",
+      "excerpt": "Cognitive decline is another symptom often associated with aging, even if that needn’t be the case. Certain lifestyle choices can protect against cognitive decline and dementia. While there is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.register-herald.com/news/life/habits-that-affect-cognitive-health/article_9ae67e9c-70f4-11ed-a017-53274dfa65fe.html",
+      "originalUrl": "https://www.register-herald.com/news/life/habits-that-affect-cognitive-health/article_9ae67e9c-70f4-11ed-a017-53274dfa65fe.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/d/0d/d0d99f66-70f4-11ed-bfe3-0b01b55216d6/6387c91da1fb7.image.jpg?crop=1275%2C669%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-us-regulators-sue-to-block-microsofts-69b-activision-acquisition.md",
+      "title": "US regulators sue to block Microsoft's $69B Activision acquisition",
+      "excerpt": "United Kingdom and European Union regulators are also looking to probe the acquisition, but the FTC is the first agency to formally challenge it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/seattle/news/2022/12/08/microsoft-ftc-activision-lawsuit-block.html",
+      "originalUrl": "https://www.bizjournals.com/seattle/news/2022/12/08/microsoft-ftc-activision-lawsuit-block.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-new-research-shows-empowering-advertisements-fall-short-in-cognitive-tests.md",
+      "title": "New research shows 'empowering' advertisements fall short in cognitive tests",
+      "excerpt": "Those that neither mentioned empowerment nor focused on women's physical beauty—think commercials for Apple, Geico, Allstate and Microsoft—were designated as low on both metrics. After viewing ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-12-empowering-advertisements-fall-short-cognitive.html",
+      "originalUrl": "https://phys.org/news/2022-12-empowering-advertisements-fall-short-cognitive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T11:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-09-why-every-office-needs-a-window-the-influence-of-a-view-on-cognitive-performance.md",
+      "title": "Why every office needs a window: The influence of a view on cognitive performance",
+      "excerpt": "Dr. Baumann, a cognitive neuroscientist, said those in the room with a view performed best. \"When people were able to see the sky and trees they produced more answers in a task that demanded they ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-12-office-window-view-cognitive.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-12-office-window-view-cognitive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-ai-in-fintech-market-to-observe-strong-growth-by-2028-microsoft-google-intel.md",
+      "title": "AI in Fintech Market to Observe Strong Growth by 2028 | Microsoft, Google, Intel",
+      "excerpt": "Latest Study on Industrial Growth of AI in Fintech Market 2023-2029. A detailed study accumulated to offer the Latest insights about acute features of the AI in Fintech market. The report contains ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-to-observe-strong-growth-by-2028-microsoft-google-intel",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-to-observe-strong-growth-by-2028-microsoft-google-intel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/12/Commuters-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-08T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-healthcare-cognitive-computing-market-growth-business-overview-2022-and-forecast-to-2028-ibm-google-microsoft.md",
+      "title": "Healthcare Cognitive Computing Market Growth, Business Overview 2022, and Forecast to 2028| IBM, Google, Microsoft",
+      "excerpt": "The global Healthcare Cognitive Computing Market research provides a comprehensive review of the industry worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-growth-business-overview-2022-and-forecast-to-2028-ibm-google-microsoft-2022-12-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-cognitive-computing-market-growth-business-overview-2022-and-forecast-to-2028-ibm-google-microsoft-2022-12-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-researchers-gain-a-better-understanding-of-how-the-most-commonly-used-adhd-medication-works.md",
+      "title": "Researchers gain a better understanding of how the most commonly used ADHD medication works",
+      "excerpt": "Now, a new study seeks to close this gap and understand how methylphenidate interacts with cognitive control networks and attentional behavior. The new study appears in Biological Psychiatry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/973890",
+      "originalUrl": "https://www.eurekalert.org/news-releases/973890",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank.md",
+      "title": "Deutsche commits to using AI tech from Nvidia throughout the bank",
+      "excerpt": "Deutsche Bank has doubled down on its use of artificial intelligence. The Frankfurt-based bank announced on Wednesday a multi-year partnership with Santa Clara, California-based tech company Nvidia to accelerate and improve artificial intelligence and machine learning throughout the bank.",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank",
+      "originalUrl": "https://www.americanbanker.com/news/deutsche-commits-to-using-ai-tech-from-nvidia-throughout-the-bank",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/95eab24/2147483647/strip/true/crop/3998x2099+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F2e%2Fab%2F08937d7a40b4b2df5be665b66e8d%2F394007626.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-12-08-no-broadcom-and-hock-tan-arent-going-to-raise-prices-on-vmware-products.md",
+      "title": "No, Broadcom And Hock Tan Aren’t Going To Raise Prices On VMware Products",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as last week, he penned his first formal analysis on Broadcom’s pending acquisition of VMware. Net-net, he encouraged any customers, ecosystem partners,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/07/no-broadcom-and-hock-tan-arent-going-to-raise-prices-on-vmware-products/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/07/no-broadcom-and-hock-tan-arent-going-to-raise-prices-on-vmware-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6390f5e267397d6cfe4072b2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/12/07/no-broadcom-and-hock-tan-arent-going-to-raise-prices-on-vmware-products/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/12/07/no-broadcom-and-hock-tan-arent-going-to-raise-prices-on-vmware-products/amp/",
+      "publishedDateTime": "2022-12-07T11:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-08-drone-express-partners-with-microsoft-to-develop-artificial-intelligence-ai-delivery-drones.md",
       "title": "Drone Express Partners with Microsoft to Develop Artificial Intelligence (AI) Delivery Drones",
       "excerpt": "Drone Express, an innovative last-mile logistics company, has partnered with Microsoft to launch a new version of their DE-2020 drone using Artificial Intelligence (AI) for in-flight navigation systems.",

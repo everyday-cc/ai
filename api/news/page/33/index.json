@@ -2,12 +2,12 @@
   "page": 33,
   "value": [
     {
-      "path": "_news/2023-02-06-tellimer-expands-ai-bond-data-collaboration-with-7-chord.md",
-      "title": "Tellimer Expands AI Bond Data Collaboration With 7 Chord",
-      "excerpt": "As Tellimer aspires to be the single point of entry for all Emerging Markets data, analysis and research, Tellimer and 7 Chord will expand an agreement, reached in 2022, to publish 7 Chord's end-of-month Emerging Market bond pricing data on the Tellimer Insights platform.",
+      "path": "_news/2023-02-07-cap_able-blocks-facial-recognition-software-with-knitted-clothing.md",
+      "title": "Cap_able blocks facial recognition software with knitted clothing",
+      "excerpt": "Cap_able has launched a collection of knitted clothing that protects the wearer's biometric data without the need to cover their face.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-tellimer-expands-ai-bond-data-collaboration-with-7-/2023/02/06/9755121.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-tellimer-expands-ai-bond-data-collaboration-with-7-/2023/02/06/9755121.htm",
+      "webUrl": "https://www.dezeen.com/2023/02/07/cap_able-facial-recognition-blocking-clothing/",
+      "originalUrl": "https://www.dezeen.com/2023/02/07/cap_able-facial-recognition-blocking-clothing/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -17,11 +17,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:23:00-08:00",
+      "publishedDateTime": "2023-02-06T20:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Dezeen",
+        "domain": "dezeen.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -31,17 +31,17 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-ebu-artificial-intelligence-will-drive-the-future-of-production.md",
-      "title": "EBU: Artificial intelligence will drive the future of production",
-      "excerpt": "The European Broadcasting Union's head of strategy suggests AI will help to simplify the skills needed in production in the next few years",
+      "path": "_news/2023-02-07-image-recognition-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029.md",
+      "title": "Image Recognition Market International Business Analysis, Top Winning Strategies, Development Outlook and Regional Strategies 2029",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 06, 2023 (The Expresswire) -- The Image Recognition Market report with massive business opportunities in the industry structure, sales (consumption), production, Generate ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/live-production/ebu-artificial-intelligence-will-drive-the-future-of-production",
-      "originalUrl": "https://www.tvbeurope.com/live-production/ebu-artificial-intelligence-will-drive-the-future-of-production",
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029-2023-02-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -51,84 +51,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches.md",
-      "title": "Goa: Artificial Intelligence-Powered Robots To Be Used To Save Lives On Beaches",
-      "excerpt": "In a first-of-its-kind innovation, Drishti Marine, Goa's state-appointed lifeguard organisation, has introduced artificial intelligence (AI) in the form of Aurus. Read full story on Dynamite News:",
-      "sourceUrl": null,
-      "webUrl": "https://www.dynamitenews.com/story/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches",
-      "originalUrl": "https://www.dynamitenews.com/story/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dynamitenews.com/images/2023/02/06/goa-artificial-intelligence-powered-robots-to-be-used-to-save-lives-on-beaches/63e0ed22cf4fa.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dynamite News",
-        "domain": "dynamitenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-in-medical-imaging-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028.md",
-      "title": "Artificial Intelligence In Medical Imaging Market Size 2023 Will Touch A New Level In The Upcoming Year 2028",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:03:00-08:00",
+      "publishedDateTime": "2023-02-06T19:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -151,16 +74,17 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-chatgpt-may-be-just-the-beginning-as-ai-is-likely-to-spur-pe-and-ma-activity.md",
-      "title": "ChatGPT may be just the beginning, as AI is likely to spur PE and M&A activity",
-      "excerpt": "AI, customer engagement, digital transformation and cybersecurity are among hot tech areas of investment, said Union Square Advisors' Wayne Kawarabayashi.",
+      "path": "_news/2023-02-07-machine-learning-market-is-set-to-see-revolutionary-growth-in-decade.md",
+      "title": "Machine Learning Market is set to see Revolutionary growth in decade",
+      "excerpt": "Feb 06, 2023 (The Expresswire) -- \"Machine Learning Market\" Size, Share and Trends Analysis Report 2023 - By Applications (BFSI, Healthcare and",
       "sourceUrl": null,
-      "webUrl": "https://www.pehub.com/chatgpt-may-be-just-the-beginning-as-ai-is-likely-to-spur-pe-and-ma-activity/",
-      "originalUrl": "https://www.pehub.com/chatgpt-may-be-just-the-beginning-as-ai-is-likely-to-spur-pe-and-ma-activity/",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-set-to-see-revolutionary-growth-in-decade-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-is-set-to-see-revolutionary-growth-in-decade-2023-02-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -170,12 +94,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T04:00:00-08:00",
+      "publishedDateTime": "2023-02-06T19:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PE Hub",
-        "domain": "pehub.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -184,16 +117,18 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
-      "path": "_news/2023-02-06-inside-safe-city-moscows-ai-surveillance-dystopia.md",
-      "title": "Inside Safe City, Moscow’s AI Surveillance Dystopia",
-      "excerpt": "Moscow promised residents lower crime rates through an expansive smart city project. Then Vladimir Putin invaded Ukraine.",
+      "path": "_news/2023-02-07-ai-battle-royale-erupts-with-google-bard-versus-microsoft-openai-chatgpt-stoking-ai-ethics-and-ai-law-concerns.md",
+      "title": "AI Battle Royale Erupts With Google Bard Versus Microsoft OpenAI ChatGPT, Stoking AI Ethics And AI Law Concerns",
+      "excerpt": "Google has announced they will be releasing a generative AI app called Bard, based on their Lambda AI app. Microsoft is going to incorporate OpenAI ChatGPT into Bing. The AI wars are getting avidly underway.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/moscow-safe-city-ntechlab/",
-      "originalUrl": "https://www.wired.com/story/moscow-safe-city-ntechlab/",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/06/ai-battle-royale-erupts-with-google-bard-versus-microsoft-openai-chatgpt-stoking-ai-ethics-and-ai-law-concerns/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/06/ai-battle-royale-erupts-with-google-bard-versus-microsoft-openai-chatgpt-stoking-ai-ethics-and-ai-law-concerns/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -201,16 +136,16 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/moscow-safe-city-ntechlab/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/moscow-safe-city-ntechlab/amp",
-      "publishedDateTime": "2023-02-06T04:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T18:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -227,16 +162,17 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-facilities-facial-recognition-staffing-ai-personalization-among-hottest-topics-for-live-events-in-2023.md",
-      "title": "Facilities: Facial recognition, staffing, AI, personalization among hottest topics for live events in 2023",
-      "excerpt": "I fired off a barrage of emails in January to dozens of folks involved with every aspect of the live sports experience to see what topics are: A) front of mind for them as 2023 gets going and, B) most intriguing to them.",
+      "path": "_news/2023-02-07-machine-learning-as-a-service-mlaas-market-with-massive-data-and-availability-to-hamper-the-industry-growth-125-pages-report.md",
+      "title": "Machine Learning-as-a-Service (MLaaS) Market With Massive Data and Availability to Hamper the Industry Growth | 125 Pages Report",
+      "excerpt": "Market research report offers New Insight updates on Business Strategies including Mergers, Acquisitions, Revenue Outsourcing, R and D, Expansion Plans and Collaborations adopted by these Major Global Players,",
       "sourceUrl": null,
-      "webUrl": "https://www.sportsbusinessjournal.com/Journal/Issues/2023/02/06/Insiders/facilities.aspx",
-      "originalUrl": "https://www.sportsbusinessjournal.com/Journal/Issues/2023/02/06/Insiders/facilities.aspx",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-with-massive-data-and-availability-to-hamper-the-industry-growth-125-pages-report-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-with-massive-data-and-availability-to-hamper-the-industry-growth-125-pages-report-2023-02-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -246,74 +182,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sports Business Journal",
-        "domain": "sportsbusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-google-reportedly-invests-400-million-in-ai-startup-anthropic.md",
-      "title": "Google reportedly invests $400 million in AI startup Anthropic",
-      "excerpt": "We're partnering with Google Cloud to support the next phase of Anthropic, where we're going to deploy our AI systems to a larger set of people,” said Anthropic CEO Dario Amo",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/google-reportedly-invests-400-million-in-ai-startup-anthropic-10016161.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/google-reportedly-invests-400-million-in-ai-startup-anthropic-10016161.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/google-reportedly-invests-400-million-in-ai-startup-anthropic-10016161.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-reportedly-invests-400-million-in-ai-startup-anthropic-10016161.html/amp",
-      "publishedDateTime": "2023-02-06T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players.md",
-      "title": "Artificial Intelligence Chipset Market Size 2023-2028 Financial Insights, Business Growth Strategies and Top Key Players",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-size-2023-2028-financial-insights-business-growth-strategies-and-top-key-players-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:50:00-08:00",
+      "publishedDateTime": "2023-02-06T18:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -336,17 +205,18 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2023-02-06-artificial-intelligence-ai-robots-market-size-2023-expected-to-deliver-dynamic-progression-until-2028.md",
-      "title": "Artificial Intelligence (AI) Robots Market Size 2023 : Expected To Deliver Dynamic Progression Until 2028",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "path": "_news/2023-02-07-how-ai-points-the-way-to-a-new-gold-standard-for-big-data-analytics.md",
+      "title": "How AI points the way to a new gold standard for big data analytics",
+      "excerpt": "By running data analytics on dedicated processors the way AI workloads now run on GPUs we can crack open Big Data for a new level of insights",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
+      "webUrl": "https://venturebeat.com/enterprise-analytics/how-ai-points-the-way-to-a-new-gold-standard-for-big-data-analytics/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/how-ai-points-the-way-to-a-new-gold-standard-for-big-data-analytics/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -356,143 +226,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:49:00-08:00",
+      "publishedDateTime": "2023-02-06T18:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-image-recognition-in-retail-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028.md",
-      "title": "Image Recognition in Retail Market Size 2023 Pronounces Its Growth, Size, Shares, and Future Forecasts to 2028",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-image-recognition-professional-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029.md",
-      "title": "Image Recognition Professional Market Size 2023 Comprehensive Insights and Capacity Growth Analysis 2029",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-professional-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-professional-market-size-2023-comprehensive-insights-and-capacity-growth-analysis-2029-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-3-ai-stocks-that-will-be-big-winners-in-2023.md",
-      "title": "3 AI Stocks That Will Be Big Winners in 2023",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The rise of AI stocks as a key investing trend is notable. Whether",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-will-be-big-winners-in-2023-1032069987",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-will-be-big-winners-in-2023-1032069987",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -513,46 +254,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-face-verification-130-from-neurotechnology-includes-improved-algorithms-for-face-recognition-and-liveness-detection.md",
-      "title": "Face Verification 13.0 from Neurotechnology includes improved algorithms for face recognition and liveness detection",
-      "excerpt": "It includes a small-footprint version of Neurotechnology’s latest facial recognition algorithm – which ranked among the top results in the NIST FRVT 1:1 evaluation – making it ideal for digital identity onboarding, payment, banking ...",
+      "path": "_news/2023-02-07-speech-and-voice-recognition-technology-market-with-highly-lucrative-segment-to-expand-significantly-with-top-countries-data.md",
+      "title": "Speech and Voice Recognition Technology Market With Highly Lucrative Segment To Expand Significantly With Top Countries Data",
+      "excerpt": "In 2023] The Global Speech and Voice Recognition Technology Market Size (116 Report Pages) is estimated to be worth",
       "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/face-verification-13-0-neurotechnology-improved-algorithms-face-recognition-liveness-detection-co-10915-ga-co-1616048003-ga-co-1675663085-ga-npr.1675665242.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/mobile-access/news/face-verification-13-0-neurotechnology-improved-algorithms-face-recognition-liveness-detection-co-10915-ga-co-1616048003-ga-co-1675663085-ga-npr.1675665242.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/face-verification-13-0-neurotechnology-improved-algorithms-face-recognition-liveness-detection-co-10915-ga-co-1616048003-ga-co-1675663085-ga-npr.1675665242.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/face-verification-13-0-neurotechnology-improved-algorithms-face-recognition-liveness-detection-co-10915-ga-co-1616048003-ga-co-1675663085-ga-npr.1675665242.html",
-      "publishedDateTime": "2023-02-06T03:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-ai-in-fintech-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market Size 2023 Will Touch A New Level In The Upcoming Year 2028",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-with-highly-lucrative-segment-to-expand-significantly-with-top-countries-data-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-with-highly-lucrative-segment-to-expand-significantly-with-top-countries-data-2023-02-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -562,50 +269,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-cloud-natural-language-processing-market-to-eyewitness-steady-growth-throughout-2023-2028.md",
-      "title": "Cloud Natural Language Processing Market To Eyewitness Steady Growth Throughout 2023-2028",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-to-eyewitness-steady-growth-throughout-2023-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-to-eyewitness-steady-growth-throughout-2023-2028-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:41:00-08:00",
+      "publishedDateTime": "2023-02-06T17:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -633,12 +297,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-facial-recognition-access-control-solutions-market-size-2023-expected-to-deliver-dynamic-progression-until-2028.md",
-      "title": "Facial Recognition Access Control Solutions Market Size 2023 : Expected To Deliver Dynamic Progression Until 2028",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "path": "_news/2023-02-07-goa-introduces-ai-powered-self-driving-robot-aurus-to-save-lives-on-its-beaches.md",
+      "title": "Goa introduces AI-powered self-driving robot Aurus to save lives on its beaches",
+      "excerpt": "Incorporation of AI-based support follows a rise in beach-related incidents due to spike in domestic and foreign tourists on Goa’s coastline, an official from Drishti Marine said.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
+      "webUrl": "https://theprint.in/india/ai-powered-robot-introduced-to-save-lives-on-goa-beaches/1358600/",
+      "originalUrl": "https://theprint.in/india/ai-powered-robot-introduced-to-save-lives-on-goa-beaches/1358600/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -648,96 +312,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:41:00-08:00",
+      "publishedDateTime": "2023-02-06T17:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-software-market-size-2023-expected-to-deliver-dynamic-progression-until-2028.md",
-      "title": "Artificial Intelligence Software Market Size 2023 : Expected To Deliver Dynamic Progression Until 2028",
-      "excerpt": "Feb 06, 2023 (The Expresswire) -- Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and COVID-19...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-size-2023-expected-to-deliver-dynamic-progression-until-2028-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-goa-using-self-driving-robot-ai-powered-monitoring-system-as-lifeguards-on-its-beaches.md",
-      "title": "Goa Using Self-Driving Robot, AI-Powered Monitoring System as Lifeguards on Its Beaches",
-      "excerpt": "Both the AI-monitored camera-based systems can monitor the surroundings, assess and detect risks, share real-time information with on-duty lifeguards so they may respond faster to avoid tragic incidents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763",
-      "originalUrl": "https://www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/goa-artificial-intelligence-ai-powered-life-guard-drishti-marine-aurus-self-driving-robot-beaches-3757763/amp",
-      "publishedDateTime": "2023-02-06T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
+        "name": "ThePrint",
+        "domain": "theprint.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -753,46 +332,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-digiyatras-facial-recognition-algorithm-has-been-trained-for-indian-demography-using-6-lakh-faces.md",
-      "title": "DigiYatra’s facial recognition algorithm has been trained for Indian demography using 6 lakh faces",
-      "excerpt": "Avinash Komireddy, Founder and CEO of Dataevolve, the start-up that designed the DigiYatra ecosystem, claims the facial recognition algorithm has a success rate of 99%",
+      "path": "_news/2023-02-07-ai-marketing-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029.md",
+      "title": "AI Marketing Market International Business Analysis, Top Winning Strategies, Development Outlook and Regional Strategies 2029",
+      "excerpt": "According to 360 Market Updates (360marketupdates.com) this latest study, the 2023 development of Third-Party Replacement Strap for AI Marketing market will have huge change from earlier year. \"Powerful new research technologies introduce Detailed TOC of AI Marketing Market report [113 Pages Report],",
       "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/startup/digiyatras-facial-recognition-algorithm-has-been-trained-for-indian-demography-using-6-lakh-faces-10016211.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/startup/digiyatras-facial-recognition-algorithm-has-been-trained-for-indian-demography-using-6-lakh-faces-10016211.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/digiyatras-facial-recognition-algorithm-has-been-trained-for-indian-demography-using-6-lakh-faces-10016211.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/digiyatras-facial-recognition-algorithm-has-been-trained-for-indian-demography-using-6-lakh-faces-10016211.html/amp",
-      "publishedDateTime": "2023-02-06T03:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-in-aviation-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028.md",
-      "title": "Artificial Intelligence in Aviation Market Size 2023 Pronounces Its Growth, Size, Shares, and Future Forecasts to 2028",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-marketing-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-marketing-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029-2023-02-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -802,7 +347,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:24:00-08:00",
+      "publishedDateTime": "2023-02-06T17:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -825,16 +370,18 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "Facebook AI",
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
-      "path": "_news/2023-02-06-facial-recognition-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028.md",
-      "title": "Facial Recognition Market Size 2023 Pronounces Its Growth, Size, Shares, and Future Forecasts to 2028",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "path": "_news/2023-02-07-artificial-neural-networks-market-2023-newest-121-pages-report-is-booming-worldwide-2029.md",
+      "title": "Artificial Neural Networks Market 2023 (Newest 121 Pages Report) is Booming Worldwide 2029",
+      "excerpt": "According to 360 Market Updates (360marketupdates.com) this latest study, the 2023 development of Third-Party Replacement Strap for Artificial Neural Networks market will have huge change from earlier year.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2023-pronounces-its-growth-size-shares-and-future-forecasts-to-2028-2023-02-06",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-newest-121-pages-report-is-booming-worldwide-2029-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2023-newest-121-pages-report-is-booming-worldwide-2029-2023-02-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -844,83 +391,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-south-africa-sa-startup-wise-move-revolutionises-moving-industry-with-artificial-intelligence-ai-powered-chatgpt-integration.md",
-      "title": "South Africa (SA) Startup Wise Move Revolutionises Moving Industry with Artificial Intelligence (AI)-Powered ChatGPT Integration",
-      "excerpt": "Wise Move is revolutionising the South African moving industry by becoming the first online platform to harness the power of OpenAI's ChatGPT through Artificial Intelligence (AI) integration. The company's cutting-edge technology provides users with an unmatched customer experience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/africa-press-releases/south-africa-sa-startup-wise-move-revolutionises-moving-industry-with-artificial-intelligence-ai-powered-pnoe9m1b",
-      "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/south-africa-sa-startup-wise-move-revolutionises-moving-industry-with-artificial-intelligence-ai-powered-pnoe9m1b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/africa-press-releases/south-africa-sa-startup-wise-move-revolutionises-moving-industry-with-artificial-intelligence-ai-powered-pnoe9m1b?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/south-africa-sa-startup-wise-move-revolutionises-moving-industry-with-artificial-intelligence-ai-powered-pnoe9m1b?amp=1",
-      "publishedDateTime": "2023-02-06T03:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-deep-learning-unit-market-research-2023-growth-trends-outlook-and-future-scope-analysis-2028.md",
-      "title": "Deep Learning Unit Market Research 2023 : Growth, Trends, Outlook and Future Scope Analysis 2028",
-      "excerpt": "Feb 06, 2023 (The Expresswire) -- \"Deep Learning Unit Market\" Size, Share and Trends Analysis Report 2023 - By Applications (Automotive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-unit-market-research-2023-growth-trends-outlook-and-future-scope-analysis-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-unit-market-research-2023-growth-trends-outlook-and-future-scope-analysis-2028-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:17:00-08:00",
+      "publishedDateTime": "2023-02-06T17:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -948,12 +419,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-chatgpt-is-fastest-app-to-hit-100m-users-in-history.md",
-      "title": "ChatGPT is fastest app to hit 100m users in history",
-      "excerpt": "ChatGPT, the artificial intelligence communications model has become the first and the fastest mobile app to hit 100 million in two months of coming to",
+      "path": "_news/2023-02-07-the-self-driving-robot-has-been-named-aurus.md",
+      "title": "The self-driving robot has been named Aurus",
+      "excerpt": "Goa started Using AI ROBOT.",
       "sourceUrl": null,
-      "webUrl": "https://businessday.ng/technology/article/chatgpt-is-fastest-app-to-hit-100m-users-in-history/",
-      "originalUrl": "https://businessday.ng/technology/article/chatgpt-is-fastest-app-to-hit-100m-users-in-history/",
+      "webUrl": "https://www.panasiabiz.com/web-stories/goa-started-using-ai-robot/",
+      "originalUrl": "https://www.panasiabiz.com/web-stories/goa-started-using-ai-robot/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -963,11 +434,91 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:13:00-08:00",
+      "publishedDateTime": "2023-02-06T17:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
+        "name": "panasiabiz.com",
+        "domain": "panasiabiz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-what-companies-are-fueling-the-progress-in-natural-language-processing-moving-this-branch-of-ai-past-translators-and-speech-to-text.md",
+      "title": "What Companies Are Fueling The Progress In Natural Language Processing? Moving This Branch Of AI Past Translators And Speech-To-Text",
+      "excerpt": "With the recent advancements in artificial intelligence, the natural language processing subset has been getting attention as this field has also seen significant improvements. We look at what companies are fueling the progress in natural language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/06/what-companies-are-fueling-the-progress-in-natural-language-processing-moving-this-branch-of-ai-past-translators-and-speech-to-text/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/06/what-companies-are-fueling-the-progress-in-natural-language-processing-moving-this-branch-of-ai-past-translators-and-speech-to-text/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T17:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-cohere-a-generative-ai-startup-that-rivals-chatgpt-in-talks-over-large-funding-round.md",
+      "title": "Cohere, a generative AI startup that rivals ChatGPT, in talks over large funding round",
+      "excerpt": "Startup Cohere Inc. has become the latest name in the red-hot area of artificial intelligence to attract the attention of investors. It’s reportedly holding talks with potential backers about a funding round that could see it raise hundreds of millions of dollars and bring its value to more than $6 billion,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/02/06/cohere-generative-ai-startup-rivals-chatgpt-talks-multi-million-funding-round/",
+      "originalUrl": "https://siliconangle.com/2023/02/06/cohere-generative-ai-startup-rivals-chatgpt-talks-multi-million-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T16:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -978,6 +529,504 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-biren-prioritizes-ai-breakthrough-software-stack-key-to-chinese-gpu-industry.md",
+      "title": "Biren prioritizes AI breakthrough; software stack key to Chinese GPU industry",
+      "excerpt": "Biren has chosen to focus on GPGPU and prioritizing breakthroughs in AI, an application with greater market potential. Data center products have already surpassed traditional GPU products on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230203VL207/ai-biren-chip-war-gpu-nvidia.html",
+      "originalUrl": "https://www.digitimes.com/news/a20230203VL207/ai-biren-chip-war-gpu-nvidia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230203vl207_files/1_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T16:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-adding-a-white-traffic-light-may-help-driverless-cars-boost-traffic-flow.md",
+      "title": "Adding a white traffic light may help driverless cars boost traffic flow",
+      "excerpt": "When and if driverless cars become much more common, the green, amber and red traffic lights that we already know may be getting a white sibling Depositphotos View 1 Image",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/science/white-traffic-light-autonomous-vehicles/",
+      "originalUrl": "https://newatlas.com/science/white-traffic-light-autonomous-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/a513667/2147483647/strip/true/crop/2000x1050+0+141/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc2%2F88%2Fb949db9544638c9647a5523ed2f8%2Fdepositphotos-95047296-l.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-opinion-artificial-intelligence-programs-like-chatgpt-are-already-here-what-do-we-do-about-it.md",
+      "title": "Opinion: Artificial intelligence programs like ChatGPT are already here. What do we do about it?",
+      "excerpt": "As a retired educator, I know students need to be able to learn to think for themselves and create essays that promote their thought process, not that of artificial intelligence. Becoming a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sandiegouniontribune.com/opinion/letters-to-the-editor/story/2023-02-10/opinion-artificial-intelligence-programs-like-chatgpt-are-already-here-what-do-we-do-about-it",
+      "originalUrl": "https://www.sandiegouniontribune.com/opinion/letters-to-the-editor/story/2023-02-10/opinion-artificial-intelligence-programs-like-chatgpt-are-already-here-what-do-we-do-about-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/6056f19/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F23%2F20%2F55253f2f45dd8e4938fcc1c99aa9%2Fmicrosoft-artificial-intelligence-15129.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Diego Union-Tribune",
+        "domain": "sandiegouniontribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-physics-guided-machine-learning-models-will-improve-subsurface-imaging.md",
+      "title": "Physics-guided machine-learning models will improve subsurface imaging",
+      "excerpt": "A team of scientists at Los Alamos National Laboratory is applying machine-learning algorithms to subsurface ... datasets into ever more intelligent services,\" said James Theiler of the Space ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-02-physics-guided-machine-learning-subsurface-imaging.html",
+      "originalUrl": "https://phys.org/news/2023-02-physics-guided-machine-learning-subsurface-imaging.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/physics-guided-machine.jpg",
+          "width": 1430,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-02-physics-guided-machine-learning-subsurface-imaging.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-physics-guided-machine-learning-subsurface-imaging.amp",
+      "publishedDateTime": "2023-02-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions.md",
+      "title": "Protecting Critical Utilities Customers and Assets with Computer Vision AI Solutions",
+      "excerpt": "Industry leaders in AI and computer vision, have collaborated with key industry stakeholders and an extensive partner network to deliver a proven, repeatable process in delivering an end-to-end solution. The increasing frequency and severity of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tdworld.com/resources/white-papers/whitepaper/21259422/protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions",
+      "originalUrl": "https://www.tdworld.com/resources/white-papers/whitepaper/21259422/protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.tdworld.com/files/base/ebm/tdworld/image/2023/02/feature_photo.63dd344145367.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "T&D",
+        "domain": "tdworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-researchers-discover-a-more-flexible-approach-to-machine-learning.md",
+      "title": "Researchers Discover a More Flexible Approach to Machine Learning",
+      "excerpt": "Artificial intelligence researchers have celebrated a string of successes with neural networks, computer programs that roughly mimic how our brains are organized. But despite rapid progress, neural networks remain relatively inflexible, with little ability ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.quantamagazine.org/researchers-discover-a-more-flexible-approach-to-machine-learning-20230207/",
+      "originalUrl": "https://www.quantamagazine.org/researchers-discover-a-more-flexible-approach-to-machine-learning-20230207/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/09/2021PodcastAd_Article_160.jpg",
+          "width": 320,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quanta Magazine",
+        "domain": "quantamagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-study-shows-how-sleep-deprivation-affects-cognitive-performance.md",
+      "title": "Study shows how sleep deprivation affects cognitive performance",
+      "excerpt": "Since brain plasticity and excitability depend on sleep, it could play a role in preventing diseases with cognitive deficits. Examples of such diseases are Alzheimer's disease, which is often ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-02-deprivation-affects-cognitive.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-02-deprivation-affects-cognitive.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/sleep-deprivation-affe.jpg",
+          "width": 1500,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-02-deprivation-affects-cognitive.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-deprivation-affects-cognitive.amp",
+      "publishedDateTime": "2023-02-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-tracking-generative-ai-how-evolving-ai-models-are-impacting-legal.md",
+      "title": "Tracking Generative AI: How Evolving AI Models Are Impacting Legal",
+      "excerpt": "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/legaltechnews/2023/02/06/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/",
+      "originalUrl": "https://www.law.com/legaltechnews/2023/02/06/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T15:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-what-to-know-about-googles-ai-strategy.md",
+      "title": "What to know about Google’s AI strategy",
+      "excerpt": "OpenAI's launch of ChatGPT spurred an AI race, prompting incumbents like Google to share plans for public tool releases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciodive.com/news/Google-Bard-LaMDA-PaLM-release/642113/",
+      "originalUrl": "https://www.ciodive.com/news/Google-Bard-LaMDA-PaLM-release/642113/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T14:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Dive",
+        "domain": "ciodive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-google-hopes-bard-will-outsmart-chatgpt-microsoft-in-ai.md",
+      "title": "Google hopes 'Bard' will outsmart ChatGPT, Microsoft in AI",
+      "excerpt": "ARTIFICIAL INTELLIGENCE IS SHAKING UP THE WAY WE CREATE ART ... TEACHERS ARE CONCERNED ABOUT PLAGIARISM AND THE ETHICS OF LETTING A COMPUTER DO THE TYPING AND THE THINKING. A COMPUTER SCIENCE STUDENT AT PRINCETON UNIVERSITY BELIEVES HE HAS A SOLUTION.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmur.com/article/google-bard-chatgpt-microsoft-ai/42781857",
+      "originalUrl": "https://www.wmur.com/article/google-bard-chatgpt-microsoft-ai/42781857",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMUR",
+        "domain": "wmur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-google-takes-on-chatgpt-with-bard-and-shows-off-ai-in-search.md",
+      "title": "Google takes on ChatGPT with Bard and shows off AI in search",
+      "excerpt": "Google's new AI will \"combine the breadth of the world's knowledge with the power, intelligence, and creativity of our large language models.\"",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/06/google-takes-on-chatgpt-with-bard-and-shows-off-ai-in-search/",
+      "originalUrl": "https://techcrunch.com/2023/02/06/google-takes-on-chatgpt-with-bard-and-shows-off-ai-in-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-5-investors-betting-big-on-soundhound-ai-soun-stock.md",
+      "title": "5 Investors Betting Big on SoundHound AI (SOUN) Stock",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Shares of SoundHound AI (NASDAQ:SOUN) finished the day up by 43%, bringing the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/5-investors-betting-big-on-soundhound-ai-soun-stock-1032071480",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-investors-betting-big-on-soundhound-ai-soun-stock-1032071480",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

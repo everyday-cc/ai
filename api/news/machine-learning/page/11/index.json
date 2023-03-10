@@ -2,21 +2,21 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-10-26-generative-ai-startups-attract-business-customers-investor-funding.md",
-      "title": "Generative AI Startups Attract Business Customers, Investor Funding",
-      "excerpt": "Austin-based Jasper, whose AI platform generates marketing materials, last week announced a $125 million Series A fundraising round.",
+      "path": "_news/2022-12-07-ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in.md",
+      "title": "AI Shake-Up As Prominent AI Guru Proposes Mind-Bending “Mortal Computers” Which Also Gets AI Ethics And AI Law Dug In",
+      "excerpt": "A major AI conference raised eyebrows when a top AI guru proposed that we need mortal computers in addition to immortal computers. What is this all about? What are the AI ramifications? Are there AI Ethics and AI Law concerns.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176?tpl=vc",
-      "originalUrl": "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176?tpl=vc",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-651809/social",
-          "width": 1279,
-          "height": 640,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62427f3c055f1d39bb6f0b2a/0x0.jpg?format=jpg&crop=3992,2661,x540,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T14:16:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/12/07/ai-shake-up-as-prominent-ai-guru-proposes-mind-bending-mortal-computers-which-also-gets-ai-ethics-and-ai-law-dug-in/amp/",
+      "publishedDateTime": "2022-12-07T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,114 +49,28 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI",
+        "AI Hardware",
         "Machine Learning"
       ]
     },
     {
-      "path": "_news/2022-10-26-mlsec-could-be-the-answer-to-adversarial-ai-and-machine-learning-attacks.md",
-      "title": "MLsec could be the answer to adversarial AI and machine learning attacks",
-      "excerpt": "With research showing that private investment in artificial intelligence (AI) reached roughly $93.5 billion in 2021, it’s no secret that many organizations are implementing AI and machine learning",
+      "path": "_news/2022-12-07-googles-vertex-ai-vision-brings-no-code-to-computer-vision.md",
+      "title": "Google's Vertex AI Vision brings no-code to computer vision",
+      "excerpt": "Vertex AI Vision combines video sources, machine learning models, and data warehouses to deliver rich insights and computer vision",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/mlsec-ai-machine-learning/",
-      "originalUrl": "https://venturebeat.com/business/mlsec-ai-machine-learning/",
+      "webUrl": "https://www.infoworld.com/article/3680148/googles-vertex-ai-vision-brings-no-code-to-computer-vision.html",
+      "originalUrl": "https://www.infoworld.com/article/3680148/googles-vertex-ai-vision-brings-no-code-to-computer-vision.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks.md",
-      "title": "Run inference at scale for OpenFold, a PyTorch-based protein folding ML model, using Amazon EKS",
-      "excerpt": "This post was co-written with Sachin Kadyan, a leading developer of OpenFold. In drug discovery, understanding the 3D structure of proteins is key to assessing the ability of a drug to bind to it, directly impacting its efficacy. Predicting the 3D protein form, however, is very complex, challenging,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T12:50:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints.md",
-      "title": "Run multiple deep learning models on GPU with Amazon SageMaker multi-model endpoints",
-      "excerpt": "As AI adoption is accelerating across the industry, customers are building sophisticated models that take advantage of new scientific breakthroughs in deep learning. These next-generation models allow you to achieve state-of-the-art, human-like performance in the fields of natural language processing",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/25/ML-9791-image001.jpg",
-          "width": 1540,
-          "height": 724,
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/28/10/shutterstock_561931702-100932824-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 741,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -164,16 +78,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T08:45:28-07:00",
+      "ampWebUrl": "https://www.infoworld.com/article/3680148/googles-vertex-ai-vision-brings-no-code-to-computer-vision.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3680148/googles-vertex-ai-vision-brings-no-code-to-computer-vision.amp.html",
+      "publishedDateTime": "2022-12-07T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -189,71 +103,27 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI Hardware"
+        "Computer Vision"
       ]
     },
     {
-      "path": "_news/2022-10-25-mlsec-could-be-the-answer-to-adversarial-ai-and-machine-learning-attacks.md",
-      "title": "MLSec could be the answer to adversarial AI and machine learning attacks",
-      "excerpt": "Hidden Layer announces the launch of a new MLSec platform designed to detect and respond to adversarial AI and machine learning attacks.",
+      "path": "_news/2022-12-07-deep-learning-market-worldwide-market-is-growing-at-a-cagr-of-391-from-2021-to-2030-douglas-insights.md",
+      "title": "Deep Learning Market - Worldwide Market is Growing at a CAGR of 39.1% from 2021 to 2030 | Douglas Insights",
+      "excerpt": "Market Overview The global deep learning market is projected to expand exponentially in the coming years, with a whopping estimated compound annual growth rate (CAGR) of 39.1% from 2021 to 2030 ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/mlsec-ai-machine-learning/",
-      "originalUrl": "https://venturebeat.com/security/mlsec-ai-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-organizations-rapidly-adopting-qlik-automl-to-bring-the-power-of-machine-learning-to-analytics-teams.md",
-      "title": "Organizations Rapidly Adopting Qlik AutoML to Bring the Power of Machine Learning to Analytics Teams",
-      "excerpt": "Machine learning is used across every industry, but its wider adoption and value have been limited by the gap in data scientist bandwidth and resources. Qlik AutoML is filling that gap by bringing a simple,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/organizations-rapidly-adopting-qlik-automl-to-bring-the-power-of-machine-learning-to-analytics-teams-2022-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/organizations-rapidly-adopting-qlik-automl-to-bring-the-power-of-machine-learning-to-analytics-teams-2022-10-25",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/g29986689/deep-learning-market-worldwide-market-is-growing-at-a-cagr-of-39-1-from-2021-to-2030-douglas-insig",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/g29986689/deep-learning-market-worldwide-market-is-growing-at-a-cagr-of-39-1-from-2021-to-2030-douglas-insig",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
+          "width": 800,
+          "height": 313,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -261,225 +131,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T05:30:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29986689",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29986689",
+      "publishedDateTime": "2022-12-06T23:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028.md",
-      "title": "Deep Learning Computing Stick Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028",
-      "excerpt": "An in-depth analysis of market segmentation based on product types, applications, growth factors, trends, research, innovations, and new product launches is given in this \" Deep Learning Computing Stick Market .",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws.md",
-      "title": "Reduce deep learning training time and cost with MosaicML Composer on AWS",
-      "excerpt": "In the past decade, we have seen Deep learning (DL) science adopted at a tremendous pace by AWS customers. The plentiful and jointly trained parameters of DL models have a large representational capacity that brought improvements in numerous customer use cases, including image and speech analysis, natural",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/24/reduce-deep-learning-training-mosaicml.jpg",
-          "width": 1343,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T12:31:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform.md",
-      "title": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform",
-      "excerpt": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform Oct 24, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-snap-way-to-design-ads-ranking-service-using-deep-learning.md",
-      "title": "Snap Way to Design Ads Ranking Service Using Deep Learning",
-      "excerpt": "Subscribe for free. Snap engineering has recently published a blog post on how they designed their Ads ranking and targeting service using deep learning. Showing ads to the users is the mainstream ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/10/snap-ad-ranking/",
-      "originalUrl": "https://www.infoq.com/news/2022/10/snap-ad-ranking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/10/snap-ad-ranking/en/headerimage/generatedHeaderImage-1666456310522.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -494,21 +152,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-24-media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022.md",
-      "title": "Media Alert: BrainChip Exhibits its Essential AI Capabilities at the Linley Fall Processor Conference 2022",
-      "excerpt": "As part of the presentation, Mankar will demonstrate how BrainChip uses hardware/software co-design, AutoML and the results of discussions with many AI application customers to achieve advances in system-level hardware performance,",
+      "path": "_news/2022-12-07-aws-updates-machine-learning-service-sagemaker.md",
+      "title": "AWS updates machine learning service SageMaker",
+      "excerpt": "Amazon Web Services (AWS) has added new features to its managed machine learning service Amazon SageMaker, designed to improve governance attributes within the service and adding new capabilities to its notebooks. Notebooks in context of Amazon SageMaker ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022-2022-10-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022-2022-10-23",
+      "webUrl": "https://www.reseller.co.nz/article/703755/aws-updates-machine-learning-service-sagemaker/?fpid=1",
+      "originalUrl": "https://www.reseller.co.nz/article/703755/aws-updates-machine-learning-service-sagemaker/?fpid=1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/aws_dreamstime_4_11.jpg",
+          "width": 504,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -518,21 +176,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T14:30:00-07:00",
+      "publishedDateTime": "2022-12-06T16:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -541,79 +190,27 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning.md",
-      "title": "Top 5 stories of the week: Deloitte, Meta, Nvidia and Oracle news highlights current state of AI, deep learning",
-      "excerpt": "The state of AI in 2022 continues to evolve and new trends are emerging with it. This week, news on AI from Nvidia and Oracle, Meta, and Deloitte topped our coverage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning/",
-      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1040897864.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning/amp/",
-      "publishedDateTime": "2022-10-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
+        "AWS AI",
         "AI",
-        "Natural Language Processing"
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2022-10-22-researchers-build-neural-networks-with-actual-neurons.md",
-      "title": "Researchers Build Neural Networks With Actual Neurons",
-      "excerpt": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these artificial neural ...",
+      "path": "_news/2022-12-07-microscopy-mash-up-quantifies-maps-neural-circuits.md",
+      "title": "Microscopy mash-up quantifies, maps neural circuits",
+      "excerpt": "They also developed a convolutional neural network, trained on images of different synapses, to automatically detect synapses and segment individual neurons in the images. “The major contribution here is in the computational pipeline and analysis ...",
       "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
-      "originalUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "webUrl": "https://www.spectrumnews.org/news/toolbox/microscopy-mash-up-quantifies-maps-neural-circuits/",
+      "originalUrl": "https://www.spectrumnews.org/news/toolbox/microscopy-mash-up-quantifies-maps-neural-circuits/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://hackaday.com/wp-content/uploads/2022/03/NeuralNerves.jpg",
-          "width": 3000,
-          "height": 1815,
+          "url": "https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2022/12/05142231/844-thumbnail.png",
+          "width": 844,
+          "height": 570,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -623,11 +220,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T17:00:00-07:00",
+      "publishedDateTime": "2022-12-06T15:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
+        "name": "Spectrum",
+        "domain": "spectrumnews.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -642,22 +239,31 @@
       ]
     },
     {
-      "path": "_news/2022-10-21-deep-learning-with-light.md",
-      "title": "Deep learning with light",
-      "excerpt": "One reason this latency occurs is because connected devices don’t have enough memory or power to store and run the enormous machine-learning models needed for the device to understand what a ...",
+      "path": "_news/2022-12-07-towards-automatic-detection-of-road-features-with-deep-learning.md",
+      "title": "Towards automatic detection of road features with deep learning",
+      "excerpt": "While a vast amount of point cloud data has been accumulated for Japanese public works, it has little use in the unprocessed state. Researchers from Japan have now proposed a deep learning algorithm that uses high-precision 3D maps to automatically generate training data for constructing a road feature identification model from the point cloud data.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/968327",
-      "originalUrl": "https://www.eurekalert.org/news-releases/968327",
+      "webUrl": "https://www.eurekalert.org/news-releases/973636",
+      "originalUrl": "https://www.eurekalert.org/news-releases/973636",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2fb80741-d6ba-46d9-b3bf-d1bdd8e611c6/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T11:04:00-07:00",
+      "publishedDateTime": "2022-12-06T15:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "EurekAlert!",
@@ -676,21 +282,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-20-improving-the-mapping-of-human-skin-using-models-and-deep-learning.md",
-      "title": "Improving the mapping of human skin using models and deep learning",
-      "excerpt": "With just a scan of your face and a little basic data, such as height and weight, mathematician Alessio Gallucci can produce a complete body scan. To improve the 3D analysis of our skin he used deep learning techniques.",
+      "path": "_news/2022-12-07-aisera-founder-offers-perspective-on-latest-moves-from-aws-in-aiml.md",
+      "title": "Aisera founder offers perspective on latest moves from AWS in AI/ML",
+      "excerpt": "The founder and chief executive of Aisera Inc. identified four key areas of focus by Amazon Web Service Inc. during the recently concluded re:Invent gathering in Las Vegas. “First, the most important things Amazon has announced are in artificial intelligence and machine learning,",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-10-human-skin-deep.html",
-      "originalUrl": "https://techxplore.com/news/2022-10-human-skin-deep.html",
+      "webUrl": "https://siliconangle.com/2022/12/06/aisera-founder-offers-perspective-on-latest-moves-from-aws-in-ai-ml-reinvent/",
+      "originalUrl": "https://siliconangle.com/2022/12/06/aisera-founder-offers-perspective-on-latest-moves-from-aws-in-ai-ml-reinvent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/researcher-improves-th.jpg",
-          "width": 600,
-          "height": 422,
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/12/Muddu-Sudhakar-Aisera.jpg",
+          "width": 900,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -698,9 +304,131 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-10-human-skin-deep.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-human-skin-deep.amp",
-      "publishedDateTime": "2022-10-20T09:45:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-the-worldwide-machine-learning-as-a-service-industry-is-expected-to-reach-362-billion-by-2028.md",
+      "title": "The Worldwide Machine Learning as a Service Industry is Expected to Reach $36.2 Billion by 2028",
+      "excerpt": "The Global Machine learning as a Service Market size is expected to reach $36.2 billion by 2028, rising at a market growth of 31.6% CAGR during the forecast period. Machine learning is a data analysis method that includes statistical data analysis to create desired prediction output without the use of explicit programming.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/12/06/9725607.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/12/06/9725607.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-07-amyloid-plaques-recast-as-cause-of-neural-network-dysfunction.md",
+      "title": "Amyloid plaques recast as cause of neural network dysfunction",
+      "excerpt": "Researchers have identified a link between amyloid plaques and dysfunctional neuronal conduction in animal models of Alzheimer’s disease (AD). Their study, which was published in the Dec. 1, 2022, issue of Nature, suggests new ways to think about AD, as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bioworld.com/articles/692249-amyloid-plaques-recast-as-cause-of-neural-network-dysfunction",
+      "originalUrl": "https://www.bioworld.com/articles/692249-amyloid-plaques-recast-as-cause-of-neural-network-dysfunction",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Neurology/Neurons-and-amyloid-plaques.png?height=635&t=1669849458&width=1200",
+          "width": 847,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-06T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BioWorld",
+        "domain": "bioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-locomotion-modeling-evolves-with-brain-inspired-neural-networks.md",
+      "title": "Locomotion modeling evolves with brain-inspired neural networks",
+      "excerpt": "A team of scientists at EPFL have built a new neural network system that can help understand how animals adapt their movement to changes in their own body and to create more powerful artificial intelligence systems.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/locomotion-modeling-ev.jpg",
+          "width": 621,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-locomotion-evolves-brain-inspired-neural-networks.amp",
+      "publishedDateTime": "2022-12-06T07:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "techxplore",
@@ -719,21 +447,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-20-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph.md",
-      "title": "Mechanical neural network could enable smart aircraft wings that morph",
-      "excerpt": "The basis of modern AI research is the artificial neural network (ANN), which mimics the structure of the human brain by creating large grids of artificial neurons connected by synapses.",
+      "path": "_news/2022-12-06-artificial-intelligence-machine-learning-and-the-future-of-entertainment.md",
+      "title": "Artificial Intelligence, Machine Learning, And The Future Of Entertainment",
+      "excerpt": "By 2030, the AI in media and entertainment industry is set to be worth a staggering $99.3 billion with the current compound annual growth rate being 26%.",
       "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2342654-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph/",
-      "originalUrl": "https://www.newscientist.com/article/2342654-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph/",
+      "webUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/",
+      "originalUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 147,
       "tags": null,
       "images": [
         {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/10/19141859/SEI_130165361.jpg",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638f08b7ec3141a8f50d997c/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
-          "height": 800,
+          "height": 814,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -741,233 +469,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T08:57:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joshwilson/2022/12/06/artificial-intelligence-machine-learning-and-the-future-of-entertainment/amp/",
+      "publishedDateTime": "2022-12-06T01:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-a-new-type-of-material-called-a-mechanical-neural-network-can-learn-and-change-its-physical-properties-to-create-adaptable-strong-structures.md",
-      "title": "A New Type Of Material Called A Mechanical Neural Network Can Learn And Change Its Physical Properties To Create Adaptable, Strong Structures",
-      "excerpt": "The is a short take about interesting academic work. The big idea A new type of material can learn and improve its ability to deal with u",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105049442/A-New-Type-Of-Material-Called-A-Mechanical-Neural-Network-Can-Learn-And-Change-Its-Physical-Properties-To-Create-Adaptable-Strong-Structures",
-      "originalUrl": "https://menafn.com/1105049442/A-New-Type-Of-Material-Called-A-Mechanical-Neural-Network-Can-Learn-And-Change-Its-Physical-Properties-To-Create-Adaptable-Strong-Structures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-a-deep-artificial-neural-network-powered-by-enzymes.md",
-      "title": "A deep artificial neural network powered by enzymes",
-      "excerpt": "To do this, artificial ‘neurons’ powered by enzymes are wired together to form an architecture that mimics the structure of a neural network. The world is facing a shortage of memory capacity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-03150-4",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-03150-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03150-4/d41586-022-03150-4_23610918.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-11-best-machine-learning-stocks-to-buy.md",
-      "title": "11 Best Machine Learning Stocks to Buy",
-      "excerpt": "has one of the strongest machine learning platforms in the world, with its Watson division offering companies a many solutions such as risk compliance, advertising, customer service, financial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/11-best-machine-learning-stocks-to-buy-1077146/",
-      "originalUrl": "https://www.insidermonkey.com/blog/11-best-machine-learning-stocks-to-buy-1077146/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2020/12/14105630/hacking-coding-programming-unsplash.png",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-machine-learning.md",
-      "title": "RealPage, The World’s Largest Property Management Software Provider, Selects Wallaroo Labs To Scale Machine Learning",
-      "excerpt": "Today RealPage, the industry leader in SaaS-based Property Management Solutions, announced that they have selected Wallaroo",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-machine-learning-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-machine-learning-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-ai-is-changing-scientists-understanding-of-language-learning.md",
-      "title": "AI is changing scientists’ understanding of language learning",
-      "excerpt": "For this reason, many language scientists—including Noam Chomsky, a founder of modern linguistics—believe that language learners require a kind of glue to rein in the unruly nature of everyday language.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/ai-is-changing-scientists-understanding-of-language-learning/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/ai-is-changing-scientists-understanding-of-language-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/parent-child-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -984,66 +495,24 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2022-10-19-neuchips-secures-20-million-in-series-b2-funding-to-deliver-ai-inference-platform-for-deep-learning-recommendation.md",
-      "title": "NEUCHIPS Secures $20 Million in Series B2 Funding to Deliver AI Inference Platform for Deep Learning Recommendation",
-      "excerpt": "October 19, 2022 -- NEUCHIPS, a leader in AI ASIC platforms for deep learning recommendation, today announced series B2 funding of $20M. The round includes strategic investors Wistron, JAFCO Asia, Powerchip Group and new investor Raydium Semiconductor ...",
+      "path": "_news/2022-12-06-the-newest-nfl-star-could-be-a-data-scientist-using-ml-and-ai-to-keep-players-safe.md",
+      "title": "The newest NFL star could be a data scientist: Using ML and AI to keep players safe",
+      "excerpt": "In an innovative partnership between the NFL and AWS, data scientists on Kaggle are being commissioned to identify player contact, incentivized by a $50,000 prize.",
       "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/52847/neuchips-series-b2-funding.html",
-      "originalUrl": "https://www.design-reuse.com/news/52847/neuchips-series-b2-funding.html",
+      "webUrl": "https://www.zdnet.com/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "originalUrl": "https://www.zdnet.com/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 98,
       "tags": null,
       "images": [
         {
-          "url": "https://www.design-reuse.com/news_img2/homepage52847/files_images_media_investmentmobile_460x460.jpg",
-          "width": 460,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-7-ways-to-better-sell-artificial-intelligence-to-the-business.md",
-      "title": "7 Ways To Better Sell Artificial Intelligence To The Business",
-      "excerpt": "AI transforms the systems and processes that have defined the way business is done. Selling AI as a new way requires some degree of finesse and business sense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634f37c78835ec41abc9a291/0x0.jpg?format=jpg&width=1200",
+          "url": "https://www.zdnet.com/a/img/resize/7b8eab768146a43a8ec7235e8116f15e0f9dfc84/2022/12/05/ad61d4d4-9461-4f68-b1fa-8623791362e4/digitalath2.jpg?auto=webp&fit=crop&height=675&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -1053,16 +522,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
-      "publishedDateTime": "2022-10-19T04:00:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/heres-how-data-scientists-are-keeping-nfl-stars-safe-using-ai-and-ml/",
+      "publishedDateTime": "2022-12-05T15:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1079,177 +548,109 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-google-adds-a-no-code-computer-vision-platform-to-vertex-ai.md",
-      "title": "Google Adds A No-Code Computer Vision Platform To Vertex AI",
-      "excerpt": "Currently, in preview, Vertex AI Vision is an extension of AutoML Vision that can train models to perform image classification and object detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634f50b726f1d49169c9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1067,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/",
-      "publishedDateTime": "2022-10-18T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Microsoft AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic.md",
-      "title": "Deep Learning in Healthcare Market Is Dazzling Worldwide | Micron Technology, AWS, Mythic",
-      "excerpt": "The Deep Learning in Healthcare – Market Development Outlook Study has been added to HTF MI repository. The study",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-run-ensemble-ml-models-on-amazon-sagemaker.md",
-      "title": "Run ensemble ML models on Amazon SageMaker",
-      "excerpt": "Model deployment in machine learning (ML) is becoming increasingly complex. You want to deploy not just one ML model but large groups of ML models represented as ensemble workflows. These workflows are comprised of multiple ML models. Productionizing these ML models is challenging because you need to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/18/run-ensemble-models-sagemaker.jpg",
-          "width": 1547,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T08:50:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_news/2022-10-18-machine-learning-101-how-merchants-use-machines-to-fight-fraud.md",
-      "title": "Machine Learning 101: How Merchants Use Machines To Fight Fraud",
-      "excerpt": "As fraudsters and fraud mitigation strategies evolve, so too does a business leader's relationship with machines.",
+      "path": "_news/2022-12-06-text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes.md",
+      "title": "Text-to-image AI: powerful, easy-to-use technology for making art – and fakes",
+      "excerpt": "Seemingly bound by only your imagination, this latest trend in synthetic media has delighted many, inspired others and struck fear in some. Google, research firm OpenAI and AI vendor Stability AI have each developed a text-to-image image generator powerful enough that some observers are questioning whether in the future people will be able to trust the photographic record.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
+      "webUrl": "https://www.normantranscript.com/region/text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes/article_da8fd641-82d7-5d21-9042-6c32cac9243f.html",
+      "originalUrl": "https://www.normantranscript.com/region/text-to-image-ai-powerful-easy-to-use-technology-for-making-art-and-fakes/article_da8fd641-82d7-5d21-9042-6c32cac9243f.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634d8fec5aed33b6bbc9a291/0x0.jpg?format=jpg&width=1200",
+          "url": "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/custom/image/ccdfcfb2-9d11-11e9-a40f-c347810e33cd.jpg?resize=600%2C319",
+          "width": 600,
+          "height": 319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Norman Transcript",
+        "domain": "normantranscript.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.md",
+      "title": "Medical studies get tech edge with AI, machine learning, remote care",
+      "excerpt": "New-age technologies like Artificial Intelligence (AI) and Machine Learning (ML) have taken diagnosis, treatment, post-operative care, remote patient care and palliative care to a whole new level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/articleshow/96010436.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/articleshow/96010436.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-96010436,imgsize-60926,width-800/96010436.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/amp_articleshow/96010436.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/amp_articleshow/96010436.cms",
+      "publishedDateTime": "2022-12-05T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-06-14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools.md",
+      "title": "14 Innovative Ways Agencies Are Leveraging Machine Learning Ad Tools",
+      "excerpt": "Here, members of Forbes Agency Council share impactful ways agencies are leveraging ML advertising tools. Read on to learn about a variety of innovative ways agency pros are using ML to better reach consumers and attract more targeted audiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e23847ed4f1a8cd55d451/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -1259,9 +660,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "publishedDateTime": "2022-10-18T04:30:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/12/05/14-innovative-ways-agencies-are-leveraging-machine-learning-ad-tools/amp/",
+      "publishedDateTime": "2022-12-05T09:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1289,21 +690,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-18-has-there-been-a-second-ai-big-bang.md",
-      "title": "Has There Been A Second AI Big Bang?",
-      "excerpt": "Aleksa Gordic explains how the latest AI models work, and explores whether the arrival of Transformers amounts to a second Big Bang in AI",
+      "path": "_news/2022-12-06-aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption.md",
+      "title": "AWS names 6 key trends driving machine learning innovation and adoption",
+      "excerpt": "From data growth and democratization to industrialization and responsible AI, AWS identified 6 key drivers of machine learning adoption.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/",
+      "webUrl": "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/",
+      "originalUrl": "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63495cb7caf4d92519b5c039/0x0.jpg?format=jpg&width=1200",
-          "width": 935,
-          "height": 1021,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/12/aws.png?w=1200&strip=all",
+          "width": 891,
+          "height": 499,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1311,9 +712,53 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/",
-      "publishedDateTime": "2022-10-18T02:30:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/aws-names-6-key-trends-driving-machine-learning-innovation-and-adoption/amp/",
+      "publishedDateTime": "2022-12-05T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-top-six-trends-and-recommendations-for-ai-and-ml-in-2023.md",
+      "title": "Top Six Trends (And Recommendations) For AI And ML In 2023",
+      "excerpt": "Manasi Vartak is founder and CEO of Verta, a Palo Alto-based provider of solutions for Operational AI and ML Model Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1337,26 +782,25 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning",
-        "AI Hardware"
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2022-10-18-deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm.md",
-      "title": "Deep Learning Chipset Market Business Overview 2022, and Forecast to 2028 | NVIDIA, Intel, IBM",
-      "excerpt": "The Deep Learning Chipset Market research report offers various benefits, such as on-time product delivery, lower",
+      "path": "_news/2022-12-05-medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.md",
+      "title": "Medical studies get tech edge with AI, machine learning, remote care",
+      "excerpt": "New-age technologies like Artificial Intelligence (AI) and Machine Learning (ML) have taken diagnosis, treatment, post-operative care, remote patient care and palliative care to a whole new level. Exp",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
+      "webUrl": "https://health.economictimes.indiatimes.com/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://etimg.etb2bimg.com/thumb/msid-95993114,imgsize-87468,width-1200,height-628,overlay-ethealthworld/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1364,23 +808,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T23:58:00-07:00",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
+      "publishedDateTime": "2022-12-04T21:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "health.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1394,21 +829,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-18-3-key-insights-on-competitive-landscape-in-global-machine-learning-as-a-service-mlaas-market-ken-research.md",
-      "title": "3 Key Insights on Competitive Landscape in Global Machine Learning as a Service (MLaaS) Market: Ken Research",
-      "excerpt": "Few Diverse Global Players Dominate the Market Holding Majority Revenue Share Despite the Presence of about ~150",
+      "path": "_news/2022-12-05-artificial-intelligence-and-heart-care-pt-1.md",
+      "title": "Artificial intelligence and heart care — Pt 1",
+      "excerpt": "ARTIFICIAL intelligence (AI ... systems, and convolutional neural networks. In medical imaging, and more particularly cardiovascular imaging, AI has become very instrumental in efficiently ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/3-key-insights-on-competitive-landscape-in-global-machine-learning-as-a-service-mlaas-market-ken-research-2022-10-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/3-key-insights-on-competitive-landscape-in-global-machine-learning-as-a-service-mlaas-market-ken-research-2022-10-17",
+      "webUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
+      "originalUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=bed7186e-bbf9-52e7-a219-69c1352aa6fb&function=fit&type=preview",
+          "width": 500,
+          "height": 333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1416,23 +851,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T10:38:00-07:00",
+      "ampWebUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "publishedDateTime": "2022-12-04T10:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1441,11 +867,10 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     }
   ],
-  "nextPage": 12
+  "nextPage": null
 }

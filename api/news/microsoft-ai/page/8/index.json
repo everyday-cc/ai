@@ -2,6 +2,557 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-01-04-citiustech-collaborates-with-microsoft-to-streamline-value-based-contracting-and-provider-performance-management-for-health-plans-and-systems.md",
+      "title": "CitiusTech Collaborates with Microsoft to Streamline Value-Based Contracting and Provider Performance Management for Health Plans and Systems",
+      "excerpt": "CitiusTech, a global provider of digital technology and consulting services to healthcare and life sciences organizations, announced today that it is working with Microsoft to jointly offer PERFORM+ Contracts;",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/business-medical-technology-wire-93df69119528412db26a417690a0e2b5",
+      "originalUrl": "https://apnews.com/article/business-medical-technology-wire-93df69119528412db26a417690a0e2b5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.md",
+      "title": "Microsoft reported to be integrating ChatGPT3 AI with Bing search",
+      "excerpt": "The expected integration of the AI-powered chat application with Bing can be seen as Microsoft’s renewed attempt to challenge search giant Google.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.html",
+      "originalUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/02/p1200405-100708005-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.amp.html",
+      "publishedDateTime": "2023-01-04T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-a-brain-game-may-predict-your-risk-of-infection.md",
+      "title": "A brain game may predict your risk of infection",
+      "excerpt": "\"This is the first exposure study in humans to show that one's cognitive performance before exposure to a respiratory virus can predict the severity of the infection,\" he said. Subtle variations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230103133740.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230103133740.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T11:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-microsoft-seals-lse-cloud-deal.md",
+      "title": "Microsoft Seals LSE Cloud Deal",
+      "excerpt": "Microsoft’s investment in LSEG comes at a time when big tech names like Google, Amazon and IBM are increasingly engaged in an arms race to deepen relationships with financial firms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gfmag.com/magazine/january-2023/microsoft-london-stock-exchange-cloud-deal",
+      "originalUrl": "https://www.gfmag.com/magazine/january-2023/microsoft-london-stock-exchange-cloud-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2tyltutevw8th.cloudfront.net/CACHE/images/media/image/lse-deal-1200-1672685650/c1daad9d37c336797e9a5736499b97b9.png",
+          "width": 500,
+          "height": 262,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Finance",
+        "domain": "gfmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-updated-guidelines-on-cognitive-rehabilitation-after-traumatic-brain-injury.md",
+      "title": "Updated guidelines on cognitive rehabilitation after traumatic brain injury",
+      "excerpt": "More information: Mark Theodore Bayley et al, INCOG 2.0 Guidelines for Cognitive Rehabilitation Following Traumatic Brain Injury: What's Changed From 2014 to Now? Journal of Head Trauma ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-01-guidelines-cognitive-traumatic-brain-injury.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-01-guidelines-cognitive-traumatic-brain-injury.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/broken-helmet.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-01-guidelines-cognitive-traumatic-brain-injury.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-guidelines-cognitive-traumatic-brain-injury.amp",
+      "publishedDateTime": "2023-01-03T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-forecast-2028-for-the-cognitive-services-market-in-terms-of-size-returns-gross-margin-and-market-share.md",
+      "title": "Forecast 2028 for the Cognitive Services Market in terms of size, returns, gross margin, and market share",
+      "excerpt": "Jan 03, 2023 (The Expresswire) -- Cognitive Services Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 124 Pages Report The extent and overview of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-cognitive-services-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-cognitive-services-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war.md",
+      "title": "Defensive vs. offensive AI: Why security teams are losing the AI war",
+      "excerpt": "Google Cloud Platform and Microsoft Azure, are using AI and ML to improve security personalization and enforce least privileged access. These systems use predictive AI and ML to analyze patterns ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war/",
+      "originalUrl": "https://venturebeat.com/security/defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/cyber-security-gf0269a756_1920-e1633121618627.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war/amp/",
+      "publishedDateTime": "2023-01-03T02:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts.md",
+      "title": "Microsoft celebrates Future Ready Champions of Code with over 100K developers and technology enthusiasts",
+      "excerpt": "Microsoft today announced over 100,000 developers participated in the Future Ready Champions of Code program to receive Microsoft certifications. The program, launched in December 2022, equips develop",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts/",
+      "originalUrl": "https://indiaeducationdiary.in/microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts/",
+      "publishedDateTime": "2023-01-03T01:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-how-to-protect-against-the-cognitive-decline-associated-with-aging.md",
+      "title": "How to protect against the cognitive decline associated with aging",
+      "excerpt": "Scientific research suggests that there are steps linked to cognitive health. Making these part of your routine could help you function better. The first step is eating for your brain. There is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.winknews.com/2023/01/02/how-to-protect-against-the-cognitive-decline-associated-with-aging/",
+      "originalUrl": "https://www.winknews.com/2023/01/02/how-to-protect-against-the-cognitive-decline-associated-with-aging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.winknews.com/wp-content/uploads/2023/01/Screenshot-2023-01-02-4.33.49-PM.png",
+          "width": 1871,
+          "height": 983,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-02T23:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WINK NEWS",
+        "domain": "winknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-one-lakh-developers-participated-in-microsofts-future-ready-champions-of-code.md",
+      "title": "One lakh developers participated in Microsoft's Future Ready Champions of Code",
+      "excerpt": "The top three winning teams from the hackathon, shortlisted based on their innovation and impact, were from Tata Consultancy Services (TCS), Wipro, and IndusNet.",
+      "sourceUrl": null,
+      "webUrl": "https://newsmeter.in/tech-startups/one-lakh-developers-participated-in-microsofts-future-ready-champions-of-code-705968",
+      "originalUrl": "https://newsmeter.in/tech-startups/one-lakh-developers-participated-in-microsofts-future-ready-champions-of-code-705968",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-02T18:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsmeter",
+        "domain": "newsmeter.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-updated-guidelines-on-cognitive-rehabilitation-after-traumatic-brain-injury.md",
+      "title": "Updated guidelines on cognitive rehabilitation after traumatic brain injury",
+      "excerpt": "January 3, 2023 – A rapidly growing body of evidence shows the importance and effectiveness of cognitive rehabilitation ... software solutions, and services for the clinicians, nurses ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/975514",
+      "originalUrl": "https://www.eurekalert.org/news-releases/975514",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-03-early-learning-slows-later-cognitive-decline.md",
+      "title": "Early Learning Slows Later Cognitive Decline",
+      "excerpt": "Eventually, though, the brain ages, and cognitive ability declines—even for people who are not experiencing dementia. Researchers have been interested in predicting what factors predict the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Classroom%20Test.jpg?itok=TRJL_XYM",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline?amp",
+      "publishedDateTime": "2023-01-02T15:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-02-microsoft-coding-hackathon-winners-list-out-tcs-wipro-indusnet-top-3.md",
+      "title": "Microsoft Coding Hackathon Winners' List Out; TCS, Wipro, IndusNet Top 3",
+      "excerpt": "Microsoft India on Monday announced the top three winning teams of the coding hackathon, shortlisted based on their innovation and impact, were from Tata Consultancy Services (TCS), Wipro, and IndusNet.",
+      "sourceUrl": null,
+      "webUrl": "https://ummid.com/news/2023/january/02.01.2023/microsoft-coding-hackathon-winners-list-out-tcs-wipro-indusnet-top-3.html",
+      "originalUrl": "https://ummid.com/news/2023/january/02.01.2023/microsoft-coding-hackathon-winners-list-out-tcs-wipro-indusnet-top-3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-02T04:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ummid",
+        "domain": "ummid.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-02-tcs-wipro-indusnet-teams-win-microsofts-coding-hackathon.md",
       "title": "TCS, Wipro, Indusnet Teams Win Microsoft's Coding Hackathon",
       "excerpt": "Microsoft India on Monday announced the top three winning teams of the coding hackathon, shortlisted based on their innov",
@@ -752,541 +1303,6 @@
       "provider": {
         "name": "The Tribune",
         "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-mondelez-international-expands-partnership-with-hcl-tech.md",
-      "title": "Mondelez International expands partnership with HCL Tech",
-      "excerpt": "Under the contract, HCL Tech will leverage its automation and artificial intelligence (AI) capabilities to enable Mondelez International to provide on-demand personalised user experience and accelerated issue resolution to its over 1.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/mondelez-international-expands-partnership-with-hcl-tech/96216894",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/mondelez-international-expands-partnership-with-hcl-tech/96216894",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-96216894,imgsize-21254,width-1200,height=765,overlay-etbrandequity/business-of-brands/mondelez-international-expands-partnership-with-hcl-tech.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/mondelez-international-expands-partnership-with-hcl-tech/96216894",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/mondelez-international-expands-partnership-with-hcl-tech/96216894",
-      "publishedDateTime": "2022-12-13T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-exercise-mindfulness-dont-appear-to-boost-cognitive-function-in-older-adults.md",
-      "title": "Exercise, mindfulness don’t appear to boost cognitive function in older adults",
-      "excerpt": "A large study that focused on whether exercise and mindfulness training could boost cognitive function in older adults found no such improvement following either intervention. Researchers at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/974321",
-      "originalUrl": "https://www.eurekalert.org/news-releases/974321",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-mindfulness-training-exercise-may-not-help-subjective-cognitive-concerns.md",
-      "title": "Mindfulness Training, Exercise May Not Help Subjective Cognitive Concerns",
-      "excerpt": "Opens in a new tab or window Share on LinkedIn. Opens in a new tab or window Older adults with subjective cognitive concerns who engaged in mindfulness-based stress reduction (MBSR) training ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/neurology/dementia/102220",
-      "originalUrl": "https://www.medpagetoday.com/neurology/dementia/102220",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/102xxx/102220.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-speech-and-voice-recognition-market-growing-massively-by-nuance-communications-microsoft-corporation-alphabet.md",
-      "title": "Speech And Voice Recognition Market Growing Massively by Nuance Communications, Microsoft Corporation, Alphabet",
-      "excerpt": "New Jersey, United States, Dec 13, 2022 /DigitalJournal/ Voice and speech recognition is considered a small part of biometric systems. Speech recognition is defined as a process of converting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-growing-massively-by-nuance-communications-microsoft-corporation-alphabet",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-growing-massively-by-nuance-communications-microsoft-corporation-alphabet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Speech-And-Voice-Recognition-1024x635.jpeg",
-          "width": 1024,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-researchers-identify-new-immune-culprit-in-alzheimers-disease.md",
-      "title": "Researchers identify new 'immune culprit' in Alzheimer's disease",
-      "excerpt": "Advertisement According to Gate, the study offers new information on the role of the immune system in patients living with cognitive impairment, which is a symptom of Alzheimer's disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
-      "originalUrl": "https://www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/i/8051670940934/2022/1/16709445212077/v1.5/Researchers-identify-new-immune-culprit-in-Alzheimers-disease.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/Health_News/2022/12/13/cerebrospinal-fluid-cognitive-impairment-study/8051670940934/",
-      "publishedDateTime": "2022-12-13T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-natural-language-processing-and-recognition-market-with-tremendous-growth-by-2029-apple-google-microsoft.md",
-      "title": "Natural Language Processing and Recognition Market with Tremendous growth by 2029 Apple, Google, Microsoft",
-      "excerpt": "New Jersey, United States, Dec 13, 2022 /DigitalJournal/ Natural language processing consists of the combination of the computational rule-based modeling of the human language that represents data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-and-recognition-market-with-tremendous-growth-by-2029-apple-google-microsoft",
-      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-and-recognition-market-with-tremendous-growth-by-2029-apple-google-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Natural-Language-Processing-and-Recognition.jpeg",
-          "width": 600,
-          "height": 319,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-speech-and-voice-recognition-market-report-covers-future-trends-with-research-2022-2029-nuance-communications-microsoft-corporation-alphabet.md",
-      "title": "Speech And Voice Recognition Market Report Covers Future Trends with Research 2022-2029 | Nuance Communications, Microsoft Corporation, Alphabet",
-      "excerpt": "New Jersey, United States, Dec 13, 2022 /DigitalJournal/ Speech and voice recognition technology involves the application of pattern recognition to convert speech into a sequence of words.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-report-covers-future-trends-with-research-2022-2029-nuance-communications-microsoft-corporation-alphabet",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-report-covers-future-trends-with-research-2022-2029-nuance-communications-microsoft-corporation-alphabet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Speech-And-Voice-Recognition.jpg",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-13T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace.md",
-      "title": "SymphonyAI strengthens Microsoft collaboration, makes Sensa financial crime prevention solution available in Microsoft Azure Marketplace",
-      "excerpt": "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today it is expanding its role as a Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/",
-      "originalUrl": "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/12/SymphonyAI-strengthens-Microsoft-collaboration_-makes-Sensa-financial-crime-prevention-solution-available-in-Microsoft-Azure-Marketplace.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/symphonyai-strengthens-microsoft-collaboration-makes-sensa-financial-crime-prevention-solution-available-in-microsoft-azure-marketplace/amp/",
-      "publishedDateTime": "2022-12-13T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-microsoft-now-requires-verification-for-uk-financial-services-advertisers.md",
-      "title": "Microsoft now requires verification for UK Financial Services advertisers",
-      "excerpt": "Search Engine Land » PPC » Microsoft now requires verification for UK Financial Services advertisers Starting early this year, Microsoft will allow only advertisers duly authorized by the UK ...",
-      "sourceUrl": null,
-      "webUrl": "https://searchengineland.com/microsoft-now-requires-verification-for-uk-financial-services-advertisers-390263",
-      "originalUrl": "https://searchengineland.com/microsoft-now-requires-verification-for-uk-financial-services-advertisers-390263",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://searchengineland.com/wp-content/seloads/2022/12/Shutterstock_1174442599.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T21:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Land",
-        "domain": "searchengineland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-exercise-mindfulness-dont-appear-to-boost-cognitive-function-in-older-adults-finds-large-study.md",
-      "title": "Exercise, mindfulness don't appear to boost cognitive function in older adults, finds large study",
-      "excerpt": "Older adults work with exercise trainers as part of a study to see whether exercise, mindfulness training, or both might improve cognitive performance in seniors. A new study did not show such ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-mindfulness-dont-boost-cognitive-function.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-mindfulness-dont-boost-cognitive-function.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/exercise-mindfulness-d.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-12-mindfulness-dont-boost-cognitive-function.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-mindfulness-dont-boost-cognitive-function.amp",
-      "publishedDateTime": "2022-12-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-procrastination-the-cognitive-biases-that-enable-it-and-why-its-sometimes-useful.md",
-      "title": "Procrastination: The cognitive biases that enable it, and why it's sometimes useful",
-      "excerpt": "As research shows, it is related to a number of cognitive biases. For example, we may disregard the future consequences of an action. This comes into play when I give in to temptation and eat yet ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-procrastination-cognitive-biases-enable.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-study-exercise-mindfulness-training-or-both-do-not-improve-cognitive-performance-in-seniors.md",
-      "title": "Study: Exercise, mindfulness training, or both do not improve cognitive performance in seniors",
-      "excerpt": "Older adults work with exercise trainers as part of a study to see whether exercise, mindfulness training, or both might improve cognitive performance in seniors. A new study did not show such ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221213/Study-Exercise-mindfulness-training-or-both-do-not-improve-cognitive-performance-in-seniors.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221213/Study-Exercise-mindfulness-training-or-both-do-not-improve-cognitive-performance-in-seniors.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Dementia-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20221213/Study-Exercise-mindfulness-training-or-both-do-not-improve-cognitive-performance-in-seniors.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20221213/Study-Exercise-mindfulness-training-or-both-do-not-improve-cognitive-performance-in-seniors.aspx",
-      "publishedDateTime": "2022-12-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-13-could-walking-backwards-be-the-secret-to-physical-and-cognitive-health.md",
-      "title": "Could walking backwards be the secret to physical and cognitive health?",
-      "excerpt": "How many steps have you taken today? For many people, walking is one of the easiest, low-impact forms of exercise. Every step can help increase one’s metabolism and, for some of us, help ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/12/12/could-walking-backwards-be-the-secret-to-physical-and-cognitive-health/",
-      "originalUrl": "https://nypost.com/2022/12/12/could-walking-backwards-be-the-secret-to-physical-and-cognitive-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-12T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null

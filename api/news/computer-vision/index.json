@@ -2,6 +2,198 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-10-2023-current-status-and-future-prospects-of-computer-vision-system-market.md",
+      "title": "2023, Current Status and Future Prospects Of Computer Vision System Market",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 10, 2023 (The Expresswire) -- Computer Vision System Market Size 2023-2029 | New Report (116 Pages) | Information Technology | In This Reports Computer Vision System ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2023-current-status-and-future-prospects-of-computer-vision-system-market-2023-03-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/2023-current-status-and-future-prospects-of-computer-vision-system-market-2023-03-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T01:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-bay-area-airports-using-facial-recognition-to-expedite-travel.md",
+      "title": "Bay Area airports using facial recognition to expedite travel",
+      "excerpt": "They are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it to track some departing passengers too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marinij.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/",
+      "originalUrl": "https://www.marinij.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marinij.com/wp-content/uploads/2023/03/SJM-L-BIOMETRICS-0308-2.jpg?w=1024&h=575",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marinij.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/amp/",
+      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/amp/",
+      "publishedDateTime": "2023-03-08T15:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marin Independent Journal",
+        "domain": "marinij.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-the-fbi-tested-facial-recognition-software-on-americans-for-years-new-documents-show.md",
+      "title": "The FBI Tested Facial Recognition Software on Americans for Years, New Documents Show",
+      "excerpt": "Newly unearthed papers show federal agencies testing facial recognition tools in subway cameras, street corners, and other public spaces.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100",
+      "originalUrl": "https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/79ec64a30d63f24140ff3e737042473a.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T15:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-tlaib-and-others-introduce-bill-to-ban-facial-recognition-technology.md",
+      "title": "Tlaib and others introduce bill to ban facial recognition technology",
+      "excerpt": "Democratic lawmakers on Tuesday reintroduced legislation in the U.S. House and Senate that would ban facial recognition technology on the federal level and withhold money from state and local police departments that continue to use it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268",
+      "originalUrl": "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.metrotimes.com/metrotimes/imager/u/original/32553594/facial_recognition_photo_neavling.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268?media=AMP+HTML",
+      "cdnAmpWebUrl": "https://www-metrotimes-com.cdn.ampproject.org/c/s/www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268?media=AMP+HTML",
+      "publishedDateTime": "2023-03-07T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro Times",
+        "domain": "metrotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night.md",
       "title": "Athena AI, Teal 2 Drone: Computer Vision to Identify Weapons, Friends and Foes at Night",
       "excerpt": "Red Cat Announces Athena AI as Computer Vision Partner for Teal 2 by DRONELIFE Staff Writer Ian M. Crosby Red Cat Holdings [NASDAQ:RCAT]  is held in the AdvisorShares Drone Technology ETF [NYSE ARCA:U",
@@ -129,6 +321,49 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-game-changing-actionable-intelligence-with-ai-driven-computer-vision.md",
+      "title": "Game-Changing, Actionable Intelligence with AI-Driven Computer Vision",
+      "excerpt": "Learn how game-changing AI-driven computer vision technology provides real-time insights and intelligent decision-making to optimize operations, improve productivity, and enhance customer experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/whitepapers/whitepaper/53026859/gamechanging-actionable-intelligence-with-aidriven-computer-vision",
+      "originalUrl": "https://www.securityinfowatch.com/whitepapers/whitepaper/53026859/gamechanging-actionable-intelligence-with-aidriven-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/02/Image_3.63fe2577511bf.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -434,6 +669,49 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-ai-in-computer-vision-market-worth-457-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
+      "title": "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n31072419/ai-in-computer-vision-market-worth-45-7-billion-by-2028-exclusive-report-by-marketsandmarkets",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n31072419/ai-in-computer-vision-market-worth-45-7-billion-by-2028-exclusive-report-by-marketsandmarkets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31072419",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31072419",
+      "publishedDateTime": "2023-02-27T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1138,264 +1416,6 @@
       "provider": {
         "name": "VN Express",
         "domain": "vnexpress.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-postdoctoral-fellow-mathematicalstatistical-imaging-and-computer-vision.md",
-      "title": "Postdoctoral Fellow - Mathematical/Statistical Imaging and Computer Vision",
-      "excerpt": "The successful candidate will work under the supervision of Dr. Weihong Guo (Department of Mathematics, Applied Mathematics, and Statistics) and Dr. Shuo Li (Departments of Biomedical Engineering and Computer and Data Science) at Case Western Reserve ...",
-      "sourceUrl": null,
-      "webUrl": "https://case.edu/academic-careers/postdoctoral-fellow-mathematicalstatistical-imaging-and-computer-vision",
-      "originalUrl": "https://case.edu/academic-careers/postdoctoral-fellow-mathematicalstatistical-imaging-and-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Case Western Reserve University",
-        "domain": "case.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-3-machine-vision-technology-trends.md",
-      "title": "3 Machine Vision Technology Trends",
-      "excerpt": "New chips, such as the Neon-2000-JNX series from AdLink Technology with the Nvidia Jetson Xavier NX module built in, can process images and run AI-based computer vision algorithms. This has reduced the vision system training times from weeks to hours.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automationworld.com/factory/sensors/article/22697448/3-machine-vision-technology-trends",
-      "originalUrl": "https://www.automationworld.com/factory/sensors/article/22697448/3-machine-vision-technology-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2023/02/1408271637.63dd80c61ea0b.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-states-face-recognition-app-for-pensioners-annual-verification.md",
-      "title": "State’s face recognition app for pensioners’ annual verification",
-      "excerpt": "Meanwhile, a meeting of the Pradhan Mantri Adarsh Gram Yojana convergence committee, constituted for successful operation, effective implementation and monitoring of the scheme was organised at ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/articleshow/97899465.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-97907398,width-1070,height-580,imgsize-1288749,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/jaipur/states-face-recognition-app-for-pensioners-annual-verification/amp_articleshow/97899465.cms",
-      "publishedDateTime": "2023-02-13T19:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025.md",
-      "title": "Computer Vision Market 2023 | Proven Strategies for Significant Growth in Global Industry till 2025",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 13, 2023 (The Expresswire) -- The Computer Vision Market (2023-2025) Research Updated Report | Market includes the most useful information such as [Hardware, Software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025-2023-02-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2023-proven-strategies-for-significant-growth-in-global-industry-till-2025-2023-02-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-sportradar-unveils-ground-breaking-ai-driven-computer-vision-at-ice-london.md",
-      "title": "Sportradar unveils ground-breaking AI-driven Computer Vision at ICE London",
-      "excerpt": "Sportradar used last week’s ICE London as a high-profile launchpad for its brand-new AI-driven Computer Vision technology.",
-      "sourceUrl": null,
-      "webUrl": "https://sbcnews.co.uk/sportsbook/2023/02/13/sportradar-computer-vision/",
-      "originalUrl": "https://sbcnews.co.uk/sportsbook/2023/02/13/sportradar-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.sbcnews.co.uk/sbcnews/2023/02/Blank-660-x-330-29.jpg",
-          "width": 660,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sbcnews.co.uk/sportsbook/2023/02/13/sportradar-computer-vision/?amp=1",
-      "cdnAmpWebUrl": "https://sbcnews-co-uk.cdn.ampproject.org/c/s/sbcnews.co.uk/sportsbook/2023/02/13/sportradar-computer-vision/?amp=1",
-      "publishedDateTime": "2023-02-13T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sbcnews.co.uk",
-        "domain": "sbcnews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-12-another-high-altitude-object-shot-down-over-northern-canada.md",
-      "title": "Another high altitude object shot down over Northern Canada",
-      "excerpt": "Ryder said the object did not appear to have propulsion ... A nearly 60-year wait for the highest level of recognition is nearly over for Col. Paris Davis, one of the first Black Green Berets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2023/02/11/Canada-US/6201676154475/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2023/02/11/Canada-US/6201676154475/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/6201676154475/2023/1/ffc12f6d0b9493af61a9666a0428fe0d/v1.5/Another-high-altitude-object-shot-down-over-Northern-Canada.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2023/02/11/Canada-US/6201676154475/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/02/11/Canada-US/6201676154475/",
-      "publishedDateTime": "2023-02-11T15:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI",
-        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null

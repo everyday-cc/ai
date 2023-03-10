@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-08-nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech.md",
+      "title": "Nvidia GTC attendees get an exclusive look at Microsoft’s AI tech",
+      "excerpt": "Add these Microsoft sessions at GTC to your conference schedule to learn about the latest Azure AI infrastructure and use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/",
+      "originalUrl": "https://venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_432173706.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/amp/",
+      "publishedDateTime": "2023-03-07T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-05-china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings.md",
+      "title": "China Favors Chips, AI Executives Over Internet Tycoons at Top Political Meetings",
+      "excerpt": "Seats once reserved for web executives are redistributed as Beijing’s priorities shift amid rising technology competition with the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings-eb1076f2",
+      "originalUrl": "https://www.wsj.com/articles/china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings-eb1076f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-736463/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-tenstorrent-is-changing-the-way-we-think-about-ai-chips.md",
+      "title": "Tenstorrent Is Changing the Way We Think About AI Chips",
+      "excerpt": "“GPUs are essentially at the end of their evolutionary curve,” Ljubisa Bajic, CEO of AI chip startup Tenstorrent told Design News. “[GPUs] have done a great job; they’ve pushed the field to to the point where it is now. But in order to make any ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
+      "originalUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Tenstorrent%20Grayskull.png",
+          "width": 278,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-neural-chip-plays-doom-while-only-drawing-one-milliwatt-of-power.md",
       "title": "Neural chip plays Doom while only drawing one milliwatt of power",
       "excerpt": "In the latest entry of Doom running on weird things comes an AI machine-learning chip from Syntiant. That may not sound too exciting initially — it's just another processor. What is remarkable is the meager amount of power it took to run the game.",
@@ -41,6 +189,83 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-nvidia-nasdaqnvda-riding-the-ai-chip-buzz.md",
+      "title": "Nvidia (NASDAQ:NVDA): Riding the AI Chip Buzz",
+      "excerpt": "The decline in the end market demand due to macroeconomic weakness and inventory issues dragged chip stocks lower, including Nvidia (NASDAQ:NVDA). However, the growing buzz around AI (Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/nvidia-nasdaq:nvda:-riding-the-ai-chip-buzz",
+      "originalUrl": "https://www.nasdaq.com/articles/nvidia-nasdaq:nvda:-riding-the-ai-chip-buzz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-chips-industry-goes-all-in-on-ai.md",
+      "title": "Chips Industry Goes All-in On AI",
+      "excerpt": "US firm Nvidia dominates the market in specialised chips known as GPUs, which happen to be ideal for training AI programmes like the wildly popular chatbot ChatGPT. \"Technology trends are working ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103",
+      "originalUrl": "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4427030/enthusiam-artificial-intelligence-within-microchip-industry-palpable-mobile-world-congress.jpg",
+          "width": 768,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/chips-industry-goes-all-ai-3673103?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chips-industry-goes-all-ai-3673103?amp=1",
+      "publishedDateTime": "2023-03-02T03:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -510,13 +735,13 @@
     {
       "path": "_news/2023-02-28-in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips.md",
       "title": "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips",
-      "excerpt": "With the nascent generative AI market propelling demand for compatible hardware and software to new heights, it’s a good time to be a startup, says CEO Andrew Feldman. As major chip players ...",
+      "excerpt": "The fascination with generative AI has spring-loaded demand for products that can help deliver on its promise. And startups are primed to pounce. ‘There’s new openings for attack,’ says one venture capitalist.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
-      "originalUrl": "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
+      "webUrl": "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f?tpl=vc",
+      "originalUrl": "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f?tpl=vc",
       "featuredContent": null,
       "highlight": null,
-      "heat": 544,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -530,9 +755,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f",
-      "publishedDateTime": "2023-02-28T03:42:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T12:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -1263,263 +1488,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029.md",
-      "title": "2023 Machine Learning Chip Market: Maximize Growth Potential and Increasing Demand Forecast to 2029",
-      "excerpt": "The “Machine Learning Chip Market” Research Report 2023-2029 | Latest 111 Pages Report | It throws light on competitive",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-machine-learning-chip-market-maximize-growth-potential-and-increasing-demand-forecast-to-2029-2023-02-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T22:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-chinese-chipmakers-to-advance-gpu-development-for-chatgpt.md",
-      "title": "Chinese chipmakers to advance GPU development for ChatGPT",
-      "excerpt": "The rising popularity of ChatGPT, an AI-powered chatbot developed by OpenAI, has encouraged Chinese chipmakers to accelerate their related GPU development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html",
-      "originalUrl": "https://www.digitimes.com/news/a20230216PD213/ai-chips-chatgpt-china-gpu-jingjia-micro-loongson.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20230216pd213_files/2_r.jpg",
-          "width": 336,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-applied-materials-positive-on-q2-on-resilient-demand-for-automotive-ai-chips.md",
-      "title": "Applied Materials positive on Q2 on resilient demand for automotive, AI chips",
-      "excerpt": "Applied Materials Inc on Thursday projected quarterly revenue broadly above estimates as it fills a backlog of orders and benefits from resilient demand for its tools used to make chips for the automotive and artificial intelligence industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/applied-materials-forecast-current-quarter-revenue-above-estimates-2023-02-16/",
-      "originalUrl": "https://www.reuters.com/technology/applied-materials-forecast-current-quarter-revenue-above-estimates-2023-02-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=131",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-its-always-sunny-inside-a-generative-ai-conference.md",
-      "title": "It’s Always Sunny Inside a Generative AI Conference",
-      "excerpt": "AI-powered chatbots will only make us more efficient, according to the companies selling said AI-powered chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/",
-      "originalUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63ee93cc1b87b32b35988c95/master/pass/Gear_Gen-AI-attendees-take-part-in-Jasper-Art-immersive-experience-at-Gen-AI-at-Pier-27-in-San-Francisco.-Photo-courtesy-of-Jasper.jpg",
-          "width": 2400,
-          "height": 1597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/jasper-generative-ai-conference-2023/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/jasper-generative-ai-conference-2023/amp",
-      "publishedDateTime": "2023-02-16T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
-      "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
-      "excerpt": "There’s more than one way to position your portfolio to benefit from a continuing AI revolution. You can invest in companies that build AI hardware, develop AI solutions or sell AI tools. Or, you can invest in companies that use AI to make better products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
-      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "AI Hardware",
-        "AI in Healthcare"
       ]
     }
   ],

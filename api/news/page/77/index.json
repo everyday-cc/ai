@@ -2,12 +2,55 @@
   "page": 77,
   "value": [
     {
-      "path": "_news/2023-01-03-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.md",
-      "title": "Not all AI is actually “artificial intelligence” — what you need to know",
-      "excerpt": "Neural networks aren’t the only approach to AI. Another prominent camp in artificial intelligence research is symbolic AI — instead of digesting huge data sets, it relies on rules and ...",
+      "path": "_news/2023-01-06-amd-unveils-monster-instinct-mi300-hybrid-cpu-gpu-ai-accelerator-and-skynet-smiles.md",
+      "title": "AMD Unveils Monster Instinct MI300 Hybrid CPU-GPU AI Accelerator And Skynet Smiles",
+      "excerpt": "AMD's RDNA 3 GPU architecture found in the Radeon RX 7900 ... CEO Dr. Lisa Su announced the Instinct MI300, the latest in AMD's AI and other compute accelerators with a big focus on sustainability ...",
       "sourceUrl": null,
-      "webUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html",
-      "originalUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html",
+      "webUrl": "https://hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "originalUrl": "https://hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/60568/content/small_amd-lisa-su-with-mi300.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-announces-instinct-mi300-accelerator-ai",
+      "publishedDateTime": "2023-01-05T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-amazon-alexa-to-allow-voice-initiated-electric-vehicle-charging.md",
+      "title": "Amazon Alexa To Allow Voice-initiated Electric Vehicle Charging",
+      "excerpt": "Now, automakers are quickly bringing this convenience to the cabins of vehicles. Voice recognition has been around for a few decades now and while it still isn't 100 percent proficient ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/amazon-alexa-allow-voice-initiated-electric-vehicle-charging-1770504",
+      "originalUrl": "https://www.newsweek.com/amazon-alexa-allow-voice-initiated-electric-vehicle-charging-1770504",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -15,103 +58,16 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html/amp",
-      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/475309-not-all-ai-is-actually-artificial-intelligence-what-you-need-to-know.html/amp",
-      "publishedDateTime": "2023-01-03T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyBroadband",
-        "domain": "mybroadband.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-artificial-intelligence-and-robots-will-contribute-to-more-made-in-europe.md",
-      "title": "Artificial intelligence and robots will contribute to more «made in Europe»",
-      "excerpt": "In a new EU project, NORCE researchers will contribute to the increased automated production of goods. This will ensure better access to goods",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229020",
-      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/16e5dedc-fda4-44a8-a470-b9b862cd9cbc-773a43cd-87d5-46df-91bf-eeaddfe85613--logo-horizontal-black.png",
-          "width": 654,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T05:53:00-08:00",
+      "publishedDateTime": "2023-01-05T21:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AlphaGalileo",
-        "domain": "alphagalileo.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies.md",
-      "title": "Artificial Intelligence Robotics Market Growth and Key Dynamics 2023-2027 | Opportunities and Challenges, Top Regions and Emerging Technologies",
-      "excerpt": "New Research on “Artificial Intelligence Robotics Market” Report 2023 provides distinguishes and intelligence analysis on industry growth revenue, size, share and future trends. The report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies-2023-01-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-growth-and-key-dynamics-2023-2027-opportunities-and-challenges-top-regions-and-emerging-technologies-2023-01-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -127,26 +83,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-03-whats-next-in-2023-ai-evs-delivery-robots-and-more.md",
-      "title": "What's Next in 2023? AI, EVs, delivery robots and more",
-      "excerpt": "Smarter AI, electric cars for almost every budget, delivery robots — these are just some of the 2023 predictions from the Axios What's Next team. What did we miss? Give us a shout at whatsnext@axios.com.",
+      "path": "_news/2023-01-06-lenovo-turns-to-ai-to-optimize-its-2023-gaming-laptops.md",
+      "title": "Lenovo turns to 'AI' to optimize its 2023 gaming laptops",
+      "excerpt": "Four new models at CES 2023 include the Lenovo LA AI chip, which the company says can dynamically adjust frame rates, increase the maximum heat threshold and boost overall performance ...",
       "sourceUrl": null,
-      "webUrl": "https://www.axios.com/2023/01/03/technology-trends-2023",
-      "originalUrl": "https://www.axios.com/2023/01/03/technology-trends-2023",
+      "webUrl": "https://www.engadget.com/lenovo-gaming-laptops-ces-2023-ai-chip-160033869.html",
+      "originalUrl": "https://www.engadget.com/lenovo-gaming-laptops-ces-2023-ai-chip-160033869.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.axios.com/btoyoHWNSqozUTpp3Ce87_yIdEA=/0x0:1920x1080/1366x768/2023/01/02/1672672089210.jpg",
-          "width": 1366,
-          "height": 768,
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/ae363a80-8889-11ed-b406-2572e023c352",
+          "width": 2643,
+          "height": 1487,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -154,293 +110,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T02:30:00-08:00",
+      "ampWebUrl": "https://www.engadget.com/amp/lenovo-gaming-laptops-ces-2023-ai-chip-160033869.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lenovo-gaming-laptops-ces-2023-ai-chip-160033869.html",
+      "publishedDateTime": "2023-01-05T21:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war.md",
-      "title": "Defensive vs. offensive AI: Why security teams are losing the AI war",
-      "excerpt": "Google Cloud Platform and Microsoft Azure, are using AI and ML to improve security personalization and enforce least privileged access. These systems use predictive AI and ML to analyze patterns ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war/",
-      "originalUrl": "https://venturebeat.com/security/defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/cyber-security-gf0269a756_1920-e1633121618627.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/defensive-vs-offensive-ai-why-security-teams-are-losing-the-ai-war/amp/",
-      "publishedDateTime": "2023-01-03T02:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-top-12-datasets-and-projects-open-sourced-in-2022.md",
-      "title": "Top 12 Datasets and Projects Open Sourced in 2022",
-      "excerpt": "Open sourcing projects is one of the best ways to drive innovations from across the community and take it away from the hands of big-tech.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/top-12-datasets-and-projects-open-sourced-in-2022/",
-      "originalUrl": "https://analyticsindiamag.com/top-12-datasets-and-projects-open-sourced-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/unnamed-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-03T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts.md",
-      "title": "Microsoft celebrates Future Ready Champions of Code with over 100K developers and technology enthusiasts",
-      "excerpt": "Microsoft today announced over 100,000 developers participated in the Future Ready Champions of Code program to receive Microsoft certifications. The program, launched in December 2022, equips develop",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts/",
-      "originalUrl": "https://indiaeducationdiary.in/microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/microsoft-celebrates-future-ready-champions-of-code-with-over-100k-developers-and-technology-enthusiasts/",
-      "publishedDateTime": "2023-01-03T01:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality.md",
-      "title": "LG infuses AI deep learning in its latest OLED TVs for better picture quality",
-      "excerpt": "LG Electronics unveiled its 2023 TV lineup with a range of organic light-emitting diode (OLED) TVs that use AI processing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality/",
-      "originalUrl": "https://venturebeat.com/ai/lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/01/lg-oled-evo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lg-infuses-ai-deep-learning-in-its-latest-oled-tvs-for-better-picture-quality/amp/",
-      "publishedDateTime": "2023-01-03T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-how-to-protect-against-the-cognitive-decline-associated-with-aging.md",
-      "title": "How to protect against the cognitive decline associated with aging",
-      "excerpt": "Scientific research suggests that there are steps linked to cognitive health. Making these part of your routine could help you function better. The first step is eating for your brain. There is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.winknews.com/2023/01/02/how-to-protect-against-the-cognitive-decline-associated-with-aging/",
-      "originalUrl": "https://www.winknews.com/2023/01/02/how-to-protect-against-the-cognitive-decline-associated-with-aging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.winknews.com/wp-content/uploads/2023/01/Screenshot-2023-01-02-4.33.49-PM.png",
-          "width": 1871,
-          "height": 983,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WINK NEWS",
-        "domain": "winknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-gpu-database-market-global-industry-analysis-size-share-growth-trends-and-forecast-2023-to-2028.md",
-      "title": "GPU Database Market : Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2023 to 2028",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this GPU Database industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-database-market-global-industry-analysis-size-share-growth-trends-and-forecast-2023-to-2028-2023-01-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-database-market-global-industry-analysis-size-share-growth-trends-and-forecast-2023-to-2028-2023-01-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -461,55 +140,12 @@
       ]
     },
     {
-      "path": "_news/2023-01-03-holographic-cellphones-coming-thanks-to-ai.md",
-      "title": "Holographic Cellphones Coming Thanks To AI",
-      "excerpt": "Issac Asimov foresaw 3D virtual meetings but gave them the awkward name “tridimensional personification.” While you could almost do this now with VR headsets and 3D cameras, it would",
+      "path": "_news/2023-01-06-artificial-intelligence-is-just-getting-started.md",
+      "title": "Artificial intelligence is just getting started",
+      "excerpt": "I am writing in response to Douglas Rooks’ op-ed piece about the limits of computers and artificial intelligence (“A prescription for the new year,” Dec. 29). While I agree with Rooks more ...",
       "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2023/01/02/holographic-cellphones-coming-thanks-to-ai/",
-      "originalUrl": "https://hackaday.com/2023/01/02/holographic-cellphones-coming-thanks-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2023/01/holo.png",
-          "width": 800,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-one-lakh-developers-participated-in-microsofts-future-ready-champions-of-code.md",
-      "title": "One lakh developers participated in Microsoft's Future Ready Champions of Code",
-      "excerpt": "The top three winning teams from the hackathon, shortlisted based on their innovation and impact, were from Tata Consultancy Services (TCS), Wipro, and IndusNet.",
-      "sourceUrl": null,
-      "webUrl": "https://newsmeter.in/tech-startups/one-lakh-developers-participated-in-microsofts-future-ready-champions-of-code-705968",
-      "originalUrl": "https://newsmeter.in/tech-startups/one-lakh-developers-participated-in-microsofts-future-ready-champions-of-code-705968",
+      "webUrl": "https://www.centralmaine.com/2023/01/04/artificial-intelligence-is-just-getting-started/",
+      "originalUrl": "https://www.centralmaine.com/2023/01/04/artificial-intelligence-is-just-getting-started/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -519,11 +155,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T18:31:00-08:00",
+      "publishedDateTime": "2023-01-05T19:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "newsmeter",
-        "domain": "newsmeter.in",
+        "name": "Kennebec Journal",
+        "domain": "centralmaine.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -533,26 +169,26 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-03-principles-that-lead-to-the-ethics-of-ai.md",
-      "title": "Principles that lead to the ethics of AI",
-      "excerpt": "The idea of putting this article out is to make leaders and industry veterans enforce and ensure that their teams are abiding by the ethics framework for building Artificial Intelligence based product",
+      "path": "_news/2023-01-06-lenovo-introduces-the-worlds-first-dedicated-ai-chip-on-a-gaming-laptop.md",
+      "title": "Lenovo Introduces The ‘World’s First’ Dedicated AI Chip On A Gaming Laptop",
+      "excerpt": "Lenovo spent a lot of time at CES 2023 promoting its new LA AI chip, which it said is the world’s first dedicated AI chip on a gaming laptop. The new chip will come installed on the new Lenovo ...",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/brand-stories/principles-that-lead-to-the-ethics-of-ai-11672653912365.html",
-      "originalUrl": "https://www.livemint.com/brand-stories/principles-that-lead-to-the-ethics-of-ai-11672653912365.html",
+      "webUrl": "https://www.kotaku.com.au/2023/01/lenovo-ces-2023/",
+      "originalUrl": "https://www.kotaku.com.au/2023/01/lenovo-ces-2023/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.livemint.com/img/2023/01/02/600x338/Sesh_1672654008197_1672654022306_1672654022306.PNG",
-          "width": 600,
-          "height": 337,
+          "url": "https://www.kotaku.com.au/wp-content/uploads/sites/3/2022/12/23/gizmodo-8.png?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -560,13 +196,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/brand-stories/principles-that-lead-to-the-ethics-of-ai/amp-11672653912365.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-stories/principles-that-lead-to-the-ethics-of-ai/amp-11672653912365.html",
-      "publishedDateTime": "2023-01-02T16:04:00-08:00",
+      "ampWebUrl": "https://www.kotaku.com.au/2023/01/lenovo-ces-2023/amp/",
+      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2023/01/lenovo-ces-2023/amp/",
+      "publishedDateTime": "2023-01-05T19:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
+        "name": "Kotaku Australia",
+        "domain": "kotaku.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -576,26 +212,69 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-03-are-databases-becoming-just-query-engines-for-big-object-stores.md",
-      "title": "Are Databases Becoming Just Query Engines for Big Object Stores?",
-      "excerpt": "One of the benefits of storing massive amounts of data in object storage is the ability to access it using different query engines. This is the simple recognition that what works best for low-latency ad-hoc analytics is probably not what works best for ...",
+      "path": "_news/2023-01-06-amds-newest-mobile-processors-have-an-ai-engine.md",
+      "title": "AMD’s Newest Mobile Processors Have an AI Engine",
+      "excerpt": "On Wednesday night, AMD fired back during its CES keynote with competing products in both categories: new mobile gpus, new mobile Ryzen 7040 series chips with a built in AI engine, and new 3D V ...",
       "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2023/01/03/are-databases-becoming-just-query-engines-for-big-object-stores/",
-      "originalUrl": "https://www.datanami.com/2023/01/03/are-databases-becoming-just-query-engines-for-big-object-stores/",
+      "webUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/",
+      "originalUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.datanami.com/wp-content/uploads/2016/10/object-storage-system.png",
-          "width": 630,
-          "height": 339,
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2023/01/05/bf92f220b490c9783cc135ef688984c2.png?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2023/01/amds-newest-mobile-processors-have-an-ai-engine/amp/",
+      "publishedDateTime": "2023-01-05T17:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances.md",
+      "title": "CEVA, LG to Bring Intelligent Vision Processing to Smart Home Appliances",
+      "excerpt": "CEVA, the leading licensor of wireless connectivity and smart sensing technologies and co-creation solutions, announced that LG Electronics (LG) has licensed and deployed the CEVA-XM4 intelligent vision DSP in its Edge AI system-on-chip (SoC) 'LG8111' to advance the user experience of a new generation of smart home appliances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/29708-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/29708-ceva-lg-to-bring-intelligent-vision-processing-to-smart-home-appliances",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/27716503839b65af140e38aa28d5c6df.jpg?t=20230106_011855",
+          "width": 752,
+          "height": 408,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -605,11 +284,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
+      "publishedDateTime": "2023-01-05T17:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
+        "name": "Deep",
+        "domain": "thefastmode.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -624,12 +303,110 @@
       ]
     },
     {
-      "path": "_news/2023-01-03-deep-learning-can-predict-tsunami-impacts-in-less-than-a-second.md",
-      "title": "Deep Learning Can Predict Tsunami Impacts in Less Than a Second",
-      "excerpt": "Researchers at Japan's RIKEN Prediction Science Laboratory applied deep learning to predict the impact of tsunamis in less than a second.",
+      "path": "_news/2023-01-06-ibms-watson-crashes-the-cloud-ai-party.md",
+      "title": "IBM's Watson Crashes the Cloud AI Party",
+      "excerpt": "After wowing the world way back in 2011 by defeating humans at the TV game show \"Jeopardy!\" with early-stage AI tech, IBM's Watson is making a bit of a comeback. Cloud platform rankings typically start with the \"Big 3\" of AWS, Azure and Google Cloud and ...",
       "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/268368-deep-learning-can-predict-tsunami-impacts-in-less-than-a-second",
-      "originalUrl": "https://cacm.acm.org/news/268368-deep-learning-can-predict-tsunami-impacts-in-less-than-a-second",
+      "webUrl": "https://virtualizationreview.com/articles/2023/01/05/cloud-ai.aspx",
+      "originalUrl": "https://virtualizationreview.com/articles/2023/01/05/cloud-ai.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteWaveSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virtualization Review",
+        "domain": "virtualizationreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-applications-of-artificial-intelligence-across-various-industries.md",
+      "title": "Applications of Artificial Intelligence Across Various Industries",
+      "excerpt": "Potential applications of artificial intelligence continue to expand as more people adopt the technology AI usage is particularly prominent in finance, digital spaces (like social media ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b8687bf803029a04f26064/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/06/applications-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-articulated-robot-interface-on-imm-control.md",
+      "title": "Articulated robot interface on IMM control",
+      "excerpt": "I ntegrated screens are now available on the Polaris control for either ABB or Fanuc robots. By integrating the robot screens into the control, the user can reportedly set up, adjust, and debug the system quickly, resulting in high system uptimes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.plasticstoday.com/articulated-robot-interface-imm-control",
+      "originalUrl": "https://www.plasticstoday.com/articulated-robot-interface-imm-control",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -639,11 +416,45 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
+        "name": "Plastics Today",
+        "domain": "plasticstoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-deep-learning-algorithm-can-hear-alcohol-in-voice.md",
+      "title": "Deep learning algorithm can hear alcohol in voice",
+      "excerpt": "More information: Abraham Albert Bonela et al, Audio-based Deep Learning Algorithm to Identify Alcohol Inebriation (ADLAIA), Alcohol (2022). DOI: 10.1016/j.alcohol.2022.12.002",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-01-deep-algorithm-alcohol-voice.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-01-deep-algorithm-alcohol-voice.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -658,12 +469,12 @@
       ]
     },
     {
-      "path": "_news/2023-01-03-driverless-tractors-market-size-status-global-outlook-2023-to-2028.md",
-      "title": "Driverless Tractors Market Size, Status, Global outlook 2023 To 2028",
-      "excerpt": "Jan 03, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Driverless Tractors industry. A latest extensive market study titled ...",
+      "path": "_news/2023-01-06-driverless-car-market-research-report-analysis-by-competitors-revenue-sales-and-market-size-2023-to-2028.md",
+      "title": "Driverless Car Market Research Report Analysis by Competitors, Revenue, Sales and Market Size 2023 To 2028",
+      "excerpt": "Jan 06, 2023 (The Expresswire) -- \"Driverless Car Market\" Size, Share and Trends Analysis Report - By Applications (Commerical, Individual), By Types (Semi-Autonomous, Fully Autonomous), By ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/driverless-tractors-market-size-status-global-outlook-2023-to-2028-2023-01-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/driverless-tractors-market-size-status-global-outlook-2023-to-2028-2023-01-03",
+      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-research-report-analysis-by-competitors-revenue-sales-and-market-size-2023-to-2028-2023-01-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-research-report-analysis-by-competitors-revenue-sales-and-market-size-2023-to-2028-2023-01-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -682,7 +493,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -706,60 +517,17 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-facial-recognition-using-ai-with-aws.md",
-      "title": "Facial Recognition using AI with AWS",
-      "excerpt": "Facial analysis capabilities, such as those available in Amazon Rekognition, allow users to understand where faces exist in an image or video, as well as what attributes those faces have.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/23494/facial-recognition-using-ai-with-aws",
-      "originalUrl": "https://www.finextra.com/blogposting/23494/facial-recognition-using-ai-with-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/visible_pictures/0fca5d20-d19f-4a5d-835e-53f3224e94a3.png",
-          "width": 500,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
-        "Computer Vision"
+        "AI in Sales"
       ]
     },
     {
-      "path": "_news/2023-01-03-team-writes-letters-with-ultrasonic-beam-develops-deep-learning-based-real-time-ultrasonic-hologram-generation-technology.md",
-      "title": "Team writes letters with ultrasonic beam, develops deep learning based real-time ultrasonic hologram generation technology",
-      "excerpt": "A team has developed a 'deep learning-based ultrasound hologram generation framework' technology that can freely configure the form of focused ultrasound in real time based on holograms.",
+      "path": "_news/2023-01-06-how-old-is-your-brain-really-artificial-intelligence-knows.md",
+      "title": "How old is your brain, really? Artificial intelligence knows",
+      "excerpt": "A new artificial intelligence model that analyzes MRI brain scans developed by USC researchers could be used to accurately capture cognitive decline linked to neurodegenerative diseases like ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/12/221229115650.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/12/221229115650.htm",
+      "webUrl": "https://www.eurekalert.org/news-releases/975942",
+      "originalUrl": "https://www.eurekalert.org/news-releases/975942",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -769,93 +537,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-to-identify-a-voice-brains-rely-on-sight.md",
-      "title": "To identify a voice, brains rely on sight",
-      "excerpt": "A new study suggests that voice and face recognition are linked even more intimately than previously thought. To recognize a famous voice, human brains use the same center that lights up when the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230103133736.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230103133736.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-updated-guidelines-on-cognitive-rehabilitation-after-traumatic-brain-injury.md",
-      "title": "Updated guidelines on cognitive rehabilitation after traumatic brain injury",
-      "excerpt": "January 3, 2023 – A rapidly growing body of evidence shows the importance and effectiveness of cognitive rehabilitation ... software solutions, and services for the clinicians, nurses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/975514",
-      "originalUrl": "https://www.eurekalert.org/news-releases/975514",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "EurekAlert!",
@@ -874,21 +556,21 @@
       ]
     },
     {
-      "path": "_news/2023-01-03-voice-and-face-recognition-are-more-closely-linked-than-previously-thought.md",
-      "title": "Voice and face recognition are more closely linked than previously thought",
-      "excerpt": "The new study, published last week in the Journal of Neurophysiology, suggests that voice and face recognition are linked even more intimately than previously thought. It offers an intriguing ...",
+      "path": "_news/2023-01-06-jerome-pesenti-entrepreneur-and-former-head-of-ai-at-meta-joins-owkins-board-of-directors.md",
+      "title": "Jerome Pesenti, entrepreneur and former head of AI at Meta, joins Owkin’s board of directors",
+      "excerpt": "To turbocharge its mission to become the world’s leading AI biotech company, Owkin has appointed leading entrepreneur and AI innovator Jerome Pesenti to its board of directors.",
       "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
+      "webUrl": "https://www.eurekalert.org/news-releases/975883",
+      "originalUrl": "https://www.eurekalert.org/news-releases/975883",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Neuroscience-620x480.jpg",
-          "width": 620,
-          "height": 480,
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/08456ef0-1b9f-4f52-9722-9e53a41fbd59/Rendition/thumbnail/Content/Public",
+          "width": 1440,
+          "height": 973,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -896,13 +578,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230103/Voice-and-face-recognition-are-more-closely-linked-than-previously-thought.aspx",
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -912,70 +594,26 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-early-learning-slows-later-cognitive-decline.md",
-      "title": "Early Learning Slows Later Cognitive Decline",
-      "excerpt": "Eventually, though, the brain ages, and cognitive ability declines—even for people who are not experiencing dementia. Researchers have been interested in predicting what factors predict the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-01/Classroom%20Test.jpg?itok=TRJL_XYM",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/ulterior-motives/202301/early-learning-slows-later-cognitive-decline?amp",
-      "publishedDateTime": "2023-01-02T15:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
+        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-03-ai-robotics-cars-heavy-equipment-will-all-debut-at-ces-2023.md",
-      "title": "AI, Robotics, Cars & Heavy Equipment Will All Debut At CES 2023",
-      "excerpt": "The new year marks the annual trek of the technology industry to Las Vegas for CES, marked by endless days filled with countless meetings, demonstrations at every turn, mind numbing crowds everywhere,",
+      "path": "_news/2023-01-06-smart-remote-controlled-rescue-robot-market-outlook-2023-share-market-dynamics-challenges-prominent-players-growth-and-forecast-2028.md",
+      "title": "Smart Remote Controlled Rescue Robot Market Outlook 2023, Share, Market Dynamics, Challenges, Prominent Players, Growth, and Forecast 2028",
+      "excerpt": "Jan 06, 2023 (The Expresswire) -- Overview of the Global Smart Remote Controlled Rescue Robot Market: The \"Smart Remote Controlled Rescue Robot Market\" 2023 research report provides information on ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/01/02/ai-robotics-cars--heavy-equipment-will-all-debut-at-ces-2023/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/01/02/ai-robotics-cars--heavy-equipment-will-all-debut-at-ces-2023/",
+      "webUrl": "https://www.marketwatch.com/press-release/smart-remote-controlled-rescue-robot-market-outlook-2023-share-market-dynamics-challenges-prominent-players-growth-and-forecast-2028-2023-01-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/smart-remote-controlled-rescue-robot-market-outlook-2023-share-market-dynamics-challenges-prominent-players-growth-and-forecast-2028-2023-01-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b357ab8df82296973cd1c9/0x0.jpg?format=jpg&width=1200",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 675,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -983,16 +621,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/01/02/ai-robotics-cars--heavy-equipment-will-all-debut-at-ces-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/01/02/ai-robotics-cars--heavy-equipment-will-all-debut-at-ces-2023/amp/",
-      "publishedDateTime": "2023-01-02T13:37:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1013,12 +651,12 @@
       ]
     },
     {
-      "path": "_news/2023-01-03-facial-recognition-tool-led-to-mistaken-arrest-lawyer-says.md",
-      "title": "Facial recognition tool led to mistaken arrest, lawyer says",
-      "excerpt": "An attorney says Louisiana authorities' use of facial recognition technology led to the mistaken-identity arrest of a Georgia man on a fugitive warrant",
+      "path": "_news/2023-01-06-speech-analysis-can-help-measure-diagnosis-severity-and-onset-of-mental-illness.md",
+      "title": "Speech analysis can help measure diagnosis, severity, and onset of mental illness",
+      "excerpt": "Objective measurement of psychiatric disorders has long proved challenging. Yet, there is ample evidence that analysis of speech patterns can accurately diagnose depression and psychosis, measure their severity,",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/facial-recognition-tool-led-mistaken-arrest-lawyer-96085923",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/facial-recognition-tool-led-mistaken-arrest-lawyer-96085923",
+      "webUrl": "https://www.eurekalert.org/news-releases/975876",
+      "originalUrl": "https://www.eurekalert.org/news-releases/975876",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1028,11 +666,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T10:30:00-08:00",
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1042,26 +680,26 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-01-02-pytorch-machine-learning-framework-compromised-with-malicious-dependency.md",
-      "title": "PyTorch Machine Learning Framework Compromised with Malicious Dependency",
-      "excerpt": "PyTorch, a well-known machine learning framework, fell victim to a supply chain attack between Dec. 25 and Dec. 30, 2022",
+      "path": "_news/2023-01-06-toyotas-remote-controlled-humanoid-robot.md",
+      "title": "Toyota’s remote-controlled humanoid robot",
+      "excerpt": "This humanoid robot can be remote controlled using 5G. Toyota and DOCOMO have successfully remote controlled the Toyota-developed T-HR3 humanoid robot using fifth-generation mobile communications ...",
       "sourceUrl": null,
-      "webUrl": "https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
-      "originalUrl": "https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
+      "webUrl": "https://www.autoblog.com/toyota-remote-controlled-humanoid-robot-204500910.html",
+      "originalUrl": "https://www.autoblog.com/toyota-remote-controlled-humanoid-robot-204500910.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEifiFY4TB4xInGZvI7gizGIvPBUZbr9Egk3zV-NefK97gEBfE_67-u41jrPzOlaz7iS94W4hu0BamT55Wb3QxIoK69F_mYwYhM9fVaNVFrzMt0csy-wjD7fDViYLZCBN8-BP1zKl_7pqUNJbEXYYRdKYgJWc6DSJVTeQ2EFLN5rh6KuBwY-h29g2_0R/s728-rj-e3650/python.png",
-          "width": 728,
-          "height": 380,
+          "url": "https://s.yimg.com/hd/cp-video-transcode/prod/2018-11/30/5c01a11698f45d539a29bd31/5c01a1604fb0340a68cdc93e_o_U_v1.png",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1069,13 +707,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
-      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2023/01/pytorch-machine-learning-framework.html",
-      "publishedDateTime": "2023-01-02T07:57:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hacker News",
-        "domain": "thehackernews.com",
+        "name": "Autoblog",
+        "domain": "autoblog.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1085,10 +723,371 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-were-stuck-in-the-ai-ethics-fishbowl-so-how-do-we-get-out.md",
+      "title": "We're stuck in the AI ethics fishbowl - so how do we get out?",
+      "excerpt": "It’s time to take a critical look at AI Ethics. What do we hope to accomplish? Law enforcement, marketers, hospitals and other bodies apply artificial intelligence (AI) to decide on matters such as: who is profiled as a criminal, who is likely to buy ...",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/were-stuck-ai-ethics-fishbowl-so-how-do-we-get-out",
+      "originalUrl": "https://diginomica.com/were-stuck-ai-ethics-fishbowl-so-how-do-we-get-out",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-05/shutterstock_178281617.png",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/were-stuck-ai-ethics-fishbowl-so-how-do-we-get-out?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/were-stuck-ai-ethics-fishbowl-so-how-do-we-get-out?amp",
+      "publishedDateTime": "2023-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-public-sectors-innovative-use-cases-in-analytics-ai-and-ml.md",
+      "title": "Public sector’s innovative use cases in analytics, AI and ML",
+      "excerpt": "Leaders from AWS and Deloitte discuss recent use cases of artificial intelligence and machine learning capabilities in the public sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fedscoop.com/video/public-sectors-innovative-use-cases-in-analytics-ai-and-ml/",
+      "originalUrl": "https://www.fedscoop.com/video/public-sectors-innovative-use-cases-in-analytics-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fedscoop.com/wp-content/uploads/sites/5/2023/01/Monica-McEwen_Deloitte_Raj-Kadiyala-AWS.png?w=614&h=340&crop=1",
+          "width": 614,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-the-future-of-mobility-is-now-five-themes-to-watch-at-ces-2023.md",
+      "title": "The future of mobility is now: Five themes to watch at CES 2023",
+      "excerpt": "It’s hard to believe a mere 200 years ago, the horse and carriage were the predominant mode of transportation — and had been for hundreds of years. And then, with the invention of the internal combustion engine,",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/blog/2023/01/04/the-future-of-mobility-is-now-five-themes-to-watch-at-ces-2023/",
+      "originalUrl": "https://blogs.microsoft.com/blog/2023/01/04/the-future-of-mobility-is-now-five-themes-to-watch-at-ces-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/prod/2023/01/iStock-1190108780-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-10-exercises-to-boost-cognitive-health.md",
+      "title": "10 exercises to boost cognitive health",
+      "excerpt": "In today’s competitive world, a lot of importance is being given to cognitive health. Cognitive health is associated with one’s ability to think, learn, attend, focus, remember, create ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/lifestyle/wellness/10-exercises-to-boost-cognitive-health",
+      "originalUrl": "https://www.khaleejtimes.com/lifestyle/wellness/10-exercises-to-boost-cognitive-health",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=81a037b4-154d-5187-92b1-b5dfacb2a706&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84105&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/lifestyle/wellness/10-exercises-to-boost-cognitive-health?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/lifestyle/wellness/10-exercises-to-boost-cognitive-health?amp=1",
+      "publishedDateTime": "2023-01-05T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-snowflake-acquires-machine-learning-startup-myst-ai.md",
+      "title": "Snowflake acquires machine learning startup Myst AI",
+      "excerpt": "Snowflake Inc. is acquiring Myst AI, a startup that offers an artificial intelligence development platform for companies in the energy sector. Snowflake announced the acquisition on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/01/05/snowflake-acquires-machine-learning-startup-myst-ai/",
+      "originalUrl": "https://siliconangle.com/2023/01/05/snowflake-acquires-machine-learning-startup-myst-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/snowflake.png",
+          "width": 933,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-microsofts-ai-chatbot-could-bring-21-in-gains-for-stockholders-but-analysts-are-torn-over-cloud-biz.md",
+      "title": "Microsoft's AI Chatbot Could Bring 21% In Gains For Stockholders, But Analysts Are Torn Over Cloud Biz",
+      "excerpt": "Analysts Gil Luria and William Jellison initiated coverage and are expecting the company’s stock to gain over 21% in the next year, projecting a price target of $270 against a current price of $223. Microsoft’s stock,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/01/30298963/microsofts-ai-chatbot-could-bring-21-in-gains-for-stockholders-but-analysts-are-tor",
+      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/23/01/30298963/microsofts-ai-chatbot-could-bring-21-in-gains-for-stockholders-but-analysts-are-tor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/01/05/matthew-manuel-bhlsbx-0rnm-unsplash.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-amd-debuts-the-ryzen-7040-series-with-dedicated-on-chip-ai-engine.md",
+      "title": "AMD debuts the Ryzen 7040 series, with dedicated on-chip AI engine",
+      "excerpt": "During her CES 2023 keynote, AMD CEO Lisa Su showcases the industry's first mobile x86 processor to feature a dedicated on-chip AI engine",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amd-debuts-the-ryzen-7040-series-with-dedicated-on-chip-ai-engine/",
+      "originalUrl": "https://www.zdnet.com/article/amd-debuts-the-ryzen-7040-series-with-dedicated-on-chip-ai-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3b1c82696c7575ba46414bbcd69da5d66dd6038b/2023/01/05/b388c904-7964-44b1-9d77-dc6a3b846b22/amd7040.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amd-debuts-the-ryzen-7040-series-with-dedicated-on-chip-ai-engine/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-debuts-the-ryzen-7040-series-with-dedicated-on-chip-ai-engine/",
+      "publishedDateTime": "2023-01-05T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-06-worx-introduces-new-landroid-vision-robotic-lawn-mower-industrys-first-robotic-mower-with-neural-network-technology.md",
+      "title": "WORX Introduces New LANDROID Vision Robotic Lawn Mower, Industry's First Robotic Mower with Neural Network Technology",
+      "excerpt": "equipped with the top-level neural network – artificial intelligence that is trained to distinguish between grass and non-grass. Through its on-board HDR camera and VISION AI, Worx's new ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/worx-introduces-new-landroid-vision-robotic-lawn-mower-industry-s-first-robotic-mower-with-neural-network-technology-1032002701",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/worx-introduces-new-landroid-vision-robotic-lawn-mower-industry-s-first-robotic-mower-with-neural-network-technology-1032002701",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "Machine Learning",
-        "Facebook AI"
+        "AI"
       ]
     }
   ],

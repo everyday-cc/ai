@@ -2,21 +2,21 @@
   "page": 108,
   "value": [
     {
-      "path": "_news/2022-10-19-design-patterns-for-serial-inference-on-amazon-sagemaker.md",
-      "title": "Design patterns for serial inference on Amazon SageMaker",
-      "excerpt": "As machine learning (ML) goes mainstream and gains wider adoption, ML-powered applications are becoming increasingly common to solve a range of complex business problems. The solution to these complex business problems often requires using multiple ML models. These models can be sequentially combined",
+      "path": "_news/2022-12-05-the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence.md",
+      "title": "The Future Is Now: Transforming PCB Manufacturing Using Artificial Intelligence",
+      "excerpt": "Manufacturers are exploring ways to increase the efficiencies by which essential electronic components are produced.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/design-patterns-for-serial-inference-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/design-patterns-for-serial-inference-on-amazon-sagemaker/",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/19/serial-inference-sagemaker.jpg",
-          "width": 1340,
-          "height": 675,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62a797a880eca7dbef9036cc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,101 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T08:52:23-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/05/the-future-is-now-transforming-pcb-manufacturing-using-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-12-05T05:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-ncsoft-leads-ai-powered-ethical-management.md",
+      "title": "NCSoft leads AI-powered ethical management",
+      "excerpt": "NCSoft, a local video game developer, is accelerating efforts to establish ethical management of artificial intelligence (AI) data, a principle defined by privacy, unbiasedness and transparency, the firm said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://koreatimes.co.kr/www/nation/2022/12/419_340853.html",
+      "originalUrl": "https://koreatimes.co.kr/www/nation/2022/12/419_340853.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202211/7220eb5952ec45e790b30602b134566e.jpg",
+          "width": 980,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=340853",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=340853",
+      "publishedDateTime": "2022-12-05T04:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-05-top-six-trends-and-recommendations-for-ai-and-ml-in-2023.md",
+      "title": "Top Six Trends (And Recommendations) For AI And ML In 2023",
+      "excerpt": "Manasi Vartak is founder and CEO of Verta, a Palo Alto-based provider of solutions for Operational AI and ML Model Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/05/top-six-trends-and-recommendations-for-ai-and-ml-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,25 +135,25 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2022-10-19-watch-googles-ping-pong-robot-pull-off-a-340-hit-rally.md",
-      "title": "Watch Google’s Ping-Pong robot pull off a 340-hit rally",
-      "excerpt": "Google researchers have used an interesting method to create a powerful (but friendly) Ping-Pong bot capable of returning hundreds of times.",
+      "path": "_news/2022-12-05-world-cup-2022-can-you-outguess-our-ai-predictor-robot.md",
+      "title": "World Cup 2022: Can you outguess our AI predictor robot?",
+      "excerpt": "Al Jazeera’s AI robot has made up for a shaky start and has correctly predicted the outcome of all four knockout games.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/",
-      "originalUrl": "https://techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/",
+      "webUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "originalUrl": "https://www.aljazeera.com/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/google-ping-pong.jpg?resize=1200,784",
+          "url": "https://www.aljazeera.com/wp-content/uploads/2022/12/INTERACTIVE-Kashef-prediction-scorecard-December-5.jpg?resize=1200%2C675",
           "width": 1200,
-          "height": 784,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,23 +161,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/amp/",
-      "publishedDateTime": "2022-10-19T08:48:00-07:00",
+      "ampWebUrl": "https://www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/sports/2022/12/5/who-is-going-to-reach-the-quarter-finals-of-world-cup-2022",
+      "publishedDateTime": "2022-12-05T03:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -106,21 +182,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-19-driverless-cars-now-offering-shuttle-service-at-pittsburgh-international-airport.md",
-      "title": "'Driverless' cars now offering shuttle service at Pittsburgh International Airport",
-      "excerpt": "Remote controlled vehicles part of testing program at airport 00:35 PITTSBURGH (KDKA) - New technology is now advancing the passenger experience at Pittsburgh International Airport. The airport ...",
+      "path": "_news/2022-12-05-digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.md",
+      "title": "DigiYatra: Facial recognition technology is now available at these Indian airports",
+      "excerpt": "With the assistance of a facial recognition software known as \"DigiYatra,\" you will be able to sail through the process of flying, which will now be paperless and contactless.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/pittsburgh/news/driverless-cars-now-offering-shuttle-service-at-pittsburgh-international-airport/",
-      "originalUrl": "https://www.cbsnews.com/pittsburgh/news/driverless-cars-now-offering-shuttle-service-at-pittsburgh-international-airport/",
+      "webUrl": "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/articleshow/96000093.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/10/19/134afd8b-40e1-4101-900b-27187c3ab9fb/thumbnail/1200x630/23a794262bcb833f95bd6ba0e0ce2b8f/e330440cf85afe1e6b18686c69b67d0e.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-53688,msid-96000068/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports.jpg",
+          "width": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,66 +204,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/pittsburgh/news/driverless-cars-now-offering-shuttle-service-at-pittsburgh-international-airport/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/driverless-cars-now-offering-shuttle-service-at-pittsburgh-international-airport/",
-      "publishedDateTime": "2022-10-19T08:35:00-07:00",
+      "ampWebUrl": "https://m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/new-updates/digiyatra-facial-recognition-technology-is-now-available-at-these-indian-airports/amp_articleshow/96000093.cms",
+      "publishedDateTime": "2022-12-05T01:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-the-app-stores-top-scanning-app-is-79-percent-off.md",
-      "title": "The App Store’s top scanning app is 79 percent off",
-      "excerpt": "Some documents, such as passports and book pages, may require scanning technology to pull and share information quickly. But instead of holding onto antiquated tech or making a trip to the post office every time you need a quick scan,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/iscanner-deal-sale-145540600.html",
-      "originalUrl": "https://www.engadget.com/iscanner-deal-sale-145540600.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/0c3bfbc0-4e19-11ed-8b4f-c66912ba8fd2",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/iscanner-deal-sale-145540600.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/iscanner-deal-sale-145540600.html",
-      "publishedDateTime": "2022-10-19T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -201,21 +225,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-19-11-best-machine-learning-stocks-to-buy.md",
-      "title": "11 Best Machine Learning Stocks to Buy",
-      "excerpt": "has one of the strongest machine learning platforms in the world, with its Watson division offering companies a many solutions such as risk compliance, advertising, customer service, financial ...",
+      "path": "_news/2022-12-05-medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.md",
+      "title": "Medical studies get tech edge with AI, machine learning, remote care",
+      "excerpt": "New-age technologies like Artificial Intelligence (AI) and Machine Learning (ML) have taken diagnosis, treatment, post-operative care, remote patient care and palliative care to a whole new level. Exp",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/11-best-machine-learning-stocks-to-buy-1077146/",
-      "originalUrl": "https://www.insidermonkey.com/blog/11-best-machine-learning-stocks-to-buy-1077146/",
+      "webUrl": "https://health.economictimes.indiatimes.com/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2020/12/14105630/hacking-coding-programming-unsplash.png",
-          "width": 750,
-          "height": 500,
+          "url": "https://etimg.etb2bimg.com/thumb/msid-95993114,imgsize-87468,width-1200,height-628,overlay-ethealthworld/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -223,13 +247,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T08:01:00-07:00",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/education/medical-studies-get-tech-edge-with-ai-machine-learning-remote-care/95993114",
+      "publishedDateTime": "2022-12-04T21:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
+        "name": "health.economictimes.indiatimes",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -239,80 +263,26 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-10-19-realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-machine-learning.md",
-      "title": "RealPage, The World’s Largest Property Management Software Provider, Selects Wallaroo Labs To Scale Machine Learning",
-      "excerpt": "Today RealPage, the industry leader in SaaS-based Property Management Solutions, announced that they have selected Wallaroo",
+      "path": "_news/2022-12-05-aws-reinvent-2022-round-up-data-management-ai-compute-take-centre-stage.md",
+      "title": "AWS re:Invent 2022 round-up: Data management, AI, compute take centre stage",
+      "excerpt": "AI features added to multiple services To help enterprises get more of a return on their data, AWS added new artificial intelligence (AI) features to a range of other services, including Textract, Transcribe, Kendra, CodeWhisperer, and HealthLake.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-machine-learning-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-machine-learning-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-dr-timnit-gebru-to-deliver-a-masterclass-on-ethical-ai-at-relativity-fest.md",
-      "title": "Dr. Timnit Gebru to Deliver a Masterclass on Ethical AI at Relativity Fest",
-      "excerpt": "Dr. Timnit Gebru to Deliver a Masterclass on Ethical AI at Relativity Fest Oct 19, 2022 (PRNewswire via COMTEX) -- PR Newswire",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/dr-timnit-gebru-to-deliver-a-masterclass-on-ethical-ai-at-relativity-fest-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/dr-timnit-gebru-to-deliver-a-masterclass-on-ethical-ai-at-relativity-fest-2022-10-19",
+      "webUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
+      "originalUrl": "https://www.reseller.co.nz/article/703800/aws-re-invent-2022-round-up-data-management-ai-compute-take-centre-stage/",
       "featuredContent": null,
       "highlight": null,
       "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/adam_selipsky_aws_6.jpg",
+          "width": 504,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -322,227 +292,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T07:00:00-07:00",
+      "publishedDateTime": "2022-12-04T19:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-how-to-use-dall-e-2-to-generate-ai-images.md",
-      "title": "How to use DALL-E 2 to generate AI images",
-      "excerpt": "DALL-E 2 is now open for public use, which means you can try your hand at generating AI images yourself until you find something perfect. Here's how to use it!",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-dall-e-2-to-generate-ai-images/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-dall-e-2-to-generate-ai-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/DALL-E-2-Image-on-OpenAI.jpg?p=1",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-dall-e-2-to-generate-ai-images/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-dall-e-2-to-generate-ai-images/?amp",
-      "publishedDateTime": "2022-10-19T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-ai-is-changing-scientists-understanding-of-language-learning.md",
-      "title": "AI is changing scientists’ understanding of language learning",
-      "excerpt": "For this reason, many language scientists—including Noam Chomsky, a founder of modern linguistics—believe that language learners require a kind of glue to rein in the unruly nature of everyday language.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/ai-is-changing-scientists-understanding-of-language-learning/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/ai-is-changing-scientists-understanding-of-language-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/parent-child-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-navigating-growth-in-a-modern-day-remote-first-tech-startup.md",
-      "title": "Navigating Growth In A Modern-Day, Remote-First Tech Startup",
-      "excerpt": "There are a few steps startups can take to maneuver through a constant state of change while maintaining a growth mindset.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/19/navigating-growth-in-a-modern-day-remote-first-tech-startup/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/19/navigating-growth-in-a-modern-day-remote-first-tech-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626c1a7dee40e3a7961617fb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/19/navigating-growth-in-a-modern-day-remote-first-tech-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/19/navigating-growth-in-a-modern-day-remote-first-tech-startup/amp/",
-      "publishedDateTime": "2022-10-19T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-syte-accepted-into-the-aws-isv-accelerate-partner-program.md",
-      "title": "Syte Accepted Into the AWS ISV Accelerate Partner Program",
-      "excerpt": "Syte Accepted Into the AWS ISV Accelerate Partner Program Oct 19, 2022 (PRNewswire via COMTEX) -- PR Newswire TEL AVIV, Israel, TEL",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/syte-accepted-into-the-aws-isv-accelerate-partner-program-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/syte-accepted-into-the-aws-isv-accelerate-partner-program-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -556,114 +311,19 @@
       ]
     },
     {
-      "path": "_news/2022-10-19-unicorn-ai-startup-cresta-adds-marketing-and-business-development-veterans-to-leadership-team.md",
-      "title": "Unicorn AI Startup Cresta Adds Marketing and Business Development Veterans to Leadership Team",
-      "excerpt": "Unicorn AI Startup Cresta Adds Marketing and Business Development Veterans to Leadership Team Oct 19, 2022 (PRNewswire via COMTEX) -- PR Newswire PALO",
+      "path": "_news/2022-12-05-cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud.md",
+      "title": "Cerebras Announces Pay-As-You-Go AI Training On Cirrascale Cloud",
+      "excerpt": "Company claims it can train AI 8X faster than AWS at half the cost for large models. Cerebras is not your typical AI chip company. And thats a good thing. We already have a lot of knock-offs taking on NVIDIA, and they all seem to do a good job of knocking ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/unicorn-ai-startup-cresta-adds-marketing-and-business-development-veterans-to-leadership-team-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/unicorn-ai-startup-cresta-adds-marketing-and-business-development-veterans-to-leadership-team-2022-10-19",
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-neuchips-secures-20-million-in-series-b2-funding-to-deliver-ai-inference-platform-for-deep-learning-recommendation.md",
-      "title": "NEUCHIPS Secures $20 Million in Series B2 Funding to Deliver AI Inference Platform for Deep Learning Recommendation",
-      "excerpt": "October 19, 2022 -- NEUCHIPS, a leader in AI ASIC platforms for deep learning recommendation, today announced series B2 funding of $20M. The round includes strategic investors Wistron, JAFCO Asia, Powerchip Group and new investor Raydium Semiconductor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/52847/neuchips-series-b2-funding.html",
-      "originalUrl": "https://www.design-reuse.com/news/52847/neuchips-series-b2-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage52847/files_images_media_investmentmobile_460x460.jpg",
-          "width": 460,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023.md",
-      "title": "Metaverse, AI and 'super apps': Watch out for these top tech trends in 2023",
-      "excerpt": "Gartner lays out the tech trends that could change how companies operate in 2023 and beyond. As many companies prepare for economic turmoil, IT leaders need to figure out how to save costs while also moving digital projects forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/",
-      "originalUrl": "https://www.zdnet.com/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4346b3576e7cda4bb8e38c359fa8dde659b1dee6/2022/10/19/7cc04e5c-5618-48c8-a7f7-f2c40dc3d977/innovation-metaverse-future-tech.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/638e4946cfebecc8ea93c5c7/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -673,60 +333,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/",
-      "publishedDateTime": "2022-10-19T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament.md",
-      "title": "AI Law And AI Ethics Deeply Disturbed By That Recent “History-Making Moment” Of An AI Robot Testifying To The UK Parliament",
-      "excerpt": "An AI robot spoke to the UK Parliament in a committee hearing, which has been heralded as historic and meanwhile scoffed at as being nothing more than a cheap stunt. We take a close look at what occurred and examine the true limits of AI and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634dd406801f9839f3ad84c7/0x0.jpg?format=jpg&crop=3835,2159,x0,y240,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/amp/",
-      "publishedDateTime": "2022-10-19T05:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/12/05/cerebras-announces-pay-as-you-go-ai-training-on-cirrascale-cloud/amp/",
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -749,42 +358,41 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-10-19-asc-solution-for-compliance-recording-is-first-to-be-listed-in-the-microsoft-cloud-for-financial-services.md",
-      "title": "ASC Solution for Compliance Recording is first to be listed in the Microsoft Cloud for Financial Services",
-      "excerpt": "As Teams becomes increasingly important as a platform for financial services ASC and Microsoft have been working together to make regulatory compliance as easy as possible via a Teams–based ...",
+      "path": "_news/2022-12-05-cuttlefish-passed-a-cognitive-test-designed-for-humans.md",
+      "title": "Cuttlefish passed a cognitive test designed for humans",
+      "excerpt": "This discovery, the researchers say, is an example of advanced self-control and shows that the creatures perform better in cognitive tasks. It has also been hypothesized that these positive ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/asc-solution-for-compliance-recording-is-first-to-be-listed-in-the-microsoft-cloud-for-financial-services-1031816791",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/asc-solution-for-compliance-recording-is-first-to-be-listed-in-the-microsoft-cloud-for-financial-services-1031816791",
+      "webUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
+      "originalUrl": "https://bgr.com/science/cuttlefish-passed-a-cognitive-test-designed-for-humans/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2022/12/AdobeStock_159088227.jpeg?quality=82&strip=all",
+          "width": 2400,
+          "height": 1596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T04:28:00-07:00",
+      "publishedDateTime": "2022-12-04T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -798,21 +406,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-19-general-robotics-launches-naval-rcws.md",
-      "title": "General Robotics launches naval RCWS",
-      "excerpt": "Israel-based General Robotics has launched a naval version of its Remote Controlled Weapon Station (RCWS). Known as Shark, the RCWS is designed for small manned and unmanned naval vessels ...",
+      "path": "_news/2022-12-05-artificial-intelligence-and-heart-care-pt-1.md",
+      "title": "Artificial intelligence and heart care — Pt 1",
+      "excerpt": "ARTIFICIAL intelligence (AI ... systems, and convolutional neural networks. In medical imaging, and more particularly cardiovascular imaging, AI has become very instrumental in efficiently ...",
       "sourceUrl": null,
-      "webUrl": "https://www.janes.com/defence-news/news-detail/general-robotics-launches-naval-rcws",
-      "originalUrl": "https://www.janes.com/defence-news/news-detail/general-robotics-launches-naval-rcws",
+      "webUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
+      "originalUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.janes.com/images/default-source/news-images/bsp_44013-idr-19424.jpg?sfvrsn=c6cabfbd_2",
-          "width": 600,
-          "height": 341,
+          "url": "https://imengine.public.prod.jam.navigacloud.com/?uuid=bed7186e-bbf9-52e7-a219-69c1352aa6fb&function=fit&type=preview",
+          "width": 500,
+          "height": 333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -820,13 +428,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.janes.com/amp/general-robotics-launches-naval-rcws/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/general-robotics-launches-naval-rcws/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "publishedDateTime": "2022-10-19T04:01:00-07:00",
+      "ampWebUrl": "https://www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "cdnAmpWebUrl": "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/health/artificial-intelligence-and-heart-care-pt-1/amp/",
+      "publishedDateTime": "2022-12-04T10:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Jane's Information Group",
-        "domain": "janes.com",
+        "name": "The Jamaica Observer",
+        "domain": "jamaicaobserver.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -836,79 +444,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-7-ways-to-better-sell-artificial-intelligence-to-the-business.md",
-      "title": "7 Ways To Better Sell Artificial Intelligence To The Business",
-      "excerpt": "AI transforms the systems and processes that have defined the way business is done. Selling AI as a new way requires some degree of finesse and business sense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634f37c78835ec41abc9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/",
-      "publishedDateTime": "2022-10-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Machine Learning",
-        "AI in Autos"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-10-19-artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr.md",
-      "title": "Artificial Intelligence in Defense Market Size Worth $13.15Bn, Globally, by 2028 at 10.8% CAGR",
-      "excerpt": "The latest research study on \"Artificial Intelligence in Defense Market Forecast to 2028 – COVID-19 Impact and",
+      "path": "_news/2022-12-05-sudbury-plays-host-to-first-robotics-competition.md",
+      "title": "Sudbury plays host to FIRST robotics competition",
+      "excerpt": "Tech Qualifier with students competing from across Sudbury, North Bay, Manitoulin Island, Bruce County and Toronto. Teams had to use their robots to complete different challenges, using pylons while amassing points.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr-2022-10-19",
+      "webUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
+      "originalUrl": "https://northernontario.ctvnews.ca/sudbury-plays-host-to-first-robotics-competition-1.6180419",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/12/4/2577491/_jcr_content/renditions/videothumbnail.1670204290046.jpg",
+          "width": 1020,
+          "height": 596,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -916,23 +471,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T01:15:00-07:00",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/northern-ontario/2022/12/4/1_6180419.amp.html",
+      "publishedDateTime": "2022-12-04T09:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -946,64 +492,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-19-language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report.md",
-      "title": "Language Processing Market Strategies, Future Plans, Competitive Landscape, Emerging Trends & Growth Opportunities by Latest Research Report 2022-2028",
-      "excerpt": "Natural language processing is a subfield of computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human languages ...",
+      "path": "_news/2022-12-05-why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right.md",
+      "title": "Why you need an organizational AI ethics committee to do AI right",
+      "excerpt": "How forming an AI ethics committee will educate and engage your teams and customers about ethical dilemmas artificial intelligence can raise.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report-2022-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/language-processing-market-strategies-future-plans-competitive-landscape-emerging-trends-growth-opportunities-by-latest-research-report-2022-2028",
+      "webUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
+      "originalUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/cyberattacks-hackers-russia-AFP-1K-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-the-disruptive-economic-impact-of-artificial-intelligence.md",
-      "title": "The Disruptive Economic Impact Of Artificial Intelligence",
-      "excerpt": "Artificial Intelligence is promising to disrupt many businesses and industries. While there is huge potential, we are currently in the \"between times,\" just before the true disruption is going to occur.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634fa904bbec04b6b78e9c74/0x0.jpg?format=jpg&width=1200",
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-875599880-1.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 750,
+          "height": 629,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1011,16 +514,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-10-19T00:37:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-you-need-an-organizational-ai-ethics-committee-to-do-ai-right/amp/",
+      "publishedDateTime": "2022-12-04T09:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1036,210 +539,10 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast.md",
-      "title": "Latin America Artificial Intelligence Market 2022-27: Trends, Share, Size, Growth and Forecast",
-      "excerpt": "According to the latest report by IMARC Group, titled \"Latin America Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the latin america artificial intelligence market is expected to continue its moderate growth during the forecast period (2022-2027).",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-tensorflow-decision-forests-and-tensorflow-serving.md",
-      "title": "TensorFlow Decision Forests and TensorFlow Serving",
-      "excerpt": "TensorFlow Serving (TF Serving) is a tool to run TensorFlow models online in large production settings using a RPC or REST API. TensorFlow Decision Forests (TF-DF) is supported natively by TF Serving >=2.11. TF-DF models are directly compatible with TF ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/decision_forests/tensorflow_serving",
-      "originalUrl": "https://www.tensorflow.org/decision_forests/tensorflow_serving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-ikea-is-trialing-driverless-truck-deliveries-in-texas.md",
-      "title": "Ikea is trialing driverless truck deliveries in Texas",
-      "excerpt": "Ikea has teamed up with Kodiak Robotics, a company that's working on self-driving technology for long-haul trucking, to test driverless deliveries from its warehouses. Since August this year ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ikea-trialing-driverless-truck-deliveries-texas-050317228.html",
-      "originalUrl": "https://www.engadget.com/ikea-trialing-driverless-truck-deliveries-texas-050317228.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/ac2727f0-4f62-11ed-adf9-501fe2d8ec7f",
-          "width": 1600,
-          "height": 1062,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/ikea-trialing-driverless-truck-deliveries-texas-050317228.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ikea-trialing-driverless-truck-deliveries-texas-050317228.html",
-      "publishedDateTime": "2022-10-18T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-jfk-airport-offers-eyewitness-news-exclusive-ride-aboard-new-driverless-shuttle.md",
-      "title": "JFK Airport offers Eyewitness News exclusive ride aboard new driverless shuttle",
-      "excerpt": "QUEENS, New York (WABC) -- The future is taking off at John F. Kennedy Airport, where a driverless shuttle is being tested out that would take passengers to and from the long-term parking lot.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7ny.com/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
-      "originalUrl": "https://abc7ny.com/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/12344004_shuttle.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7ny.com/amp/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
-      "cdnAmpWebUrl": "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
-      "publishedDateTime": "2022-10-18T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc7NY",
-        "domain": "abc7ny.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
+        "AI Ethics",
         "AI"
       ]
     }
   ],
-  "nextPage": 109
+  "nextPage": null
 }

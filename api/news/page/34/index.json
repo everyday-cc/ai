@@ -2,29 +2,38 @@
   "page": 34,
   "value": [
     {
-      "path": "_news/2023-02-06-teslas-infamous-full-self-driving-beta-v11-is-coming-this-week-if-you-believe-elon-musk.md",
-      "title": "Tesla’s infamous Full Self-Driving Beta v11 is coming this week if you believe Elon Musk",
-      "excerpt": "Tesla’s infamous Full Self-Driving Beta v11 update has been supposed to be here since November of last year, but",
+      "path": "_news/2023-02-07-machine-learning-could-turbocharge-the-search-for-extraterrestrial-intelligence.md",
+      "title": "Machine learning could turbocharge the search for extraterrestrial intelligence",
+      "excerpt": "The field of SETI, or the search for extraterrestrial intelligence, is accelerating to new heights thanks to developments in machine learning. “I think it’s a very important question to be ...",
       "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/02/06/tesla-full-self-driving-beta-v11-coming-this-week-believe-elon-musk/",
-      "originalUrl": "https://electrek.co/2023/02/06/tesla-full-self-driving-beta-v11-coming-this-week-believe-elon-musk/",
+      "webUrl": "https://www.theverge.com/2023/2/6/23588099/seti-machine-learning-extraterrestrial-intelligence-study",
+      "originalUrl": "https://www.theverge.com/2023/2/6/23588099/seti-machine-learning-extraterrestrial-intelligence-study",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/LSZIa0C7uTGG9Wwe_v2iv1cXo0w=/0x0:1024x735/1200x628/filters:focal(512x368:513x369)/cdn.vox-cdn.com/uploads/chorus_asset/file/24091189/hubble_palate_.jpeg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:10:00-08:00",
+      "publishedDateTime": "2023-02-06T13:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
+        "name": "The Verge",
+        "domain": "theverge.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,17 +49,18 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2023-02-06-what-we-know-about-anthropic-the-ai-start-up-that-google-has-invested-in.md",
-      "title": "What We Know About Anthropic, The AI Start-Up That Google Has Invested In",
-      "excerpt": "Roping in Anthropic, which is considered a direct rival to OpenAI, CEO Dario Amodei said in a press release, “We’re partnering with Google Cloud to support the next phase of Anthropic, where we’re going to deploy our AI systems to a larger set of people.",
+      "path": "_news/2023-02-06-create-powerful-self-service-experiences-with-amazon-lex-on-talkdesk-cx-cloud-contact-center.md",
+      "title": "Create powerful self-service experiences with Amazon Lex on Talkdesk CX Cloud contact center",
+      "excerpt": "This blog post is co-written with Bruno Mateus, Jonathan Diedrich and Crispim Tribuna at Talkdesk. Contact centers are using artificial intelligence (AI) and natural language processing (NLP) technologies to build a personalized customer experience and deliver effective self-service support through conversational",
       "sourceUrl": null,
-      "webUrl": "https://www.augustman.com/in/gear/tech/google-invests-in-ai-start-up-anthropic/",
-      "originalUrl": "https://www.augustman.com/in/gear/tech/google-invests-in-ai-start-up-anthropic/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-powerful-self-service-experiences-with-amazon-lex-on-talkdesk-cx-cloud-contact-center/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-powerful-self-service-experiences-with-amazon-lex-on-talkdesk-cx-cloud-contact-center/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -60,48 +70,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:10:00-08:00",
+      "publishedDateTime": "2023-02-06T13:01:46-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "augustman",
-        "domain": "augustman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ai-startup-cohere-in-talks-to-raise-funding-at-6-bln-plus-valuation-sources.md",
-      "title": "AI startup Cohere in talks to raise funding at $6 bln plus valuation -sources",
-      "excerpt": "Cohere, an AI foundation model company that competes with Microsoft-backed OpenAI, is in talks to raise hundreds of millions of dollars in a funding round that could value the startup at more than $6 billion,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-startup-cohere-talks-raise-funding-6-bln-plus-valuation-sources-2023-02-06/",
-      "originalUrl": "https://www.reuters.com/technology/ai-startup-cohere-talks-raise-funding-6-bln-plus-valuation-sources-2023-02-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -122,12 +98,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-scammers-rush-to-capitalize-on-the-ai-bandwagon-with-get-rich-quick-schemes.md",
-      "title": "Scammers rush to capitalize on the AI bandwagon with get-rich-quick schemes",
-      "excerpt": "YouTube, Instagram, and TikTok are becoming polluted by individuals pushing AI and how you can use it to make yourself tens of thousands of dollars.",
+      "path": "_news/2023-02-07-google-launching-its-own-artificial-intelligence-bot-known-as-bard.md",
+      "title": "Google launching its own artificial intelligence bot, known as Bard",
+      "excerpt": "Google is launching its own artificial intelligence bot known as Bard, a direct competitor to ChatGPT. In a blog post Monday, the California-based company says it will soon give a select number of trusted testers access to the artificial intelligence prototype it has been working on in some form for the last six years.",
       "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/90251/scammers-rush-to-capitalize-on-the-ai-bandwagon-with-get-rich-quick-schemes/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/90251/scammers-rush-to-capitalize-on-the-ai-bandwagon-with-get-rich-quick-schemes/index.html",
+      "webUrl": "https://ici.radio-canada.ca/rci/en/news/1954086/google-launching-its-own-artificial-intelligence-bot-known-as-bard",
+      "originalUrl": "https://ici.radio-canada.ca/rci/en/news/1954086/google-launching-its-own-artificial-intelligence-bot-known-as-bard",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -137,11 +113,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:02:00-08:00",
+      "publishedDateTime": "2023-02-06T12:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
+        "name": "Radio-Canada",
+        "domain": "radio-canada.ca",
         "images": null,
         "publishers": null,
         "authors": null
@@ -151,17 +127,16 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-the-13-top-vc-firms-dedicated-to-investing-in-artificial-intelligence-and-machine-learning-that-founders-should-know.md",
-      "title": "The 13 top VC firms dedicated to investing in artificial intelligence and machine learning that founders should know",
-      "excerpt": "Here are the 13 top VC firms dedicated to AI and ML investing.",
+      "path": "_news/2023-02-07-artificial-intelligence-writes-its-own-state-of-the-union-speeches.md",
+      "title": "Artificial intelligence writes its own 'State of the Union' speeches",
+      "excerpt": "A president's State of the Union address has a predictable formula. But what if a computer program were to write it? The Associated Press asked the ChatGPT bot to do",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/top-venture-capital-firms-investing-artificial-intelligence-machine-learning-2023-2",
-      "originalUrl": "https://www.businessinsider.com/top-venture-capital-firms-investing-artificial-intelligence-machine-learning-2023-2",
+      "webUrl": "https://siouxcityjournal.com/news/national/artificial-intelligence-writes-its-own-state-of-the-union-speeches/article_c997b7ea-0da6-552b-9b69-7909fd371eef.html",
+      "originalUrl": "https://siouxcityjournal.com/news/national/artificial-intelligence-writes-its-own-state-of-the-union-speeches/article_c997b7ea-0da6-552b-9b69-7909fd371eef.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -171,7 +146,107 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:00:00-08:00",
+      "publishedDateTime": "2023-02-06T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sioux City Journal",
+        "domain": "siouxcityjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-seinfeld-kicked-off-twitch-for-transphobic-remarks.md",
+      "title": "AI Seinfeld Kicked Off Twitch for Transphobic Remarks",
+      "excerpt": "The AI comedian said it was “thinking about doing a bit about how being transgender is actually a mental illness.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailybeast.com/ai-generated-seinfeld-clone-banned-from-twitch-over-transphobic-remarks",
+      "originalUrl": "https://www.thedailybeast.com/ai-generated-seinfeld-clone-banned-from-twitch-over-transphobic-remarks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Beast",
+        "domain": "thedailybeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-google-opens-testing-of-chatgpt-rival-as-artificial-intelligence-war-heats-up.md",
+      "title": "Google opens testing of ChatGPT rival, as artificial intelligence war heats up",
+      "excerpt": "Google says its Bard service is based on its experimental artificial-intelligence program called LaMDA, which stands for Language Model for Dialogue Applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/google-opens-testing-of-chatgpt-rival-as-artificial-intelligence-war-heats-up",
+      "originalUrl": "https://www.foxbusiness.com/technology/google-opens-testing-of-chatgpt-rival-as-artificial-intelligence-war-heats-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-chatgpt-rival-bard-and-looming-event-from-openai-backer-microsoft-swing-alphabet-stock-as-artificial-intelligence-race-heats-up.md",
+      "title": "ChatGPT rival Bard and looming event from OpenAI backer Microsoft swing Alphabet stock as artificial intelligence race heats up",
+      "excerpt": "Minutes after Google announced it is opening \"Bard\" to early testers, Microsoft teased an event that is expected to involve ChatGPT parent OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-openai-rival-bard-alphabet-stock-price-artificial-intelligence-microsoft-2023-2",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-openai-rival-bard-alphabet-stock-price-artificial-intelligence-microsoft-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -194,45 +269,135 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI",
-        "AI in Finance",
-        "AI in Healthcare"
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-the-best-chatgpt-alternatives-according-to-chatgpt.md",
-      "title": "The best ChatGPT alternatives (according to ChatGPT)",
-      "excerpt": "He added that using Amazon Web Services and Amazon SageMaker can help with fine-tuning the code. The DialoGPT code is available on GitHub. ALBERT (A Lite BERT) is a truncated version of the original BERT and was developed by Google in December 2019.",
+      "path": "_news/2023-02-07-the-original-startup-behind-stable-diffusion-has-launched-a-generative-ai-for-video.md",
+      "title": "The original startup behind Stable Diffusion has launched a generative AI for video",
+      "excerpt": "Runway, the generative AI startup that co-created last year’s breakout text-to-image model, Stable Diffusion, has released an AI model, called Gen-1, that can transform existing videos into new ones by applying any style specified by a text prompt or reference image.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/the-best-chatgpt-alternatives-according-to-chatgpt/",
-      "originalUrl": "https://www.digitaltrends.com/computing/the-best-chatgpt-alternatives-according-to-chatgpt/",
+      "webUrl": "https://www.technologyreview.com/2023/02/06/1067897/runway-stable-diffusion-gen-1-generative-ai-for-video/",
+      "originalUrl": "https://www.technologyreview.com/2023/02/06/1067897/runway-stable-diffusion-gen-1-generative-ai-for-video/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/ChatGPT-logo-closeup.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/the-best-chatgpt-alternatives-according-to-chatgpt/",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/the-best-chatgpt-alternatives-according-to-chatgpt/",
-      "publishedDateTime": "2023-02-06T03:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-should-companies-disclose-if-their-content-was-written-by-ai.md",
+      "title": "Should Companies Disclose if Their Content Was Written by AI?",
+      "excerpt": "Google is already reconsidering the value and ranking of content created through AI. In academics, the integrity of AI-powered content comes into question when students use it to write college papers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2023/02/06/should-companies-disclose-if-their-content-was-written-by-ai/",
+      "originalUrl": "https://www.datanami.com/2023/02/06/should-companies-disclose-if-their-content-was-written-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-microsoft-and-openais-chatgpt-vs-google-and-anthropic-claude.md",
+      "title": "Microsoft And OpenAI’s ChatGPT Vs. Google And Anthropic Claude",
+      "excerpt": "Microsoft and Google AI market share battle heats up around OpenAI’s ChatGPT and Anthropic Claude, as AI startups partner and invest with cloud computing giants Microsoft Azure and Google Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/microsoft-and-openai-s-chatgpt-vs-google-and-anthropic-claude",
+      "originalUrl": "https://www.crn.com/news/cloud/microsoft-and-openai-s-chatgpt-vs-google-and-anthropic-claude",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-seinfeld-was-surreal-fun-until-it-called-being-trans-an-illness.md",
+      "title": "AI Seinfeld was surreal fun until it called being trans an illness",
+      "excerpt": "An endless AI-scripted Seinfeld stream has been banned from Twitch for two weeks after it spewed offensive comments about transgender people..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ai-seinfeld-bigoted-transphobic-hateful-moderation-193449772.html",
+      "originalUrl": "https://www.engadget.com/ai-seinfeld-bigoted-transphobic-hateful-moderation-193449772.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -248,17 +413,16 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-chatgpt-could-become-alzheimers-screening-tool-study-suggests.md",
-      "title": "ChatGPT Could Become Alzheimer’s Screening Tool, Study Suggests",
-      "excerpt": "The program’s ability to construct human-like writing could make it a meaningful way to detect speech-related symptoms of early Alzheimer’s, say researchers.",
+      "path": "_news/2023-02-07-fish-can-recognize-themselves-in-photos-further-evidence-they-may-be-self-aware.md",
+      "title": "Fish can recognize themselves in photos, further evidence they may be self-aware",
+      "excerpt": "Cleaner fish recognize themselves in mirrors and photos, suggesting that far more animals may be self-aware than previously thought.",
       "sourceUrl": null,
-      "webUrl": "https://www.managedhealthcareexecutive.com/view/chatgpt-could-become-alzheimer-s-screening-tool-study-suggests",
-      "originalUrl": "https://www.managedhealthcareexecutive.com/view/chatgpt-could-become-alzheimer-s-screening-tool-study-suggests",
+      "webUrl": "https://www.sciencenews.org/article/fish-recognize-photo-self-aware",
+      "originalUrl": "https://www.sciencenews.org/article/fish-recognize-photo-self-aware",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -268,78 +432,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:56:00-08:00",
+      "publishedDateTime": "2023-02-06T12:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Managed Healthcare Executive",
-        "domain": "managedhealthcareexecutive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-googles-readying-chatgpt-rival-as-it-invests-400-million-in-anthropic-ai-startup.md",
-      "title": "Google’s readying ChatGPT rival as it invests $400 million in Anthropic AI startup",
-      "excerpt": "OpenAI’s ChatGPT has taken the world by storm and after Microsoft’s $10 billion investment into the generative AI tool, Google might have been feeling left behind. In a bid to create a ChatGPT rival,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/googles-readying-chatgpt-rival-as-it-invests-400-million-in-anthropic-ai-startup-article-97644975",
-      "originalUrl": "https://www.timesnownews.com/technology-science/googles-readying-chatgpt-rival-as-it-invests-400-million-in-anthropic-ai-startup-article-97644975",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/googles-readying-chatgpt-rival-as-it-invests-400-million-in-anthropic-ai-startup-article-97644975/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/googles-readying-chatgpt-rival-as-it-invests-400-million-in-anthropic-ai-startup-article-97644975/amp",
-      "publishedDateTime": "2023-02-06T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-museum-launches-campaign-to-get-hold-of-florence-nightingales-customised-wheelchair.md",
-      "title": "Museum launches campaign to get hold of Florence Nightingale’s customised wheelchair",
-      "excerpt": "An American museum which acquired the wheelchair in 1920 recently restored and conserved the chair and is willing to donate it. | ITV News London",
-      "sourceUrl": null,
-      "webUrl": "https://www.itv.com/news/london/2023-02-06/museum-launches-campaign-to-acquire-florence-nightingales-customised-wheelchair",
-      "originalUrl": "https://www.itv.com/news/london/2023-02-06/museum-launches-campaign-to-acquire-florence-nightingales-customised-wheelchair",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITV",
-        "domain": "itv.com",
+        "name": "Science News",
+        "domain": "sciencenews.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -354,12 +451,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-this-chicago-startup-is-making-self-driving-tractors-a-reality.md",
-      "title": "This Chicago startup is making self-driving tractors a reality",
-      "excerpt": "Sabanto, with just 28 employees, is rolling out a hardware-software kit to retrofit most modern tractors. “This is life-changing. It stands to be the biggest advance in agriculture since tractors replaced the horse and plow.",
+      "path": "_news/2023-02-07-mobily-kicks-off-leap-2023-in-style-with-big-partnership-announcements-across-smart-cities-gaming-artificial-intelligence-and-more.md",
+      "title": "Mobily kicks-off LEAP 2023 in style with big partnership announcements across smart cities, gaming, Artificial Intelligence and more",
+      "excerpt": "Cooperation with The Royal Commission for Al-Ula Governorate to boost tourism, trade and quality of life of residents through digital technology and services; Mobily partners with",
       "sourceUrl": null,
-      "webUrl": "https://www.chicagobusiness.com/private-intelligence/sabanto-chicago-making-self-driving-tractors-reality",
-      "originalUrl": "https://www.chicagobusiness.com/private-intelligence/sabanto-chicago-making-self-driving-tractors-reality",
+      "webUrl": "https://www.tmcnet.com/usubmit/-mobily-kicks-off-leap-2023-style-with-big-/2023/02/06/9755597.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mobily-kicks-off-leap-2023-style-with-big-/2023/02/06/9755597.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -369,11 +466,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:45:00-08:00",
+      "publishedDateTime": "2023-02-06T12:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Crain's Chicago Business",
-        "domain": "chicagobusiness.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -383,17 +480,16 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-want-efficiency-move-ai-from-the-factory-floor-into-the-front-office.md",
-      "title": "Want Efficiency? Move AI From The Factory Floor Into The Front Office",
-      "excerpt": "This digital innovation could change your business landscape, streamlining your entire organization—not just your production.",
+      "path": "_news/2023-02-07-these-fish-can-recognize-themselves-in-photos-hinting-at-self-awareness.md",
+      "title": "These fish can recognize themselves in photos, hinting at self-awareness",
+      "excerpt": "Cleaner fish recognize themselves in mirrors and photos, suggesting that far more animals may be self-aware than previously thought.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/want-efficiency-move-ai-from-the-factory-floor-into-the-front-office/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/want-efficiency-move-ai-from-the-factory-floor-into-the-front-office/",
+      "webUrl": "https://www.sciencenews.org/article/fish-recognize-photo-self-aware",
+      "originalUrl": "https://www.sciencenews.org/article/fish-recognize-photo-self-aware",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -401,9 +497,298 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/06/want-efficiency-move-ai-from-the-factory-floor-into-the-front-office/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/06/want-efficiency-move-ai-from-the-factory-floor-into-the-front-office/amp/",
-      "publishedDateTime": "2023-02-06T02:45:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-c3ai-bigbearai-and-soundhound-stock-are-soaring-in-an-ai-feeding-frenzy.md",
+      "title": "C3.ai, BigBearAI, and SoundHound Stock Are Soaring in an AI Feeding Frenzy",
+      "excerpt": "Investors are in a feeding frenzy over artificial-intelligence software plays, and you have to think this isn’t going to end well. You can date the start of the AI stock craze to the Nov. 30 launch of ChatGPT,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/c3-ai-stock-bigbearai-soundhound-51675712768",
+      "originalUrl": "https://www.barrons.com/articles/c3-ai-stock-bigbearai-soundhound-51675712768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-the-evolution-of-artificial-intelligence.md",
+      "title": "The evolution of Artificial Intelligence",
+      "excerpt": "Artificial Intelligence (AI) has started coming around the corner and is becoming a part of our daily lives. But how did it become an important topic in today’s world? It all began when science fiction revealed the concept of humanoid robots. The first ...",
+      "sourceUrl": null,
+      "webUrl": "https://highschool.latimes.com/walnut-high-school/the-evolution-of-artificial-intelligence/",
+      "originalUrl": "https://highschool.latimes.com/walnut-high-school/the-evolution-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-fy2024-projected-to-deliver-positive-cash-flow-for-robotic-device-maker-with-new-security-industry-alliances-aitx.md",
+      "title": "AI FY2024 Projected To Deliver Positive Cash Flow For Robotic Device Maker With New Security Industry Alliances: $AITX",
+      "excerpt": "AITX Awards. RAD Dog Robotic Security. AITX Collage $AITX RADG EV Station $AITX ROAMEO. AI FY2024 Projected to Deliver Positive Cash Flow for Robotic Devi",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105531686/AI-FY2024-Projected-To-Deliver-Positive-Cash-Flow-For-Robotic-Device-Maker-With-New-Security-Industry-Alliances-AITX",
+      "originalUrl": "https://menafn.com/1105531686/AI-FY2024-Projected-To-Deliver-Positive-Cash-Flow-For-Robotic-Device-Maker-With-New-Security-Industry-Alliances-AITX",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules.md",
+      "title": "Generative like AI like ChatGPT is changing lives but humans must set the rules",
+      "excerpt": "To be sure, bad actors could abuse these tools for various illicit schemes, such as sophisticated online scams or writing malware. But the technology’s prospective",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/opinion/generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules",
+      "originalUrl": "https://www.khaleejtimes.com/opinion/generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-google-will-fight-chatgpt-with-bard-a-similar-ai-powered-bot.md",
+      "title": "Google will fight ChatGPT with 'Bard,' a similar AI-powered bot",
+      "excerpt": "It was only a matter of time before Google responded to ChatGPT. That response is known as Google Bard, and it's coming to the public soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-bard-3276866/",
+      "originalUrl": "https://www.androidauthority.com/google-bard-3276866/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-google-reveals-plans-for-chatbot-bard-as-ai-tech-race-heats-up.md",
+      "title": "Google reveals plans for chatbot ‘Bard’ as AI tech race heats up",
+      "excerpt": "Google revealed plans on Monday to launch a chatbot to rival OpenAI’s popular ChatGPT, as it seeks to make up lost ground in the race to bring powerful new language artificial intelligence to the internet search business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/66fad3e0-f530-48c1-984c-82578274ce7a",
+      "originalUrl": "https://www.ft.com/content/66fad3e0-f530-48c1-984c-82578274ce7a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-what-it-takes-to-build-a-disruptive-fintech-company-in-2023.md",
+      "title": "What It Takes To Build A Disruptive Fintech Company In 2023",
+      "excerpt": "The Fintech industry is one of the fastest growing sectors for businesses, but breaking into it isn't without challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jaimecatmull/2023/02/06/what-it-takes-to-build-a-disruptive-fintech-company-in-2023/",
+      "originalUrl": "https://www.forbes.com/sites/jaimecatmull/2023/02/06/what-it-takes-to-build-a-disruptive-fintech-company-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-generated-seinfeld-banned-from-twitch-after-making-transphobic-jokes.md",
+      "title": "AI-Generated ‘Seinfeld’ Banned From Twitch After Making Transphobic Jokes",
+      "excerpt": "Infinite Nothing,’ the AI-generated episode of ‘Seinfeld,’ was banned from Twitch after the AI began regurgitating internet bigotry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danidiplacido/2023/02/06/ai-generated-seinfeld-banned-from-twitch-after-making-transphobic-jokes/",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2023/02/06/ai-generated-seinfeld-banned-from-twitch-after-making-transphobic-jokes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T11:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -430,12 +815,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-best-gpu-for-fortnite-our-top-picks.md",
-      "title": "Best GPU for Fortnite – our top picks",
-      "excerpt": "Get a leg-up in the Battle Royale with the best GPU for Fortnite. Building a PC involves many choices, perhaps chief among them is which GPU to go for. Basing your choice around a specific game ...",
+      "path": "_news/2023-02-07-surya-nurzaman-phd-appointed-editor-in-chief-of-robotics-reports.md",
+      "title": "Surya Nurzaman, Ph.D. appointed Editor-in-Chief of Robotics Reports",
+      "excerpt": "Mary Ann Liebert, Inc. announces the appointment of Surya Nurzaman, PhD as Editor-in-Chief of Robotics Reports, a new peer-reviewed open access journal launching in 2023.",
       "sourceUrl": null,
-      "webUrl": "https://www.videogamer.com/tech/gpus/best-for-fortnite-2/",
-      "originalUrl": "https://www.videogamer.com/tech/gpus/best-for-fortnite-2/",
+      "webUrl": "https://www.eurekalert.org/news-releases/978844",
+      "originalUrl": "https://www.eurekalert.org/news-releases/978844",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -445,45 +830,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:38:00-08:00",
+      "publishedDateTime": "2023-02-06T11:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VideoGamer.com",
-        "domain": "videogamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-when-my-dad-was-sick-i-started-googling-grief-then-i-couldnt-escape-it.md",
-      "title": "When my dad was sick, I started Googling grief. Then I couldn’t escape it.",
-      "excerpt": "Googler, coping with uncertainty by trying to learn as much as I can about whatever might be coming. That included my father’s throat cancer. Initially I focused on the purely medical. I endeavored to learn as much as I could about molecular biomarkers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/02/06/1067794/escape-grief-content-unsubscribe-facebook-instagram-amazon-recommendation-algorithms/",
-      "originalUrl": "https://www.technologyreview.com/2023/02/06/1067794/escape-grief-content-unsubscribe-facebook-instagram-amazon-recommendation-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/02/06/1067794/escape-grief-content-unsubscribe-facebook-instagram-amazon-recommendation-algorithms/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/02/06/1067794/escape-grief-content-unsubscribe-facebook-instagram-amazon-recommendation-algorithms/amp/",
-      "publishedDateTime": "2023-02-06T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -498,46 +849,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-bots-inc-is-offering-game-changing-chatgpt-and-openai-powered-services-for-b2b-customers.md",
-      "title": "BOTS, Inc. is Offering Game-Changing ChatGPT and OpenAI-Powered Services for B2B Customers",
-      "excerpt": "SAN JUAN, Puerto Rico , Feb. 06, 2023 (GLOBE NEWSWIRE) -- via NewMediaWire – BOTS, Inc. (OTC:BTZI) (\"The Company\"), a leading provider of advanced technology solutions announced today new B2B services",
+      "path": "_news/2023-02-07-a-chat-with-chatgpt-how-would-the-artificial-intelligence-model-approach-certain-maryland-issues-commentary.md",
+      "title": "A chat with ChatGPT: How would the artificial intelligence model approach certain Maryland issues? | COMMENTARY",
+      "excerpt": "Organizations across the country are grappling with how to deal with the headline-grabbing idea-generator known as ChatGPT, launched publicly for free in November as part of a research project by San Francisco-based artificial intelligence company,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g30724789/bots-inc-is-offering-game-changing-chatgpt-and-openai-powered-services-for-b2b-customers",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g30724789/bots-inc-is-offering-game-changing-chatgpt-and-openai-powered-services-for-b2b-customers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30724789",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30724789",
-      "publishedDateTime": "2023-02-06T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-hey-chatgpt-what-can-a-i-do-for-radio.md",
-      "title": "Hey ChatGPT! What Can A-I Do for Radio?",
-      "excerpt": "Are you paying attention to AI? Best get moving. Artificial intelligence has been the focus of a number of Radio World articles in the past couple of years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.radioworld.com/tech-and-gear/hey-chatgpt-what-can-you-do-for-radio",
-      "originalUrl": "https://www.radioworld.com/tech-and-gear/hey-chatgpt-what-can-you-do-for-radio",
+      "webUrl": "https://www.baltimoresun.com/opinion/editorial/bs-ed-0207-chatgpt-maryland-20230206-jmd4etrk45drbpem7cp7dl3ivm-story.html",
+      "originalUrl": "https://www.baltimoresun.com/opinion/editorial/bs-ed-0207-chatgpt-maryland-20230206-jmd4etrk45drbpem7cp7dl3ivm-story.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -547,113 +864,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:01:00-08:00",
+      "publishedDateTime": "2023-02-06T11:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Radio World",
-        "domain": "radioworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-how-facial-authentication-promises-the-automated-future-techies-seek-without-compromising-user-privacy.md",
-      "title": "How facial authentication promises the automated future techies seek without compromising user privacy",
-      "excerpt": "Facial recognition technology can compromise PII, but facial authentication promise to deliver the security society seeks without compromising privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmagazine.com/perspective/emerging-technology/how-facial-authentication-promises-the-automated-future-techies-seek-without-compromising-user-privacy",
-      "originalUrl": "https://www.scmagazine.com/perspective/emerging-technology/how-facial-authentication-promises-the-automated-future-techies-seek-without-compromising-user-privacy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SC Media",
-        "domain": "scmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-insurance-it-leaders-herald-new-era-for-digital-customer-experience.md",
-      "title": "Insurance IT leaders herald new era for digital customer experience",
-      "excerpt": "With operating models upended by COVID-19 shutdowns, insurance CIOs pivoted to digital services for agents and policyholders and haven’t looked back since, making digital CX priority No. 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/432457/insurance-it-leaders-herald-new-era-for-digital-customer-experience.html",
-      "originalUrl": "https://www.cio.com/article/432457/insurance-it-leaders-herald-new-era-for-digital-customer-experience.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/432457/insurance-it-leaders-herald-new-era-for-digital-customer-experience.html/amp/",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/432457/insurance-it-leaders-herald-new-era-for-digital-customer-experience.html/amp/",
-      "publishedDateTime": "2023-02-06T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-moonstake-partners-with-humansai-to-help-advance-artificial-intelligence-on-the-blockchain-and-support-the-ai-startups-expansion-in-asia.md",
-      "title": "Moonstake Partners with Humans.ai to Help Advance Artificial Intelligence on the Blockchain and Support the AI Startup's Expansion in Asia",
-      "excerpt": "SINGAPORE, Feb 6, 2023 - (ACN Newswire) - Moonstake, a leading provider of staking services for blockchain networks, partners with Humans.ai, AI and blockchain startup focused on harnessing the power of artificial intelligence in an ethical...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/moonstake-partners-humansai-help-advance-artificial-intelligence-blockchain-and-support-ai",
-      "originalUrl": "https://www.asiaone.com/business/moonstake-partners-humansai-help-advance-artificial-intelligence-blockchain-and-support-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -667,12 +882,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-smartchemistry-brings-the-power-of-ai-and-machine-learning-into-your-lab.md",
-      "title": "SmartChemistry brings the power of AI and machine learning into your lab",
-      "excerpt": "Artificial intelligence and machine learning are changing chemistry. Today, the chemical literature contains such a huge volume of information that it is impossible for chemists to know everything that’s been done before.",
+      "path": "_news/2023-02-06-an-important-next-step-on-our-ai-journey.md",
+      "title": "An important next step on our AI journey",
+      "excerpt": "Introducing Bard, Google's experimental conversational AI service powered by LaMDA — plus, new AI features in Search coming soon.",
       "sourceUrl": null,
-      "webUrl": "https://www.chemistryworld.com/sponsored-content/smartchemistry-brings-the-power-of-ai-and-machine-learning-into-your-lab/4016902.article",
-      "originalUrl": "https://www.chemistryworld.com/sponsored-content/smartchemistry-brings-the-power-of-ai-and-machine-learning-into-your-lab/4016902.article",
+      "webUrl": "https://blog.google/technology/ai/bard-google-ai-search-updates/",
+      "originalUrl": "https://blog.google/technology/ai/bard-google-ai-search-updates/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -682,151 +897,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:01:00-08:00",
+      "publishedDateTime": "2023-02-06T11:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chemistry World",
-        "domain": "chemistryworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-the-robots-revolutionising-chemistry.md",
-      "title": "The robots revolutionising chemistry",
-      "excerpt": "Researchers working with automated systems are pushing the boundaries of what chemists can achieve in the lab, reports James Mitchell Crow",
-      "sourceUrl": null,
-      "webUrl": "https://www.chemistryworld.com/features/the-robots-revolutionising-chemistry/4016798.article",
-      "originalUrl": "https://www.chemistryworld.com/features/the-robots-revolutionising-chemistry/4016798.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chemistry World",
-        "domain": "chemistryworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-hmt-advises-on-translation-firm-acquisition.md",
-      "title": "HMT advises on translation firm acquisition",
-      "excerpt": "South East law firm HMT LLP has advised an AI-powered language operations platform on its acquisition of an international translation company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermedia.com/news/south-east/hmt-advises-on-translation-firm-acquisition",
-      "originalUrl": "https://www.insidermedia.com/news/south-east/hmt-advises-on-translation-firm-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T01:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider",
-        "domain": "insidermedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-segway-launches-navimow-robotic-lawnmower-in-uk.md",
-      "title": "Segway launches Navimow robotic lawnmower in UK",
-      "excerpt": "Segway has launched its award-winning smart robotic lawnmower, Navimow in the UK, along with the innovative new AI-powered VisionFence Sensor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekamagazine.co.uk/content/news/segway-launches-navimow-robotic-lawnmower-in-uk",
-      "originalUrl": "https://www.eurekamagazine.co.uk/content/news/segway-launches-navimow-robotic-lawnmower-in-uk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T01:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eureka Magazine",
-        "domain": "eurekamagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-machine-learning-chip-market-2023-top-vendors-industry-size-share-and-growth-and-forecast-up-to-2025.md",
-      "title": "Machine Learning Chip Market 2023 | Top Vendors, Industry Size, Share and Growth and Forecast up to 2025",
-      "excerpt": "The Machine Learning Chip Market (2023-2025) Research Updated Report | Market includes the most useful information such",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-2023-top-vendors-industry-size-share-and-growth-and-forecast-up-to-2025-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-chip-market-2023-top-vendors-industry-size-share-and-growth-and-forecast-up-to-2025-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T01:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Google",
+        "domain": "blog.google",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -842,96 +920,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI",
-        "AI Hardware",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-ai-in-oil-and-gas-market-2023-to-shows-impressive-growth-in-regional-areas-forecasts-up-to-2025.md",
-      "title": "Artificial Intelligence (AI) in Oil and Gas Market 2023 to Shows Impressive Growth in Regional Areas Forecasts up to 2025",
-      "excerpt": "The Artificial Intelligence (AI) in Oil and Gas Market (2023-2025) Research Updated Report | Market includes the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-2023-to-shows-impressive-growth-in-regional-areas-forecasts-up-to-2025-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-2023-to-shows-impressive-growth-in-regional-areas-forecasts-up-to-2025-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T01:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-and-machine-learning-market-to-reach-high-globally-by-2025-research-reports-world.md",
-      "title": "Artificial Intelligence and Machine Learning Market to Reach High Globally, by 2025| Research Reports World",
-      "excerpt": "The Artificial Intelligence and Machine Learning Market (2023-2025) Research Updated Report | Market includes the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-reach-high-globally-by-2025-research-reports-world-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-reach-high-globally-by-2025-research-reports-world-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T01:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
+        "Google AI"
       ]
     }
   ],

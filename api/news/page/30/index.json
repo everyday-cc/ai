@@ -2,27 +2,45 @@
   "page": 30,
   "value": [
     {
-      "path": "_news/2023-02-07-mobily-kicks-off-leap-2023-in-style-with-big-partnership-announcements-across-smart-cities-gaming-artificial-intelligence-and-more.md",
-      "title": "Mobily kicks-off LEAP 2023 in style with big partnership announcements across smart cities, gaming, Artificial Intelligence and more",
-      "excerpt": "Cooperation with The Royal Commission for Al-Ula Governorate to boost tourism, trade and quality of life of residents through digital technology and services; Mobily partners with",
+      "path": "_news/2023-02-07-this-tiny-flying-robot-could-work-as-an-artificial-pollinator.md",
+      "title": "This tiny flying robot could work as an artificial pollinator",
+      "excerpt": "“[It] can be powered and controlled by a light source ... With this goal in mind, the team’s planning to improve the material sensitivity that would allow the robot to operate in sunlight, and is looking to upscale the structure so it could be equipped ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mobily-kicks-off-leap-2023-style-with-big-/2023/02/06/9755597.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mobily-kicks-off-leap-2023-style-with-big-/2023/02/06/9755597.htm",
+      "webUrl": "https://thenextweb.com/news/tiny-flying-robot-could-work-as-artificial-pollinator",
+      "originalUrl": "https://thenextweb.com/news/tiny-flying-robot-could-work-as-artificial-pollinator",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F02%2FUntitled-design-2023-02-07T141819.709.jpg&signature=3e18eb83e96922a94f25ac993f80c306",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T12:02:00-08:00",
+      "publishedDateTime": "2023-02-07T07:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -31,30 +49,93 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-07-these-fish-can-recognize-themselves-in-photos-hinting-at-self-awareness.md",
-      "title": "These fish can recognize themselves in photos, hinting at self-awareness",
-      "excerpt": "Cleaner fish recognize themselves in mirrors and photos, suggesting that far more animals may be self-aware than previously thought.",
+      "path": "_news/2023-02-07-this-company-is-beating-google-to-chat-based-search-and-its-not-microsoft.md",
+      "title": "This Company Is Beating Google to Chat-Based Search, and It's Not Microsoft",
+      "excerpt": "Baidu is best known for its search engine, but it has been investing in artificial intelligence for several years, and those efforts are beginning to bear fruit. Baidu has launched fully driverless robotaxis in Wuhan and Chongqing, and it plans to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencenews.org/article/fish-recognize-photo-self-aware",
-      "originalUrl": "https://www.sciencenews.org/article/fish-recognize-photo-self-aware",
+      "webUrl": "https://www.fool.com/investing/2023/02/07/baidu-beating-google-chat-based-search/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/07/baidu-beating-google-chat-based-search/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/719430/china-e-commerce.jpg",
+          "width": 2120,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T12:01:00-08:00",
+      "publishedDateTime": "2023-02-07T07:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science News",
-        "domain": "sciencenews.org",
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-risks-of-facial-recognition-technology.md",
+      "title": "Risks of Facial Recognition Technology",
+      "excerpt": "Besides facial recognition, AI-based image recognition is expected to be used in various fields. The technology can be used to help self-driving vehicles detect a dangerous object. It can also be used in medical image processing to assist diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/117/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/117/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/117/images/acce12983f3145143c8b08a1250884ced396fe67.jpg",
+          "width": 1560,
+          "height": 878,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
         "images": null,
         "publishers": null,
         "authors": null
@@ -69,12 +150,64 @@
       ]
     },
     {
-      "path": "_news/2023-02-07-c3ai-bigbearai-and-soundhound-stock-are-soaring-in-an-ai-feeding-frenzy.md",
-      "title": "C3.ai, BigBearAI, and SoundHound Stock Are Soaring in an AI Feeding Frenzy",
-      "excerpt": "Investors are in a feeding frenzy over artificial-intelligence software plays, and you have to think this isn’t going to end well. You can date the start of the AI stock craze to the Nov. 30 launch of ChatGPT,",
+      "path": "_news/2023-02-07-ai-experts-weigh-dangers-benefits-of-chatgpt-on-humans-jobs-and-information-dystopian-world.md",
+      "title": "AI experts weigh dangers, benefits of ChatGPT on humans, jobs and information: ‘Dystopian world’",
+      "excerpt": "Generative artificial intelligence (AI) algorithms like ChatGPT pose substantial ... today that outperform humans on tests like vision, listening and translation between various languages. In December, ChatGPT outperformed some Ivy League students at ...",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/c3-ai-stock-bigbearai-soundhound-51675712768",
-      "originalUrl": "https://www.barrons.com/articles/c3-ai-stock-bigbearai-soundhound-51675712768",
+      "webUrl": "https://www.foxnews.com/media/ai-experts-dangers-benefits-chatgpt-humans-jobs-information",
+      "originalUrl": "https://www.foxnews.com/media/ai-experts-dangers-benefits-chatgpt-humans-jobs-information",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bd0e383-31e0-4b20-b860-95eb669914f9/84efbaae-2846-497f-8bd1-c4c88a7b524b/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/ai-experts-dangers-benefits-chatgpt-humans-jobs-information.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ai-experts-dangers-benefits-chatgpt-humans-jobs-information.amp",
+      "publishedDateTime": "2023-02-07T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-artificial-intelligence-in-shopping-how-it-is-changing-the-way-we-shop.md",
+      "title": "Artificial Intelligence in Shopping: How It Is Changing the Way We Shop",
+      "excerpt": "In particular, Artificial Intelligence (AI) has already begun to revolutionize the way we shop. There are shopping websites like  which are powered by AI that can provide personalized recommendations on what to buy and where to shop based on a customer’s preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2023/02/artificial-intelligence-in-shopping-how-it-is-changing-the-way-we-shop/",
+      "originalUrl": "https://www.itnewsafrica.com/2023/02/artificial-intelligence-in-shopping-how-it-is-changing-the-way-we-shop/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -84,11 +217,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:47:00-08:00",
+      "publishedDateTime": "2023-02-07T06:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -102,26 +235,35 @@
       ]
     },
     {
-      "path": "_news/2023-02-07-the-evolution-of-artificial-intelligence.md",
-      "title": "The evolution of Artificial Intelligence",
-      "excerpt": "Artificial Intelligence (AI) has started coming around the corner and is becoming a part of our daily lives. But how did it become an important topic in today’s world? It all began when science fiction revealed the concept of humanoid robots. The first ...",
+      "path": "_news/2023-02-07-using-deep-learning-to-detect-depression-from-speech.md",
+      "title": "Using deep learning to detect depression from speech",
+      "excerpt": "Artificial intelligence (AI) tools have achieved promising results on numerous tasks and could soon assist professionals in various settings. In recent years, computer scientists have been exploring the potential of these tools for detecting signs of different physical and psychiatric conditions.",
       "sourceUrl": null,
-      "webUrl": "https://highschool.latimes.com/walnut-high-school/the-evolution-of-artificial-intelligence/",
-      "originalUrl": "https://highschool.latimes.com/walnut-high-school/the-evolution-of-artificial-intelligence/",
+      "webUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/using-deep-learning-to.jpg",
+          "width": 1142,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:45:00-08:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-02-deep-depression-speech.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-02-deep-depression-speech.amp",
+      "publishedDateTime": "2023-02-07T06:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -131,52 +273,18 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-ai-fy2024-projected-to-deliver-positive-cash-flow-for-robotic-device-maker-with-new-security-industry-alliances-aitx.md",
-      "title": "AI FY2024 Projected To Deliver Positive Cash Flow For Robotic Device Maker With New Security Industry Alliances: $AITX",
-      "excerpt": "AITX Awards. RAD Dog Robotic Security. AITX Collage $AITX RADG EV Station $AITX ROAMEO. AI FY2024 Projected to Deliver Positive Cash Flow for Robotic Devi",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105531686/AI-FY2024-Projected-To-Deliver-Positive-Cash-Flow-For-Robotic-Device-Maker-With-New-Security-Industry-Alliances-AITX",
-      "originalUrl": "https://menafn.com/1105531686/AI-FY2024-Projected-To-Deliver-Positive-Cash-Flow-For-Robotic-Device-Maker-With-New-Security-Industry-Alliances-AITX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
+        "Machine Learning",
         "AI",
-        "AI in Security"
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_news/2023-02-07-generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules.md",
-      "title": "Generative like AI like ChatGPT is changing lives but humans must set the rules",
-      "excerpt": "To be sure, bad actors could abuse these tools for various illicit schemes, such as sophisticated online scams or writing malware. But the technology’s prospective",
+      "path": "_news/2023-02-07-carnegie-mellon-universitys-ai-powered-frida-robot-collaborates-with-humans-to-create-art.md",
+      "title": "Carnegie Mellon University's AI-Powered FRIDA robot collaborates with humans to create art",
+      "excerpt": "FRIDA, a robotic arm with a paintbrush taped to it, uses artificial intelligence to collaborate with humans on works of art. Ask FRIDA to paint a picture, and it gets to work putting brush to canvas.",
       "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/opinion/generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules",
-      "originalUrl": "https://www.khaleejtimes.com/opinion/generative-like-ai-like-chatgpt-is-changing-lives-but-humans-must-set-the-rules",
+      "webUrl": "https://www.eurekalert.org/news-releases/978829",
+      "originalUrl": "https://www.eurekalert.org/news-releases/978829",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -186,202 +294,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-google-will-fight-chatgpt-with-bard-a-similar-ai-powered-bot.md",
-      "title": "Google will fight ChatGPT with 'Bard,' a similar AI-powered bot",
-      "excerpt": "It was only a matter of time before Google responded to ChatGPT. That response is known as Google Bard, and it's coming to the public soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-bard-3276866/",
-      "originalUrl": "https://www.androidauthority.com/google-bard-3276866/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-google-reveals-plans-for-chatbot-bard-as-ai-tech-race-heats-up.md",
-      "title": "Google reveals plans for chatbot ‘Bard’ as AI tech race heats up",
-      "excerpt": "Google revealed plans on Monday to launch a chatbot to rival OpenAI’s popular ChatGPT, as it seeks to make up lost ground in the race to bring powerful new language artificial intelligence to the internet search business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/66fad3e0-f530-48c1-984c-82578274ce7a",
-      "originalUrl": "https://www.ft.com/content/66fad3e0-f530-48c1-984c-82578274ce7a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-what-it-takes-to-build-a-disruptive-fintech-company-in-2023.md",
-      "title": "What It Takes To Build A Disruptive Fintech Company In 2023",
-      "excerpt": "The Fintech industry is one of the fastest growing sectors for businesses, but breaking into it isn't without challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jaimecatmull/2023/02/06/what-it-takes-to-build-a-disruptive-fintech-company-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/jaimecatmull/2023/02/06/what-it-takes-to-build-a-disruptive-fintech-company-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-ai-generated-seinfeld-banned-from-twitch-after-making-transphobic-jokes.md",
-      "title": "AI-Generated ‘Seinfeld’ Banned From Twitch After Making Transphobic Jokes",
-      "excerpt": "Infinite Nothing,’ the AI-generated episode of ‘Seinfeld,’ was banned from Twitch after the AI began regurgitating internet bigotry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danidiplacido/2023/02/06/ai-generated-seinfeld-banned-from-twitch-after-making-transphobic-jokes/",
-      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2023/02/06/ai-generated-seinfeld-banned-from-twitch-after-making-transphobic-jokes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-surya-nurzaman-phd-appointed-editor-in-chief-of-robotics-reports.md",
-      "title": "Surya Nurzaman, Ph.D. appointed Editor-in-Chief of Robotics Reports",
-      "excerpt": "Mary Ann Liebert, Inc. announces the appointment of Surya Nurzaman, PhD as Editor-in-Chief of Robotics Reports, a new peer-reviewed open access journal launching in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/978844",
-      "originalUrl": "https://www.eurekalert.org/news-releases/978844",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:18:00-08:00",
+      "publishedDateTime": "2023-02-07T06:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "EurekAlert!",
@@ -400,12 +313,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-07-a-chat-with-chatgpt-how-would-the-artificial-intelligence-model-approach-certain-maryland-issues-commentary.md",
-      "title": "A chat with ChatGPT: How would the artificial intelligence model approach certain Maryland issues? | COMMENTARY",
-      "excerpt": "Organizations across the country are grappling with how to deal with the headline-grabbing idea-generator known as ChatGPT, launched publicly for free in November as part of a research project by San Francisco-based artificial intelligence company,",
+      "path": "_news/2023-02-07-mindsdb-raises-165m-from-benchmark-to-put-machine-learning-into-more-applications.md",
+      "title": "MindsDB Raises $16.5M from Benchmark to put machine learning into more applications",
+      "excerpt": "MindsDB, the most widely used open source applied machine learning (ML) platform in the world, today announced a $16.5M Series A investment from Benchmark. MindsDB was built to dramatically speed up the process of building AI powered applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/opinion/editorial/bs-ed-0207-chatgpt-maryland-20230206-jmd4etrk45drbpem7cp7dl3ivm-story.html",
-      "originalUrl": "https://www.baltimoresun.com/opinion/editorial/bs-ed-0207-chatgpt-maryland-20230206-jmd4etrk45drbpem7cp7dl3ivm-story.html",
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756408.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756408.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -415,11 +328,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:16:00-08:00",
+      "publishedDateTime": "2023-02-07T06:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -429,16 +342,17 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-an-important-next-step-on-our-ai-journey.md",
-      "title": "An important next step on our AI journey",
-      "excerpt": "Introducing Bard, Google's experimental conversational AI service powered by LaMDA — plus, new AI features in Search coming soon.",
+      "path": "_news/2023-02-07-microsoft-and-5-other-ai-pick-and-shovel-plays.md",
+      "title": "Microsoft and 5 other AI pick-and-shovel plays",
+      "excerpt": "So, what is the best way to play the AI trend and benefit from companies succeeding in the sector? We think a prudent strategy is to invest in companies building the tools to sustain the industry’s growth – the ‘pick-and-shovel’ plays of AI.",
       "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/bard-google-ai-search-updates/",
-      "originalUrl": "https://blog.google/technology/ai/bard-google-ai-search-updates/",
+      "webUrl": "https://www.livewiremarkets.com/wires/microsoft-and-5-other-ai-pick-and-shovel-plays",
+      "originalUrl": "https://www.livewiremarkets.com/wires/microsoft-and-5-other-ai-pick-and-shovel-plays",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -448,21 +362,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T11:00:00-08:00",
+      "publishedDateTime": "2023-02-07T06:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Livewire Markets",
+        "domain": "livewiremarkets.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -471,17 +376,19 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI",
-        "Google AI"
+        "Microsoft AI",
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_news/2023-02-07-google-trials-its-own-ai-chatbot-bard-after-success-of-chatgpt.md",
-      "title": "Google trials its own AI chatbot Bard after success of ChatGPT",
-      "excerpt": "Technology will be added to Google’s search engine after explosion in use of rival backed by Microsoft",
+      "path": "_news/2023-02-07-accuracy-ethics-must-be-at-centre-of-ai-race.md",
+      "title": "Accuracy, ethics must be at centre of AI race",
+      "excerpt": "In a world where unregulated tech is causing havoc and eroding democratic ideals, questions of ethics, accuracy and transparency will have to be front and centre in the months and years to come",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/feb/06/google-releases-its-own-ai-chatbot-bard-after-success-of-chatgpt",
-      "originalUrl": "https://www.theguardian.com/technology/2023/feb/06/google-releases-its-own-ai-chatbot-bard-after-success-of-chatgpt",
+      "webUrl": "https://www.hindustantimes.com/editorials/accuracy-ethics-must-be-at-centre-of-ai-race-101675779472759.html",
+      "originalUrl": "https://www.hindustantimes.com/editorials/accuracy-ethics-must-be-at-centre-of-ai-race-101675779472759.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -491,14 +398,271 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:56:00-08:00",
+      "publishedDateTime": "2023-02-07T06:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-study-artificial-intelligence-detect-effectiveness-of-breast-cancer-chemotherapy.md",
+      "title": "Study: Artificial intelligence detect effectiveness of breast cancer chemotherapy",
+      "excerpt": "Artificial intelligence (AI) technology has been developed by engineers at the University of Waterloo to determine whether chemotherapy before surgery would be beneficial for people with breast cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/science-environment/2346587-study-artificial-intelligence-detect-effectiveness-of-breast-cancer-chemotherapy",
+      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2346587-study-artificial-intelligence-detect-effectiveness-of-breast-cancer-chemotherapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-banks-accelerate-move-to-the-cloud-with-new-oracle-banking-services.md",
+      "title": "Banks Accelerate Move to the Cloud with New Oracle Banking Services",
+      "excerpt": "With transaction volumes, customer expectations, and competitive threats at an all-time high, banks must adapt quickly to keep pace. To address these challenges, Oracle today launched Oracle Banking Cloud Services,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/02/07/9755948.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/02/07/9755948.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-6-jobs-artificial-intelligence-is-already-replacing-and-how-investors-can-capitalize-on-it.md",
+      "title": "6 Jobs Artificial Intelligence Is Already Replacing and How Investors Can Capitalize on It",
+      "excerpt": "It’s no secret artificial intelligence (AI ... but business is likely to pick up the pace in the future. From a self-driving Tesla Semi to Starship’s Food Delivery robot fleet, robots powered by AI are beginning to dominate the delivery sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/02/30766478/6-jobs-artificial-intelligence-is-already-replacing-how-investors-can-capitalize-on-it",
+      "originalUrl": "https://www.benzinga.com/news/23/02/30766478/6-jobs-artificial-intelligence-is-already-replacing-how-investors-can-capitalize-on-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/02/07/arseny-togulev-meckpokjyjm-unsplash.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30766478",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30766478",
+      "publishedDateTime": "2023-02-07T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-kognitos-raises-675m-seed-to-bring-the-power-of-generative-ai-to-enterprise-automation.md",
+      "title": "Kognitos Raises $6.75M Seed to Bring the Power of Generative AI to Enterprise Automation",
+      "excerpt": "Kognitos launches the first generative AI platform that allows business users to automate business processes in plain English - bringing funding total to $9.35 million. SAN JOSE,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756210.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756210.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-chip-startup-cerebras-systems-announces-pioneering-simulation-of-computational-fluid-dynamics.md",
+      "title": "AI chip startup Cerebras Systems announces pioneering simulation of computational fluid dynamics",
+      "excerpt": "It could run several hundred times faster than what is possible using traditional distributed computers. A single WSE-2 AI chip is said to contain 2.6 trillion transistors, or 2.55 trillion more than the most advanced graphics processing unit on the market.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/02/07/ai-chip-startup-cerebras-systems-announces-pioneering-simulation-computational-fluid-dynamics/",
+      "originalUrl": "https://siliconangle.com/2023/02/07/ai-chip-startup-cerebras-systems-announces-pioneering-simulation-computational-fluid-dynamics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/photo.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-powered-frida-robot-collaborates-with-humans-to-create-art.md",
+      "title": "AI-Powered FRIDA robot collaborates with humans to create art",
+      "excerpt": "Carnegie Mellon University's Robotics Institute has a new artist-in-residence. FRIDA, a robotic arm with a paintbrush taped to it, uses artificial intelligence to collaborate with humans on works of art.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-ai-powered-frida-robot-collaborates-humans.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-ai-powered-frida-robot-collaborates-humans.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-first-tests-the-geforce-rtx-4090-laptop-gpu-is-a-scorcher-but-dlss-helps-a-lot.md",
+      "title": "First Tests! The GeForce RTX 4090 Laptop GPU Is a Scorcher (But DLSS Helps a Lot)",
+      "excerpt": "Our initial tests on two gaming laptops with Nvidia's GeForce RTX 4090 inside reveal some rocket-liftoff frame rates—if you're playing one of the few games with DLSS 3. (It's still fast without it, mind you.",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/laptops/98634/first-tests-the-geforce-rtx-4090-laptop-gpu-is-a-scorcher-but-dlss-helps-a-lot",
+      "originalUrl": "https://au.pcmag.com/laptops/98634/first-tests-the-geforce-rtx-4090-laptop-gpu-is-a-scorcher-but-dlss-helps-a-lot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -514,16 +678,17 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-07-without-fear-of-retribution-ny-state-bar-forms-group-to-study-facial-recognition-blacklisting-of-lawyers-from-msg-radio-city.md",
-      "title": "'Without Fear of Retribution': NY State Bar Forms Group to Study Facial-Recognition Blacklisting of Lawyers From MSG, Radio City",
-      "excerpt": "The use of facial recognition software to exclude members of law firms from a Knicks basketball game or a Taylor Swift concert discriminates against lawyers for doing their jobs,” said Sherry Levin Wallach,",
+      "path": "_news/2023-02-07-how-moonhub-an-ai-recruiting-platform-raised-44-million-from-openai-backer-khosla-ventures-and-google-ventures-without-a-pitch-deck.md",
+      "title": "How Moonhub, an AI recruiting platform, raised $4.4 million from OpenAI-backer Khosla Ventures and Google Ventures without a pitch deck",
+      "excerpt": "AI recruiting startup Moonhub wants to make the hiring process more automated and less biased. Here's how it raised $4.4 million without a pitch deck.",
       "sourceUrl": null,
-      "webUrl": "https://www.law.com/newyorklawjournal/2023/02/06/without-fear-of-retribution-ny-state-bar-forms-group-to-study-facial-recognition-blacklisting-of-lawyers-from-msg-radio-city/",
-      "originalUrl": "https://www.law.com/newyorklawjournal/2023/02/06/without-fear-of-retribution-ny-state-bar-forms-group-to-study-facial-recognition-blacklisting-of-lawyers-from-msg-radio-city/",
+      "webUrl": "https://www.businessinsider.com/how-generative-ai-startup-moonhub-khosla-gv-2023-2",
+      "originalUrl": "https://www.businessinsider.com/how-generative-ai-startup-moonhub-khosla-gv-2023-2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -533,41 +698,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-twitch-suspended-a-gpt-powered-ai-comedy-show-trained-on-seinfeld-episodes-after-it-made-transphobic-comments.md",
-      "title": "Twitch suspended a GPT-powered AI comedy show trained on 'Seinfeld' episodes after it made transphobic comments",
-      "excerpt": "A ChatGPT-powered comedy show modeled after \"Seinfeld\" that had gone viral in recent days has been suspended for 14 days from Twitch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/twitch-suspends-gpt-ai-standup-trained-on-seinfeld-transphobic-comments-2023-2",
-      "originalUrl": "https://www.businessinsider.com/twitch-suspends-gpt-ai-standup-trained-on-seinfeld-transphobic-comments-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:38:00-08:00",
+      "publishedDateTime": "2023-02-07T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -594,12 +725,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-07-look-for-stocks-to-lose-30-from-here-says-strategist-david-rosenberg-and-dont-even-think-about-turning-bullish-until-2024.md",
-      "title": "Look for stocks to lose 30% from here, says strategist David Rosenberg. And don’t even think about turning bullish until 2024.",
-      "excerpt": "There’s nothing right now in my collection of metrics telling me that we’re anywhere close to a bottom.' He suggests owning bonds, gold and consumer staples.",
+      "path": "_news/2023-02-07-now-ai-can-talk-the-frenzy-continues-with-news-from-soundhound-and-microsoft.md",
+      "title": "Now AI Can Talk? The Frenzy Continues With News From SoundHound and Microsoft.",
+      "excerpt": "Stocks in the field of artificial intelligence have been red-hot since the start-up Open AI launched the chatbot ChatGPT in November.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/market-strategist-david-rosenberg-wait-until-2024-to-turn-bullish-on-u-s-stocks-after-the-s-p-500-drops-30-from-here-11675711832",
-      "originalUrl": "https://www.marketwatch.com/story/market-strategist-david-rosenberg-wait-until-2024-to-turn-bullish-on-u-s-stocks-after-the-s-p-500-drops-30-from-here-11675711832",
+      "webUrl": "https://www.barrons.com/articles/ai-chatgpt-microsoft-open-ai-soundhound-51675777033",
+      "originalUrl": "https://www.barrons.com/articles/ai-chatgpt-microsoft-open-ai-soundhound-51675777033",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -609,14 +740,158 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:30:00-08:00",
+      "publishedDateTime": "2023-02-07T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-the-history-and-evolution-of-the-fintech-industry.md",
+      "title": "The history and evolution of the fintech industry",
+      "excerpt": "Explore the history and evolution of the fintech industry, from its beginnings in the late 1990s and early 2000s to the present day.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/the-history-and-evolution-of-the-fintech-industry",
+      "originalUrl": "https://cointelegraph.com/news/the-history-and-evolution-of-the-fintech-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-ai-stocks-are-soaring-its-a-feeding-frenzy-that-wont-end-well.md",
+      "title": "AI Stocks Are Soaring. It’s a Feeding Frenzy That Won’t End Well.",
+      "excerpt": "You can date the start of the AI stock craze to the Nov. 30 launch of ChatGPT, the generative AI chatbot created by the start up OpenAI. Recent data show that ChatGPT reached more than 100 million users in January,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/ai-chatgpt-google-bard-c3ai-stock-price-51675712768",
+      "originalUrl": "https://www.barrons.com/articles/ai-chatgpt-google-bard-c3ai-stock-price-51675712768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-google-unveils-conversational-ai-service-bard.md",
+      "title": "Google Unveils Conversational AI Service Bard",
+      "excerpt": "Tech major Google, owned by Alphabet Inc., has unveiled a new chatbot tool called Bard. The experimental conversational artificial",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/google-unveils-conversational-ai-service-bard-1032073920",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/google-unveils-conversational-ai-service-bard-1032073920",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-microsoft-and-google-are-about-to-open-an-ai-battle.md",
+      "title": "Microsoft and Google are about to Open an AI battle",
+      "excerpt": "Intel is also planning to bring AI capabilities to PC with its Meteor Lake processors. Microsoft is also hard at work on Azure OpenAI, its service that allows businesses to integrate tools like DALL-E into their own cloud apps. Microsoft has promised ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "originalUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -633,59 +908,17 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-image-classification-model-selection-using-amazon-sagemaker-jumpstart.md",
-      "title": "Image classification model selection using Amazon SageMaker JumpStart",
-      "excerpt": "Researchers continue to develop new model architectures for common machine learning (ML) tasks. One such task is image classification, where images are accepted as input and the model attempts to classify the image as a whole with object label outputs. With many models available today that perform this",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/image-classification-model-selection-using-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/image-classification-model-selection-using-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:29:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
-        "AWS AI"
+        "AI Hardware"
       ]
     },
     {
-      "path": "_news/2023-02-07-mindstrongs-demise-and-the-future-of-mental-health-care.md",
-      "title": "Mindstrong’s demise and the future of mental health care",
-      "excerpt": "Technology can improve how to care for people with mental illness; it just can't replace actual care. And when it comes to care, you get what you pay for.",
+      "path": "_news/2023-02-07-future-toyota-cars-to-be-powerd-by-robosense-lidar-for-safer-self-driving.md",
+      "title": "Future Toyota Cars to be Powerd by RoboSense LiDAR for Safer Self-Driving",
+      "excerpt": "RoboSense, a world-leading provider of Smart LiDAR Sensor Systems, officially announced its partnership with Toyota, the world's best-selling carmaker, on large-scale production with nominated orders for multiple models.",
       "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2023/02/06/mindstrong-demise-future-mental-health-care/",
-      "originalUrl": "https://www.statnews.com/2023/02/06/mindstrong-demise-future-mental-health-care/",
+      "webUrl": "https://technews.tmcnet.com/news/2023/02/07/9756105.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/02/07/9756105.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -695,11 +928,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:25:00-08:00",
+      "publishedDateTime": "2023-02-07T05:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -709,17 +942,17 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-07-what-chatgpt-and-generative-ai-mean-for-science.md",
-      "title": "What ChatGPT and generative AI mean for science",
-      "excerpt": "It is one of the much-hyped generative AI chatbot-style tools that can churn out convincingly fluent text, whether asked to produce prose, poetry, computer code or — as in the scientists’ case — to edit research papers (see ‘How an AI chatbot edits a manuscript’ at the end of this article).",
+      "path": "_news/2023-02-07-artificial-intelligence-to-be-a-game-changer-in-govt-audit-space-cag.md",
+      "title": "Artificial Intelligence to be a game changer in govt audit space: CAG",
+      "excerpt": "Artificial Intelligence (AI) is going to be a game changer in the public audit space as it will help in quicker and more detailed analysis during both planning and execution stages, Comptroller and Auditor General of India (CAG) G C Murmu said on Tuesday.",
       "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-023-00340-6",
-      "originalUrl": "https://www.nature.com/articles/d41586-023-00340-6",
+      "webUrl": "https://www.devdiscourse.com/article/technology/2346508-artificial-intelligence-to-be-a-game-changer-in-govt-audit-space-cag",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2346508-artificial-intelligence-to-be-a-game-changer-in-govt-audit-space-cag",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -729,189 +962,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:24:00-08:00",
+      "publishedDateTime": "2023-02-07T05:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-the-best-graphics-cards-in-2022.md",
-      "title": "The best graphics cards in 2022",
-      "excerpt": "Every new GPU generation offers new features and possibilities ... denote older Nvidia graphics cards which don't have the extra AI and ray tracing silicon that the RTX-level cards do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/the-best-graphics-cards/",
-      "originalUrl": "https://www.pcgamer.com/the-best-graphics-cards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/w2S7fKTN4q4t762crrXuwd-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-advanced-ai-in-criminals-hands-is-a-danger-we-should-guard-against.md",
-      "title": "Advanced AI in criminals’ hands is a danger we should guard against",
-      "excerpt": "Opinion - Generative AI can write essays, code software, create music and art, and hold conversations. It is exciting, but what happens when they're turned to illegal uses?",
-      "sourceUrl": null,
-      "webUrl": "https://www.rnz.co.nz/news/national/483764/advanced-ai-in-criminals-hands-is-a-danger-we-should-guard-against",
-      "originalUrl": "https://www.rnz.co.nz/news/national/483764/advanced-ai-in-criminals-hands-is-a-danger-we-should-guard-against",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rnz",
-        "domain": "rnz.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-this-aussie-professor-is-an-ai-legend-chatgpt-shocked-even-him.md",
-      "title": "This Aussie professor is an AI legend. ChatGPT shocked even him",
-      "excerpt": "Professor Christopher Manning is the most cited natural language processing expert in the world. He says society has to adapt to generative AI technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/technology/this-aussie-professor-is-an-ai-legend-chatgpt-shocked-even-him-20230202-p5chh9",
-      "originalUrl": "https://www.afr.com/technology/this-aussie-professor-is-an-ai-legend-chatgpt-shocked-even-him-20230202-p5chh9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation.md",
-      "title": "AI startup Cohere in talks to raise funding at $6-billion plus valuation",
-      "excerpt": "Cohere working on a new dialogue model, that would resemble ChatGPT, to allow enterprise users generate text and refine the output",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/technology/article-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus/",
-      "originalUrl": "https://www.theglobeandmail.com/business/technology/article-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-artificial-intelligence-systems-will-lead-to-layoffs-but-traders-say-they-will-be-fine.md",
-      "title": "Artificial intelligence systems will lead to layoffs, but traders say they will be fine",
-      "excerpt": "Advanced artificial intelligence systems are expected to eventually replace some jobs in the financial, media, legal and technology sectors, according to the latest MLIV Pulse survey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.spokesman.com/stories/2023/feb/06/artificial-intelligence-systems-will-lead-to-layof/",
-      "originalUrl": "https://www.spokesman.com/stories/2023/feb/06/artificial-intelligence-systems-will-lead-to-layof/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spokesman-Review",
-        "domain": "spokesman.com",
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
         "images": null,
         "publishers": null,
         "authors": null

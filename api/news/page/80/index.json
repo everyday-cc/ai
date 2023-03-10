@@ -2,21 +2,21 @@
   "page": 80,
   "value": [
     {
-      "path": "_news/2022-12-23-how-to-redact-pii-data-in-conversation-transcripts.md",
-      "title": "How to redact PII data in conversation transcripts",
-      "excerpt": "Customer service interactions often contain personally identifiable information (PII) such as names, phone numbers, and dates of birth. As organizations incorporate machine learning (ML) and analytics into their applications, using this data can provide insights on how to create more seamless customer",
+      "path": "_news/2023-01-04-options-ai-awarded-best-broker-for-options-trading-at-benzinga-global-fintech-awards.md",
+      "title": "Options AI Awarded Best Broker For Options Trading at Benzinga Global Fintech Awards",
+      "excerpt": "Options AI’s goal is to level the playing field for retail investors. NEW YORK, NY, USA, January 4, 2023 /EINPresswire.com/ -- Options AI today announced that it ...",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-to-redact-pii-data-in-conversation-transcripts/",
+      "webUrl": "https://ktla.com/business/press-releases/ein-presswire/609049340/options-ai-awarded-best-broker-for-options-trading-at-benzinga-global-fintech-awards/",
+      "originalUrl": "https://ktla.com/business/press-releases/ein-presswire/609049340/options-ai-awarded-best-broker-for-options-trading-at-benzinga-global-fintech-awards/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/12/23/Featured-images-for-ml-12825.jpg",
-          "width": 800,
-          "height": 400,
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2023/01/KTLA-LOGO_LAS-VERY-OWN-logo.png",
+          "width": 600,
+          "height": 207,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,177 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-23T10:09:21-08:00",
+      "publishedDateTime": "2023-01-04T06:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "KTLA",
+        "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-new-nvidia-ai-tech-unblurs-grainy-youtube-videos.md",
+      "title": "New Nvidia AI tech unblurs grainy YouTube videos",
+      "excerpt": "You’ll need a 30 or 40 series Nvidia GPU to make it work, however. As part of Nvidia’s CES 2023 presentation, the company unveiled RTX Video Super Resolution. This new AI tech will upscale videos to 4K in both Chrome and Edge browsers.",
+      "sourceUrl": null,
+      "webUrl": "https://knowtechie.com/nvidia-rtx-video-super-resolution-demo-ces-2023/",
+      "originalUrl": "https://knowtechie.com/nvidia-rtx-video-super-resolution-demo-ces-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://knowtechie.com/wp-content/uploads/2023/01/nvidia-upscaling-example-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KnowTechie",
+        "domain": "knowtechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms.md",
+      "title": "TDK to acquire Qeexo to enable complete smart edge platforms",
+      "excerpt": "TDK Corporation (TSE: 6762) (CEO & President: Noboru Saito, hereinafter \"TDK\") announced that today TDK has agreed to acquire Qeexo, Co.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-301710811.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-301710811.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-citiustech-collaborates-with-microsoft-to-streamline-value-based-contracting-and-provider-performance-management-for-health-plans-and-systems.md",
+      "title": "CitiusTech Collaborates with Microsoft to Streamline Value-Based Contracting and Provider Performance Management for Health Plans and Systems",
+      "excerpt": "CitiusTech, a global provider of digital technology and consulting services to healthcare and life sciences organizations, announced today that it is working with Microsoft to jointly offer PERFORM+ Contracts;",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/business-medical-technology-wire-93df69119528412db26a417690a0e2b5",
+      "originalUrl": "https://apnews.com/article/business-medical-technology-wire-93df69119528412db26a417690a0e2b5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-nvidias-latest-ai-tech-can-upscale-old-blurry-youtube-videos.md",
+      "title": "Nvidia’s latest AI tech can upscale old blurry YouTube videos",
+      "excerpt": "Nvidia has turned its AI upscaling technology on a new target ... The catch is that you’ll need a relatively modern Nvidia GPU to benefit from the feature, with only its most recent 30 and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/1/4/23538584/nvidia-ai-upscaling-browser-chrome-edge-30-40-series-gpu-graphics-cards-4k-1080p",
+      "originalUrl": "https://www.theverge.com/2023/1/4/23538584/nvidia-ai-upscaling-browser-chrome-edge-30-40-series-gpu-graphics-cards-4k-1080p",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/NJNKV0i-ITPWpQorBd_Pk64-eIY=/0x0:1280x720/1200x628/filters:focal(631x605:632x606)/cdn.vox-cdn.com/uploads/chorus_asset/file/24335273/maxresdefault__1_.jpeg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T04:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,17 +212,60 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-12-24-tsas-facial-recognition-technology-raises-security-privacy-concerns.md",
-      "title": "TSA's facial recognition technology raises security, privacy concerns",
-      "excerpt": "Holiday travelers may notice that the TSA has been expanding the use of facial recognition technology. It's now at more than a dozen airports across the country.",
+      "path": "_news/2023-01-04-microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.md",
+      "title": "Microsoft reported to be integrating ChatGPT3 AI with Bing search",
+      "excerpt": "The expected integration of the AI-powered chat application with Bing can be seen as Microsoft’s renewed attempt to challenge search giant Google.",
       "sourceUrl": null,
-      "webUrl": "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
-      "originalUrl": "https://www.kjrh.com/news/national/tsas-facial-recognition-technology-raises-security-privacy-concerns",
+      "webUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.html",
+      "originalUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/02/p1200405-100708005-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.amp.html",
+      "publishedDateTime": "2023-01-04T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-at-ces-tech-mega-show-driverless-cars-show-promise-limitations.md",
+      "title": "At CES tech mega-show, driverless cars show promise, limitations",
+      "excerpt": "Crowds of techies will descend on Las Vegas this week for the annual CES technology mega-show, but one innovation may again fall short of long-held hopes: driverless cars. Autonomous vehicles have long been pitched as the new dawn of transportation and the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/world/americas/at-ces-tech-mega-show-driverless-cars-show-promise-limitations-pbcmjdvh",
+      "originalUrl": "https://www.zawya.com/en/world/americas/at-ces-tech-mega-show-driverless-cars-show-promise-limitations-pbcmjdvh",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -69,11 +275,322 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-23T09:57:00-08:00",
+      "publishedDateTime": "2023-01-04T01:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "kjrh.com",
-        "domain": "kjrh.com",
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028.md",
+      "title": "Bird and Animal Control Robot Market (New Report) 2023 Research Report Recent Developments, Size, Share, Market Analysis, Forecast 2028",
+      "excerpt": "Jan 04, 2023 (The Expresswire) -- New Report (92 Page) Publish on Global Bird and Animal Control Robot Market Research Report 2023 comprises extensive primary research along with the detailed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028-2023-01-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028-2023-01-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T00:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-artificial-intelligence-ai-in-education-market-industry-updates-new-opportunities-major-strategies-and-forecast-2028.md",
+      "title": "Artificial Intelligence (AI) in Education Market Industry Updates, New Opportunities, Major Strategies, And Forecast 2028",
+      "excerpt": "\"Artificial Intelligence (AI) in Education Market\" studies the global Market Size and Forecast by 2023-2028. The report includes a comprehensive study on the definition, classification and market survey of Production Units in the market along with their product specifications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-industry-updates-new-opportunities-major-strategies-and-forecast-2028-2023-01-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-industry-updates-new-opportunities-major-strategies-and-forecast-2028-2023-01-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T19:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-autonomous-vehicles-eye-bigger-business-opportunities.md",
+      "title": "Autonomous vehicles eye bigger business opportunities",
+      "excerpt": "China has taken the lead in the research and development as well as application of autonomous driving technology around the world and it is the first country to allow fully driverless paid robotaxi operations,",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202301/04/WS63b4d882a31057c47eba794c.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202301/04/WS63b4d882a31057c47eba794c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202301/04/63b4d882a31057c4b4b2ab91.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T19:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-owl-autonomous-imaging-launches-monocular-3d-thermal-ranger-computer-vision-for-adas-and-autonomous-vehicles.md",
+      "title": "Owl Autonomous Imaging launches monocular 3D Thermal Ranger computer vision for ADAS and autonomous vehicles",
+      "excerpt": "Owl Autonomous Imaging announced the availability of an Evaluation Kit for their new Thermal Ranger ADAS & Autonomous Navigation Development Platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20230103PR202.html?chid=9",
+      "originalUrl": "https://www.digitimes.com/news/a20230103PR202.html?chid=9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20230103pr202_files/4_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T18:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-self-driving-trucks-poised-to-overhaul-long-haul-logistics.md",
+      "title": "Self-driving trucks poised to overhaul long-haul logistics",
+      "excerpt": "Chinese autonomous driving startup Pony.ai has been making forays into the self-driving truck segment. The company announced in November it had formed a strategic alliance with two partners — Chinese logistics company Sinotrans Ltd and machinery manufacturer Sany Group — to work on promoting smart logistics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202301/04/WS63b4d91ca31057c47eba7957.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202301/04/WS63b4d91ca31057c47eba7957.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202301/04/63b4d91ca31057c4b4b2ab9d.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available.md",
+      "title": "Media Advisory: 2023 Trends in CX, Fintech, and AI -- Expert Quotes Available",
+      "excerpt": "Agency focused on fintech, AI development, and customer experience strategy has identified key trends for 2023. Pull quotes available for immediate use. SAN FRANCISCO, Jan. 3, 2023 /PRNewswire ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30268240/media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30268240/media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-syntiants-security-options-expand-via-computer-vision.md",
+      "title": "Syntiant’s Security Options Expand, Via Computer Vision",
+      "excerpt": "Irvine-based chip company Syntiant Corp. is adding to its product line. The firm, founded in 2017, has to date been best known primarily.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ocbj.com/technology/syntiants-security-options-expand-via-computer-vision/",
+      "originalUrl": "https://www.ocbj.com/technology/syntiants-security-options-expand-via-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3o53yol1vmqc8.cloudfront.net/wp-content/uploads/2023/01/CES-Syntiant.jpg",
+          "width": 1425,
+          "height": 950,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Business Journal",
+        "domain": "ocbj.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -89,21 +606,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-24-how-to-assess-your-ai-projects-roi-as-recession-hits.md",
-      "title": "How to assess your AI projects’ ROI as recession hits",
-      "excerpt": "Advice for organizations as they assess the ROI and risk/return tradeoffs of their AI initiatives in the coming recession.",
+      "path": "_news/2023-01-04-baidu-granted-with-the-first-license-to-test-out-driverless-taxis-in-beijing.md",
+      "title": "Baidu granted with the first license to test out driverless taxis in Beijing",
+      "excerpt": "Following its success in Wuhan and Chongqing, Baidu received the first license to test driverless taxis in Beijing.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-assess-your-ai-projects-roi-as-recession-hits/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-assess-your-ai-projects-roi-as-recession-hits/",
+      "webUrl": "https://techwireasia.com/2023/01/baidu-granted-with-the-first-license-to-test-out-driverless-taxis-in-beijing/",
+      "originalUrl": "https://techwireasia.com/2023/01/baidu-granted-with-the-first-license-to-test-out-driverless-taxis-in-beijing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/12/investing-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 758,
+          "url": "https://techwireasia.com/wp-content/uploads/2023/01/Baidu-received-the-first-license-to-test-autonomous-vehicles-with-no-safety-operator-on-board-in-Beijing-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -111,16 +628,102 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-to-assess-your-ai-projects-roi-as-recession-hits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-assess-your-ai-projects-roi-as-recession-hits/amp/",
-      "publishedDateTime": "2022-12-23T09:12:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T16:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-leveraging-machine-learning-to-help-predict-ship-exhaust-gas-emissions.md",
+      "title": "Leveraging machine learning to help predict ship exhaust gas emissions",
+      "excerpt": "Ships, the most common means of international goods transportation, emit exhaust gases that cause air pollution at the ports they dock in. Predicting the levels of these emissions is important from an environmental standpoint,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/975622",
+      "originalUrl": "https://www.eurekalert.org/news-releases/975622",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fb0bbce6-8319-4133-aafc-d13ad050b71f/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications.md",
+      "title": "Perceive AI Launches 2nd Edge AI Chip For Low Power Applications",
+      "excerpt": "Company claims Ergo2 is up to four times faster than Perceive’s first-generation Ergo chip, and can handle much larger models such as NLP. Edge AI is coming into its own, with a variety of chips ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b493feacba027dca69d65f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/01/04/perceive-ai-launches-2nd-edge-ai-chip-for-low-power-applications/amp/",
+      "publishedDateTime": "2023-01-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -136,68 +739,24 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-12-24-artificial-intelligence-tool-developed-to-help-make-real-time-diagnoses-during-surgery.md",
-      "title": "Artificial intelligence tool developed to help make real-time diagnoses during surgery",
-      "excerpt": "When a patient undergoes a surgical operation to remove a tumor or treat a disease, the course of surgery is often not predetermined. To decide how much tissue needs to be removed, surgeons must know more about the condition they are treating,",
+      "path": "_news/2023-01-04-profet-ai-helps-manufacturers-build-prediction-models-and-industrial-ai-software.md",
+      "title": "Profet AI helps manufacturers build prediction models and industrial AI software",
+      "excerpt": "The company’s flagship products are its AutoML Virtual Data Scientist Platform and Ready To Go Applications. They are intended for use by clients in the semiconductor, electronics, chemicals and ...",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.html",
+      "webUrl": "https://techcrunch.com/2023/01/04/profet-ai/",
+      "originalUrl": "https://techcrunch.com/2023/01/04/profet-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/surgery-5.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-12-artificial-intelligence-tool-real-time-surgery.amp",
-      "publishedDateTime": "2022-12-23T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-indias-reliance-backs-us-based-ai-startup-exyn-in-35-million-funding.md",
-      "title": "India’s Reliance backs US-based AI startup Exyn in $35 million funding",
-      "excerpt": "Indian conglomerate Reliance has backed Philadelphia-based AI and robotics startup Exyn with $25 million investment.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/12/23/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/",
-      "originalUrl": "https://techcrunch.com/2022/12/23/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-148797000.jpg?resize=1200,800",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1364287046.jpg?resize=1200,800",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -207,9 +766,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/12/23/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/23/reliance-buys-23-3-stake-in-us-based-ai-firm-exyn/amp/",
-      "publishedDateTime": "2022-12-23T06:16:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2023/01/04/profet-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/01/04/profet-ai/amp/",
+      "publishedDateTime": "2023-01-03T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -232,232 +791,24 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-generative-ai-cloaked-in-mystery-and-debate.md",
-      "title": "Generative AI: Cloaked In Mystery And Debate",
-      "excerpt": "In the 19th century, the Mechanical Turk's secret was finally revealed because it was possible to open it up and peek inside. Tech leaders looking to adopt generative AI tools should keep in mind that they may never have that opportunity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/23/generative-ai-cloaked-in-mystery-and-debate/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/23/generative-ai-cloaked-in-mystery-and-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a45ca1f99aadaec61d7c6d/0x0.jpg?format=jpg&crop=1450,815,x0,y150,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/12/23/generative-ai-cloaked-in-mystery-and-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/12/23/generative-ai-cloaked-in-mystery-and-debate/amp/",
-      "publishedDateTime": "2022-12-23T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-human-artists-take-on-their-new-robot-competition.md",
-      "title": "Human Artists Take on Their New Robot Competition",
-      "excerpt": "Usually what happens is it devalues that human labor.” Three illustrators discuss art generated by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/23/business/ai-generated-illustration.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/23/business/ai-generated-illustration.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/23/business/23scratch-promo/23scratch-promo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/23/business/ai-generated-illustration.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/23/business/ai-generated-illustration.amp.html",
-      "publishedDateTime": "2022-12-23T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-forecasts-till-2029.md",
-      "title": "Automated Machine Learning (AutoML) Market Analysis Report 2023 Along with Statistics Figures, Forecasts till 2029",
-      "excerpt": "Market Report offers an Complete view about the cutthroat scene of the Automated Machine Learning (AutoML) market and incorporates a profound picture of execution by a portion of the key global players finishing on the lookout.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-forecasts-till-2029-2022-12-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-forecasts-till-2029-2022-12-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-22T23:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029.md",
-      "title": "Face Recognition Technology Market 2023 Expected to Reach Significant Rate by 2029",
-      "excerpt": "Face Recognition Technology Market 2023 Report [Report Pages-121] Insights - By Applications (Homeland Security,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2023-expected-to-reach-significant-rate-by-2029-2022-12-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-22T22:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-12-23-think-globally-act-locally-starting-small-with-ai-can-make-a-big-impact.md",
-      "title": "Think globally, act locally: Starting small with AI can make a big impact",
-      "excerpt": "Businesses should be careful and strategic in implementing AI. Determine long-term goals, start with small projects and know when to scale.",
+      "path": "_news/2023-01-04-tesla-calling-its-cars-full-self-driving-may-run-afoul-of-new-california-law.md",
+      "title": "Tesla Calling Its Cars ‘Full Self-Driving’ May Run Afoul Of New California Law",
+      "excerpt": "Tesla's description of its Full Self-Driving features notes it doesn't actually enable autonomous driving. Tesla The California Department of Motor Vehicles told Forbes by email that it “will be ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/think-globally-act-locally-starting-small-with-ai-can-make-a-big-impact/",
-      "originalUrl": "https://venturebeat.com/ai/think-globally-act-locally-starting-small-with-ai-can-make-a-big-impact/",
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2023/01/04/tesla-calling-its-cars-full-self-driving-may-run-afoul-of-new-california-law/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2023/01/04/tesla-calling-its-cars-full-self-driving-may-run-afoul-of-new-california-law/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1277718299-e1648759666670.jpg?w=1200&strip=all",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b59c86a52d7cbf6f2aae82/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -467,154 +818,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/think-globally-act-locally-starting-small-with-ai-can-make-a-big-impact/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/think-globally-act-locally-starting-small-with-ai-can-make-a-big-impact/amp/",
-      "publishedDateTime": "2022-12-22T18:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-new-ai-technology-chatgpt-raising-questions-about-human-creativity.md",
-      "title": "New AI technology ChatGPT raising questions about human creativity",
-      "excerpt": "ChatGPT is a new artificial intelligence technology that can write term papers, software and legal documents all in a matter of seconds, but it’s raising alarms about the value of human creativity. NBC News’ Jacob Ward explains why some are predicting the program could wipe out whole industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/new-ai-technology-chatgpt-raising-questions-about-human-creativity-158542405830",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/new-ai-technology-chatgpt-raising-questions-about-human-creativity-158542405830",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2022_12/1671755043198_nn_jwa_new_ai_software_replacing_creative_thought_221222_1920x1080-ocg9vf.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo158542405830",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo158542405830",
-      "publishedDateTime": "2022-12-22T16:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-madison-square-garden-uses-facial-recognition-to-ban-its-owners-enemies.md",
-      "title": "Madison Square Garden Uses Facial Recognition to Ban Its Owner’s Enemies",
-      "excerpt": "MSG Entertainment, the owner of the arena and Radio City Music Hall, has put lawyers who represent people suing it on an “exclusion list” to keep them out of concerts and sporting events.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/12/22/multimedia/00dolan-cam-2-5b5e/00dolan-cam-2-5b5e-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/nyregion/madison-square-garden-facial-recognition.amp.html",
-      "publishedDateTime": "2022-12-22T15:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-autonomous-vehicles-reality-check-part-2-moving-people.md",
-      "title": "Autonomous Vehicles Reality Check Part 2: Moving People",
-      "excerpt": "When it comes to Autonomous Vehicles, the dynamics of the technical, operational, and business factors are diverse. This Part Two of a three-part article series examines AV-enabled people-carrying. And,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/",
-      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a4de278717a0459e63361a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2022/12/22/autonomous-vehicles-reality-check-part-2-moving-people/amp/",
-      "publishedDateTime": "2022-12-22T14:19:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -642,21 +848,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-23-guaido-the-face-of-opposition-in-venezuela-may-be-on-his-way-out.md",
-      "title": "Guaidó, the Face of Opposition in Venezuela, May Be on His Way Out",
-      "excerpt": "The lawmaker may soon be voted out of power by the opposition, which no longer sees his interim government as a path to “real political change” against the country’s authoritarian regime.",
+      "path": "_news/2023-01-04-transparent-tvs-driverless-tractors-lead-top-innovations-unveiled-at-ces.md",
+      "title": "Transparent TVs, driverless tractors lead top innovations unveiled at CES",
+      "excerpt": "Tech industry members are all about innovation, but some booths at CES this week can tout their creativity more than others thanks to their accolades earned during one of the trade show’s",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/12/22/world/americas/venezuela-juan-guaido-removal.html",
-      "originalUrl": "https://www.nytimes.com/2022/12/22/world/americas/venezuela-juan-guaido-removal.html",
+      "webUrl": "https://www.reviewjournal.com/business/conventions/ces/transparent-tvs-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/",
+      "originalUrl": "https://www.reviewjournal.com/business/conventions/ces/transparent-tvs-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2022/12/22/multimedia/22venezuela-opposition1-1-2be4/22venezuela-opposition1-1-2be4-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
+          "url": "https://www.reviewjournal.com/wp-content/uploads/2023/01/17325179_web1_web1-IMG-1035.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -664,23 +870,48 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/12/22/world/americas/venezuela-juan-guaido-removal.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/12/22/world/americas/venezuela-juan-guaido-removal.amp.html",
-      "publishedDateTime": "2022-12-22T14:08:00-08:00",
+      "ampWebUrl": "https://www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/amp/",
+      "cdnAmpWebUrl": "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/ces/secure-voting-app-driverless-tractors-lead-top-innovations-unveiled-at-ces-2707199/amp/",
+      "publishedDateTime": "2023-01-03T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Las Vegas Review-Journal",
+        "domain": "reviewjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-eys3d-launches-one-stop-xink-development-platform-for-vision-equipped-robots.md",
+      "title": "eYs3D Launches One-Stop XINK Development Platform for Vision-Equipped Robots",
+      "excerpt": "PRNewswire/ -- eYs3D Microelectronics, a subsidiary of Etron Technology (TPEx: 5351. TW), a subsidiary of Etron Technology (TPEx: 5351. TW), launched at CES a state-of-the-art computer vision development platform for next-generation autonomous robotic applications such as AIoT (artificial intelligence of things),",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/01/03/9737014.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/01/03/9737014.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -694,21 +925,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-23-is-artificial-intelligence-better-at-predicting-brain-metastasis-outcomes.md",
-      "title": "Is Artificial Intelligence Better at Predicting Brain Metastasis Outcomes",
-      "excerpt": "The new artificial intelligence technique developed hopes to provide cancer patients and clinicians with better, faster information.",
+      "path": "_news/2023-01-04-intels-new-laptop-cpus-offer-24-cores-and-blistering-56ghz-speeds.md",
+      "title": "Intel’s new laptop CPUs offer 24 cores and blistering 5.6GHz speeds",
+      "excerpt": "The Movidius VPU is Intel’s AI card for PCs Intel has said before that the (14th-gen?) Meteor Lake chip will include integrated AI. “Select” 13th-gen laptops, however, will include a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/is-artificial-intelligence-predict-at-predicting-brain-metastasis-outcomes-209781-1.htm",
-      "originalUrl": "https://www.medindia.net/news/is-artificial-intelligence-predict-at-predicting-brain-metastasis-outcomes-209781-1.htm",
+      "webUrl": "https://www.pcworld.com/article/1435904/intel-launches-13th-gen-mobile-core-chips-with-endurance-gaming.html",
+      "originalUrl": "https://www.pcworld.com/article/1435904/intel-launches-13th-gen-mobile-core-chips-with-endurance-gaming.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.medindia.net/amp-images/health-images/astrocytomas-brain-tumors.jpg",
-          "width": 1200,
-          "height": 1000,
+          "url": "https://www.pcworld.com/wp-content/uploads/2023/01/13th-Gen-HX-Processors-Themed-Background-1-1.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 605,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -716,59 +947,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/is-artificial-intelligence-predict-at-predicting-brain-metastasis-outcomes-209781-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/is-artificial-intelligence-predict-at-predicting-brain-metastasis-outcomes-209781-1.htm",
-      "publishedDateTime": "2022-12-22T10:42:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T12:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-top-ai-startup-news-of-the-week-jasper-tome-imagen-ai-and-more.md",
-      "title": "Top AI startup news of the week: Jasper, Tome, Imagen AI and more",
-      "excerpt": "From generative AI applications to healthcare and biotech, these are five AI startups that made headlines over the past week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-jasper-tome-imagen-ai-and-more/",
-      "originalUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-jasper-tome-imagen-ai-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/Untitled-design-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-ai-startup-news-of-the-week-jasper-tome-imagen-ai-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-ai-startup-news-of-the-week-jasper-tome-imagen-ai-and-more/amp/",
-      "publishedDateTime": "2022-12-22T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "PC World",
+        "domain": "pcworld.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -776,49 +964,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-intel-splits-gpu-group-into-two-separate-units.md",
-      "title": "Intel splits GPU group into two separate units",
-      "excerpt": "Restructuring move puts Intel's gaming and data center products into separate categories to better serve both markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.html",
-      "originalUrl": "https://www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/hardware_circuit_board_cpu_microprocessor_motherboard_binary_code_thinkstock_614863084-100749699-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3684112/intel-splits-gpu-group-into-two-separate-units.amp.html",
-      "publishedDateTime": "2022-12-22T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -832,21 +977,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-23-eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software.md",
-      "title": "Eight-car Thanksgiving pileup blamed on Tesla “Full Self-Driving” software",
-      "excerpt": "An eight-car collision on Thanksgiving Day (Nov. 24) is now being blamed on Tesla's \"Full Self-Driving\" (FSD) assistance system. The crash took place in the Bay Area in California on I-80 and left one person hospitalized and eight others with minor injuries.",
+      "path": "_news/2023-01-04-facial-recognition-using-ai-with-aws.md",
+      "title": "Facial Recognition using AI with AWS",
+      "excerpt": "Amazon Rekognition is a cloud-based software as a service (SaaS) computer vision platform that was launched in 2016. It has been sold to and used by several United States government agencies as ...",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/",
-      "originalUrl": "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/",
+      "webUrl": "https://www.finextra.com/blogposting/23494",
+      "originalUrl": "https://www.finextra.com/blogposting/23494",
       "featuredContent": null,
       "highlight": null,
-      "heat": 267,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/tesla-warning-800x450.jpg",
-          "width": 800,
-          "height": 450,
+          "url": "https://www.finextra.com/finextra-images/visible_pictures/0fca5d20-d19f-4a5d-835e-53f3224e94a3.png",
+          "width": 500,
+          "height": 278,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -854,226 +999,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2022/12/eight-car-thanksgiving-pileup-blamed-on-tesla-full-self-driving-software/amp/",
-      "publishedDateTime": "2022-12-22T08:40:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T12:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-23-how-deep-learning-will-ignite-the-metaverse-in-2023-and-beyond.md",
-      "title": "How deep learning will ignite the metaverse in 2023 and beyond",
-      "excerpt": "Deep learning algorithms are being integrated into the metaverse to improve communication and interaction with customers and visitors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/virtual/how-deep-learning-will-ignite-the-metaverse-in-2023-and-beyond/",
-      "originalUrl": "https://venturebeat.com/virtual/how-deep-learning-will-ignite-the-metaverse-in-2023-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/deep-learning-metaverse-1.png?resize=927%2C628&strip=all",
-          "width": 927,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/virtual/how-deep-learning-will-ignite-the-metaverse-in-2023-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/how-deep-learning-will-ignite-the-metaverse-in-2023-and-beyond/amp/",
-      "publishedDateTime": "2022-12-22T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning.md",
-      "title": "Want To Invest In Artificial Intelligence? Here Are 6 Front Runners In Machine Learning",
-      "excerpt": "Artificial intelligence is the next great technological advancement that will change the way we do many things. Here are the companies leading the way from technological standpoint and an investor perspective.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63a479ab4db81071989a89e7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/12/22/want-to-invest-in-artificial-intelligence-here-are-6-front-runners-in-machine-learning/amp/",
-      "publishedDateTime": "2022-12-22T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AI in Autos",
-        "AI in Finance",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-the-opportunities-ai-is-unlocking-for-healthcare-operations.md",
-      "title": "The opportunities AI is unlocking for healthcare operations",
-      "excerpt": "AI is a crucial tool for healthcare providers today, from revenue cycle management to operational efficiencies and more.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-opportunities-ai-is-unlocking-for-healthcare-operations/",
-      "originalUrl": "https://venturebeat.com/ai/the-opportunities-ai-is-unlocking-for-healthcare-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/GettyImages-1272020099.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-opportunities-ai-is-unlocking-for-healthcare-operations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-opportunities-ai-is-unlocking-for-healthcare-operations/amp/",
-      "publishedDateTime": "2022-12-22T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-riserobotics-granted-us-patent-for-key-technology-high-reduction-belt-driven-linear-actuator.md",
-      "title": "RISE™Robotics Granted US Patent for Key Technology - High Reduction Belt-Driven Linear Actuator",
-      "excerpt": "RISE™Robotics, the Zero Emission Motion Control Company, announced today that it has been granted a key U.S. Patent for their technology, the High Reduction Belt-Driven Linear Actuator U.S. Patent",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/b30174912/rise-robotics-granted-us-patent-for-key-technology-high-reduction-belt-driven-linear-actuator",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/b30174912/rise-robotics-granted-us-patent-for-key-technology-high-reduction-belt-driven-linear-actuator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30174912",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30174912",
-      "publishedDateTime": "2022-12-22T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Finextra",
+        "domain": "finextra.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1083,26 +1015,70 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-a-brain-game-may-predict-your-risk-of-infection.md",
+      "title": "A brain game may predict your risk of infection",
+      "excerpt": "\"This is the first exposure study in humans to show that one's cognitive performance before exposure to a respiratory virus can predict the severity of the infection,\" he said. Subtle variations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230103133740.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230103133740.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T11:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-12-22-new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats.md",
-      "title": "New Version of HITRUST CSF Helps Healthcare Tackle Emerging Cybersecurity Threats",
-      "excerpt": "HITRUST will release CSF version 11 in January 2023, promising improved mitigations against emerging cybersecurity threats and an AI-based standards development toolkit.",
+      "path": "_news/2023-01-04-pretax-profits-at-tuam-driverless-car-firm-surge.md",
+      "title": "Pretax profits at Tuam driverless car firm surge",
+      "excerpt": "Pretax profits at the Tuam firm at the cutting edge of driverless car technology ... generating software intellectual property with artificial intelligence. A note with the accounts said that ...",
       "sourceUrl": null,
-      "webUrl": "https://healthitsecurity.com/news/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
-      "originalUrl": "https://healthitsecurity.com/news/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
+      "webUrl": "https://www.irishtimes.com/business/2023/01/03/pre-tax-profits-at-tuam-driverless-car-firm-surge/",
+      "originalUrl": "https://www.irishtimes.com/business/2023/01/03/pre-tax-profits-at-tuam-driverless-car-firm-surge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://healthitsecurity.com/images/sized/GettyImages-1276687348_2-39a26234983c4eca9381530cb872a66d.jpg",
-          "width": 480,
-          "height": 280,
+          "url": "https://www.irishtimes.com/resizer/DlvuTnioTDNFgvvlbQ4uAbjcVzM=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/EOZV4SVHRBLHHEVPK6IKNZKPZI.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1110,13 +1086,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
-      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/new-version-of-hitrust-csf-helps-healthcare-tackle-emerging-cybersecurity-threats",
-      "publishedDateTime": "2022-12-22T05:30:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T10:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Security",
-        "domain": "healthitsecurity.com",
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1126,110 +1102,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-leveraging-ai-in-agency-work.md",
-      "title": "Leveraging AI In Agency Work",
-      "excerpt": "Artificial intelligence has reshaped many aspects of our business, personal and social worlds—you probably interact with AI daily and may not even realize it. As AI tools and solutions become less sci-fi and more business as usual,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/12/22/leveraging-ai-in-agency-work/amp/",
-      "publishedDateTime": "2022-12-22T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-22-keep-autonomous-killing-machines-off-our-streets-opinion.md",
-      "title": "Keep Autonomous Killing Machines Off Our Streets | Opinion",
-      "excerpt": "Robots are not, yet, autonomous killing machines. Even the rule briefly considered in San Francisco, would have kept a human operator in the decision loop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564",
-      "originalUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2167946/robot-warriors.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/keep-autonomous-killing-machines-off-our-streets-opinion-1768564?amp=1",
-      "publishedDateTime": "2022-12-22T02:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
+        "AI in Autos",
         "AI"
       ]
     }

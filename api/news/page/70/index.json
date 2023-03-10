@@ -2,21 +2,21 @@
   "page": 70,
   "value": [
     {
-      "path": "_news/2023-01-09-indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles.md",
-      "title": "indie Semiconductor Developing More-advanced Vision Processors for Vehicles",
-      "excerpt": "California-based indie Semiconductor, which has an office in Auburn Hills, has announced a strategic partnership with Seeing Machines.",
+      "path": "_news/2023-01-11-how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-customers.md",
+      "title": "How a utility giant is using data analytics, machine learning to benefit customers",
+      "excerpt": "By moving away from legacy systems and towards the cloud, utility firm EDF UK is delivering an array of innovative machine learning products.",
       "sourceUrl": null,
-      "webUrl": "https://www.dbusiness.com/tech-mobility-news/indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles/",
-      "originalUrl": "https://www.dbusiness.com/tech-mobility-news/indie-semiconductor-developing-more-advanced-vision-processors-for-vehicles/",
+      "webUrl": "https://venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2023/01/TMN-SeeingMachine400.jpg",
-          "width": 400,
-          "height": 263,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-505464673-e1646666749497.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 599,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,93 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:55:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/how-a-utility-giant-is-using-data-analytics-machine-learning-to-benefit-its-customers/amp/",
+      "publishedDateTime": "2023-01-10T18:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "DBusiness Magazine",
-        "domain": "dbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-natural-language-processing-market-size-worth-usd-16181-billion-by-2029-report-by-fortune-business-insights.md",
-      "title": "Natural Language Processing Market size Worth USD 161.81 Billion by 2029 | Report by Fortune Business Insights",
-      "excerpt": "Moreover, rising adoption of electronics elevated natural language processing adoption. Also rapid digitalization in companies enhanced the adoption of the software. These factors enhanced this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/g30329142/natural-language-processing-market-size-worth-usd-161-81-billion-by-2029-report-by-fortune-busines",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/g30329142/natural-language-processing-market-size-worth-usd-161-81-billion-by-2029-report-by-fortune-busines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-australian-gov-renews-ibm-contract-for-quantum-computing-ai.md",
-      "title": "Australian gov renews IBM contract for quantum computing, AI",
-      "excerpt": "This includes IBM’s suite of technology capabilities like IBM Watson, which uses AI to automate processes, and the IBM Cloud, to store government data. The new agreement follows the first of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/public-sector/369819/australian-gov-renews-ibm-contract-for-quantum-computing-ai",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/public-sector/369819/australian-gov-renews-ibm-contract-for-quantum-computing-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1673259843/itpro/2023/January/IBM_DTA_Australia_press.png",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T03:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -126,26 +49,28 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI"
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
-      "path": "_news/2023-01-09-nvidia-is-allegedly-working-on-ai-optimized-gpu-drivers-to-deliver-a-massive-performance-boost.md",
-      "title": "NVIDIA Is Allegedly Working On AI-Optimized GPU Drivers To Deliver A Massive Performance Boost",
-      "excerpt": "Sound advice for rumors and leaks in general, but point taken. According to CapFrameX, NVIDIA's AI-optimized GPU drivers would deliver up to 30 percent better performance, with gamers being able ...",
+      "path": "_news/2023-01-11-build-and-deploy-ai-everywhere-with-a-universal-ai-platform.md",
+      "title": "Build and deploy AI everywhere with a universal AI platform",
+      "excerpt": "A universal AI platform has the flexibility to run every AI code, scope to empower every developer, and scale to enable AI everywhere.",
       "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/nvidia-ai-optimized-gpu-drivers-massive-performance-boost",
-      "originalUrl": "https://hothardware.com/news/nvidia-ai-optimized-gpu-drivers-massive-performance-boost",
+      "webUrl": "https://venturebeat.com/ai/build-and-deploy-ai-everywhere-with-a-universal-ai-platform/",
+      "originalUrl": "https://venturebeat.com/ai/build-and-deploy-ai-everywhere-with-a-universal-ai-platform/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hothardware.com/contentimages/newsitem/60604/content/NVIDIA_GeForce_Logo_Hero.jpg",
-          "width": 708,
-          "height": 400,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1081869346.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -153,14 +78,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/nvidia-ai-optimized-gpu-drivers-massive-performance-boost",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ai-optimized-gpu-drivers-massive-performance-boost",
-      "publishedDateTime": "2023-01-09T03:27:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/ai/build-and-deploy-ai-everywhere-with-a-universal-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/build-and-deploy-ai-everywhere-with-a-universal-ai-platform/amp/",
+      "publishedDateTime": "2023-01-10T17:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -174,114 +108,19 @@
       ]
     },
     {
-      "path": "_news/2023-01-09-2023-is-all-about-analytics.md",
-      "title": "2023 is all about analytics",
-      "excerpt": "That’s cloud-based analytics tools. Companies seem to understand this. At a recent analyst conference, Snowflake CFO Mike Scarpelli talked about competitive dynamics in the data warehousing market. “We are never competing with Teradata [an incumbent data analytics company founded in the on-premises software era].",
+      "path": "_news/2023-01-11-self-driving-tesla-causes-eight-vehicle-crash-injures-child.md",
+      "title": "Self-Driving Tesla Causes Eight-Vehicle Crash, Injures Child",
+      "excerpt": "New footage just dropped of a Tesla self-driving accident that caused a pileup on the San Francisco Bay Bridge and resulted in a toddler being injured.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3684830/2023-is-all-about-analytics.html",
-      "originalUrl": "https://www.infoworld.com/article/3684830/2023-is-all-about-analytics.html",
+      "webUrl": "https://futurism.com/the-byte/self-driving-tesla-crash-footage",
+      "originalUrl": "https://futurism.com/the-byte/self-driving-tesla-crash-footage",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/article/2022/11/istock-1188134154-100934502-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3684830/2023-is-all-about-analytics.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3684830/2023-is-all-about-analytics.amp.html",
-      "publishedDateTime": "2023-01-09T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-hdfc-limited-is-certified-as-a-best-firm-for-data-scientists.md",
-      "title": "HDFC Limited is certified as a Best Firm For Data Scientists",
-      "excerpt": "The Best Firm For Data Scientists certification surveys a company’s data scientists and analytics employees to identify and recognise organisations with great company culture.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/hdfc-limited-is-certified-as-a-best-firm-for-data-scientists/",
-      "originalUrl": "https://analyticsindiamag.com/hdfc-limited-is-certified-as-a-best-firm-for-data-scientists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/1.-Press-Release-Banner-1-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-a-closer-look-at-the-major-players-in-the-space-ground-station-services-market.md",
-      "title": "A Closer Look at the Major Players in the Space Ground Station Services Market",
-      "excerpt": "The Space Ground Station Services Marketresearch report by Markntel Advisors covers and provides an articulate",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/a-closer-look-at-the-major-players-in-the-space-ground-station-services-market-2023-01-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/a-closer-look-at-the-major-players-in-the-space-ground-station-services-market-2023-01-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://wp-assets.futurism.com/2023/01/self-driving-tesla-crash-footage.jpg",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -293,487 +132,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T02:11:00-08:00",
+      "publishedDateTime": "2023-01-10T16:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-intelligence-market-report-2023-2029-industry-trends-forecasts-analysis-by-top-leaders-growth-share-regional-segment.md",
-      "title": "Intelligence Market Report 2023-2029: Industry Trends, Forecasts & Analysis by Top Leaders, Growth & Share, Regional Segment",
-      "excerpt": "Intelligence Market report provides an in depth analysis of worldwide market size. It also includes regional and country-level market size and segmentation, market growth, market share, competitive Landscape,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/intelligence-market-report-2023-2029-industry-trends-forecasts-analysis-by-top-leaders-growth-share-regional-segment-2023-01-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/intelligence-market-report-2023-2029-industry-trends-forecasts-analysis-by-top-leaders-growth-share-regional-segment-2023-01-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T02:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-applying-machine-learning-to-everyday-life.md",
-      "title": "Applying Machine Learning to Everyday Life",
-      "excerpt": "Machine learning impacts all of our lives daily. The use of navigation, online purchases, social media browsing, or streaming services is all impacted",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/applying-machine-learning-to-everyday-life-nid-10444.html",
-      "originalUrl": "https://www.cioapplications.com/news/applying-machine-learning-to-everyday-life-nid-10444.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/6w3sccioapp450-308.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-ai-turns-its-artistry-to-creating-new-human-proteins.md",
-      "title": "A.I. Turns Its Artistry to Creating New Human Proteins",
-      "excerpt": "To generate images, DALL-E relies on what artificial intelligence researchers call a neural network, a mathematical system loosely modeled on the network of neurons in the brain. This is the same ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.html",
-      "originalUrl": "https://www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/01/03/autossell/00SCI-PROTEINGS-vid1cover/00SCI-PROTEINGS-vid1cover-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/09/science/artificial-intelligence-proteins.amp.html",
-      "publishedDateTime": "2023-01-09T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-heres-what-you-need-to-know-about-artificial-intelligence.md",
-      "title": "Here’s what you need to know about artificial intelligence",
-      "excerpt": "AI is broadly defined in 2 categories: artificial narrow intelligence (ANI) and artificial general intelligence (AGI). AGI does not yet exist",
-      "sourceUrl": null,
-      "webUrl": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/heres-what-you-need-to-know-about-artificial-intelligence/",
-      "originalUrl": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/heres-what-you-need-to-know-about-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T00:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Startup Daily",
-        "domain": "startupdaily.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share.md",
-      "title": "Forecast 2028 for the Deep Learning in CT Scanners Market in terms of size, returns, gross margin, and market share",
-      "excerpt": "Deep Learning in CT Scanners Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/forecast-2028-for-the-deep-learning-in-ct-scanners-market-in-terms-of-size-returns-gross-margin-and-market-share-2023-01-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T21:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-healthcare-decision-support-ibm-watson-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand.md",
-      "title": "Healthcare Decision Support & IBM Watson Forecast for 2028, Market 2023, Global Industry Trends, Share, Size, Growth, Analysis, Demand",
-      "excerpt": "Healthcare Decision Support and IBM Watson Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-decision-support-ibm-watson-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-decision-support-ibm-watson-forecast-for-2028-market-2023-global-industry-trends-share-size-growth-analysis-demand-2023-01-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T21:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-the-expanding-ease-and-utility-of-text-analytics-and-natural-language-processing.md",
-      "title": "The expanding ease and utility of text analytics and natural language processing",
-      "excerpt": "Statistical model techniques also produce the benefit of accelerating tradi- tional natural language processing (NLP) methods to reduce their time-to-value. Conversely, pairing these conventional methods with their newer statistical counterparts heightens ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=156495",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/150767-JH_123.jpg-ORG.jpg",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-deep-learning-system-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028.md",
-      "title": "Deep Learning System Market 2023 Statistics, Industry Share, Latest Trends, Growth Drivers, Size Estimate and Forecast till 2028",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Deep Learning System",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2023-01-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-2023-statistics-industry-share-latest-trends-growth-drivers-size-estimate-and-forecast-till-2028-2023-01-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T19:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-deep-learning-computing-stick-market-reliable-business-data-analysis-and-forecast-by-2028.md",
-      "title": "Deep Learning Computing Stick Market Reliable Business Data Analysis and Forecast by 2028",
-      "excerpt": "Further, the SWOT analysis & other techniques are utilized to investigate this data & provide an informed perspective on the state of the business to assist design the best growth strategy for any vendors or to current penetration into the present & and likely direction of the global Deep Learning Computing Stick market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-reliable-business-data-analysis-and-forecast-by-2028-2023-01-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-reliable-business-data-analysis-and-forecast-by-2028-2023-01-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-aurora-sees-driverless-trucks-on-the-road-in-2024.md",
-      "title": "Aurora Sees Driverless Trucks On the Road in 2024",
-      "excerpt": "Every day, self-driving trucks carrying FedEx packages make repeated runs between Dallas and Houston, and between Fort Worth and El Paso. At least for now, those trucks rumbling through Texas have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "originalUrl": "https://www.barrons.com/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-697502/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/aurora-self-driving-cars-trucks-ces-51672953849",
-      "publishedDateTime": "2023-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
+        "name": "Futurism",
+        "domain": "futurism.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -788,62 +151,19 @@
       ]
     },
     {
-      "path": "_news/2023-01-09-computer-vision-maps-christmas-lights.md",
-      "title": "Computer Vision Maps Christmas Lights",
-      "excerpt": "For some things, hooking up a relay to a microcontroller can get the job done, but [Andy] has turned to computer vision to solve some of the more time-consuming aspects of these displays.",
+      "path": "_news/2023-01-11-artificial-intelligence-ai-accelerator-market-2023-trends-industry-structure-development-demographics-developing-factors-by-2028.md",
+      "title": "Artificial Intelligence (AI) Accelerator Market 2023 : Trends, Industry Structure, Development, Demographics, Developing Factors By 2028",
+      "excerpt": "Jan 11, 2023 (The Expresswire) -- Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence (AI) Accelerator industry. \"Artificial ...",
       "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/",
-      "originalUrl": "https://hackaday.com/2020/11/03/computer-vision-maps-christmas-lights/",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-2023-trends-industry-structure-development-demographics-developing-factors-by-2028-2023-01-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-accelerator-market-2023-trends-industry-structure-development-demographics-developing-factors-by-2028-2023-01-11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://hackaday.com/wp-content/uploads/2020/10/led-light-map-main.jpg",
-          "width": 1195,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-force-control-in-actuators-and-robot-end-effectors.md",
-      "title": "Force Control in Actuators and Robot End Effectors",
-      "excerpt": "Motors and end effectors come in many shapes and sizes but compared to actuators that transport an object from point A to B, end effectors also integrate force sensing to ensure that objects being ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.machinedesign.com/learning-resources/white-papers/whitepaper/21257479/force-control-in-actuators-and-robot-end-effectors",
-      "originalUrl": "https://www.machinedesign.com/learning-resources/white-papers/whitepaper/21257479/force-control-in-actuators-and-robot-end-effectors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2023/01/force_control_1540x800.63b71e3c7ef35.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -855,263 +175,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T16:00:00-08:00",
+      "publishedDateTime": "2023-01-10T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Machine Design",
-        "domain": "machinedesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards.md",
-      "title": "Google Deepmind Creates Bizarre Magic: The Gathering and Hearthstone Cards",
-      "excerpt": "Google Deepmind may be dominant at the game of Go, but it’s still struggling when it comes to card games like Magic: The Gathering and Hearthstone. Still, researchers fully intend to push it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards",
-      "originalUrl": "https://www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.bustle.com/inverse/90/d3/d5/8c/4e82/4e62/844a/065f95f6925b/nissa-the-vastwood-seer.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards/amp",
-      "cdnAmpWebUrl": "https://www-inverse-com.cdn.ampproject.org/c/s/www.inverse.com/article/13400-google-deepmind-creates-bizarre-magic-the-gathering-and-hearthstone-cards/amp",
-      "publishedDateTime": "2023-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inverse",
-        "domain": "inverse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-ibm-inks-725-million-deal-so-public-servants-can-tap-key-technologies.md",
-      "title": "IBM inks $725 million deal so public servants can tap key technologies",
-      "excerpt": "The agreement gives agencies access to IBM’s strong capabilities in artificial intelligence automation – through its Watson offering – quantum technologies, enterprise level cybersecurity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.afr.com/technology/ibm-inks-725-million-deal-so-public-servants-can-tap-key-technologies-20230109-p5cb9d",
-      "originalUrl": "https://www.afr.com/technology/ibm-inks-725-million-deal-so-public-servants-can-tap-key-technologies-20230109-p5cb9d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_124%2C$y_24/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/bb46d47c6b3bf55c7f32123a9918b988d44c6180",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian Financial Review",
-        "domain": "afr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-new-adaptive-radiation-therapy-unit-first-of-its-kind-in-canada.md",
-      "title": "New adaptive radiation therapy unit first of its kind in Canada",
-      "excerpt": "BC Cancer- Kelowna gives Global News a tour of the \"Ethos Adaptive Therapy Unit\". This machine will provide quicker treatment plans and is the only one in Canada currently.",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/9395281/new-adaptive-radiation-therapy-unit-first-of-its-kind-in-canada/",
-      "originalUrl": "https://globalnews.ca/news/9395281/new-adaptive-radiation-therapy-unit-first-of-its-kind-in-canada/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://globalnews.ca/wp-content/uploads/2023/01/Adaptive-radiation-therapy-pic.bmp?w=720&h=379&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions.md",
-      "title": "Protecting Critical Utilities Customers and Assets with Computer Vision AI Solutions",
-      "excerpt": "To continuously deliver electricity successfully and safely at good rates, Utilities must make use of emerging technologies such as computer vision, analytics and AI to increase efficiency, maintain operations, and improve the safety and security of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tdworld.com/resources/webinars/webinar/21256517/protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions",
-      "originalUrl": "https://www.tdworld.com/resources/webinars/webinar/21256517/protecting-critical-utilities-customers-and-assets-with-computer-vision-ai-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.tdworld.com/files/base/ebm/tdworld/image/2022/12/dreamstime_xxl_132528154.63a0768d0c203.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T08:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "T&D",
-        "domain": "tdworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-08-artificial-intelligence-ai-to-drive-growth-for-healthcare-sector-in-the-uae-says-al-tamimi-investments.md",
-      "title": "Artificial Intelligence (AI) to drive growth for healthcare sector in the UAE says Al Tamimi Investments",
-      "excerpt": "The global healthcare industry is expected to grow by $563.59 billion during 2023-2027, accelerating at a CAGR of 25.8% d",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105398200/Artificial-Intelligence-AI-to-drive-growth-for-healthcare-sector-in-the-UAE-says-Al-Tamimi-Investments",
-      "originalUrl": "https://menafn.com/1105398200/Artificial-Intelligence-AI-to-drive-growth-for-healthcare-sector-in-the-UAE-says-Al-Tamimi-Investments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-08-innocent-black-man-jailed-after-facial-recognition-got-it-wrong-his-lawyer-says.md",
-      "title": "Innocent Black Man Jailed After Facial Recognition Got It Wrong, His Lawyer Says",
-      "excerpt": "He was locked up for nearly a week. A facial recognition tool identified Reid as a suspect in the theft of the luxury purses, and that was all the cops needed to put him in jail, according to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/facial-recognition-randall-reid-black-man-error-jail-1849944231",
-      "originalUrl": "https://gizmodo.com/facial-recognition-randall-reid-black-man-error-jail-1849944231",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/25a6c8e0f24c0d1114215b09de0fbb1b.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-07T22:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1127,7 +198,949 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-fda-approves-new-alzheimers-drug-designed-to-slow-cognitive-decline.md",
+      "title": "FDA Approves New Alzheimer’s Drug Designed to Slow Cognitive Decline",
+      "excerpt": "On Friday, the Food and Drug Administration approved an Alzheimer’s drug shown in clinical trials to slow cognitive decline ... for Medicare & Medicaid Services currently limits coverage of ...",
+      "sourceUrl": null,
+      "webUrl": "https://thesource.com/2023/01/10/fda-approves-new-alzheimers-drug-designed-to-slow-cognitive-decline/",
+      "originalUrl": "https://thesource.com/2023/01/10/fda-approves-new-alzheimers-drug-designed-to-slow-cognitive-decline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thesource.com/wp-content/uploads/2023/01/SynapseAnd-NeuronCellsSendingElectricalChemicalSignals3DIllustration.jpg",
+          "width": 1024,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T15:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Source Magazine",
+        "domain": "thesource.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space.md",
+      "title": "Geospatial industry investor Keith Masback joins board of directors of Cognitive Space",
+      "excerpt": "WASHINGTON — Cognitive Space, a startup based in Houston, Texas, announced Jan. 10 the appointment of Keith Masback as an independent board member. Masback is a former National Geospatial ...",
+      "sourceUrl": null,
+      "webUrl": "https://spacenews.com/geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space/",
+      "originalUrl": "https://spacenews.com/geospatial-industry-investor-keith-masback-joins-board-of-directors-of-cognitive-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T14:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SpaceNews",
+        "domain": "spacenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-advances-in-artificial-intelligence-raise-new-ethics-concerns.md",
+      "title": "Advances in artificial intelligence raise new ethics concerns",
+      "excerpt": "In recent months, new artificial intelligence tools have garnered attention, and concern, over their ability to produce original work. The creations range from college-level essays to computer code and works of art.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
+      "originalUrl": "https://www.pbs.org/newshour/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/ai-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/advances-in-artificial-intelligence-raise-new-ethics-concerns",
+      "publishedDateTime": "2023-01-10T14:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-son-helps-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow.md",
+      "title": "Son helps dad see self-reliance does not end when driving stops: Roadshow",
+      "excerpt": "Q: When in his early 80s, my dad drove us to shoot pool at his local senior center during one of my visits. He had always been an excellent driver, but I was horrified and scared that day. After we made it back to his house,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/",
+      "originalUrl": "https://www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/01/eoak0627dmv03.jpg?w=1024&h=639",
+          "width": 1024,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/01/10/son-helps-older-dad-see-self-reliance-does-not-end-when-driving-stops-roadshow/amp/",
+      "publishedDateTime": "2023-01-10T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-the-chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot.md",
+      "title": "The ChatGPT revolution? Microsoft seems to have very big plans for this AI chatbot",
+      "excerpt": "Microsoft could be ready to spend billions on ChatGPT and extend use of the chatbot through its products according to reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/",
+      "originalUrl": "https://www.zdnet.com/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8b07af62c2f5d55bfbf11acd970989eb2dafbda2/2023/01/09/6c3b972b-a36f-4f06-9911-5b5a967144e7/gettyimages-1245391800.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-revolution-microsoft-seems-to-have-very-big-plans-for-this-ai-chatbot/",
+      "publishedDateTime": "2023-01-10T12:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-how-generative-ai-and-e-coli-are-speeding-up-new-drug-discovery.md",
+      "title": "How generative AI and E. coli are speeding up new drug discovery",
+      "excerpt": "Absci announced that its generative AI model has been able to create an entirely new antibody in software using E. coli bacteria.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-generative-ai-and-e-coli-are-speeding-up-new-drug-discovery/",
+      "originalUrl": "https://venturebeat.com/ai/how-generative-ai-and-e-coli-are-speeding-up-new-drug-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-582649612-e1673314524211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 839,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-generative-ai-and-e-coli-are-speeding-up-new-drug-discovery/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-generative-ai-and-e-coli-are-speeding-up-new-drug-discovery/amp/",
+      "publishedDateTime": "2023-01-10T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-intel-plots-a-path-to-universal-ai-with-4th-gen-xeon-scalable-cpu.md",
+      "title": "Intel plots a path to ‘universal AI’ with 4th Gen Xeon Scalable CPU",
+      "excerpt": "and generative AI. According to Intel, the initial training for LLMs will still typically require some form of discrete GPU such as the Intel Max Series GPUs. That said, for more common use cases ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/intel-plots-a-path-to-universal-ai-with-4th-gen-zeon-scalable-gpu%EF%BF%BC%EF%BF%BC/",
+      "originalUrl": "https://venturebeat.com/ai/intel-plots-a-path-to-universal-ai-with-4th-gen-zeon-scalable-gpu%EF%BF%BC%EF%BF%BC/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/01/VB_Intel-xeo-4_1200px.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/intel-plots-a-path-to-universal-ai-with-4th-gen-zeon-scalable-gpu%EF%BF%BC%EF%BF%BC/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-plots-a-path-to-universal-ai-with-4th-gen-zeon-scalable-gpu%EF%BF%BC%EF%BF%BC/amp/",
+      "publishedDateTime": "2023-01-10T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-smartcard-marketing-systems-inc-otcsmkg-company-overview-for-2023-chatbot-ai-spotlight.md",
+      "title": "Smartcard Marketing Systems Inc. (OTC:SMKG) Company Overview For 2023 & Chatbot AI Spotlight",
+      "excerpt": "MKG highlights its acquisition of ChatBot AI Code library and embedded strategy for multiple use cases including Fintech, Blockchain, Cro",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105409173/Smartcard-Marketing-Systems-Inc-OTCSMKG-Company-Overview-For-2023-Chatbot-AI-Spotlight",
+      "originalUrl": "https://menafn.com/1105409173/Smartcard-Marketing-Systems-Inc-OTCSMKG-Company-Overview-For-2023-Chatbot-AI-Spotlight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?636402",
+          "width": 312,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-the-ai-tailwinds-how-arista-networks-is-a-prime-beneficiary.md",
+      "title": "The AI Tailwinds: How Arista Networks Is A Prime Beneficiary",
+      "excerpt": "Arista is a pure play on AI data center buildout as it has no direct retail exposure. See why ANET stock is a prime candidate to be accumulated on any weakness.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4569067-the-ai-tailwinds-how-arista-networks-is-a-prime-beneficiary",
+      "originalUrl": "https://seekingalpha.com/article/4569067-the-ai-tailwinds-how-arista-networks-is-a-prime-beneficiary",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/157647179/image_157647179.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T11:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-large-language-models-in-2023-worth-the-hype.md",
+      "title": "Large Language Models in 2023: Worth the Hype?",
+      "excerpt": "“The best and most proven example of this is in NLP (natural language processing) where techniques called Masked Language Modelling (making the model predict hidden words in sentences) and Causal Language Modeling (making the model predict the next word ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2023/01/10/large-language-models-in-2023-worth-the-hype/",
+      "originalUrl": "https://www.datanami.com/2023/01/10/large-language-models-in-2023-worth-the-hype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/01/chat_shutterstock_Adao-300x212.jpg",
+          "width": 300,
+          "height": 212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-report-microsoft-could-invest-10b-in-openai-at-29b-valuation.md",
+      "title": "Report: Microsoft could invest $10B in OpenAI at $29B valuation",
+      "excerpt": "The sources believe that Microsoft could be joined by multiple venture capital firms in the investment. Internal OpenAI documents reportedly suggest that the group had sought to close the investment by the end of 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/01/10/report-microsoft-invest-10b-openai-29b-valuation/",
+      "originalUrl": "https://siliconangle.com/2023/01/10/report-microsoft-invest-10b-openai-29b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/microsoft.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-ub-awarded-20-million-to-establish-national-ai-institute-to-help-children-with-speech-language-disorders.md",
+      "title": "UB awarded $20 million to establish national AI institute to help children with speech, language disorders",
+      "excerpt": "The National Science Foundation-funded effort will address the nationwide shortage of speech-language pathologists, ensure at-risk children receive assistance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/news/releases/2023/01/004.html",
+      "originalUrl": "https://www.buffalo.edu/news/releases/2023/01/004.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2023/01/004/_jcr_content/par/image.img.512.auto.jpg/1673369362064.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T10:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-breakingviews-microsofts-ai-bet-heads-i-win-tails-i-also-win.md",
+      "title": "Breakingviews: Microsoft’s AI bet: heads I win, tails I also win",
+      "excerpt": "I-win, tails-I-also win, AI deal. A mooted $10 billion investment, reported by Semafor, in the maker of the popular ChatGPT, could reshape Microsoft’s software business. Even if it flops, CEO Satya Nadella will slow a rival,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/breakingviews/microsofts-ai-bet-heads-i-win-tails-i-also-win-2023-01-10/",
+      "originalUrl": "https://www.reuters.com/breakingviews/microsofts-ai-bet-heads-i-win-tails-i-also-win-2023-01-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/rwNtFLLSNeCujhZe8fmQf3oxg1c=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VFTFO3NHBVLKNGZZOK6AJE437U.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-microsofts-ai-bet-heads-i-win-tails-i-also-win.md",
+      "title": "Microsoft’s AI bet: heads I win, tails I also win",
+      "excerpt": "I-win, tails-I-also win, AI deal. A mooted $10 billion investment, reported by Semafor, in the maker of the popular ChatGPT, could reshape Microsoft’s software business. Even if it flops, CEO Satya Nadella will slow a rival,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-microsoft-openai-breakingviews-idDEKBN2TP1HN",
+      "originalUrl": "https://www.reuters.com/article/us-microsoft-openai-breakingviews-idDEKBN2TP1HN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20230110&t=2&i=1619635774&r=LYNXMPEJ090PD&w=800",
+          "width": 728,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-donotpays-first-robot-lawyer-to-take-on-speeding-tickets-in-court-via-ai.md",
+      "title": "DoNotPay's 'first robot lawyer' to take on speeding tickets in court via AI",
+      "excerpt": "Recent advancements in artificial intelligence have allowed bots to translate text, create art and even write essays.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.html",
+      "originalUrl": "https://techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-court.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-01-donotpay-robot-lawyer-tickets-court.amp",
+      "publishedDateTime": "2023-01-10T09:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-using-a-standardized-test-battery-to-compare-cognitive-and-behavioral-traits-in-dog-breeds-update.md",
+      "title": "Using a standardized test battery to compare cognitive and behavioral traits in dog breeds (Update)",
+      "excerpt": "The work by the team involved assessing participants in a commercial cognitive test battery (smartDOG), which had been developed by Katriina Tiira, one of the members on the research team. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-01-standardized-battery-smartest-dog.html",
+      "originalUrl": "https://phys.org/news/2023-01-standardized-battery-smartest-dog.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/using-a-standardized-t.jpg",
+          "width": 1770,
+          "height": 1060,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-01-standardized-battery-smartest-dog.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-standardized-battery-smartest-dog.amp",
+      "publishedDateTime": "2023-01-10T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-what-does-it-really-take-to-be-a-leader-when-it-comes-to-cloud-databases.md",
+      "title": "What does it really take to be a leader when it comes to cloud databases?",
+      "excerpt": "Or it could be that Gartner positioned AWS highest in execution and furthest in vision in its 2022 Magic Quadrant for Cloud DBMS. In fact, both points support each other, says the company. AWS has become a leader in the cloud-native database market precisely because it pays such close attention to what customers need from their database infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2023/01/10/what_does_it_really_take/?td=rt-9bq",
+      "originalUrl": "https://www.theregister.com/2023/01/10/what_does_it_really_take/?td=rt-9bq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-houston-community-college-reveals-first-two-bachelors-degree-programs.md",
+      "title": "Houston Community College reveals first two bachelor’s degree programs",
+      "excerpt": "Students can obtain a four-year degree in Applied Technology in Artificial Intelligence and Robotics and Applied Science in Healthcare Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/",
+      "originalUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.hpm.io/wp-content/uploads/2022/09/22150424/HBU_Aerial-450x294.jpg",
+          "width": 450,
+          "height": 294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/amp/",
+      "cdnAmpWebUrl": "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/amp/",
+      "publishedDateTime": "2023-01-10T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Public Media",
+        "domain": "houstonpublicmedia.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-robotics-team-begins-their-season-with-annual-kickoff-event.md",
+      "title": "Robotics team begins their season with annual kickoff event",
+      "excerpt": "On Saturday, January 7 the Robotics team of just over 50 members watched an international Twitch livestream of the season kickoff, which is watched by teams internationally. An animation was shown to introduce the game for the season,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mvnews.org/robotics-team-begins-their-season-with-annual-kickoff-event/",
+      "originalUrl": "https://www.mvnews.org/robotics-team-begins-their-season-with-annual-kickoff-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mvnews.org/wp-content/uploads/2023/01/Screen-Shot-2023-01-10-at-8.23.25-AM-900x423.png",
+          "width": 900,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mill Valley News",
+        "domain": "mvnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-how-ai-is-being-used-to-improve-mental-health.md",
+      "title": "How AI is being used to improve mental health",
+      "excerpt": "Mental health continues to be an area of great need in our society, according to the World Health Organization, approximately 1 in 4 people in the world will be affected by mental health disorders at some point in their lives.",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/accessibility/how-ai-is-being-used-to-improve-mental-health/",
+      "originalUrl": "https://blogs.microsoft.com/accessibility/how-ai-is-being-used-to-improve-mental-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.microsoft.com/wp-content/uploads/prod/sites/172/2023/01/Mental-health-article-main-hero-image-1024x683.png",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-11-artificial-intelligence-deep-learning-model-for-mapping-wetlands-yields-94-accuracy.md",
+      "title": "Artificial Intelligence Deep Learning Model for Mapping Wetlands Yields 94% Accuracy",
+      "excerpt": "Chesapeake Conservancy’s Data Science Team Publishes Article in “Science of the Total Environment” Annapolis, MD – Chesapeake Conservancy’s data science team developed an artificial intelligence deep learning model for mapping wetlands ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.directionsmag.com/pressrelease/12026",
+      "originalUrl": "https://www.directionsmag.com/pressrelease/12026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmpublisher.s3.us-west-2.amazonaws.com/2023/January/10/7/ccd1cc1a-ce14-4801-8238-379214b79d70-sized",
+          "width": 800,
+          "height": 1065,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Directions Magazine",
+        "domain": "directionsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

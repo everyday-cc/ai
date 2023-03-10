@@ -2,6 +2,259 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-12-20-2022-the-year-in-ai-and-robotics.md",
+      "title": "2022 - the year in AI and Robotics",
+      "excerpt": "However, ChatGPT’s impressive ability to write poetry to order was often superior to its grasp of physics and other subjects, suggesting that we may face years of false information being accepted as fact simply because an AI gave it in answer to a question.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/2022-year-ai-and-robotics",
+      "originalUrl": "https://diginomica.com/2022-year-ai-and-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2022-12/Screenshot%202022-12-16%20at%2011.33.54.png",
+          "width": 1536,
+          "height": 726,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-20T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "AI Ethics",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-6-ibm-cybersecurity-predictions-for-2023-ransomware-and-caas-will-spike.md",
+      "title": "6 IBM cybersecurity predictions for 2023: Ransomware and CaaS will spike",
+      "excerpt": "Recently, IBM Security and the X-Force threat research ... Intelligent Security Summit On-Demand Learn the critical role of AI & ML in cybersecurity and industry specific case studies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/ibm-cybersecurity-predictions/",
+      "originalUrl": "https://venturebeat.com/security/ibm-cybersecurity-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-how-ibms-watson-could-disrupt-medical-imaging.md",
+      "title": "How IBM's Watson Could Disrupt Medical Imaging",
+      "excerpt": "\"If IBM can make Watson AI products for image analytics clinically relevant and seamlessly integrate these tools into the EMR, control of the radiology IT market will increasingly shift away from traditional radiology IT vendors. It may even force a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/how-ibms-watson-could-disrupt-medical-imaging",
+      "originalUrl": "https://www.mddionline.com/how-ibms-watson-could-disrupt-medical-imaging",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-ibm-to-acquire-octo.md",
+      "title": "IBM to Acquire Octo",
+      "excerpt": "Since Arvind Krishna became CEO of IBM in April 2020, IBM has acquired more than 25 companies, bolstering its hybrid cloud and artificial intelligence capabilities. IBM has announced an agreement to acquire Octo, a U.S.-based IT modernization and digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hstoday.us/industry/industry-news/ibm-to-acquire-octo/",
+      "originalUrl": "https://www.hstoday.us/industry/industry-news/ibm-to-acquire-octo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hstoday.us/wp-content/uploads/2022/12/IBM-2020-AR-Arvind_1800x2400_1b_crop.jpg",
+          "width": 1572,
+          "height": 1065,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Homeland Security Today",
+        "domain": "hstoday.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-artificial-intelligence-ai-in-alzheimers-applications-market-with-tremendous-growth-by-2029-ibm-pfizer-inc.md",
+      "title": "Artificial Intelligence (AI) in Alzheimers Applications Market with Tremendous growth by 2029 IBM, Pfizer, Inc.",
+      "excerpt": "IBM, Pfizer, Inc., Alzheimer, Netflix, Facebook, Aamzon, BenevolentAI, This study estimates the factors that are boosting the development of the global Artificial Intelligence (AI) in Alzheimers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-alzheimers-applications-market-with-tremendous-growth-by-2029-ibm-pfizer-inc",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-alzheimers-applications-market-with-tremendous-growth-by-2029-ibm-pfizer-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Artificial-Intelligence-AI-in-Alzheimers-Applications.jpg",
+          "width": 712,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-12-artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation.md",
+      "title": "Artificial intelligence (AI) in Logistics Market Is Booming Worldwide IBM, Google, Microsoft Corporation",
+      "excerpt": "New Jersey, United States, Dec 11, 2022 /DigitalJournal/ The global Artificial intelligence (AI ... companies Influencing this Market include: IBM, Google, Microsoft Corporation, Amazon Web ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Artificial-intelligence-AI-in-Logistics.jpg",
+          "width": 712,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-11T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-how-ai-and-the-latest-technologies-can-accelerate-progress-on-sustainability-goals.md",
       "title": "How AI and the Latest Technologies Can Accelerate Progress on Sustainability Goals",
       "excerpt": "With businesses increasingly running more modern applications which can draw more power, reducing energy consumption across the data center becomes even more important with emerging technologies like AI. At IBM, we believe that hybrid cloud and AI ...",

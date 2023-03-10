@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-10-data-and-ai-ethics-market-environment-development-trend-in-2023.md",
+      "title": "Data and AI Ethics Market Environment Development Trend In 2023",
+      "excerpt": "Data and AI Ethics Market 2023 with 110 Pages Report and enhance with extents shares into sub-counties are covered in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-environment-development-trend-in-2023-2023-03-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-environment-development-trend-in-2023-2023-03-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T18:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-ai-in-2023-ethics-in-the-spotlight.md",
+      "title": "AI In 2023: Ethics In The Spotlight",
+      "excerpt": "US firm Getty",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
+      "originalUrl": "https://www.barrons.com/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP1952584778056026783150258099093848347974-technology-computing-ai-society-politics-1.jpg",
+          "width": 1536,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
+      "publishedDateTime": "2023-03-08T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-stability-ai-hugging-face-and-canva-back-new-ai-research-nonprofit.md",
       "title": "Stability AI, Hugging Face and Canva back new AI research nonprofit",
       "excerpt": "Eleuther AI, a group of AI researchers investigating language models, is forming a nonprofit foundation for AI research.",
@@ -41,6 +136,92 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai.md",
+      "title": "Richard Kyte: Here are the ethical questions we should be asking about AI",
+      "excerpt": "Most expert predictions, however, fall somewhere between those two extremes, depending largely on how the companies designing and implementing AI models deal with a number of ethical concerns. Those concerns are focused on things like who will have oversight,",
+      "sourceUrl": null,
+      "webUrl": "https://greensboro.com/opinion/columnists/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_6c281643-09e3-57a2-b917-fdb3ddb196a0.html",
+      "originalUrl": "https://greensboro.com/opinion/columnists/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_6c281643-09e3-57a2-b917-fdb3ddb196a0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/6/c2/6c281643-09e3-57a2-b917-fdb3ddb196a0/63ff7d4405d21.preview.jpg?crop=703%2C369%2C32%2C69&resize=703%2C369&order=crop%2Cresize",
+          "width": 703,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T18:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News & Record",
+        "domain": "greensboro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast.md",
+      "title": "How will artificial intelligence reshape our world? | The Ethical Life podcast",
+      "excerpt": "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other.",
+      "sourceUrl": null,
+      "webUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
+      "originalUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/4/f0/4f0cd688-a294-5d1b-aad8-c741806100e4/63ff740138a57.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Casper Star-Tribune",
+        "domain": "trib.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -240,6 +421,59 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should.md",
+      "title": "ChatGPT and ethical decision making: It’s not what can be done, but what should",
+      "excerpt": "It’s important to remember that ChatGPT is an impressive research ... the Microsoft AI chatbot Tay, which was shut down after it began posting offensive tweets, and Facebook bots that created ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should/",
+      "originalUrl": "https://venturebeat.com/ai/chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should/amp/",
+      "publishedDateTime": "2023-02-24T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI",
         "AI Ethics"
       ]
@@ -1201,188 +1435,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-accuracy-ethics-must-be-at-centre-of-ai-race.md",
-      "title": "Accuracy, ethics must be at centre of AI race",
-      "excerpt": "In a world where unregulated tech is causing havoc and eroding democratic ideals, questions of ethics, accuracy and transparency will have to be front and centre in the months and years to come",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/editorials/accuracy-ethics-must-be-at-centre-of-ai-race-101675779472759.html",
-      "originalUrl": "https://www.hindustantimes.com/editorials/accuracy-ethics-must-be-at-centre-of-ai-race-101675779472759.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-ai-battle-royale-erupts-with-google-bard-versus-microsoft-openai-chatgpt-stoking-ai-ethics-and-ai-law-concerns.md",
-      "title": "AI Battle Royale Erupts With Google Bard Versus Microsoft OpenAI ChatGPT, Stoking AI Ethics And AI Law Concerns",
-      "excerpt": "Google has announced they will be releasing a generative AI app called Bard, based on their Lambda AI app. Microsoft is going to incorporate OpenAI ChatGPT into Bing. The AI wars are getting avidly underway.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/06/ai-battle-royale-erupts-with-google-bard-versus-microsoft-openai-chatgpt-stoking-ai-ethics-and-ai-law-concerns/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/06/ai-battle-royale-erupts-with-google-bard-versus-microsoft-openai-chatgpt-stoking-ai-ethics-and-ai-law-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-google-hopes-bard-will-outsmart-chatgpt-microsoft-in-ai.md",
-      "title": "Google hopes 'Bard' will outsmart ChatGPT, Microsoft in AI",
-      "excerpt": "ARTIFICIAL INTELLIGENCE IS SHAKING UP THE WAY WE CREATE ART ... TEACHERS ARE CONCERNED ABOUT PLAGIARISM AND THE ETHICS OF LETTING A COMPUTER DO THE TYPING AND THE THINKING. A COMPUTER SCIENCE STUDENT AT PRINCETON UNIVERSITY BELIEVES HE HAS A SOLUTION.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wmur.com/article/google-bard-chatgpt-microsoft-ai/42781857",
-      "originalUrl": "https://www.wmur.com/article/google-bard-chatgpt-microsoft-ai/42781857",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WMUR",
-        "domain": "wmur.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-advanced-ai-in-criminals-hands-is-a-danger-we-should-guard-against.md",
-      "title": "Advanced AI in criminals’ hands is a danger we should guard against",
-      "excerpt": "Opinion - Generative AI can write essays, code software, create music and art, and hold conversations. It is exciting, but what happens when they're turned to illegal uses?",
-      "sourceUrl": null,
-      "webUrl": "https://www.rnz.co.nz/news/national/483764/advanced-ai-in-criminals-hands-is-a-danger-we-should-guard-against",
-      "originalUrl": "https://www.rnz.co.nz/news/national/483764/advanced-ai-in-criminals-hands-is-a-danger-we-should-guard-against",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "rnz",
-        "domain": "rnz.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-openai-release-classifier-to-identify-text-written-by-ai.md",
-      "title": "OpenAI Release Classifier to Identify Text Written by AI",
-      "excerpt": "A new tool can reveal whether writing has been made by a human or AI. The tool could help mitigate disputes and identify misinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/software/3491131/openai-release-classifier-to-identify-text-written-by-ai/",
-      "originalUrl": "https://techreport.com/software/3491131/openai-release-classifier-to-identify-text-written-by-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

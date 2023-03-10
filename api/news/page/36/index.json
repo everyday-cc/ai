@@ -2,12 +2,12 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2023-02-06-enterprise-artificial-intelligence-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations.md",
-      "title": "Enterprise Artificial Intelligence Market Size 2023 With Strategic Choice-Making Process, Identification of Main Corporations",
-      "excerpt": "Enterprise Artificial Intelligence Market Size 2023-2029 | New Report (113 Pages) | In This Reports Enterprise",
+      "path": "_news/2023-02-07-exploring-gpt-3s-artificial-intelligence-from-a-psychologists-point-of-view.md",
+      "title": "Exploring GPT-3's 'artificial intelligence' from a psychologist's point of view",
+      "excerpt": "Researchers at the Max Planck Institute for Biological Cybernetics in Tübingen have examined the general intelligence of the language model GPT-3, a powerful AI tool. Using psychological tests, they studied competencies such as causal reasoning and deliberation,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-size-2023-with-strategic-choice-making-process-identification-of-main-corporations-2023-02-05",
+      "webUrl": "https://techxplore.com/news/2023-02-exploring-gpt-artificial-intelligence-psychologist.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-exploring-gpt-artificial-intelligence-psychologist.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -17,149 +17,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T19:56:00-08:00",
+      "publishedDateTime": "2023-02-06T08:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-ai-in-media-and-entertainment-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029.md",
-      "title": "Artificial Intelligence (AI) in Media and Entertainment Market Size 2023 With Regional Scope, Report Coverage, Historic Data, Outlook 2029",
-      "excerpt": "Artificial Intelligence (AI) in Media and Entertainment Market Size 2023-2029 | New Report (118 Pages) | In This",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-media-and-entertainment-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-media-and-entertainment-market-size-2023-with-regional-scope-report-coverage-historic-data-outlook-2029-2023-02-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T19:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-in-platform-as-a-service-paas-market-size-2023-will-touch-new-level-in-upcoming-year.md",
-      "title": "Artificial Intelligence in Platform as a Service (PaaS) Market Size 2023 Will Touch New Level in Upcoming Year",
-      "excerpt": "Artificial Intelligence in Platform as a Service (PaaS) Market Size 2023-2029 | New Report (124 Pages) | In This",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-size-2023-will-touch-new-level-in-upcoming-year-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-platform-as-a-service-paas-market-size-2023-will-touch-new-level-in-upcoming-year-2023-02-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T19:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-2023-current-status-and-future-prospects-of-data-science-and-machine-learning-service-market.md",
-      "title": "2023, Current Status and Future Prospects Of Data Science and Machine Learning Service Market",
-      "excerpt": "Data Science and Machine Learning Service Market Size 2023-2029 | New Report (102 Pages) | In This Reports Data Science",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/2023-current-status-and-future-prospects-of-data-science-and-machine-learning-service-market-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/2023-current-status-and-future-prospects-of-data-science-and-machine-learning-service-market-2023-02-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T19:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -173,12 +36,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-artificial-intelligence-in-construction-market-share-analysis-environment-development-trend-in-2023.md",
-      "title": "Artificial Intelligence in Construction Market Share Analysis, Environment Development Trend In 2023",
-      "excerpt": "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Artificial Intelligence in Construction Market Report includes data on research and development,",
+      "path": "_news/2023-02-07-in-depth-analysis-of-the-face-recognition-technology-market-key-findings-throughout-by-2026.md",
+      "title": "In-Depth Analysis of the Face Recognition Technology Market | Key Findings Throughout by 2026",
+      "excerpt": "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-share-analysis-environment-development-trend-in-2023-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-share-analysis-environment-development-trend-in-2023-2023-02-05",
+      "webUrl": "https://www.marketwatch.com/press-release/in-depth-analysis-of-the-face-recognition-technology-market-key-findings-throughout-by-2026-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/in-depth-analysis-of-the-face-recognition-technology-market-key-findings-throughout-by-2026-2023-02-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -188,7 +51,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T19:41:00-08:00",
+      "publishedDateTime": "2023-02-06T08:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -211,16 +74,103 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-opinion-self-driving-cars-still-need-drivers-its-dangerous-to-say-otherwise.md",
-      "title": "Opinion: Self-driving cars still need drivers. It's dangerous to say otherwise",
-      "excerpt": "The issue is not necessarily these vehicles, but the speed with which manufacturers are trying to push them out and advertise them as autonomous.",
+      "path": "_news/2023-02-07-openai-says-chatgpt-must-be-regulated-meanwhile-get-ready-for-ai-audits-the-ai-beat.md",
+      "title": "OpenAI says ChatGPT must be regulated. Meanwhile, get ready for AI audits | The AI Beat",
+      "excerpt": "AI regulation is coming, and quickly, Those laws will often require AI audits, so companies need to get ready.",
       "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/opinion/2023/02/06/tesla-dangerous-to-oversell-self-driving-car-capabilities/69870065007/",
-      "originalUrl": "https://www.detroitnews.com/story/opinion/2023/02/06/tesla-dangerous-to-oversell-self-driving-car-capabilities/69870065007/",
+      "webUrl": "https://venturebeat.com/ai/openai-says-chatgpt-must-be-regulated-meanwhile-get-ready-for-ai-audits-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/openai-says-chatgpt-must-be-regulated-meanwhile-get-ready-for-ai-audits-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/openai-says-chatgpt-must-be-regulated-meanwhile-get-ready-for-ai-audits-the-ai-beat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-says-chatgpt-must-be-regulated-meanwhile-get-ready-for-ai-audits-the-ai-beat/amp/",
+      "publishedDateTime": "2023-02-06T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-spacex-put-a-tesla-sportscar-into-space-five-years-ago-where-is-it-now.md",
+      "title": "SpaceX put a Tesla sportscar into space five years ago. Where is it now?",
+      "excerpt": "SpaceX launched a Tesla roadster belonging to company founder and billionaire Elon Musk in 2018, and what's left of the car may still be in orbit today.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2023/02/06/world/spacex-elon-musk-tesla-roadster-five-years-scn",
+      "originalUrl": "https://edition.cnn.com/2023/02/06/world/spacex-elon-musk-tesla-roadster-five-years-scn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/02/06/world/spacex-elon-musk-tesla-roadster-five-years-scn/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/06/world/spacex-elon-musk-tesla-roadster-five-years-scn/index.html",
+      "publishedDateTime": "2023-02-06T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-healthcare-crm-market-to-surpass-usd-3154-billion-by-2028-owing-to-key-technological-breakthroughs-brandessence-market-research.md",
+      "title": "Healthcare CRM Market to Surpass USD 31.54 billion by 2028 owing to Key Technological Breakthroughs | Brandessence Market Research",
+      "excerpt": "The Healthcare CRM Market is anticipated to reach a valuation of USD 31.54 Billion by 2028 from USD 12.53 Billion in 2021, registering a CAGR of 14.1% over the forecast duration of 2022-2028. The healthcare industry is anticipated to experience a surge in the demand for Customer Relationship Management (CRM) solutions due to the growing requirement for structured data and automation within healthcare organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-healthcare-crm-market-surpass-usd-3154-billion-2028-/2023/02/06/9755426.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-healthcare-crm-market-surpass-usd-3154-billion-2028-/2023/02/06/9755426.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -230,11 +180,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T18:59:00-08:00",
+      "publishedDateTime": "2023-02-06T08:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -244,85 +194,19 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands.md",
-      "title": "Scams, deepfake porn and romance bots: advanced AI is exciting, but incredibly dangerous in criminals’ hands",
-      "excerpt": "One of the biggest headlines in the gaming community last week involved a deepfake porn scandal. Such material is one example of how generative AI can cause immense harm.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands-199004",
-      "originalUrl": "https://theconversation.com/scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands-199004",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands-199004",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/scams-deepfake-porn-and-romance-bots-advanced-ai-is-exciting-but-incredibly-dangerous-in-criminals-hands-199004",
-      "publishedDateTime": "2023-02-05T18:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-worlds-first-ai-university-mohamed-bin-zayed-university-of-artificial-intelligence-honors-inaugural-graduates.md",
-      "title": "World's first AI university, Mohamed bin Zayed University of Artificial Intelligence honors inaugural graduates",
-      "excerpt": "Master's graduates in computer vision and machine learning collect degrees in historic UAE ceremony (MBZUAI) in Abu Dhabi, celebrated its inaugural commencement on January 30 with 52 students from 24 countries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswit.com/en/Lz8H",
-      "originalUrl": "https://www.newswit.com/en/Lz8H",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "academy",
-        "domain": "newswit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Microsoft AI",
+        "AI",
         "AI in Healthcare",
-        "AI"
+        "AI in Sales"
       ]
     },
     {
-      "path": "_news/2023-02-06-data-and-ai-ethics-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029.md",
-      "title": "Data and AI Ethics Market : An Exclusive Study On Upcoming Trends And Growth Opportunities From 2023-2029",
-      "excerpt": "In 2023] The Global Data and AI Ethics Market Size (110 Report Pages) is estimated to be worth USD million in 2021 and",
+      "path": "_news/2023-02-06-latent-technology-raises-21m-to-blend-ai-and-game-animations.md",
+      "title": "Latent Technology raises $2.1M to blend AI and game animations",
+      "excerpt": "Latent Technology has raised $2.1 million to build the next-generation animation technology for virtual worlds and game characters.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-an-exclusive-study-on-upcoming-trends-and-growth-opportunities-from-2023-2029-2023-02-05",
+      "webUrl": "https://venturebeat.com/games/latent-technology-raises-2-1m-to-blend-ai-and-game-animations/",
+      "originalUrl": "https://venturebeat.com/games/latent-technology-raises-2-1m-to-blend-ai-and-game-animations/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -330,16 +214,16 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:48:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/games/latent-technology-raises-2-1m-to-blend-ai-and-game-animations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/latent-technology-raises-2-1m-to-blend-ai-and-game-animations/amp/",
+      "publishedDateTime": "2023-02-06T07:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -355,17 +239,16 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-speech-and-voice-recognition-market-is-booming-worldwide-including-104-pages-report.md",
-      "title": "Speech and Voice Recognition Market Is Booming Worldwide | Including 104 Pages Report",
-      "excerpt": "In 2023] The Global Speech and Voice Recognition Market Size (104 Report Pages) is estimated to be worth USD million",
+      "path": "_news/2023-02-06-pinecone-now-available-on-aws-marketplace-and-gcp-marketplace.md",
+      "title": "Pinecone now available on AWS Marketplace and GCP Marketplace",
+      "excerpt": "Pinecone Systems Inc., a machine learning (ML) infrastructure company, today announced that it is now available on the Amazon Web Services (AWS) Marketplace, as well as the",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-including-104-pages-report-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-including-104-pages-report-2023-02-05",
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30735121/pinecone-now-available-on-aws-marketplace-and-gcp-marketplace",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30735121/pinecone-now-available-on-aws-marketplace-and-gcp-marketplace",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -375,447 +258,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-artificial-intelligence-ai-robots-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2029.md",
-      "title": "Artificial Intelligence (AI) Robots Market Size Related To Time And Cost Is Expected To Grow The Industry In Upcoming Years To 2029",
-      "excerpt": "In 2023] The Global Artificial Intelligence (AI) Robots Market Size (110 Report Pages) is estimated to be worth",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2029-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2029-2023-02-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-cloud-ai-developer-services-market-size-2023-with-economical-benchmarking-old-statistics-forecasts-company-returns-shares.md",
-      "title": "Cloud AI Developer Services Market Size 2023 With Economical Benchmarking, Old Statistics & Forecasts, Company Returns Shares",
-      "excerpt": "In 2023] The Global Cloud AI Developer Services Market Size (116 Report Pages) is estimated to be worth USD million",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-size-2023-with-economical-benchmarking-old-statistics-forecasts-company-returns-shares-2023-02-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-size-2023-with-economical-benchmarking-old-statistics-forecasts-company-returns-shares-2023-02-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-ai-likely-to-be-more-disruptive-than-first-five-years-of-social-media.md",
-      "title": "AI 'likely to be more disruptive' than first five years of social media",
-      "excerpt": "“It might be good if research on this possibility ... they are the furthest ahead. Google and Facebook are “top-tier” when it came to AI development. One engineer believed Google’s LaMDA ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stuff.co.nz/business/131140875/ai-likely-to-be-more-disruptive-than-first-five-years-of-social-media",
-      "originalUrl": "https://www.stuff.co.nz/business/131140875/ai-likely-to-be-more-disruptive-than-first-five-years-of-social-media",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resources.stuff.co.nz/content/dam/images/4/z/3/6/6/a/image.related.StuffLandscapeSixteenByNine.1420x800.262sy3.png/1675808983769.jpg",
-          "width": 1420,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stuff.co.nz",
-        "domain": "stuff.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-from-cozmo-to-vector-how-anki-designs-robots-with-emotional-intelligence.md",
-      "title": "From Cozmo to Vector: How Anki Designs Robots With Emotional Intelligence",
-      "excerpt": "Anki, the company behind Cozmo, says its mission is to “create robots that move you,” combining robotics and artificial intelligence to create technologies with which people can build emotional bonds. Cozmo isn't an industrial robot by any stretch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
-      "originalUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Vector_Lifestyle_007_noLogo.jpg",
-          "width": 6504,
-          "height": 3659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-heavy-rotation-cognitives-rob-wharton.md",
-      "title": "Heavy Rotation: Cognitive’s Rob Wharton",
-      "excerpt": "Psycroptic has been at it a long time, and let’s face it: the Haley Brothers are straight machines. Joe’s riffs are incredible, and the best of both technical and catchy worlds. “Enslavement” starts with a very Gojira-type groove that just drops ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.metalsucks.net/2023/02/06/heavy-rotation-cognitives-rob-wharton/",
-      "originalUrl": "https://www.metalsucks.net/2023/02/06/heavy-rotation-cognitives-rob-wharton/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-p.smehost.net/sites/2ed48fdcc3904f548299cd86d78e9885/wp-content/uploads/2023/02/cognitive_robwharton.jpeg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MetalSucks",
-        "domain": "metalsucks.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-microsoft-adds-ways-for-customers-on-ai-with-azure.md",
-      "title": "Microsoft Adds Ways for Customers on AI with Azure",
-      "excerpt": "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-polypill-targeting-cv-risk-factors-may-slow-functional-but-not-cognitive-decline.md",
-      "title": "Polypill Targeting CV Risk Factors May Slow Functional, but Not Cognitive, Decline",
-      "excerpt": "However, an analysis from the International Polycap Study (TIPS-3) showed that its use alone or in combination with aspirin was not associated with a slowing of cognitive decline compared with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/987896",
-      "originalUrl": "https://www.medscape.com/viewarticle/987896",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/dt_230201_green_red_capsules_800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-self-driving-laboratories-do-research-on-autopilot.md",
-      "title": "Self-Driving Laboratories Do Research On Autopilot",
-      "excerpt": "The concept of the self-driving laboratory aims to do exactly that, and could revolutionize materials research in particular. Materials research is a complex field and a challenging one to work in.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/09/29/self-driving-laboratories-do-research-on-autopilot/",
-      "originalUrl": "https://hackaday.com/2022/09/29/self-driving-laboratories-do-research-on-autopilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-marin-voice-pushing-for-biodiverse-solutions-at-cop15.md",
-      "title": "Marin Voice: Pushing for biodiverse solutions at COP15",
-      "excerpt": "It’s a trendy little acronym that means a lot. COP, which is short for “Conference of Parties,” has become slang for a meeting in one of three parallel sequences held to implement the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinij.com/2023/02/05/marin-voice-pushing-for-biodiverse-solutions-at-cop15/",
-      "originalUrl": "https://www.marinij.com/2023/02/05/marin-voice-pushing-for-biodiverse-solutions-at-cop15/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marinij.com/2023/02/05/marin-voice-pushing-for-biodiverse-solutions-at-cop15/amp/",
-      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/02/05/marin-voice-pushing-for-biodiverse-solutions-at-cop15/amp/",
-      "publishedDateTime": "2023-02-05T14:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marin Independent Journal",
-        "domain": "marinij.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-generative-ai-drives-an-explosion-in-compute-the-looming-need-for-sustainable-ai.md",
-      "title": "Generative AI drives an explosion in compute: The looming need for sustainable AI",
-      "excerpt": "There’s one problem with this generative AI explosion, though: Every time DALL-E creates an image or GPT-3 predicts the next word, this requires multiple inference calculations that add up to significant electrical demand.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/02/05/generative-ai-drives-explosion-compute-looming-need-sustainable-ai/",
-      "originalUrl": "https://siliconangle.com/2023/02/05/generative-ai-drives-explosion-compute-looming-need-sustainable-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-brainchip-partners-with-ai-labs-on-next-generation-application-development.md",
-      "title": "BrainChip Partners with AI Labs on Next-Generation Application Development",
-      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/ac30722766/brainchip-partners-with-ai-labs-on-next-generation-application-development",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/ac30722766/brainchip-partners-with-ai-labs-on-next-generation-application-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30722766",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30722766",
-      "publishedDateTime": "2023-02-05T13:30:00-08:00",
+      "publishedDateTime": "2023-02-06T07:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -829,40 +272,31 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-natural-language-processing-creates-an-audit-trail-for-risk-adjustment.md",
-      "title": "Natural language processing creates an audit trail for risk adjustment",
-      "excerpt": "Improving the Patient Financial Experience Throughout the Patient Journey While many healthcare providers believe that improving the patient financial experience is a critical step for their organization, few have done so successfully. Read this brief to ...",
+      "path": "_news/2023-02-06-ai-startup-cohere-in-talks-to-raise-funding-at-us6-billion-plus-valuation-report.md",
+      "title": "AI startup Cohere in talks to raise funding at US$6 billion plus valuation: Report",
+      "excerpt": "Cohere, an AI foundation model company that competes with Microsoft-backed OpenAI, is in talks to raise hundreds of millions of dollars in a funding round that could value the startup at more than US$6 billion,",
       "sourceUrl": null,
-      "webUrl": "https://www.healthcarefinancenews.com/news/natural-language-processing-creates-audit-trail-risk-adjustment",
-      "originalUrl": "https://www.healthcarefinancenews.com/news/natural-language-processing-creates-audit-trail-risk-adjustment",
+      "webUrl": "https://www.channelnewsasia.com/business/ai-startup-cohere-talks-raise-funding-us6-billion-plus-valuation-report-3257521",
+      "originalUrl": "https://www.channelnewsasia.com/business/ai-startup-cohere-talks-raise-funding-us6-billion-plus-valuation-report-3257521",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/Calculator.Kiyoshi.Hijiki_7.jpg",
-          "width": 724,
-          "height": 458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T12:40:00-08:00",
+      "publishedDateTime": "2023-02-06T07:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Healthcare Finance News",
-        "domain": "healthcarefinancenews.com",
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -872,17 +306,17 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age.md",
-      "title": "Artificial intelligence uncovers lost work by titan of Spain’s ‘Golden Age’",
-      "excerpt": "Discovery of Lope de Vega play could lead to other important finds, researchers say",
+      "path": "_news/2023-02-06-hscs-stock-alert-heartsciences-receives-israeli-patent-for-ai-heart-disease-detector.md",
+      "title": "HSCS Stock Alert: HeartSciences Receives Israeli Patent for AI Heart-Disease Detector",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/Anastasia Zagoruyko HeartSciences (NASDAQ:HSCS)",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age?ref=futurepedia",
-      "originalUrl": "https://www.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age?ref=futurepedia",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/hscs-stock-alert-heartsciences-receives-israeli-patent-for-ai-heart-disease-detector-1032070760",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/hscs-stock-alert-heartsciences-receives-israeli-patent-for-ai-heart-disease-detector-1032070760",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -890,9 +324,205 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
-      "publishedDateTime": "2023-02-05T12:28:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-ai-stocks-rally-in-latest-wall-street-craze-sparked-by-chatgpt.md",
+      "title": "AI stocks rally in latest Wall Street craze sparked by ChatGPT",
+      "excerpt": "Shares of C3.ai Inc, BigBear.ai and SoundHound AI extended a rally on Monday as artificial intelligence becomes a new buzzword on Wall Street with the viral success of ChatGPT chatbot, attracting interest from retail punters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-stocks-rally-latest-wall-street-craze-sparked-by-chatgpt-2023-02-06/",
+      "originalUrl": "https://www.reuters.com/technology/ai-stocks-rally-latest-wall-street-craze-sparked-by-chatgpt-2023-02-06/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-an-extension-of-ferminet-to-discover-quantum-phase-transitions.md",
+      "title": "An extension of FermiNet to discover quantum phase transitions",
+      "excerpt": "In 2020, Google's British AI subsidiary DeepMind used a new ANN architecture dubbed the Fermionic neural network (FermiNet) to solve the Schrodinger equation for electrons in molecules, a central problem in the field of chemistry. The Schroedinger equation ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.html",
+      "originalUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-extension-of-fermin.jpg",
+          "width": 2880,
+          "height": 1288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-extension-ferminet-quantum-phase-transitions.amp",
+      "publishedDateTime": "2023-02-06T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-3-etfs-for-the-artificial-intelligence-boom.md",
+      "title": "3 ETFs for the Artificial Intelligence Boom",
+      "excerpt": "Enthusiasm for ChatGPT is having a positive effect on a slew of other AI equities as highlighted by the fact that the Nasdaq CTA Artificial Intelligence and Robotics Index is higher by 19.60% year-to-date,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom",
+      "originalUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-etfs-for-the-artificial-intelligence-boom?amp",
+      "publishedDateTime": "2023-02-06T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-radiology-imaging-associates-launches-the-enhanced-breast-cancer.md",
+      "title": "Radiology Imaging Associates Launches the Enhanced Breast Cancer",
+      "excerpt": "RadNet is a global leader in the development and use of AI for cancer screening, and the use of AI is significantly featured in the Enhanced Breast Cancer Detection service. \"AI is dramatically improving our detection capability and overall quality,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-radiology-imaging-associates-launches-enhanced-breast-cancer-detection-/2023/02/06/9755322.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-radiology-imaging-associates-launches-enhanced-breast-cancer-detection-/2023/02/06/9755322.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-were-going-through-a-big-revolution-how-ai-is-de-ageing-stars-on-screen.md",
+      "title": "‘We’re going through a big revolution’: how AI is de-ageing stars on screen",
+      "excerpt": "Stars like Tom Hanks and Harrison Ford are being rendered younger digitally but voices in the industry express concern about where we might be heading",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/film/2023/feb/06/de-ageing-on-screen-ai-artificial-intelligence-film",
+      "originalUrl": "https://www.theguardian.com/film/2023/feb/06/de-ageing-on-screen-ai-artificial-intelligence-film",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/film/2023/feb/06/de-ageing-on-screen-ai-artificial-intelligence-film",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2023/feb/06/de-ageing-on-screen-ai-artificial-intelligence-film",
+      "publishedDateTime": "2023-02-06T07:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -919,12 +549,12 @@
       ]
     },
     {
-      "path": "_news/2023-02-06-mayo-clinic-explores-use-of-artificial-intelligence-is-it-hype-or-help.md",
-      "title": "Mayo Clinic explores use of artificial intelligence. Is it hype or help?",
-      "excerpt": "Artificial intelligence can now act as an artist or a writer. Does that mean AI is ready to play doctor? Many institutions, including Mayo Clinic, believe that AI is ready to become a useful tool.",
+      "path": "_news/2023-02-06-ai-image-generators-that-create-close-copies-could-be-a-legal-headache.md",
+      "title": "AI image generators that create close copies could be a legal headache",
+      "excerpt": "Artificial intelligence models trained on millions of images can occasionally reproduce near-perfect copies, researchers have found, which could be significant for ongoing copyright infringement lawsu",
       "sourceUrl": null,
-      "webUrl": "https://www.duluthnewstribune.com/health/mayo-clinic-explores-use-of-artificial-intelligence-is-it-hype-or-help",
-      "originalUrl": "https://www.duluthnewstribune.com/health/mayo-clinic-explores-use-of-artificial-intelligence-is-it-hype-or-help",
+      "webUrl": "https://www.newscientist.com/article/2358066-ai-image-generators-that-create-close-copies-could-be-a-legal-headache/",
+      "originalUrl": "https://www.newscientist.com/article/2358066-ai-image-generators-that-create-close-copies-could-be-a-legal-headache/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -934,11 +564,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T12:26:00-08:00",
+      "publishedDateTime": "2023-02-06T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Duluth News Tribune",
-        "domain": "duluthnewstribune.com",
+        "name": "New Scientist",
+        "domain": "newscientist.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -948,17 +578,16 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-02-06-california-voice-state-can-address-economic-disparities-between-coastal-inland-regions.md",
-      "title": "California Voice: State can address economic disparities between coastal, inland regions",
-      "excerpt": "California is an economic powerhouse. It is a center of innovation and birthplace to world-leading enterprises – and may soon become the world’s fourth largest economy. But this is only half of",
+      "path": "_news/2023-02-06-ai-startup-cohere-in-talks-to-raise-funding-at-6-billion-plus-valuation-sources.md",
+      "title": "AI Startup Cohere In Talks To Raise Funding At $6 Billion Plus Valuation -sources",
+      "excerpt": "Cohere, an AI foundation model company that competes with Microsoft-backed OpenAI, is in talks to raise hundreds of millions of dollars in a funding round that could value the startup at more than $6 billion,",
       "sourceUrl": null,
-      "webUrl": "https://www.marinij.com/2023/02/05/california-voice-state-can-address-economic-disparities-between-coastal-inland-regions/",
-      "originalUrl": "https://www.marinij.com/2023/02/05/california-voice-state-can-address-economic-disparities-between-coastal-inland-regions/",
+      "webUrl": "https://www.ibtimes.com/ai-startup-cohere-talks-raise-funding-6-billion-plus-valuation-sources-3664907",
+      "originalUrl": "https://www.ibtimes.com/ai-startup-cohere-talks-raise-funding-6-billion-plus-valuation-sources-3664907",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -966,13 +595,81 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.marinij.com/2023/02/05/california-voice-state-can-address-economic-disparities-between-coastal-inland-regions/amp/",
-      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/02/05/california-voice-state-can-address-economic-disparities-between-coastal-inland-regions/amp/",
-      "publishedDateTime": "2023-02-05T12:25:00-08:00",
+      "ampWebUrl": "https://www.ibtimes.com/ai-startup-cohere-talks-raise-funding-6-billion-plus-valuation-sources-3664907?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ai-startup-cohere-talks-raise-funding-6-billion-plus-valuation-sources-3664907?amp=1",
+      "publishedDateTime": "2023-02-06T06:54:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Marin Independent Journal",
-        "domain": "marinij.com",
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-gpt-3s-artificial-intelligence-from-a-psychologists-point-of-view.md",
+      "title": "GPT-3's Artificial Intelligence from a Psychologist’s Point of View",
+      "excerpt": "GPT-3's Artificial Intelligence from ... Researchers at the Max Planck Institute for Biological Cybernetics in Tübingen have examined the general intelligence of the language model GPT-3, a powerful AI tool.",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news808850",
+      "originalUrl": "https://idw-online.de/de/news808850",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-silicom-reports-continued-edge-networking-momentum-design-win-with-leading-provider-of-ip-voice-solutions.md",
+      "title": "Silicom Reports Continued Edge Networking Momentum: Design Win With Leading Provider of IP Voice Solutions",
+      "excerpt": "Silicom Ltd. (NASDAQ: SILC), a leading provider of networking and data infrastructure solutions, today announced that it has secured its first Design Win with a leading provider of enterprise voice solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/02/06/9755296.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/02/06/9755296.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -983,6 +680,269 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-latent-technology-raises-21m-to-bring-generative-ai-to-video-games.md",
+      "title": "Latent Technology raises $2.1M to bring generative AI to video games",
+      "excerpt": "Latent Technology, a U.K.-based startup that’s building AI-based tech for developing video games, has raised $2.1 million in pre-seed funding led by Root Ventures and Spark Capital, with Bitkraft also participating.",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/2023/02/06/latent-technology-21-million-generative-ai-video-games",
+      "originalUrl": "https://www.axios.com/2023/02/06/latent-technology-21-million-generative-ai-video-games",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-openai-release-classifier-to-identify-text-written-by-ai.md",
+      "title": "OpenAI Release Classifier to Identify Text Written by AI",
+      "excerpt": "A new tool can reveal whether writing has been made by a human or AI. The tool could help mitigate disputes and identify misinformation.",
+      "sourceUrl": null,
+      "webUrl": "https://techreport.com/software/3491131/openai-release-classifier-to-identify-text-written-by-ai/",
+      "originalUrl": "https://techreport.com/software/3491131/openai-release-classifier-to-identify-text-written-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tech Report",
+        "domain": "techreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-big-tech-companies-use-cloud-computing-arms-to-pursue-alliances-with-ai-groups.md",
+      "title": "Big Tech companies use cloud computing arms to pursue alliances with AI groups",
+      "excerpt": "The deal cemented Microsoft’s position as exclusive infrastructure provider to one of the world’s leading AI startups. Chief executive Satya Nadella claimed that Microsoft had built a supercomputer to handle the OpenAI work,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2023/02/big-tech-companies-use-cloud-computing-arms-to-pursue-alliances-with-ai-groups/2/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/02/big-tech-companies-use-cloud-computing-arms-to-pursue-alliances-with-ai-groups/2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-breaking-news-competegg-reveals-artificial-intelligence-roadmap-and-2023-growth-initiatives.md",
+      "title": "Breaking News: Compete.gg reveals artificial intelligence roadmap and 2023 growth initiatives",
+      "excerpt": "Since rebranding our Compete.gg platform last Spring, we have increased the number of game titles and enhanced the platform functionalities, allowing us to more than double the number of users,” said Leigh Hughes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/breaking-news-compete-gg-reveals-artificial-intelligence-roadmap-and-2023-growth-initiatives/",
+      "originalUrl": "https://www.financialbuzz.com/breaking-news-compete-gg-reveals-artificial-intelligence-roadmap-and-2023-growth-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing.md",
+      "title": "Google Chrome browser gets Nvidia RTX GPU tech that could revolutionize Netflix viewing",
+      "excerpt": "Like DLSS, RTX Video Super Resolution (VSR) uses AI to upscale the footage and can ... Those with an RTX 2000 family GPU aren’t able to benefit – at least not initially (we’ll come back ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing",
+      "originalUrl": "https://www.techradar.com/news/google-chrome-browser-gets-nvidia-rtx-gpu-tech-that-could-revolutionize-netflix-viewing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Bb49HmrSaaKB2AstTQAioW-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-nlp-leader-humaai-launches-industrys-first-generative-ai-platform-for-life-sciences.md",
+      "title": "NLP Leader Huma.AI Launches Industry's First Generative AI Platform for Life Sciences",
+      "excerpt": "Enterprise Generative AI Focused on Life Sciences to Bring Life-Saving Drugs to Market Faster PALO ALTO, Calif. (PRWEB) 06, 2023 Huma.AI, a leading healthcare AI company, announced today the launch of",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/p30731429/nlp-leader-huma-ai-launches-industrys-first-generative-ai-platform-for-life-sciences",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/p30731429/nlp-leader-huma-ai-launches-industrys-first-generative-ai-platform-for-life-sciences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30731429",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30731429",
+      "publishedDateTime": "2023-02-06T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-chinas-tianjin-to-hold-7th-world-intelligence-congress-in-may.md",
+      "title": "China's Tianjin to hold 7th World Intelligence Congress in May",
+      "excerpt": "A visitor interacts with a robot at the 6th World Intelligence Congress held in Tianjin, June 24, 2022. [Photo/Xinhua] TIANJIN - North China's Tianjin municipality is scheduled to hold the seventh World Intelligence Congress,",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202302/06/WS63e0fa40a31057c47ebad36a.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202302/06/WS63e0fa40a31057c47ebad36a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

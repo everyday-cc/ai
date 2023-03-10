@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i.guim.co.uk/img/media/b203a24df13f8e10601d5418c5e7c20df45e6c17/0_0_4794_3190/master/4794.jpg?width=620&quality=85&auto=format&fit=max&s=69f96087e4e5beadbdd47f45fd7808cf"

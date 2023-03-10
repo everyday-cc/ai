@@ -2,6 +2,653 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-20-ringcentral-dials-in-strategic-partnerships-with-aws-and-avaya.md",
+      "title": "RingCentral Dials In Strategic Partnerships With AWS And Avaya",
+      "excerpt": "Vice President and Principal Analyst, Melody Brue dives in as this week, RingCentral announced two important partnerships—one with AWS, the other with Avaya.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/02/19/ringcentral-dials-in-strategic-partnerships-with-aws-and-avaya/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/02/19/ringcentral-dials-in-strategic-partnerships-with-aws-and-avaya/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63f2a3dd9db3303c2a56b89c/0x0.png?format=png&width=1200",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/02/19/ringcentral-dials-in-strategic-partnerships-with-aws-and-avaya/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/19/ringcentral-dials-in-strategic-partnerships-with-aws-and-avaya/amp/",
+      "publishedDateTime": "2023-02-19T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-20-2-top-ai-stocks-ready-for-a-bull-run.md",
+      "title": "2 Top AI Stocks Ready for a Bull Run",
+      "excerpt": "Nvidia announced in November that it was teaming up with Microsoft to build a massive cloud AI computer, a multiyear partnership that will take advantage of Microsoft's Azure cloud infrastructure and Nvidia's GPUs. The move should help ensure that Nvidia ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/19/2-top-ai-stocks-ready-for-a-bull-run/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/19/2-top-ai-stocks-ready-for-a-bull-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/721046/artificial-intelligence-investing-algorithms.jpg",
+          "width": 8660,
+          "height": 5773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-19T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-bill-gates-told-an-ai-chatbot-he-was-overly-intense-and-didnt-believe-in-weekends-in-microsofts-early-days.md",
+      "title": "Bill Gates told an AI chatbot he was 'overly intense' and 'didn't believe in weekends' in Microsoft's early days",
+      "excerpt": "An curved arrow pointing right. Microsoft cofounder Bill Gates said he was \"overly intense\" and \"didn't believe in weekends\" during the company's early days in an interview with an AI chatbot on Friday. \"I was kinda overly intense. I didn't believe in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/bill-gates-admits-being-overly-intense-in-microsoft-early-days-2023-2",
+      "originalUrl": "https://www.businessinsider.com/bill-gates-admits-being-overly-intense-in-microsoft-early-days-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63f0a93a5ca81e0018556956?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/bill-gates-admits-being-overly-intense-in-microsoft-early-days-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bill-gates-admits-being-overly-intense-in-microsoft-early-days-2023-2?amp",
+      "publishedDateTime": "2023-02-18T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-should-government-leaders-have-to-pass-cognitive-tests-to-stay-in-office.md",
+      "title": "Should government leaders have to pass cognitive tests to stay in office?",
+      "excerpt": "Nikki Haley, as part of launching her campaign to become the next Republican presidential candidate, believes it should be mandatory for politicians older than 75 to take mental and cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3830107/haley-government-leaders-cognitive-tests-stay-office/",
+      "originalUrl": "https://mynorthwest.com/3830107/haley-government-leaders-cognitive-tests-stay-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2023/02/Untitled-design-84.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3830107/haley-government-leaders-cognitive-tests-stay-office/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3830107/haley-government-leaders-cognitive-tests-stay-office/amp/",
+      "publishedDateTime": "2023-02-17T19:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost.md",
+      "title": "Federated learning at the edge may out-compete the cloud on privacy, speed and cost",
+      "excerpt": "How federated learning at the edge can improve latency, reduce network calls, drive efficiency, improve model accuracy and promote privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/",
+      "originalUrl": "https://venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/edge-e1661803536445.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-at-the-edge-may-out-compete-the-cloud-on-privacy-speed-and-cost/amp/",
+      "publishedDateTime": "2023-02-16T21:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-wekaio-launches-channel-program-enlists-partners-for-expansion-into-aiml.md",
+      "title": "WekaIO Launches Channel Program, Enlists Partners For Expansion Into AI/ML",
+      "excerpt": "WekaIO launched the new Weka X Partner Program to expand sales of the Weka Data Platform for AI and machine learning tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/channel-programs/wekaio-launches-channel-program-enlists-partners-for-expansion-into-ai-ml",
+      "originalUrl": "https://www.crn.com/news/channel-programs/wekaio-launches-channel-program-enlists-partners-for-expansion-into-ai-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/027e-175480d8f4be-1ed267b69742-1000/jonathanmartin_22-02-16_0619.jpeg",
+          "width": 600,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T14:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-12-best-artificial-intelligence-ai-stocks-to-buy-for-2023.md",
+      "title": "12 Best Artificial Intelligence (AI) Stocks To Buy For 2023",
+      "excerpt": "There’s more than one way to position your portfolio to benefit from a continuing AI revolution. You can invest in companies that build AI hardware, develop AI solutions or sell AI tools. Or, you can invest in companies that use AI to make better products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+      "originalUrl": "https://www.forbes.com/sites/investor-hub/article/12-best-artificial-intelligence-ai-stocks-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T13:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "AI Hardware",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-17-we-mustnt-let-ethical-questionson-ai-get-lost-in-all-the-euphoria.md",
+      "title": "We mustn’t let ethical questionson AI get lost in all the euphoria",
+      "excerpt": "Our planet is already on the edge with climate change, and these models could only accelerate that trend. The cloud and these AI models running on it take huge amounts of energy. For instance, training a transformer model just once with 213 million parameters can spew out the same carbon emissions that 125 New York-Beijing round flight trips would,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/columns/we-mustn-t-let-ethical-questionson-ai-get-lost-in-all-the-euphoria-11676565950767.html",
+      "originalUrl": "https://www.livemint.com/opinion/columns/we-mustn-t-let-ethical-questionson-ai-get-lost-in-all-the-euphoria-11676565950767.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2023/02/16/600x338/AI_1676566085035_1676566085195_1676566085195.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/columns/we-mustn-t-let-ethical-questionson-ai-get-lost-in-all-the-euphoria/amp-11676565950767.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/we-mustn-t-let-ethical-questionson-ai-get-lost-in-all-the-euphoria/amp-11676565950767.html",
+      "publishedDateTime": "2023-02-16T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-microsoft-explains-bings-bizarre-ai-chat-behavior.md",
+      "title": "Microsoft explains Bing's bizarre AI chat behavior",
+      "excerpt": "Microsoft launched its Bing AI chat product for the Edge browser last week, and it's been in the news ever since — but not always for the right reasons. Our initial impressions were strong, as it offered up workout routines, travel itineraries and more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "originalUrl": "https://www.engadget.com/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 504,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/rmtgqK.dkZnoRLcvyngjAQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/31782c40-adf7-11ed-9dcf-98e346252060.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-explains-bings-bizarre-ai-chat-behavior-134931486.html",
+      "publishedDateTime": "2023-02-16T05:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-microsoft-baidu-and-google-which-ai-chatbot-stock-is-the-best-buy.md",
+      "title": "Microsoft, Baidu, And Google: Which AI Chatbot Stock Is The Best Buy?",
+      "excerpt": "Alphabet Inc. (GOOG), Baidu, Inc. (NASDAQ:BIDU), and Microsoft Corporation (NASDAQ:MSFT) have all been in the headlines with the current version of their proprietary chatbot engine. We now know ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4579031-microsoft-baidu-google-ai-chatbot-stock-best-buy",
+      "originalUrl": "https://seekingalpha.com/article/4579031-microsoft-baidu-google-ai-chatbot-stock-best-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1362322942/image_1362322942.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-machine-learning-as-a-service-mlaas-market-size-report-outlook-growth-key-players-revenue-and-forecast-2031.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Size, Report Outlook, Growth, Key Players, Revenue, and Forecast 2031",
+      "excerpt": "Global Machine Learning as a Service (MLaaS) Market to reach USD 16.7 billion by 2027. Global Machine Learning",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-report-outlook-growth-key-players-revenue-and-forecast-2031-2023-02-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-report-outlook-growth-key-players-revenue-and-forecast-2031-2023-02-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-15T23:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-youcom-challenges-google-microsoft-with-launch-of-multimodal-conversational-ai-in-search.md",
+      "title": "You.com challenges Google, Microsoft with launch of ‘multimodal conversational AI’ in search",
+      "excerpt": "AI search engine You.com promises to advance internet search with YouChat 2.0, combining conversational AI with community-built apps.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/you-com-challenges-google-microsoft-launch-multimodal-conversational-ai-search/",
+      "originalUrl": "https://venturebeat.com/ai/you-com-challenges-google-microsoft-launch-multimodal-conversational-ai-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/you-dot-com.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/you-com-challenges-google-microsoft-launch-multimodal-conversational-ai-search/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/you-com-challenges-google-microsoft-launch-multimodal-conversational-ai-search/amp/",
+      "publishedDateTime": "2023-02-15T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-microsoft-will-incorporate-chatgpt-tech-into-azure-teams.md",
+      "title": "Microsoft Will Incorporate ChatGPT Tech into Azure, Teams",
+      "excerpt": "ChatGPT is an AI-powered chatbot that developer OpenAI released in late November. Built on the generative pretrained transformer family of language models, the easy-to-use tool quickly took the internet by storm. It set off an immediate discourse among ...",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams",
+      "originalUrl": "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202302/ET_Software_defaultimage.jpg?itok=1lES4E02",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2023/02/microsoft-will-incorporate-chatgpt-tech-azure-teams?amp",
+      "publishedDateTime": "2023-02-15T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-this-is-how-how-ai-is-helping-monitor-and-count-puffins.md",
       "title": "This Is How How AI Is Helping Monitor And Count Puffins",
       "excerpt": "Puffins on the Isle of May, a nature preserve off the coast of Scotland. SSE Renewables is trialing ... [+] a new way to count puffins using artificial intelligence. The project is supported by Microsoft, Avanade and NatureScot. The Isle of May is a 140 ...",
@@ -827,585 +1474,6 @@
       "provider": {
         "name": "Medical News Today",
         "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-microsoft-announces-new-generative-ai-search-using-chatgpt-bada-bing-bada-boomthe-ai-race-is-on.md",
-      "title": "Microsoft Announces New Generative AI Search Using ChatGPT; Bada BING, Bada Boom—The AI Race Is On",
-      "excerpt": "but clearly Microsoft is serious about taking the lead in the AI war of the tech giants. At least for now, it has presented some nice-looking solutions that feel well-thought-out, that fit cohesively into the company's other products and services and that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/02/09/microsoft-announces-new-generative-ai-search-using-chatgpt-bada-bing-bada-boom-the-ai-race-is-on/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/02/09/microsoft-announces-new-generative-ai-search-using-chatgpt-bada-bing-bada-boom-the-ai-race-is-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e5787d44cbba5b369d9cc3/0x0.jpg?format=jpg&width=1200",
-          "width": 624,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/02/09/microsoft-announces-new-generative-ai-search-using-chatgpt-bada-bing-bada-boom-the-ai-race-is-on/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/09/microsoft-announces-new-generative-ai-search-using-chatgpt-bada-bing-bada-boom-the-ai-race-is-on/amp/",
-      "publishedDateTime": "2023-02-09T13:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-ai-has-helped-design-over-100-chips-should-we-be-worried.md",
-      "title": "AI has helped design over 100 chips, should we be worried?",
-      "excerpt": "One client, STMicroelectronics, achieved the first-ever commercial design tape-out using AI on the cloud (in this case, Microsoft Azure). According to Philippe d'Audigier, the SoC hardware design director at STMicroelectronics, the system increased their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/97560-ai-has-helped-design-over-100-chips-worried.html",
-      "originalUrl": "https://www.techspot.com/news/97560-ai-has-helped-design-over-100-chips-worried.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-09-image-24.jpg",
-          "width": 2500,
-          "height": 1449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-microsoft-stock-ai-opportunity-much-bigger-than-just-bing.md",
-      "title": "Microsoft Stock: AI Opportunity Much Bigger Than Just Bing",
-      "excerpt": "“That said, we see an even bigger enterprise opportunity that could expand to $22B by CY26E leveraging AI transformers further into four product categories: GitHub, Microsoft 365, Teams, and Azure AI services.” What’s more, Microsoft’s AI endeavors ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-ai-opportunity-much-bigger-than-just-bing-1032083568",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-stock-ai-opportunity-much-bigger-than-just-bing-1032083568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-disruption-and-opportunity-how-hyperscalers-are-transforming-telecoms-reader-forum.md",
-      "title": "Disruption and opportunity: How hyperscalers are transforming telecoms (Reader Forum)",
-      "excerpt": "The telecom landscape is changing fast, and hyperscalers like Google Cloud and Amazon Web Services are now driving the agenda.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20230209/telco-cloud/disruption-and-opportunity-how-hyperscalers-are-transforming-telecoms-reader-forum",
-      "originalUrl": "https://www.rcrwireless.com/20230209/telco-cloud/disruption-and-opportunity-how-hyperscalers-are-transforming-telecoms-reader-forum",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/02/194928210_l-scaled.jpg",
-          "width": 2560,
-          "height": 1446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-taking-sleeping-pills-could-have-disastrous-cognitive-side-effects.md",
-      "title": "Taking sleeping pills could have disastrous cognitive side effects",
-      "excerpt": "New research, however, has shown that commonly-prescribed sleep aids could have negative cognitive effects later in life, which could cause some users to stop taking them. Scientists have recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/health-and-wellness/sleep/article-731037",
-      "originalUrl": "https://www.jpost.com/health-and-wellness/sleep/article-731037",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/526454",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/health-and-wellness/sleep/article-731037/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-and-wellness/sleep/article-731037/amp",
-      "publishedDateTime": "2023-02-09T00:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-cognitive-screening-unevenly-documented-across-post-acute-care-settings-study.md",
-      "title": "Cognitive screening unevenly documented across post-acute care settings: study",
-      "excerpt": "There is wide variation across post-acute care settings in the documentation of cognitive screening and assessments, a new study has found. The industry could improve care coordination with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mcknights.com/news/clinical-news/cognitive-screening-unevenly-documented-across-post-acute-care-settings-study/",
-      "originalUrl": "https://www.mcknights.com/news/clinical-news/cognitive-screening-unevenly-documented-across-post-acute-care-settings-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T21:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "McKnight's Long-Term Care News",
-        "domain": "mcknights.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-amex-microsoft-collaborate-on-expense-automation.md",
-      "title": "Amex, Microsoft Collaborate on Expense Automation",
-      "excerpt": "American Express is working with Microsoft to develop a more automated expense-reporting process built from Microsoft Cloud and AI technologies, the companies announced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstravelnews.com/Payment-Expense/Amex-Microsoft-Collaborate-on-Expense-Automation",
-      "originalUrl": "https://www.businesstravelnews.com/Payment-Expense/Amex-Microsoft-Collaborate-on-Expense-Automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ik.imgkit.net/3vlqs5axxjf/BTN/uploadedImages/2015_Site_Maintenance/BTN_OGImage.jpg?tr=w-1200%2Cfo-auto",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Travel News",
-        "domain": "businesstravelnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-new-cognitive-research-shows-gaining-knowledge-and-achieving-mastery-comes-down-to-the-rule-of-7.md",
-      "title": "New Cognitive Research Shows Gaining Knowledge and Achieving Mastery Comes Down to the Rule of 7",
-      "excerpt": "Think you don't have the talent for entrepreneurship? For leadership? For programming, for design... for whatever pursuit you may want to, um, pursue? According to HubSpot co-founder Dharmesh Shah ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.inc.com/jeff-haden/new-cognitive-research-shows-gaining-knowledge-achieving-mastery-comes-down-to-rule-of-7.html",
-      "originalUrl": "https://www.inc.com/jeff-haden/new-cognitive-research-shows-gaining-knowledge-achieving-mastery-comes-down-to-rule-of-7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T19:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-study-says-kids-playing-video-games-doesnt-affect-cognitive-abilities.md",
-      "title": "Study says kids playing video games doesn’t affect cognitive abilities",
-      "excerpt": "While parents might be concerned about the cognitive effects of letting children play video games, a study conducted by researchers at multiple universities indicated that video game play had ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/national/study-says-kids-playing-video-games-doesnt-affect-cognitive-abilities",
-      "originalUrl": "https://www.wcpo.com/news/national/study-says-kids-playing-video-games-doesnt-affect-cognitive-abilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/e830480/2147483647/strip/true/crop/4368x2457+0+228/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fb0%2F0a%2Ff44498194ea38b1ac848c430e5d7%2Fshutterstock-663218446.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcpo.com/news/national/study-says-kids-playing-video-games-doesnt-affect-cognitive-abilities?_amp=true",
-      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/study-says-kids-playing-video-games-doesnt-affect-cognitive-abilities?_amp=true",
-      "publishedDateTime": "2023-02-08T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCPO Cincinnati",
-        "domain": "wcpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-the-plateauing-of-cognitive-ability-among-top-earners.md",
-      "title": "The plateauing of cognitive ability among top earners",
-      "excerpt": "The researchers combine wage data from Swedish population registers with scores from cognitive ability tests taken from military conscripts at age 18-19. \"This data trove permits us to test ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "originalUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/executive.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-02-plateauing-cognitive-ability-earners.html",
-      "publishedDateTime": "2023-02-08T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-dont-roll-your-eyes-ai-isnt-just-another-doomed-tech-fad.md",
-      "title": "Don’t roll your eyes — AI isn’t just another doomed tech fad",
-      "excerpt": "Companies like Google and Microsoft are simply pulling back the curtain on the AI that’s been powering their services for several years ... a professor and researcher of cognitive computer science at UC Berkely, revealed half a dozen inputs that would ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/",
-      "originalUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/chatgpt-life-after-death.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-wont-fade-away-like-a-tech-fad/?amp",
-      "publishedDateTime": "2023-02-08T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-synopsys-ai-chip-design-hits-major-milestone-with-azure-cloud-stmicro-and-sk-hynix.md",
-      "title": "Synopsys AI Chip Design Hits Major Milestone With Azure Cloud, STMicro And SK Hynix",
-      "excerpt": "on Microsoft Azure. Machine Learning Now Does The Grunt Work Of Chip Design The place and route optimization step in semiconductor chip design is a simple concept to understand. First, engineers design the circuits, logic, memory structures, etc.,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/02/08/synopsys-ai-chip-design-hits-major-milestone-with-azure-cloud-stmicro-and-sk-hynix/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/02/08/synopsys-ai-chip-design-hits-major-milestone-with-azure-cloud-stmicro-and-sk-hynix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e4067e747cd431e9db7365/0x0.jpg?format=jpg&crop=2361,1106,x0,y109,safe&width=1200",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/02/08/synopsys-ai-chip-design-hits-major-milestone-with-azure-cloud-stmicro-and-sk-hynix/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/02/08/synopsys-ai-chip-design-hits-major-milestone-with-azure-cloud-stmicro-and-sk-hynix/amp/",
-      "publishedDateTime": "2023-02-08T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-study-reveals-that-much-still-not-known-about-cognitive-decline.md",
-      "title": "Study reveals that much still not known about cognitive decline",
-      "excerpt": "More information: Predictors of cognitive functioning trajectories among older Americans: A new investigation covering 20 years of age- and non-age-related cognitive change, PLoS ONE (2023). DOI ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-02-reveals-cognitive-decline.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/we-still-dont-know-whi.jpg",
-          "width": 1280,
-          "height": 914,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

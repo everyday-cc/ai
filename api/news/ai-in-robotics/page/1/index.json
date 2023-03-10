@@ -2,6 +2,422 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-10-the-hottest-party-in-generative-ai-is-productivity-apps.md",
+      "title": "The hottest party in generative AI is productivity apps",
+      "excerpt": "After years of wallflower AI status, business productivity apps are now the generative AI party where the cool kids hang out.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-hottest-party-in-generative-ai-is-productivity-apps/",
+      "originalUrl": "https://venturebeat.com/ai/the-hottest-party-in-generative-ai-is-productivity-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Untitled-design-23.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-hottest-party-in-generative-ai-is-productivity-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-hottest-party-in-generative-ai-is-productivity-apps/amp/",
+      "publishedDateTime": "2023-03-09T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-japanese-robotics-lags-as-ai-captures-global-attention.md",
+      "title": "Japanese robotics lags as AI captures global attention",
+      "excerpt": "Although Japanese roboticists do still produce “amazing papers” and “are very present” in the research community, says Manuela Veloso, head of artificial intelligence (AI) research at investment bank JPMorgan Chase,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-023-00668-z",
+      "originalUrl": "https://www.nature.com/articles/d41586-023-00668-z",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-023-00668-z/d41586-023-00668-z_24100126.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-local-tech-company-creates-a-conversational-artificial-intelligence-robot.md",
+      "title": "Local tech company creates a conversational artificial intelligence robot",
+      "excerpt": "TAMPA, Fla. - She expresses emotions, a sense of humor and seems to have a mind of her own. A local tech company has created an artificial intelligence data robot called \"Maya AI.\" \"So we did a lot of studying on how the brain, the memories and neurons ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13news.com/news/local-tech-company-creates-a-conversational-artificial-intelligence-robot",
+      "originalUrl": "https://www.fox13news.com/news/local-tech-company-creates-a-conversational-artificial-intelligence-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2023/03/932/470/ac4d8547-snapshot-10.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13news.com/news/local-tech-company-creates-a-conversational-artificial-intelligence-robot.amp",
+      "cdnAmpWebUrl": "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/local-tech-company-creates-a-conversational-artificial-intelligence-robot.amp",
+      "publishedDateTime": "2023-03-07T19:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 13",
+        "domain": "fox13news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-artificial-intelligence-is-going-to-replace-all-but-the-best-stock-picking-pros.md",
+      "title": "Artificial intelligence is going to replace all but the best stock-picking pros",
+      "excerpt": "Artificial intelligence poses a major threat to the worst stock pickers on Wall Street. Even the mediocre ones might want to start looking for another line of work. But the jobs of the best stock pickers are secure — for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5?redirect=amp",
+      "originalUrl": "https://www.marketwatch.com/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5?redirect=amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-354454/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
+      "publishedDateTime": "2023-03-07T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-secretive-new-startup-focuses-on-off-road-autonomous-vehicles-led-by-uw-robotics-experts.md",
+      "title": "Secretive new startup focuses on off-road autonomous vehicles, led by UW robotics experts",
+      "excerpt": "A University of Washington professor and expert in machine learning and robotics is leading a new company focused on off-road autonomous vehicle technology. Byron Boots is the CEO and co-founder… Read",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/new-startup-led-by-univ-of-washington-robotics-expert-tackles-off-road-autonomous-vehicles/",
+      "originalUrl": "https://www.geekwire.com/2023/new-startup-led-by-univ-of-washington-robotics-expert-tackles-off-road-autonomous-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/03/UWRacer_Mount_Si-1260x945.jpg",
+          "width": 1260,
+          "height": 945,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-healthcare-robotics-engineering-forum-full-conference-agenda.md",
+      "title": "Healthcare Robotics Engineering Forum full conference agenda",
+      "excerpt": "The Healthcare Robotics Engineering Forum announced its full conference agenda for the May 10-11 2023 event at the Boston Convention and Exhibition Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/healthcare-robotics-engineering-forum-full-conference-agenda-2/",
+      "originalUrl": "https://www.therobotreport.com/healthcare-robotics-engineering-forum-full-conference-agenda-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/03/RSE23_background-featured.jpg",
+          "width": 1000,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-friday-hack-chat-control-schemes-for-robotics.md",
+      "title": "Friday Hack Chat: Control Schemes For Robotics",
+      "excerpt": "Not coincidentally, for this week’s Hack Chat, we’re talking all about Robotics Modules. We’re taking a deep dive into actuation and control schemes for robotics, and you’re invited to ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/04/25/friday-hack-chat-control-schemes-for-robotics/",
+      "originalUrl": "https://hackaday.com/2018/04/25/friday-hack-chat-control-schemes-for-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/04/54actuationhackchatv3-01_featured.png",
+          "width": 800,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-could-the-next-great-author-be-a-robot-we-asked-human-writers.md",
+      "title": "Could the next great author be a robot? We asked (Human) writers",
+      "excerpt": "Recently, editors at three science fiction magazines said they had been flooded with AI-generated fiction submissions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/02/chatgpt-open-AI-rtr-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
+      "publishedDateTime": "2023-03-05T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-understanding-the-world-of-artificial-intelligence-and-its-future-impacts.md",
+      "title": "Understanding the world of artificial intelligence and its future impacts",
+      "excerpt": "Dr. Rebecca Leis, a computer science program director at Full Sail University, sat down with anchor Justin Warmoth on “The Weekly” to help us better understand the world of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
+      "originalUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-05-2023/t_0fb618fcb9db4ccf9a1b664f859dae53_name_image.jpg?_a=ATCqVhC0",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News 6 WKMG",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot.md",
       "title": "Figure emerges from stealth with the first images of its humanoid robot",
       "excerpt": "Founded by Archer co-founder Brett Adcock, the startup is spending lot of time and money to build a general purpose bipedal humanoid robot.",
@@ -51,6 +467,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-teslas-optimus-robot-can-walk-now-and-thats-just-the-start.md",
+      "title": "Tesla's Optimus Robot Can Walk Now, And That's Just The Start",
+      "excerpt": "but a human in a robot costume demonstrating what Tesla believed it could build. Fast forward to Tesla's 2022 AI Day, and Tesla's \"rough development\" robot was actually made of metal, plastic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1215063/teslas-optimus-robot-can-walk-now-and-thats-just-the-start/",
+      "originalUrl": "https://www.slashgear.com/1215063/teslas-optimus-robot-can-walk-now-and-thats-just-the-start/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/teslas-optimus-robot-can-walk-now-and-thats-just-the-start/l-intro-1677717157.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T22:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -901,457 +1370,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley.md",
-      "title": "ChatGPT sparks Artificial Intelligence 'gold rush' in Silicon Valley",
-      "excerpt": "Since its discrete release in late November, ChatGPT has become one of the fastest growing apps ever and pushed Microsoft and Google to rush out projects that had until now stayed carefully guarded over fears that the technology wasn't yet ready for the public.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/02/19/1600x900/Chatgpt_1675705434973_1676245245617_1676786774063_1676786774063.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/chatgpt-sparks-artificial-intelligence-gold-rush-in-silicon-valley-101676786738556-amp.html",
-      "publishedDateTime": "2023-02-18T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-minister-artificial-intelligence-robotics-will-promote-inclusive-devt.md",
-      "title": "Minister: Artificial Intelligence, Robotics Will Promote Inclusive Devt",
-      "excerpt": "The Minister of Education, Mallam Adamu Adamu, has stated that artificial intelligence (AI) and robotics technology have a huge potential to promote inclusive development, while describing them as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2019/01/23/minister-artificial-intelligence-robotics-will-promote-inclusive-devt/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2019/01/23/minister-artificial-intelligence-robotics-will-promote-inclusive-devt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2019/01/23/minister-artificial-intelligence-robotics-will-promote-inclusive-devt/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2019/01/23/minister-artificial-intelligence-robotics-will-promote-inclusive-devt/amp/",
-      "publishedDateTime": "2023-02-18T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-wiimote-controlled-rpi-robot.md",
-      "title": "Wiimote Controlled RPi Robot",
-      "excerpt": "The end goal is to have a robot that’s controlled by a Wiimote. The Wiimote communicates over Bluetooth with a Raspberry Pi, which is running a Python script. This script uses the CWiid Python ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2013/03/07/wiimote-controlled-rpi-robot/",
-      "originalUrl": "https://hackaday.com/2013/03/07/wiimote-controlled-rpi-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://hackaday.com/wp-content/uploads/2013/03/wiipi.png?w=580",
-          "width": 580,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-18T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-top-trends-in-robotics-in-2023.md",
-      "title": "Top trends in robotics in 2023",
-      "excerpt": "The easy-to-use software paired with an intuitive user experience replaces extensive robotics programming and opens up new robotics automation opportunities: Software start-ups are ... 4 – Artificial Intelligence and digital automation Propelled by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.logisticsmgmt.com/article/top_trends_in_robotics_in_2023",
-      "originalUrl": "https://www.logisticsmgmt.com/article/top_trends_in_robotics_in_2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.scmr.com/images/2021_article/Top_5_robotic_trends_in_2023.jpg",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T13:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Logistics Management",
-        "domain": "logisticsmgmt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-as-interest-in-ai-surges-check-out-this-etf.md",
-      "title": "As Interest in AI Surges, Check Out This ETF",
-      "excerpt": "Investor interest in artificial intelligence (AI) is surging this year. Just as previously hot segments of tech like social media and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/as-interest-in-ai-surges-check-out-this-etf-1032106962",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/as-interest-in-ai-surges-check-out-this-etf-1032106962",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/02/image-480.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 777,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T12:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-us-launches-artificial-intelligence-military-use-initiative.md",
-      "title": "US launches artificial intelligence military use initiative",
-      "excerpt": "Military analysts and artificial intelligence researchers say the longer the nearly ... But there are no confirmed instances of a nation putting into combat robots that have killed entirely on their own. Russia was not invited to attend the conference ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.militarytimes.com/news/2023/02/17/us-launches-artificial-intelligence-military-use-initiative/",
-      "originalUrl": "https://www.militarytimes.com/news/2023/02/17/us-launches-artificial-intelligence-military-use-initiative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.militarytimes.com/resizer/jy4v5JCOLT7nEoE9lSOYNFB17Qg=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/6S4UYCVZFVEAXHWSAO5WDPHKJI.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Military Times",
-        "domain": "militarytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-combat-ai-robodogs-follow-telepathic-commands-from-soldiers.md",
-      "title": "Combat AI ‘robodogs’ follow telepathic commands from soldiers",
-      "excerpt": "Robinson and fellow soldiers did course training with the mind-reading headsets and robodogs ... A new high-tech headset allows soldiers to control robot dogs using only their thoughts.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/",
-      "originalUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/02/robodog-Newsflash-BrainRobotics-04-copy.jpg?quality=75&strip=all&w=661",
-          "width": 661,
-          "height": 441,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/02/17/combat-ai-robodogs-follow-telepathic-commands-from-soldiers/amp/",
-      "publishedDateTime": "2023-02-17T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-inside-the-studio-with-an-ai-guided-painting-robot.md",
-      "title": "Inside the Studio With an AI-Guided Painting Robot",
-      "excerpt": "To help illustrate our cover story on how the AI arms race is changing the world, we reached out to award-winning AI artist Pindar Van Arman, who uses artificial intelligence to create his art. Van Arman, who built his first “painting robot” 15 years ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6256108/artificial-intelligence-artist/",
-      "originalUrl": "https://time.com/6256108/artificial-intelligence-artist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-gfai-stock-alert-guardforce-ai-officially-acquires-keweis-robotics-assets.md",
-      "title": "GFAI Stock Alert: Guardforce AI Officially Acquires Kewei’s Robotics Assets",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence (AI) world received an exciting update this week.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gfai-stock-alert-guardforce-ai-officially-acquires-keweis-robotics-assets-1032106638",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/gfai-stock-alert-guardforce-ai-officially-acquires-keweis-robotics-assets-1032106638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-artificial-intelligence-robotics-market-size-2023-expected-to-deliver-dynamic-progression-until-2026.md",
-      "title": "Artificial Intelligence Robotics Market Size 2023 : Expected To Deliver Dynamic Progression Until 2026",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-2023-expected-to-deliver-dynamic-progression-until-2026-2023-02-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-size-2023-expected-to-deliver-dynamic-progression-until-2026-2023-02-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "AI in Robotics"
       ]

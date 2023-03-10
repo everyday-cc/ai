@@ -2,15 +2,102 @@
   "page": 92,
   "value": [
     {
-      "path": "_news/2022-12-12-artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report.md",
-      "title": "Artificial Intelligence Microscopy Market 2023 Is Flourishing Around the World by 2028 | 123 Pages Report",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "path": "_news/2022-12-14-aupe-says-alberta-throne-speech-overlooks-education-senior-care.md",
+      "title": "AUPE says Alberta Throne Speech overlooks education, senior care",
+      "excerpt": "“It was a speech that lacked more than what it actually contained ... Consequently, these workers are stretched beyond their limits with little recognition. “What all our members would like to see is wages that not only reflect the hard economic ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report-2022-12-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-microscopy-market-2023-is-flourishing-around-the-world-by-2028-123-pages-report-2022-12-11",
+      "webUrl": "https://rabble.ca/labour/aupe-says-alberta-throne-speech-overlooks-education-senior-care/",
+      "originalUrl": "https://rabble.ca/labour/aupe-says-alberta-throne-speech-overlooks-education-senior-care/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rabble",
+        "domain": "rabble.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-the-future-of-retail-four-ways-for-the-industry-to-utilize-ai.md",
+      "title": "The Future Of Retail: Four Ways For The Industry To Utilize AI",
+      "excerpt": "It’s only a matter of time before AI-powered checkouts, improved planograms and enhanced in-store engagement will be widely adopted to enhance the shopping experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63987a772c2281472c7ab5e5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/amp/",
+      "publishedDateTime": "2022-12-14T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-machine-learning-artificial-intelligence-market-2023-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028.md",
+      "title": "Machine Learning Artificial intelligence Market 2023 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028",
+      "excerpt": "Machine Learning Artificial intelligence Market Size is projected to Reach Multimillion USD by 2028, In comparison to 2023, at unexpected CAGR during the forecast Period 2023-2028. Machine Learning Artificial intelligence Market Research Report is spread across 93 Pages and provides exclusive data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-2023-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-12-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-2023-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-12-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -26,7 +113,470 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T19:55:00-08:00",
+      "publishedDateTime": "2022-12-14T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-study-finds-exercise-mindfulness-dont-boost-cognitive-function-in-older-people.md",
+      "title": "Study finds exercise, mindfulness don't boost cognitive function in older people",
+      "excerpt": "An extensive study that looked at whether mindfulness training and exercise could improve cognitive performance in older persons showed no such improvement after either intervention. Researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/health/study-finds-exercise-mindfulness-dont-boost-cognitive-function-in-older-people-460876",
+      "originalUrl": "https://www.tribuneindia.com/news/health/study-finds-exercise-mindfulness-dont-boost-cognitive-function-in-older-people-460876",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/12/2022_12$largeimg_784993222.jpg",
+          "width": 509,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/health/study-finds-exercise-mindfulness-dont-boost-cognitive-function-in-older-people-460876",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/health/study-finds-exercise-mindfulness-dont-boost-cognitive-function-in-older-people-460876",
+      "publishedDateTime": "2022-12-14T01:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-oppo-claims-its-bluetooth-audio-chip-delivers-wired-quality.md",
+      "title": "Oppo claims its Bluetooth audio chip delivers wired quality",
+      "excerpt": "The first day of Inno Day 2022 was filled with announcements including Oppo's new Bluetooth audio SoC, health monitor, and AR glasses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/oppo-custom-bluetooth-audio-3250637/",
+      "originalUrl": "https://www.androidauthority.com/oppo-custom-bluetooth-audio-3250637/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2022/03/Oppo-logo-angled-MWC-2022.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T00:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea.md",
+      "title": "transcosmos releases \"transpeech,\" its contact center speech recognition solution in South Korea",
+      "excerpt": "With one-stop services from deploying essential environment for speech recognition to operations, boost contact center service quality and operational efficiency transcosmos inc. hereby announces ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/p30071320/transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/p30071320/transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-6-ibm-cybersecurity-predictions-for-2023-ransomware-and-caas-will-spike.md",
+      "title": "6 IBM cybersecurity predictions for 2023: Ransomware and CaaS will spike",
+      "excerpt": "Recently, IBM Security and the X-Force threat research ... Intelligent Security Summit On-Demand Learn the critical role of AI & ML in cybersecurity and industry specific case studies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/ibm-cybersecurity-predictions/",
+      "originalUrl": "https://venturebeat.com/security/ibm-cybersecurity-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-mondelez-international-expands-partnership-with-hcl-tech.md",
+      "title": "Mondelez International expands partnership with HCL Tech",
+      "excerpt": "Under the contract, HCL Tech will leverage its automation and artificial intelligence (AI) capabilities to enable Mondelez International to provide on-demand personalised user experience and accelerated issue resolution to its over 1.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/mondelez-international-expands-partnership-with-hcl-tech/96216894",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/mondelez-international-expands-partnership-with-hcl-tech/96216894",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-96216894,imgsize-21254,width-1200,height=765,overlay-etbrandequity/business-of-brands/mondelez-international-expands-partnership-with-hcl-tech.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/mondelez-international-expands-partnership-with-hcl-tech/96216894",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/business-of-brands/mondelez-international-expands-partnership-with-hcl-tech/96216894",
+      "publishedDateTime": "2022-12-13T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-the-best-gpus-for-4k-to-make-your-games-look-the-best.md",
+      "title": "The best GPUs for 4K to make your games look the best",
+      "excerpt": "Fortunately, the state of the GPU market has improved lately, making 4K gaming more affordable (though not cheap). Here are our picks for the best GPU for 4K.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/best-gpu-for-4k/",
+      "originalUrl": "https://www.digitaltrends.com/computing/best-gpu-for-4k/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/08/best-1080p-gpu-featured.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/best-gpu-for-4k/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/best-gpu-for-4k/?amp",
+      "publishedDateTime": "2022-12-13T21:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-dubai-based-now-money-selects-thetaray-ai-tech-to-prevent-financial-crime-on-the-inclusive-banking-app.md",
+      "title": "Dubai-based NOW Money Selects ThetaRay AI Tech to Prevent Financial Crime on the Inclusive Banking App",
+      "excerpt": "Money, the GCC’s first mobile banking solution focused on financial inclusion, and ThetaRay, a leading provider of AI-powered transaction monitoring technology, today announced a collaboration to implement ThetaRay’s cloud-based AML solution to monitor cross-border payments and support in the prevention of financial crimes and money laundering on the fintech’s payments platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/dubai-based-now-money-selects-thetaray-ai-tech-to-prevent-financial-crime-on-the-inclusive/article_d18eab8a-b531-5291-ac8f-0e1cd33c064f.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/dubai-based-now-money-selects-thetaray-ai-tech-to-prevent-financial-crime-on-the-inclusive/article_d18eab8a-b531-5291-ac8f-0e1cd33c064f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/af/8aff6abe-fbdb-5685-b84b-cf5722cd3652/639966f7a397d.image.jpg?crop=1277%2C670%2C0%2C476&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns.md",
+      "title": "Facial recognition system rollout at Indian airports raises privacy concerns",
+      "excerpt": "Since December 2, the Union Ministry of Civil Aviation has started using facial recognition technology for airport security. Airports will now allow travellers to pass through various checkpoints – entry,",
+      "sourceUrl": null,
+      "webUrl": "https://scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns",
+      "originalUrl": "https://scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/156735-fcmoyjrqax-1616694153.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1038975/facial-recognition-system-rollout-at-indian-airports-raises-privacy-concerns",
+      "publishedDateTime": "2022-12-13T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data.md",
+      "title": "Artificial Intelligence and Machine Learning Market by Product and Geography : Forecast and Analysis 2023 to 2028 with Top Countries Data",
+      "excerpt": "Artificial Intelligence and Machine Learning Market\" Research report encompasses a thorough study of the current",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data-2022-12-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data-2022-12-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T17:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance",
+        "Facebook AI",
+        "Google AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-artificial-intelligence-in-fashion-retail-market-size-outlook-share-prominent-players-growth-and-forecast-2028.md",
+      "title": "Artificial Intelligence In Fashion Retail Market Size, Outlook, Share, Prominent Players, Growth, and Forecast 2028",
+      "excerpt": "Artificial Intelligence In Fashion Retail Market\" is sectioned top to bottom in this review. Worldwide and geological",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-size-outlook-share-prominent-players-growth-and-forecast-2028-2022-12-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-size-outlook-share-prominent-players-growth-and-forecast-2028-2022-12-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T17:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -53,64 +603,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-12-air-india-puts-in-place-ethics-governance-structure.md",
-      "title": "Air India Puts In Place Ethics Governance Structure",
-      "excerpt": "This committee has the mandate to formalise ethics-related guidelines, approve policies and procedures related to ethics, and will be the final escalation point for the regional ethics committees",
+      "path": "_news/2022-12-14-tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles.md",
+      "title": "Tesla to Add Radar in Hopes of Achieving Full Self Driving in Vehicles",
+      "excerpt": "Chuck Gersham, CEO of Owl Autonomous Imaging, says that radar technology should theoretically be the correct move in pursuit of FSD but doesn’t believe it’ll be the last change by Tesla along this route.",
       "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200",
-      "originalUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200",
+      "webUrl": "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/",
+      "originalUrl": "https://marketscale.com/industries/transportation/tesla-to-add-radar-in-hopes-of-achieving-full-self-driving-in-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1656938538.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/air-india-puts-in-place-ethics-governance-structure-news-244200/amp",
-      "publishedDateTime": "2022-12-11T19:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-driverless-cars-on-cruise-control-are-coming-to-a-street-near-you.md",
-      "title": "Driverless cars on cruise control are coming to a street near you",
-      "excerpt": "Driverless cars have yet to reach the streets of Halifax, but perhaps residents should keep their eyes peeled. Though its cobblestones “might prove to be challenging”, Oliver Cameron, the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/driverless-cars-on-cruise-control-are-coming-to-a-street-near-you-0dg8x8h8x",
-      "originalUrl": "https://www.thetimes.co.uk/article/driverless-cars-on-cruise-control-are-coming-to-a-street-near-you-0dg8x8h8x",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F55e9d2c8-7976-11ed-bcd8-855e06175970.jpg?crop=5382%2C3028%2C1307%2C1417&resize=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://marketscale.com/wp-content/uploads/2022/12/shutterstock_1140629366-scaled.jpg",
+          "width": 1920,
+          "height": 1273,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -120,11 +627,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:02:00-08:00",
+      "publishedDateTime": "2022-12-13T16:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
+        "name": "marketscale",
+        "domain": "marketscale.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -139,12 +646,12 @@
       ]
     },
     {
-      "path": "_news/2022-12-12-bolstering-the-safety-of-self-driving-cars-with-a-deep-learning-based-object-detection-system.md",
-      "title": "Bolstering the safety of self-driving cars with a deep learning-based object detection system",
-      "excerpt": "Self-driving cars need to implement efficient, effective, and accurate detection systems to provide a safe and reliable experience to its users. To this end, an international research team has now developed an end-to-end neural network that,",
+      "path": "_news/2022-12-14-amazons-alexa-adds-text-to-speech-gestures-and-captioning-features.md",
+      "title": "Amazon's Alexa Adds Text-to-Speech, Gestures and Captioning Features",
+      "excerpt": "Amazon on Tuesday added three new Alexa features to its Echo Show smart display that are geared toward improving accessibility. The first, called Gestures, lets users dismiss timers by just ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/974123",
-      "originalUrl": "https://www.eurekalert.org/news-releases/974123",
+      "webUrl": "https://www.cnet.com/home/smart-home/amazons-alexa-adds-text-to-speech-gestures-and-captioning-features/",
+      "originalUrl": "https://www.cnet.com/home/smart-home/amazons-alexa-adds-text-to-speech-gestures-and-captioning-features/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -154,11 +661,63 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "publishedDateTime": "2022-12-13T16:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-minerva-university-ai-research-lab-turns-concepts-into-startups.md",
+      "title": "Minerva University AI Research Lab Turns Concepts into Startups",
+      "excerpt": "The Minerva University AI Research Lab has brought together groups of students to create and pitch their own AI tools, with an emphasis on addressing the ethical and technical concerns about the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/minerva-university-ai-research-lab-turns-concepts-into-startups",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/minerva-university-ai-research-lab-turns-concepts-into-startups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/0a149bf/2147483647/strip/true/crop/1280x667+0+27/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F10%2F5e%2F4a073e77485eaf7354b36982f673%2Fthumbnail-minerva-ai-lab-2.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/minerva-university-ai-research-lab-turns-concepts-into-startups?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/minerva-university-ai-research-lab-turns-concepts-into-startups?_amp=true",
+      "publishedDateTime": "2022-12-13T16:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -174,12 +733,12 @@
       ]
     },
     {
-      "path": "_news/2022-12-12-botz-global-x-robotics-artificial-intelligence-thematic-etf.md",
-      "title": "BOTZ Global X Robotics & Artificial Intelligence Thematic ETF",
-      "excerpt": "The chart has 1 X axis displaying Time. Data ranges from 2021-12-09 00:00:00 to 2022-12-12 00:00:00. The chart has 1 Y axis displaying values. Data ranges from -50.35 to 3.4.",
+      "path": "_news/2022-12-14-how-ibms-watson-could-disrupt-medical-imaging.md",
+      "title": "How IBM's Watson Could Disrupt Medical Imaging",
+      "excerpt": "\"If IBM can make Watson AI products for image analytics clinically relevant and seamlessly integrate these tools into the EMR, control of the radiology IT market will increasingly shift away from traditional radiology IT vendors. It may even force a ...",
       "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/symbol/BOTZ/charting",
-      "originalUrl": "https://seekingalpha.com/symbol/BOTZ/charting",
+      "webUrl": "https://www.mddionline.com/how-ibms-watson-could-disrupt-medical-imaging",
+      "originalUrl": "https://www.mddionline.com/how-ibms-watson-could-disrupt-medical-imaging",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -189,11 +748,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "publishedDateTime": "2022-12-13T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
+        "name": "MD&M East",
+        "domain": "mddionline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -203,32 +762,50 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-12-12-deepminds-alphacode-can-outcompete-human-coders.md",
-      "title": "DeepMind's AlphaCode Can Outcompete Human Coders",
-      "excerpt": "DeepMind's AlphaCode model performed well against human coders in a programming competition, with a paper describing its overall performance as similar to that of a \"novice programmer\" with up to a year of training AlphaCode achieved \"approximately human-level performance\" and solved previously unseen natural language problems by forecasting code segments and generating millions of potential solutions.",
+      "path": "_news/2022-12-14-migrate-sessionrunhook-to-keras-callbacks.md",
+      "title": "Migrate SessionRunHook to Keras callbacks",
+      "excerpt": "Start with imports and a simple dataset for demonstration purposes: import tensorflow as tf import tensorflow.compat.v1 as tf1 import time from datetime import datetime from absl import flags 2022-12-14 03&colon;29&colon;50.223888&colon; W tensorflow ...",
       "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/267656-deepminds-alphacode-can-outcompete-human-coders/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/267656-deepminds-alphacode-can-outcompete-human-coders/fulltext",
+      "webUrl": "https://www.tensorflow.org/guide/migrate/sessionrunhook_callback",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/sessionrunhook_callback",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "publishedDateTime": "2022-12-13T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -242,12 +819,12 @@
       ]
     },
     {
-      "path": "_news/2022-12-12-lensa-ai-avatar-portraits-are-popping-up-all-over-social-media-but-is-it-a-step-back-for-body-positivity.md",
-      "title": "Lensa AI avatar portraits are popping up all over social media, but is it a step back for body positivity?",
-      "excerpt": "She later adds: “I'm thankful to this silly AI-yourself trend as it gave me tools to try to work on that horrid inner voice.” The Lensa app asks for 10 to 20 selfies in order to generate its ‘magical avatars’, and can also be used to ‘perfect ...",
+      "path": "_news/2022-12-14-robot-controlled-by-rat-brain-cells.md",
+      "title": "Robot Controlled by Rat Brain Cells",
+      "excerpt": "Researchers from the University of Reading have made a robot that is controlled by brain cells extracted from rats. The cells are cultured and connected to the control circuit. The cells are alive ...",
       "sourceUrl": null,
-      "webUrl": "https://www.glamourmagazine.co.uk/article/ai-avatars-body-positivity",
-      "originalUrl": "https://www.glamourmagazine.co.uk/article/ai-avatars-body-positivity",
+      "webUrl": "https://www.medgadget.com/2010/12/robot_controlled_by_rat_brain_cells.html",
+      "originalUrl": "https://www.medgadget.com/2010/12/robot_controlled_by_rat_brain_cells.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -257,555 +834,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
+      "publishedDateTime": "2022-12-13T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GLAMOUR UK",
-        "domain": "glamourmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-pilot-study-finds-computer-vision-technology-effective-at-determining-proper-mask-wearing-in-a-hospital-setting.md",
-      "title": "Pilot study finds computer vision technology effective at determining proper mask wearing in a hospital setting",
-      "excerpt": "In a survey and study of hospital employee volunteers, researchers found that a low-cost computer vision system was feasible and well received",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/974196",
-      "originalUrl": "https://www.eurekalert.org/news-releases/974196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge.md",
-      "title": "BrainChip Joins Intel Foundry Services to Advance Neuromorphic AI at the Edge",
-      "excerpt": "BrainChip's Akida TM, enables low-latency and ultra-low power AI inference and on-chip learning. \"We are proud to partner with Intel as part of its IFS Accelerator - IP Alliance,\" said Anil Mankar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/ac30033830/brainchip-joins-intel-foundry-services-to-advance-neuromorphic-ai-at-the-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/12/02194914/BUY-SIGNAL-385.png",
-          "width": 800,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30033830",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30033830",
-      "publishedDateTime": "2022-12-11T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-what-to-know-about-lensa-the-ai-portrait-app-all-over-social-media.md",
-      "title": "What to know about Lensa, the AI portrait app all over social media",
-      "excerpt": "If you've logged on to any social media app this week, you've probably seen pictures of your friends, but re-imagined as fairy princesses, animé characters, or celestial beings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd/index.html",
-      "originalUrl": "https://www.cnn.com/style/article/lensa-ai-app-art-explainer-trnd/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/221211114012-01-lensa-selfie-121122-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/lensa-ai-app-art-explainer-trnd/index.html",
-      "publishedDateTime": "2022-12-11T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-artificial-neural-networks-market-is-expected-to-boom-ibm-corporation-google-inc-intel-corporation.md",
-      "title": "Artificial Neural Networks Market Is Expected to Boom- IBM Corporation, Google Inc., Intel Corporation",
-      "excerpt": "New Jersey, United States, Dec 11, 2022 /DigitalJournal/ The global Artificial Neural Networks Market is expected to grow at a Robust CAGR of 18% during the forecasting period of 2022 to 2029.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-neural-networks-market-is-expected-to-boom-ibm-corporation-google-inc-intel-corporation-2",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-neural-networks-market-is-expected-to-boom-ibm-corporation-google-inc-intel-corporation-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Artificial-Neural-Networks.jpg",
-          "width": 712,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-inside-incredible-plan-for-floating-lilypad-city-of-the-future-with-self-driving-cars-pilotless-helicopters.md",
-      "title": "Inside incredible plan for floating ‘Lilypad’ city of the future with self-driving cars & pilotless helicopters",
-      "excerpt": "AMBITIOUS plans for astonishing futuristic floating \"lilypad\" cities with driverless cars and pilotless helicopters have been unveiled. The designs for a series of enormous artificial islands off ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/tech/9887153/inside-floating-lilypad-city-of-future-self-driving-cars/",
-      "originalUrl": "https://www.thesun.ie/tech/9887153/inside-floating-lilypad-city-of-future-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2022/12/big-dk-paradise-city-inside-782238963-2.jpg?strip=all&quality=100&w=852&h=478&crop=1",
-          "width": 852,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.ie/tech/9887153/inside-floating-lilypad-city-of-future-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/9887153/inside-floating-lilypad-city-of-future-self-driving-cars/amp/",
-      "publishedDateTime": "2022-12-11T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-how-nvidia-tricked-everyone-into-buying-a-1600-gpu.md",
-      "title": "How Nvidia tricked everyone into buying a $1,600 GPU",
-      "excerpt": "Has Nvidia really managed to trick us into thinking that a $1,600 GPU is a great deal? When Nvidia first launched its Ada Lovelace flagship, the RTX 4090, and the reviews started pouring in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-nvidia-tricked-everyone-into-buying-rtx-4090/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-nvidia-tricked-everyone-into-buying-rtx-4090/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/rtx-4080-review-06.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-nvidia-tricked-everyone-into-buying-rtx-4090/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-nvidia-tricked-everyone-into-buying-rtx-4090/?amp",
-      "publishedDateTime": "2022-12-11T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-the-future-of-ai-is-finally-here-and-a-lot-of-people-are-going-to-be-out-of-a-job.md",
-      "title": "The Future Of AI Is Finally Here – And A Lot Of People Are Going To Be Out Of A Job",
-      "excerpt": "For years, folks have been talking about the coming AI revolution, about how it’s going to change everything, and about how it is going to cost a lot of people their jobs. Well, the future is now – and business leaders need to take note.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brycehoffman/2022/12/11/the-future-of-ai-is-finally-here--and-a-lot-of-people-are-going-to-be-out-of-a-job/",
-      "originalUrl": "https://www.forbes.com/sites/brycehoffman/2022/12/11/the-future-of-ai-is-finally-here--and-a-lot-of-people-are-going-to-be-out-of-a-job/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/639618d36b2bd6c01b620ebf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brycehoffman/2022/12/11/the-future-of-ai-is-finally-here--and-a-lot-of-people-are-going-to-be-out-of-a-job/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brycehoffman/2022/12/11/the-future-of-ai-is-finally-here--and-a-lot-of-people-are-going-to-be-out-of-a-job/amp/",
-      "publishedDateTime": "2022-12-11T09:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence.md",
-      "title": "Business Leaders Are Still Nervous About the Side Effects Of Artificial Intelligence",
-      "excerpt": "Real money — and lots of it — is on the line, and, ultimately, there is fear that AI may be more fad than substance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63962194b4116abe893ef9b2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/12/11/business-leaders-are-still-nervous-about-the-side-effects-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-12-11T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-artificial-intelligence-ai-in-alzheimers-applications-market-with-tremendous-growth-by-2029-ibm-pfizer-inc.md",
-      "title": "Artificial Intelligence (AI) in Alzheimers Applications Market with Tremendous growth by 2029 IBM, Pfizer, Inc.",
-      "excerpt": "IBM, Pfizer, Inc., Alzheimer, Netflix, Facebook, Aamzon, BenevolentAI, This study estimates the factors that are boosting the development of the global Artificial Intelligence (AI) in Alzheimers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-alzheimers-applications-market-with-tremendous-growth-by-2029-ibm-pfizer-inc",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-alzheimers-applications-market-with-tremendous-growth-by-2029-ibm-pfizer-inc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Artificial-Intelligence-AI-in-Alzheimers-Applications.jpg",
-          "width": 712,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-12-artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation.md",
-      "title": "Artificial intelligence (AI) in Logistics Market Is Booming Worldwide IBM, Google, Microsoft Corporation",
-      "excerpt": "New Jersey, United States, Dec 11, 2022 /DigitalJournal/ The global Artificial intelligence (AI ... companies Influencing this Market include: IBM, Google, Microsoft Corporation, Amazon Web ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-logistics-market-is-booming-worldwide-ibm-google-microsoft-corporation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/12/Artificial-intelligence-AI-in-Logistics.jpg",
-          "width": 712,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-11T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-11-rbi-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning.md",
-      "title": "RBI shortlists 7 global consultancy firms to use artificial intelligence and machine learning",
-      "excerpt": "The bank now intends to upscale it to ensure that the benefits of advanced analytics can accrue to Department of Supervision in central bank",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251",
-      "originalUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2021/Feb/1612296852_reserve-bank-of-india.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/reserve-bank-of-india-shortlists-7-global-consultancy-firms-to-use-artificial-intelligence-and-machine-learning-to-improve-regulatory-supervision/cid/1903251",
-      "publishedDateTime": "2022-12-11T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-11-machine-made-biryani-how-robotics-and-automation-is-taking-over-cloud-kitchens-in-india.md",
-      "title": "Machine-made biryani? How robotics and automation is taking over cloud kitchens in India",
-      "excerpt": "The last biryani that you ordered in was perhaps made by a machine and not a cook. Shocked? Don’t be. Most cloud kitchens and restaurant chains are increasingly relying on machines to prepare ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/machine-made-biryani-how-robotics-and-automation-is-taking-over-cloud-kitchens-in-india-9667741.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/machine-made-biryani-how-robotics-and-automation-is-taking-over-cloud-kitchens-in-india-9667741.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/12/Machine-Kitchen-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/machine-made-biryani-how-robotics-and-automation-is-taking-over-cloud-kitchens-in-india-9667741.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/machine-made-biryani-how-robotics-and-automation-is-taking-over-cloud-kitchens-in-india-9667741.html/amp",
-      "publishedDateTime": "2022-12-11T00:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
+        "name": "Medgadget",
+        "domain": "medgadget.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -820,21 +853,21 @@
       ]
     },
     {
-      "path": "_news/2022-12-11-common-gpu-problems-and-how-to-fix-them.md",
-      "title": "Common GPU problems and how to fix them",
-      "excerpt": "If you use a desktop PC or laptop for long enough, chances are you’re going to come across one of the common GPU problems that have plagued gamers and workers since the humble graphics card ...",
+      "path": "_news/2022-12-14-this-force-controlled-robot-gripper-is-less-likely-to-break-stuff.md",
+      "title": "This Force Controlled Robot Gripper Is Less Likely To Break Stuff",
+      "excerpt": "While robotic arms can handle a wide variety of ... it may be desired to have a force controlled gripper to avoid damage. [James Bruton] has been whipping up a design of his own for just this ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/common-gpu-problems-how-to-fix/",
-      "originalUrl": "https://www.digitaltrends.com/computing/common-gpu-problems-how-to-fix/",
+      "webUrl": "https://hackaday.com/2019/03/25/this-force-controlled-robot-gripper-is-less-likely-to-break-stuff/",
+      "originalUrl": "https://hackaday.com/2019/03/25/this-force-controlled-robot-gripper-is-less-likely-to-break-stuff/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/rtx-4090-suprim-x-5.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
+          "url": "https://hackaday.com/wp-content/uploads/2019/03/arm800.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -842,16 +875,50 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/common-gpu-problems-how-to-fix/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/common-gpu-problems-how-to-fix/?amp",
-      "publishedDateTime": "2022-12-10T23:03:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-using-machine-learning-to-improve-the-toxicity-assessment-of-chemicals.md",
+      "title": "Using machine learning to improve the toxicity assessment of chemicals",
+      "excerpt": "Oct. 8, 2021 — A team has developed a novel machine learning approach that can create similarity projections via machine learning, enabling researchers to search an unstructured image database ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/12/221214113913.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/12/221214113913.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -867,26 +934,26 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-12-11-microsofts-role-in-the-success-of-openai.md",
-      "title": "Microsoft’s Role in the Success of OpenAI",
-      "excerpt": "The OpenAI–Microsoft partnership began in 2019 when Microsoft announced that it would invest $1 billion into OpenAI's project of building Artificial General Intelligence (AGI) that had wide economic benefits.",
+      "path": "_news/2022-12-14-lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted.md",
+      "title": "Lensa AI app causes a stir with sexy “Magic Avatar” images no one wanted",
+      "excerpt": "While Lensa AI has proven popular among people on social media who like to share their AI portraits, the press has widely focused on the app's reported tendency to sexualize depictions of women when Lensa's AI avatar feature launched.",
       "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/microsofts-role-in-the-success-of-openai/",
-      "originalUrl": "https://analyticsindiamag.com/microsofts-role-in-the-success-of-openai/",
+      "webUrl": "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/11/Azure-OpenAI-A-New-Microsoft-Service-Allows-GPT-3-Access.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/lensa_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -894,13 +961,162 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-10T20:30:00-08:00",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/lensa-ai-app-causes-a-stir-with-sexy-magic-avatar-images-no-one-wanted/amp/",
+      "publishedDateTime": "2022-12-13T15:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-4-mind-boggling-technology-advances-in-store-for-2023.md",
+      "title": "4 Mind-Boggling Technology Advances In Store For 2023",
+      "excerpt": "In 2023 the trend will continue as the pace of innovation and development of potentially disruptive emerging technologies exponentially increases every year",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63990ad004b32ca023bf8641/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2022/12/13/4-mind-boggling-technology-advances-in-store-for-2023/amp/",
+      "publishedDateTime": "2022-12-13T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Computer Vision",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation.md",
+      "title": "AI and analytics platform Dataiku raises $200M at a reduced valuation",
+      "excerpt": "AI and analytics startup Dataiku has raised $200 million at a reduced valuation, bringing its total raised to around $600 million.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/",
+      "originalUrl": "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421635359.jpg?resize=1200,720",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/12/13/ai-and-analytics-platform-dataiku-raises-200m-at-a-reduced-valuation/amp/",
+      "publishedDateTime": "2022-12-13T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-exercise-mindfulness-dont-appear-to-boost-cognitive-function-in-older-adults.md",
+      "title": "Exercise, mindfulness don’t appear to boost cognitive function in older adults",
+      "excerpt": "A large study that focused on whether exercise and mindfulness training could boost cognitive function in older adults found no such improvement following either intervention. Researchers at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/974321",
+      "originalUrl": "https://www.eurekalert.org/news-releases/974321",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -911,188 +1127,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-11-srm-hosts-meet-on-deep-learning-for-image-restoration-computer-vision.md",
-      "title": "SRM hosts meet on deep learning for image restoration & computer vision",
-      "excerpt": "VIJAYAWADA: SRM University-AP hosted the IEEE SPS Winter School on ‘Deep Learning for Image Restoration and Computer Vision’ from December 5 to 10. Department of Electronics and Communication ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-hosts-meet-on-deep-learning-for-image-restoration--computer-vision-2527047.html",
-      "originalUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-hosts-meet-on-deep-learning-for-image-restoration--computer-vision-2527047.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/18/w600X390/Computer.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-hosts-meet-on-deep-learning-for-image-restoration--computer-vision-2527047.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/vijayawada/2022/dec/11/srm-hosts-meet-on-deep-learning-for-image-restoration--computer-vision-2527047.amp",
-      "publishedDateTime": "2022-12-10T19:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-12-11-facial-recognition-attendance-for-teachers-students-in-state.md",
-      "title": "Facial recognition attendance for teachers, students in state",
-      "excerpt": "Uttar Pradesh government has rolled out a facial recognition-based teacher and student attendance monitoring system for public schools in the state.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/articleshow/96143984.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/articleshow/96143984.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/lucknow/facial-recognition-attendance-for-teachers-students-in-state/amp_articleshow/96143984.cms",
-      "publishedDateTime": "2022-12-10T19:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-11-ai-designed-face-paint-inspired-by-juggalos-could-potentially-fool-the-15000-facial-recognition-cameras-at-the-qatar-world-cup.md",
-      "title": "AI-designed face paint inspired by Juggalos could potentially fool the 15,000 facial recognition cameras at the Qatar World Cup",
-      "excerpt": "An curved arrow pointing right. What if simple face paint could fool some of the best facial recognition tools available at the Qatar World Cup? A team at creative agency Virtue Worldwide sought ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-face-paint-camera-qatar-world-cup-facial-recognition-2022-12",
-      "originalUrl": "https://www.businessinsider.com/ai-face-paint-camera-qatar-world-cup-facial-recognition-2022-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6396ade3c4e31900185d3216?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-face-paint-camera-qatar-world-cup-facial-recognition-2022-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-face-paint-camera-qatar-world-cup-facial-recognition-2022-12?amp",
-      "publishedDateTime": "2022-12-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-11-asahi-linux-gets-alpha-gpu-drivers-on-apple-silicon.md",
-      "title": "Asahi Linux Gets Alpha GPU Drivers on Apple Silicon",
-      "excerpt": "After two years of work to reverse engineer Apple Silicon GPU instruction set and to implement the kernel driver, Asahi Linux has finally got an alpha-quality release of its GPU driver that is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/12/asahi-gpu-driver-apple-silicon/",
-      "originalUrl": "https://www.infoq.com/news/2022/12/asahi-gpu-driver-apple-silicon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/12/asahi-gpu-driver-apple-silicon/en/headerimage/asahi-linux-gpu-driver-apple-silicon-1670792863683.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
