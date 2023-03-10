@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Gurucul Named Most Innovative Security Company of the Year for Artificial Intelligence in the 19th Annual 2023 Globee Cybersecurity Awards"
+    excerpt: "Company's artificial intelligence capabilities within Gurucul Next-Gen SIEM recognized for dramatically reducing operations expenses and improving efficiency of Threat Detection and Response programs Gurucul,"
+    publishedDateTime: 2023-03-10T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/b31298405/gurucul-named-most-innovative-security-company-of-the-year-for-artificial-intelligence-in-the-19th"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "z26w70hyqupPLtxEDqRSToNUXNWgp8JuYRqUzCwruHkPFQjCIcT4K8ZqyQ9e6fiSH0yEboeYIgXUqhhf4NRJaol3owLt7UzS5xOrEP02pILeVqXk/7FpCdmP6A4ZSJyChzZnEaazvXJjw8EXZCt9HBplrqtv6QESXMgbLCI+fUz7qq58keECdRheMbVpncZLaCPc4AhyPSaZIXHy3BxMO94B/Hh9w2Xdc3JDGFcrgC83AgU+3n+CbtpSJpeMl/JOTOdlVmWYMhPpmFlfH/piu/OOpbbQY3VleVevwxbV8yfhcSs/ns8LQ2Kigv5fyXENx5b2fXVbAeJXSTBgt4qBw/EGI8xPaqUBi3XtKmLdBJE=;T7JoHL8VhNoGU4FwfQJ1ew=="
 ---

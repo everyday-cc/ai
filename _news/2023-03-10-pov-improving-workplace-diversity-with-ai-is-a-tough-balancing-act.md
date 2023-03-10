@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-10T04:00:00Z
 originalUrl: "https://www.fastcompany.com/90862881/pov-improving-workplace-diversity-with-ai-is-a-tough-balancing-act"
 webUrl: "https://www.fastcompany.com/90862881/pov-improving-workplace-diversity-with-ai-is-a-tough-balancing-act"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Fast Company

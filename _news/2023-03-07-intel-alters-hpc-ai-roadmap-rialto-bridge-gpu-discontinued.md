@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-06T20:22:00Z
 originalUrl: "https://insidehpc.com/2023/03/intel-alters-hpc-ai-roadmap-rialto-bridge-gpu-discontinued/"
 webUrl: "https://insidehpc.com/2023/03/intel-alters-hpc-ai-roadmap-rialto-bridge-gpu-discontinued/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: insideHPC

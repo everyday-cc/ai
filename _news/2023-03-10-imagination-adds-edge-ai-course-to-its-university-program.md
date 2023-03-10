@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-09T19:09:00Z
 originalUrl: "https://www.embedded.com/imagination-adds-edge-ai-course-to-its-university-program/"
 webUrl: "https://www.embedded.com/imagination-adds-edge-ai-course-to-its-university-program/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Embedded

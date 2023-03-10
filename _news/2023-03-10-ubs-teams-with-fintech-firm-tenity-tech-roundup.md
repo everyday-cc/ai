@@ -57,6 +57,15 @@ related:
         width: 1122
         height: 1280
         isCached: true
+  - title: "Fintech Sandbox unveils demo day lineup"
+    excerpt: "Fintech Sandbox, a nonprofit that provides early-stage startups around the world with free access to critical datasets and infrastructure, today announced the line-up for its free, virtual Demo Day 9."
+    publishedDateTime: 2023-03-07T16:19:00Z
+    webUrl: "https://www.finextra.com/pressarticle/96006/fintech-sandbox-unveils-demo-day-lineup"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "Pnw2JXVCp/H1gt8qGw2nWsKTLKHxEdzz9OPLExGrPm38RjV99LJwwWzNPvDFc0NMepoC5w+BmV8kWLK7b24dy7ulT8d42UrrA64G3pnfLDVMH7dleYOjZASPmlIl4Ja5l2OemyIaEMRud7SGkkCvwJ1H4PrMgyzbEN9JBQajI6fTMfjNboJyEipjFf+Y1GQABBY1MdBrITan9Mtnfi3hM3OUBaWn/SL7i3U0KXCiEYFyp519aavaXXFWiqExNXJX6i/LuwLpg38rQOG+5tvwkBGKD82uK07fjmMbw90ujBTpGgALzD0Pv2N4ms7r7BvmIqudqdF5AdQG/j/tAV5yM6IqHRheJDfFUYNPZtDRaUg=;R18fW2HSDgF4z2DgqDPPtw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-10T20:12:00Z
 originalUrl: "https://www.automation.com/en-us/articles/march-2023/shea-universal-robots-burnstein-a3-2023-awards"
 webUrl: "https://www.automation.com/en-us/articles/march-2023/shea-universal-robots-burnstein-a3-2023-awards"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Automation

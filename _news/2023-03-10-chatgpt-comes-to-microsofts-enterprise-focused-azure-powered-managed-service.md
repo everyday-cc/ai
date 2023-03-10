@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/amp/"
 type: article
 quality: 100
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -96,6 +96,15 @@ related:
         width: 2400
         height: 1351
         isCached: true
+  - title: "Microsoft Azure Customers Can Now Access SolarWinds Observability Through the Azure Marketplace"
+    excerpt: "SolarWinds, a provider of powerful and secure IT management software, announced SolarWinds Observability is now available on the Microsoft Azure Marketplace, empowering SolarWinds customers to take advantage of the Azure cloud platform."
+    publishedDateTime: 2023-03-10T19:00:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Microsoft-Azure-Customers-Can-Now-Access-SolarWinds-Observability-Through-the-Azure-Marketplace-157567.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 22
 
 secured: "t0cpNKrTYf4fsqTp/RRzywfS3iWU04ySjCH+gmSFLwvtSDakAZimE6t6M6SqhGRwpD/FDqYDDwwTkiXVnmHa1NW1SBeEybjeMtOmP68BCBeawp8042rvzYNncCjS4Pwjv19oV/zJKZks2lJGhn4czSNeQlhLoIf2HGm1amiSXjR/OCq1qSQxizcRrUQi60a0fMyyu5wqnzlSPgbkiO2rMT1jbGzsOS641lEL5rYL0Y9A1/K7XgFmbe5MJm+1aGNxbmyCwgfVJULRgUh0iXCnpSHvcSG+38jvAp6GxAUm4hVdBgV6F83Aj9RF7LxAcOU09F0VOBDWQ82TcrnZfLwNZzB1czfs7n5B0PG9qHNf3Un2pU9XmVDbGq9nvN5Onu2PCDF3xpmF1hVKsyDiCddFapLII8ETlweteVuLUZ0BFuWNj/K17GQDB20/NZWB+fGwxKQIBDM6JsVlVrPXTtyuq6X5MKqTAf2jfJu+DJgO0W3Y4176Ypqtd2SPNw8Kn2zdH6KwJTVG/Gb+oUrBTDnN/A==;TpVoPrR4SRU5Q63kuExDhg=="
 ---

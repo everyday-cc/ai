@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-loo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/amp/"
 type: article
 quality: 106
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -132,6 +132,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Latest Microsoft Layoff Wave Hits Supply Chain, Cloud, IoT Employees"
+    excerpt: "manager who worked with Microsoft for about two years and worked on facilitating “the delivery of secure high-quality data to improve machine learning and artificial intelligence models” *A 23-year Microsoft veteran who was a senior content developer ..."
+    publishedDateTime: 2023-03-10T20:27:00Z
+    webUrl: "https://www.crn.com/news/cloud/latest-microsoft-layoff-wave-hits-supply-chain-cloud-iot-employees"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
 
 secured: "r3cppZgFCOFD6ubwE4qvCMCvgHcmDUFHbE+tF9H0dCcj63cLHK3w2FG00278rfu8C5CNnSKGuIeT/mvDDz7YkPROCWIOhGOHB5dABEWQ5esWlCVJ4GKVchcTUte2vjouFFWfStcktRabEpAnrK/Nh+Zl+LDdqEyoqxzVtOjJ7Tjj+w2oSX54MeDv1y2MSEEaflWof4oEElPWyUzMlVkIdM2WPQCSWTaBgGDB7agWuv9i1cOTloJPOPmGj3ux82Ed8li8M6tBVZiJfrp4rvmadCv/MsJ7BmE2qTMvIlUZXpcZGLew9fXwOOjG+nCtPaBmh/HkTKPzweXFWIWAojWX4fWBoAJSHMhDv0rfjtjvyfU=;ESWwwMNDQ9dZyY9B8QkLPg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-10T20:43:00Z
 originalUrl: "https://futurism.com/the-byte/artists-ai-vermeer-girl-pearl-earring"
 webUrl: "https://futurism.com/the-byte/artists-ai-vermeer-girl-pearl-earring"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Futurism
@@ -14,6 +17,12 @@ provider:
 topics:
   - AI
 
-secured: "ooHUuW0L5gB187p4QDwTvB7lXWMN4O+f6rVe7U/hgM/xJfXEXnHAJjry9x/RtIDRmoVMhL+UiBbA6cRyKiHvbZvDLZq8u8d7DlnL94YeUwJQCxc6ntBK0ijuUOuD4xDLbmK41b27t3e0SOaBXxdNX1zSbV9HmjDmALaVcetr3IOTt8vkHWLL+AT6ix9beX4/9/sbFISXFOkB5ZHUcUf06nFiXJ1pzupheUrXlg6RWFQ8SJckWAh+UdQVA4mjWUrscCaIsnsBFW3I5FQzF4bKmzWSnX8kqhiWTrusFcPnWz4sQHE2NDUKZj4odHYGVD3YxBt2JeWfFwR9q1DH7rja16j/buv/hZWAhiQUndVC4oQ=;xA4g9kiTD/isa6drXTZ6ZQ=="
+images:
+  - url: "https://wp-assets.futurism.com/2023/03/artists-ai-vermeer-girl-pearl-earring.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "m+1VGqCkE/hUOmRf7EMiV1NdWkk8fS23V/koqwqMxLn83Fxg8c8zC3hgK1Cs+xUy/whX0Deq4rFuqO++oiSTaaco7GmHFu0kF9xdzRv+BV3ODlZgMThmQzqVesp7+fCIlyp5m1sfRiO2HU5nw9WqAJ7XZhhL+R0+QA12lJU+pdBiGwzQfi6BzSAy9vphpaYqPX2rAWlT31j6bvzypemGnfKMqWbgkkQL3iL2oec50BdgSaJyXLb3bkH7aEY9B1QQHvTx+54Dim+ZpqI4zzKrUG9mVrkrqSpPqtR9ekdtKwigW1OrIG9icWJgY+S5TtIgf1JwOLdOhKveu3k5ddZF9G6U//MV3ojnsOqxDRFmxOA=;uV1YydozJqeVaunCu9eSYw=="
 ---
 

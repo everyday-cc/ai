@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-10T18:49:00Z
 originalUrl: "https://siliconangle.com/2023/03/10/8x8-unveils-bevy-new-customer-facing-ai-capabilities/"
 webUrl: "https://siliconangle.com/2023/03/10/8x8-unveils-bevy-new-customer-facing-ai-capabilities/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: SiliconANGLE

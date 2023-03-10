@@ -131,6 +131,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Latest Microsoft Layoff Wave Hits Supply Chain, Cloud, IoT Employees"
+    excerpt: "manager who worked with Microsoft for about two years and worked on facilitating “the delivery of secure high-quality data to improve machine learning and artificial intelligence models” *A 23-year Microsoft veteran who was a senior content developer ..."
+    publishedDateTime: 2023-03-10T20:27:00Z
+    webUrl: "https://www.crn.com/news/cloud/latest-microsoft-layoff-wave-hits-supply-chain-cloud-iot-employees"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
 
 secured: "ZVSk44A8nYJzfOehUmGjQ7M5cv9Vz9Oj6hPKqt1fNK+1aub/dO3dt8nsrjVRJCZTK2Wju866WzTh4bhHzigm+lgNc/Hh5I8WDbZNqRIKoIFYOUtRF/mMO7i9m3Ie4tVMWuwaFw1kw4ukW3myiF0gxHZ8EZcfyUFtjU0zTNRhr94/PpGOZgysl1E0ChvQnHX6nPa1sIhvI9Bx+h8ZJD4STK5W/KeB4TQqAuJNnXVXLy+zCqxnZzDpJ7ghTYeL7sPVrSsnetqRYuFCo1jthm2vtirHxV585FA0OBGiV2jepg7r/ov2WptDsbhlkD2c3FSPvqUKHMwZ1gaxfmZyN+44fJLJTDobwrTlCcFX3gJzYBep18q2w8cGXlgMITKofib8amSI4iBW9gYv45pxmFSRdwwUcEDYvBY4KGNYQOU/m4dtUO4I02GaskB6Q5H6gI5laz5mcn8lBxqzYwHQRqyMR5bTfKngBLYX3ZmGuijK+WARAqXA3+1u1IOsSDhMD+e5zCGqzWK1RKAMWvIU4+9u2g==;5YOWy9uzQ5dv1koW8NeOHg=="
 ---

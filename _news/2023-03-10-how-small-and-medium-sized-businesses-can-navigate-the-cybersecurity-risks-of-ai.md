@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-sm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Gurucul Named Most Innovative Security Company of the Year for Artificial Intelligence in the 19th Annual 2023 Globee Cybersecurity Awards"
+    excerpt: "Company's artificial intelligence capabilities within Gurucul Next-Gen SIEM recognized for dramatically reducing operations expenses and improving efficiency of Threat Detection and Response programs Gurucul,"
+    publishedDateTime: 2023-03-10T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/b31298405/gurucul-named-most-innovative-security-company-of-the-year-for-artificial-intelligence-in-the-19th"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
   - title: "Gurucul Named Most Innovative Security Company of the Year for Artificial Intelligence in the 19th Annual 2023 Globee Cybersecurity Awards"
     excerpt: "Gurucul, the leader in Next-Gen SIEM, UEBA, XDR and Identity & Access Analytics, announced today that The Globee® Awards, organizers of the world's premier business awards programs and business ranking lists,"
     publishedDateTime: 2023-03-10T17:55:00Z

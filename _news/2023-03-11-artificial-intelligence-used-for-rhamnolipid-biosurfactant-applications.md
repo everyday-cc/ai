@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-10T19:03:00Z
 originalUrl: "https://menafn.com/1105751331/Artificial-Intelligence-Used-For-Rhamnolipid-Biosurfactant-Applications"
 webUrl: "https://menafn.com/1105751331/Artificial-Intelligence-Used-For-Rhamnolipid-Biosurfactant-Applications"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Mena FN

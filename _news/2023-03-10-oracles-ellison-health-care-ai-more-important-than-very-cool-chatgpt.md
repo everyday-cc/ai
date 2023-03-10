@@ -103,20 +103,15 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "Microsoft uses ChatGPT AI to control flying drones and robot arms"
-    excerpt: "Microsoft says it has used the natural language AI ChatGPT to control a range of robots with simple text commands. The approach means people with no engineering or coding experience will be able ..."
-    publishedDateTime: 2023-03-06T04:47:00Z
-    webUrl: "https://www.newscientist.com/article/2361382-microsoft-uses-chatgpt-ai-to-control-flying-drones-and-robot-arms/"
+  - title: "ChatGPT now chatting via Azure OpenAI Service"
+    excerpt: "Developers can now integrate ChatGPT directly, using a token-based pricing system, into a host of different enterprise and end-user applications."
+    publishedDateTime: 2023-03-10T20:52:00Z
+    webUrl: "https://www.infoworld.com/article/3690335/chatgpt-now-chatting-via-azure-openai-service.html"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 71
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/03/03145551/SEI_146216875.jpg"
-        width: 1200
-        height: 799
-        isCached: true
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 64
   - title: "ChatGPT vs Google: The Battle of AI-Language Models"
     excerpt: "This blog explores the comparison between two popular AI language models: ChatGPT developed by OpenAI and Google's AI language model, also known as BERT. Both models have their strengths and weaknesses,"
     publishedDateTime: 2023-03-07T16:05:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-10T18:31:00Z
 originalUrl: "https://www.psychologytoday.com/us/blog/team-spirit/202303/forcing-versus-choosing-the-future-of-ai"
 webUrl: "https://www.psychologytoday.com/us/blog/team-spirit/202303/forcing-versus-choosing-the-future-of-ai"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Psychology Today

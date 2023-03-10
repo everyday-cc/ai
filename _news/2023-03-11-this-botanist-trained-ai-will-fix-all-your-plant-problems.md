@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-10T18:45:00Z
 originalUrl: "https://www.apartmenttherapy.com/ai-plant-doctor-37232283"
 webUrl: "https://www.apartmenttherapy.com/ai-plant-doctor-37232283"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Apartment Therapy

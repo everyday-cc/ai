@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-09T13:41:00Z
 originalUrl: "https://menafn.com/1105740725/Mendix-And-AWS-Continue-Momentum-One-Year-Into-Their-Expanded-Collaboration"
 webUrl: "https://menafn.com/1105740725/Mendix-And-AWS-Continue-Momentum-One-Year-Into-Their-Expanded-Collaboration"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Mena FN

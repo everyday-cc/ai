@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-10T19:52:00Z
 originalUrl: "https://www.businessinsider.com/google-spin-off-robotics-project-skip-smarty-pants-2023-3"
 webUrl: "https://www.businessinsider.com/google-spin-off-robotics-project-skip-smarty-pants-2023-3"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Business Insider

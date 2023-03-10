@@ -27,6 +27,20 @@ images:
 
 related:
   - title: "Databricks Launches Simplified Real-Time Machine Learning for the Lakehouse"
+    excerpt: "Databricks, the lakehouse company, today announced the launch of Databricks Model Serving to provide simplified production machine learning"
+    publishedDateTime: 2023-03-07T14:00:00Z
+    webUrl: "https://www.newswire.ca/news-releases/databricks-launches-simplified-real-time-machine-learning-for-the-lakehouse-862238433.html"
+    type: article
+    provider:
+      name: Newswire
+      domain: newswire.ca
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
+        width: 1094
+        height: 576
+        isCached: true
+  - title: "Databricks Launches Simplified Real-Time Machine Learning for the Lakehouse"
     excerpt: "Databricks Model Serving is now generally available on AWS and Azure. With the opportunities surrounding ... Databricks' unified, data-centric approach to machine learning from the lakehouse enables businesses to embed AI at scale and allows models to ..."
     publishedDateTime: 2023-03-10T18:38:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312014&cat=PR News Wire"

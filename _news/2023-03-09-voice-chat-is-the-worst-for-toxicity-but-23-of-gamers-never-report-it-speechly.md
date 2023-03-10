@@ -31,17 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "Gamers Say They Love Voice Chat, But 49% Have Been Victims of Toxic Behavior -- New Report"
+  - title: "Gamers Say They Love Voice Chat, But 49% Have Been Victims of Toxic Behavior — New Report"
     excerpt: "A survey of a nationally representative sample of more than 1,000 U.S. gamers found that nearly 70% have used voice chat while gaming. Nearly half of all gamers and 72% of voice chat users reported ex"
     publishedDateTime: 2023-03-08T15:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31260981/gamers-say-they-love-voice-chat-but-49-have-been-victims-of-toxic-behavior-new-report"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31260981"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31260981"
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/p31261005/gamers-say-they-love-voice-chat-but-49-have-been-victims-of-toxic-behavior-new-report"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31261005"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31261005"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 34
+    quality: 35
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043

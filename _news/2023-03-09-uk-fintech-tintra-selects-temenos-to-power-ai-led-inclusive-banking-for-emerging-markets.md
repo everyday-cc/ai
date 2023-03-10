@@ -3,8 +3,8 @@ category: news
 title: "UK Fintech Tintra Selects Temenos to Power AI-Led Inclusive Banking for Emerging Markets"
 excerpt: "Tintra PLC, a London-headquartered Deep Tech and Banking company, has selected Temenos to power its innovative new bank designed solely for emerging market clients. Tintra will be using Temenos core banking platform and market-leading payments as well as its Financial Crime Mitigation solution."
 publishedDateTime: 2023-03-09T08:59:00Z
-originalUrl: "https://financialit.net/news/open-banking/uk-fintech-tintra-selects-temenos-power-ai-led-inclusive-banking-emerging-markets"
-webUrl: "https://financialit.net/news/open-banking/uk-fintech-tintra-selects-temenos-power-ai-led-inclusive-banking-emerging-markets"
+originalUrl: "https://financialit.net/news/digital-banking/uk-fintech-tintra-selects-temenos-power-ai-led-inclusive-banking-emerging"
+webUrl: "https://financialit.net/news/digital-banking/uk-fintech-tintra-selects-temenos-power-ai-led-inclusive-banking-emerging"
 type: article
 quality: 45
 heat: 45
@@ -24,6 +24,6 @@ images:
     height: 768
     isCached: true
 
-secured: "M1A2x9SGWLUWvNbQ+KLOhyDFiA6u3waW+yWLqCF6Tm+bDPj4h/ur98fGi3ZqDi1K2/3sgvXsrVTdqTtGKj0CrXHd/Qn6iGdIJJAzcEMSPqKI58DFnHwiy8z2KtO5AJzH/mwjmmGY3Mb5N2L8LRkb26F0qcHTHpU1VDbmavIxX/IWMkmZHiPqrHeOnVHZMhr0pkJQTQNOvRH/lHzftKU/9LpEc5GMMJ9iQWmB1YRSUzgYwp/cWJms5Nli2xg5GoyIthBJVezxYLC1oH/gC2RVcesv+lI4E1faqoOUsUVE+5mUoOjYmGYtHajl//EYtamHTw3S5mRjLcXg7hPTOKsysgRHUJdOHBNJFCHTAHiAlcYl86g3Ywy4RvBwxWXOD3vwxl4oawy15JSxXw9A2J9EcXebgBE7Tb58k5ntPKeUsn6ux2xkfKNnQxPxXGEBO60L9JKRyN1cYAy6uF6WNhRZnGxAO1uSmr9U6PQESxnuLrjVwPuSlHpSoCbe5qwsdB5NeP0NwCF0Lz6gSRHAKCtytQ==;zpzBeWC3XrjD022HWszZOg=="
+secured: "EfXYCerzfv/creiHi64jhqtoP7e6e51Dmh4Q4eqhwDgRTykPgAiTj2ODsdQaRE1Ewxiyy7JwJIbzPP0u2+Tlf6EECue9KaueYu4/TtGTkqD46CSpn0dkK2kxLSI990EDhRMR2nDdXoklFc3naa8EySEO8Ze6NhkIJYs/8iUtpsioKRxQTcBmG76NglzPmKAZoE2rPEHXOvysv+YcEXPPabJRgUK4TfbwrOH+OJavdTojHNQWc59zAIB5kzqNqnNOLB5om/bGbEAF+Ty9vgqrNernevlHQAbtXwlqEs19ugZIAv5ATxojjE4z+w408HvwAAqHAr8s9CR27phKTaDrntwdN23HHud0hE1nOQ2VaaE=;43xpWuQUpcEPe+FU8gT0kg=="
 ---
 

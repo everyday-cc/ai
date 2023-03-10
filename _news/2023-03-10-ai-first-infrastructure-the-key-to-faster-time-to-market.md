@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-ti
 ampWebUrl: "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:

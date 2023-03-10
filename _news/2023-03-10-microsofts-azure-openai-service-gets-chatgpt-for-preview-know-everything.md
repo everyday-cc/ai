@@ -92,6 +92,15 @@ related:
         width: 2400
         height: 1351
         isCached: true
+  - title: "Microsoft Azure Customers Can Now Access SolarWinds Observability Through the Azure Marketplace"
+    excerpt: "SolarWinds, a provider of powerful and secure IT management software, announced SolarWinds Observability is now available on the Microsoft Azure Marketplace, empowering SolarWinds customers to take advantage of the Azure cloud platform."
+    publishedDateTime: 2023-03-10T19:00:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Microsoft-Azure-Customers-Can-Now-Access-SolarWinds-Observability-Through-the-Azure-Marketplace-157567.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 22
 
 secured: "qLvuEvDPQM3BQdvpNcE4pOolMRkLXGu4dLBbxBh0ta5ZECcpmhStWUEX/m9TBjyvKRV0p/whIsFne5KujWuaZ/J3zXPj6m4QNLfKAAsPtkhkIjGWtelBHmHHvWV6JhjytfkQAnRgD/MjfE5ZvACPO3VWJxWLhv9AAqjxO1zoYyFMqAsItjev8T1TkviAOCW3f1aEwC9slBYzpESEjh3GQY8XzzM9c4Ao9smH7edcFOPN+4Zl3OH/kGYVFdv0JlNvsVWq7+/Sbu6ASD9uQu3UaCMMXXKppnmL1JlETu46BF4haGJi1tEp5ZehywiWvgzBzhnOX4k5uJcoBoTg+dWRJb2B0Im8uQVhcJXLyjzanx4=;uti5z4L6rybNLB+GfLhbdw=="
 ---

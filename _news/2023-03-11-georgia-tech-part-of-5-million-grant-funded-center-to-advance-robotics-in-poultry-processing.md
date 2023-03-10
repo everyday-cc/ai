@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-10T19:48:00Z
 originalUrl: "https://news.gatech.edu/news/2023/03/10/georgia-tech-part-5-million-grant-funded-center-advance-robotics-poultry-processing"
 webUrl: "https://news.gatech.edu/news/2023/03/10/georgia-tech-part-5-million-grant-funded-center-advance-robotics-poultry-processing"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Georgia Tech News Center

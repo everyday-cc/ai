@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-10T19:18:00Z
 originalUrl: "https://archpaper.com/2023/03/symposium-ut-austin-architecture-future-artificial-intelligence/"
 webUrl: "https://archpaper.com/2023/03/symposium-ut-austin-architecture-future-artificial-intelligence/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: archpaper

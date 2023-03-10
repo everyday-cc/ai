@@ -43,20 +43,13 @@ related:
         isCached: true
   - title: "Generative AI Could Help Solve the U.S. Mental Health Crisis"
     excerpt: "Now, as I prepare to match into psychiatry, I can’t help but wonder if ChatGPT could do my future job. The app-based chatbot released in December immediately popularized generative AI. Generative AI analyzes patterns in written words from across the web,"
-    publishedDateTime: 2023-03-09T23:33:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-doctor-of-the-future/202303/generative-ai-could-help-solve-the-us-mental-health-crisis"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-doctor-of-the-future/202303/generative-ai-could-help-solve-the-us-mental-health-crisis?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-doctor-of-the-future/202303/generative-ai-could-help-solve-the-us-mental-health-crisis?amp"
+    publishedDateTime: 2023-03-09T22:31:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-doctor-of-the-future/202303/generative-ai-could-help-solve-the-us-mental-health-crisis"
     type: article
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pexels-ketut-subiyanto-4350099.jpg?itok=INP-E5Xj"
-        width: 1528
-        height: 800
-        isCached: true
+    quality: 17
 
 secured: "v8YjYLRK8rEnxkbEzLskCQ3KoOD8jje0Z37JjH48qpkSBcWjdaHYLcfqAD7qdRcHlrQpTt7MZ4B/UWA9Mz+2KGa6Fdl6cMphhN+NH5R0j0Xiji0OI55mMU2iK3/S6IT08Bu1OfjNolAJbxApBuOqhD0hVt4FeDDnGzZRi2zAIvVA9Gpfv6zwtBr/ZCVyK4wBmotq+M7/5BMUC7+DEWz0Zllmt43csLWRYQK43Gys1naK+fWElq7BaEagc8NFqFHEZ5bl5ElEoRhwVcRgR2DYTA0OsmR/L+dAsoHfOBkBHZ0Ei8llKvAAfaggAKlzB3agKsHbGGVSI8mr5Ut8yuoY2gK1sf2/tOeSHiZMSgh59O+2LeD/hMo3FOh8jYWeyz1dWRnFjBTdJk2pj9rYpfA6S93pZsRbyBxFvEH9PDkQeoeMjqvRhk9zn/OAr9YhQgs4fYceK6E8NS9nojzKsZqfBOYCKEN80Ul6r7hjkXbLzcgyMf/w5kjaxx/xDRp/gzd7f+FpAw7Zff7gi+Tzsq9c8w==;KREl9REiVjfebI9nfEcLvg=="
 ---

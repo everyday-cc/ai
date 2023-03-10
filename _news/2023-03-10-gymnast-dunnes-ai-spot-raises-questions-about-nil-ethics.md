@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-10T03:12:00Z
 originalUrl: "https://www.chron.com/sports/article/gymnast-dunne-s-ai-spot-raises-questions-about-17830432.php"
 webUrl: "https://www.chron.com/sports/article/gymnast-dunne-s-ai-spot-raises-questions-about-17830432.php"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Houston Chronicle
