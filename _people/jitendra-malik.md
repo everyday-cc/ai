@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=oY9R5YQAAAAJ
-  citations: 195620
+  citations: 196266
 
 topics:
   - AI

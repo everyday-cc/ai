@@ -17,11 +17,11 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 432474
+        "followers": 435184
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
-        "citations": 289868
+        "citations": 291479
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
@@ -37,7 +37,7 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 385,
+      "heat": 366,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
@@ -63,14 +63,14 @@
       "twitter": {
         "username": "rodneyabrooks",
         "url": "https://twitter.com/rodneyabrooks",
-        "followers": 27660
+        "followers": 27695
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rodney-brooks-1a137517/"
       },
       "googleScholar": {
         "url": "https://scholar.google.ca/citations?user=BCGgwlEAAAAJ",
-        "citations": 51912
+        "citations": 51987
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Rodney_Brooks"
@@ -84,7 +84,7 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 105,
+      "heat": 111,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1443383839779213313/8bSPkSxQ_400x400.jpg",
@@ -110,19 +110,57 @@
       "twitter": {
         "username": "madelinegannon",
         "url": "https://twitter.com/madelinegannon",
-        "followers": 3303
+        "followers": 3316
       },
       "topics": [
         "AI",
         "AI in Robotics"
       ],
-      "heat": 87,
+      "heat": 78,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1631492106350129152/x9_weh8G_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Madeline Gannon",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/sougwen-chung.md",
+      "title": "Sougwen Chung",
+      "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sougwen-chung/index.json",
+      "webUrl": "https://everyday.cc/ai/people/sougwen-chung/",
+      "type": "profile",
+      "name": "Sougwen Chung",
+      "bio": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
+      "location": "New York, New York",
+      "website": "https://sougwen.com/",
+      "twitter": {
+        "username": "sougwen",
+        "url": "https://twitter.com/sougwen",
+        "followers": 9404
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/sougwenchung/"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 75,
+      "tags": [
+        "Artist"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1480673810269581316/tuTBA6JM_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Sougwen Chung",
           "isCached": true
         }
       ],
@@ -153,7 +191,7 @@
             "AI",
             "AI in Autos"
           ],
-          "heat": 50,
+          "heat": 47,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -175,7 +213,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 42,
+          "heat": 53,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
@@ -196,7 +234,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 20,
+          "heat": 42,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
@@ -218,7 +256,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 87,
+          "heat": 78,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1631492106350129152/x9_weh8G_400x400.jpg",
@@ -231,51 +269,13 @@
         }
       ],
       "size": 8,
-      "heat": 60,
+      "heat": 63,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Jean Liu",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/sougwen-chung.md",
-      "title": "Sougwen Chung",
-      "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sougwen-chung/index.json",
-      "webUrl": "https://everyday.cc/ai/people/sougwen-chung/",
-      "type": "profile",
-      "name": "Sougwen Chung",
-      "bio": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-      "location": "New York, New York",
-      "website": "https://sougwen.com/",
-      "twitter": {
-        "username": "sougwen",
-        "url": "https://twitter.com/sougwen",
-        "followers": 9388
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/sougwenchung/"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 57,
-      "tags": [
-        "Artist"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1480673810269581316/tuTBA6JM_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Sougwen Chung",
           "isCached": true
         }
       ],
@@ -295,13 +295,13 @@
       "twitter": {
         "username": "agogino",
         "url": "https://twitter.com/agogino",
-        "followers": 1494
+        "followers": 1496
       },
       "topics": [
         "AI",
         "AI in Robotics"
       ],
-      "heat": 42,
+      "heat": 53,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
@@ -336,7 +336,7 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 32,
+      "heat": 49,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/999169921744486400/Vo0GZHaC_400x400.jpg",
@@ -362,11 +362,11 @@
       "twitter": {
         "username": "SebastianThrun",
         "url": "https://twitter.com/SebastianThrun",
-        "followers": 77078
+        "followers": 77066
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
-        "citations": 138132
+        "citations": 138444
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Sebastian_Thrun"
@@ -394,7 +394,7 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 32,
+      "heat": 20,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/459372432806014977/ftbXtMDO_400x400.png",

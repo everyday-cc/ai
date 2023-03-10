@@ -17,7 +17,7 @@
       "twitter": {
         "username": "lmoroney",
         "url": "https://twitter.com/lmoroney",
-        "followers": 28243
+        "followers": 28304
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/laurence-moroney/"
@@ -28,7 +28,7 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 218,
+      "heat": 157,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1438898262602256386/CiWrR6Gi_400x400.jpg",
@@ -54,14 +54,14 @@
       "twitter": {
         "username": "rajatmonga",
         "url": "https://twitter.com/rajatmonga",
-        "followers": 13642
+        "followers": 13638
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rajatmonga/"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
-        "citations": 57758
+        "citations": 58112
       },
       "affiliation": {
         "path": "",
@@ -88,7 +88,7 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 42,
+      "heat": 40,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",

@@ -4,59 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_people/harry-shum.md",
-      "title": "Harry Shum",
-      "excerpt": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/harry-shum/index.json",
-      "webUrl": "https://everyday.cc/ai/people/harry-shum/",
-      "type": "profile",
-      "name": "Harry Shum",
-      "bio": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "location": "Redmond, WA",
-      "website": "http://t.co/NY3kFUGs7a",
-      "twitter": {
-        "username": "harryshum",
-        "url": "https://twitter.com/harryshum",
-        "followers": 17044
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
-        "citations": 50654
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Harry_Shum"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Computer Vision"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Harry Shum",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/bernhard-scholkopf.md",
       "title": "Bernhard Schölkopf",
       "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
@@ -68,11 +15,11 @@
       "twitter": {
         "username": "bschoelkopf",
         "url": "https://twitter.com/bschoelkopf",
-        "followers": 10568
+        "followers": 10581
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 198769
+        "citations": 199428
       },
       "affiliation": {
         "path": "",
@@ -84,294 +31,13 @@
         "Math for AI",
         "Machine Learning"
       ],
-      "heat": 64,
+      "heat": 75,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Bernhard Schölkopf",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/javier-m-duarte.md",
-      "title": "Javier M. Duarte",
-      "excerpt": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/javier-m-duarte/index.json",
-      "webUrl": "https://everyday.cc/ai/people/javier-m-duarte/",
-      "type": "profile",
-      "name": "Javier M. Duarte",
-      "bio": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
-      "location": "San Diego, CA",
-      "website": "https://t.co/Z06UY9gVRv",
-      "twitter": {
-        "username": "jmgduarte",
-        "url": "https://twitter.com/jmgduarte",
-        "followers": 562
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
-        "citations": 167360
-      },
-      "affiliation": {
-        "path": "",
-        "name": "fnal.gov",
-        "domain": "fnal.gov"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1442955547343343616/vvBBIGGR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Javier M. Duarte",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/kyle-cranmer.md",
-      "title": "Kyle Cranmer",
-      "excerpt": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kyle-cranmer/index.json",
-      "webUrl": "https://everyday.cc/ai/people/kyle-cranmer/",
-      "type": "profile",
-      "name": "Kyle Cranmer",
-      "bio": "Particle physics, LHC, stats/ML/AI, collaborative & open science. Executive Director Moore-Sloan Data Science Environment at NYU.",
-      "location": "New York",
-      "website": "https://t.co/OiHC3bfPoX",
-      "twitter": {
-        "username": "KyleCranmer",
-        "url": "https://twitter.com/KyleCranmer",
-        "followers": 14430
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
-        "citations": 221952
-      },
-      "affiliation": {
-        "path": "",
-        "name": "nyu.edu",
-        "domain": "nyu.edu"
-      },
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1570833173897953280/vPMcsGeY_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Kyle Cranmer",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/collections/female-pioneers-in-robotics-2020.md",
-      "title": "Female Pioneers in Robotics – 2020",
-      "excerpt": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/female-pioneers-in-robotics-2020/index.json",
-      "webUrl": "https://everyday.cc/ai/people/collections/female-pioneers-in-robotics-2020/",
-      "type": "collection",
-      "name": "Female Pioneers in Robotics – 2020",
-      "bio": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Jean Liu",
-          "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-          "type": "profile",
-          "name": "Jean Liu",
-          "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-          "topics": [
-            "AI",
-            "AI in Autos"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Jean Liu",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Alice M. Agogino",
-          "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-          "type": "profile",
-          "name": "Alice M. Agogino",
-          "bio": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 42,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
-              "width": 400,
-              "height": 400,
-              "title": "Alice M. Agogino",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Noramay Cadena",
-          "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-          "type": "profile",
-          "name": "Noramay Cadena",
-          "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-          "topics": [
-            "AI"
-          ],
-          "heat": 20,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Noramay Cadena",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Madeline Gannon",
-          "excerpt": "Inventing better ways to communicate with machines.",
-          "type": "profile",
-          "name": "Madeline Gannon",
-          "bio": "Inventing better ways to communicate with machines.",
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 87,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1631492106350129152/x9_weh8G_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Madeline Gannon",
-              "isCached": true
-            }
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jean Liu",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/clement-farabet.md",
-      "title": "Clément Farabet",
-      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
-      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
-      "type": "profile",
-      "name": "Clément Farabet",
-      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "location": "San Francisco, CA",
-      "website": "http://www.clement.farabet.net/",
-      "twitter": {
-        "username": "clmt",
-        "url": "https://twitter.com/clmt",
-        "followers": 11188
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/clementfarabet"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
-        "citations": 10688
-      },
-      "affiliation": {
-        "path": "",
-        "name": "nyu.edu - Homepage",
-        "domain": "nyu.edu - Homepage"
-      },
-      "topics": [
-        "AI",
-        "AI in Hardware"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clément Farabet",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/francisco-matorras.md",
-      "title": "Francisco Matorras",
-      "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/francisco-matorras/index.json",
-      "webUrl": "https://everyday.cc/ai/people/francisco-matorras/",
-      "type": "profile",
-      "name": "Francisco Matorras",
-      "bio": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
-      "twitter": {
-        "username": "fmatorras",
-        "url": "https://twitter.com/fmatorras",
-        "followers": 290
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
-        "citations": 340479
-      },
-      "affiliation": {
-        "path": "",
-        "name": "unican.es",
-        "domain": "unican.es"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Francisco Matorras",
           "isCached": true
         }
       ],
@@ -391,7 +57,7 @@
       "twitter": {
         "username": "sougwen",
         "url": "https://twitter.com/sougwen",
-        "followers": 9388
+        "followers": 9404
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/sougwenchung/"
@@ -400,7 +66,7 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 57,
+      "heat": 75,
       "tags": [
         "Artist"
       ],
@@ -410,40 +76,6 @@
           "width": 400,
           "height": 400,
           "title": "Sougwen Chung",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/verity-harding.md",
-      "title": "Verity Harding",
-      "excerpt": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/verity-harding/index.json",
-      "webUrl": "https://everyday.cc/ai/people/verity-harding/",
-      "type": "profile",
-      "name": "Verity Harding",
-      "bio": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
-      "location": "United Kingdom",
-      "website": "https://t.co/7skid8sUXc",
-      "twitter": {
-        "username": "verityharding",
-        "url": "https://twitter.com/verityharding",
-        "followers": 2620
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Verity_Harding"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1582687675693371393/E51BAwY9_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Verity Harding",
           "isCached": true
         }
       ],
@@ -472,7 +104,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 193,
+          "heat": 195,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1576371166171860996/v3wDtaXP_400x400.jpg",
@@ -494,7 +126,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 57,
+          "heat": 75,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1480673810269581316/tuTBA6JM_400x400.jpg",
@@ -528,7 +160,7 @@
         }
       ],
       "size": 3,
-      "heat": 57,
+      "heat": 75,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1576371166171860996/v3wDtaXP_400x400.jpg",
@@ -541,36 +173,433 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/andrew-moore.md",
-      "title": "Andrew Moore",
-      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-moore/index.json",
-      "webUrl": "https://everyday.cc/ai/people/andrew-moore/",
+      "path": "_people/rosalind-picard.md",
+      "title": "Rosalind Picard",
+      "excerpt": "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rosalind-picard/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rosalind-picard/",
       "type": "profile",
-      "name": "Andrew Moore",
-      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "location": "Pittsburgh, PA",
-      "website": "http://www.cs.cmu.edu/~awm/",
+      "name": "Rosalind Picard",
+      "bio": "Rosalind Wright Picard is an American scholar who is Professor of Media Arts and Sciences at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the startups Affectiva and Empatica.",
+      "location": "Cambridge, MA",
+      "website": "http://t.co/M6c0l3S5lb",
       "twitter": {
-        "username": "awmcmu",
-        "url": "https://twitter.com/awmcmu",
-        "followers": 6163
+        "username": "rosalindpicard",
+        "url": "https://twitter.com/rosalindpicard",
+        "followers": 12711
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
+        "url": "https://www.linkedin.com/in/rosalind-picard-0111bb/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=1-hcASEAAAAJ",
+        "citations": 68325
+      },
+      "affiliation": {
+        "path": "",
+        "name": "MIT",
+        "domain": "mit.edu"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 69,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/423189890545643520/w6Fjk14f_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Rosalind Picard",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/javier-m-duarte.md",
+      "title": "Javier M. Duarte",
+      "excerpt": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/javier-m-duarte/index.json",
+      "webUrl": "https://everyday.cc/ai/people/javier-m-duarte/",
+      "type": "profile",
+      "name": "Javier M. Duarte",
+      "bio": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
+      "location": "San Diego, CA",
+      "website": "https://t.co/Z06UY9gVRv",
+      "twitter": {
+        "username": "jmgduarte",
+        "url": "https://twitter.com/jmgduarte",
+        "followers": 571
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
+        "citations": 168094
+      },
+      "affiliation": {
+        "path": "",
+        "name": "fnal.gov",
+        "domain": "fnal.gov"
       },
       "topics": [
         "AI",
-        "Google AI",
         "Machine Learning"
       ],
-      "heat": 50,
+      "heat": 67,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1442955547343343616/vvBBIGGR_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Andrew Moore",
+          "title": "Javier M. Duarte",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/rana-el-kaliouby.md",
+      "title": "Rana el Kaliouby",
+      "excerpt": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rana-el-kaliouby/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rana-el-kaliouby/",
+      "type": "profile",
+      "name": "Rana el Kaliouby",
+      "bio": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "location": "Boston",
+      "website": "https://t.co/CptEKpnJzd",
+      "twitter": {
+        "username": "kaliouby",
+        "url": "https://twitter.com/kaliouby",
+        "followers": 34788
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/kaliouby/"
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Rana_el_Kaliouby"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/667860223512612864/sK_qnOSx_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rana el Kaliouby",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/collections/female-pioneers-in-robotics-2020.md",
+      "title": "Female Pioneers in Robotics – 2020",
+      "excerpt": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/female-pioneers-in-robotics-2020/index.json",
+      "webUrl": "https://everyday.cc/ai/people/collections/female-pioneers-in-robotics-2020/",
+      "type": "collection",
+      "name": "Female Pioneers in Robotics – 2020",
+      "bio": "Featuring outstanding female researchers and entrepreneurs in the field of robotics.",
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Jean Liu",
+          "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+          "type": "profile",
+          "name": "Jean Liu",
+          "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
+          "topics": [
+            "AI",
+            "AI in Autos"
+          ],
+          "heat": 47,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Jean Liu",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Alice M. Agogino",
+          "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
+          "type": "profile",
+          "name": "Alice M. Agogino",
+          "bio": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
+          "topics": [
+            "AI",
+            "AI in Robotics"
+          ],
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
+              "width": 400,
+              "height": 400,
+              "title": "Alice M. Agogino",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Noramay Cadena",
+          "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
+          "type": "profile",
+          "name": "Noramay Cadena",
+          "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
+          "topics": [
+            "AI"
+          ],
+          "heat": 42,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Noramay Cadena",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Madeline Gannon",
+          "excerpt": "Inventing better ways to communicate with machines.",
+          "type": "profile",
+          "name": "Madeline Gannon",
+          "bio": "Inventing better ways to communicate with machines.",
+          "topics": [
+            "AI",
+            "AI in Robotics"
+          ],
+          "heat": 78,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1631492106350129152/x9_weh8G_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Madeline Gannon",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jean Liu",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/oren-etzioni.md",
+      "title": "Oren Etzioni",
+      "excerpt": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/oren-etzioni/index.json",
+      "webUrl": "https://everyday.cc/ai/people/oren-etzioni/",
+      "type": "profile",
+      "name": "Oren Etzioni",
+      "bio": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "location": "Seattle",
+      "website": "https://allenai.org/team/orene/",
+      "twitter": {
+        "username": "etzioni",
+        "url": "https://twitter.com/etzioni",
+        "followers": 26624
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
+        "citations": 45438
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Allen Institute for AI (AI2)",
+        "domain": "allenai.org"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Oren Etzioni",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/verity-harding.md",
+      "title": "Verity Harding",
+      "excerpt": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/verity-harding/index.json",
+      "webUrl": "https://everyday.cc/ai/people/verity-harding/",
+      "type": "profile",
+      "name": "Verity Harding",
+      "bio": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "location": "United Kingdom",
+      "website": "https://t.co/7skid8sUXc",
+      "twitter": {
+        "username": "verityharding",
+        "url": "https://twitter.com/verityharding",
+        "followers": 2624
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Verity_Harding"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1582687675693371393/E51BAwY9_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Verity Harding",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alice-agogino.md",
+      "title": "Alice M. Agogino",
+      "excerpt": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alice-agogino/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alice-agogino/",
+      "type": "profile",
+      "name": "Alice M. Agogino",
+      "bio": "Engineering professor in human-centered design, sustainable design, computational thinking, new media. Founder of the Engineering Pathway",
+      "location": "UC Berkeley",
+      "website": "https://me.berkeley.edu/people/alice-m-agogino/",
+      "twitter": {
+        "username": "agogino",
+        "url": "https://twitter.com/agogino",
+        "followers": 1496
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/429713639285596161/D0ReK5-6_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Alice M. Agogino",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/harry-shum.md",
+      "title": "Harry Shum",
+      "excerpt": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/harry-shum/index.json",
+      "webUrl": "https://everyday.cc/ai/people/harry-shum/",
+      "type": "profile",
+      "name": "Harry Shum",
+      "bio": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
+      "location": "Redmond, WA",
+      "website": "http://t.co/NY3kFUGs7a",
+      "twitter": {
+        "username": "harryshum",
+        "url": "https://twitter.com/harryshum",
+        "followers": 17044
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
+        "citations": 50726
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Harry_Shum"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Computer Vision"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Harry Shum",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/martin-ford.md",
+      "title": "Martin Ford",
+      "excerpt": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/martin-ford/index.json",
+      "webUrl": "https://everyday.cc/ai/people/martin-ford/",
+      "type": "profile",
+      "name": "Martin Ford",
+      "bio": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
+      "location": "Silicon Valley, CA",
+      "website": "https://t.co/NRuuR6oILg",
+      "twitter": {
+        "username": "MFordFuture",
+        "url": "https://twitter.com/MFordFuture",
+        "followers": 47634
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/539018046287790080/Wvt135w6_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Martin Ford",
           "isCached": true
         }
       ],
@@ -587,7 +616,7 @@
       "bio": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=UZ5wscMAAAAJ",
-        "citations": 347196
+        "citations": 348725
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Andrew_Zisserman"
@@ -624,7 +653,7 @@
       "bio": "Michigan State University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
-        "citations": 249477
+        "citations": 249897
       },
       "affiliation": {
         "path": "",
@@ -659,7 +688,7 @@
       "bio": "Professor of Computer Science, National Chiao Tung University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=_0PCbyUAAAAJ",
-        "citations": 55940
+        "citations": 56045
       },
       "affiliation": {
         "path": "",
@@ -695,7 +724,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=910z20QAAAAJ",
-        "citations": 62698
+        "citations": 63005
       },
       "wikipedia": {
         "url": "http://en.wikipedia.org/wiki/Daniela_L._Rus"
@@ -750,7 +779,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
-        "citations": 169328
+        "citations": 170116
       },
       "affiliation": {
         "path": "",
@@ -790,7 +819,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=P6krKIkAAAAJ",
-        "citations": 203809
+        "citations": 204695
       },
       "affiliation": {
         "path": "",
@@ -828,7 +857,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=4mF2FgcAAAAJ",
-        "citations": 372632
+        "citations": 373494
       },
       "affiliation": {
         "path": "",
@@ -862,7 +891,7 @@
       "bio": "National Research University Higher School of Economics",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=vbLFLLEAAAAJ",
-        "citations": 153674
+        "citations": 154264
       },
       "affiliation": {
         "path": "",
@@ -886,44 +915,39 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/huahai-yang.md",
-      "title": "Huahai Yang",
-      "excerpt": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/huahai-yang/index.json",
-      "webUrl": "https://everyday.cc/ai/people/huahai-yang/",
+      "path": "_people/francisco-matorras.md",
+      "title": "Francisco Matorras",
+      "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/francisco-matorras/index.json",
+      "webUrl": "https://everyday.cc/ai/people/francisco-matorras/",
       "type": "profile",
-      "name": "Huahai Yang",
-      "bio": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
-      "location": "San Jose, CA",
-      "website": "https://t.co/s5ydlRJnm8",
+      "name": "Francisco Matorras",
+      "bio": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
       "twitter": {
-        "username": "huahaiy",
-        "url": "https://twitter.com/huahaiy",
-        "followers": 944
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/huahaiyang/"
+        "username": "fmatorras",
+        "url": "https://twitter.com/fmatorras",
+        "followers": 290
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
-        "citations": 20432
+        "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
+        "citations": 341523
       },
       "affiliation": {
         "path": "",
-        "name": "juji.io",
-        "domain": "juji.io"
+        "name": "unican.es",
+        "domain": "unican.es"
       },
       "topics": [
         "AI",
-        "Natural Language Processing"
+        "Machine Learning"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1189433763953950721/9-Nr_tN-_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg",
           "width": 400,
           "height": 400,
-          "title": "Huahai Yang",
+          "title": "Francisco Matorras",
           "isCached": true
         }
       ],
@@ -950,7 +974,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Bgzrdc8AAAAJ",
-        "citations": 173933
+        "citations": 176174
       },
       "affiliation": {
         "path": "",
@@ -1007,44 +1031,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/jean-liu.md",
-      "title": "Jean Liu",
-      "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jean-liu/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jean-liu/",
-      "type": "profile",
-      "name": "Jean Liu",
-      "bio": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
-      "location": "Beijing, China",
-      "twitter": {
-        "username": "jeanliuqing",
-        "url": "https://twitter.com/jeanliuqing",
-        "followers": 1425
-      },
-      "weibo": {
-        "url": "https://www.weibo.com/u/2209030102",
-        "followers": 1906714
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Liu_Qing_(businesswoman)"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jean Liu",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/jitendra-malik.md",
       "title": "Jitendra Malik",
       "excerpt": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
@@ -1055,7 +1041,7 @@
       "bio": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=oY9R5YQAAAAJ",
-        "citations": 195620
+        "citations": 196266
       },
       "affiliation": {
         "path": "",
@@ -1116,7 +1102,7 @@
       "bio": "Queen Mary University of London",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1DS8DjgAAAAJ",
-        "citations": 259257
+        "citations": 260466
       },
       "affiliation": {
         "path": "",
@@ -1150,7 +1136,7 @@
       "bio": "PhD Physics, Stanford University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=_EPCKe0AAAAJ",
-        "citations": 249551
+        "citations": 250357
       },
       "affiliation": {
         "path": "",
@@ -1198,7 +1184,7 @@
       "bio": "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=paTAXiIAAAAJ",
-        "citations": 181225
+        "citations": 181683
       },
       "affiliation": {
         "path": "",
@@ -1236,7 +1222,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=3VyGrdwAAAAJ",
-        "citations": 19607
+        "citations": 19657
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Karl_Iagnemma"
@@ -1273,7 +1259,7 @@
       "bio": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=mXSv_1UAAAAJ",
-        "citations": 226783
+        "citations": 227476
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Leo_Breiman"

@@ -17,11 +17,11 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 432474
+        "followers": 435184
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
-        "citations": 289868
+        "citations": 291479
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
@@ -37,7 +37,7 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 385,
+      "heat": 366,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
@@ -63,7 +63,7 @@
       "twitter": {
         "username": "alexandr_wang",
         "url": "https://twitter.com/alexandr_wang",
-        "followers": 65217
+        "followers": 66852
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/alexandrwang/"
@@ -79,7 +79,7 @@
         "Computer Vision",
         "AI in Autos"
       ],
-      "heat": 347,
+      "heat": 330,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_400x400.jpg",
@@ -105,11 +105,11 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 418336
+        "followers": 418757
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
-        "citations": 196309
+        "citations": 197613
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
@@ -139,7 +139,7 @@
         "Computer Vision",
         "AI in Healthcare"
       ],
-      "heat": 216,
+      "heat": 232,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
@@ -169,7 +169,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
-        "citations": 50654
+        "citations": 50726
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Harry_Shum"
@@ -192,7 +192,7 @@
         "Microsoft AI",
         "Computer Vision"
       ],
-      "heat": 71,
+      "heat": 53,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
@@ -215,7 +215,7 @@
       "bio": "Andrew Zisserman FRS is a British computer scientist and a professor at the University of Oxford, and a researcher in computer vision. As of 2014 he is affiliated with DeepMind.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=UZ5wscMAAAAJ",
-        "citations": 347196
+        "citations": 348725
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Andrew_Zisserman"
@@ -252,7 +252,7 @@
       "bio": "Michigan State University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
-        "citations": 249477
+        "citations": 249897
       },
       "affiliation": {
         "path": "",
@@ -287,7 +287,7 @@
       "bio": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=oY9R5YQAAAAJ",
-        "citations": 195620
+        "citations": 196266
       },
       "affiliation": {
         "path": "",
@@ -325,7 +325,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=TwMib_QAAAAJ",
-        "citations": 183731
+        "citations": 184443
       },
       "affiliation": {
         "path": "",
