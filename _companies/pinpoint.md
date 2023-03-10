@@ -2,7 +2,7 @@
 name: "Pinpoint"
 overview: "Pinpoint delivers a new kind of performance intelligence—one that synthesizes the work activity in your delivery tools, and applies data science to unlock faster, smarter engineering."
 type: "profile"
-heat: 50
+heat: 49
 
 website: https://pinpoint.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "pinpoint_sw"
   url: "https://twitter.com/pinpoint_sw"
-  followers: 335
+  followers: 334
 
 size: 11-50 employees
 yearFounded: 2016
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Pinpoint"
 
-secured: "XWHiddCF7J1mIN/bDlhTBIOG37BSh+GdeN01oWRy5xtyE4nsWmDt8FXxAzQLjE1aKCLkABgoP+z3DVL6zSkRWZfZmeghlLPPsV913yM2d3HaP6cIk65Djh7SYi8gbtmVfhfYN/m3E+hZlQwBDTwCDyuM+ECozYz/TmAdtihjVyVMoeR3SgKTgQYG2qkIeQ+w0TtcRJtO8VGjqLZ6U1OzIXfaStdsYrkT+6EbE2fr0hoxBy/65ympXneyDe6zzXDoL/bY3M6h8Fmo8489YpUF1DYRRkVgaCqoW6ENk54uC7CklAlydHF/z/Rg4FkIvQ8uHYzqfYTesFexTCmKybaW/x9AjMRyEPTcccIO4JDAVWP4gXQ5yBhQKE94Cl1P3lnZZEqGuprSq/t+o9CH2xJRhA==;YU1OpubOKXYCavVfViZjTw=="
+secured: "9nkkZviyYom+Ks+24/zHxTw2tDmT4CuX9s8rApQAqQFybzbQgrRFp3UQsBCsVWCnlYv1wapuX/GkXToW8kaiw8e/Z4atIKjcGScmcZFyJ1BZ54fClsl+yNtaAMC3HzjakBwnWH3Q1SvXZ2y6bEF68QkX7JX+DitqjHTEGJ6HkAXzkdXcIAInhSYVIuXeHyB2uiRqDcv3ZeJyWZ8hkedSKDMKYpsNh4Qw24L3/g/ZP05GdJ7pMERuamejOWaFgf7DY8cKh0uOW+cJg9U0IvLoMdWt0XLHed+4/+YGMdL6dCPk7e+xLoBSvFEg2UrzBjU1PAt+taBfc75nVSUSX2xC6PxsvqET4OJMxQY4C0/cas0nA8GXmdAKnxJytnmzw/mh4F3l/mCvyu6nqIX90F6caw==;FVbxZ1ZrgfXRb6ux6IbhWw=="
 ---
 

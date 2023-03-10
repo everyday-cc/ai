@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "affectiva"
   url: "https://twitter.com/affectiva"
-  followers: 11497
+  followers: 11493
 
 size: 51-200 employees
 yearFounded: 2009
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "ZWoRqoRroqxm4x3Gc6ywoT1jNuh7KDSJcG1fSDox/HdQwndrOwq1uCI8GoPYGnOxYa56VilMumkCYUoqe/g7OCPBm3p9wb2KDoooD8GeCFhH1OcL1CzBE4FhSSkVBwZYGcfqpvgoo5dUDWKNoBIgMbuYdOj1n9ZS3ANb44U/Ul5hJvMeokzl+rSggWDlPFeEMNdy4QtGVPOGuJSoOYXpmyko0P2gm062Yy5whG0wNjbRV51Rng+MRoPAgaqqSees8RqVLY6YtNxR7XM1AcfkOCR7QZL5DPJHAMKtqrCcD1F9sVNoArDnC1Svg366nkQhyTjYC4GD1HnsXfb7gj77UQNIIRJfzIf2Bhx9crPOxUlAi5WOe8PS2kefzEoZfdLFTl84hV3K0TYlvQ3/awBqSayCzfbtnUP2ZQjub5+X1hw=;mMDfZhnIfPuJ8GeRgBiTxw=="
+secured: "IBxPCB7bxqYOcKO0KiO+qtIPBRCfkTCFpAk1YnCn4U+UaBFbrBDB/XxGVm4D7fnkErGjVIDrAq+fdzkX0PsUsJcxRKxm/HICfnQZyl/rvwoBmEOHRGO7vHCtfA/AaKP7ltcrNnBjhr0iWyVzwk8DMjswGM4aj/rsmPHQz5O6/XOFQ7j4qQ/sjXqRfM4CT3bKjRMd9Rbrepuen7qMVqXFVL65CG1e/GO6R6IHgN+Vf+cFbQ+OCUYbzbQbD7Lg1+/FVbAGxmwGSK1NxjC72+OMARSBZbOdvJMwXMDvvyovO31zFyr76X2xedvSnHxSjS9NtIpWBFbysETK4VnXuK2jFZKnCG1CVawGw0PhYlBOotAGvgWHf78ecgsiWwphgnesnF5wK/bdrNrah/FPCUBKLhPtk6mb9wLwoxqGqXBbkgE=;8rBkhC9OK7oEzYrQffnigg=="
 ---
 

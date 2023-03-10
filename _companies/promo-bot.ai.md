@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "promobot"
   url: "https://twitter.com/promobot"
-  followers: 3166
+  followers: 3165
 
 yearFounded: 2015
 locations:
@@ -35,6 +35,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=7Ju3aMH-fyk"
 
-secured: "AdNNywzrph8h2UXT7eEtgk1LNUMJpcHuc8Q5KMgizeIHwbTCU1YH4LEI28IOJL3bA+QtF/B9zBlThYiT8A8GEPR+oClxad8wQDSix5YgBpjzZTVgVWt0bh/RTFQEA3WSslUElUUzjBOijpBk8+hPlJmSnNRfTWYMAywYsAKQsuP8WUNe/ZlG6Vlo6jGekwOEAFBjB1dtYkgb5Ap8b+Iuzp0WIPjCQCbx3m8/hYPa0eM87JZY0Oz0iM0EdpmVG2GPUW/7EnV2bSxTYKKAPAjbt3hvxUVnra71mJ+IDUUJntFcUO5BnppC9o3ZjmZYk2YWymu8aOOOwm0u+uGFCuIzbgThJ8Vuu6ZI47c/VQqhfYSBXwopUfrzkOtiRrWZs2gt9X8WxOnxKS5nYuYVCmrMHRHm8lJx26NSYOoV9YCGe4E=;ccgOFc65Wjvx2XqygLw7ew=="
+secured: "WkoqGDj4dU0ZCU8oiW+LWsKxb5WnX73iyb0vQNl8SRiAu/dS5sms0BXwg8cE6zzd220R6sEfmhAghKhGP0JfXEBi22EO2zzqKV2Pv0/OLnrPxQ57qog+hEcm4sV50ABi3ky6KlSf5OtcWtpJ6mXthYRumxgzpnZk3LJUYTaOMhaH/mqOQ+OsYS72Xv4sqCVQje6vthmbA6LeDZz4jvwiJCMGfKLPZaX/KFUV0tUpPl32v/5YHtrlk1ZLLVPwYt13j/aOMhMkdbR6HYX9zxz+P3kZH8R8yTq4dAzl8Ut6U1RR5W2Wg2TSaZ2cBNyjIC/PXMz6j1r6XFycoIaRNwyDYCVXFxXcESVD2rXQExkdTHMak5zfRu2HPQXuw39YYRUFtnSVkkRiDA/4ziqz8c6NJFII0VrDj9Y4Bkzn+Ab7HhM=;S0DPCaWOAkZ5L7aGOuhQXg=="
 ---
 

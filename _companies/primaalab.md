@@ -2,7 +2,7 @@
 name: "Primaa"
 overview: "Promobot is an autonomous robot for business. It is designed to work in places of increased concentration of people"
 type: "profile"
-heat: 50
+heat: 51
 
 website: https://www.primaalab.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "primaalab"
   url: "https://twitter.com/primaalab"
-  followers: 37
+  followers: 38
 
 size: 11-50 employees
 locations:
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=3CQMfhc6Atc"
 
-secured: "WsiB2+5C5sgtaBKKU/5CZbyw6AF8kk4hL4lM84NhHYxjnpdLvj/vnRFuIrIiorr21UmUKY4hrd2hcX4JCoAwqUiWnuXBbfZ6m5EFH/h+Pe9F6NyaMdXW/Ln+i0nVLSRE0+UUvOxeppsW47AqQLDcbIuVrwrTdZC0smHUUqLtibrwJw9K3J9lvodN0S1pjZ4F+D73k3/G2INp6228YpNLoPqhHvuWIaQUCmon41n442ZdimwQor1hmIhQLTRaWoghRo6bjZD2LA5yzXnM86MXgvCgDOItpUiUKFQ16Nb8KFStW+5By5DeEgZA+OStp9R+gdZ8thSrsi29XHRGfIjaBCUB6B+coTL0EmVGwrtflypBh+CZzaJcQojVTMULZwKqIPAsrlQyQqQrwyiHOZV2jA==;7QCClZK3M4K/xBUhPoYCuA=="
+secured: "Xt7sKTA0I7wJOgeFdckHKnMNqGBc5/BWQ/aHPovRAru//hwZxHOUvqAXzKW6e/3WoLXOdIY4dU5x+YqRq66hnUgCKviCdX5UD5w1rZAL5fryludGA8iPL2p9lcg/wcTT4D3poNf22i1epuf52V/DFtIsIgK0zztJhF02vx+QU0KMudA8XyDj/iIN4panaEg8awGF6Ru8r0txQzCVF89g1qPP0D1fkJPNlDAawfD57ypqgfsFvhXuFvFv1qy+bMz+3vFfw6a/SUrKnjgD/0IXjgBvybDPYA5irwQKPOJh/MtcvTkc3LrmXJkaGlKIVO3KTHFBOVmZPqHSZy/kRSdM7eueGVGS+vDlBsKMNANremWJSpwN5GfoN72tGUTgk7mxmYQWlJRO9xI4+2MvWfwx3A==;MTZUIxJ6O6p3BUXHb6kYdw=="
 ---
 
