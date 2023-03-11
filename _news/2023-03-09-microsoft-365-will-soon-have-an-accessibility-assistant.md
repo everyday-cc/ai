@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Microsoft Brings More AI to Developers at Azure Open Source Day 2023"
-excerpt: "At its Azure Open Source Day 2023 today, Microsoft announced a handful of Azure AI open source capabilities to help developers build intelligent apps faster."
-publishedDateTime: 2023-03-07T17:35:00Z
-originalUrl: "https://www.thurrott.com/dev/280186/microsoft-brings-more-ai-to-developers-at-azure-open-source-day-2023"
-webUrl: "https://www.thurrott.com/dev/280186/microsoft-brings-more-ai-to-developers-at-azure-open-source-day-2023"
+title: "Microsoft 365 will soon have an accessibility assistant"
+excerpt: "The assistant will offer suggestions on how to prevent and correct accessibility issues, along with what Microsoft calls \"better defaults\" and \"real-time remediation.\" The assistant follows an accessibility checker in Visual Studio."
+publishedDateTime: 2023-03-08T20:56:00Z
+originalUrl: "https://www.engadget.com/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
+webUrl: "https://www.engadget.com/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
+ampWebUrl: "https://www.engadget.com/amp/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Thurrott
-  domain: thurrott.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/azure-ai-code.jpg"
-    width: 1066
-    height: 600
+  - url: "https://s.yimg.com/uu/api/res/1.2/2y.nhOB5owKYAENLXN_yMg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/098816e0-bdd9-11ed-b6df-742e67f70f74.cf.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -40,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_432173706.jpeg?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft 365 will soon have an accessibility assistant"
-    excerpt: "The assistant will offer suggestions on how to prevent and correct accessibility issues, along with what Microsoft calls \"better defaults\" and \"real-time remediation.\" The assistant follows an accessibility checker in Visual Studio."
-    publishedDateTime: 2023-03-08T20:56:00Z
-    webUrl: "https://www.engadget.com/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/2y.nhOB5owKYAENLXN_yMg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/098816e0-bdd9-11ed-b6df-742e67f70f74.cf.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Tomahawk Robotics Adds KxM to the Microsoft Azure Marketplace"
     excerpt: "The KxM provides users with a ruggedized platform to ingest large amounts of data for high-speed body-worn computation at the tactical edge, reduce cognitive load, and fuse raw intelligence data to enable real-time decision-making."
@@ -113,6 +103,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft Brings More AI to Developers at Azure Open Source Day 2023"
+    excerpt: "At its Azure Open Source Day 2023 today, Microsoft announced a handful of Azure AI open source capabilities to help developers build intelligent apps faster."
+    publishedDateTime: 2023-03-07T17:35:00Z
+    webUrl: "https://www.thurrott.com/dev/280186/microsoft-brings-more-ai-to-developers-at-azure-open-source-day-2023"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 69
+    images:
+      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/azure-ai-code.jpg"
+        width: 1066
+        height: 600
+        isCached: true
   - title: "Key Reveals from Microsoft Azure Open-Source Day 2023"
     excerpt: "Microsoft held Azure Open Source Day to showcase its dedication to open source and emphasize the potential of open source tools in creating intelligent applications with increased speed and flexibility."
     publishedDateTime: 2023-03-09T06:43:00Z
@@ -137,6 +141,6 @@ related:
       domain: crn.com
     quality: 34
 
-secured: "x8iOFp5i/5P0R06Xte95x4Hq/inuc63l0VSthZ+Gr73GBjww6IsZkD9c+iQrma/Ay9b74lVg5LiscSHAN7Px2SGWw6yhAHitjGQZRWQ7Ejq7d9CWjfGT9BfacsieOf1QsElFxu3/4e1cMgG+XM2lzzMdJ5+NbWE1r2BKdJ7eGheuqbnCzw9n8uvbM73WmVc1CH7bQdlrB0srQXWc9x5yqbJcMIKMARX2piv4NvYDXS8zw+vXNQWMYhGwp5gLwMzWh2eITKXCul+mwn5Cak7owpMrJJYg6Jj23p0GB65wmlOg3IiQOBvy0uTBpxYmx5p9K2kkFX/iH1vuLUgT+r3Z2hIwFpI3wfmbCH50RGpL7/bBQfsSHJ2v9dm6ZLKsg1gjCSUByQiPo95ISXru8pXmteS+5jzBWkkJpjPNUdux5fNsdFiJNyVOpJlAdNsObA/lYSrZPVkEBC3iUApN2y61TNUfr+TFU64/TxbPmI6mNVWV/CYFNRYfbPbUM6qTJvdb4LaiUksUq9MywuZuCUklHg==;mzmSPRJccH2RYwqH1SU9/w=="
+secured: "4xIPbcTaFkx0QLlP2/Q82ul0Xy0FYOUToxf8qyok9MTSVBXF3xl7qXXect/sJJNV2G4RfOJxPMcpg1+hTT1xmL3z5Anif+TeVYoSaMiRWwaJcCTqwnJQO7VCnUJOAppC2emNocyQEEaLbQZqr9FFNcvwoRh8cLT+XypS7Mmdb8h/h3I3WI/kqa1c5acYXsoye5P8BrhHkioznhC0Fbz+SYWzgBiulkHrRAer1UIwsq4clQ66kRIedgbXEnevvHDhEuAsKKyigcA7b3RuMAfoclihtwK+OfWJ51J26JJU79/GW8ulzdQYJlBfkBrgitcW1zslNC4qouxAoZv72pChm1p8zWP02kWINdhB5cLMoMU=;rzNfQWm/o7oJDjZRMdG/Lg=="
 ---
 

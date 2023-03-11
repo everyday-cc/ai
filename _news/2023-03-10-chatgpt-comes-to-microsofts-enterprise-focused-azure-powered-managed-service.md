@@ -3,8 +3,8 @@ category: news
 title: "ChatGPT comes to Microsoft’s enterprise-focused, Azure-powered managed service"
 excerpt: "ChatGPT is now available through the Azure OpenAI Service, Microsoft's fully managed, enterprise-focused repackage of OpenAI tech."
 publishedDateTime: 2023-03-09T20:41:00Z
-originalUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/?tpcc=tcplustwitter"
-webUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/?tpcc=tcplustwitter"
+originalUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/"
+webUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/"
 ampWebUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/amp/"
 type: article
@@ -115,6 +115,6 @@ related:
       domain: dbta.com
     quality: 22
 
-secured: "TQyi10ua4fc0FB7sGhm029HPZtIsV5d2omdtu/0jYte4Q+QUq4bbvDIQyon9g/E+/Rs1lPmB25EtQqGaXzy1SQtXo01MfaNFe17Jdn4T3szEn9RDlBah9okqb+lgTynJuhQTaxDQUHSsqPeLeBmT6XlfJUYq7TarBNZ1gtabjky+LHjgzi9zxqtUpZPkz1gq7WxCHM1Ei+O/OusjM+lzeEI4GaNX6K+rsTt4+8w49TwQtKt4yWMfzBiNWDQ+SJHrOqDNi8UljDr+ixYQ3zp+ADneHryokyyytvZue4UvwNfparbMPAhf/q0xbWNQpm4lF8TMujWtpLKMB2VLy10kCCDjkbQRDPySYk9K81854SqtgrTsHNz8fmaEQm86RdYRo9H3+fZoYMcXnH3x/cnVkyM6Kx82/dMWEj8j7oXXgdbyDARnIGOJ/AgWJWidyj5yNy+qt+YKC9c+xlmMhtcr4kYYPAbrdJQS/Xj7D1k8d98CZhxO0a5yhhyBw0rTzSBWxaviWmxBCfULRZir+lEpxw==;VcYKtbjYPsIkM5BWcY4VAw=="
+secured: "EyNFRKZgXuuLyv/cG/KC+7yXspsNURN9YzUoSOwmdYfYaMfUWEDPOVr8bIzjfxeqeF68O5YrCrhtErPTAejz1zctMYj7LPzB5f6dbLgWXYuuL1M4nRdqVu6ExagJLKUyDQEaSE7x+XFtKepAzff4g1GW5uSj5d0OXiKSLDDK4K2u336qoPCZZT8Tlh1Md2o58TN1e34h2lk3J4Xs/ogSOji9kTbeAlbmpErh1FU1DfxhLMcVYfdsXR4+mcVEcwiLyJe3OWukELaHXYcMi+ZXfoUABpFcbz4/Zpj2oYkKVeMMZnSFMDiZirut9uXOGxSo62OKueqA3IUQDJGso+yuyoaD44PId38Jhf/HbIt75/8=;Drtn8/C/IsQ9OuR9H5TMHQ=="
 ---
 

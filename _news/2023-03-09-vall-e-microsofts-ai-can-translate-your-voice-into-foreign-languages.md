@@ -42,21 +42,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft brings an AI-powered Copilot to its business app suite"
-    excerpt: "Microsoft is injecting its business apps with more AI and automation, courtesy of technical innovations from OpenAI."
-    publishedDateTime: 2023-03-07T02:58:00Z
-    webUrl: "https://techcrunch.com/2023/03/06/microsoft-dynamics-copilot/"
-    ampWebUrl: "https://techcrunch.com/2023/03/06/microsoft-dynamics-copilot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/06/microsoft-dynamics-copilot/amp/"
+  - title: "Microsoft 365 will soon have an accessibility assistant"
+    excerpt: "The assistant will offer suggestions on how to prevent and correct accessibility issues, along with what Microsoft calls \"better defaults\" and \"real-time remediation.\" The assistant follows an accessibility checker in Visual Studio."
+    publishedDateTime: 2023-03-08T20:56:00Z
+    webUrl: "https://www.engadget.com/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
+    ampWebUrl: "https://www.engadget.com/amp/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
     type: article
     provider:
-      name: YAHOO!Finance
-      domain: techcrunch.com
-    quality: 104
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900"
+      - url: "https://s.yimg.com/uu/api/res/1.2/2y.nhOB5owKYAENLXN_yMg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/098816e0-bdd9-11ed-b6df-742e67f70f74.cf.jpg"
         width: 1200
-        height: 900
+        height: 630
         isCached: true
   - title: "Tomahawk Robotics Adds KxM to the Microsoft Azure Marketplace"
     excerpt: "The KxM provides users with a ruggedized platform to ingest large amounts of data for high-speed body-worn computation at the tactical edge, reduce cognitive load, and fuse raw intelligence data to enable real-time decision-making."
