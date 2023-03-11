@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market Growth (Position and Views) 2023-2028"
+    excerpt: "Global “Machine Learning Market” Size 2023 Key players Profiled in the Report are [Formcept Technologies and Solutions"
+    publishedDateTime: 2023-03-09T03:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-growth-position-and-views-2023-2028-2023-03-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud AI Developer Services Market 2023 [Latest Report] Is Thriving Worldwide by 2029"
     excerpt: "Cloud AI Developer Services Market 2023 with 116 Pages Report and enhance with extents shares into sub-counties are"
     publishedDateTime: 2023-03-10T02:28:00Z

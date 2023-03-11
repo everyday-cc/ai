@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-11T04:35:00Z
 originalUrl: "https://menafn.com/1105752904/Forget-Chatgpt-Nvidia-Is-The-Real-AI-Winner"
 webUrl: "https://menafn.com/1105752904/Forget-Chatgpt-Nvidia-Is-The-Real-AI-Winner"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://menafn.com/updates/pr/2023-03/10/V_243ecimage_story.jpeg"
@@ -242,6 +243,6 @@ related:
         height: 675
         isCached: true
 
-secured: "0HR50iQ20olM4d0TQ/5xSyTYd02WdO/zf/u3f89v3tYdBl4sI7tkggC0yIVB/dRSFAUo3SNT1yP2+WRbs1CCbet6K+LptEzql/f0VhJ+UtAkD0XqfRLRZ6qqIxFk8slLbcRg87FZapkcV1okU1cecIeAPmLlGolPRC3TpXzX+58z9sQJp957drkWoRRgubuQ+FCnc0YyjL3V2m4xpcnxhuN/J7OWMLySD9MBZV/m0xY7liJf6krvbD+sPmPPBEYG3XVOKxcAkOgt0Gpoek2YSj/ejyBAneLtkL7wzhO5bCqRERaT4uLODeQ9V+Rrm6cz0AYRcmVLJd+L9CEKYcPZyyXE+k8QBhiHj2DB8eGC/z8=;NA/bLH4pF/eXT7IpFTNt4w=="
+secured: "vLxiXjO3iQVxsGFO1SX9MGS4kWlb4JFNIWjXo6iIvXhndUWKFifrWwBfRvSVJg6RtWrlcqoP2gXfO2WwlbdYrxh2HEFB5jk6iBAtXgd/pKL0IhhF1t1QUDOLHigy4wrMPgV1K92U9t7xDGaUO3OyhJ45FWx2eSy29WUjPEG6rKfI/UngjUYAB1i0FYnmuM6tdX/Dzx8Ftg509HEvbEhKmxELVT4W5EIsDsoBccrhBInXoxiYe77rVN7telOxLeODh7ENjnpbKEW15sSivEJMvb2POZkWcG9tQFGO2o8WZQXELSb14O0cO8DzSJ6HjU2VT8pLWmn7cIxdy7Dm6lq+HNTroVXyuIg/zzPHLMLPyUTArlG1Er3g5QMtYd5kxM3tpmQ7ueDRxIQ40IMuaAJFm82S/040AnwcS96yo+lXpGEDNYgtl0gijTOlzTuNHvcPagAr5HjGHnu+/i1QISgbPYPe+14JgnPzxCBOMpOVcJFYIPM4LcvTD8f2p1lL8q8GWc4JqBihW6ZH8PVo3DOI3A==;EfLDc+CttbigbI/6TeCBxg=="
 ---
 

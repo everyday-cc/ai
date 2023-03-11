@@ -50,6 +50,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 42
+  - title: "Lost In Translation: Harnessing AI For International Efficiency."
+    excerpt: "Harnessing AI For International Efficiency. Legal News and Analysis - Africa/Middle East, Asia Pacific, Europe, North America, Offshore - Telecommunications, Media & Technology -"
+    publishedDateTime: 2023-03-09T14:46:00Z
+    webUrl: "https://conventuslaw.com/report/lost-in-translation-harnessing-ai-for-international-efficiency/"
+    type: article
+    provider:
+      name: Conventus Law
+      domain: conventuslaw.com
+    quality: 39
+    images:
+      - url: "https://conventuslaw.com/wp-content/uploads/2022/09/Hightech.png"
+        width: 871
+        height: 581
+        isCached: true
 
 secured: "FdFRO/ySE9ber/+lnTBw1wyE/n19y7jK1yXCVhImkgg4Twy2NI9BV2gCWUd85HyZC/6FtErhjL2uphVEvpuaqT1JUswjh2c3/PeKwjbnL/SWe/jPnEjOiXgiToHO7RRCBqTZmkrFqa0O6JJA8JWQeCyhmqlEfOCWH45R+AG9bz3Dxj1ruC1lsmof0sHx/FaiItd5ZdXPXRJKiDbddu5yXjkaDoNw/rdeuV/bHO+tHq3k+6ee8QekjG0ytHiIU++LpWu7lPTTXIBzu4CzMrZkhFkXQbspZRodgB36x1sp7v1QqWQ6JrNHEaqqcFtxrQ4qG+JP25fWp2ot3n0MLZLCCTGiKffO+v/BVjByWurncKI=;mZlceNPlW/PDETfqR31pNQ=="
 ---

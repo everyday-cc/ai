@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Japan Deep Learning Markets, Competition, Forecast and Opportunities, 2027"
-excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to ResearchAndMarkets."
-publishedDateTime: 2023-02-27T11:52:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-japan-deep-learning-markets-competition-forecast-opportunities-2027-/2023/02/27/9766584.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-japan-deep-learning-markets-competition-forecast-opportunities-2027-/2023/02/27/9766584.htm"
+excerpt: "By Application (Image Recognition, Signal Recognition, and Data Mining), By End-User Industry, By Architecture, and By Region, Competition Forecast and Opportunities, 2027\" report has been added to  ResearchAndMarkets."
+publishedDateTime: 2023-02-27T12:43:00Z
+originalUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
+webUrl: "https://it.tmcnet.com/news/2023/02/27/9766584.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "b/5Dt5zgFRvUSHKo8VdZ0xMwa799CWNX4RvynMwWMgBxuJAnqqqGyyy7YHVh/Jxip7Wok7DQYHjmcaOeJsCl6U9BSuWfLRBXm1nS6f3/crpItzM9hjphxMQ2BTeLUKzQqL5KZw4zKlUTGHF5cENAmjaDekWex+MpZgUCsqf9EuLIlip+F8ieDv/X6MLlvPvnGzPL0px+MZ2kpzC/Iy6Otcq86mhH3DjbjdsOZFtZ5yPCrrvSR7SLEDtfoXZKx1748SO5MRhdFV4FOUgQG48SSQOnC8VmzBLQcifdSJ5OrYja+pI/H8Bg7AqtNxfDtMTffuB8N6QCtrWj6EjvhbT3SZrxfAjGIS26Zn6lGFcXTIM=;afCTwJbdFAZRZPll+Vtgqg=="
+secured: "/HajNC1flfspLWlemWBcVZN8qNPNsunwDhO1IUyKfTZK+j2thAHhQOXsT2D+uNaiBYv57gkCtNHeJShsNqoj4gK4ZRdatdYxyqGNBQtk0YOE8zc6dtx8KnoYh82341Smp8xjesh02ddDSGqw/uJ0uOw4HbYeoY7M8xKcl2jq/iso4g0eua8c6dRiIbEyxuXuS+gBXAoVhd0mzI9oHqmnWtN05sqs8dEGVcd6m3mlI0M1i0DY7sklnD3nxxRRWQI2MZagzNDFJQCpY7UjlxIG+/GiyfF0vSxXLpGWKYUKuLep7/mQiP2g2bUcAqTFv/c4S80LA24T8uUqaTEy9KDTTOwfNhEAc2tVKYAl1tA5YAI=;o8g6DtAY16j6UOivqXiCjA=="
 ---
 

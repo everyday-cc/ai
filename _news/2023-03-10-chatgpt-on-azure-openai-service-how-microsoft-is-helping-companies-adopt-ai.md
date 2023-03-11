@@ -174,6 +174,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Forget Chatgpt. Nvidia Is The Real AI Winner..."
+    excerpt: "Ever since AI chatbot ChatGPT burst onto the scene in November, any stock even remotely related to AI has soared. Gates Capital Management's ECF Value Funds have a fantastic track record. The funds (full-name Excess Cash Flow Value Funds),"
+    publishedDateTime: 2023-03-11T04:35:00Z
+    webUrl: "https://menafn.com/1105752904/Forget-Chatgpt-Nvidia-Is-The-Real-AI-Winner"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/10/V_243ecimage_story.jpeg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Nvidia: ChatGPT's core AI technology drives explosive revenue growth"
     excerpt: "Nvidia underwent a complete top-to-bottom transformation as artificial intelligence (AI) became the primary focus of every chip produced."
     publishedDateTime: 2023-03-08T16:25:00Z
@@ -199,20 +213,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
-  - title: "Forget Chatgpt. Nvidia Is The Real AI Winner..."
-    excerpt: "Ever since AI chatbot ChatGPT burst onto the scene in November, any stock even remotely related to AI has soared. Gates Capital Management's ECF Value Funds have a fantastic track record. The funds (full-name Excess Cash Flow Value Funds),"
-    publishedDateTime: 2023-03-11T04:35:00Z
-    webUrl: "https://menafn.com/1105752904/Forget-Chatgpt-Nvidia-Is-The-Real-AI-Winner"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/10/V_243ecimage_story.jpeg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Oracle’s Ellison: Health-Care AI ‘More Important’ Than ‘Very Cool’ ChatGPT"
     excerpt: "Health-Care AI ‘More Important’ Than ‘Very Cool’ ChatGPT Wade Tyler Millward March 10, 2023, 09:23 AM EST ‘People talk about ChatGPT being"
     publishedDateTime: 2023-03-10T14:23:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/why-artificial-int
 webUrl: "https://www.entrepreneur.com/science-technology/why-artificial-intelligence-is-revolutionizing-marketing/446087"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 42
+  - title: "Lost In Translation: Harnessing AI For International Efficiency."
+    excerpt: "Harnessing AI For International Efficiency. Legal News and Analysis - Africa/Middle East, Asia Pacific, Europe, North America, Offshore - Telecommunications, Media & Technology -"
+    publishedDateTime: 2023-03-09T14:46:00Z
+    webUrl: "https://conventuslaw.com/report/lost-in-translation-harnessing-ai-for-international-efficiency/"
+    type: article
+    provider:
+      name: Conventus Law
+      domain: conventuslaw.com
+    quality: 39
+    images:
+      - url: "https://conventuslaw.com/wp-content/uploads/2022/09/Hightech.png"
+        width: 871
+        height: 581
+        isCached: true
 
 secured: "UO01nUMBQ74euPKsVEgnjridNrnhvu5mTvx1tSU9Y4PNuv9qZAWjy7XRgN+WXNOcsCvlJqfa1YyQyVcCITt3kgmYZOYFq2jyeBAQxsIjt6wcL7WXGTOQByYeuYaLf7B71+i1cHbJVZQXW+KJam0sjnVgOFA4ppiNCx24eVqPFZ4l6i1pY27nBHzPUP4KfMUHYFUdqIHzY3cZz5wkXaYh9aYFlu54pSz6jNRi/h1G91cyRXKa04cr0BDO2g6ZNkATOhmRkwlf0RtVatkw56B4vVZMdqr80UoQs5j2za1IPNANupbfSiloMjKO5GG9Qy9/6585yWalV7/xTEYFYen7Gn2NoH1bxbDnhDLr2IJwSY4=;9xcz1XSBG+9d5JMlJ9lg2g=="
 ---
