@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT Passes Huge Milestone as World Swept up in AI Revolution"
+    excerpt: "ChatGPT caused a worldwide sensation when it was first released to the public in November 2022. It has the ability to answer questions and craft short essays based on prompts from humans. This picture taken on January 23,"
+    publishedDateTime: 2023-03-11T15:00:00Z
+    webUrl: "https://www.newsweek.com/chatgpt-passes-huge-milestone-world-swept-ai-revolution-1787101"
+    ampWebUrl: "https://www.newsweek.com/chatgpt-passes-huge-milestone-world-swept-ai-revolution-1787101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chatgpt-passes-huge-milestone-world-swept-ai-revolution-1787101?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 87
+    images:
+      - url: "https://d.newsweek.com/en/full/2207559/openai-chatgpt-logos-pictured.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "ChatGPT on Azure OpenAI Service: How Microsoft is helping companies adopt AI"
     excerpt: "With the availability, developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps, which will help them"
     publishedDateTime: 2023-03-10T08:27:00Z
@@ -132,6 +148,22 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_03_2023_21_30_36_4644547.jpg?width=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Can AI Tools Like ChatGPT Replace Computer Programmers?"
+    excerpt: "Despite the fast-evolving capabilities of AI chatbots to write code as well as human language, many computer science educators see significant limits for these tools in accuracy, security and copyright infringement."
+    publishedDateTime: 2023-03-11T00:17:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/42ae3da/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe0%2F58%2Fcd33f8254f75a3ad8525609a2513%2Fcomputer-programmers.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "In ChatGPT's shadow, India readies for aggressive AI play"
     excerpt: "\"One good example is Bhasini -- a natural language AI platform, which enables automated language translation and is already being integrated with ChatGPT.\" Finance Minister Nirmala Sitharaman in her recent Budget announced that in order to unleash ..."

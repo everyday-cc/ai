@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-11T14:12:00Z
 originalUrl: "https://www.foxnews.com/video/6322377619112"
 webUrl: "https://www.foxnews.com/video/6322377619112"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Fox News

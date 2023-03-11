@@ -136,6 +136,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Industry Overview of Artificial Intelligence and Machine Learning Market 2022-2028 by Size and Share"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends, and projection for the ..."
+    publishedDateTime: 2023-03-10T09:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/industry-overview-of-artificial-intelligence-and-machine-learning-market-2022-2028-by-size-and-share-2023-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
 
 secured: "y87O2cUnnoyBPWWbPgZTDgGlgGcm0pq5CZeZxP7YQj76xQNMUNoV2kyzPAa0UPGUYRfRVaLuaXC5tS7A5yjfljzntzXwwaI8xkwcjFQLFwiigLK2iYWrQBtpWzjTlcd/2d/rxmoFMa7P2GzGmnafL3sRNgSRvwNR6Z4/NPyZGCMn0R60H0wflLE8zHnvWApN15otZ2S4Fp10pH8Q97jrWJtZXupgtSRG11BY82SfVEIcUXHsJ0Y/xSDQYyyHEeCMPeQjnPNS36ENHYpELstl1KzwvfhiFj3bnz0BuqIsXaQyL7wTzfCJ8v6cHbsk6id3AntF2GG/vmmUgwg0V+ftkHGGQHJJ+pmdPHjR8eTtCR8=;aIlaNc/8rCrpGoJULcCEpA=="
 ---

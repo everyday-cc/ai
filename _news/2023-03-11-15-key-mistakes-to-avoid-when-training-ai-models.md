@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-10T17:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/10/15-key-mistakes-to-avoid-when-training-ai-models/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/10/15-key-mistakes-to-avoid-when-training-ai-models/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

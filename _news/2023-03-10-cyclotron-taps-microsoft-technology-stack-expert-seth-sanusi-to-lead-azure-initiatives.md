@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-09T18:10:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31283675/cyclotron-taps-microsoft-technology-stack-expert-seth-sanusi-to-lead-azure-initiatives"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/n31283675/cyclotron-taps-microsoft-technology-stack-expert-seth-sanusi-to-lead-azure-initiatives"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Benzinga.com

@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Scam uses artificial intelligence to replicate loved ones’ voices, TN police warn"
+    excerpt: "The person on the other line sounds like your loved one in trouble, but their voice was created by scammers using artificial intelligence."
+    publishedDateTime: 2023-03-11T14:31:00Z
+    webUrl: "https://www.wate.com/news/tennessee/scam-uses-artificial-intelligence-to-replicate-loved-ones-voices-tn-police-warn/"
+    ampWebUrl: "https://www.wate.com/news/tennessee/scam-uses-artificial-intelligence-to-replicate-loved-ones-voices-tn-police-warn/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/tennessee/scam-uses-artificial-intelligence-to-replicate-loved-ones-voices-tn-police-warn/amp/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 52
+    images:
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2023/03/audio-wave.png?w=1280"
+        width: 702
+        height: 395
+        isCached: true
 
 secured: "DgHK/LC6aa6aj9J+t+pBtcwFcxi+nc0lqjj/ci4hGDXkcXsJdKq5YU8rEg7vtgu1lYVTvnOHreMbCTtdgnlHXRNzvv7JWRYO7wH1JedFYMbMmLCxiXzL/r7agIByiPaIHyrctVLZ183Orzg6Dl2wbCvHprrVhpK60rJHUgJYVb0kT06bnovLXJ1evpy1Lmv1oZ+06Rf9K2qJRFZa1ZTy5Ol9U+Bl4xortOjXEInoC4kzS0AdXY0wfeEsBq/m9Wq4x2WNv2rF5Lyil4hypq7O00xh/H92pW3d1Wl7BWFUsMCKE+JbTdOsrLJ60hMDuaBL9SA4LKqIVAvQMMlxtF8ZpQ9Pl5vmjmxOXe7Ykoklnfo=;ykt+HN2qeCQLt4fKN3EXEQ=="
 ---

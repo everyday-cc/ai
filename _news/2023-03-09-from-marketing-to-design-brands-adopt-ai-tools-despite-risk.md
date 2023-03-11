@@ -5,7 +5,12 @@ excerpt: "Even if you haven’t tried artificial intelligence tools that can wri
 publishedDateTime: 2023-03-09T02:02:00Z
 originalUrl: "https://abcnews.go.com/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376"
 webUrl: "https://abcnews.go.com/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376"
 type: article
+quality: 74
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -15,6 +20,48 @@ topics:
   - AI
   - AI in Marketing
 
-secured: "9J19twjIkGxTsNpPOgEo/lQ2Z59hXtuGRfCNI/HwY+fCCvDXSMHqsW9ppoIJjN1rBA5ivf6MdSP87U65J6Ocrn2gPqDmuF3AiXmnX9dqOTeh3WcxYHYdHfghNZgZkVN9IoQ3S2HVEYF9nvwocuhb5XcIJSlxqG19/xj8rp9/TK+NI8h9iK/10q6DajACzW6FnUozpz+9jYi+tZw5XC5rQ4wD/8XNac2WA6oO3Xy4AyGgHtAXIZI60PBDjE0eOlyxXWvbZHbKEMA7N8z08rHbKHN8h+d0flRTJ0tZ8Kvx7iS/FUpKpVoxKLv9D4/McjGGhH8+M/jDoY2HwbJGRU4g8XRSg2V13eKyPM/evqbbX6rkGbMz0PTvlHHQhljOWKuUEtNDDjabnmNsR8XD9E9wv7q4UM5NC4eKXWw20T/4L1TZpyovWYS5H1TNm2HB5A9/9vyz0lJwoIG2DGRJIvjQ6HDSJfXkqauWvhFnlutP/niCiu43jShM//LeutpSI1c3m0fVgjvrB3LZFe9G0/tyXg==;ErIuMJDQwUty1k12BdCclA=="
+images:
+  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+related:
+  - title: "From marketing to design, brands adopt AI tools despite risk"
+    excerpt: "We must embrace the risks,” said Coca-Cola CEO James Quincey in a recent video announcing a partnership with startup OpenAI."
+    publishedDateTime: 2023-03-08T14:01:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/marketing-design-brands-adopt-ai-tools-risk-rcna73938"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna73938"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna73938"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-03/230308-coke-mb-1342-9daf30.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
+  - title: "From marketing to design, brands adopt AI tools despite risk"
+    excerpt: "\"We need to embrace those risks intelligently, experiment, build on those experiments, drive scale, but not taking those risks is a hopeless point of view to start from.\" Indeed, some AI experts warn that businesses should carefully consider potential ..."
+    publishedDateTime: 2023-03-11T14:36:00Z
+    webUrl: "https://magicvalley.com/business/from-marketing-to-design-brands-adopt-ai-tools-despite-risk/article_b0235818-edc7-586f-932a-2aad7502f58b.html"
+    type: article
+    provider:
+      name: Times-News
+      domain: magicvalley.com
+    quality: 34
+  - title: "Weighing the Risks of AI Tools, From Demographic Bias to Privacy Violations"
+    excerpt: "“When it comes to artificial intelligence, machine learning and the things that go with it, perhaps the key topic on which industry thought leaders should be focused is ethics and morality, and where we’re going with this and how we’re going to use i"
+    publishedDateTime: 2023-03-10T19:33:00Z
+    webUrl: "https://marketscale.com/industries/uncategorized/weighing-the-risks-of-ai-tools-from-demographic-bias-to-privacy-violations/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 17
+
+secured: "eoFl6XCP1fEe5mUBgQP0mvmrS4/9T+ro5rgjyRnjwiP9xoDqn5IHaqYW292irsjD2DGwzLN34q6MwcyP2freDbtsUdn9cD23KbhR59F2qr/3JimHGOnbcQo91ApcIgVK9yv395tDkfmGJHIf5pHHUR/OjLp6VFqHmKGCcOcTCPAYH+cjBy0pbsKIlZNF6GX4Ur6J8V4odzvWVn79Z5YjBqfBxXetG2pQzJ+mOEeTvSU+whN9ud3eeQ1ol+mRK/KjOgaeWiiXpkm5ulKWs18gD2E5q2+ofkyCkauJbMs1Vbcm6hdyK4Ai8Xn0+0TTHzCpGRoHM+DSdIYIBQmvkrU7gO0VbBi5/cX9l7UpGE1XcPo=;JjH55l/LfhQXDqJXScyIuQ=="
 ---
 

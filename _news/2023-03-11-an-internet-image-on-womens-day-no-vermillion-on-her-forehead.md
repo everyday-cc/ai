@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-11T14:27:00Z
 originalUrl: "https://indianexpress.com/article/opinion/columns/internet-image-on-womens-day-no-vermillion-on-her-forehead-8491232/"
 webUrl: "https://indianexpress.com/article/opinion/columns/internet-image-on-womens-day-no-vermillion-on-her-forehead-8491232/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Indian Express

@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/90686/facebooks-version-of-chatgpt-
 webUrl: "https://www.tweaktown.com/news/90686/facebooks-version-of-chatgpt-leaks-online-now-being-trained-by-4chan-users/index.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 620
     height: 465
     isCached: true
+
+related:
+  - title: "The Top 4 Examples Of How ChatGPT Can Be Used In Telecom"
+    excerpt: "Are you curious about how ChatGPT is revolutionizing the telecom sector? Check out this list of top 4 examples, including customer support, network optimization, and fraud detection."
+    publishedDateTime: 2023-03-10T06:32:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/640adc9a03926496c67aa269/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "87nKtEcR66InRXoxvH3L+ulmsTJMzhqr3BNlVHEIpAEVPBm/5uOb5X+k+65Db3wegSDLVXf9zbuazxAuySte3wavLOC1+VYdq7LGpQ9Dy92p4ex+Ao1hOCUNXY6eTNkMIRDKlOkoC/6EKvemqAuGLdmQX/E3u4rXdktRI1A8w1zwvwsED+seY/aDdljnOCAziGxS4CD8io0lkeFa1ugkK2oP8xtxG70hg5Dn4ng1M7K0jW16TTNkso/onKNSIOC5K2oOLUD6NCqY+0PFPl/nLqR6jOwwu93S84OD4os0Au/UHWYi0XcOn2G5MMxjt400ZmvMjqulqlsZ8f+MHWPyDavmEHywUF/HBqVndNwK7Jo=;X94+Jz8J2upjqw2vTqq1tg=="
 ---

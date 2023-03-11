@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/scammers-are-using-ai-to-im
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/scammers-are-using-ai-to-impersonate-your-loved-ones-heres-what-to-watch-for/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://media.9news.com/assets/CCT/images/b5b714e2-403a-44b4-8c6d-78bb9d60ee5e/b5b714e2-403a-44b4-8c6d-78bb9d60ee5e_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Scam uses artificial intelligence to replicate loved ones’ voices, TN police warn"
+    excerpt: "The person on the other line sounds like your loved one in trouble, but their voice was created by scammers using artificial intelligence."
+    publishedDateTime: 2023-03-11T14:31:00Z
+    webUrl: "https://www.wate.com/news/tennessee/scam-uses-artificial-intelligence-to-replicate-loved-ones-voices-tn-police-warn/"
+    ampWebUrl: "https://www.wate.com/news/tennessee/scam-uses-artificial-intelligence-to-replicate-loved-ones-voices-tn-police-warn/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/tennessee/scam-uses-artificial-intelligence-to-replicate-loved-ones-voices-tn-police-warn/amp/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 52
+    images:
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2023/03/audio-wave.png?w=1280"
+        width: 702
+        height: 395
         isCached: true
 
 secured: "zLsUMrJkDbkMDkfLcQCT7vuEHtrNfj23NnDcub0IwxKjlWc1o2t9xTHb6VUOwmq9UVMSIkCC2O5o2cgU4jBmC8sUwdNzsP7DEYCxgSF0mAOecD2IY1/RbP3ZQTW3UgY/3F8Fv2uMb925ffejVxB8zC9g51ZLptN/3rhp7YCqlip9I+DWp7M4EsGBl3YyQ9eQYCU1RCSyDRqIhVByJhmdOKtMZk7ri1BTVybSnIvOVA4ZhI234ybOIKh3w6pu/NskfhOSQTQMXT4Wu6ZjmsILnifsBOy0Nh4HolaxzEqTqnT1SQaM+qbtooVOtw4JLiU8fUnaBjeT0UB1qttCgbxriz1F+uBYZZaaP3EtEzGCOK7K0KUz17wpWzv/zPxrwPlQayvfPBQdajy2F8y+/DMwAm5THTBQBIL349O5IUay2RfbB/55yr37wwbel2HOep4AeMWb6iXZElH24V5qfliffy5YFtBczlyamtjJvUTOlaT0h1Z5m5WFg5nyf5fIwC2FioaveKzk3ztwftZ4D8wmlg==;tATGje/+MyYz45Oja4vz8w=="

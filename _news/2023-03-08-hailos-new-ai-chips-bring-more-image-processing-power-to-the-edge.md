@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-08T15:00:00Z
 originalUrl: "https://techcrunch.com/2023/03/08/hailos-new-ai-chips-bring-more-image-power-to-the-edge/"
 webUrl: "https://techcrunch.com/2023/03/08/hailos-new-ai-chips-bring-more-image-power-to-the-edge/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: TechCrunch

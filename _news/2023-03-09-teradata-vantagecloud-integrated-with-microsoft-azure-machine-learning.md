@@ -78,6 +78,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft’s computer vision model will generate alt text for Reddit images"
+    excerpt: "Microsoft is bringing Florence, a multimodal model trained on images and text, into production via Azure APIs."
+    publishedDateTime: 2023-03-07T18:13:00Z
+    webUrl: "https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
   - title: "Microsoft is harnessing the power of the cloud to make the promise of quantum at scale a reality"
     excerpt: "Microsoft announced a significant quantum advancement and made our new Integrated Hybrid feature in Azure Quantum available to the public."
     publishedDateTime: 2023-03-08T17:00:00Z

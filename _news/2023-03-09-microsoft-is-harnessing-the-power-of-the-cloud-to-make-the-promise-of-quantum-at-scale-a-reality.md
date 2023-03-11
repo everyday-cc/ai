@@ -87,6 +87,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft’s computer vision model will generate alt text for Reddit images"
+    excerpt: "Microsoft is bringing Florence, a multimodal model trained on images and text, into production via Azure APIs."
+    publishedDateTime: 2023-03-07T18:13:00Z
+    webUrl: "https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
   - title: "Teradata VantageCloud integrated with Microsoft Azure Machine Learning"
     excerpt: "VantageCloud’s open and connected platform enables organizations to transform their machine learning initiatives from pilots to production with the tools of their choice."
     publishedDateTime: 2023-03-09T11:37:00Z

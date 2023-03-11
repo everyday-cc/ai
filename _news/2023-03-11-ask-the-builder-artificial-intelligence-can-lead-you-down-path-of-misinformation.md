@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-11T14:42:00Z
 originalUrl: "https://www.spokesman.com/stories/2023/mar/11/ask-the-builder-home-improvement-id-like-you-to-me/"
 webUrl: "https://www.spokesman.com/stories/2023/mar/11/ask-the-builder-home-improvement-id-like-you-to-me/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: The Spokesman-Review

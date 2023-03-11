@@ -36,21 +36,30 @@ related:
         height: 3648
         isCached: true
   - title: "From marketing to design, brands adopt AI tools despite risk"
-    excerpt: "Even if you haven't tried artificial intelligence tools that can write essays and poems or conjure new images on command, chances are the companies that make your household products are already starting to do so."
-    publishedDateTime: 2023-03-08T16:10:00Z
-    webUrl: "https://techxplore.com/news/2023-03-brands-ai-tools.html"
-    ampWebUrl: "https://techxplore.com/news/2023-03-brands-ai-tools.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-brands-ai-tools.amp"
+    excerpt: "Even if you haven’t tried artificial intelligence tools that can write essays and poems or conjure new images on command, chances are the companies that make your household products are already starti"
+    publishedDateTime: 2023-03-09T02:02:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 74
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/from-marketing-to-desi.jpg"
-        width: 2394
-        height: 1796
+      - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
+  - title: "From marketing to design, brands adopt AI tools despite risk"
+    excerpt: "\"We need to embrace those risks intelligently, experiment, build on those experiments, drive scale, but not taking those risks is a hopeless point of view to start from.\" Indeed, some AI experts warn that businesses should carefully consider potential ..."
+    publishedDateTime: 2023-03-11T14:36:00Z
+    webUrl: "https://magicvalley.com/business/from-marketing-to-design-brands-adopt-ai-tools-despite-risk/article_b0235818-edc7-586f-932a-2aad7502f58b.html"
+    type: article
+    provider:
+      name: Times-News
+      domain: magicvalley.com
+    quality: 34
 
 secured: "R7Hoghz74SAeL5nA4cp4INEgoAN9O/+gZMPkmEW8Iy0PGXTGhpB8VX3OBMsTfe0/lnOR27t8UP69PaCJgpgJgHDY9Is8BkSFDr+8gIfykFD1VgogCbjAUHeyuEkxBGINUywytedwVX4nTUtORL1Jck2fm+jz94UgSFcdBfTRb1Gpk8wbLIZlehhiSheEKYExuWAENnaLD9XCO801l6kY8P5VrgDMu0IfANmuw3Y0HtT6YQgwDSgKNqiy6ghOkUzFkr6pCTKI5rXUn1iq0e9UgHZNapFF9lt03C2l8NVcSgvaGdUtP/69X7D+byXKGNEMhMOXTQWgV43gEtbtjXg8GiXP+waj1MPBSsmrkWSHMHH9gNFgDmCRlgavj6OpQp7/LtvYpm2lss1pH37c7CnLU4Q3mR3d6voU4VE7l5okXNHBS1O985voLklmuPmb+c5VmRkLvBSgRyf1mYALLMf837uIxBSubI5rTFLPPh0GyU4u1yqneUygWVt9l1LiM+zwM8DR4B0nbVHA7Rm28Dk1/Q==;g0amYuOhbVGVA2kBlSpO8A=="
 ---
