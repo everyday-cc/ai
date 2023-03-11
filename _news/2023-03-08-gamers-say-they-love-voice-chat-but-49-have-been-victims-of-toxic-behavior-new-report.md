@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Gamers Say They Love Voice Chat, But 49% Have Been Victims of Toxic Behavior -- New Report"
+title: "Gamers Say They Love Voice Chat, But 49% Have Been Victims of Toxic Behavior — New Report"
 excerpt: "A survey of a nationally representative sample of more than 1,000 U.S. gamers found that nearly 70% have used voice chat while gaming. Nearly half of all gamers and 72% of voice chat users reported ex"
 publishedDateTime: 2023-03-08T15:20:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31260981/gamers-say-they-love-voice-chat-but-49-have-been-victims-of-toxic-behavior-new-report"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/n31260981/gamers-say-they-love-voice-chat-but-49-have-been-victims-of-toxic-behavior-new-report"
-ampWebUrl: "https://www.benzinga.com/amp/content/31260981"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31260981"
+originalUrl: "https://www.benzinga.com/pressreleases/23/03/p31261005/gamers-say-they-love-voice-chat-but-49-have-been-victims-of-toxic-behavior-new-report"
+webUrl: "https://www.benzinga.com/pressreleases/23/03/p31261005/gamers-say-they-love-voice-chat-but-49-have-been-victims-of-toxic-behavior-new-report"
+ampWebUrl: "https://www.benzinga.com/amp/content/31261005"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31261005"
 type: article
-quality: 34
+quality: 35
 heat: -1
 published: false
 
@@ -44,6 +44,6 @@ related:
         height: 675
         isCached: true
 
-secured: "9kBG+/KKqsWPdSORH3Zvu89HOiGneVl70ZWDvLWmS1BkZJYgvGLmvemphRVLHxsHhfb3kIX4zQVOLWOmqwBawmBYFet+XkHCMp4XQxcKdVZ/VkBeDfZgMyc/5dmViwkovz8gCPBpXE9U74Gf3xImMcxAKUxYpEvZj7+bHhBB9nAujumClTzQDVg+65SZDXDpvMMN0cc5M0ezUHw3g0AlA8kiuXK1uMGPneRkYwEUG1qwf/wAELHc55cAXBAbeEDwso6gRnaZuq9PSkJWu+tcG1Tbko1JdjsQUNp7Am5r7/Bq6dptYLM01U58Hmu2DQ8+uG86lkUPEOZJ/QeTpX9TzICoFQ+9twYJpGihLEdO9fo=;QQvFRD3cFTr2ty22rNheiA=="
+secured: "W6ypXb9VODgfh9XNd0aRn7k8J805cEXdA5P/chXOwgRX52sqPU8cSTqQKkpOD5SsheOVp1owU4zvGzaU8CTY2LijuPxtPWDYs977hOQJVemJLd08oLAUfL8vo76UETIhhJuo/9UjUeaLqqm+sR4k/O56eLL9l5xdAUoSssgFyn8SEYFNZQdpGiMUd7uNk0OGEkpLBBhANTFGN5QgOYpiAL9B3WgzDoLsIr3lmIkTFZx67CUWU5pmcIEXyyAPKV5Sfi4zQfOC/WWrZ15oXlA9Ss1AFQoMfMSZV6YyAtuFxBXJdwKw0hmEToC+Z+Si4GSuE5DrpcZGy8JZ4YCkbYh9XFBGWL2CjV97uKislIGzNO4=;cZSko35G5dTm4OgzYgMmJw=="
 ---
 

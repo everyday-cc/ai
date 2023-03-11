@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Battle lines drawn over facial recognition technology as lawmakers revive proposed ban"
+    excerpt: "The Facial Recognition and Biometric Technology Moratorium Act would ban the use of federal funds for biometric surveillance systems and information collected through biometric technology. A group of U.S. lawmakers have reintroduced a bill calling for a ..."
+    publishedDateTime: 2023-03-09T00:00:00Z
+    webUrl: "https://www.securityinfowatch.com/industry-news/article/53028009/battle-lines-drawn-over-facial-recognition-technology-as-lawmakers-revive-proposed-ban"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 33
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/03/bigstock_Beautiful_Woman_Look_Up_And_Ey_465733679__1_.640a46c1342f5.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5TC60LGAilnHsc8XddjpVNWS5sabnMYc8MFJ0YURwD3mP5ZHUAX8ZZ60J7t8+CbYFKGmn51gzNghZS8uQOm4p31QpyJlOnR25k2sQoev+6TrL8zgDsGHBZsqcHiUi4uainsKsJ08BLVrsGVpcjNkiOY5eEi2eh6s+/IZ6IpCwbO+f2gCCRWI+hY8CLOgB/rsUAbNgQuS+hNrJ5Ms5do+6HVcOwV3LArG3iXGcvKjA9D0batKZQXWQ/QALTNtuNpHKGi5/iskkB2igX95IVi6antpDeNiRTwS+FNjukdjfmerw6IeQXg2SF7Y0SOatIJQYZxyns0pBfAqpprE1aZBBjUPivPpiI05UqtBrTHx9Y0=;4cxLZFigLSmIGsTvaZo3Kw=="
 ---

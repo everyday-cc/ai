@@ -1,30 +1,28 @@
 ---
 category: news
 title: "JMIR AI | MOBILE ARTIFICIAL INTELLIGENCE-POWERED ACCEPTANCE COMMITMENT THERAPY TOOL"
-excerpt: "MOBILE ARTIFICIAL INTELLIGENCE-POWERED ACCEPTANCE COMMITMENT THERAPY TOOL Feb 28, 2023 (PRNewswire via COMTEX) -- PR Newswire TORONTO"
-publishedDateTime: 2023-02-28T16:55:00Z
-originalUrl: "https://www.marketwatch.com/press-release/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool-2023-02-28"
-webUrl: "https://www.marketwatch.com/press-release/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool-2023-02-28"
+excerpt: "2023 /PRNewswire/ -- JMIR Publications published \"Adolescents' Well-being While Using a Mobile Artificial Intelligence-Powered Acceptance Commitment Therapy Tool: Evidence From a Longitudinal ..."
+publishedDateTime: 2023-02-28T17:58:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/02/n31098295/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool"
+webUrl: "https://www.benzinga.com/pressreleases/23/02/n31098295/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool"
+ampWebUrl: "https://www.benzinga.com/amp/content/31098295"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31098295"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "h0DqJvNvtU2pkcnxweOUlHs+c0ZIKSYbhdHgyaB0hnkW0sY9M/FLurJdfUw9TwoW7VfTzMk2XZ6zVhBrVrLXt2BM+qEWfxQExptPn8pBOo76zKp+nOYMvBPiUcUUztSt4qSOgeJMJd9lF0FFevQftiyFupRPkMNqghVAx4q/fw5EMPdl4aEWCzEfwjDPkHStQakQz/bOdK4HVHBwchbctnZRfHYObbmWGKTV91QakTPhZ/iPXQ1rr0ZRkBcfuNRFHTJNkLdJ/PXcH/tfTkE+EZFXLgOOffobOuRPjrw9rdK9KqqvvULkVqxrgzkmIdCoAWSexR2wwqeyeV72nTKOjm4UmR03/OjHFcul1QSnvR0=;Af8u80/5KcIxrWUdHR0HpA=="
+secured: "k7q7wsRV1vHJGWS+DQ2GGkEnrLZd0Bbtp/IcrcNop1X7eF/KQb7hYz5q3/uzBPFHcHZITuXkoh+QzWTfWrUH/hHo5InMOD8m2DLnWrcRMNET1JDXixWPsImYnwHqMIrQHamMAzpYeUCJNg+DOypCIAJYQB0hXNecCz+8yWiOvcXvmGEO+V6UGqY11LGT+4qRd1KcIERVDL4/mZgR4g52xHs4+dBK66RQrEfubAMG65N/3NHT3AsJpulDz51+69I6E7GcFn6VoukUiKzccQdBEKkLpHC7MKr96BjVJCa7MYetGIIb8Ui8l2V6Z1DvvU4goq8EMCPXjbR31BW1Pw5gPRTflyxSQDFWV6Eiyuymo9E=;ShN5qpOUDYVIv7LWXWE4cg=="
 ---
 

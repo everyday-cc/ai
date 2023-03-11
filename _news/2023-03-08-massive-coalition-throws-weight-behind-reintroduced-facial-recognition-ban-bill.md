@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Battle lines drawn over facial recognition technology as lawmakers revive proposed ban"
+    excerpt: "The Facial Recognition and Biometric Technology Moratorium Act would ban the use of federal funds for biometric surveillance systems and information collected through biometric technology. A group of U.S. lawmakers have reintroduced a bill calling for a ..."
+    publishedDateTime: 2023-03-09T00:00:00Z
+    webUrl: "https://www.securityinfowatch.com/industry-news/article/53028009/battle-lines-drawn-over-facial-recognition-technology-as-lawmakers-revive-proposed-ban"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 33
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/03/bigstock_Beautiful_Woman_Look_Up_And_Ey_465733679__1_.640a46c1342f5.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California bill would regulate police use of facial recognition technology in body cams"
     excerpt: "Assemblyman Phil Ting (D-San Francisco) has introduced a new bill to set parameters for how and when California law enforcement officers can use facial recognition technology in body cameras."
     publishedDateTime: 2023-03-09T14:17:00Z

@@ -3,8 +3,8 @@ category: news
 title: "UK Fintech Tintra Selects Temenos to Power AI-Led Inclusive Banking for Emerging Markets"
 excerpt: "Tintra PLC, a London-headquartered Deep Tech and Banking company, has selected Temenos to power its innovative new bank designed solely for emerging market clients. Tintra will be using Temenos core banking platform and market-leading payments as well as its Financial Crime Mitigation solution."
 publishedDateTime: 2023-03-09T08:59:00Z
-originalUrl: "https://financialit.net/news/digital-banking/uk-fintech-tintra-selects-temenos-power-ai-led-inclusive-banking-emerging"
-webUrl: "https://financialit.net/news/digital-banking/uk-fintech-tintra-selects-temenos-power-ai-led-inclusive-banking-emerging"
+originalUrl: "https://financialit.net/news/open-banking/uk-fintech-tintra-selects-temenos-power-ai-led-inclusive-banking-emerging-markets"
+webUrl: "https://financialit.net/news/open-banking/uk-fintech-tintra-selects-temenos-power-ai-led-inclusive-banking-emerging-markets"
 type: article
 quality: 45
 heat: 45
@@ -24,6 +24,6 @@ images:
     height: 768
     isCached: true
 
-secured: "dYIdFKloeLuCotYj26kLkwTRcqLAsjfijAfyP6Hm+wgXNuIdlA+tYVnDbK2aaUuWAOtivkbqm8tn6LZCCq7pGxQ/0fyr1WrTj8WlmNqb3TtDMv9LlFWK3s69+hpC9Vgfs0InjEGaRccobYE9OlDIHhzfl9e4zsfwHHPhxfuoZd6i4KfTbM/ZGjeQ1y3QVsAsDHkLXqJuRu/AmKrWHA06/S/qBnWBd6LWKo9Yi2YtUEtjyaT7vQSAG1xUZGLNkKonmXbjz+/Tf9ND552JIPDlWVvI2IPYq0dGXGZl06gPLK1WNwk3qkWXpTzVFD2coe937aVq+JgrOgGcSj6j+ki0ACeR9VZG+auS+HyGgh5C2mY=;H1eMF4iNgWITYiVBK/5GYA=="
+secured: "eOL9rkVNDrHzvWlGLsSxlMf3zSRiWk9inhV9aor8V/ES7aF/LCWLhAOGWR4Pi8IyYOur3VI9Th6medUDdp7NH1QfxwAKDiUO8VNmI3rYdorR1r9HwSxah/1pAZ51fDYWGfWoRU5wk72KLHMigDryJzOXvZb8AIlOlZmIMWIh5jAt5zbrZQQOJrzUfAnIOyn23QSyP2rksYHeDgck9SnvyqOcpmbhWu0BpTslO/AY3iDZg9h1Qj+JenFtgamOFMCDIhll9N0IMGi+BvZECrmfQNhzIPBcj1Gh4nS6pi60mU6yv0MMBmevJgDUiElabZru8XjxL14GWfNlvTkDGkhuB5kuV4UAqYscGIuDiSbvK50=;7jge06m7TSOXzqLGEzuTLg=="
 ---
 

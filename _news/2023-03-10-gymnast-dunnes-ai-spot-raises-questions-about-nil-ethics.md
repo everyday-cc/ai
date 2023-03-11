@@ -1,29 +1,25 @@
 ---
 category: news
-title: "Gymnast Dunne's AI spot raises questions about NIL ethics"
-excerpt: "LSU gymnast Olivia Dunne's endorsement of an artificial intelligence essay-writing product is raising questions about whether college athletic programs should provide clearer ethical guidelines for athletes earning money from name,"
-publishedDateTime: 2023-03-10T03:12:00Z
-originalUrl: "https://www.chron.com/sports/article/gymnast-dunne-s-ai-spot-raises-questions-about-17830432.php"
-webUrl: "https://www.chron.com/sports/article/gymnast-dunne-s-ai-spot-raises-questions-about-17830432.php"
+title: "Gymnast Dunne’s AI spot raises questions about NIL ethics"
+excerpt: "LSU gymnast Olivia Dunne’s endorsement of an artificial intelligence essay-writing tool is raising questions about whether college athletic programs should provide clearer ethical guidelines for athletes earning money from name,"
+publishedDateTime: 2023-03-09T22:15:00Z
+originalUrl: "https://www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/"
+webUrl: "https://www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/"
+ampWebUrl: "https://www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/?amp=1"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://s.hdnux.com/photos/01/31/66/05/23552365/3/rawImage.jpg"
-    width: 2048
-    height: 1462
-    isCached: true
-
-secured: "sMHdc4PSYbilnWGPu0dAUmeBgSIh+Vusdmo8lJ3T+UR5M9/u5whgryc+lKUg3tVZmRyBbiTdk1I6VUXYE+3UWBCahDto+2cnDTxq+XdMpDVxpjJZnTcvzh8pFgok9w/EtEl6+kl3FnI/FNvaDSkQIx03Ph6n+gYNHVEhFru/nZnZVxjyCzuoYhchnm4KrRXfa3uoZaWke/PLudv2Y5HFzS78eNzwrfpfLU2tVfxuTZRaJBvRa4tBWtZfzIJ6VUI6sv35piar/lBudtxZ4JAmN3SqXbsIw7oOuw+mC7qKWsplEJQW4g7rSVwNRDcFl2Jawt7K1X3OekxjE8sKG9Ci47BVuxo1oXbyzAATh5wEI1g=;5yNb5Gj34QVX5uPkbqidtQ=="
+secured: "ASmpm1YNFHEepgC3MGr/n/cYYHSFfOLVSAKNogta8lnFil5JRcUgsOQQPl8rNPuJJZZVjWoPbgIO/ZeA6RACUAb/POYr+B8HZd/kpShTsohvGPciL7uB777zFY20qgpD6ekbGhOpcqOgkw/S99bMNP2+2BedjzZ2DSc5JEAFaZGKiN7MTgMEYkeGRJ+0MMDqVIYddKAO3KSm8seiD+MR/2/j1FLifZmZwMnOVXFj9vbwv56K5tZWlG6rkjJibKwRzk9S38ffIPDhEfSkHRQRtN89B/fT+GEF9sw+UHjmOF8HXYtVHnudwVZEwdVw9Huik2SkEDymxVBP7ioS1GSFMqR1kdMws2LIIqUYjY1tUcPkGsg8fCpr41af29yvtJnMT2BfHkwGFgHQ1awa5bEcqqQ3pEkR1CYWQOMRr5pd+gu8Xc9h3RZrcP0+ZvCnqzfWxn2g0l2BU0qUkZXno2VkROXshH8tpPo/7J22uBWLNVrjhBMDZrd8x8qAjAPma76gS2Yalcrk3XfqPLDHe3UJYQ==;FVBgm5ByGRR4OaEMqR8YGA=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/23/03/31284143/civilengineering-
 ampWebUrl: "https://www.benzinga.com/amp/content/31284143"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31284143"
 type: article
-quality: 72
-heat: 82
+quality: 74
+heat: 84
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
