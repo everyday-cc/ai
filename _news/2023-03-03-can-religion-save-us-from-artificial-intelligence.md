@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://media.zenfs.com/en/aol_la_times_articles_830/3c35cb1ef54d128f67797e6f50e9fabf"

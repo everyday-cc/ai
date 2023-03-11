@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/marketing-design-brand
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "From marketing to design, brands adopt AI tools despite risk"
+    excerpt: "Mattel has put the AI image generator DALL-E to work by having it come up with ideas for new Hot Wheels toy cars. Used vehicle seller CarMax is summarizing thousands of customer reviews with the same “generative” AI technology that powers the popular chatbot ChatGPT."
+    publishedDateTime: 2023-03-08T09:08:00Z
+    webUrl: "https://www.expressnews.com/living/article/from-marketing-to-design-brands-adopt-ai-tools-17826340.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/31/64/21/23544924/6/rawImage.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
   - title: "Weighing the Risks of AI Tools, From Demographic Bias to Privacy Violations"
     excerpt: "“When it comes to artificial intelligence, machine learning and the things that go with it, perhaps the key topic on which industry thought leaders should be focused is ethics and morality, and where we’re going with this and how we’re going to use i"
     publishedDateTime: 2023-03-10T19:33:00Z
@@ -37,6 +51,6 @@ related:
       domain: marketscale.com
     quality: 17
 
-secured: "vHs2UQUNwkmACi547g0aNn76YTMcGkW4ZZ+MpoA4qbf4muTaOgfKS+9s87mIjlR+mqtpgW7fFtbyItL8qOks9pvvBy+1HJKqLTaQnyDSIQhifsnZhsLRXdtxAPlRt3w8kHGzLmTJoDsS0T+qHV2dMwU9EwDDhbAZBnGDE8raoHq7d+hWUiIQbaJdFm5qeygfa+izk2AcJF1LL698lXyNp4HnBcKQNXmToHOJnknzUkU8wBDhNPW9ZI9ByFpqL61jCKMfLpPtmcTiOgYVQ8RxnVK0a23Y9G5TYVB1Ip6CQ7Zen0Gh2SD1Hz8OIr02F8YTo3/9kQjhCUAnNI8vaiy/pOyYtos9A6SUAt0H7vRphVg=;OJ06QSWaQHt+lldFAouwiQ=="
+secured: "8JzghJp5I+mDJ297NbJpVwQCLqiLdmd1g5TDt1GBIvrTkObW2SKfZUd6u9xpzP8aMrBjE39YYEsJYSaIf0wmol4LVYeGR/Bgg1RjYuOPMFawpv8O1Mhk5rB09W1A1Mgsr89wz+TeWqaipI1c48OTgSjY14WusG8keNYje/tUv2mRJ4WMvWchJ/Vd+b3tLxiBvFQQAl16GDUZlSwjzJVCIIIzlZkgDgCcSMkHq4AHR4hxgTclyw2DNGJyz5VGQV8CaKV0txH6C1VmVXrjNS0KKEfLp+CFXnqfQzvI/TAJeA+O7AZMPa0okqlbQPB6jYH0l1epkyz8RaLqXla6weAQYGZbryIP6zgJLCEaaaqCRyligKlsUWwqb0tzeDwpVQ/JUhePpt+T1AzNwF3Tk9/3VZ266DN1BsACZ0/6tSrC03q32qp+4NCJxSGICRsHEi02LtXZu20sC4ZTFiC0jtdjlMaXx1RVe3crc0IJ+rWDHO0UFN3H8ER/VErX6JAwMhY+/TNth+utZhUxgvNuXnJfJA==;neVmDu5RD8tZU2RHbjJFLw=="
 ---
 

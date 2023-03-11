@@ -1,15 +1,13 @@
 ---
 category: news
 title: "How artificial intelligence is being used to detect breast cancer"
-excerpt: "As the era of artificial intelligence, or AI, continues to expand, the groundbreaking technology is now being used as a tool to detect breast cancer. More and more breast imaging"
-publishedDateTime: 2023-03-10T21:45:00Z
-originalUrl: "https://abcnews.go.com/GMA/Wellness/artificial-intelligence-ai-detect-breast-cancer/story?id=97767530"
-webUrl: "https://abcnews.go.com/GMA/Wellness/artificial-intelligence-ai-detect-breast-cancer/story?id=97767530"
-ampWebUrl: "https://goodmorningamerica.com/amp/wellness/story/artificial-intelligence-ai-detect-breast-cancer-97767530"
-cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/wellness/story/artificial-intelligence-ai-detect-breast-cancer-97767530"
+excerpt: "ABC News’ Rebecca Jarvis looks at the impact of artificial intelligence in the field and how it could be used to help save lives."
+publishedDateTime: 2023-03-10T18:08:00Z
+originalUrl: "https://abcnews.go.com/GMA/Wellness/video/artificial-intelligence-detect-breast-cancer-97764545"
+webUrl: "https://abcnews.go.com/GMA/Wellness/video/artificial-intelligence-detect-breast-cancer-97764545"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
@@ -20,9 +18,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/GMA/mammogram-gty-bb-230310_1678465544244_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.abcnews.com/images/GMA/230310_gma_jarvis1_hpMain_16x9_608.jpg"
+    width: 608
+    height: 342
     isCached: true
 
 related:
@@ -41,6 +39,6 @@ related:
         height: 394
         isCached: true
 
-secured: "wtvAmZjNHvPvw/lvlN4wT8kJBvvQnXqYcAPhOvbzoK4HOPUf6zKslRENqIq4GOWZtG4piudmbnyH2XsVSkpaC+SVEIdSxR29xxEdY0CzidDfqa6Uv/DGGTrXkSX5RavmEAlICTEuAsFHdJ4R7fLT51KWNy6Uuv0fdWuMms4PgEOkfbxSLw4DuFExVs50xH5KY/50lgjfrLNiZZBbEXoM7wZmCy4Yxnk1mxMUIKJyWDeqGk7FMV5o2O2Uk0853+9wugEQroaIw/DFD0PLXkrYmcV/BwZatl/5veCJoXjBiqL4300B7jnhfqV3Yl+AQbOfKzBWadFyJCWO5utr0AUntxKgAYdiq9ybSH/b1BJparA=;KEaiotcfU1PmHBcVvtxZEA=="
+secured: "I133goJbiUBuAmc8Mf/NjySdDlwknD78dQdC5CLDtGxnWx/l9opwc1hp+EfrEFTD8BtI3sDazjN3JDtChZ4QUlWOofcs2NlSO1w8CuxYvU1ecfOrPmqGKMIRlFfvZWz7+/9wRKnvCtin522ZHdFve551v3q2hc2UTwH04VecyO8fpstQtba+iyYE3arVFXALXPCJ3865FOF92Pk53xSMwDCfc/BVv76qrSuRhJGz9bYZukcvBuU9Re9fDsZy8C6XkfuwA4YBNHsS7bYmGE+niXiAgF4dxlehvBgKLfFgCoROVssE95s5UUd8PigvPsdfHuk9lbh10mqTdgLx88XfhHPMboqKcLWCQwCig7MglzU=;GMAXdw3dE8rVcFkwKib2wg=="
 ---
 

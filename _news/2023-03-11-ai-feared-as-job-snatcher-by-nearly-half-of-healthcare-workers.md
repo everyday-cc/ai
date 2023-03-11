@@ -1,0 +1,29 @@
+---
+category: news
+title: "AI Feared as Job Snatcher by Nearly Half of Healthcare Workers"
+excerpt: "Overall, more than one-third (35%) of Americans are worried about the AI swiping their jobs. Nearly half (44%) of healthcare workers fear that artificial intelligence could take their jobs, according to a survey from FreelanceWritingJobs."
+publishedDateTime: 2023-03-10T23:49:00Z
+originalUrl: "https://www.healthleadersmedia.com/technology/ai-feared-job-snatcher-nearly-half-healthcare-workers"
+webUrl: "https://www.healthleadersmedia.com/technology/ai-feared-job-snatcher-nearly-half-healthcare-workers"
+type: article
+quality: 54
+heat: 54
+published: false
+
+provider:
+  name: HealthLeaders Media
+  domain: healthleadersmedia.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/hospital%20corridor_16.jpg"
+    width: 2732
+    height: 1200
+    isCached: true
+
+secured: "02viDLJKtK0AYn+UoBh+ZMFvDuYclG+dlCUlDYK8aZv7Qs6MgcONzXWZ6nlqOOu0JJUPhfohN5+yz8BOGAlfMx3U/p5ReU+QWm6DSixnuiS4UwQUCvTFtjL7nTbXyBv1QwBTc0koLvatYYP7BcvWWu6VD4KndGTRbTqPd9wrJLyyjeLMndIrgEvxkRFxCOdLb3hd1zjTE1hsJnYNlQvCsV9vnc9pJbfsuqcRRC+4+2d1PiKOzDHRNAu1BYqJvUVFDMlyVPXkQIyXgTq9m6jQDdV8JzQivKFWIkDTsAy1L0A5ni3v+ao2HfoVt8Tvn8zaBt54iBJgDFCFvK+JWGdvoG4imZXv8K5n+vqrfhOQFmA=;aqT5b6SwTmBqIKO/HP5c+A=="
+---
+

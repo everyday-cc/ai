@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Financial Crime Prevention Fintech Feedzai Joins Global Anti-Scam Alliance"
-    excerpt: "Feedzai, a key player focused on fighting financial crime with AI, has joined the Global Anti ... and other forms of Fintech. Learn Finance and Get Certified at nocost with 365 Financial Analyst ..."
-    publishedDateTime: 2023-03-06T07:42:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/03/203285-financial-crime-prevention-fintech-feedzai-joins-global-anti-scam-alliance/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/03/203285-financial-crime-prevention-fintech-feedzai-joins-global-anti-scam-alliance/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/03/203285-financial-crime-prevention-fintech-feedzai-joins-global-anti-scam-alliance/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 57
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Hands-Up-Arrest-Halt-Stop.jpeg"
-        width: 1122
-        height: 1280
-        isCached: true
   - title: "Fintech Sandbox unveils demo day lineup"
     excerpt: "Fintech Sandbox, a nonprofit that provides early-stage startups around the world with free access to critical datasets and infrastructure, today announced the line-up for its free, virtual Demo Day 9."
     publishedDateTime: 2023-03-07T16:19:00Z

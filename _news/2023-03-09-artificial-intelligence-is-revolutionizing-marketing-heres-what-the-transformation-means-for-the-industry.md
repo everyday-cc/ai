@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/why-artificial-int
 webUrl: "https://www.entrepreneur.com/science-technology/why-artificial-intelligence-is-revolutionizing-marketing/446087"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is Transforming Financial Services"
+    excerpt: "AI is one of the most exciting technologies currently attracting many headlines due to recent developments and innovations. This branch of computer science aims to create programs capable of understanding data and carrying out human tasks."
+    publishedDateTime: 2023-03-11T00:03:00Z
+    webUrl: "https://www.techguide.com.au/news/internet-news/how-ai-is-transforming-financial-services/"
+    ampWebUrl: "https://www.techguide.com.au/amp/news/internet-news/how-ai-is-transforming-financial-services/"
+    cdnAmpWebUrl: "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/internet-news/how-ai-is-transforming-financial-services/"
+    type: article
+    provider:
+      name: Tech Guide
+      domain: techguide.com.au
+    quality: 59
+    images:
+      - url: "https://www.techguide.com.au/wp-content/uploads/2023/03/nick-chong-N__BnvQ_w18-unsplash-450x300.jpeg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Accelerating AI deployment and scale with a transformative end-to-end AI platform"
     excerpt: "AI delivers business value and a competitive advantage for enterprise, but how do you go from proof of concept to production AI at scale?"
     publishedDateTime: 2023-03-10T20:27:00Z

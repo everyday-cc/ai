@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.newrepublic.com/5adcba0d3f5f591bdf4697cf85dfae0c28a2ec74.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"

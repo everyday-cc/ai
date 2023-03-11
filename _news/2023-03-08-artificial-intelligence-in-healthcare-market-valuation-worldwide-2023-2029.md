@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence based Personalization Market Valuation Worldwide 2023-2029"
+    excerpt: "Artificial Intelligence based Personalization Marketinformation for each competitor includes (, Apple, Symantec,"
+    publishedDateTime: 2023-03-10T03:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-personalization-market-valuation-worldwide-2023-2029-2023-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "iUhKdU8Ip6+urignnJUTgez5XvqJmOxDvHAK4FqEsA3pBAADV+9p/UGpcxcmgPkHK+KJRGLwIeoX+mMf3DYlVDkise8mzo7OJUAQay5EYL1EB76OPSwHmoqJunV1XZmFHosLi3pR8T6vS8hijLQRoyYW6NtVMnQcnEaeFeWg4tP4yNeVQPBaCitVxEqDPnqYcMb1uXN+rE6QSj3cgeZrh4hDDjK6xsuxhY2utnroZnUNYnteoYKzMz0MVHlcvUjIMaUEnigByVUvT0VeuWM86598kQVbX5wPh+eQthXzZ5SSROZUc5BYkPRYQhY4VCSNkVNRRJj2CtjKWSp42YnLBKtEMaOikUkgcFk/rL/kl+8=;kp447m0yVT9oA/62Zggriw=="
 ---

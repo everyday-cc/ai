@@ -36,6 +36,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "How AI is Transforming Financial Services"
+    excerpt: "AI is one of the most exciting technologies currently attracting many headlines due to recent developments and innovations. This branch of computer science aims to create programs capable of understanding data and carrying out human tasks."
+    publishedDateTime: 2023-03-11T00:03:00Z
+    webUrl: "https://www.techguide.com.au/news/internet-news/how-ai-is-transforming-financial-services/"
+    ampWebUrl: "https://www.techguide.com.au/amp/news/internet-news/how-ai-is-transforming-financial-services/"
+    cdnAmpWebUrl: "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/internet-news/how-ai-is-transforming-financial-services/"
+    type: article
+    provider:
+      name: Tech Guide
+      domain: techguide.com.au
+    quality: 59
+    images:
+      - url: "https://www.techguide.com.au/wp-content/uploads/2023/03/nick-chong-N__BnvQ_w18-unsplash-450x300.jpeg"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "RXiSu0p97b2/xUgfcjgeY+WgqfJnQuFdKyX7kp/a2fj0cjvIptj9CJ+irKviBsAyKTJmW8KkIw1t/IbYi0rXFR1yBUYgiRzCerVfZfhT60yKhEpvTA5xIaBhkEdO53sEY+nSw97izXOHCDtxKFkXg2Caf90rcomGupzk3mb0zuUPxLkQVUmiWAYPhdiBVksaqboDzSvmM4NZnQbitWh0SLZ9s7lIowqCjDo/z/rhVgA5BFZ73ym07cagmRl9jHBKGR3h8W8GZXEgQ1ahZVrOREX/avilO3wOBYWb14ublOebB1CRDqVWqIgdFerNARWkGGqLttkVirSY0b4veUHdHfw83GkmaY1JpBzr12CajAZQ92ldcFpgGN2iTC3xVH7RbQCw5UiYNZr9MN22eNzFjStSAD4EZm+hMfkxzEhXYQsnoaqL7l34EGjy5sJ5RExc7RyuqNDZJah9fV3jP6c+Fx5SGdi2ajx6UMfjOLOwsQXLzi1O7Z4wDd9+8Tp+8Kua1+qxN+TF28PdxP2W+9nzFQ==;RBSxG3c6fJC3G+riFbzaeg=="
 ---
