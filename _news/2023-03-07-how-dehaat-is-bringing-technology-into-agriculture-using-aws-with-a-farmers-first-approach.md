@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2023/03/dehaat-bringing-technology-within-ag
 webUrl: "https://yourstory.com/2023/03/dehaat-bringing-technology-within-agriculture-via-aws"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "Loop bring automation into wing boxes with new robotic arm"
-    excerpt: "Loop Technology has developed a new type of robotic arm to deliver high accuracy automation including sealing and inspection inside aircraft wings and other confined spaces."
-    publishedDateTime: 2023-03-06T17:17:00Z
-    webUrl: "https://www.aero-mag.com/loop-bring-automation-into-wing-boxes-with-new-robotic-arm"
-    type: article
-    provider:
-      name: Aerospace Manufacturing
-      domain: aero-mag.com
-    quality: 39
-    images:
-      - url: "https://aero-mag.com/uploads/amm/articles/2023/03/06/41509/16781151994168.jpg"
-        width: 904
-        height: 678
-        isCached: true
 
 secured: "bibqdtqrvvU+XId4Tiu61NRsliTJQG55PJku4ta/brEX1g5DfSZS1Zs9n1r5tVKCKxRlt6jeMrm0cyFhXn0HDX6vsGauxWPIhWLtEopaJS5XuCyyks1Azytt0QXcWfmWgP2WoBH5Ysx/P8Mka1LuIJPh+k4Pu8e36gS4hv4Zdb/kZPKskWy56skFJGWw0L5fO2jk5f64a3eMALNf/JkNLvGA1OUqVR7hsFsKuHRXcxWnHsKz4B/bPopa3tmtNXEX61bEBJSb1E5/ASR5SPyR0dlzMhCGHl7PJjiVghwksFsRAUMMvLx+5QJXREiHlzH57xN+EbAax3pd6Xdc9SxDMmqRbOvMDlF52OMTqMiKtRKLJYJXkM73ajg+GB7MtOweFuw2fKjocMNI6a7fcb6DCKCXw9d1wjfWLpvPuXwus3R9oz8uZ4hT6k9QZcD9AQ9NDDnM+khPVyLEs9kf16Trpt0FZvej/bQg5GVITSDpqHqy5BGTz+HMEU3Fpb1QM9TczStShR7CqiQb15PkbxjktQ==;y9iIXEow3unU0mRpF+yiKQ=="
 ---

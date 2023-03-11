@@ -3,24 +3,24 @@ category: news
 title: "How will artificial intelligence reshape our world? | The Ethical Life podcast"
 excerpt: "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other."
 publishedDateTime: 2023-03-01T23:30:00Z
-originalUrl: "https://missoulian.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_74dba4da-9198-50ee-9470-09c1c5c5d3a4.html"
-webUrl: "https://missoulian.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_74dba4da-9198-50ee-9470-09c1c5c5d3a4.html"
+originalUrl: "https://bismarcktribune.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_637e4c0a-625d-5e95-ad9f-95e56161d72a.html"
+webUrl: "https://bismarcktribune.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_637e4c0a-625d-5e95-ad9f-95e56161d72a.html"
 type: article
 
 provider:
-  name: Missoulian
-  domain: missoulian.com
+  name: The Bismarck Tribune
+  domain: bismarcktribune.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/7/4d/74dba4da-9198-50ee-9470-09c1c5c5d3a4/63ff73fcb1efe.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/6/37/637e4c0a-625d-5e95-ad9f-95e56161d72a/63ff73fa065ee.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
     width: 1196
     height: 628
     isCached: true
 
-secured: "D2c8mizsIQ4P8EV6h0/5xNEJJFFweTCIcWoVQbzbVBoud4zN19HB8Q7hNpHtZ9ULTs58Ojgmh+IFvAxY2PpPCE6AYWN9bZZpW+r8IA3ZKcQSNpofIRgD866YTtKUt6gobnIBgcO92JMbMW1iwNXuCgFe9d7s8n2em/u9chBqzmuiqmdvRx4Xv8PE02m1nq3mf672g1L22o3/7JTcI21ThCW2iM1vUEnBe/etzrIr161bI9BdnyNxCybJmx6/+Ldv+C3iTNZHqI2+GiH/9Ds8uoyPi/WL8kw/pga5kRz9kYLpxD2LSKkuifE0wAdFOjKzLRxV91aCEkoFQHxaqI8sIpffvdjY+GQKC4oiw1xCBskl6Vw0ZMslE1es80+TI4O/owLeJ+CAlU1m+pjW4YK+5PLjCU6hBGflXZFQ97ALS4rvuR8qxP3hdE+q/d/rzp/VM2qUZBBnNyku7h8rcv4hkIjlSKAggPqllrWnHXrGkBLHbVyPFA4W6DMCWiOV5GF0k8AGy1tt0Z0Pw917v7QybQ==;ISROOu8Xgt2TqR+UVvvSvw=="
+secured: "+XtG0WIL46jK1JybNwHnOifmq8p4Np3aI/fPgW0S4KoqCZxLde0CIebUGWHrsNQKNclBch+/olWXp88SwApeZ3eIxHjz3uv6rUgOenPZ4wfhMW6NCs30TDcD/eBcRy/vjtnqW/gTWKoogH9QKDdmRx7XW4meHw1rMQWDF/8hVEq6SSfDJRIZTxeWbz1i7u1WKjCiGC5UzzBpfZqglLhdW9CLPlrW9waFMvigM4JP3qX5sYaMmzxK0zS9z578hAg7jBSvrH01Z9dbl9019U+dUzXvz9n4fZMnQUWX15KPsL4DSbygnFRY9b3Icn0cwitBS9hdYg9iAvAdtAO/Em2v7uhhHX3qtUHYTAkpRpgORYU=;K+E1CVXRcFd6Mw9EYNtENQ=="
 ---
 

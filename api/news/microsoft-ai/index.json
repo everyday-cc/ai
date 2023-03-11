@@ -110,8 +110,8 @@
       "title": "ChatGPT comes to Microsoft’s enterprise-focused, Azure-powered managed service",
       "excerpt": "ChatGPT is now available through the Azure OpenAI Service, Microsoft's fully managed, enterprise-focused repackage of OpenAI tech.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/",
-      "originalUrl": "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/",
+      "webUrl": "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/?tpcc=tcplustwitter",
+      "originalUrl": "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/?tpcc=tcplustwitter",
       "featuredContent": null,
       "highlight": null,
       "heat": 160,
@@ -252,6 +252,49 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-therapeutic-ketosis-for-mild-cognitive-impairment-alzheimers-and-parkinsons.md",
+      "title": "Therapeutic ketosis for mild cognitive impairment, Alzheimer's and Parkinson's",
+      "excerpt": "Review: Ketogenic interventions in mild cognitive impairment, Alzheimer's disease, and Parkinson's disease: A systematic review and critical appraisal. Image Credit: Atthapon Raksthaput ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230305/Therapeutic-ketosis-for-mild-cognitive-impairment-Alzheimers-and-Parkinsons.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230305/Therapeutic-ketosis-for-mild-cognitive-impairment-Alzheimers-and-Parkinsons.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_740699_16780700168786646.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1339,58 +1382,6 @@
         "Microsoft AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-biomarker-identified-that-helps-diagnose-cause-of-cognitive-decline.md",
-      "title": "Biomarker identified that helps diagnose cause of cognitive decline",
-      "excerpt": "It can be difficult to determine whether cognitive decline in older adults is caused by vascular problems or dementia. New research has now identified a biomarker associated with the vascular ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/",
-      "originalUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0da5c46/2147483647/strip/true/crop/2000x1333+0+1/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0d%2Fd4%2F6519632142a783a09701f8ac2aed%2Fdepositphotos-232740318-l.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/biomarker-diagnose-cause-cognitive-decline/?amp=true",
-      "publishedDateTime": "2023-02-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

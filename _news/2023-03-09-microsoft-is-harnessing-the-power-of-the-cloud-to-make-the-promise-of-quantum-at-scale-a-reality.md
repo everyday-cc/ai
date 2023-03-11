@@ -32,7 +32,7 @@ related:
   - title: "ChatGPT comes to Microsoft’s enterprise-focused, Azure-powered managed service"
     excerpt: "ChatGPT is now available through the Azure OpenAI Service, Microsoft's fully managed, enterprise-focused repackage of OpenAI tech."
     publishedDateTime: 2023-03-09T20:41:00Z
-    webUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/"
+    webUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/?tpcc=tcplustwitter"
     ampWebUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/amp/"
     cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/amp/"
     type: article

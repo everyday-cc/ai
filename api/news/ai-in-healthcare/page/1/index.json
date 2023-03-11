@@ -114,7 +114,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-valuation-worldwide-2023---2028-2023-03-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -686,19 +686,19 @@
     {
       "path": "_news/2023-03-01-jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool.md",
       "title": "JMIR AI | MOBILE ARTIFICIAL INTELLIGENCE-POWERED ACCEPTANCE COMMITMENT THERAPY TOOL",
-      "excerpt": "2023 /PRNewswire/ -- JMIR Publications published \"Adolescents' Well-being While Using a Mobile Artificial Intelligence-Powered Acceptance Commitment Therapy Tool: Evidence From a Longitudinal ...",
+      "excerpt": "MOBILE ARTIFICIAL INTELLIGENCE-POWERED ACCEPTANCE COMMITMENT THERAPY TOOL Feb 28, 2023 (PRNewswire via COMTEX) -- PR Newswire TORONTO",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n31098295/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n31098295/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool",
+      "webUrl": "https://www.marketwatch.com/press-release/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool-2023-02-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool-2023-02-28",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -706,14 +706,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31098295",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31098295",
-      "publishedDateTime": "2023-02-28T09:58:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T08:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

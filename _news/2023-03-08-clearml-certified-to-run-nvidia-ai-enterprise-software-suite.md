@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2023/03/clearml-certified-to-run-nvidia-ai-e
 webUrl: "https://insidehpc.com/2023/03/clearml-certified-to-run-nvidia-ai-enterprise-software-suite/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 300
     isCached: true
+
+related:
+  - title: "Nvidia results show its growing lead in AI chip race"
+    excerpt: "AI is taking over the tech industry and, according to research firm Gartner, the share of specialized chips such as GPUs that are used in data centers is expected to rise to more than 15% by 2026 ..."
+    publishedDateTime: 2023-03-08T17:11:00Z
+    webUrl: "https://jp.reuters.com/article/nvidia-ai-idCAKBN2UX0XW"
+    type: article
+    provider:
+      name: ロイター
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20230223&t=2&i=1624491026&r=LYNXMPEJ1M0G3&w=800"
+        width: 800
+        height: 509
+        isCached: true
 
 secured: "WNbAedPYe51zH7fC5v7wNahHIzG0ANO10uEHnfXUn29rYUHMY01+oDD1tYGO0MqfhklsrjelPJOYAytHAws87USVelksld0WcwtPtjZj9gw7tynuROYSd0V1pPEE4o5bf9vJ7FdDtuDRqRGRNc29iKzC7VThydxsCLHWO51wv/obXBo6DevrkYccXBZbmszJPq6zxCZWm077eLCT4Q5hc+FEjWCUuSmuPznwFLPoU9+9pHwPPUirUbhphqXzcekqD21rQvPs8W1/letSBfGAdz+8DxSmNsuh1wW3O05JLAfXC/fep/ojVadpsLaiGp5VJmx0dKDXTdhrxdoU0R7ll32S4eCPjrRTOmjUt5IXeMlLZmUyk2J08RG+cfJHNf5ZgDdswjzR6/Oe12C3ybn4VekQUkdkM2KxcMDSkCmN7vv+EgaBY87nM28eFfNULGE2CHyY1sULC9wFe6n07lGWGi8Arf0vHykKuKJwMCM3OglBFYn0Yv82sxLSTIWMjKKdECi0v8ynrah5VAd2G3A2zQ==;b5dSMOAVx5OuP1RtKZywBw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-sm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Verimatrix Wins Top Prizes for Artificial Intelligence Security and Brand Growth in 2023 Cybersecurity Excellence Awards"
+    excerpt: "Company brings home two coveted Gold Awards in one of the industry's most well-known award programs Regulatory News: Verimatrix, (PARIS:VMX) (PARIS:VMX), the leader in powering the modern connected wo"
+    publishedDateTime: 2023-03-07T18:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/b31245093/verimatrix-wins-top-prizes-for-artificial-intelligence-security-and-brand-growth-in-2023-cybersecu"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31245093"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31245093"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 51
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Gurucul Named Most Innovative Security Company of the Year for Artificial Intelligence in the 19th Annual 2023 Globee Cybersecurity Awards"
     excerpt: "Company's artificial intelligence capabilities within Gurucul Next-Gen SIEM recognized for dramatically reducing operations expenses and improving efficiency of Threat Detection and Response programs Gurucul,"
     publishedDateTime: 2023-03-10T15:00:00Z

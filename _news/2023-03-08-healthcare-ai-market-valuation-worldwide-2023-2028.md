@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-val
 webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-valuation-worldwide-2023---2028-2023-03-07"
 type: article
 quality: 88
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence-based Cybersecurity Market Valuation Worldwide 2023-2029"
+    excerpt: "Artificial Intelligence-based Cybersecurity Marketinformation for each competitor includes (, Imperva, Palo Alto"
+    publishedDateTime: 2023-03-10T03:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-cybersecurity-market-valuation-worldwide-2023-2029-2023-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Chip Market Size and Forecast till 2028"
+    excerpt: "The \"Artificial Intelligence (AI) Chip Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-09T12:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-size-and-forecast-till-2028-2023-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 99
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) for Security Market Growth and Forecast till 2028"
     excerpt: "The \"Artificial Intelligence (AI) for Security Market\" study describes how the technology industry is evolving and"
     publishedDateTime: 2023-03-09T11:52:00Z
@@ -80,6 +94,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 85
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Evolution of Artificial Intelligence (AI) Robots Market 2023: Future Developments and Trends by 2028"
+    excerpt: "Latest Research Report 2023-2028: “Artificial Intelligence (AI) Robots Market” | Survey with 125 Pages Report The Artificial Intelligence (AI) Robots Market is a dynamic and constantly evolving industry,"
+    publishedDateTime: 2023-03-10T06:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-evolution-of-artificial-intelligence-ai-robots-market-2023-future-developments-and-trends-by-2028-2023-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -197,15 +225,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Accounting Market to Grow Significantly by Leading Players 2023 to 2029"
-    excerpt: "The \"Artificial Intelligence for Accounting Market\" study describes how the technology industry is evolving and how"
-    publishedDateTime: 2023-03-08T11:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-to-grow-significantly-by-leading-players-2023-to-2029-2023-03-08"
+  - title: "Latest \"Artificial Intelligence (AI) in Fintech Market\" Industry Analysis from 2023 to 2028 Explored in Latest Research"
+    excerpt: "Report Highlights with 116 pages: -\"The global Artificial Intelligence (AI) in Fintech market size was valued at"
+    publishedDateTime: 2023-03-08T06:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-in-fintech-market-industry-analysis-from-2023-to-2028-explored-in-latest-research-2023-03-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -224,22 +252,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Verimatrix Wins Top Prizes for Artificial Intelligence Security and Brand Growth in 2023 Cybersecurity Excellence Awards"
-    excerpt: "Company brings home two coveted Gold Awards in one of the industry's most well-known award programs Regulatory News: Verimatrix, (PARIS:VMX) (PARIS:VMX), the leader in powering the modern connected wo"
-    publishedDateTime: 2023-03-07T18:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/b31245093/verimatrix-wins-top-prizes-for-artificial-intelligence-security-and-brand-growth-in-2023-cybersecu"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31245093"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31245093"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Computer Vision Software Market Size, Growth Rate, Key Players Share, Trends Analysis with Forecast 2023-2029"
     excerpt: "The \"Computer Vision Software Market\" study describes how the technology industry is evolving and how major and"
