@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-ma
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/amp/"
 type: article
 quality: 121
-heat: 271
+heat: 291
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-98538794,width-1070,height-580,imgsize-3588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
+        isCached: true
+  - title: "Microsoft to launch ChatGPT 4 with AI videos"
+    excerpt: "but the GPT 4 will change the app to be the underlying large language model technology that powers it. At the recent “AI in Focus — Digital Kickoff” event, Microsoft explained that GPT-4 would be “multimodal\", which will allow AI to translate a ..."
+    publishedDateTime: 2023-03-11T07:02:00Z
+    webUrl: "https://tribune.com.pk/story/2405548/microsoft-to-launch-chatgpt-4-with-ai-videos"
+    ampWebUrl: "https://tribune.com.pk/story/2405548/microsoft-to-launch-chatgpt-4-with-ai-videos?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2405548/microsoft-to-launch-chatgpt-4-with-ai-videos?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 76
+    images:
+      - url: "https://i.tribune.com.pk/media/images/chatgpt-(1)1674717934-0/chatgpt-(1)1674717934-0.jpg"
+        width: 2240
+        height: 1260
         isCached: true
   - title: "How to invest in new AI technologies like ChatGPT, DALL-E, and more: Wall Street analysts weigh in"
     excerpt: "Wall Street is buzzing about AI, as analysts from Bank of America, UBS, and more pick their favorite artificial intelligence stocks to buy now."
@@ -246,6 +262,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "D-ID's Generative AI to Power Online Chatbot for Victims of Domestic Violence"
+    excerpt: "ID, a world leader in generative AI, and  Spring ACT, an award-winning non-profit organization that leverages technology to eliminate global injustices, announced today a campaign to use Generative AI to strengthen global online support for victims of domestic violence."
+    publishedDateTime: 2023-03-08T09:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-d-ids-generative-ai-power-online-chatbot-victims-/2023/03/08/9773079.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "8UDHlY+5kAuvqbIa0oKoUXuxDIaiHSE5P5YLE9nHgnBlEqRXhK7rK62OgyAkq1d7alJEiewv1thMpumD5D3P/iyCu1QHz8G7MLPuLihv9iXXagRZBsTLyR3RCNpdFraMv4pbB+j6InYMxGYQqKiqywiXczOnSFVNsf1hYbRuaxxFbT471SgHhWD96zJjV4fQFLlgmv4sdMORDAvsTMMX815Yo4wytDHfyQNevqAcA+Ef7kgEruzk1OcgI39CPiIKjO+3nseSFsbFnT+fk/N18wyEk+9dTGH50NTn2EtMHgGa0q70uBI5WD8WjnCx0eGivWbaMjfDuNyx8Eusd1pRyInVgQaEf6Ms+wfydZbUEsDnfj1GFXsb2RpawZWBUvAPhaAw0hf8ZbGU184hoqenJOR81CXea7kzFk5P938J2HIDCaQgbQtzNrQplUv+uZbEzmwZPSfEVKqYee+rz9PCndnqsAViiaOQ6QBa5a2oQe9Y9IOMVn5m1nkHLQy0gEKstkneggsIIEek14kEti/E4w==;0SA6Ye8jqb2kcehTOGCupw=="
 ---

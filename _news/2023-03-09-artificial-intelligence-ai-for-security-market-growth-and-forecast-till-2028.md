@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-for-security-market-growth-and-forecast-till-2028-2023-03-09"
 type: article
 quality: 97
-heat: 257
+heat: 267
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 88
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare AI Market 2023-2028 Recent Study by Trend and Growth Analysis"
+    excerpt: "Mar 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends,"
+    publishedDateTime: 2023-03-10T09:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-2028-recent-study-by-trend-and-growth-analysis-2023-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 85
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

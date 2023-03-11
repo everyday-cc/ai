@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/science-technology/why-artificial-int
 webUrl: "https://www.entrepreneur.com/science-technology/why-artificial-intelligence-is-revolutionizing-marketing/446087"
 type: article
 quality: 68
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Is AI the Perfect Ally to Complete Digital Transformation?"
+    excerpt: "Digital transformation has become an indispensable initiative by organizations in the form of a wide range of technologies like SaaS, IoT (Internet of Things), VR (Virtual Reality), ML (Machine Learning),"
+    publishedDateTime: 2023-03-09T21:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How AI is Transforming Financial Services"
     excerpt: "AI is one of the most exciting technologies currently attracting many headlines due to recent developments and innovations. This branch of computer science aims to create programs capable of understanding data and carrying out human tasks."
     publishedDateTime: 2023-03-11T00:03:00Z

@@ -89,6 +89,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Microsoft to launch ChatGPT 4 with AI videos"
+    excerpt: "but the GPT 4 will change the app to be the underlying large language model technology that powers it. At the recent “AI in Focus — Digital Kickoff” event, Microsoft explained that GPT-4 would be “multimodal\", which will allow AI to translate a ..."
+    publishedDateTime: 2023-03-11T07:02:00Z
+    webUrl: "https://tribune.com.pk/story/2405548/microsoft-to-launch-chatgpt-4-with-ai-videos"
+    ampWebUrl: "https://tribune.com.pk/story/2405548/microsoft-to-launch-chatgpt-4-with-ai-videos?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2405548/microsoft-to-launch-chatgpt-4-with-ai-videos?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 76
+    images:
+      - url: "https://i.tribune.com.pk/media/images/chatgpt-(1)1674717934-0/chatgpt-(1)1674717934-0.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "How to invest in new AI technologies like ChatGPT, DALL-E, and more: Wall Street analysts weigh in"
     excerpt: "Wall Street is buzzing about AI, as analysts from Bank of America, UBS, and more pick their favorite artificial intelligence stocks to buy now."
     publishedDateTime: 2023-03-09T11:00:00Z
@@ -241,6 +257,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "D-ID's Generative AI to Power Online Chatbot for Victims of Domestic Violence"
+    excerpt: "ID, a world leader in generative AI, and  Spring ACT, an award-winning non-profit organization that leverages technology to eliminate global injustices, announced today a campaign to use Generative AI to strengthen global online support for victims of domestic violence."
+    publishedDateTime: 2023-03-08T09:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-d-ids-generative-ai-power-online-chatbot-victims-/2023/03/08/9773079.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "pm0aKm7I+dxSl+Qi5q54qXSpjhcLflqYTannyYAOwMM/8EXLf4navJ8XhEZfQ4gt8oQcRlaTqkODqwRXbLTkNNcrWhfwQpCkMVQiszoN1EQleSfF2g6S8Lf5J1AsBv4ESYPX2Mesg1NqbD0xHX77HS1wFFHT4VD2kGX/IUmEg79JmW+r1abyCeTokPmmsLsl4uQFe9pTmrn/ibJVoBdVk7fy+FYReuTb82lWLTaHh7shRALMlZe3295QMaA2ACWIbsNAahHV/vbxkTvc5qSslF6V0nrridN0HzuoeGy8eeqtscm8chf3Jm/RjDvebZqz2CMm4ey4Q+Lb8JsyQBFkqAajbBC032mAQH0X36jG9s3hvih9g1rFPF1pfP/6jAYAWIKQEsHTu+fV8CbyjNbRzDHQrcBlh8EtRPbuGfVfX45VrgKWd7Qq8pME4guBkT1XsBBy90w3lgUfFAUEYbYgdpaxbD+QuBd/uBVb6winYSFw4cgDtNVkyQqaS4aJLzaRkvTWl9rjCLG1aX/hQqv8rQ==;lD2pYfNG+1N9szJO2ZiPSA=="
 ---

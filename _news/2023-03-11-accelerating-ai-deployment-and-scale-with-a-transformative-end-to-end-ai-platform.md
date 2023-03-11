@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Is AI the Perfect Ally to Complete Digital Transformation?"
+    excerpt: "Digital transformation has become an indispensable initiative by organizations in the form of a wide range of technologies like SaaS, IoT (Internet of Things), VR (Virtual Reality), ML (Machine Learning),"
+    publishedDateTime: 2023-03-09T21:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence is Revolutionizing Marketing. Here's What the Transformation Means for the Industry"
     excerpt: "Opinions expressed by Entrepreneur contributors are their own. Artificial intelligence (AI) has started transforming every aspect of our professional and personal lives. The marketing industry is ..."
     publishedDateTime: 2023-03-08T18:24:00Z

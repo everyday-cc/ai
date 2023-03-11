@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Is AI the Perfect Ally to Complete Digital Transformation?"
+    excerpt: "Digital transformation has become an indispensable initiative by organizations in the form of a wide range of technologies like SaaS, IoT (Internet of Things), VR (Virtual Reality), ML (Machine Learning),"
+    publishedDateTime: 2023-03-09T21:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence is Revolutionizing Marketing. Here's What the Transformation Means for the Industry"
     excerpt: "Opinions expressed by Entrepreneur contributors are their own. Artificial intelligence (AI) has started transforming every aspect of our professional and personal lives. The marketing industry is ..."
     publishedDateTime: 2023-03-08T18:24:00Z
@@ -65,6 +79,6 @@ related:
       domain: venturebeat.com
     quality: 42
 
-secured: "Jxn6DwoM272ZbNrOJZpi/Wf+RUb5nqtQ+TVwJePG8fNmdXMz5128cRdcS/DrEfpK4oeMKDyq0D/6UKJuxQaw0fCHxRw0RHwhaZIOOpQ0GMuu5Xm6cyRLCWm93MOfjlLlmQwi9GpdTZZR3qCSaV7bi2YPu1eVaIJjm+dTwo6w+ukW0vMaBVU3CC9tCD2K/KFaxUqDeSDRZ99uq9A2wQ7qhQ8rGMijT9dwadmiO94R36nPtCehazBKiud80+j8Ex6XNaNwSd3fOQ2PPoQ2vY7WA/FuH8J6ewAqEB69u9A0r4xokG6/fAYl3Ba8AnnJ+aBpom1Xk+Iz0ScgXgE8SukcZQO5+ykDP1vOhV5pGQsh/Q0=;HJ8meZkYhyE9tQRDb9ckug=="
+secured: "D/8LdUzbvtXWYkk2L1brTUn78+dPrW114kCuDgOFRbQfwn3thYQ4+tJ5fPTf3afs0Eip0m+wx+j/LgaCQ/6lMTDx3K66FywXMGaY/PH5/x93b+h+AjZTJ26NbHQBp5uFX2ZUlNeIQ1iNbcrou9dJNMbpyDtMdBYYFWolcSfyo199zUi+zI4wUliKMJEZHEbMUs+/F9yWLb/+TBz0WNUnX+pvmOaA/5CnN6B8CsOTx3Wt9eDOlEav+mnhWamH1Pxtjk5Gvzn5rXSQbixYcdT+4NwvPXbu32Qv476cR+qxwi/JV8owEW+RpkOe6z06kTA0WzucrUG5J+lggyM+NDpY7Ilw802ZpPAxurAODWIla65FLozdscB2RPHxKAzVx5el4zmH/DinhoRxolnCghU/P2HVNFziqRjsev91DyLvv8RXlPZ04cFLGMWvdpMWpkxVlkd2vbFPXzfEsKjt/y56tCL+I6pDVpsTiCqeyNhaE01d6CQVpYly9/U8eZKM2inFHdpIvHR8UmC+oO7c4JTqrw==;QRkjZ/eu2a7LGaNE/c5GRA=="
 ---
 

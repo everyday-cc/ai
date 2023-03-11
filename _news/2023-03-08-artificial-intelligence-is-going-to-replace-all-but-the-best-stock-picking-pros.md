@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/your-future-stock-fund-manager
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Catching the Artificial Intelligence Boom Requires Smart Stock Picking"
+    excerpt: "Applied Materials is a technology play that offers both the right price and the right equipment for investors looking for an AI edge."
+    publishedDateTime: 2023-03-07T16:42:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/stocks/catching-the-artificial-intelligence-boom-requires-smart-stock-picking-16117678"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 39
+    images:
+      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/2ce241e7-e924-11e8-894c-35c8edd595e0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "xXvNiw4Ph4PnvP5Ps80cbjBL7xkfky0oO2XyZtonCII3LNQ82665nJwY4f/dFD3lGYspF7e40IysorQYSeClmP6ipkS7ReD1aNmGyHNDOELvGIzViamWEiywASStx1pJjCZP+YcgUelUN8pBa7Ke+psI8P8Q6PHt35kX78OK2+zEnujuQKfTHpBkmCqsbrHTBhdntuzF69jRyXABnA2CA7VN5SSPF1NLkZml7VkgodmN1LRjXbCmQ/QYqR0PVFvkvKnGghermp9e18M1b5NHo0ZPt994ROjECeZ7AuSLdVQgPYyRHTrnWk9JIx+Di1vtbP9orsmSLUROInmBfc5ab4MpGdieUfPbvPIcvPOYaZtTolK9dXJDymALgPuFA0ykMr6f6HGGXcBwTQUpRbgwRSqYRi9057lpVtf9oA4tGuFzXiiTKlL7DsGTj+x96J9oilwNfKyZSpLY6F8SKamtkW5xGBjX9hkfsBryPjzZ/8r3S+5PnVoJwMMTdGrFR/6qqDt3d7VyMWKR0d8iyo8Clg==;8xWwkQT43joFUwMfefHZWA=="
 ---

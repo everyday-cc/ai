@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Alibaba, iQiyi, or Baidu: Which Has the Best Growth?"
-excerpt: "Ahead of Alibaba’s (BABA) strong quarterly results, the stock peaked at ~$120. It closed at $89.00 after strong results. Baidu (BIDU) mentioned artificial developments and rose, only to fall. iQiyi (IQ) traded close to a 52-week high after posting results."
-publishedDateTime: 2023-03-01T14:34:00Z
-originalUrl: "https://www.baystreet.ca/articles/stockstowatch/85369/Alibaba-iQiyi-or-Baidu-Which-Has-the-Best-Growth"
-webUrl: "https://www.baystreet.ca/articles/stockstowatch/85369/Alibaba-iQiyi-or-Baidu-Which-Has-the-Best-Growth"
+excerpt: "That represents almost half of its market capitalization. The margin of safety is large for BIDU stock. Baidu is developing self-driving and AI. It is the dominant search engine in China. iQiyi is a Chinese online video platform. It reported average daily ..."
+publishedDateTime: 2023-03-01T13:42:00Z
+originalUrl: "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01"
+webUrl: "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: BayStreet
-  domain: baystreet.ca
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "http://www.baystreet.ca/images/articlegroups/original/7/private/Alibaba.jpg"
-    width: 845
-    height: 396
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "HqiHbdyb/mihzuvn1PHwUezE13sMzyELqmBIkkUXolm3kezLcXQNWztJZbpwDRVKqRECyYJl5TRuocZX3bFiAztcil1q4+mZmDwDFVI6G5aY2MWFnTzMR2p5mFIInfiBEmb2bldI6aqot50f0/CRcUB9hyBMaNfY4004HCR6aYxy4hVeG/BFse3aB3iEp4Ff2Uk0v5E7h4w7xnDF91EFz6aTdWI1zVcJXwLZnYwKmpjdI/OGb1GbTfpdiwD3OClvX0M2hg4zc1ygvLi8WZck+EsgDalEal+1gPmIZNyUmTV/MC7e0GZX3E9y4hw9cqwUG6PdZZlcv8GAQKZ36fc37Gbpe8Nkqlqqc7vmqp1bY+YnHR8X8L0APv/U7jP7XCGUXVMfGBeA8vAjLRUz3XWcANzmITEm9k/54pQHuYPXkZHVXYVZlfc0n5hSOcfBlnP8/xb8gZH6cBuGdNhI7ZAVaeBfiYjZ43jaH3sKcrW6b+iKnL/qo7hdjoF/mcM7LgzbDh2VpGgFfJx6799DfmtIbQ==;N5sRjjic6gmlGSAGyKPVYQ=="
+secured: "ACMEb0hjnQxyBrebjmdoZTNnHHeJYQEy22YET44r6dh6wJrkK3WCCgUtEP3f4/LncqNcVGgq0J++5OSQDRr+Q78w3oOW+Ol/PNARiohNs/8553GLFvI7Gd0LyMJeD8QvEq+r+PgiyPItH64Ig1cwCHbMNPlGg1OCmVOqhcU25h1HBDmeR/8GX20WOlSkleatsVUxQ1xN/XYhMz5YUMC/Bd+ixXCVqZayA7WdXk4vjKC1FPvCGnvKHqw3xh3SNuC3I5Fgis2q6Mscl6aXHftPl2NeuJd83PtYlAFJAv6HMV0h0aHD+bNMgDMw+vYTR1DqhNx6nRwiX9egm1gvQDiggUjHistlYSyAm1BSt4qoziA=;5kFpIAdL9q5r/tnxl+W58g=="
 ---
 
