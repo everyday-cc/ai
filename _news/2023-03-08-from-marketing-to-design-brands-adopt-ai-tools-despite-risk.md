@@ -1,27 +1,29 @@
 ---
 category: news
 title: "From marketing to design, brands adopt AI tools despite risk"
-excerpt: "Mattel has put the AI image generator DALL-E to work by having it come up with ideas for new Hot Wheels toy cars. Used vehicle seller CarMax is summarizing thousands of customer reviews with the same “generative” AI technology that powers the popular chatbot ChatGPT."
-publishedDateTime: 2023-03-08T09:08:00Z
-originalUrl: "https://www.expressnews.com/living/article/from-marketing-to-design-brands-adopt-ai-tools-17826340.php"
-webUrl: "https://www.expressnews.com/living/article/from-marketing-to-design-brands-adopt-ai-tools-17826340.php"
+excerpt: "We must embrace the risks,” said Coca-Cola CEO James Quincey in a recent video announcing a partnership with startup OpenAI."
+publishedDateTime: 2023-03-08T14:01:00Z
+originalUrl: "https://www.nbcnews.com/tech/tech-news/marketing-design-brands-adopt-ai-tools-risk-rcna73938"
+webUrl: "https://www.nbcnews.com/tech/tech-news/marketing-design-brands-adopt-ai-tools-risk-rcna73938"
+ampWebUrl: "https://www.nbcnews.com/news/amp/rcna73938"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna73938"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 104
+heat: 124
+published: true
 
 provider:
-  name: San Antonio Express-News
-  domain: expressnews.com
+  name: NBC News
+  domain: nbcnews.com
 
 topics:
   - AI
   - AI in Marketing
 
 images:
-  - url: "https://s.hdnux.com/photos/01/31/64/21/23544924/6/rawImage.jpg"
-    width: 2048
-    height: 1536
+  - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-03/230308-coke-mb-1342-9daf30.jpg"
+    width: 5472
+    height: 3648
     isCached: true
 
 related:
@@ -51,6 +53,6 @@ related:
       domain: marketscale.com
     quality: 17
 
-secured: "VCDslorGUpIQgqpuR1ek63+4HeViU0wCYs3m/Ms8efvLNGy3nrAwIjV9pSI3cwyaDUACOGeqFcEaug9tc1VBjKx/9iwmbruNVnNIpNdXGuSJV34cW4LeSBfoYD6MyfevA0xTFvC1nQHf5fpATJvjzxzBF8he5BOgdoCruVKcR31GC2KeLUpEwCr82n+dnr2XsORuvej0YnjyCcvj6ssvdiRSEcOwgGApSOwoQtt5mxsSGFYYPYTFDEfuKVXQ7sLJTGVZO25XvpvE1AIOHLyyK7bdRrMI2iAbiGcaHsaWUFXPqxap00//nPF+G6S+4/9Qq6zFpXmIp2xOnYES+0B3lyx4zM91szcHIIgrLkIYONg=;mYWv+/VOep+Pd8qbIbAfcw=="
+secured: "ggzk3xR08qYpwYNFOWbMAn791utYvIlzwSf1at317BPn/qOvj3cTHC7buz/mXpGlIus/4AF6vkc0/k1EqTnBt44T5hyPq7P+R8StbFB29spBfDQTmiYazEPCjOWRhA4R/rHTI3eWyrGx1oj2n1bclHrrpO0M0TY9cGgtU3/JMBQGWCE4uMviuDmVA8Kv4beZEP/Bhvm79x/MMixvgWUAcRVBzXwDL0KFUk460tdrpoBBbRq68HCGuAJfcTWy4MA3/7KmO6i1EW1qaja/XM/9hEgGdfd4aUXx0yAdovH3YAmDyYx+dQU+iEmL2H94q/83ZgcFcuoDtcH2KYcsNeD1yM7FWk8R8J1hbhWYhBPwH4Y=;5Y6RiIY8EUAD3ITHLcOyEA=="
 ---
 

@@ -27,20 +27,6 @@ images:
 
 related:
   - title: "Databricks Launches Simplified Real-Time Machine Learning for the Lakehouse"
-    excerpt: "Databricks, the lakehouse company, today announced the launch of Databricks Model Serving to provide simplified production machine learning"
-    publishedDateTime: 2023-03-07T14:00:00Z
-    webUrl: "https://www.newswire.ca/news-releases/databricks-launches-simplified-real-time-machine-learning-for-the-lakehouse-862238433.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
-        width: 1094
-        height: 576
-        isCached: true
-  - title: "Databricks Launches Simplified Real-Time Machine Learning for the Lakehouse"
     excerpt: "Databricks Model Serving is now generally available on AWS and Azure. With the opportunities surrounding ... Databricks' unified, data-centric approach to machine learning from the lakehouse enables businesses to embed AI at scale and allows models to ..."
     publishedDateTime: 2023-03-10T18:38:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312014&cat=PR News Wire"
@@ -49,6 +35,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "Databricks Launches Simplified Real-Time Machine Learning for the Lakehouse"
+    excerpt: "Databricks, the lakehouse company, announced the launch of Databricks Model Serving to provide simplified production machine learning (ML) natively within the Databricks Lakehouse Platform. Model Serving removes the complexity of building and maintaining complicated infrastructure for intelligent applications."
+    publishedDateTime: 2023-03-07T15:00:00Z
+    webUrl: "https://insidebigdata.com/2023/03/07/databricks-launches-simplified-real-time-machine-learning-for-the-lakehouse/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "ZaRb05sFRf7+nrVD4qxIBgt9uinUyR3PaCclGsPP5wudfM8uGfZ4z5cHvzt/x7ffhHEqdYKFe9hQhSjimAhFdB1/fq/Pt9bVt5YKdtMxwGJeh0YOGJ4IpU8dahBt4O0fyhmxp0V5aHmAO8MMsvi6dI1BnQGK/MjKZCsP17obQoEjmxOw0mBSHg3IvPMn6uLPgrtruodR62zwtQAyQ081+jVgmYpVMrmE1DuWNehO+k6RuRZBtdyFbWPLkANUOoARZuC2AjLCbbF+khC/Id6bQ6+TpxWpFuEjMU0YDejPywj3yy4rcZukEN6GSnNMpSGB4nQnnoMsCOvf94X5SXoYOiC6OuYvCGw2VskV+sN8EsA=;nyCbdJK5SqeRfyb9ikn2pw=="
 ---

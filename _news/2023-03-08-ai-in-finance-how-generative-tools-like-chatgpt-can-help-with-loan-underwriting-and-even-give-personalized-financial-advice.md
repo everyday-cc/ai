@@ -107,6 +107,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "How to invest in new AI technologies like ChatGPT, DALL-E, and more: Wall Street analysts weigh in"
+    excerpt: "Wall Street is buzzing about AI, as analysts from Bank of America, UBS, and more pick their favorite artificial intelligence stocks to buy now."
+    publishedDateTime: 2023-03-09T11:00:00Z
+    webUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-investing-chatgpt-how-to-invest"
+    ampWebUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-investing-chatgpt-how-to-invest?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-investing-chatgpt-how-to-invest?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+    images:
+      - url: "https://i.insider.com/6408bad975a7270019daef57?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "ChatGPT now chatting via Azure OpenAI Service"
     excerpt: "Developers can now integrate ChatGPT directly, using a token-based pricing system, into a host of different enterprise and end-user applications."
     publishedDateTime: 2023-03-10T20:52:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-09T10:53:00Z
 originalUrl: "https://www.economist.com/finance-and-economics/2023/03/09/lessons-from-finances-experience-with-artificial-intelligence"
 webUrl: "https://www.economist.com/finance-and-economics/2023/03/09/lessons-from-finances-experience-with-artificial-intelligence"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Finance
+  - AI in Robotics
 
 images:
   - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230311_FNP504.jpg"

@@ -35,19 +35,14 @@ related:
         height: 315
         isCached: true
   - title: "Databricks Launches Simplified Real-Time Machine Learning for the Lakehouse"
-    excerpt: "Databricks, the lakehouse company, today announced the launch of Databricks Model Serving to provide simplified production machine learning"
-    publishedDateTime: 2023-03-07T14:00:00Z
-    webUrl: "https://www.newswire.ca/news-releases/databricks-launches-simplified-real-time-machine-learning-for-the-lakehouse-862238433.html"
+    excerpt: "Databricks, the lakehouse company, announced the launch of Databricks Model Serving to provide simplified production machine learning (ML) natively within the Databricks Lakehouse Platform. Model Serving removes the complexity of building and maintaining complicated infrastructure for intelligent applications."
+    publishedDateTime: 2023-03-07T15:00:00Z
+    webUrl: "https://insidebigdata.com/2023/03/07/databricks-launches-simplified-real-time-machine-learning-for-the-lakehouse/"
     type: article
     provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
-        width: 1094
-        height: 576
-        isCached: true
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "IedFlWLMA8iFHOf1lsy/Nxq1KSFmMQhpF47Le1VXmy/NYokVQkqxlA8EO2bxxJ8r3lkJbFAdeNeVDHFBTM7m6E8uK+zpQLE/cRKZx7O232Cx2mVB7VAMDhSOetC8cviUwVxQM5yMzAgpbNlMe1KwgyI8DWE93Ndo8PWpdK203FuyZL2FaZ89FlFhwtXOZxJnGTAA36VSk11svsE/+xm+0MhTSOta05flVYxMqm+zGKWC/bQctkqAfCznIlF9OW9Fi2FIbGhdfdnCUmxghSKCXqOOd3eWDhUIDi78bsrLfeQ67Fj3WRuaKKV/wCbPJ2HJ+vILc5OnQUjtqDFzR11H7sjAyEsMxj9rUlKJYNOEmtk=;RNIzIvH2m+SsZPFYoJiyJg=="
 ---

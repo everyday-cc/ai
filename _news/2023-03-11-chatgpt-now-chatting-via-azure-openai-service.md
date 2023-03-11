@@ -101,6 +101,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "How to invest in new AI technologies like ChatGPT, DALL-E, and more: Wall Street analysts weigh in"
+    excerpt: "Wall Street is buzzing about AI, as analysts from Bank of America, UBS, and more pick their favorite artificial intelligence stocks to buy now."
+    publishedDateTime: 2023-03-09T11:00:00Z
+    webUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-investing-chatgpt-how-to-invest"
+    ampWebUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-investing-chatgpt-how-to-invest?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-investing-chatgpt-how-to-invest?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+    images:
+      - url: "https://i.insider.com/6408bad975a7270019daef57?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "ChatGPT vs Google: The Battle of AI-Language Models"
     excerpt: "This blog explores the comparison between two popular AI language models: ChatGPT developed by OpenAI and Google's AI language model, also known as BERT. Both models have their strengths and weaknesses,"
     publishedDateTime: 2023-03-07T16:05:00Z
