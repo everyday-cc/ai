@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market---global-opportunity-analysis-and-industry-forecast-2023-2028-2023-03-08"
 type: article
 quality: 68
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-  - title: "2023-2029 Self-driving Cars and Trucks Market Size and Porters Five Forces Analysis | Survey Report by Absolute Reports"
-    excerpt: "Mar 07, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Self-driving Cars and"
-    publishedDateTime: 2023-03-07T06:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-self-driving-cars-and-trucks-market-size-and-porters-five-forces-analysis-survey-report-by-absolute-reports-2023-03-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Driverless Car Market Industry Insights, Drivers, Top Trends, Global Analysis, Forecast, And Opportunities To 2023-2033"
     excerpt: "Be it artificial intelligence (AI), internet of things (IoT) or digital reality, the increased rate of technological advancements around the world is directly proportional to the growth of global Driverless Car Market. In the next two years, more than 20 ..."
     publishedDateTime: 2023-03-10T07:12:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-08T13:03:00Z
 originalUrl: "https://www.news-medical.net/news/20230307/Artificial-intelligence-for-the-histological-prediction-of-ulcerative-colitis-remission.aspx"
 webUrl: "https://www.news-medical.net/news/20230307/Artificial-intelligence-for-the-histological-prediction-of-ulcerative-colitis-remission.aspx"
 type: article
-quality: 29
-heat: 29
+quality: 33
+heat: 33
 published: false
 
 provider:

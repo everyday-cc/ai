@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Industry Overview of Artificial Intelligence and Machine Learning Market 2022-2028 by Size and Share"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends, and projection for the ..."
+    publishedDateTime: 2023-03-10T09:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/industry-overview-of-artificial-intelligence-and-machine-learning-market-2022-2028-by-size-and-share-2023-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market Growth (Position and Views) 2023-2028"
     excerpt: "Global “Machine Learning Market” Size 2023 Key players Profiled in the Report are [Formcept Technologies and Solutions"
     publishedDateTime: 2023-03-09T03:01:00Z
@@ -138,15 +152,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Industry Overview of Artificial Intelligence and Machine Learning Market 2022-2028 by Size and Share"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends, and projection for the ..."
-    publishedDateTime: 2023-03-10T09:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/industry-overview-of-artificial-intelligence-and-machine-learning-market-2022-2028-by-size-and-share-2023-03-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
 
 secured: "uEqUVjfTcx1muy1lIVcM7r8qU+2VxdhY7wYIirzLiuCShC05Jq2Z0oe8fNE2aKm3BpEzE1FZEZcSUG59Ow2OkoW82jZWAZoPHQNGuqI3GTyrdEregVtgMmmKWcauXV+ymEde57irx/4zR/9PD9q7Nem4s925HHoWYXkBwMhTO5acMYbkMTZLZ8jdqKZsaz1buOSNVyf24FW719Cs5lD5V2HXcQw6yP66ZUtOwpoF7hv0gPF6C/TvmPmJFHMu5AqebYy7F+JBih/J4eji4xfm9SUL435sDbZCiHdGA1MICJ546sBghcigDh7RCNNYDXgDQaFYsH1vZCaZYX9VBH0eZMVqEA/ybnhbJFNj9FghhL4=;dmGcm69LEGB/hJy+M1d9kQ=="
 ---

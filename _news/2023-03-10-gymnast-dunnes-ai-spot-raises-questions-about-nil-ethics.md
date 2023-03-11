@@ -5,7 +5,12 @@ excerpt: "LSU gymnast Olivia Dunne’s endorsement of an artificial intelligence
 publishedDateTime: 2023-03-09T22:15:00Z
 originalUrl: "https://www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/"
 webUrl: "https://www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/"
+ampWebUrl: "https://www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/?amp=1"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Seattle Times
@@ -15,6 +20,6 @@ topics:
   - AI
   - AI Ethics
 
-secured: "ue8lvArqL1ALQ87piWivYcBxcpZS/t133PPFAxFa4m+TKb2giqQnb44aef2qznktbgwv9a1+Wnej9JUYqoZ2RKu3/46ZWTMRBwCUWGSecHbOkQSkks+D3IKMw/AbPWmxzEH1xPRC63v3Lj0DyLyakwWXc+lbXImp4/bcEOKmSRDadn8/e2iXQ0tvHsS+ji/E4pWk6BpYJUfk6sATEuqHcCw/ezV5kk4mEV0uaoMUrfyBr1Kn3/7I59Ob45wXqa5A3anx0sqCKYFASbap4YaGh7HqAbqGRftmL7oWtATjbCJGAqOUseXA7HrebWGQJVyn7BWfBpwBojofZi3HhWOnDY63Br8gq5GELW4Rgdrldv/CaCV/usYGIzngIlNJeWZRG4IAkBXli2u6KQna97DgcJXUxAvy4D4O5un2DrUHjFWE+D6diRYk89zY+snxXZ2dwP/E/vfU14rsDsn/LyACFpuNi3ny1DxSLE5IpNEC4fFWLGYQSV1t3nkW+1iqRRCFxspZLfGH7bv0SxX4fkKwtQ==;vJV61S4zlQ5RxVvrsGYLlg=="
+secured: "d2Zvb9c0ZM9G14Z92D0E4Z4BBl1hu5TcmuSSnwA8MP0QDhnjJHVKLAet+UZA7ZyzvfzuzpQwWiOgr2M4+xcOabVA/OzHhH07QKku2mWaC+omG72aeJOMKh99GtkCiMu9E0uKslg78CtADOua/NPzvrbTi9k8kkNpXGTl1e9UVe+YNLJV4tVNMEBKatGNd5iIR143MSgB2qgN+RF9jAiFE/GlY6dHfP+edMuQZodNa7MNaehkU7GdYaKIJrIgeCh86VzvmbsO0QijlffbGrS8xT9byYb39WD3bsfeM3gFJu5U7uUq3k7az7mt5iWs0rx3XcBh7svcpqHYSvmSYGlbNmvXdVy01DzNjYc4fornW40xFWnvOHtcXxuMLRwkhYMSHmcNkV9+/mAb1TT6AgHzY8iX/RjZVXK/oOOl4nHS/AlVJnpCa2h0cHm7xn64BOC3WoVjbON7yfZYf3Tc/c/lF8ZKYjm1/I9rzkXuu9V+tIsuF6dLyeIV1sKCHBaln0FN6pAW7pg8utisr+zGSQHMXw==;50AxEZydf1ff9NYsPl5izg=="
 ---
 

@@ -3,18 +3,24 @@ category: news
 title: "How will artificial intelligence reshape our world? | The Ethical Life podcast"
 excerpt: "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other."
 publishedDateTime: 2023-03-01T23:30:00Z
-originalUrl: "https://bismarcktribune.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_637e4c0a-625d-5e95-ad9f-95e56161d72a.html"
-webUrl: "https://bismarcktribune.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_637e4c0a-625d-5e95-ad9f-95e56161d72a.html"
+originalUrl: "https://missoulian.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_74dba4da-9198-50ee-9470-09c1c5c5d3a4.html"
+webUrl: "https://missoulian.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_74dba4da-9198-50ee-9470-09c1c5c5d3a4.html"
 type: article
 
 provider:
-  name: The Bismarck Tribune
-  domain: bismarcktribune.com
+  name: Missoulian
+  domain: missoulian.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "NTkTJlvGurrK+l/2LH5NUgCAtikYrkIhwx2JU0ifW52S0mhhWmZyeQa1axUU0N0UkziSUfQMDn68vbNjhMjtROYWW3y7PHTV37ok2rNzCqcm6PXl0LUzRJ9qRarVDzgkx2+NMwWmt8WfidmCdkAuf6VpyeCM+4tmlb6adekaUi7+xqAnEESjpY2GzzTnGgMfH16vQhLvf6EYyYRB4TOCDd/SoFPkVno6HQ8WPe9/IYrLKHrAzngBACVCDLFKZP4xcJL+bFioMA4MA9QuOdAUVpt1GEk1ZELAHiKLI4Qf/MsgDXfdkaBE8hbrjKl/F7RknCvpcfkU0w5Y58DgRkYCgmbROzJo9s0EViaZqSq4ELw24dSrWUfqyoQWGaqJiejonjQckhDx088GipGLKopE/XPlIleCWrcZ0NzOntWcWwbvG6nO4Hupx2+maBGWJdYAq+aNo2iJNuUsT2m4XkW20k30Z3QrWLj5DHOBKFcLqDXaJlrY0/k2JCSU4PufnvZOo7qPADJyLLBELPGyOov1Pw==;k+u36qPc592TuDfRZyi3YQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/7/4d/74dba4da-9198-50ee-9470-09c1c5c5d3a4/63ff73fcb1efe.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize"
+    width: 1196
+    height: 628
+    isCached: true
+
+secured: "rxrfwDZyj1N19nEeIcfctDwcw4mrfUUQUTIe1QXAyUCKcxCWgYE40zMiIRtfnlpBzDpLdF7f1kLY9q1PZUcKlTqO4doG0O6eZYmF+AErP+lUd3g3CvAe1SFvDPz8JM4wJVs9oQ2/1CN28DQ8o753kgCZs0R7xYW8T4dvlT6dZeIajIXMaKFaN6UfyJC8Axs5kFfTC3fXQjOnmK+y2JT0nvE6bLezN5TrsVuOw3QgssDh9jRXVoGnAANOQEJBiLVhGnV8yt/iMCdwh+ETJ9wHBqZpylgjAIWQrVuAx36atgv9fVkiCwVXgLUGb424ElXsAD4Pm5yoh7r86hLPYN+MjcikSifBRn2rkyCU/xC2NMw=;eO9at775qsvpopYzPrdFIQ=="
 ---
 

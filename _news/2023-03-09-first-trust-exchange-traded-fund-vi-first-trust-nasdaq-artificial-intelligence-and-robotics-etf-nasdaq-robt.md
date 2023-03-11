@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-08T16:00:00Z
 originalUrl: "https://www.fool.com/quote/nasdaq/robt/"
 webUrl: "https://www.fool.com/quote/nasdaq/robt/"
 type: article
+quality: 58
+heat: 58
+published: false
 
 provider:
   name: The Motley Fool

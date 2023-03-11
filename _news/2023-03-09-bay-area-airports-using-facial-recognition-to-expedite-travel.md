@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marinij.com/2023/03/08/heres-how-facial-recognition-is-c
 cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/amp/"
 type: article
 quality: 76
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -106,6 +106,15 @@ related:
         width: 2560
         height: 1848
         isCached: true
+  - title: "Dems offer ban on Feds using facial, voice recognition"
+    excerpt: "A group of 16 US lawmakers today reintroduced a bill that would ban the nation's federal agencies from using facial recognition and other biometric surveillance technologies. The Democrat-pushed proposal also aims to limit state and local governments and law enforcement agencies' use of these surveillance measures by cutting off federal funding unless they enact their own bans on the tech."
+    publishedDateTime: 2023-03-08T20:36:00Z
+    webUrl: "https://www.theregister.com/2023/03/07/us_ban_facial_recognition/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 4
 
 secured: "y0W8vcyFqR5FkCkucOAFMoGZuFtNN1S+YJDYjwv06nM2TU6jS0D+SezyhAp+JNwkFtdfMwdtcZFzNWIVh7SIto2G3Nk9gcCW/gpUtLsOmdj64mskRmqAwnq4GfqRSRdG58Fgxyz3ajmDHuqByzW4//SGgbnT9uap6MeJf2/zrVM6H0OkuN+S49v1MIYihk2hX8CwECTTkXxZgUOtRqmovzQsURYtWkyE9l4Q4naOypXIbM5pUMdoHCfBp52dMKouX2bxAWvSVtT1jM3sm5JRARzvRxiTj0UYUYe02ACqvobNnCC4ookjywrQDYtyDJaB0E6HEK25jyKidokZP4o5wEzf5YbCdixyQ+EwTY4GfGJ68TKf4PqIOuoS+2Sou/sdJtM2U3MNgNEfcQ6Vx7YxCdATlf2Ab3ZlypDl3MsFhnmBtckqK491OawUdj9i7cxibC4njvSDomm2Q4txWysDzWnnfkKJTcQKXU2xWdayFH5a/ApZCNFpDaQcT1pEFaHPxSUJbCNX2P5wXmXbrn3BKA==;Pqem0mBUecENXdMZC1OkkA=="
 ---

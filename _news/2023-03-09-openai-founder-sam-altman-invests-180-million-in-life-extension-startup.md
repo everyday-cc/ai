@@ -7,8 +7,8 @@ originalUrl: "https://gizmodo.com/open-ai-life-extension-tech-sam-altman-retro-1
 webUrl: "https://gizmodo.com/open-ai-life-extension-tech-sam-altman-retro-1850203114"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Gizmodo
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "OpenAI's 37-year-old CEO bet $180 million on a little-known biotech startup that's trying to help people live 10 years longer"
+    excerpt: "The latest addition to the group is Sam Altman, the 37-year-old CEO of the red-hot AI startup OpenAI. Altman quietly backed a mysterious longevity startup called Retro Biosciences with $180 ..."
+    publishedDateTime: 2023-03-09T22:13:00Z
+    webUrl: "https://www.businessinsider.com/openai-ceo-sam-altman-investment-longevity-startup-retro-2023-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 20
 
 secured: "OyqptY4Yd3cAh15VzASwlKg09zc/DSGnRI5lRoB4AVPx8+72puf7EHsNaULrQgRXSF7nNuPNY4El3krLzKvuuJVnxX6HjDLAikandsvKcZagiyCdb/Sl03fXLuTRh0ZYi0fsv0rkJ3fnkHtqfoSyu+VHjf0W89GsjLIypwEIpDsnbwE0vK2JOuQGqrFf6Q4h/NL+VnKcTHkH4777s75JcqquP3KPxNFOdDN4sVgXUp1ax/ileq06fuoOZ/bMx7dwurvEJi/aELU2gK+QYoo04jc3M1Zq5nr5rUFHh+ZKkpMFIYBM4o8ESZEX7NrnuY77UuY/OkcTkoYXRB58IbBlR8T7Wxg25Wk7aTjQdDo1e6MPc/p+TJXPjtyFwzd+Bjw1jGX8zzO8CsmO3uCyy2pb+6FuLChm8W5N32BGu7opnolubB200VfkWKEvghfngCTevovuqntsGYhUI9eI6iV5Oa6W9Q0uzC2JjqC4c8W1ryfhd0JpLvLd4/nKewiXDNlK7wb1DhtlPTQeG0l+l8rMNw==;OkDYNIJUV3/afa0uXVGnfg=="
 ---

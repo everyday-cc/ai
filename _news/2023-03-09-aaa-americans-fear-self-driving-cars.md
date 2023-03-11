@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FBI, Pentagon helped research facial recognition for street cameras, drones"
+    excerpt: "The FBI and the Defense Department were actively involved in research and development of facial recognition software that they hoped could be used to identify people from video footage captured by ..."
+    publishedDateTime: 2023-03-09T23:10:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/03/07/facial-recognition-fbi-dod-research-aclu/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 17
 
 secured: "U9HAumSlPZv8NRwITdA4JywTh6B/TNn4fozjKIewakk9gPgRWzpMyHUsLiTByS8klo2OxWPUMf4GAkwjl+2GmowNwXPjQHvLyHWY1H/aebWTafmQQwyPLiyECFbctCF9W8XJOYKW2OBD6Ow16FVIyham+IOKnYDeBD1XggGVsDf4xVspp33p0QwEo5je3FTQRWHZxxAu3fsusLOAZwJHnAla7qFGxfuNbeZDjpmU5fYfSQIQrHmNElj5ZA++VUGaWUVIvH6nbeX/DCN6FUcghNUGAuhRYS+RRWZoMV23GxqCC33LoicfssA3JkzXJDs4fggEan9lxgonzUaqtwDFf8ZACbOk2Y/Etzs1iIHdSHHm5nKwIE3/lets/b+Y7b0cIVZoxfLU1Sj8Bws72Vvy1WlNG97S52oSeB2LwHwLdh0WRimTlzu8mgLZVn+BBi9SfZGlqz6v5VQAst6P+qR2CYe1JSIjkOV4NzT9aG8hfT2Ikgvge3V2miecl2iVMjPavHQrXDojgVfpaHMYddTLPQ==;nP+zOl5rsshvnKrMozFahg=="
 ---

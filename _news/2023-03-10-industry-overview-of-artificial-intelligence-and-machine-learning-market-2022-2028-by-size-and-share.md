@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-10T09:19:00Z
 originalUrl: "https://www.marketwatch.com/press-release/industry-overview-of-artificial-intelligence-and-machine-learning-market-2022-2028-by-size-and-share-2023-03-10"
 webUrl: "https://www.marketwatch.com/press-release/industry-overview-of-artificial-intelligence-and-machine-learning-market-2022-2028-by-size-and-share-2023-03-10"
 type: article
-quality: 51
+quality: 73
 heat: -1
 published: false
 
@@ -22,6 +22,13 @@ topics:
   - Google AI
   - AI
   - Machine Learning
+  - Facebook AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Healthcare AI Market Valuation Worldwide 2023 - 2028"

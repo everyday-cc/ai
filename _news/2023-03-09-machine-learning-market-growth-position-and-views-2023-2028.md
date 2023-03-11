@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Industry Overview of Artificial Intelligence and Machine Learning Market 2022-2028 by Size and Share"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends, and projection for the ..."
+    publishedDateTime: 2023-03-10T09:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/industry-overview-of-artificial-intelligence-and-machine-learning-market-2022-2028-by-size-and-share-2023-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Artificial Intelligence Market 2023-2029 With Highly Productive Segment To Expand Outstandingly"
     excerpt: "Healthcare Artificial Intelligence Market Size 2023-2029 | New Report (108 Pages) | Information Technology | In"
     publishedDateTime: 2023-03-09T04:31:00Z
@@ -137,15 +151,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Industry Overview of Artificial Intelligence and Machine Learning Market 2022-2028 by Size and Share"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends, and projection for the ..."
-    publishedDateTime: 2023-03-10T09:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/industry-overview-of-artificial-intelligence-and-machine-learning-market-2022-2028-by-size-and-share-2023-03-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
 
 secured: "tdJrin9DdD+S1sUKBgBF8WjwDHGjFnABv0+cU/DPzfGMvroJko49HIx2DgPvenhy0tpcz3x23eLYhHvUGmBCOG/MeWMioyO/0gyl28MrVET4RTQzrDu6F1EahTO/om4yxYbtMR7tKWNlhB0uS4+nlV2LUXuiT1fkdFonQa/IQ1V1LHOZIcswp0w/EwbctDntTTdroXBr/VA1SFjxyxg0T9j+oOAPrFhz3E5N07CsAAPbhWIhwWqnNy51Qh8tOlYTBYqddmvKToHNJBoNcdDpVxnEDB3hI3XPohTe5pZY5VxzF0m2kkATuuqD8zg3QHApb0nASWLBkHilkCGFKrequ1LQpNQ+2tTfyKImaTZ1sk4=;4Zh4RM/WunysNVUdCAUhhQ=="
 ---

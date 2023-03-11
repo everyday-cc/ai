@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-11T14:40:00Z
 originalUrl: "https://venturebeat.com/ai/using-ai-to-predict-the-oscars-and-maybe-even-save-humanity/"
 webUrl: "https://venturebeat.com/ai/using-ai-to-predict-the-oscars-and-maybe-even-save-humanity/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

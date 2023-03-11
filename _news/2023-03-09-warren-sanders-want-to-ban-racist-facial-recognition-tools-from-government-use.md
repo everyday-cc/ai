@@ -105,6 +105,15 @@ related:
         width: 1024
         height: 578
         isCached: true
+  - title: "Dems offer ban on Feds using facial, voice recognition"
+    excerpt: "A group of 16 US lawmakers today reintroduced a bill that would ban the nation's federal agencies from using facial recognition and other biometric surveillance technologies. The Democrat-pushed proposal also aims to limit state and local governments and law enforcement agencies' use of these surveillance measures by cutting off federal funding unless they enact their own bans on the tech."
+    publishedDateTime: 2023-03-08T20:36:00Z
+    webUrl: "https://www.theregister.com/2023/03/07/us_ban_facial_recognition/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 4
 
 secured: "KrGkaxOhMjqX3TdD1VSYje4BzljwnbTSh3GO9/GUIZI2oqQAwaGsmsYCcPGxLqVHKWzTFTGoOxXyFo5FFXlc5LzxQLZylEdazgZXtQDyvD8B57HCkMvyUDGHFhO2kjZ+bWDZhO4gYGAkzomarnHb8Nn3C55oUEyVE4yV7vuAPT6ZZZbNqGXKCb1o+co2ZJkdM32CZRY4RoXU/r+fA6y6P0BMUAucYvouXlVLiXLiM4hWjyP4aHUA0y6IHzel5FnpFoScY7bublDVSKRMOTEOjbcY+E7BHePbfJOcx2hV3h970OdzXMp2tLHyHPIOgC1kHe4AyPizS3iJk63ICSlDMRt11Hxl1x4h7TWoUkBU3jc=;mfURqqgEcqGVizSfSNt3Gg=="
 ---

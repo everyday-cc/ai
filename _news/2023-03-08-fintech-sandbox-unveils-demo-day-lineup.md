@@ -49,6 +49,15 @@ related:
         width: 640
         height: 640
         isCached: true
+  - title: "Five trends set to transform fintech banking in 2023"
+    excerpt: "Artificial intelligence (AI) is one of the most disruptive technologies in the ... This is particularly true for fintech companies, which are finding success by focusing on serving specific businesses such as marketplaces, PSPs, advertising networks ..."
+    publishedDateTime: 2023-03-09T12:35:00Z
+    webUrl: "https://www.business-reporter.co.uk/finance/five-trends-set-to-transform-fintech-banking-in-2023"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 19
 
 secured: "oT9Ixrjz1bWnhE+lIj3vrCa1Y1w9Xb07/PJmipVJVi1KbHqp2bgfhR/LdceEfaLPWJWqMxs+jBDfuPqUHzPq/4k76tLBH0rGeTUeHj4NgsWGgezANT3jq6of26V/E1CDKbbo8E069NqUuWbnP11OXwdpmGhK2JV65MvJN+zq8Hr/PFT06TIBkWAl8PnqWGD+eOWh8SIL5Sl8Hpkd7s1xVRhDD46EIlu4CIHoQHoSVi6OBH/zFcHFxImENEFq/BV/VuUpq3qmmm6R30Yzxldy9tRZO7HDhBhwh+kcgrqwjNP6s/ceZ2uzfuwfu2rlHhKALqOH+CruqgUxnQPdlRr+SKFJGDEigtXrzbCX79bDh6o=;YOELRNnH0ekY0AS1POwfbQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://thehill.com/opinion/technology/3884324-artificial-intelligence-
 ampWebUrl: "https://thehill.com/opinion/technology/3884324-artificial-intelligence-will-destroy-laptop-class-workers/amp/"
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/3884324-artificial-intelligence-will-destroy-laptop-class-workers/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:

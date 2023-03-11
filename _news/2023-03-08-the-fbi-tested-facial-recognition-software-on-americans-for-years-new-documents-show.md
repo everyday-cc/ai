@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100"
 webUrl: "https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1404
         height: 1112
         isCached: true
+  - title: "FBI, Pentagon helped research facial recognition for street cameras, drones"
+    excerpt: "The FBI and the Defense Department were actively involved in research and development of facial recognition software that they hoped could be used to identify people from video footage captured by ..."
+    publishedDateTime: 2023-03-09T23:10:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/03/07/facial-recognition-fbi-dod-research-aclu/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 17
 
 secured: "sLNfs6XzcltugePhG1gfZabAVs9iAh7nmLaQgCdvq0PefnVs0Q9X0E80qEpnE8Tlj9wLthm1ZUsqDtRxTSXuhWc1lCJK9JPnNYX6wUwUv9xt2spHmoDn/cfbUWYpPhjr+GhB5xzXd5cFXhmo6AGUbkSu0MMBOW03MbaUm9FUq2nROe/Lx2vJExi3ANhqRNjM6jt43K6fCNRn/jIr43xdVQkyRYJSB7HiqVhqt0xvF9JEQIiUuYWQTyKunOHh58H3Ji770iMo9+c97V1hMwtGnPpnP+5v007uubnNGMHZY0c+5zYhxwPBmZtg9oCBvbVcEWQBFrMwhkA5FOFFmg7ouhVgj+QoYJffBY5GA7OvhIzLFI3gsI0GMHmeX8/RUXl3j6VhCy6oOqjZPksn+xNHRdgBK9y0ZajbDdnXd5DpdCMzb425QKZqBxjaHDfbem4lK7hiMm3Vj8BLLCYTPLYuTxOIgR3JPTFiTViw1trwqDOytZw5I56F4vhiaXV03i1SrZqRQCOc59A6tVZZm4cAhA==;VHyW9XWvejatuc72rWb5/A=="
 ---

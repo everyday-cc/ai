@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Artificial Intelligence tools becoming ‘unavoidable’, lawmakers say"
+    excerpt: "WASHINGTON (Nexstar)– The Artificial Intelligence revolution is upon us. Emerging technologies, like chatbots, have become almost unavoidable in recent months. But is Washington ready for this new wave of technological advancement? South Carolina ..."
+    publishedDateTime: 2023-03-11T20:39:00Z
+    webUrl: "https://www.wate.com/news/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/"
+    ampWebUrl: "https://www.wate.com/news/national/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/"
+    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/national/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/"
+    type: article
+    provider:
+      name: WATE 6 On Your Side
+      domain: wate.com
+    quality: 57
+    images:
+      - url: "https://www.wate.com/wp-content/uploads/sites/42/2023/03/aiphone_012723_gettyimages_chatgpt.jpg?w=1280"
+        width: 1280
+        height: 719
+        isCached: true
 
 secured: "3BV7I1D/YFIfN0oxaqmOrqRqNbSzfqdbxQ9g9cD/sd4HElXIgy3bfu4p32Dxg4vNVcDB8mz1gRpClL1hi8xd6SaYfXZZ+c22zzohfgXGuy3QZGjLPkC8SBHeIR6UoJ5LvIzEMuHKkPLvWv/DR6O4yj1a8sr5AxGSak1zDsfpx6YG6prwqaCYhi13RIOqbiIuRY//lML8wYXhE1QnX0Tj3qO00GwfGQPyQu+/QJb2pPiQdoCMReb/Gq4+H/tG+8Z6B/iLrh4eGQub0eqfVQQlbeGfQWPlj0ifLxBUCF0jjmGiPi9sO8x6K1yd93MXqH8Cy7rX7TILoCI9YIg8MXTbNxMJF3ccKN8DUtfJZ22Hqa5LWgT6HlMQW8x6u7CXtv7aF1IYTL2hBI1GutFL2Go62cjllhmCRKLcGMtgIFrmHAWCxfe3EWQHxaTxcfSArk/izi1SoTY4LVWF8fvwolboKvfrU8kRtOB2W3Im3Gj/dN1yHanooeU3ma1s73a34DLGawtkPmBil0rxIXWeQa4zAA==;Q1Bq82iIS8xOq0ffmGUl2A=="
 ---

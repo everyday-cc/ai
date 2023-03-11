@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Five trends set to transform fintech banking in 2023"
+    excerpt: "Artificial intelligence (AI) is one of the most disruptive technologies in the ... This is particularly true for fintech companies, which are finding success by focusing on serving specific businesses such as marketplaces, PSPs, advertising networks ..."
+    publishedDateTime: 2023-03-09T12:35:00Z
+    webUrl: "https://www.business-reporter.co.uk/finance/five-trends-set-to-transform-fintech-banking-in-2023"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 19
   - title: "Fintech Sandbox unveils demo day lineup"
     excerpt: "Fintech Sandbox, a nonprofit that provides early-stage startups around the world with free access to critical datasets and infrastructure, today announced the line-up for its free, virtual Demo Day 9."
     publishedDateTime: 2023-03-07T16:19:00Z
