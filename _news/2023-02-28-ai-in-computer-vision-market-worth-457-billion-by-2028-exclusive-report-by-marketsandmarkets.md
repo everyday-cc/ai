@@ -5,8 +5,6 @@ excerpt: "Several trends and disruptions are impacting customer businesses in Al
 publishedDateTime: 2023-02-27T16:45:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/02/n31072419/ai-in-computer-vision-market-worth-45-7-billion-by-2028-exclusive-report-by-marketsandmarkets"
 webUrl: "https://www.benzinga.com/pressreleases/23/02/n31072419/ai-in-computer-vision-market-worth-45-7-billion-by-2028-exclusive-report-by-marketsandmarkets"
-ampWebUrl: "https://www.benzinga.com/amp/content/31072419"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31072419"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "0dQDV4+Qpm35pLIm2BY52R5qaG9KvBJ3yQ66MDGXl4f0aeFUB0KLufOZmVEhZPj/6yq05lVcGCSiGBCCl+LRrDrJ6kupaJL5Md/qTTHVqkWWFWsOL1BFsS771Hp2eOeK9AALQPe/K4gwHx/IdIKjibi22SyvvvDldgb+knlRZAC6mDFHwinE+V+GunjALxHhxFmZ6yaLogYjZ4L7h6x5ql6Wvzc1lLC75u29IGiPviX1KGP25BQZTE7KgVyULu+nEi36ilPlY7Efnm1DTQ0MRJiLla1SBRo2w3eekb4FuDgES814vZ6qwaHV+7SYW5nqGjm7oNUVaeYrWgXyAniHbK0DMi3AKJjYdTlQnYr8inY=;XUqO8IoYGWkGrxlZ5eHMiQ=="
+secured: "DV03H2b8w4q/dHafXpuK8wkOySW5U8472ruO7/Kjep8USR/aNzYNUhqWqWRafcAjsxGO4gRlkWGoGENGVzCLnzcYUDo+6c28xXPgYSjKZm2y2H1CEFIafpTNpKnB7KmEltesiD9PyN32sDdvWRNZi2alaVAJrvr1W8zDCpcvdRwN2nc99Ifuv9AuNJgAhTmLPAz2jZtSaISDbjD/Vi0VZESFoc/ZpLYMbCeiPmuEaI3weAF3T3I9nfOJyrBrFYyTI5c4FxtkjVj94oloFi/jTtfXxVtbALPJR47InElKUWzRvL0xldofS5B1XC76dIZVyTTHrS4/+ac3ooeem32lqe6J5ilFiKc71iw6h7h02bM=;pWv913sNNC0OLKsPt3dhxw=="
 ---
 
