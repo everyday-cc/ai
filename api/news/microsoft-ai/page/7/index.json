@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-11-ms-cognitive-symptoms-get-worse-with-fatigue.md",
+      "title": "MS Cognitive Symptoms Get Worse With Fatigue",
+      "excerpt": "We get fatigued, and any cognitive symptoms we may have seem to worsen. And as we find ourselves more burdened by this cog fog, we seem to become even more overwhelmed and fatigued. It's like the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.everydayhealth.com/columns/trevis-gleason-life-with-multiple-sclerosis/ms-cognitive-symptoms-get-worse-with-fatigue/",
+      "originalUrl": "https://www.everydayhealth.com/columns/trevis-gleason-life-with-multiple-sclerosis/ms-cognitive-symptoms-get-worse-with-fatigue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.everydayhealth.com/images/when-fatigued-ms-cognitive-symptoms-get-worse-1440x810.jpg?sfvrsn=715e3ccb_1",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T19:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Everyday Health",
+        "domain": "everydayhealth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-fda-approves-new-alzheimers-drug-designed-to-slow-cognitive-decline.md",
       "title": "FDA Approves New Alzheimer’s Drug Designed to Slow Cognitive Decline",
       "excerpt": "On Friday, the Food and Drug Administration approved an Alzheimer’s drug shown in clinical trials to slow cognitive decline ... for Medicare & Medicaid Services currently limits coverage of ...",
@@ -1228,40 +1271,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-01-05T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-geps-industry-leading-procurement-supply-chain-software-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "GEP'S INDUSTRY-LEADING PROCUREMENT & SUPPLY CHAIN SOFTWARE NOW AVAILABLE IN THE MICROSOFT AZURE MARKETPLACE",
-      "excerpt": "Microsoft Azure customers worldwide now gain access to GEP SMART™, to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategiesCLARK,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30297371/geps-industry-leading-procurement-supply-chain-software-now-available-in-the-microsoft-azure-marke",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30297371/geps-industry-leading-procurement-supply-chain-software-now-available-in-the-microsoft-azure-marke",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T07:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

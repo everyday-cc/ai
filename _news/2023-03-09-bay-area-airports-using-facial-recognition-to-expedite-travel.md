@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marinij.com/2023/03/08/heres-how-facial-recognition-is-c
 cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/amp/"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/20/2dfeb6bc-ef6a-422b-a448-cd1148615e7e/thumbnail/1200x630/468fd08ac29cf2de527db4ac89d5a8f7/10p-pkg-police-facial-r-wcco2p7k.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Stop the spies with the facial recognition"
+    excerpt: "If, like us, your initial and overriding opinion of sweeping electronic surveillance of literally everyone by law enforcement is that it is bad — bad to the bone — your attitude about a proposed"
+    publishedDateTime: 2023-03-10T15:00:00Z
+    webUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+    ampWebUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-sgvtribune-com.cdn.ampproject.org/c/s/www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    type: article
+    provider:
+      name: San Gabriel Valley Tribune
+      domain: sgvtribune.com
+    quality: 59
+    images:
+      - url: "https://www.sgvtribune.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+        width: 1024
+        height: 578
         isCached: true
   - title: "Warren, Sanders Want to Ban Racist Facial Recognition Tools From Government Use"
     excerpt: "Democrats and progressives in Congress reintroduced a bill on Tuesday that would ban the government from using facial recognition technology as increasing surveillance and police violence pose a threat to marginalized communities."

@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Stop the spies with the facial recognition"
+    excerpt: "If, like us, your initial and overriding opinion of sweeping electronic surveillance of literally everyone by law enforcement is that it is bad — bad to the bone — your attitude about a proposed"
+    publishedDateTime: 2023-03-10T15:00:00Z
+    webUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+    ampWebUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-sgvtribune-com.cdn.ampproject.org/c/s/www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    type: article
+    provider:
+      name: San Gabriel Valley Tribune
+      domain: sgvtribune.com
+    quality: 59
+    images:
+      - url: "https://www.sgvtribune.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+        width: 1024
+        height: 578
+        isCached: true
 
 secured: "KrGkaxOhMjqX3TdD1VSYje4BzljwnbTSh3GO9/GUIZI2oqQAwaGsmsYCcPGxLqVHKWzTFTGoOxXyFo5FFXlc5LzxQLZylEdazgZXtQDyvD8B57HCkMvyUDGHFhO2kjZ+bWDZhO4gYGAkzomarnHb8Nn3C55oUEyVE4yV7vuAPT6ZZZbNqGXKCb1o+co2ZJkdM32CZRY4RoXU/r+fA6y6P0BMUAucYvouXlVLiXLiM4hWjyP4aHUA0y6IHzel5FnpFoScY7bublDVSKRMOTEOjbcY+E7BHePbfJOcx2hV3h970OdzXMp2tLHyHPIOgC1kHe4AyPizS3iJk63ICSlDMRt11Hxl1x4h7TWoUkBU3jc=;mfURqqgEcqGVizSfSNt3Gg=="
 ---

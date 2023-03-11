@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-01-24-seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023.md",
+      "title": "Seamless Checkout, AI, Robotics News From Microsoft, Google, Brain Corp And More At NRF 2023",
+      "excerpt": "Vice President and Principal Analyst Melody Brue looks at some of the companies and products showcased at NRF 2023 that maximize the three pillars of an excellent shopping experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ceffd2b891403906766ec0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/01/23/seamless-checkout-ai-robotics-news-from-microsoft-google-brain-corp-and-more-at-nrf-2023/amp/",
+      "publishedDateTime": "2023-01-23T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-23-microsoft-exec-ai-will-reinvent-windows-user-experience-define-our-time.md",
       "title": "Microsoft exec: AI will reinvent Windows user experience, define ‘our time’",
       "excerpt": "At least one Microsoft executive has made it clear artificial intelligence will continue to play a big role in future Windows features.",
@@ -1308,49 +1361,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-ms-cognitive-symptoms-get-worse-with-fatigue.md",
-      "title": "MS Cognitive Symptoms Get Worse With Fatigue",
-      "excerpt": "We get fatigued, and any cognitive symptoms we may have seem to worsen. And as we find ourselves more burdened by this cog fog, we seem to become even more overwhelmed and fatigued. It's like the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.everydayhealth.com/columns/trevis-gleason-life-with-multiple-sclerosis/ms-cognitive-symptoms-get-worse-with-fatigue/",
-      "originalUrl": "https://www.everydayhealth.com/columns/trevis-gleason-life-with-multiple-sclerosis/ms-cognitive-symptoms-get-worse-with-fatigue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.everydayhealth.com/images/when-fatigued-ms-cognitive-symptoms-get-worse-1440x810.jpg?sfvrsn=715e3ccb_1",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T19:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Everyday Health",
-        "domain": "everydayhealth.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

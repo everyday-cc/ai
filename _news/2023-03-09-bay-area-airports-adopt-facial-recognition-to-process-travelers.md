@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Stop the spies with the facial recognition"
+    excerpt: "If, like us, your initial and overriding opinion of sweeping electronic surveillance of literally everyone by law enforcement is that it is bad — bad to the bone — your attitude about a proposed"
+    publishedDateTime: 2023-03-10T15:00:00Z
+    webUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+    ampWebUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-sgvtribune-com.cdn.ampproject.org/c/s/www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    type: article
+    provider:
+      name: San Gabriel Valley Tribune
+      domain: sgvtribune.com
+    quality: 59
+    images:
+      - url: "https://www.sgvtribune.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+        width: 1024
+        height: 578
+        isCached: true
   - title: "Warren, Sanders Want to Ban Racist Facial Recognition Tools From Government Use"
     excerpt: "Democrats and progressives in Congress reintroduced a bill on Tuesday that would ban the government from using facial recognition technology as increasing surveillance and police violence pose a threat to marginalized communities."
     publishedDateTime: 2023-03-08T19:45:00Z

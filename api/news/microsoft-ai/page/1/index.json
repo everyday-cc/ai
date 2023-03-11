@@ -873,6 +873,40 @@
       ]
     },
     {
+      "path": "_news/2023-02-28-falls-risk-climbs-when-frailty-and-cognitive-impairment-emerge-together-study.md",
+      "title": "Falls risk climbs when frailty and cognitive impairment emerge together: study",
+      "excerpt": "Older adults are more likely to sustain repeated falls if they develop frailty and cognitive impairment simultaneously, according to a new study. Clinicians should take note when screening seniors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mcknights.com/news/clinical-news/falls-risk-climbs-when-frailty-and-cognitive-impairment-emerge-together-study/",
+      "originalUrl": "https://www.mcknights.com/news/clinical-news/falls-risk-climbs-when-frailty-and-cognitive-impairment-emerge-together-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "McKnight's Long-Term Care News",
+        "domain": "mcknights.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-public-cloud-providers-at-mwc-23-lure-telecommunication-companies.md",
       "title": "Public Cloud Providers At MWC 23 Lure Telecommunication Companies",
       "excerpt": "As communication service providers modernize their stack by moving to container network functions (CNF),hyperscalers compete to offer end-to-end platforms based on Kubernetes and converged infrastructure.",
@@ -1349,59 +1383,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-baidu-to-deploy-conversational-ai-across-search-in-car-entertainment-and-more.md",
-      "title": "Baidu to deploy conversational AI across search, in-car entertainment and more",
-      "excerpt": "This appears to mirror the collaboration between Microsoft and OpenAI, through which Azure’s customers can access the AI lab’s technologies. Lastly, Baidu plans to boost its in-car voice assistant with Ernie. The search giant has over the past few ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/",
-      "originalUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1061811420.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/02/22/baidu-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/22/baidu-chatgpt/amp/",
-      "publishedDateTime": "2023-02-22T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

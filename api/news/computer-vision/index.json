@@ -62,7 +62,7 @@
       "originalUrl": "https://www.marinij.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -554,6 +554,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-is-machine-vision-surpassing-the-human-eye-for-accuracy.md",
+      "title": "Is Machine Vision Surpassing the Human Eye for Accuracy?",
+      "excerpt": "2D computer vision is particularly suitable for all applications where high contrast is required or when color or texture is relevant. For the application to be robust, the chosen lighting method must allow the acquisition of images with high contrast ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/machine-vision-surpassing-human-eye-accuracy",
+      "originalUrl": "https://www.designnews.com/automation/machine-vision-surpassing-human-eye-accuracy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_82.jpg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1384,49 +1427,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-vietnam-to-try-out-facial-recognition-system-for-airport-procedures.md",
-      "title": "Vietnam to try out facial recognition system for airport procedures",
-      "excerpt": "The Civil Aviation Authority of Vietnam (CAAV) will do a trial with the use of biometrics, specifically facial recognition, for passengers doing procedures to go on flights.",
-      "sourceUrl": null,
-      "webUrl": "https://e.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html",
-      "originalUrl": "https://e.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1-english.vnecdn.net/2023/02/16/l1200283jpg50381676517083-1676-3421-5299-1676535042.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=gqcpfAmAj3mn0ltFp1fc7A",
-          "width": 1360,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ampe.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html",
-      "cdnAmpWebUrl": "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/news/vietnam-to-trial-facial-recognition-for-airport-procedures-4571408.html",
-      "publishedDateTime": "2023-02-16T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VN Express",
-        "domain": "vnexpress.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

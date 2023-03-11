@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/23855/fintech-investment-what
 webUrl: "https://www.finextra.com/blogposting/23855/fintech-investment-what-can-we-expect-for-2023"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "The Fintech Sentiment: How is fintech embracing gender equity on IWD 2023?"
+    excerpt: "As noted by Finextra reporter, Niamh Curran, the 2023 International Women’s Day campaign theme is to Embrace Equity and asks our world to discuss why equal opportunities aren’t enough. In this Fintech Sentiment,"
+    publishedDateTime: 2023-03-08T10:21:00Z
+    webUrl: "https://www.finextra.com/the-long-read/619/the-fintech-sentiment-how-is-fintech-embracing-gender-equity-on-iwd-2023"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 22
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/622.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "IlSedufJDDHnfJZDz23XuTBURuK83Lr26jAy800I1ueJsMODN5jYSaRxvlVWfVk+3xkTzP7PrkRaQOeHoXVv0/t9cVVXbUaZzrxpzeuqrpP1E3vIayLnMpZVPGivL0aYwmWxDVQsgRWovMUWUBIqN6hymoNgH+eSBipFFA2cLfQIsied0YboWbNJkei0luozbfgZyV6vA0H/DMhp2h66FKrwmTO3ox9oJocWSg/fM+ou6QIC446+aDWCHkb6uB40+Jlr69J6QUS2OORrcZb2A9/4YnnVjazCh5NrLb1gNma6cbDfAuFIvYBkDsIr3mHg2L1VCjF2lzwyaZ70edI51IQO/j6I33qrHs6uVoIljUo=;VPcFDyJ8x98nPwD/ZRCY8w=="
 ---

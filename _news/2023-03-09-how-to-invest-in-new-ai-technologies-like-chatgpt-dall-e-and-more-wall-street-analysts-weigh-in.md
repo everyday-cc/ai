@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 470
         isCached: true
-  - title: "ChatGPT’s API Is Here. Let the AI Gold Rush Begin"
-    excerpt: "Businesses can now get paid for services built on the large language model, meaning chatbots are going to start appearing everywhere."
-    publishedDateTime: 2023-03-06T12:00:00Z
-    webUrl: "https://www.wired.com/story/chatgpt-api-ai-gold-rush/"
-    ampWebUrl: "https://www.wired.com/story/chatgpt-api-ai-gold-rush/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chatgpt-api-ai-gold-rush/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/6402a02a95705afb854fd892/master/pass/business_chatgpt_api_open.jpg"
-        width: 2500
-        height: 1350
-        isCached: true
   - title: "More AI experiences are coming to Discord, including ChatGPT"
     excerpt: "The social platform is leaning into AI and adding new features to optimize user experience. Here's what you can expect."
     publishedDateTime: 2023-03-10T14:36:00Z
@@ -132,6 +116,22 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_03_2023_21_30_36_4644547.jpg?width=1280"
         width: 1280
         height: 853
+        isCached: true
+  - title: "In ChatGPT's shadow, India readies for aggressive AI play"
+    excerpt: "\"One good example is Bhasini -- a natural language AI platform, which enables automated language translation and is already being integrated with ChatGPT.\" Finance Minister Nirmala Sitharaman in her recent Budget announced that in order to unleash ..."
+    publishedDateTime: 2023-03-11T03:36:00Z
+    webUrl: "https://www.rediff.com/business/report/tech-in-chatgpts-shadow-india-readies-for-aggressive-ai-play/20230311.htm"
+    ampWebUrl: "https://m.rediff.com/amp/business/report/tech-in-chatgpts-shadow-india-readies-for-aggressive-ai-play/20230311.htm"
+    cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/tech-in-chatgpts-shadow-india-readies-for-aggressive-ai-play/20230311.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 59
+    images:
+      - url: "https://im.rediff.com/345-230/getahead/2023/feb/10chatgpt.jpg"
+        width: 345
+        height: 230
         isCached: true
   - title: "Discord Is Bringing Clyde To Life With ChatGPT AI For Millions Of Servers"
     excerpt: "Discord is looking to take advantage of the nearly 3 million servers already using AI, by introducing new AI-driven tools of its own."
@@ -202,6 +202,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
+  - title: "Forget Chatgpt. Nvidia Is The Real AI Winner..."
+    excerpt: "Ever since AI chatbot ChatGPT burst onto the scene in November, any stock even remotely related to AI has soared. Gates Capital Management's ECF Value Funds have a fantastic track record. The funds (full-name Excess Cash Flow Value Funds),"
+    publishedDateTime: 2023-03-11T04:35:00Z
+    webUrl: "https://menafn.com/1105752904/Forget-Chatgpt-Nvidia-Is-The-Real-AI-Winner"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/10/V_243ecimage_story.jpeg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Oracle’s Ellison: Health-Care AI ‘More Important’ Than ‘Very Cool’ ChatGPT"
     excerpt: "Health-Care AI ‘More Important’ Than ‘Very Cool’ ChatGPT Wade Tyler Millward March 10, 2023, 09:23 AM EST ‘People talk about ChatGPT being"
     publishedDateTime: 2023-03-10T14:23:00Z
@@ -231,6 +245,6 @@ related:
         height: 675
         isCached: true
 
-secured: "9XlAdJdHWHHKH8htYWSF6tONKGudjH68xmU1DzCCDEEBFetMz7Jqyzg+U5R+T4b65/R5l/5SqVuec0MRuBb7R2fruVBNmY9WJBZDnKMbJL2V+iLWLKwqpH/nOrm5mMOZ1O9ZaZ4TeoGl1rrpWAXOia2fC2GW8noheH/k57OEDkFzP8pwN+GQOzuXKtA2KVU+8W1uJEYXnJbwecf3wwlttpP8kgA18fKK75qS70IEymJ2I0YEBUoj7EPU6VHCEBFUsbP6v0EOlep1wcHPh0wFpMhw3QZjxXIv3TMfyxjj5k5kWqDndWa4DuIwdNeNaFpEitC0i4A2a6FApZ8zKYyjW9oRmFmt0aJD5WqHw8xS7TI=;9pF5GiLJ+4DMWQnf3DF5jw=="
+secured: "YQ7O331KePaH0s3qhoWy1A3/qUzyGxEyTB/8/JMqXeVzwThR3ApcYSyKcgVYjThMJ3XGJQzRDniNPAzyUPCgzfZVnrW8n/36USf9wKZg027iJWnXGLU6tyk7rbtCnlYtbJUitWSUwobZGhqpukSME0ZmRPPPsZd3W9nDGV7UxpY4XmKz0Aj+F+GXBxwYUvVxznC5IhAOgui9DxJEYbe5UEa+eCKmuex+qdMb/WcVArXUyIAoJoZr+Tp8WzJYTWaUEKS26ycysD2Q3R8/chVqlpuqLyXWlNFDmckn7hBgS4EcMfgxMl8J39nMYqqV8KL3i2c5VlXoxqzbH8hGOM4o/b2hO/Wxhfx5DraytjB7wz7NVkrzrodixBDUFj+7AKJaDRe7QWPb/IyNkSxy0ubRHEww8BoHne0/WUE7IVdVjkNfuU7vizcqd0/8e56ORUEB4dveXc4jtVhst0EDo3G0GYDJej6+apSlWIOlWoiO1DbeltCfP86kzAby+I055vr2444znYmBjri2C4sMVTNMjg==;UGKOTI4XwxcP63MuPBMOuQ=="
 ---
 

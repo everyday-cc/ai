@@ -1,22 +1,29 @@
 ---
 category: news
 title: "Databricks Launches Simplified Real-Time Machine Learning for the Lakehouse"
-excerpt: "Databricks, the lakehouse company, announced the launch of Databricks Model Serving to provide simplified production machine learning (ML) natively within the Databricks Lakehouse Platform. Model Serving removes the complexity of building and maintaining complicated infrastructure for intelligent applications."
+excerpt: "Databricks Model Serving offers fully managed, production ML capabilities built natively within the Databricks Lakehouse Platform SAN FRANCISCO, March 7, 2023 /PRNewswire/ -- Databricks,"
 publishedDateTime: 2023-03-07T15:00:00Z
-originalUrl: "https://insidebigdata.com/2023/03/07/databricks-launches-simplified-real-time-machine-learning-for-the-lakehouse/"
-webUrl: "https://insidebigdata.com/2023/03/07/databricks-launches-simplified-real-time-machine-learning-for-the-lakehouse/"
+originalUrl: "https://www.asiaone.com/business/databricks-launches-simplified-real-time-machine-learning-lakehouse"
+webUrl: "https://www.asiaone.com/business/databricks-launches-simplified-real-time-machine-learning-lakehouse"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: insidebigdata.com
-  domain: insidebigdata.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
-  - Machine Learning
+  - Microsoft AI
   - AI
+  - Machine Learning
+
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/pr-newswire_500_4_410.jpg?h=7de12b8a&itok=LviaIMG0"
+    width: 600
+    height: 316
+    isCached: true
 
 related:
   - title: "Databricks Launches Real-Time Machine Learning on Lakehouse Platform"
@@ -43,6 +50,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "6dnZDAf8QvcMCZS4T8igLgBRCpKfVxudGKyaX1tN+sJtxvsuH44XhNXasnvXc3K2Gf7sbme/mT+fO1vxQ4Zl+mzzNfO6AWN6xFLLDmpjU7Hrg4+npzV1W8JWOqIbWxaVmE8XkMaFQjuubqpKleqYxw+D5PwUGNrnzYObQnZuAJApNM6a02aly8ByyUpgzbQcj06E9L2zhoxt+7z2T7VRYbMoa0ROi7ZCl+6GGGSss57dSC/90mD0YBv7reP9OcTOfsu6yW+zEgLEdVZpAipYvnfQRN3VBCGu0/nvon6RRDF2Ts7CAvDrkLP9/XWdN72nyz5Qs5mTO5RBPi32CYCb1BCVJpPjO6xfSRJcA2ekpAABwafZE4X+s9RSlDH6Cz6tF1ptnBbGVhMNJOV1UiQY7WWZMIg96SPM0PJ/P5N6pNil+Ewh8XfZ1tnP7pjaT5ecIl0NFjoW5SSZDByIqWsBCOj1OzTc2ecciGqtPnflLaUQk4qYvLt1VGBsc+9e61R59B9zv5aW99GLlPnk+VCqBw==;W9jY78+eSNTblMuAb/7Zog=="
+secured: "3BQ9fvvJBkqH+ZwPOD66elbbQTPF2/90jmVYLFuobWHoFEO4gsRsM+mUR2uY2NceZKXlXVk0irnDYBPa/BSf0PK/cbIpSap48tStqecwP34iyYdBP51anHcSO0DBVF5l536E60x5NGJCXEEbu1aTO0XrGHXTcLzJ4gLo+yb+ln+RK6BMaX9t8GDdvVZybyC56Or4gAQ6PVSVNReEcuUaU7oo5z0LHhg8oLU9cW26BPWjmsK6DgzW7bjZz9I+I7poK89WcBIWo2tnP8op6eTqwz9ilT6MuaGt5OA+9rQckPUPit6oSKp9SW/zE+J+dA65M9Wa0WxsxfvMrwNyhHb8E11rVFwgqvzxZ1A0B2wxwac=;WEBMxN0nOKIhzoVCxQkjRg=="
 ---
 

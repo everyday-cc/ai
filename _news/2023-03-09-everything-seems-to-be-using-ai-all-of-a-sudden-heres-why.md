@@ -9,7 +9,7 @@ ampWebUrl: "https://www.9news.com/amp/article/news/nation-world/brands-adopt-ai-
 cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/nation-world/brands-adopt-ai-tools/507-c5c08f0b-73ca-4482-bdf8-603800167b85"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1140
     height: 641
     isCached: true
+
+related:
+  - title: "Scammers are using AI to impersonate your loved ones. Here's what to watch out for"
+    excerpt: "The next time you get a call from a family member or friend in need, you might want to make sure it's not a robot first."
+    publishedDateTime: 2023-03-09T14:05:00Z
+    webUrl: "https://www.zdnet.com/article/scammers-are-using-ai-to-impersonate-your-loved-ones-heres-what-to-watch-for/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/scammers-are-using-ai-to-impersonate-your-loved-ones-heres-what-to-watch-for/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/scammers-are-using-ai-to-impersonate-your-loved-ones-heres-what-to-watch-for/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/7a5309a2e1f200b222a612ed2e738b0b11ce21c0/2023/03/08/4e1f592e-d717-4b04-b262-2f69a4b58f7d/gettyimages-1258096393.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "DgHK/LC6aa6aj9J+t+pBtcwFcxi+nc0lqjj/ci4hGDXkcXsJdKq5YU8rEg7vtgu1lYVTvnOHreMbCTtdgnlHXRNzvv7JWRYO7wH1JedFYMbMmLCxiXzL/r7agIByiPaIHyrctVLZ183Orzg6Dl2wbCvHprrVhpK60rJHUgJYVb0kT06bnovLXJ1evpy1Lmv1oZ+06Rf9K2qJRFZa1ZTy5Ol9U+Bl4xortOjXEInoC4kzS0AdXY0wfeEsBq/m9Wq4x2WNv2rF5Lyil4hypq7O00xh/H92pW3d1Wl7BWFUsMCKE+JbTdOsrLJ60hMDuaBL9SA4LKqIVAvQMMlxtF8ZpQ9Pl5vmjmxOXe7Ykoklnfo=;ykt+HN2qeCQLt4fKN3EXEQ=="
 ---
