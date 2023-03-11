@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thehill.com/wp-content/uploads/sites/2/2023/02/chatbot_020323_getty_educationAI.jpg?w=1280"
