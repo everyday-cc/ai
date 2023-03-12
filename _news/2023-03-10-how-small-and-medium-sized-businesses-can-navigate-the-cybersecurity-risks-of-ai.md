@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-sm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence-based Cybersecurity Market Valuation Worldwide 2023-2029"
+    excerpt: "Artificial Intelligence-based Cybersecurity Marketinformation for each competitor includes (, Imperva, Palo Alto"
+    publishedDateTime: 2023-03-10T03:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-cybersecurity-market-valuation-worldwide-2023-2029-2023-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gurucul Named Most Innovative Security Company of the Year for Artificial Intelligence in the 19th Annual 2023 Globee Cybersecurity Awards"
     excerpt: "Company's artificial intelligence capabilities within Gurucul Next-Gen SIEM recognized for dramatically reducing operations expenses and improving efficiency of Threat Detection and Response programs Gurucul,"
     publishedDateTime: 2023-03-10T15:00:00Z

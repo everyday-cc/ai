@@ -2,6 +2,188 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-06-could-the-next-great-author-be-a-robot-we-asked-human-writers.md",
+      "title": "Could the next great author be a robot? We asked (Human) writers",
+      "excerpt": "Recently, editors at three science fiction magazines said they had been flooded with AI-generated fiction submissions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/02/chatgpt-open-AI-rtr-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
+      "publishedDateTime": "2023-03-05T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-understanding-the-world-of-artificial-intelligence-and-its-future-impacts.md",
+      "title": "Understanding the world of artificial intelligence and its future impacts",
+      "excerpt": "Dr. Rebecca Leis, a computer science program director at Full Sail University, sat down with anchor Justin Warmoth on “The Weekly” to help us better understand the world of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
+      "originalUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-05-2023/t_0fb618fcb9db4ccf9a1b664f859dae53_name_image.jpg?_a=ATCqVhC0",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News 6 WKMG",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-trends-that-are-likely-to-characterize-the-fintech-industry-in-2023.md",
+      "title": "Trends that are likely to characterize the Fintech industry in 2023",
+      "excerpt": "Any industry that wants to survive and grow in the present landscape and competition must make efficient use of Data Science, AI, and ML. The Fintech industry has aced this. They use data ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
+      "publishedDateTime": "2023-03-05T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-05-china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings.md",
+      "title": "China Favors Chips, AI Executives Over Internet Tycoons at Top Political Meetings",
+      "excerpt": "Seats once reserved for web executives are redistributed as Beijing’s priorities shift amid rising technology competition with the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings-eb1076f2",
+      "originalUrl": "https://www.wsj.com/articles/china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings-eb1076f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-736463/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-05-government-funding-to-accelerate-research-in-ai-healthcare-technologies.md",
       "title": "Government funding to accelerate research in AI healthcare technologies",
       "excerpt": "Tens of thousands of patients across the country could benefit from quicker, earlier diagnoses and more effective treatments for a range of conditions - as the government invests nearly £16 million into pioneering artificial intelligence research (AI).",
@@ -990,204 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-ai-has-the-student-become-the-teacher.md",
-      "title": "AI: Has The Student Become The Teacher?",
-      "excerpt": "There is still progress to be made, but I’m not sure if we’re quite ready to ditch the old ways just yet! Forbes Communications Council is an invitation-only community for executives in successful public relations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/03/ai-has-the-student-become-the-teacher/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/03/ai-has-the-student-become-the-teacher/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6400fc2cb455f425548619bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/03/ai-has-the-student-become-the-teacher/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/03/03/ai-has-the-student-become-the-teacher/amp/",
-      "publishedDateTime": "2023-03-03T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas.md",
-      "title": "How Artificial Intelligence Is Making It Easier To Scout Soccer Players Overseas",
-      "excerpt": "In the past, the cost of overseas scouting meant Africa's best players like Yaya Touré only had a few routes to the top. Now, AI and high-resolution cameras are revolutionizing youth scouting, allowing clubs to scout players from West Africa to Iceland without leaving the office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/",
-      "originalUrl": "https://www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6401ab4a5d18a8b0965a1649/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/amp/",
-      "publishedDateTime": "2023-03-03T00:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-robotaxi-tech-improves-but-can-they-make-money.md",
-      "title": "Robotaxi tech improves but can they make money?",
-      "excerpt": "Cruise, a subsidiary of GM, competes with Waymo, owned by Google's parent ... in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-64742934",
-      "originalUrl": "https://www.bbc.com/news/business-64742934",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3680/production/_128725931_cruisequietsanfranciscostreetcreditchriswensel.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-64742934.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-64742934.amp",
-      "publishedDateTime": "2023-03-03T00:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar.md",
-      "title": "We are building next-gen AI to become a global powerhouse: Rajeev Chandrasekhar",
-      "excerpt": "As the world goes gaga over AI chatbots, To make India a global powerhouse of AI which does not just stop on integrating foreign chatbots but building next-generation of AI-based innovations to empower billions of citizens.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/articleshow/98383176.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/articleshow/98383176.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-790970,msid-98383543/stakeholder-consultation-for-digital-india-bill-likely-from-march-rajeev-chandrasekhar.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/amp_articleshow/98383176.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/amp_articleshow/98383176.cms",
-      "publishedDateTime": "2023-03-02T22:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

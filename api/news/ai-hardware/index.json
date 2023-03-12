@@ -56,6 +56,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-11-media-alert-brainchip-demonstrates-edge-ai-processing-at-embedded-world-2023-in-nuremberg.md",
+      "title": "Media Alert: BrainChip Demonstrates Edge AI Processing at Embedded World 2023 in Nuremberg",
+      "excerpt": "Akida also has a unique ability to learn on device in a secure fashion, without need for cloud retraining. \"On-chip AI that learns close to the sensor, untethered from the cloud, is the future of edge devices, and we are eager to show the leaders in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/ac31305369/media-alert-brainchip-demonstrates-edge-ai-processing-at-embedded-world-2023-in-nuremberg",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/ac31305369/media-alert-brainchip-demonstrates-edge-ai-processing-at-embedded-world-2023-in-nuremberg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31305369",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31305369",
+      "publishedDateTime": "2023-03-10T14:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-ai-chip-startup-mythic-rises-from-the-ashes-with-13m-new-ceo.md",
       "title": "AI chip startup Mythic rises from the ashes with $13M, new CEO",
       "excerpt": "Mythic, an AI chip startup that last November reportedly ran out of capital, rose from the ashes today with an unexpected injection of fresh funds. Mythic this morning announced that it closed a $ ...",
@@ -1417,58 +1460,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-nvidia-results-show-its-growing-lead-in-ai-chip-race.md",
-      "title": "Nvidia results show its growing lead in AI chip race",
-      "excerpt": "AI is taking over the tech industry and, according to research firm Gartner, the share of specialized chips such as GPUs that are used in data centers is expected to rise to more than 15% by 2026 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/nvidia-results-show-its-growing-lead-ai-chip-race-2023-02-23/",
-      "originalUrl": "https://www.reuters.com/technology/nvidia-results-show-its-growing-lead-ai-chip-race-2023-02-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/08Q0_sMNI0HsgkXRudWeQv9ZOHI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GFG36C4JS5N5XFILK6JAYYN4R4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-23T12:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

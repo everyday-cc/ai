@@ -24,17 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Google Universal Speech Model aims to build a 1,000-language AI model"
-    excerpt: "It does this via automatic speech recognition and translation, which works with different languages. Other core Google apps also make use of this AI language model for speech-related tasks."
-    publishedDateTime: 2023-03-08T17:18:00Z
-    webUrl: "https://www.androidheadlines.com/2023/03/google-universal-speech-model-build-a-1000-language-ai-model.html"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 19
-
 secured: "EGJsUCvFOdwY3XIprtw3b19C7G4wgl6a71Is8VR55AvzIrdB7sQH6QifhTCBKjaEMivVS40T9LyWr2v65eT5PV3OvpYDYw/2xyEAMQJeQB1cSYQuW4KAKNJ4+QkkUWNhTe8nhb4BQWuqA59wWLColPTGLqmYJotvu+LG9BlWNYA+XNqeDb2u/La/g5tbm7jLcREwcg+e6F3xsyS+HVQQwwMF6z5azRWUH3r7lsVV0+g5XH5hC0wlaIvS794ZCwtHR88bWk+w3/dWCuiMJ9wPfOsBvaEQTGXiMmidS6JsOElqyik5gtj3/i6+ide8ZrvUeK1E4Kf3GmzRNB139VjYW96QED6ib7diRWXrDnNDknY=;/rEzjgLHYFwngiIdVdeJFQ=="
 ---
 

@@ -2,6 +2,293 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-01-05-ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding.md",
+      "title": "AI startup looks to transform data into AI models and applications, closes series A funding",
+      "excerpt": "Taiwanese firm Profet AI has raised $5.6 million to expand into new markets with AI/ML solutions purpose-built for the manufacturing sector.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/",
+      "originalUrl": "https://venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/aluminum-manufacturing_recycle-aluminum_05102018.jpg?w=1200&strip=all",
+          "width": 1142,
+          "height": 940,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/amp/",
+      "publishedDateTime": "2023-01-04T17:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-a-brief-cognitive-behavioral-therapy-appears-promising-for-head-and-neck-cancer-survivors.md",
+      "title": "A brief cognitive behavioral therapy appears promising for head and neck cancer survivors",
+      "excerpt": "He and his team have just published in JAMA Otolaryngology—Head and Neck Surgery the results of a pilot trial evaluating a brief tele-cognitive behavioral therapy that they developed for head ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/bright-outlook-a-brief.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.amp",
+      "publishedDateTime": "2023-01-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares.md",
+      "title": "CES 2023 Live Blog: Talking Cars, LG Displays, Robots Dogs and a Smartwatch That Cares",
+      "excerpt": "CES is known as the world's biggest consumer electronics show. In 2023 it's well and truly lived up to that moniker.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news-live/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/",
+      "originalUrl": "https://www.cnet.com/news-live/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/a39163608c5114d42ea75d0a0043b2d4fd9181ed/hub/2023/01/05/212e154d-b025-49a7-8ab0-b8ec7f58e349/ces-2023-3286.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-how-hybrid-cybersecurity-is-strengthened-by-ai-machine-learning-and-human-intelligence.md",
+      "title": "How hybrid cybersecurity is strengthened by AI, machine learning and human intelligence",
+      "excerpt": "Human intelligence combined with AI and ML models enable hybrid cybersecurity to better predict, identify and stop security breaches.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/",
+      "originalUrl": "https://venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1657803103752.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/amp/",
+      "publishedDateTime": "2023-01-04T14:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-6-best-books-on-artificial-intelligence-how-to-educate-yourself-in-the-hottest-new-tech-sector.md",
+      "title": "6 Best Books On Artificial Intelligence - How To Educate Yourself In The Hottest New Tech Sector",
+      "excerpt": "Artificial intelligence (AI) is quickly growing, and widely accepted as one of the hottest new fields of technology. AI-powered tools are poised to transform more and more sectors of our economy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/01/04/6-best-books-on-artificial-intelligencehow-to-educate-yourself-in-the-hottest-new-tech-sector/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/04/6-best-books-on-artificial-intelligencehow-to-educate-yourself-in-the-hottest-new-tech-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b5dfc14d256ff62e4029ef/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/04/6-best-books-on-artificial-intelligencehow-to-educate-yourself-in-the-hottest-new-tech-sector/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/04/6-best-books-on-artificial-intelligencehow-to-educate-yourself-in-the-hottest-new-tech-sector/amp/",
+      "publishedDateTime": "2023-01-04T12:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility.md",
+      "title": "Hyundai Motor Group’s Supernal Collaborates With Microsoft to Advance Critical Technology for Advanced Air Mobility",
+      "excerpt": "Supernal announced a collaboration with Microsoft to advance autonomy, digital operations and cloud integration technologies for the aviation industry by running advanced air mobi",
+      "sourceUrl": null,
+      "webUrl": "https://www.aviationpros.com/aircraft/unmanned/press-release/21291540/supernal-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility",
+      "originalUrl": "https://www.aviationpros.com/aircraft/unmanned/press-release/21291540/supernal-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AviationPros",
+        "domain": "aviationpros.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-citizen-debuts-cz-smart-watch-dedicated-to-wellness.md",
       "title": "Citizen debuts CZ Smart Watch dedicated to wellness",
       "excerpt": "Citizen has debuted its CZ Smart Watch with its proprietary wellness software that anticipates, learns, and gets smarter with the wearer.",
@@ -801,264 +1088,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms.md",
-      "title": "TDK to acquire Qeexo to enable complete smart edge platforms",
-      "excerpt": "TDK Corporation (TSE: 6762) (CEO & President: Noboru Saito, hereinafter \"TDK\") announced that today TDK has agreed to acquire Qeexo, Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-301710811.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/tdk-to-acquire-qeexo-to-enable-complete-smart-edge-platforms-301710811.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-citiustech-collaborates-with-microsoft-to-streamline-value-based-contracting-and-provider-performance-management-for-health-plans-and-systems.md",
-      "title": "CitiusTech Collaborates with Microsoft to Streamline Value-Based Contracting and Provider Performance Management for Health Plans and Systems",
-      "excerpt": "CitiusTech, a global provider of digital technology and consulting services to healthcare and life sciences organizations, announced today that it is working with Microsoft to jointly offer PERFORM+ Contracts;",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/business-medical-technology-wire-93df69119528412db26a417690a0e2b5",
-      "originalUrl": "https://apnews.com/article/business-medical-technology-wire-93df69119528412db26a417690a0e2b5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-nvidias-latest-ai-tech-can-upscale-old-blurry-youtube-videos.md",
-      "title": "Nvidia’s latest AI tech can upscale old blurry YouTube videos",
-      "excerpt": "Nvidia has turned its AI upscaling technology on a new target ... The catch is that you’ll need a relatively modern Nvidia GPU to benefit from the feature, with only its most recent 30 and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/1/4/23538584/nvidia-ai-upscaling-browser-chrome-edge-30-40-series-gpu-graphics-cards-4k-1080p",
-      "originalUrl": "https://www.theverge.com/2023/1/4/23538584/nvidia-ai-upscaling-browser-chrome-edge-30-40-series-gpu-graphics-cards-4k-1080p",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/NJNKV0i-ITPWpQorBd_Pk64-eIY=/0x0:1280x720/1200x628/filters:focal(631x605:632x606)/cdn.vox-cdn.com/uploads/chorus_asset/file/24335273/maxresdefault__1_.jpeg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T04:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.md",
-      "title": "Microsoft reported to be integrating ChatGPT3 AI with Bing search",
-      "excerpt": "The expected integration of the AI-powered chat application with Bing can be seen as Microsoft’s renewed attempt to challenge search giant Google.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.html",
-      "originalUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/02/p1200405-100708005-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3684489/microsoft-reported-to-be-integrating-chatgpt3-ai-with-bing-search.amp.html",
-      "publishedDateTime": "2023-01-04T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-at-ces-tech-mega-show-driverless-cars-show-promise-limitations.md",
-      "title": "At CES tech mega-show, driverless cars show promise, limitations",
-      "excerpt": "Crowds of techies will descend on Las Vegas this week for the annual CES technology mega-show, but one innovation may again fall short of long-held hopes: driverless cars. Autonomous vehicles have long been pitched as the new dawn of transportation and the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/world/americas/at-ces-tech-mega-show-driverless-cars-show-promise-limitations-pbcmjdvh",
-      "originalUrl": "https://www.zawya.com/en/world/americas/at-ces-tech-mega-show-driverless-cars-show-promise-limitations-pbcmjdvh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T01:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-04-bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028.md",
-      "title": "Bird and Animal Control Robot Market (New Report) 2023 Research Report Recent Developments, Size, Share, Market Analysis, Forecast 2028",
-      "excerpt": "Jan 04, 2023 (The Expresswire) -- New Report (92 Page) Publish on Global Bird and Animal Control Robot Market Research Report 2023 comprises extensive primary research along with the detailed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028-2023-01-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/bird-and-animal-control-robot-market-new-report-2023-research-report-recent-developments-size-share-market-analysis-forecast-2028-2023-01-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T00:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

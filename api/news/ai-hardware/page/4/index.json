@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-05-google-partners-with-ai-company-anthropic-reportedly-makes-financial-investment.md",
+      "title": "Google Partners With AI Company Anthropic, Reportedly Makes Financial Investment",
+      "excerpt": "Google's partnership with AI firm Anthropic as a preferred cloud provider includes a financial investment, very similar to Microsoft's investment in OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/382250/google-partners-with-ai-company-anthropic-reporte.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/382250/google-partners-with-ai-company-anthropic-reporte.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-04T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-04-how-smart-are-ai-chips-really.md",
       "title": "How Smart Are AI Chips, Really?",
       "excerpt": "But this is Hackaday, so we’re also going to dig into the guts of some AI chips, including the Kendryte K210 and see how the hardware of today fits into our Glorious Future. Targeted towards ...",
@@ -1277,59 +1311,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-ibm-and-the-grand-challenges-of-ai-and-quantum-computing.md",
-      "title": "IBM And The Grand Challenges Of AI And Quantum Computing",
-      "excerpt": "One company that has been pioneering advanced AI for longer than most is IBM. One of IBM’s most senior executives, Alessandro Curioni, joined the London Futurists Podcast to discuss IBM’s current projects in AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c91d9baefd5d5958922d86/0x0.jpg?format=jpg&width=1200",
-          "width": 1023,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/01/19/ibm-and-the-grand-challenges-of-ai-and-quantum-computing/amp/",
-      "publishedDateTime": "2023-01-19T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

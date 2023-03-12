@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-07-is-the-us-government-ready-for-the-rise-of-artificial-intelligence.md",
+      "title": "Is the US government ready for the rise of artificial intelligence?",
+      "excerpt": "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ebc4df75b728a3e25fbf863375da820aee1b1b34/0_115_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=d5c20814aa6b6aaa53696c96662f86cf",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "publishedDateTime": "2023-03-07T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more.md",
+      "title": "Tech execs didn’t just start talking about AI — but they are talking about it a lot more",
+      "excerpt": "Do you feel like you've heard a lot more about AI in 2023? A MarketWatch analysis shows you probably have, although from roughly the same number of sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "originalUrl": "https://www.marketwatch.com/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-737082/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "publishedDateTime": "2023-03-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-chatgpt-machine-learning-and-generative-ai-in-healthcare.md",
       "title": "ChatGPT, Machine Learning And Generative AI In Healthcare",
       "excerpt": "The use of generative AI has the potential to greatly impact clinical understanding, diagnosis and treatment of complex medical conditions as well as improve the accuracy, efficiency and effectiveness of healthcare system function.",
@@ -715,6 +818,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-06-the-minds-behind-voice-ai-technology.md",
+      "title": "The minds behind voice AI technology",
+      "excerpt": "Voice AI connects humans and machines through communication. It also paves the way for next-generation human-machine interaction. Despite the lack of widespread familiarity, voice AI is at the core of many technologies today, such as voicebots, chatbots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-reporter.co.uk/banking--fintech/the-minds-behind-voice-ai-technology",
+      "originalUrl": "https://www.business-reporter.co.uk/banking--fintech/the-minds-behind-voice-ai-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/022/iStock-1329694918_-_AI_Rudder_Episode_3.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T00:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business-reporter.co.uk",
+        "domain": "business-reporter.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-future-of-artificial-intelligence-ai-in-fintech-market-by-2029-trends-and-predictions.md",
       "title": "Future of Artificial Intelligence (AI) in Fintech Market by 2029: Trends and Predictions",
       "excerpt": "The recently published Artificial Intelligence (AI) in Fintech Market Report, spanning across 116 pages, provides",
@@ -806,6 +952,40 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-5-ways-machine-learning-is-leading-to-smarter-manufacturing.md",
+      "title": "5 Ways Machine Learning Is Leading to Smarter Manufacturing",
+      "excerpt": "Major companies around the world are heavily investing in machine learning (ML) solutions across their manufacturing processes and seeing impressive results. From bringing down labor costs and reducing downtime to increasing workforce productivity and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.business.com/articles/machine-learning-and-manufacturing/",
+      "originalUrl": "https://www.business.com/articles/machine-learning-and-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business.com",
+        "domain": "business.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -978,188 +1158,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-could-the-next-great-author-be-a-robot-we-asked-human-writers.md",
-      "title": "Could the next great author be a robot? We asked (Human) writers",
-      "excerpt": "Recently, editors at three science fiction magazines said they had been flooded with AI-generated fiction submissions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/02/chatgpt-open-AI-rtr-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
-      "publishedDateTime": "2023-03-05T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-understanding-the-world-of-artificial-intelligence-and-its-future-impacts.md",
-      "title": "Understanding the world of artificial intelligence and its future impacts",
-      "excerpt": "Dr. Rebecca Leis, a computer science program director at Full Sail University, sat down with anchor Justin Warmoth on “The Weekly” to help us better understand the world of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
-      "originalUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-05-2023/t_0fb618fcb9db4ccf9a1b664f859dae53_name_image.jpg?_a=ATCqVhC0",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News 6 WKMG",
-        "domain": "clickorlando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-trends-that-are-likely-to-characterize-the-fintech-industry-in-2023.md",
-      "title": "Trends that are likely to characterize the Fintech industry in 2023",
-      "excerpt": "Any industry that wants to survive and grow in the present landscape and competition must make efficient use of Data Science, AI, and ML. The Fintech industry has aced this. They use data ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "publishedDateTime": "2023-03-05T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings.md",
-      "title": "China Favors Chips, AI Executives Over Internet Tycoons at Top Political Meetings",
-      "excerpt": "Seats once reserved for web executives are redistributed as Beijing’s priorities shift amid rising technology competition with the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings-eb1076f2",
-      "originalUrl": "https://www.wsj.com/articles/china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings-eb1076f2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-736463/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

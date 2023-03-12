@@ -8,8 +8,8 @@ webUrl: "https://www.thisdaylive.com/index.php/2023/03/09/potential-benefits-ris
 ampWebUrl: "https://www.thisdaylive.com/index.php/2023/03/09/potential-benefits-risks-of-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/03/09/potential-benefits-risks-of-artificial-intelligence/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:

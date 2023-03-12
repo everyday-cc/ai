@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/teradata-announces-general-a
 webUrl: "https://www.datanami.com/this-just-in/teradata-announces-general-availability-of-teradata-vantagecloud-integration-with-azure-ml/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Teradata VantageCloud integrated with Microsoft Azure Machine Learning"
-    excerpt: "VantageCloud’s open and connected platform enables organizations to transform their machine learning initiatives from pilots to production with the tools of their choice."
-    publishedDateTime: 2023-03-09T11:37:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2023/mar/09/teradata-vantagecloud-integrated-with-microsoft-azure-machine-learning/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 51
   - title: "Teradata Helps Customers Unlock True Value of their Data with Integration of Teradata VantageCloud and Microsoft Azure Machine Learning"
     excerpt: "Teradata VantageCloud and Azure Machine Learning work seamlessly, giving customers using VantageCloud on Azure the ability to tap into the power of their data. With this integration, joint customers across industries can realize the benefits from the ..."
     publishedDateTime: 2023-03-08T17:10:00Z

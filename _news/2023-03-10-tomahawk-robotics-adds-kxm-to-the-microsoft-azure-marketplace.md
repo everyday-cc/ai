@@ -7,8 +7,8 @@ originalUrl: "https://www.tmcnet.com/usubmit/-tomahawk-robotics-adds-kxm-the-mic
 webUrl: "https://www.tmcnet.com/usubmit/-tomahawk-robotics-adds-kxm-the-microsoft-azure-marketplace-/2023/03/09/9774538.htm"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 206
+published: true
 
 provider:
   name: TMCnet
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft 365 will soon have an accessibility assistant"
-    excerpt: "The assistant will offer suggestions on how to prevent and correct accessibility issues, along with what Microsoft calls \"better defaults\" and \"real-time remediation.\" The assistant follows an accessibility checker in Visual Studio."
-    publishedDateTime: 2023-03-08T20:56:00Z
-    webUrl: "https://www.engadget.com/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
-    ampWebUrl: "https://www.engadget.com/amp/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/2y.nhOB5owKYAENLXN_yMg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/098816e0-bdd9-11ed-b6df-742e67f70f74.cf.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI-generated videos may be the next big thing as Microsoft confirms GPT-4 reveal"
     excerpt: "According to Braun, the next iteration of GPT will be shown off next week and it will allow users to create new types of AI-generated content."
     publishedDateTime: 2023-03-10T16:49:00Z
@@ -114,22 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Translator launches 13 new African languages"
-    excerpt: "Microsoft said Translator aims to break the language barrier between people and cultures all over the world. There are 13 new African languages added to Microsoft Azure Cognitive Services Translator."
-    publishedDateTime: 2023-03-09T14:47:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-translator-launches-13-new-african-languages/"
-    ampWebUrl: "https://amp.citizen.co.za/lifestyle/technology/microsoft-translator-launches-13-new-african-languages/"
-    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/technology/microsoft-translator-launches-13-new-african-languages/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 59
-    images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2023/03/09154046/Microsoft-Translator.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Key Reveals from Microsoft Azure Open-Source Day 2023"
     excerpt: "Microsoft held Azure Open Source Day to showcase its dedication to open source and emphasize the potential of open source tools in creating intelligent applications with increased speed and flexibility."
     publishedDateTime: 2023-03-09T06:43:00Z
@@ -144,6 +112,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Teradata VantageCloud integrated with Microsoft Azure Machine Learning"
+    excerpt: "VantageCloud’s open and connected platform enables organizations to transform their machine learning initiatives from pilots to production with the tools of their choice."
+    publishedDateTime: 2023-03-09T11:37:00Z
+    webUrl: "https://www.cloudcomputing-news.net/news/2023/mar/09/teradata-vantagecloud-integrated-with-microsoft-azure-machine-learning/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 53
+  - title: "Microsoft 365 will soon have an accessibility assistant"
+    excerpt: "This year's Microsoft Ability Summit is underway and the company has revealed its latest advancements for accessibility and disability inclusion. First, it's bringing an accessibility assistant to Microsoft 365 (formerly Microsoft Office)."
+    publishedDateTime: 2023-03-08T20:56:00Z
+    webUrl: "https://www.engadget.com/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html?src=rss"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 49
   - title: "Latest Microsoft Layoff Wave Hits Supply Chain, Cloud, IoT Employees"
     excerpt: "manager who worked with Microsoft for about two years and worked on facilitating “the delivery of secure high-quality data to improve machine learning and artificial intelligence models” *A 23-year Microsoft veteran who was a senior content developer ..."
     publishedDateTime: 2023-03-10T20:27:00Z
@@ -167,6 +153,15 @@ related:
         width: 2400
         height: 1351
         isCached: true
+  - title: "Cyclotron Taps Microsoft technology stack expert Seth Sanusi to Lead Azure Initiatives"
+    excerpt: "Cyclotron, a San Francisco-based business technology consultancy, is proud to announce the hiring of long-time Microsoft technology stack expert Seth Sanusi to lead its Microsoft Azure consulting practice."
+    publishedDateTime: 2023-03-09T18:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31283675/cyclotron-taps-microsoft-technology-stack-expert-seth-sanusi-to-lead-azure-initiatives"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
   - title: "Microsoft Azure Customers Can Now Access SolarWinds Observability Through the Azure Marketplace"
     excerpt: "SolarWinds, a provider of powerful and secure IT management software, announced SolarWinds Observability is now available on the Microsoft Azure Marketplace, empowering SolarWinds customers to take advantage of the Azure cloud platform."
     publishedDateTime: 2023-03-10T19:00:00Z
@@ -176,20 +171,6 @@ related:
       name: dbta
       domain: dbta.com
     quality: 22
-  - title: "Microsoft’s Annual Ability Summit: Exploring the technology, people, partnerships and policies driving a more accessible future"
-    excerpt: "Today, we kick off the 13th annual Microsoft Ability Summit, a day dedicated to the conversations that will advance the future of accessibility and disability inclusion. And there’s a lot to talk about this year!"
-    publishedDateTime: 2023-03-08T22:54:00Z
-    webUrl: "https://blogs.microsoft.com/on-the-issues/2023/03/08/accessibility-annual-ability-summit-people-partnership-policy/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 11
-    images:
-      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2023/03/access-web-1024x683.jpeg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "p0qd4xKPg3Rk0AV5st8MDeYEV0ApIZPW8gHhWL+NE2YUgjxPiCRzpmq7J2IggqXKTzgfVkUmzIgTgP9MEdO1MSd+gmtCvyrsrhf/tk0JacsBRzq7H6Df3zmeV3GdpTNIX5L9t3aWutYJ6bwhsmHH3rBzhPcL4AmvRq0sxYfVPKBYLL8aeuZDPHkgmYVMCx7mnreDJbT/k6wEcoI1mrhq+j7GC1m++710+4T8p/tQvH4hlBeTgd5vAUsJhq8u8lkpijQEfles3ebwAU8YagoMQKQI5yvztPObU8PTFHES9NKt1sj1iJnSkgrRFNkr0UGH4fXpJITQopP85XO3/fvo1qvUeHiTH3fxbaGI3dw1jNoKFedLFG56seHoOn7S5jH9JXpksrViUO1ryS9W20OfV+cQCUO1bLvOLR2uPigbnR6IUAKZcWJv3qnbnmUBxoQ1R35+/1BOf91pZC9RElqXEtmKf5yx8c8KhFm/AHjCywtBjkCegpRWQ/WaPjbay/0U8PQj8+tFmDS87GeiPKJs5w==;NUSYW/Ueuscortw+UUhVsg=="
 ---

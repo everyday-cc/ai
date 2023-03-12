@@ -2,6 +2,291 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-02-10-zuckerberg-is-making-generative-ai-metas-other-big-theme-of-2023.md",
+      "title": "Zuckerberg Is Making Generative AI Meta's Other Big Theme of 2023",
+      "excerpt": "With the market seemingly underappreciating Meta's AI infrastructure and research team, it may be worth picking up ... Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/10/zuckerberg-is-making-generative-ai-metas-other-big/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/10/zuckerberg-is-making-generative-ai-metas-other-big/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/720239/gettyimages-server-room-cloud-computing.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-deep-multi-magnification-similarity-learning-helps-histopathological-diagnosis.md",
+      "title": "Deep multi-magnification similarity learning helps histopathological diagnosis",
+      "excerpt": "Nazar Mustafa Zaki's team from United Arab Emirates University, proposed a novel deep multi-magnification similarity learning (DSML) approach to improve performance in histopathological ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-02-deep-multi-magnification-similarity-histopathological-diagnosis.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-02-deep-multi-magnification-similarity-histopathological-diagnosis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/deep-multi-magnificati.jpg",
+          "width": 1270,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-ibms-ai-has-a-new-job-sorting-through-nasas-giant-stream-of-earth-and-weather-images.md",
+      "title": "IBM’s AI has a new job: sorting through NASA’s giant stream of Earth and weather images",
+      "excerpt": "The artificial intelligence will also help sift through Earth science studies to answer questions. By Briley Lewis | Published Feb 10, 2023 6:00 AM EST ChatGPT’s cousin was just hired by NASA. On February 1, NASA and IBM announced a new partnership ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/science/nasa-ibm-ai-earth-science/",
+      "originalUrl": "https://www.popsci.com/science/nasa-ibm-ai-earth-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/02/09/Cloud-formation.jpg?auto=webp",
+          "width": 2000,
+          "height": 1102,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/science/nasa-ibm-ai-earth-science/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/nasa-ibm-ai-earth-science/?amp",
+      "publishedDateTime": "2023-02-10T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-cognitive-services-market-size-expected-to-reach-48-billion-by-2027.md",
+      "title": "Cognitive Services Market Size Expected To Reach $48 Billion By 2027",
+      "excerpt": "Major players in the cognitive services global market include IBM Corporation, Amazon Web Services, Inc., Google LLC, Nuance Communications, SAS Institute Inc., Microsoft Corporation, Attivio Inc ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1105555592/Cognitive-Services-Market-Size-Expected-To-Reach-48-Billion-By-2027",
+      "originalUrl": "https://menafn.com/1105555592/Cognitive-Services-Market-Size-Expected-To-Reach-48-Billion-By-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-02/10/EP_cf0fdimage_story.jpeg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-chatgpt-mania-3-stocks-to-buy-hand-over-fist.md",
+      "title": "ChatGPT Mania: 3 Stocks to Buy Hand Over Fist",
+      "excerpt": "Intelligent Cloud, which houses Azure, is already big business for Microsoft ... Microsoft's relationship with ChatGPT and Alphabet's longtime focus on AI and machine learning, investors should not count out fellow tech giant Apple. Apple has not touted ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/10/chatgpt-mania-3-stocks-to-buy-hand-over-fist/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/10/chatgpt-mania-3-stocks-to-buy-hand-over-fist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/719980/artificial-intelligence-ai-on-cloud-circuit-board-1.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-10T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-ai-needs-a-set-of-rules-for-its-own-good-and-for-ours.md",
+      "title": "AI needs a set of rules — for its own good, and for ours",
+      "excerpt": "\"AI's most common use case is in public service allocation and for business purposes in deciding who gets home loans, employment opportunities, and health care,\" said Alex Hanna, director of research at ... companies like Facebook and Twitter wouldn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-regulation-necessary-ted-lieu-america-chatgpt-openai-2023-2",
+      "originalUrl": "https://www.businessinsider.com/ai-regulation-necessary-ted-lieu-america-chatgpt-openai-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63e56e2796242f0019e83c45?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-regulation-necessary-ted-lieu-america-chatgpt-openai-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-regulation-necessary-ted-lieu-america-chatgpt-openai-2023-2?amp",
+      "publishedDateTime": "2023-02-10T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-the-inside-story-of-how-microsoft-caught-up-with-google-on-ai-and-the-unlikely-executive-who-made-it-happen.md",
       "title": "The inside story of how Microsoft caught up with Google on AI, and the unlikely executive who made it happen",
       "excerpt": "Google Cloud to Microsoft Azure At the time, OpenAI had just released a large language model along with a research paper on the gains that could be made by combining two existing ideas in the AI field: transformers and unsupervised pre-training.",
@@ -891,264 +1176,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-prime-focus-technologies-clear-now-available-in-aws-marketplace.md",
-      "title": "Prime Focus Technologies' CLEAR® now available in AWS Marketplace",
-      "excerpt": "Prime Focus Technologies (PFT), the creator of the Supply Chain Automation platform CLEAR®, today announced that customers can now",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/prime-focus-technologies-clear-now-available-aws-marketplace",
-      "originalUrl": "https://www.asiaone.com/business/prime-focus-technologies-clear-now-available-aws-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2023/pr-newswire_500_4_574.jpg?h=7de12b8a&itok=yVymMfbJ",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-gpu-as-a-service-market-is-projected-to-increase-at-a-cagr-of-400-between-2022-and-2032-report-by-fmi.md",
-      "title": "GPU as a Service Market is Projected to Increase at a CAGR of 40.0% between 2022 and 2032 | Report by FMI",
-      "excerpt": "According to a report from Future Market Insights (FMI), the global GPU as a service market is expected to be valued at US$ 2.8 Billion in 2022. With the Increase in the number of applications, coupled with increasing demand for Industrial Internet of Things (IIoT),",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/02/10/gpu-as-a-service-market-is-projected-to-increase-at-a-cagr-of-40-0-between-2022-and-2032-report-by-fmi/",
-      "originalUrl": "https://www.fmiblog.com/2023/02/10/gpu-as-a-service-market-is-projected-to-increase-at-a-cagr-of-40-0-between-2022-and-2032-report-by-fmi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T19:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-chinas-hesai-group-climbs-in-nasdaq-debut-on-autonomous-transport-hopes.md",
-      "title": "China’s Hesai Group Climbs In Nasdaq Debut On Autonomous Transport Hopes",
-      "excerpt": "Hesai Group, a supplier of sensors for self-driving vehicles whose investors include Baidu and smartphone maker Xiaomi, rose by 10.8% on its debut on the Nasdaq today on hopes for growth in autonomous transport. Hesai said in a statement today it raised $ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/russellflannery/2023/02/09/chinas-hesai-group-climbs-in-nasdaq-debut-on-autonomous-transport-hopes/",
-      "originalUrl": "https://www.forbes.com/sites/russellflannery/2023/02/09/chinas-hesai-group-climbs-in-nasdaq-debut-on-autonomous-transport-hopes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e5b38cfac48b2c1df721e7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/russellflannery/2023/02/09/chinas-hesai-group-climbs-in-nasdaq-debut-on-autonomous-transport-hopes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2023/02/09/chinas-hesai-group-climbs-in-nasdaq-debut-on-autonomous-transport-hopes/amp/",
-      "publishedDateTime": "2023-02-09T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-deepminds-speculative-sampling-achieves-225x-decoding-speedups-in-large-language-models.md",
-      "title": "DeepMind’s Speculative Sampling Achieves 2–2.5x Decoding Speedups in Large Language Models",
-      "excerpt": "In the new paper Accelerating Large Language Model Decoding with Speculative Sampling, a DeepMind research team presents SpS (Speculative Sampling), an algorithm that achieves 2–2.5x decoding speedups on a 70 billion parameter Chinchilla LLM. The novel ...",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2023/02/09/deepminds-speculative-sampling-achieves-2-2-5x-decoding-speedups-in-large-language-models/",
-      "originalUrl": "https://syncedreview.com/2023/02/09/deepminds-speculative-sampling-achieves-2-2-5x-decoding-speedups-in-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2023/02/09/deepminds-speculative-sampling-achieves-2-2-5x-decoding-speedups-in-large-language-models/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/02/09/deepminds-speculative-sampling-achieves-2-2-5x-decoding-speedups-in-large-language-models/amp/",
-      "publishedDateTime": "2023-02-09T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-dementia-only-causes-about-41-of-cognitive-decline-study-identifies-other-predictors.md",
-      "title": "Dementia only causes about 41% of cognitive decline: Study identifies other predictors",
-      "excerpt": "Cognitive decline naturally occurs as we age, with a common belief that dementia is the cause in most cases. Researchers at the Ohio State University say there are more factors causing cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/cognitive-decline-predictors-besides-dementia",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/cognitive-decline-predictors-besides-dementia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/02/senior_dementia_aging_news_732x549_thumb.jpg",
-          "width": 732,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-how-big-data-and-ai-are-driving-the-evolution-of-evidence-based-medicine.md",
-      "title": "How Big Data and AI Are Driving the Evolution of Evidence-Based Medicine",
-      "excerpt": "That is until recently. Today, artificial intelligence and big data are democratizing medical knowledge in ways that were not previously thought possible. Medical knowledge platforms like Pathway Medical are leading the charge by combining these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/how-big-data-and-ai-are-driving-evolution-evidence-based-medicine",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/how-big-data-and-ai-are-driving-evolution-evidence-based-medicine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-32.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

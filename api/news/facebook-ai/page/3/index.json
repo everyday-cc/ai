@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-01-fake-pictures-of-people-of-color-wont-fix-ai-bias.md",
+      "title": "Fake Pictures of People of Color Won’t Fix AI Bias",
+      "excerpt": "Companies claim synthetic images can add diversity to AI data sets, but they carry functional and moral risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/synthetic-image-media-bias-artificial-intelligence/",
+      "originalUrl": "https://www.wired.com/story/synthetic-image-media-bias-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/63d99f9b72a3af5788e6a4fb/master/pass/ideas-ai-bias-people-of-color.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/synthetic-image-media-bias-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/synthetic-image-media-bias-artificial-intelligence/amp",
+      "publishedDateTime": "2023-02-01T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-nasa-partners-with-ibm-to-build-ai-foundation-models-to-advance-climate-science.md",
       "title": "NASA partners with IBM to build AI foundation models to advance climate science",
       "excerpt": "NASA and IBM are developing new AI foundation models to analyze geospatial satellite data to understand and take action on climate change.",
@@ -1357,60 +1409,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-why-ai-and-creativity-are-not-at-war.md",
-      "title": "Why AI and creativity are not at war",
-      "excerpt": "Why AI won't steal your job, and why The field of strategic creative analysis will become important as generative AI becomes ubiquitous.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_507812257.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-and-creativity-are-not-at-war/amp/",
-      "publishedDateTime": "2023-01-13T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI",
-        "AI in Autos"
       ]
     }
   ],

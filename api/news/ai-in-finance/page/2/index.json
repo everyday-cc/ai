@@ -2,6 +2,203 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-02-16-the-impact-of-ai-and-machine-learning-on-financial-education.md",
+      "title": "The Impact of AI and Machine Learning on Financial Education",
+      "excerpt": "One of the most common challenges faced by students pursuing financial education is dealing ... It is exactly where the use of AI-based tools and machine learning offer help.",
+      "sourceUrl": null,
+      "webUrl": "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/",
+      "originalUrl": "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://finchannel.com/wp-content/uploads/2023/02/desctopworking1-copy.jpg",
+          "width": 900,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-16T02:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial",
+        "domain": "finchannel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-02-16-criticalriver-partners-with-accureai-to-accelerate-artificial-intelligence-and-machine-learning-adoption-for-businesses.md",
+      "title": "CriticalRiver Partners with Accure.ai to Accelerate Artificial Intelligence and Machine Learning Adoption for Businesses",
+      "excerpt": "The multi-year innovation partnership will provide an accelerated AI/ML platform to automate processes. Accelerates the use of AI to improve processes across key industries. PLEASANTON, Calif. (PRWEB)",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/p30929603/criticalriver-partners-with-accure-ai-to-accelerate-artificial-intelligence-and-machine-learning-a",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/p30929603/criticalriver-partners-with-accure-ai-to-accelerate-artificial-intelligence-and-machine-learning-a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30929603",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30929603",
+      "publishedDateTime": "2023-02-15T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "Natural Language Processing",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-solaris-setback-spells-trouble-for-european-fintech-scene.md",
+      "title": "Solaris Setback Spells Trouble For European Fintech Scene",
+      "excerpt": "For European fintech startups seeking to launch with a BaaS model ... Combining the increased competition with growing trends of AI and Web3, and the rise of Embedded Finance, B2C /SME fintechs and neobanks looking to be the next Lunar, Qonto, or PayHawk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/",
+      "originalUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63ecfebd2e820a093fed2987/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 845,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/amp/",
+      "publishedDateTime": "2023-02-15T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-15-how-ai-and-machine-learning-are-improving-fraud-detection-in-fintech.md",
+      "title": "How AI and Machine Learning Are Improving Fraud Detection in Fintech",
+      "excerpt": "Identity theft is common, but with the rise of AI and machine learning, its effect on the fintech industry has been reduced drastically. Here's how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-machine-learning-are-improving-fraud-detection/442018",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-machine-learning-are-improving-fraud-detection/442018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1675865542-GettyImages-1440452862.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-14T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-14-check-out-more-than-50-pitch-decks-used-by-fintechs-to-raise-millions-in-funding-from-top-vcs.md",
       "title": "Check out more than 50 pitch decks used by fintechs to raise millions in funding from top VCs",
       "excerpt": "This 11-page pitch deck helped Hum Capital, a fintech using AI to match investors with startups, raise a $9 million Series A. There's more venture capital flowing into Latin America than ever ...",
@@ -1109,194 +1306,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security.md",
-      "title": "Quad agrees to leverage machine learning to enhance cyber security",
-      "excerpt": "Quad, an informal grouping of four countries Australia, India, Japan and the United States, has agreed to leverage machine learning and related advanced technologies to enhance cyber security, the White House has said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
-      "originalUrl": "https://www.business-standard.com/article/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/24/full/1632506444-4684.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/quad-agrees-to-leverage-machine-learning-to-enhance-cyber-security-123020300103_1.html",
-      "publishedDateTime": "2023-02-02T19:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.md",
-      "title": "Quad agrees to leverage machine learning, related advanced technologies to enhance cyber security",
-      "excerpt": "In the longer term, the Group committed to leverage machine learning and related advanced ... chain methodology will encourage major software services, products, and providers leveraged by ...",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-97565750,imgsize-156698,width-1200,height-628,overlay-ettelecom/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750",
-      "publishedDateTime": "2023-02-02T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-artificial-intelligences-new-role-in-medicine-finance-and-other-industries-how-computer-learning-is-changing-every-corner-of-the-market.md",
-      "title": "Artificial Intelligence's New Role In Medicine, Finance And Other Industries - How Computer Learning Is Changing Every Corner Of The Market",
-      "excerpt": "Artificial intelligence is impacting medicine, finance and many other industries. Here’s what you need to know about AI and how it may affect your life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/02/artificial-intelligences-new-role-in-medicine-finance-and-other-industrieshow-computer-learning-is-changing-every-corner-of-the-market/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/02/artificial-intelligences-new-role-in-medicine-finance-and-other-industrieshow-computer-learning-is-changing-every-corner-of-the-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f01b473249d51126526723/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/02/artificial-intelligences-new-role-in-medicine-finance-and-other-industrieshow-computer-learning-is-changing-every-corner-of-the-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/02/artificial-intelligences-new-role-in-medicine-finance-and-other-industrieshow-computer-learning-is-changing-every-corner-of-the-market/amp/",
-      "publishedDateTime": "2023-02-02T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-02-02-gpt-3-use-cases-in-banking-finance-and-fintech.md",
-      "title": "GPT-3 Use Cases in Banking, Finance and Fintech",
-      "excerpt": "Since its release in November 2022, artificial intelligence (AI)-powered chatbot ChatGPT has garnered much excitement in the technology industry",
-      "sourceUrl": null,
-      "webUrl": "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-finance-and-fintech/58050/",
-      "originalUrl": "https://fintechnews.ch/aifintech/gpt-3-use-cases-in-banking-finance-and-fintech/58050/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/01/GPT-3-Use-Cases-in-Banking-Finance-and-Fintech-1440x564_c.jpg?x30842",
-          "width": 1440,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-01T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechnews",
-        "domain": "fintechnews.ch",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

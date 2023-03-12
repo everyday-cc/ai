@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Google is building a 1,000 language translation AI — it just took a big step forward"
-    excerpt: "One of those projects is an AI language model capable of supporting ... (opens in new tab) Google’s not the only company in the AI translation business right now, but the prospect of applying ..."
-    publishedDateTime: 2023-03-08T11:11:00Z
-    webUrl: "https://www.tomsguide.com/news/google-is-building-a-1000-language-translation-ai-it-just-took-a-big-step-forward"
+  - title: "Google Provides Update On AI Speech Models"
+    excerpt: "Google's Universal Speech Model is a critical first step toward creating AI that can understand and translate 1,000 languages. Earlier this week, Google shared details of its AI universal speech model designed to understand hundreds of spoken languages."
+    publishedDateTime: 2023-03-10T04:00:00Z
+    webUrl: "https://www.mediapost.com/publications/article/383312/google-provides-update-on-ai-speech-models.html"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 32
+      name: MediaPost
+      domain: mediapost.com
+    quality: 39
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YSjH7pWg4PvuzsEJUCqUHJ-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/03/10/youtubecaptionstestset-600_YdsPJIu.png"
+        width: 600
+        height: 375
         isCached: true
 
 secured: "Q1GFYXMWfffk0PEqc0cVfnFSkWXG72J7dFFygwh/0p+REJ1g8/SSPdEyh8HHiAyjtMA9AHkjegoeg3h3SfmXBAXNGCkvg2kuiYCfFKdSLfX7Y96j4xdTrCIfGu1KSojZgscJIx+T3B55+cG76eKS8iU5fQg/nAPUCPjIReDV3cbR4SjtQe2qAek6juIfvyMrRcpTrb7EEzQ3N/S+jrgyCJK7z7qj9MCSpydoqdGFnHzo/peQwHOKlen6/JTNZvGZTN+7r1y68eniM81hJg3brz2hGpQ1KiEP3Z8RCPgzHo+w5ZPkTW16a9a8ftGeqQY9MSsNorkMHWqRKUb9UU9N2H2A/iSuNmSsWFpgTkaoZio=;BSmrnRopN4pM2BXFPfJfSw=="

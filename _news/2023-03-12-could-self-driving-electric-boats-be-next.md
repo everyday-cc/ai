@@ -26,6 +26,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Could Self-Driving Electric Boats Reduce C02 Emissions?"
+    excerpt: "Could Self-Driving Electric Boats Be Next? Illinois Balloon Enthusiasts Believe US Air Force Shot Down Their Balloon California Driver Arrested After Crashing SUV Into Several Car"
+    publishedDateTime: 2023-03-12T19:29:00Z
+    webUrl: "https://www.insideedition.com/could-self-driving-electric-boats-reduce-c02-emissions-80263"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 4
+
 secured: "qgQSue8I2V29bVmKPKcVQS3ansr7PdkY++/3+fjDBO2uxj38hfS9NSKeiJi3i7KLn9s+xXX8g5Wlf6o2Ixn0gWtvWbuHjkZl2ojEfguldaYrxY1AAyc0j+vCfDA5jPst+eCTrOh6Bla4UnscEQMx6auRkcJ1/FkaMM0+/fmXACdGhlrFLoGQSBUagOMJpT0Pw9Cdj2KSRvf/EtWduSMi85luTRemJi20MeTWj9WZJ7DwU3RWbL6iLED99oQvNnemgOJran+U1ivb3Pp1yBxx81xyGp+EFpK0wfaAa0As+nFR+OQgmlsRlffXP7SCUz7+fef33LRYeSC9kI/GZqitHiwMlu7Ms4H1LgA+U/v7Dbc=;FE1oGfwZ2OFfucIEk+EadQ=="
 ---
 

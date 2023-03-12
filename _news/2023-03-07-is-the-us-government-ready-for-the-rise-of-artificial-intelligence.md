@@ -3,8 +3,10 @@ category: news
 title: "Is the US government ready for the rise of artificial intelligence?"
 excerpt: "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding"
 publishedDateTime: 2023-03-07T14:20:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=lore-ai-software-and-resources-to-help-your-business-grow"
-webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=lore-ai-software-and-resources-to-help-your-business-grow"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
+webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
+ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
 type: article
 
 provider:
@@ -19,6 +21,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "jqzbcjPUpP0W0ZQQquhXpylbjEVccEglh27KFilfoUfDAJCVMEb1pu9C9iwdTGXlhNoRWBC2558OyJBbWyL+A8mtbfMX5Sap2ffPhZworT6r4YY6aiamWAoNMxY8ma8x8B7jQtRZFA722/prN/7c3Zn0wbSMi+F8XVQ9BF7l+mbfQEXYvN9w9ObFKGI4cvLAwRXgz4oU5G6jWNf1coRWIm49U3uhzHmFa1mqTXb6QkSr7gDRls6HQiqb0xERfCXFz3IieQ+Nxrvm4NhzA4CkF6/F0SWILXJmpXxCKZRkEebSvlSDxH1G/cXmM4508lMxkDPb5CSQcIPhIPyNXa0g4ZmE+KhKbg/LL+If2XN1Yzlk56HmJUSP0mJ0pefWYSUAYfBstt2c7crksfe+eXryhmE1SrNBzFHrrZJdnfPgw+hHRPBhUdJ9qLr+LMNcBb5tfMOFjDY2L1VIzvAjvEiYFxbeBN9R1vVUmuA9vcpMVKEk2NW4rI64+H/7aRTosbOev4mMT9jSKpI8Sac3+uFJRQ==;XrxQPotZCh+/k+bTnIZI9w=="
+images:
+  - url: "https://i.guim.co.uk/img/media/ebc4df75b728a3e25fbf863375da820aee1b1b34/0_115_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=d5c20814aa6b6aaa53696c96662f86cf"
+    width: 620
+    height: 372
+    isCached: true
+
+secured: "yzfSBG4XYBrZFrg+YY0uTDAgJABN/qStqh0vsXZEacDvbEYCaDiGkDNbLPR7eE9zW2mP+Y7prSLpLKUI9DlIq+h3U2M0nm8c72ayHUgzoZY0lbjICBXM2BQK5+i4RoCO/RpNdcc0J0dE8jJc7+eupzEBBtd2i+h5pIwCGMnXXKR+jItqbEgylST0s01zClo5VBuYbtNM4rR2ceKti77ak0uIkSwNwoVMR/gknIzk2/NmNlIYt9e0SVP0g75vaz+UJbzOmuK68e3DsRrFljqIjViBKGimM/UYgUdoOOj6ieRggjEDWjr5vLbSIa48RnN1KgjRULGRhf0zD+l7LxBNi/L7I0GdcjxKOf4FDdqMOlM=;nTqL/lWq3ifUuLEiGaI9WA=="
 ---
 

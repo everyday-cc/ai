@@ -1,25 +1,29 @@
 ---
 category: news
-title: "Gymnast Dunne’s AI spot raises questions about NIL ethics"
-excerpt: "LSU gymnast Olivia Dunne’s endorsement of an artificial intelligence essay-writing tool is raising questions about whether college athletic programs should provide clearer ethical guidelines for athletes earning money from name,"
-publishedDateTime: 2023-03-09T22:15:00Z
-originalUrl: "https://www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/"
-webUrl: "https://www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/"
-ampWebUrl: "https://www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/college/gymnast-dunnes-ai-spot-raises-questions-about-nil-ethics/?amp=1"
+title: "Gymnast Dunne's AI spot raises questions about NIL ethics"
+excerpt: "LSU gymnast Olivia Dunne's endorsement of an artificial intelligence essay-writing product is raising questions about whether college athletic programs should provide clearer ethical guidelines for athletes earning money from name,"
+publishedDateTime: 2023-03-10T03:12:00Z
+originalUrl: "https://www.chron.com/sports/article/gymnast-dunne-s-ai-spot-raises-questions-about-17830432.php"
+webUrl: "https://www.chron.com/sports/article/gymnast-dunne-s-ai-spot-raises-questions-about-17830432.php"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
-secured: "3+eCqdTkUatKCdXLVkzauhxMirED15NyOtdzesO6sf4cKA3d/hIj3C9i8qR4xNDIfwbzyjABXWrIb583KKETYhWBduhR1vonwl6eiHn6UDH0vQSuInszBm4eC1oKE2M892YgjWzKjQOEN/3l2KWYamNR/AUcvaxJXMOMXvcQbu9bixsNm0EZpgUdB7p0rhX4GsAQIwvJaPrXuY74Jm59XsXQzdmcOf5Knubw2T+3DDZmeCJgzbwyjqNEnj/ppLze8b9dNWXpk4b9dtrQnC434T55XLYdsKcC0CQz58G4PRdUN+BauM3Tok5zlzQ3h3y+w5uwy0ur7pQ92ZQ9MYUqmcN+esliKqdVtxzObG4rFtcGUi3fXXv5TbNFjMKAlvetX0XQbbqSg/thftkOT3mE6b1AQljKoPp72TnsM/3F2UfW5noAdfZHWtK71G1csXX8n13KYcRRAsLPKSUxqLoCzPlR6vvzsuORPHYzHEr39x2N9Uw+L4l0Z7BrbBMfUhbDefDuRgPkpAlN7lbTItZ7Xg==;3iUjfwX0CTDaAiNHgrlvRg=="
+images:
+  - url: "https://s.hdnux.com/photos/01/31/66/05/23552365/3/rawImage.jpg"
+    width: 2048
+    height: 1462
+    isCached: true
+
+secured: "8dTsXpvLzdMZK09wG3RBU5ZFafgm5+Xo7bwYq00FQ1rdknGM8yFtJm6g/v3+R718daJ+Y+i1eU2aI7qJ7gQ/7WxC1vvlDmvsRRKAbI7vVXInp4MMSAvnilY42jr4I+pfRdi4CSFZlfLl0OWj/fC6DQDQ+LSGc/EwCY2UpmHLRHYqAtzN1ls0+Sqzz1vI52d0xaJh3K7f3+AvFhlddxJJj8YWMj1sCUfrDZG0uf1oqah8k+8g/vOwkSaLY2LQGltSVn8SMGRuNrLsgx4Cbn9lKTMaQT+E4QvjvaSrDQG9SP9xHxP4LzpNCMCfC3VB7YxoxSr0IyXinTzHumHKLTqv77GjUIQ9L9A+4YOwOnqeLqE=;N8EJjyUaXMaeVz9Kyw+UnQ=="
 ---
 

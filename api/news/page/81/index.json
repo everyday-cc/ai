@@ -2,6 +2,275 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-01-06-combating-financial-crime-risks-with-machine-learning.md",
+      "title": "Combating financial crime risks with machine learning",
+      "excerpt": "machine learning is gradually finding its way into the current financial crime compliance technology. More than academia and research labs, the practical benefits of machine learning need to reach ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/combating-financial-crime-risks-with-machine-learning/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/combating-financial-crime-risks-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/combating-financial-crime-risks-with-machine-learning/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/combating-financial-crime-risks-with-machine-learning/",
+      "publishedDateTime": "2023-01-05T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-geps-industry-leading-procurement-supply-chain-software-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "GEP'S INDUSTRY-LEADING PROCUREMENT & SUPPLY CHAIN SOFTWARE NOW AVAILABLE IN THE MICROSOFT AZURE MARKETPLACE",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to GEP SMART™, to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategiesCLARK,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30297371/geps-industry-leading-procurement-supply-chain-software-now-available-in-the-microsoft-azure-marke",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30297371/geps-industry-leading-procurement-supply-chain-software-now-available-in-the-microsoft-azure-marke",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai.md",
+      "title": "AMD Blitzes CES With Cache-Fueled Zen 4 CPUs, A Ryzen And Radeon 7000 Mobile Arsenal And AI",
+      "excerpt": "There’s one thing for sure and its that this company isn’t taking its foot off the gas in any of its core technologies and market segments anytime soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b6f6814ba88ddd701fbbc9/0x0.jpg?format=jpg&width=1200",
+          "width": 1158,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/amp/",
+      "publishedDateTime": "2023-01-05T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-standigm-cited-as-top-10-generative-ai-based-startup-based-on-vc-investment-2019-2021-in-gartner-report.md",
+      "title": "Standigm cited as 'Top 10 Generative AI-based startup based on VC Investment, 2019-2021' in Gartner® report",
+      "excerpt": "Standigm ranked seventh of 10 Generative AI-based startups based on its level of VC funding. Generative AI uses generative adversarial networks (GANs) to generate data. Once trained on labeled data, such as cars and buses,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/standigm-cited-as-top-10-generative-ai-based-startup-based-on-vc-investment-2019-2021-in-gartner-report-1032002151",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/standigm-cited-as-top-10-generative-ai-based-startup-based-on-vc-investment-2019-2021-in-gartner-report-1032002151",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1878881/Standigm_B_W_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-05T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-deep-learning-tools-computational-microscope-predicts-protein-interactions-potential-paths-to-new-antibiotics.md",
+      "title": "Deep learning tool's 'computational microscope' predicts protein interactions, potential paths to new antibiotics",
+      "excerpt": "Though it is a cornerstone of virtually every process that occurs in living organisms, the proper folding and transport of biological proteins is a notoriously difficult and time-consuming process to experimentally study.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-01-deep-tool-microscope-protein-interactions.html",
+      "originalUrl": "https://phys.org/news/2023-01-deep-tool-microscope-protein-interactions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/af2complex-computation.jpg",
+          "width": 740,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-01-deep-tool-microscope-protein-interactions.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-01-deep-tool-microscope-protein-interactions.amp",
+      "publishedDateTime": "2023-01-05T05:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-01-05-citizens-latest-smartwatch-packs-nasa-and-ibm-ai-tech-into-a-stylish-wearable.md",
+      "title": "Citizen's Latest Smartwatch Packs NASA And IBM AI Tech Into A Stylish Wearable",
+      "excerpt": "At CES 2023, famed timepiece maker Citizen launched its newest CZ Smart, which is a smartwatch that has a built-in self-care advisor, developed together with NASA and IBM's Watson. Not a company ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/citizens-latest-smartwatch-packs-nasa-and-ibm-ai-technologies-into-a-stylish-wearable",
+      "originalUrl": "https://hothardware.com/news/citizens-latest-smartwatch-packs-nasa-and-ibm-ai-technologies-into-a-stylish-wearable",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/60579/content/Citizen-ai-watch.jpg",
+          "width": 708,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/citizens-latest-smartwatch-packs-nasa-and-ibm-ai-technologies-into-a-stylish-wearable",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/citizens-latest-smartwatch-packs-nasa-and-ibm-ai-technologies-into-a-stylish-wearable",
+      "publishedDateTime": "2023-01-05T05:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-natural-language-processing-nlp-in-healthcare-and-life-sciences-market.md",
       "title": "Natural Language Processing (NLP) In Healthcare And Life Sciences Market",
       "excerpt": "Natural Language Processing (NLP) In Healthcare and Life Sciences Market to Surpass US$ 16,778.1 Million by 2028” - Coherent Market Insights BURLINGAME, CA, UNITED STATES, January 5, 2023 ...",
@@ -840,293 +1109,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding.md",
-      "title": "AI startup looks to transform data into AI models and applications, closes series A funding",
-      "excerpt": "Taiwanese firm Profet AI has raised $5.6 million to expand into new markets with AI/ML solutions purpose-built for the manufacturing sector.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/",
-      "originalUrl": "https://venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/aluminum-manufacturing_recycle-aluminum_05102018.jpg?w=1200&strip=all",
-          "width": 1142,
-          "height": 940,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-startup-looks-to-transform-data-into-ai-models-and-applications-closes-series-a-funding/amp/",
-      "publishedDateTime": "2023-01-04T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-a-brief-cognitive-behavioral-therapy-appears-promising-for-head-and-neck-cancer-survivors.md",
-      "title": "A brief cognitive behavioral therapy appears promising for head and neck cancer survivors",
-      "excerpt": "He and his team have just published in JAMA Otolaryngology—Head and Neck Surgery the results of a pilot trial evaluating a brief tele-cognitive behavioral therapy that they developed for head ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/bright-outlook-a-brief.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-01-cognitive-behavioral-therapy-neck-cancer.amp",
-      "publishedDateTime": "2023-01-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares.md",
-      "title": "CES 2023 Live Blog: Talking Cars, LG Displays, Robots Dogs and a Smartwatch That Cares",
-      "excerpt": "CES is known as the world's biggest consumer electronics show. In 2023 it's well and truly lived up to that moniker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news-live/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/",
-      "originalUrl": "https://www.cnet.com/news-live/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/a39163608c5114d42ea75d0a0043b2d4fd9181ed/hub/2023/01/05/212e154d-b025-49a7-8ab0-b8ec7f58e349/ces-2023-3286.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-how-hybrid-cybersecurity-is-strengthened-by-ai-machine-learning-and-human-intelligence.md",
-      "title": "How hybrid cybersecurity is strengthened by AI, machine learning and human intelligence",
-      "excerpt": "Human intelligence combined with AI and ML models enable hybrid cybersecurity to better predict, identify and stop security breaches.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/",
-      "originalUrl": "https://venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1657803103752.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/how-ai-machine-learning-and-human-intelligence-combine-to-strengthen-hybrid-cybersecurity/amp/",
-      "publishedDateTime": "2023-01-04T14:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-6-best-books-on-artificial-intelligence-how-to-educate-yourself-in-the-hottest-new-tech-sector.md",
-      "title": "6 Best Books On Artificial Intelligence - How To Educate Yourself In The Hottest New Tech Sector",
-      "excerpt": "Artificial intelligence (AI) is quickly growing, and widely accepted as one of the hottest new fields of technology. AI-powered tools are poised to transform more and more sectors of our economy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/01/04/6-best-books-on-artificial-intelligencehow-to-educate-yourself-in-the-hottest-new-tech-sector/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/01/04/6-best-books-on-artificial-intelligencehow-to-educate-yourself-in-the-hottest-new-tech-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b5dfc14d256ff62e4029ef/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/01/04/6-best-books-on-artificial-intelligencehow-to-educate-yourself-in-the-hottest-new-tech-sector/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/01/04/6-best-books-on-artificial-intelligencehow-to-educate-yourself-in-the-hottest-new-tech-sector/amp/",
-      "publishedDateTime": "2023-01-04T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility.md",
-      "title": "Hyundai Motor Group’s Supernal Collaborates With Microsoft to Advance Critical Technology for Advanced Air Mobility",
-      "excerpt": "Supernal announced a collaboration with Microsoft to advance autonomy, digital operations and cloud integration technologies for the aviation industry by running advanced air mobi",
-      "sourceUrl": null,
-      "webUrl": "https://www.aviationpros.com/aircraft/unmanned/press-release/21291540/supernal-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility",
-      "originalUrl": "https://www.aviationpros.com/aircraft/unmanned/press-release/21291540/supernal-hyundai-motor-groups-supernal-collaborates-with-microsoft-to-advance-critical-technology-for-advanced-air-mobility",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AviationPros",
-        "domain": "aviationpros.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

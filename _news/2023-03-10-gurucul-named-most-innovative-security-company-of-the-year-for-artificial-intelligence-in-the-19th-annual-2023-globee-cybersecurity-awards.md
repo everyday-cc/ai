@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence-based Cybersecurity Market Valuation Worldwide 2023-2029"
+    excerpt: "Artificial Intelligence-based Cybersecurity Marketinformation for each competitor includes (, Imperva, Palo Alto"
+    publishedDateTime: 2023-03-10T03:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-cybersecurity-market-valuation-worldwide-2023-2029-2023-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gurucul Named Most Innovative Security Company of the Year for Artificial Intelligence in the 19th Annual 2023 Globee Cybersecurity Awards"
     excerpt: "Gurucul, the leader in Next-Gen SIEM, UEBA, XDR and Identity & Access Analytics, announced today that The Globee® Awards, organizers of the world's premier business awards programs and business ranking lists,"
     publishedDateTime: 2023-03-10T17:55:00Z

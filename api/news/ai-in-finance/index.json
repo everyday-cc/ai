@@ -45,6 +45,59 @@
       ]
     },
     {
+      "path": "_news/2023-03-09-machine-learning-in-finance-market-trade-research-report-2023-2028.md",
+      "title": "Machine Learning in Finance Market Trade Research Report 2023-2028",
+      "excerpt": "Pages] Top “Machine Learning in Finance Market” Size 2023 Key players Profiled in the Report are [, Ignite Ltd ,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-trade-research-report-2023-2028-2023-03-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-trade-research-report-2023-2028-2023-03-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T19:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-03-08-automated-machine-learning-automl-market-to-grow-exponentially-due-to-rising-demand.md",
       "title": "Automated Machine Learning (AutoML) Market to Grow Exponentially Due to Rising Demand",
       "excerpt": "The \"Automated Machine Learning (AutoML) Market\" study describes how the technology industry is evolving and how major",
@@ -95,6 +148,40 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-bnpl-mexicos-kueski-an-online-financial-ecosystem-achieves-10m-loans-disbursed.md",
+      "title": "BNPL: Mexico’s Kueski, an Online Financial Ecosystem, Achieves 10M Loans Disbursed",
+      "excerpt": "Kueski, the online financial ecosystem for consumers in Mexico, recently announced that it has disbursed a record 10 million loans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/03/203352-bnpl-mexicos-kueski-an-online-financial-ecosystem-achieves-10m-loans-disbursed/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/03/203352-bnpl-mexicos-kueski-an-online-financial-ecosystem-achieves-10m-loans-disbursed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -253,6 +340,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-the-minds-behind-voice-ai-technology.md",
+      "title": "The minds behind voice AI technology",
+      "excerpt": "Voice AI connects humans and machines through communication. It also paves the way for next-generation human-machine interaction. Despite the lack of widespread familiarity, voice AI is at the core of many technologies today, such as voicebots, chatbots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-reporter.co.uk/banking--fintech/the-minds-behind-voice-ai-technology",
+      "originalUrl": "https://www.business-reporter.co.uk/banking--fintech/the-minds-behind-voice-ai-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/022/iStock-1329694918_-_AI_Rudder_Episode_3.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T00:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business-reporter.co.uk",
+        "domain": "business-reporter.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -531,6 +661,52 @@
       ],
       "topics": [
         "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race.md",
+      "title": "Hugging Face, AWS partner on open-source machine learning amidst AI arms race",
+      "excerpt": "OpenAI stopped open-sourcing most of its machine learning models and is serving them through a paid application programming interface (API). It has also become locked into Microsoft’s cloud platform, and its models are only available on Azure and ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T12:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
         "AI in Finance"
       ]
     },
@@ -1242,203 +1418,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-the-impact-of-ai-and-machine-learning-on-financial-education.md",
-      "title": "The Impact of AI and Machine Learning on Financial Education",
-      "excerpt": "One of the most common challenges faced by students pursuing financial education is dealing ... It is exactly where the use of AI-based tools and machine learning offer help.",
-      "sourceUrl": null,
-      "webUrl": "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/",
-      "originalUrl": "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://finchannel.com/wp-content/uploads/2023/02/desctopworking1-copy.jpg",
-          "width": 900,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial",
-        "domain": "finchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-criticalriver-partners-with-accureai-to-accelerate-artificial-intelligence-and-machine-learning-adoption-for-businesses.md",
-      "title": "CriticalRiver Partners with Accure.ai to Accelerate Artificial Intelligence and Machine Learning Adoption for Businesses",
-      "excerpt": "The multi-year innovation partnership will provide an accelerated AI/ML platform to automate processes. Accelerates the use of AI to improve processes across key industries. PLEASANTON, Calif. (PRWEB)",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/p30929603/criticalriver-partners-with-accure-ai-to-accelerate-artificial-intelligence-and-machine-learning-a",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/p30929603/criticalriver-partners-with-accure-ai-to-accelerate-artificial-intelligence-and-machine-learning-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30929603",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30929603",
-      "publishedDateTime": "2023-02-15T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-solaris-setback-spells-trouble-for-european-fintech-scene.md",
-      "title": "Solaris Setback Spells Trouble For European Fintech Scene",
-      "excerpt": "For European fintech startups seeking to launch with a BaaS model ... Combining the increased competition with growing trends of AI and Web3, and the rise of Embedded Finance, B2C /SME fintechs and neobanks looking to be the next Lunar, Qonto, or PayHawk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/",
-      "originalUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ecfebd2e820a093fed2987/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 845,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2023/02/15/solaris-setback-spells-trouble-for-european-fintech-scene/amp/",
-      "publishedDateTime": "2023-02-15T03:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-how-ai-and-machine-learning-are-improving-fraud-detection-in-fintech.md",
-      "title": "How AI and Machine Learning Are Improving Fraud Detection in Fintech",
-      "excerpt": "Identity theft is common, but with the rise of AI and machine learning, its effect on the fintech industry has been reduced drastically. Here's how.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-machine-learning-are-improving-fraud-detection/442018",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/how-ai-and-machine-learning-are-improving-fraud-detection/442018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1675865542-GettyImages-1440452862.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
