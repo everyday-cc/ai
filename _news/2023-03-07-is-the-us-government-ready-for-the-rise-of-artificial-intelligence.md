@@ -3,10 +3,8 @@ category: news
 title: "Is the US government ready for the rise of artificial intelligence?"
 excerpt: "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding"
 publishedDateTime: 2023-03-07T14:20:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=biztoc.com"
-ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=lore-ai-software-and-resources-to-help-your-business-grow"
+webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=lore-ai-software-and-resources-to-help-your-business-grow"
 type: article
 
 provider:
@@ -21,12 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/ebc4df75b728a3e25fbf863375da820aee1b1b34/0_115_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=d5c20814aa6b6aaa53696c96662f86cf"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "jzqqMl5WSnVc8qRfey8r9A1J4gDElzjZEdXfQZOnRQpZpnKsFjm/euvovT/DHtnMjrUE17VOtzbA13RQZfWMgb+PSEmEg/ocCi/P5+DXYPBrgZYTEvzoefLKDJJH7v+IEYKV115ueKzSVwPmAHjRASk/j6rsINUK980UXlb1Md96PrKo/Whd0FXEQb+eSMS2MJ411kJaztgcbHBvetjPZ598naXW5xUmDEOcyg6QL+Ps3PYf87sKXs8gOnhWLFvgl6aSL2nZyXQm1SfsWGvkLyluyUUQ+s68k9r6iv4ZBW2Bkojw+YCbPW9K6+M5WFapSjXzTqlZhpShHbmBtuQ+NSgjEdpD8yIuJBrxPsYqUKw=;IBe3LNWJm0m6wiBcMIOxrQ=="
+secured: "jqzbcjPUpP0W0ZQQquhXpylbjEVccEglh27KFilfoUfDAJCVMEb1pu9C9iwdTGXlhNoRWBC2558OyJBbWyL+A8mtbfMX5Sap2ffPhZworT6r4YY6aiamWAoNMxY8ma8x8B7jQtRZFA722/prN/7c3Zn0wbSMi+F8XVQ9BF7l+mbfQEXYvN9w9ObFKGI4cvLAwRXgz4oU5G6jWNf1coRWIm49U3uhzHmFa1mqTXb6QkSr7gDRls6HQiqb0xERfCXFz3IieQ+Nxrvm4NhzA4CkF6/F0SWILXJmpXxCKZRkEebSvlSDxH1G/cXmM4508lMxkDPb5CSQcIPhIPyNXa0g4ZmE+KhKbg/LL+If2XN1Yzlk56HmJUSP0mJ0pefWYSUAYfBstt2c7crksfe+eXryhmE1SrNBzFHrrZJdnfPgw+hHRPBhUdJ9qLr+LMNcBb5tfMOFjDY2L1VIzvAjvEiYFxbeBN9R1vVUmuA9vcpMVKEk2NW4rI64+H/7aRTosbOev4mMT9jSKpI8Sac3+uFJRQ==;XrxQPotZCh+/k+bTnIZI9w=="
 ---
 

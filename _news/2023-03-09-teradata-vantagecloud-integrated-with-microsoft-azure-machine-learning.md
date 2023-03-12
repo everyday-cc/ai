@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 related:
   - title: "Teradata Announces General Availability of Teradata VantageCloud, Integration with Azure ML"

@@ -23,6 +23,7 @@ topics:
   - AI
   - Machine Learning
   - AWS AI
+  - AI in Finance
 
 related:
   - title: "AWS bets big on open-source machine learning"
