@@ -291,8 +291,8 @@ related:
         isCached: true
   - title: "D-ID's Generative AI to Power Online Chatbot for Victims of Domestic Violence"
     excerpt: "ID, a world leader in generative AI, and  Spring ACT, an award-winning non-profit organization that leverages technology to eliminate global injustices, announced today a campaign to use Generative AI to strengthen global online support for victims of domestic violence."
-    publishedDateTime: 2023-03-08T09:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-d-ids-generative-ai-power-online-chatbot-victims-/2023/03/08/9773079.htm"
+    publishedDateTime: 2023-03-08T10:44:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/08/9773079.htm"
     type: article
     provider:
       name: TMCnet

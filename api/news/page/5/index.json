@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-03-heres-why-microsoft-is-betting-big-on-ai.md",
+      "title": "Here's Why Microsoft Is Betting Big on AI",
+      "excerpt": "That wide range of revenue drivers gives the company a number of potential applications for AI and ChatGPT technology, and Azure gives it the computing power to run them. Additionally, the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/03/heres-why-microsoft-is-betting-big-on-ai/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/03/heres-why-microsoft-is-betting-big-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/722817/microsoft_featured.png",
+          "width": 8335,
+          "height": 5001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-03T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-welcome-to-the-museum-of-the-future-ai-apocalypse.md",
       "title": "Welcome to the Museum of the Future AI Apocalypse",
       "excerpt": "The temporary exhibit is funded until May by an anonymous donor, but the space shows the influence of a number of tech founders and thinkers, from a framed tweet about AI and effective altruism by Facebook cofounder Dustin Moskovitz to the bathtub full of ...",
@@ -208,49 +260,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-03-robotaxi-tech-improves-but-can-they-make-money.md",
-      "title": "Robotaxi tech improves but can they make money?",
-      "excerpt": "Cruise, a subsidiary of GM, competes with Waymo, owned by Google's parent ... in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-64742934",
-      "originalUrl": "https://www.bbc.com/news/business-64742934",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T00:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-03-we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar.md",
       "title": "We are building next-gen AI to become a global powerhouse: Rajeev Chandrasekhar",
       "excerpt": "As the world goes gaga over AI chatbots, To make India a global powerhouse of AI which does not just stop on integrating foreign chatbots but building next-generation of AI-based innovations to empower billions of citizens.",
@@ -428,6 +437,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-robotaxi-tech-improves-but-can-they-make-money.md",
+      "title": "Robotaxi tech improves but can they make money?",
+      "excerpt": "Cruise, a subsidiary of GM, competes with Waymo, owned by Google's parent ... in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/business-64742934",
+      "originalUrl": "https://www.bbc.co.uk/news/business-64742934",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3680/production/_128725931_cruisequietsanfranciscostreetcreditchriswensel.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/business-64742934",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-64742934",
+      "publishedDateTime": "2023-03-02T17:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1158,58 +1210,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root.md",
-      "title": "AI Games and AI Film Festival will highlight how generative AI is taking root",
-      "excerpt": "Get ready for the AI revolution. A group of companies is staging The Culture AI Games and Film Festival on May 9 in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/",
-      "originalUrl": "https://venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/ai-games-and-film.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/amp/",
-      "publishedDateTime": "2023-03-02T10:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

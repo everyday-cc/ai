@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-02-09-oracle-cloud-made-all-the-right-moves-in-2022.md",
+      "title": "Oracle Cloud Made All The Right Moves In 2022",
+      "excerpt": "For example, Adept AI, a machine learning research and product lab ... Last year, Oracle Database Service for Microsoft Azure launched, enabling customers like Marriott to integrate the capabilities of two major cloud providers for better performance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/08/oracle-cloudmaking-all-the-right-moves-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/08/oracle-cloudmaking-all-the-right-moves-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63e40d812bc3941fcb78da04/0x0.jpg?format=jpg&width=1200",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/02/08/oracle-cloudmaking-all-the-right-moves-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/02/08/oracle-cloudmaking-all-the-right-moves-in-2022/amp/",
+      "publishedDateTime": "2023-02-08T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-google-translate-gets-ai-powered-contextual-translation.md",
       "title": "Google Translate gets AI-powered contextual translation",
       "excerpt": "Google is bringing more contextual translation options to the app. That’s where AI will play a big role, offering users descriptions and examples in the translated language: So whether you’re ...",
@@ -1032,58 +1084,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-microsofts-cloud-business-a-key-pillar-of-the-clubs-investment-case-stands-to-gain-from-the-ai-craze.md",
-      "title": "Microsoft's cloud business, a key pillar of the Club's investment case, stands to gain from the AI craze",
-      "excerpt": "Microsoft (MSFT) CEO Satya Nadella said Tuesday that the technology giant's profitable cloud-computing division, Azure, will help it monetize its burgeoning artificial intelligence (AI) capabilities. While we maintain a healthy skepticism around the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/07/microsofts-cloud-business-stands-to-gain-from-the-ai-craze.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/07/microsofts-cloud-business-stands-to-gain-from-the-ai-craze.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107179799-1674054065249-107179799-1673990952874-gettyimages-1244789692-SKOREA_MICROSOFT.jpg?v=1675811778&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T19:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

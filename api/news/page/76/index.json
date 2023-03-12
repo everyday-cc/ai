@@ -2,6 +2,39 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-01-10-worlds-first-ai-generated-online-course-created-by-minnesota-startup.md",
+      "title": "World's first AI-generated online course created by Minnesota startup",
+      "excerpt": "World's first AI-created online course made by Minnesota start-up 04:09 MINNEAPOLIS – A Minnesota startup says it has made the world's first online course that was created entirely by using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/minnesota/news/worlds-first-ai-generated-online-course-created-by-minnesota-startup/",
+      "originalUrl": "https://www.cbsnews.com/minnesota/news/worlds-first-ai-generated-online-course-created-by-minnesota-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-09T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-nvidia-reportedly-using-ai-optimized-drivers-to-improve-their-gpu-drivers.md",
       "title": "NVIDIA Reportedly Using AI-Optimized Drivers To Improve Their GPU Drivers",
       "excerpt": "NVIDIA is reportedly looking to include artificial intelligence (AI) in its new GPU (Graphics Processing Unit) drivers expected to release in the first",
@@ -1077,49 +1110,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-09-force-control-in-actuators-and-robot-end-effectors.md",
-      "title": "Force Control in Actuators and Robot End Effectors",
-      "excerpt": "Motors and end effectors come in many shapes and sizes but compared to actuators that transport an object from point A to B, end effectors also integrate force sensing to ensure that objects being ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.machinedesign.com/learning-resources/white-papers/whitepaper/21257479/force-control-in-actuators-and-robot-end-effectors",
-      "originalUrl": "https://www.machinedesign.com/learning-resources/white-papers/whitepaper/21257479/force-control-in-actuators-and-robot-end-effectors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2023/01/force_control_1540x800.63b71e3c7ef35.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Machine Design",
-        "domain": "machinedesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

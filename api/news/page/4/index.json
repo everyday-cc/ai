@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-06-facial-recognition-tool-led-to-mistaken-arrest-lawyer-says.md",
+      "title": "Facial recognition tool led to mistaken arrest, lawyer says",
+      "excerpt": "NEW ORLEANS: Louisiana authorities’ use of facial recognition technology led to the mistaken-identity arrest of a Georgia man on a fugitive warrant, an attorney said in a case that renews ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/01/03/facial-recognition-tool-led-to-mistaken-arrest-lawyer-says",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/01/03/facial-recognition-tool-led-to-mistaken-arrest-lawyer-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2023/01/03/1886220.jpg",
+          "width": 1240,
+          "height": 841,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-friday-hack-chat-control-schemes-for-robotics.md",
       "title": "Friday Hack Chat: Control Schemes For Robotics",
       "excerpt": "Not coincidentally, for this week’s Hack Chat, we’re talking all about Robotics Modules. We’re taking a deep dive into actuation and control schemes for robotics, and you’re invited to ...",
@@ -1103,58 +1146,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-heres-why-microsoft-is-betting-big-on-ai.md",
-      "title": "Here's Why Microsoft Is Betting Big on AI",
-      "excerpt": "That wide range of revenue drivers gives the company a number of potential applications for AI and ChatGPT technology, and Azure gives it the computing power to run them. Additionally, the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/03/heres-why-microsoft-is-betting-big-on-ai/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/03/heres-why-microsoft-is-betting-big-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/722817/microsoft_featured.png",
-          "width": 8335,
-          "height": 5001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

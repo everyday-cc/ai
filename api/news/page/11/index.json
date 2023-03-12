@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-02-27-automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-till-2029.md",
+      "title": "Automated Machine Learning (AutoML) Market Analysis Report 2023 Along with Statistics Figures, till 2029",
+      "excerpt": "The report focuses on the Automated Machine Learning (AutoML) market size, segment size (mainly covering product type, application, and geography), competitor landscape, recent status, and development trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-analysis-report-2023-along-with-statistics-figures-till-2029-2023-02-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-26T20:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-how-ai-marketing-tools-can-help-smes-start-ups-take-the-big-leap.md",
       "title": "How AI marketing tools can help SMEs & start-ups take the big leap",
       "excerpt": "In today’s edition of TechTalk, we explore the untapped potential of technology by SMEs and start-ups in India and what tools will help them reach to maximum audience",
@@ -1160,58 +1212,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-25-10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition.md",
-      "title": "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition",
-      "excerpt": "They say you can have anything you want in life if you dress for it. According to the makers of these anti-facial recognition garments, that includes privacy. These sweaters, masks, glasses, and makeup tips will scramble the algorithms and dazzle your friends.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479",
-      "originalUrl": "https://gizmodo.com/anti-facial-recognition-fashion-what-to-wear-mask-1850093479",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5962a488996ecd92c5b806c0c89f5c0a.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-25T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-02-22-intelligent-transport-systems-enhance-human-robot-collaboration.md",
+      "title": "Intelligent Transport Systems Enhance Human-Robot Collaboration",
+      "excerpt": "Adaptive machines are combining safe motion control, robotics and intelligent track technology into collaborative, workplace solutions. (Image source: B&R Industrial Automation) The goal of human and robotics interaction in manufacturing, creating an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/intelligent-transport-systems-enhance-human-robot-collaboration",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/intelligent-transport-systems-enhance-human-robot-collaboration",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/small%20Robotics_innovations.jpg",
+          "width": 705,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india.md",
       "title": "Solar-powered driverless bus developed by LPU students utilizing resources available within India",
       "excerpt": "With the evolution and advancement of technology such as artificial intelligence, Open CV, and the wide promotion of utilizing clean energy, our team looks forward to conceptualizing, redesigning, and developing a completely driverless, electric ...",
@@ -1016,57 +1059,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-sony-challenges-gran-turismo-7-players-to-race-against-gt-sophy-ai.md",
-      "title": "Sony Challenges Gran Turismo 7 Players to Race Against GT Sophy AI",
-      "excerpt": "A new Gran Turismo Sophy 'Race Together' time-limited in-game event will be available for any players who have reached Collector Level 6. Four races (Tsukuba Circuit, Alsace Villa",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/sony-challenges-gran-turismo-7-players-to-race-against-gt-sophy-ai",
-      "originalUrl": "https://www.pcmag.com/news/sony-challenges-gran-turismo-7-players-to-race-against-gt-sophy-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/06mbRwaBo3EQ2rKNbRdZXt9-1.fit_lim.size_1200x630.v1676904976.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-20T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-01-17-amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023.md",
+      "title": "AMD Brings Zen 4 Architecture And AI To Its Mobile Processors At CES 2023",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead gives his coverage of AMD's newly announced mobile and desktop processors, mobile graphics, AI products, and adaptive solutions at CES 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/17/amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/17/amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c6b974f0d56574eae9af4b/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/17/amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/01/17/amd-brings-zen-4-architecture-and-ai-to-its-mobile-processors-at-ces-2023/amp/",
+      "publishedDateTime": "2023-01-17T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-innodata-secures-major-ai-computer-vision-win-1.md",
       "title": "Innodata Secures Major AI Computer Vision Win 1",
       "excerpt": "Innodata Selected by Leading Cloud Platform to Provide Large-Scale Data Collection for AI Computer Vision Initiative NEW YORK, NY / ACCESSWIRE / January 17, 2023 / Innodata Inc. (NASDAQ ...",
@@ -1157,40 +1209,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-17-artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says.md",
-      "title": "Artificial intelligence could be a 'real threat' to 'a lot of jobs,' computer expert says",
-      "excerpt": "WEST PALM BEACH, Fla. — Artificial intelligence. You are going to begin hearing a lot more about it. AI, as it is called, is coming to your home, your job, your life in ways you never thought ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wptv.com/news/technology/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says",
-      "originalUrl": "https://www.wptv.com/news/technology/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-16T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPTV-TV",
-        "domain": "wptv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

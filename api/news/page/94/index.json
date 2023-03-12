@@ -2,6 +2,40 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-12-14-transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea.md",
+      "title": "transcosmos releases \"transpeech,\" its contact center speech recognition solution in South Korea",
+      "excerpt": "With one-stop services from deploying essential environment for speech recognition to operations, boost contact center service quality and operational efficiency transcosmos inc. hereby announces ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/12/p30071320/transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/12/p30071320/transcosmos-releases-transpeech-its-contact-center-speech-recognition-solution-in-south-korea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-14T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-14-6-ibm-cybersecurity-predictions-for-2023-ransomware-and-caas-will-spike.md",
       "title": "6 IBM cybersecurity predictions for 2023: Ransomware and CaaS will spike",
       "excerpt": "Recently, IBM Security and the X-Force threat research ... Intelligent Security Summit On-Demand Learn the critical role of AI & ML in cybersecurity and industry specific case studies.",
@@ -1088,49 +1122,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-deepminds-alphacode-is-the-best-example-of-ai-gearing-up-to-snatch-your-white-collar-jobs.md",
-      "title": "DeepMind's AlphaCode is the best example of AI gearing up to snatch your white-collar jobs",
-      "excerpt": "Researchers from DeepMind, which is a subsidiary of Alphabet, believe that this system will someday assist coders, but might not replace them. “It’s very impressive, the performance they’re ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digit.in/news/general/ai-gearing-up-to-apply-for-your-white-collar-jobs-66359.html",
-      "originalUrl": "https://www.digit.in/news/general/ai-gearing-up-to-apply-for-your-white-collar-jobs-66359.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.digit.in/default/12980-88c90f7dc7.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digit.in/article/amp/general/66359/ai-gearing-up-to-apply-for-your-white-collar-jobs",
-      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/66359/ai-gearing-up-to-apply-for-your-white-collar-jobs",
-      "publishedDateTime": "2022-12-13T11:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digit",
-        "domain": "digit.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

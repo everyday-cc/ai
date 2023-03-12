@@ -2,6 +2,50 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-02-17-university-of-utah-ai-machine-learning-projects-receive-research-funding.md",
+      "title": "University of Utah AI, Machine Learning Projects Receive Research Funding",
+      "excerpt": "A set of grants supported by the New One Utah Data Science Hub will support seven University of Utah artificial intelligence and machine learning projects.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/university-of-utah-ai-machine-learning-projects-receive-research-funding",
+      "originalUrl": "https://healthitanalytics.com/news/university-of-utah-ai-machine-learning-projects-receive-research-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/GettyImages-917184638-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/university-of-utah-ai-machine-learning-projects-receive-research-funding",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/university-of-utah-ai-machine-learning-projects-receive-research-funding",
+      "publishedDateTime": "2023-02-16T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-we-mustnt-let-ethical-questionson-ai-get-lost-in-all-the-euphoria.md",
       "title": "We mustn’t let ethical questionson AI get lost in all the euphoria",
       "excerpt": "Our planet is already on the edge with climate change, and these models could only accelerate that trend. The cloud and these AI models running on it take huge amounts of energy. For instance, training a transformer model just once with 213 million parameters can spew out the same carbon emissions that 125 New York-Beijing round flight trips would,",
@@ -1141,50 +1185,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future.md",
-      "title": "What will Indian healthcare look like in 2047? Robotics, AI, biotech will shape the future",
-      "excerpt": "Healthcare of 2047 will be substantially different from today. All ecosystem players will be impacted by these changes and will need to be prepared to embrace emerging trends and pivot their business models as appropriate.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/articleshow/97967033.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/articleshow/97967033.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/photo/96164744.cms",
-          "width": 2448,
-          "height": 1224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/amp_articleshow/97967033.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/amp_articleshow/97967033.cms",
-      "publishedDateTime": "2023-02-15T21:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

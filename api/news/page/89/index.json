@@ -2,6 +2,57 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2022-12-20-make-your-noisy-recording-sound-like-pro-audio-with-adobes-free-ai-tool.md",
+      "title": "Make your noisy recording sound like pro audio with Adobe’s free AI tool",
+      "excerpt": "Adobe released a free AI-powered audio processing tool that can enhance some poor-quality voice recordings by removing background noise and making the voice sound stronger. When it works, the result sounds like a recording made in a professional sound booth with a high-quality microphone.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/12/make-a-bathroom-sound-like-a-pro-audio-booth-with-adobes-free-ai-tool/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/12/make-a-bathroom-sound-like-a-pro-audio-booth-with-adobes-free-ai-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/adobe_speech_enhance_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/12/make-a-bathroom-sound-like-a-pro-audio-booth-with-adobes-free-ai-tool/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/12/make-a-bathroom-sound-like-a-pro-audio-booth-with-adobes-free-ai-tool/amp/",
+      "publishedDateTime": "2022-12-19T15:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-20-layoffs-are-coming-for-self-driving-truck-company-tusimple.md",
       "title": "Layoffs are coming for self-driving truck company TuSimple",
       "excerpt": "Autonomous trucking technology company TuSimple reportedly plans to lay off a chunk of its staff as early as this week.",
@@ -1124,58 +1175,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-18-how-generative-ai-will-change-all-knowledge-work.md",
-      "title": "How Generative AI Will Change All Knowledge Work",
-      "excerpt": "The acceleration of applications around generative AI is showing us how quickly and broadly our work will change.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/",
-      "originalUrl": "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2022/12/image-7.png?w&#x3D;1600",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-18T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

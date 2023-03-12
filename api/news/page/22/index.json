@@ -2,6 +2,59 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-02-15-four-ways-artificial-intelligence-can-benefit-robotic-surgery.md",
+      "title": "Four Ways Artificial Intelligence Can Benefit Robotic Surgery",
+      "excerpt": "Artificial intelligence (AI) meets us in our everyday lives ... care in a process that would significantly benefit both surgeons and patients. Surgical robotics is one of the next frontiers for optimizing AI. Following are four ways robotic surgery ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-artificial-intelligence-can-benefit-robotic-surgery/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-artificial-intelligence-can-benefit-robotic-surgery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63eb81852fd74647f9226ab7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-artificial-intelligence-can-benefit-robotic-surgery/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-artificial-intelligence-can-benefit-robotic-surgery/amp/",
+      "publishedDateTime": "2023-02-15T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-02-15-chinese-chip-trade-group-opposes-export-controls-from-us-netherlands-japan.md",
       "title": "Chinese chip trade group opposes export controls from U.S., Netherlands, Japan",
       "excerpt": "The initial U.S. sanctions took aim at Chinese purchases of advanced artificial intelligence (AI) computing chips, as well as equipment that chip factories could use to produce leading-edge ...",
@@ -1126,40 +1179,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-sway-ai-joins-the-aws-partner-network-to-make-artificial-intelligence-accessible-for-all.md",
-      "title": "Sway AI Joins The AWS Partner Network To Make Artificial Intelligence Accessible For All",
-      "excerpt": "BOSTON, Feb. 14, 2023 /PRNewswire/ -- Today, Sway AI, a leading provider of cloud and no-code artificial intelligence (AI ... joined the Amazon Web Services (AWS) Partner Network (APN), a global ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105572596/Sway-AI-Joins-The-AWS-Partner-Network-To-Make-Artificial-Intelligence-Accessible-For-All",
-      "originalUrl": "https://menafn.com/1105572596/Sway-AI-Joins-The-AWS-Partner-Network-To-Make-Artificial-Intelligence-Accessible-For-All",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-14T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

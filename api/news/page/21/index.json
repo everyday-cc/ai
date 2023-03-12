@@ -2,6 +2,50 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-02-16-what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future.md",
+      "title": "What will Indian healthcare look like in 2047? Robotics, AI, biotech will shape the future",
+      "excerpt": "Healthcare of 2047 will be substantially different from today. All ecosystem players will be impacted by these changes and will need to be prepared to embrace emerging trends and pivot their business models as appropriate.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/articleshow/97967033.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/articleshow/97967033.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/photo/96164744.cms",
+          "width": 2448,
+          "height": 1224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/amp_articleshow/97967033.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/what-will-indian-healthcare-look-like-in-2047-robotics-ai-biotech-will-shape-the-future/amp_articleshow/97967033.cms",
+      "publishedDateTime": "2023-02-15T21:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-02-16-revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.md",
       "title": "Revving up talent: Globe, AWS collaborate on Inter-University DeepRacer League",
       "excerpt": "Leading digital solutions platform Globe recently collaborated with Amazon Web Services (AWS) to host the inter-university AWS DeepRacer League for",
@@ -1173,59 +1217,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-four-ways-artificial-intelligence-can-benefit-robotic-surgery.md",
-      "title": "Four Ways Artificial Intelligence Can Benefit Robotic Surgery",
-      "excerpt": "Artificial intelligence (AI) meets us in our everyday lives ... care in a process that would significantly benefit both surgeons and patients. Surgical robotics is one of the next frontiers for optimizing AI. Following are four ways robotic surgery ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-artificial-intelligence-can-benefit-robotic-surgery/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-artificial-intelligence-can-benefit-robotic-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63eb81852fd74647f9226ab7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-artificial-intelligence-can-benefit-robotic-surgery/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/15/four-ways-artificial-intelligence-can-benefit-robotic-surgery/amp/",
-      "publishedDateTime": "2023-02-15T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

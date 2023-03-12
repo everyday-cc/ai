@@ -2,6 +2,49 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-12-29-developing-deep-learning-based-real-time-ultrasonic-hologram-generation-technology.md",
+      "title": "Developing deep learning based real-time ultrasonic hologram generation technology",
+      "excerpt": "DGIST Department of Electrical Engineering and Computer Science Professor Hwang Jae-yoon's team developed a deep learning-based ultrasound hologram generation framework technology that can freely configure the form of focused ultrasound in real time based on holograms.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-12-deep-based-real-time-ultrasonic-hologram.html",
+      "originalUrl": "https://techxplore.com/news/2022-12-deep-based-real-time-ultrasonic-hologram.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/dgist-professor-hwang.jpg",
+          "width": 1570,
+          "height": 1204,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-12-deep-based-real-time-ultrasonic-hologram.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-deep-based-real-time-ultrasonic-hologram.amp",
+      "publishedDateTime": "2022-12-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-29-the-buzz-and-traction-created-by-this-generative-artificial-intelligence-decoded.md",
       "title": "The Buzz And Traction Created By This Generative Artificial Intelligence Decoded",
       "excerpt": "A now viral tweet puts the magnitude of ChatGPT's success in context – it took Netflix 41 months, Facebook 10 ... a product of OpenAI, an artificial intelligence research and deployment company ...",
@@ -1005,58 +1048,6 @@
       "topics": [
         "AI",
         "AI in Security",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-25-the-vector-database-is-a-new-kind-of-database-for-the-ai-era.md",
-      "title": "The vector database is a new kind of database for the AI era",
-      "excerpt": "Vector databases offer a new level of capability to search unstructured, semi-structured and structured data alike.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/the-vector-database-is-a-new-kind-of-database-for-the-ai-era/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/the-vector-database-is-a-new-kind-of-database-for-the-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/the-vector-database-is-a-new-kind-of-database-for-the-ai-era/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/the-vector-database-is-a-new-kind-of-database-for-the-ai-era/amp/",
-      "publishedDateTime": "2022-12-24T17:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Facebook AI"
       ]
     }

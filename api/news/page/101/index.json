@@ -2,6 +2,49 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-12-09-high-vitamin-d-in-brain-associated-with-improved-cognitive-function-study.md",
+      "title": "High Vitamin D In Brain Associated With Improved Cognitive Function: Study",
+      "excerpt": "A group of researchers from the United States has completed the first investigation on vitamin D levels in brain tissue, specifically in adults with various rates of cognitive impairment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.onlymyhealth.com/high-vitamin-d-associated-with-improved-cognitive-function-1670591924",
+      "originalUrl": "https://www.onlymyhealth.com/high-vitamin-d-associated-with-improved-cognitive-function-1670591924",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.onlymyhealth.com/imported/images/2022/December/09_Dec_2022/main_vitamindandbrain.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.onlymyhealth.com/amp/high-vitamin-d-associated-with-improved-cognitive-function-1670591924",
+      "cdnAmpWebUrl": "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/high-vitamin-d-associated-with-improved-cognitive-function-1670591924",
+      "publishedDateTime": "2022-12-09T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Onlymyhealth",
+        "domain": "onlymyhealth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-neural-network-market-2023-detailed-analysis-of-industry-potential-growth-attractive-valuation-and-growth-forecast-up-to-2028.md",
       "title": "Neural Network Market 2023 : Detailed Analysis of Industry, Potential Growth, Attractive Valuation and Growth Forecast Up to 2028",
       "excerpt": "Pages Report] According to this latest study, the 2021 growth of Neural Network Market will have significant change from previous year. By the most conservative estimates of g",
@@ -1066,49 +1109,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-mysterious-object-found-on-florida-beach-is-likely-a-shipwreck-from-the-1800s-archeologists-say.md",
-      "title": "Mysterious Object Found on Florida Beach Is Likely a Shipwreck from the 1800s, Archeologists Say",
-      "excerpt": "Beachgoers came across the enormous object — which is believed to be 80 and 100 feet in length — on Daytona Beach Shores over Thanksgiving weekend, according to the Associated Press.",
-      "sourceUrl": null,
-      "webUrl": "https://people.com/human-interest/mysterious-object-found-florida-beach-likely-shipwreck-1800s-archeologists-say/",
-      "originalUrl": "https://people.com/human-interest/mysterious-object-found-florida-beach-likely-shipwreck-1800s-archeologists-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://people.com/thmb/PTqIWapyxuDtYFAMV_mOGFWr4gw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(689x224:691x226)/daytona-beach-shipwrech-120722-ce7b98a215af46bcbcb1b1b88f800320.jpg",
-          "width": 1500,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T14:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "People",
-        "domain": "people.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
