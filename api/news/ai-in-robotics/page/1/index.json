@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-12-will-ai-take-over-the-world.md",
+      "title": "Will AI Take Over The World?",
+      "excerpt": "As my limited vision can perceive, will attempt a classification that says there are at least two aspects of this megatrend – the risks that machines take over our (human) world (AI), and the risks that machine led worlds start to exist outside the human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/",
+      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640cf70c750aeccba86beda5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/amp/",
+      "publishedDateTime": "2023-03-11T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-the-hottest-party-in-generative-ai-is-productivity-apps.md",
       "title": "The hottest party in generative AI is productivity apps",
       "excerpt": "After years of wallflower AI status, business productivity apps are now the generative AI party where the cool kids hang out.",
@@ -458,6 +510,58 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-03-05-openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around.md",
+      "title": "OpenAI launches an API for ChatGPT, a startup attempts a humanoid robot, and Salesforce turns it around",
+      "excerpt": "Experts across climate, mobility, fintech, AI and machine learning ... Hydrogen powered: Startup Universal Hydrogen took to the air this week with the largest hydrogen fuel cell ever to fly.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/",
+      "originalUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1173441590.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/amp/",
+      "publishedDateTime": "2023-03-04T15:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1265,104 +1369,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai.md",
-      "title": "Deep Learning Robotics (DLR) Awarded New Patent for Revolutionary Technology in Robotics and AI",
-      "excerpt": "Deep Learning Robotics (DLR), a leading innovator in the field of robotics and artificial intelligence, announced at the AI Week in Tel-Aviv the grant of a new patent for",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30993121/deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30993121/deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30993121",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30993121",
-      "publishedDateTime": "2023-02-21T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-you-might-start-seeing-ai-chatbots-everywhere-thanks-to-the-gpt-effect.md",
-      "title": "You might start seeing AI chatbots everywhere, thanks to 'the GPT effect'",
-      "excerpt": "AI technology is being developed, for instance, in assisting with health care research, to fight cyberattacks, and to improve supply chain logistics. Using AI in this way can help \"if you want to experiment in a low cost way, without making a commitment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2",
-      "originalUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/63efcf6efeee2300187c7e43?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chat-gpt-effect-will-likely-mean-more-ai-chatbots-apps-2023-2?amp",
-      "publishedDateTime": "2023-02-20T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -24,6 +24,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Google is building a 1,000 language translation AI — it just took a big step forward"
+    excerpt: "One of those projects is an AI language model capable of supporting ... (opens in new tab) Google’s not the only company in the AI translation business right now, but the prospect of applying ..."
+    publishedDateTime: 2023-03-08T11:11:00Z
+    webUrl: "https://www.tomsguide.com/news/google-is-building-a-1000-language-translation-ai-it-just-took-a-big-step-forward"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 32
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YSjH7pWg4PvuzsEJUCqUHJ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "IhByheZ38Mq3+G7VsVfxm2rCZ9Scpqt/Vao2v3zlPyTA2VCEbjuWERGcHeOS0MJ/YUFwO9Ou7gv2fXcPM9uVmK1lxT5Az42+A/Z2kMgs9V22eP4acW3uyGeUiywbUksJVN39rxA12TmwmaQa0JjBeyC132nEjjm+wdjssQo2+KAAaR1YVinVI9pKQLWzdag+yJxAf6rCipi5ff1JjgDy5AYFRIGypSJz7YwaX3xrq44Vxt2d9xm2ji0ejmDF5WM12pV8LTqXyuwhOduElVbTOKIL5DE2V4mIoi4RowoaJO17KejmP/OeUmOdVTVQpVgZQ/McUlJ+FcIHzvrGLnZD8kvudyIavvfcraOkaF6c+tBmlCzQ4xSQU2GO4IN/jDvEO1Vkxi2CpI3RM+/mTuK16/rday8A8B4OZi/qvQ7zaMh82NjpyQ8LpLtDrGw1Yt1RNmLhXpvc7Uo10EVikgtkokR7TpHdbdN6zPpVMoFjKAS6MmKgFtebUYJJwQPif6zwjenjUOUGQ8BkV86KTJlopA==;n7k2TX6RLC7EsxizdPSRqA=="
 ---
 

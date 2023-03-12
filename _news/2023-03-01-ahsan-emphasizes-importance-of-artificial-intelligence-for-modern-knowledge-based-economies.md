@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://newsimage.radio.gov.pk/20230221/15145157131676972521.jpg"

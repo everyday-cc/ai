@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over
 ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/640cf70c750aeccba86beda5/0x0.jpg?format=jpg&width=1200"

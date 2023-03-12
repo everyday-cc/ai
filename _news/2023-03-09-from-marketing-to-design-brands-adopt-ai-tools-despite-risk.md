@@ -1,29 +1,29 @@
 ---
 category: news
 title: "From marketing to design, brands adopt AI tools despite risk"
-excerpt: "Even if you haven't tried artificial intelligence tools that can write essays and poems or conjure new images on command, chances are the companies that make your household products are already starting to do so."
-publishedDateTime: 2023-03-08T16:10:00Z
-originalUrl: "https://techxplore.com/news/2023-03-brands-ai-tools.html"
-webUrl: "https://techxplore.com/news/2023-03-brands-ai-tools.html"
-ampWebUrl: "https://techxplore.com/news/2023-03-brands-ai-tools.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-brands-ai-tools.amp"
+excerpt: "Even if you haven’t tried artificial intelligence tools that can write essays and poems or conjure new images on command, chances are the companies that make your household products are already starti"
+publishedDateTime: 2023-03-09T02:02:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376"
+webUrl: "https://abcnews.go.com/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
   - AI in Marketing
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/from-marketing-to-desi.jpg"
-    width: 2394
-    height: 1796
+  - url: "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -62,6 +62,6 @@ related:
       domain: marketscale.com
     quality: 17
 
-secured: "46gls3lg16GNbyM9cuTtNVaaMLdh1lhLjDY0e01Vsm1Xbm+NOtqaKgBFYlSQoJw8SvfVrsgviV/2bNuHmyHXjdgayccHlAHef1nG7PDPwdMz5j0lDdRW7I/bld4wcb7p3wU4cKpG5Kw+X/mic8s9edS1Y7YLkCFaiug9dLsw2WlfihdPcxEisI/7f6BCeAbmTZrEXLR5ALLnM7LkVz3bV7kncuaZxGu6gyflEr7kwzvfj8saG/R4ri5CeC71oBM8ruZBD35sXVIy+/qVExPYHWmWyc7EAfgfwotbRh8uW+GS8PYbeAC6o5R4ALKpaSvxI9Zc04tLuJWHpunYfayYjsdL6v2UycDYjiKxTJkGbNI=;47/6t2ZUKDhyDroxl+IUSQ=="
+secured: "OwyjwwangGlY1joehSXv/Rn5ToPC4v1cCz6RpzNYbSYmf4jHAFNGnZY0ZUEJ3yG2vwf8wIhu6gEF7dr4PNZ2A3dDyvgpSqfLRosv+UCj0s0GXl4OsxB+f3+Vnok2BdQaRqk9cfqtCGcfH/DP77IATAbWLNF0X8nvLnF3kK5htLCHACjIMFpQdn81fgh01un2nlFPJ7JCmj/NlDT8urynBxYHXG5wRVgJTBFnw7aQ1mhCfH+sRopM91yrdA9YNkI98wLi8HDI2qx5dXf8kQ/9dKQAHLQTutyawYOpBIeWILcDj6qb9XdOOzAtf38s7GyEYh4Yn8EIiWQoZLPcTGGAjKiqUmHU1fn24PPmiHxA76k=;HQBhTR7H7HxYMWz8TG47ag=="
 ---
 

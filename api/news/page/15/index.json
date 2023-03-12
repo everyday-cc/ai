@@ -2,6 +2,74 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-02-22-solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india.md",
+      "title": "Solar-powered driverless bus developed by LPU students utilizing resources available within India",
+      "excerpt": "With the evolution and advancement of technology such as artificial intelligence, Open CV, and the wide promotion of utilizing clean energy, our team looks forward to conceptualizing, redesigning, and developing a completely driverless, electric ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/",
+      "originalUrl": "https://www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/amp/",
+      "publishedDateTime": "2023-02-21T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-trust-stamp-announces-notice-of-allowance-for-us-patent-related-to-its-artificial-intelligence-ai-based-biometric-authentication-technology.md",
+      "title": "Trust Stamp Announces Notice of Allowance for U.S Patent Related to its Artificial Intelligence (AI) Based Biometric Authentication Technology",
+      "excerpt": "Atlanta, Feb. 21, 2023 (GLOBE NEWSWIRE) -- Trust Stamp (Nasdaq: IDAI), the Privacy-First Identity Company TM providing artificial intelligence (AI)-powered trust and ...",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/02/21/9763424.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/02/21/9763424.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-the-best-presidents-day-robot-vacuum-deals-you-can-still-get-in-2023.md",
       "title": "The best Presidents Day robot vacuum deals you can still get in 2023",
       "excerpt": "While this more affordable Jet Bot+ robot vacuum by Samsung doesn't feature 3D recognition with AI, it does have LiDAR sensor navigation ... app to control your appliance from your smartphone. Start cycles, check time remaining and more.",
@@ -983,100 +1051,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software.md",
-      "title": "Tesla Recall Hits Nearly 363,000 Cars With “Full Self-Driving” Software",
-      "excerpt": "Tesla is recalling almost 363,000 vehicles due to concerns about its Full Self-Driving Beta software The National Highway Traffic Safety Administration posted the recall notice on their website last Thursday Tesla will address the recall with an over-the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/20/tesla-recall-hits-nearly-363000-cars-with-full-self-driving-software-1/amp/",
-      "publishedDateTime": "2023-02-20T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-20-race-against-sonys-ai-in-gran-turismo-7-for-a-limited-time.md",
-      "title": "Race against Sony's AI in 'Gran Turismo 7' for a limited time",
-      "excerpt": "Gamers around the world will get their shot at racing Sony AI’s GT Sophy tomorrow, when the Gran Turismo 7 racing AI arrives for a limited time on Playstation 5..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/sony-ai-racing-gt-sophy-gran-turismo-7-limited-time-ps5-140054394.html",
-      "originalUrl": "https://www.engadget.com/sony-ai-racing-gt-sophy-gran-turismo-7-limited-time-ps5-140054394.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/nhHY_kEDkJ.mqOyNqRjbcg--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/31f1cea0-ae2f-11ed-a187-dafa10870a16.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/sony-ai-racing-gt-sophy-gran-turismo-7-limited-time-ps5-140054394.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/sony-ai-racing-gt-sophy-gran-turismo-7-limited-time-ps5-140054394.html",
-      "publishedDateTime": "2023-02-20T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

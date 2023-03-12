@@ -2,6 +2,110 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-02-14-buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai.md",
+      "title": "BuzzFeed launches Infinity Quizzes, creating personalized stories powered by OpenAI",
+      "excerpt": "Although the startup has really caught the eye ... henceforth dubbed ‘Buzzy The Robot,’ (official title: BuzzFeed’s AI Creative Assistant)” and quiz-takers themselves. “",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/",
+      "originalUrl": "https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/01/GettyImages-4805167311.jpg?resize=1200,812",
+          "width": 1200,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/14/buzzfeed-launches-infinity-quizzes-creating-personalized-stories-powered-by-openai/amp/",
+      "publishedDateTime": "2023-02-14T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-14-16-things-pop-culture-gets-wrong-about-artificial-intelligence.md",
+      "title": "16 Things Pop Culture Gets Wrong About Artificial Intelligence",
+      "excerpt": "And while they’re optimistic about the future capabilities of artificial intelligence, their projections pale in comparison to the sentient robots and super technologies often depicted on TV and movie screens and predicted in science fiction. In truth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63eaba767015a27b1139473b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/14/16-things-pop-culture-gets-wrong-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-02-14T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-14-ai-experts-professors-reveal-how-chatgpt-will-radically-alter-the-classroom-age-of-the-creator.md",
       "title": "AI experts, professors reveal how ChatGPT will radically alter the classroom: ‘Age of the creator’",
       "excerpt": "\"AI is going to push us into this new movement ... Despite the benefits, there are also concerns students and professionals should keep in mind. New York-based legal ethics lawyer David A. Lewis said that he had seen an increase in cases in which people ...",
@@ -1087,101 +1191,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century-robotics.md",
-      "title": "IDTechEx Discusses How Sensors Are Used to Achieve Safety and Accurate Control in the 21st-Century Robotics",
-      "excerpt": "BOSTON, Feb. 13, 2023 /PRNewswire/ -- With an increasing demand for automation in the 21 st century, robots have had rapid and unprecedented growth across many industries, including logistics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30873410/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30873410/idtechex-discusses-how-sensors-are-used-to-achieve-safety-and-accurate-control-in-the-21st-century",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30873410",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30873410",
-      "publishedDateTime": "2023-02-13T03:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-the-data-dilemma-four-common-barriers-to-ai-success.md",
-      "title": "The Data Dilemma: Four Common Barriers To AI Success",
-      "excerpt": "Given these potential benefits, I get asked by executives if there is a surefire way to achieve AI success. While there are steps that companies can take to best understand and us",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/13/the-data-dilemma-four-common-barriers-to-ai-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/13/the-data-dilemma-four-common-barriers-to-ai-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e646cde58e2f403421a4a0/0x0.jpg?format=jpg&crop=4544,2557,x0,y487,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/13/the-data-dilemma-four-common-barriers-to-ai-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/13/the-data-dilemma-four-common-barriers-to-ai-success/amp/",
-      "publishedDateTime": "2023-02-13T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

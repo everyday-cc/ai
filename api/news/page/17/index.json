@@ -2,6 +2,92 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-02-19-wiimote-controlled-rpi-robot.md",
+      "title": "Wiimote Controlled RPi Robot",
+      "excerpt": "The end goal is to have a robot that’s controlled by a Wiimote. The Wiimote communicates over Bluetooth with a Raspberry Pi, which is running a Python script. This script uses the CWiid Python ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2013/03/07/wiimote-controlled-rpi-robot/",
+      "originalUrl": "https://hackaday.com/2013/03/07/wiimote-controlled-rpi-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://hackaday.com/wp-content/uploads/2013/03/wiipi.png?w=580",
+          "width": 580,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-18T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-18-university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.md",
+      "title": "University of Alberta researchers eye artificial intelligence to weigh opioid risks",
+      "excerpt": "EDMONTON - Researchers in Alberta are experimenting with artificial intelligence to measure the risks of prescription opioids amid the ongoing drug",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html",
+      "originalUrl": "https://www.thestar.com/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestar.com/content/dam/thestar/life/health_wellness/2023/02/10/celebs-tout-ice-baths-but-science-on-benefits-is-lukewarm/20230210000212-63e5d2a6f4f61b813a06223fjpeg.jpg.size.custom.crop.640x360.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestar.com/amp/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html",
+      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/life/health_wellness/2023/02/18/university-of-alberta-researchers-eye-artificial-intelligence-to-weigh-opioid-risks.html",
+      "publishedDateTime": "2023-02-18T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-amd-is-losing-the-ai-battle-and-its-time-it-started-to-worry.md",
       "title": "AMD is losing the AI battle, and it’s time it started to worry",
       "excerpt": "However, even AMD’s best card was miles behind Nvidia in these benchmarks, showing that Nvidia is simply faster and better at tackling AI-related tasks. Nvidia cards are the go-to for professionals in need of a GPU for AI or machine learning workloads.",
@@ -1099,101 +1185,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-inside-the-studio-with-an-ai-guided-painting-robot.md",
-      "title": "Inside the Studio With an AI-Guided Painting Robot",
-      "excerpt": "To help illustrate our cover story on how the AI arms race is changing the world, we reached out to award-winning AI artist Pindar Van Arman, who uses artificial intelligence to create his art. Van Arman, who built his first “painting robot” 15 years ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6256108/artificial-intelligence-artist/",
-      "originalUrl": "https://time.com/6256108/artificial-intelligence-artist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-gfai-stock-alert-guardforce-ai-officially-acquires-keweis-robotics-assets.md",
-      "title": "GFAI Stock Alert: Guardforce AI Officially Acquires Kewei’s Robotics Assets",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The artificial intelligence (AI) world received an exciting update this week.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gfai-stock-alert-guardforce-ai-officially-acquires-keweis-robotics-assets-1032106638",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/gfai-stock-alert-guardforce-ai-officially-acquires-keweis-robotics-assets-1032106638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-17T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

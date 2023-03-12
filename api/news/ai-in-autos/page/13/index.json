@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-12-13-roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.md",
+      "title": "RoadRunner uses artificial intelligence to revamp waste processing",
+      "excerpt": "CNBC's Diana Olick joins 'Power Lunch' to discuss a clean energy startup making moves to change recycling methods, the logistical considerations involved in waste management, and the value of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2022/12/12/roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.html",
+      "originalUrl": "https://www.cnbc.com/video/2022/12/12/roadrunner-uses-artificial-intelligence-to-revamp-waste-processing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107164843-16708745101670874507-27115159683-1080pnbcnews.jpg?v=1670875361&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-13-commercial-artificial-intelligence-market-2022-latest-innovations-future-technology-driving-factors-demand-over-the-worldwide-to-2028.md",
       "title": "Commercial Artificial Intelligence Market 2022 – Latest Innovations, Future Technology, Driving Factors & Demand over the Worldwide to 2028",
       "excerpt": "The Commercial Artificial Intelligence Market Report Included Analysis by Key Players - IBM, Google, Microsoft, AWS, General Vision & More. Pune, Maharashtra -- -- 12/12/2022 -- C",
@@ -1317,49 +1369,6 @@
       "provider": {
         "name": "Variety",
         "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-08-uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers.md",
-      "title": "Uber Robotaxis Come to Las Vegas, but the Driverless Vehicles Still Have Drivers",
-      "excerpt": "“Motional and Uber are launching with vehicle operators now to lay the groundwork for a fully driverless commercial service, with the goal of launching the driverless service to the public in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/12/08/b0ef8db20ef428b9da8cabf6b58d1d4d.png?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/12/uber-robotaxis-come-to-las-vegas-but-the-driverless-vehicles-still-have-drivers/amp/",
-      "publishedDateTime": "2022-12-07T20:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
         "images": null,
         "publishers": null,
         "authors": null

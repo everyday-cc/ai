@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-01-17-artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says.md",
+      "title": "Artificial intelligence could be a 'real threat' to 'a lot of jobs,' computer expert says",
+      "excerpt": "WEST PALM BEACH, Fla. — Artificial intelligence. You are going to begin hearing a lot more about it. AI, as it is called, is coming to your home, your job, your life in ways you never thought ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wptv.com/news/technology/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says",
+      "originalUrl": "https://www.wptv.com/news/technology/artificial-intelligence-could-be-a-real-threat-to-a-lot-of-jobs-computer-expert-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPTV-TV",
+        "domain": "wptv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-the-advantages-of-artificial-intelligence-ai.md",
       "title": "The advantages of artificial intelligence (AI)",
       "excerpt": "DURING the last two months or so, there has been much discussion around the world regarding the potential benefits and threats in the fast development in recent years of",
@@ -1316,58 +1350,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-artificial-intelligence-in-small-and-medium-business-market-top-factors-responsible-for-the-rapid-growth-in-the-coming-years-2028.md",
-      "title": "Artificial Intelligence In Small And Medium Business Market | Top Factors Responsible for the Rapid Growth in the Coming Years 2028",
-      "excerpt": "Final Report will add the analysis of the impact of Russia-Ukraine War and COVID-19 on this Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-top-factors-responsible-for-the-rapid-growth-in-the-coming-years-2028-2023-01-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-top-factors-responsible-for-the-rapid-growth-in-the-coming-years-2028-2023-01-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T19:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

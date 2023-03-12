@@ -2,6 +2,109 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-02-04-t-mobile-sets-industry-leading-2040-net-zero-commitment.md",
+      "title": "T-Mobile Sets Industry-Leading 2040 Net-Zero Commitment",
+      "excerpt": "Vice President and Principal Analyst, Melody Brue, dives into T-Mobile's announcement to achieve net-zero emissions across the company's entire carbon footprint by 2040.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/02/03/t-mobile-sets-industry-leading-2040-net-zero-commitment/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/02/03/t-mobile-sets-industry-leading-2040-net-zero-commitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63dd47ce21711884479afecc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/02/03/t-mobile-sets-industry-leading-2040-net-zero-commitment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/03/t-mobile-sets-industry-leading-2040-net-zero-commitment/amp/",
+      "publishedDateTime": "2023-02-03T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-04-replika-a-virtual-friendship-ai-chatbot-hit-with-data-ban-in-italy-over-child-safety.md",
+      "title": "Replika, a ‘virtual friendship’ AI chatbot, hit with data ban in Italy over child safety",
+      "excerpt": "AI chatbot maker Replika has been ordered to stop processing user data in Italy over child safety and data protection concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/03/replika-italy-data-processing-ban/",
+      "originalUrl": "https://techcrunch.com/2023/02/03/replika-italy-data-processing-ban/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/04/child-tablet-touch-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/03/replika-italy-data-processing-ban/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/03/replika-italy-data-processing-ban/amp/",
+      "publishedDateTime": "2023-02-03T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-google-invests-300mn-in-artificial-intelligence-start-up-anthropic.md",
       "title": "Google invests $300mn in artificial intelligence start-up Anthropic",
       "excerpt": "Cash-for-computing deal shows how large tech groups are investing in companies at the vanguard of generative AI",
@@ -1027,103 +1130,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.md",
-      "title": "Quad agrees to leverage machine learning, related advanced technologies to enhance cyber security",
-      "excerpt": "In the longer term, the Group committed to leverage machine learning and related advanced ... chain methodology will encourage major software services, products, and providers leveraged by ...",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-97565750,imgsize-156698,width-1200,height-628,overlay-ettelecom/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/quad-agrees-to-leverage-machine-learning-related-advanced-technologies-to-enhance-cyber-security/97565750",
-      "publishedDateTime": "2023-02-02T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-02-03-google-ceo-promises-new-ai-features-are-coming-to-search-very-soon-amid-competition-from-chatgpt.md",
-      "title": "Google CEO promises new AI features are coming to search 'very soon' amid competition from ChatGPT",
-      "excerpt": "“AI is the most profound technology we are working on today ... and thus was moving “more conservatively than a small startup.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/02/google-ceo-talks-up-ai-on-earnings-call-as-chatgpt-competition-mounts.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/02/google-ceo-talks-up-ai-on-earnings-call-as-chatgpt-competition-mounts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106629916-1595528838886-gettyimages-1195292757-AFP_1O5272.jpeg?v=1675387277",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/02/google-ceo-talks-up-ai-on-earnings-call-as-chatgpt-competition-mounts.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/02/google-ceo-talks-up-ai-on-earnings-call-as-chatgpt-competition-mounts.html",
-      "publishedDateTime": "2023-02-02T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],
