@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-08T15:20:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31260981/gamers-say-they-love-voice-chat-but-49-have-been-victims-of-toxic-behavior-new-report"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/n31260981/gamers-say-they-love-voice-chat-but-49-have-been-victims-of-toxic-behavior-new-report"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -14,6 +17,24 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Voice chat is the worst for toxicity, but 2/3 of gamers never report it | Speechly"
+    excerpt: "Voice chat is the preferred way to communicate in social games, but it's also the most toxic medium, based on a survey by Speechly."
+    publishedDateTime: 2023-03-08T21:30:00Z
+    webUrl: "https://venturebeat.com/games/voice-chat-is-the-worst-for-toxicity-but-2-3-of-gamers-never-report-it-speechly/"
+    ampWebUrl: "https://venturebeat.com/games/voice-chat-is-the-worst-for-toxicity-but-2-3-of-gamers-never-report-it-speechly/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/voice-chat-is-the-worst-for-toxicity-but-2-3-of-gamers-never-report-it-speechly/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 68
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/speech-VB_Toxic-Behavior-by-Game-Engagement-Channel.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "hgOpt/5v5fstf7Rc/bai+ohfPiqyzddgoAVepBt7q/4KqpmnWJ0N9yLhQs8+J56U9h96TV9ouj2lhGu2JKpk3GqGo03gUf0EbY6YpGc9BAjauUAM9xKwUd9oFBSNtSYOuDv8BQgi8I8gU48n2XC1fG6JiR4ByD25Jn/0K25C+Zr07cAEnoaSBds+voa6yb8xtQCdm7Hkzk0H+63h3GsJ5HsKojio/V/OJKPbkmlunRTpYmlWR7kL1tV3Oxd6aSkms5w7vJS0Be3nOc6GHIBgZyJa6uT8Xu9lGmh0M+CMOq4W5RmXG5MEIzOdqZVk/IFb9FRPeNjbaF0VkE1eG1HGUNQIEsDuhY5j298pl8pmV8E=;EI0OHW3YzuX002eE6entew=="
 ---

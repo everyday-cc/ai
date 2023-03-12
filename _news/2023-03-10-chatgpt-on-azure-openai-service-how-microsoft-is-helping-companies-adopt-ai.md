@@ -199,6 +199,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
+  - title: "Microsoft Plans to Launch ChatGPT Via Azure"
+    excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
+    publishedDateTime: 2023-03-12T09:34:00Z
+    webUrl: "https://techreport.com/news/3493353/microsoft-plans-to-launch-chatgpt-via-azure/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
 
 secured: "3ZTrqVqgnk2TWXPX/WO1BgHgnDgeefw7MGzozbKOSkSX8rtahlue7RSw8HwjQJZT7r7hQ/OQJr9jmQU8UY05+ZFRtFzqE2+ye8+N+lXBhJeDVa3NSJNn+jE0leKiaX2WPJatLg+957rhONE6hrAzmWrxW8fn/D3hFyTKjpgG1F+4PKvjcsfsugA4+bgQ9+Xq8w8FWSbcFzcpTTiDqHOgSwKB3UWW+GlwnI1GFTcn0DrJTEIao1UdxxqGaruPrIGjkTjQrDcr2mhNwzTpPezZTLeu8LO6Ppe9viQC3GaOtFh0L1e8aobWDz+gzx+Yjn5u9FTko4l1GY7aHtvrZc6pl9M80ZX04K4GmYcuqaZuTefgiC91PJEQEZAdRHi0jCWkZpVEg7EveQ7UfUD5xmNO7rdNcn3JB+W+H+CL1WtA8oRgZm9V9OoCfZp6aQzv5nxqbKSKJ9gR/fkMHRXhpDNKy76HHhU4y9x++xIt1g2yIylk/2nawAcXBz5TXsi9sBojnAZgrNi/ey23HM7DgwS4rQ==;731YH543bCjP9pAkVBFWrA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/microsoft-365-will-soon-have-an-accessi
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 209
+published: true
 
 provider:
   name: Engadget
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia GTC attendees get an exclusive look at Microsoft’s AI tech"
-    excerpt: "Add these Microsoft sessions at GTC to your conference schedule to learn about the latest Azure AI infrastructure and use cases."
-    publishedDateTime: 2023-03-07T22:45:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/"
-    ampWebUrl: "https://venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-gtc-attendees-get-an-exclusive-look-at-microsofts-ai-tech/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_432173706.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tomahawk Robotics Adds KxM to the Microsoft Azure Marketplace"
     excerpt: "The KxM provides users with a ruggedized platform to ingest large amounts of data for high-speed body-worn computation at the tactical edge, reduce cognitive load, and fuse raw intelligence data to enable real-time decision-making."
     publishedDateTime: 2023-03-09T17:33:00Z
@@ -119,6 +103,36 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "The Instabase Platform Now Available in Microsoft Azure Marketplace"
+    excerpt: "Instabase, a leader in applied AI for the enterprise, has announced the availability of its platform in the Microsoft"
+    publishedDateTime: 2023-03-10T16:36:00Z
+    webUrl: "https://www.datanami.com/this-just-in/the-instabase-platform-now-available-in-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 69
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft Translator launches 13 new African languages"
+    excerpt: "Microsoft said Translator aims to break the language barrier between people and cultures all over the world. There are 13 new African languages added to Microsoft Azure Cognitive Services Translator."
+    publishedDateTime: 2023-03-09T14:47:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-translator-launches-13-new-african-languages/"
+    ampWebUrl: "https://amp.citizen.co.za/lifestyle/technology/microsoft-translator-launches-13-new-african-languages/"
+    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/technology/microsoft-translator-launches-13-new-african-languages/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 59
+    images:
+      - url: "https://media.citizen.co.za/wp-content/uploads/2023/03/09154046/Microsoft-Translator.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Key Reveals from Microsoft Azure Open-Source Day 2023"
     excerpt: "Microsoft held Azure Open Source Day to showcase its dedication to open source and emphasize the potential of open source tools in creating intelligent applications with increased speed and flexibility."
     publishedDateTime: 2023-03-09T06:43:00Z
@@ -142,15 +156,43 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
-  - title: "Microsoft Plans to Launch ChatGPT Via Azure"
-    excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
-    publishedDateTime: 2023-03-12T09:34:00Z
-    webUrl: "https://techreport.com/news/3493353/microsoft-plans-to-launch-chatgpt-via-azure/"
+  - title: "Microsoft is harnessing the power of the cloud to make the promise of quantum at scale a reality"
+    excerpt: "Microsoft announced a significant quantum advancement and made our new Integrated Hybrid feature in Azure Quantum available to the public."
+    publishedDateTime: 2023-03-08T17:00:00Z
+    webUrl: "https://cloudblogs.microsoft.com/quantum/2023/03/08/microsoft-is-harnessing-the-power-of-the-cloud-to-make-the-promise-of-quantum-at-scale-a-reality/"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 34
+      name: Microsoft
+      domain: microsoft.com
+    quality: 26
+    images:
+      - url: "https://cloudblogs.microsoft.com/quantum/wp-content/uploads/sites/7/2023/03/230307_IntegratedHybrid_Hero_1920x1080.png"
+        width: 2400
+        height: 1351
+        isCached: true
+  - title: "Microsoft Azure Customers Can Now Access SolarWinds Observability Through the Azure Marketplace"
+    excerpt: "SolarWinds, a provider of powerful and secure IT management software, announced SolarWinds Observability is now available on the Microsoft Azure Marketplace, empowering SolarWinds customers to take advantage of the Azure cloud platform."
+    publishedDateTime: 2023-03-10T19:00:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Microsoft-Azure-Customers-Can-Now-Access-SolarWinds-Observability-Through-the-Azure-Marketplace-157567.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 22
+  - title: "Microsoft’s Annual Ability Summit: Exploring the technology, people, partnerships and policies driving a more accessible future"
+    excerpt: "Today, we kick off the 13th annual Microsoft Ability Summit, a day dedicated to the conversations that will advance the future of accessibility and disability inclusion. And there’s a lot to talk about this year!"
+    publishedDateTime: 2023-03-08T22:54:00Z
+    webUrl: "https://blogs.microsoft.com/on-the-issues/2023/03/08/accessibility-annual-ability-summit-people-partnership-policy/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 11
+    images:
+      - url: "https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2023/03/access-web-1024x683.jpeg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "NLscKGw81R273KC+faPTfdzzhIHqroYql3pNpWVO7lQJ3JUETKcg4t6mhi4Jhp+rvGIQRLQFD0EgQgXCTlI6IUnVT8GUUv/nFQfJRwLie+96kccBAv4Q5C0dDjCjW5rC6/NmTt0uMpS8+FDF4F5EuaWizLDHp02T4pcgu7WBpCKN79/jxDl9iRHU0Rp473anWw7QJxX6UVOc0XoD88TuoSYRDevieg933bcDN+2AHqBQjA1E5IYVElKfO4j3IGV6SbTkoyS7Fd+XDE3yU3OChk8295pwGBjy614uxd0iYm6opHlB+gX4mdZXOelPTaI8HIUY3Dca/Nc7j8dB7G96HBe5tUBFpLVZY++U0uoc+yPjYUs8iO/aiEW+vzXgW/JVY/W58QHhGv88r0L7r89GM5UKVgHRiqHGbrkhuXej/mey+ch0dqgaDGNjEYHSEoBJ4PHduK9us25MqzFebcTnzXMR/anMX+kRj72CjD31ClbGp2EveLftgjXiu5vHSg8t2Xa7I0vcRGwHTP/sAFmckg==;3OSj0U/+CpJemKZzyb5ndA=="
 ---

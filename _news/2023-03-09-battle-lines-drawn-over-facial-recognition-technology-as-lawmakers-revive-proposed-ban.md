@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tlaib and others introduce bill to ban facial recognition technology"
-    excerpt: "Democratic lawmakers on Tuesday reintroduced legislation in the U.S. House and Senate that would ban facial recognition technology on the federal level and withhold money from state and local police departments that continue to use it."
-    publishedDateTime: 2023-03-07T20:49:00Z
-    webUrl: "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268"
-    ampWebUrl: "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268?media=AMP+HTML"
-    cdnAmpWebUrl: "https://www-metrotimes-com.cdn.ampproject.org/c/s/www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268?media=AMP+HTML"
-    type: article
-    provider:
-      name: Metro Times
-      domain: metrotimes.com
-    quality: 74
-    images:
-      - url: "https://media2.metrotimes.com/metrotimes/imager/u/original/32553594/facial_recognition_photo_neavling.jpg"
-        width: 4032
-        height: 3024
-        isCached: true
   - title: "Democrats Band Together to Try Yet Another Federal Facial Recognition Ban"
     excerpt: "A new Congressional bill, supported by 16 senators, would ban facial recognition and biometric tech for federal officials. But proposed federal facial recognition bans are a lot like hot new restaurants in New York."
     publishedDateTime: 2023-03-08T21:53:00Z
@@ -56,31 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "US Lawmakers Reintroduce Facial Recognition and Biometric Technology Moratorium Act"
-    excerpt: "Looking for the latest Government Contracting News? Read about US Lawmakers Reintroduce Facial Recognition and Biometric Technology Moratorium Act."
-    publishedDateTime: 2023-03-08T22:19:00Z
-    webUrl: "https://executivegov.com/2023/03/lawmakers-reintroduce-facial-recognition-and-biometric-technology-moratorium-act/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 35
-    images:
-      - url: "https://em-graphics.s3.us-west-2.amazonaws.com/archintel-media/818a06d0-1502-40fe-ba97-14117ad3e92e.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "California bill would regulate police use of facial recognition technology in body cams"
-    excerpt: "Assemblyman Phil Ting (D-San Francisco) has introduced a new bill to set parameters for how and when California law enforcement officers can use facial recognition technology in body cameras."
-    publishedDateTime: 2023-03-09T14:17:00Z
-    webUrl: "https://www.ktvu.com/news/california-bill-would-regulate-police-use-of-facial-recognition-technology-in-body-cams"
-    ampWebUrl: "https://www.ktvu.com/news/california-bill-would-regulate-police-use-of-facial-recognition-technology-in-body-cams.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/california-bill-would-regulate-police-use-of-facial-recognition-technology-in-body-cams.amp"
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 31
 
 secured: "H06dTqv+J46S6M7Ba+3ZcjHKqplfK5xFPkuebZ2llDIhkIFYL4On2jpag1Bl642tXzHdb6nA7Ch9xRzL1yVurwLz8OYxeqXk91DdWOefKevBbVYlJ5AeRMs4UK+xtDEn0sNtugjUDj2lKJCknSQ/evTU21bmpBGiP6Xs+UiUEjPHlEFE1ostpNq6u5ouoDdDRwlUN6a7f91rEfbvSlO2JDX2lEljr8xE01Zlmx6TrS8lKJAnJ0YoUFQV3TXXtWUhYOI2i1GSr+Ggq0Sdls/ad1QrHKaVp24Pmwun8ZwUa2+ngWJfy8mYX3E9v+Fr5kQ/vl2gS4MOodotM/7ik5qJ7IjvXGQ2e928C2mwO7gShVU=;D8ha/rX/hPkn0KnzS4Cf3Q=="
 ---

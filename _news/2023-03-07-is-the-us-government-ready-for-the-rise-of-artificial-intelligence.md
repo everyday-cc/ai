@@ -3,8 +3,10 @@ category: news
 title: "Is the US government ready for the rise of artificial intelligence?"
 excerpt: "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding"
 publishedDateTime: 2023-03-07T14:20:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
-webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?bingParse"
+webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?bingParse"
+ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
 type: article
 
 provider:
@@ -19,6 +21,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "CQZ0YlyK8UJZmLT/vI3n3JrRSUbrxnd/74jtdVTzl83fPza3/nCPfD06+MW5H1HnrwjSiDlDsu0HyySeitERkE0mtWoRaUZYdFRr7kU2IiJTmJGp3GQbXh51UH8z14oYdduUaXagod51hwlvurTV1RzW3X9ndIjAdK02MNORtwQlCe7JaRjMpowmFxDMrlVDFvhKN+seBjPGVlbZD+qsTttvqAxw6xah9zN+e0m9EXSvqH2mcnyUagjeD8l08tFlE/pOr5HaSTpOmBxZJru7A4np1WS7nbTmgj0s0pCrrloLpHxZ3fiCCxgPkKQm4jpE2ER5dvcVj7+/ltbjzdm0r0AAhjLcs6i7sqH8KJg03JFmUOZbuZ8uHZo3k76kXeOm3RQzYOXxhiS1o/nRcIm0GWOExUaIljszhXLPnjIu+TMD+8nBZ3TGArQc0WrN8lFzh+1tHeN0bdCngVMqcBDBQfjrLPMsJa67B1a7SP0KArJRt5he787n8yixxGtUXx/8sNEOKIsDxGheqt23f8jJZA==;qRxSKqukl15EzrC8cNAg0g=="
+images:
+  - url: "https://i.guim.co.uk/img/media/ebc4df75b728a3e25fbf863375da820aee1b1b34/0_115_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=d5c20814aa6b6aaa53696c96662f86cf"
+    width: 620
+    height: 372
+    isCached: true
+
+secured: "RP9BmQbk5NagW199SFHOFSSARbFiw/lvIldbHyDYzTu1Iyo8Q7kQVLPAcGAFVgoOWgI3doLFwvDo6U5kGPCEhKdzN9+9gB0jp5mrV2gI8yVGXbx2Sy1D9NaBv3D8AwZrjbGl80Yf8GL27f91hdmkLbqd2MnTU3P375lt/P69IoZaNUmcNrrqjzzX2hLyaK86TtRWWRqS81M2y8sjUSR1r06PGV+LpK3Cq7D9OU+JtTR8gnQw2izEip9Tmok5iDqQUynyO5MBFssPco3FVmxLr9HGc7SIADYnuXLf020xO1xPXI2M+OT51b9ibidwkfCgnaOi1wSzbnhLnepaiTl9jkVr5F2Hz+U42amBtv6vpDk=;vdsVuxYRd16VT3rFcAyWIg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure
 webUrl: "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/"
 type: article
 quality: 104
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -203,6 +203,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
+  - title: "Microsoft Plans to Launch ChatGPT Via Azure"
+    excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
+    publishedDateTime: 2023-03-12T09:34:00Z
+    webUrl: "https://techreport.com/news/3493353/microsoft-plans-to-launch-chatgpt-via-azure/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
 
 secured: "RmoE8oAdyXk+bAtNOrbm1ylViymRJoDwOzpdA/8O7PwbG1QNcG5MDx0bWKXEHsXl+PLza4K6UsmHJu45A39aqovm7r1hctif0tGXJ7lGAfFyuzvvFoAgdlimnDKEEwidDwTAnoRd1ult3JDSfIDwVkuNSLykby1OUjHqlSGHaFFi0Fh+fbxvg+meZGJy4+Wls21J4coQaDkXVu4Tl2BQPwH+9OAfpxzFLYhw/1xvMVvFj+Dp/Epe/rJEr03WNvBsM4vBAKV1P31/4gfm1ywbzN2iErkcHKlWRSdH69Zg94H6UPfmfcYzFl32TW8WnLGtelu4xuQjictoWO1cVmtl9567oTJI6Opv8d+xLieO7CU=;8QdVhm+J3A9gJojCa0JysQ=="
 ---

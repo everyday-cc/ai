@@ -1,15 +1,15 @@
 ---
 category: news
 title: "How AI and Machine Learning are revolutionising Business Intelligence"
-excerpt: "This is where Artificial Intelligence (AI) and Machine Learning (ML) come in – they can help businesses to sift through the data noise and extract actionable insights.With the aid of automation, the most recent developments in artificial intelligence ..."
-publishedDateTime: 2023-03-12T10:13:00Z
-originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/"
-webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/"
-ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/"
-cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/"
+excerpt: "In the modern business landscape, data is king. Companies of all sizes and industries rely on data to make informed decisions that drive their success. However, with the sheer amount of data available today,"
+publishedDateTime: 2023-03-12T11:59:00Z
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/?source=app&frmapp=yes"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/?source=app&frmapp=yes"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/?source=app&frmapp=yes"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/?source=app&frmapp=yes"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,7 +41,23 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Weekend AI News Roundup: AI in BPOs, Chinese students accessing ChatGPT, Inker Robotics secures million dollar funding, more"
+    excerpt: "The companies recognise this. The ubiquitousness of AI will therefore force a rethink for business process outsourcing companies on their staff composition. Kerala-based Inker Robotics, under the Kerala StartUp Mission, which deals with research and ..."
+    publishedDateTime: 2023-03-12T14:40:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 62
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/02/artificial-intelligence-rep.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "PHqIrWoKU8RnhMXt1enlMDH/AfMSBw7wKfsLDCcDU89xSqeZcFZq5OXPIqONdMT0tmG3bOaWv3+Or4w7Oo/EI3WjJUu3tZVlkOH/W19PocAS6hsHVPYp5zhEl0u+QXKeZLgr2zPM2u3Ou74d0Pbdopb95XpdKlLBHIMEcrpKNvU/dNeutFVU3WfiZcHQBzEr6VTcNd1OYN1BlTTjBhVEFFJhyeGoR2RbanXnXYXlhZAjSp6z2497ScEjHaEZEDxO5z19f9C769d2pazMVwoeQScphhuptGzVDD6hyqoBLnbK+NUN5xbIyo7QJiwxujXAQOJd/tRuZ+XODsPof9JSYh+bfNbNGmFKcgh7PrmxFvg=;2dedwZ0PXhr5Q6HWkS5c/w=="
+secured: "rJFP6S+78+ZHm6TLbQ+52D6//79jKeuIu4IfqExD+gGDt/6b9DIUVICpmcuKFpCSzLBsHNei4NYGmX7ztPLpYfz4ohz2yFJM9puW2aqaXBNIL/f6ZWgcDNtkeEprRbg97XYQm7bxLN+IhykthXf1KESTWd5MtKAiiq7s/d/PDrRsPsz8B05n6pl4NFqYQ5Z6wT7HaRn4KiO7Zr35887nSc8jEIy9AUyWQLPnKT9ec8zYAEUHIXimx7P+MMFIibrn8+wOS2tg1N9a2HIt1pnZd6PFmiAV0WRwEqUmesHI1lta8pQjJm+L1BFEJD3E8Av/uq/nVRVSlcXbCOkx1Wtz+oTtIyoPO6ywhgdMLxbNezQ=;7r4bsTVJ8ANA0H6THK1tig=="
 ---
 

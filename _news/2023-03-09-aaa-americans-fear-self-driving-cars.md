@@ -25,43 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "The FBI Tested Facial Recognition Software on Americans for Years, New Documents Show"
-    excerpt: "Newly unearthed papers show federal agencies testing facial recognition tools in subway cameras, street corners, and other public spaces."
-    publishedDateTime: 2023-03-07T23:05:00Z
-    webUrl: "https://gizmodo.com/fbi-facial-recognition-janus-horus-1850198100"
+  - title: "Politics Podcast: Few Americans Think AI Will Do More Good Than Harm"
+    excerpt: "In this installment of the FiveThirtyEight Politics podcast, Galen Druke and Nate Silver open up the mailbag and answer listener questions about politics and"
+    publishedDateTime: 2023-03-09T20:28:00Z
+    webUrl: "https://fivethirtyeight.com/features/politics-podcast-few-americans-think-ai-will-do-more-good-than-harm/"
+    ampWebUrl: "https://fivethirtyeight.com/features/politics-podcast-few-americans-think-ai-will-do-more-good-than-harm/amp/"
+    cdnAmpWebUrl: "https://fivethirtyeight-com.cdn.ampproject.org/c/s/fivethirtyeight.com/features/politics-podcast-few-americans-think-ai-will-do-more-good-than-harm/amp/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
+      name: FiveThirtyEight
+      domain: fivethirtyeight.com
+    quality: 57
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/79ec64a30d63f24140ff3e737042473a.jpg"
-        width: 1200
-        height: 675
+      - url: "https://fivethirtyeight.com/wp-content/uploads/2016/01/electionspodcast-02.png?w=712"
+        width: 712
+        height: 534
         isCached: true
-  - title: "The FBI, DoD and the shock of (facial) recognition"
-    excerpt: "In Beijing, some street corners have dozens of cameras to track citizens. Moscow has facial recognition payment systems at metro stations. London police use that software to “tackle serious ..."
-    publishedDateTime: 2023-03-07T21:04:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/03/07/the-fbi-dod-and-the-shock-of-facial-recognition-00085944"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 24
-    images:
-      - url: "https://static.politico.com/f9/60/0d431c7f487aa74c6fdc0b8454fb/https-delivery.gettyimages.com/downloads/1235349376"
-        width: 6000
-        height: 4000
-        isCached: true
-  - title: "FBI, Pentagon helped research facial recognition for street cameras, drones"
-    excerpt: "The FBI and the Defense Department were actively involved in research and development of facial recognition software that they hoped could be used to identify people from video footage captured by ..."
-    publishedDateTime: 2023-03-09T23:10:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/07/facial-recognition-fbi-dod-research-aclu/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 17
 
 secured: "U9HAumSlPZv8NRwITdA4JywTh6B/TNn4fozjKIewakk9gPgRWzpMyHUsLiTByS8klo2OxWPUMf4GAkwjl+2GmowNwXPjQHvLyHWY1H/aebWTafmQQwyPLiyECFbctCF9W8XJOYKW2OBD6Ow16FVIyham+IOKnYDeBD1XggGVsDf4xVspp33p0QwEo5je3FTQRWHZxxAu3fsusLOAZwJHnAla7qFGxfuNbeZDjpmU5fYfSQIQrHmNElj5ZA++VUGaWUVIvH6nbeX/DCN6FUcghNUGAuhRYS+RRWZoMV23GxqCC33LoicfssA3JkzXJDs4fggEan9lxgonzUaqtwDFf8ZACbOk2Y/Etzs1iIHdSHHm5nKwIE3/lets/b+Y7b0cIVZoxfLU1Sj8Bws72Vvy1WlNG97S52oSeB2LwHwLdh0WRimTlzu8mgLZVn+BBi9SfZGlqz6v5VQAst6P+qR2CYe1JSIjkOV4NzT9aG8hfT2Ikgvge3V2miecl2iVMjPavHQrXDojgVfpaHMYddTLPQ==;nP+zOl5rsshvnKrMozFahg=="
 ---

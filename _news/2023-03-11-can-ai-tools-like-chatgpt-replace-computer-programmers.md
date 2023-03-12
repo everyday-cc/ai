@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgp
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

@@ -197,6 +197,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Systems in Healthcare Market Application, Product, Sales and Forecast 2023-2028"
+    excerpt: "The \"Artificial Intelligence Systems in Healthcare Market\" study describes how the technology industry is evolving and"
+    publishedDateTime: 2023-03-09T23:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
   - title: "Level 3 Autonomous Vehicle Market Application, Product, Sales and Forecast 2023-2028"
     excerpt: "The \"Level 3 Autonomous Vehicle Market\" Study Describes how the technology industry is evolving and how major and"
     publishedDateTime: 2023-03-09T00:26:00Z
@@ -206,20 +215,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Technology Market Size, Share and Forecast 2029 with Top Countries Data"
-    excerpt: "The \"Face Recognition Technology Market\" study describes how the technology industry is evolving and how major and"
-    publishedDateTime: 2023-03-07T23:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-size-share-and-forecast-2029-with-top-countries-data-2023-03-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

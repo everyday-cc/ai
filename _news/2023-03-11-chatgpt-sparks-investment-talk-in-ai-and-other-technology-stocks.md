@@ -198,6 +198,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Microsoft Plans to Launch ChatGPT Via Azure"
+    excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
+    publishedDateTime: 2023-03-12T09:34:00Z
+    webUrl: "https://techreport.com/news/3493353/microsoft-plans-to-launch-chatgpt-via-azure/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
 
 secured: "O6DhC0phBWj5ew5jJ7/cHnKAvBxDFyWLroe4YnLnksF5G7RQh+kyfhOuKeaoJnDxkRXu+FEZNJhJRyqLQk7O6KxjJ3Lw8+CoNDm72B5hZQgYthfMaYKrOAE18w7pNkwiv0IlbNyTnUX7qWQE+yaLmeEmkBSqstR/CgYpGmuf0YYBYjcBmLf3NUOSShzTRlaiuriw6O+kYQbdKrXnH/++mZhjB/cgf5cuWYnL4dR3iSZYheS7trxHYAo9hCMf0MO9xSjaZREYtbpHF7KSIbgzsM2IjAB1yu1KZuF8qNGs4uk0HNZeDDIKNj+SR6YGip6sImgR94wiP2GteFaZkilSfWcP6MGp/55KPBsW0f9X1dmnPYLHcPgJsnAJtMOQKhLoBlNyPR+znAnkbKdQfOhAgr1LSDIZNC9tJW5W5ZScECAh0om3WgLmO0sQKrVYuzeE5Zl6kfkbGRay6l+rxHNB7ZXww8DWxx3zqBW/Su6Ev7waR2fORl7NqNQU10FrjiRHrOfHBImdDc/tkdNbioPrUg==;kKlN3ZNRNJWd8wG7B+HWsw=="
 ---
