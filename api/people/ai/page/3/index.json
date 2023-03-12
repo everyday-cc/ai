@@ -4,40 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_people/lev-dudko.md",
-      "title": "Lev Dudko",
-      "excerpt": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lev-dudko/index.json",
-      "webUrl": "https://everyday.cc/ai/people/lev-dudko/",
-      "type": "profile",
-      "name": "Lev Dudko",
-      "bio": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=zEQGLhoAAAAJ",
-        "citations": 209809
-      },
-      "affiliation": {
-        "path": "",
-        "name": "sinp.msu.ru",
-        "domain": "sinp.msu.ru"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
-          "width": 128,
-          "height": 128,
-          "title": "Lev Dudko",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/lily-asquith.md",
       "title": "Lily Asquith",
       "excerpt": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
@@ -451,6 +417,40 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/verity-harding.md",
+      "title": "Verity Harding",
+      "excerpt": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/verity-harding/index.json",
+      "webUrl": "https://everyday.cc/ai/people/verity-harding/",
+      "type": "profile",
+      "name": "Verity Harding",
+      "bio": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
+      "location": "United Kingdom",
+      "website": "https://t.co/7skid8sUXc",
+      "twitter": {
+        "username": "verityharding",
+        "url": "https://twitter.com/verityharding",
+        "followers": 2624
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Verity_Harding"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1582687675693371393/E51BAwY9_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Verity Harding",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/yoshua-bengio.md",
       "title": "Yoshua Bengio",
       "excerpt": "Yoshua Bengio OC FRSC is a Canadian computer scientist, most noted for his work on artificial neural networks and deep learning. He was a co-recipient of the 2018 ACM A.M. Turing Award for his work in deep learning.",
@@ -503,7 +503,7 @@
       "twitter": {
         "username": "robot_MD",
         "url": "https://twitter.com/robot_MD",
-        "followers": 11642
+        "followers": 11643
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
@@ -512,7 +512,7 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 49,
+      "heat": 41,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/999169921744486400/Vo0GZHaC_400x400.jpg",
@@ -556,7 +556,7 @@
         "AI",
         "Natural Language Processing"
       ],
-      "heat": 49,
+      "heat": 41,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1189433763953950721/9-Nr_tN-_400x400.jpg",
@@ -594,7 +594,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 47,
+      "heat": 41,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/987293141253287936/1SJjp2Np_400x400.jpg",
@@ -607,69 +607,69 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/noramay-cadena.md",
-      "title": "Noramay Cadena",
-      "excerpt": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/noramay-cadena/index.json",
-      "webUrl": "https://everyday.cc/ai/people/noramay-cadena/",
+      "path": "_people/madeline-gannon.md",
+      "title": "Madeline Gannon",
+      "excerpt": "Inventing better ways to communicate with machines.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/madeline-gannon/index.json",
+      "webUrl": "https://everyday.cc/ai/people/madeline-gannon/",
       "type": "profile",
-      "name": "Noramay Cadena",
-      "bio": "Cofounder & Managing Partner @MiLACapital | MIT grad*3 | Former @Boeing | Cofounder @LatinasinSTEM | @KauffmanFellows Class 23",
-      "location": "Los Angeles, CA",
-      "website": "https://t.co/t9CFIWFMbw",
+      "name": "Madeline Gannon",
+      "bio": "Inventing better ways to communicate with machines.",
+      "location": "Pittsburgh, PA",
+      "website": "https://t.co/It4puKUIPF",
       "twitter": {
-        "username": "noramayc",
-        "url": "https://twitter.com/noramayc",
-        "followers": 17482
+        "username": "madelinegannon",
+        "url": "https://twitter.com/madelinegannon",
+        "followers": 3315
       },
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ],
-      "heat": 42,
+      "heat": 41,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/836441713497391104/Aj6W5UHO_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1631492106350129152/x9_weh8G_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Noramay Cadena",
+          "title": "Madeline Gannon",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/john-krafcik.md",
-      "title": "John Krafcik",
-      "excerpt": "Lately, but never all at once: airports, trucks, cars, coffee, autonomy, batteries, democracy, education 🇺🇲 🇩🇪 🇧🇷",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-krafcik/index.json",
-      "webUrl": "https://everyday.cc/ai/people/john-krafcik/",
+      "path": "_people/laurence-moroney.md",
+      "title": "Laurence Moroney",
+      "excerpt": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/laurence-moroney/index.json",
+      "webUrl": "https://everyday.cc/ai/people/laurence-moroney/",
       "type": "profile",
-      "name": "John Krafcik",
-      "bio": "Lately, but never all at once: airports, trucks, cars, coffee, autonomy, batteries, democracy, education 🇺🇲 🇩🇪 🇧🇷",
-      "location": "Mountain View, CA",
-      "website": "https://t.co/i1uBCCpct5",
+      "name": "Laurence Moroney",
+      "bio": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
+      "location": "Sammamish, WA",
+      "website": "https://research.google/people/RajatMonga/",
       "twitter": {
-        "username": "johnkrafcik",
-        "url": "https://twitter.com/johnkrafcik",
-        "followers": 15351
+        "username": "lmoroney",
+        "url": "https://twitter.com/lmoroney",
+        "followers": 28302
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/johnkrafcik/"
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/John_Krafcik"
+        "url": "https://www.linkedin.com/in/laurence-moroney/"
       },
       "topics": [
         "AI",
-        "AI in Autos"
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
       ],
-      "heat": 40,
+      "heat": 31,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1626011511318511616/GDQ3_U-t_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1438898262602256386/CiWrR6Gi_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "John Krafcik",
+          "title": "Laurence Moroney",
           "isCached": true
         }
       ],
@@ -723,49 +723,13 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 40,
+      "heat": 31,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Rajat Monga",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/andrew-moore.md",
-      "title": "Andrew Moore",
-      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-moore/index.json",
-      "webUrl": "https://everyday.cc/ai/people/andrew-moore/",
-      "type": "profile",
-      "name": "Andrew Moore",
-      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "location": "Pittsburgh, PA",
-      "website": "http://www.cs.cmu.edu/~awm/",
-      "twitter": {
-        "username": "awmcmu",
-        "url": "https://twitter.com/awmcmu",
-        "followers": 6157
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
-      },
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ],
-      "heat": 28,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Andrew Moore",
           "isCached": true
         }
       ],
@@ -810,6 +774,36 @@
           "width": 400,
           "height": 400,
           "title": "Christopher M. Bishop",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/mariya-yao.md",
+      "title": "Mariya Yao",
+      "excerpt": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/mariya-yao/index.json",
+      "webUrl": "https://everyday.cc/ai/people/mariya-yao/",
+      "type": "profile",
+      "name": "Mariya Yao",
+      "bio": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
+      "website": "https://mariyayao.com/",
+      "twitter": {
+        "username": "thinkmariya",
+        "url": "https://twitter.com/thinkmariya",
+        "followers": 26530
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 19,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1299418419830300672/tjPuomYA_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Mariya Yao",
           "isCached": true
         }
       ],
@@ -861,13 +855,51 @@
         "AI",
         "AI in Robotics"
       ],
-      "heat": 20,
+      "heat": 19,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/459372432806014977/ftbXtMDO_400x400.png",
           "width": 400,
           "height": 400,
           "title": "Sebastian Thrun",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/john-krafcik.md",
+      "title": "John Krafcik",
+      "excerpt": "Lately, but never all at once: airports, trucks, cars, coffee, autonomy, batteries, democracy, education 🇺🇲 🇩🇪 🇧🇷",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-krafcik/index.json",
+      "webUrl": "https://everyday.cc/ai/people/john-krafcik/",
+      "type": "profile",
+      "name": "John Krafcik",
+      "bio": "Lately, but never all at once: airports, trucks, cars, coffee, autonomy, batteries, democracy, education 🇺🇲 🇩🇪 🇧🇷",
+      "location": "Mountain View, CA",
+      "website": "https://t.co/i1uBCCpct5",
+      "twitter": {
+        "username": "johnkrafcik",
+        "url": "https://twitter.com/johnkrafcik",
+        "followers": 15350
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/johnkrafcik/"
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/John_Krafcik"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 4,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1626011511318511616/GDQ3_U-t_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "John Krafcik",
           "isCached": true
         }
       ],
@@ -887,7 +919,7 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1510468
+        "followers": 1510465
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
@@ -922,36 +954,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/mariya-yao.md",
-      "title": "Mariya Yao",
-      "excerpt": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/mariya-yao/index.json",
-      "webUrl": "https://everyday.cc/ai/people/mariya-yao/",
-      "type": "profile",
-      "name": "Mariya Yao",
-      "bio": "Editor-In-Chief @TOPBOTS. Former CTO @MetamavenAI. #AI #ML @Forbes writer, speaker, author @AppliedAIBook, maker of lovable #UX & crappy #bots",
-      "website": "https://mariyayao.com/",
-      "twitter": {
-        "username": "thinkmariya",
-        "url": "https://twitter.com/thinkmariya",
-        "followers": 26530
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1299418419830300672/tjPuomYA_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Mariya Yao",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/taryn-southern.md",
       "title": "Taryn Southern",
       "excerpt": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
@@ -965,7 +967,7 @@
       "twitter": {
         "username": "TarynSouthern",
         "url": "https://twitter.com/TarynSouthern",
-        "followers": 63738
+        "followers": 63737
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/tarynsouthern/"
@@ -1001,7 +1003,7 @@
       "twitter": {
         "username": "vsikka",
         "url": "https://twitter.com/vsikka",
-        "followers": 238860
+        "followers": 238859
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Vishal_Sikka"
