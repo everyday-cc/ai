@@ -454,6 +454,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping.md",
+      "title": "Schools Are Using Voice Technology to Teach Reading. Is It Helping?",
+      "excerpt": "They try to replicate the experience of a teacher listening carefully and identifying potential problem areas in comprehension, pronunciation and letter recognition. Voice technology — especially the use of an AI bot that talks back to the learner ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.edsurge.com/news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping",
+      "originalUrl": "https://www.edsurge.com/news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/15247/shutterstock_1682594902-1677877922.jpg?auto=compress%2Cformat&w=640&h=480&fit=crop",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.edsurge.com/amp/news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping",
+      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping",
+      "publishedDateTime": "2023-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdSurge",
+        "domain": "edsurge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-adoption-of-generative-ai-what-should-enterprises-consider.md",
       "title": "Adoption Of Generative AI: What Should Enterprises Consider?",
       "excerpt": "To ensure that generative AI is approached with caution, it is essential to thoroughly evaluate how it can be incorporated into your company's processes.",
@@ -1412,49 +1455,6 @@
         "AI",
         "AI in Autos",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-25-should-more-companies-deploy-large-language-models-as-a-customer-service-tool.md",
-      "title": "Should More Companies Deploy Large Language Models as a Customer Service Tool?",
-      "excerpt": "Companies are automating and anticipating customer needs using generative AI, opening the door for businesses to deploy large language models as a customer service tool.",
-      "sourceUrl": null,
-      "webUrl": "https://marketscale.com/industries/software-and-technology/should-more-companies-deploy-large-language-models-as-a-customer-service-tool/",
-      "originalUrl": "https://marketscale.com/industries/software-and-technology/should-more-companies-deploy-large-language-models-as-a-customer-service-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketscale.com/wp-content/uploads/2023/02/shutterstock_2264320769-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marketscale",
-        "domain": "marketscale.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

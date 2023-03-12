@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Azure Marketplace: SymphonyAI Adds KPI 360"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) has announced addition of SymphonyAI and manufacturing insights solution KPI 360 in its Microsoft Azure Marketplace. KPI 360 customers can now have a streamlined deployment and management through the Microsoft Azure cloud platform."
-    publishedDateTime: 2023-03-07T18:15:00Z
-    webUrl: "https://www.financialbuzz.com/microsoft-azure-marketplace-symphonyai-adds-kpi-360/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 49
   - title: "Cyclotron Taps Microsoft technology stack expert Seth Sanusi to Lead Azure Initiatives"
     excerpt: "Cyclotron, a San Francisco-based business technology consultancy, is proud to announce the hiring of long-time Microsoft technology stack expert Seth Sanusi to lead its Microsoft Azure consulting practice."
     publishedDateTime: 2023-03-09T18:10:00Z

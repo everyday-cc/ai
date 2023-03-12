@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Massive coalition throws weight behind reintroduced facial recognition ban bill"
-    excerpt: "Today, lawmakers in the House and Senate jointly re-introduced the Facial Recognition and Biometric Technology Moratorium Act of 2023, which would effectively ban law enforcement use of facial recognition in the United States."
-    publishedDateTime: 2023-03-07T17:52:00Z
-    webUrl: "https://www.commondreams.org/newswire/massive-coalition-throws-weight-behind-reintroduced-facial-recognition-ban-bill"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 35
-    images:
-      - url: "https://assets.rbl.ms/32012623/origin.jpg"
-        width: 336
-        height: 336
-        isCached: true
   - title: "US Lawmakers Reintroduce Facial Recognition and Biometric Technology Moratorium Act"
     excerpt: "Looking for the latest Government Contracting News? Read about US Lawmakers Reintroduce Facial Recognition and Biometric Technology Moratorium Act."
     publishedDateTime: 2023-03-08T22:19:00Z

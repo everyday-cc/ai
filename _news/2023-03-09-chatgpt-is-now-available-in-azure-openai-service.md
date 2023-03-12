@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure
 webUrl: "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-98538794,width-1070,height-580,imgsize-3588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
+        isCached: true
+  - title: "Nvidia's early investment in AI bears fruit as its A100 chip now powers ChatGPT"
+    excerpt: "Every chip that we made was focused on artificial intelligence.\" Thanks to its early investment in AI, Nvidia is reaping the rewards as its chips are now used as the engine behind large language ..."
+    publishedDateTime: 2023-03-09T13:56:00Z
+    webUrl: "https://www.ibtimes.co.uk/nvidias-early-investment-ai-bears-fruit-its-a100-chip-now-powers-chatgpt-1713839"
+    ampWebUrl: "https://amp.ibtimes.co.uk/nvidias-early-investment-ai-bears-fruit-its-a100-chip-now-powers-chatgpt-1713839"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/nvidias-early-investment-ai-bears-fruit-its-a100-chip-now-powers-chatgpt-1713839"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 70
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1712783/logo-nvidia-corporation-seen-during-annual-computex-computer-exhibition-taipei.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "ChatGPT is now available with Microsoft’s Azure OpenAI Service"
     excerpt: "Microsoft has announced that ChatGPT is now available in Azure OpenAI Service, enabling developers to integrate custom AI into their services."

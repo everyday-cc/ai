@@ -123,20 +123,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft Brings More AI to Developers at Azure Open Source Day 2023"
-    excerpt: "At its Azure Open Source Day 2023 today, Microsoft announced a handful of Azure AI open source capabilities to help developers build intelligent apps faster."
-    publishedDateTime: 2023-03-07T17:35:00Z
-    webUrl: "https://www.thurrott.com/dev/280186/microsoft-brings-more-ai-to-developers-at-azure-open-source-day-2023"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 69
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/azure-ai-code.jpg"
-        width: 1066
-        height: 600
-        isCached: true
   - title: "Key Reveals from Microsoft Azure Open-Source Day 2023"
     excerpt: "Microsoft held Azure Open Source Day to showcase its dedication to open source and emphasize the potential of open source tools in creating intelligent applications with increased speed and flexibility."
     publishedDateTime: 2023-03-09T06:43:00Z
@@ -151,6 +137,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft Plans to Launch ChatGPT Via Azure"
+    excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
+    publishedDateTime: 2023-03-12T09:34:00Z
+    webUrl: "https://techreport.com/news/3493353/microsoft-plans-to-launch-chatgpt-via-azure/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
 
 secured: "N/ARcuTrseFoTFwiqgUYMrw3f9rYDaqUDVEsMXRevbfG9hI/6ZCG+56a1hp+/WLxGgKDv0mIRCmpQy6Z716ZDyQKBQdlwQtJOvllxuQvZgcMR4hnI/Hid8FQjprL8cjz9QDe/bSNVjv0jl9zgyojCAFEX1fe62FAZPqL/ExHSgj6HKYfFd9/JFse149ktCE9biLOAgW6trfVmsGuyByGb7qKWbEXwGg704qClwZy1AcDLGLAaAxsNMCOT3gFlXKMRgACE2RHp2Kb7pNuXYvOq/aaDEQNjzO09R/FyHKqxe2Zgu37HVpXmAuWWNelBIwCTvvRgKVB3CWHV1xfZTvKApN7fz8COpROyrZFslQOgEc=;1zyIHlYyxREAThnZBv03eg=="
 ---

@@ -30,58 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Is AI the Perfect Ally to Complete Digital Transformation?"
-    excerpt: "Digital transformation has become an indispensable initiative by organizations in the form of a wide range of technologies like SaaS, IoT (Internet of Things), VR (Virtual Reality), ML (Machine Learning),"
-    publishedDateTime: 2023-03-09T21:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09"
+  - title: "How AI and Machine Learning are revolutionising Business Intelligence"
+    excerpt: "This is where Artificial Intelligence (AI) and Machine Learning (ML) come in – they can help businesses to sift through the data noise and extract actionable insights.With the aid of automation, the most recent developments in artificial intelligence ..."
+    publishedDateTime: 2023-03-12T10:13:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How AI is Transforming Financial Services"
-    excerpt: "AI is one of the most exciting technologies currently attracting many headlines due to recent developments and innovations. This branch of computer science aims to create programs capable of understanding data and carrying out human tasks."
-    publishedDateTime: 2023-03-11T00:03:00Z
-    webUrl: "https://www.techguide.com.au/news/internet-news/how-ai-is-transforming-financial-services/"
-    ampWebUrl: "https://www.techguide.com.au/amp/news/internet-news/how-ai-is-transforming-financial-services/"
-    cdnAmpWebUrl: "https://www-techguide-com-au.cdn.ampproject.org/c/s/www.techguide.com.au/amp/news/internet-news/how-ai-is-transforming-financial-services/"
-    type: article
-    provider:
-      name: Tech Guide
-      domain: techguide.com.au
-    quality: 59
-    images:
-      - url: "https://www.techguide.com.au/wp-content/uploads/2023/03/nick-chong-N__BnvQ_w18-unsplash-450x300.jpeg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "Accelerating AI deployment and scale with a transformative end-to-end AI platform"
-    excerpt: "AI delivers business value and a competitive advantage for enterprise, but how do you go from proof of concept to production AI at scale?"
-    publishedDateTime: 2023-03-10T20:27:00Z
-    webUrl: "https://venturebeat.com/ai/accelerating-ai-deployment-and-scale-with-a-transformative-end-to-end-ai-platform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
-  - title: "Lost In Translation: Harnessing AI For International Efficiency."
-    excerpt: "Harnessing AI For International Efficiency. Legal News and Analysis - Africa/Middle East, Asia Pacific, Europe, North America, Offshore - Telecommunications, Media & Technology -"
-    publishedDateTime: 2023-03-09T14:46:00Z
-    webUrl: "https://conventuslaw.com/report/lost-in-translation-harnessing-ai-for-international-efficiency/"
-    type: article
-    provider:
-      name: Conventus Law
-      domain: conventuslaw.com
-    quality: 39
-    images:
-      - url: "https://conventuslaw.com/wp-content/uploads/2022/09/Hightech.png"
-        width: 871
-        height: 581
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Mr.-Piyush-Goel-1-scaled.jpg"
+        width: 2074
+        height: 2560
         isCached: true
 
 secured: "UO01nUMBQ74euPKsVEgnjridNrnhvu5mTvx1tSU9Y4PNuv9qZAWjy7XRgN+WXNOcsCvlJqfa1YyQyVcCITt3kgmYZOYFq2jyeBAQxsIjt6wcL7WXGTOQByYeuYaLf7B71+i1cHbJVZQXW+KJam0sjnVgOFA4ppiNCx24eVqPFZ4l6i1pY27nBHzPUP4KfMUHYFUdqIHzY3cZz5wkXaYh9aYFlu54pSz6jNRi/h1G91cyRXKa04cr0BDO2g6ZNkATOhmRkwlf0RtVatkw56B4vVZMdqr80UoQs5j2za1IPNANupbfSiloMjKO5GG9Qy9/6585yWalV7/xTEYFYen7Gn2NoH1bxbDnhDLr2IJwSY4=;9xcz1XSBG+9d5JMlJ9lg2g=="

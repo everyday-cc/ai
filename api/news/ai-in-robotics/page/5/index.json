@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-02-03-israeli-startup-develops-first-ai-robot-for-picking-tomatoes.md",
+      "title": "Israeli startup develops first AI robot for picking tomatoes",
+      "excerpt": "MetoMotion says driverless machine slashes harvesting costs by 50%; startup seeks to raise $8 million to scale up production",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/",
+      "originalUrl": "https://www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2023/02/רובוט-לקטיף-עגבניות-קרדיט-MotoMotion-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/israeli-startup-develops-first-ai-robot-for-picking-tomatoes/amp/",
+      "publishedDateTime": "2023-02-02T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-03-rapid-robotics-and-universal-robots-team-up-to-fight-labor-shortages-with-swift-cobot-deployments.md",
       "title": "Rapid Robotics and Universal Robots Team up to Fight Labor Shortages With Swift Cobot Deployments",
       "excerpt": "Rapid Robotics today announced a new partnership with Universal Robots (UR) in which the Danish collaborative robot (cobot) producer will be supplying collaborative robot arms for Rapid Robotics’ deployment of cobot work cells across North America.",
@@ -1266,49 +1310,6 @@
       "provider": {
         "name": "Geeky Gadgets",
         "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies.md",
-      "title": "How ‘killer robots’ can help us learn from mistakes made in AI policies",
-      "excerpt": "Finally, it is critical to consider oversight mechanisms at the start ... “killer robots,” we should not lose sight of the danger that poor processes create when deploying AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/",
-      "originalUrl": "https://thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2023/01/San-Francisco-police-05212019.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/3821147-how-killer-robots-can-help-us-learn-from-mistakes-made-in-ai-policies/amp/",
-      "publishedDateTime": "2023-01-24T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
         "images": null,
         "publishers": null,
         "authors": null

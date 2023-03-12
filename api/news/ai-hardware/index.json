@@ -108,6 +108,50 @@
       ]
     },
     {
+      "path": "_news/2023-03-09-wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-management.md",
+      "title": "WiMi Develops Edge Computing-Based Holographic Face Recognition AI Chip System for Property Management",
+      "excerpt": "WiMi's edge computing-based holographic face recognition AI chip system can be used in various essential situations as it can perform high-density dynamic holographic face capture in complex ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31275065/wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-manage",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31275065/wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-manage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31275065",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31275065",
+      "publishedDateTime": "2023-03-09T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-artificial-intelligence-ai-chip-market-size-and-forecast-till-2028.md",
       "title": "Artificial Intelligence (AI) Chip Market Size and Forecast till 2028",
       "excerpt": "The \"Artificial Intelligence (AI) Chip Market\" study describes how the technology industry is evolving and how major",
@@ -1408,58 +1452,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-nvidia-stock-rises-after-slight-beat-driven-by-ai-chips.md",
-      "title": "Nvidia stock rises after slight beat driven by A.I. chips",
-      "excerpt": "Data center revenue, which includes AI chips, rose 11% on an annual basis to $3.62 billion. In this article Nvidia stock rose more than 8% in extended trading Wednesday after the company reported ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
-      "originalUrl": "https://www.cnbc.com/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107121389-16636908112022-09-20t154548z_456040631_rc23lw99akst_rtrmadp_0_nvidia-gaming.jpeg?v=1677103157",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/22/nvidia-nvda-earnings-q4-2023.html",
-      "publishedDateTime": "2023-02-23T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

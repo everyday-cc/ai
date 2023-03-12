@@ -116,20 +116,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft Brings More AI to Developers at Azure Open Source Day 2023"
-    excerpt: "At its Azure Open Source Day 2023 today, Microsoft announced a handful of Azure AI open source capabilities to help developers build intelligent apps faster."
-    publishedDateTime: 2023-03-07T17:35:00Z
-    webUrl: "https://www.thurrott.com/dev/280186/microsoft-brings-more-ai-to-developers-at-azure-open-source-day-2023"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 69
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/azure-ai-code.jpg"
-        width: 1066
-        height: 600
-        isCached: true
   - title: "Key Reveals from Microsoft Azure Open-Source Day 2023"
     excerpt: "Microsoft held Azure Open Source Day to showcase its dedication to open source and emphasize the potential of open source tools in creating intelligent applications with increased speed and flexibility."
     publishedDateTime: 2023-03-09T06:43:00Z
@@ -152,6 +138,15 @@ related:
     provider:
       name: CRN
       domain: crn.com
+    quality: 34
+  - title: "Microsoft Plans to Launch ChatGPT Via Azure"
+    excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
+    publishedDateTime: 2023-03-12T09:34:00Z
+    webUrl: "https://techreport.com/news/3493353/microsoft-plans-to-launch-chatgpt-via-azure/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
     quality: 34
 
 secured: "zGKp0B/8oOhOlexa5KfcnR/zfc63UNIcZQUk82306WH0KDci9Bx9MCN+VUzZLSdEFTkkKKTGHsj9RJo0mlIuagrIO0hJWo4cwkANrSMw2pvNiDQUEszi9DIzNqjiopmvmE5/pQJqzlyCWWlrFmWtzhGQtyopfV7FaT9ncAD9aeGgt3+90CpruLWN+GHoEPfs5BI5FtvRen9XydTFSbGcIzE/HIQFIuHSjbpybW7WuOAEHTHsteH6TUgaD7jTQDFzK+nnp4VB/s95hS5Y2jp7bjMrrLKSVkCz95SQ5pczyHKgmHzT81vOdyjiU3c+QKjm6PoE+fxuCiEuD1Q6TYxsCjDC8tA5qCz7ZsONWZRMD9cFT2vdoyZt4tKtfPYuZi7yqDAPnWkKv7JpuNE6XpgAie4PamudLIQVaY8sFW3Ii0NCIe18s568F1rkKbC2cl8mx3/soCkmMslSjOxSECKv1tVtIpsYD0okGhX5b/0ZeD43Neeak8TydIDOlYFuhYORpgQmAb5OeLKBExRrLwl+Dw==;0BrV5If52mKM258WAJB4oQ=="

@@ -129,20 +129,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft Brings More AI to Developers at Azure Open Source Day 2023"
-    excerpt: "At its Azure Open Source Day 2023 today, Microsoft announced a handful of Azure AI open source capabilities to help developers build intelligent apps faster."
-    publishedDateTime: 2023-03-07T17:35:00Z
-    webUrl: "https://www.thurrott.com/dev/280186/microsoft-brings-more-ai-to-developers-at-azure-open-source-day-2023"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 69
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/azure-ai-code.jpg"
-        width: 1066
-        height: 600
-        isCached: true
   - title: "Latest Microsoft Layoff Wave Hits Supply Chain, Cloud, IoT Employees"
     excerpt: "manager who worked with Microsoft for about two years and worked on facilitating “the delivery of secure high-quality data to improve machine learning and artificial intelligence models” *A 23-year Microsoft veteran who was a senior content developer ..."
     publishedDateTime: 2023-03-10T20:27:00Z
@@ -151,6 +137,15 @@ related:
     provider:
       name: CRN
       domain: crn.com
+    quality: 34
+  - title: "Microsoft Plans to Launch ChatGPT Via Azure"
+    excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
+    publishedDateTime: 2023-03-12T09:34:00Z
+    webUrl: "https://techreport.com/news/3493353/microsoft-plans-to-launch-chatgpt-via-azure/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
     quality: 34
 
 secured: "kW7fnSqXd4epmYJ6RHlp/6rPsALehhnZ0k8yKbbS5rN4urejiYsjuqFu+3dAqfGL1yTOnXDOvxKpyeg6lpoN4T1TMzueMwzBZB67CDP0ToAPf0tUNUK9e0ULjaTDLLhw9IAOw20oURK/CuOfRyQDm4w5mb/VlNMWNDIz63GaKIMhwKTKmr6k/5W/rYdE/KllNlA59c7Xnp/vIJFskB8VtUuA1Q8MkKH0XVdPbB+UMnWfJsciJgbgVNTN0s4leiaILJ4Z+I4+qQ91DSO/FHYRgidk9H4SBWStmRXeUuiZiMi0JxCT11Vw0wsLSXQ1JZKqhZAWg2jW5mOQmJxXdgmDL+3l6ndWoM86pfqAiEVkQ0Amr4t8j7rbu2FnPML7qnl6PAiRGMS1VX4Jaxxbx6/3quJ3OYd1ykZkh8QaVERtv/DgreFQJaRFULPrrxjdrkMpMnoMCTQctci6GAkJGkd2f7tlZmEb05KwHfWjtadsOY3EuwywRyEEwbg7Q1o/4ofKFm9OXymbgaxmeT8AYvVs5g==;sTVfsa4uKcct+PigQWHXmQ=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/plaintext-how-to-start-an-ai-panic/"
 webUrl: "https://www.wired.com/story/plaintext-how-to-start-an-ai-panic/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Wired
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "The best way to start an AI project? Don’t think about the models"
-    excerpt: "Too often, companies start with AI and skip the business processes and structure of the data, which has a much greater impact on the end results."
-    publishedDateTime: 2023-03-07T18:23:00Z
-    webUrl: "https://techcrunch.com/2023/03/07/the-best-way-to-start-an-ai-project-dont-think-about-the-models/"
+  - title: "An AI-based startup is helping brands tap into human emotions"
+    excerpt: "The startup says its USP lies in its AI-powered tools through which it enables research, marketing, and product teams to conduct in-house quantitative and qualitative research. While working at his previous adtech startup Red Castle, Ranjan realised that ..."
+    publishedDateTime: 2023-03-11T02:05:00Z
+    webUrl: "https://yourstory.com/2023/03/bengaluru-based-entropik-ai-startup-helping-brands-tap-into-human-emotion"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
+      name: Your Story
+      domain: yourstory.com
+    quality: 37
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1274512924.jpg?resize=1200,765"
-        width: 1200
-        height: 765
+      - url: "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/CopyofImageTaggingnoframesEditorialTeamMaster-1678453758830.jpg?fm=png&auto=format"
+        width: 1600
+        height: 800
         isCached: true
 
 secured: "ICMJxBAvbyGB5nHN4NRrOcayr7Ihh3cC/IkFhlWefSvq+XIHrtJNMxHZezQNBioqMLIZokUmLXZ9cnOZ15wTRGmTm5TP602eFutPVDiiXyLfpo6HthQJ3N7qk3318u2rHyHEnf/J63mpodRKI1jGy5Fk+3iMQ7LqiheOEJkhsZxfY+MIwbgTiosBTMpLTZR+v7vN79ZqEs+uHqsZlJwMxIj15Y4DxaOhr7GoBm5OMEnhlNoiXlB1vWnNnujPNv7nZIxYO1Aa4EYPIqHGq7/I9Y0DPJxFACdwxGSTjL3gE3MftkZqRQ2JoNjZEHkudpGMbYM4RBdZccDWZy9qN+/RIoyNx8bXAii8dLgLR1B9BqE=;gw9zE2uRe2eRRwG4bNc9Wg=="

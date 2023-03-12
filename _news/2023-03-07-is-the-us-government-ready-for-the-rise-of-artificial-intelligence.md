@@ -3,8 +3,8 @@ category: news
 title: "Is the US government ready for the rise of artificial intelligence?"
 excerpt: "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding"
 publishedDateTime: 2023-03-07T14:20:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?bingParse"
-webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?bingParse"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "3wWKK41WiY13Pqf0jbyj5XGWg5DqBAcj6pidfPc4uIIcaq4TFMh57FtnVQugPZq8Ak1uTxib9SKPeeuKLw6PdhDcp6L5JLJBETR1jjX/Vay3T2IWeH8sXbhtlz0f+69skF2+HCr3jgS7qtctRkjAbGAYGBnfxWrq8r24fOFi68zYNQc1NNt9J2BMpY1F793vwdTj4WPvRghQRpHlQyjbWkO4Wz0DqA2zaeUC+DPH3M3eRZ+xx8+Fu6Eglt5p2NTHpFIxrbFDPRQ8fMNrfyfAYFtMcNn4H8052pLy6M6qLdP6MSNwJNDXgRf7J00UnaHkey55lIyVvxgjGwo4ZnUdNPKIpAXP6mH/BoPDPSHG7FM=;MtaVl/CtWXWBiuXlIDRC1A=="
+secured: "FvgX4DeBTRbTRiq5E1hvcqD/Lm+G3GcNHyZ3rptM05VngS/i6EmsO4er9/Eih2BDMa2CNSHrYLbKlnd726vy5Jq02NNL4WrR/NIHVfbrZ8ZU+6/dXnwVQs/wlPxKNP/2cMdc+2L1K43qIA4I/373+1C4d+uSiVNHSaTAGCLpcx1Gv10zxE0enVDvZ3hQXO/XhN+08fVV1LGTuSzWYnbcibnih2YkSqgBWC8nefE+mcVIpOiCi/axqakZWPNsVQb+o7Tk9y0ajE4pPNdyJ4kHgYF4bohuPJr/K7Tum69gsqskiqczayZ5E/Piuwd1o3sgE8cu+/Gyl+XG9OC737SSA3vr6exwL5ZeWeixR5TCN+8=;1gaxEcJCd9IKdAqvMtvThA=="
 ---
 

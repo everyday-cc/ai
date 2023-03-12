@@ -2,6 +2,379 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-07-study-examines-potential-use-of-machine-learning-for-sustainable-development-of-biomass.md",
+      "title": "Study examines potential use of machine learning for sustainable development of biomass",
+      "excerpt": "Machine learning can be valuable in supporting sustainable development of biomass if it is applied across the entire lifecyle of biomass and biomass-derived products, according to a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/03/230307174307.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/03/230307174307.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-microsoft-aims-to-reduce-tedious-business-tasks-with-new-ai-tools.md",
+      "title": "Microsoft aims to reduce “tedious” business tasks with new AI tools",
+      "excerpt": "The move follows the trend among tech giants such as Alphabet and Baidu to incorporate generative AI technology into their offerings—and of course, the multi-billion dollar partnership between OpenAI and Microsoft announced in January.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-brings-chatgpt-style-ai-to-developer-and-analysis-tools/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-brings-chatgpt-style-ai-to-developer-and-analysis-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-healthcare-robotics-engineering-forum-full-conference-agenda.md",
+      "title": "Healthcare Robotics Engineering Forum full conference agenda",
+      "excerpt": "The Healthcare Robotics Engineering Forum announced its full conference agenda for the May 10-11 2023 event at the Boston Convention and Exhibition Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/healthcare-robotics-engineering-forum-full-conference-agenda-2/",
+      "originalUrl": "https://www.therobotreport.com/healthcare-robotics-engineering-forum-full-conference-agenda-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/03/RSE23_background-featured.jpg",
+          "width": 1000,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023.md",
+      "title": "10 Best Nootropics, Smart Drugs, and Cognitive Enhancers of 2023",
+      "excerpt": "5:00 AM on Jun 17, 2022 CDT — Updated at 11:38 AM on Mar 6, 2023 CST Nootropics and smart drugs are dietary supplements that provide cognitive benefits such as improved focus, memory ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/",
+      "originalUrl": "https://www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Wi9IMlAYpae9TG8TzIAccthnPM8=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/BYOUMGJ5VZACPFIGZDO2ARV7GI.jpg",
+          "width": 900,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/?outputType=amp",
+      "publishedDateTime": "2023-03-06T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-therapeutic-ketosis-for-mild-cognitive-impairment-alzheimers-and-parkinsons.md",
+      "title": "Therapeutic ketosis for mild cognitive impairment, Alzheimer's and Parkinson's",
+      "excerpt": "Review: Ketogenic interventions in mild cognitive impairment, Alzheimer's disease, and Parkinson's disease: A systematic review and critical appraisal. Image Credit: Atthapon Raksthaput ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230305/Therapeutic-ketosis-for-mild-cognitive-impairment-Alzheimers-and-Parkinsons.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230305/Therapeutic-ketosis-for-mild-cognitive-impairment-Alzheimers-and-Parkinsons.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_740699_16780700168786646.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-1-machine-learning-stock-down-55-youll-wish-youd-bought-on-the-dip.md",
+      "title": "1 Machine Learning Stock Down 55% You'll Wish You'd Bought on the Dip",
+      "excerpt": "Splunk's services are becoming increasingly ingrained ... You probably wouldn't associate the chain with machine learning, but that technology powers many of its crucial decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/06/1-machine-learning-stock-down-55-wish-bought-dip/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/06/1-machine-learning-stock-down-55-wish-bought-dip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/723242/a-racing-crew-servicing-a-race-car-in-the-pit-lane.jpg",
+          "width": 4846,
+          "height": 3620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks.md",
+      "title": "Brainchip Extends AI, Machine Learning In Space And Time With Bio-Inspired Neural Networks",
+      "excerpt": "Brainchip has introduced a new generation of its unique, bio-inspired Akida line of licensable, configurable neural processing IP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640214b4c8c9ba097d058205/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/03/06/brainchip-extends-ai-machine-learning-in-space-and-time-with-bio-inspired-neural-networks/amp/",
+      "publishedDateTime": "2023-03-06T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-adoption-of-generative-ai-what-should-enterprises-consider.md",
+      "title": "Adoption Of Generative AI: What Should Enterprises Consider?",
+      "excerpt": "To ensure that generative AI is approached with caution, it is essential to thoroughly evaluate how it can be incorporated into your company's processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6401f00fffe104e0998619c1/0x0.jpg?format=jpg&width=1200",
+          "width": 1054,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/06/adoption-of-generative-ai-what-should-enterprises-consider/amp/",
+      "publishedDateTime": "2023-03-06T02:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-choosing-between-azure-and-aws-the-ultimate-guide.md",
       "title": "Choosing Between Azure and AWS: The Ultimate Guide",
       "excerpt": "The Ultimate Guide\" provides a comprehensive comparison of the two most popular cloud computing platforms, Azure and AWS. It covers various factors like workloads, pricing, support, and security, which should be considered before making a decision.",
@@ -770,376 +1143,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-cognitive-impairment-in-multiple-sclerosis-tied-to-diet.md",
-      "title": "Cognitive Impairment in Multiple Sclerosis Tied to Diet",
-      "excerpt": "Among 563 MS patients in a clinical cohort, higher adherence to a Mediterranean diet predicted a 20% lower risk for cognitive impairment (OR 0.80, 95% CI 0.73-0.89), reported Ilana Katz Sand ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/aan/103374",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/aan/103374",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/103xxx/103374.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-04T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-generative-ai-could-lower-drug-prices-heres-how.md",
-      "title": "Generative AI could lower drug prices. Here's how",
-      "excerpt": "In the future, specifying a drug target may be like sitting down to ChatGPT. After a few clicks, you'll have your novel therapeutic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-could-lower-drug-prices-heres-how/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-could-lower-drug-prices-heres-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c0b475ddb6f590c029a299c2b88a7e1c3985eb3a/2023/02/28/edd460d3-73b8-4ce6-ace5-c6dac00ee94a/abci-de-novo-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-could-lower-drug-prices-heres-how/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-could-lower-drug-prices-heres-how/",
-      "publishedDateTime": "2023-03-04T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-ai-translation-for-a-better-world.md",
-      "title": "AI Translation for a Better World",
-      "excerpt": "or the AI, like positive feedback. And out of that, this huge mathematical machinery learns how to translate and become better and better at that. That is just common and works for any language.",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/podcast/vv/20230302-1/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/podcast/vv/20230302-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/en/podcast/vv/assets/images/20230302-1/og.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-04T04:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-whos-actually-getting-rich-off-of-ai.md",
-      "title": "Who’s actually getting rich off of AI?",
-      "excerpt": "Today, let’s talk about a subject that crosses my mind with every generative-AI startup pitch that lands in my inbox: who’s going to make the real money off artificial intelligence?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/23623495/ai-profits-winners-losers-openai-notion-snapchat",
-      "originalUrl": "https://www.theverge.com/23623495/ai-profits-winners-losers-openai-notion-snapchat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/eJCf-0eN-BMvuoNTj_0k-ImYauY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390408/STK149_AI_01.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-04T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-ai-masters-video-game-6000-times-faster-by-reading-the-instructions.md",
-      "title": "AI masters video game 6000 times faster by reading the instructions",
-      "excerpt": "An artificial intelligence has learned to master an Atari skiing game in days of playing time rather than the decades it took a specialist DeepMind AI, simply by reading the instructions written for h",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2358953-ai-masters-video-game-6000-times-faster-by-reading-the-instructions/",
-      "originalUrl": "https://www.newscientist.com/article/2358953-ai-masters-video-game-6000-times-faster-by-reading-the-instructions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2023/02/24161531/SEI_145075232.jpg",
-          "width": 1150,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-04T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-report-ai-startup-inflection-in-talks-to-raise-up-to-675m.md",
-      "title": "Report: AI startup Inflection in talks to raise up to $675M",
-      "excerpt": "Inflection has not yet launched a product and offers little information about its plans on its one-page website. The startup first made headlines last May after a regulatory filing revealed it had raised $225 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/03/03/report-ai-startup-inflection-talks-raise-675m/",
-      "originalUrl": "https://siliconangle.com/2023/03/03/report-ai-startup-inflection-talks-raise-675m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Image-5.png",
-          "width": 1034,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T14:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-one-expert-thinks-elon-musk-is-wrong-about-ai-heres-why-hes-right.md",
-      "title": "One Expert Thinks Elon Musk Is Wrong About AI. Here’s Why He’s Right.",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s no secret that Elon Musk is highly focused on artificial",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/one-expert-thinks-elon-musk-is-wrong-about-ai-heres-why-hes-right-1032144927",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/one-expert-thinks-elon-musk-is-wrong-about-ai-heres-why-hes-right-1032144927",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-these-are-the-ai-trends-that-keep-us-up-at-night.md",
-      "title": "These Are The AI Trends That Keep Us Up At Night",
-      "excerpt": "BuzzFeed News will round up the biggest, weirdest developments in the rapidly expanding field of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-artificial-intelligence-monthly-news-trends?ref=upstract.com",
-      "originalUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-artificial-intelligence-monthly-news-trends?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2023-02/6/21/campaign_images/35488d389fb0/google-just-announced-its-chatgpt-rival-3-1450-1675718238-7_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/pranavdixit/ai-artificial-intelligence-monthly-news-trends",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/pranavdixit/ai-artificial-intelligence-monthly-news-trends",
-      "publishedDateTime": "2023-03-03T11:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "buzzfeednews.com",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence is Revolutionizing Marketing. Here's What the Transformation Means for the Industry"
-    excerpt: "Opinions expressed by Entrepreneur contributors are their own. Artificial intelligence (AI) has started transforming every aspect of our professional and personal lives. The marketing industry is ..."
-    publishedDateTime: 2023-03-08T18:24:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/why-artificial-intelligence-is-revolutionizing-marketing/446087"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 68
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1677684344-GettyImages-1351969920.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Accelerating AI deployment and scale with a transformative end-to-end AI platform"
     excerpt: "AI delivers business value and a competitive advantage for enterprise, but how do you go from proof of concept to production AI at scale?"
     publishedDateTime: 2023-03-10T20:27:00Z

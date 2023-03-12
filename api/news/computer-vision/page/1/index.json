@@ -108,6 +108,50 @@
       ]
     },
     {
+      "path": "_news/2023-03-09-wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-management.md",
+      "title": "WiMi Develops Edge Computing-Based Holographic Face Recognition AI Chip System for Property Management",
+      "excerpt": "WiMi's edge computing-based holographic face recognition AI chip system can be used in various essential situations as it can perform high-density dynamic holographic face capture in complex ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31275065/wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-manage",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31275065/wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-manage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31275065",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31275065",
+      "publishedDateTime": "2023-03-09T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-bay-area-airports-using-facial-recognition-to-expedite-travel.md",
       "title": "Bay Area airports using facial recognition to expedite travel",
       "excerpt": "They are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it to track some departing passengers too.",
@@ -213,7 +257,7 @@
       "originalUrl": "https://www.metrotimes.com/news/tlaib-and-other-lawmakers-introduce-ban-on-facial-recognition-technology-that-would-penalize-detroit-32553268",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -942,6 +986,40 @@
       ]
     },
     {
+      "path": "_news/2023-02-26-why-facial-recognition-could-spell-the-end-of-anonymity-in-public.md",
+      "title": "Why facial recognition could spell the end of anonymity in public",
+      "excerpt": "CCTV doesn’t just recognise your face — it can even sense your emotions and predict crime. Even the country’s biometrics boss is worried",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=efb31d25edd4d624bd2ad4d95f247c46",
+      "originalUrl": "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=efb31d25edd4d624bd2ad4d95f247c46",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-25T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-10-pieces-of-fashion-you-can-wear-to-confuse-facial-recognition.md",
       "title": "10 Pieces of Fashion You Can Wear to Confuse Facial Recognition",
       "excerpt": "They say you can have anything you want in life if you dress for it. According to the makers of these anti-facial recognition garments, that includes privacy. These sweaters, masks, glasses, and makeup tips will scramble the algorithms and dazzle your friends.",
@@ -1331,93 +1409,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-the-best-presidents-day-robot-vacuum-deals-you-can-still-get-in-2023.md",
-      "title": "The best Presidents Day robot vacuum deals you can still get in 2023",
-      "excerpt": "While this more affordable Jet Bot+ robot vacuum by Samsung doesn't feature 3D recognition with AI, it does have LiDAR sensor navigation ... app to control your appliance from your smartphone. Start cycles, check time remaining and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
-      "originalUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/18/4e542c82-4239-402b-b2b7-94905fbed0cc/thumbnail/620x349/790b7cbe147c5208ff529d0cf05e9357/eufy-by-anker-robot-vacuum-g32-pro.jpg#",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-ahead-of-presidents-day-203-02-21/",
-      "publishedDateTime": "2023-02-21T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-travelers-have-mixed-feelings-about-facial-recognition-technology-at-las.md",
-      "title": "Travelers have mixed feelings about facial recognition technology at LAS",
-      "excerpt": "LAS VEGAS (KTNV) — Harry Reid International Airport is one of 16 airports nationwide testing facial recognition technology at airport security checkpoints. The technology was first rolled out ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las",
-      "originalUrl": "https://www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/717/b9cd621bb5cc43d8b6bdc641d1acdca8/717f5520240044009c25dec6f417f641/poster_c050c08cc5fb4881adf39c95cbc18bc1.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las?_amp=true",
-      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/travelers-have-mixed-feelings-about-facial-recognition-technology-at-las?_amp=true",
-      "publishedDateTime": "2023-02-20T19:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTNV Las Vegas",
-        "domain": "ktnv.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

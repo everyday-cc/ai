@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-t
 webUrl: "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence is Revolutionizing Marketing. Here's What the Transformation Means for the Industry"
-    excerpt: "Opinions expressed by Entrepreneur contributors are their own. Artificial intelligence (AI) has started transforming every aspect of our professional and personal lives. The marketing industry is ..."
-    publishedDateTime: 2023-03-08T18:24:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/why-artificial-intelligence-is-revolutionizing-marketing/446087"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 68
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1677684344-GettyImages-1351969920.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "How AI is Transforming Financial Services"
     excerpt: "AI is one of the most exciting technologies currently attracting many headlines due to recent developments and innovations. This branch of computer science aims to create programs capable of understanding data and carrying out human tasks."
     publishedDateTime: 2023-03-11T00:03:00Z

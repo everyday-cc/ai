@@ -10,7 +10,7 @@
       "originalUrl": "https://www.datanami.com/this-just-in/the-instabase-platform-now-available-in-microsoft-azure-marketplace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -105,7 +105,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -149,6 +149,50 @@
       ]
     },
     {
+      "path": "_news/2023-03-09-cognitive-behavioral-therapy-offered-to-help-curb-violence.md",
+      "title": "Cognitive behavioral therapy offered to help curb violence",
+      "excerpt": "(WSMV) - Dozens of non-profit leaders, first responders, and community members are receiving cognitive behavioral ... families through three tiers of services, education and empowerment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/",
+      "originalUrl": "https://www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wsmv-prod.cdn.arcpublishing.com/resizer/66EcQG1MB4mtWHETmUk4f1b3ugw=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/TSX6HJ3LBFDQJMMT2CPKINO2AY.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/2023/03/09/cognitive-behavioral-therapy-offered-help-curb-violence/?outputType=amp",
+      "publishedDateTime": "2023-03-09T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSMV",
+        "domain": "wsmv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-chatgpt-is-now-available-in-azure-openai-service.md",
       "title": "ChatGPT is now available in Azure OpenAI Service",
       "excerpt": "Today, we are thrilled to announce that ChatGPT is available in preview in Azure OpenAI Service. With Azure OpenAI Service, over 1,000 customers are applying the most advanced AI models—including Dall-E 2, GPT-3.5, Codex, and other large language models backed by the unique supercomputing and enterprise",
@@ -157,7 +201,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -298,6 +342,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-08-stress-may-lead-to-lower-cognitive-function-study-finds.md",
+      "title": "Stress may lead to lower cognitive function, study finds",
+      "excerpt": "People with elevated stress levels are more likely to experience a decline in cognitive function, a new study found, affecting their capacity to remember, concentrate and learn new things. Stress ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/03/07/health/high-stress-lower-cognition-study-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2023/03/07/health/high-stress-lower-cognition-study-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230307104018-stress-cognitive-ability-stock.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-08-microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images.md",
       "title": "Microsoft’s computer vision model will generate alt text for Reddit images",
       "excerpt": "Microsoft is bringing Florence, a multimodal model trained on images and text, into production via Azure APIs.",
@@ -372,6 +468,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023.md",
+      "title": "10 Best Nootropics, Smart Drugs, and Cognitive Enhancers of 2023",
+      "excerpt": "5:00 AM on Jun 17, 2022 CDT — Updated at 11:38 AM on Mar 6, 2023 CST Nootropics and smart drugs are dietary supplements that provide cognitive benefits such as improved focus, memory ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/",
+      "originalUrl": "https://www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Wi9IMlAYpae9TG8TzIAccthnPM8=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/BYOUMGJ5VZACPFIGZDO2ARV7GI.jpg",
+          "width": 900,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/branded-content/2023/03/06/10-best-nootropics-smart-drugs-and-cognitive-enhancers-of-2023/?outputType=amp",
+      "publishedDateTime": "2023-03-06T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1207,144 +1346,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-whats-new-in-azure-data-ai-azure-is-the-best-place-to-build-and-run-ai-workloads.md",
-      "title": "What's new in Azure Data & AI: Azure is the best place to build and run AI workloads",
-      "excerpt": "Bringing together purpose-built AI infrastructure and managed data and AI services into one environment streamlines management and automation, often reducing the complexity of building, training, and bringing AI models into production.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/",
-      "originalUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T01:00:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus.md",
-      "title": "Microsoft introduces next-gen hybrid cloud platform 'Azure Operator Nexus'",
-      "excerpt": "It believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html",
-      "originalUrl": "https://www.business-standard.com/article/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-01/18/full/1674005450-4001.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html",
-      "publishedDateTime": "2023-02-26T22:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-when-it-comes-to-money-your-brain-can-be-your-own-worst-enemy.md",
-      "title": "When It Comes to Money, Your Brain Can Be Your Own Worst Enemy",
-      "excerpt": "Our cognitive biases can get in the way of saving for the future, especially for retirement. Here’s how to recognize and overcome them. Send any friend a story As a subscriber, you have 10 gift ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.html",
-      "originalUrl": "https://www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/26/business/26Retiring-illo/26Retiring-illo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/26/business/personal-finance-cognitive-bias-retirement.amp.html",
-      "publishedDateTime": "2023-02-26T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

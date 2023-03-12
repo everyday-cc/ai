@@ -119,20 +119,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft Brings More AI to Developers at Azure Open Source Day 2023"
-    excerpt: "At its Azure Open Source Day 2023 today, Microsoft announced a handful of Azure AI open source capabilities to help developers build intelligent apps faster."
-    publishedDateTime: 2023-03-07T17:35:00Z
-    webUrl: "https://www.thurrott.com/dev/280186/microsoft-brings-more-ai-to-developers-at-azure-open-source-day-2023"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 69
-    images:
-      - url: "https://thurrott.s3.amazonaws.com/wp-content/uploads/sites/2/2023/03/azure-ai-code.jpg"
-        width: 1066
-        height: 600
-        isCached: true
   - title: "Key Reveals from Microsoft Azure Open-Source Day 2023"
     excerpt: "Microsoft held Azure Open Source Day to showcase its dedication to open source and emphasize the potential of open source tools in creating intelligent applications with increased speed and flexibility."
     publishedDateTime: 2023-03-09T06:43:00Z
@@ -155,6 +141,15 @@ related:
     provider:
       name: CRN
       domain: crn.com
+    quality: 34
+  - title: "Microsoft Plans to Launch ChatGPT Via Azure"
+    excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
+    publishedDateTime: 2023-03-12T09:34:00Z
+    webUrl: "https://techreport.com/news/3493353/microsoft-plans-to-launch-chatgpt-via-azure/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
     quality: 34
 
 secured: "NLscKGw81R273KC+faPTfdzzhIHqroYql3pNpWVO7lQJ3JUETKcg4t6mhi4Jhp+rvGIQRLQFD0EgQgXCTlI6IUnVT8GUUv/nFQfJRwLie+96kccBAv4Q5C0dDjCjW5rC6/NmTt0uMpS8+FDF4F5EuaWizLDHp02T4pcgu7WBpCKN79/jxDl9iRHU0Rp473anWw7QJxX6UVOc0XoD88TuoSYRDevieg933bcDN+2AHqBQjA1E5IYVElKfO4j3IGV6SbTkoyS7Fd+XDE3yU3OChk8295pwGBjy614uxd0iYm6opHlB+gX4mdZXOelPTaI8HIUY3Dca/Nc7j8dB7G96HBe5tUBFpLVZY++U0uoc+yPjYUs8iO/aiEW+vzXgW/JVY/W58QHhGv88r0L7r89GM5UKVgHRiqHGbrkhuXej/mey+ch0dqgaDGNjEYHSEoBJ4PHduK9us25MqzFebcTnzXMR/anMX+kRj72CjD31ClbGp2EveLftgjXiu5vHSg8t2Xa7I0vcRGwHTP/sAFmckg==;3OSj0U/+CpJemKZzyb5ndA=="

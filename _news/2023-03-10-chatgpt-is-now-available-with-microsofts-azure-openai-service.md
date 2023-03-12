@@ -103,6 +103,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Nvidia's early investment in AI bears fruit as its A100 chip now powers ChatGPT"
+    excerpt: "Every chip that we made was focused on artificial intelligence.\" Thanks to its early investment in AI, Nvidia is reaping the rewards as its chips are now used as the engine behind large language ..."
+    publishedDateTime: 2023-03-09T13:56:00Z
+    webUrl: "https://www.ibtimes.co.uk/nvidias-early-investment-ai-bears-fruit-its-a100-chip-now-powers-chatgpt-1713839"
+    ampWebUrl: "https://amp.ibtimes.co.uk/nvidias-early-investment-ai-bears-fruit-its-a100-chip-now-powers-chatgpt-1713839"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/nvidias-early-investment-ai-bears-fruit-its-a100-chip-now-powers-chatgpt-1713839"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 70
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1712783/logo-nvidia-corporation-seen-during-annual-computex-computer-exhibition-taipei.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft's Azure OpenAI service gets ChatGPT for preview: Know everything"
     excerpt: "In January 2023, the tech giant announced the general availability of the Azure OpenAI service, which enables enterprises to power their application with large-scale AI."
     publishedDateTime: 2023-03-10T06:57:00Z
