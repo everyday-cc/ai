@@ -1,15 +1,15 @@
 ---
 category: news
-title: "Can AI be a therapist? How new tech is aiding the mental health-care system"
+title: "How a Toronto-made AI therapist could bridge the gap in Canada’s mental health-care system"
 excerpt: "Artificial intelligence is increasingly being incorporated into people's daily lives, including in mental health care in Canada. Many telehealth companies are using AI to give personalized health care to patients,"
 publishedDateTime: 2023-03-12T12:00:00Z
-originalUrl: "https://www.ctvnews.ca/health/can-ai-be-a-therapist-how-new-tech-is-aiding-the-mental-health-care-system-1.6304944"
-webUrl: "https://www.ctvnews.ca/health/can-ai-be-a-therapist-how-new-tech-is-aiding-the-mental-health-care-system-1.6304944"
+originalUrl: "https://www.ctvnews.ca/health/how-a-toronto-made-ai-therapist-could-bridge-the-gap-in-canada-s-mental-health-care-system-1.6304944"
+webUrl: "https://www.ctvnews.ca/health/how-a-toronto-made-ai-therapist-could-bridge-the-gap-in-canada-s-mental-health-care-system-1.6304944"
 ampWebUrl: "https://beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
 cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
 type: article
-quality: 59
-heat: 69
+quality: 49
+heat: -1
 published: false
 
 provider:
@@ -17,9 +17,8 @@ provider:
   domain: ctvnews.ca
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/12/1_6304950.jpg"
@@ -28,23 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "How a Toronto-made AI therapist could bridge the gap in Canada’s mental health-care system"
+  - title: "Can AI be a therapist? How new tech is aiding the mental health-care system"
     excerpt: "Artificial intelligence is increasingly being incorporated into people's daily lives, including in mental health care in Canada. Many telehealth companies are using AI to give personalized health care to patients,"
     publishedDateTime: 2023-03-12T12:00:00Z
-    webUrl: "https://www.ctvnews.ca/health/how-a-toronto-made-ai-therapist-could-bridge-the-gap-in-canada-s-mental-health-care-system-1.6304944"
+    webUrl: "https://www.ctvnews.ca/health/can-ai-be-a-therapist-how-new-tech-is-aiding-the-mental-health-care-system-1.6304944"
     ampWebUrl: "https://beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
     cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
     type: article
     provider:
       name: CTV News
       domain: ctvnews.ca
-    quality: 49
+    quality: 59
     images:
       - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/12/1_6304950.jpg"
         width: 960
         height: 539
         isCached: true
 
-secured: "tXCCLZG1g/xhEMIexjUMscrK97LdDidWgj8YCHItQXan/ie7l1WE14xbuCb1VnNJvSSZy67J+iD9nGpQtYdMOzzAZeziDARB3PE//3ATGsDwb92FV4P47hs9dKR0vG5NfNvVhuD8K5QFIsgJWmz32AvlWGKUTbw3z0XT2ed62rrKGR61LSYrb/5CbDoGlHKsR1G/CvLP/ZudO4hLBYEqYMdz9TFdWw9f1fdbVT2oG8mDa5CB1xQDPE4JQPLC+wKHkBOsHFzi3cimsZv+tnWkA30IrWN16Nqt9LXrSwcrOUEkBPlJthCtwNIKRStVnXZf8T0XLDvZQMuRVXlQabyi/IWH/qlU7BfbwJTe+AViEvg=;rCDVqpkAmw1gKum2Z8Zf9w=="
+secured: "PJtYVjo6eoQpHjiSdXvt0dPrLlu/v9F/csHYVIWvrsTTkQI6t7f0Jf7f14TpGUIMDabARrtV1tmyCyQUJgACtrC+Ep3halkHujf+OXd/oLgArpvmZTnpL1Ytm32JG2VwxI0QqldJZCS//1WKV0ARCtDqe6bXiKGDhCNEEOartFcMcL2BTu3mfYeRa2+hzIUT7xcXjP7Ix63qH01MLVX8r4cQadOLyEKRePLqU7I2FO25nkOHFagfqv/20H9BU6L7bg2NxFxj6h4kWWt4dJ7ro7uIYXFa8MoZw+sw4bhb1BiN+G9zO9BjbKJySF+83UG9YyBzn8N4RgmR4oKV/h9Xd2tFLlu3YjXBN9AeX76QFTk=;m84cZ9cVHWdEaOtOJ9QUkw=="
 ---
 

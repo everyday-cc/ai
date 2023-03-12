@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-13-grammarlys-new-ai-tool-can-do-more-than-check-your-spelling.md",
+      "title": "Grammarly's New AI Tool Can Do More Than Check Your Spelling",
+      "excerpt": "Grammarly can check your spelling and grammar in real-time, but it'll soon be able to do more than that. The company is expanding its artificial intelligence resources with a new generative AI tool called GrammarlyGo that the company says is intended to improve communication.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/180b84e91f88d00e04a2b302f44fb34e4cb87625/hub/2023/03/08/22777e2e-8f78-40b6-8f7c-5df081336227/grammarlygo-compose.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/grammarlys-new-ai-tool-can-do-more-than-check-your-spelling/",
+      "publishedDateTime": "2023-03-12T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-12-tiktok-has-a-new-bold-glamour-ai-powered-filter-here-are-the-risks.md",
       "title": "TikTok Has A New ‘Bold Glamour’ AI-Powered Filter, Here Are The Risks",
       "excerpt": "TikTok has released its new Bold Glamour filter that can remodel your face in an unreal way that looks very real. And it's already garnered real interest.",
@@ -104,7 +155,7 @@
       "originalUrl": "https://www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -306,6 +357,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-11-artificial-intelligence-is-going-to-replace-all-but-the-best-stock-picking-pros.md",
+      "title": "Artificial intelligence is going to replace all but the best stock-picking pros",
+      "excerpt": "Artificial intelligence poses a major threat to the worst stock pickers on Wall Street. Even the mediocre ones might want to start looking for another line of work. But the jobs of the best stock pickers are secure — for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
+      "originalUrl": "https://www.marketwatch.com/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-354454/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/your-future-stock-fund-manager-could-be-an-ai-program-and-youll-be-richer-for-it-742525b5",
+      "publishedDateTime": "2023-03-11T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-11-can-ai-tools-like-chatgpt-replace-computer-programmers.md",
       "title": "Can AI Tools Like ChatGPT Replace Computer Programmers?",
       "excerpt": "Despite the fast-evolving capabilities of AI chatbots to write code as well as human language, many computer science educators see significant limits for these tools in accuracy, security and copyright infringement.",
@@ -314,7 +417,7 @@
       "originalUrl": "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -408,7 +511,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-fraud-detection-using-aws-serverless-and-machine-learning-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1174,110 +1277,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-ai-first-infrastructure-the-key-to-faster-time-to-market.md",
-      "title": "AI-first infrastructure: The key to faster time to market",
-      "excerpt": "Purpose-built cloud infrastructure is the best way to quickly and economically grow AI at scale to create business value and growth.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/",
-      "originalUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/AdobeStock_552748421.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/amp/",
-      "publishedDateTime": "2023-03-09T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-is-ai-the-perfect-ally-to-complete-digital-transformation.md",
-      "title": "Is AI the Perfect Ally to Complete Digital Transformation?",
-      "excerpt": "Digital transformation has become an indispensable initiative by organizations in the form of a wide range of technologies like SaaS, IoT (Internet of Things), VR (Virtual Reality), ML (Machine Learning),",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-10-ai-first-infrastructure-the-key-to-faster-time-to-market.md",
+      "title": "AI-first infrastructure: The key to faster time to market",
+      "excerpt": "Purpose-built cloud infrastructure is the best way to quickly and economically grow AI at scale to create business value and growth.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/",
+      "originalUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/AdobeStock_552748421.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-first-infrastructure-the-key-to-faster-time-to-market/amp/",
+      "publishedDateTime": "2023-03-09T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-is-ai-the-perfect-ally-to-complete-digital-transformation.md",
+      "title": "Is AI the Perfect Ally to Complete Digital Transformation?",
+      "excerpt": "Digital transformation has become an indispensable initiative by organizations in the form of a wide range of technologies like SaaS, IoT (Internet of Things), VR (Virtual Reality), ML (Machine Learning),",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-the-hottest-party-in-generative-ai-is-productivity-apps.md",
       "title": "The hottest party in generative AI is productivity apps",
       "excerpt": "After years of wallflower AI status, business productivity apps are now the generative AI party where the cool kids hang out.",
@@ -1132,103 +1236,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-use-snowflake-as-a-data-source-to-train-ml-models-with-amazon-sagemaker.md",
-      "title": "Use Snowflake as a data source to train ML models with Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully managed machine learning (ML) service. With SageMaker, data scientists and developers can quickly and easily build and train ML models, and then directly deploy them into a production-ready hosted environment. Sagemaker provides an integrated Jupyter authoring notebook instance",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-snowflake-as-a-data-source-to-train-ml-models-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-snowflake-as-a-data-source-to-train-ml-models-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/08/snowflake-as-data-source-sagemaker.jpg",
-          "width": 1564,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T09:42:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-teradata-announces-general-availability-of-teradata-vantagecloud-integration-with-azure-ml.md",
-      "title": "Teradata Announces General Availability of Teradata VantageCloud, Integration with Azure ML",
-      "excerpt": "Teradata today announced the integration and general availability of Teradata VantageCloud, the complete cloud analytics and",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/teradata-announces-general-availability-of-teradata-vantagecloud-integration-with-azure-ml/",
-      "originalUrl": "https://www.datanami.com/this-just-in/teradata-announces-general-availability-of-teradata-vantagecloud-integration-with-azure-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

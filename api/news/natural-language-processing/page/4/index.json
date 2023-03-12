@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-07-should-companies-disclose-if-their-content-was-written-by-ai.md",
+      "title": "Should Companies Disclose if Their Content Was Written by AI?",
+      "excerpt": "Google is already reconsidering the value and ranking of content created through AI. In academics, the integrity of AI-powered content comes into question when students use it to write college papers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2023/02/06/should-companies-disclose-if-their-content-was-written-by-ai/",
+      "originalUrl": "https://www.datanami.com/2023/02/06/should-companies-disclose-if-their-content-was-written-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-this-aussie-professor-is-an-ai-legend-chatgpt-shocked-even-him.md",
       "title": "This Aussie professor is an AI legend. ChatGPT shocked even him",
       "excerpt": "Professor Christopher Manning is the most cited natural language processing expert in the world. He says society has to adapt to generative AI technology.",
@@ -1161,49 +1195,6 @@
       "provider": {
         "name": "Language Magazine",
         "domain": "languagemagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy-and-improving-diarization.md",
-      "title": "VIQ Solutions Bolsters AI-Powered Workflows WIth New Proprietary Automatic Speech Recognition (ASR) Increasing Accuracy and Improving Diarization",
-      "excerpt": "VIQ Solutions Inc. (\"VIQ\", \"VIQ Solutions\" or the \"Company\") (TSX and Nasdaq: VQS), a global provider of secure, AI-driven, digital voice and video capture technology and transcription services, today announced the addition of a new ASR technology to its engine agnostic portfolio driving improvements in efficiency and diarization in multi-speaker environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy/article_0ba4eaf7-68e9-5ead-9da4-cbda1b911927.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/viq-solutions-bolsters-ai-powered-workflows-with-new-proprietary-automatic-speech-recognition-asr-increasing-accuracy/article_0ba4eaf7-68e9-5ead-9da4-cbda1b911927.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T03:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null

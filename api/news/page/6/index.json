@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-03-artificial-intelligence-crm-a-future-forward-partnership.md",
+      "title": "Artificial intelligence, CRM: A ‘future-forward’ partnership",
+      "excerpt": "AI develops within CRM, it will have a financial value attached to it, says Mark Annett, head of CRM Sales and Consulting at Camsoft Solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/wbrpO7g2NW5vDLZn",
+      "originalUrl": "https://www.itweb.co.za/content/wbrpO7g2NW5vDLZn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2017/12/resized/-fs-Artificial-intelligence-2017.xl.jpg",
+          "width": 816,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/wbrpO7g2NW5vDLZn",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2NW5vDLZn",
+      "publishedDateTime": "2023-03-02T22:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029.md",
+      "title": "How and Where the Artificial Neural Networks Market is Set to Grow in forecast period 2029",
+      "excerpt": "Mar 02, 2023 (The Expresswire) -- \"Artificial Neural Networks Market\" Insights 2023 By Applications (BFSI, Retail and eCommerce, IT, Healthcare and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029-2023-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029-2023-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T19:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-nfl-players-with-concussion-histories-have-reduced-cognitive-performance-study-shows.md",
+      "title": "NFL players with concussion histories have reduced cognitive performance, study shows",
+      "excerpt": "A large study looking at over 350 former National Football League players found that players with a history of concussions and concussive symptoms had reduced cognitive performances later in life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
+      "originalUrl": "https://www.cbsnews.com/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/12/789c2dff-9443-4849-939f-a561171f9869/thumbnail/1200x630/b6a636be6494061d9748a28b1ffebd1d/gettyimages-936299580.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
+      "publishedDateTime": "2023-03-02T18:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-ai-study-evaluates-gpt-3-using-cognitive-psychology.md",
       "title": "AI Study Evaluates GPT-3 Using Cognitive Psychology",
       "excerpt": "A new study published in the Proceedings of the National Academy of Sciences of the United States of America (PNAS) by researchers affiliated with the Max Planck Institute for Biological Cybernetics analyzes the general intelligence of large language model (LLM) GPT-3 using cognitive psychology.",
@@ -1042,135 +1180,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night.md",
-      "title": "Athena AI, Teal 2 Drone: Computer Vision to Identify Weapons, Friends and Foes at Night",
-      "excerpt": "Red Cat Announces Athena AI as Computer Vision Partner for Teal 2 by DRONELIFE Staff Writer Ian M. Crosby Red Cat Holdings [NASDAQ:RCAT]  is held in the AdvisorShares Drone Technology ETF [NYSE ARCA:U",
-      "sourceUrl": null,
-      "webUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
-      "originalUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dronelife.com/wp-content/uploads/2023/03/Teal_2_View_1-e1677770216137.png",
-          "width": 612,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
-      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
-      "publishedDateTime": "2023-03-02T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dronelife",
-        "domain": "dronelife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai.md",
-      "title": "Nvidia's Latest GPU Drivers To Upscale Blurry Videos Via AI",
-      "excerpt": "With RTX Video Super Resolution (VSR), GeForce RTX 40 and 30 Series GPU users can tap AI to upscale lower-resolution content up to 4K, matching their display resolution. The AI removes blocky compression artifacts and improves the video's sharpness and ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI",
-      "originalUrl": "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-03/02/I_5f244image_story.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-02T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why.md",
-      "title": "Artificial Intelligence Stresses Out Twitter CEO Elon Musk It Seems; Here’s Why",
-      "excerpt": "Musk stated, \"AI stresses me out,\" towards the close of a more than three-hour presentation to Tesla investors about business goals.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why",
-      "originalUrl": "https://in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/ab6b18dc-4853-42b1-a619-0d6c9a24c3b1_9t6k.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/48224/artificial-intelligence-stresses-out-twitter-ceo-elon-musk-it-seems-heres-why?amp=1",
-      "publishedDateTime": "2023-03-02T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

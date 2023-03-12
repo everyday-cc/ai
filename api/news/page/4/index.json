@@ -2,6 +2,163 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-03-07-chatgpt-machine-learning-and-generative-ai-in-healthcare.md",
+      "title": "ChatGPT, Machine Learning And Generative AI In Healthcare",
+      "excerpt": "The use of generative AI has the potential to greatly impact clinical understanding, diagnosis and treatment of complex medical conditions as well as improve the accuracy, efficiency and effectiveness of healthcare system function.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 311,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6405efa13b66613f66c92092/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/amp/",
+      "publishedDateTime": "2023-03-07T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-googles-one-step-closer-to-building-its-1000-language-ai-model.md",
+      "title": "Google’s one step closer to building its 1,000-language AI model",
+      "excerpt": "Right now, Google says USM supports over 100 languages and will serve as the “foundation” to build an even more expansive system. Meta’s working on a similar AI translation tool that’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/3/6/23627788/google-1000-language-ai-universal-speech-model",
+      "originalUrl": "https://www.theverge.com/2023/3/6/23627788/google-1000-language-ai-universal-speech-model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/3paMOCSkJrw9oAYvNX0YuWuP1Nk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016884/STK093_Google_05.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-7-investors-reveal-whats-hot-in-fintech-in-q1-2023.md",
+      "title": "7 investors reveal what’s hot in fintech in Q1 2023",
+      "excerpt": "We’re also looking at thoughtful enterprise applications of AI that intersect with each of these segments of our fintech thesis. We continue to avoid balance-sheet heavy businesses that take ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/07/7-investors-reveal-whats-hot-in-fintech-in-q1-2023/",
+      "originalUrl": "https://techcrunch.com/2023/03/07/7-investors-reveal-whats-hot-in-fintech-in-q1-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-1033407190-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping.md",
       "title": "Schools Are Using Voice Technology to Teach Reading. Is It Helping?",
       "excerpt": "They try to replicate the experience of a teacher listening carefully and identifying potential problem areas in comprehension, pronunciation and letter recognition. Voice technology — especially the use of an AI bot that talks back to the learner ...",
@@ -1003,144 +1160,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-government-funding-to-accelerate-research-in-ai-healthcare-technologies.md",
-      "title": "Government funding to accelerate research in AI healthcare technologies",
-      "excerpt": "Tens of thousands of patients across the country could benefit from quicker, earlier diagnoses and more effective treatments for a range of conditions - as the government invests nearly £16 million into pioneering artificial intelligence research (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "publishedDateTime": "2023-03-05T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-nasa-captures-sequestered-carbon-of-99-billion-trees-with-deep-learning-and-satellite-images.md",
-      "title": "NASA captures sequestered carbon of 9.9 billion trees with deep-learning and satellite images",
-      "excerpt": "Researchers applied deep-learning-based tree mapping, manually trained on about 90,000 trees, to a data set of nearly 300,000 satellite images to measure more than 9.9 billion woody plants that ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.html",
-      "originalUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/nasa-captures-sequeste.jpg",
-          "width": 2133,
-          "height": 1906,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.amp",
-      "publishedDateTime": "2023-03-04T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around.md",
-      "title": "OpenAI launches an API for ChatGPT, a startup attempts a humanoid robot, and Salesforce turns it around",
-      "excerpt": "Experts across climate, mobility, fintech, AI and machine learning ... Hydrogen powered: Startup Universal Hydrogen took to the air this week with the largest hydrogen fuel cell ever to fly.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/",
-      "originalUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1173441590.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/amp/",
-      "publishedDateTime": "2023-03-04T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

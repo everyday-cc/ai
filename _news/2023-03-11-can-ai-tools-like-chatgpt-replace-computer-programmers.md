@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgp
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true"
 type: article
 quality: 59
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230308pd201_files/2_2b.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Grammarly gets on the AI wagon, introduces ChatGPT-inspired GrammarlyGo"
-    excerpt: "GrammarlyGO, a contextually aware assistant powered by generative artificial intelligence (AI), has been unveiled by Grammarly, a U.S. cloud-based typing assistant."
-    publishedDateTime: 2023-03-11T15:53:00Z
-    webUrl: "https://interestingengineering.com/innovation/grammarly-gets-on-the-ai-wagon-introduces-chatgpt-inspired-grammarlygo"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 37
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/11/image/jpeg/bdFUiQdC8fRXAjLmpvO7sJJUYl0VfK9GOKXcF7K7.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "L7+YuhttKt5LG3LP+ykmQPyGWBvZvwAsQvTUgOSMGkGj7u5+bolYojnH/wP6A/ciwhZnOhx3+dKWVVzmvKO9oQ+jEJZ94yFqp9mZ0yzo7oYJmv75cTFXiSvkm2x3m16F3vyjfnqbJEoW5CsOy4r1wb76W2jmm++ILAo84VN0FPk8oTAvNwLFG3/1vkX6qRICXljZZFXPy3FTmmLiao/vR3cf2Whnxf7y0Y54KWffQ44EnCyu8q/13KngxI6phlGobavEFUXtbXoawZhLL3NuhE5xHFeitGDJaWmsftgwrd+IyUCtZvNmcDXE3/UIOn3Id4HEsSpbL9RyfV6IQyDEnYMOhk321xzfGrS+Ne8uaN4=;zvfjGC5fxUvywTv+yGG7GQ=="

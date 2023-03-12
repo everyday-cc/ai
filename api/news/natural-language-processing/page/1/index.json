@@ -10,7 +10,7 @@
       "originalUrl": "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -330,6 +330,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-what-will-be-clinical-natural-language-processing-market-size-in-2023-2029.md",
+      "title": "What will be “Clinical Natural Language Processing Market” Size in 2023-2029?",
+      "excerpt": "Furthermore, Clinical Natural Language Processing market research report gives insight on the global market's thorough competitive landscape. The research also includes a graphical overview of major organisations that includes their effective marketing strategies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/what-will-be-clinical-natural-language-processing-market-size-in-2023-2029-2023-03-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/what-will-be-clinical-natural-language-processing-market-size-in-2023-2029-2023-03-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1411,49 +1463,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-meta-brings-ai-chatbot-with-own-large-language-model-for-researchers.md",
-      "title": "Meta brings AI chatbot with own large language model for researchers",
-      "excerpt": "Smaller, more performant models such as LLaMA enable others in the research community who don't have access to large amounts of infrastructure to study these models, further democratising access in this important,",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/meta-1677317836.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
-      "publishedDateTime": "2023-02-25T18:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

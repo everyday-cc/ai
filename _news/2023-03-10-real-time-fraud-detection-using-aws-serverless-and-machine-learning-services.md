@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/real-time-fraud-dete
 webUrl: "https://aws.amazon.com/blogs/machine-learning/real-time-fraud-detection-using-aws-serverless-and-machine-learning-services/"
 type: article
 quality: 103
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1564
     height: 781
     isCached: true
-
-related:
-  - title: "Databricks exposes serverless machine learning inferencing engine via an API"
-    excerpt: "Data analytics developer Databricks Inc. today announced the general availability of Databricks Model Serving, a serverless real-time inferencing service that deploys real-time machine learning models natively within the Databricks Lakehouse Platform and is exposed via a Representational State Transfer or REST application programming interface."
-    publishedDateTime: 2023-03-08T00:46:00Z
-    webUrl: "https://siliconangle.com/2023/03/07/databricks-exposes-serverless-machine-learning-inferencing-engine-via-api/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/wall-1466079_960_720.jpg"
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "F1ZYjO3cyYHeYbHvx/R4RACSm4zQvJVPnBAwD6y+uaQpr6Tj6ocRubHvymXD67UPNtGOxwRdEixYpZdZ2erUpOvYG2aY1y76+k0T1sAV/Osf2ZBCbABH0pdFLpfAG+lkAqSFMktAmrT/dDdFkyd9ZlR5eVueoYKLb4sHFKGVZvm6Nc6RbwLkqTDiiCXGmyj/izywJgcf2CDqWEK6otTpvBzxB7eiKGJAVBzOAD9ngQ+lwSD9yCfUu/Zv1WGYoxwvDO/kftSZ1Yec6ypZtMsPMfs8Y913PSD84jTNH9NL+6IpYPaCqF018XRpBxZlix2C63fj+mVJG+R0wWdnW9M3SBQ7Q0M0iniqGQSAzohJMm8=;hluFykAWUPL88LpAbuKJew=="
 ---

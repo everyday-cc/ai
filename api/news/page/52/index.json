@@ -2,6 +2,145 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-01-30-kettering-students-training-artificial-intelligence-models-for-school-bus-safety.md",
+      "title": "Kettering students training artificial intelligence models for school bus safety",
+      "excerpt": "A group of undergraduate computer science students at Kettering University are developing a system to implement cheap, reliable artificial intelligence models on school buses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html",
+      "originalUrl": "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WEPZ3JLZOVAZDEHDMW42TLGEMQ.jpg",
+          "width": 3080,
+          "height": 2237,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/flint/2023/01/kettering-students-training-artificial-intelligence-models-for-school-bus-safety.html?outputType=amp",
+      "publishedDateTime": "2023-01-30T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-the-us-and-eu-will-work-together-on-artificial-intelligence-models.md",
+      "title": "The US and EU will work together on artificial intelligence models",
+      "excerpt": "While private organizations are monetizing machine learning (ML) models to chew countless images and sell the result to their customers, the US and the EU have",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97426-us-eu-work-together-artificial-intelligence-models.html",
+      "originalUrl": "https://www.techspot.com/news/97426-us-eu-work-together-artificial-intelligence-models.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/01/2023-01-30-image-2.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-30T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-subsea-robotics-aquanauts-hydronauts-roll-out.md",
+      "title": "Subsea Robotics: Aquanauts, Hydronauts, Roll Out",
+      "excerpt": "Houston-based Nauticus Robotics’ first production Aquanauts and Hydronauts will head into the wild and closer to full commercialization this",
+      "sourceUrl": null,
+      "webUrl": "https://www.marinetechnologynews.com/news/subsea-robotics-aquanauts-hydronauts-625606",
+      "originalUrl": "https://www.marinetechnologynews.com/news/subsea-robotics-aquanauts-hydronauts-625606",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.marinetechnologynews.com/images/maritime/w800h600pad/image-courtesy-nauticus-138341.jpg",
+          "width": 800,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marinetechnologynews.com/amp/news/subsea-robotics-aquanauts-hydronauts-625606",
+      "cdnAmpWebUrl": "https://www-marinetechnologynews-com.cdn.ampproject.org/c/s/www.marinetechnologynews.com/amp/news/subsea-robotics-aquanauts-hydronauts-625606",
+      "publishedDateTime": "2023-01-30T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "marinetechnologynews.com",
+        "domain": "marinetechnologynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-30-ai-has-caused-a-renaissance-of-tech-industry-rd-says-metas-chief-ai-scientist.md",
       "title": "AI has caused a renaissance of tech industry R&D, says Meta's chief AI scientist",
       "excerpt": "There are many promising commercial applications already that may lead to productivity increases, but, ultimately, AI must develop an ability to plan if it is to truly advance, says Yann LeCun.",
@@ -1086,164 +1225,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-artificial-intelligence-may-actually-help-humanize-financial-services.md",
-      "title": "Artificial Intelligence May Actually Help Humanize Financial Services",
-      "excerpt": "Industrywide, we lacked some engagement, we lacked some warmth, we lacked some relevance, particularly through digital channel. We need to re-instate humanization into digital, and AI is a tool that’s going to help us get there.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d44b0b30d078897e922e26/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/amp/",
-      "publishedDateTime": "2023-01-28T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-5-tech-trends-that-will-change-the-fintech-industry-in-2023.md",
-      "title": "5 Tech Trends That Will Change the Fintech Industry In 2023",
-      "excerpt": "An emerging trend in fintech is being driven by artificial intelligence (AI), including banks and other financial institutions. Fintech companies can break fraudulent transactions because it can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/5-tech-trends-that-will-change-the-fintech-industry-in-2023/443523",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/5-tech-trends-that-will-change-the-fintech-industry-in-2023/443523",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1674541102-Myproject-1241.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-28T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-28-plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures.md",
-      "title": "Plainsight and MarineSitu Using ‘Computer Vision’ To Protect Sea Creatures",
-      "excerpt": "Plainsight calls the technology “vision AI” or “computer vision,” says Elizabeth Spears, company cofounder and chief product officer in Seattle, Washington. “The idea is that anything that people could see,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/",
-      "originalUrl": "https://www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d4305c97b9ba16ada89c47/0x0.jpg?format=jpg&width=1200",
-          "width": 756,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2023/01/28/plainsight-and-marinesitu-using-computer-vision-to-protect-sea-creatures/amp/",
-      "publishedDateTime": "2023-01-28T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

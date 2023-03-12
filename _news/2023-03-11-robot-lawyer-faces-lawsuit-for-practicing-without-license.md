@@ -43,6 +43,22 @@ related:
         width: 1084
         height: 542
         isCached: true
+  - title: "\"Robot Lawyer\" Faces Lawsuit For Practicing Law Without A License In US"
+    excerpt: "DoNotPay Inc, which uses AI to provide legal services is facing a new lawsuit from a Chicago-based law firm. The company has claimed that DoNotPay has been practising law poorly and lacks a license, Reuters reported."
+    publishedDateTime: 2023-03-12T16:09:00Z
+    webUrl: "https://www.ndtv.com/feature/robot-lawyer-faces-lawsuit-for-practicing-law-without-a-license-in-us-3855043"
+    ampWebUrl: "https://www.ndtv.com/feature/robot-lawyer-faces-lawsuit-for-practicing-law-without-a-license-in-us-3855043/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/robot-lawyer-faces-lawsuit-for-practicing-law-without-a-license-in-us-3855043/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://c.ndtvimg.com/2023-01/mt3n5fro_robot-lawyer_625x300_07_January_23.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "rjKkcONLiRUcgRAsi4a7Lq7rPs9MOujBH3HQca0wugiFhM9N0F/mR8rPsacEcnGBbVOc4S2vex471GGJH170slYKa6dxAPuaa26sWYuTffdiU8NyNIS/0zalaWoFtkGrauz7wA19CYDXYLKRe7BuU8KGOU9954xN93S5DR6waCHBvufFdp6ZKkwiYm5KIIX+aNQKz04seWxeJ6Lv7S2um01JD0Sf3NB8cltauPldCT2UWAJq1NMXts8ela6CaStqoiJNioo/NpbfaoOF+Q7y3Akj6Nmvfnx2h8ZPVaFbYai6tMOpG9xah6aKSFYr/JjtXPRXEOxM7sHRzieSHkYiks1y5CJQYDAJpd/Pph8waqk=;njnCBlCA543+Ku+W5DJfkQ=="
 ---

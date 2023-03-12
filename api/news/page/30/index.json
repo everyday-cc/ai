@@ -2,6 +2,126 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-02-09-what-happens-when-you-mash-generative-ai-with-robotics-carnegie-mellon-scientists-dream-up-an-answer.md",
+      "title": "What happens when you mash generative AI with robotics? Carnegie Mellon scientists dream up an answer",
+      "excerpt": "It’s a question that’s roiled industry stakeholders and armchair intellectuals for the past few years, ever since generative AI splashed onto ... But they start with some semantic goals.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90847320/generative-ai-art-robot-carnegie-mellon-frida-scientists",
+      "originalUrl": "https://www.fastcompany.com/90847320/generative-ai-art-robot-carnegie-mellon-frida-scientists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T15:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-google-translate-is-adding-contextual-translations-for-words-with-multiple-meanings.md",
+      "title": "Google Translate is adding contextual translations for words with multiple meanings",
+      "excerpt": "At today's AI-focused event in Paris ... In fact, if you ever tried to use Translate to complete your language homework in high school, you know poorly this sort of thing can turn out. With this contextual upgrade, Google will provide multiple meanings ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/google-translate-contextual-translations/",
+      "originalUrl": "https://www.androidpolice.com/google-translate-contextual-translations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/10/google-translate-ap-hero.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-08T15:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-as-big-techs-growth-and-innovation-slow-its-market-dominance-endures.md",
+      "title": "As big tech’s growth and innovation slow, its market dominance endures",
+      "excerpt": "Google parent Alphabet and its cohort still innovate, but with incremental enhancements to existing products. Tech hoping AI will allow it to disrupt like the past.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/big-techs-growth-innovation-slow-market-dominance-endures",
+      "originalUrl": "https://www.foxbusiness.com/technology/big-techs-growth-innovation-slow-market-dominance-endures",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/3a870c4c-034e-49a9-b362-8aba72345f3a/5a970391-6531-41df-85a4-ebabb5a24de1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/big-techs-growth-innovation-slow-market-dominance-endures.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/big-techs-growth-innovation-slow-market-dominance-endures.amp",
+      "publishedDateTime": "2023-02-08T15:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-can-autoregressive-language-model-in-power-bi-enhance-efficiency-in-data-analytics.md",
       "title": "Can Autoregressive Language Model In Power BI Enhance Efficiency In Data Analytics?",
       "excerpt": "This is a Guest Blog by Mr Piyush Goel, Founder & CEO of Beyond Key In today’s world, where everything is centered around data manipulation and meeting customer demands precisely, using natural language to search through your data is the quickest approach to finding an answer from it.",
@@ -989,154 +1109,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-health-care-bias-is-dangerous-but-so-are-fairness-algorithms.md",
-      "title": "Health Care Bias Is Dangerous. But So Are ‘Fairness’ Algorithms",
-      "excerpt": "Likewise, it may reflect underlying social inequalities in health care access and expenditures. Whatever the cause of the performance gap, our motivation for pursuing fairness is to improve the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/bias-statistics-artificial-intelligence-healthcare/",
-      "originalUrl": "https://www.wired.com/story/bias-statistics-artificial-intelligence-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63dd8e4773cac2b11b42eb09/master/pass/ideas-ai-algorithm-healthcare-bias.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/bias-statistics-artificial-intelligence-healthcare/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bias-statistics-artificial-intelligence-healthcare/amp",
-      "publishedDateTime": "2023-02-08T06:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-google-translate-app-adds-more-context-in-case-of-multiple-meanings.md",
-      "title": "Google Translate App Adds More Context in Case of Multiple Meanings",
-      "excerpt": "Google's AI-powered Translate app has saved many a lost tourist in its time, but on Wednesday the company said it's getting an upgrade. Over the past year, Google has added more languages to its translation tool, including in offline mode. Now, it's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/google-redesigns-translate-app-adds-more-context-in-case-of-multiple-meanings/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/google-redesigns-translate-app-adds-more-context-in-case-of-multiple-meanings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/a88ebdaf0048eb08a4cb92c168e98027f1c56da0/hub/2023/02/08/2d11bc90-7f23-4347-a07a-1b3e251aea4c/gettyimages-1245835347.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-redesigns-translate-app-adds-more-context-in-case-of-multiple-meanings/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-redesigns-translate-app-adds-more-context-in-case-of-multiple-meanings/",
-      "publishedDateTime": "2023-02-08T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-08-aussie-driverless-car-firm-once-valued-at-300million-announces-brutal-redundancies-workers-who-left-their-home-countries-believing-the-start-up.md",
-      "title": "Aussie driverless car firm once valued at $300million announces brutal redundancies - workers who left their home countries 'believing' the start-up would thrive now beg for ...",
-      "excerpt": "An Australian driverless car technology company once valued at $300million has sacked 75 per cent of its staff in a 'drastic' downsizing. Baraja, which started eight years ago in Sydney and has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11725535/Baraja-driverless-car-start-cuts-jobs-300million-Australian-company-announces-redundacies.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11725535/Baraja-driverless-car-start-cuts-jobs-300million-Australian-company-announces-redundacies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2023/02/08/04/67447969-0-image-a-45_1675831079793.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11725535/amp/Baraja-driverless-car-start-cuts-jobs-300million-Australian-company-announces-redundacies.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11725535/amp/Baraja-driverless-car-start-cuts-jobs-300million-Australian-company-announces-redundacies.html",
-      "publishedDateTime": "2023-02-08T04:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
