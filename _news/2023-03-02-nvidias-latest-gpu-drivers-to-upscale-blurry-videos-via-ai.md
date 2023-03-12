@@ -1,94 +1,26 @@
 ---
 category: news
-title: "Nvidia's latest GPU drivers to upscale blurry videos via AI"
-excerpt: "“With RTX Video Super Resolution (VSR), GeForce RTX 40 and 30 Series GPU users can tap AI to upscale lower-resolution content up to 4K, matching their display resolution. The AI removes blocky compression artifacts and improves the video’s sharpness ..."
-publishedDateTime: 2023-03-02T13:25:00Z
-originalUrl: "https://glamsham.com/world/technology/nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai"
-webUrl: "https://glamsham.com/world/technology/nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai"
+title: "Nvidia's Latest GPU Drivers To Upscale Blurry Videos Via AI"
+excerpt: "With RTX Video Super Resolution (VSR), GeForce RTX 40 and 30 Series GPU users can tap AI to upscale lower-resolution content up to 4K, matching their display resolution. The AI removes blocky compression artifacts and improves the video's sharpness and ..."
+publishedDateTime: 2023-03-02T13:20:00Z
+originalUrl: "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI"
+webUrl: "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI"
 type: article
-quality: 34
-heat: -1
-published: false
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Nvidia’s new AI upscaling tech makes low-res videos look sharper in Chrome, Edge"
-    excerpt: "Nvidia's latest GPU driver introduces its new AI-based upscaling technique for making lower-resolution videos streamed offline look better on a high-resolution display. Now available via the GeForce driver 531."
-    publishedDateTime: 2023-03-01T21:06:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/"
-    ampWebUrl: "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/geforce-rtx-3090-product-gallery-inline-850-32x_345947f0-a017-4ca6-8019-2dc97a0d777f-prv-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Nvidia's new AI tool to breathe new life into streaming video"
-    excerpt: "Nvidia has introduced an Artificial Intelligence (AI)-based image upscaling tool for streaming video. Meant for the company's GeForce RTX 30 and 40 series graphic cards, RTX Video Super Resolution uses the GPU to upscale lower-resolution online video to 4K."
-    publishedDateTime: 2023-03-01T10:35:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/nvidias-new-ai-tool-to-breathe-new-life-into-streaming-video-10181631.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/nvidias-new-ai-tool-to-breathe-new-life-into-streaming-video-10181631.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/nvidias-new-ai-tool-to-breathe-new-life-into-streaming-video-10181631.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/rtx-video-super-resolution_full-size-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "Nvidia’s Rolls Out Latest GPU Drivers To Upscale Blurry Videos Via AI"
-    excerpt: "Nvidia has released new GPU drivers, which will upscale old blurry web videos on RTX 30 and 40-series cards. About 80 per cent of internet bandwidth today is streaming video, and 90 per cent of that content streams at 1080p or lower,"
-    publishedDateTime: 2023-03-03T08:37:00Z
-    webUrl: "https://www.techshout.com/nvidias-rolls-out-latest-gpu-drivers-to-upscale-blurry-videos-via-ai/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 54
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2023/03/nvidia-rtx-2060-graphic-card.jpg"
-        width: 690
-        height: 460
-        isCached: true
-  - title: "Nvidia’s latest GPU drivers can upscale old blurry YouTube videos"
-    excerpt: "Nvidia will support videos between 360p and 1440p up to 144Hz in frame rate and upscale all the way up to 4K resolution. This impressive 4K upscaling has previously only been available on Nvidia’s Shield TV,"
-    publishedDateTime: 2023-02-28T14:00:00Z
-    webUrl: "https://www.theverge.com/2023/2/28/23618245/nvidia-rtx-video-super-resolution-upscale-videos-rtx-gpu"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 49
-  - title: "I'm 100% enabling Nvidia's new AI upscaling tech for Twitch streams but it's no DLSS for video"
-    excerpt: "RTX Video Super Resolution is a neat new tool, but don't go expecting miracles—480p still looks a lot like 480p."
-    publishedDateTime: 2023-02-28T16:59:00Z
-    webUrl: "https://www.pcgamer.com/nvidia-rtx-vsr-tested-streaming-performance/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 27
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MKTmBeRgGL8inHzeAfj2Q5-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+images:
+  - url: "https://menafn.com/updates/pr/2023-03/02/I_5f244image_story.jpg"
+    width: 400
+    height: 267
+    isCached: true
 
-secured: "VbTtJMku70giq+aQ8WOcyTW/z/vnHCjbCKNHgRANhyxUa0UwzZaW7KHG/19c9VXiwQ0K0s3yE/wpHo3eJWqAsvuSWDhJzF+z2Kc9h0FRpoK3G9vhz8kslWSwRF3d98o6qKOXEnF7m4GcEblQNjWVnNy3w1EnNxalYxi2UDRaB3jJ8QAEelU9aCoemdskJ954rSMO12IiGBn79ZoKUKjnASCujneJFCG/sBYjf5qOASTpm0dfCmNyKW1SNgYUFnEg+D/UwExmO4fZQSdmUP0q66dtuL/4AVuM/byX7gpyWENQh4qecYMfzVCJPO4noVSTTSqM9yk21VrOV6ICB12UueSncFMYJE9irpTWMeCSXc8=;ILYgkHuVW5xU69HqzJrkZg=="
+secured: "0tSDD0xIdpV6ATIfN1EBCCopLmtbeqiNDwijvN/JvH5I1ZYHUomESXiGnHeiZO8TeHhq3yDDigVn4h56NTY+Zi70xn925tJYsOfOF+nrYxuVz5y542loKWmfl4+fLSjJg3/RGDKLPG8bhbV3KXrzqZUfNFBSzDkG++7wFrSWD6O677silD5zAXrIuwitOefjVmyssMLtobqVEI3eRx2/YjlIdjxiEVUWEhrBi/HfgglrUpUZrJiId9MM4lwqk2xG+wfkmT1USKcIwBOmB2IMmXyfOVIM791nCm7I2VuVY8dZEEALxDPSyHkiyQSjJtEl1T0zOLO7z9WUJwbbxkeVSGv+yEJBc3WDoCZIFx30R2M=;kTARVwN7b6+2CIpSgvkliw=="
 ---
 

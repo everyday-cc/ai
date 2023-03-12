@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-03-01-game-changing-actionable-intelligence-with-ai-driven-computer-vision.md",
+      "title": "Game-Changing, Actionable Intelligence with AI-Driven Computer Vision",
+      "excerpt": "Learn how game-changing AI-driven computer vision technology provides real-time insights and intelligent decision-making to optimize operations, improve productivity, and enhance customer experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/whitepapers/whitepaper/53026859/gamechanging-actionable-intelligence-with-aidriven-computer-vision",
+      "originalUrl": "https://www.securityinfowatch.com/whitepapers/whitepaper/53026859/gamechanging-actionable-intelligence-with-aidriven-computer-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/02/Image_3.63fe2577511bf.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-torc-robotics-announces-agreement-to-acquire-algolux.md",
       "title": "Torc Robotics Announces Agreement to Acquire Algolux",
       "excerpt": "Torc Robotics, an independent subsidiary of Daimler Truck AG and a pioneer in commercializing self-driving vehicle technology, announced today that it has signed an",
@@ -1110,58 +1153,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-28-usaf-begins-implementing-facial-recognition-on-some-of-its-drone-fleet.md",
-      "title": "USAF begins implementing facial recognition on some of its drone fleet",
-      "excerpt": "The added capability comes from long-time Seattle tech firm RealNetworks. The name probably sounds familiar because it's the same company that delved into streaming media before",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/97753-usaf-begins-implementing-facial-recognition-drone-fleet.html",
-      "originalUrl": "https://www.techspot.com/news/97753-usaf-begins-implementing-facial-recognition-drone-fleet.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-27-image-20.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

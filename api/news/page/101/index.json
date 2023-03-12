@@ -2,6 +2,49 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-12-09-apple-self-driving-ev-delayed-to-2026-likely-to-start-under-100000.md",
+      "title": "Apple Self-Driving EV Delayed to 2026, Likely to Start under $100,000",
+      "excerpt": "Apple has also scaled back its self-driving plans, with the car including traditional driving controls and only planned to be capable of autonomous driving on highways. The target is to sell the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/apple-self-driving-ev-delayed-144700351.html",
+      "originalUrl": "https://www.aol.com/apple-self-driving-ev-delayed-144700351.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_car_and_driver_636/d8d9076b5e16b2172a0d9337e5e9d4d0",
+          "width": 626,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-09T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-09-how-businesses-are-deploying-facial-recognition.md",
       "title": "How businesses are deploying facial recognition",
       "excerpt": "As facial recognition software becomes easier to acquire, businesses are using it to surveil and analyze customers. Bloomberg's Parmy Olson explains where and how the technology is being deployed.",
@@ -1093,49 +1136,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-12-09-crosswords-no-good-against-mild-cognitive-impairment.md",
-      "title": "Crosswords no good against mild cognitive impairment",
-      "excerpt": "Crosswords: Harmless Game or Debilitating Addiction? I think I may have mild cognitive impairment. See, I keep playing crosswords, which is supposed to stave it off, but I keep doing worse at the crosswords. I like crossword puzzles because I have an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.courthousenews.com/crosswords-no-good-against-mild-cognitive-impairment/",
-      "originalUrl": "https://www.courthousenews.com/crosswords-no-good-against-mild-cognitive-impairment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.courthousenews.com/wp-content/uploads/2022/12/crossword-puzzle.jpeg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Courthouse News Service",
-        "domain": "courthousenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

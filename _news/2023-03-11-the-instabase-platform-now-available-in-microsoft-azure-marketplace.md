@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/the-instabase-platform-now-a
 webUrl: "https://www.datanami.com/this-just-in/the-instabase-platform-now-available-in-microsoft-azure-marketplace/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -34,15 +34,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 49
-  - title: "SymphonyAI Adds KPI 360 Industrial Solution to the Microsoft Azure Marketplace"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, today announced the availability of its manufacturing operations insights solution, KPI 360 , in the Microsoft Azure Marketplace."
-    publishedDateTime: 2023-03-07T13:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-symphonyai-adds-kpi-360-industrial-solution-the-microsoft-/2023/03/07/9772085.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 45
   - title: "Microsoft is harnessing the power of the cloud to make the promise of quantum at scale a reality"
     excerpt: "Microsoft announced a significant quantum advancement and made our new Integrated Hybrid feature in Azure Quantum available to the public."
     publishedDateTime: 2023-03-08T17:00:00Z

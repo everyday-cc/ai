@@ -7,7 +7,7 @@ originalUrl: "https://www.tomsguide.com/news/google-is-building-a-1000-language-
 webUrl: "https://www.tomsguide.com/news/google-is-building-a-1000-language-translation-ai-it-just-took-a-big-step-forward"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Google marks major milestone towards its 1,000-language AI model"
-    excerpt: "Google's machine learning model is based on a self-supervised approach and is showing lower word error rates than the best language models out there."
-    publishedDateTime: 2023-03-07T14:23:00Z
-    webUrl: "https://interestingengineering.com/innovation/google-first-step-1000-language-ai-model"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/07/image/jpeg/u32zPZMsBRpmpTnVN1BPDvMST2gQTP0YEGVfJC8O.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "EGJsUCvFOdwY3XIprtw3b19C7G4wgl6a71Is8VR55AvzIrdB7sQH6QifhTCBKjaEMivVS40T9LyWr2v65eT5PV3OvpYDYw/2xyEAMQJeQB1cSYQuW4KAKNJ4+QkkUWNhTe8nhb4BQWuqA59wWLColPTGLqmYJotvu+LG9BlWNYA+XNqeDb2u/La/g5tbm7jLcREwcg+e6F3xsyS+HVQQwwMF6z5azRWUH3r7lsVV0+g5XH5hC0wlaIvS794ZCwtHR88bWk+w3/dWCuiMJ9wPfOsBvaEQTGXiMmidS6JsOElqyik5gtj3/i6+ide8ZrvUeK1E4Kf3GmzRNB139VjYW96QED6ib7diRWXrDnNDknY=;/rEzjgLHYFwngiIdVdeJFQ=="
 ---

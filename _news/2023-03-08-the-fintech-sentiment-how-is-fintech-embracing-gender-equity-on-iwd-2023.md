@@ -24,17 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Fintech Investment: What can we expect for 2023"
-    excerpt: "Despite the catchy headlines and the gloomy predictions, we will see many investment opportunities in FinTech companies in 2023 - especially among those embracing new technologies and AI. But there'll be new factors for the companies and investors to consider."
-    publishedDateTime: 2023-03-07T13:25:00Z
-    webUrl: "https://www.finextra.com/blogposting/23855/fintech-investment-what-can-we-expect-for-2023"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-
 secured: "GvpvHQ/Xd5IpYaQGt1E/5YXvRn1Xrw4MtND2sWb/2cvcL4fAlmZyCndjNKjkDkrJ6BTXVrPx7BjuIU/vnBeAzKVIISE/l+vtwPPeV6ZixPbUqkJncpYmg0aM/qln5/f4jMddUXf6OcuASsE0/cK61xgYH34wbMFNnKMlcPK0fjjdXBRXVeIFqAq9AJ2s2qusj2Qc8uTI19Wc7aGANSj13fmpP7Biatkqm2XAfGh8enXf+K9VgT3iHpkrOGUbUJW2uWvWFY2f3LhpSWye7iPEKVjeHIJs44qmZXEFh19cjU2KehalABg9avsJFePDtp2n7ZzjzqBUqAHSAEggba158awReC3jHwwVKJ8gf7kgWnI=;0LH0lLb+U6vqNpD0TNVMrg=="
 ---
 

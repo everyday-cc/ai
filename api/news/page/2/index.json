@@ -345,6 +345,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-09-from-marketing-to-design-brands-adopt-ai-tools-despite-risk.md",
+      "title": "From marketing to design, brands adopt AI tools despite risk",
+      "excerpt": "Even if you haven’t tried artificial intelligence tools that can write essays and poems or conjure new images on command, chances are the companies that make your household products are already starti",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376",
+      "publishedDateTime": "2023-03-08T18:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-natural-language-processing-nlp-market-global-opportunity-analysis-and-industry-forecast-2023-2028.md",
       "title": "Natural Language Processing (NLP) Market - Global Opportunity Analysis and Industry Forecast 2023-2028",
       "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
@@ -849,7 +892,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-marubeni-is-optimizing-market-decisions-using-aws-machine-learning-and-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -986,49 +1029,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-from-marketing-to-design-brands-adopt-ai-tools-despite-risk.md",
-      "title": "From marketing to design, brands adopt AI tools despite risk",
-      "excerpt": "We must embrace the risks,” said Coca-Cola CEO James Quincey in a recent video announcing a partnership with startup OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/marketing-design-brands-adopt-ai-tools-risk-rcna73938",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/marketing-design-brands-adopt-ai-tools-risk-rcna73938",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-03/230308-coke-mb-1342-9daf30.jpg",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna73938",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna73938",
-      "publishedDateTime": "2023-03-08T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     },
     {

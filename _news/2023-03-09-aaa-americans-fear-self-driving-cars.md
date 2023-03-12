@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The FBI, DoD and the shock of (facial) recognition"
+    excerpt: "In Beijing, some street corners have dozens of cameras to track citizens. Moscow has facial recognition payment systems at metro stations. London police use that software to “tackle serious ..."
+    publishedDateTime: 2023-03-07T21:04:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2023/03/07/the-fbi-dod-and-the-shock-of-facial-recognition-00085944"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 24
+    images:
+      - url: "https://static.politico.com/f9/60/0d431c7f487aa74c6fdc0b8454fb/https-delivery.gettyimages.com/downloads/1235349376"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "FBI, Pentagon helped research facial recognition for street cameras, drones"
     excerpt: "The FBI and the Defense Department were actively involved in research and development of facial recognition software that they hoped could be used to identify people from video footage captured by ..."
     publishedDateTime: 2023-03-09T23:10:00Z

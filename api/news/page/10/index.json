@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-02-28-usaf-begins-implementing-facial-recognition-on-some-of-its-drone-fleet.md",
+      "title": "USAF begins implementing facial recognition on some of its drone fleet",
+      "excerpt": "The added capability comes from long-time Seattle tech firm RealNetworks. The name probably sounds familiar because it's the same company that delved into streaming media before",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97753-usaf-begins-implementing-facial-recognition-drone-fleet.html",
+      "originalUrl": "https://www.techspot.com/news/97753-usaf-begins-implementing-facial-recognition-drone-fleet.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-27-image-20.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-automatic-speech-recognition-market-2023-growth-trends-with-the-rise-in-ict-industry-2029.md",
       "title": "Automatic Speech Recognition Market 2023 Growth, Trends With The Rise In ICT Industry 2029",
       "excerpt": "(MENAFN- The Express Wire) [128+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top“ automatic speech ...",
@@ -341,10 +393,10 @@
     {
       "path": "_news/2023-02-28-ai-in-computer-vision-market-worth-457-billion-by-2028-exclusive-report-by-marketsandmarkets.md",
       "title": "AI In Computer Vision Market worth $45.7 billion by 2028 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The global AI in computer vision market is expected to be valued at USD 17.2 billion in 2023 and is projected to reach USD 45.7 billion by 2028; it is expected to grow at a CAGR of 21.5% from 2023 to 2028 according to a new report by MarketsandMarkets™.",
+      "excerpt": "Several trends and disruptions are impacting customer businesses in Al computer vision; advancements in deep learning; deep learning is a subfield of machine learning that has revolutionized the field of Al computer vision.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ai-computer-vision-market-worth-457-billion-2028-/2023/02/27/9767024.htm",
+      "webUrl": "https://it.tmcnet.com/news/2023/02/27/9767024.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/02/27/9767024.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -354,7 +406,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T10:22:00-08:00",
+      "publishedDateTime": "2023-02-27T09:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -1148,49 +1200,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-whats-new-in-azure-data-ai-azure-is-the-best-place-to-build-and-run-ai-workloads.md",
-      "title": "What's new in Azure Data & AI: Azure is the best place to build and run AI workloads",
-      "excerpt": "Bringing together purpose-built AI infrastructure and managed data and AI services into one environment streamlines management and automation, often reducing the complexity of building, training, and bringing AI models into production.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/",
-      "originalUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-27T01:00:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

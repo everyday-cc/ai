@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/marketing-design-brand
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/marketing-design-brands-adopt-ai-tools-despite-risk-97703376"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: ABC
@@ -28,20 +28,18 @@ images:
 
 related:
   - title: "From marketing to design, brands adopt AI tools despite risk"
-    excerpt: "We must embrace the risks,” said Coca-Cola CEO James Quincey in a recent video announcing a partnership with startup OpenAI."
+    excerpt: "Mattel has put the AI image generator DALL-E to work by having it come up with ideas for new Hot Wheels toy cars. Used vehicle seller CarMax is summarizing thousands of customer reviews with the same “generative” AI technology that powers the popular chatbot ChatGPT."
     publishedDateTime: 2023-03-08T14:01:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/marketing-design-brands-adopt-ai-tools-risk-rcna73938"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna73938"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna73938"
+    webUrl: "https://www.chron.com/living/article/from-marketing-to-design-brands-adopt-ai-tools-17826340.php"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 104
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-03/230308-coke-mb-1342-9daf30.jpg"
-        width: 5472
-        height: 3648
+      - url: "https://s.hdnux.com/photos/01/31/64/21/23544924/6/rawImage.jpg"
+        width: 2048
+        height: 1536
         isCached: true
   - title: "From marketing to design, brands adopt AI tools despite risk"
     excerpt: "\"We need to embrace those risks intelligently, experiment, build on those experiments, drive scale, but not taking those risks is a hopeless point of view to start from.\" Indeed, some AI experts warn that businesses should carefully consider potential ..."

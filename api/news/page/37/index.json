@@ -2,6 +2,48 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-02-07-google-trials-its-own-ai-chatbot-bard-after-success-of-chatgpt.md",
+      "title": "Google trials its own AI chatbot Bard after success of ChatGPT",
+      "excerpt": "Technology will be added to Google’s search engine after explosion in use of rival backed by Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/feb/06/google-releases-its-own-ai-chatbot-bard-after-success-of-chatgpt",
+      "originalUrl": "https://www.theguardian.com/technology/2023/feb/06/google-releases-its-own-ai-chatbot-bard-after-success-of-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-without-fear-of-retribution-ny-state-bar-forms-group-to-study-facial-recognition-blacklisting-of-lawyers-from-msg-radio-city.md",
       "title": "'Without Fear of Retribution': NY State Bar Forms Group to Study Facial-Recognition Blacklisting of Lawyers From MSG, Radio City",
       "excerpt": "The use of facial recognition software to exclude members of law firms from a Knicks basketball game or a Taylor Swift concert discriminates against lawyers for doing their jobs,” said Sherry Levin Wallach,",
@@ -892,40 +934,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-exploring-gpt-3s-artificial-intelligence-from-a-psychologists-point-of-view.md",
-      "title": "Exploring GPT-3's 'artificial intelligence' from a psychologist's point of view",
-      "excerpt": "Researchers at the Max Planck Institute for Biological Cybernetics in Tübingen have examined the general intelligence of the language model GPT-3, a powerful AI tool. Using psychological tests, they studied competencies such as causal reasoning and deliberation,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-02-exploring-gpt-artificial-intelligence-psychologist.html",
-      "originalUrl": "https://techxplore.com/news/2023-02-exploring-gpt-artificial-intelligence-psychologist.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -3,8 +3,8 @@ category: news
 title: "Is artificial intelligence coming for your job? - video"
 excerpt: "Technology reporter Chris Stokel-Walker explains how the latest chatbots could jeopardise the careers of anyone who interprets information and generates written reports or commands."
 publishedDateTime: 2023-03-09T12:46:00Z
-originalUrl: "https://www.theguardian.com/technology/video/2023/mar/09/is-artificial-intelligence-coming-for-your-job-video?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/video/2023/mar/09/is-artificial-intelligence-coming-for-your-job-video?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/video/2023/mar/09/is-artificial-intelligence-coming-for-your-job-video"
+webUrl: "https://www.theguardian.com/technology/video/2023/mar/09/is-artificial-intelligence-coming-for-your-job-video"
 type: article
 quality: 37
 heat: 37
@@ -27,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Bamj5iy1CzB655IsR30UyxgprCWC1NWXB9uDKDm4JaYHbdsFEtChLiEM0evM95FT1ypTJzWoHBAeMvbQLMcljYeqWoYrLqR3B+F6h7KIPLmM9fHuscZvecUmAgjNaJardarvVQWNPfS6uZRPSYBkTA1DLhSjPel6QFhatDnYyfaNqEroTEsqdKhB9YjQJbtpA26IOHLCJmU5krSNgvQWNvb68se2g/SDWk0rWnDRehM1nz3b+HvNwey8dBvMLuL2HTmS7owUpsRjGSVToHJ4Og6/cZYHWRHj2eyRZ4vSxTcLJIqwYdJ7vlve5GALtK+nfDCAgHAbU7Ci4qQB//M12CU2/QD00rLv9x2VcfNdR+Sck7OJCZmfTyvVdTAiw0Cv4GaQ5SAA0AxYleG1ZIJrhyih8IKhuvrZgvJn+K4Me04cl4m912+NtkSTX/OIYrx5K69/tGW/59T7Oz34fn2+XMs/JTVdcvsWvAiwGcnEc9fGtDiez87MuaDVAqYKFqs7MMgkotzXYhRydH7AGIIr8w==;yShvFLdsgY9Ux7TL31Cgwg=="
+secured: "z5FMY9o5WoNdZQDLNs4GGZFVHMyyhRlZAnM/v/FubpAO2WZfDF4pWIAvloVc5Qkf9M/YjIMOft+20KKjS5AFWQQU1O6gThmr3zK5nphQI8h9Xk/FeYbNsjytVDMY3AuvLQuPbaPX4VtU3ruCKUcU1NeFVAKnVTKprhHzVTngb7n69J2ST9TIXJdHmkqEeod0gETee/AKCFqVTnjo7C4J1LopXpy42PuZniztzrAuSQUmcpNI6QkI/hmAKqqrXl7DVjwCEbvwE3YPsxkRktJFppQc1fS+/fouxOaF3jXuWgFotcS2azSi/4ESXc1WYaFCqxPGAcan3zDzJNTnGrDRRF5vOLixDa8HgUNQROV8xLg=;hc3WeVoA0f4fMld7z5+zxQ=="
 ---
 

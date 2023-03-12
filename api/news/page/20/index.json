@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-02-17-tesla-recalls-362000-vehicles-over-full-self-driving-software-issue.md",
+      "title": "Tesla Recalls 362,000 Vehicles Over Full Self-Driving Software Issue",
+      "excerpt": "Zach's grandparents Tesla recalled over 362,000 vehicles because the Full Self-Driving software on these vehicles may cause accidents, the National Highway Traffic Safety Administration announced Thursday. The recall affects certain 2016-2023 Model S ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 739,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/5ad6fee523c3400aaa56df47874d7ba1bd69a79a/hub/2020/09/25/26614e94-c7b0-431d-bbad-aa5f53bc242c/tesla-model-y.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-recalls-362000-vehicles-over-full-self-driving-software-issue/",
+      "publishedDateTime": "2023-02-16T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-17-heres-how-artificial-intelligence-is-helping-financial-advisors-manage-portfolios-at-raymond-james.md",
       "title": "Here's how artificial intelligence is helping financial advisors manage portfolios at Raymond James",
       "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Artificial intelligence technology is already in the world of finance and will only become more influential, according to Raymond James CEO Paul Reilly. He told Yahoo ...",
@@ -1157,51 +1209,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-the-impact-of-ai-and-machine-learning-on-financial-education.md",
-      "title": "The Impact of AI and Machine Learning on Financial Education",
-      "excerpt": "One of the most common challenges faced by students pursuing financial education is dealing ... It is exactly where the use of AI-based tools and machine learning offer help.",
-      "sourceUrl": null,
-      "webUrl": "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/",
-      "originalUrl": "https://finchannel.com/the-impact-of-ai-and-machine-learning-on-financial-education/114893/personal-finance/2023/02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://finchannel.com/wp-content/uploads/2023/02/desctopworking1-copy.jpg",
-          "width": 900,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial",
-        "domain": "finchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Education"
       ]
     }
   ],

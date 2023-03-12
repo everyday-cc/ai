@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-02-21-jaguar-land-rover-opens-three-european-self-driving-tech-hubs.md",
+      "title": "Jaguar Land Rover opens three European self-driving tech hubs",
+      "excerpt": "LONDON, Feb 21 (Reuters) - Luxury carmaker Jaguar Land Rover said on Tuesday it is opening three new engineering hubs in Europe to develop autonomous vehicle technologies as part of its partnership with Silicon Valley artificial intelligence company Nvidia ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-opens-three-european-self-driving-tech-hubs-2023-02-21/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/jaguar-land-rover-opens-three-european-self-driving-tech-hubs-2023-02-21/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-20T15:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-21-roger-c-schank-theorist-of-artificial-intelligence-dies-at-76.md",
       "title": "Roger C. Schank, Theorist of Artificial Intelligence, Dies at 76",
       "excerpt": "By Steve Lohr Roger C. Schank, a scientist who made influential contributions to the field of artificial intelligence and then, as an academic, author and entrepreneur, focused on how people learn ...",
@@ -1204,59 +1247,6 @@
         "AWS AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-artificial-intelligence-could-increase-foreign-espionage-displace-jobs-without-proper-guardrails-experts-say.md",
-      "title": "Artificial intelligence could increase foreign espionage, displace jobs without proper guardrails, experts say",
-      "excerpt": "Quickly evolving artificial intelligence technologies like ChatGPT could increase cyberattacks from foreign countries and displace workers in the U.S. labor force, highlighting the need for new skills and training among American students and workers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/artificial-intelligence-increase-foreign-espionage-displace-jobs-guardrails-experts",
-      "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-increase-foreign-espionage-displace-jobs-guardrails-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9173ff0e-731a-4938-8d98-838e96cab4aa/8c3c171d-0b0c-4650-a5c1-bb79bf268d11/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/artificial-intelligence-increase-foreign-espionage-displace-jobs-guardrails-experts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-increase-foreign-espionage-displace-jobs-guardrails-experts.amp",
-      "publishedDateTime": "2023-02-19T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
       ]
     }
   ],

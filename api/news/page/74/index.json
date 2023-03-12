@@ -2,6 +2,49 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-01-10-why-advisors-should-make-plans-well-before-they-experience-cognitive-decline.md",
+      "title": "Why advisors should make plans well before they experience cognitive decline",
+      "excerpt": "Advisors look out for cognitive decline in their clients, but what happens when it’s advisors themselves who experience progressive memory loss and other symptoms severe enough to impact their work?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/globe-advisor/advisor-practice/article-why-advisors-should-make-plans-well-before-they-experience-cognitive/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/globe-advisor/advisor-practice/article-why-advisors-should-make-plans-well-before-they-experience-cognitive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/DcvkPvx7LA2O-uypqiSEe1GT3sI=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/6A5RMBIFINFEFER6J32QFI3ODI.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T02:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-10-machine-learning-accelerates-drug-formulation-development-changing-the-game-for-pharmaceutical-research.md",
       "title": "Machine Learning Accelerates Drug Formulation Development, Changing the Game for Pharmaceutical Research",
       "excerpt": "New study demonstrates the potential for machine learning to accelerate the development of innovative drug delivery technologies. Scientists at the University of Toronto have successfully tested the use of machine learning models to guide the design of long-acting injectable drug formulations.",
@@ -1106,49 +1149,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-how-ai-chatbots-are-changing-how-we-write-and-who-we-trust.md",
-      "title": "How AI chatbots are changing how we write and who we trust",
-      "excerpt": "ChatGPT is one of the most sophisticated AI chat bots ever released ... You remember the quip from a Facebook guy, The best minds of my generation. I try to figure out how to get you to click ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/onpoint/2023/01/10/how-ai-chatbots-are-changing-how-we-write-and-who-we-trust",
-      "originalUrl": "https://www.wbur.org/onpoint/2023/01/10/how-ai-chatbots-are-changing-how-we-write-and-who-we-trust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://media.wbur.org/wp/2023/01/GettyImages-1245391728-1000x650.jpg",
-          "width": 1000,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }
