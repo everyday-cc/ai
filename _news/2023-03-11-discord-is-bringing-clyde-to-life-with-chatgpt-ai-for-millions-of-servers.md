@@ -142,22 +142,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 64
-  - title: "ChatGPT vs Google: The Battle of AI-Language Models"
-    excerpt: "This blog explores the comparison between two popular AI language models: ChatGPT developed by OpenAI and Google's AI language model, also known as BERT. Both models have their strengths and weaknesses,"
-    publishedDateTime: 2023-03-07T16:05:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2371583-chatgpt-vs-google-the-battle-of-ai-language-models"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2371583-chatgpt-vs-google-the-battle-of-ai-language-models?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2371583-chatgpt-vs-google-the-battle-of-ai-language-models?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 59
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_03_2023_21_30_36_4644547.jpg?width=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "In ChatGPT's shadow, India readies for aggressive AI play"
     excerpt: "\"One good example is Bhasini -- a natural language AI platform, which enables automated language translation and is already being integrated with ChatGPT.\" Finance Minister Nirmala Sitharaman in her recent Budget announced that in order to unleash ..."
     publishedDateTime: 2023-03-11T03:36:00Z

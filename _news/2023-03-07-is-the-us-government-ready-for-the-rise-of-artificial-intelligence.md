@@ -3,14 +3,11 @@ category: news
 title: "Is the US government ready for the rise of artificial intelligence?"
 excerpt: "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding"
 publishedDateTime: 2023-03-07T14:20:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?bingParse"
+webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?bingParse"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
   name: The Guardian
@@ -30,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "uYSjYTbIDkLBAnMGCqb64aqpiKmWmFFcR6j21Vv9z6X+TIV+aqqbv9CXi4EMRU76nR9CipwLV2ipk8IoHf5GQbr9/O1EBQTEkBxwHQGfYxEtZ1fVO4TXqf6/eliFIBRIBHvpWmFy3bV5P3ya9fm9m9yKqpd5irCt+pLqxgFKIDTgCVjhKQU1KKB8lNU6WbSxfYuPRjQ3hMIWp1HnasPxnj2MhOvcc3eIeJ0K8JdYx3KrKt+JjKyQCvO0zi3FJfZNU3WbtjoQgaqG2VR9vmlWK2VlZnL083YXBfMJTwwz4LXkbZm5u/Whz5NQG8d2QJx2MF5mlT1Z3XMuZjk44ksocdGYROxida2g/CvK+y1oWJs=;yxYgcFBndCNmZKKvJR/7PQ=="
+secured: "3wWKK41WiY13Pqf0jbyj5XGWg5DqBAcj6pidfPc4uIIcaq4TFMh57FtnVQugPZq8Ak1uTxib9SKPeeuKLw6PdhDcp6L5JLJBETR1jjX/Vay3T2IWeH8sXbhtlz0f+69skF2+HCr3jgS7qtctRkjAbGAYGBnfxWrq8r24fOFi68zYNQc1NNt9J2BMpY1F793vwdTj4WPvRghQRpHlQyjbWkO4Wz0DqA2zaeUC+DPH3M3eRZ+xx8+Fu6Eglt5p2NTHpFIxrbFDPRQ8fMNrfyfAYFtMcNn4H8052pLy6M6qLdP6MSNwJNDXgRf7J00UnaHkey55lIyVvxgjGwo4ZnUdNPKIpAXP6mH/BoPDPSHG7FM=;MtaVl/CtWXWBiuXlIDRC1A=="
 ---
 

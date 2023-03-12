@@ -39,6 +39,22 @@ related:
         width: 800
         height: 509
         isCached: true
+  - title: "Groq Adapts Meta's Chatbot For Its Own Chips In Race Against Nvidia"
+    excerpt: "Close up of the GroqNode product by Silicon Valley AI chip startup Groq, in Mountain View, California, U.S., July, 2022. Groq Inc./Mark Heaps/Handout via REUTERS Reuters Groq, a Silicon Valley ..."
+    publishedDateTime: 2023-03-09T23:49:00Z
+    webUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533"
+    ampWebUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://d.ibtimes.com/en/full/4430345/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "WNbAedPYe51zH7fC5v7wNahHIzG0ANO10uEHnfXUn29rYUHMY01+oDD1tYGO0MqfhklsrjelPJOYAytHAws87USVelksld0WcwtPtjZj9gw7tynuROYSd0V1pPEE4o5bf9vJ7FdDtuDRqRGRNc29iKzC7VThydxsCLHWO51wv/obXBo6DevrkYccXBZbmszJPq6zxCZWm077eLCT4Q5hc+FEjWCUuSmuPznwFLPoU9+9pHwPPUirUbhphqXzcekqD21rQvPs8W1/letSBfGAdz+8DxSmNsuh1wW3O05JLAfXC/fep/ojVadpsLaiGp5VJmx0dKDXTdhrxdoU0R7ll32S4eCPjrRTOmjUt5IXeMlLZmUyk2J08RG+cfJHNf5ZgDdswjzR6/Oe12C3ybn4VekQUkdkM2KxcMDSkCmN7vv+EgaBY87nM28eFfNULGE2CHyY1sULC9wFe6n07lGWGi8Arf0vHykKuKJwMCM3OglBFYn0Yv82sxLSTIWMjKKdECi0v8ynrah5VAd2G3A2zQ==;b5dSMOAVx5OuP1RtKZywBw=="
 ---

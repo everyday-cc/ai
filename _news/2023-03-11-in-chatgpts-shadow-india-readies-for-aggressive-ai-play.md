@@ -142,22 +142,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 64
-  - title: "ChatGPT vs Google: The Battle of AI-Language Models"
-    excerpt: "This blog explores the comparison between two popular AI language models: ChatGPT developed by OpenAI and Google's AI language model, also known as BERT. Both models have their strengths and weaknesses,"
-    publishedDateTime: 2023-03-07T16:05:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2371583-chatgpt-vs-google-the-battle-of-ai-language-models"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2371583-chatgpt-vs-google-the-battle-of-ai-language-models?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2371583-chatgpt-vs-google-the-battle-of-ai-language-models?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 59
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_03_2023_21_30_36_4644547.jpg?width=1280"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Discord Is Bringing Clyde To Life With ChatGPT AI For Millions Of Servers"
     excerpt: "Discord is looking to take advantage of the nearly 3 million servers already using AI, by introducing new AI-driven tools of its own."
     publishedDateTime: 2023-03-10T17:26:00Z

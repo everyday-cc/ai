@@ -7,7 +7,7 @@ originalUrl: "https://jp.reuters.com/article/nvidia-ai-idCAKBN2UX0XW"
 webUrl: "https://jp.reuters.com/article/nvidia-ai-idCAKBN2UX0XW"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Groq Adapts Meta's Chatbot For Its Own Chips In Race Against Nvidia"
+    excerpt: "Close up of the GroqNode product by Silicon Valley AI chip startup Groq, in Mountain View, California, U.S., July, 2022. Groq Inc./Mark Heaps/Handout via REUTERS Reuters Groq, a Silicon Valley ..."
+    publishedDateTime: 2023-03-09T23:49:00Z
+    webUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533"
+    ampWebUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://d.ibtimes.com/en/full/4430345/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ClearML Certified to Run NVIDIA AI Enterprise Software Suite"
     excerpt: "ClearML, an open-source MLOps platform, today announced it has been certified to run NVIDIA AI Enterprise, an end-to-end platform for building accelerated production AI. ClearML said the certification makes its MLOps platform more efficient across workflows,"
     publishedDateTime: 2023-03-07T20:32:00Z

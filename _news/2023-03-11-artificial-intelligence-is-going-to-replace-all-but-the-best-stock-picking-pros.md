@@ -47,21 +47,7 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Catching the Artificial Intelligence Boom Requires Smart Stock Picking"
-    excerpt: "Applied Materials is a technology play that offers both the right price and the right equipment for investors looking for an AI edge."
-    publishedDateTime: 2023-03-07T16:42:00Z
-    webUrl: "https://realmoney.thestreet.com/investing/stocks/catching-the-artificial-intelligence-boom-requires-smart-stock-picking-16117678"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 39
-    images:
-      - url: "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/2ce241e7-e924-11e8-894c-35c8edd595e0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
-secured: "I8g97Sn38rbAoxaHh7QaUBi+ljeJTjNPvVZXcAk5bM21y9qkUs2U1dQhmB8TlpCFskUhWVQWZHCorqxXG04JY2WA+6PD57XS65HPeb+UrmaPwLsTfqHwSwgbu+62NWbETbWrO/e3i/kpYg2dEIfmsl6xGnIgZwTzIxcRXQGnVrPyt3YNDuGJUZOT8Z+owunT0L9vI9SgJIpgXwvgtCFfGj0358UMyF95NjofYaCzm3DAFqv9ra86yehRCX4Udp5dtDhQnXAJl5RisRskEVJvg+KnU15IEsNAytFGDQtiVVSxLcOk4SO2a76cxtbLKqwDlMnGLcMakjvCXcqidwl4MjGvlCYYxAezyXY7WuYv1xY=;8OI1TRRqk/3wkNwXaAj9Rg=="
+secured: "No9CqtMCrLB8iaCami6sp6JPv93D65GJH6YuYVOCgVK7YJdqsXoAwRNGGUe+RGDOmOMwi/ddFZlhN8kNjbFW77yQ3BKMP7yXFtXTFEizQMiHFeINrXaNQ1ebfXaRaRjSaWg4O9hVjydDLqBepC3D3gxrY2XFxkcEIgD75Zx1mlHVWA30s+fYY3iM5V+H/6QSX4eib2/uKc6W3ERgZuIRsrp8ZqCPVzarjGgRw+mrtKBbNGx0+uerqhLObIPZjZDTjSzgRb37nF3+wX71Zt+Rgh/XA69FjvPUE7SG2Ra0PwJGetkdq6bbA0qo1b18S/+ujtJW1DoqhQQg7MXU6G5mZn3QEqOkDkSDFIniEH/KdQGmEzcM7eEbZUeXU3IkJJ149/93GCEL2CdRsMhDF/kut2/dI0Z2p1xR72qN8H4u6IUmZWEKvkYCBS8qpad50CIAVa6dcVd7/aP287QFZZ7dXm/4+Fi2lkdlTWeR4HnPPOSTVUvNrBfUXJilH5chXR6V+4uIOJWPZwyAXrQr6Udcjg==;2tgvF+43fiW7fAIzGtCwWQ=="
 ---
 

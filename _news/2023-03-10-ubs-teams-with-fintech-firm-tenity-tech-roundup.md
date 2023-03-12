@@ -50,15 +50,6 @@ related:
       name: business-reporter.co.uk
       domain: business-reporter.co.uk
     quality: 19
-  - title: "Fintech Sandbox unveils demo day lineup"
-    excerpt: "Fintech Sandbox, a nonprofit that provides early-stage startups around the world with free access to critical datasets and infrastructure, today announced the line-up for its free, virtual Demo Day 9."
-    publishedDateTime: 2023-03-07T16:19:00Z
-    webUrl: "https://www.finextra.com/pressarticle/96006/fintech-sandbox-unveils-demo-day-lineup"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "XkiAo3dV099yFzWTNgMkg3TfAgKE6wwfi2f7ymYd6xxihMQxe71EyfC/dd/b0X4xOHcZpISmFciVeBLCVrYyNlXrhknG+LMXCInMM70anqwk08L05n1VsKa4//7Yubdbyn6O21OUYFlLIKJpuRLa255jdzuEm2lJ2HPKEXMqRKuBELkDsvewQvC92m42RxO54D7lLaD81tzrg/w8GZgOsf+u8rPP6k605iRpxbKSsSgmpwVTDR/oTRx3jkUY3RbhBP3bJ8uVaMgiMI6Ntb6/oXb6D9P+YtMnTGGVqwlcSMbikG5ejAnTMtXJOgULN9/Kr9LJPby+BAn1paC/yMmWQZJq8FWHl21oPx9KJpk4ag+9dJgmKphwRaXrBjHXE3mD+H0Wd92fL/CChnyO+eF4M29rDa2ZXR4RHojn2uutU1fnKr/WM1FKiXHGoDtMllN/mNczSNhewAxk1qxlpBuwCOgpOMrrnZ2k7KcoxNJO5ilRR4lGsi94n9X1X24bAzWFS4qAWMlj2MHnxWkmfgkn1A==;C/6+zW+VSaRI50Om65i1tQ=="
 ---

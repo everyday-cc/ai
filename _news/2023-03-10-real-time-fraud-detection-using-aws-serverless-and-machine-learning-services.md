@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/real-time-fraud-dete
 webUrl: "https://aws.amazon.com/blogs/machine-learning/real-time-fraud-detection-using-aws-serverless-and-machine-learning-services/"
 type: article
 quality: 103
-heat: 114
+heat: 115
 published: true
 
 provider:

@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Alibaba, iQiyi, or Baidu: Which Has the Best Growth?"
-excerpt: "Ahead of Alibaba’s (BABA) strong quarterly results, the stock peaked at ~$120. It closed at $89.00 after strong results. Baidu (BIDU) mentioned artificial developments and rose, only to fall. iQiyi (IQ) traded close to a 52-week high after posting results."
-publishedDateTime: 2023-03-01T14:34:00Z
-originalUrl: "https://www.baystreet.ca/articles/stockstowatch/85369/Alibaba-iQiyi-or-Baidu-Which-Has-the-Best-Growth"
-webUrl: "https://www.baystreet.ca/articles/stockstowatch/85369/Alibaba-iQiyi-or-Baidu-Which-Has-the-Best-Growth"
+excerpt: "That represents almost half of its market capitalization. The margin of safety is large for BIDU stock. Baidu is developing self-driving and AI. It is the dominant search engine in China. iQiyi is a Chinese online video platform. It reported average daily ..."
+publishedDateTime: 2023-03-01T13:42:00Z
+originalUrl: "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01"
+webUrl: "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01"
 type: article
 
 provider:
-  name: BayStreet
-  domain: baystreet.ca
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "lRRs0klA+uSy0qMQGIUOofjaftxaCWC2VLXb14+muCsvcsHVgUP/KrKKGZix+u7xdep/Kk6W19QTqBAM5h8xvheDxKY7F9rHQ5KT2TRXCxR95dqGpO8loO/6KV+R1aeOYSZXQ+qPNDzgqLlusdllIUMP6taEO4QDbTjicM3RFJ/dYwigZkm8jeI+caEs3OYkNf+dDB0zTlIsOdLxzhjO8syaJXapz8hY0RnKcz+FwLvGS0LwC4X9fxi6K2GE2+Ml2NxOwx8H0OiMAybPvXNIwYvabuIEw3uamxt1SYVNqnmlfUoGPUNz2k4XA233LzPHYjuN8wgK7fosWbtoQr8MFgrVfCH2rbPOP/lDvcEBWCcVvOVDrZ7X7apgs+yANzPhX0Im3uNzjaHDbPDa6BPEboZM7nmflzuXdQuO9D1E+lRUuRwZYKOnVHhKNoIR9ORAecqojhK1Nfkjql/bQn40b2QkwIwgxBcCzI6zOdcTqpW6Rx2SIiYGnTp4Y4ggWDk4kKx8zrYgT9YeweX78OZzTw==;luNlMOzS4Eyi1dP7AeKLqA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "IEEzB3yf2rC3kFELqi0/8tZjnJOphdikhhdUVMIynXdv9KBh5BniZltW+6i7nStjRA9sXlQtKjFkEz/Ob7W6cyf+1X9NXc/AsoWo7Dw/FvkeE/ngXv0U1Z5ZaSCKzF1yrpL0DwPm9yzob9Tmm9QbtYRoRtTfmFYnDQXeDarr+FlHjNM/b1TBURhnitTQ/fCiaQtHZ28uVsxcpm0i3ppx83k/WRdoWC9KLOnadsbk6dBO9825DR6ZjxhWbbdllPD2tX3mB5X7aPFVBv1vpq3Fe3BOLDEk58G3LZIxcVv7Bmw3IeDfQZqnHlSOYiCPJTBpP1LBzhbx+G3FoGQYZZVYXBXypDUD/KA0plkp0NQ/1hA=;JOayfcKvzL72O/1RgnfEKQ=="
 ---
 
