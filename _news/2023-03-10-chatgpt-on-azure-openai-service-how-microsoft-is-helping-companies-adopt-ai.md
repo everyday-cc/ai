@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT, Machine Learning And Generative AI In Healthcare"
-    excerpt: "The use of generative AI has the potential to greatly impact clinical understanding, diagnosis and treatment of complex medical conditions as well as improve the accuracy, efficiency and effectiveness of healthcare system function."
-    publishedDateTime: 2023-03-07T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6405efa13b66613f66c92092/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "ChatGPT is now available in Azure OpenAI Service"
     excerpt: "Today, we are thrilled to announce that ChatGPT is available in preview in Azure OpenAI Service. With Azure OpenAI Service, over 1,000 customers are applying the most advanced AI models—including Dall-E 2, GPT-3.5, Codex, and other large language models backed by the unique supercomputing and enterprise"
     publishedDateTime: 2023-03-09T08:00:01Z
@@ -56,6 +40,22 @@ related:
       - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7aef177b-557f-4544-aa26-746ac23def5d.png"
         width: 1200
         height: 470
+        isCached: true
+  - title: "ChatGPT comes to Microsoft’s enterprise-focused, Azure-powered managed service"
+    excerpt: "ChatGPT is now available through the Azure OpenAI Service, Microsoft's fully managed, enterprise-focused repackage of OpenAI tech."
+    publishedDateTime: 2023-03-09T20:41:00Z
+    webUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/"
+    ampWebUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 100
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-655242462.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "More AI experiences are coming to Discord, including ChatGPT"
     excerpt: "The social platform is leaning into AI and adding new features to optimize user experience. Here's what you can expect."
@@ -89,37 +89,33 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Microsoft to launch ChatGPT 4 with AI videos"
-    excerpt: "but the GPT 4 will change the app to be the underlying large language model technology that powers it. At the recent “AI in Focus — Digital Kickoff” event, Microsoft explained that GPT-4 would be “multimodal\", which will allow AI to translate a ..."
-    publishedDateTime: 2023-03-11T07:02:00Z
-    webUrl: "https://tribune.com.pk/story/2405548/microsoft-to-launch-chatgpt-4-with-ai-videos"
-    ampWebUrl: "https://tribune.com.pk/story/2405548/microsoft-to-launch-chatgpt-4-with-ai-videos?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2405548/microsoft-to-launch-chatgpt-4-with-ai-videos?amp=1"
+  - title: "ChatGPT is now available with Microsoft’s Azure OpenAI Service"
+    excerpt: "Microsoft has announced that ChatGPT is now available in Azure OpenAI Service, enabling developers to integrate custom AI into their services."
+    publishedDateTime: 2023-03-09T22:01:00Z
+    webUrl: "https://bgr.com/tech/chatgpt-is-now-available-with-microsofts-azure-openai-service/"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 76
+      name: BGR
+      domain: bgr.com
+    quality: 69
     images:
-      - url: "https://i.tribune.com.pk/media/images/chatgpt-(1)1674717934-0/chatgpt-(1)1674717934-0.jpg"
-        width: 2240
-        height: 1260
+      - url: "https://bgr.com/wp-content/uploads/2021/06/Windows-11.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "How to invest in new AI technologies like ChatGPT, DALL-E, and more: Wall Street analysts weigh in"
-    excerpt: "Wall Street is buzzing about AI, as analysts from Bank of America, UBS, and more pick their favorite artificial intelligence stocks to buy now."
-    publishedDateTime: 2023-03-09T11:00:00Z
-    webUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-investing-chatgpt-how-to-invest"
-    ampWebUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-investing-chatgpt-how-to-invest?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-investing-chatgpt-how-to-invest?amp"
+  - title: "Microsoft's Azure OpenAI service gets ChatGPT for preview: Know everything"
+    excerpt: "In January 2023, the tech giant announced the general availability of the Azure OpenAI service, which enables enterprises to power their application with large-scale AI."
+    publishedDateTime: 2023-03-10T06:57:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/microsoft-s-azure-openai-service-gets-chatgpt-for-preview-know-everything-2023-03-10-853429"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
+      name: India TV
+      domain: indiatvnews.com
+    quality: 67
     images:
-      - url: "https://i.insider.com/6408bad975a7270019daef57?width=1200&format=jpeg"
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/azure-openai-1678430477.jpg"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
   - title: "ChatGPT now chatting via Azure OpenAI Service"
     excerpt: "Developers can now integrate ChatGPT directly, using a token-based pricing system, into a host of different enterprise and end-user applications."
@@ -145,22 +141,6 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_03_2023_21_30_36_4644547.jpg?width=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Can AI Tools Like ChatGPT Replace Computer Programmers?"
-    excerpt: "Despite the fast-evolving capabilities of AI chatbots to write code as well as human language, many computer science educators see significant limits for these tools in accuracy, security and copyright infringement."
-    publishedDateTime: 2023-03-11T00:17:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers"
-    ampWebUrl: "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/42ae3da/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe0%2F58%2Fcd33f8254f75a3ad8525609a2513%2Fcomputer-programmers.jpg"
-        width: 840
-        height: 438
         isCached: true
   - title: "In ChatGPT's shadow, India readies for aggressive AI play"
     excerpt: "\"One good example is Bhasini -- a natural language AI platform, which enables automated language translation and is already being integrated with ChatGPT.\" Finance Minister Nirmala Sitharaman in her recent Budget announced that in order to unleash ..."
@@ -194,34 +174,6 @@ related:
         width: 708
         height: 399
         isCached: true
-  - title: "AI in finance: How generative tools like ChatGPT can help with loan underwriting and even give personalized financial advice"
-    excerpt: "AI is already in finance, giving personal financial advisors a jumping-off point. Generative tools like ChatGPT can be used for administrative tasks."
-    publishedDateTime: 2023-03-08T10:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-in-finance-fintech-chatgpt-generative-tools-credit-suisse-2023-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://i.insider.com/637bf8ce2c8b9a0018cc0212?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Chinese AI chip vendors eyeing return to profits on ChatGPT wave"
-    excerpt: "With Baidu, Alibaba and other Chinese Internet companies successively announcing their entry into the field of AIGC (AI-generated content), substantial business growth opportunities are expected to follow for related supply chain players."
-    publishedDateTime: 2023-03-09T06:04:00Z
-    webUrl: "https://www.digitimes.com/news/a20230308PD201/ai-chatgpt-china.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20230308pd201_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Forget Chatgpt. Nvidia Is The Real AI Winner..."
     excerpt: "Ever since AI chatbot ChatGPT burst onto the scene in November, any stock even remotely related to AI has soared. Gates Capital Management's ECF Value Funds have a fantastic track record. The funds (full-name Excess Cash Flow Value Funds),"
     publishedDateTime: 2023-03-11T04:35:00Z
@@ -236,20 +188,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Nvidia: ChatGPT's core AI technology drives explosive revenue growth"
-    excerpt: "Nvidia underwent a complete top-to-bottom transformation as artificial intelligence (AI) became the primary focus of every chip produced."
-    publishedDateTime: 2023-03-08T16:25:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-aitech-growth-core-chatgpt"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/08/image/jpeg/jLLj1PCE8AEbq0B7keZCawqXSJ9QJaMnwnBCA4pg.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "ChatGPT sparks investment talk in AI and other technology stocks"
     excerpt: "The ChatGPT artificial intelligence global juggernaut has added spice to the battered technology sector as more investors seek a slice of emerging industries."
     publishedDateTime: 2023-03-10T16:39:00Z
@@ -261,43 +199,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
-  - title: "Oracle’s Ellison: Health-Care AI ‘More Important’ Than ‘Very Cool’ ChatGPT"
-    excerpt: "Health-Care AI ‘More Important’ Than ‘Very Cool’ ChatGPT Wade Tyler Millward March 10, 2023, 09:23 AM EST ‘People talk about ChatGPT being"
-    publishedDateTime: 2023-03-10T14:23:00Z
-    webUrl: "https://www.crn.com/news/cloud/oracle-s-ellison-health-care-ai-more-important-than-very-cool-chatgpt"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/027f-17800f5d50a0-fcc0a1d22d66-1000/larry-ellison3-oracle-22.jpeg"
-        width: 611
-        height: 458
-        isCached: true
-  - title: "Worried that ChatGPT is coming for your job? An old assessment tool may have the answer"
-    excerpt: "Instead of dwelling on whether an AI can compete with a human expert, we should be asking how well an AI’s capabilities can be used to help foster human critical thinking, judgment and creativity."
-    publishedDateTime: 2023-03-07T14:25:00Z
-    webUrl: "https://www.yorkdispatch.com/story/opinion/contributors/2023/03/07/worried-that-chatgpt-is-coming-for-your-job-an-old-assessment-tool-may-have-the-answer/69980656007/"
-    type: article
-    provider:
-      name: The York Dispatch
-      domain: yorkdispatch.com
-    quality: 16
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/03/07/PPYD/d952a170-db31-4b8a-87f7-5b0c38121738-OPED-AI-TOOL-COMMENTARY-GET.jpg?auto=webp&crop=1599,900,x0,y81&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "D-ID's Generative AI to Power Online Chatbot for Victims of Domestic Violence"
-    excerpt: "ID, a world leader in generative AI, and  Spring ACT, an award-winning non-profit organization that leverages technology to eliminate global injustices, announced today a campaign to use Generative AI to strengthen global online support for victims of domestic violence."
-    publishedDateTime: 2023-03-08T10:44:00Z
-    webUrl: "https://it.tmcnet.com/news/2023/03/08/9773079.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
 
 secured: "3ZTrqVqgnk2TWXPX/WO1BgHgnDgeefw7MGzozbKOSkSX8rtahlue7RSw8HwjQJZT7r7hQ/OQJr9jmQU8UY05+ZFRtFzqE2+ye8+N+lXBhJeDVa3NSJNn+jE0leKiaX2WPJatLg+957rhONE6hrAzmWrxW8fn/D3hFyTKjpgG1F+4PKvjcsfsugA4+bgQ9+Xq8w8FWSbcFzcpTTiDqHOgSwKB3UWW+GlwnI1GFTcn0DrJTEIao1UdxxqGaruPrIGjkTjQrDcr2mhNwzTpPezZTLeu8LO6Ppe9viQC3GaOtFh0L1e8aobWDz+gzx+Yjn5u9FTko4l1GY7aHtvrZc6pl9M80ZX04K4GmYcuqaZuTefgiC91PJEQEZAdRHi0jCWkZpVEg7EveQ7UfUD5xmNO7rdNcn3JB+W+H+CL1WtA8oRgZm9V9OoCfZp6aQzv5nxqbKSKJ9gR/fkMHRXhpDNKy76HHhU4y9x++xIt1g2yIylk/2nawAcXBz5TXsi9sBojnAZgrNi/ey23HM7DgwS4rQ==;731YH543bCjP9pAkVBFWrA=="
 ---

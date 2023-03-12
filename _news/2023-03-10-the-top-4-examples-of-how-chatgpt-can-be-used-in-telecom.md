@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-exampl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/0/90686_25_facebooks-version-of-chatgpt-leaks-online.jpg"
         width: 620
         height: 465
+        isCached: true
+  - title: "Worried that ChatGPT is coming for your job? An old assessment tool may have the answer"
+    excerpt: "Instead of dwelling on whether an AI can compete with a human expert, we should be asking how well an AI’s capabilities can be used to help foster human critical thinking, judgment and creativity."
+    publishedDateTime: 2023-03-07T14:25:00Z
+    webUrl: "https://www.yorkdispatch.com/story/opinion/contributors/2023/03/07/worried-that-chatgpt-is-coming-for-your-job-an-old-assessment-tool-may-have-the-answer/69980656007/"
+    type: article
+    provider:
+      name: The York Dispatch
+      domain: yorkdispatch.com
+    quality: 16
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/03/07/PPYD/d952a170-db31-4b8a-87f7-5b0c38121738-OPED-AI-TOOL-COMMENTARY-GET.jpg?auto=webp&crop=1599,900,x0,y81&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "KyrU5xlAXHc+ixbcqi3FDk2NIr3y7Ehje4atoZ6HDQkqFJa/TFuFfz3+f+X/3nZy/NaZB47dGMEkqLczb/1JZzuBb7AAKu2pjmJDQ3JO9SbcMrym97b/7wQ0n2DOEpa5Myzjp9v7K015a3dTnpdDH5lYPncjKnhPisLCF+R1junwnoyHAW/F3bxbebtN7Oy9eZkQF23foeD3kLzOcvFEnJueBbZ08UpAh/auf7jo7XpCLun6fkQo3YR0A8TGfAIZedBI2Tl/W3QT/WHcFFRdMyHbS1qbK9Mpei7GqZDcFfTsHIzPSEHEbR04JbtbUhnYi6dDLSp5INStkK9Dp9DZFYrPdYMfHGNRsNi6mur91P0=;a9l7+Mo2wK1zT+hwjij8iA=="

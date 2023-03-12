@@ -53,6 +53,20 @@ related:
         isCached: true
   - title: "From marketing to design, brands adopt AI tools despite risk"
     excerpt: "\"We need to embrace those risks intelligently, experiment, build on those experiments, drive scale, but not taking those risks is a hopeless point of view to start from.\" Indeed, some AI experts warn that businesses should carefully consider potential ..."
+    publishedDateTime: 2023-03-12T04:09:00Z
+    webUrl: "https://www.texarkanagazette.com/news/2023/mar/11/from-marketing-to-design-brands-adopt-ai-tools/"
+    type: article
+    provider:
+      name: Texarkana Gazette
+      domain: texarkanagazette.com
+    quality: 54
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/203807213_203807213-1f870b69dd0641c78290e78111e08b1a_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "From marketing to design, brands adopt AI tools despite risk"
+    excerpt: "\"We need to embrace those risks intelligently, experiment, build on those experiments, drive scale, but not taking those risks is a hopeless point of view to start from.\" Indeed, some AI experts warn that businesses should carefully consider potential ..."
     publishedDateTime: 2023-03-11T14:36:00Z
     webUrl: "https://magicvalley.com/business/from-marketing-to-design-brands-adopt-ai-tools-despite-risk/article_b0235818-edc7-586f-932a-2aad7502f58b.html"
     type: article

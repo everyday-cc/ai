@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Samsung Galaxy A54 Roundup: Design, Specs & Price – All in One Place"
-excerpt: "Additionally, this chip offers support for 4K video recording at 30fps with EIS and HDR, along with real-time object recognition capabilities to enhance camera performance. It’s worth noting that this processor is 5G compatible, and it can connect to ..."
-publishedDateTime: 2023-03-11T22:36:00Z
-originalUrl: "https://www.gizmochina.com/2023/03/11/samsung-galaxy-a54-specs-roundup/"
-webUrl: "https://www.gizmochina.com/2023/03/11/samsung-galaxy-a54-specs-roundup/"
+excerpt: "Samsung has announced the official launch date of the Galaxy A54 mid-range smartphone in India as March 16. While the global release date has not been confirmed yet, it seems that the Indian market will be the first to receive the device."
+publishedDateTime: 2023-03-12T03:35:00Z
+originalUrl: "https://www.gizmochina.com/2023/03/12/samsung-galaxy-a54-specs-roundup/"
+webUrl: "https://www.gizmochina.com/2023/03/12/samsung-galaxy-a54-specs-roundup/"
 type: article
 quality: 54
 heat: 54
@@ -28,6 +28,6 @@ images:
     height: 707
     isCached: true
 
-secured: "luewA1S0xj+yieDWaj8RGAFJmCJacnCE+obWJeonHG4HX9Td3tw6prb2Ws0c29Gfpg2L2JLLNKUs0rNbeMUWT5x2sdYaS1xKOOv77oTsvzILoMuYzBGSzMElCKGaQ/zweNpGZPMigCu7ayRLSrHgqibpVLvL/B+6oM4+9t9RGuqO+76uNPHhylrQdTt9CMYtwAyQQPlWu9R06F6R8yhadbaXONkCBG1GnI3MQHx2r4y5ZgLwsUJtBJtAetfHckNiePDvmg5/20Qxf8tZ8wewG6mMMd/7QHoB2Ca2LguzhBoNAeFtg13lsQYX0tuBB06+cU/dngZc4jQ6LEFKNPnuir5WgqPX/wR0ZO0TI811x3k=;Nld5EoSNHynEnEplLopuEQ=="
+secured: "No4fWvJdZRJhTLXS+PpNuWSE5gzGaadvJjS+f4m7BtfP1tjAOTd8CWwcprg0B+5UXeJgHEb+wHsKWZ8p7DCeuKP64M3xq3oznpelYxFEw+m0D58vIUt+jVewODZhGvri4V8SVTpB/yPltssXbsWmLYISuATOEf7OT4TlCMqwDrVOQnzB9CKa3r3KN7ElZJmt7I+H6aL+wTJo7TcD+KXdsOo3uhUJWbJlTH3310wzAxBYszTiCiAMNvCd+3wHB81LJuiyudw+MOywYidIeukUnHYscfekXYAGxRc+UZZdCHTkD4swLRyCAWzjxy+GaKhPXDWcp40F/GL2mkux77VKLEEuxUbxqi4OZoLAchYTKR4=;HD0/9xTNu4KiwHliPrWLOQ=="
 ---
 

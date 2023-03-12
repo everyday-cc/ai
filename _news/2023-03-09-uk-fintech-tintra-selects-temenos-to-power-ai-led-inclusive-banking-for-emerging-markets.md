@@ -3,8 +3,8 @@ category: news
 title: "UK Fintech Tintra Selects Temenos to Power AI-Led Inclusive Banking for Emerging Markets"
 excerpt: "Tintra PLC, a London-headquartered Deep Tech and Banking company, has selected Temenos to power its innovative new bank designed solely for emerging market clients. Tintra will be using Temenos core banking platform and market-leading payments as well as its Financial Crime Mitigation solution."
 publishedDateTime: 2023-03-09T08:59:00Z
-originalUrl: "https://financialit.net/news/digital-banking/uk-fintech-tintra-selects-temenos-power-ai-led-inclusive-banking-emerging"
-webUrl: "https://financialit.net/news/digital-banking/uk-fintech-tintra-selects-temenos-power-ai-led-inclusive-banking-emerging"
+originalUrl: "https://financialit.net/news/open-banking/uk-fintech-tintra-selects-temenos-power-ai-led-inclusive-banking-emerging-markets"
+webUrl: "https://financialit.net/news/open-banking/uk-fintech-tintra-selects-temenos-power-ai-led-inclusive-banking-emerging-markets"
 type: article
 quality: 45
 heat: 45
@@ -24,6 +24,6 @@ images:
     height: 768
     isCached: true
 
-secured: "xATOAXQSsmmPfwnsqz1MgF9xM27udAI/DtE8kFkmhJqL8IBx0Neynlh32hD19NBXBRmmuyblbBxPHOcAjh3DEVIwX+Of/Sg9Qnwg/EEyIgtJhRAERadVUzmBNd77FM6NjCcKCsrbvlOexg6h5Be+lWOZCnoDVm/3jGiLuRKZ/sD1QDIktsm7cbcsqrp/Usc2E4iF/dhYDZW/FqYZPceCKqzu6HX7iJZqygNNTzGMNc3kpCxfnVNIj1uDW8Tc+B3Sy3KW4wn+ecL6vQM0LSnDjeYwMwocYCJ0RFnRhKyRFP9jIebQDNs0WKoeQq58Deg1QyGCPICeHP0xGyzIxE/sMCOqSJ4ylL822dcGugJpRxZY4nJzRt9qbd777ofOTPobr8VzwT0uTiGM4rO43qtqoGp4nK2tT+b8vmWivhriQ5FzkuakAwcgntEuU1bGEUr41z/RaT7glFFiLmchjVLlNHktv8tq+JWvyKK5Q4iK3wj5o6fp2AAujt3YyGZhPR/8FxYiLWTJ9MgB6FE1GowqwA==;MhQ7F+MxPAlroU8nHHpF6A=="
+secured: "CIkdLGbOCw8wLWZJt0yjSVQG6HfG22Gq/q1jV9HyGgoi08++H9HT9lnuxSyXFu6OcCkdBqyEFlcudf/GwwKKgw85GrDFvb/U+RTsLwl1pXIJEFueXIHv+Qv2vIvbHxSVX6ns4+kA2D+tbOwo2kUuFgJCJjocuVr8VUR8sAjLetL1d5fMOdj8HOBBM2UVHPN85iDk2Wezs6HgHeT9W0zNcELzkPPaXqLh28aCmbk0ZjxOT87hXuVJQ3F5M6fdxbvM54WRcne+jVUtHZgfeqEUZO0XwrD+o67Ui6z9ARJfQDpp8UMpkf1JJABcSCnIZB5Vs2P9xC9By+Rdf9KiFrJ+Mo1I4OSJ+eoZIiM+iAD30CI=;j+y5exLjcqDlFywSd+VNKQ=="
 ---
 

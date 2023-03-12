@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence tools becoming ‘unavoidable’, lawmakers say"
-excerpt: "WASHINGTON (Nexstar)– The Artificial Intelligence revolution is upon us. Emerging technologies, like chatbots, have become almost unavoidable in recent months. But is Washington ready for this ..."
-publishedDateTime: 2023-03-09T03:59:00Z
-originalUrl: "https://www.kxan.com/nexstar/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/"
-webUrl: "https://www.kxan.com/nexstar/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/"
-ampWebUrl: "https://www.kxan.com/nexstar/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/"
-cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/nexstar/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/"
+excerpt: "The Artificial Intelligence revolution is upon us. Emerging technologies, like chatbots, have become almost unavoidable in recent months. But is Washington ready for this new wave of technological"
+publishedDateTime: 2023-03-09T13:00:00Z
+originalUrl: "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/"
+webUrl: "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/"
+ampWebUrl: "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/"
+cdnAmpWebUrl: "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/"
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: KXAN
-  domain: kxan.com
+  name: WKBN 27 First News
+  domain: wkbn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.kxan.com/wp-content/uploads/sites/40/2023/01/aiphone_012723_gettyimages_chatgpt.jpg?w=1280"
+  - url: "https://www.wkbn.com/wp-content/uploads/sites/48/2023/03/aiphone_012723_gettyimages_chatgpt.jpg?w=1280"
     width: 1280
     height: 719
     isCached: true
@@ -60,6 +60,6 @@ related:
         height: 719
         isCached: true
 
-secured: "aPbhR1rEVq0PjgI7yvn/7C5+Z8tGOSNYOOc7/Xy8lOK7R02iWhNKYSQCAX2LSuBrhIxI4JSM6e/mmsOxKz3P1UdwTisOS3Gx+3I8cAcBkEojWeqdx+9WS3HE1XC4lVFxTRXQzyTYHqYlt6Lm1KJ5e8Z4K9XjMLveWfabD4VD4va/rzF4/qkLnOXapV7O3pTLRBOTbqYIuMlnIE/+1OaNa98MfYimrl2Gu6uy6WiYgKtyg+Fdq0xaPt9WniwruzAdBH75/Mq4lp+DY+Wh9UYtqsX97vlCKaMQ4XhFfVPLQhz7Q0xfoWbSnbiO6aTodtMnuQZ6B0NaRgdxvXM4vPXw8uW38bJ9pDYX1PIissLxi9E=;GvbwGZHp1xdfqFS1fN2JTA=="
+secured: "MtI6torVZikhjNjORUrmex3vmvcDkSM+zU/9J4fo7OYO9sv8WWKH1Ib2JowD3+L79yNktEGyc8lmLDBmbUM2UbQawif9pPbo4qiMKBg+dEum2W0qXUAkiM3Q47DlPbDhnY7/GzkwlH11pOClidC48K0HmMu81oxGcohBrnYCn4rlLgD0v30u5ARhgQfVULl8ZVhCfLN90Sf9ZRl5yf9uRA34+/BKUMyQ1n5MYCruhWEK4WXcT6SRIEzs7Jl7PZiMVgsCpld1q7oL1EhD/pDBo6JsVzeZPyAQ25/Wt1HClifeBo4iylCrlzXAf3nwaJN9PacyKPOkpyXJ7dkQhIFJ1PRzTLEJJSZsZ6jqj+DVzrc=;1eav2cgHbOesDpJR8j+AaQ=="
 ---
 
