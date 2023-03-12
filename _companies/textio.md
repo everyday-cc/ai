@@ -2,7 +2,7 @@
 name: "Textio"
 overview: "Textio is the inventor of augmented writing. Textio transforms your rough ideas into powerful language by hitting Tab. Discover more at https://t.co/JJVEVb9cia"
 type: "profile"
-heat: 108
+heat: 41
 
 website: https://textio.com/
 
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=nd3_Ir9bw6k"
 
-secured: "Pev0Cc3E6Ttsmbi9tdtklqDOO59hBl2137j/ctIdcsfWLkIBNtXqftmei63+F/xr3s+aRUYNiCDkLDW7T8hcECng++k2whbktFr7kfNmfGdcEnAvgOkgujwgMsN9sIqBtj7JNZsJrZmhBH2KBYCzBQbEgNQ1LTDYXoV/K3fIJYP9a0BjQOGgCzMlUpILnVdLiRHcqsT/8UhcepgC/ARh2wTSSm+ZgT9G06A3i+n36lXXvtC9l2uvqG1MZoGA7MJxGBh6oeM/f2TMCkLAESb0Abe1zh0etzsy/iocBBV/qKgcSlJjZzm1wVpPS9+a/9cDvlk93BYGk//M+WwKQlf3JBtY9dUrsb5CaiI3AVn61WdWm5vJEV93GiseaBIs7xfLUzstqclFQwHsKL4jMm0NguFf4RTSjxDpBGmknkHVEl0=;ZPA9QB5kOdXbqXQdQjgsCg=="
+secured: "g1kDMgk9vTnmaiGCeCGTvWFZPJRo8hDQMcLxe/2MXBf3BcB1nL+rVsVPmwVDJdKXPoZo4SjliOETxxrrum2OMzhJVj+OJwcrxjWR13h8BuTmkyWXxYboZHbTjp9fRVIP/2zlSjKeI3SMILLboBmoCzNA0YVUMknGhSip6zczwONFgGhSFbWiIGB2oHMumDAVoSRhs2tsaVlhAccfKGYudlItpTYqb3m8OL8BxLpnuadwZnIwyG0xq8nPdjj1oEmP5PFgfhr+FAUEJCeXYROjOUDOr2j3P2O725hzvh0gQ6GagFOAF7NAhOAj9+ZNCAQDpjBrCp3hDnLJ0+EXo/A2m3lifl2V2HPHPiEbF2y6OLlD21Zj6Or+ygEcDVV0IxplCjKtlyEdKDGHqp4gFI4FNGMxXCoV39IxEXnGyITQd9Q=;rV/5wb2ioyWIItzVXuopjg=="
 ---
 
