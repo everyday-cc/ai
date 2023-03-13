@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T19:03:00Z
 originalUrl: "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/"
 webUrl: "https://venturebeat.com/ai/fed-svb-takeover-saves-ai-startups-while-big-tech-prepares-new-ai-power-plays-the-ai-beat/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: VentureBeat

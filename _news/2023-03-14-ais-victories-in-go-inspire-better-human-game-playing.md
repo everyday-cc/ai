@@ -5,7 +5,12 @@ excerpt: "South Korean professional Go player Lee Se-Dol reviews the match with 
 publishedDateTime: 2023-03-13T19:52:00Z
 originalUrl: "https://www.scientificamerican.com/article/ais-victories-in-go-inspire-better-human-game-playing/"
 webUrl: "https://www.scientificamerican.com/article/ais-victories-in-go-inspire-better-human-game-playing/"
+ampWebUrl: "https://www.scientificamerican.com/article/ais-victories-in-go-inspire-better-human-game-playing/?amp=true"
+cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ais-victories-in-go-inspire-better-human-game-playing/?amp=true"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Scientific American
@@ -13,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
-secured: "pVWWv3sX00ozc/USxvuMsUPt4yck547ihtCltNKoicrR6eK2vmZPn5gOkMsF4wS2T/nnL6/B+21AJREsKW5KVqxqk+O4EgwPBVqs+pEuJa/Ca1wgq8HN36PHsovBDgBgOny09HInQlZ88ZN4LsyhpceDuGzgKunIm5JUFHe6BbMN9A+IhdbJd9QTTF8jSvGFiyx9QYIMGPVpkHey/Ixz25VKxrCiiy2Fbfq/XrznFiAU1z2Gsu0VHYNCJ2sH5vyXoDoeNVIscu5wtXftqJEVw1HrFqv9lKKScj9c9n7aRLf9y0I+CZrVset0Sa1zMkUYi3L5ZCT0hAevBtxtGDFdXQ3TXa8z1DtjZiCdBVOfGkkXa3zcdYR18Wt9MLywKPd4hGZ0kSQceFv6qLBE/xQG28EK02Ohn96kLd6u5SLyzw5o8+VUdqvGzQ8eD6LD/F+uOzWYcog+WabYUypkryf7tzjkSaFKaSqDy+0mFY0sV57NqspSWD22UYeT2ebTLo+AJwzNxrrmXRM1MD6rbPv0Rw==;rLAQKbdLpbW6OcnphsudxA=="
+images:
+  - url: "https://static.scientificamerican.com/sciam/cache/file/8DD16331-6975-4D9C-B6B34CF11D76507D.jpg"
+    width: 790
+    height: 497
+    isCached: true
+
+secured: "JwNoOp8wV+8uhni8jeRlMYmFMkwIlaRHT4y2/ioCFe3eZGGR1JrTUXjnkQpXvJsMCjSLb0AtcFbEAR4gfepgbgAsvC38J0jf+fbqXg5QijA+lgv1viO3d1xhxGYvqNGGD4tRbAHntfamkO70fVGjqGelJ0GE47RELf4YZVKVniyrBu+5jkNZDURucxLlBeh1qJnRHgH05n0CQ58C5AhnBqNYFDD8EssTe9BAPUsm0YIVkHekSxd/yYk4ffpopf4BA5EPBTjyumqQX1c4aHiMipKwqrmIU40cU+BWOfPTyEacw93WBOdEyACqFAvGzRF90oi4i/bDimnCv0cX1hl0roM8Vv0dhBw+kHro+Eh3mQI=;3sbZby0TcrDTuHqrlxDR4g=="
 ---
 

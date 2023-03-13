@@ -39,6 +39,20 @@ related:
         width: 400
         height: 320
         isCached: true
+  - title: "Microsoft Introduces Generative AI VM on Azure with Scaling up to Thousands of GPUs"
+    excerpt: "Microsoft today introduced the ND H100 v5 VM on the Azure cloud, a virtual machine for development generative AI applications. The VM can scale from eight to thousands of NVIDIA H100 GPUs with Quantum-2 InfiniBand networking,"
+    publishedDateTime: 2023-03-13T19:49:00Z
+    webUrl: "https://insidehpc.com/2023/03/microsoft-introduces-generative-ai-vm-on-azure-with-scaling-up-to-thousands-of-gpus/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 80
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/03/NVIDIA-Microsoft-logos-source-Nvidia-0323.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "AI-generated videos may be the next big thing as Microsoft confirms GPT-4 reveal"
     excerpt: "According to Braun, the next iteration of GPT will be shown off next week and it will allow users to create new types of AI-generated content."
     publishedDateTime: 2023-03-10T16:49:00Z
@@ -94,6 +108,20 @@ related:
     quality: 69
     images:
       - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Microsoft’s bet on Azure unlocked an AI revolution"
+    excerpt: "At the time, nobody knew it would mean AI systems that create pictures of whatever people describe in plain language or a chatbot to write rap lyrics, draft emails and plan entire menus based on a handful of words."
+    publishedDateTime: 2023-03-13T19:58:00Z
+    webUrl: "https://news.microsoft.com/source/features/ai/how-microsofts-bet-on-azure-unlocked-an-ai-revolution/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+    images:
+      - url: "https://news.microsoft.com/source/wp-content/uploads/2023/03/How-Microsoft-bet-on-Azure-unlocked-an-AI-revolution-1200x630-1.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -116,20 +116,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Forecast - Industry Report 2023 - 2028"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-03-09T04:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast---industry-report-2023---2028-2023-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Voice Market Application, Product, Sales and Forecast 2023-2028"
     excerpt: "The \"Artificial Intelligence Voice Market\" Study Describes how the technology industry is evolving and how major"
     publishedDateTime: 2023-03-13T05:28:00Z
@@ -139,20 +125,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Data and AI Ethics Market Insights-Industry Changing Aspects, New Technologies and Forecast to 2029"
-    excerpt: "Data and AI Ethics Market Size 2023-2029 | New Report (110 Pages) | Information Technology | In This Reports Data and"
-    publishedDateTime: 2023-03-09T03:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-insights-industry-changing-aspects-new-technologies-and-forecast-to-2029-2023-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

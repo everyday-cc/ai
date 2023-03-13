@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://i.insider.com/62d6bd42f7ae650018341273?width=1200&format=jpeg"

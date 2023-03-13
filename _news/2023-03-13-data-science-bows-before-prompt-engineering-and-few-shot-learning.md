@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2023/03/13/data-science-bows-before-prom
 webUrl: "https://insidebigdata.com/2023/03/13/data-science-bows-before-prompt-engineering-and-few-shot-learning/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Wrangling Codex, Getting Paid for Prompt Engineering and 'New Bing' Epic Fail"
+    excerpt: "Prompt engineering has recently become popularized with the advent of cutting-edge generative AI constructs based on the GPT-3 series of large language models (LLMs) created by Microsoft partner OpenAI."
+    publishedDateTime: 2023-03-13T19:25:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/03/13/wrangle-codex.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 16
 
 secured: "f09iKenrcagQSPqmsKSf2f9SWwRr92RrLhK7t9uk/2Q2fHteRnk7BROOOsEpK/WN8+R5aZoT6kfDaNJmfmqaCGT7S1D7NjZSxDhhePpghAtj70a4ApCC+CXudG1CgNGVQsV/v2h/1thjvAYF1L7Hg0/TNtxvvqS7/MzhIlG3wpMBp2qOYb6A3S5PWUnQ+vux+AfL5Mhj1XV9HFCBYKJu9fyPL4CetvLS3IaV5OBJSe9tShDdvcBQNa1b+tPJzynOr1RdVyz9iopPdUWCw2XMzDQNL3kbWGF/PvcJ0IoAavyYl+h3WgQd2zV1f7+4fPXl3M3N7fs9bOCZt2wR+e1AsDObgO2e4YM2vG80K/iueGUNFrrN6ZburKUPpeSOCMQE7FUbYoAcKnzHSLOI1oeaLX3Hb6rMOkeUYXI+cVw+TYXohYEOkyoBJcLa7qZ4RJOE6naToi9g1xFBLi5mCh0Y6YilUtMRijakybKeklScZdok42VJkGA38UWkOlvgv9PR8065DRUoAs1hMLlSyrVPMQ==;SXkoCNyPsPfvTNu6hq9XhQ=="
 ---

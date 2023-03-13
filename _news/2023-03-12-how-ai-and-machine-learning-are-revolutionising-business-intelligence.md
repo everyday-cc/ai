@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/?source=app&frmapp=yes"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "Coral Springs Sports and Orthopedic Center, FAU, Broward Health, & Advanced Research: Revolutionizing Healthcare Using Artificial Intelligence"
+    excerpt: "Say farewell to spending a small fortune on a boring visit to the doctor's office and hello to inexpensive, convenient, and comfortable engaging consultations you can have in your pocket."
+    publishedDateTime: 2023-03-10T00:24:00Z
+    webUrl: "https://coralspringstalk.com/fau-coral-springs-affordable-telehealth-45643"
+    ampWebUrl: "https://coralspringstalk.com/fau-coral-springs-affordable-telehealth-45643/amp"
+    cdnAmpWebUrl: "https://coralspringstalk-com.cdn.ampproject.org/c/s/coralspringstalk.com/fau-coral-springs-affordable-telehealth-45643/amp"
+    type: article
+    provider:
+      name: Coral Springs Talk
+      domain: coralspringstalk.com
+    quality: 38
+    images:
+      - url: "https://coralspringstalk.com/wp-content/uploads/2023/03/AR-Scan-1.png"
+        width: 800
+        height: 448
         isCached: true
 
 secured: "IDZoy3ULhrEdK1kxKLeRsvvJhBBnZS20NGuavJ9sgY6pJf8Psk4z4D3Hb6/WvlU9UFwmbsTOKXhOaloHujVNLB9E+wZBYKGytePVDCtceHZA+w+C9oLKZuVmpGscM7oPNQXnzShxYbZUWCmhijz2PLKPjU1yPCQgclgPeE6oz3hfH+z7+P6r/biRJCeZU/j8VSnf+014AF4bEe3qLkUJFuCs32pKeIf2L7q3NHKPE+cJuTPuzv2Wyjdk72N805zp1T7XMkgmAcYBCROIhovyutJ0HDww04UOy6ilrbs/0qNAKrkSUJzfNI9VRc4iXOWVF6/p8y3OwEzITMWbvtGOyrsJs/b8gQeENWI+e1JlOkE=;BJRcMKJQKKc32eq3KGxq5Q=="

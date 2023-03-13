@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-latest-report-is-thriving-worldwide-by-2029-2023-03-09"
 type: article
 quality: 88
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latest \"Deep Learning Chipset Market\" Is Booming Worldwide during the Forecast Period 2023-2028"
-    excerpt: "Mar 08, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on \"Deep Learning Chipset\" industry.\" “Deep Learning Chipset Market” Report Insights with 114 + pages of analysis on business strategy taken up byÂemerging ..."
-    publishedDateTime: 2023-03-09T02:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-deep-learning-chipset-market-is-booming-worldwide-during-the-forecast-period-2023-2028-2023-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -141,15 +127,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2023-2029 Deep Learning System Market Size and Regional Analysis | Research Report by Absolute Reports"
-    excerpt: "Mar 09, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Deep Learning System Market\""
-    publishedDateTime: 2023-03-09T05:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-2029-deep-learning-system-market-size-and-regional-analysis-research-report-by-absolute-reports-2023-03-09"
+  - title: "Self-driving Cars Market 2023 | Global Industry Report Forecast 2029"
+    excerpt: "Mar 13, 2023 (The Expresswire) -- [94+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Self-driving Cars Market” Size 2023 Key players Profiled in the Report ..."
+    publishedDateTime: 2023-03-13T19:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-global-industry-report-forecast-2029-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
+    quality: 34
 
 secured: "y87O2cUnnoyBPWWbPgZTDgGlgGcm0pq5CZeZxP7YQj76xQNMUNoV2kyzPAa0UPGUYRfRVaLuaXC5tS7A5yjfljzntzXwwaI8xkwcjFQLFwiigLK2iYWrQBtpWzjTlcd/2d/rxmoFMa7P2GzGmnafL3sRNgSRvwNR6Z4/NPyZGCMn0R60H0wflLE8zHnvWApN15otZ2S4Fp10pH8Q97jrWJtZXupgtSRG11BY82SfVEIcUXHsJ0Y/xSDQYyyHEeCMPeQjnPNS36ENHYpELstl1KzwvfhiFj3bnz0BuqIsXaQyL7wTzfCJ8v6cHbsk6id3AntF2GG/vmmUgwg0V+ftkHGGQHJJ+pmdPHjR8eTtCR8=;aIlaNc/8rCrpGoJULcCEpA=="
 ---

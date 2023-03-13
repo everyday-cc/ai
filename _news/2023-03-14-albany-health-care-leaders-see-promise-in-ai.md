@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T18:51:00Z
 originalUrl: "https://www.bizjournals.com/albany/news/2023/03/13/ai-health-care-capital-region-executives.html"
 webUrl: "https://www.bizjournals.com/albany/news/2023/03/13/ai-health-care-capital-region-executives.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Business Journals

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T19:37:00Z
 originalUrl: "https://www.hstoday.us/industry/industry-news/gdit-awarded-88-2-million-software-development-contract-by-the-national-geospatial-intelligence-agency/"
 webUrl: "https://www.hstoday.us/industry/industry-news/gdit-awarded-88-2-million-software-development-contract-by-the-national-geospatial-intelligence-agency/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Homeland Security Today

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T19:47:00Z
 originalUrl: "https://menafn.com/1105768355/At-Embedded-World-Dolphin-Design-Showcases-AI-Based-Vision-Applications-At-Sub-Mw-Level-That-Fit-In-Less-Than-1MB-RAM"
 webUrl: "https://menafn.com/1105768355/At-Embedded-World-Dolphin-Design-Showcases-AI-Based-Vision-Applications-At-Sub-Mw-Level-That-Fit-In-Less-Than-1MB-RAM"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Mena FN

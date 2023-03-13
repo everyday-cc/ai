@@ -226,6 +226,34 @@ related:
         width: 708
         height: 399
         isCached: true
+  - title: "14 ways new AI bot ChatGPT could be used in healthcare"
+    excerpt: "Artificial intelligence has played a larger role in most industries, including healthcare, over the last several years. A new AI tool, ChatGPT, developed by OpenAI, has several potential benefits and"
+    publishedDateTime: 2023-03-13T20:33:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/14-ways-new-ai-bot-chatgpt-could-be-used-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 54
+    images:
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "ChatGPT Brings Ethical AI Questions to the Forefront"
+    excerpt: "Many companies have taken a relatively slow and methodical approach to working through AI ethics and transparency questions up to this point. Without any national regulations to adhere to, there is no hurry, after all. But the sudden rise of ChatGPT and ..."
+    publishedDateTime: 2023-03-13T20:47:00Z
+    webUrl: "https://www.datanami.com/2023/03/13/chatgpt-brings-ethical-ai-questions-to-the-forefront/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/03/bill_of_rights_shutterstock_kmls-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Learn how to take full advantage of ChatGPT and to code your own AI chatbot"
     excerpt: "ChatGPT has made significant waves in recent weeks and months. While the bot has been roasted for its strange mistakes and lack of logical reasoning skills,"
     publishedDateTime: 2023-03-13T12:27:00Z

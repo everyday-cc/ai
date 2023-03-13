@@ -7,7 +7,7 @@ originalUrl: "https://www.raconteur.net/technology/ai-lawyer-lawsuit-donotpay-su
 webUrl: "https://www.raconteur.net/technology/ai-lawyer-lawsuit-donotpay-sued/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,12 +33,35 @@ related:
     provider:
       name: KERA News
       domain: keranews.org
-    quality: 31
+    quality: 48
     images:
       - url: "https://npr.brightspotcdn.com/dims4/default/f86fdfd/2147483647/strip/true/crop/4096x2150+0+291/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F6a%2Ffe906dc24103aa7f42b80fc155b2%2Fai03.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "Lazy Artists Use AI to Rip Off Famous Dutch Painting for Museum Exhibition"
+    excerpt: "\"So we chose it, and we hung it.\" Given how popular AI art has become just in the last year alone, it's mighty likely that we'll start seeing more debates like this — and, perhaps, greater criticism from artists, too."
+    publishedDateTime: 2023-03-10T20:43:00Z
+    webUrl: "https://futurism.com/the-byte/artists-ai-vermeer-girl-pearl-earring"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 35
+    images:
+      - url: "https://wp-assets.futurism.com/2023/03/artists-ai-vermeer-girl-pearl-earring.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI chatbots are still far from replacing human therapists"
+    excerpt: "You feel your face overheating as your thoughts start to race along ... The World Health Organization (WHO) has developed six key principles for the ethical use of AI in health care. With their first and second principles — protecting autonomy ..."
+    publishedDateTime: 2023-03-13T19:18:00Z
+    webUrl: "https://theconversation.com/ai-chatbots-are-still-far-from-replacing-human-therapists-201084"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 17
 
 secured: "x1zZKxDaB7wMMPre5SFjKYPB/tKydQfjFsuThG7cajrWIVikCI1Y+pKVkcTsiX9BkY7eP0Isfwib+/frPi9072R4oZt/Urad/mEBgBy+09CiCl5kN7i3Tzz+3rEMZOp6oNOMi6Qyj+EvuH7LAAco1QZJ3scnZRZYdwlNBXytPhiZ2pr5H5o/CXmnMcX+JsORk0uLp+4W/MwmhrLPYwAyCpCHbNi6bQCq9QNQBxDGMX3P2YIrQavpfDY1mg0ZFVvh07biRfqpVBuzRelf3wb6ZsO0zmgas3TRQrlgrj/HO9/GPj4Mn/OupmTqnrFi6o+1Sk82hWyOWct7rpg2WYcmTVhEg1Y4fCPNgeQEtCxYW0s=;LTkpwRQBe/tNmkIADWDoDg=="
 ---

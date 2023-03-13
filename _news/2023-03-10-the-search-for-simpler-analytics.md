@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 782
     isCached: true
+
+related:
+  - title: "KPM Analytics Acquires Food Focused AI Developer Smart Vision Works"
+    excerpt: "About Smart Vision Works Smart Vision Works specializes in computer vision systems developed with advanced artificial intelligence technology for a wide range of customers - from startups to Fortune 500 companies. The company provides hi-tech solutions ..."
+    publishedDateTime: 2023-03-13T18:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312175&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "UHm+W2QKnYNEFTzUicguMYoYHJO8Fo6BuV0QjnUbG2lk/GIncX4JTTQOp1O/i5Xn9q5nlEaMT9EGDQ9GPNvnksS+++JbeupEgwyhaRcuPNmv0Oq9Sc/ikSMv2qrsDVV1ZslQ6GZanAkudiNmG9ofITND3t0h/APiZDy+DGTdAB/mrx+316X7oUu45uXy0seJ65D0FOG+55gg+gB2j2oWc8aC0Wr478ZUd6bSoHnycHQg3sH8GqHoanW2g4/+9f7v87VFnZOBb3FDrLEVfxdoxeUYxnFsp9Jkr5z//zT6NcW79lx5s9hg0e5nFw5droHo8btG+cKIIDPR9hV20Whye7Zenla8yuzzbDAGTy0PSLk=;OHHaCHyGI05g1VocfUMgyg=="
 ---

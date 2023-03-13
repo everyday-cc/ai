@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T19:18:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58542116-identillect-technologies-corp-identillect-ceo-to-provide-artificial-intelligence-presentation-at-export-maquiladoras-conference-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58542116-identillect-technologies-corp-identillect-ceo-to-provide-artificial-intelligence-presentation-at-export-maquiladoras-conference-200.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Finanznachrichten
