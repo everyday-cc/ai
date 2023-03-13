@@ -3,8 +3,8 @@ category: news
 title: "Is the US government ready for the rise of artificial intelligence?"
 excerpt: "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding"
 publishedDateTime: 2023-03-07T14:20:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=lore-ai-software-and-resources-to-help-your-business-grow"
-webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=lore-ai-software-and-resources-to-help-your-business-grow"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?bingParse"
+webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?bingParse"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "ZwyCMI66CNYygzUPtkz6xCLcHT6QGYxei11jJZZU8u0cTMG2swulUGErTinQUoxzxqVi9u8LyjKHcAhfUuSGrHshNtL7vR3KVEDLBcaV1d68lHfTY+v6m81FNR3a3llfEgPpi28sTizdAR0zVjEShRjCCVlyzudrtTMsuFW7H1LZS7mFcTmPAYHspP+up2vpVguQRL0iJCaKKsbzobwk4BN2hDPvt2Fy75S3iyTHccpaiWhwhTUIwqZ/aHOw9x3CEDMIL/v2kIeFFGu3rwOUcHvI5YbNR3NXYWis8H1mc2X+0bFgtonJGnegPPRoeGlAV1L31sxeq9kHGI0GIMILrPPX+K9T+lQcrKOjT+//Y5g=;xzekUwg6GHSZ2xO11JEDig=="
+secured: "LS9QqgXwc5Vw1wZ6zWnj10WBbbtPLcN4CYK8FceE6853enft3eP3u61R8+h3pqtzBwKVE+ITFtb/lPI69TPCKn6cM7tZmcfsvPOPZrb86OziuuHEglSsBhnO/wDPCdRsAZ96HuJmtGvWtC4myOsNtVR2eRTh5M17yNEIh6axrqaC2A5e0zMqxFsZbGnpM0+hP3iWd5vgRWl4uqw1Y8gTuxT6NO5sY8798EVXrwUulgrnjoUFeSWb19FYnqyCeWAXI01CRYixcRl0hFS8sotn2Y4e9WXzCBNmNAjU54Ebj2x2te3oaNh+WdTlMFz43YcjiPgZ/sdaC4/4hNcRlw559Hel7z0E8mfurnFya6f5U1o=;A7EfgQKm04q340ikdzvAbA=="
 ---
 

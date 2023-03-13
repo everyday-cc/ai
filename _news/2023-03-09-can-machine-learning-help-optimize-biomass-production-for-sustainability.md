@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study examines potential use of machine learning for sustainable development of biomass"
-    excerpt: "Biomass is widely considered a renewable alternative to fossil fuels, and many experts say it can play a critical role in combating climate change. Biomass stores carbon and can be turned into bio-based products and energy that can be used to improve soil,"
-    publishedDateTime: 2023-03-08T08:35:00Z
-    webUrl: "https://phys.org/news/2023-03-potential-machine-sustainable-biomass.html"
-    ampWebUrl: "https://phys.org/news/2023-03-potential-machine-sustainable-biomass.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-potential-machine-sustainable-biomass.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 66
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/pellets.jpg"
-        width: 1920
-        height: 1440
-        isCached: true
   - title: "Machine Learning for Sustainable Development of Biomass"
     excerpt: "Researchers at the Yale School of the Environment published a study “Machine learning for sustainable development and applications of biomass and biomass-derived carbonaceous materials in water ..."
     publishedDateTime: 2023-03-10T00:42:00Z

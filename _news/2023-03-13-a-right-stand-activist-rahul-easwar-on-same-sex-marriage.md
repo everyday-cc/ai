@@ -1,29 +1,31 @@
 ---
 category: news
 title: "\"A right stand\": Activist Rahul Easwar on same-sex marriage"
-excerpt: "Terming the institution of marriage as a Sacramental union social activist Rahul Easwer on Sunday said that the union government has taken a right stand after"
-publishedDateTime: 2023-03-12T22:46:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273621722/a-right-stand-activist-rahul-easwar-on-same-sex-marriage"
-webUrl: "https://www.bignewsnetwork.com/news/273621722/a-right-stand-activist-rahul-easwar-on-same-sex-marriage"
+excerpt: "\"We need much more deliberations . Everyone agrees there should not be any kind of discrimination. There should not be any kind of phobia at the same point of time even living together,\" he added."
+publishedDateTime: 2023-03-13T00:46:00Z
+originalUrl: "https://www.devdiscourse.com/article/headlines/2377046-a-right-stand-activist-rahul-easwar-on-same-sex-marriage"
+webUrl: "https://www.devdiscourse.com/article/headlines/2377046-a-right-stand-activist-rahul-easwar-on-same-sex-marriage"
+ampWebUrl: "https://www.devdiscourse.com/article/headlines/2377046-a-right-stand-activist-rahul-easwar-on-same-sex-marriage?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2377046-a-right-stand-activist-rahul-easwar-on-same-sex-marriage?amp"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1678659892.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_03_2023_00_46_31_3087417.jpg?width=1280"
+    width: 1280
+    height: 960
     isCached: true
 
-secured: "xMhfK3qtewCJ64CxoeQlKhwuwh/Ze7n1qKfiTqkBiACBKXxJ3i1AZyI7ttvAw4W6rzFTUix+9/wQtxVa7WW5KLzjdEKju6QsTfot5p6Pzby9F38x8KLYCJ7SQxkLudbu8Uc8XuwQB7scroyM1SA17OA2Wq+PXa2ye0n86SLwSS/l/OiDG7iq+c0fvm7/xTbsxZ/ruvSn8GaP/5l+YZxq2Fx3GWVY6nxJfEbi5bRodnoiaqnzFcu2Ju3q8DebWKdKeAQuiXwI9DjrOu83V6MHB8gAmirBjelsj7BMBa1qxHwLMAD74KkqfpUhL3XjXbgcprMF4obocPhtpqQfIh1rvoQeULmJmpuE9ZKmwA39bFI=;sPBfDqs6Tws2Z52JNJ82FA=="
+secured: "ieYPTK2JaHHOpgplm1uoDLGUf10S0xOtmUSZdV95+Lw0UOV6td2LIJ+sttaw2iOB/pqAY6uJsKXjrN7V4WoFtdf/rX/tSuPhIK07PCRyMFQ7fwS6cQqV3W6cAmGhw3OK+w05ziFiF5n9NWMygOcvmzNPEaAE2PVMdQQNxa2t6Fj/fuDRK5dncK/ydoLLKFWik0msbVoxHpXIimKtIhLaKiRm78N+gMXxj5nA3hd7fRkn2Irkp9CQ7POCPgT5We2vySuu085rQkExwaBlIkBvoV5evNlWjTM7VUZkreoAe1RifC14vlQEmqiarXRdbCWK3RovM8ESZ/qDtpQoRjSNmiqtTfyDlpWv3ITwC8Hzaw0=;wk/NzEHLnJjxz3ofEO6/Zw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/03/11/will-ai-take-over-the-world/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Exploring the Impact of Artificial Intelligence on Our World"
+    excerpt: "Discover how Artificial Intelligence is changing our lives and the world around us. Learn about its use in the workplace, education and personal assistants, and its potential to revolutionize our quality of life."
+    publishedDateTime: 2023-03-11T10:37:00Z
+    webUrl: "https://www.easternherald.com/2023/03/11/exploring-the-impact-of-artificial-intelligence-on-our-world/"
+    type: article
+    provider:
+      name: The Eastern Herald
+      domain: easternherald.com
+    quality: 39
+    images:
+      - url: "https://www.easternherald.com/wp-content/uploads/2023/03/How-AI-is-changing-the-world.jpeg"
+        width: 717
+        height: 390
+        isCached: true
 
 secured: "pGsqYbdxtPdJKkONAbDI1ztv8muqgGwHt38ARw3kRK+zitVniyGjuHe8GPZOpEZ8au7kW43nZX4xa1P0DlxnOFkxpjnyZrn80VfCFArLZA8WfOl8LIWGsSo4SotKdumn5/C97AbdAA0Sb/PMTFa+/SP8AgWsLKPKdWoalSwkZlh+96Vu2Yw6QZfellKBPKWS9VCXr5T3KQVzUjdxsbXJVq4s2r9vbQd+Cs55xN57R+YQoZN/2Gi58pPD2c8u7O3e3hBLN4VaPPpawzWhSQRl5v1hECoX8jO10HZ/NBJcoRS7KqMP4Rgdf249GLAOa+hf48c0sadBe0SARR1qiIHAdTHxmmggfnc5Y9zrKQvLadQ=;yzqejE0STqhlG4s9Yxn8WQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.genengnews.com/topics/bioprocessing/machine-learning-f
 webUrl: "https://www.genengnews.com/topics/bioprocessing/machine-learning-for-sustainable-development-of-biomass/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study examines potential use of machine learning for sustainable development of biomass"
-    excerpt: "Biomass is widely considered a renewable alternative to fossil fuels, and many experts say it can play a critical role in combating climate change. Biomass stores carbon and can be turned into bio-based products and energy that can be used to improve soil,"
-    publishedDateTime: 2023-03-08T08:35:00Z
-    webUrl: "https://phys.org/news/2023-03-potential-machine-sustainable-biomass.html"
-    ampWebUrl: "https://phys.org/news/2023-03-potential-machine-sustainable-biomass.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-potential-machine-sustainable-biomass.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 66
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/pellets.jpg"
-        width: 1920
-        height: 1440
-        isCached: true
   - title: "Can Machine Learning Help Optimize Biomass Production for Sustainability?"
     excerpt: "This is where machine learning comes into play. To address these issues, researchers at Yale School of the Environment conducted a study on the use of machine learning in the development of biomass products. The study, led by Assistant Professor of ..."
     publishedDateTime: 2023-03-09T10:33:00Z

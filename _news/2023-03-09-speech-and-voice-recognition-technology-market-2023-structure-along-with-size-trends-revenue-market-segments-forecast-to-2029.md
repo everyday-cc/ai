@@ -23,15 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "2023, Current Status and Future Prospects Of Computer Vision System Market"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 10, 2023 (The Expresswire) -- Computer Vision System Market Size 2023-2029 | New Report (116 Pages) | Information Technology | In This Reports Computer Vision System ..."
-    publishedDateTime: 2023-03-10T09:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2023-current-status-and-future-prospects-of-computer-vision-system-market-2023-03-10"
+  - title: "Image Recognition in Retail Market: The Growing Trend 2029"
+    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
+    publishedDateTime: 2023-03-10T02:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-the-growing-trend-2029-2023-03-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
