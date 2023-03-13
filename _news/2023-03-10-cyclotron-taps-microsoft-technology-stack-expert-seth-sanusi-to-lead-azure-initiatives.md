@@ -105,6 +105,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Latest Microsoft Layoff Wave Hits Supply Chain, Cloud, IoT Employees"
+    excerpt: "manager who worked with Microsoft for about two years and worked on facilitating “the delivery of secure high-quality data to improve machine learning and artificial intelligence models” *A 23-year Microsoft veteran who was a senior content developer ..."
+    publishedDateTime: 2023-03-10T20:27:00Z
+    webUrl: "https://www.crn.com/news/cloud/latest-microsoft-layoff-wave-hits-supply-chain-cloud-iot-employees"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/027d-172a91810e2f-573e9d2b7a78-1000/13-microsoft-sign.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "Teradata VantageCloud integrated with Microsoft Azure Machine Learning"
     excerpt: "VantageCloud’s open and connected platform enables organizations to transform their machine learning initiatives from pilots to production with the tools of their choice."
     publishedDateTime: 2023-03-09T11:37:00Z
@@ -114,24 +128,6 @@ related:
       name: Cloud Computing
       domain: cloudcomputing-news.net
     quality: 53
-  - title: "Microsoft 365 will soon have an accessibility assistant"
-    excerpt: "This year's Microsoft Ability Summit is underway and the company has revealed its latest advancements for accessibility and disability inclusion. First, it's bringing an accessibility assistant to Microsoft 365 (formerly Microsoft Office)."
-    publishedDateTime: 2023-03-08T20:56:00Z
-    webUrl: "https://www.engadget.com/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html?src=rss"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 49
-  - title: "Latest Microsoft Layoff Wave Hits Supply Chain, Cloud, IoT Employees"
-    excerpt: "manager who worked with Microsoft for about two years and worked on facilitating “the delivery of secure high-quality data to improve machine learning and artificial intelligence models” *A 23-year Microsoft veteran who was a senior content developer ..."
-    publishedDateTime: 2023-03-10T20:27:00Z
-    webUrl: "https://www.crn.com/news/cloud/latest-microsoft-layoff-wave-hits-supply-chain-cloud-iot-employees"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 34
   - title: "Microsoft Azure Customers Can Now Access SolarWinds Observability Through the Azure Marketplace"
     excerpt: "SolarWinds, a provider of powerful and secure IT management software, announced SolarWinds Observability is now available on the Microsoft Azure Marketplace, empowering SolarWinds customers to take advantage of the Azure cloud platform."
     publishedDateTime: 2023-03-10T19:00:00Z

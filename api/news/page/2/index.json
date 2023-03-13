@@ -2,6 +2,163 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-10-real-time-fraud-detection-using-aws-serverless-and-machine-learning-services.md",
+      "title": "Real-time fraud detection using AWS serverless and machine learning services",
+      "excerpt": "Online fraud has a widespread impact on businesses and requires an effective end-to-end strategy to detect and prevent new account fraud and account takeovers, and stop suspicious payment transactions. In this post, we show a serverless approach to detect online transaction fraud in near-real time. We",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-fraud-detection-using-aws-serverless-and-machine-learning-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-fraud-detection-using-aws-serverless-and-machine-learning-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/10/real-time-fraud-detection.jpg",
+          "width": 1564,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T10:14:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike.md",
+      "title": "What’s next in large language model (LLM) research? Here’s what’s coming down the ML pike",
+      "excerpt": "Large language models (LLMs) have come a long way; but they have a long way to go, too. How evolving techniques are advancing the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike/",
+      "originalUrl": "https://venturebeat.com/ai/whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike/amp/",
+      "publishedDateTime": "2023-03-10T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-spotify-unveils-new-features-including-your-own-ai-dj-heres-how-to-access-it.md",
+      "title": "Spotify unveils new features, including your own AI DJ. Here's how to access it",
+      "excerpt": "As Spotify continues to break the music streaming platform mold, it unveils a DJ powered by AI and a social media-like home screen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/spotify-unveils-new-features-including-ai-dj-heres-how-to-access-it/",
+      "originalUrl": "https://www.zdnet.com/article/spotify-unveils-new-features-including-ai-dj-heres-how-to-access-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9fd491b6f8324c9c9b45b22e395edcb2985184f7/2023/03/09/ba84a3b1-704b-43cd-b2ee-834da245d904/newspotifyinterface.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/spotify-unveils-new-features-including-ai-dj-heres-how-to-access-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spotify-unveils-new-features-including-ai-dj-heres-how-to-access-it/",
+      "publishedDateTime": "2023-03-10T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-on-asphyxiation-from-trains-and-other-inaccurate-predictions.md",
       "title": "On Asphyxiation From Trains and Other Inaccurate Predictions",
       "excerpt": "“I think there is a world market for maybe five computers,” said the head of IBM in 1943. And “What use could ... Rather than announcing that artificial intelligence will become sentient and rule us all, we should examine the various applications ...",
@@ -218,7 +375,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -465,49 +622,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-groq-adapts-metas-chatbot-for-its-own-chips-in-race-against-nvidia.md",
-      "title": "Groq Adapts Meta's Chatbot For Its Own Chips In Race Against Nvidia",
-      "excerpt": "Close up of the GroqNode product by Silicon Valley AI chip startup Groq, in Mountain View, California, U.S., July, 2022. Groq Inc./Mark Heaps/Handout via REUTERS Reuters Groq, a Silicon Valley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533",
-      "originalUrl": "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/4430345/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1",
-      "publishedDateTime": "2023-03-09T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -822,7 +936,7 @@
       "originalUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-adds-kxm-the-microsoft-azure-marketplace-/2023/03/09/9774538.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1014,7 +1128,7 @@
       "originalUrl": "https://www.zdnet.com/article/scammers-are-using-ai-to-impersonate-your-loved-ones-heres-what-to-watch-for/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1155,93 +1269,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-management.md",
-      "title": "WiMi Develops Edge Computing-Based Holographic Face Recognition AI Chip System for Property Management",
-      "excerpt": "WiMi's edge computing-based holographic face recognition AI chip system can be used in various essential situations as it can perform high-density dynamic holographic face capture in complex ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31275065/wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-manage",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31275065/wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-manage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31275065",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31275065",
-      "publishedDateTime": "2023-03-09T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-artificial-intelligence-tools-becoming-unavoidable-lawmakers-say.md",
-      "title": "Artificial Intelligence tools becoming ‘unavoidable’, lawmakers say",
-      "excerpt": "The Artificial Intelligence revolution is upon us. Emerging technologies, like chatbots, have become almost unavoidable in recent months. But is Washington ready for this new wave of technological",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/",
-      "originalUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wkbn.com/wp-content/uploads/sites/48/2023/03/aiphone_012723_gettyimages_chatgpt.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/",
-      "cdnAmpWebUrl": "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/",
-      "publishedDateTime": "2023-03-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKBN 27 First News",
-        "domain": "wkbn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

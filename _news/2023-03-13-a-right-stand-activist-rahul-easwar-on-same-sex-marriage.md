@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T00:46:00Z
 originalUrl: "https://www.devdiscourse.com/article/headlines/2377046-a-right-stand-activist-rahul-easwar-on-same-sex-marriage"
 webUrl: "https://www.devdiscourse.com/article/headlines/2377046-a-right-stand-activist-rahul-easwar-on-same-sex-marriage"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: devdiscourse

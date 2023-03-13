@@ -44,21 +44,14 @@ related:
         height: 450
         isCached: true
   - title: "\"Institution of marriage is matter of policy; govt not interfering in anybody's personal life\": Union Law minister"
-    excerpt: "Asserting that the institution of marriage is a matter of \"policy\", Union Law Minister Kiren Rijiju on Monday clarified that the Centre is not interfering in the personal life of anybody by opposing the plea seeking legal recognition of same-sex marriage."
-    publishedDateTime: 2023-03-13T11:40:00Z
-    webUrl: "https://www.devdiscourse.com/article/headlines/2377709-institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybodys-personal-life-union-law-minister"
-    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2377709-institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybodys-personal-life-union-law-minister?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2377709-institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybodys-personal-life-union-law-minister?amp"
+    excerpt: "Asserting that the institution of marriage is a matter of policy Union Law Minister Kiren Rijiju on Monday clarified that the Centre is not interfering in th"
+    publishedDateTime: 2023-03-13T13:09:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273623720/institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybody-personal-life-union-law-minister"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 22
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_03_2023_11_40_10_8874342.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 0
 
 secured: "MAAfMowP8RA7hDJRrgcrpQuRpT9pO9tDEqT0Ms9WKjeK+v8aWzaBcGka1AZxQrdPWDWxjniBYfMHBeKCLW8Xjs/7ocWzSYAWF8qM6WHd2tMhkYZGGfjcw8/HwmduEi9/n6tz8uAdCcqptjVYVzsnRS2Z9B7cx5a8hAAZpD8lPyLSBo1qirWEnkzSVOX99+ra6DHH/yv9A/rNKfb4dx6eSNUgNqAH/GmUpBFkWLMKdIReE1r+u02LuFNgjdTFnWQZKnnyX9+0rizbRJsEr8WXQRXmmhckW5jc0eQsemWQBcoOmA3l8fmNIas05OwAOyJcSz+W/DBfKmDzsbfNv8mxquEcbIRGVTvVR7MVULYEHNk=;kEZwJajwBXxXAB+c3H8AwQ=="
 ---

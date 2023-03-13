@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-13-dead-island-2s-amazon-alexa-voice-commands-are-novel-but-limited.md",
+      "title": "Dead Island 2’s Amazon Alexa voice commands are novel, but limited",
+      "excerpt": "Dead Island 2's Alexa Game Control implementation allows players to change weapons and set waypoints, but it's a little limited so far.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/gaming/dead-island-2-amazon-alexa-game-control-impressions/",
+      "originalUrl": "https://www.digitaltrends.com/gaming/dead-island-2-amazon-alexa-game-control-impressions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/Dead-Island-2-Dani.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/gaming/dead-island-2-amazon-alexa-game-control-impressions/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/dead-island-2-amazon-alexa-game-control-impressions/?amp",
+      "publishedDateTime": "2023-03-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt.md",
       "title": "Unleashing The Power Of AI: 14 More Mind-Blowing Tools Beyond ChatGPT",
       "excerpt": "This article introduces 14 AI tools that go beyond ChatGPT and can help revolutionize the way we work. The article aims to provide readers with an overview of the potential of AI and how it can transform our workflows.",
@@ -996,6 +1048,40 @@
       ]
     },
     {
+      "path": "_news/2023-03-01-new-wolters-kluwer-health-language-solution-is-purpose-built-to-transform-the-risk-adjustment-market.md",
+      "title": "New Wolters Kluwer Health Language Solution Is Purpose-Built to Transform the Risk Adjustment Market",
+      "excerpt": "Wolters Kluwer Health today announced the launch of the Coder Workbench, a high-productivity Risk Adjustment solution built on the Health Language Data Platform that optimizes medical record review for risk adjustment workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/03/01/9769250.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/03/01/9769250.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-introducing-the-amazon-comprehend-flywheel-for-mlops.md",
       "title": "Introducing the Amazon Comprehend flywheel for MLOps",
       "excerpt": "The world we live in is rapidly changing, and so are the data and features that companies and customers use to train their models. Retraining models to keep them in sync with these changes is critical to maintain accuracy. Therefore, you need an agile and dynamic approach to keep models up to date and",
@@ -1046,49 +1132,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-new-wolters-kluwer-health-language-solution-is-purpose-built-to-transform-the-risk-adjustment-market.md",
-      "title": "New Wolters Kluwer Health Language Solution Is Purpose-Built to Transform the Risk Adjustment Market",
-      "excerpt": "Wolters Kluwer Health today announced the launch of the Coder Workbench, a high-productivity Risk Adjustment solution built on the Health Language Data Platform that optimizes medical record review for risk adjustment workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/new-wolters-kluwer-health-language-solution-is-purpose-built-to-transform-the-risk-adjustment-market/article_17d24e22-9ce8-57f1-98f9-8028d1251dba.html?block_id=531919",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/new-wolters-kluwer-health-language-solution-is-purpose-built-to-transform-the-risk-adjustment-market/article_17d24e22-9ce8-57f1-98f9-8028d1251dba.html?block_id=531919",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1429,59 +1472,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-healthcare-natural-language-processing-market-insights-industry-dynamics-new-technologies-and-forecast-to-2028.md",
-      "title": "Healthcare Natural Language Processing Market Insights : Industry dynamics, New Technologies and Forecast to 2028",
-      "excerpt": "Healthcare Natural Language Processing Market\" is expected to grow at a steady growth during the forecast period",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-insights-industry-dynamics-new-technologies-and-forecast-to-2028-2023-02-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-insights-industry-dynamics-new-technologies-and-forecast-to-2028-2023-02-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T16:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

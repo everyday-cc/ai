@@ -225,6 +225,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self Driving Wheelchair Market Size 2023 Research Report by Raw Materials Analysis and Forecast till 2027"
+    excerpt: "Mar 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Report on the \"Self Driving"
+    publishedDateTime: 2023-03-13T05:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-2023-research-report-by-raw-materials-analysis-and-forecast-till-2027-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Security Market Size, Latest Trends, Segmentation Analysis, Share, and Forecast 2029"
+    excerpt: "The \"Artificial Intelligence in Security Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-13T12:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-size-latest-trends-segmentation-analysis-share-and-forecast-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Systems in Healthcare Market Application, Product, Sales and Forecast 2023-2028"
     excerpt: "The \"Artificial Intelligence Systems in Healthcare Market\" study describes how the technology industry is evolving and"
     publishedDateTime: 2023-03-09T23:00:00Z
@@ -276,20 +304,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market Size & Share To Surpass $64.5 Billion By 2028 | Vantage Market Research"
-    excerpt: "The widespread product use among different companies for analyzing and interpreting enormous amounts of data also favors market growth. We forecast that the natural language processing (NLP) category in Enterprise Artificial Intelligence market sales will account for more than 58% of total sales by 2028."
-    publishedDateTime: 2023-03-13T08:07:00Z
-    webUrl: "https://menafn.com/1105761648/Enterprise-Artificial-Intelligence-AI-Market-Size-Share-To-Surpass-645-Billion-By-2028-Vantage-Market-Research"
+  - title: "Enterprise Artificial Intelligence (AI) Market Size & Share to Surpass $64.5 Billion by 2028 | Vantage Market Research"
+    excerpt: "Global Enterprise Artificial Intelligence Market is valued at USD 11.1 Billion in 2021 and is projected to reach USD 64.5 Billion by 2028 at a CAGR (Compound Annual Growth"
+    publishedDateTime: 2023-03-13T07:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31313781/enterprise-artificial-intelligence-ai-market-size-share-to-surpass-64-5-billion-by-2028-vantage-ma"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?817641"
-        width: 375
-        height: 250
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "HWSImgbxWrFK41RBewRq+MgbNBURpXtyrgvZYBjyE0aBF9Jkqyv/s1D2G5lFp8ia/pGmLwR5on/TnzmNejakIIPrxHt80ipayt5ly4DhLWXbmOQWU7LtsdgoF9PdOmQxU8L7P0GVxlaYbARRjm7NygXP/o3k78D/VFuap7Clz1MOups4Pw/9ec46/vrB3TbfzRnjxpJK31dcDL1aVQDH2fkOoS06Bho8xXgoMpExAPCODGGBa9W821r5IT61XTeBSMXwXcx4xIoTHk2Leq+AfY9tMs4KjVhr51ZEGND1fA7ao1/uIjCXfRb8gp2a+fo8q47u3zrbpxHz2Vrxy3Y902EJlnhBMDXuMXnFrzX5WEc=;k68H/fjmPNQkHidmIMMYvw=="
 ---

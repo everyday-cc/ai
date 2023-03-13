@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Alibaba, iQiyi, or Baidu: Which Has the Best Growth?"
-excerpt: "That represents almost half of its market capitalization. The margin of safety is large for BIDU stock. Baidu is developing self-driving and AI. It is the dominant search engine in China. iQiyi is a Chinese online video platform. It reported average daily ..."
-publishedDateTime: 2023-03-01T13:42:00Z
-originalUrl: "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01"
-webUrl: "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01"
+excerpt: "Ahead of Alibaba’s (BABA) strong quarterly results, the stock peaked at ~$120. It closed at $89.00 after strong results. Baidu (BIDU) mentioned artificial developments and rose, only to fall. iQiyi (IQ) traded close to a 52-week high after posting results."
+publishedDateTime: 2023-03-01T14:34:00Z
+originalUrl: "https://www.baystreet.ca/articles/stockstowatch/85369/Alibaba-iQiyi-or-Baidu-Which-Has-the-Best-Growth"
+webUrl: "https://www.baystreet.ca/articles/stockstowatch/85369/Alibaba-iQiyi-or-Baidu-Which-Has-the-Best-Growth"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BayStreet
+  domain: baystreet.ca
 
 topics:
   - AI in Autos
   - AI
 
-secured: "EYdEioo/CUDjYZjDNwUaQb88gTvdIjHbT0EHZf1aMl5zPefYmYwHvdLHMoQMLo64ckdhkdVwb3DZjgGE9AOdWUkjsQRhM9bmlduIUYTBTD624ks6q/WJBNHDlrcst9s3AJChu+Pz0Pw5goQOfZTKkB+w89rxcRbOd4lrqk/lZwfjYAfH+8Rb1OtziKR191uc6p4z+ytMCYVsSGuaTYBLFYsqyTaDTN1s5pti9N8t09Ci8ohhb0h5YxlTsGKb/i+OqWVFg+Gu350BM/nQIZUmEb2PluAervU86bYiV7WjDk++V53O/QVFEzDmTedFFArxNCv6nVD75pUZQL7mpio7KoXOwDFeYhAdUAV5HHfea7w=;YUY+ssdm36H4SzirkpzuWA=="
+images:
+  - url: "http://www.baystreet.ca/images/articlegroups/original/7/private/Alibaba.jpg"
+    width: 845
+    height: 396
+    isCached: true
+
+secured: "s1PJpGnn2gVvvgoNuemOANtfn3fPTS0NntkDKdcIrIccFvpUJdkZtj0ww4iV95PGsdsFm82rmm2WT9Vk/87QUnJV4tFiyoqToE0oJiQnBXj9S3xcSpH6fyGecatsv7LVsr2YEgWVbTPYIcIXHQWz4elIttCzh6bAThtqyYVlXCcbLDgp4JFabWPpyQsVh/QpBYtO/S4aMLrdWXiZUYxMVhvVndGzMhCNgGEde3leFSV9HvOS6MYWER7QlfngjmU+7may9VuiZVvxq7rEzJQhtBRt+MPC39VXRRCFQT3CtCeqF/5574x/BzDPfkJXHlWKpMFnA5331jO6nHFP4VaBQsEG2/IXUk28EvNs904O+co=;qDRf7XlAfsKlxbFWA52WBQ=="
 ---
 

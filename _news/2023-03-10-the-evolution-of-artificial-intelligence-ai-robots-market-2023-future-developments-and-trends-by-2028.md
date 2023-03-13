@@ -211,10 +211,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self Driving Wheelchair Market Size 2023 Research Report by Raw Materials Analysis and Forecast till 2027"
+    excerpt: "Mar 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Report on the \"Self Driving"
+    publishedDateTime: 2023-03-13T05:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-size-2023-research-report-by-raw-materials-analysis-and-forecast-till-2027-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Social Media Market Key Trends, Applications & Future Developments to 2029"
     excerpt: "The \"Artificial Intelligence (AI) in Social Media Market\" study describes how the technology industry is evolving and"
     publishedDateTime: 2023-03-09T01:03:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-key-trends-applications-future-developments-to-2029-2023-03-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Security Market Size, Latest Trends, Segmentation Analysis, Share, and Forecast 2029"
+    excerpt: "The \"Artificial Intelligence in Security Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-13T12:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-size-latest-trends-segmentation-analysis-share-and-forecast-2029-2023-03-13"
     type: article
     provider:
       name: MarketWatch
@@ -276,20 +304,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market Size & Share To Surpass $64.5 Billion By 2028 | Vantage Market Research"
-    excerpt: "The widespread product use among different companies for analyzing and interpreting enormous amounts of data also favors market growth. We forecast that the natural language processing (NLP) category in Enterprise Artificial Intelligence market sales will account for more than 58% of total sales by 2028."
-    publishedDateTime: 2023-03-13T08:07:00Z
-    webUrl: "https://menafn.com/1105761648/Enterprise-Artificial-Intelligence-AI-Market-Size-Share-To-Surpass-645-Billion-By-2028-Vantage-Market-Research"
+  - title: "Enterprise Artificial Intelligence (AI) Market Size & Share to Surpass $64.5 Billion by 2028 | Vantage Market Research"
+    excerpt: "Global Enterprise Artificial Intelligence Market is valued at USD 11.1 Billion in 2021 and is projected to reach USD 64.5 Billion by 2028 at a CAGR (Compound Annual Growth"
+    publishedDateTime: 2023-03-13T07:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31313781/enterprise-artificial-intelligence-ai-market-size-share-to-surpass-64-5-billion-by-2028-vantage-ma"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?817641"
-        width: 375
-        height: 250
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
 
 secured: "0GVeAoEKJdLNjJFJrnCcWJrIk4Z9GSj7Fq8WUe+ShawDDj3c7xGu3WEjQvTAk3oMgdP8+kJSL6nkFDQnFXAvfCyvZVfVT2qZO4QdoKGilMM8ii/Jc3MizZtPTROqI5w6BNqFHZCGLx58v+5IrtJA38p+Z85dp/WGLDXLMDeBWt2Jn7Qm3Ox02kIdGa1+bgOsHRvW/bUYdBiJpJGVyfQngldnKeBEEflzPH0Itul4jodRe0YQ/KGGE/grpjJ7fPMhBPt41eUbSi5Pc7mn2WrX10wcHxExMz342fFz9Rr+J90f+aZtcFJ1Djt4xfUv59XcM2samPW6zsOGn3V27O8nphtbCPl1Q99wo0P7PlC0ReE=;62cyYf776QySNVbskW4hmg=="
 ---

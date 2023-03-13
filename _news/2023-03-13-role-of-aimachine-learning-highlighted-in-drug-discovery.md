@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T13:24:00Z
 originalUrl: "https://www.thehindu.com/news/national/telangana/role-of-aimachine-learning-highlighted-in-drug-discovery/article66614699.ece"
 webUrl: "https://www.thehindu.com/news/national/telangana/role-of-aimachine-learning-highlighted-in-drug-discovery/article66614699.ece"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Hindu

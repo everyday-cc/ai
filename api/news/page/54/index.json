@@ -2,6 +2,388 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-01-30-will-machine-learning-help-us-find-extraterrestrial-life.md",
+      "title": "Will machine learning help us find extraterrestrial life?",
+      "excerpt": "Researchers have applied a deep learning technique to a previously studied dataset of nearby stars and uncovered eight previously unidentified signals of interest. When pondering the probability ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/01/230130130512.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/01/230130130512.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process.md",
+      "title": "BrainChip Tapes Out AKD1500 Chip in GlobalFoundries 22nm FD SOI Process",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/ac30616265/brainchip-tapes-out-akd1500-chip-in-globalfoundries-22nm-fd-soi-process",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30616265",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30616265",
+      "publishedDateTime": "2023-01-29T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-madison-square-garden-ceo-defends-use-of-facial-recognition-tech.md",
+      "title": "Madison Square Garden CEO Defends Use of Facial Recognition Tech",
+      "excerpt": "In an interview on Fox 5’s 'Good Day New York' this week CEO James Dolan said: 'If you’re suing us, we’re just asking of you—please don’t come until you’re done with your argument with us.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/madison-square-garden-ceo-defends-use-of-facial-recognition-tech",
+      "originalUrl": "https://www.pcmag.com/news/madison-square-garden-ceo-defends-use-of-facial-recognition-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/07pDunJzjhUyZX14QfwYQLQ-1.fit_lim.size_1200x630.v1675023958.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-29T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-impact-of-ai-on-the-music-industry-part-2-of-a-two-part-series.md",
+      "title": "Impact Of AI On The Music Industry (Part 2 Of A Two Part Series)",
+      "excerpt": "This article continues to explore the impact of AI on the music industry and looks at some of the pros and the cons, reinforcing the need for increased legal frameworks and copyright protections for musicians.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/01/29/impact-of-ai-on-the-music-industry-part-2-of-a-two-part-series/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/01/29/impact-of-ai-on-the-music-industry-part-2-of-a-two-part-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d6d3d0a83fa6dc1c5c8564/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/01/29/impact-of-ai-on-the-music-industry-part-2-of-a-two-part-series/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/01/29/impact-of-ai-on-the-music-industry-part-2-of-a-two-part-series/amp/",
+      "publishedDateTime": "2023-01-29T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-30-artificial-intelligence-predicts-delirium-risk.md",
+      "title": "Artificial Intelligence Predicts Delirium Risk",
+      "excerpt": "During an ICU stay, the newly developed artificial intelligence (AI) algorithms were found to detect the early warning delirium signs. Patients in ICU stay are at an increased risk of delirium. \"Being able to differentiate between patients at low and high risk of delirium is incredibly important in the ICU because it enables us to devote more resources toward interventions in the high-risk population,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-predicts-delirium-risk-210287-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-predicts-delirium-risk-210287-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/delirium.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-predicts-delirium-risk-210287-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-delirium-risk-210287-1.htm",
+      "publishedDateTime": "2023-01-29T09:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-01-29-ut-austin-will-offer-artificial-intelligence-graduate-program-online.md",
+      "title": "UT Austin will offer artificial intelligence graduate program online",
+      "excerpt": "Designed to be taken at the learner's own pace, the program will include two years’ worth of course content in machine learning, natural language processing, reinforcement learning, computer vision, deep learning and the ethical implications of AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php",
+      "originalUrl": "https://www.houstonchronicle.com/news/article/artificial-intelligence-ut-austin-online-masters-17748855.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/31/24/36/23414694/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-28T18:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-29-firefighters-smashed-the-window-of-a-driverless-cruise-taxi-to-stop-it-running-over-their-hoses.md",
+      "title": "Firefighters smashed the window of a driverless Cruise taxi to stop it running over their hoses",
+      "excerpt": "San Francisco firefighters smashed the front window of a Cruise driverless taxi to stop it from running over their hoses. A Cruise autonomous vehicle drove toward fire hoses on the ground in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1",
+      "originalUrl": "https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63d677cafc18470019553e52?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1?amp",
+      "publishedDateTime": "2023-01-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-28-artificial-intelligence-may-actually-help-humanize-financial-services.md",
+      "title": "Artificial Intelligence May Actually Help Humanize Financial Services",
+      "excerpt": "Industrywide, we lacked some engagement, we lacked some warmth, we lacked some relevance, particularly through digital channel. We need to re-instate humanization into digital, and AI is a tool that’s going to help us get there.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d44b0b30d078897e922e26/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/01/28/artificial-intelligence-may-actually-help-humanize-financial-services/amp/",
+      "publishedDateTime": "2023-01-28T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-28-5-tech-trends-that-will-change-the-fintech-industry-in-2023.md",
       "title": "5 Tech Trends That Will Change the Fintech Industry In 2023",
       "excerpt": "An emerging trend in fintech is being driven by artificial intelligence (AI), including banks and other financial institutions. Fintech companies can break fraudulent transactions because it can ...",
@@ -792,386 +1174,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-ibm-to-cut-3900-jobs-globally-but-still-expects-to-hire-in-higher-growth-areas.md",
-      "title": "IBM to cut 3,900 jobs globally but still expects to hire in ‘higher-growth areas’",
-      "excerpt": "SAN FRANCISCO – International Business Machines (IBM) has announced that it will eliminate ... we are leveraging digitisation, AI (artificial intelligence) automation, which drives efficiency ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/world/united-states/ibm-cuts-3900-jobs-after-muted-consulting-demand-hits-quarterly-revenue",
-      "originalUrl": "https://www.straitstimes.com/world/united-states/ibm-cuts-3900-jobs-after-muted-consulting-demand-hits-quarterly-revenue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/01/27/2023-01-25T221936Z570121139RC2XXY925S8BRTRMADP3IBM-RESULTS.JPG?VersionId=TzmUkPu1bNaw3sWn_VoQ3sB2zWGjcJn4",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-27T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-artificial-intelligence-out-buzzes-the-blockchain.md",
-      "title": "Artificial intelligence out-buzzes the blockchain",
-      "excerpt": "The blockchain is so last year. The newest craze to excite investors is artificial intelligence. BuzzFeed is case in point. Shares in the digital publisher more than doubled on Thursday after the Wall Street Journal reported that the company run by Jonah Peretti is going to use OpenAI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/artificial-intelligence-out-buzzes-blockchain-2023-01-27/",
-      "originalUrl": "https://www.reuters.com/breakingviews/artificial-intelligence-out-buzzes-blockchain-2023-01-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/DeYdHV7CD7lkZZ7mfk-skDgg4Fk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RDOIHOEZWJIDVB77W3JQZTWN6A.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-27T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-consumer-robotics-how-artificial-intelligence-is-changing-the-game.md",
-      "title": "Consumer Robotics: How Artificial Intelligence Is Changing The Game",
-      "excerpt": "From vacuum cleaners and lawnmowers to personal assistants and healthcare workers, robots are increasingly becoming a common sight in homes and businesses worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63d2872a3e9e3b86964c5506/0x0.jpg?format=jpg&width=1200",
-          "width": 1123,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/01/27/consumer-robotics-how-artificial-intelligence-is-changing-the-game/amp/",
-      "publishedDateTime": "2023-01-27T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey.md",
-      "title": "Workers want more AI to get rid of their office busywork, says Microsoft survey",
-      "excerpt": "As AI assistants such as ChatGPT continue to cause a sensation, a survey by Microsoft of over 3,000 people has found that the vast majority of workers want more help from artificial intelligence to automate mundane daily tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/",
-      "originalUrl": "https://www.zdnet.com/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/137375a87a2b79fdafa822be1cc1af3467954667/2023/01/27/b4df6d49-a210-46a0-b638-3ae9128247ce/officework.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/work-life/workers-want-more-ai-to-get-rid-of-their-office-busywork-says-microsoft-survey/",
-      "publishedDateTime": "2023-01-27T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-buzzfeed-and-ai-are-a-match-made-in-fad-city.md",
-      "title": "BuzzFeed and AI Are a Match Made in Fad City",
-      "excerpt": "Shares of struggling digital-media company BuzzFeed Inc. soared as much as 200% on Thursday after saying “AI inspired content” will become “part of our core business” this year. It apparently mattered little to investors that the type of content BuzzFeed has in mind includes its signature quizzes (“Try to Identify 8/8 of these Famous Rodents If You Can” or “If You Paid Attention In Third Grade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2023-01-27/buzzfeed-bzfd-and-ai-are-a-match-made-in-fad-city",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2023-01-27/buzzfeed-bzfd-and-ai-are-a-match-made-in-fad-city",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2p2.K7DK4Ao/v1/1200x801.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-27T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-artificial-intelligence-in-south-africa-comes-with-special-dilemmas-plus-the-usual-risks.md",
-      "title": "Artificial intelligence in South Africa comes with special dilemmas – plus the usual risks",
-      "excerpt": "Artificial Intelligence comes with a litany of ethical risks and dilemmas. Some are universal, but some are unique to particular countries, like South Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html",
-      "originalUrl": "https://www.modernghana.com/news/1208405/artificial-intelligence-in-south-africa-comes-with.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.modernghana.com/images/content/1272023123738-0g730m4yxs-file-20230106-13-750vf8.jpg",
-          "width": 800,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernghana.com/amp/news/1208405/artificial-intelligence-in-south-africa-comes-with.html",
-      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1208405/artificial-intelligence-in-south-africa-comes-with.html",
-      "publishedDateTime": "2023-01-27T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernghana.com",
-        "domain": "modernghana.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-james-dolan-defends-facial-recognition-use-to-ban-legal-foes-from-venues.md",
-      "title": "James Dolan defends facial recognition use to ban legal foes from venues",
-      "excerpt": "James Dolan, executive chairman and CEO of Madison Square Garden, defended his use of facial recognition technology to keep attorneys involved in lawsuits against MSG Entertainment out of its venues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues",
-      "originalUrl": "https://www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/GettyImages-1368431178-copy.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/sports/james-dolan-defends-facial-recognition-use-ban-legal-foes-venues.amp",
-      "publishedDateTime": "2023-01-27T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-talking-ai-ceo-arvind-khrisna-on-ibms-monetization-strategy.md",
-      "title": "Talking AI - CEO Arvind Khrisna on IBM's monetization strategy",
-      "excerpt": "In his view, there have been three moments that matter in the past decade in terms of AI emerging to have business potential and impact: One, when IBM won Jeopardy! with Watson, I think it was a big moment, and AI came onto everyone's roadmap.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy",
-      "originalUrl": "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2022-01/Screenshot%202022-01-25%20at%2011.06.30.png",
-          "width": 1192,
-          "height": 876,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/talking-ai-ceo-arvind-khrisna-ibms-monetization-strategy?amp",
-      "publishedDateTime": "2023-01-27T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

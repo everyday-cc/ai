@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T13:00:00Z
 originalUrl: "https://insidebigdata.com/2023/03/13/data-science-bows-before-prompt-engineering-and-few-shot-learning/"
 webUrl: "https://insidebigdata.com/2023/03/13/data-science-bows-before-prompt-engineering-and-few-shot-learning/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: insidebigdata.com

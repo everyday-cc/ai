@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI News roundup: Big ChatGPT update around the corner, Koo integrates AI and more"
+    excerpt: "Can AI help with climate change? Machine Learning might help solve the biggest problem on the planet. The shifting climate will significantly impact global environmental, social, and economic systems."
+    publishedDateTime: 2023-03-13T13:31:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-big-chatgpt-update-around-the-corner-koo-integrates-ai-and-more-10242901.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 14
 
 secured: "YQuCOq1cfeHRADmYqsrwhuk4DaU2+UXCTy0lTtgoKrK+hYOJ6jsixxERW46s4hw7LjdY2da8vqFPHk8g07neGMgOMhS3Z87v72tV3Qx4RC7c56ax9P11owcFtvFpmESjHvKW3kJx9KBZXPvip7uofjyX1GYGcd2FOyA0oY6R8rBhh/T8o+IXBZX3XP1mf+E8bNqWk3R8aW8hKpql1+KBMgQB+GrvasKsdIW6N6ovrSZ6hsm4TfDa4nc/DlRJCyE3cc8mypj5wT1mYTewx0zfd9Z5C4otZP+KzGBHA04Aqa+R6UVB9zyy1sI6Tnn5rvK2BXiJTL9KR2/UVaqbdV950gua33rt6OU9s11NQUlr7s4=;TNNl7qarsps3JJaLh8tQ+w=="
 ---

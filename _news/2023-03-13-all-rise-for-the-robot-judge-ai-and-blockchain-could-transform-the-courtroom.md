@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T13:00:00Z
 originalUrl: "https://cointelegraph.com/magazine/all-rise-for-robot-judge-ai-blockchain-transform-courtroom/"
 webUrl: "https://cointelegraph.com/magazine/all-rise-for-robot-judge-ai-blockchain-transform-courtroom/"
 type: article
+quality: 33
+heat: 33
+published: false
 
 provider:
   name: CoinTelegraph

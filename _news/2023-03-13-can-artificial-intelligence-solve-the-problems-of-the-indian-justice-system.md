@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T11:48:00Z
 originalUrl: "https://www.moneycontrol.com/news/opinion/can-artificial-intelligence-solve-the-problems-of-the-indian-justice-system-10242531.html"
 webUrl: "https://www.moneycontrol.com/news/opinion/can-artificial-intelligence-solve-the-problems-of-the-indian-justice-system-10242531.html"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: moneycontrol.com

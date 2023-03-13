@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T13:00:00Z
 originalUrl: "https://analyticsindiamag.com/sci-fi-movies-or-real-life-simulation/"
 webUrl: "https://analyticsindiamag.com/sci-fi-movies-or-real-life-simulation/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Analytics India Magazine

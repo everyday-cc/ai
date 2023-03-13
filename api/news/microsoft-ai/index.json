@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-13-azure-previews-powerful-and-scalable-virtual-machine-series-to-accelerate-generative-ai.md",
+      "title": "Azure previews powerful and scalable virtual machine series to accelerate generative AI",
+      "excerpt": "In the competitive race for AI innovation, pushing the envelope requires both experience and leadership-class supercomputing scalability. Powerful and massively scalable infrastructure is paramount as the complexity and size of AI models accelerate.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-12T23:00:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-cloud-wars-azure-vs-aws-vs-gcp.md",
       "title": "Cloud Wars: Azure vs AWS vs GCP",
       "excerpt": "Azure vs AWS vs GCP\" blog post, we compared three of the most popular cloud providers: Azure, AWS, and GCP. We discussed their performance, pricing, and security features. All three cloud providers offer fast processing speeds and low latency,",
@@ -158,7 +201,7 @@
       "originalUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-adds-kxm-the-microsoft-azure-marketplace-/2023/03/09/9774538.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -246,7 +289,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -287,6 +330,83 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-perceived-stress-tied-to-worse-cognitive-impairment-in-older-adults.md",
+      "title": "Perceived stress tied to worse cognitive impairment in older adults",
+      "excerpt": "There is an independent association between perceived stress and both prevalent and incident cognitive impairment, according to a study published online March 7 in JAMA Network Open. Ambar ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-03-stress-worse-cognitive-impairment-older.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-03-stress-worse-cognitive-impairment-older.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/perceived-stress-tied.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-too-much-stress-can-impair-memory-and-cognitive-function-heres-how-to-better-manage-it.md",
+      "title": "Too much stress can impair memory and cognitive function; here's how to better manage it",
+      "excerpt": "There is no way to completely escape life's stressors, but too much stress can lead to adverse health effects, including a loss of cognitive function. MORE HEALTH How to tell whether congestion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.phillyvoice.com/tips-to-reduce-stress-cognitive-function-dementia/",
+      "originalUrl": "https://www.phillyvoice.com/tips-to-reduce-stress-cognitive-function-dementia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "phillyvoice.com",
+        "domain": "phillyvoice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1225,148 +1345,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-ms-can-the-mediterranean-diet-help-preserve-cognitive-health.md",
-      "title": "MS: Can the Mediterranean diet help preserve cognitive health?",
-      "excerpt": "“Cognitive impairment may affect over 50% of persons with MS and there are currently no effective pharmacologic treatments,” Barbara Giesser, neurologist and MS specialist at Pacific ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/ms-can-the-mediterranean-diet-help-preserve-cognitive-health",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/ms-can-the-mediterranean-diet-help-preserve-cognitive-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/03/hand-table-Mediterranean-diet-MS-732x549-thumbnail.jpg",
-          "width": 732,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race.md",
-      "title": "Hugging Face, AWS partner on open-source machine learning amidst AI arms race",
-      "excerpt": "OpenAI stopped open-sourcing most of its machine learning models and is serving them through a paid application programming interface (API). It has also become locked into Microsoft’s cloud platform, and its models are only available on Azure and ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/",
-      "originalUrl": "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar.md",
-      "title": "Microsoft's AI-powered Bing is coming to the Windows 11 taskbar",
-      "excerpt": "A new update brings a series of new features to Windows 11, including Bing's ChatGPT and a preview to an iOS Phone Link.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
-      "originalUrl": "https://www.zdnet.com/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 426,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5dbea24f0f788b1af3743d47bc31f21257f126c2/2023/02/28/41a66842-a257-4951-933a-30c1880acb71/screenshot-2023-02-28-at-10-39-56-am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-ai-powered-bing-is-coming-to-the-windows-11-taskbar/",
-      "publishedDateTime": "2023-02-28T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

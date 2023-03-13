@@ -2,6 +2,42 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-07-google-hopes-bard-will-outsmart-chatgpt-microsoft-in-ai.md",
+      "title": "Google hopes 'Bard' will outsmart ChatGPT, Microsoft in AI",
+      "excerpt": "ARTIFICIAL INTELLIGENCE IS SHAKING UP THE WAY WE CREATE ART ... TEACHERS ARE CONCERNED ABOUT PLAGIARISM AND THE ETHICS OF LETTING A COMPUTER DO THE TYPING AND THE THINKING. A COMPUTER SCIENCE STUDENT AT PRINCETON UNIVERSITY BELIEVES HE HAS A SOLUTION.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wmur.com/article/google-bard-chatgpt-microsoft-ai/42781857",
+      "originalUrl": "https://www.wmur.com/article/google-bard-chatgpt-microsoft-ai/42781857",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMUR",
+        "domain": "wmur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-google-takes-on-chatgpt-with-bard-and-shows-off-ai-in-search.md",
       "title": "Google takes on ChatGPT with Bard and shows off AI in search",
       "excerpt": "Google's new AI will \"combine the breadth of the world's knowledge with the power, intelligence, and creativity of our large language models.\"",
@@ -1163,49 +1199,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-27-explainer-what-is-an-australian-black-voice-to-parliament.md",
-      "title": "EXPLAINER: What is an Australian Black Voice to Parliament?",
-      "excerpt": "Australians expect to vote this year in a referendum that would enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that effect their lives known a",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/explainer-australian-black-voice-parliament-96681527",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/explainer-australian-black-voice-parliament-96681527",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/wirestory_07694a5fc5e28b243c09873c994bb3d6_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/explainer-australian-black-voice-parliament-96681527",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/explainer-australian-black-voice-parliament-96681527",
-      "publishedDateTime": "2023-01-26T16:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

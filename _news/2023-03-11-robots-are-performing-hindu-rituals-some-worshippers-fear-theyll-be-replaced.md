@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/world/robots-are-performing-hindu-r
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/robots-are-performing-hindu-rituals-some-worshippers-fear-theyll-be-replaced"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: PBS
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "As robots perform Hindu rituals, some devotees fear they’ll replace worshippers"
+    excerpt: "Robots are being brought into Hinduism’s holiest rituals – and not all worshippers are happy about it. In 2017, a technology firm in India introduced a robotic arm to perform “aarti,” a ritual in which a devotee offers an oil lamp to the deity to symbolize the removal of darkness."
+    publishedDateTime: 2023-03-13T14:41:00Z
+    webUrl: "https://religionnews.com/2023/03/13/as-robots-perform-hindu-rituals-some-devotees-fear-theyll-replace-worshippers/"
+    type: article
+    provider:
+      name: Religion News Service
+      domain: religionnews.com
+    quality: 35
+    images:
+      - url: "https://religionnews.com/wp-content/uploads/2023/03/file-20230306-18-wqvorn.png"
+        width: 848
+        height: 427
+        isCached: true
   - title: "Robots are performing Hinduism’s holiest rituals—for better or worse"
     excerpt: "Robots are being brought into Hinduism’s holiest rituals—and not all worshippers are happy about it. In 2017, a technology firm in India introduced a robotic arm to perform “aarti,” a ritual in which a devotee offers an oil lamp to the deity to symbolize the removal of darkness."
     publishedDateTime: 2023-03-13T03:00:00Z

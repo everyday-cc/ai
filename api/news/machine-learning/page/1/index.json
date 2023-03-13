@@ -115,7 +115,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/?source=app&frmapp=yes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -370,7 +370,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-trade-research-report-2023-2028-2023-03-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1036,6 +1036,83 @@
       ]
     },
     {
+      "path": "_news/2023-03-06-deep-learning-based-anatomical-landmark-identification-in-ct-scans.md",
+      "title": "Deep-learning-based anatomical landmark identification in CT scans",
+      "excerpt": "When planning orthodontic treatments using computed tomography images, surgeons often need to identify points of interest in the bones called “anatomical landmarks,” which help them diagnose conditions and make precise measurements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/981832",
+      "originalUrl": "https://www.eurekalert.org/news-releases/981832",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/876075ca-d045-4893-809f-b4e7d7b6ec8b/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-deep-machine-learning-corrects-neutron-gamma-ray-logs.md",
+      "title": "Deep machine learning corrects neutron, gamma ray logs",
+      "excerpt": "Based on “Deep Learning for Multiwell Automatic Log Correction,” presented at SPWLA Annual Logging Symposium, Stavanger, June 11-15, 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ogj.com/general-interest/article/14290805/deep-machine-learning-corrects-neutron-gamma-ray-logs",
+      "originalUrl": "https://www.ogj.com/general-interest/article/14290805/deep-machine-learning-corrects-neutron-gamma-ray-logs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oil",
+        "domain": "ogj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-drones-and-deep-learning-researchers-develop-a-new-technique-to-quantify-rice-production.md",
       "title": "Drones and deep learning: Researchers develop a new technique to quantify rice production",
       "excerpt": "These images are then processed using a deep learning network that we have developed, called RiceNet, which can accurately identify the density of rice plants in the field, as well as provide ...",
@@ -1357,93 +1434,6 @@
         "AI",
         "Machine Learning",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.md",
-      "title": "ICICI Prudential Life Insurance leverages machine learning models for customers",
-      "excerpt": "ICICI Prudential Life Insurance has deployed advanced machine learning models for their customers. This digital solution predicts future persistency behavior and has enabled the Company to improve persistency across all cohorts.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-98351567,imgsize-15524,width-1200,height-628,overlay-etcio/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "publishedDateTime": "2023-03-01T19:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-deep-learning-for-safer-driving.md",
-      "title": "Deep learning for safer driving",
-      "excerpt": "CERN and software company Zenseact have completed a three-year project investigating the use of AI in autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://cerncourier.com/a/deep-learning-for-safer-driving/",
-      "originalUrl": "https://cerncourier.com/a/deep-learning-for-safer-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cerncourier.com/wp-content/uploads/2023/02/CCMarApr23_NA_Zenseact.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CERN Courier",
-        "domain": "cerncourier.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

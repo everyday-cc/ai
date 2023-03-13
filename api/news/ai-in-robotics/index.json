@@ -158,6 +158,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-11-robots-are-performing-hindu-rituals-some-worshippers-fear-theyll-be-replaced.md",
+      "title": "Robots are performing Hindu rituals. Some worshippers fear they’ll be replaced",
+      "excerpt": "It isn’t just artists and teachers who are losing sleep over advances in automation and artificial intelligence. Robots are being brought into Hinduism’s holiest rituals – and not all worshippers are happy about it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/world/robots-are-performing-hindu-rituals-some-worshippers-fear-theyll-be-replaced",
+      "originalUrl": "https://www.pbs.org/newshour/world/robots-are-performing-hindu-rituals-some-worshippers-fear-theyll-be-replaced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2023/03/GettyImages-1186570883-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/world/robots-are-performing-hindu-rituals-some-worshippers-fear-theyll-be-replaced",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/robots-are-performing-hindu-rituals-some-worshippers-fear-theyll-be-replaced",
+      "publishedDateTime": "2023-03-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-how-to-start-an-ai-panic.md",
       "title": "How to Start an AI Panic",
       "excerpt": "The Center for Humane Technology stoked conversation about the dangers of social media. Now it’s warning that artificial intelligence is as dangerous as nuclear weapons.",
@@ -365,7 +408,7 @@
       "originalUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-adds-kxm-the-microsoft-azure-marketplace-/2023/03/09/9774538.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1371,50 +1414,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-teslas-new-engineering-hq-in-california-will-focus-on-ai-and-robotics.md",
-      "title": "Tesla’s new engineering HQ in California will focus on AI and robotics",
-      "excerpt": "Tesla recently announced its plans to expand its engineering center in California. Elon Musk, its founder, has now hinted that the upcoming facility will focus mainly on developing its AI capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/teslas-new-hq-ai-robotics",
-      "originalUrl": "https://interestingengineering.com/innovation/teslas-new-hq-ai-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/02/24/image/jpeg/h1XTCmeKK7kKgWtz5my1qFvBDqgC04Vy2fzcnm2Y.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-24T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

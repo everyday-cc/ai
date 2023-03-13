@@ -28,19 +28,14 @@ images:
 
 related:
   - title: "Addressing privacy fears, CAG says ethics a must for AI in audit"
-    excerpt: "Indicating that assuaging worldwide fears and concerns red-flagged on the use and application of artificial intelligence AI in governance including in audit"
-    publishedDateTime: 2023-03-13T07:15:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273622751/addressing-privacy-fears-cag-says-ethics-a-must-for-ai-in-audit"
+    excerpt: "Girish Chandra Murmu said, \"While AI offers many opportunities, it also raises concerns related to transparency and fairness. These issues include the impact of AI on privacy, bias and discrimination in AI systems,"
+    publishedDateTime: 2023-03-13T06:37:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2377305-addressing-privacy-fears-cag-says-ethics-a-must-for-ai-in-audit"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1678691076.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 34
 
 secured: "abKwIUyWGhWEB3bHLnJ4NEBdafIt25U2acliqizCfRPcel2elkZCegMYpxxAC7pV2BRD3bIopk0H+72aWO6shSuUpzo9EUHZSVhCDPgb4t2BS+CB6XYnfxkfXpOFCp2UeyKhyec+gB901v/w8r3MzVyrNPv9YSioPw/JdpZkqceAhkvijWJL8iP9rOtIvRmUR9l8v3DLL9+dAgFn5AXHMvCTjxGYtVFEsSGtwH+FqoSjvljAtZfeBTSUdAvhbT3iSSmH4iGu090agrvRha+mQlAFAWOUZccIMyCTOF5wpvzdUyXaYeLbNi3KZWFaN5gJDRzhhq0cPRMjCp/Vfq3SZtIxg26p65tGyk8JctX9oXw=;iTfM7h58qyvWxRn927CraA=="
 ---

@@ -2,6 +2,291 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-07-googles-one-step-closer-to-building-its-1000-language-ai-model.md",
+      "title": "Google’s one step closer to building its 1,000-language AI model",
+      "excerpt": "Right now, Google says USM supports over 100 languages and will serve as the “foundation” to build an even more expansive system. Meta’s working on a similar AI translation tool that’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/3/6/23627788/google-1000-language-ai-universal-speech-model",
+      "originalUrl": "https://www.theverge.com/2023/3/6/23627788/google-1000-language-ai-universal-speech-model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/3paMOCSkJrw9oAYvNX0YuWuP1Nk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016884/STK093_Google_05.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-7-investors-reveal-whats-hot-in-fintech-in-q1-2023.md",
+      "title": "7 investors reveal what’s hot in fintech in Q1 2023",
+      "excerpt": "We’re also looking at thoughtful enterprise applications of AI that intersect with each of these segments of our fintech thesis. We continue to avoid balance-sheet heavy businesses that take ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/07/7-investors-reveal-whats-hot-in-fintech-in-q1-2023/",
+      "originalUrl": "https://techcrunch.com/2023/03/07/7-investors-reveal-whats-hot-in-fintech-in-q1-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-1033407190-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-daily-crunch-ai-driven-fintech-candidly-nabs-205m-series-b-to-help-consumers-crush-debt.md",
+      "title": "Daily Crunch: AI-driven fintech Candidly nabs $20.5M Series B to help consumers ‘crush debt’",
+      "excerpt": "The enterprise is about to get hit by the generative AI hype train, as Salesforce prepares to invest in startups developing what it calls “responsible generative AI,” Paul writes. As the toxic ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/",
+      "originalUrl": "https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-860183434.jpg?resize=1200,797",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/07/daily-crunch-ai-driven-fintech-candidly-nabs-20-5m-series-b-to-help-consumers-crush-debt/amp/",
+      "publishedDateTime": "2023-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping.md",
+      "title": "Schools Are Using Voice Technology to Teach Reading. Is It Helping?",
+      "excerpt": "They try to replicate the experience of a teacher listening carefully and identifying potential problem areas in comprehension, pronunciation and letter recognition. Voice technology — especially the use of an AI bot that talks back to the learner ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.edsurge.com/news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping",
+      "originalUrl": "https://www.edsurge.com/news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/15247/shutterstock_1682594902-1677877922.jpg?auto=compress%2Cformat&w=640&h=480&fit=crop",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.edsurge.com/amp/news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping",
+      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2023-03-07-schools-are-using-voice-technology-to-teach-reading-is-it-helping",
+      "publishedDateTime": "2023-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdSurge",
+        "domain": "edsurge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-study-examines-potential-use-of-machine-learning-for-sustainable-development-of-biomass.md",
+      "title": "Study examines potential use of machine learning for sustainable development of biomass",
+      "excerpt": "Machine learning can be valuable in supporting sustainable development of biomass if it is applied across the entire lifecyle of biomass and biomass-derived products, according to a new study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/03/230307174307.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/03/230307174307.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-microsoft-aims-to-reduce-tedious-business-tasks-with-new-ai-tools.md",
+      "title": "Microsoft aims to reduce “tedious” business tasks with new AI tools",
+      "excerpt": "The move follows the trend among tech giants such as Alphabet and Baidu to incorporate generative AI technology into their offerings—and of course, the multi-billion dollar partnership between OpenAI and Microsoft announced in January.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-brings-chatgpt-style-ai-to-developer-and-analysis-tools/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/microsoft-brings-chatgpt-style-ai-to-developer-and-analysis-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-healthcare-robotics-engineering-forum-full-conference-agenda.md",
       "title": "Healthcare Robotics Engineering Forum full conference agenda",
       "excerpt": "The Healthcare Robotics Engineering Forum announced its full conference agenda for the May 10-11 2023 event at the Boston Convention and Exhibition Center.",
@@ -644,6 +929,83 @@
       ]
     },
     {
+      "path": "_news/2023-03-06-deep-learning-based-anatomical-landmark-identification-in-ct-scans.md",
+      "title": "Deep-learning-based anatomical landmark identification in CT scans",
+      "excerpt": "When planning orthodontic treatments using computed tomography images, surgeons often need to identify points of interest in the bones called “anatomical landmarks,” which help them diagnose conditions and make precise measurements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/981832",
+      "originalUrl": "https://www.eurekalert.org/news-releases/981832",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/876075ca-d045-4893-809f-b4e7d7b6ec8b/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-deep-machine-learning-corrects-neutron-gamma-ray-logs.md",
+      "title": "Deep machine learning corrects neutron, gamma ray logs",
+      "excerpt": "Based on “Deep Learning for Multiwell Automatic Log Correction,” presented at SPWLA Annual Logging Symposium, Stavanger, June 11-15, 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ogj.com/general-interest/article/14290805/deep-machine-learning-corrects-neutron-gamma-ray-logs",
+      "originalUrl": "https://www.ogj.com/general-interest/article/14290805/deep-machine-learning-corrects-neutron-gamma-ray-logs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oil",
+        "domain": "ogj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-drones-and-deep-learning-researchers-develop-a-new-technique-to-quantify-rice-production.md",
       "title": "Drones and deep learning: Researchers develop a new technique to quantify rice production",
       "excerpt": "These images are then processed using a deep learning network that we have developed, called RiceNet, which can accurately identify the density of rice plants in the field, as well as provide ...",
@@ -760,369 +1122,6 @@
         "name": "Hackaday",
         "domain": "hackaday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows.md",
-      "title": "Drivers not ready for fully self-driving car, recent AAA survey shows",
-      "excerpt": "While the interest in partially-automated vehicle technology grows, a recent AAA survey shows that drivers are becoming more fearful of fully self-driving vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
-      "originalUrl": "https://www.cbsnews.com/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/05/4145f552-7abf-4325-b52e-bef95378a236/thumbnail/1200x630/6082d81cddfe2819760ac5d2246671ee/auto.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/baltimore/news/drivers-not-ready-for-fully-self-driving-car-recent-aaa-survey-shows/",
-      "publishedDateTime": "2023-03-05T15:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-could-the-next-great-author-be-a-robot-we-asked-human-writers.md",
-      "title": "Could the next great author be a robot? We asked (Human) writers",
-      "excerpt": "Recently, editors at three science fiction magazines said they had been flooded with AI-generated fiction submissions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/02/chatgpt-open-AI-rtr-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/could-the-next-great-author-be-a-robot-we-asked-human-writers-10203531.html/amp",
-      "publishedDateTime": "2023-03-05T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-understanding-the-world-of-artificial-intelligence-and-its-future-impacts.md",
-      "title": "Understanding the world of artificial intelligence and its future impacts",
-      "excerpt": "Dr. Rebecca Leis, a computer science program director at Full Sail University, sat down with anchor Justin Warmoth on “The Weekly” to help us better understand the world of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
-      "originalUrl": "https://www.clickorlando.com/news/local/2023/03/05/understanding-the-world-of-artificial-intelligence-and-its-future-impacts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/03-05-2023/t_0fb618fcb9db4ccf9a1b664f859dae53_name_image.jpg?_a=ATCqVhC0",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News 6 WKMG",
-        "domain": "clickorlando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-trends-that-are-likely-to-characterize-the-fintech-industry-in-2023.md",
-      "title": "Trends that are likely to characterize the Fintech industry in 2023",
-      "excerpt": "Any industry that wants to survive and grow in the present landscape and competition must make efficient use of Data Science, AI, and ML. The Fintech industry has aced this. They use data ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/trends-that-are-likely-to-characterize-the-fintech-industry-in-2023/",
-      "publishedDateTime": "2023-03-05T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings.md",
-      "title": "China Favors Chips, AI Executives Over Internet Tycoons at Top Political Meetings",
-      "excerpt": "Seats once reserved for web executives are redistributed as Beijing’s priorities shift amid rising technology competition with the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings-eb1076f2",
-      "originalUrl": "https://www.wsj.com/articles/china-favors-chips-ai-executives-over-internet-tycoons-at-top-political-meetings-eb1076f2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-736463/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-government-funding-to-accelerate-research-in-ai-healthcare-technologies.md",
-      "title": "Government funding to accelerate research in AI healthcare technologies",
-      "excerpt": "Tens of thousands of patients across the country could benefit from quicker, earlier diagnoses and more effective treatments for a range of conditions - as the government invests nearly £16 million into pioneering artificial intelligence research (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20230303/Government-funding-to-accelerate-research-in-AI-healthcare-technologies.aspx",
-      "publishedDateTime": "2023-03-05T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-nasa-captures-sequestered-carbon-of-99-billion-trees-with-deep-learning-and-satellite-images.md",
-      "title": "NASA captures sequestered carbon of 9.9 billion trees with deep-learning and satellite images",
-      "excerpt": "Researchers applied deep-learning-based tree mapping, manually trained on about 90,000 trees, to a data set of nearly 300,000 satellite images to measure more than 9.9 billion woody plants that ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.html",
-      "originalUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/nasa-captures-sequeste.jpg",
-          "width": 2133,
-          "height": 1906,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.amp",
-      "publishedDateTime": "2023-03-04T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around.md",
-      "title": "OpenAI launches an API for ChatGPT, a startup attempts a humanoid robot, and Salesforce turns it around",
-      "excerpt": "Experts across climate, mobility, fintech, AI and machine learning ... Hydrogen powered: Startup Universal Hydrogen took to the air this week with the largest hydrogen fuel cell ever to fly.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/",
-      "originalUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1173441590.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/04/openai-launches-an-api-for-chatgpt-a-startup-attempts-a-humanoid-robot-and-salesforce-turns-it-around/amp/",
-      "publishedDateTime": "2023-03-04T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

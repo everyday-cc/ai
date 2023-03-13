@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/will-ai-chatbots-raise-d
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Government Technology
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Custom AI chatbots are quietly becoming the next big thing in fandom"
+    excerpt: "The world of online fandom has come out against recent strides in disruptive technology: crusading against crypto, for instance, and protesting the widespread scraping of art for use in the training of visual AI programs."
+    publishedDateTime: 2023-03-13T13:30:00Z
+    webUrl: "https://www.theverge.com/23627402/character-ai-fandom-chat-bots-fanfiction-role-playing"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 47
   - title: "Opinion: Is it time to start considering personhood rights for AI chatbots?"
     excerpt: "But in recent months, we’ve witnessed a dizzying flurry of developments in AI, including language models like ChatGPT and Bing Chat with remarkable skill at seemingly human conversation. Given these rapid shifts and the flood of money and talent devoted ..."
     publishedDateTime: 2023-03-12T01:02:00Z

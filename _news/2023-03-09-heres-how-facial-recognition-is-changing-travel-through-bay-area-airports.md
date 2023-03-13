@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bay Area airports using facial recognition to expedite travel"
-    excerpt: "They are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it to track some departing passengers too."
-    publishedDateTime: 2023-03-08T23:31:00Z
-    webUrl: "https://www.marinij.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/"
-    ampWebUrl: "https://www.marinij.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/amp/"
-    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/amp/"
-    type: article
-    provider:
-      name: Marin Independent Journal
-      domain: marinij.com
-    quality: 76
-    images:
-      - url: "https://www.marinij.com/wp-content/uploads/2023/03/SJM-L-BIOMETRICS-0308-2.jpg?w=1024&h=575"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "Bay Area Airports Adopt Facial Recognition to Process Travelers"
     excerpt: "All three of the Bay Area’s airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too."
     publishedDateTime: 2023-03-09T00:46:00Z
@@ -76,15 +60,6 @@ related:
         width: 1024
         height: 578
         isCached: true
-  - title: "Dems offer ban on Feds using facial, voice recognition"
-    excerpt: "A group of 16 US lawmakers today reintroduced a bill that would ban the nation's federal agencies from using facial recognition and other biometric surveillance technologies. The Democrat-pushed proposal also aims to limit state and local governments and law enforcement agencies' use of these surveillance measures by cutting off federal funding unless they enact their own bans on the tech."
-    publishedDateTime: 2023-03-08T20:36:00Z
-    webUrl: "https://www.theregister.com/2023/03/07/us_ban_facial_recognition/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 4
 
 secured: "T29F5BlfZ9QS2yID59D9MeU4Rbnd+MALi1728mL0DLR+WwxQMpRpWHRTMiwvCIoCDJBorSam2sWglHwHC4ZGDxsyDJpraDQ/OmUK739LFh1cshnOrYqVVQQ+Q/iCULE5tZeg4uvOY1mhxvMisutjbKPgVockYQHIMcE/YDj3Pkd/CLX63S/du9UO4pjhCWhlZvhxeeyMLo+/NM+pLW4DalbDG/3BirtVnca5FPz3I1daUFBgYcYlwjbB8qIl5ovq3XKOWFhr/rTY6WY3YxSkT/Fe7FUVjVWGp86kYuLQJQerkZWcsZ6FeLStMQ9QmAf1DAQ3NaGZz8jPqhqqd1ceNWz58TR2OdeRvcj+6vAdyN0QIq2O+G7uo4l/ErQ+ktGVNyJChISE8VCGj7ocpco0ScresGgn7K5uN7uuVK4CypjckYzYCQnz+C0/S1d1qJKh8GPcgjk1pfByBxhvSBq2YUTm+JnliWiUXtL034erv6l4CqS7cP1AtRa9ZgNd+xMLaTYSjXgV4FI/C0PGxuy6ww==;hEOwjfwJP9dkdftFzOLItQ=="
 ---

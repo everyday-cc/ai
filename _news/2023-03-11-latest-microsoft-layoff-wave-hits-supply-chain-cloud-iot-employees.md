@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-10T20:27:00Z
 originalUrl: "https://www.crn.com/news/cloud/latest-microsoft-layoff-wave-hits-supply-chain-cloud-iot-employees"
 webUrl: "https://www.crn.com/news/cloud/latest-microsoft-layoff-wave-hits-supply-chain-cloud-iot-employees"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.crn.com/resources/027d-172a91810e2f-573e9d2b7a78-1000/13-microsoft-sign.jpeg"
+    width: 611
+    height: 458
+    isCached: true
 
 related:
   - title: "Tomahawk Robotics Adds KxM to the Microsoft Azure Marketplace"
@@ -114,15 +120,6 @@ related:
       name: Cloud Computing
       domain: cloudcomputing-news.net
     quality: 53
-  - title: "Microsoft 365 will soon have an accessibility assistant"
-    excerpt: "This year's Microsoft Ability Summit is underway and the company has revealed its latest advancements for accessibility and disability inclusion. First, it's bringing an accessibility assistant to Microsoft 365 (formerly Microsoft Office)."
-    publishedDateTime: 2023-03-08T20:56:00Z
-    webUrl: "https://www.engadget.com/microsoft-365-will-soon-have-an-accessibility-assistant-180049887.html?src=rss"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 49
   - title: "Cyclotron Taps Microsoft technology stack expert Seth Sanusi to Lead Azure Initiatives"
     excerpt: "Cyclotron, a San Francisco-based business technology consultancy, is proud to announce the hiring of long-time Microsoft technology stack expert Seth Sanusi to lead its Microsoft Azure consulting practice."
     publishedDateTime: 2023-03-09T18:10:00Z
@@ -142,6 +139,6 @@ related:
       domain: dbta.com
     quality: 22
 
-secured: "N/ARcuTrseFoTFwiqgUYMrw3f9rYDaqUDVEsMXRevbfG9hI/6ZCG+56a1hp+/WLxGgKDv0mIRCmpQy6Z716ZDyQKBQdlwQtJOvllxuQvZgcMR4hnI/Hid8FQjprL8cjz9QDe/bSNVjv0jl9zgyojCAFEX1fe62FAZPqL/ExHSgj6HKYfFd9/JFse149ktCE9biLOAgW6trfVmsGuyByGb7qKWbEXwGg704qClwZy1AcDLGLAaAxsNMCOT3gFlXKMRgACE2RHp2Kb7pNuXYvOq/aaDEQNjzO09R/FyHKqxe2Zgu37HVpXmAuWWNelBIwCTvvRgKVB3CWHV1xfZTvKApN7fz8COpROyrZFslQOgEc=;1zyIHlYyxREAThnZBv03eg=="
+secured: "NF7RJ/mncOeSqaaNwUhlpdNIg/O4dH4kDFvQgHtrr23EzZc87VxAlbH5nWWS2DVNs1Jc7ZoKWyiyqrHGBXlxZ2merkSG5Cq4CrBYoWQkRdqkfBiprGDraOgzaOdJ3tivEm31JhHq44Z+0hyoEYnNpy5r08evw3F9ikuGTGSvEK6Opvz7EA3KOIIQGsI7xELekN8OHoE/v+slqfo+9Gd89u9ooMMjGJJzgYIfjjWn0zEcCQP0vB61NaZjTaoSX6Z4EUIFxPN9H2SfhGgnNDCKlA0DsxI2ZiiORQMZSNhzDCRLcax+0Z6k6utUFL68w5SAgUu6XqXfZ0S9z+xqfPtKBImgxj+K6g/N29Rxct0/zBg=;LKzbATHBgd/ukI6OoV6kbQ=="
 ---
 

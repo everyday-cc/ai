@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-09-wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-management.md",
+      "title": "WiMi Develops Edge Computing-Based Holographic Face Recognition AI Chip System for Property Management",
+      "excerpt": "WiMi's edge computing-based holographic face recognition AI chip system can be used in various essential situations as it can perform high-density dynamic holographic face capture in complex ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31275065/wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-manage",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31275065/wimi-develops-edge-computing-based-holographic-face-recognition-ai-chip-system-for-property-manage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/31275065",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31275065",
+      "publishedDateTime": "2023-03-09T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-artificial-intelligence-tools-becoming-unavoidable-lawmakers-say.md",
+      "title": "Artificial Intelligence tools becoming ‘unavoidable’, lawmakers say",
+      "excerpt": "The Artificial Intelligence revolution is upon us. Emerging technologies, like chatbots, have become almost unavoidable in recent months. But is Washington ready for this new wave of technological",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/",
+      "originalUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wkbn.com/wp-content/uploads/sites/48/2023/03/aiphone_012723_gettyimages_chatgpt.jpg?w=1280",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/",
+      "cdnAmpWebUrl": "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/",
+      "publishedDateTime": "2023-03-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKBN 27 First News",
+        "domain": "wkbn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-09-artificial-intelligence-ai-chip-market-size-and-forecast-till-2028.md",
       "title": "Artificial Intelligence (AI) Chip Market Size and Forecast till 2028",
       "excerpt": "The \"Artificial Intelligence (AI) Chip Market\" study describes how the technology industry is evolving and how major",
@@ -10,7 +97,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-size-and-forecast-till-2028-2023-03-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 289,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -62,7 +149,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/03/203368-fintech-firm-brex-brings-new-tools-to-finance-teams-with-openai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -156,7 +243,7 @@
       "originalUrl": "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-investing-chatgpt-how-to-invest",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -207,7 +294,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -259,7 +346,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-trade-research-report-2023-2028-2023-03-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -403,6 +490,169 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-bay-area-airports-adopt-facial-recognition-to-process-travelers.md",
+      "title": "Bay Area Airports Adopt Facial Recognition to Process Travelers",
+      "excerpt": "All three of the Bay Area’s airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers",
+      "originalUrl": "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/5235c9a/2147483647/strip/true/crop/1000x521+0+21/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F72%2F4fb41766491d91465c3b63156676%2Fshutterstock-2133112951.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers?_amp=true",
+      "publishedDateTime": "2023-03-08T16:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-will-ai-chatbots-raise-digital-equity-concerns-for-students.md",
+      "title": "Will AI Chatbots Raise Digital Equity Concerns for Students?",
+      "excerpt": "Some ed-tech experts say the need to close the digital divide will only grow more urgent as Internet-based artificial intelligence tools become commonplace in schools and universities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/1e863f9/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa8%2F9a%2F2b3110904bb6ae8dcfecb0733cc2%2Fdigital-equity.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/will-ai-chatbots-raise-digital-equity-concerns-for-students?_amp=true",
+      "publishedDateTime": "2023-03-08T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-perceived-stress-tied-to-worse-cognitive-impairment-in-older-adults.md",
+      "title": "Perceived stress tied to worse cognitive impairment in older adults",
+      "excerpt": "There is an independent association between perceived stress and both prevalent and incident cognitive impairment, according to a study published online March 7 in JAMA Network Open. Ambar ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-03-stress-worse-cognitive-impairment-older.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-03-stress-worse-cognitive-impairment-older.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/perceived-stress-tied.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-too-much-stress-can-impair-memory-and-cognitive-function-heres-how-to-better-manage-it.md",
+      "title": "Too much stress can impair memory and cognitive function; here's how to better manage it",
+      "excerpt": "There is no way to completely escape life's stressors, but too much stress can lead to adverse health effects, including a loss of cognitive function. MORE HEALTH How to tell whether congestion ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.phillyvoice.com/tips-to-reduce-stress-cognitive-function-dementia/",
+      "originalUrl": "https://www.phillyvoice.com/tips-to-reduce-stress-cognitive-function-dementia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "phillyvoice.com",
+        "domain": "phillyvoice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -947,284 +1197,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-from-marketing-to-design-brands-adopt-ai-tools-despite-risk.md",
-      "title": "From marketing to design, brands adopt AI tools despite risk",
-      "excerpt": "Mattel has put the AI image generator DALL-E to work by having it come up with ideas for new Hot Wheels toy cars. Used vehicle seller CarMax is summarizing thousands of customer reviews with the same “generative” AI technology that powers the popular chatbot ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/living/article/from-marketing-to-design-brands-adopt-ai-tools-17826340.php",
-      "originalUrl": "https://www.chron.com/living/article/from-marketing-to-design-brands-adopt-ai-tools-17826340.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/31/64/21/23544924/6/rawImage.jpg",
-          "width": 2048,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-08T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-ai-in-2023-ethics-in-the-spotlight.md",
-      "title": "AI In 2023: Ethics In The Spotlight",
-      "excerpt": "US firm Getty",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
-      "originalUrl": "https://www.barrons.com/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP1952584778056026783150258099093848347974-technology-computing-ai-society-politics-1.jpg",
-          "width": 1536,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-in-2023-ethics-in-the-spotlight-2ac88d6c",
-      "publishedDateTime": "2023-03-08T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi.md",
-      "title": "ChatGPT Raises Old And New Concerns About AI. A Conversation With Francesca Rossi",
-      "excerpt": "These issues are often called AI Ethics, or Responsible AI. Francesca Rossi points out that among other things, previous systems were trained on data sets which were more heavily curated, so attempts could at least be made to minimise the amount of bias they displayed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2023/03/08/chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2023/03/08/chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640814d6de92a3987c25191c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2023/03/08/chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2023/03/08/chatgpt-raises-old-and-new-concerns-about-ai-a-conversation-with-francesca-rossi/amp/",
-      "publishedDateTime": "2023-03-08T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-study-examines-potential-use-of-machine-learning-for-sustainable-development-of-biomass.md",
-      "title": "Study examines potential use of machine learning for sustainable development of biomass",
-      "excerpt": "Biomass is widely considered a renewable alternative to fossil fuels, and many experts say it can play a critical role in combating climate change. Biomass stores carbon and can be turned into bio-based products and energy that can be used to improve soil,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-03-potential-machine-sustainable-biomass.html",
-      "originalUrl": "https://phys.org/news/2023-03-potential-machine-sustainable-biomass.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/pellets.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-03-potential-machine-sustainable-biomass.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-potential-machine-sustainable-biomass.amp",
-      "publishedDateTime": "2023-03-08T00:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-healthcare-ai-market-valuation-worldwide-2023-2028.md",
-      "title": "Healthcare AI Market Valuation Worldwide 2023 - 2028",
-      "excerpt": "Insights] Top “Healthcare AI Market” Size 2023 Key players Profiled in the Report are [, Apple, GE Healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-valuation-worldwide-2023---2028-2023-03-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-valuation-worldwide-2023---2028-2023-03-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-07T19:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-08-local-tech-company-creates-a-conversational-artificial-intelligence-robot.md",
-      "title": "Local tech company creates a conversational artificial intelligence robot",
-      "excerpt": "TAMPA, Fla. - She expresses emotions, a sense of humor and seems to have a mind of her own. A local tech company has created an artificial intelligence data robot called \"Maya AI.\" \"So we did a lot of studying on how the brain, the memories and neurons ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox13news.com/news/local-tech-company-creates-a-conversational-artificial-intelligence-robot",
-      "originalUrl": "https://www.fox13news.com/news/local-tech-company-creates-a-conversational-artificial-intelligence-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2023/03/932/470/ac4d8547-snapshot-10.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox13news.com/news/local-tech-company-creates-a-conversational-artificial-intelligence-robot.amp",
-      "cdnAmpWebUrl": "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/local-tech-company-creates-a-conversational-artificial-intelligence-robot.amp",
-      "publishedDateTime": "2023-03-07T19:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 13",
-        "domain": "fox13news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

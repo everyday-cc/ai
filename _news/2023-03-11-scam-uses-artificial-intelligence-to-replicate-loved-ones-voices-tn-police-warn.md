@@ -58,6 +58,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Beware artificial intelligence for your home improvement needs"
+    excerpt: "Along with other scam businesses out there, you should be cautious not to fall for AI when it comes to home advice."
+    publishedDateTime: 2023-03-13T14:00:00Z
+    webUrl: "https://www.seattletimes.com/explore/at-home/beware-artificial-intelligence-for-your-home-improvement-needs/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 19
 
 secured: "5adbK/KLA3Ocez62PuW8Sp3dsqtN2G2WBAU2MwETkwoLsb7lnIw/z9BE6CDPIaQAgaHRcRN0bfe9Ygsl3YeBs0Uvz5kiar9vjCAiOJFVWkNTsO5xeRRnY7b+0DiIFvTYgCRyUAL5EwzeLs2roYHOupxG7oMIDWH+cTk687nSkYvRL+BuKeP8cofYSZFJyHVc9d+T0aGGmZgtnPc/oTqvexEwTsIoSqvfLzO8L+6h9iF4Zp+cJMYxObG+FExrZaU1or1x3J3k8w8QX+4NoKuAiVKshGMwU69awnGN/hl2dU2xYACGqhrjJXAJXZP6Qsh+WIHBgfmbWtFLt6mUEi+Gbdx6X5GFplMwnXhy6ZxaUdM=;Ar/1c76OXTYcC5RZihg0PQ=="
 ---

@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-13-nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes.md",
+      "title": "Nvidia’s GTC online event will feature 70 talks on generative AI | Greg Estes",
+      "excerpt": "Connect with top gaming leaders in Los Angeles at GamesBeat Summit 2023 this May 22-23. Register here. The 14th annual Nvidia GTC online event will have more than 650 sessions, including 70 alone on generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/",
+      "originalUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/nvidia-gtc.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/",
+      "publishedDateTime": "2023-03-13T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-dead-island-2s-amazon-alexa-voice-commands-are-novel-but-limited.md",
+      "title": "Dead Island 2’s Amazon Alexa voice commands are novel, but limited",
+      "excerpt": "Dead Island 2's Alexa Game Control implementation allows players to change weapons and set waypoints, but it's a little limited so far.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/gaming/dead-island-2-amazon-alexa-game-control-impressions/",
+      "originalUrl": "https://www.digitaltrends.com/gaming/dead-island-2-amazon-alexa-game-control-impressions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/03/Dead-Island-2-Dani.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/gaming/dead-island-2-amazon-alexa-game-control-impressions/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/dead-island-2-amazon-alexa-game-control-impressions/?amp",
+      "publishedDateTime": "2023-03-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-esg-integrating-human-superpowers-with-ai.md",
       "title": "ESG: Integrating Human Superpowers With AI",
       "excerpt": "I like Elon Musk's quote: \"Some people don't like change, but you need to embrace change if the alternative is disaster.\" Our current transition of incorporating generative AI into our everyday lives presents a hero opportunity for humanity's breakthrough in growth.",
@@ -49,49 +153,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-intellect-launches-emachai-for-banks-to-use-cloud-services-with-embedded-ai.md",
-      "title": "Intellect launches eMACH.ai for banks to use cloud services with embedded AI",
-      "excerpt": "Fintech company Intellect Design Arena on Monday said it has launched eMACH.ai. The platform will provide cloud services with embedded artificial intelligence, powered by Amazon Web Services (AWS), to financial institutions.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/economy/intellect-launches-emach-ai-for-banks-to-use-cloud-services-with-embedded-ai-2/1440036/",
-      "originalUrl": "https://theprint.in/economy/intellect-launches-emach-ai-for-banks-to-use-cloud-services-with-embedded-ai-2/1440036/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2023/03/ANI-20230313113008.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/economy/intellect-launches-emach-ai-for-banks-to-use-cloud-services-with-embedded-ai-2/1440036/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/economy/intellect-launches-emach-ai-for-banks-to-use-cloud-services-with-embedded-ai-2/1440036/?amp",
-      "publishedDateTime": "2023-03-13T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -156,7 +217,7 @@
       "originalUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -207,7 +268,7 @@
       "originalUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -299,6 +360,49 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-azure-previews-powerful-and-scalable-virtual-machine-series-to-accelerate-generative-ai.md",
+      "title": "Azure previews powerful and scalable virtual machine series to accelerate generative AI",
+      "excerpt": "In the competitive race for AI innovation, pushing the envelope requires both experience and leadership-class supercomputing scalability. Powerful and massively scalable infrastructure is paramount as the complexity and size of AI models accelerate.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-12T23:00:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -656,7 +760,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/?source=app&frmapp=yes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -996,6 +1100,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-11-robots-are-performing-hindu-rituals-some-worshippers-fear-theyll-be-replaced.md",
+      "title": "Robots are performing Hindu rituals. Some worshippers fear they’ll be replaced",
+      "excerpt": "It isn’t just artists and teachers who are losing sleep over advances in automation and artificial intelligence. Robots are being brought into Hinduism’s holiest rituals – and not all worshippers are happy about it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/world/robots-are-performing-hindu-rituals-some-worshippers-fear-theyll-be-replaced",
+      "originalUrl": "https://www.pbs.org/newshour/world/robots-are-performing-hindu-rituals-some-worshippers-fear-theyll-be-replaced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2023/03/GettyImages-1186570883-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/world/robots-are-performing-hindu-rituals-some-worshippers-fear-theyll-be-replaced",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/robots-are-performing-hindu-rituals-some-worshippers-fear-theyll-be-replaced",
+      "publishedDateTime": "2023-03-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-11-media-alert-brainchip-demonstrates-edge-ai-processing-at-embedded-world-2023-in-nuremberg.md",
       "title": "Media Alert: BrainChip Demonstrates Edge AI Processing at Embedded World 2023 in Nuremberg",
       "excerpt": "Akida also has a unique ability to learn on device in a secure fashion, without need for cloud retraining. \"On-chip AI that learns close to the sensor, untethered from the cloud, is the future of edge devices, and we are eager to show the leaders in ...",
@@ -1071,163 +1218,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-real-time-fraud-detection-using-aws-serverless-and-machine-learning-services.md",
-      "title": "Real-time fraud detection using AWS serverless and machine learning services",
-      "excerpt": "Online fraud has a widespread impact on businesses and requires an effective end-to-end strategy to detect and prevent new account fraud and account takeovers, and stop suspicious payment transactions. In this post, we show a serverless approach to detect online transaction fraud in near-real time. We",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-fraud-detection-using-aws-serverless-and-machine-learning-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-fraud-detection-using-aws-serverless-and-machine-learning-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/10/real-time-fraud-detection.jpg",
-          "width": 1564,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-10T10:14:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike.md",
-      "title": "What’s next in large language model (LLM) research? Here’s what’s coming down the ML pike",
-      "excerpt": "Large language models (LLMs) have come a long way; but they have a long way to go, too. How evolving techniques are advancing the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike/",
-      "originalUrl": "https://venturebeat.com/ai/whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike/amp/",
-      "publishedDateTime": "2023-03-10T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-spotify-unveils-new-features-including-your-own-ai-dj-heres-how-to-access-it.md",
-      "title": "Spotify unveils new features, including your own AI DJ. Here's how to access it",
-      "excerpt": "As Spotify continues to break the music streaming platform mold, it unveils a DJ powered by AI and a social media-like home screen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/spotify-unveils-new-features-including-ai-dj-heres-how-to-access-it/",
-      "originalUrl": "https://www.zdnet.com/article/spotify-unveils-new-features-including-ai-dj-heres-how-to-access-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9fd491b6f8324c9c9b45b22e395edcb2985184f7/2023/03/09/ba84a3b1-704b-43cd-b2ee-834da245d904/newspotifyinterface.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/spotify-unveils-new-features-including-ai-dj-heres-how-to-access-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spotify-unveils-new-features-including-ai-dj-heres-how-to-access-it/",
-      "publishedDateTime": "2023-03-10T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

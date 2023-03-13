@@ -40,6 +40,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Custom AI chatbots are quietly becoming the next big thing in fandom"
+    excerpt: "The world of online fandom has come out against recent strides in disruptive technology: crusading against crypto, for instance, and protesting the widespread scraping of art for use in the training of visual AI programs."
+    publishedDateTime: 2023-03-13T13:30:00Z
+    webUrl: "https://www.theverge.com/23627402/character-ai-fandom-chat-bots-fanfiction-role-playing"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 47
 
 secured: "EAtREpnb/mbq+Ne6f21tBbOfxYF4w2NuX4k3dUWq05r7Eq5yKsMCM5fZeek8b73rg9FVLgXQop5qZwl3tUyUg+iTTeHaLA5p357V/k5IEGn5qepkP7F+5gUgraNSworfoiQOv5u/pCvirPq+HrRoA4lautB5KI1oyavqyVpJPS+f64lBPZz5OPIv0Uhpj2CvVmPqubp7G9zjJO8oPhvfoozy39DCkFsb2ISBXHYfqlXcXoa7XIutViSCAP/dUsMAKC0/WjSSD/UUsn8bsdkPAKkyYv+ock8ZeYSTj8OmM8CLeSGhhcPvE/ZzqO4CneRsOp5jTadJ6v8nGRkFBd6Nd+fL0p0gF814smA948m51j0=;E78NgNhxMsQNOc2hRPzq4Q=="
 ---

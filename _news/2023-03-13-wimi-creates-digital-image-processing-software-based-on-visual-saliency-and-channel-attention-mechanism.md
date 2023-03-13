@@ -1,20 +1,29 @@
 ---
 category: news
 title: "WiMi Creates Digital Image Processing Software Based on Visual saliency and Channel Attention Mechanism"
-excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider dedicated to algorithmic research in imaging and image processing,"
-publishedDateTime: 2023-03-13T13:47:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-wimi-creates-digital-image-processing-software-based-visual-/2023/03/13/9775540.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-wimi-creates-digital-image-processing-software-based-visual-/2023/03/13/9775540.htm"
+excerpt: "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology"
+publishedDateTime: 2023-03-13T12:01:00Z
+originalUrl: "https://www.asiaone.com/business/wimi-creates-digital-image-processing-software-based-visual-saliency-and-channel-attention"
+webUrl: "https://www.asiaone.com/business/wimi-creates-digital-image-processing-software-based-visual-saliency-and-channel-attention"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "j8Yvv25QIydOY6v6DIqWIgj0d1GPoAz6U5lgEYwPYjpx79oloGatFwFk8PVNVFjC1qYTeRWUdiC7BydQ9PjXgYb2U/YntlTSLDg7GkinbLNLHb9QuBQrgo7ORFIiny16hUy/V80pF/trptYbfnAWc0Oyu0Q4nE2WHyM3Ii8oTG9UHBA/OqtEskjYKJZbYBTwgaRJvvckCG98wLXt0f+DmJHGFpBFDNYgQCOHn/rJhqLq31SB0Emxe41WAXvLALrjavAQxwoCJ+vmBCVAiiAvbLuimu2rBR3wDhpvxhTGfy5a+T9Z6a53WveY0Hn6ytoMcF9VXKtDjA81VQuPMPgVnPjtdaOLiBT6xo7g/TXlDE0=;o9/8JLZE51JtL+BfAxW33w=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/pr-newswire_500_4_743.jpg?h=7de12b8a&itok=kZzumUoZ"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "tPsatnKfueEj+uPu80tkzk2h/rEDxWJF/WhjSiC2btIoas3xZ6CnrcohexoXmTMjEtlldyFc5LJv3y/vh8kPJ3fegp8wNXdlyKV9fap5otBPmyFpuqwBc72lbDtDKOIWZYRD29O8n5JrnHHhSLOfJ99sq9/b+QL0umFFPBNqG0QVEDMs2Ng8mEIQwHA4epiLxUZ51GkfcQegVA6j6aI4GvOK8niTKq6BRG1d0LyuW26kD+7x6TNlH6hqTICYXokTr522c8ZjAQNnYetdmAgztFaje+HYBnmWQg9T0pkhvR2QE1oyd7TQab5AkXki5uLLMl64oVQlSxvLHsaV/84W8scRQs+cMKKS+Quvmo0H3Ak=;/qfjQU7f6y2ds3DMMLyvYQ=="
 ---
 

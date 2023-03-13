@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T09:59:00Z
 originalUrl: "https://www.marketplace.org/shows/marketplace-tech/can-ai-learn-to-understand-human-emotions/"
 webUrl: "https://www.marketplace.org/shows/marketplace-tech/can-ai-learn-to-understand-human-emotions/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Marketplace

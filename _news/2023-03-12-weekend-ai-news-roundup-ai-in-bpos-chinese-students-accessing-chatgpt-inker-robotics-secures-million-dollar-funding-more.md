@@ -43,6 +43,20 @@ related:
         width: 2074
         height: 2560
         isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-03-13T14:48:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/13/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "R2e8VV8u4UVv8/Wg/Dy2AHu/SK6XlyQbvsN2X6/6nlkSFgNmvKlY89KgIYt9eeRl2eGvR/rpEulhuVZX0dP5wKV0INVAmldzzFw0iRNTtGuath4iQk34OYHxEpybX6uVlI/ufdsLVrvEFhsFh1sqeLF72/VKfL8J3w4GcNj1D0VqxcAXgDJmrAN4jBMNKF+kihZ8fqqMP02UgmIYTsgYpjLIQ4M+UMi7geBF7htty5Y0/shkSYM2FZAe1k5ALbFvQpXIEQ5Pe4WBYDkfMy8OSHC4dhHgFmNdRm4ikQLDjLa8yPAfRIaYUcJHxij/kSeYxZ+6NMYq6JVr5z8qeqMU5nxGK3pJmXXyNDqkgvqSA7qGO+kYexzjEzoVTNYoDRjYu+WkRzvKKU7fg31FVoUk6wgWsMgx1lGQ79gimlcwPBdf92etOmRIptxhq0or2Qh3EnCHXh7W9cp3Ic6FVj4EE4fJF/AedaRAFJuGL8AKv8W/+90thxphV2NUdll34m8bULaXeg9H5brY2knFdQjtaw==;+OaPt4gW0f3fvJrvfsdPVQ=="
 ---

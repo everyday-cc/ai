@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/?source=app&frmapp=yes"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/02/artificial-intelligence-rep.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-03-13T14:48:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/13/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "IDZoy3ULhrEdK1kxKLeRsvvJhBBnZS20NGuavJ9sgY6pJf8Psk4z4D3Hb6/WvlU9UFwmbsTOKXhOaloHujVNLB9E+wZBYKGytePVDCtceHZA+w+C9oLKZuVmpGscM7oPNQXnzShxYbZUWCmhijz2PLKPjU1yPCQgclgPeE6oz3hfH+z7+P6r/biRJCeZU/j8VSnf+014AF4bEe3qLkUJFuCs32pKeIf2L7q3NHKPE+cJuTPuzv2Wyjdk72N805zp1T7XMkgmAcYBCROIhovyutJ0HDww04UOy6ilrbs/0qNAKrkSUJzfNI9VRc4iXOWVF6/p8y3OwEzITMWbvtGOyrsJs/b8gQeENWI+e1JlOkE=;BJRcMKJQKKc32eq3KGxq5Q=="

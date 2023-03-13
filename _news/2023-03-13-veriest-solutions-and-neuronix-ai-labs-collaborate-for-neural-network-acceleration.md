@@ -24,6 +24,22 @@ images:
     height: 550
     isCached: true
 
+related:
+  - title: "Aetina Corporation: Aetina to Showcase Its New AI Solutions at Embedded World 2023"
+    excerpt: "Aetina Corporation, a leading provider of AI solutions for the creations of different types of vertical AI, will showcase its new embedded computers"
+    publishedDateTime: 2023-03-13T15:20:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58540143-aetina-corporation-aetina-to-showcase-its-new-ai-solutions-at-embedded-world-2023-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/2030509/Aetina_Showcase_Its_New_AI_Solutions_Embedded_World_2023.jpg"
+        width: 400
+        height: 247
+        isCached: true
+
 secured: "ZmpHsSGtyAkbcTh+ZVVVcQ9wluz2FxNEFQSkBB7Mgqui34n3Tou5o6h5l1FI2sVQl2DA/EmtwB3l89yxEa6hfrZ0aUlyBn6yTCHLRHLdG7zPq/mwKMY9Nmwt5eaHaWcEcaM0/4Op4zVyyG6ZFNsAUlkM6Vyf4M50QSCgbind92rPYek+Y7xeUFsxJcyzqY9tQY6KKDkYq42blWkp7IyzLoMwVLlXWG/1KyOs+UYCkDD14d1U+VDE8CQ9ZPhVf+BlQ3eWXO1+q0vRgCBt+OkM+uWf+25lGWawVzrR2ichsje2RpF7pFRPjEGpV+4KiqPO5GEwI48tVk2EGD49VgjPknf8xCBgj+Nzr2vjp/dmNo4=;VZK3qWVKd2A75/ciqQZSvQ=="
 ---
 

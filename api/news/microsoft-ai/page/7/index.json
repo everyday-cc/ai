@@ -2,6 +2,153 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-17-whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value.md",
+      "title": "What's new in Azure Data & AI: Empowering retailers to streamline operations and accelerate time to value",
+      "excerpt": "Let’s explore what’s new for Azure Data & AI this month.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value/",
+      "originalUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-empowering-retailers-to-streamline-operations-and-accelerate-time-to-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/c5c54319-99e7-40ad-8031-c81bb273e918.png",
+          "width": 768,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-17T00:00:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-rob-reiner-grilled-for-praising-biden-as-a-decent-law-abiding-person-poster-boy-for-cognitive-dissonance.md",
+      "title": "Rob Reiner grilled for praising Biden as a 'decent law abiding person': 'Poster boy for cognitive dissonance'",
+      "excerpt": "\"As of now, you're quite literally the poster boy for cognitive dissonance…\" he added. In a separate tweet, Lombardi slammed Reiner's post as a \"propaganda tweet.\" \"Yea? That’s why the FBI tri ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance",
+      "originalUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/340/340/Headshot-1.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rob-reiner-grilled-praising-biden-decent-law-abiding-person-poster-boy-cognitive-dissonance.amp",
+      "publishedDateTime": "2023-01-16T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-17-microsoft-brings-chatgpt-support-to-azure-all-the-details.md",
+      "title": "Microsoft brings ChatGPT support to Azure: All the details",
+      "excerpt": "In the last couple of weeks, it has been suggested that Microsoft will bring ChatGPT tech to a few of its products and services. Now, Microsoft has o",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/articleshow/97049819.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/articleshow/97049819.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-97049819,width-1070,height-580,imgsize-65374,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/amp_articleshow/97049819.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/microsoft-brings-chatgpt-support-to-azure-all-the-details/amp_articleshow/97049819.cms",
+      "publishedDateTime": "2023-01-16T22:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-17-protecting-the-innocent-the-cognitive-context-of-guilt.md",
       "title": "Protecting the Innocent: The Cognitive Context of Guilt",
       "excerpt": "Matthew Sharps, Ph.D., professor of psychology at California State University, Fresno. He researches forensic cognitive science among other related areas.",
@@ -1195,126 +1342,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-this-lawsuit-against-microsoft-could-change-the-future-of-ai.md",
-      "title": "This lawsuit against Microsoft could change the future of AI",
-      "excerpt": "With ChatGPT, artificial intelligence and what it can do is suddenly all the rage. But an intellectual property lawsuit against Microsoft could undermine the future of AI before it gets off the ground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.html",
-      "originalUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/09/lawsuit-judge-law-court-decision-sued-100614065-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3684734/this-lawsuit-against-microsoft-could-change-the-future-of-ai.amp.html",
-      "publishedDateTime": "2023-01-09T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-cognitive-systems-spending-market-comprehensive-shares-historical-trends-and-forecast-by-2026.md",
-      "title": "Cognitive Systems Spending Market Comprehensive Shares, Historical Trends And Forecast By 2026",
-      "excerpt": "The global cognitive systems spending market is experiencing numerous technological advancements permitted with exceptional features for several industries, especially in the banking sector. Cognitive systems with high-definition technology can help in determining the world’s most composite data analysis difficulties by entering into the complexity of exploiting the power of big data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/01/10/cognitive-systems-spending-market-comprehensive-shares-historical-trends-and-forecast-by-2026/",
-      "originalUrl": "https://www.fmiblog.com/2023/01/10/cognitive-systems-spending-market-comprehensive-shares-historical-trends-and-forecast-by-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2023/01/Chemistry-4.0-Market-420x300.jpg",
-          "width": 420,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T22:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-artificial-intelligence-model-predicts-cognitive-diseases-using-brain-age.md",
-      "title": "Artificial Intelligence Model Predicts Cognitive Diseases Using Brain Age",
-      "excerpt": "A novel artificial intelligence (AI) model developed by USC researchers that analyzes magnetic resonance imaging (MRI) brain scans could now be used to reliably catch cognitive loss linked to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/healthwatch/artificial-intelligence-model-predicts-cognitive-diseases-using-brain-age-210016-1.htm",
-      "originalUrl": "https://www.medindia.net/news/healthwatch/artificial-intelligence-model-predicts-cognitive-diseases-using-brain-age-210016-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

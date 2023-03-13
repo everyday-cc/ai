@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-09T23:49:00Z
 originalUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533"
 webUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: International Business Times

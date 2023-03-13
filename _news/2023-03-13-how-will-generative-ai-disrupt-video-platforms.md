@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T12:25:00Z
 originalUrl: "https://hbr.org/2023/03/how-will-generative-ai-disrupt-video-platforms"
 webUrl: "https://hbr.org/2023/03/how-will-generative-ai-disrupt-video-platforms"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Harvard Business Review

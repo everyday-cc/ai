@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ultimate Machine Learning Infrastructure as a Service Market Analysis [2023-2028] | Our Research Report on Top Countries Data"
+    excerpt: "GlobalMachine Learning Infrastructure as a Service Market(2023-2028) Latest Research Report | Industry research"
+    publishedDateTime: 2023-03-10T03:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ultimate-machine-learning-infrastructure-as-a-service-market-analysis-2023-2028-our-research-report-on-top-countries-data-2023-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tdJrin9DdD+S1sUKBgBF8WjwDHGjFnABv0+cU/DPzfGMvroJko49HIx2DgPvenhy0tpcz3x23eLYhHvUGmBCOG/MeWMioyO/0gyl28MrVET4RTQzrDu6F1EahTO/om4yxYbtMR7tKWNlhB0uS4+nlV2LUXuiT1fkdFonQa/IQ1V1LHOZIcswp0w/EwbctDntTTdroXBr/VA1SFjxyxg0T9j+oOAPrFhz3E5N07CsAAPbhWIhwWqnNy51Qh8tOlYTBYqddmvKToHNJBoNcdDpVxnEDB3hI3XPohTe5pZY5VxzF0m2kkATuuqD8zg3QHApb0nASWLBkHilkCGFKrequ1LQpNQ+2tTfyKImaTZ1sk4=;4Zh4RM/WunysNVUdCAUhhQ=="
 ---

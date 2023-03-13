@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "As robots perform Hindu rituals, some devotees fear they’ll replace worshippers"
+    excerpt: "Robots are being brought into Hinduism’s holiest rituals – and not all worshippers are happy about it. In 2017, a technology firm in India introduced a robotic arm to perform “aarti,” a ritual in which a devotee offers an oil lamp to the deity to symbolize the removal of darkness."
+    publishedDateTime: 2023-03-13T14:41:00Z
+    webUrl: "https://religionnews.com/2023/03/13/as-robots-perform-hindu-rituals-some-devotees-fear-theyll-replace-worshippers/"
+    type: article
+    provider:
+      name: Religion News Service
+      domain: religionnews.com
+    quality: 35
+    images:
+      - url: "https://religionnews.com/wp-content/uploads/2023/03/file-20230306-18-wqvorn.png"
+        width: 848
+        height: 427
+        isCached: true
 
 secured: "mF+g9uJAxudu/SvoIG4FG8NA539xHURiIoEmvf9nNrVxLr+XPZ7WnycJ0DO8JZ+jZOUE7M3xrUhPJYRBlml6oPTPFWUjbM+Pzqka9yiCx1UZm8NYbjTm+TSgiF62zGlZAsDBh3lFlzSgmUKHi76MSLJtPzFvf8N3EuMcuuENG6eMH2s0DQ6u/+fstR+qhKQzKx3pnR3R7X1ROkn/UMcFpmhMwoIE4AA+COf8iuu81RFST75d3S0/uY0EBAfyhllaWWihtLaTAQvN1FwupzzDVTVT+89Rt/8MfNnG+gRnSZRULGDKdraKTCm/Db3pBRpt9vrlAPu1s5qG1BOFdaQH+E0kGZJshJzEaKF6Ae7E1qrnKOO1grI0OdWPWblW8g/OdAQaiV+CZ1U2CILvrCTKATJZ5AZ26Qby+ItH9RGxxYVZBHgSEgwOYUS9h2QwjzaREWVqsIWOykMnMHLnbWnife7ZPxsDeRDraVzOknKZepx6L/sPAmB8W800j1GaRCgXHp7hHjc55PCnAYyhPycU1A==;pCPWjy8AMzFxBeNoa3bl2w=="
 ---

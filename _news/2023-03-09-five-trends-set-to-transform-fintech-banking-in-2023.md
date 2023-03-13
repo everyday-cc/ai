@@ -49,6 +49,15 @@ related:
         width: 640
         height: 640
         isCached: true
+  - title: "13/03 – Weekly Fintech Recap"
+    excerpt: "Fintech Pioneer Railsr Announces Sale to Consortium led by D ... Provenir Appoints Vincent Camara as Regional Leader in France Provenir, a global leader in data and AI-powered risk decisioning software, announced that Vincent Camara has been appointed ..."
+    publishedDateTime: 2023-03-13T12:58:00Z
+    webUrl: "https://financialit.net/news/open-banking/1303-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 4
 
 secured: "C3v8j1sZ84WT6eUvoBMcinO/0kxuR8rL5roWl2EYm5p/KfEIACcHbYam6EUruuN0t+7Jn5Okj+qq8qmJDjnm+4Dc6iT7D0AdWTHWBcH+qi3eCvda1e4rfZSisTmcxHgJtHn6BbESVoD+6+2Xcfo0cZKXnqqxwu5xImKoObFArbkOZhpP17hz5Qtb2schckXG8tQfX18Ee4/+qE/MXfeEszpcR5kVrCwaZECFKUaKnUkB86dIeFAeYYcKSwzbCc+sh2hdBjnWw9n6TmqU1K4AEB2NDfFpfvHZxwo5+ditIqq3lI54T2EYmyNEWCThqkTQi0W4gXFsldTjlsz+r0j9xmU0e0znj6ZFMJxnC/Miy1U=;vf0ye1ERo7dF1VLPaSUyEg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-10T19:40:00Z
 originalUrl: "https://www.webmd.com/brain/news/20230310/concussions-from-football-tied-to-long-term-cognitive-problems"
 webUrl: "https://www.webmd.com/brain/news/20230310/concussions-from-football-tied-to-long-term-cognitive-problems"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: WebMD

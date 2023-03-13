@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ChatGPT and Generative AI are booming, but at a very expensive price"
+    excerpt: "It can cost millions of dollars to train and operate generative AI technologies like ChatGPT, which are being subsidized by tech companies and VCs."
+    publishedDateTime: 2023-03-13T10:58:00Z
+    webUrl: "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 91
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107191457-1675888570906-gettyimages-1246870629-AFP_338Q79Q.jpeg?v=1678712289"
+        width: 3600
+        height: 2400
+        isCached: true
   - title: "More AI experiences are coming to Discord, including ChatGPT"
     excerpt: "The social platform is leaning into AI and adding new features to optimize user experience. Here's what you can expect."
     publishedDateTime: 2023-03-10T14:36:00Z
@@ -72,6 +88,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/b7165aebd64c0d9cc40a915b1146a82603fb271e/2023/03/09/a90ee5a6-753f-40a1-9328-8e6ad725d8c0/screenshot-2023-03-09-at-4-06-40-pm.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "ChatGPT now available in Microsoft’s Azure OpenAI service"
+    excerpt: "Developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps enabling conversational AI."
+    publishedDateTime: 2023-03-13T14:51:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
+    ampWebUrl: "https://amp.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
+    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 89
+    images:
+      - url: "https://media.citizen.co.za/wp-content/uploads/2023/03/13155526/ChatGPT.jpg"
+        width: 1500
+        height: 1000
         isCached: true
   - title: "ChatGPT Passes Huge Milestone as World Swept up in AI Revolution"
     excerpt: "ChatGPT caused a worldwide sensation when it was first released to the public in November 2022. It has the ability to answer questions and craft short essays based on prompts from humans. This picture taken on January 23,"
@@ -190,6 +222,29 @@ related:
         width: 708
         height: 399
         isCached: true
+  - title: "Learn how to take full advantage of ChatGPT and to code your own AI chatbot"
+    excerpt: "ChatGPT has made significant waves in recent weeks and months. While the bot has been roasted for its strange mistakes and lack of logical reasoning skills,"
+    publishedDateTime: 2023-03-13T12:27:00Z
+    webUrl: "https://www.techspot.com/news/97898-learn-how-take-full-advantage-chatgpt-code-own.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 47
+  - title: "OpenAI founder talks ChatGPT, Dall-E and what's next for artificial intelligence at SXSW"
+    excerpt: "As artificial intelligence tools such as ChatGPT and Dall-E become more mainstream and accessible to the general public, concerns about what their future will hold have come with them. If you ask ..."
+    publishedDateTime: 2023-03-12T03:47:00Z
+    webUrl: "https://www.statesman.com/story/business/technology/2023/03/11/openai-founder-talks-chatgpt-dall-e-and-whats-next-for-artificial-intelligence-at-sxsw/69987320007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 43
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/01/27/USAT/d3d81034-726a-4549-ad06-6ef697eb72b9-AFP_AFP_337P9FE.jpg?auto=webp&crop=8106,4560,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Forget Chatgpt. Nvidia Is The Real AI Winner..."
     excerpt: "Ever since AI chatbot ChatGPT burst onto the scene in November, any stock even remotely related to AI has soared. Gates Capital Management's ECF Value Funds have a fantastic track record. The funds (full-name Excess Cash Flow Value Funds),"
     publishedDateTime: 2023-03-11T04:35:00Z
@@ -224,6 +279,15 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 34
+  - title: "GM May Introduce ChatGPT AI Assistant Into Its Vehicles"
+    excerpt: "While recently speaking with Reuters, GM vice president Scott Miller said that ChatGPT could be used to access information on how to use important vehicle features ordinarily found in an owner’s manual."
+    publishedDateTime: 2023-03-13T13:02:00Z
+    webUrl: "https://www.carscoops.com/2023/03/gm-may-introduce-chatgpt-ai-assistant-into-its-vehicles/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 21
 
 secured: "3ZTrqVqgnk2TWXPX/WO1BgHgnDgeefw7MGzozbKOSkSX8rtahlue7RSw8HwjQJZT7r7hQ/OQJr9jmQU8UY05+ZFRtFzqE2+ye8+N+lXBhJeDVa3NSJNn+jE0leKiaX2WPJatLg+957rhONE6hrAzmWrxW8fn/D3hFyTKjpgG1F+4PKvjcsfsugA4+bgQ9+Xq8w8FWSbcFzcpTTiDqHOgSwKB3UWW+GlwnI1GFTcn0DrJTEIao1UdxxqGaruPrIGjkTjQrDcr2mhNwzTpPezZTLeu8LO6Ppe9viQC3GaOtFh0L1e8aobWDz+gzx+Yjn5u9FTko4l1GY7aHtvrZc6pl9M80ZX04K4GmYcuqaZuTefgiC91PJEQEZAdRHi0jCWkZpVEg7EveQ7UfUD5xmNO7rdNcn3JB+W+H+CL1WtA8oRgZm9V9OoCfZp6aQzv5nxqbKSKJ9gR/fkMHRXhpDNKy76HHhU4y9x++xIt1g2yIylk/2nawAcXBz5TXsi9sBojnAZgrNi/ey23HM7DgwS4rQ==;731YH543bCjP9pAkVBFWrA=="
 ---
