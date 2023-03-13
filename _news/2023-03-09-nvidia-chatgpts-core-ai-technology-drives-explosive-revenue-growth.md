@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How will ChatGPT, AI change college? Here's what some LSU professors and students think."
+    excerpt: "The meteoric rise of artificial intelligence tools in recent years has created powerful new tools for fields ranging from traffic and cancer treatment to flood prediction. But what about in the ..."
+    publishedDateTime: 2023-03-11T10:03:00Z
+    webUrl: "https://www.nola.com/news/education/lsu-students-professors-talk-artificial-intelligence/article_c7285fdc-2018-558a-a3cd-e0a647b1b8f8.html"
+    ampWebUrl: "https://www.nola.com/news/education/lsu-students-professors-talk-artificial-intelligence/article_c7285fdc-2018-558a-a3cd-e0a647b1b8f8.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/education/lsu-students-professors-talk-artificial-intelligence/article_c7285fdc-2018-558a-a3cd-e0a647b1b8f8.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 48
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/4/ff/4ff19888-9e44-5456-b01e-092b0379bdca/640bbb3859350.image.jpg?resize=1024%2C729"
+        width: 1024
+        height: 729
+        isCached: true
 
 secured: "3MuwVTICOOMKD9oGfHyfw7i25JziXpi6z5gowZw7Wm8GujnKW80f7uVq588091kQHqAt33HkI1uoEjFAhsM73oHIooXNjB/iN6pK87FYA3yAXgBiDBEUQ3Mcqt88rx7PASzg/F6DxkxHCLUQnanw/BX43x+gRbsI7N7vBoe2k+L+bBfiB4lWfpV5QFi+OArVivSUcAP0irdpMRt6X2wafiYmbXpfkqnH8tqNLgBhD6vE4r/RP0nhpNSBderAJFU7J8sZrbABuNSW17b89Tm5tnUuZ9EbsaRZU+0nHNOr+4tSuwymgvwSZXi1On95AiUy/9TUAMd8Ur7hvIKgRJqJ2Rc+wr27GrIdCbPHPg6MrGLbsPhFieHlZ+oJ4H2+x7nafulHdnNUgLotoarFa5iSomfIi+TWkPVabRYLgaIWOhe62U2tAohnoUmOJI4SwbdMn1dkvq0libGDY8/3ME2KQWm9U0JFkV3MG8PKHqPo/u6LoBYZFnVR+rG+r4gx9UZtk/ZaP+67PYsgf6V9s/nGVg==;FxNg7ByO2H81ysXZftNWjA=="
 ---

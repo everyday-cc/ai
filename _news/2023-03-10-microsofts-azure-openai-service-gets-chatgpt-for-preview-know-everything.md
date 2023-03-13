@@ -103,6 +103,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "How Microsoft is helping companies adopt ChatGPT AI"
+    excerpt: "Microsoft launched AI-powered Bing with ChatGPT integration last month and soon after opening the preview to some users in the waiting list, reports started pouring in, suggesting that the chatbot ..."
+    publishedDateTime: 2023-03-11T13:13:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/articleshow/98538838.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-98538794,width-1070,height-580,imgsize-3588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "Nvidia's early investment in AI bears fruit as its A100 chip now powers ChatGPT"
     excerpt: "Every chip that we made was focused on artificial intelligence.\" Thanks to its early investment in AI, Nvidia is reaping the rewards as its chips are now used as the engine behind large language ..."
     publishedDateTime: 2023-03-09T13:56:00Z

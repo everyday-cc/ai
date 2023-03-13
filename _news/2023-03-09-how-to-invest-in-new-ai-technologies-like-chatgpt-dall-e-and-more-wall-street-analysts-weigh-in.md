@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-int
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-investing-chatgpt-how-to-invest?amp"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How will ChatGPT, AI change college? Here's what some LSU professors and students think."
+    excerpt: "The meteoric rise of artificial intelligence tools in recent years has created powerful new tools for fields ranging from traffic and cancer treatment to flood prediction. But what about in the ..."
+    publishedDateTime: 2023-03-11T10:03:00Z
+    webUrl: "https://www.nola.com/news/education/lsu-students-professors-talk-artificial-intelligence/article_c7285fdc-2018-558a-a3cd-e0a647b1b8f8.html"
+    ampWebUrl: "https://www.nola.com/news/education/lsu-students-professors-talk-artificial-intelligence/article_c7285fdc-2018-558a-a3cd-e0a647b1b8f8.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/education/lsu-students-professors-talk-artificial-intelligence/article_c7285fdc-2018-558a-a3cd-e0a647b1b8f8.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 48
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/4/ff/4ff19888-9e44-5456-b01e-092b0379bdca/640bbb3859350.image.jpg?resize=1024%2C729"
+        width: 1024
+        height: 729
+        isCached: true
   - title: "Nvidia: ChatGPT's core AI technology drives explosive revenue growth"
     excerpt: "Nvidia underwent a complete top-to-bottom transformation as artificial intelligence (AI) became the primary focus of every chip produced."
     publishedDateTime: 2023-03-08T16:25:00Z

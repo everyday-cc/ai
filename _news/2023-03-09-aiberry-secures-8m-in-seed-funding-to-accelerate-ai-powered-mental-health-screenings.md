@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/aiberry-secures-8m-in-seed-funding-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/aiberry-secures-8m-in-seed-funding-to-accelerate-ai-powered-mental-health-screenings/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 480
     height: 370
     isCached: true
-
-related:
-  - title: "Mental health startup with AI-powered screening tool raises $8M"
-    excerpt: "Aiberry, which has a new office in Bellevue, says it plans to roughly double its 25-person team over the next year."
-    publishedDateTime: 2023-03-08T12:00:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2023/03/08/aiberry-fundraise-mental-health-bellevue.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "k5JJQB6cDNWsnMtUTkmHbMZbeJkcWc2OWGEpv57v+vgZmAWCO7Uzg6pbOfevrIolfGtfBGdo0P69ogmva1VeuoK0a07C4IFUfLUPVt8CltZpq44AHZw/xyaHJPn+475Zi0dibYbozNpAid58YVJS+K8Wo7qZ0hQjM2xq1HqGDXxyun2ZlZntJjLYFART3v06AgVBhJeZ+N80Brms+TgatHDiEO+3tJTC809eRG0f43MQCq2wl/R4Aneo523HtTHvzdvhUx+4ByGFllbu/TKW3HJUbs5yIOarfoqF3ifJpL8Fq1oy0rQVo5WjgmMxcS2n8vWHhb1gER5y+1e+VL63dtHIxNHlyGJkVpLa+6tzqxYoQnpiN/4pzuzDd9+Ya15N/V0k+MjYKQxq8a6ITWidvXMcSanlRO80m6sn3jUEOf4tan+kn5wcnBeq+g5YRlQidCH6aanAQhNqzwq/DaCFwuZQEJb379GVlHAbtVryBysi3yOS4TQV78R7jFV/Q/Ozu0dgNhecQJNgw/oOnjO9bQ==;wgat/liPs33Fo4+lsU+EuA=="
 ---

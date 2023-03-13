@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-size-and-forecast-till-2028-2023-03-09"
 type: article
 quality: 99
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -215,20 +215,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning in CT Scanners Market Size, Analysis, Key Segments, Share, Growth, and Forecast 2029"
-    excerpt: "The \"Deep Learning in CT Scanners Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-08T11:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-ct-scanners-market-size-analysis-key-segments-share-growth-and-forecast-2029-2023-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
