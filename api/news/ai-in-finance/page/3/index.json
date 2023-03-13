@@ -2,6 +2,75 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-06-google-new-search-reveals-nigerians-growing-interest-in-ai.md",
+      "title": "Google: New search Reveals Nigerians Growing Interest in AI",
+      "excerpt": "Google, which views AI as a solution for addressing significant societal challenges like climate change, recently shared their approach to pursuing AI responsibly, including prioritising building and testing for safety and its purpose for the public good.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2023/02/06/google-new-search-reveals-nigerians-growing-interest-in-ai/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2023/02/06/google-new-search-reveals-nigerians-growing-interest-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2023/02/06/google-new-search-reveals-nigerians-growing-interest-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/02/06/google-new-search-reveals-nigerians-growing-interest-in-ai/amp/",
+      "publishedDateTime": "2023-02-06T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-06-ai-machine-learning-beat-cryptocurrency-as-top-tech-choice-among-institutional-investors.md",
+      "title": "AI, Machine Learning Beat Cryptocurrency As Top Tech Choice Among Institutional Investors",
+      "excerpt": "\"This trend toward automation is something we're seeing across the market now, and is expanding into the credit and rates side as well as commodities,\" said Scott Wacker, JP Morgan head of FICC e-commerce sales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/ai-machine-learning-beat-cryptocurrency-top-tech-choice-among-institutional-investors-3664780",
+      "originalUrl": "https://www.ibtimes.com/ai-machine-learning-beat-cryptocurrency-top-tech-choice-among-institutional-investors-3664780",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/ai-machine-learning-beat-cryptocurrency-top-tech-choice-among-institutional-investors-3664780?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ai-machine-learning-beat-cryptocurrency-top-tech-choice-among-institutional-investors-3664780?amp=1",
+      "publishedDateTime": "2023-02-06T00:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-budget-2023-from-video-based-kyc-to-expansion-of-digilocker-services-positive-signals-for-fintech.md",
       "title": "Budget 2023: From video-based KYC to expansion of DigiLocker services, positive signals for fintech",
       "excerpt": "In India, the fintech space for consumers can be largely categorized into five major pillars, all essentially powered by technology and digitization. These include payment services, lending segments,",
@@ -1253,102 +1322,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-01-15-global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report.md",
-      "title": "Global Automated Machine Learning (AutoML) Market 2023 (Latest Report) is booming in near Future 2029| 103 Pages Report",
-      "excerpt": "Global Automated Machine Learning (AutoML) Market Report 2023 is spread across 103 pages and provides exclusive vital statistics, data, information, trends, and competitive landscape insights in this niche sector. In a nutshell, this report is a must-read ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report-2023-01-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-automated-machine-learning-automl-market-2023-latest-report-is-booming-in-near-future-2029-103-pages-report-2023-01-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-01-14-singapore-based-fintech-actyvai-raises-funding-to-support-expansion-product-enhancement.md",
-      "title": "Singapore based Fintech actyv.ai Raises Funding to Support Expansion, Product Enhancement",
-      "excerpt": "Singapore-headquartered, category creator in the enterprise SaaS with embedded B2B BNPL and insurance space, has raised $12M.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2016/03/Singapore-Skyline-1024x725.jpg",
-          "width": 1024,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/01/201058-singapore-based-fintech-actyv-ai-raises-funding-to-support-expansion-product-enhancement/amp/",
-      "publishedDateTime": "2023-01-14T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

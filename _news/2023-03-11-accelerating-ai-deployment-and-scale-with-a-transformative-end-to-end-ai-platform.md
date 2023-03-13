@@ -52,6 +52,22 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "New AI model transforms understanding of metal-organic frameworks"
+    excerpt: "How does an iPhone predict the next word you're going to type in your messages? The technology behind this, and also at the core of many AI applications, is called a transformer; a deep-learning algorithm that detects patterns in datasets."
+    publishedDateTime: 2023-03-13T16:25:00Z
+    webUrl: "https://phys.org/news/2023-03-ai-metal-organic-frameworks.html"
+    ampWebUrl: "https://phys.org/news/2023-03-ai-metal-organic-frameworks.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-ai-metal-organic-frameworks.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/new-ai-model-transform.jpg"
+        width: 1536
+        height: 1024
+        isCached: true
   - title: "Lost In Translation: Harnessing AI For International Efficiency."
     excerpt: "Harnessing AI For International Efficiency. Legal News and Analysis - Africa/Middle East, Asia Pacific, Europe, North America, Offshore - Telecommunications, Media & Technology -"
     publishedDateTime: 2023-03-09T14:46:00Z

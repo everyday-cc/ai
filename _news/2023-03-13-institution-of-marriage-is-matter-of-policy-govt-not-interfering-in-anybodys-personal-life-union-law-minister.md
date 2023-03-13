@@ -1,22 +1,30 @@
 ---
 category: news
 title: "\"Institution of marriage is matter of policy; govt not interfering in anybody's personal life\": Union Law minister"
-excerpt: "Asserting that the institution of marriage is a matter of policy Union Law Minister Kiren Rijiju on Monday clarified that the Centre is not interfering in th"
-publishedDateTime: 2023-03-13T13:09:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273623720/institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybody-personal-life-union-law-minister"
-webUrl: "https://www.bignewsnetwork.com/news/273623720/institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybody-personal-life-union-law-minister"
+excerpt: "Asserting that the institution of marriage is a matter of \"policy\", Union Law Minister Kiren Rijiju on Monday clarified that the Centre is not interfering in the personal life of anybody by opposing the plea seeking legal recognition of same-sex marriage."
+publishedDateTime: 2023-03-13T11:40:00Z
+originalUrl: "https://www.devdiscourse.com/article/headlines/2377709-institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybodys-personal-life-union-law-minister"
+webUrl: "https://www.devdiscourse.com/article/headlines/2377709-institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybodys-personal-life-union-law-minister"
+ampWebUrl: "https://www.devdiscourse.com/article/headlines/2377709-institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybodys-personal-life-union-law-minister?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2377709-institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybodys-personal-life-union-law-minister?amp"
 type: article
-quality: 0
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_03_2023_11_40_10_8874342.jpg?width=1280"
+    width: 1280
+    height: 960
+    isCached: true
 
 related:
   - title: "SC refers petitions seeking legal recognition of same-sex marriage to Constitution Bench"
@@ -51,7 +59,21 @@ related:
         width: 293
         height: 224
         isCached: true
+  - title: "Centre in SC opposes plea seeking legal recognition of same-sex marriage, says it can't be compared with Indian family unit"
+    excerpt: "Centre in its affidavit has opposed the plea seeking legal recognition of same-sex marriage saying that living together as partners by same-sex individuals"
+    publishedDateTime: 2023-03-12T11:13:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273619608/centre-in-sc-opposes-plea-seeking-legal-recognition-of-same-sex-marriage-says-it-cant-be-compared-with-indian-family-unit"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 0
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1678619030.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
-secured: "MrgRLAUjGZYqHQg8Pz3L5F/j7cld6d7FfMjyT5ns319sw5cxdPXtlN/ADZVyQo6Imk9ZjTjNdVuJGhbEKIqIMQVLzUpyZXJTew2aY5b0NIeVSVB7u/HJ81sFdYjKKCAwB4HB9QLgSSFJp6TXr1s19oXLmDHedmk7/Uhreo5S+oINw9E0JJitrat4Q2UAy+R/wJGNukFzBl6C3FdIsKjSVbIw4CQRDaI3w0jwAcC62BdthUaZcKTg41GRgOesqdjKF5J3i+E2xr39eWPZXvtYl4DX0Z02WaMBMqYkQxTHIEPcyoRSf2CIbqiwTg6W7Bi6/0lpN6gcawW56HLQ4+/j1bvDykcsMFy+HJzLwB2w6Fnfx84lTz+ff/gW/ImcE6jwPiL38vhFloUvIOcs5EaeBAoH1Vub8lJv32XMsaxrfvp2WNudeAzHy19JGn6MGIK7UAbWb/dukA4CK5P2IpB9mqAmKJIGdYEdSqI7bE8maxi23WNIsSuYybg6tsRRZs0Ky3sCrl3tZ++aV5j2ccKz+w==;+7JuNsm6RzPzuMN3Eul0CQ=="
+secured: "nm3MLJcet1xkledpdxZ5d03bufO09/DUsA0fkVnzU4FarNeIHToqtojngnFCxFEzYSGRp6SBKJ57Fsok5GVT9wpq24pI5c82zyfgKeMDKiEh6d0f9SVu0T/UuqBkpqG1UDIZafqls+2LcvERElm2Sz2ZNKBuVKW1oLk3QVlpsdKluPSZ7FxuimEwFitRnrQDcDjJs6M12/06AygwCWqe+fE7WGe58RnTrknjxHNoNLetMUbItbkdHwbpjCR3n3O1yTaEp+XAa59/cmxVytBWQnR7TjfOr2iu8/uTqIiIZTatCgQYSJBzbSnR4eo4yEds8Di/rhgMeFEETDysu7Yeqkfh7pUrTKfoydtnvXFiWL4=;7FxvaE8amc9etaEvmzNrOQ=="
 ---
 

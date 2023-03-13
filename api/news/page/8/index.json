@@ -2,6 +2,411 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-03-adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3.md",
+      "title": "Adobe’s Scott Belsky talks generative AI — and why it’s not going to end up like web3",
+      "excerpt": "Adobe's Scott Belsky says that generative AI is nothing like web3 hype because it helps increase efficiency and reduce work for creatives.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/",
+      "originalUrl": "https://techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1294781336.jpg?resize=1200,601",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/amp/",
+      "publishedDateTime": "2023-03-02T15:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-ai-semantic-similarity-study-leads-to-novel-drug-candidates-for-parkinsons-disease.md",
+      "title": "AI Semantic Similarity Study Leads to Novel Drug Candidates for Parkinson’s Disease",
+      "excerpt": "Using AI, researchers identified Probucol, an existing anti-cholesterol drug that promotes the disposal of mitochondria, as a potential new therapy for the treatment of Parkinson's disease.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/ai-parkinsons-therapy-22702/",
+      "originalUrl": "https://neurosciencenews.com/ai-parkinsons-therapy-22702/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2023/03/parkinsons-therapy-neurosciences-public.jpg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-stability-ai-hugging-face-and-canva-back-new-ai-research-nonprofit.md",
+      "title": "Stability AI, Hugging Face and Canva back new AI research nonprofit",
+      "excerpt": "Eleuther AI, a group of AI researchers investigating language models, is forming a nonprofit foundation for AI research.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/02/stability-ai-hugging-face-and-canva-back-new-ai-research-nonprofit/",
+      "originalUrl": "https://techcrunch.com/2023/03/02/stability-ai-hugging-face-and-canva-back-new-ai-research-nonprofit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/02/stability-ai-hugging-face-and-canva-back-new-ai-research-nonprofit/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/stability-ai-hugging-face-and-canva-back-new-ai-research-nonprofit/amp/",
+      "publishedDateTime": "2023-03-02T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-neural-chip-plays-doom-while-only-drawing-one-milliwatt-of-power.md",
+      "title": "Neural chip plays Doom while only drawing one milliwatt of power",
+      "excerpt": "In the latest entry of Doom running on weird things comes an AI machine-learning chip from Syntiant. That may not sound too exciting initially — it's just another processor. What is remarkable is the meager amount of power it took to run the game.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/97796-neural-chip-plays-doom-while-only-drawing-one.html",
+      "originalUrl": "https://www.techspot.com/news/97796-neural-chip-plays-doom-while-only-drawing-one.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2023/03/2023-03-02-image-15.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-3-top-artificial-intelligence-stocks-to-buy-in-march.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in March",
+      "excerpt": "AWS. These companies are pushing AI forward, and now is an excellent time to invest in the booming market. The artificial intelligence (AI) market is booming after substantial advances in 2022 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/02/top-artificial-intelligence-stocks-to-buy/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/02/top-artificial-intelligence-stocks-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/722889/artificial-intelligence-investing-algorithms.jpg",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T13:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-brave-search-launches-an-ai-powered-summarization-feature.md",
+      "title": "Brave Search launches an AI-powered summarization feature",
+      "excerpt": "Brave Search launched a new \"Summarizer\" feature, which is powered by different large langue models (LLMs) than OpenAI's GPT.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/02/brave-search-launches-an-ai-powered-summarization-feature/",
+      "originalUrl": "https://techcrunch.com/2023/03/02/brave-search-launches-an-ai-powered-summarization-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/image004-1.jpg?resize=1200,813",
+          "width": 1200,
+          "height": 813,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/02/brave-search-launches-an-ai-powered-summarization-feature/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/brave-search-launches-an-ai-powered-summarization-feature/amp/",
+      "publishedDateTime": "2023-03-02T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot.md",
+      "title": "Figure emerges from stealth with the first images of its humanoid robot",
+      "excerpt": "Founded by Archer co-founder Brett Adcock, the startup is spending lot of time and money to build a general purpose bipedal humanoid robot.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/",
+      "originalUrl": "https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/FIGURE01_Humanoid_2.jpg?resize=1200,666",
+          "width": 1200,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/figure-emerges-from-stealth-with-the-first-images-of-its-humanoid-robot/amp/",
+      "publishedDateTime": "2023-03-02T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!Finance",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root.md",
+      "title": "AI Games and AI Film Festival will highlight how generative AI is taking root",
+      "excerpt": "Get ready for the AI revolution. A group of companies is staging The Culture AI Games and Film Festival on May 9 in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/",
+      "originalUrl": "https://venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/ai-games-and-film.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/ai-games-and-ai-film-festival-will-highlight-how-generative-ai-is-taking-root/amp/",
+      "publishedDateTime": "2023-03-02T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-prescription-opioids-could-impact-cognitive-function-in-older-adults.md",
       "title": "Prescription opioids could impact cognitive function in older adults",
       "excerpt": "Prescription opioid use could have a negative effect on cognitive function in older adults ... level fellows and junior faculty in health services research. Pain is considered common in older ...",
@@ -767,373 +1172,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-teslas-optimus-robot-can-walk-now-and-thats-just-the-start.md",
-      "title": "Tesla's Optimus Robot Can Walk Now, And That's Just The Start",
-      "excerpt": "but a human in a robot costume demonstrating what Tesla believed it could build. Fast forward to Tesla's 2022 AI Day, and Tesla's \"rough development\" robot was actually made of metal, plastic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1215063/teslas-optimus-robot-can-walk-now-and-thats-just-the-start/",
-      "originalUrl": "https://www.slashgear.com/1215063/teslas-optimus-robot-can-walk-now-and-thats-just-the-start/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/teslas-optimus-robot-can-walk-now-and-thats-just-the-start/l-intro-1677717157.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T22:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market Size To Reach at Extensive Growth by 2026",
-      "excerpt": "The Report, Titled Global and China Healthcare Natural Language Processing (NLP) Market Size, Status and Forecast",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026-2023-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026-2023-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T20:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-performance-marketing-engine-wunderkind-raises-76m-with-focus-on-ai-machine-learning.md",
-      "title": "Performance Marketing Engine Wunderkind Raises $76M, With Focus On AI, Machine Learning",
-      "excerpt": "Wunderkind, which helps brands target website visitors with emails and texts, has raised $76 million in funding, despite the ongoing controversy over ad targeting. CEO Bill Ingram says Wunderkind is making heavy investments in AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/383071/performance-marketing-engine-wunderkind-raises-76.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/383071/performance-marketing-engine-wunderkind-raises-76.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/03/02/billingram-wunderkind-600_rgM5BCs.jpg",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.md",
-      "title": "ICICI Prudential Life Insurance leverages machine learning models for customers",
-      "excerpt": "ICICI Prudential Life Insurance has deployed advanced machine learning models for their customers. This digital solution predicts future persistency behavior and has enabled the Company to improve persistency across all cohorts.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-98351567,imgsize-15524,width-1200,height-628,overlay-etcio/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/icici-prudential-life-insurance-leverages-machine-learning-models-for-customers/98351567",
-      "publishedDateTime": "2023-03-01T19:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai.md",
-      "title": "Richard Kyte: Here are the ethical questions we should be asking about AI",
-      "excerpt": "Most expert predictions, however, fall somewhere between those two extremes, depending largely on how the companies designing and implementing AI models deal with a number of ethical concerns. Those concerns are focused on things like who will have oversight,",
-      "sourceUrl": null,
-      "webUrl": "https://greensboro.com/opinion/columnists/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_6c281643-09e3-57a2-b917-fdb3ddb196a0.html",
-      "originalUrl": "https://greensboro.com/opinion/columnists/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_6c281643-09e3-57a2-b917-fdb3ddb196a0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/6/c2/6c281643-09e3-57a2-b917-fdb3ddb196a0/63ff7d4405d21.preview.jpg?crop=703%2C369%2C32%2C69&resize=703%2C369&order=crop%2Cresize",
-          "width": 703,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T18:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News & Record",
-        "domain": "greensboro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-mediterranean-diet-may-prevent-cognitive-issues-for-people-with-ms.md",
-      "title": "Mediterranean diet may prevent cognitive issues for people with MS",
-      "excerpt": "The finding suggests that the diet – which features fresh produce, seafood, nuts, olive oil and minimal red meat and sugar – may prevent or even treat cognitive symptoms related to the condition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2361966-mediterranean-diet-may-prevent-cognitive-issues-for-people-with-ms/",
-      "originalUrl": "https://www.newscientist.com/article/2361966-mediterranean-diet-may-prevent-cognitive-issues-for-people-with-ms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2023/02/28215538/SEI_146255933.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T17:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast.md",
-      "title": "How will artificial intelligence reshape our world? | The Ethical Life podcast",
-      "excerpt": "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other.",
-      "sourceUrl": null,
-      "webUrl": "https://missoulian.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_74dba4da-9198-50ee-9470-09c1c5c5d3a4.html",
-      "originalUrl": "https://missoulian.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_74dba4da-9198-50ee-9470-09c1c5c5d3a4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/7/4d/74dba4da-9198-50ee-9470-09c1c5c5d3a4/63ff73fcb1efe.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
-          "width": 1196,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Missoulian",
-        "domain": "missoulian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-first-robotics-competition-returns-to-utah-local-students-take-part.md",
-      "title": "FIRST Robotics Competition returns to Utah; local students take part",
-      "excerpt": "This week, high school students from around the nation will go head-to-head in the Utah Regional FIRST Robotics Competition at the Maverik Center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc4.com/news/local-news/first-robotics-competition-returns-to-utah-local-students-take-part/",
-      "originalUrl": "https://www.abc4.com/news/local-news/first-robotics-competition-returns-to-utah-local-students-take-part/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abc4.com/wp-content/uploads/sites/4/2023/03/FIRSTRoboticsCompetition_ABC4_2023.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abc4.com/news/local-news/first-robotics-competition-returns-to-utah-local-students-take-part/amp/",
-      "cdnAmpWebUrl": "https://www-abc4-com.cdn.ampproject.org/c/s/www.abc4.com/news/local-news/first-robotics-competition-returns-to-utah-local-students-take-part/amp/",
-      "publishedDateTime": "2023-03-01T15:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc4.com",
-        "domain": "abc4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,377 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-02-27-how-fintech-can-leverage-ai-to-protect-customers-from-fraud.md",
+      "title": "How fintech can leverage AI to protect customers from fraud",
+      "excerpt": "Biometric authentication- Fintech companies can also use AI to improve their ability to onboard customers. One way to do this is through biometric authentication, such as voice recognition, facial recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.html",
+      "originalUrl": "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/focus/economy/images/2023/2/27/fintech.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html",
+      "publishedDateTime": "2023-02-27T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse.md",
+      "title": "Meta Launches Its AI The ‘LLaMA’ ; Mark Zuckerberg Has Finally Something Better Than The Metaverse",
+      "excerpt": "Amid a flurry of generative AI cluttering the interwebs, now Facebook’s parent Meta has dangled its ChatGPT rival carrot. Dubbed the Large Language Meta AI or LLaMA, the AI is positioned as a game changer by Meta.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse",
+      "originalUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/q-11_t5k7.620.jpg",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/47973/meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse?amp=1",
+      "publishedDateTime": "2023-02-27T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-letters-to-the-editor-robots-dont-get-distracted-by-phones-bring-on-driverless-cars.md",
+      "title": "Letters to the Editor: Robots don’t get distracted by phones. Bring on driverless cars",
+      "excerpt": "Ultimately, artificial intelligence can provide efficient carpooling ... and who will forfeit their urban mobility? I hope that driverless cars will be taxed sufficiently to offset the increased ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/opinion/letters-to-the-editor/story/2023-02-27/robots-dont-get-distracted-by-phones-bring-on-driverless-cars",
+      "originalUrl": "https://www.latimes.com/opinion/letters-to-the-editor/story/2023-02-27/robots-dont-get-distracted-by-phones-bring-on-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/e498fb6/2147483647/strip/true/crop/3900x2048+0+5/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff2%2F40%2Fc2a323c1406c8807c23358cd9d9d%2F1257451-fi-waymo-self-driving-car-0495-ajs.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-how-machine-learning-will-transform-your-industry.md",
+      "title": "How Machine Learning Will Transform Your Industry",
+      "excerpt": "While ML and associated technologies like natural language processing are gaining traction in current workflows, it's important to pay close attention to ethical standards that differentiate humans from machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/631b3e240f6280e0b3d70386/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 839,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/02/27/how-machine-learning-will-transform-your-industry/amp/",
+      "publishedDateTime": "2023-02-27T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-whats-new-in-azure-data-ai-azure-is-the-best-place-to-build-and-run-ai-workloads.md",
+      "title": "What's new in Azure Data & AI: Azure is the best place to build and run AI workloads",
+      "excerpt": "Bringing together purpose-built AI infrastructure and managed data and AI services into one environment streamlines management and automation, often reducing the complexity of building, training, and bringing AI models into production.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/",
+      "originalUrl": "https://azure.microsoft.com/blog/whats-new-in-azure-data-ai-azure-is-best-place-to-build-and-run-ai-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T01:00:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-artificial-intelligence-ai-in-bfsi-market-provide-valuable-insights-for-market-players-2023-2028.md",
+      "title": "Artificial Intelligence (AI) in BFSI Market provide Valuable Insights for Market Players [2023-2028]",
+      "excerpt": "Feb 27, 2023 (The Expresswire) -- \"Artificial Intelligence (AI) in BFSI Market\"Research Report give Analysis of Industry Development Growth",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-provide-valuable-insights-for-market-players-2023-2028-2023-02-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-bfsi-market-provide-valuable-insights-for-market-players-2023-2028-2023-02-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-26T22:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus.md",
+      "title": "Microsoft introduces next-gen hybrid cloud platform 'Azure Operator Nexus'",
+      "excerpt": "It believes that modern network infrastructure will assist its telecommunications partners to improve and monetise their existing infrastructure while also lowering their overall cost of ownership",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-01/18/full/1674005450-4001.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/microsoft-introduces-next-gen-hybrid-cloud-platform-azure-operator-nexus-123022700255_1.html",
+      "publishedDateTime": "2023-02-26T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-27-teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems.md",
+      "title": "Tesla’s Full Self Driving Isn’t The Only Technology With Speed Sign Detection Problems",
+      "excerpt": "Speed limiting technology has also been mandated over in Europe, where the EU’s Vehicle General Safety Regulation has now been in force for a little over 6 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/",
+      "originalUrl": "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fbc34008dd180580147637/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyfaragher/2023/02/27/teslas-full-self-driving-isnt-the-only-technology-with-speed-sign-detection-problems/amp/",
+      "publishedDateTime": "2023-02-26T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-image-recognition-in-retail-market-size-2023-industry-share-growth-trends-segments-and-forecast-to-2031.md",
       "title": "Image Recognition in Retail Market Size, 2023 Industry Share, Growth, Trends, Segments and Forecast to 2031",
       "excerpt": "Global Image Recognition in Retail Market is valued approximately at USD 1.14 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 21.80% over the forecast period 2020-2027.",
@@ -828,383 +1199,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-why-facial-recognition-could-spell-the-end-of-anonymity-in-public.md",
-      "title": "Why facial recognition could spell the end of anonymity in public",
-      "excerpt": "CCTV doesn’t just recognise your face — it can even sense your emotions and predict crime. Even the country’s biometrics boss is worried",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=8ae1042392b64b3e46c939ef38de3d3c",
-      "originalUrl": "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=8ae1042392b64b3e46c939ef38de3d3c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-25T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-see-how-this-ai-improvised-with-a-musican-to-create-a-musical-dialogue-in-real-time.md",
-      "title": "See How This AI Improvised With A Musican To Create A Musical Dialogue In Real-Time",
-      "excerpt": "A 75-minute live performance at the Guildhall School of Music in London featured an improvised performance between a human and an AI that resulted in a tonal musical dialogue in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/25/see-how-this-ai-improvised-with-a-musican-to-create-a-musical-dialogue-in-real-time/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/25/see-how-this-ai-improvised-with-a-musican-to-create-a-musical-dialogue-in-real-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fa81f9d4092acbb40f020b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2023/02/25/see-how-this-ai-improvised-with-a-musican-to-create-a-musical-dialogue-in-real-time/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2023/02/25/see-how-this-ai-improvised-with-a-musican-to-create-a-musical-dialogue-in-real-time/amp/",
-      "publishedDateTime": "2023-02-25T14:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-the-robot-revolution-arrives-on-mountain-views-castro-street.md",
-      "title": "The robot revolution arrives on Mountain View’s Castro Street",
-      "excerpt": "You can see a working robot in action at the new concept store and robot space opened by software company InOrbit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
-      "originalUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/02/SJM-L-PIZARRO-COL-0226-01-2.jpg?w=1024&h=758",
-          "width": 1024,
-          "height": 757,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
-      "publishedDateTime": "2023-02-25T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj.md",
-      "title": "This Week in Apps: Meta’s paid verifications, Instagram’s founders’ new app and Spotify’s AI DJ",
-      "excerpt": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app economy in 2023 hit a few snags, as consumer spending last year dropped for the first time by 2% to $167 billion,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/",
-      "originalUrl": "https://techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/this-week-in-apps-splash-2023.webp?resize=1200,637",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/25/this-week-in-apps-metas-paid-verifications-instagrams-founders-new-app-and-spotifys-ai-dj/amp/",
-      "publishedDateTime": "2023-02-25T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices.md",
-      "title": "Magic Eraser comes to more devices, Spotify gains an AI DJ, and Netflix decreases prices",
-      "excerpt": "In this edition of Week in Review, we recap Google's Magic Eraser coming to more devices, Spotify gaining an AI DJ, and Netflix decreasing prices.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/",
-      "originalUrl": "https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1184944891.jpeg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/25/magic-eraser-comes-to-more-devices-spotify-gains-an-ai-dj-and-netflix-decreases-prices/amp/",
-      "publishedDateTime": "2023-02-25T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment.md",
-      "title": "Why Nvidia CEO Jensen Huang says this is generative AI’s moment",
-      "excerpt": "But Jensen Huang, CEO of Nvidia, said that generative AI is expected to create a significant opportunity that will accelerate later this year. Nvidia’s stock price rose on the opportunity, and Huang noted how generative AI will be front and center at its ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/",
-      "originalUrl": "https://venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/12/image4.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/why-nvidia-ceo-jensen-huang-says-this-is-generative-ais-moment/amp/",
-      "publishedDateTime": "2023-02-25T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-mark-zuckerberg-introduces-llama-metas-answer-to-chatgpt.md",
-      "title": "Mark Zuckerberg Introduces LLaMA — Meta's Answer to ChatGPT",
-      "excerpt": "and we’ll make our new model available to the AI research community,” Zuckerberg wrote in the post. Also Read: Is Facebook's VR Division Failing? Losses Total $13.72 Billion In 2022 According ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/02/31060821/mark-zuckerberg-introduces-llama-metas-answer-to-chatgpt",
-      "originalUrl": "https://www.benzinga.com/news/23/02/31060821/mark-zuckerberg-introduces-llama-metas-answer-to-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/02/25/meta_zuckerberg2.png?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31060821",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31060821",
-      "publishedDateTime": "2023-02-25T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-zuckerberg-introduces-metas-answer-to-chatgpt-llama.md",
-      "title": "Zuckerberg Introduces Meta’s Answer to ChatGPT, LLaMA",
-      "excerpt": "Meta, the company formerly known as Facebook, introduced its own AI today ... and we’ll make our new model available to the AI research community.” In a company blogpost published Friday ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/facebook-chatgpt-google-ai-chatbot-google-bard-1850155514",
-      "originalUrl": "https://gizmodo.com/facebook-chatgpt-google-ai-chatbot-google-bard-1850155514",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/573acff95a104148d9ebf8eefb830f15.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-25T08:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -49,7 +49,7 @@ related:
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 73
+    quality: 75
     images:
       - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop"
         width: 400
@@ -72,6 +72,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "sBNdSEleTdLr5uKIDUJNxLgA2SwbeFJP57/WwaeFXUGG1sd1mAnIxEw2fHeJiM/IG83BSiWrc9Q9zUgOj/XklYo0q5rdqVbpXfKpqmHkDII9jDbkTKSRSzQh3RuSQhYUhuPZmg4dbTgAwDSIvcKdu/GZSfssKxwFuamcKHB06EwAOn9NY3iJdN6whg/AbjIR9K6MLQJrHJojAfCTP0BnEUU9x8lBAbBh9yUkyAk80NtO37fp40Y96a3BSuOQWeHIpNcKx+5tfDUim9Fq/wsoI1VLlAA5uHSeXo2k2GT36/kEAqc6DMuFuvhBlX8vDRcXjr9gQhrhptzToOgU42SixS0+EiTXdi6DNjJMF/eGBtQ=;JOoX/vuAJXcfp3pWWT7/6g=="
+secured: "A1hQ1IEIVNcXRBoD21wBHefVTiYRZlxt5J+WgXy9XkRDqWtFnLz3r5BL/uVUMfkKxmD5qq0uHP9lXeyYUNDAYrwSd998JhRuGH55CbXsT/shW0Br5/9Ch+G8bH7zCWgNobQaPrwmBwgi1LVzZAVBRpTBrUwtouiAOhnnjaHADpQSDW2MFMFwIhwbVYBzp808Y/DQLk3LF0+t+SZWhfbxDyZV3Dd2DOF21E2irqvIEIdx2C2buc8naz3e44M2jeGXcBa71mIAq3WhZVu4jeX5hC0lzThIz/esr/kWpyYajMF+JijKPBD8T59wmJK2T1OVUUGwwgDC/bVE7ku/FVKRjokADNr4cbolYmuwF4UJdNJbjmA6k64Ve7yY9wKs+rY8qIWWVWZZm5cEyK3EtgNiIMhaoycGeR8Hw1/qwGRDkKdQv1tUwVBbbs1bY+Q0eHvOYmafzNCmFw2SU1f5Bb3Gp8Hz1E9bzMq3R2ONUGLRsjuS3wKSkKE1ffCaKSznXIt2H7RHxr748o6jRXpy7tWaQQ==;6PK37W//MhKXoZOA4J9FXg=="
 ---
 

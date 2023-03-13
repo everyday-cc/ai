@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Experts Worried Ritual Robots May Worship Gods Better Than Humans"
+    excerpt: "Strangely enough, Hinduism is the latest venue for robots and automation — and lots of worshippers, and religious experts, are freaked out by it."
+    publishedDateTime: 2023-03-13T16:32:00Z
+    webUrl: "https://futurism.com/the-byte/ritual-robots-hinduism-religion"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/03/relig.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "As robots perform Hindu rituals, some devotees fear they’ll replace worshippers"
     excerpt: "Robots are being brought into Hinduism’s holiest rituals – and not all worshippers are happy about it. In 2017, a technology firm in India introduced a robotic arm to perform “aarti,” a ritual in which a devotee offers an oil lamp to the deity to symbolize the removal of darkness."
     publishedDateTime: 2023-03-13T14:41:00Z

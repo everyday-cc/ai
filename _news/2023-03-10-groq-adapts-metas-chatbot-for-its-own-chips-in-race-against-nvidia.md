@@ -5,10 +5,12 @@ excerpt: "Close up of the GroqNode product by Silicon Valley AI chip startup Gro
 publishedDateTime: 2023-03-09T23:49:00Z
 originalUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533"
 webUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533"
+ampWebUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: International Business Times
@@ -18,6 +20,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "xv6fJ5+A30hGBOMX3HlZlxVgL07U6IlgxdO9x7LO11kApMvK7HtIANN8qHjem0MqzOoON225Ccqx+ynIDZ3G4fbCVlmo+kybj19ET9cHbrZBMi/LL6ORlVheYjoPVwI0hrnY+5/0O9E0mghSuS64lNAEejeWmJKoHqm3ipgJAZjtk52Gha2Q8TqQjpWlDe0Lq637VRKdpAM2kyN6YSf893J86wTasTZEqeOnkxqpMU19M5oVXsSbkfbLR1P27n/0bxyDlW5YrP8zNhQFjVgLPFiMzU0ALtnSHX5qfRaN16yxSEMlTLO0lRTWcO3W+KTqSOLAYYFqVutYHxZ8YU67K5KSu/PxGpW32dYsI0UDslw=;IxKmlzTX8Mkx+m8cmuZpOw=="
+images:
+  - url: "https://d.ibtimes.com/en/full/4430345/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "bFJAv+9BrntMgnWJVQCWrJ4Y5bGE2ktEtCJRHN+Qt4DpPmViBL86PvwdmHHEIzIZm+ixiDIXXnulBfHo1QuahANh15vidxoLzgescW8F54LAz1eDtylyJH4Nd0ZYOBcoYNJf4tVnpffa/2wYfGUHtV70ot1i/00c9EqFFiBv7ThUvht3J5BOZvBbhsxK0mDeceYYlvwVZ4U92qWC5OQcxwpSZyNUTkVXr/ZNHH4IB05Cm8llrG6gJmLMIm6V/e1r3YfGQe0DM6SyQkznayHPtFlCSWaGRVsg4rjcPDzAppTPXLrA3CMDtQa85130lrT6rL7cGvt1X4Ok2hrjQX7eNFdXHswykUwTyfBmXt2aFQY=;u/rBEDEYm5CCIMAmZG6WOw=="
 ---
 

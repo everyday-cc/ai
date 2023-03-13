@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-13-nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes.md",
+      "title": "Nvidia’s GTC online event will feature 70 talks on generative AI | Greg Estes",
+      "excerpt": "Connect with top gaming leaders in Los Angeles at GamesBeat Summit 2023 this May 22-23. Register here. The 14th annual Nvidia GTC online event will have more than 650 sessions, including 70 alone on generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/",
+      "originalUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/nvidia-gtc.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/",
+      "publishedDateTime": "2023-03-13T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-12-robot-lawyer-donotpay-is-being-sued-by-a-law-firm-because-it-does-not-have-a-law-degree.md",
       "title": "'Robot lawyer' DoNotPay is being sued by a law firm because it 'does not have a law degree'",
       "excerpt": "DoNotPay, which uses AI to provide legal services, is facing a class action lawsuit filed by Chicago-based law firm Edelson.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.businessinsider.com/robot-lawyer-ai-donotpay-sued-practicing-law-without-a-license-2023-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -166,7 +219,7 @@
       "originalUrl": "https://www.pbs.org/newshour/world/robots-are-performing-hindu-rituals-some-worshippers-fear-theyll-be-replaced",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1360,49 +1413,6 @@
       "provider": {
         "name": "ABC",
         "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-the-robot-revolution-arrives-on-mountain-views-castro-street.md",
-      "title": "The robot revolution arrives on Mountain View’s Castro Street",
-      "excerpt": "You can see a working robot in action at the new concept store and robot space opened by software company InOrbit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
-      "originalUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2023/02/SJM-L-PIZARRO-COL-0226-01-2.jpg?w=1024&h=758",
-          "width": 1024,
-          "height": 757,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2023/02/25/the-robot-revolution-arrives-on-mountain-views-castro-street/amp/",
-      "publishedDateTime": "2023-02-25T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
         "images": null,
         "publishers": null,
         "authors": null

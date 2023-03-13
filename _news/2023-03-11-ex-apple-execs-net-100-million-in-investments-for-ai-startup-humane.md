@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Humane, a secretive AI startup founded by ex-Apple employees, raises another $100M"
-    excerpt: "Humane, a secretive startup co-founded by ex-Apple employees, has raised $100 million in a fresh venture round."
-    publishedDateTime: 2023-03-09T01:00:00Z
-    webUrl: "https://techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/"
-    ampWebUrl: "https://techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/08/humane-the-secretive-ai-startup-founded-by-ex-apple-employees-raises-another-100m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Ex-Apple execs net $100 million in investments for AI startup Humane"
     excerpt: "Microsoft, Volvo and OpenAI are among the company's partners. It is also working with LG on research and development."
     publishedDateTime: 2023-03-10T14:25:00Z
@@ -58,33 +42,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI startup Anthropic raises $300M"
-    excerpt: "The AI arms race is just getting started as everyone tries to catch up to ChatGPT creator OpenAI, and Anthropic is widely viewed as its chief competition. U.S.-based AI companies have raised $2.7 billion so far this year,"
-    publishedDateTime: 2023-03-09T15:50:00Z
-    webUrl: "https://www.axios.com/pro/media-deals/2023/03/09/anthropic-funding-ai"
+  - title: "SK Networks invests $22M in the U.S. AI device startup 'Humane'"
+    excerpt: "SEOUL, South Korea, March 10, 2023 /PRNewswire/ -- As interest in artificial intelligence (AI) is rapidly mounting, innovative companies around the world are expanding investment and partnership ..."
+    publishedDateTime: 2023-03-10T06:57:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31291523/sk-networks-invests-22m-in-the-u-s-ai-device-startup-humane"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31291523"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31291523"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
     images:
-      - url: "https://images.axios.com/Z-GzGoqyE0t9M7qWb4sC28H2Jdo=/0x0:1920x1080/1366x768/2023/03/08/1678318097901.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Generative AI startup Anthropic raises another $300M, bringing its value to $4.1B"
-    excerpt: "Barely a month after raising hundreds of millions of dollars in funding from Google LLC, the San Francisco-based artificial intelligence startup Anthropic has closed on another round of financing that’s said to be worth $300 million."
-    publishedDateTime: 2023-03-09T15:30:00Z
-    webUrl: "https://siliconangle.com/2023/03/08/generative-ai-startup-anthropic-raises-another-300m-bringing-value-4-1b/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/6862966_28637.jpg"
-        width: 5542
-        height: 3500
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "TEeAv86f4A153iCk9WyDgKj/b6r6/cSgZmVgaWmDcFm0bN48qeySZSdT0cmqtm0biFpD26eia0zDGplX/P90S4wSqRiZ4+8slOmTBNBPedJg9pNlPO7uoGzccFarCg+wsO8zRxXcrCLDWYvLQ2Xez9lriwOBKYOZeQJefnRKFezewTAALvnT6wdWQXWyh0HD2ydsnLIpJdptOLZipksJ7p56mA4gqUN0bCNy7GcfHa5EbfHg+8ENiJXlXqfOXei+JndilVvZiVVOy/bQQEcKxGPAROkgq3cMcDup/4t7QtQLaKrFuewDEcu1Oz3dyI7Eyiwe+lusmHnLmQrSFfM5G/KlBXT4EzIorpejGsICDRBmwypdR8D+YAtYxpgucSn76uBwKK9o6PmElkxIB5GRfFUx8k/aPz0OxMNQ1p2nXCr8UKaEDDmuxEXQDpX8IR0FVnsX9W8waLsQuKX92igh8CjmVuzJuOtsU0W/WvG6/qiocdYIJeWzgyg7Sr2veEv7eDga9yvjkKtmRVPkaKWnkg==;Z4W8PMleiHJ+i6MRd+qnHQ=="

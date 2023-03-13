@@ -41,24 +41,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Five trends set to transform fintech banking in 2023"
-    excerpt: "Artificial intelligence (AI) is one of the most disruptive technologies in the ... This is particularly true for fintech companies, which are finding success by focusing on serving specific businesses such as marketplaces, PSPs, advertising networks ..."
-    publishedDateTime: 2023-03-09T12:35:00Z
-    webUrl: "https://www.business-reporter.co.uk/finance/five-trends-set-to-transform-fintech-banking-in-2023"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 19
-  - title: "13/03 – Weekly Fintech Recap"
-    excerpt: "Fintech Pioneer Railsr Announces Sale to Consortium led by D ... Provenir Appoints Vincent Camara as Regional Leader in France Provenir, a global leader in data and AI-powered risk decisioning software, announced that Vincent Camara has been appointed ..."
-    publishedDateTime: 2023-03-13T12:58:00Z
-    webUrl: "https://financialit.net/news/open-banking/1303-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 4
 
 secured: "XkiAo3dV099yFzWTNgMkg3TfAgKE6wwfi2f7ymYd6xxihMQxe71EyfC/dd/b0X4xOHcZpISmFciVeBLCVrYyNlXrhknG+LMXCInMM70anqwk08L05n1VsKa4//7Yubdbyn6O21OUYFlLIKJpuRLa255jdzuEm2lJ2HPKEXMqRKuBELkDsvewQvC92m42RxO54D7lLaD81tzrg/w8GZgOsf+u8rPP6k605iRpxbKSsSgmpwVTDR/oTRx3jkUY3RbhBP3bJ8uVaMgiMI6Ntb6/oXb6D9P+YtMnTGGVqwlcSMbikG5ejAnTMtXJOgULN9/Kr9LJPby+BAn1paC/yMmWQZJq8FWHl21oPx9KJpk4ag+9dJgmKphwRaXrBjHXE3mD+H0Wd92fL/CChnyO+eF4M29rDa2ZXR4RHojn2uutU1fnKr/WM1FKiXHGoDtMllN/mNczSNhewAxk1qxlpBuwCOgpOMrrnZ2k7KcoxNJO5ilRR4lGsi94n9X1X24bAzWFS4qAWMlj2MHnxWkmfgkn1A==;C/6+zW+VSaRI50Om65i1tQ=="
 ---

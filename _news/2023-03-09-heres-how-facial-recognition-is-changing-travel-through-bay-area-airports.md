@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bostonherald.com/2023/03/08/heres-how-facial-recognition
 cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2023/03/08/heres-how-facial-recognition-is-changing-travel-through-bay-area-airports/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Boston Herald
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bay Area Airports Adopt Facial Recognition to Process Travelers"
-    excerpt: "All three of the Bay Area’s airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too."
-    publishedDateTime: 2023-03-09T00:46:00Z
-    webUrl: "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers"
-    ampWebUrl: "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/5235c9a/2147483647/strip/true/crop/1000x521+0+21/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F72%2F4fb41766491d91465c3b63156676%2Fshutterstock-2133112951.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Stop the spies with the facial recognition"
     excerpt: "If, like us, your initial and overriding opinion of sweeping electronic surveillance of literally everyone by law enforcement is that it is bad — bad to the bone — your attitude about a proposed"
     publishedDateTime: 2023-03-10T15:00:00Z

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-tal
 ampWebUrl: "https://venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidias-gtc-online-event-will-feature-70-talks-on-generative-ai-greg-estes/amp/"
 type: article
-quality: 86
-heat: 86
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/03/nvidia-gtc.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 701
     isCached: true
 
-secured: "B0NFaElta08Vyf41c/OawAjV/ACB4zoD9O2DgMVzzbF7DR9eBk3CILHJM6yTSdp9pCHSBb1sdUmbpn6FoLAF1p61XhT+Jv+45UZuYM1sUjstRKBqj027tNerkV2DG+oCh3BUtAcP2hlHJfwUioWl89uOL99XxhjkYLW55GeRe9+ourOq0c5ygLPRv/gj3tVmcxugZO0l0YOhXIcrv9Sh6jlxb1aqYK3Z5EOizYzGoKFr11yWKNiS6lwRurxMP+87PeNmRUeSwHdlvkvAXhDlGZshXO0zakKpZNJKzgvu3xPjjR3by7Cz/lJ3YmnzxHKn/ScQJyymFJI4X8PA2C0Ry68CWKBiBbiGyffJ0O1cCDU=;QZz2bi/MeI5eF1DSonPOrQ=="
+secured: "/0fSOlhQteF7n4mBEQeKGjF72dtG5PF8zTSQbjDV3m6z9CkMedi8jWW0SPxjGQzH9joDhSaGCnMxU6hUT0Oo+p8Cs25IaSSvdAce/A6Ke2kLwD4JwmBNkzjmOBJk6e9xvdsLHU4Y6TjpM61aEaGTPC5LP2FQW3IiCDJ8NDt6m4WVdQNhwaoa36FdRCcZkUDG/J+i2cBdRzYWOzJ3RT0s1SCiuoNAVH29xZJ92V4j4EBcLVTP1qll3a7hSAAxLDnUymWzeXffAoiGdieJAJR3cZ9v++giKyzoNAC6dcIH+O7OYEpVTW4LI/aIa5fKevsDcCmjJQ6TZIhzilirwPV/bMrieyRCl59bXevBXClLblCEgzD5g582A7XpSfAR4jh7Ej40B3TA5vLuuApqrG2A2XhaGwqrL4i4ZGn8OVzTrmZzFihQOhppdDpIE5ml7853ZYuYzqNqkc9pTSA4DciiJreIyr34CKbPLVzixI+Ach0BFMouj6QjrucC97xGngmtkiBFy+DLF/5Gbf3zM9ciqA==;yPBUPo+JXG7ABSr7KMeTDQ=="
 ---
 

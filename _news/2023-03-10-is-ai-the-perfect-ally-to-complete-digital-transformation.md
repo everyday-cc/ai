@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-t
 webUrl: "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.techguide.com.au/wp-content/uploads/2023/03/nick-chong-N__BnvQ_w18-unsplash-450x300.jpeg"
         width: 450
         height: 300
+        isCached: true
+  - title: "New AI model transforms understanding of metal-organic frameworks"
+    excerpt: "How does an iPhone predict the next word you're going to type in your messages? The technology behind this, and also at the core of many AI applications, is called a transformer; a deep-learning algorithm that detects patterns in datasets."
+    publishedDateTime: 2023-03-13T16:25:00Z
+    webUrl: "https://phys.org/news/2023-03-ai-metal-organic-frameworks.html"
+    ampWebUrl: "https://phys.org/news/2023-03-ai-metal-organic-frameworks.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-ai-metal-organic-frameworks.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/new-ai-model-transform.jpg"
+        width: 1536
+        height: 1024
         isCached: true
   - title: "Accelerating AI deployment and scale with a transformative end-to-end AI platform"
     excerpt: "AI delivers business value and a competitive advantage for enterprise, but how do you go from proof of concept to production AI at scale?"

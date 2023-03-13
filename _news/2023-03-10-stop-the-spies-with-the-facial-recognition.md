@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bay Area Airports Adopt Facial Recognition to Process Travelers"
-    excerpt: "All three of the Bay Area’s airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too."
-    publishedDateTime: 2023-03-09T00:46:00Z
-    webUrl: "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers"
-    ampWebUrl: "https://www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/bay-area-airports-adopt-facial-recognition-to-process-travelers?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/5235c9a/2147483647/strip/true/crop/1000x521+0+21/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3d%2F72%2F4fb41766491d91465c3b63156676%2Fshutterstock-2133112951.jpg"
-        width: 840
-        height: 438
-        isCached: true
   - title: "Here’s how facial recognition is changing travel through Bay Area airports"
     excerpt: "For speedier entry into the U.S., your most important travel tool is now your face. All three of the Bay Area’s airports are deploying new facial recognition technology, called Simplified Arrival, to screen incoming international passengers and testing it in San Jose to track some departing passengers too."
     publishedDateTime: 2023-03-09T02:46:00Z

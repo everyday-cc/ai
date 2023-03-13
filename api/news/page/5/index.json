@@ -2,6 +2,397 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-08-the-best-way-to-start-an-ai-project-dont-think-about-the-models.md",
+      "title": "The best way to start an AI project? Don’t think about the models",
+      "excerpt": "Too often, companies start with AI and skip the business processes and structure of the data, which has a much greater impact on the end results.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/07/the-best-way-to-start-an-ai-project-dont-think-about-the-models/",
+      "originalUrl": "https://techcrunch.com/2023/03/07/the-best-way-to-start-an-ai-project-dont-think-about-the-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1274512924.jpg?resize=1200,765",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T10:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-08-microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images.md",
+      "title": "Microsoft’s computer vision model will generate alt text for Reddit images",
+      "excerpt": "Microsoft is bringing Florence, a multimodal model trained on images and text, into production via Azure APIs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images/",
+      "originalUrl": "https://techcrunch.com/2023/03/07/microsofts-computer-vision-model-will-generate-alt-text-for-reddit-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-empowering-micro-entrepreneurs-through-machine-learning.md",
+      "title": "Empowering Micro Entrepreneurs Through Machine Learning",
+      "excerpt": "Brazil-based Zippi's mission is to provide affordable and accessible financial services to over 30 million micro entrepreneurs, many of whom face unique challenges accessing credit from traditional banks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64075c41741e252b45817110/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2023/03/07/empowering-micro-entrepreneurs-through-machine-learning/amp/",
+      "publishedDateTime": "2023-03-07T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-is-the-us-government-ready-for-the-rise-of-artificial-intelligence.md",
+      "title": "Is the US government ready for the rise of artificial intelligence?",
+      "excerpt": "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ebc4df75b728a3e25fbf863375da820aee1b1b34/0_115_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=d5c20814aa6b6aaa53696c96662f86cf",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "publishedDateTime": "2023-03-07T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-sas-data-ethics-chief-talks-about-keeping-an-ethical-eye-on-ai.md",
+      "title": "SAS' data ethics chief talks about keeping an ethical eye on AI",
+      "excerpt": "SAS Institute's Data Ethics Practice's director Reggie Townsend. Photo illustration: Lindsey Bailey/Axios. Photo courtesy of SAS Institute The U.S. is at a crossroads when it comes to the future of artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/local/raleigh/2023/03/07/sas-head-of-artificial-intelligence-ethics",
+      "originalUrl": "https://www.axios.com/local/raleigh/2023/03/07/sas-head-of-artificial-intelligence-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/l0HjUVno5evT4xHFAks95sBilNI=/0x0:1920x1080/1366x768/2023/03/06/1678140445306.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-07T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more.md",
+      "title": "Tech execs didn’t just start talking about AI — but they are talking about it a lot more",
+      "excerpt": "Do you feel like you've heard a lot more about AI in 2023? A MarketWatch analysis shows you probably have, although from roughly the same number of sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "originalUrl": "https://www.marketwatch.com/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-737082/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-execs-didnt-just-start-talking-about-ai-but-they-are-talking-about-it-a-lot-more-a11accae",
+      "publishedDateTime": "2023-03-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-chatgpt-machine-learning-and-generative-ai-in-healthcare.md",
+      "title": "ChatGPT, Machine Learning And Generative AI In Healthcare",
+      "excerpt": "The use of generative AI has the potential to greatly impact clinical understanding, diagnosis and treatment of complex medical conditions as well as improve the accuracy, efficiency and effectiveness of healthcare system function.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 311,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6405efa13b66613f66c92092/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/03/07/chatgpt-machine-learning-and-generative-ai-in-healthcare/amp/",
+      "publishedDateTime": "2023-03-07T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-03-07-will-a-robot-take-your-job-study-reveals-the-careers-that-face-the-highest-risk-of-being-replaced-by-ai-with-call-centre-workers-english.md",
+      "title": "Will a robot take YOUR job? Study reveals the careers that face the highest risk of being replaced by AI - with call centre workers, English and History teachers topping the list",
+      "excerpt": "They did this by linking 10 AI-powered applications, like translation, language modelling and image generation, to 52 human abilities, like oral comprehension and arm-hand steadiness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11829623/Will-robot-job-Study-reveals-careers-highest-risk-replaced-AI.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11829623/Will-robot-job-Study-reveals-careers-highest-risk-replaced-AI.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/03/07/10/68416473-0-image-a-12_1678183239425.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11829623/amp/Will-robot-job-Study-reveals-careers-highest-risk-replaced-AI.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11829623/amp/Will-robot-job-Study-reveals-careers-highest-risk-replaced-AI.html",
+      "publishedDateTime": "2023-03-07T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-googles-one-step-closer-to-building-its-1000-language-ai-model.md",
       "title": "Google’s one step closer to building its 1,000-language AI model",
       "excerpt": "Right now, Google says USM supports over 100 languages and will serve as the “foundation” to build an even more expansive system. Meta’s working on a similar AI translation tool that’s ...",
@@ -796,341 +1187,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-future-of-artificial-intelligence-ai-in-fintech-market-by-2029-trends-and-predictions.md",
-      "title": "Future of Artificial Intelligence (AI) in Fintech Market by 2029: Trends and Predictions",
-      "excerpt": "The recently published Artificial Intelligence (AI) in Fintech Market Report, spanning across 116 pages, provides",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-in-fintech-market-by-2029-trends-and-predictions-2023-03-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-in-fintech-market-by-2029-trends-and-predictions-2023-03-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T18:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-artificial-intelligence-could-help-detect-breast-cancer-study.md",
-      "title": "Artificial intelligence could help detect breast cancer: study",
-      "excerpt": "The use of artificial intelligence is growing across a myriad of sectors, from being used to detect emissions and predict lightning strikes to monitor aging infrastructure and drive vehicles. Early research has now found it could be effective at helping doctors detect breast cancer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html",
-      "originalUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LLZSV63TI5FEZIKVKAEDJVKO5M.jpg",
-          "width": 2916,
-          "height": 2233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html?outputType=amp",
-      "publishedDateTime": "2023-03-05T18:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Staten Island Advance",
-        "domain": "silive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-5-ways-machine-learning-is-leading-to-smarter-manufacturing.md",
-      "title": "5 Ways Machine Learning Is Leading to Smarter Manufacturing",
-      "excerpt": "Major companies around the world are heavily investing in machine learning (ML) solutions across their manufacturing processes and seeing impressive results. From bringing down labor costs and reducing downtime to increasing workforce productivity and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business.com/articles/machine-learning-and-manufacturing/",
-      "originalUrl": "https://www.business.com/articles/machine-learning-and-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business.com",
-        "domain": "business.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-deep-learning-based-anatomical-landmark-identification-in-ct-scans.md",
-      "title": "Deep-learning-based anatomical landmark identification in CT scans",
-      "excerpt": "When planning orthodontic treatments using computed tomography images, surgeons often need to identify points of interest in the bones called “anatomical landmarks,” which help them diagnose conditions and make precise measurements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/981832",
-      "originalUrl": "https://www.eurekalert.org/news-releases/981832",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/876075ca-d045-4893-809f-b4e7d7b6ec8b/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-deep-machine-learning-corrects-neutron-gamma-ray-logs.md",
-      "title": "Deep machine learning corrects neutron, gamma ray logs",
-      "excerpt": "Based on “Deep Learning for Multiwell Automatic Log Correction,” presented at SPWLA Annual Logging Symposium, Stavanger, June 11-15, 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ogj.com/general-interest/article/14290805/deep-machine-learning-corrects-neutron-gamma-ray-logs",
-      "originalUrl": "https://www.ogj.com/general-interest/article/14290805/deep-machine-learning-corrects-neutron-gamma-ray-logs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oil",
-        "domain": "ogj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-drones-and-deep-learning-researchers-develop-a-new-technique-to-quantify-rice-production.md",
-      "title": "Drones and deep learning: Researchers develop a new technique to quantify rice production",
-      "excerpt": "These images are then processed using a deep learning network that we have developed, called RiceNet, which can accurately identify the density of rice plants in the field, as well as provide ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-03-drones-deep-technique-quantify-rice.html",
-      "originalUrl": "https://phys.org/news/2023-03-drones-deep-technique-quantify-rice.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/drones-and-deep-learni.jpg",
-          "width": 2880,
-          "height": 1923,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-03-drones-deep-technique-quantify-rice.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-drones-deep-technique-quantify-rice.amp",
-      "publishedDateTime": "2023-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-facial-recognition-tool-led-to-mistaken-arrest-lawyer-says.md",
-      "title": "Facial recognition tool led to mistaken arrest, lawyer says",
-      "excerpt": "NEW ORLEANS: Louisiana authorities’ use of facial recognition technology led to the mistaken-identity arrest of a Georgia man on a fugitive warrant, an attorney said in a case that renews ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/01/03/facial-recognition-tool-led-to-mistaken-arrest-lawyer-says",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/01/03/facial-recognition-tool-led-to-mistaken-arrest-lawyer-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2023/01/03/1886220.jpg",
-          "width": 1240,
-          "height": 841,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-friday-hack-chat-control-schemes-for-robotics.md",
-      "title": "Friday Hack Chat: Control Schemes For Robotics",
-      "excerpt": "Not coincidentally, for this week’s Hack Chat, we’re talking all about Robotics Modules. We’re taking a deep dive into actuation and control schemes for robotics, and you’re invited to ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/04/25/friday-hack-chat-control-schemes-for-robotics/",
-      "originalUrl": "https://hackaday.com/2018/04/25/friday-hack-chat-control-schemes-for-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/04/54actuationhackchatv3-01_featured.png",
-          "width": 800,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

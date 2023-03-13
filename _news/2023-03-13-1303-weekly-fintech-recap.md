@@ -19,35 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Firm Brex Brings New Tools to Finance Teams with OpenAI"
-    excerpt: "Brex announced it will be launching advanced AI-powered tools for CFOs and their teams, all built \"using advanced machine learning.\""
-    publishedDateTime: 2023-03-09T12:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/03/203368-fintech-firm-brex-brings-new-tools-to-finance-teams-with-openai/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/03/203368-fintech-firm-brex-brings-new-tools-to-finance-teams-with-openai/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/03/203368-fintech-firm-brex-brings-new-tools-to-finance-teams-with-openai/amp/"
+  - title: "Artificial Intelligence (AI) in Fintech Market by Product Type & End Users-2029"
+    excerpt: "Artificial Intelligence (AI) in Fintech Marketinformation for each competitor includes (Next IT Corporation, TIBCO"
+    publishedDateTime: 2023-03-13T03:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg"
-        width: 1280
-        height: 960
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "UBS Teams With Fintech Firm Tenity: Tech Roundup"
-    excerpt: "Among the goals is to “strengthen innovation in the fintech sector,” the firms said ... Catchlight’s insights and AI will be used by advisors to “better understand and prioritize their lead,” the companies said. adding, “Catchlight distills ..."
-    publishedDateTime: 2023-03-09T16:14:00Z
-    webUrl: "https://www.thinkadvisor.com/2023/03/09/ubs-teams-with-fintech-firm-tenity-tech-roundup/"
+  - title: "Meet the women shaping the booming fintech sector in India"
+    excerpt: "Equity funding into Indian Fintech has grown at a CAGR of 26% over the last four ... The adoption of data-based, AI/ML-led decision models has improved risk assessment, enabling us to analyze customer data and predict potential risks, as in the case ..."
+    publishedDateTime: 2023-03-13T05:52:00Z
+    webUrl: "https://www.livemint.com/news/india/swati-bhargava-hardika-shah-puja-srivasatva-kinara-capital-cashkaro-women-shaping-the-booming-fintech-sector-in-india-11678683601833.html"
+    ampWebUrl: "https://www.livemint.com/news/india/swati-bhargava-hardika-shah-puja-srivasatva-kinara-capital-cashkaro-women-shaping-the-booming-fintech-sector-in-india/amp-11678683601833.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/swati-bhargava-hardika-shah-puja-srivasatva-kinara-capital-cashkaro-women-shaping-the-booming-fintech-sector-in-india/amp-11678683601833.html"
     type: article
     provider:
-      name: Think Advisor
-      domain: thinkadvisor.com
-    quality: 24
+      name: Mint
+      domain: livemint.com
+    quality: 44
     images:
-      - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2023/02/11_UBS_Sign_HQ_BB_640x640.jpg"
-        width: 640
-        height: 640
+      - url: "https://images.livemint.com/img/2023/03/13/600x338/women-entrepreneurs_1678686346634_1678686347045_1678686347045.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Five trends set to transform fintech banking in 2023"
     excerpt: "Artificial intelligence (AI) is one of the most disruptive technologies in the ... This is particularly true for fintech companies, which are finding success by focusing on serving specific businesses such as marketplaces, PSPs, advertising networks ..."

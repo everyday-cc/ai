@@ -43,6 +43,20 @@ related:
         width: 1084
         height: 542
         isCached: true
+  - title: "DoNotPay, the 'Robot Lawyer,' Is Being Sued"
+    excerpt: "The startup behind the “world’s first robot lawyer,” DoNotPay ... DoNotPay claimed it was taking a pilot version of an AI-powered “robot lawyer” into the court room, to fight a speeding ticket charge before a judge. The company’s founder ..."
+    publishedDateTime: 2023-03-13T16:05:00Z
+    webUrl: "https://gizmodo.com/donotpay-robot-lawyer-speeding-ticket-ai-1850218589"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ec120c08494eb6bc726c995f66e06d2e.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "\"Robot Lawyer\" Faces Lawsuit For Practicing Law Without A License In US"
     excerpt: "DoNotPay Inc, which uses AI to provide legal services is facing a new lawsuit from a Chicago-based law firm. The company has claimed that DoNotPay has been practising law poorly and lacks a license, Reuters reported."
     publishedDateTime: 2023-03-12T16:09:00Z

@@ -2,6 +2,42 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-06-generative-ai-drives-an-explosion-in-compute-the-looming-need-for-sustainable-ai.md",
+      "title": "Generative AI drives an explosion in compute: The looming need for sustainable AI",
+      "excerpt": "There’s one problem with this generative AI explosion, though: Every time DALL-E creates an image or GPT-3 predicts the next word, this requires multiple inference calculations that add up to significant electrical demand.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/02/05/generative-ai-drives-explosion-compute-looming-need-sustainable-ai/",
+      "originalUrl": "https://siliconangle.com/2023/02/05/generative-ai-drives-explosion-compute-looming-need-sustainable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-brainchip-partners-with-ai-labs-on-next-generation-application-development.md",
       "title": "BrainChip Partners with AI Labs on Next-Generation Application Development",
       "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP, to",
@@ -1244,49 +1280,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-01-21T09:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechnoSports",
-        "domain": "technosports.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-21-nvidia-geforce-rtx-4090-laptop-gpu-shows-better-gaming-performance-with-dlss-3-than-its-predecessor.md",
-      "title": "NVIDIA GeForce RTX 4090 Laptop GPU Shows better gaming performance with DLSS 3 than its predecessor",
-      "excerpt": "Comparisons between the RTX 4090 GPU in the Razer Blade 16 with NVIDIA's DLSS 3 upscaling enabled and the Razer Blade 17 with DLSS 2 enabled are not entirely useful in this case, demonstrating the limitations of what Jarrod is permitted to show.",
-      "sourceUrl": null,
-      "webUrl": "https://technosports.co.in/2023/01/21/nvidia-geforce-rtx-4090-gpu-6/",
-      "originalUrl": "https://technosports.co.in/2023/01/21/nvidia-geforce-rtx-4090-gpu-6/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technosports.co.in/wp-content/uploads/2022/09/NVIDIA-GeForce-RTX-4090-Graphics-Card-Official-1-1030x579-1.jpg",
-          "width": 1030,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technosports.co.in/2023/01/21/nvidia-geforce-rtx-4090-gpu-6/?amp",
-      "cdnAmpWebUrl": "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2023/01/21/nvidia-geforce-rtx-4090-gpu-6/?amp",
-      "publishedDateTime": "2023-01-21T01:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechnoSports",

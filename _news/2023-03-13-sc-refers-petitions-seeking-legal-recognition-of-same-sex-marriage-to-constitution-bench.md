@@ -44,14 +44,35 @@ related:
         height: 224
         isCached: true
   - title: "\"Institution of marriage is matter of policy; govt not interfering in anybody's personal life\": Union Law minister"
-    excerpt: "Asserting that the institution of marriage is a matter of policy Union Law Minister Kiren Rijiju on Monday clarified that the Centre is not interfering in th"
-    publishedDateTime: 2023-03-13T13:09:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273623720/institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybody-personal-life-union-law-minister"
+    excerpt: "Asserting that the institution of marriage is a matter of \"policy\", Union Law Minister Kiren Rijiju on Monday clarified that the Centre is not interfering in the personal life of anybody by opposing the plea seeking legal recognition of same-sex marriage."
+    publishedDateTime: 2023-03-13T11:40:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2377709-institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybodys-personal-life-union-law-minister"
+    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2377709-institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybodys-personal-life-union-law-minister?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2377709-institution-of-marriage-is-matter-of-policy-govt-not-interfering-in-anybodys-personal-life-union-law-minister?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 22
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_03_2023_11_40_10_8874342.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "Centre in SC opposes plea seeking legal recognition of same-sex marriage, says it can't be compared with Indian family unit"
+    excerpt: "Centre in its affidavit has opposed the plea seeking legal recognition of same-sex marriage saying that living together as partners by same-sex individuals"
+    publishedDateTime: 2023-03-12T11:13:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273619608/centre-in-sc-opposes-plea-seeking-legal-recognition-of-same-sex-marriage-says-it-cant-be-compared-with-indian-family-unit"
     type: article
     provider:
       name: Big News Network.com
       domain: bignewsnetwork.com
     quality: 0
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1678619030.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "LXxLkW7nCHj0Q2Ez8k1ZrDVXzd3Ljx2e08E9NddjjU+sDuzav7gKurjIIsH980DPDdB9Mr/ltba7J/T24LpU7WZ94oJs15fIUMk7iuOzKfBVJxbbeZffbgZkbCMA4PwB+iNFcuMkmnpA4veNZNCLNamqybSTPZLI+M5XSjCBmL8PwCdTiKf0ibIXQ5KXk+uGxEP6IEdLN3wWDIHJHrOnMRsugJLQj2hJynJRO8HvLsaSyRvuVTHS+Q1Unjm4DNPig4y/zXCQ88KvJ/n15LVC0TYXeN5ck7beWmtMQWLVWmqHbYoVc8ityGqsAa/YVjG/xiYU2kb8OviyMshM29yW5c3oE2xZO7NEouKyTLfpTOE=;BrV/ziHGqEOQoM/KbNtxiQ=="
 ---

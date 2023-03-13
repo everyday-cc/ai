@@ -38,7 +38,7 @@ related:
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 73
+    quality: 75
     images:
       - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop"
         width: 400

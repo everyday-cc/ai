@@ -274,6 +274,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
+  - title: "Colossal-AI Releases Open Source Framework for ChatGPT Replication"
+    excerpt: "A single such GPU costs $14,999. That means the minimum hardware cost to train a ChatGPT-like neural network is roughly $1M just for the GPUs. With Colossal-AI, organizations can achieve up to 50% hardware savings, reducing the hardware cost by up to $ ..."
+    publishedDateTime: 2023-03-13T17:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/colossal-ai-releases-open-source-framework-for-chatgpt-replication/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Plans to Launch ChatGPT Via Azure"
     excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
     publishedDateTime: 2023-03-12T09:34:00Z

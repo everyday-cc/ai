@@ -8,7 +8,7 @@ webUrl: "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-s
 ampWebUrl: "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1"
 cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1"
 type: article
-quality: 73
+quality: 75
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop"
@@ -72,6 +73,6 @@ related:
         height: 296
         isCached: true
 
-secured: "RZBfarVaw478PST6CC5OUfAKZgWqOJeJguraP10hIufBWjmF9nE/tq1C3X132Pnwdr4lWAIF/MvF6Vv3CN12ZAOHlvf2QCvk/l65WJ5BjUz86AQER9VdEtwAEX3B4mEnjvmTWaL/gIXFwIligwhe1XHWBcWZ8Y21bk9Ph4LI4c/MIYVCR69QNfPOUkkYfNTEeFTplxU9hmhKo1CpjU0Kj6QW5950NjkksQSgH+sztsY3/w0XA4lB21FJ3CMjUicg+ausw4PphF/Bb3+AhTDKIqGxNsGhnRft8qwdDR79PO83UwPqA1FIwinyYJhYNt2qci0UlSKKmYzWWkub7is2T2nSkzurK7/ZKQbnfIlGlpc=;MTxNJg3bvKcByNEfvjbhXw=="
+secured: "rUwyo601ZTUakkmzjLCKgRp/xFgeolM9kuw4f/kglxre6rG+1cgaJa9QaaQPin++y43eDK4UEDPrgPHOTTVW3pp9bS7OcwR5KIys7uB53rRq2f0ADVXE8kl94GhqCi6F812LmsUx2emm1j/dJgyTOQF11t6qroH1nIAA+4FFIJnhv5o3qGvzxkSoHhhLcV1xq3mfwbwUq020HocXpGP8Y3tDNQmW2UdDPpCLOqCsedsA6nz++0RxtR8tvtZ06saop69bksh8GNgJbjg3ZFTXP1jHioZ6rmR25E1U9w5r+rmTwy2xwg+iPgsuQ9A52BIiSOYhSoRhvzWvE/MS3xMJSOd/nsNkj8+IKJKoQ83t04/cvrPHAbkh+DHFfw+eBJx/pie18fsotXf4IKiQcRKry/8pD+iC4umoA0fDA+mGLbyFOlyuQrcPy+UrXHuVEMa8pQvnY8QSJO7esMTDjji+Zx/FA0TaqRQ7Jte6ympL8KfEgkGtdJMcnh8gpOnbVXAxroDoq2ILf8mYyyzNeUySOA==;KfDhZb3mkpR/5S5bhfeWgw=="
 ---
 

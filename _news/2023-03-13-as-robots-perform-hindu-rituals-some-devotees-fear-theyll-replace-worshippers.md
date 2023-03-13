@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Experts Worried Ritual Robots May Worship Gods Better Than Humans"
+    excerpt: "Strangely enough, Hinduism is the latest venue for robots and automation — and lots of worshippers, and religious experts, are freaked out by it."
+    publishedDateTime: 2023-03-13T16:32:00Z
+    webUrl: "https://futurism.com/the-byte/ritual-robots-hinduism-religion"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 39
+    images:
+      - url: "https://wp-assets.futurism.com/2023/03/relig.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robots are performing Hinduism’s holiest rituals—for better or worse"
     excerpt: "Robots are being brought into Hinduism’s holiest rituals—and not all worshippers are happy about it. In 2017, a technology firm in India introduced a robotic arm to perform “aarti,” a ritual in which a devotee offers an oil lamp to the deity to symbolize the removal of darkness."
     publishedDateTime: 2023-03-13T03:00:00Z
@@ -51,6 +65,6 @@ related:
       domain: fastcompany.com
     quality: 19
 
-secured: "QJsK1Boo77vOj9T6vm9v0wHvPcvmhHwjlfvGVsUKQJKzPG22SW0FEleQmxiC2MXGRm81vY7fYfcl0BQRoGrYYwYYE5+hgfcZoIJZm7eJcIl1/4fbAPoG6QXc/kElWPTLX5G5zLwEZ5dQU2ww+tUD+Fu6BypR9oSS1xbWXB5Ev6JCrz6ck7femvnCYGdVAnCwDqF4c5PSAI8ZT8sbD6s8rUxO9MbUWBj8f9oSmPBARlV6UW+/ikkbp7CGl/8txZh1+GkXHTv+Gx4VmAO6jwDD01wBgW0so81loXICbZmZ5AN5HxwRebMpaWHQTMmxX90opZIqs+6SmVqUTOdE4OsKAJAeqRGEDjQYpe6Xy582+Qo=;J34Vyn1gz46FQrL1ZONFCw=="
+secured: "5gHodNQR+YRPzDT3en9nCnCtKkWVxbErVwV7qtzdNJ7WwDQsdSm6BcoPlPWNbhJOObKFY4AVFbNHwCy9+6XIFL3rXaN6t8GtDYQO6lyWYaaxRbFAdvjtNuEPQecjink8+vRYgFamLUNAn0RGhtVrrv4htCOHFyvGL1ak/uPC140C5/EUl5aF8PqjuEL7Gggzjihzu7+ZzdogX/ZAKBhGkUlOc3gczr6w8XMfqEwEBm+8NgzSfX5+8EBagy4TVo0FFOfyQpQNUZNMgvs5vP+QAu6qGaVC2fWYmFxQXCKKwQuRA0JpZRZgMHPwqIURisPwZVYNpm4RWZp6mWTwSH2eeBtNnLaRCqLkmqCSaF1GMTgo7GjFH1Gis7PqNMsM2FiEfzrqciO4OjIm86LFtn8HrZJEOu7//p9kfK9b+850DzeJ1z8B45zBa46uE2GWRMRkxO3RCC0ezPXTWtXsKrVa/jEkxFRoH2I3c+HedsjlQIQJq19jO+ytIHuBIAS/cPEmc3yQnnwT4/0qPLnK81xxqw==;jv07Eh9pk/yDq4kfITfmYw=="
 ---
 

@@ -27,20 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "UK Fintech Tintra Selects Temenos to Power AI-Led Inclusive Banking for Emerging Markets"
-    excerpt: "Tintra PLC, a London-headquartered Deep Tech and Banking company, has selected Temenos to power its innovative new bank designed solely for emerging market clients. Tintra will be using Temenos core banking platform and market-leading payments as well as its Financial Crime Mitigation solution."
-    publishedDateTime: 2023-03-09T08:59:00Z
-    webUrl: "https://financialit.net/news/digital-banking/uk-fintech-tintra-selects-temenos-power-ai-led-inclusive-banking-emerging"
+  - title: "Artificial Intelligence (AI) in Fintech Market by Product Type & End Users-2029"
+    excerpt: "Artificial Intelligence (AI) in Fintech Marketinformation for each competitor includes (Next IT Corporation, TIBCO"
+    publishedDateTime: 2023-03-13T03:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Five trends set to transform fintech banking in 2023"
+    excerpt: "Artificial intelligence (AI) is one of the most disruptive technologies in the ... This is particularly true for fintech companies, which are finding success by focusing on serving specific businesses such as marketplaces, PSPs, advertising networks ..."
+    publishedDateTime: 2023-03-09T12:35:00Z
+    webUrl: "https://www.business-reporter.co.uk/finance/five-trends-set-to-transform-fintech-banking-in-2023"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 19
+  - title: "13/03 – Weekly Fintech Recap"
+    excerpt: "Fintech Pioneer Railsr Announces Sale to Consortium led by D ... Provenir Appoints Vincent Camara as Regional Leader in France Provenir, a global leader in data and AI-powered risk decisioning software, announced that Vincent Camara has been appointed ..."
+    publishedDateTime: 2023-03-13T12:58:00Z
+    webUrl: "https://financialit.net/news/open-banking/1303-weekly-fintech-recap"
     type: article
     provider:
       name: Financial IT
       domain: financialit.net
-    quality: 45
-    images:
-      - url: "https://financialit.net/sites/default/files/temenos_71.png"
-        width: 1366
-        height: 768
-        isCached: true
+    quality: 4
 
 secured: "YevvO9NZCyTnqkVFc0/9NeSG+GBmt5O/9xwSvqRv8NdYD2gGJ9CGYK1Nq2eN7GxsQPI05vXx7cLdZw5NyZuZdqaYr/jBlU4q9dCDtk8Vs4M2ec0p3/xkuaP/F0FO1+0/DFr4pTKlU9bmF2J/H4qAlQ8kqVidJQiIHRvq7aXLqvy7GeOXA32PZWbBRQIe8T71qL2Vrs/zcDezjJgVMid9Sa4pCmrl0EEYoFeGispQp7IzEBnN384rMZIxKAeWCpEv+vVYmKSpP+FQpSrOrwiHpRHgK8xrxr0xROSPk5tNox52iawoCpOrAYFDBUK3GBO31YAeX6TznuCb2aPCNgmb2Lntt2jA8Zl0gkuD8bhOe9vtp1TKhp5nfOR6EcSk5Bc1chf8btd2Zu+ceyHhSznXAKLCnZmJWhxwX1lLVv4PKTSg9XLBHQ8d3b0+3FUkDhAplzR1q2r/DbPC6ZS3XgI0SQjUohPHVmLQhni7wbKNn2mv9knWwL5ADk1e6yd74kkiL+AYGMnRuGYdHBdUn2IHmw==;pP8zJ0EQNnV3Vzqyq//cvw=="
 ---
