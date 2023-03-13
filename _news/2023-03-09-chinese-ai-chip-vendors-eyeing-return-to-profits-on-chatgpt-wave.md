@@ -41,6 +41,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Lifesaver or job killer? Why AI tools like ChatGPT are so polarizing."
+    excerpt: "As sectors ranging from education to health care to insurance to marketing consider how AI might reshape their businesses, a crescendo of hype has given rise to wild hopes and des"
+    publishedDateTime: 2023-03-12T15:19:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/03/12/chatgpt-bing-ai-benefits-harms-hype/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7TD22X4CJKT5F2JP7ZLFXMN3VM_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 915
+        isCached: true
 
 secured: "WFbFUbv/l2MzlzJ3/Z4b66cI8hs2hfitFIdQ+6nGg1djJZ6keoi36p5/BWFHrNjjLeLNO+EUwnw6Iw8JlnALUGiNFhJeNZyEOY2HHwwNH6ayEvFH/HoqvyxlG25CM7xs+klA28wBjnGAc3AFet8gGKTfyumDqBoViaYphz9KqY34ax8bjxg1EZD+iKURKRwc8Ud3zotusNuntLhCC9ncBtjrAvC0M2gOIdztCuEzh72KyYCdJUiL3uUdEwYatipXApdql//piTTuOdKLxdXOvg/wvsO5cLe2VqgX65CfRx1Eyr/CAKQ0y1uDd2el/ZRbq3viWK7GR+QxdPgmbsocDi5Dj6toLWFZWj5kldyimlrJupYR4sYu+IESLpJkz1GLgFJAxUxibR3T6aJkqjrLhz3rLoQ1LDcTFzsZ3hU/37Lk0ZXyxXH8pBkdaMeILaMHZeiAXS7XFKDXHZs4ShyjIVpfmmaoRudR2fRoeAnde19aPJkeH8oksSHFjPp/pPYDNFyqkMK8W31ciSKiuDVRRQ==;tik4CLGiH/z9p36DTfMAnQ=="
 ---

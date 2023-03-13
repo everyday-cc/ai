@@ -7,8 +7,8 @@ originalUrl: "https://www.texarkanagazette.com/news/2023/mar/11/from-marketing-t
 webUrl: "https://www.texarkanagazette.com/news/2023/mar/11/from-marketing-to-design-brands-adopt-ai-tools/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Texarkana Gazette
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "From marketing to design, brands adopt AI tools despite risk"
-    excerpt: "Mattel has put the AI image generator DALL-E to work by having it come up with ideas for new Hot Wheels toy cars. Used vehicle seller CarMax is summarizing thousands of customer reviews with the same “generative” AI technology that powers the popular chatbot ChatGPT."
-    publishedDateTime: 2023-03-08T14:01:00Z
-    webUrl: "https://www.chron.com/living/article/from-marketing-to-design-brands-adopt-ai-tools-17826340.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/31/64/21/23544924/6/rawImage.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
   - title: "From marketing to design, brands adopt AI tools despite risk"
     excerpt: "Even if you haven't tried artificial intelligence tools that can write essays and poems or conjure new images on command, chances are the companies that make your household products are already starting to do so."
     publishedDateTime: 2023-03-08T16:10:00Z

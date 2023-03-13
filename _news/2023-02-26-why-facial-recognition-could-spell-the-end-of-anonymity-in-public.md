@@ -3,8 +3,8 @@ category: news
 title: "Why facial recognition could spell the end of anonymity in public"
 excerpt: "CCTV doesn’t just recognise your face — it can even sense your emotions and predict crime. Even the country’s biometrics boss is worried"
 publishedDateTime: 2023-02-26T00:01:00Z
-originalUrl: "https://www.thetimes.co.uk/article/why-facial-recognition-could-spell-the-end-of-anonymity-in-public-m0ztqq2x8?shareToken=3a839244afe765943c0c7309d03255cb"
-webUrl: "https://www.thetimes.co.uk/article/why-facial-recognition-could-spell-the-end-of-anonymity-in-public-m0ztqq2x8?shareToken=3a839244afe765943c0c7309d03255cb"
+originalUrl: "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=8ae1042392b64b3e46c939ef38de3d3c"
+webUrl: "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=8ae1042392b64b3e46c939ef38de3d3c"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "tuupYdd2EOGXMIz3LTmSoRlZu3IsLve+On6wznZ7p+HWv/AOqIYR6VvhskCdeORhKmlRaFA7Qx6G/eETCD1nKwn2nO9R5pI0gH0hOIsoGaYRAITIIYSmHOAppNAdGNMgBu5WW0k4wPve3iu1zHv9GwtV1sFgKBGpWkXJjEobDSQC1O60yoXyH4wMr2JuUSQklnzZZTTrhjbfV+wDPt2Epk09JbTl5nQoV2RyZF4RG2DL5TUk+1EHD9GigU1Y0sY8MxSEzsqUKX8p5qnYSeK2kQ39FBNULUjiGOBlBwKjqfcB7L1s605AIpgw8ZGxkZiH3WFScUSKEyOszBbCJdKlH7NGuVNFP1LCsZwLZVl0YB0DFh+iDqDIpN05c2dxlbiI7zrnJZwtNTRJO9F35EG3xMht58sNPjXGOz4TmGrS67JqmfeSiLBHJBiLgBExX/uNyL+JidrFtaSyoD/stNmxzZns8aVns7Bxf2i4A+R423DaCMWgW3IRkcpqVydw/qznfdvaAyC6NcBnIXH263/65Q==;tNUr3Yz0TQVXeST75jLfMw=="
+secured: "Q9fjgV+LVBA6zB8Ezi3xSXYZqkjMDETjpDW9+ey741OBupfUSHleHoQoAwz6oqreM5CDIOkVGXWsLAGJsJLKuuyAaxqoXgzsM6X5hgDtQ7qrEupX52ZJGe10GF6DA2IXNmLvemOUDegDwdtKc8YDvyrst/ccDb+ThRF4oIyOi8dPUAnVfBSgosBgLVSz3RHaAntF4fpsFkGshWoYus127JAcgV3RTWnqitVIhkzpDDJxNOPh4uFemT6P3RkWCFbK8IfSX9GKkCqHJpMxwywTM+0/OsS2jAlVHBx8vMI6S4Xu9x7t0wpWXNNyGQOmz1NvAupIUEn3ksKcBpd+AUF6LERFTI6YTC+WwM1t46yYwa1VvMyNhhiZRvayijc+V2uZidpzI3rz0SEESht1BIyGEByPsSIwE6wfGCjYNNmeM7Hq4T8lS3rDcj9fYTHuszj1Cl90djl8K0KNvSDJgMR88hZNfoR65LclQGMvTNuTn8XdALwFy4xvCmK7mg/xaJRvBUk0veCMv3LjltBj35hjyw==;tOA4Xd3HkhgUOiAFaEg2Gw=="
 ---
 

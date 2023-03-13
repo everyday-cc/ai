@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgp
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true"
 type: article
 quality: 59
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20230308pd201_files/2_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Lifesaver or job killer? Why AI tools like ChatGPT are so polarizing."
+    excerpt: "As sectors ranging from education to health care to insurance to marketing consider how AI might reshape their businesses, a crescendo of hype has given rise to wild hopes and des"
+    publishedDateTime: 2023-03-12T15:19:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/03/12/chatgpt-bing-ai-benefits-harms-hype/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7TD22X4CJKT5F2JP7ZLFXMN3VM_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 915
         isCached: true
 
 secured: "L7+YuhttKt5LG3LP+ykmQPyGWBvZvwAsQvTUgOSMGkGj7u5+bolYojnH/wP6A/ciwhZnOhx3+dKWVVzmvKO9oQ+jEJZ94yFqp9mZ0yzo7oYJmv75cTFXiSvkm2x3m16F3vyjfnqbJEoW5CsOy4r1wb76W2jmm++ILAo84VN0FPk8oTAvNwLFG3/1vkX6qRICXljZZFXPy3FTmmLiao/vR3cf2Whnxf7y0Y54KWffQ44EnCyu8q/13KngxI6phlGobavEFUXtbXoawZhLL3NuhE5xHFeitGDJaWmsftgwrd+IyUCtZvNmcDXE3/UIOn3Id4HEsSpbL9RyfV6IQyDEnYMOhk321xzfGrS+Ne8uaN4=;zvfjGC5fxUvywTv+yGG7GQ=="
