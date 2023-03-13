@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-02-27-how-fintech-can-leverage-ai-to-protect-customers-from-fraud.md",
+      "title": "How fintech can leverage AI to protect customers from fraud",
+      "excerpt": "Biometric authentication- Fintech companies can also use AI to improve their ability to onboard customers. One way to do this is through biometric authentication, such as voice recognition, facial recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.html",
+      "originalUrl": "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/focus/economy/images/2023/2/27/fintech.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/focus/economy/2023/02/27/how-fintech-can-leverage-ai-to-protect-customers-from-fraud.amp.html",
+      "publishedDateTime": "2023-02-27T03:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-27-meta-launches-its-ai-the-llama-mark-zuckerberg-has-finally-something-better-than-the-metaverse.md",
       "title": "Meta Launches Its AI The ‘LLaMA’ ; Mark Zuckerberg Has Finally Something Better Than The Metaverse",
       "excerpt": "Amid a flurry of generative AI cluttering the interwebs, now Facebook’s parent Meta has dangled its ChatGPT rival carrot. Dubbed the Large Language Meta AI or LLaMA, the AI is positioned as a game changer by Meta.",
@@ -1156,40 +1199,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-26-why-facial-recognition-could-spell-the-end-of-anonymity-in-public.md",
-      "title": "Why facial recognition could spell the end of anonymity in public",
-      "excerpt": "CCTV doesn’t just recognise your face — it can even sense your emotions and predict crime. Even the country’s biometrics boss is worried",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=8ae1042392b64b3e46c939ef38de3d3c",
-      "originalUrl": "https://www.thetimes.co.uk/article/ca253b9a-b545-11ed-93c1-9f4b65bf4405?shareToken=8ae1042392b64b3e46c939ef38de3d3c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-25T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

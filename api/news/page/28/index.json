@@ -2,6 +2,59 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-02-10-microsofts-ai-powered-bing-can-now-write-cover-letters-and-it-shows-how-fast-the-technology-is-evolving.md",
+      "title": "Microsoft's AI-powered Bing can now write cover letters, and it shows how fast the technology is evolving",
+      "excerpt": "Microsoft's new AI-enabled Bing search engine has a new take on the ethics of helping job applicants write cover letters. Microsoft rolled out the souped-up Bing search engine on Tuesday. On Wednesday, I asked Bing to write a cover letter for the position ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-bing-ai-search-job-cover-letter-chatgpt-ethics-tech-2023-2",
+      "originalUrl": "https://www.businessinsider.com/microsoft-bing-ai-search-job-cover-letter-chatgpt-ethics-tech-2023-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63e475cd96242f0019e816ac?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/microsoft-bing-ai-search-job-cover-letter-chatgpt-ethics-tech-2023-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-bing-ai-search-job-cover-letter-chatgpt-ethics-tech-2023-2?amp",
+      "publishedDateTime": "2023-02-10T02:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-10-top-ai-startup-news-of-the-week-theres-more-to-ai-than-just-microsoft-and-google.md",
       "title": "Top AI startup news of the week: There’s more to AI than just Microsoft and Google",
       "excerpt": "There are those who might feel as though modern AI is some form of magic. While that’s not the technical truth, there is at least one startup that is hoping to bring a little magic to the world ...",
@@ -1087,49 +1140,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-ticked-off-self-driving-cars.md",
-      "title": "Ticked off! @self-driving cars",
-      "excerpt": "I am ticked off that even the school buses speed on North Econ Trail between Watermill and University Boulevard. Not to single him out because there are many others; but there is a motorcyclist who comes through there at least 50 miles an hour in the 25 mile an hour zone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandosentinel.com/opinion/os-op-ticked-off-021023-20230209-xzklr67b2rgovo7asjvfufv5ai-story.html",
-      "originalUrl": "https://www.orlandosentinel.com/opinion/os-op-ticked-off-021023-20230209-xzklr67b2rgovo7asjvfufv5ai-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandosentinel.com/resizer/BrBidJCJU-VBedIKYn2IQSt-D3w=/1200x630/filters:format(jpg):quality(70):focal(734x361:744x371)/cloudfront-us-east-1.images.arcpublishing.com/tronc/UHRITRDPRMCIVH67CT3PRX3O34.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando Sentinel",
-        "domain": "orlandosentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

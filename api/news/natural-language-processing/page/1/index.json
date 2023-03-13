@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-11-can-ai-tools-like-chatgpt-replace-computer-programmers.md",
-      "title": "Can AI Tools Like ChatGPT Replace Computer Programmers?",
-      "excerpt": "Despite the fast-evolving capabilities of AI chatbots to write code as well as human language, many computer science educators see significant limits for these tools in accuracy, security and copyright infringement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/42ae3da/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe0%2F58%2Fcd33f8254f75a3ad8525609a2513%2Fcomputer-programmers.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true",
-      "publishedDateTime": "2023-03-10T16:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-10-the-search-for-simpler-analytics.md",
       "title": "The ‘Search’ For Simpler Analytics",
       "excerpt": "Given that “set” refers to a type of yoghurt, a list of numbers, a race start call , something the sun does, some dishes, putting an object down, a television studio & a place where badgers live - you can see why we need large language models to define the relationships between one word & another.",
@@ -105,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -295,58 +252,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-09-voice-chat-is-the-worst-for-toxicity-but-23-of-gamers-never-report-it-speechly.md",
-      "title": "Voice chat is the worst for toxicity, but 2/3 of gamers never report it | Speechly",
-      "excerpt": "Voice chat is the preferred way to communicate in social games, but it's also the most toxic medium, based on a survey by Speechly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/voice-chat-is-the-worst-for-toxicity-but-2-3-of-gamers-never-report-it-speechly/",
-      "originalUrl": "https://venturebeat.com/games/voice-chat-is-the-worst-for-toxicity-but-2-3-of-gamers-never-report-it-speechly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/speech-VB_Toxic-Behavior-by-Game-Engagement-Channel.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/voice-chat-is-the-worst-for-toxicity-but-2-3-of-gamers-never-report-it-speechly/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/voice-chat-is-the-worst-for-toxicity-but-2-3-of-gamers-never-report-it-speechly/amp/",
-      "publishedDateTime": "2023-03-08T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1463,6 +1368,93 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-can-ai-be-great-equaliser-for-equity-in-education.md",
+      "title": "‘Can AI be great equaliser for equity in education?’",
+      "excerpt": "\"A glimpse of the future shows us AI software being used for generating 3D videos to assist in explaining complex ideas or processes, software for self-paced learning, and real-time speech-to-speech translation that can bridge language barriers in ...",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education",
+      "originalUrl": "https://tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/1501987-hackingcyberthreatreuters-1504945967/1501987-hackingcyberthreatreuters-1504945967.jpg",
+          "width": 1024,
+          "height": 717,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2403332/can-ai-be-great-equaliser-for-equity-in-education?amp=1",
+      "publishedDateTime": "2023-02-25T20:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-02-26-meta-brings-ai-chatbot-with-own-large-language-model-for-researchers.md",
+      "title": "Meta brings AI chatbot with own large language model for researchers",
+      "excerpt": "Smaller, more performant models such as LLaMA enable others in the research community who don't have access to large amounts of infrastructure to study these models, further democratising access in this important,",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
+      "originalUrl": "https://www.indiatvnews.com/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/02/meta-1677317836.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/meta-brings-ai-chatbot-with-own-large-language-model-for-researchers-2023-02-25-850216",
+      "publishedDateTime": "2023-02-25T18:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-13-cloud-wars-azure-vs-aws-vs-gcp.md",
+      "title": "Cloud Wars: Azure vs AWS vs GCP",
+      "excerpt": "Azure vs AWS vs GCP\" blog post, we compared three of the most popular cloud providers: Azure, AWS, and GCP. We discussed their performance, pricing, and security features. All three cloud providers offer fast processing speeds and low latency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_03_2023_10_54_23_9691327.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp?amp",
+      "publishedDateTime": "2023-03-12T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-real-time-fraud-detection-using-aws-serverless-and-machine-learning-services.md",
       "title": "Real-time fraud detection using AWS serverless and machine learning services",
       "excerpt": "Online fraud has a widespread impact on businesses and requires an effective end-to-end strategy to detect and prevent new account fraud and account takeovers, and stop suspicious payment transactions. In this post, we show a serverless approach to detect online transaction fraud in near-real time. We",
@@ -1430,50 +1474,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.md",
-      "title": "Revving up talent: Globe, AWS collaborate on Inter-University DeepRacer League",
-      "excerpt": "Leading digital solutions platform Globe recently collaborated with Amazon Web Services (AWS) to host the inter-university AWS DeepRacer League for",
-      "sourceUrl": null,
-      "webUrl": "https://manilastandard.net/tech/314305880/revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.html",
-      "originalUrl": "https://manilastandard.net/tech/314305880/revving-up-talent-globe-aws-collaborate-on-inter-university-deepracer-league.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manilastandard.net/wp-content/uploads/2023/02/Photo-2.jpg",
-          "width": 850,
-          "height": 705,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T21:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilastandard",
-        "domain": "manilastandard.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

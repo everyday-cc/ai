@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-03-06-how-do-patients-feel-about-postoperative-cognitive-dysfunction.md",
+      "title": "How do patients feel about postoperative cognitive dysfunction?",
+      "excerpt": "Following a 2022 The Guardian article discussing cognitive changes that can arise after surgery, 84 comments were submitted and published online. More recently, researchers performed qualitative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230305/How-do-patients-feel-about-postoperative-cognitive-dysfunction.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230305/How-do-patients-feel-about-postoperative-cognitive-dysfunction.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_740698_16780670480418117.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T00:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-the-minds-behind-voice-ai-technology.md",
       "title": "The minds behind voice AI technology",
       "excerpt": "Voice AI connects humans and machines through communication. It also paves the way for next-generation human-machine interaction. Despite the lack of widespread familiarity, voice AI is at the core of many technologies today, such as voicebots, chatbots ...",
@@ -1076,40 +1119,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-guide-to-artificial-intelligence-etfs.md",
-      "title": "Guide to Artificial Intelligence ETFs",
-      "excerpt": "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
-      "originalUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

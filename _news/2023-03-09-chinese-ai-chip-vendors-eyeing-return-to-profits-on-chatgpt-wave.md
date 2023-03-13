@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI Tools Like ChatGPT Replace Computer Programmers?"
-    excerpt: "Despite the fast-evolving capabilities of AI chatbots to write code as well as human language, many computer science educators see significant limits for these tools in accuracy, security and copyright infringement."
-    publishedDateTime: 2023-03-11T00:17:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers"
-    ampWebUrl: "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true"
+  - title: "Unleashing The Power Of AI: 14 More Mind-Blowing Tools Beyond ChatGPT"
+    excerpt: "This article introduces 14 AI tools that go beyond ChatGPT and can help revolutionize the way we work. The article aims to provide readers with an overview of the potential of AI and how it can transform our workflows."
+    publishedDateTime: 2023-03-13T06:46:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/amp/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/640ec6a319bd9fdfea7aa26f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Unleashing the Power of AI: Social Intelligence as the Next Frontier!"
+    excerpt: "New study states that although AI has revolutionized society, the next significant challenge is to develop Artificial Social Intelligence (ASI)."
+    publishedDateTime: 2023-03-11T18:28:00Z
+    webUrl: "https://www.medindia.net/news/unleashing-the-power-of-ai-social-intelligence-as-the-next-frontier-210856-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/unleashing-the-power-of-ai-social-intelligence-as-the-next-frontier-210856-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/unleashing-the-power-of-ai-social-intelligence-as-the-next-frontier-210856-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
     quality: 59
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/42ae3da/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe0%2F58%2Fcd33f8254f75a3ad8525609a2513%2Fcomputer-programmers.jpg"
-        width: 840
-        height: 438
+      - url: "https://www.medindia.net/health-images/metaverse-headsets-and-smart-devices.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Lifesaver or job killer? Why AI tools like ChatGPT are so polarizing."
     excerpt: "As sectors ranging from education to health care to insurance to marketing consider how AI might reshape their businesses, a crescendo of hype has given rise to wild hopes and des"
@@ -54,6 +70,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7TD22X4CJKT5F2JP7ZLFXMN3VM_size-normalized.jpg&w=1440"
         width: 1440
         height: 915
+        isCached: true
+  - title: "Facebook's version of ChatGPT leaks online, now being trained by 4Chan users"
+    excerpt: "Meta, the owner of Facebook, has developed a powerful language model ... only one week after Meta began vetting AI research applicants that requested access to the file. Almost immediately, the file was spread around various AI communities, sparking ..."
+    publishedDateTime: 2023-03-10T07:08:00Z
+    webUrl: "https://www.tweaktown.com/news/90686/facebooks-version-of-chatgpt-leaks-online-now-being-trained-by-4chan-users/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 36
+    images:
+      - url: "https://static.tweaktown.com/news/9/0/90686_25_facebooks-version-of-chatgpt-leaks-online.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "WFbFUbv/l2MzlzJ3/Z4b66cI8hs2hfitFIdQ+6nGg1djJZ6keoi36p5/BWFHrNjjLeLNO+EUwnw6Iw8JlnALUGiNFhJeNZyEOY2HHwwNH6ayEvFH/HoqvyxlG25CM7xs+klA28wBjnGAc3AFet8gGKTfyumDqBoViaYphz9KqY34ax8bjxg1EZD+iKURKRwc8Ud3zotusNuntLhCC9ncBtjrAvC0M2gOIdztCuEzh72KyYCdJUiL3uUdEwYatipXApdql//piTTuOdKLxdXOvg/wvsO5cLe2VqgX65CfRx1Eyr/CAKQ0y1uDd2el/ZRbq3viWK7GR+QxdPgmbsocDi5Dj6toLWFZWj5kldyimlrJupYR4sYu+IESLpJkz1GLgFJAxUxibR3T6aJkqjrLhz3rLoQ1LDcTFzsZ3hU/37Lk0ZXyxXH8pBkdaMeILaMHZeiAXS7XFKDXHZs4ShyjIVpfmmaoRudR2fRoeAnde19aPJkeH8oksSHFjPp/pPYDNFyqkMK8W31ciSKiuDVRRQ==;tik4CLGiH/z9p36DTfMAnQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/image-recognition-in-ret
 webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-the-growing-trend-2029-2023-03-09"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Speech and Voice Recognition Market 2023-A Detailed Analysis till 2028"
+    excerpt: "Speech and Voice Recognition Market Size 2023-2028 | New Report (109 Pages) | In This Reports Speech and Voice"
+    publishedDateTime: 2023-03-13T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-2023-a-detailed-analysis-till-2028-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Technology Market 2023 Structure Along With Size, Trends, Revenue, Market segments, Forecast to 2029"
     excerpt: "Speech and Voice Recognition Technology Market Size 2023-2029 | New Report (116 Pages) | Analytics | In This Reports"
     publishedDateTime: 2023-03-09T03:53:00Z

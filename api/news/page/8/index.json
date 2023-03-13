@@ -2,6 +2,59 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-02-teslas-optimus-robot-can-walk-now-and-thats-just-the-start.md",
+      "title": "Tesla's Optimus Robot Can Walk Now, And That's Just The Start",
+      "excerpt": "but a human in a robot costume demonstrating what Tesla believed it could build. Fast forward to Tesla's 2022 AI Day, and Tesla's \"rough development\" robot was actually made of metal, plastic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1215063/teslas-optimus-robot-can-walk-now-and-thats-just-the-start/",
+      "originalUrl": "https://www.slashgear.com/1215063/teslas-optimus-robot-can-walk-now-and-thats-just-the-start/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/teslas-optimus-robot-can-walk-now-and-thats-just-the-start/l-intro-1677717157.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T22:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-healthcare-natural-language-processing-nlp-market-size-to-reach-at-extensive-growth-by-2026.md",
       "title": "Healthcare Natural Language Processing (NLP) Market Size To Reach at Extensive Growth by 2026",
       "excerpt": "The Report, Titled Global and China Healthcare Natural Language Processing (NLP) Market Size, Status and Forecast",
@@ -234,15 +287,15 @@
       "title": "How will artificial intelligence reshape our world? | The Ethical Life podcast",
       "excerpt": "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other.",
       "sourceUrl": null,
-      "webUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
-      "originalUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
+      "webUrl": "https://billingsgazette.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_62856cef-3de5-59a7-a64a-d8476bb31bb2.html",
+      "originalUrl": "https://billingsgazette.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_62856cef-3de5-59a7-a64a-d8476bb31bb2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/4/f0/4f0cd688-a294-5d1b-aad8-c741806100e4/63ff740138a57.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/6/28/62856cef-3de5-59a7-a64a-d8476bb31bb2/63ff73fa04666.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
           "width": 1196,
           "height": 628,
           "title": null,
@@ -257,8 +310,8 @@
       "publishedDateTime": "2023-03-01T15:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Casper Star-Tribune",
-        "domain": "trib.com",
+        "name": "Billings Gazette",
+        "domain": "billingsgazette.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1152,58 +1205,6 @@
         "AI",
         "AI in Marketing",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you.md",
-      "title": "Ketamine-Assisted Therapy Coming Soon To An HR Department Near You",
-      "excerpt": "The controversial medication Ketamine is the only legal psychedelic medicine becoming more popular to treat mental health, and it's finding it's way into the workplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/",
-      "originalUrl": "https://www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e638794656f9a9c2f721e5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanrobinson/2023/03/01/ketamine-assisted-therapy-coming-soon-to-an-hr-department-near-you/amp/",
-      "publishedDateTime": "2023-03-01T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

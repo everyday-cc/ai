@@ -2,6 +2,59 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-01-26-can-you-flirt-better-than-artificial-intelligence.md",
+      "title": "Can You Flirt Better Than Artificial Intelligence?",
+      "excerpt": "Chatting on dating apps is awkward. With new AI-driven apps, entrepreneurs are looking to cut the small talk and get more people on actual dates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-dating-apps-chatbot-11674740164",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-704289/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-26T04:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-01-26-orboanywhere-version-50-released-with-orbnet-ai-free-read.md",
       "title": "OrboAnywhere Version 5.0 Released With OrbNet AI Free Read",
       "excerpt": "BURLINGTON, Mass. / ACCESSWIRE /6, 2023 / OrboGraph, a premier supplier of check processing automation and fraud detection software and services, announced the release of OrboAnywhere Version 5.0 to business partners in December 2022.",
@@ -1081,59 +1134,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-federated-learning-key-to-securing-ai.md",
-      "title": "Federated learning key to securing AI",
-      "excerpt": "Federated learning can elevate AI. By securing model training, it unlocks a myriad of use cases that can change the world as we know it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
-      "originalUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846-e1648671402902.jpg?w=1200&strip=all",
-          "width": 1199,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/federated-learning-key-to-securing-ai/amp/",
-      "publishedDateTime": "2023-01-25T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

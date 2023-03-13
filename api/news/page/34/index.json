@@ -2,6 +2,40 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-02-07-now-ai-can-talk-the-frenzy-continues-with-news-from-soundhound-and-microsoft.md",
+      "title": "Now AI Can Talk? The Frenzy Continues With News From SoundHound and Microsoft.",
+      "excerpt": "Stocks in the field of artificial intelligence have been red-hot since the start-up Open AI launched the chatbot ChatGPT in November.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/ai-chatgpt-microsoft-open-ai-soundhound-51675777033",
+      "originalUrl": "https://www.barrons.com/articles/ai-chatgpt-microsoft-open-ai-soundhound-51675777033",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-the-history-and-evolution-of-the-fintech-industry.md",
       "title": "The history and evolution of the fintech industry",
       "excerpt": "Explore the history and evolution of the fintech industry, from its beginnings in the late 1990s and early 2000s to the present day.",
@@ -900,58 +934,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-stmicro-leans-on-ai-cloud-as-chip-designs-become-more-complex.md",
-      "title": "STMicro leans on AI, cloud as chip designs become more complex",
-      "excerpt": "The company is one of a several that are using AI to help design chips, which involves translating a complicated circuit architecture into a blueprint for fabricating billions of transistors on a small piece of silicon. Synopsys, the maker of the AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/stmicro-leans-ai-cloud-chip-designs-become-more-complex-2023-02-07/",
-      "originalUrl": "https://www.reuters.com/technology/stmicro-leans-ai-cloud-chip-designs-become-more-complex-2023-02-07/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/f5bGAua9t9HeQjQJO2SfjJqNKX8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OQ3DURFSHNMQ5GH7L6M2UNVASA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

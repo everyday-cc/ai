@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-03-04-guide-to-artificial-intelligence-etfs.md",
+      "title": "Guide to Artificial Intelligence ETFs",
+      "excerpt": "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
+      "originalUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-03T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-04-the-top-us-consumer-watchdog-is-worried-youre-going-to-fall-for-ai-scams-or-overblown-marketing-hype.md",
       "title": "The top US consumer watchdog is worried you're going to fall for AI scams or overblown marketing hype",
       "excerpt": "The FTC is checking the AI claims of tech companies and investors and concerned about AI-powered fraud.",
@@ -1160,57 +1194,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3.md",
-      "title": "Adobe’s Scott Belsky talks generative AI — and why it’s not going to end up like web3",
-      "excerpt": "Adobe's Scott Belsky says that generative AI is nothing like web3 hype because it helps increase efficiency and reduce work for creatives.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/",
-      "originalUrl": "https://techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1294781336.jpg?resize=1200,601",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/adobes-scott-belsky-talks-generative-ai-and-why-its-not-going-to-end-up-like-web3/amp/",
-      "publishedDateTime": "2023-03-02T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Uncovering Hidden Opportunities in the Computer Vision Development Market (2023-2029)"
+    excerpt: "Computer Vision Development Market Size 2023-2029 | New Report (115 Pages) | Analytics | In This Reports Computer"
+    publishedDateTime: 2023-03-13T04:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jE3oq8dF8sTekmUwGyvaFW5Z00Jc5t4MP9iMTqrSTn/pr/5a2/Sj75/M/Z+sfQxK18wwpdkdy/nXjIsXRa31LQDtJgzjn3sqzip7KrOrlTtoaSOXz7RJHIruAZBn3XKtXyE4AnzVVzPqBhQ9S/onc38RynbTBBdGLWLTfV/KqbL87HuHStt7TVnHJPL7yPwtnQDm1SjGerlmSsMfe3IWyKd9RP906fkZFRdFMoT4pMsH8aBy5lPDAjySgLeyjeaQyZdAkQ+lGfJkKmyP4MYcNRi6AD+G9SWWX5kIy/iowFRwfUFedvH3ohQ4uOzVBHwmpP2FmlEiLoHqns5fWUzuLkRNoyWG8p2Fb3vvkemqIgo=;8NUmlN0y2am59BfLL+reZw=="
 ---

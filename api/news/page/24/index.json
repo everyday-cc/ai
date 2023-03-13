@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-02-15-why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance.md",
+      "title": "Why Colorado draft AI insurance rules are a “major leap forward” for AI governance",
+      "excerpt": "Colorado's draft rules for life insurance companies using AI for coverage decisions are game-changing, says Debevoise & Plimpton's Avi Gesser.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/",
+      "originalUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Untitled-design-16.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-colorado-draft-ai-insurance-rules-are-a-major-leap-forward-for-ai-governance/amp/",
+      "publishedDateTime": "2023-02-14T15:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-15-vormor-innovation-emerges-as-a-leader-in-ai-based-translation-technology.md",
       "title": "VORMOR Innovation emerges as a Leader in AI-based Translation Technology",
       "excerpt": "the company has grown into a well-known enterprise with a range of innovative AI-powered language services, including a variety of speech recognition, speech synthesis, language translation ...",
@@ -1095,40 +1147,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-14-new-ai-tool-guides-users-away-from-incendiary-language.md",
-      "title": "New AI tool guides users away from incendiary language",
-      "excerpt": "To help identify when tense online debates are inching toward irredeemable meltdown, Cornell University researchers have developed an artificial intelligence tool that can track these conversations in real-time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/979744",
-      "originalUrl": "https://www.eurekalert.org/news-releases/979744",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

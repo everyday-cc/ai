@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-tomahawk-robotics-adds-kxm-the-mic
 webUrl: "https://www.tmcnet.com/usubmit/-tomahawk-robotics-adds-kxm-the-microsoft-azure-marketplace-/2023/03/09/9774538.htm"
 type: article
 quality: 86
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/09/image/jpeg/25td9ood33U5ffQri93Hz9IIy59Bcm2NYgqIPG7w.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Microsoft announces new open source Azure AI tools"
-    excerpt: "In its commitment to Open Source Technology Microsoft has announced a handful of tools on Azure AI to make building more intelligent apps both easier and more"
-    publishedDateTime: 2023-03-08T14:35:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-announces-new-open-source-azure-ai-tools/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 69
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2021/05/Azure-AI.png"
-        width: 1024
-        height: 768
         isCached: true
   - title: "The Instabase Platform Now Available in Microsoft Azure Marketplace"
     excerpt: "Instabase, a leader in applied AI for the enterprise, has announced the availability of its platform in the Microsoft"

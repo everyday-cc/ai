@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-02-25-should-more-companies-deploy-large-language-models-as-a-customer-service-tool.md",
+      "title": "Should More Companies Deploy Large Language Models as a Customer Service Tool?",
+      "excerpt": "Companies are automating and anticipating customer needs using generative AI, opening the door for businesses to deploy large language models as a customer service tool.",
+      "sourceUrl": null,
+      "webUrl": "https://marketscale.com/industries/software-and-technology/should-more-companies-deploy-large-language-models-as-a-customer-service-tool/",
+      "originalUrl": "https://marketscale.com/industries/software-and-technology/should-more-companies-deploy-large-language-models-as-a-customer-service-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://marketscale.com/wp-content/uploads/2023/02/shutterstock_2264320769-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-24T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "marketscale",
+        "domain": "marketscale.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-using-the-power-of-ai-new-open-source-tool-simplifies-animal-behavior-analysis.md",
       "title": "Using the power of AI, new open-source tool simplifies animal behavior analysis",
       "excerpt": "A team from the University of Michigan has developed a new software tool to help researchers across the life sciences more efficiently analyze animal behaviors.",
@@ -1127,49 +1170,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-3-reasons-why-natural-language-processing-will-go-mainstream-this-year.md",
-      "title": "3 reasons Why Natural Language Processing Will go Mainstream This Year",
-      "excerpt": "Natural language processing (NLP) is the ability of computers to understand human speech terms and written text. Within healthcare, the adoption of NLP is now rising because of its recognized ...",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2023/02/3-reasons-why-natural-language-processing-will-go-mainstream-this-year/",
-      "originalUrl": "https://medcitynews.com/2023/02/3-reasons-why-natural-language-processing-will-go-mainstream-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2021/04/GettyImages-1305028662-scaled.jpg",
-          "width": 2560,
-          "height": 1072,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-23T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

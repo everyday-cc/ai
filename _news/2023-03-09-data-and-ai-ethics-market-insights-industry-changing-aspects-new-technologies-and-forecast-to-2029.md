@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Voice Market Application, Product, Sales and Forecast 2023-2028"
+    excerpt: "The \"Artificial Intelligence Voice Market\" Study Describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-13T05:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-voice-market-application-product-sales-and-forecast-2023-2028-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Chip for Data Centers Market Size and Growing Demand 2023 Latest Research by Top Regions till 2029"
     excerpt: "Global “AI Chip for Data Centers Market” [Latest Research Report 111 Pages] 2023 is a vital resource for business of"
     publishedDateTime: 2023-03-09T10:58:00Z

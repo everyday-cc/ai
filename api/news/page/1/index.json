@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-13-an-ai-start-up-boomed-but-now-it-faces-a-slowing-economy-and-new-rules.md",
+      "title": "An A.I. Start-Up Boomed, but Now It Faces a Slowing Economy and New Rules",
+      "excerpt": "Eightfold AI, grew cautiously in its first few years. But it hit the accelerator after it raised $220 million in 2021, the pandemic boom year for venture investment, bringing the company’s funding to more than $400 million. The Silicon Valley start-up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/10/multimedia/00ai-hr-01-jlqw/00ai-hr-01-jlqw-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+          "width": 600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/13/business/ai-hiring-jobs.amp.html",
+      "publishedDateTime": "2023-03-13T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt.md",
+      "title": "Unleashing The Power Of AI: 14 More Mind-Blowing Tools Beyond ChatGPT",
+      "excerpt": "This article introduces 14 AI tools that go beyond ChatGPT and can help revolutionize the way we work. The article aims to provide readers with an overview of the potential of AI and how it can transform our workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640ec6a319bd9fdfea7aa26f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/amp/",
+      "publishedDateTime": "2023-03-12T23:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-cloud-wars-azure-vs-aws-vs-gcp.md",
+      "title": "Cloud Wars: Azure vs AWS vs GCP",
+      "excerpt": "Azure vs AWS vs GCP\" blog post, we compared three of the most popular cloud providers: Azure, AWS, and GCP. We discussed their performance, pricing, and security features. All three cloud providers offer fast processing speeds and low latency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_03_2023_10_54_23_9691327.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp?amp",
+      "publishedDateTime": "2023-03-12T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-civil-servants-being-trained-in-artificial-intelligence-jitendra-singh.md",
       "title": "Civil servants being trained in artificial intelligence: Jitendra Singh",
       "excerpt": "Civil service officers are now being trained in artificial intelligence tools and data analytics for effective performance in the current administrative context, union minister Jitendra Singh said. Under mission karmayogi,",
@@ -490,49 +636,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-11-can-ai-tools-like-chatgpt-replace-computer-programmers.md",
-      "title": "Can AI Tools Like ChatGPT Replace Computer Programmers?",
-      "excerpt": "Despite the fast-evolving capabilities of AI chatbots to write code as well as human language, many computer science educators see significant limits for these tools in accuracy, security and copyright infringement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/42ae3da/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe0%2F58%2Fcd33f8254f75a3ad8525609a2513%2Fcomputer-programmers.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true",
-      "publishedDateTime": "2023-03-10T16:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1096,7 +1199,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-latest-report-is-thriving-worldwide-by-2029-2023-03-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1136,110 +1239,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom.md",
-      "title": "The Top 4 Examples Of How ChatGPT Can Be Used In Telecom",
-      "excerpt": "Are you curious about how ChatGPT is revolutionizing the telecom sector? Check out this list of top 4 examples, including customer support, network optimization, and fraud detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640adc9a03926496c67aa269/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/10/the-top-4-examples-of-how-chatgpt-can-be-used-in-telecom/amp/",
-      "publishedDateTime": "2023-03-09T22:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-data-and-ai-ethics-market-environment-development-trend-in-2023.md",
-      "title": "Data and AI Ethics Market Environment Development Trend In 2023",
-      "excerpt": "Data and AI Ethics Market 2023 with 110 Pages Report and enhance with extents shares into sub-counties are covered in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-environment-development-trend-in-2023-2023-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-environment-development-trend-in-2023-2023-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-09T18:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

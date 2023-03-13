@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/games/voice-chat-is-the-worst-for-toxicity-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/voice-chat-is-the-worst-for-toxicity-but-2-3-of-gamers-never-report-it-speechly/amp/"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: VentureBeat
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Gamers Say They Love Voice Chat, But 49% Have Been Victims of Toxic Behavior -- New Report"
-    excerpt: "A survey of a nationally representative sample of more than 1,000 U.S. gamers found that nearly 70% have used voice chat while gaming. Nearly half of all gamers and 72% of voice chat users reported ex"
-    publishedDateTime: 2023-03-08T15:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31260981/gamers-say-they-love-voice-chat-but-49-have-been-victims-of-toxic-behavior-new-report"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "LchOt5R+b6bL5CNNueeBSDXsG043mBDFPL0yy0GwmNN0njVQsoHuGlC+sE0XrUfkZobcr7HbEuxBbSStqo3d8LSQvA/YXucUy4QAug+9QwCbGNY6LPXeaKTi5auH2wXt+I69qs9UJngImX4+g9xmyH6x35t6Lkxa/dhA7lVfqIjBMESOc9wEW1uZUR0yJOAuf/s63qXAK9JQmbfkswG+U7etPDvEQgbdS60qE0I0igD2L/1Bjv2TXx18gWjNEw5epCo623852832QZDwbCkqlUTjcCQxzU0YQTfFZjeoox2+AWX98o5bhL09Z6AEFDfSR4rErxVjAAph6GqEIsczhGdI35ZI28JU2pd18ZTBdFSgCGH8t5RTNwdr/ac7H7TBtoZcNHKC/4fJ2Zo6FzA3fDsx+zjW+T+JBKVa23v5AJQJirwaukcx/KtrPAQkKyp2QSaW/+p/ovsYQoQv7VguGlQnB87HoO9XIqdioKEy9mdNMbtOk94EbDydBIkUw1MQ/izPHxEOYtKmcI3IRDZthA==;GYyH64IAB3mJzpg4kTM6hg=="
 ---

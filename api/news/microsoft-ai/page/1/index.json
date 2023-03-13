@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-13-cloud-wars-azure-vs-aws-vs-gcp.md",
+      "title": "Cloud Wars: Azure vs AWS vs GCP",
+      "excerpt": "Azure vs AWS vs GCP\" blog post, we compared three of the most popular cloud providers: Azure, AWS, and GCP. We discussed their performance, pricing, and security features. All three cloud providers offer fast processing speeds and low latency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_03_2023_10_54_23_9691327.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp?amp",
+      "publishedDateTime": "2023-03-12T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-ai-first-infrastructure-the-key-to-faster-time-to-market.md",
       "title": "AI-first infrastructure: The key to faster time to market",
       "excerpt": "Purpose-built cloud infrastructure is the best way to quickly and economically grow AI at scale to create business value and growth.",
@@ -114,7 +158,7 @@
       "originalUrl": "https://www.tmcnet.com/usubmit/-tomahawk-robotics-adds-kxm-the-microsoft-azure-marketplace-/2023/03/09/9774538.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -1303,58 +1347,6 @@
         "name": "McKnight's Long-Term Care News",
         "domain": "mcknights.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-public-cloud-providers-at-mwc-23-lure-telecommunication-companies.md",
-      "title": "Public Cloud Providers At MWC 23 Lure Telecommunication Companies",
-      "excerpt": "As communication service providers modernize their stack by moving to container network functions (CNF),hyperscalers compete to offer end-to-end platforms based on Kubernetes and converged infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/27/public-cloud-providers-at-mwc-23-lure-telecommunication-companies/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/27/public-cloud-providers-at-mwc-23-lure-telecommunication-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fca531dba55a3c4b147637/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/02/27/public-cloud-providers-at-mwc-23-lure-telecommunication-companies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/02/27/public-cloud-providers-at-mwc-23-lure-telecommunication-companies/amp/",
-      "publishedDateTime": "2023-02-27T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

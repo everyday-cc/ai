@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Speech and Voice Recognition Market 2023-A Detailed Analysis till 2028"
+    excerpt: "Speech and Voice Recognition Market Size 2023-2028 | New Report (109 Pages) | In This Reports Speech and Voice"
+    publishedDateTime: 2023-03-13T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-2023-a-detailed-analysis-till-2028-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sa2rJo2aISEP490D4SjtATy6CEiC4sXXsd0VJy9djWV/dkz1E573vB3zbWHpCiHzNxkgBYysPuu94WQL4+EhWLr95+Kd9z66MudzFuDv223N5PCfZsNe+3PMv9mwCivrcJtE8uUbefXDMwnTj/pfwJDAmKQU0sQm8JAVDRYAzjc7YanVjFObK6swIqN1XPuM/RF8kCknZ0vbzJ7KbsQWOhnK9GmncwgV6RGXrJ4EH3cu8i51d5e/ogaACWng3cOp818lvwX+jUkzrFupFXFVf6N+LkBg4bYYCpmb8EG3iELV7vIe86l6EM5kLueiEQfYZeLsAF625G5LvIVa7+4E45QbPBkj8s3e4iNVXH7EuJg=;F3aLGBIdpoayj5MdzCJ7RA=="
 ---

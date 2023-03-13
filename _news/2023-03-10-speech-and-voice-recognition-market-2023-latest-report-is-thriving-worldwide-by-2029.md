@@ -99,6 +99,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Natural Language Processing Market (New Report) to Observe An Articulate Development During 2023-2029"
+    excerpt: "Cloud Natural Language Processing Market Size 2023-2029 | New Report (126 Pages) | Analytics | In This Reports"
+    publishedDateTime: 2023-03-13T04:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-new-report-to-observe-an-articulate-development-during-2023-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Law Market is Booming Worldwide to Show Significant Growth over the Forecast 2023 to 2028"
+    excerpt: "Artificial Intelligence in Law Market Size 2023-2028 | New Report (112 Pages) | In This Reports Artificial Intelligence"
+    publishedDateTime: 2023-03-13T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-is-booming-worldwide-to-show-significant-growth-over-the-forecast-2023-to-2028-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2023-2029 Deep Learning System Market Size and Regional Analysis | Research Report by Absolute Reports"
     excerpt: "Mar 09, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Deep Learning System Market\""
     publishedDateTime: 2023-03-09T05:47:00Z
