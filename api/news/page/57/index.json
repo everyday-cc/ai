@@ -2,6 +2,58 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-01-25-welcome-back-mr-bond-we-follow-you-on-instagram.md",
+      "title": "Welcome Back, Mr. Bond: We Follow You On Instagram",
+      "excerpt": "The James Bond era is over. It's no fun being a spy these days, what with social media, biometrics and open-source intelligence. But it does give me a business",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidbirch/2023/01/25/welcome-back-mr-bond-we-follow-you-on-instagram/",
+      "originalUrl": "https://www.forbes.com/sites/davidbirch/2023/01/25/welcome-back-mr-bond-we-follow-you-on-instagram/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63d116747a6c1a8e98922d82/0x0.jpg?format=jpg&crop=2830,1591,x0,y50,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidbirch/2023/01/25/welcome-back-mr-bond-we-follow-you-on-instagram/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2023/01/25/welcome-back-mr-bond-we-follow-you-on-instagram/amp/",
+      "publishedDateTime": "2023-01-25T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-meet-the-ukrainian-startup-using-ai-to-address-healthcare-emergencies.md",
       "title": "Meet The Ukrainian Startup Using AI To Address Healthcare Emergencies",
       "excerpt": "A Ukrainian startup is one of a handful of companies in the world using AI to detect a growing complication caused by diabetes.",
@@ -1090,59 +1142,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-24-artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.md",
-      "title": "Artificial intelligence chatbot passes elite business school exam, outperforms some Ivy League students",
-      "excerpt": "Chat GPT3, an artificial intelligence bot, outperformed some Ivy League students at the University of Pennsylvania's Wharton School of Business on a final exam. In a paper titled \"Would Chat GPT3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
-      "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/340/340/02da0c03-IMG-6014.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-chatbot-passes-elite-business-school-exam-outperforms-some-ivy-league-students.amp",
-      "publishedDateTime": "2023-01-24T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

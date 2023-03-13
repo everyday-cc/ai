@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-02-21-roger-c-schank-theorist-of-artificial-intelligence-dies-at-76.md",
+      "title": "Roger C. Schank, Theorist of Artificial Intelligence, Dies at 76",
+      "excerpt": "By Steve Lohr Roger C. Schank, a scientist who made influential contributions to the field of artificial intelligence and then, as an academic, author and entrepreneur, focused on how people learn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
+      "originalUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/17Schank-czhl-print1/17Schank-czhl-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/02/20/technology/roger-c-schank-dead.amp.html",
+      "publishedDateTime": "2023-02-20T14:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-21-artificial-intelligence-opens-new-possibilities-if-the-data-allows.md",
       "title": "Artificial Intelligence Opens New Possibilities, If The Data Allows",
       "excerpt": "It's the result of the data behind it. Can artificial intelligence make us more creative and innovative? It’s a subject of hot debate and discussion. A recent analysis out of the Gottlieb Duttweiler Institute suggests that,",
@@ -1205,57 +1257,6 @@
         "AI",
         "AI Ethics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-man-beats-machine-at-go-in-human-victory-over-ai.md",
-      "title": "Man beats machine at Go in human victory over AI",
-      "excerpt": "A human player has comprehensively defeated a top-ranked AI system at the board game Go, in a surprise reversal of the 2016 computer victory that was seen as a milestone in the rise of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/02/man-beats-machine-at-go-in-human-victory-over-ai/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/02/man-beats-machine-at-go-in-human-victory-over-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/61643-go-640x360.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/02/man-beats-machine-at-go-in-human-victory-over-ai/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/man-beats-machine-at-go-in-human-victory-over-ai/amp/",
-      "publishedDateTime": "2023-02-19T04:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

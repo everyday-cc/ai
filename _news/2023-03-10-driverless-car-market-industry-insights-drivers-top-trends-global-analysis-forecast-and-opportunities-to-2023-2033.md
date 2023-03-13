@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size | Industry Report from 2023 - 2029"
+    excerpt: "Natural Language Processing For Healthcare And Life Sciences Market” information for each competitor includes |"
+    publishedDateTime: 2023-03-12T17:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-industry-report-from-2023---2029-2023-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Unlock the Secrets of the Jet Lag Therapy APP Market with Our Comprehensive Analysis and Forecast [2028]"
     excerpt: "GlobalJet Lag Therapy APP Market(2023-2028) Latest Research Report | Industry research report covers a brief overview"
     publishedDateTime: 2023-03-09T03:34:00Z

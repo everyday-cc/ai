@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "Machine Learning for Sustainable Development of Biomass"
+    excerpt: "Researchers at the Yale School of the Environment published a study “Machine learning for sustainable development and applications of biomass and biomass-derived carbonaceous materials in water ..."
+    publishedDateTime: 2023-03-10T00:42:00Z
+    webUrl: "https://www.genengnews.com/topics/bioprocessing/machine-learning-for-sustainable-development-of-biomass/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 54
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2023/03/GettyImages-127544264-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
 
 secured: "HwsXAo5/IlK5LY/0lBGfp9Alo4Y4Agu1GtIvZAZTyw7BRwSOZ62a/LVRXcD5NKrpGS6Dd4NIcBZ3YZ37NXudskMDP/LmtlH/1LRijSVvbJXXOPykqnFp9yix3to7JDhqKHjNP7LaW91ONOfyKwSJN8PIbyhPEUkCxIuXkIohrE2JOA05SAXloS+eKmGbmnnlU3H675pjqzoGeijOzUWH8Ml2BjdKjZQSZANPvjiCPY52fNczmqbpWShXNNbRZQA3p4ha11udezp99XXu65lARPCC99dLeD9194SskB1ZPNjX2VAyTctAgzqXdqauVnWHOGJcqgFdrRM8UIeUs5I3ADVQUqTwURytMtmo5XEsEsFuJUPMynzWPyzOC3m8/CQ7uc3XjfnkhiehPOhjS7XNiIaVLy/B3HvZRlO0soIf5swgpUk5X8cMUgBYpii/CxlrdK41m5kdTYeoVXSDTLwoj/XQ3LooqHFDTE92MWxzXa5vzwrWLHLMfEQBZqgQ77ZYcfxc3OthwpcgnTZdpWLqiw==;aH4tU33wEUY9hfVSWjaHlQ=="
 ---

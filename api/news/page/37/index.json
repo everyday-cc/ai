@@ -2,6 +2,49 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-02-06-create-powerful-self-service-experiences-with-amazon-lex-on-talkdesk-cx-cloud-contact-center.md",
+      "title": "Create powerful self-service experiences with Amazon Lex on Talkdesk CX Cloud contact center",
+      "excerpt": "This blog post is co-written with Bruno Mateus, Jonathan Diedrich and Crispim Tribuna at Talkdesk. Contact centers are using artificial intelligence (AI) and natural language processing (NLP) technologies to build a personalized customer experience and deliver effective self-service support through conversational",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-powerful-self-service-experiences-with-amazon-lex-on-talkdesk-cx-cloud-contact-center/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-powerful-self-service-experiences-with-amazon-lex-on-talkdesk-cx-cloud-contact-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T13:01:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-google-launching-its-own-artificial-intelligence-bot-known-as-bard.md",
       "title": "Google launching its own artificial intelligence bot, known as Bard",
       "excerpt": "Google is launching its own artificial intelligence bot known as Bard, a direct competitor to ChatGPT. In a blog post Monday, the California-based company says it will soon give a select number of trusted testers access to the artificial intelligence prototype it has been working on in some form for the last six years.",
@@ -867,40 +910,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-without-fear-of-retribution-ny-state-bar-forms-group-to-study-facial-recognition-blacklisting-of-lawyers-from-msg-radio-city.md",
-      "title": "'Without Fear of Retribution': NY State Bar Forms Group to Study Facial-Recognition Blacklisting of Lawyers From MSG, Radio City",
-      "excerpt": "The use of facial recognition software to exclude members of law firms from a Knicks basketball game or a Taylor Swift concert discriminates against lawyers for doing their jobs,” said Sherry Levin Wallach,",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/newyorklawjournal/2023/02/06/without-fear-of-retribution-ny-state-bar-forms-group-to-study-facial-recognition-blacklisting-of-lawyers-from-msg-radio-city/",
-      "originalUrl": "https://www.law.com/newyorklawjournal/2023/02/06/without-fear-of-retribution-ny-state-bar-forms-group-to-study-facial-recognition-blacklisting-of-lawyers-from-msg-radio-city/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

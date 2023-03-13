@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-size-and-forecast-till-2028-2023-03-09"
 type: article
 quality: 99
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -215,20 +215,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latest \"Artificial Intelligence (AI) in Fintech Market\" Industry Analysis from 2023 to 2028 Explored in Latest Research"
-    excerpt: "Report Highlights with 116 pages: -\"The global Artificial Intelligence (AI) in Fintech market size was valued at"
-    publishedDateTime: 2023-03-08T06:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-in-fintech-market-industry-analysis-from-2023-to-2028-explored-in-latest-research-2023-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

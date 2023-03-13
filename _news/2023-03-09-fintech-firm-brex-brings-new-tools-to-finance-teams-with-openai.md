@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/03/203368-fintech-firm-brex-br
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/03/203368-fintech-firm-brex-brings-new-tools-to-finance-teams-with-openai/amp/"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

@@ -2,6 +2,41 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-01-13-the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution.md",
+      "title": "The 3 Types of Artificial Intelligence and Top Companies Leading the AI Revolution",
+      "excerpt": "In this week’s World Reimagined, we will look at the rapidly evolving world of Artificial Intelligence (AI), some of its players, and what companies are poised to gain from a pivotal year where AI hits center stage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-3-types-of-artificial-intelligence-and-top-companies-leading-the-ai-revolution?amp",
+      "publishedDateTime": "2023-01-13T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-01-13-ai-isnt-hollywoods-villainits-a-flawed-hero.md",
       "title": "AI Isn’t Hollywood’s Villain—It’s a Flawed Hero",
       "excerpt": "Far from ushering in the death of cinema, AI can help film the “unfilmable\" and make cinema more collaborative.",
@@ -1115,58 +1150,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-13-datastax-acquires-machine-learning-services-firm-kaskada.md",
-      "title": "DataStax acquires machine learning services firm Kaskada",
-      "excerpt": "Seattle-based Kaskada claims to be the first company to train machines using event-based data and real-time data being fed from streaming sources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.html",
-      "originalUrl": "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/21/14/handshake_deal_partnership_teamwork_contract_merger_network_by_metamorworks_gettyimages-933315234_2400x1600-100788512-large-100922376-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3685412/datastax-acquires-machine-learning-services-firm-kaskada.amp.html",
-      "publishedDateTime": "2023-01-12T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-02-alphabets-self-driving-car-unit-has-cut-8-of-its-staff-this-year.md",
+      "title": "Alphabet’s self-driving car unit has cut 8% of its staff this year",
+      "excerpt": "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
+      "originalUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301160548-waymo-file-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
+      "publishedDateTime": "2023-03-01T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-nvidia-report-telco-transformation-requires-artificial-intelligence.md",
       "title": "NVIDIA Report: Telco Transformation Requires Artificial Intelligence",
       "excerpt": "The theme of the event is telco transformation – as it has been for some time. Clearly, the evolution of telcos is",
@@ -650,6 +702,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-01-alibaba-iqiyi-or-baidu-which-has-the-best-growth.md",
+      "title": "Alibaba, iQiyi, or Baidu: Which Has the Best Growth?",
+      "excerpt": "Ahead of Alibaba’s (BABA) strong quarterly results, the stock peaked at ~$120. It closed at $89.00 after strong results. Baidu (BIDU) mentioned artificial developments and rose, only to fall. iQiyi (IQ) traded close to a 52-week high after posting results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.baystreet.ca/articles/stockstowatch/85369/Alibaba-iQiyi-or-Baidu-Which-Has-the-Best-Growth",
+      "originalUrl": "https://www.baystreet.ca/articles/stockstowatch/85369/Alibaba-iQiyi-or-Baidu-Which-Has-the-Best-Growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.baystreet.ca/images/articlegroups/original/7/private/Alibaba.jpg",
+          "width": 845,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BayStreet",
+        "domain": "baystreet.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-01-deep-learning-for-safer-driving.md",
       "title": "Deep learning for safer driving",
       "excerpt": "CERN and software company Zenseact have completed a three-year project investigating the use of AI in autonomous vehicles.",
@@ -689,58 +784,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-alibaba-iqiyi-or-baidu-which-has-the-best-growth.md",
-      "title": "Alibaba, iQiyi, or Baidu: Which Has the Best Growth?",
-      "excerpt": "That represents almost half of its market capitalization. The margin of safety is large for BIDU stock. Baidu is developing self-driving and AI. It is the dominant search engine in China. iQiyi is a Chinese online video platform. It reported average daily ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T05:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1165,57 +1208,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-artificial-intelligence-ai-in-drug-discovery-market-2023-is-ready-for-breakout-rally-by-industry-share.md",
-      "title": "Artificial Intelligence (AI) in Drug Discovery Market 2023 is Ready for Breakout Rally by Industry Share",
-      "excerpt": "The recently published Artificial Intelligence (AI) in Drug Discovery Market Report, spanning across pages, provides",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-2023-is-ready-for-breakout-rally-by-industry-share-2023-03-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-2023-is-ready-for-breakout-rally-by-industry-share-2023-03-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

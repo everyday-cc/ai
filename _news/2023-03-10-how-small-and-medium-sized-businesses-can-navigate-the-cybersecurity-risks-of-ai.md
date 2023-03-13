@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-sm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "5 Ways in Which Machine Learning Improved Cybersecurity"
+    excerpt: "Here are some of the ways in which machine learning has contributed to cybersecurity: 1. Malware detection: Machine learning algorithms can analyze large volumes of data to identify patterns that are characteristic of malware. These patterns can then be ..."
+    publishedDateTime: 2023-03-08T23:53:00Z
+    webUrl: "https://www.hawaiibusiness.com/machine-learning-cybersecurity-hawaiian-telcom-event/"
+    type: article
+    provider:
+      name: Hawaii Business
+      domain: hawaiibusiness.com
+    quality: 39
+    images:
+      - url: "https://www.hawaiibusiness.com/content/uploads/2023/03/z/n/adobestock-230030937-scaled.jpeg"
+        width: 2560
+        height: 1163
         isCached: true
   - title: "Gurucul Named Most Innovative Security Company of the Year for Artificial Intelligence in the 19th Annual 2023 Globee Cybersecurity Awards"
     excerpt: "Company's artificial intelligence capabilities within Gurucul Next-Gen SIEM recognized for dramatically reducing operations expenses and improving efficiency of Threat Detection and Response programs Gurucul,"

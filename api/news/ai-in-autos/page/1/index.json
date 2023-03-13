@@ -101,8 +101,8 @@
       "title": "Is the US government ready for the rise of artificial intelligence?",
       "excerpt": "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich",
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=lore-ai-software-and-resources-to-help-your-business-grow",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=lore-ai-software-and-resources-to-help-your-business-grow",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -758,19 +758,19 @@
     {
       "path": "_news/2023-03-01-alibaba-iqiyi-or-baidu-which-has-the-best-growth.md",
       "title": "Alibaba, iQiyi, or Baidu: Which Has the Best Growth?",
-      "excerpt": "That represents almost half of its market capitalization. The margin of safety is large for BIDU stock. Baidu is developing self-driving and AI. It is the dominant search engine in China. iQiyi is a Chinese online video platform. It reported average daily ...",
+      "excerpt": "Ahead of Alibaba’s (BABA) strong quarterly results, the stock peaked at ~$120. It closed at $89.00 after strong results. Baidu (BIDU) mentioned artificial developments and rose, only to fall. iQiyi (IQ) traded close to a 52-week high after posting results.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/alibaba-iqiyi-or-baidu-which-has-the-best-growth-2023-03-01",
+      "webUrl": "https://www.baystreet.ca/articles/stockstowatch/85369/Alibaba-iQiyi-or-Baidu-Which-Has-the-Best-Growth",
+      "originalUrl": "https://www.baystreet.ca/articles/stockstowatch/85369/Alibaba-iQiyi-or-Baidu-Which-Has-the-Best-Growth",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "http://www.baystreet.ca/images/articlegroups/original/7/private/Alibaba.jpg",
+          "width": 845,
+          "height": 396,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -780,21 +780,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T05:42:00-08:00",
+      "publishedDateTime": "2023-03-01T06:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "BayStreet",
+        "domain": "baystreet.ca",
+        "images": null,
         "publishers": null,
         "authors": null
       },

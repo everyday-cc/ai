@@ -2,6 +2,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-02-07-image-recognition-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029.md",
+      "title": "Image Recognition Market International Business Analysis, Top Winning Strategies, Development Outlook and Regional Strategies 2029",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 06, 2023 (The Expresswire) -- The Image Recognition Market report with massive business opportunities in the industry structure, sales (consumption), production, Generate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-market-international-business-analysis-top-winning-strategies-development-outlook-and-regional-strategies-2029-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T19:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-machine-learning-market-is-set-to-see-revolutionary-growth-in-decade.md",
       "title": "Machine Learning Market is set to see Revolutionary growth in decade",
       "excerpt": "Feb 06, 2023 (The Expresswire) -- \"Machine Learning Market\" Size, Share and Trends Analysis Report 2023 - By Applications (BFSI, Healthcare and",
@@ -1004,49 +1047,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-create-powerful-self-service-experiences-with-amazon-lex-on-talkdesk-cx-cloud-contact-center.md",
-      "title": "Create powerful self-service experiences with Amazon Lex on Talkdesk CX Cloud contact center",
-      "excerpt": "This blog post is co-written with Bruno Mateus, Jonathan Diedrich and Crispim Tribuna at Talkdesk. Contact centers are using artificial intelligence (AI) and natural language processing (NLP) technologies to build a personalized customer experience and deliver effective self-service support through conversational",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-powerful-self-service-experiences-with-amazon-lex-on-talkdesk-cx-cloud-contact-center/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-powerful-self-service-experiences-with-amazon-lex-on-talkdesk-cx-cloud-contact-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T13:01:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

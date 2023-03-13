@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2023-03-potential-machine-sustainable-biomass.
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-potential-machine-sustainable-biomass.amp"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning for Sustainable Development of Biomass"
+    excerpt: "Researchers at the Yale School of the Environment published a study “Machine learning for sustainable development and applications of biomass and biomass-derived carbonaceous materials in water ..."
+    publishedDateTime: 2023-03-10T00:42:00Z
+    webUrl: "https://www.genengnews.com/topics/bioprocessing/machine-learning-for-sustainable-development-of-biomass/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 54
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2023/03/GettyImages-127544264-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "Can Machine Learning Help Optimize Biomass Production for Sustainability?"
     excerpt: "This is where machine learning comes into play. To address these issues, researchers at Yale School of the Environment conducted a study on the use of machine learning in the development of biomass products. The study, led by Assistant Professor of ..."
     publishedDateTime: 2023-03-09T10:33:00Z

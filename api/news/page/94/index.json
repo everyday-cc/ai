@@ -2,6 +2,49 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2022-12-15-building-transparent-ethics-into-artificial-intelligence.md",
+      "title": "Building transparent ethics into artificial intelligence",
+      "excerpt": "Eliminating data bias is crucial, as AI-based discrimination can have dire regulatory, reputational and revenue repercussions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/LPp6V7rBzYK7DKQz",
+      "originalUrl": "https://www.itweb.co.za/content/LPp6V7rBzYK7DKQz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2022/12/Tian-Horn-IIN-2022-NEW-LATEST.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/LPp6V7rBzYK7DKQz",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/LPp6V7rBzYK7DKQz",
+      "publishedDateTime": "2022-12-14T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-15-natural-language-processing-nlp-marketa-cagr-of-23-during-the-forecast-period-2022-2032.md",
       "title": "Natural Language Processing NLP Marketa CAGR of 23% during the forecast period (2022-2032)",
       "excerpt": "The market for natural language processing (NLP) is expected to reach US$ 45 billion, growing at a CAGR of 23%. (2022-2032). The total market sales for NLP are projected to increase by 3.8x and reach more than US$ 14 Bn.",
@@ -1052,58 +1095,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-12-14-the-future-of-retail-four-ways-for-the-industry-to-utilize-ai.md",
-      "title": "The Future Of Retail: Four Ways For The Industry To Utilize AI",
-      "excerpt": "It’s only a matter of time before AI-powered checkouts, improved planograms and enhanced in-store engagement will be widely adopted to enhance the shopping experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63987a772c2281472c7ab5e5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/12/14/the-future-of-retail-four-ways-for-the-industry-to-utilize-ai/amp/",
-      "publishedDateTime": "2022-12-14T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

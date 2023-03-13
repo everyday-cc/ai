@@ -468,7 +468,7 @@
       "originalUrl": "https://phys.org/news/2023-03-potential-machine-sustainable-biomass.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -755,6 +755,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-an-overview-of-machine-learning-pipeline-and-its-importance.md",
+      "title": "An overview of Machine Learning pipeline and its importance",
+      "excerpt": "A Machine Learning (ML) pipeline is used to assist in the automation of machine learning processes. They work by allowing a sequence of data to be transformed and correlated in a model that can be tested and evaluated to achieve a positive or negative outcome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/articles/53595/an-overview-of-machine-learning-pipeline-and-its-importance.html",
+      "originalUrl": "https://www.design-reuse.com/articles/53595/an-overview-of-machine-learning-pipeline-and-its-importance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.design-reuse.com/news_img2/homepage53595/soft2b.jpg",
+          "width": 683,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-06T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1390,52 +1433,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race.md",
-      "title": "Hugging Face, AWS partner on open-source machine learning amidst AI arms race",
-      "excerpt": "OpenAI stopped open-sourcing most of its machine learning models and is serving them through a paid application programming interface (API). It has also become locked into Microsoft’s cloud platform, and its models are only available on Azure and ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/",
-      "originalUrl": "https://venturebeat.com/ai/hugging-face-aws-partner-on-open-source-machine-learning-amidst-ai-arms-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-28T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "AI in Finance"
       ]
     }
   ],

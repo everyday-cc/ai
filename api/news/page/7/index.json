@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-03-03-prescription-opioids-could-impact-cognitive-function-in-older-adults.md",
+      "title": "Prescription opioids could impact cognitive function in older adults",
+      "excerpt": "Prescription opioid use could have a negative effect on cognitive function in older adults ... level fellows and junior faculty in health services research. Pain is considered common in older ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/do-prescription-opioid.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.amp",
+      "publishedDateTime": "2023-03-02T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-how-to-spruce-up-your-facebook-messenger-chats-by-adding-a-theme.md",
       "title": "How to spruce up your Facebook Messenger chats by adding a theme",
       "excerpt": "Facebook Messenger has a hidden gem of an option to make chatting with friends, family, and others a bit more fun.",
@@ -1013,15 +1056,15 @@
       "title": "How will artificial intelligence reshape our world? | The Ethical Life podcast",
       "excerpt": "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other.",
       "sourceUrl": null,
-      "webUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
-      "originalUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
+      "webUrl": "https://missoulian.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_74dba4da-9198-50ee-9470-09c1c5c5d3a4.html",
+      "originalUrl": "https://missoulian.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_74dba4da-9198-50ee-9470-09c1c5c5d3a4.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/4/f0/4f0cd688-a294-5d1b-aad8-c741806100e4/63ff740138a57.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/7/4d/74dba4da-9198-50ee-9470-09c1c5c5d3a4/63ff73fcb1efe.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
           "width": 1196,
           "height": 628,
           "title": null,
@@ -1036,8 +1079,8 @@
       "publishedDateTime": "2023-03-01T15:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Casper Star-Tribune",
-        "domain": "trib.com",
+        "name": "Missoulian",
+        "domain": "missoulian.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1091,58 +1134,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-alphabets-self-driving-car-unit-has-cut-8-of-its-staff-this-year.md",
-      "title": "Alphabet’s self-driving car unit has cut 8% of its staff this year",
-      "excerpt": "Waymo, the self-driving car division of Google's parent company Alphabet, said on Wednesday that it has cut approximately 8% of its staff across two rounds of layoffs this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
-      "originalUrl": "https://www.cnn.com/2023/03/01/tech/waymo-layoffs/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230301160548-waymo-file-2018-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/03/01/tech/waymo-layoffs/index.html",
-      "publishedDateTime": "2023-03-01T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

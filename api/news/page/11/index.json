@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-02-28-can-ai-overcome-healthcares-cybersecurity-hurdles-3-experts-weigh-in.md",
+      "title": "Can AI overcome healthcare's cybersecurity hurdles? 3 experts weigh in",
+      "excerpt": "Artificial intelligence and machine learning have been used for years to help hospitals and health systems combat cybersecurity threats, but with hackers getting more sophisticated, chief information",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/cybersecurity/can-ai-overcome-healthcares-cybersecurity-hurdles-3-experts-weigh-in.html",
+      "originalUrl": "https://www.beckershospitalreview.com/cybersecurity/can-ai-overcome-healthcares-cybersecurity-hurdles-3-experts-weigh-in.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-27T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips.md",
       "title": "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips",
       "excerpt": "The fascination with generative AI has spring-loaded demand for products that can help deliver on its promise. And startups are primed to pounce. ‘There’s new openings for attack,’ says one venture capitalist.",
@@ -1148,58 +1191,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-27-image-recognition-in-retail-market-size-2023-industry-share-growth-trends-segments-and-forecast-to-2031.md",
-      "title": "Image Recognition in Retail Market Size, 2023 Industry Share, Growth, Trends, Segments and Forecast to 2031",
-      "excerpt": "Global Image Recognition in Retail Market is valued approximately at USD 1.14 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 21.80% over the forecast period 2020-2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-industry-share-growth-trends-segments-and-forecast-to-2031-2023-02-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-industry-share-growth-trends-segments-and-forecast-to-2031-2023-02-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-26T20:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

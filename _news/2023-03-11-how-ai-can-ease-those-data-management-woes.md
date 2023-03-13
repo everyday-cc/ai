@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/how-ai-can-ease-data-man
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/how-ai-can-ease-data-management-woes/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

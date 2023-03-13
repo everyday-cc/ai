@@ -2,6 +2,59 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-01-20-the-chatbots-cant-outsmart-you-yet.md",
+      "title": "The Chatbots Can’t Outsmart You. Yet.",
+      "excerpt": "The Turing test used to be the gold standard for proving machine intelligence. This generation of bots is racing past it. We need to stay calm — and develop a new test.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html",
+      "originalUrl": "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/01/22/business/22Turing-test-illo/22Turing-test-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/01/20/technology/chatbots-turing-test.amp.html",
+      "publishedDateTime": "2023-01-20T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-01-20-jim-keller-becomes-ceo-of-ai-chip-company-tenstorrent.md",
       "title": "Jim Keller becomes CEO of AI chip company Tenstorrent",
       "excerpt": "Storied chip designer Jim Keller has been named CEO of artificial intelligence-focused chip company Tenstorrent. Keller was named CTO of the Canadian startup back in early 2021, but is now swapping his role with founder and former CEO Ljubisa Bajic.",
@@ -1118,58 +1171,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-the-goldilocks-principle-and-hybrid-cloud.md",
-      "title": "The Goldilocks Principle And Hybrid Cloud",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as The Goldilocks Principle shows up in many places in our lives and business in areas as vast and varied as astrobiology, economics, and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c96c06ef67aedf79766ebe/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
-      "publishedDateTime": "2023-01-19T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

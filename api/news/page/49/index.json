@@ -2,6 +2,57 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-02-01-empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad.md",
+      "title": "Empathy’s new tool uses AI to generate obituaries, and it’s not half bad",
+      "excerpt": "Startup Empathy has launched a new tool that uses AI to generate obituaries. It might sound callous, but the results aren't terrible, surprisingly.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/",
+      "originalUrl": "https://techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1218896782.jpg?resize=1200,839",
+          "width": 1200,
+          "height": 839,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/02/01/empathys-new-tool-uses-ai-to-generate-obituaries-and-its-not-half-bad/amp/",
+      "publishedDateTime": "2023-02-01T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-humanoid-robots-to-take-centre-stage-at-un-meet-on-ai.md",
       "title": "Humanoid robots to take centre stage at UN meet on AI",
       "excerpt": "Eight humanoid robots will be the star attractions when the United Nations hosts its first summit since the start of the pandemic on the benefits of artificial intelligence, it said Wednesday.",
@@ -1149,40 +1200,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-01-autonomous-vehicles-pick-up-pace-in-beijing.md",
-      "title": "Autonomous vehicles pick up pace in Beijing",
-      "excerpt": "Moreover, the company is collaborating with SAIC artificial intelligence lab, a division of auto manufacturer SAIC Motor, to jointly explore and advance driverless technology. Market boom Data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/business/business-news/2023/01/05/autonomous-vehicles-pick-up-pace-in-beijing",
-      "originalUrl": "https://www.thestar.com.my/business/business-news/2023/01/05/autonomous-vehicles-pick-up-pace-in-beijing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-31T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

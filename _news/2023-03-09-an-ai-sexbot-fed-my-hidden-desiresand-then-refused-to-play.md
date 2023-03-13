@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/replika-chatbot-sexuality-ai/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/replika-chatbot-sexuality-ai/amp"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
