@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "After 5 years of nothing, Humane 'startup' is now shifting to AI"
-    excerpt: "Founded in 2018 by ex-Apple executives, the mysterious Humane company has announced $100 million in new funding plus a shift into AI — and still has no product to announce."
-    publishedDateTime: 2023-03-08T17:54:00Z
-    webUrl: "https://appleinsider.com/articles/23/03/08/after-5-years-of-nothing-humane-startup-is-now-shifting-to-ai"
-    ampWebUrl: "https://appleinsider.com/articles/23/03/08/after-5-years-of-nothing-humane-startup-is-now-shifting-to-ai/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/03/08/after-5-years-of-nothing-humane-startup-is-now-shifting-to-ai/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/53378-107071-000-lead-Humane-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Ex-Apple execs net $100 million in investments for AI startup Humane"
     excerpt: "Microsoft, Volvo and OpenAI are among the company's partners. It is also working with LG on research and development."
     publishedDateTime: 2023-03-10T14:25:00Z

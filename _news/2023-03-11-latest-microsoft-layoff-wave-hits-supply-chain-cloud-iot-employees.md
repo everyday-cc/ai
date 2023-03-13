@@ -123,20 +123,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 49
-  - title: "Microsoft is harnessing the power of the cloud to make the promise of quantum at scale a reality"
-    excerpt: "Microsoft announced a significant quantum advancement and made our new Integrated Hybrid feature in Azure Quantum available to the public."
-    publishedDateTime: 2023-03-08T17:00:00Z
-    webUrl: "https://cloudblogs.microsoft.com/quantum/2023/03/08/microsoft-is-harnessing-the-power-of-the-cloud-to-make-the-promise-of-quantum-at-scale-a-reality/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 26
-    images:
-      - url: "https://cloudblogs.microsoft.com/quantum/wp-content/uploads/sites/7/2023/03/230307_IntegratedHybrid_Hero_1920x1080.png"
-        width: 2400
-        height: 1351
-        isCached: true
   - title: "Cyclotron Taps Microsoft technology stack expert Seth Sanusi to Lead Azure Initiatives"
     excerpt: "Cyclotron, a San Francisco-based business technology consultancy, is proud to announce the hiring of long-time Microsoft technology stack expert Seth Sanusi to lead its Microsoft Azure consulting practice."
     publishedDateTime: 2023-03-09T18:10:00Z

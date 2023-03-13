@@ -7,7 +7,7 @@ originalUrl: "https://www.texarkanagazette.com/news/2023/mar/11/from-marketing-t
 webUrl: "https://www.texarkanagazette.com/news/2023/mar/11/from-marketing-to-design-brands-adopt-ai-tools/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "From marketing to design, brands adopt AI tools despite risk"
-    excerpt: "Even if you haven't tried artificial intelligence tools that can write essays and poems or conjure new images on command, chances are the companies that make your household products are already starting to do so."
-    publishedDateTime: 2023-03-08T16:10:00Z
-    webUrl: "https://techxplore.com/news/2023-03-brands-ai-tools.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 34
   - title: "From marketing to design, brands adopt AI tools despite risk"
     excerpt: "\"We need to embrace those risks intelligently, experiment, build on those experiments, drive scale, but not taking those risks is a hopeless point of view to start from.\" Indeed, some AI experts warn that businesses should carefully consider potential ..."
     publishedDateTime: 2023-03-11T14:36:00Z

@@ -61,7 +61,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -100,7 +100,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -112,7 +113,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -395,7 +396,7 @@
       "originalUrl": "https://www.texarkanagazette.com/news/2023/mar/11/from-marketing-to-design-brands-adopt-ai-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {

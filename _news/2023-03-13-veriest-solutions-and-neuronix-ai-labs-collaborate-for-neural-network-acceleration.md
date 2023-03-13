@@ -1,0 +1,29 @@
+---
+category: news
+title: "Veriest Solutions and Neuronix AI Labs Collaborate for Neural Network Acceleration"
+excerpt: "Neuronix AI Labs Neural Network acceleration core for computer vision enables ... “It has been a privilege to work with Neuronix AI Labs team in such a break-through Artificial Intelligence solution for computer vision” added Moshe Zalcberg, CEO ..."
+publishedDateTime: 2023-03-13T09:40:00Z
+originalUrl: "https://www.design-reuse.com/news/53644/veriest-neuronix-ai-labs-neural-network-acceleration.html"
+webUrl: "https://www.design-reuse.com/news/53644/veriest-neuronix-ai-labs-neural-network-acceleration.html"
+type: article
+quality: 48
+heat: 48
+published: false
+
+provider:
+  name: Design-Reuse
+  domain: design-reuse.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://www.design-reuse.com/news_img2/homepage53644/aib.jpg"
+    width: 958
+    height: 550
+    isCached: true
+
+secured: "ZmpHsSGtyAkbcTh+ZVVVcQ9wluz2FxNEFQSkBB7Mgqui34n3Tou5o6h5l1FI2sVQl2DA/EmtwB3l89yxEa6hfrZ0aUlyBn6yTCHLRHLdG7zPq/mwKMY9Nmwt5eaHaWcEcaM0/4Op4zVyyG6ZFNsAUlkM6Vyf4M50QSCgbind92rPYek+Y7xeUFsxJcyzqY9tQY6KKDkYq42blWkp7IyzLoMwVLlXWG/1KyOs+UYCkDD14d1U+VDE8CQ9ZPhVf+BlQ3eWXO1+q0vRgCBt+OkM+uWf+25lGWawVzrR2ichsje2RpF7pFRPjEGpV+4KiqPO5GEwI48tVk2EGD49VgjPknf8xCBgj+Nzr2vjp/dmNo4=;VZK3qWVKd2A75/ciqQZSvQ=="
+---
+

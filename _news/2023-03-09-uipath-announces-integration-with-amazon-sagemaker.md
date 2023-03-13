@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Use Snowflake as a data source to train ML models with Amazon SageMaker"
-    excerpt: "Amazon SageMaker is a fully managed machine learning (ML) service. With SageMaker, data scientists and developers can quickly and easily build and train ML models, and then directly deploy them into a production-ready hosted environment. Sagemaker provides an integrated Jupyter authoring notebook instance"
-    publishedDateTime: 2023-03-08T17:42:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-snowflake-as-a-data-source-to-train-ml-models-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 121
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/08/snowflake-as-data-source-sagemaker.jpg"
-        width: 1564
-        height: 781
-        isCached: true
   - title: "Architect personalized generative AI SaaS applications on Amazon SageMaker"
     excerpt: "The AI landscape is being reshaped by the rise of generative models capable of synthesizing high-quality data, such as text, images, music, and videos. The course toward democratization of AI helped to further popularize generative AI following the open-source releases for such foundation model families"
     publishedDateTime: 2023-03-09T18:57:09Z
@@ -94,20 +80,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/10/accelerate-time-to-insights.jpg"
         width: 1565
         height: 779
-        isCached: true
-  - title: "Portfolio optimization through multidimensional action optimization using Amazon SageMaker RL"
-    excerpt: "Reinforcement learning (RL) encompasses a class of machine learning (ML) techniques that can be used to solve sequential decision-making problems. RL techniques have found widespread applications in numerous domains, including financial services, autonomous navigation, industrial control, and e-commerce."
-    publishedDateTime: 2023-03-08T17:25:11Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/portfolio-optimization-through-multidimensional-action-optimization-using-amazon-sagemaker-rl/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 78
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/02/25/ML8284-assetprices5.png"
-        width: 713
-        height: 502
         isCached: true
 
 secured: "QHokxhI9mt53y22rKGPzJ+sNc4p7Tqq/1e0FkQQhiI/3jZawl8e3snZ0u6eavEG475JZZiVvGAPht+7m4CJTEK16HzfVo/KyzlFKbPGQRvqAAddzF6E7u8/6MStq0R4q3crQryOWQj8G5q4up+dPhMn5g3EWu8bzrk+5nHgLFX4FGZARm6ofWjBFQjgKkDB00aJj1lDyoFBSUS8CDbjJlN+XkBmopmo/tkSI2pyaBUGhbEFaxu1Ia4DnukLWARq2n744XEylCrBAZTjN7/E7/Yt0+Bpuf6Lgb3f1dMFEWtOIFaCzTlCEdrC3vi5p886sT0TFv0f0weWEey314H2qFfID4pdySzGdg7VsbPeMYzrPvU4YKGX+UbmVHpmTKq7Z+dLNjvU6WgffM3EvUVNSGAky1v4brDy9O4XGYRtdNk0oCVnzzgT+LTulNIe0RBrWkvr4MZqFQSKmTRLFxQvsNXBp2DR798+UCdg722g91rJ4deFkZ75VbIfzTMdF3+U8VFd8wLXAdp8SKPliN44FBw==;C28uDVSYGOVcxPXwakfOkQ=="

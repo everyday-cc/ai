@@ -33,15 +33,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "From marketing to design, brands adopt AI tools despite risk"
-    excerpt: "Even if you haven't tried artificial intelligence tools that can write essays and poems or conjure new images on command, chances are the companies that make your household products are already starting to do so."
-    publishedDateTime: 2023-03-08T16:10:00Z
-    webUrl: "https://techxplore.com/news/2023-03-brands-ai-tools.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 34
   - title: "Weighing the Risks of AI Tools, From Demographic Bias to Privacy Violations"
     excerpt: "“When it comes to artificial intelligence, machine learning and the things that go with it, perhaps the key topic on which industry thought leaders should be focused is ethics and morality, and where we’re going with this and how we’re going to use i"
     publishedDateTime: 2023-03-10T19:33:00Z

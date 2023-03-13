@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: International Business Times
@@ -26,22 +26,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Nvidia results show its growing lead in AI chip race"
-    excerpt: "AI is taking over the tech industry and, according to research firm Gartner, the share of specialized chips such as GPUs that are used in data centers is expected to rise to more than 15% by 2026 ..."
-    publishedDateTime: 2023-03-08T17:11:00Z
-    webUrl: "https://jp.reuters.com/article/nvidia-ai-idCAKBN2UX0XW"
-    type: article
-    provider:
-      name: ロイター
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20230223&t=2&i=1624491026&r=LYNXMPEJ1M0G3&w=800"
-        width: 800
-        height: 509
-        isCached: true
-
-secured: "L2Bfv4FtVysol56gzpwmIkbNStwxXDvkKpmcLLOw6txVqmzFQ7bfcNPezKMMV99Ji7wRNh0EWJJ0V9KSAos+ykPrERptwsS4ehsIVcLSMgYUfUcg+Td+Y+/TMPJkgTmBkfgDpK+EoM/Z9Q2ejTYE6edOIypGSx/DWBmjgkD2H8eIC16pzBlrmWIwqNX///C1rY3Zp0xL5VjB75fcqOPmkzU/M9+97lar/S+bmdt51ZZb7f4GvJ0qqaPy4SWQhp1rvMcn3HMzTt1IR2EDq757rIJWxTwnMrPhsvvp6wX0cS+KvUbdC5orX9y10KEZAjW+tVUhI6H3fILEEXvgH6mB+c9FbHeoCKFIGnLXRNRv9TI=;Q528uNrd4ERUc5VotyH/9g=="
+secured: "iyM+LDcZUuGs9ZalAaWP0SFE3S35TpDGn6sE2I1Jkh/Z7idZPtWp2ll9qgZh0A5UzI4+xHqsiAdik62w31TLVE6oXoYjxQSiB+DfdC0MkJvf3M73uHML9QSdTOPorTsHbFFEYXNQxXonNO1lNcnkVvnA9rGB3jOV7h7D+kT4Xj8IiJ+fGnxd6FAFNebICINqKIpgJ+8vHrGt6WUh3PI+CZho9LDytROxmT0rLSrswP71tIw4RJFfBCdnxzbO6ohweSQPbgx3fiJxFhLCN2pm/CKqXwbJDkadDu4TcxGgP5IVkg9CZj9ooI5SERByHeU6xfTHysPVeoTRrVxEDL/18DNFLtQzIWDhsnLggLe6Lqg=;1VPtQhTS5J43Tv0m24mx3w=="
 ---
 

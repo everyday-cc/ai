@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI and Big Data Analytics in Telecom Market to 2023-2029"
+    excerpt: "AI and Big Data Analytics in Telecom Marketinformation for each competitor includes (, Cloudera, Affirm, Fico,"
+    publishedDateTime: 2023-03-13T03:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-to-2023-2029-2023-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Artificial Intelligence Market 2023-2029 With Highly Productive Segment To Expand Outstandingly"
     excerpt: "Healthcare Artificial Intelligence Market Size 2023-2029 | New Report (108 Pages) | Information Technology | In"
     publishedDateTime: 2023-03-09T04:31:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-powe
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/amp/"
 type: article
-quality: 87
-heat: 127
+quality: 89
+heat: 129
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/640ec6a319bd9fdfea7aa26f/0x0.jpg?format=jpg&width=1200"
@@ -89,6 +90,6 @@ related:
         height: 465
         isCached: true
 
-secured: "amyB+aNk5fhVpdq1aU5q9DMPT75v8e3AZsmnREzJh7Ovi9FhRMjBduZIWD+9zciYrjF+uVKsxEYs/BtoAvPvzzC93zd0FFVsKckOttcNbTOlTjcXlXtrhWaCRS90NmJS3sxEWtOgsM/NLaLMRKp5+l6QExnW8+pzHYAfAkrjJvQ7Ve8/0WB0Kd6pp9z9KEj0o2B+IhROnsmIekI0trc3rHZLVvTpqZULKk6Zqh5JPaOu/2giA+3UFP4M2NVNeNmhd3XIyBe5aLjA+h89+57sk+4L12ShEtc+QDBKsJ0RdKsjPr5dAlxx0S6s47+JRGoY5ZYpMx3ck/OfhphC/tXirMRBZlTd28wNsLCEubxekgU=;t1UV4UalZ45fF+kw4cLsQg=="
+secured: "F3gG5mVTMo/omi4i3AhJeVFcnYm0BcInwplgdGgSHPDRy1UEUxE3/IgA8Er7iodT2ptWMiyHvnvjmrhz36BpJbnwi9ymfQY1uW1Y7CpvXqbfLV3x3JaRKQvEawiqYn76/7WukQ0jD9es5heAx38u9Eb8sTR7KCHIy3B2+Ofqcccp2RV9eQrUkj2Z4a+Mli0cZv+k1luHGl80iKyFd/O8g7aJ8GULgN+fXgV+RIzndJpuyPUISuJvIPxBMRnR/kd79ObKhrbfyYZIfaw+mp9fQZy5MY7Kl5aNhR3w2GliqzFD9QpuavZey1t0R9/PhXZoIBG8GGircXDRmqQw2EKdmc+BI+hHOvl2aLeYfvYCkVDv73mZpbw5xI9YXGZglC9u3fz0hX4B6n/ZK4YAhLseWZG7Iq1FKFMI2q3GP/2hSa1d5Wr+KA8hGtTiudWp7fY4lQ/anE32qsgEgh3JuRnWh1E/OXnkIGcv7M6pXilYtNhaajEDEkmBJtNJr0Pr1poSCwVHojhKvYfza8mMw/TrSw==;zDdCIQCfgVg1zjU53YfNEQ=="
 ---
 

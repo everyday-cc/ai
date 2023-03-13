@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2377251-cloud-wars-a
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2377251-cloud-wars-azure-vs-aws-vs-gcp?amp"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "G4iga6dDVSiLVesFdmNxkCCcENx7Bcu7tpkaASYp5oSqmPt7DHe8ecoPPVl6zukHrOf8/ZhaHNy3qu11mLbDucRLDkeydkQbmV7IB+jcqJ1kOD+vYCn/NjW8NGAvtfpatzBO3GItkAEheXbY6DtwFPrJzrjObK1hi0ltaIBTvdFrAaGa+P7V0FwHmjeTAVl5Njz4IAXfO0KG4djcnhvGl8pc8N1FV3nJxi46pN5IHWWWYNHJTqYxAqPo4vJ6pbQD0XRtZNUbkiqCmpjyZ9BHRxTjzWjFgrlmaZw/SqZ8Uell0QWLIPdx4PbeIQ54KAgSQ4l/fDPui1YENJV8lf6TaKDOkmwerO1NhKCn96BjMWQ=;PEuoSUfDQbxBHaTlcwxIzw=="
+secured: "wTv0nwKJhZNvYCFs9nVpvRIC2rKstC7etBmLfrPZpdVfO9IdAtbruS3rt/QvTBBlXWFqcbU4OanESaDmHLucbwZQmYJbA/jVykWZ5dtATdOaV14zU1hlI1GQag/e8dkuYpw7swbxdZI8MJLExJA7LanX2UaH0qJY9VFIl5jjVrul4ChM/GClm5UsYMF9YsZD6i6pILjNTrqcfV05eaoXyObfvmwGjIiUW3jhIQRkFOak/DB5fkWiQY/p7NSBKvleKS1r5/cvg/+X5nF9WxMInHxD7xQS5dMdnyDM3c6IhQ3gRXgd5ThDYDeWimeLhiSZVHchVTbFPstwT6m2kLm0nKf+QSOP86bKfZ+/Jt6gwEHR1iysnataVonc2csJpBS9Wct7q0LQcr8m+0IwtTuy1jqFdG866xYdKXx4fyATUP4C0rq15qcUNt2uKfGlgyrRsYorim1LiJ7h50u0/gSZzXJWSL/rLi0t2Awkncd5c0yX8DA9vye0a350KWGlKXr+n4HbZKNP8uyW9z3rT+fK/w==;cjqoj62eA30Yb1bMqNkGCA=="
 ---
 

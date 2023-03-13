@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/best-ai-stocks-to-buy-artificial-int
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/best-ai-stocks-to-buy-artificial-intelligence-investing-chatgpt-how-to-invest?amp"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/4/ff/4ff19888-9e44-5456-b01e-092b0379bdca/640bbb3859350.image.jpg?resize=1024%2C729"
         width: 1024
         height: 729
-        isCached: true
-  - title: "Nvidia: ChatGPT's core AI technology drives explosive revenue growth"
-    excerpt: "Nvidia underwent a complete top-to-bottom transformation as artificial intelligence (AI) became the primary focus of every chip produced."
-    publishedDateTime: 2023-03-08T16:25:00Z
-    webUrl: "https://interestingengineering.com/innovation/nvidia-aitech-growth-core-chatgpt"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/08/image/jpeg/jLLj1PCE8AEbq0B7keZCawqXSJ9QJaMnwnBCA4pg.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "YQ7O331KePaH0s3qhoWy1A3/qUzyGxEyTB/8/JMqXeVzwThR3ApcYSyKcgVYjThMJ3XGJQzRDniNPAzyUPCgzfZVnrW8n/36USf9wKZg027iJWnXGLU6tyk7rbtCnlYtbJUitWSUwobZGhqpukSME0ZmRPPPsZd3W9nDGV7UxpY4XmKz0Aj+F+GXBxwYUvVxznC5IhAOgui9DxJEYbe5UEa+eCKmuex+qdMb/WcVArXUyIAoJoZr+Tp8WzJYTWaUEKS26ycysD2Q3R8/chVqlpuqLyXWlNFDmckn7hBgS4EcMfgxMl8J39nMYqqV8KL3i2c5VlXoxqzbH8hGOM4o/b2hO/Wxhfx5DraytjB7wz7NVkrzrodixBDUFj+7AKJaDRe7QWPb/IyNkSxy0ubRHEww8BoHne0/WUE7IVdVjkNfuU7vizcqd0/8e56ORUEB4dveXc4jtVhst0EDo3G0GYDJej6+apSlWIOlWoiO1DbeltCfP86kzAby+I055vr2444znYmBjri2C4sMVTNMjg==;UGKOTI4XwxcP63MuPBMOuQ=="
