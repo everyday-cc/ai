@@ -39,15 +39,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size | Industry Report from 2023 - 2029"
-    excerpt: "Natural Language Processing For Healthcare And Life Sciences Market” information for each competitor includes |"
-    publishedDateTime: 2023-03-12T17:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-industry-report-from-2023---2029-2023-03-12"
+  - title: "Global Speech and Voice Recognition Market 2023-A Detailed Analysis till 2028"
+    excerpt: "Speech and Voice Recognition Market Size 2023-2028 | New Report (109 Pages) | In This Reports Speech and Voice"
+    publishedDateTime: 2023-03-13T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-2023-a-detailed-analysis-till-2028-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning in Medical Imaging Market Analysis: Future Investments and Growth Factors until 2028"
+    excerpt: "The purpose of this report onMachine Learning in Medical Imaging Marketanalysis is to assist business owners in"
+    publishedDateTime: 2023-03-10T07:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-medical-imaging-market-analysis-future-investments-and-growth-factors-until-2028-2023-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

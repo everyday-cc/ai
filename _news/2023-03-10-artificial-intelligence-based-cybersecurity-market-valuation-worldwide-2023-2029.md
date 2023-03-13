@@ -28,54 +28,48 @@ images:
     isCached: true
 
 related:
-  - title: "How Small- And Medium-Sized Businesses Can Navigate The Cybersecurity Risks Of AI"
-    excerpt: "While AI offers numerous benefits, it also poses significant cybersecurity risks to small- and medium-sized businesses that often lack the resources and expertise to defend against attacks."
-    publishedDateTime: 2023-03-10T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/amp/"
+  - title: "Healthcare Natural Language Processing Market Valuation Worldwide 2023-2029"
+    excerpt: "Healthcare Natural Language Processing Market 2023 Will Provide Report Analysis that quickly emerging as one of the [ICT] category in the industry, by Type (, Machine Translation,"
+    publishedDateTime: 2023-03-13T03:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-valuation-worldwide-2023-2029-2023-03-12"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/627d0d1e1e7516cbb623ad21/0x0.jpg?format=jpg&width=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "5 Ways in Which Machine Learning Improved Cybersecurity"
-    excerpt: "Here are some of the ways in which machine learning has contributed to cybersecurity: 1. Malware detection: Machine learning algorithms can analyze large volumes of data to identify patterns that are characteristic of malware. These patterns can then be ..."
-    publishedDateTime: 2023-03-08T23:53:00Z
-    webUrl: "https://www.hawaiibusiness.com/machine-learning-cybersecurity-hawaiian-telcom-event/"
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market Size | Industry Report from 2023 - 2029"
+    excerpt: "Natural Language Processing For Healthcare And Life Sciences Market” information for each competitor includes |"
+    publishedDateTime: 2023-03-12T17:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-size-industry-report-from-2023---2029-2023-03-12"
     type: article
     provider:
-      name: Hawaii Business
-      domain: hawaiibusiness.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: "https://www.hawaiibusiness.com/content/uploads/2023/03/z/n/adobestock-230030937-scaled.jpeg"
-        width: 2560
-        height: 1163
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Gurucul Named Most Innovative Security Company of the Year for Artificial Intelligence in the 19th Annual 2023 Globee Cybersecurity Awards"
-    excerpt: "Company's artificial intelligence capabilities within Gurucul Next-Gen SIEM recognized for dramatically reducing operations expenses and improving efficiency of Threat Detection and Response programs Gurucul,"
-    publishedDateTime: 2023-03-10T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/b31298405/gurucul-named-most-innovative-security-company-of-the-year-for-artificial-intelligence-in-the-19th"
+  - title: "Artificial Intelligence based Personalization Market Valuation Worldwide 2023-2029"
+    excerpt: "Artificial Intelligence based Personalization Marketinformation for each competitor includes (, Apple, Symantec,"
+    publishedDateTime: 2023-03-10T03:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-personalization-market-valuation-worldwide-2023-2029-2023-03-09"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-  - title: "Gurucul Named Most Innovative Security Company of the Year for Artificial Intelligence in the 19th Annual 2023 Globee Cybersecurity Awards"
-    excerpt: "Gurucul, the leader in Next-Gen SIEM, UEBA, XDR and Identity & Access Analytics, announced today that The Globee® Awards, organizers of the world's premier business awards programs and business ranking lists,"
-    publishedDateTime: 2023-03-10T17:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/03/10/9775109.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "02xEKaJBjkbDupXj/z5fy3xlW1/7NgjcmfiMSvS7pDm1WN6dW/+mnJazI3t0K43Gc7OtAGa/u8rESSigTBzZMuUAaVjjFT4FbC5ylextL6bUS/b0m59Hmb190mJtzqiwBT2ThDsXd20QpewBUWWAkFHCft02zQoxbogkCjK8ypFV8Xl/14kI9FBC/BUlEfrB69w7zdzHoF4QODE0tj+vpvZ/HEC9juQeyrVDCxkptVbYQhgKQKepu6UqC6O0CnJvdWqPRZtVnigcoPzSSzepWQCNesGsTVaDEkGoO7K9dlsCUkoKafAN2+/qoAFun01+4VJZqhV+882/Lg6HEfk374OqU0a1RUWK5IJ3rkKZh+U=;GTCxqNscvdkMHHkrUj3Hyg=="
 ---

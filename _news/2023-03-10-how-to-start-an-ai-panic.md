@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-10T14:00:00Z
 originalUrl: "https://www.wired.com/story/plaintext-how-to-start-an-ai-panic/"
 webUrl: "https://www.wired.com/story/plaintext-how-to-start-an-ai-panic/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media.wired.com/photos/640a4ab565ec923715ff3b24/191:100/w_1280,c_limit/Tristan-Harris-On-AI-Plaintext-Business-1426703730.jpg"

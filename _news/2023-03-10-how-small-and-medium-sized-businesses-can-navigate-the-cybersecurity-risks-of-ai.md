@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-sm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/amp/"
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence-based Cybersecurity Market Valuation Worldwide 2023-2029"
-    excerpt: "Artificial Intelligence-based Cybersecurity Marketinformation for each competitor includes (, Imperva, Palo Alto"
-    publishedDateTime: 2023-03-10T03:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-cybersecurity-market-valuation-worldwide-2023-2029-2023-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "5 Ways in Which Machine Learning Improved Cybersecurity"
     excerpt: "Here are some of the ways in which machine learning has contributed to cybersecurity: 1. Malware detection: Machine learning algorithms can analyze large volumes of data to identify patterns that are characteristic of malware. These patterns can then be ..."
     publishedDateTime: 2023-03-08T23:53:00Z

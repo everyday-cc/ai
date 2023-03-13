@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Application, Product, Sales and Forecast 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 13, 2023 (The Expresswire) -- The \"Artificial Intelligence in Healthcare Market\" Study Describes how the technology industry is evolving and how major and emerging ..."
+    publishedDateTime: 2023-03-13T08:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Education Market Size, Drivers Update and Featuring Outlook 2029"
     excerpt: "Artificial Intelligence (AI) in Education Marketinformation for each competitor includes (, ALEKS, Microsoft, AWS,"
     publishedDateTime: 2023-03-10T03:19:00Z
@@ -263,6 +277,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Enterprise Artificial Intelligence (AI) Market Size & Share To Surpass $64.5 Billion By 2028 | Vantage Market Research"
+    excerpt: "The widespread product use among different companies for analyzing and interpreting enormous amounts of data also favors market growth. We forecast that the natural language processing (NLP) category in Enterprise Artificial Intelligence market sales will account for more than 58% of total sales by 2028."
+    publishedDateTime: 2023-03-13T08:07:00Z
+    webUrl: "https://menafn.com/1105761648/Enterprise-Artificial-Intelligence-AI-Market-Size-Share-To-Surpass-645-Billion-By-2028-Vantage-Market-Research"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?817641"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "x0REMD73UMbbI4CFUjf/wI0pd4KhvWYonbQXV2KP3hJnKh8OZ7rLajB6WdPN0o53UrGqLjiwqCemK/p5LlS3cFjxZ0Wp8OdS1S7TKt/FLaXNEk6z5LyvbpmqUO2+joQBYdzWJo4kmS/sESc/d47E+s+WLFrdwVeYJX5ZDvWafavT+9if0w9eF809x5zzxfphfUcJKBay9ft3Jb3oVJXbX1vUkpYiowLW6qxxlXLB3z0Qhx+9p5lvepM0iCdW9C5i4hOjpNMMW5nCBLDCqu5PCMFQHglPvHTtm50OTYkSYdxl/PN3frLX4hR58B2rdQgaIFQrpVIkAsQRQVd/HhRAJkPz8jsrxAjtMK+oupj+mhQ=;/Nk622hIefrT4iYVkxJd0A=="

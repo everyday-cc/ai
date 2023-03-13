@@ -32,7 +32,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://media.wired.com/photos/640a4ab565ec923715ff3b24/191:100/w_1280,c_limit/Tristan-Harris-On-AI-Plaintext-Business-1426703730.jpg"
         width: 1280

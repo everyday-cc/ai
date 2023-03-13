@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Application, Product, Sales and Forecast 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 13, 2023 (The Expresswire) -- The \"Artificial Intelligence in Healthcare Market\" Study Describes how the technology industry is evolving and how major and emerging ..."
+    publishedDateTime: 2023-03-13T08:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare AI Market 2023-2028 Recent Study by Trend and Growth Analysis"
     excerpt: "Mar 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends,"
     publishedDateTime: 2023-03-10T09:46:00Z
@@ -262,6 +276,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Enterprise Artificial Intelligence (AI) Market Size & Share To Surpass $64.5 Billion By 2028 | Vantage Market Research"
+    excerpt: "The widespread product use among different companies for analyzing and interpreting enormous amounts of data also favors market growth. We forecast that the natural language processing (NLP) category in Enterprise Artificial Intelligence market sales will account for more than 58% of total sales by 2028."
+    publishedDateTime: 2023-03-13T08:07:00Z
+    webUrl: "https://menafn.com/1105761648/Enterprise-Artificial-Intelligence-AI-Market-Size-Share-To-Surpass-645-Billion-By-2028-Vantage-Market-Research"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?817641"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "4aNUpe+66uCaUgj40HN0IwollqRW9zEwYxzcYxwTQy5jvpGvpeQvb0xVm2hEjDNp1iiIBs9PguTANMNfXpCbYj158PFWllUbJcP05j+rIhNqiEZ3L5pH2N4v/NZmAovJLrBm5KoRhPdnn+ixlL4L7Ow4avYrsgkvoZZ9+EyxXvRFyYc50UoKRSHOURBZK3TclJK4LVpLuAicTsIS4i3SOMun+vzhnfDFfiDXJCW4b9JE8A0l92rw2tECeldQrKCZgsb5xSUzU3IPC5rFvTOj3wkObUT45ikXvBlmfMe3TS0Xbk6KhyypyfGOkCHDGK3UABQTxzJrAvGNBNHBptoDSKMml+bEm3ecFz3SbETgp4s=;9G8pR2J25Ck8Chhpfto66g=="

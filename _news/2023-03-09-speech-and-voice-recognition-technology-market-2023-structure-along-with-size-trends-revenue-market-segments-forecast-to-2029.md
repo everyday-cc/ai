@@ -23,43 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Image Recognition in Retail Market: The Growing Trend 2029"
-    excerpt: "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-03-10T02:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-the-growing-trend-2029-2023-03-09"
+  - title: "2023, Current Status and Future Prospects Of Computer Vision System Market"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 10, 2023 (The Expresswire) -- Computer Vision System Market Size 2023-2029 | New Report (116 Pages) | Information Technology | In This Reports Computer Vision System ..."
+    publishedDateTime: 2023-03-10T09:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2023-current-status-and-future-prospects-of-computer-vision-system-market-2023-03-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Speech and Voice Recognition Market 2023-A Detailed Analysis till 2028"
-    excerpt: "Speech and Voice Recognition Market Size 2023-2028 | New Report (109 Pages) | In This Reports Speech and Voice"
-    publishedDateTime: 2023-03-13T04:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-2023-a-detailed-analysis-till-2028-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning in Medical Imaging Market Analysis: Future Investments and Growth Factors until 2028"
-    excerpt: "The purpose of this report onMachine Learning in Medical Imaging Marketanalysis is to assist business owners in"
-    publishedDateTime: 2023-03-10T07:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-medical-imaging-market-analysis-future-investments-and-growth-factors-until-2028-2023-03-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

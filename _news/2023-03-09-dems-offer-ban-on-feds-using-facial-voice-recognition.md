@@ -67,22 +67,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Bill proposed to regulate facial recognition technology in policing"
-    excerpt: "A bill to regulate the use of facial recognition technology for law enforcement purposes in California was introduced Wednesday by Assemblymember Phil Ting, D-San Francisco."
-    publishedDateTime: 2023-03-08T19:26:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/bill-proposed-to-regulate-facial-recognition-technology-in-policing/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/bill-proposed-to-regulate-facial-recognition-technology-in-policing/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/bill-proposed-to-regulate-facial-recognition-technology-in-policing/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/20/2dfeb6bc-ef6a-422b-a448-cd1148615e7e/thumbnail/1200x630/468fd08ac29cf2de527db4ac89d5a8f7/10p-pkg-police-facial-r-wcco2p7k.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Stop the spies with the facial recognition"
     excerpt: "If, like us, your initial and overriding opinion of sweeping electronic surveillance of literally everyone by law enforcement is that it is bad — bad to the bone — your attitude about a proposed"
     publishedDateTime: 2023-03-10T15:00:00Z
@@ -98,20 +82,6 @@ related:
       - url: "https://www.sgvtribune.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
         width: 1024
         height: 578
-        isCached: true
-  - title: "Warren, Sanders Want to Ban Racist Facial Recognition Tools From Government Use"
-    excerpt: "Democrats and progressives in Congress reintroduced a bill on Tuesday that would ban the government from using facial recognition technology as increasing surveillance and police violence pose a threat to marginalized communities."
-    publishedDateTime: 2023-03-08T19:45:00Z
-    webUrl: "https://truthout.org/articles/warren-sanders-want-to-ban-racist-facial-recognition-tools-from-government-use/"
-    type: article
-    provider:
-      name: Truthout
-      domain: truthout.org
-    quality: 35
-    images:
-      - url: "https://truthout.org/app/uploads/2023/03/2023_0308-facial-recog-scaled.jpg"
-        width: 2560
-        height: 1848
         isCached: true
 
 secured: "qKLhPny+asLvkY0lrAPEFjiFA07OOhgghwsnz81HZ31X+QyHrGDVQKNkmZLRD1GAvKUOR89p8HYXYYp6oBkuEmih5LAZ3iuXDGl1twrfEaAKlrZy+wPOP5TcG7B7Nry3yoU808oCFTbj3Ahm/sjYP3hYJ5hr5R3QTAeFhz4/HSA20+HFJVls2RcH02yejGS2uzvNbUYxonIZrHI7MgIP4hg4l1wScT/EqdqbpTimjt2OIOkCQlkLafBbtKErnyte+h9eJaG+XJ6cKG2DjFqY+s5D1k/dKR8nrFS380oApTutl80AwLM1lUUsj9iB/VUSVMNXUhwFXhWCnFAIcNm3Bkr5/1i2Ug60LdsPaHYhOPs=;Dgfv/yDUOX6mFlnuEkFS2Q=="

@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Detecting Cancer Early in Slides Using Artificial Intelligence (AI)"
-    excerpt: "A type of automated sorting allow prioritization of malignant slides so that pathologists can review them first and reduce the time to diagnosis for patients with cancer, according to new research ..."
-    publishedDateTime: 2023-03-10T22:00:00Z
-    webUrl: "https://www.medindia.net/news/detecting-cancer-early-in-slides-using-artificial-intelligence-ai-210840-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/detecting-cancer-early-in-slides-using-artificial-intelligence-ai-210840-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/detecting-cancer-early-in-slides-using-artificial-intelligence-ai-210840-1.htm"
+  - title: "How artificial intelligence is being used to detect breast cancer"
+    excerpt: "As the era of artificial intelligence, or AI, continues to expand, the groundbreaking technology is now being used as a tool to detect breast cancer. More and more breast imaging"
+    publishedDateTime: 2023-03-10T21:45:00Z
+    webUrl: "https://abcnews.go.com/GMA/Wellness/artificial-intelligence-ai-detect-breast-cancer/story?id=97767530"
+    ampWebUrl: "https://goodmorningamerica.com/amp/wellness/story/artificial-intelligence-ai-detect-breast-cancer-97767530"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/wellness/story/artificial-intelligence-ai-detect-breast-cancer-97767530"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 72
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
     images:
-      - url: "https://images.medindia.net/amp-images/health-images/endometrial-cancer.jpg"
-        width: 1200
-        height: 1000
+      - url: "https://s.abcnews.com/images/GMA/mammogram-gty-bb-230310_1678465544244_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "OyYZzS9pWk7WRCenkxipL2D3LfUAUEdF9ytbNO5gEgjg4HQZqTwTz0B4RkQGwwhhbJa97MSb7BTK/rbcRLmeoWATNArzfGCeSU0KKbK9bi/YJzoisNl44BM8boRfpPF5gJkYHbMuisYaNnlsByXBou83cFi3gd+wu0RY1a2TZX5AF2e0Lbczfptj2KUK1bF7Yzo1QkOfZaNJHJCciXeN0kVaHypMD1pbgLeHDfAoswMqAXq2n6hwPwed8XFTJGdgtC0ZJGfC97hHAXuuN6FbxuLSy5AaSmEviUI4dRLiTu8ok1R36J/IVtZEKmax38LRp63MioZySRnOyCwq5XZvsyatRBcJDUAeFzuYgoYXiFXxmTw1FKtvjrm/Zcb3Q4qsCdLJyvBZmUmM3QJOZPWRqNXYzWhZ6xHKWfhJmSA/KObCh3ctMJLNxf8Dk0LSiodal2rcKsDEuFnp6EMYcyRx49hycnAhavjXnGxtpG8jJV56bMPBXutYrgYChEp9uIzu0PaI2HNZnyHu+N+k2ruM6A==;9GxW9PmjcPcpznkvoM4lew=="

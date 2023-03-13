@@ -75,36 +75,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Bill proposed to regulate facial recognition technology in policing"
-    excerpt: "A bill to regulate the use of facial recognition technology for law enforcement purposes in California was introduced Wednesday by Assemblymember Phil Ting, D-San Francisco."
-    publishedDateTime: 2023-03-08T19:26:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/bill-proposed-to-regulate-facial-recognition-technology-in-policing/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/bill-proposed-to-regulate-facial-recognition-technology-in-policing/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/bill-proposed-to-regulate-facial-recognition-technology-in-policing/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/01/20/2dfeb6bc-ef6a-422b-a448-cd1148615e7e/thumbnail/1200x630/468fd08ac29cf2de527db4ac89d5a8f7/10p-pkg-police-facial-r-wcco2p7k.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Warren, Sanders Want to Ban Racist Facial Recognition Tools From Government Use"
-    excerpt: "Democrats and progressives in Congress reintroduced a bill on Tuesday that would ban the government from using facial recognition technology as increasing surveillance and police violence pose a threat to marginalized communities."
-    publishedDateTime: 2023-03-08T19:45:00Z
-    webUrl: "https://truthout.org/articles/warren-sanders-want-to-ban-racist-facial-recognition-tools-from-government-use/"
-    type: article
-    provider:
-      name: Truthout
-      domain: truthout.org
-    quality: 35
-    images:
-      - url: "https://truthout.org/app/uploads/2023/03/2023_0308-facial-recog-scaled.jpg"
-        width: 2560
-        height: 1848
-        isCached: true
   - title: "Dems offer ban on Feds using facial, voice recognition"
     excerpt: "A group of 16 US lawmakers today reintroduced a bill that would ban the nation's federal agencies from using facial recognition and other biometric surveillance technologies. The Democrat-pushed proposal also aims to limit state and local governments and law enforcement agencies' use of these surveillance measures by cutting off federal funding unless they enact their own bans on the tech."
     publishedDateTime: 2023-03-08T20:36:00Z

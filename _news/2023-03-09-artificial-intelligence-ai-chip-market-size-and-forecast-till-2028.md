@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-size-and-forecast-till-2028-2023-03-09"
 type: article
 quality: 99
-heat: 269
+heat: 289
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 95
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Application, Product, Sales and Forecast 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 13, 2023 (The Expresswire) -- The \"Artificial Intelligence in Healthcare Market\" Study Describes how the technology industry is evolving and how major and emerging ..."
+    publishedDateTime: 2023-03-13T08:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -261,6 +275,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Enterprise Artificial Intelligence (AI) Market Size & Share To Surpass $64.5 Billion By 2028 | Vantage Market Research"
+    excerpt: "The widespread product use among different companies for analyzing and interpreting enormous amounts of data also favors market growth. We forecast that the natural language processing (NLP) category in Enterprise Artificial Intelligence market sales will account for more than 58% of total sales by 2028."
+    publishedDateTime: 2023-03-13T08:07:00Z
+    webUrl: "https://menafn.com/1105761648/Enterprise-Artificial-Intelligence-AI-Market-Size-Share-To-Surpass-645-Billion-By-2028-Vantage-Market-Research"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?817641"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "7bNF02mNRn3Gjh+rh9Z48Fk7EtKgw6Oh7Eg7Aaxf6VPy7XydQNz34KUgTGxrSuvxRcBd3bUePG7whjYhXoVHVWGNoSMWw0sBVbxuXBUtvK99bo+kQwlMvwefY0NxSVZuOgNF0zKOnGpyqvyeqqdC/Snoi0art5rcYJjmb4srBpQ0jp3C0zWjKwk7KJ4Xv2/rdcC0CXuWK22d6bpSjSUSahxm+/ZQUbicy8/jBPDokJJ/n+vYZevpT9ITDe22rm/2aM0LWGIyKesqcI6hMh9Ic79bldoLWzoJahZh3eP1+MErS/ZaDNuta+w7bWnyFyTWfoKWlP8srrqobbkIIaIXWK/ps0T5b+xiwOrkJv2H6IU=;Y/fTDQkUuoJBPATR6APc1g=="
