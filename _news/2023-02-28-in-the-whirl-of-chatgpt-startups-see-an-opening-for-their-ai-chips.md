@@ -3,10 +3,8 @@ category: news
 title: "In the Whirl of ChatGPT, Startups See an Opening for Their AI Chips"
 excerpt: "The fascination with generative AI has spring-loaded demand for products that can help deliver on its promise. And startups are primed to pounce. ‘There’s new openings for attack,’ says one venture capitalist."
 publishedDateTime: 2023-02-27T20:49:00Z
-originalUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
-webUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
-ampWebUrl: "https://www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f"
+originalUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f?tpl=vc"
+webUrl: "https://www.wsj.com/articles/in-the-whirl-of-chatgpt-startups-see-an-opening-for-their-ai-chips-cb74798f?tpl=vc"
 type: article
 
 provider:
@@ -18,14 +16,9 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
-images:
-  - url: "https://images.wsj.net/im-732623/social"
-    width: 1280
-    height: 640
-    isCached: true
-
-secured: "eBdSgt4OigEsrIZzIRwcsJgviaiMZnLikd7Rek3pQnbRtN70sZVY9JZnbhi100eMgEljYhVQbJhi6BPuLkMWicxPim/kECvBvmlAFUf1Jg0MqLWW1UiSiPGKRVAWxS0Qjy39Y3WhnLdmJeu47YH7RSw2v3bdExB698ltACLV5GRIuYb2hrq+Gu1Z8W9qo+EHxMO3tfXM9OUOSzB62UCUO2cbyT6eYKPl39zsOwoPV0KoR6ev+4z6KfYduWkqUSFcMmamSibsXgPQ/d0DMnZidjM4BA2syPgYsnbvSzD2E2rGf4J9Ninr3HB057O4SniiOppBgYo090SAplFphHgzkJDGUJiOM4Gen/E4Z6o5jr8=;P3JDSdDYcjFyIXkUT1OX8w=="
+secured: "L+ExtuCaPRkhOq7v/9zfMFvfVq8a+mgDa0gnVWHYIVxIaybFGXkPCCv1hnN40joSeMvwjYXmDRiUdvuweEynNUoJiWn4u6uXlv1KSUe/ICTIeGX8ZPznLZQvE3slxFZLPMoY6BbgxDunmIXCVx42ycozZSAP4id55cErAApMXHMbDqcwtpOO/6Kc6rJRCMPKa+KVfbuPS+z1azAEi6IkwtvSd2GB0oRY/ZiDSRKH0JmNALfuyM2DGpS+YGyOb4x1Zpy8bM99G0GBVvdpkXCFZXkkhRcWAbCjubr08qiP2ROh+5zaz1dcW3YvvC1AcrCe3fDsmlX3QqYMo9QxtwnmsKClM+dmX8LPCDmByj/Y+HK5ijRNp7NEk/jB/ngQwTFhmajBq0bMxj3YIOULbZuSxZUdd5VAqwAhJN+cewBcn/nRZTNqB+Dnf8kjvS1cNWkKh9/+h01way8Fwhqt4Ni6NCNDM1tLkLd9MW6P7TyAArl0ab8Arxviu/AUvGewsD5nAUO2JR1lbRcMabxwrKMvXQ==;y0PnV8P3pDYoaHhFMldYMQ=="
 ---
 

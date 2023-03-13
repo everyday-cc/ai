@@ -1,23 +1,20 @@
 ---
 category: news
 title: "\"A right stand\": Activist Rahul Easwar on same-sex marriage"
-excerpt: "Terming the institution of marriage as a \"Sacramental union\" social activist Rahul Easwer on Sunday said that the union government has taken a right stand after it opposed the plea seeking legal recogniton of same-sex marriage."
-publishedDateTime: 2023-03-13T11:04:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/India/20230313/4049127.html"
-webUrl: "https://news.webindia123.com/news/Articles/India/20230313/4049127.html"
+excerpt: "\"We need much more deliberations . Everyone agrees there should not be any kind of discrimination. There should not be any kind of phobia at the same point of time even living together,\" he added."
+publishedDateTime: 2023-03-13T00:46:00Z
+originalUrl: "https://www.devdiscourse.com/article/headlines/2377046-a-right-stand-activist-rahul-easwar-on-same-sex-marriage"
+webUrl: "https://www.devdiscourse.com/article/headlines/2377046-a-right-stand-activist-rahul-easwar-on-same-sex-marriage"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "ULXwaxlkaNliOaGGnnh0xI1eFRbkfniov1DOqiPEBMsFextwmcU9zf76RR/9UlkCf3UFBLTOiH8fRapPK//3wOEl+uBTa9TNYrqe3Tmfhu5RwbLQtq4bwtuGlE+7Jn0EXJ8OoiQpsUMSniyhEzMGgpem9O8Kq3Ky9YmOoZ8on/2CUggkd3BckoCm9Q+vKdHLXKuBOz+rSaFvmNDljlHSquzTdR33HUJHEVZ1iCKRAGsSETWGYTPCVmONBIl6bIcBm2UxJM+AnurpMPY1JKK5pHyJp6fl4qIjHMpxA/6+wdcC9tZ+H7jxFeUJg8h3gB346x1y2FofJsio9G9CinM+6OaKQlWBXohfqeiQOzb4AeM=;/Fs8Wa9Pr8Ozy561lFTuuQ=="
+secured: "pPuBvBNQfPvCTbi4oHG279UqmIkpcR8tvdhB7FxxMTSFAoWet4lEEu98Eg7uSqez4PXiil/DMmHA6+ZaBK3dmdAPmA0vVv18KRfZn2F3gJOtV6A63fCyYq8ov3iDSQdainw0r8A6JkKoazt9qcsrrmwkNCJXI0t7HbP94V0rToc3sLBo95B4j8PVKgL5JLnEpjNtto9uoVO3Bi2t+iEml+tNwooPJs099Y/w64ystdhXk0YyCizgRgDadVprlh+yKCY3wI6Nz5v12HQPUWridN5hEq8Px6U4YCaDbZYC7kmD7Cqs568TcgFJeQ4UzgJ5PeoLU4MyDgOvYqcu8B9BCH+RsuCA9WI/QAuY0ZSrFNynMFmvdtLCJ36PeJHEYlu73PusoPKmc4Q8Nxk1ODH94tyLVgIjx/zdJSg9Opzyx7UL5D2VQhwLC1yUuQKenxONJKB3OI23hZOjwEHKrDRFAmzatKgMr2tjyLIFqQGWVcAbAGs/VC3ra4fTmrw6/9oglsqm2GTdUPdw87aG7Hq+/w==;M+Ktkqvv3e97AtC+tvi1Qg=="
 ---
 
