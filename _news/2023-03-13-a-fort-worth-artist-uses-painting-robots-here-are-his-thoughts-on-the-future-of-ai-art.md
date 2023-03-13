@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://npr.brightspotcdn.com/dims4/default/f86fdfd/2147483647/strip/true/crop/4096x2150+0+291/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F6a%2Ffe906dc24103aa7f42b80fc155b2%2Fai03.jpg"

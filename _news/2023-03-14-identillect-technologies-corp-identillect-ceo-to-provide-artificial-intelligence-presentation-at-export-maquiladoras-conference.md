@@ -1,0 +1,19 @@
+---
+category: news
+title: "Identillect Technologies Corp.: Identillect CEO to Provide Artificial Intelligence Presentation at Export Maquiladoras Conference"
+excerpt: "DANA POINT, CA / ACCESSWIRE / March 13, 2023 / Identillect Technologies Corp. (the \"Company\" or \"Identillect\") (TSX-V:ID)(Frankfurt:8ID), is pleased to announce that its CEO, Todd Sexton, an industry"
+publishedDateTime: 2023-03-13T19:18:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58542116-identillect-technologies-corp-identillect-ceo-to-provide-artificial-intelligence-presentation-at-export-maquiladoras-conference-200.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58542116-identillect-technologies-corp-identillect-ceo-to-provide-artificial-intelligence-presentation-at-export-maquiladoras-conference-200.htm"
+type: article
+
+provider:
+  name: Finanznachrichten
+  domain: finanznachrichten.de
+
+topics:
+  - AI
+
+secured: "eYC0QKD5HatVYrv9drDN0/AqvNEu/oSGHHOSjjOFfnwHRu2f/cA/c5BRxGScXO6EKlsMJgB1KvV/aTaN8I8EKsRAKhamxyCzGgh4pxbvHgWika9o5BSWyE3JJTrMzcXkA1UDPojzbl66INa0O7Z98BK5SRm3zjpGVSaS0KG6Q3S5dUyIggALXghTI2BCyNfTUcXI1q+DMp3KZxBpuVC5htCZga8M+MHoprVfueM3RdPV/+/tpg65hAaNAkkrpOkFSfWw0Y/H5rLcVMkhq9d1qIE477db44SKr0rjYvaqwy9O7c4UN7IdFj93N537FJqiyKIdtqYsvDQ0nbYu7wUjuFA7cJnEQc3vcNZZkLviqnc=;srhVajbBCOAsB7lEHWAVtQ=="
+---
+
