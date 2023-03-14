@@ -2,26 +2,26 @@
 category: news
 title: "Stop the spies with the facial recognition"
 excerpt: "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ..."
-publishedDateTime: 2023-03-10T23:02:00Z
-originalUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
-webUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
-ampWebUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-cdnAmpWebUrl: "https://www-presstelegram-com.cdn.ampproject.org/c/s/www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+publishedDateTime: 2023-03-10T23:57:00Z
+originalUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
+webUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
+ampWebUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Press-Telegram
-  domain: presstelegram.com
+  name: Orange County Register
+  domain: ocregister.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.presstelegram.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+  - url: "https://www.ocregister.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
     width: 1024
     height: 578
     isCached: true
@@ -79,7 +79,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -100,6 +100,6 @@ related:
         height: 720
         isCached: true
 
-secured: "/0tV4roiCMyEfXlacoGori7Au+/T8R4Xn4r3NmUJWSiyPmTjjHuHvkPTC8UJ507bhAJGgKjk+etvbhJMOI94l32ui+XzwItKcp7spABBeesnbJ9UYwsk63givcCdqze9PmzfZxe1Yu3hqkXlECLHsCE69Exh2g6vxcppmvWyAj+sAJOCShsVIpvcESbS9yeWAmHjIyhLF/8biPq0zqWJgAqnWH1t2ze5xwmGdkKt2nnVJATjPZ7u0N5lpkJ13YiSdBd26LUQpjWlbj7kZtGZnkpXH9spixckLnrgRqrjX3XOZq1Jo6ojBJC6Haniww1bX7JrR6UNbkPQnWfRUUMsce4BdUbIWbNvzaHQuRzrHwE=;toaOMAl5ugv8KjKPrCicvQ=="
+secured: "7yrA1/wp2xoezn3XuPBAdo6il5gTieXHes++RE+k6DteueV/AOu8xqel3lIT4SkZwZxmMM92IT7uwQByfsm1YQ1LrYZLiTl3v68KD4m4BFdxDdyQq9HQqjQmK8PGgmTkw83sWmivU+knqqJ+Px+0KAKty2sqX6YTiXCE/RgNttf87h9Y1AZyEQUo/u5FYRboiF5Et/+N5rL6CNbMXblpp+wOkjg7ZHAz26RO/zDO8hCY7GYI/nDy0FYGoDJ47Pa3XFX16y+H43hF02gC5NNqo4Ra5DqufcNLuItLBnnHN3SZI8aIuqM/ycmaeCaoedowofCmr0GqXVPJmB47HbbqjO8Itt+CDhVcwo6pftccFbU=;Vy2wc4UTgoL9qYRPZXg6/w=="
 ---
 

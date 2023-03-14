@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Microsoft Strung Together Tens of Thousands of Chips in a Pricey Supercomputer for OpenAI"
-excerpt: "When Microsoft Corp. invested $1 billion in OpenAI in 2019, it agreed to build a massive, cutting-edge supercomputer for the artificial intelligence research startup. The only pro"
-publishedDateTime: 2023-03-14T01:43:00Z
-originalUrl: "https://tech.hindustantimes.com/tech/news/microsoft-strung-together-tens-of-thousands-of-chips-in-a-pricey-supercomputer-for-openai-71678733079078.html"
-webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-strung-together-tens-of-thousands-of-chips-in-a-pricey-supercomputer-for-openai-71678733079078.html"
-ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-strung-together-tens-of-thousands-of-chips-in-a-pricey-supercomputer-for-openai-71678733079078.html"
-cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-strung-together-tens-of-thousands-of-chips-in-a-pricey-supercomputer-for-openai-71678733079078.html"
+title: "Microsoft strung together tens of thousands of chips in a pricey supercomputer for OpenAI"
+excerpt: "When Microsoft invested $1 billion in OpenAI in 2019, it agreed to build a massive, cutting-edge supercomputer for the artificial intelligence research start-up. The only problem: Microsoft didn't have anything like what OpenAI needed and wasn't totally sure it could build something that big in its Azure cloud service without it breaking."
+publishedDateTime: 2023-03-13T20:17:00Z
+originalUrl: "https://www.spokesman.com/stories/2023/mar/13/microsoft-strung-together-tens-of-thousands-of-chi/"
+webUrl: "https://www.spokesman.com/stories/2023/mar/13/microsoft-strung-together-tens-of-thousands-of-chi/"
 type: article
-quality: 82
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Hindustan Times Tech
-  domain: hindustantimes.com
+  name: The Spokesman-Review
+  domain: spokesman.com
 
 topics:
   - AI Hardware
@@ -22,9 +20,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://images.hindustantimes.com/tech/img/2023/03/14/1600x900/Microsoft_1672984204326_1678758059588_1678758059588.jpg"
-    width: 1600
-    height: 900
+  - url: "https://thumb.spokesman.com/AP0lDD2FDYkF4SbwzfTNZWfFBMY=/1200x630/smart/media.spokesman.com/photos/2023/03/13/640f78bbefb0e.hires.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -182,20 +180,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "VALL-E: Microsoft's AI can translate your voice into foreign languages"
-    excerpt: "Microsoft is well aware of the potential misuse of the technology and isn't releasing it to the public until sufficient safeguards are in place."
-    publishedDateTime: 2023-03-09T11:52:00Z
-    webUrl: "https://interestingengineering.com/innovation/microsoft-ai-voice-foreign-languages"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 71
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/09/image/jpeg/25td9ood33U5ffQri93Hz9IIy59Bcm2NYgqIPG7w.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft debuts new AI-optimized Azure instances"
     excerpt: "Microsoft Corp. is extending its Azure cloud platform with the addition of a new instance family designed to run artificial intelligence models. The instance family, known as the ND H100 v5 series, made its debut today."
     publishedDateTime: 2023-03-13T23:49:00Z
@@ -276,6 +260,6 @@ related:
       domain: techreport.com
     quality: 34
 
-secured: "QhPPoVHFpCRmolUQTzQ1JQdMYPXWpszFmFyVZRzE3B+iK6GzIo4B2cu1cn8/FZYjIKJiDy3yE4TpgZLnjokU4ygXVnxhk7jawRZRDR2D9+eRtJXsdD/OffpoqWrAnIcv4g6k1pzlSVpHkEjYXN6vM6wQkDlSN8lRa9oksePV4DeePEMLVpOATd1g34r0BZ2VYomivf9pvdZK1/84Nlkb5z9FxA6nlaQIHUqHf+vBJUrFYJ4toHYjU6USnLpON59HERYy0a8mHVR45t66nUKSoGKwBNQwQcJez9fXl3nms3YnQFfAMfZIikFCH7ivS700XJ4rRFHwH0Mp9AuHIKFGBbFPGE6CPxIEoGCCRx/ExMc=;nypPGP3hxq++ej585Rzt4A=="
+secured: "Q3dZfjrngRefALeJYSPaicymVccBiBaTIr/lMEWS4LX5PNnQhNtbDuaXqwy+egwadd0x61t8JlmKm9xTEWHdxN3nqlIBIVWcj0s+IkT4TXixXwR8GopUZAiVqu33j+1jL4gxJJBqDu+0o/mze1zDnPEyhQjRPl/OmD65cKRomfD60pS4c/2e4RXIGc786WDXBx3z+UgA2kylYKCMaJ0NKlYMcAgJl8UWLkQqf4LUm/0lhwHLQudw0dRfT7dmTIn0N96yd8FUMqvA9WzRsZgW8W1wq3pdHkMt8vQ3CnTNlJyRfxzYwbDRtshaLT3nuv258UGq+A6cvoW7vZKOShfs2Z2uu86UfvxGKEtRQQAH11g=;5ygb2BZ0hTS57m/0Tl3w+Q=="
 ---
 

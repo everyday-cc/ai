@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12"
 type: article
 quality: 80
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.livemint.com/img/2023/03/13/600x338/women-entrepreneurs_1678686346634_1678686347045_1678686347045.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "AI In Fintech Market Is Set To Fly High In Years To Come | Google, IBM, Intel"
-    excerpt: "Stay up to date with AI in Fintech Market research offered by HTF MI. Check how key trends and emerging drivers are shaping this industry growth. HTF MI integrates History, Trends, and Forecasts ..."
-    publishedDateTime: 2023-03-09T11:22:00Z
-    webUrl: "https://menafn.com/1105739028/AI-In-Fintech-Market-Is-Set-To-Fly-High-In-Years-To-Come-Google-IBM-Intel"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 36
-    images:
-      - url: "https://menafn.com/updates/pr/2023-03/09/EP_624b5image_story.jpeg"
-        width: 636
-        height: 333
         isCached: true
   - title: "Five trends set to transform fintech banking in 2023"
     excerpt: "Artificial intelligence (AI) is one of the most disruptive technologies in the ... This is particularly true for fintech companies, which are finding success by focusing on serving specific businesses such as marketplaces, PSPs, advertising networks ..."

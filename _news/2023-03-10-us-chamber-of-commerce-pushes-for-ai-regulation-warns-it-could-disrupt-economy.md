@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/us-chamber-of-commerce-push
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-chamber-of-commerce-pushes-for-ai-regulation-warns-it-can-disrupt-economy/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: ZDNet
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How Artificial Intelligence Could Reinvent The Communications Industry"
-    excerpt: "AI is poised to reinvent the entire communications industry and pave the way for better, more accessible human expression by eliminating monotonous tasks and expanding creative potential."
-    publishedDateTime: 2023-03-09T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/09/how-artificial-intelligence-could-reinvent-the-communications-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/03/09/how-artificial-intelligence-could-reinvent-the-communications-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/03/09/how-artificial-intelligence-could-reinvent-the-communications-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64073e65f34985d93825191c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 686
-        isCached: true
 
 secured: "yoXjAePqPLMEHjDyYghSDORfe3+MTdX1jfURqgwK3x80kDBC5htttji2Hero+nfAWfKEBFcEfQfE5kfUXkOWQX7CRmFVR1XBoPaV6FC8jtahQc5y4hBjXdIPCdwpyJHDww5bkke9QhA2RZTLL+Wp39heSsMzRzbQNKiBkqad7aPw2mgnxLZkdrxyQc3EcXK/jmLVNlrC6QLPXOptYcNxMoIzJ5fugr4jnifErg0fF5o+8md5s7phczI5LhqEFI1mhLqFIriZxBUKuTd11L1o0kKYNxCJsOp6QpyPVs4dfHsfrJJz0PacMJb9+jg+iRYonEV7D8dm+mWQ7z980dX//ZWSjuOP0VFzvBcSuM6QVN7GV16snmYZirewLE8UhDYb6BzqV1UFRSjROJrLaYAIF47qskq6MrEYOATr79IfvwsEi8YUtWQopj66x6TYudO2ccHPf6FIj3y1I0RK9KVn3KW1ZkzrhTd/MKHiadA1OI1KeJ+FHLh87vtCS0qBimDb6VohI5n3kfyV+Vb/G6pWOw==;7YEq+gUCwUNNYIBLFOaOfQ=="
 ---

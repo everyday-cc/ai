@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artificial intelligence used to generate voice cloning"
+    excerpt: "New artificial intelligence technology is being used to generate imitations or clones of people’s real voices. NBC’s Gadi Schwartz tests this advanced technology and explains the implications that are sparking debate over its potential fraudulent usage."
+    publishedDateTime: 2023-03-14T02:37:00Z
+    webUrl: "https://www.nbcnews.com/now/video/artificial-intelligence-used-to-generate-voice-cloning-165153349812"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo165153349812"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165153349812"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1678761361048_now_staytuned_gsc_ai_voice_230313_1920x1080-blmx8n.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "LSnn6JxXYe03eS+dyKWDizRjiKibWoBOkkyvmBKYZP+RS5qFXlTiKSuKeV8ot8/sAeG9zrCcl0BC8L26dsGQx56J6f98q5gxvYv7XE7UJJmXEIbTJ66do2laz/HBtPt/L+sa7zGkLD7iYYKRyQoyOhGrE7dCUqMZinsIQuzLrcLI8mbv7hWe4f3zX2QZwYOiR4TiCUx6iyYC/kVAGI+xegMqOD9BpFquZQzO8arO2McxF00TzVg/CdsHwHV6GH4io435H3NfobJYzzeDbXnld4oKqWBkGT1vhaGyfXHGxS538lNEfzlztHnP1cpfEuOfaO7y5bUwiJ4ce7HFWBsxkJOa8379UyuJ7RDou8Nv+/rWnFBx9KJIdbCXlUsKDJwbnzhpCORTYGNXSVpOckKmXlrsJcgDk/NbxVtsMbDPtT2Pi3YVYJcdepceUonc2lcfxu4spgNhBr+wvAh8v5ZLwdnDdNnKp0HTgatBgDvEwZsQBZHnYkYvdWz28shRtTtSEyn+NLSjm5vmoOl551sdGg==;C34MBwWdrGXGVdUrhUGEvQ=="
 ---

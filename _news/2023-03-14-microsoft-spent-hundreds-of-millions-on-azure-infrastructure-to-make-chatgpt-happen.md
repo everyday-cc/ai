@@ -103,22 +103,6 @@ related:
         width: 400
         height: 320
         isCached: true
-  - title: "Microsoft Strung Together Tens of Thousands of Chips in a Pricey Supercomputer for OpenAI"
-    excerpt: "When Microsoft Corp. invested $1 billion in OpenAI in 2019, it agreed to build a massive, cutting-edge supercomputer for the artificial intelligence research startup. The only pro"
-    publishedDateTime: 2023-03-14T01:43:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-strung-together-tens-of-thousands-of-chips-in-a-pricey-supercomputer-for-openai-71678733079078.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-strung-together-tens-of-thousands-of-chips-in-a-pricey-supercomputer-for-openai-71678733079078.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-strung-together-tens-of-thousands-of-chips-in-a-pricey-supercomputer-for-openai-71678733079078.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 82
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/03/14/1600x900/Microsoft_1672984204326_1678758059588_1678758059588.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Microsoft Introduces Generative AI VM on Azure with Scaling up to Thousands of GPUs"
     excerpt: "Microsoft today introduced the ND H100 v5 VM on the Azure cloud, a virtual machine for development generative AI applications. The VM can scale from eight to thousands of NVIDIA H100 GPUs with Quantum-2 InfiniBand networking,"
     publishedDateTime: 2023-03-13T19:49:00Z
@@ -195,20 +179,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "VALL-E: Microsoft's AI can translate your voice into foreign languages"
-    excerpt: "Microsoft is well aware of the potential misuse of the technology and isn't releasing it to the public until sufficient safeguards are in place."
-    publishedDateTime: 2023-03-09T11:52:00Z
-    webUrl: "https://interestingengineering.com/innovation/microsoft-ai-voice-foreign-languages"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 71
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/03/09/image/jpeg/25td9ood33U5ffQri93Hz9IIy59Bcm2NYgqIPG7w.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Microsoft debuts new AI-optimized Azure instances"
     excerpt: "Microsoft Corp. is extending its Azure cloud platform with the addition of a new instance family designed to run artificial intelligence models. The instance family, known as the ND H100 v5 series, made its debut today."
     publishedDateTime: 2023-03-13T23:49:00Z
@@ -251,6 +221,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft strung together tens of thousands of chips in a pricey supercomputer for OpenAI"
+    excerpt: "When Microsoft invested $1 billion in OpenAI in 2019, it agreed to build a massive, cutting-edge supercomputer for the artificial intelligence research start-up. The only problem: Microsoft didn't have anything like what OpenAI needed and wasn't totally sure it could build something that big in its Azure cloud service without it breaking."
+    publishedDateTime: 2023-03-13T20:17:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/mar/13/microsoft-strung-together-tens-of-thousands-of-chi/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 62
+    images:
+      - url: "https://thumb.spokesman.com/AP0lDD2FDYkF4SbwzfTNZWfFBMY=/1200x630/smart/media.spokesman.com/photos/2023/03/13/640f78bbefb0e.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Forget Chatgpt. Nvidia Is The Real AI Winner..."
     excerpt: "Ever since AI chatbot ChatGPT burst onto the scene in November, any stock even remotely related to AI has soared. Gates Capital Management's ECF Value Funds have a fantastic track record. The funds (full-name Excess Cash Flow Value Funds),"
     publishedDateTime: 2023-03-11T04:35:00Z
@@ -275,6 +259,6 @@ related:
       domain: techreport.com
     quality: 34
 
-secured: "DuCv4HbWtG9U1AVcQSXc0x6yMmiFM6vdfNxaI1ycb2Ax9jTqU5+0XQlM0iZ8mKEwVxo4ZztQln1NvuK93rn3U8ty4UdyguUUAIuZt/hJyXlSsLei2tWQ3jk5lgjyuCNY13pmy0Oxx6FDsAQZ/Dbi05PiMsD1SK+BT2/iLbg5Bk15JKMr57wBc+xepqOKZuxfzGB/hQJJCZeXV3yzwHeKVhlESImFgZod9vicPutVBYI6+a/3faMqBgB4CxWF/Srh3JmO2zYm35BYsMvxxmtkQhMmdwABWKMcoHvPYdixCJt9IlFiZQASGHEficlgyzvxDYtjasLgiEf4w2qo3YqhM/zKKdVzL0ADuMFZyReSAbc=;YMs3nWlqTOfs8p6ExELykg=="
+secured: "faOqqlw3xFWBhWXMy1NUcubLr91EjmjnVuA3NddWX8sMeK5iXYKJOw7e3YOI3QUpajU9pqX2zoGDE/ZxFuE0mhfelZEaonFow6gQwXz4AeUuQhB5hpg16gyb32pD5AGPzaJYMZ/I9yTLoQCEVioks2h5FHrid32lhvGmRUyK02ooi4MeD7/JQdf58YKi2NWaNuHZ+fV2szSB+L9I/7O/eGAE1Bm82j/jzAV/a7dUed8DIS2ekRifADKYpR3pb9KXvJsO6rmeTKxi2GRS7NY1s5G4N1Q99fIPBxTp0+0xqM2Nv7ErOQbOOo3i9Dk5ezkXW2IraHrVrPL6knIS6Xw/N+OBRdJYZ6hyt8PhSkTlVbaEgYIUOmTQIhPxCbkSb9m/GlgvV9Hp+71cTw6Mi3yg/JxWA1bPimLt0GKK1HsJ+6QcTqwaBxIU5vAi5aXnUKsOGsJZDtoHYr1okMDAL+6FmqoQGd6jgbldkuLlxy+VlukmR82131LK6X+Bau4sLi7vZ5I5GrS/eQDj6qKAGOSeiA==;YxBsa/qfOzwcKyxwjMMKDg=="
 ---
 

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "SC refers petitions seeking legal recognition of same-sex marriage to Constitution Bench"
-excerpt: "The Supreme Court on Monday referred various petitions seeking legal recognition of same-sex marriage to the Constitution Bench. A bench headed by Chief Justice of India DY Chandrachud listed the petitions seeking legal recognition of same-sex marriage to a five-judge bench constitution bench and said that the hearing will"
-publishedDateTime: 2023-03-13T11:44:00Z
-originalUrl: "https://theprint.in/india/sc-refers-petitions-seeking-legal-recognition-of-same-sex-marriage-to-constitution-bench/1440019/"
-webUrl: "https://theprint.in/india/sc-refers-petitions-seeking-legal-recognition-of-same-sex-marriage-to-constitution-bench/1440019/"
-ampWebUrl: "https://theprint.in/india/sc-refers-petitions-seeking-legal-recognition-of-same-sex-marriage-to-constitution-bench/1440019/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/sc-refers-petitions-seeking-legal-recognition-of-same-sex-marriage-to-constitution-bench/1440019/?amp"
+excerpt: "Bench headed by CJI DY Chandrachud listed petitions seeking legal recognition of same-sex marriage to a five-judge bench constitution bench"
+publishedDateTime: 2023-03-13T06:36:00Z
+originalUrl: "https://www.thestatesman.com/india/sc-refers-petitions-seeking-legal-recognition-of-same-sex-marriage-to-constitution-bench-1503162038.html"
+webUrl: "https://www.thestatesman.com/india/sc-refers-petitions-seeking-legal-recognition-of-same-sex-marriage-to-constitution-bench-1503162038.html"
+ampWebUrl: "https://www.thestatesman.com/india/sc-refers-petitions-seeking-legal-recognition-of-same-sex-marriage-to-constitution-bench-1503162038.html/amp"
+cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/sc-refers-petitions-seeking-legal-recognition-of-same-sex-marriage-to-constitution-bench-1503162038.html/amp"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: The Statesman
+  domain: thestatesman.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://static.theprint.in/wp-content/uploads/2023/03/ANI-20230313111545.jpg"
-    width: 600
-    height: 450
+  - url: "https://www.thestatesman.com/wp-content/uploads/2023/01/Untitled-design-2023-01-03T192727.872.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -59,21 +59,7 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Centre in SC opposes plea seeking legal recognition of same-sex marriage, says it can't be compared with Indian family unit"
-    excerpt: "Centre in its affidavit has opposed the plea seeking legal recognition of same-sex marriage saying that living together as partners by same-sex individuals"
-    publishedDateTime: 2023-03-12T11:13:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273619608/centre-in-sc-opposes-plea-seeking-legal-recognition-of-same-sex-marriage-says-it-cant-be-compared-with-indian-family-unit"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 0
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1678619030.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
-secured: "LXxLkW7nCHj0Q2Ez8k1ZrDVXzd3Ljx2e08E9NddjjU+sDuzav7gKurjIIsH980DPDdB9Mr/ltba7J/T24LpU7WZ94oJs15fIUMk7iuOzKfBVJxbbeZffbgZkbCMA4PwB+iNFcuMkmnpA4veNZNCLNamqybSTPZLI+M5XSjCBmL8PwCdTiKf0ibIXQ5KXk+uGxEP6IEdLN3wWDIHJHrOnMRsugJLQj2hJynJRO8HvLsaSyRvuVTHS+Q1Unjm4DNPig4y/zXCQ88KvJ/n15LVC0TYXeN5ck7beWmtMQWLVWmqHbYoVc8ityGqsAa/YVjG/xiYU2kb8OviyMshM29yW5c3oE2xZO7NEouKyTLfpTOE=;BrV/ziHGqEOQoM/KbNtxiQ=="
+secured: "WkBg8cnt9OO29udGvdDIIwi5W8VjR67ak/ZS4K9lPIriEO6pcDTmYgJq4KYgLlUeXMAVInL+nZDcgtL/q4hh/a7gy4eoqoMqfzO24VQM0DkJUBuOazDycP8IAIP+U9FwVCZjFN7ifGI89XNvLgNqICjGv5O3TV25b3MXAGsl2FEmJZM3O/PK7qNhS+3IAbic4iDIYhIc271i//JsARJUWmHZJLeLbPig/0YLFb7B7+RlvauXyQsZhhQVZOf1CDTMaQFHarDjSn+2R56vsh2Ja5Q7MA5txGirwE9IRZngOjCubQv8AO+DH64oImbbmmwpRDUM++T3wYjIOVScBZOIHYkytlZMmn4sfsmxlbgyM8Y=;5SWPNCy68YugZ0FufyStUQ=="
 ---
 

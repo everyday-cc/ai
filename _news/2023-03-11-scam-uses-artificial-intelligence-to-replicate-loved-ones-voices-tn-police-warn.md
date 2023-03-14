@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Everything seems to be using AI all of a sudden. Here's why."
-    excerpt: "When ChatGPT launched in November, it rocketed chatbot programs and other AI tools into people's minds, and in some cases into their workflows."
-    publishedDateTime: 2023-03-09T11:02:00Z
-    webUrl: "https://www.9news.com/article/news/nation-world/brands-adopt-ai-tools/507-c5c08f0b-73ca-4482-bdf8-603800167b85"
-    ampWebUrl: "https://www.9news.com/amp/article/news/nation-world/brands-adopt-ai-tools/507-c5c08f0b-73ca-4482-bdf8-603800167b85"
-    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/nation-world/brands-adopt-ai-tools/507-c5c08f0b-73ca-4482-bdf8-603800167b85"
-    type: article
-    provider:
-      name: 9NEWS
-      domain: 9news.com
-    quality: 57
-    images:
-      - url: "https://media.9news.com/assets/CCT/images/b5b714e2-403a-44b4-8c6d-78bb9d60ee5e/b5b714e2-403a-44b4-8c6d-78bb9d60ee5e_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Beware artificial intelligence for your home improvement needs"
     excerpt: "Along with other scam businesses out there, you should be cautious not to fall for AI when it comes to home advice."
     publishedDateTime: 2023-03-13T14:00:00Z
@@ -67,6 +51,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 19
+  - title: "Students are using artificial intelligence at school. Here's why teachers aren't panicking"
+    excerpt: "Many local college professors and K-12 educators say they aren't worried about ChatGPT's use in the classroom. Why? It's easy to detect."
+    publishedDateTime: 2023-03-14T02:30:00Z
+    webUrl: "https://www.cincinnati.com/story/news/education/2023/03/13/students-use-chatgpt-and-ai-but-teachers-arent-worried/69925517007/"
+    type: article
+    provider:
+      name: The Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 9
 
 secured: "5adbK/KLA3Ocez62PuW8Sp3dsqtN2G2WBAU2MwETkwoLsb7lnIw/z9BE6CDPIaQAgaHRcRN0bfe9Ygsl3YeBs0Uvz5kiar9vjCAiOJFVWkNTsO5xeRRnY7b+0DiIFvTYgCRyUAL5EwzeLs2roYHOupxG7oMIDWH+cTk687nSkYvRL+BuKeP8cofYSZFJyHVc9d+T0aGGmZgtnPc/oTqvexEwTsIoSqvfLzO8L+6h9iF4Zp+cJMYxObG+FExrZaU1or1x3J3k8w8QX+4NoKuAiVKshGMwU69awnGN/hl2dU2xYACGqhrjJXAJXZP6Qsh+WIHBgfmbWtFLt6mUEi+Gbdx6X5GFplMwnXhy6ZxaUdM=;Ar/1c76OXTYcC5RZihg0PQ=="
 ---
