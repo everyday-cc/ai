@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo165109829933"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165109829933"
 type: article
 quality: 95
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
     quality: 87
     images:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1678761361048_now_staytuned_gsc_ai_voice_230313_1920x1080-blmx8n.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Generative AI: hype or reality? AWS, Cohere and Stability AI analyze new tech applications"
-    excerpt: "Several tech advances, such as computer vision and, more particularly, generative AI, are unraveling a swathe of new capabilities. Many forward-thinking companies are already investing to drive increased end-user value and stay competitive."
-    publishedDateTime: 2023-03-09T19:59:00Z
-    webUrl: "https://siliconangle.com/2023/03/09/generative-ai-hype-reality-aws-cohere-stability-ai-analyze-new-tech-applications-awsshowcases3e1/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Aidan-Bratin-Tom-Clean.jpg"
         width: 1920
         height: 1080
         isCached: true

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-2023-latest-report-is-thriving-worldwide-by-2029-2023-03-09"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence (AI) Chips Market Intelligence Report [2023-2026] | Our Research Gives You the Competitive Edge in the Industry"
+    excerpt: "Pages Report] Global “ Artificial intelligence (AI) Chips Market ” [2023-2026] latest research report with the latest facts and figures, definitions, SWOT analysis, expert opinions, and global developments,"
+    publishedDateTime: 2023-03-13T11:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud AI Developer Services Market 2023 [Latest Report] Is Thriving Worldwide by 2029"
     excerpt: "Cloud AI Developer Services Market 2023 with 116 Pages Report and enhance with extents shares into sub-counties are"
     publishedDateTime: 2023-03-10T02:28:00Z

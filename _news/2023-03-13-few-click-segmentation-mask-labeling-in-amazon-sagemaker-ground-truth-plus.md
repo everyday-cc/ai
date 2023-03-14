@@ -23,20 +23,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Architect personalized generative AI SaaS applications on Amazon SageMaker"
-    excerpt: "The AI landscape is being reshaped by the rise of generative models capable of synthesizing high-quality data, such as text, images, music, and videos. The course toward democratization of AI helped to further popularize generative AI following the open-source releases for such foundation model families"
-    publishedDateTime: 2023-03-09T18:57:09Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 102
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/06/ML-13166-arc-1-1120x630.png"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Using Amazon SageMaker with Point Clouds: Part 1- Ground Truth for 3D labeling"
     excerpt: "In this two-part series, we demonstrate how to label and train models for 3D object detection tasks. In part 1, we discuss the dataset we’re using, as well as any preprocessing steps, to understand and label data. In part 2, we walk through how to train a model on your dataset and deploy it to […]"
     publishedDateTime: 2023-03-10T18:20:54Z

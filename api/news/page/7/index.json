@@ -2,6 +2,153 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-03-06-computer-vision-system-market-is-growing-globally-forecast-2023-2027.md",
+      "title": "Computer Vision System Market is Growing Globally Forecast 2023-2027",
+      "excerpt": "The Research report on “Computer Vision System Market” Growth for 2023 provides a comprehensive analysis of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-is-growing-globally-forecast-2023-2027-2023-03-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-is-growing-globally-forecast-2023-2027-2023-03-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T23:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-future-of-artificial-intelligence-ai-in-fintech-market-by-2029-trends-and-predictions.md",
+      "title": "Future of Artificial Intelligence (AI) in Fintech Market by 2029: Trends and Predictions",
+      "excerpt": "The recently published Artificial Intelligence (AI) in Fintech Market Report, spanning across 116 pages, provides",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-in-fintech-market-by-2029-trends-and-predictions-2023-03-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-in-fintech-market-by-2029-trends-and-predictions-2023-03-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T18:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-artificial-intelligence-could-help-detect-breast-cancer-study.md",
+      "title": "Artificial intelligence could help detect breast cancer: study",
+      "excerpt": "The use of artificial intelligence is growing across a myriad of sectors, from being used to detect emissions and predict lightning strikes to monitor aging infrastructure and drive vehicles. Early research has now found it could be effective at helping doctors detect breast cancer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html",
+      "originalUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LLZSV63TI5FEZIKVKAEDJVKO5M.jpg",
+          "width": 2916,
+          "height": 2233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html?outputType=amp",
+      "publishedDateTime": "2023-03-05T18:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Staten Island Advance",
+        "domain": "silive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-5-ways-machine-learning-is-leading-to-smarter-manufacturing.md",
       "title": "5 Ways Machine Learning Is Leading to Smarter Manufacturing",
       "excerpt": "Major companies around the world are heavily investing in machine learning (ML) solutions across their manufacturing processes and seeing impressive results. From bringing down labor costs and reducing downtime to increasing workforce productivity and ...",
@@ -881,6 +1028,49 @@
       ]
     },
     {
+      "path": "_news/2023-03-04-can-religion-save-us-from-artificial-intelligence.md",
+      "title": "Can religion save us from Artificial Intelligence?",
+      "excerpt": "“Indeed, if technological progress increases inequality, it is not true progress,” Pope Francis said in a Nov. 2020 video announcing his prayer intention that robotics and artificial intelligence may always serve humankind. The Vatican’s goal is not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/f945c1c/2147483647/strip/true/crop/2400x1260+0+170/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F95%2Fe4%2F38a91b6245bcb0f695100dd36eea%2Funnamed.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-03T17:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-04-report-ai-startup-inflection-in-talks-to-raise-up-to-675m.md",
       "title": "Report: AI startup Inflection in talks to raise up to $675M",
       "excerpt": "Inflection has not yet launched a product and offers little information about its plans on its one-page website. The startup first made headlines last May after a regulatory filing revealed it had raised $225 million in funding.",
@@ -921,187 +1111,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-one-expert-thinks-elon-musk-is-wrong-about-ai-heres-why-hes-right.md",
-      "title": "One Expert Thinks Elon Musk Is Wrong About AI. Here’s Why He’s Right.",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s no secret that Elon Musk is highly focused on artificial",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/one-expert-thinks-elon-musk-is-wrong-about-ai-heres-why-hes-right-1032144927",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/one-expert-thinks-elon-musk-is-wrong-about-ai-heres-why-hes-right-1032144927",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-these-are-the-ai-trends-that-keep-us-up-at-night.md",
-      "title": "These Are The AI Trends That Keep Us Up At Night",
-      "excerpt": "BuzzFeed News will round up the biggest, weirdest developments in the rapidly expanding field of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-artificial-intelligence-monthly-news-trends?ref=upstract.com",
-      "originalUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-artificial-intelligence-monthly-news-trends?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2023-02/6/21/campaign_images/35488d389fb0/google-just-announced-its-chatgpt-rival-3-1450-1675718238-7_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/pranavdixit/ai-artificial-intelligence-monthly-news-trends",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/pranavdixit/ai-artificial-intelligence-monthly-news-trends",
-      "publishedDateTime": "2023-03-03T11:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "buzzfeednews.com",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-guide-to-artificial-intelligence-etfs.md",
-      "title": "Guide to Artificial Intelligence ETFs",
-      "excerpt": "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
-      "originalUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-the-top-us-consumer-watchdog-is-worried-youre-going-to-fall-for-ai-scams-or-overblown-marketing-hype.md",
-      "title": "The top US consumer watchdog is worried you're going to fall for AI scams or overblown marketing hype",
-      "excerpt": "The FTC is checking the AI claims of tech companies and investors and concerned about AI-powered fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatbot-ftc-chatgpt-hype-scam-fraud-ai-artificial-intelligence-2023-3",
-      "originalUrl": "https://www.businessinsider.com/chatbot-ftc-chatgpt-hype-scam-fraud-ai-artificial-intelligence-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6402378937125e0018a101cb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatbot-ftc-chatgpt-hype-scam-fraud-ai-artificial-intelligence-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatbot-ftc-chatgpt-hype-scam-fraud-ai-artificial-intelligence-2023-3?amp",
-      "publishedDateTime": "2023-03-03T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

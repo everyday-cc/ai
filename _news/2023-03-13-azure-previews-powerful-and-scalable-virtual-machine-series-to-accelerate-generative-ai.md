@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scala
 webUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "How to set up an enterprise strategy for generative AI"
+    excerpt: "Generative AI will likely enhance how businesses operate and find business value. The early days of cloud can yield adoption lessons for the new technology. Editor’s note: The following is a guest post from Patrick Pugh,"
+    publishedDateTime: 2023-03-14T11:41:00Z
+    webUrl: "https://www.ciodive.com/news/enterprise-generative-AI-strategy/644156/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
+    images:
+      - url: "https://www.ciodive.com/imgproxy/Nvwrj8pE7MT8kOQoH9ubKSC4AQJ7l5KWn_8GeygV6BY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDMwOTc0NDEuanBn.jpg"
+        width: 770
+        height: 434
+        isCached: true
   - title: "Making scalable computing easy: Anyscale harnesses foundational machine learning models at scale"
     excerpt: "But, given their depth, these models also require large amounts of compute resources to perform at a meaningful scale. And that computing at scale is the problem that Anyscale Inc. is working to solve."
     publishedDateTime: 2023-03-09T21:01:00Z

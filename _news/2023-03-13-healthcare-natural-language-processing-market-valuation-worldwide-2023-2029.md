@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence and Machine Learning Market Size, Share and Forecast 2029"
+    excerpt: "The \"Artificial Intelligence and Machine Learning Market\" study describes how the technology industry is evolving and"
+    publishedDateTime: 2023-03-14T01:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Chips Market Size 2023 to 2028 By Deployment, Growth Factor and Production cost"
     excerpt: "The \"Artificial Intelligence (AI) Chips Market\" Study Describes how the technology industry is evolving and how major"
     publishedDateTime: 2023-03-10T08:15:00Z
@@ -109,20 +123,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 80
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence and Machine Learning Market Size, Share and Forecast 2029"
-    excerpt: "The \"Artificial Intelligence and Machine Learning Market\" study describes how the technology industry is evolving and"
-    publishedDateTime: 2023-03-14T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -442,6 +442,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Automotive Voice Recognition Market : Regulations, Strategic Industry Growth Analysis, Market Size Between 2023 to 2030"
+    excerpt: "Mar 14, 2023 (The Expresswire) -- \"Automotive Voice Recognition Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market"
+    publishedDateTime: 2023-03-14T04:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-regulations-strategic-industry-growth-analysis-market-size-between-2023-to-2030-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ICJpJKsXp77fANlVt2IYWYzVnPrF/MQlVpZk7UZH4dk3TfnD/mE4Gg1jDZZu/whdA2Tw9n2ZYrWd1/eeLa74+HTbslQmjVxOCUpTeyExzo357tXSFOdznpL3j0+5qKidg9QBG7DwHZEcW3BLDeLYt6HqF6wk+UPmA6oaAPIWqm6msgagvbBh16ny29/3HhlYNXS5/eNQLO76ngfy+9S74yQmEG7mR32EgnOXITiG1u4M6v0KJhPylJnI+BOlsnZMUAbtqCm0vfPFMzJztQxQsj3zXWJyl2pf3jL2wBPH+0KkJz8uWdqfNXkY1YZRJR8u6JoP8S+K2ac+EZnjWXhCdHGws2GidU2aHdJb9vlfwqo=;0k8MrY7oKVL3uhlsyWbTzA=="
 ---

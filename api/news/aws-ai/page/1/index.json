@@ -46,6 +46,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-10-using-amazon-sagemaker-with-point-clouds-part-1-ground-truth-for-3d-labeling.md",
+      "title": "Using Amazon SageMaker with Point Clouds: Part 1- Ground Truth for 3D labeling",
+      "excerpt": "In this two-part series, we demonstrate how to label and train models for 3D object detection tasks. In part 1, we discuss the dataset we’re using, as well as any preprocessing steps, to understand and label data. In part 2, we walk through how to train a model on your dataset and deploy it to […]",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-with-point-clouds-part-1-ground-truth-for-3d-labeling/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-with-point-clouds-part-1-ground-truth-for-3d-labeling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/10/sagemaker-cloud-points-ground-truth.jpg",
+          "width": 1565,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-10T10:20:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-10-real-time-fraud-detection-using-aws-serverless-and-machine-learning-services.md",
       "title": "Real-time fraud detection using AWS serverless and machine learning services",
       "excerpt": "Online fraud has a widespread impact on businesses and requires an effective end-to-end strategy to detect and prevent new account fraud and account takeovers, and stop suspicious payment transactions. In this post, we show a serverless approach to detect online transaction fraud in near-real time. We",
@@ -1401,59 +1453,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-19-artificial-intelligence-ai-in-education-market-size-global-research-report-2023-2029.md",
-      "title": "Artificial Intelligence (AI) in Education Market Size Global Research Report, 2023 - 2029",
-      "excerpt": "Insights] Top “Artificial Intelligence (AI) in Education Market” Size 2023 Key players Profiled in the Report are",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-global-research-report-2023---2029-2023-02-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-global-research-report-2023---2029-2023-02-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 372,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-19T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

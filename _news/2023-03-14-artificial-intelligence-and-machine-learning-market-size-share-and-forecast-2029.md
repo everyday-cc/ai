@@ -6,7 +6,7 @@ publishedDateTime: 2023-03-14T01:02:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-share-and-forecast-2029-2023-03-13"
 type: article
-quality: 79
+quality: 81
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -441,6 +442,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Automotive Voice Recognition Market : Regulations, Strategic Industry Growth Analysis, Market Size Between 2023 to 2030"
+    excerpt: "Mar 14, 2023 (The Expresswire) -- \"Automotive Voice Recognition Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market"
+    publishedDateTime: 2023-03-14T04:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-regulations-strategic-industry-growth-analysis-market-size-between-2023-to-2030-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vtMsVRiGg7HV8UIEjrZjp8KlxV/r/0BvI29CSK/HF/fgKbJSJw2warlRwp5TChLK4bjvvFJ4Do5X31RsPBV3sW05obI3RQY62mGNolIQS5wVkEW8zMP1XGCwJwN3O51ICLhuJU4SWKmdzuF10TkLwhLqOtvuPkne94Ykc/hU7HioIXVN5SDTAyhZVKfcw7t8Zg/GWtPzZ1EQSDOyVxxvbM4u7a5ypJrA7e5orR+gj/fpQe7yAXuP0xcWM9FvSyUejFHDCM3Z5PgtVPS7cacM5ZgKdZqg+KXTtMil0H6xyin23QdDRCc+I9w7UomQGdDVuj8GPV3xZcRrnleNd02/uuFIzqzz05NvjO0LeoQx7Xs=;5KhKTCZ+eG7vy9QY6UmNbQ=="
 ---

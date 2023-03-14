@@ -42,20 +42,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Generative AI: hype or reality? AWS, Cohere and Stability AI analyze new tech applications"
-    excerpt: "Several tech advances, such as computer vision and, more particularly, generative AI, are unraveling a swathe of new capabilities. Many forward-thinking companies are already investing to drive increased end-user value and stay competitive."
-    publishedDateTime: 2023-03-09T19:59:00Z
-    webUrl: "https://siliconangle.com/2023/03/09/generative-ai-hype-reality-aws-cohere-stability-ai-analyze-new-tech-applications-awsshowcases3e1/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Aidan-Bratin-Tom-Clean.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "ljJDEp1MUN5/kI4aNgQVDEOvGw/28RLdr/Ikhnq6tm7Y86wEaqICXyuSAf9IqU/SYjVXSoKnzIgLD0rZgUnz7Myn2eKCRCB91DL6aBBvLRvsidQJQnksAw8pjCVvZh4GtOu4bJAME/1jVbtsk+ZgDLvEVI+rXFY6eS4W0LxbuSOFK3DxV4Iuz9Z3Wq2j4UaH92ggOD0FUAhbAuI5briwYQW7pNyxPRAqUYVzaJiAFfpUXXCVhUPFS+dyyhPOVoag51B2xOtpBRAilmQXkXQ3PvqZoG3BiXWFxmFo6US15f7Y3fdQxCyWCcL1Ns/oTHGshbu2raYd0N4cltXZw7O02cM33ZFH37RwHM9tbowzGr5HRPt4VURk4cQ3nPvX0TSb5C+utCTbfdayfH26VDkf/PxBNEJncONjt9y3w0leqFIpeRTzsAkULkCipTY77Osys+UroABzyBxCx52cmDX6AdqWafEfE3NSwRFywlA/chZ6DLPYQ1LsZ1NBZcpfcjTpUYpOz2ViwTGAxWQuGkwZgw==;4yqErVX1M26HcCRS2+7YFA=="
 ---

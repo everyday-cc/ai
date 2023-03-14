@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "KPM Analytics acquires Smart Vision Works"
+    excerpt: "KPM Analytics has announced the acquisition of Smart Vision Works, a specialised AI technology company providing computer vision systems for the agriculture and food industries. Smart Vision Works’ proprietary machine learning algorithms can overcome ..."
+    publishedDateTime: 2023-03-14T11:40:00Z
+    webUrl: "https://www.foodbev.com/news/kpm-analytics-acquires-smart-vision-works/"
+    type: article
+    provider:
+      name: FoodBev Media
+      domain: foodbev.com
+    quality: 24
+    images:
+      - url: "https://www.foodbev.com/wp-content/uploads/2023/03/Smart-Vision-Works-1024x638.jpg"
+        width: 1024
+        height: 638
+        isCached: true
 
 secured: "QfWIF4bDrmdHvZA9yMSDXkoWGhbPzsXIxxXWREsKmaUrRRxXzIF4VeilDMx8cofxmrz9gIG2Ywvqhyb2X/OiN3d9KQJltPQ1Y2DhxLm0jv4vRbc2/G898Ug9M7hcltYfZGX17LVacHsOrf2S7lGoVTjHdcn0dIfJ7kX67s5jVCtZJfgEzJa8OuTjGzuxjqy5Q54y2RiKGqpTQGahwZXu3TdFlunIYQqJvG73/MJxJY+2GtcMMON3F34dV1UTIOHpGvfzSHpnHCjWmwQd6lZ+7tugVZFpKBL5oTvU5syWiCNkIT+v+EZ08wV25sxapSOCs4Bpl03NLIn9HeZRrouL6ECufocz/oh8wpOJ85NKBwc=;W8xb4ZOWn1LRAArVgyi9Mg=="
 ---

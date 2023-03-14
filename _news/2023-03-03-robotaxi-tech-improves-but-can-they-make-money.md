@@ -2,16 +2,20 @@
 category: news
 title: "Robotaxi tech improves but can they make money?"
 excerpt: "Cruise, a subsidiary of GM, competes with Waymo, owned by Google's parent ... in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar ..."
-publishedDateTime: 2023-03-03T03:47:00Z
-originalUrl: "https://www.bbc.co.uk/news/business-64742934"
-webUrl: "https://www.bbc.co.uk/news/business-64742934"
-ampWebUrl: "https://www.bbc.co.uk/news/business-64742934"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-64742934"
+publishedDateTime: 2023-03-03T08:09:00Z
+originalUrl: "https://www.bbc.com/news/business-64742934"
+webUrl: "https://www.bbc.com/news/business-64742934"
+ampWebUrl: "https://www.bbc.com/news/business-64742934.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-64742934.amp"
 type: article
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -23,6 +27,6 @@ images:
     height: 576
     isCached: true
 
-secured: "x/SHFRWUzJyG/jNjYmhYsXvaf7FxMjj1l0G8eNmVzchrqYQx8d1DtgGlRWzUr/bwyR3Gxmzk5MFVlhspZ+vdnY7U39rqa4cjpSoLiBFYG5Ny9mDdo7FGtWzZ7iUsumfpinBPrn7Turvfq/uyuqDr3DHT9rdYwd3D0rm+sxFtPzQLRjQcR8idYfv0myznoRN+nxTyJBSY91ASXCVSQOwuRQE1vE42j4uS9O1TINEnaBe62FGk14JHJavwdTVNImkZmvXby3lkSPoiE3dsll9G6wc2/U485LWkmMoXkBKXn8lk9XtkPYuIKAs8mOREtjWQU1mtJ6ZucKkfljOUspH6TjboKADn/eR5T6i1vHDGfB4=;WcKMvFGHGDn9J4WzHFEA9g=="
+secured: "nz6/hBNWF4NbGPvcHvzNaT7BPSMX942Z6Z4e4ox7S+RznVkVhpQJFfqVRyIixpV1r09pD08x/AqwOPvMcSU4o1KCGuVG0S1+6J6O6MuKN2x9hl9qpWJua4xpGJuEEJtg6/L7+4c10SbPJrJok0mh+UWGfn+zv2gNWJ215K4c0vwzvISGoeHKU7MLHiEFg1BlRzHf4IiZmMNB1IU32rsxXDDV3uIVHdXE1HbSa1m4sA9hXckeKz5YEzsIlbJLl0EBb379O+lVLBf0W6+OlYl4cTVZQ8IhEliXzGdoM/BYu7OaiRoxBNBSc0XgGHQGrVBqY7tY5RjhnPs4G/c1TfIcPsaPTkyJhOZ745QT/BESKEw=;giV5FGyd7rltb4HlyIFzGQ=="
 ---
 

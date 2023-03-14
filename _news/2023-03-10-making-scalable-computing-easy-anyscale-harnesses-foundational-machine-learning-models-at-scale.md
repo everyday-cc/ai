@@ -34,6 +34,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
+  - title: "How to set up an enterprise strategy for generative AI"
+    excerpt: "Generative AI will likely enhance how businesses operate and find business value. The early days of cloud can yield adoption lessons for the new technology. Editor’s note: The following is a guest post from Patrick Pugh,"
+    publishedDateTime: 2023-03-14T11:41:00Z
+    webUrl: "https://www.ciodive.com/news/enterprise-generative-AI-strategy/644156/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 37
+    images:
+      - url: "https://www.ciodive.com/imgproxy/Nvwrj8pE7MT8kOQoH9ubKSC4AQJ7l5KWn_8GeygV6BY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDMwOTc0NDEuanBn.jpg"
+        width: 770
+        height: 434
+        isCached: true
 
 secured: "UtBaSL23sJebunUJdgVc9uF8nOHvvfkugzymKkuvNAGm+2LGz9mVtGz8pB0VbX6+7P7FnqZ1PDpsPVd3xgrM9rGMxfvbdVZVzC+X8CR8oPRQ3PkQmsWyxXRMcIYnl0AA9tz0B40IaFhGddpW6gCiLOV2TDljg4CaZkIoCEwgu8qbJ3GtUnsclVLHOrb+nTRTC5onHSbmk64eFpcNHBhJ2wztHv+cWMeWPezx9+5MTAdnyZ9/jb08be8SixWIzSdWu5K6Barg4TuGS+aAtPhNgVEtb8hRzdg1i7hFKJROO3bNyU3ScoTvcSlgk9lYxV6/imhmUmfyhyTgzD3Wi24v6KZHMdU7+pkyuYsJq7bI2ocVobrsS9LpRwl7H0mLimaujrTMDXDw811rctLGbK5m+uWH4LtoFfzelpb7gXRiVm6KOXkWnS6RE1YbM8jHSrDpT1ovazDH0G5ZYi4yO/IXtztLE7PM1S780GEUG6JDLlQNIKlnpmxpNjY85ABcyVPSOQl97+r+X3vpWiDbhlPG/w==;gWjKisUcOrBesUM956alYw=="
 ---

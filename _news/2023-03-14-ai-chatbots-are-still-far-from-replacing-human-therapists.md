@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "In the battle for the future of work, AI is not above the law"
-    excerpt: "Lawsuits against DoNotPay's AI chatbot could signal there is trouble ahead for developers looking to disrupt the status quo"
-    publishedDateTime: 2023-03-13T15:02:00Z
-    webUrl: "https://www.raconteur.net/technology/ai-lawyer-lawsuit-donotpay-sued/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2023/03/robot-lawyer-smol.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Lazy Artists Use AI to Rip Off Famous Dutch Painting for Museum Exhibition"
     excerpt: "\"So we chose it, and we hung it.\" Given how popular AI art has become just in the last year alone, it's mighty likely that we'll start seeing more debates like this — and, perhaps, greater criticism from artists, too."
     publishedDateTime: 2023-03-10T20:43:00Z

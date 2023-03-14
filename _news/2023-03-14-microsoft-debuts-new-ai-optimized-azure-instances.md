@@ -198,6 +198,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft fires those responsible for its AI ethics"
+    excerpt: "After all, when your terminator is just being put on the market you don't need humans to tell it what to do Software King of the World Microsoft has shown that it has its priorities right -- while it introduces the world to its new AI-powered Bing,"
+    publishedDateTime: 2023-03-14T10:01:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/56512-microsoft-fires-those-responsible-for-its-ai-ethics"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 71
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bfa8bb7aa9905754d441ba14fbf07ac2_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Microsoft Lays Off Ethical AI Team In Chatgpt Era"
     excerpt: "Microsoft has laid off its entire ethics and society team dedicated to ensuring artificial intelligence (AI) innovation"
     publishedDateTime: 2023-03-14T05:54:00Z
@@ -253,6 +267,20 @@ related:
       - url: "https://thumb.spokesman.com/AP0lDD2FDYkF4SbwzfTNZWfFBMY=/1200x630/smart/media.spokesman.com/photos/2023/03/13/640f78bbefb0e.hires.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft unveils new AI-powered instance family"
+    excerpt: "The tech giant continues to leverage its investment in OpenAI. Microsoft announced this week that it is extending its Azure cloud platform thanks to a new"
+    publishedDateTime: 2023-03-14T09:46:00Z
+    webUrl: "https://www.techzine.eu/news/infrastructure/103116/microsoft-unveils-new-ai-powered-instance-family/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/06/microsoft-azure.png"
+        width: 2100
+        height: 1500
         isCached: true
   - title: "Microsoft spent hundreds of millions on Azure infrastructure to make ChatGPT happen"
     excerpt: "Microsoft Corp. today revealed how it spent billions of dollars to enable OpenAI LLC to bring ChatGPT to life. The partnership between Microsoft and OpenAI has gotten a lot of attention recently. In January,"

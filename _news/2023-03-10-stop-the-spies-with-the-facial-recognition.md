@@ -43,17 +43,17 @@ related:
         isCached: true
   - title: "Stop the spies with the facial recognition"
     excerpt: "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ..."
-    publishedDateTime: 2023-03-11T00:06:00Z
-    webUrl: "https://www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
-    ampWebUrl: "https://www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    publishedDateTime: 2023-03-10T23:02:00Z
+    webUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+    ampWebUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-presstelegram-com.cdn.ampproject.org/c/s/www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
     type: article
     provider:
-      name: Daily Breeze
-      domain: dailybreeze.com
+      name: Press-Telegram
+      domain: presstelegram.com
     quality: 59
     images:
-      - url: "https://www.dailybreeze.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+      - url: "https://www.presstelegram.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
         width: 1024
         height: 578
         isCached: true

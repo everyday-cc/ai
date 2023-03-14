@@ -1,0 +1,53 @@
+---
+category: news
+title: "How to set up an enterprise strategy for generative AI"
+excerpt: "Generative AI will likely enhance how businesses operate and find business value. The early days of cloud can yield adoption lessons for the new technology. Editor’s note: The following is a guest post from Patrick Pugh,"
+publishedDateTime: 2023-03-14T11:41:00Z
+originalUrl: "https://www.ciodive.com/news/enterprise-generative-AI-strategy/644156/"
+webUrl: "https://www.ciodive.com/news/enterprise-generative-AI-strategy/644156/"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: CIO Dive
+  domain: ciodive.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.ciodive.com/imgproxy/Nvwrj8pE7MT8kOQoH9ubKSC4AQJ7l5KWn_8GeygV6BY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDMwOTc0NDEuanBn.jpg"
+    width: 770
+    height: 434
+    isCached: true
+
+related:
+  - title: "Azure previews powerful and scalable virtual machine series to accelerate generative AI"
+    excerpt: "In the competitive race for AI innovation, pushing the envelope requires both experience and leadership-class supercomputing scalability. Powerful and massively scalable infrastructure is paramount as the complexity and size of AI models accelerate."
+    publishedDateTime: 2023-03-13T06:00:08Z
+    webUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
+  - title: "Making scalable computing easy: Anyscale harnesses foundational machine learning models at scale"
+    excerpt: "But, given their depth, these models also require large amounts of compute resources to perform at a meaningful scale. And that computing at scale is the problem that Anyscale Inc. is working to solve."
+    publishedDateTime: 2023-03-09T21:01:00Z
+    webUrl: "https://siliconangle.com/2023/03/09/making-scalable-computing-easy-anyscale-harnesses-foundational-machine-learning-models-scale-awsshowcases3e1/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Robert-Nishihara-CLEAN-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "LmJFAFRsoXuivHLHw/Vu2lOU3pyYbD9ync5uuDMr48XZD+NlcKFeZHjNeyTg3Y2nstQXq7Cnp5sdVwci8dJb3Gnbpi1Qr0XidUqf/I7zdyJMuLAFwlt37j8QhCaRFiFKyo6ZB3gAjzlMwjC4CZYCBtylthb5CAjMa2ihX2h0FzLxbicvjAG44XmGT9NF3/pfVT/jyE5lN+PFwfK70Hsz+FtnY28QufLHEdDT+Ye2Cy6qTYmztLhqFA/Ilr8yi3NXnE6HUg9RA1y49uP4SaVDSIJCS8i1fquZHhve8oLu64lwT9gXpLD1SbUSOpqtJl6B6dj+8yQyaJe715JdGvGOam5MnrhMyOkzy/FlEYRrZj0=;31G0AwkyvWPx5C+xJWpfxw=="
+---
+

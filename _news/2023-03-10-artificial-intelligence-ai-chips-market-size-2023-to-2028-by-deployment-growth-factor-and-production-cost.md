@@ -121,7 +121,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 79
+    quality: 81
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -441,6 +441,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+  - title: "Automotive Voice Recognition Market : Regulations, Strategic Industry Growth Analysis, Market Size Between 2023 to 2030"
+    excerpt: "Mar 14, 2023 (The Expresswire) -- \"Automotive Voice Recognition Market\" Size, Scope, and Forecast 2023-2030 report has been added to the Market"
+    publishedDateTime: 2023-03-14T04:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-regulations-strategic-industry-growth-analysis-market-size-between-2023-to-2030-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qiZFRHGvMZ7z+eNWYTvzhSbo+LfVvKBdKSclNRO4dRSVH4/OGvouG3aOO2xyjwoaY+7PDqbcegsaEJtLfFfASmoLsw2c/8nh7hHVuCxu1t7w3jNSLQU7Uqp6sZbSwPcuZsOiiBGKo9lVoJ8yIVeHKsnCYS0MQlQGDR0Or+4BWeHrlStzkJIFJWexKDZ9zvARfbteP82XM4sQtr7107LP9XfLTNhasHPVFd/0bI+9s8BVMJiOwAKbBP2jNlaav7nCobXUE4wSHUATBfw3XoLGfm96CBWG9ZTgG/cAl3H3fUDuEJbmorgBbjjygSYFGrwieuqQYM6FuR09VPb3/ZnLs7w6ETDr1sALwSfzsz2oHeQ=;lG+49SxNizFYlVouXitRBQ=="
 ---

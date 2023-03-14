@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-14-the-philosopher-a-conversation-with-grady-booch.md",
+      "title": "The philosopher: A conversation with Grady Booch",
+      "excerpt": "Our recent conversation touched on both practical and philosophical aspects of human-computer interaction and co-evolution, artificial intelligence ... the world in its ability to carry out Rogerian therapy … or at least a fair illusion of it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html",
+      "originalUrl": "https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/03/grady-100938301-medium.jpg?auto=webp&quality=85,70",
+          "width": 300,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3689914/the-philosopher-a-conversation-with-grady-booch.amp.html",
+      "publishedDateTime": "2023-03-14T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-how-ai-could-write-our-laws.md",
       "title": "How AI could write our laws",
       "excerpt": "Lobbying has long been part of the give-and-take among human policymakers and advocates working to balance their competing interests. The danger of microlegislation—a danger greatly exacerbated by AI—is that it can be used in a way that makes it difficult to figure out who the legislation truly benefits.",
@@ -337,7 +389,7 @@
       "originalUrl": "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-can-realistically-replicate-voices-raising-new-tech-concerns-165109829933",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -379,7 +431,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 311,
+      "heat": 331,
       "tags": null,
       "images": [
         {
@@ -1132,7 +1184,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 389,
+      "heat": 399,
       "tags": null,
       "images": [
         {
@@ -1174,57 +1226,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-an-ai-start-up-boomed-but-now-it-faces-a-slowing-economy-and-new-rules.md",
-      "title": "An A.I. Start-Up Boomed, but Now It Faces a Slowing Economy and New Rules",
-      "excerpt": "Eightfold AI, grew cautiously in its first few years. But it hit the accelerator after it raised $220 million in 2021, the pandemic boom year for venture investment, bringing the company’s funding to more than $400 million. The Silicon Valley start-up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/10/multimedia/00ai-hr-01-jlqw/00ai-hr-01-jlqw-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
-          "width": 600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/13/business/ai-hiring-jobs.amp.html",
-      "publishedDateTime": "2023-03-13T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

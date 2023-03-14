@@ -2,26 +2,26 @@
 category: news
 title: "Stop the spies with the facial recognition"
 excerpt: "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ..."
-publishedDateTime: 2023-03-11T00:06:00Z
-originalUrl: "https://www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
-webUrl: "https://www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
-ampWebUrl: "https://www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-cdnAmpWebUrl: "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+publishedDateTime: 2023-03-10T23:02:00Z
+originalUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+webUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+ampWebUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+cdnAmpWebUrl: "https://www-presstelegram-com.cdn.ampproject.org/c/s/www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Daily Breeze
-  domain: dailybreeze.com
+  name: Press-Telegram
+  domain: presstelegram.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.dailybreeze.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+  - url: "https://www.presstelegram.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
     width: 1024
     height: 578
     isCached: true
@@ -72,6 +72,6 @@ related:
         height: 720
         isCached: true
 
-secured: "d7asUCkceceOfzsy83ZH+NbSi27Z0GWz3dGo16f+T46nWZjqHBfqUCsjGnAZ9ny8iCMSVyY8FttAEtOcQAvQ1NLhGwO5f9fFL33Yjapv3ktyVDCYdLUG4qMUeBO03hH6shcsh+xKyvlK5vG4PiVWzSkQxik3fnQHoTveo5azPrB+GjEFwo39MSKiHvnQ0bSCACj86C5OnF3+SpO5prztf94knfgiyUJrR8TrtpLBk5y7hWTRSpfPVSdKlchnt2kYHBeUQdMJNV2sy2pk4Vmz/Ixr7rB9CeGNX6d5TZGrSBibOThcercuijwqaRAUIzNTrtrj/rPegxfej2lc9P4oPjIj96Ng6wtc+d8eB83qpNI=;ZhiL9+c+CT3EqR6GNFYXlQ=="
+secured: "Uojkr9i02cLXljERONEUvTINy20ixuQRqnig3jUCIxlxAI+cTVqAae6dg9LQEtR9+GPLhBbwPqRaSSAYpkabBbH2dsVLyy0162vdGGKFCBLBggj5G07F5AgaLEjBiwMCexra2IZGCvWSxWZmKayoLmIVU2sYdZY4Y5VoyeXXyQQ4Gpgmqayvq8EHaK2IH8qThk4YqaDPSJt0k+kJUmUrKAyJesfuRE8GlPHLTARBC8RODAqf4tuEPYI5WrzvcTutinVc3FNtkRLVsfF2WwNxtaii0cKEeBVvTWdZQY+Xhw6i+pizqQ0aKromyOKQ8m2MOixosnL9TNkqV3j1eccgjR1eOtIXkYpoSRJT1qlY6fY=;Sm21fy10wBBZlzT0M3XUJg=="
 ---
 

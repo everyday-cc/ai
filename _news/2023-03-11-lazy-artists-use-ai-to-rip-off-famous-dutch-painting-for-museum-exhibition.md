@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "In the battle for the future of work, AI is not above the law"
-    excerpt: "Lawsuits against DoNotPay's AI chatbot could signal there is trouble ahead for developers looking to disrupt the status quo"
-    publishedDateTime: 2023-03-13T15:02:00Z
-    webUrl: "https://www.raconteur.net/technology/ai-lawyer-lawsuit-donotpay-sued/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2023/03/robot-lawyer-smol.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI chatbots are still far from replacing human therapists"
     excerpt: "You feel your face overheating as your thoughts start to race along ... The World Health Organization (WHO) has developed six key principles for the ethical use of AI in health care. With their first and second principles — protecting autonomy ..."
     publishedDateTime: 2023-03-13T19:18:00Z

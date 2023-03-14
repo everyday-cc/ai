@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemak
 webUrl: "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-with-point-clouds-part-1-ground-truth-for-3d-labeling/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Architect personalized generative AI SaaS applications on Amazon SageMaker"
-    excerpt: "The AI landscape is being reshaped by the rise of generative models capable of synthesizing high-quality data, such as text, images, music, and videos. The course toward democratization of AI helped to further popularize generative AI following the open-source releases for such foundation model families"
-    publishedDateTime: 2023-03-09T18:57:09Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 102
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/06/ML-13166-arc-1-1120x630.png"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Accelerate time to insight with Amazon SageMaker Data Wrangler and the power of Apache Hive"
     excerpt: "Amazon SageMaker Data Wrangler reduces the time it takes to aggregate and prepare data for machine learning (ML) from weeks to minutes in Amazon SageMaker Studio. Data Wrangler enables you to access data from a wide variety of popular sources (Amazon S3, Amazon Athena,&nbsp;Amazon Redshift, Amazon EMR"
     publishedDateTime: 2023-03-10T18:24:25Z
