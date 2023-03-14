@@ -49,6 +49,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "AI In Fintech Market Is Set To Fly High In Years To Come | Google, IBM, Intel"
+    excerpt: "Stay up to date with AI in Fintech Market research offered by HTF MI. Check how key trends and emerging drivers are shaping this industry growth. HTF MI integrates History, Trends, and Forecasts ..."
+    publishedDateTime: 2023-03-09T11:22:00Z
+    webUrl: "https://menafn.com/1105739028/AI-In-Fintech-Market-Is-Set-To-Fly-High-In-Years-To-Come-Google-IBM-Intel"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/09/EP_624b5image_story.jpeg"
+        width: 636
+        height: 333
+        isCached: true
   - title: "13/03 – Weekly Fintech Recap"
     excerpt: "Fintech Pioneer Railsr Announces Sale to Consortium led by D ... Provenir Appoints Vincent Camara as Regional Leader in France Provenir, a global leader in data and AI-powered risk decisioning software, announced that Vincent Camara has been appointed ..."
     publishedDateTime: 2023-03-13T12:58:00Z

@@ -24,6 +24,22 @@ images:
     height: 1254
     isCached: true
 
-secured: "pM2xPDrLFQTWJWA6XRGp7IR4n4hem+eXaO3lmH20uXTY6WCceJ6Cm5NVOAxl/c9tbBGLn7zb5vze3wfIzAYux5du3z1RWvW7s+5+I12apneA9rIxmFtkIu8qFpFqxjUt1StKHG7zD2SJKHfHsNMbictCTxtAYz90Reir7SL3plQtPDY8ZkkxnzpmPTP0Oi5Q1t4Uy0Z/itBrd6OOHnPt8lNGK0RdceLzJzBjyySFuS7x2diXa7ufTPBf/JuMe//miccY+YScW8UsWVHv/n8+Iikd0TxHyhsBXp/62GNm0MIapEBN53w/NKodD9+o1jwu/i7ClFIMcIiAwmvYmt37YZgj30zAy3onCaPqz6nlBoU=;lxMxTot0nf7+/ALKByyJ0A=="
+related:
+  - title: "COVID-19 Can Cause Face Blindness"
+    excerpt: "Navigational problems and an increased risk of developing prosopagnosia, or face blindness, have been associated with COVID-19 infection."
+    publishedDateTime: 2023-03-13T21:16:00Z
+    webUrl: "https://neurosciencenews.com/face-blindness-covid-22781/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 24
+    images:
+      - url: "https://neurosciencenews.com/files/2023/03/covid-face-blindness-neurosicences-public-1.jpg"
+        width: 770
+        height: 578
+        isCached: true
+
+secured: "4wugS0u8+lDyvM8DJnE0pxZp4bEe2USxLgCzQLIvt8Ju0m1g5sPPKpugYnoVuqxCLEtXTry4AH6eypqm1uc9CF7tL/LnoKkxc39cEVS6xCzH5AaREbC6l6P4ioKgYzqcfSCnjATPtfLIoaEh80usDhRwoAqB8ratS0oVyiT7qon4PwwfLoyeMpmJw8u9ld2KSQR5qXPzEQcwmmeIQ9qOXnHUybuiavhm4/4GzHqbZUYJ89c9R4GlHCnedxAgnb5wC3fhVHix3siGCJRceaow/MoLaf/GikMVPSl/EHVPVvDFM5R3Nkr2LKLoZvKPjN9TuyxNb+NJVto5HAsdkaSsaRb83g/+4ot+jcHMJLsfbM52wuvulKqqS0pcgz4GgklVTU1aaFGOXOHCpvxlF0gus34AxEQAg8d8n2rtm49/P0UOrk53r6VL/pqZkX8kYAbr5z1o2qdqlpFTmoeTPWYVG2rnpAq1CNBZ7x26UUAWVppypTvr2bV99q9wr8y+wEN4aEYCnrryqozwW8mblvUx1g==;KMvX/ZVwi3Uc87Cfgy15Ig=="
 ---
 

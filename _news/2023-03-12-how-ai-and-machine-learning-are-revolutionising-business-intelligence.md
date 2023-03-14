@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/?source=app&frmapp=yes"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/02/artificial-intelligence-rep.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-03-13T14:48:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/03/13/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "Coral Springs Sports and Orthopedic Center, FAU, Broward Health, & Advanced Research: Revolutionizing Healthcare Using Artificial Intelligence"
     excerpt: "Say farewell to spending a small fortune on a boring visit to the doctor's office and hello to inexpensive, convenient, and comfortable engaging consultations you can have in your pocket."

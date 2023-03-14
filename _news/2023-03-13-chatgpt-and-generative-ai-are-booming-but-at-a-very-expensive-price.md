@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-bo
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 291
+published: true
 
 provider:
   name: CNBC
@@ -32,36 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT is now available in Azure OpenAI Service"
-    excerpt: "Today, we are thrilled to announce that ChatGPT is available in preview in Azure OpenAI Service. With Azure OpenAI Service, over 1,000 customers are applying the most advanced AI models—including Dall-E 2, GPT-3.5, Codex, and other large language models backed by the unique supercomputing and enterprise"
-    publishedDateTime: 2023-03-09T08:00:01Z
-    webUrl: "https://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/7aef177b-557f-4544-aa26-746ac23def5d.png"
-        width: 1200
-        height: 470
-        isCached: true
-  - title: "ChatGPT comes to Microsoft’s enterprise-focused, Azure-powered managed service"
-    excerpt: "ChatGPT is now available through the Azure OpenAI Service, Microsoft's fully managed, enterprise-focused repackage of OpenAI tech."
-    publishedDateTime: 2023-03-09T20:41:00Z
-    webUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/"
-    ampWebUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 100
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-655242462.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "More AI experiences are coming to Discord, including ChatGPT"
     excerpt: "The social platform is leaning into AI and adding new features to optimize user experience. Here's what you can expect."
     publishedDateTime: 2023-03-10T14:36:00Z
@@ -78,21 +48,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "ChatGPT now available in Microsoft’s Azure OpenAI service"
-    excerpt: "Developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps enabling conversational AI."
-    publishedDateTime: 2023-03-13T14:51:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
-    ampWebUrl: "https://amp.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
-    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
+  - title: "Unleashing The Power Of AI: 14 More Mind-Blowing Tools Beyond ChatGPT"
+    excerpt: "This article introduces 14 AI tools that go beyond ChatGPT and can help revolutionize the way we work. The article aims to provide readers with an overview of the potential of AI and how it can transform our workflows."
+    publishedDateTime: 2023-03-13T06:46:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/13/unleashing-the-power-of-ai-14-more-mind-blowing-tools-beyond-chatgpt/amp/"
     type: article
     provider:
-      name: The Citizen
-      domain: citizen.co.za
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2023/03/13155526/ChatGPT.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://imageio.forbes.com/specials-images/imageserve/640ec6a319bd9fdfea7aa26f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "ChatGPT Passes Huge Milestone as World Swept up in AI Revolution"
     excerpt: "ChatGPT caused a worldwide sensation when it was first released to the public in November 2022. It has the ability to answer questions and craft short essays based on prompts from humans. This picture taken on January 23,"
@@ -109,68 +79,6 @@ related:
       - url: "https://d.newsweek.com/en/full/2207559/openai-chatgpt-logos-pictured.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "ChatGPT on Azure OpenAI Service: How Microsoft is helping companies adopt AI"
-    excerpt: "With the availability, developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps, which will help them"
-    publishedDateTime: 2023-03-10T08:27:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/articleshow/98538838.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 86
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-98538794,width-1070,height-580,imgsize-3588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
-  - title: "How Microsoft is helping companies adopt ChatGPT AI"
-    excerpt: "Microsoft launched AI-powered Bing with ChatGPT integration last month and soon after opening the preview to some users in the waiting list, reports started pouring in, suggesting that the chatbot ..."
-    publishedDateTime: 2023-03-11T13:13:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/articleshow/98538838.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-98538794,width-1070,height-580,imgsize-3588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
-  - title: "Nvidia's early investment in AI bears fruit as its A100 chip now powers ChatGPT"
-    excerpt: "Every chip that we made was focused on artificial intelligence.\" Thanks to its early investment in AI, Nvidia is reaping the rewards as its chips are now used as the engine behind large language ..."
-    publishedDateTime: 2023-03-09T13:56:00Z
-    webUrl: "https://www.ibtimes.co.uk/nvidias-early-investment-ai-bears-fruit-its-a100-chip-now-powers-chatgpt-1713839"
-    ampWebUrl: "https://amp.ibtimes.co.uk/nvidias-early-investment-ai-bears-fruit-its-a100-chip-now-powers-chatgpt-1713839"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/nvidias-early-investment-ai-bears-fruit-its-a100-chip-now-powers-chatgpt-1713839"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 70
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1712783/logo-nvidia-corporation-seen-during-annual-computex-computer-exhibition-taipei.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "ChatGPT is now available with Microsoft’s Azure OpenAI Service"
-    excerpt: "Microsoft has announced that ChatGPT is now available in Azure OpenAI Service, enabling developers to integrate custom AI into their services."
-    publishedDateTime: 2023-03-09T22:01:00Z
-    webUrl: "https://bgr.com/tech/chatgpt-is-now-available-with-microsofts-azure-openai-service/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 69
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2021/06/Windows-11.jpg?quality=82&strip=all"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft's Azure OpenAI service gets ChatGPT for preview: Know everything"
     excerpt: "In January 2023, the tech giant announced the general availability of the Azure OpenAI service, which enables enterprises to power their application with large-scale AI."
@@ -195,6 +103,22 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 64
+  - title: "Can AI Tools Like ChatGPT Replace Computer Programmers?"
+    excerpt: "Despite the fast-evolving capabilities of AI chatbots to write code as well as human language, many computer science educators see significant limits for these tools in accuracy, security and copyright infringement."
+    publishedDateTime: 2023-03-11T00:17:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/can-ai-tools-like-chatgpt-replace-computer-programmers?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/42ae3da/2147483647/strip/true/crop/1000x521+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fe0%2F58%2Fcd33f8254f75a3ad8525609a2513%2Fcomputer-programmers.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "In ChatGPT's shadow, India readies for aggressive AI play"
     excerpt: "\"One good example is Bhasini -- a natural language AI platform, which enables automated language translation and is already being integrated with ChatGPT.\" Finance Minister Nirmala Sitharaman in her recent Budget announced that in order to unleash ..."
     publishedDateTime: 2023-03-11T03:36:00Z
@@ -255,6 +179,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "How will ChatGPT, AI change college? Here's what some LSU professors and students think."
+    excerpt: "The meteoric rise of artificial intelligence tools in recent years has created powerful new tools for fields ranging from traffic and cancer treatment to flood prediction. But what about in the ..."
+    publishedDateTime: 2023-03-11T10:03:00Z
+    webUrl: "https://www.nola.com/news/education/lsu-students-professors-talk-artificial-intelligence/article_c7285fdc-2018-558a-a3cd-e0a647b1b8f8.html"
+    ampWebUrl: "https://www.nola.com/news/education/lsu-students-professors-talk-artificial-intelligence/article_c7285fdc-2018-558a-a3cd-e0a647b1b8f8.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/education/lsu-students-professors-talk-artificial-intelligence/article_c7285fdc-2018-558a-a3cd-e0a647b1b8f8.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 48
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/4/ff/4ff19888-9e44-5456-b01e-092b0379bdca/640bbb3859350.image.jpg?resize=1024%2C729"
+        width: 1024
+        height: 729
+        isCached: true
   - title: "Learn how to take full advantage of ChatGPT and to code your own AI chatbot"
     excerpt: "ChatGPT has made significant waves in recent weeks and months. While the bot has been roasted for its strange mistakes and lack of logical reasoning skills,"
     publishedDateTime: 2023-03-13T12:27:00Z
@@ -272,25 +212,27 @@ related:
     provider:
       name: Austin American-Statesman
       domain: statesman.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://www.gannett-cdn.com/presto/2023/01/27/USAT/d3d81034-726a-4549-ad06-6ef697eb72b9-AFP_AFP_337P9FE.jpg?auto=webp&crop=8106,4560,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Forget Chatgpt. Nvidia Is The Real AI Winner..."
-    excerpt: "Ever since AI chatbot ChatGPT burst onto the scene in November, any stock even remotely related to AI has soared. Gates Capital Management's ECF Value Funds have a fantastic track record. The funds (full-name Excess Cash Flow Value Funds),"
-    publishedDateTime: 2023-03-11T04:35:00Z
-    webUrl: "https://menafn.com/1105752904/Forget-Chatgpt-Nvidia-Is-The-Real-AI-Winner"
+  - title: "du showcases Generative AI like ChatGPT capabilities at an exclusive governmental entities padel tournament"
+    excerpt: "Emirates Integrated Telecommunications Company (EITC), has successfully concluded its participation at an exclusive padel tournament organised"
+    publishedDateTime: 2023-03-12T08:25:00Z
+    webUrl: "https://www.albawaba.com/business/pr/du-showcases-generative-ai-chatgpt-capabilities-exclusive-governmental-entities-padel"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/du-showcases-generative-ai-chatgpt-capabilities-exclusive-governmental-entities-padel"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/du-showcases-generative-ai-chatgpt-capabilities-exclusive-governmental-entities-padel"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Al Bawaba News
+      domain: albawaba.com
     quality: 41
     images:
-      - url: "https://menafn.com/updates/pr/2023-03/10/V_243ecimage_story.jpeg"
-        width: 1000
-        height: 500
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-03/du%20ChatGPT%20-2.jpeg?itok=4zUAKmea"
+        width: 1599
+        height: 1200
         isCached: true
   - title: "ChatGPT sparks investment talk in AI and other technology stocks"
     excerpt: "The ChatGPT artificial intelligence global juggernaut has added spice to the battered technology sector as more investors seek a slice of emerging industries."
@@ -303,6 +245,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-03-13T14:48:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/13/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Colossal-AI Releases Open Source Framework for ChatGPT Replication"
     excerpt: "A single such GPU costs $14,999. That means the minimum hardware cost to train a ChatGPT-like neural network is roughly $1M just for the GPUs. With Colossal-AI, organizations can achieve up to 50% hardware savings, reducing the hardware cost by up to $ ..."
     publishedDateTime: 2023-03-13T17:01:00Z
@@ -317,15 +273,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Plans to Launch ChatGPT Via Azure"
-    excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
-    publishedDateTime: 2023-03-12T09:34:00Z
-    webUrl: "https://techreport.com/news/3493353/microsoft-plans-to-launch-chatgpt-via-azure/"
+  - title: "Lifesaver or job killer? Why AI tools like ChatGPT are so polarizing."
+    excerpt: "As sectors ranging from education to health care to insurance to marketing consider how AI might reshape their businesses, a crescendo of hype has given rise to wild hopes and des"
+    publishedDateTime: 2023-03-12T15:19:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/03/12/chatgpt-bing-ai-benefits-harms-hype/"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 34
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7TD22X4CJKT5F2JP7ZLFXMN3VM_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 915
+        isCached: true
+  - title: "‘Artificial intelligence without great data is just artificial’: Generative AI that predicts what and how we eat unveiled"
+    excerpt: "Tastewise already incorporates generative AI to help users at companies such as Nestlé, Campbell’s, Mars, Givaudan and PepsiCo, discover dish concepts, validate new product ideas, and generate market research reports. The AI-powered market intelligence ..."
+    publishedDateTime: 2023-03-13T10:22:00Z
+    webUrl: "https://www.foodnavigator.com/Article/2023/03/13/artificial-intelligence-without-great-data-is-just-artificial-generative-ai-that-predicts-what-and-how-we-eat-unveiled"
+    type: article
+    provider:
+      name: FoodNavigator
+      domain: foodnavigator.com
+    quality: 29
+    images:
+      - url: "https://www.foodnavigator.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator.com/news/business/artificial-intelligence-without-great-data-is-just-artificial-generative-ai-that-predicts-what-and-how-we-eat-unveiled/16234231-2-eng-GB/Artificial-intelligence-without-great-data-is-just-artificial-Generative-AI-that-predicts-what-and-how-we-eat-unveiled.jpg"
+        width: 683
+        height: 512
+        isCached: true
   - title: "GM May Introduce ChatGPT AI Assistant Into Its Vehicles"
     excerpt: "While recently speaking with Reuters, GM vice president Scott Miller said that ChatGPT could be used to access information on how to use important vehicle features ordinarily found in an owner’s manual."
     publishedDateTime: 2023-03-13T13:02:00Z

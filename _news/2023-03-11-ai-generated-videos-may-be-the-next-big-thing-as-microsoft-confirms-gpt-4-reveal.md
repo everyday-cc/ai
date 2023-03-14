@@ -29,6 +29,70 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft shows how it combines Azure with NVIDIA chips to make AI supercomputers"
+    excerpt: "At the same time, it also announced a new AI virtual machine that used upgraded GPUs from NVIDIA. The new ND H100 v5 VM from Microsoft use NVIDIA's H100 GPUs, an upgrade from the previous A100 GPUs. Companies that need to add AI features can access this ..."
+    publishedDateTime: 2023-03-13T21:59:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 131
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/03/1678742454_microsoft-ai-supercomputer_story.jpg"
+        width: 760
+        height: 485
+        isCached: true
+  - title: "ChatGPT comes to Microsoft’s enterprise-focused, Azure-powered managed service"
+    excerpt: "ChatGPT is now available through the Azure OpenAI Service, Microsoft's fully managed, enterprise-focused repackage of OpenAI tech."
+    publishedDateTime: 2023-03-09T20:41:00Z
+    webUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/"
+    ampWebUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 100
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-655242462.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "ChatGPT now available in Microsoft’s Azure OpenAI service"
+    excerpt: "Developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps enabling conversational AI."
+    publishedDateTime: 2023-03-13T14:51:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
+    ampWebUrl: "https://amp.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
+    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/technology/chatgpt-available-microsofts-azure-openai-service/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 89
+    images:
+      - url: "https://media.citizen.co.za/wp-content/uploads/2023/03/13155526/ChatGPT.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "ChatGPT on Azure OpenAI Service: How Microsoft is helping companies adopt AI"
+    excerpt: "With the availability, developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps, which will help them"
+    publishedDateTime: 2023-03-10T08:27:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/articleshow/98538838.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 86
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-98538794,width-1070,height-580,imgsize-3588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "Tomahawk Robotics Adds KxM to the Microsoft Azure Marketplace"
     excerpt: "The KxM provides users with a ruggedized platform to ingest large amounts of data for high-speed body-worn computation at the tactical edge, reduce cognitive load, and fuse raw intelligence data to enable real-time decision-making."
     publishedDateTime: 2023-03-09T17:33:00Z
@@ -73,6 +137,38 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "How Microsoft is helping companies adopt ChatGPT AI"
+    excerpt: "Microsoft launched AI-powered Bing with ChatGPT integration last month and soon after opening the preview to some users in the waiting list, reports started pouring in, suggesting that the chatbot ..."
+    publishedDateTime: 2023-03-11T13:13:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/articleshow/98538838.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/chatgpt-on-azure-openai-service-how-microsoft-is-helping-companies-adopt-ai/amp_articleshow/98538838.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-98538794,width-1070,height-580,imgsize-3588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
+  - title: "Microsoft Bing now has 100 million daily active users, thanks to AI"
+    excerpt: "Microsoft Bing has surpassed 100 million daily active users, thanks to AI pushing the search engine over the milestone."
+    publishedDateTime: 2023-03-13T22:45:00Z
+    webUrl: "https://9to5google.com/2023/03/13/microsoft-bing-users/"
+    ampWebUrl: "https://9to5google.com/2023/03/13/microsoft-bing-users/amp/"
+    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2023/03/13/microsoft-bing-users/amp/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/02/microsoft-new-bing.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "VALL-E: Microsoft's AI can translate your voice into foreign languages"
     excerpt: "Microsoft is well aware of the potential misuse of the technology and isn't releasing it to the public until sufficient safeguards are in place."
     publishedDateTime: 2023-03-09T11:52:00Z
@@ -87,19 +183,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The Instabase Platform Now Available in Microsoft Azure Marketplace"
-    excerpt: "Instabase, a leader in applied AI for the enterprise, has announced the availability of its platform in the Microsoft"
-    publishedDateTime: 2023-03-10T16:36:00Z
-    webUrl: "https://www.datanami.com/this-just-in/the-instabase-platform-now-available-in-microsoft-azure-marketplace/"
+  - title: "ChatGPT is now available with Microsoft’s Azure OpenAI Service"
+    excerpt: "Microsoft has announced that ChatGPT is now available in Azure OpenAI Service, enabling developers to integrate custom AI into their services."
+    publishedDateTime: 2023-03-09T22:01:00Z
+    webUrl: "https://bgr.com/tech/chatgpt-is-now-available-with-microsofts-azure-openai-service/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
+      name: BGR
+      domain: bgr.com
     quality: 69
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/01/AI-in-Finance-Summit-New-York-Main-Graphic.png"
-        width: 1200
-        height: 630
+      - url: "https://bgr.com/wp-content/uploads/2021/06/Windows-11.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "How Microsoft’s bet on Azure unlocked an AI revolution"
     excerpt: "At the time, nobody knew it would mean AI systems that create pictures of whatever people describe in plain language or a chatbot to write rap lyrics, draft emails and plan entire menus based on a handful of words."
@@ -115,61 +211,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Key Reveals from Microsoft Azure Open-Source Day 2023"
-    excerpt: "Microsoft held Azure Open Source Day to showcase its dedication to open source and emphasize the potential of open source tools in creating intelligent applications with increased speed and flexibility."
-    publishedDateTime: 2023-03-09T06:43:00Z
-    webUrl: "https://analyticsindiamag.com/surprise-reveals-from-microsoft-azure-open-source-day-2023the-tech-giant-released-several-updates-from-cloud-native-apps-to-machine-learning-foundation-models/"
+  - title: "Microsoft strung together tens of thousands of chips in a pricey supercomputer for OpenAI"
+    excerpt: "When Microsoft invested $1 billion in OpenAI in 2019, it agreed to build a massive, cutting-edge supercomputer for the artificial intelligence research start-up. The only problem: Microsoft didn't have anything like what OpenAI needed and wasn't totally sure it could build something that big in its Azure cloud service without it breaking."
+    publishedDateTime: 2023-03-13T20:17:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/mar/13/microsoft-strung-together-tens-of-thousands-of-chi/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 62
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/03/azure.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://thumb.spokesman.com/AP0lDD2FDYkF4SbwzfTNZWfFBMY=/1200x630/smart/media.spokesman.com/photos/2023/03/13/640f78bbefb0e.hires.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Latest Microsoft Layoff Wave Hits Supply Chain, Cloud, IoT Employees"
-    excerpt: "manager who worked with Microsoft for about two years and worked on facilitating “the delivery of secure high-quality data to improve machine learning and artificial intelligence models” *A 23-year Microsoft veteran who was a senior content developer ..."
-    publishedDateTime: 2023-03-10T20:27:00Z
-    webUrl: "https://www.crn.com/news/cloud/latest-microsoft-layoff-wave-hits-supply-chain-cloud-iot-employees"
+  - title: "Forget Chatgpt. Nvidia Is The Real AI Winner..."
+    excerpt: "Ever since AI chatbot ChatGPT burst onto the scene in November, any stock even remotely related to AI has soared. Gates Capital Management's ECF Value Funds have a fantastic track record. The funds (full-name Excess Cash Flow Value Funds),"
+    publishedDateTime: 2023-03-11T04:35:00Z
+    webUrl: "https://menafn.com/1105752904/Forget-Chatgpt-Nvidia-Is-The-Real-AI-Winner"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
     images:
-      - url: "https://www.crn.com/resources/027d-172a91810e2f-573e9d2b7a78-1000/13-microsoft-sign.jpeg"
-        width: 611
-        height: 458
+      - url: "https://menafn.com/updates/pr/2023-03/10/V_243ecimage_story.jpeg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "Teradata VantageCloud integrated with Microsoft Azure Machine Learning"
-    excerpt: "VantageCloud’s open and connected platform enables organizations to transform their machine learning initiatives from pilots to production with the tools of their choice."
-    publishedDateTime: 2023-03-09T11:37:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2023/mar/09/teradata-vantagecloud-integrated-with-microsoft-azure-machine-learning/"
+  - title: "Microsoft Plans to Launch ChatGPT Via Azure"
+    excerpt: "Microsoft set to roll out ChatGPT as a cloud service in Azure, in an attempt to provide customized solutions and combat Google's monopoly."
+    publishedDateTime: 2023-03-12T09:34:00Z
+    webUrl: "https://techreport.com/news/3493353/microsoft-plans-to-launch-chatgpt-via-azure/"
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 53
-  - title: "Cyclotron Taps Microsoft technology stack expert Seth Sanusi to Lead Azure Initiatives"
-    excerpt: "Cyclotron, a San Francisco-based business technology consultancy, is proud to announce the hiring of long-time Microsoft technology stack expert Seth Sanusi to lead its Microsoft Azure consulting practice."
-    publishedDateTime: 2023-03-09T18:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31283675/cyclotron-taps-microsoft-technology-stack-expert-seth-sanusi-to-lead-azure-initiatives"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
-  - title: "Microsoft Azure Customers Can Now Access SolarWinds Observability Through the Azure Marketplace"
-    excerpt: "SolarWinds, a provider of powerful and secure IT management software, announced SolarWinds Observability is now available on the Microsoft Azure Marketplace, empowering SolarWinds customers to take advantage of the Azure cloud platform."
-    publishedDateTime: 2023-03-10T19:00:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Microsoft-Azure-Customers-Can-Now-Access-SolarWinds-Observability-Through-the-Azure-Marketplace-157567.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 22
+      name: The Tech Report
+      domain: techreport.com
+    quality: 34
 
 secured: "WWX+Wksk8kVIhdXwhGbhzDU80PvVcmvoVI6cC1SJQyGgI6OsMWwGvSjxzp4f9yGSrFWhsXxcRZPWDcArImcJNne8TtKBEzHM2dCbHni5fCLRD1x8eFV0tl1sH0QKOBjXnnc9QqHi5lkSxyE8GB/jGLFAO5mraPqwwv4+gOz1IU7sqOrNMEXT1maw5cxDUmeCYGpfsp7g6GBhAaIwxpNVkiryrzCzLdA3e90xUBm7keLcbN4IRgvo4ZFGeZOTRos597wCcH1P5hjoElSiP+xFldO6SQJAri0ff/K+SWVQdLodiJgKc0fGoIqioI2GOjxPiPFU5Rofvmu2q+UZs1YaXB1Qwah7TqQDvIZnl9lNcSE=;YUBBGhOo3QJ6InnWk6LeLQ=="
 ---

@@ -5,8 +5,10 @@ excerpt: "Global Enterprise Artificial Intelligence Market is valued at USD 11.1
 publishedDateTime: 2023-03-13T07:52:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/g31313781/enterprise-artificial-intelligence-ai-market-size-share-to-surpass-64-5-billion-by-2028-vantage-ma"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/g31313781/enterprise-artificial-intelligence-ai-market-size-share-to-surpass-64-5-billion-by-2028-vantage-ma"
+ampWebUrl: "https://www.benzinga.com/amp/content/31313781"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31313781"
 type: article
-quality: 8
+quality: 50
 heat: -1
 published: false
 
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) Chip Market Size and Forecast till 2028"

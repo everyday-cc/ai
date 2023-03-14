@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/31305369"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31305369"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,22 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 59
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "Media Alert: BrainChip Talks State of AI With GFT Ventures Co-Founder Jeff Herbst on Latest 'This is Our Mission' Podcast"
+    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / March 13, 2023 / BrainChip Holdings Ltd (ASX:BRN), (OTCQX:BRCHF), (OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP,"
+    publishedDateTime: 2023-03-13T21:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/ac31331487/media-alert-brainchip-talks-state-of-ai-with-gft-ventures-co-founder-jeff-herbst-on-latest-this-i"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31331487"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31331487"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
     images:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043

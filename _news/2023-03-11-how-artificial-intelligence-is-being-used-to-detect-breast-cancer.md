@@ -1,22 +1,23 @@
 ---
 category: news
 title: "How artificial intelligence is being used to detect breast cancer"
-excerpt: "As the era of artificial intelligence, or AI, continues to expand, the groundbreaking technology is now being used as a tool to detect breast cancer. More and more breast imaging"
-publishedDateTime: 2023-03-10T21:45:00Z
+excerpt: "As AI touches seemingly everything, that includes breast cancer screening too. As the era of artificial intelligence, or AI, continues to expand, the groundbreaking technology is now being used as ..."
+publishedDateTime: 2023-03-10T23:01:00Z
 originalUrl: "https://abcnews.go.com/GMA/Wellness/artificial-intelligence-ai-detect-breast-cancer/story?id=97767530"
 webUrl: "https://abcnews.go.com/GMA/Wellness/artificial-intelligence-ai-detect-breast-cancer/story?id=97767530"
 ampWebUrl: "https://goodmorningamerica.com/amp/wellness/story/artificial-intelligence-ai-detect-breast-cancer-97767530"
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/wellness/story/artificial-intelligence-ai-detect-breast-cancer-97767530"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: ABC
+  name: ABC News
   domain: abcnews.go.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -41,6 +42,6 @@ related:
         height: 394
         isCached: true
 
-secured: "F0j+kC5J3HVmqrDeerD4iFA4vg4ojPv57hOmaEejLsaM/Zm+E1Jxv7mYNh5PGcsLo2QSiBRE7lYGCQswGpk//yzxmBMlJss8oRJTrBRclGZcn5HvW6d8Su1VeDVE0i/RF3bAkCnFrML4XKfofl6ZORIup31nsjiYcw0Iq9R+cpgNpxe+jksDB0Pyzsbpv5vS1cHWnBMbgToerfc/4P9suBr9DCNoRl06R2HUKQL8Czjyo6pvLDaU++jB8/YCzv8WN3ulnSZ2G1KhKvff1b3co8tIdqEvvUnSPXL9nAAHwV0fd1mp7lb68eRXSmBYmMAumTYsy/IOdtqRarXMloIOwX3bjEUbzHh2CUDyWNuJo0Y66bFrWC4mGDJsiKVugnwLyYgK7zMC3e2i4rzyx9cKeKOCgTkHC80ELhn9hLoN8YFEsH6Jcy7ICLj0ttpIe4sAQR2MFkE4dhW54yPDobL2YhMZc0FRdvhd/Ko6Hbpqz5UofsStnwKOYQsrpWEdEI3moJVOVJTFMMs5VUJWthKlmQ==;9Dz3g/Qbn7K7a+6pTwZ74Q=="
+secured: "YwKa8Hp3tsfWhA8XoMT0HA379lzwwld4nkAMtIs/eoHeWN5sO+cesTAjHYKeQcitfacmDyBFJvPKomZCXBGXalCyg8AJgUu6+RO16S4NCsdqvUzLnJdQi4Qcf5Jpt4CfsjbSJhJ2WQbSJxd2Jzdp5w++eQos2VCya8qvCyetXszou5A8OtKi+rdklSyTyor58dbGQrsTbMUsg5EnW/MY2DwxDqkeGVPj0dRfvS+jJzt5ggQyiw2Df/JG2uG+mCa+z3fhNYz8v0XtIFbHxnE8iYYPxRZtn3QQg7cVA+bJzFIQZ4AgLG46UTBx81COEbx6fBxeR0UXbmkM2n0mT+QBks+i1y2zJbVjpGW3uJLdG0c=;3vSuSKg+PKGjP4FdMrv0dQ=="
 ---
 

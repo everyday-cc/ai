@@ -34,20 +34,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
-  - title: "Generative AI: hype or reality? AWS, Cohere and Stability AI analyze new tech applications"
-    excerpt: "Several tech advances, such as computer vision and, more particularly, generative AI, are unraveling a swathe of new capabilities. Many forward-thinking companies are already investing to drive increased end-user value and stay competitive."
-    publishedDateTime: 2023-03-09T19:59:00Z
-    webUrl: "https://siliconangle.com/2023/03/09/generative-ai-hype-reality-aws-cohere-stability-ai-analyze-new-tech-applications-awsshowcases3e1/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Aidan-Bratin-Tom-Clean.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "UtBaSL23sJebunUJdgVc9uF8nOHvvfkugzymKkuvNAGm+2LGz9mVtGz8pB0VbX6+7P7FnqZ1PDpsPVd3xgrM9rGMxfvbdVZVzC+X8CR8oPRQ3PkQmsWyxXRMcIYnl0AA9tz0B40IaFhGddpW6gCiLOV2TDljg4CaZkIoCEwgu8qbJ3GtUnsclVLHOrb+nTRTC5onHSbmk64eFpcNHBhJ2wztHv+cWMeWPezx9+5MTAdnyZ9/jb08be8SixWIzSdWu5K6Barg4TuGS+aAtPhNgVEtb8hRzdg1i7hFKJROO3bNyU3ScoTvcSlgk9lYxV6/imhmUmfyhyTgzD3Wi24v6KZHMdU7+pkyuYsJq7bI2ocVobrsS9LpRwl7H0mLimaujrTMDXDw811rctLGbK5m+uWH4LtoFfzelpb7gXRiVm6KOXkWnS6RE1YbM8jHSrDpT1ovazDH0G5ZYi4yO/IXtztLE7PM1S780GEUG6JDLlQNIKlnpmxpNjY85ABcyVPSOQl97+r+X3vpWiDbhlPG/w==;gWjKisUcOrBesUM956alYw=="
 ---

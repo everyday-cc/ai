@@ -25,16 +25,16 @@ images:
 
 related:
   - title: "How artificial intelligence is being used to detect breast cancer"
-    excerpt: "As the era of artificial intelligence, or AI, continues to expand, the groundbreaking technology is now being used as a tool to detect breast cancer. More and more breast imaging"
-    publishedDateTime: 2023-03-10T21:45:00Z
+    excerpt: "As AI touches seemingly everything, that includes breast cancer screening too. As the era of artificial intelligence, or AI, continues to expand, the groundbreaking technology is now being used as ..."
+    publishedDateTime: 2023-03-10T23:01:00Z
     webUrl: "https://abcnews.go.com/GMA/Wellness/artificial-intelligence-ai-detect-breast-cancer/story?id=97767530"
     ampWebUrl: "https://goodmorningamerica.com/amp/wellness/story/artificial-intelligence-ai-detect-breast-cancer-97767530"
     cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/wellness/story/artificial-intelligence-ai-detect-breast-cancer-97767530"
     type: article
     provider:
-      name: ABC
+      name: ABC News
       domain: abcnews.go.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://s.abcnews.com/images/GMA/mammogram-gty-bb-230310_1678465544244_hpMain_16x9_992.jpg"
         width: 992

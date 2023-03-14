@@ -237,11 +237,18 @@ related:
     excerpt: "Global Enterprise Artificial Intelligence Market is valued at USD 11.1 Billion in 2021 and is projected to reach USD 64.5 Billion by 2028 at a CAGR (Compound Annual Growth"
     publishedDateTime: 2023-03-13T07:52:00Z
     webUrl: "https://www.benzinga.com/pressreleases/23/03/g31313781/enterprise-artificial-intelligence-ai-market-size-share-to-surpass-64-5-billion-by-2028-vantage-ma"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31313781"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31313781"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 8
+    quality: 50
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "9nbPzPshqwk8xN/F+2a/auw0VwiM1O0Jtum54wYde1h82JfiXhk0HsfqjvLscVN0vEMfNL+R8UaokGcQc5OvkZHpQddCliG+y7TS0mtAlaMj+EpgnD7xc/obdbkDJP8Htwt4n7SWz/+8WyIyUz1Vgr7RnHVdEjzEDO3B20n2Uc5WhTK1lkTKpLxvaxk3sberGJLdfITqyOt3Gjb00fW+M3Eij9NWkWdzEb4FI/Cp9GG2xJMoN/BGrLKTkc0adcAeY1Gbmuotfp3LXAZA2JzU91VKzGKHjjfPDWxQolWIbBDwHD4cfLFqsOKnzQQ+7I4mqcA02SUhjlkjyEnLuNs+bSfR3V/YI7uNbagp9hh3eB8=;gfAMFHuC24xkQ67bFql0XA=="
 ---

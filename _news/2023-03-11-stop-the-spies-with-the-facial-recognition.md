@@ -27,6 +27,34 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Market Size and Share | Industry Size"
+    excerpt: "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec"
+    publishedDateTime: 2023-03-13T17:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Speech and Voice Recognition Market 2023-A Detailed Analysis till 2028"
+    excerpt: "Speech and Voice Recognition Market Size 2023-2028 | New Report (109 Pages) | In This Reports Speech and Voice"
+    publishedDateTime: 2023-03-13T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-2023-a-detailed-analysis-till-2028-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Stop the spies with the facial recognition"
     excerpt: "If, like us, your initial and overriding opinion of sweeping electronic surveillance of literally everyone by law enforcement is that it is bad — bad to the bone — your attitude about a proposed"
     publishedDateTime: 2023-03-10T15:00:00Z
@@ -43,40 +71,20 @@ related:
         width: 1024
         height: 578
         isCached: true
-  - title: "Facial recognition-based attendance soon at KU"
-    excerpt: "Jamshedpur: The Kolhan University has issued tenders for developing facial recognition based attendance system that will require hardware and software."
-    publishedDateTime: 2023-03-11T02:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/ranchi/facial-recognition-based-attendance-soon-at-ku/articleshow/98555569.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/ranchi/facial-recognition-based-attendance-soon-at-ku/amp_articleshow/98555569.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/ranchi/facial-recognition-based-attendance-soon-at-ku/amp_articleshow/98555569.cms"
+  - title: "Jharkhand university to use facial recognition-based attendance and here’s why we’re not happy"
+    excerpt: "Jharkand University to mark employee and staff attendance using facial recognition software, raising concerns about privacy and surveillance."
+    publishedDateTime: 2023-03-13T08:53:00Z
+    webUrl: "https://www.medianama.com/2023/03/223-jharkhand-university-to-use-facial-recognition-based-attendance/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: MediaNama
+      domain: medianama.com
+    quality: 27
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
+      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1-e1637751682262.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Axis Pens New Vendor Partnership With Facial Recognition Provider"
-    excerpt: "The Alcatraz AI Rock is a modern facial authentication solution that works natively with Axis Communications access control systems and door controllers to use a person’s face as their credential to quickly and privately authenticate users at the point of entry,"
-    publishedDateTime: 2023-03-10T12:53:00Z
-    webUrl: "https://www.globest.com/2023/03/10/axis-pens-new-vendor-partnership-with-facial-recognition-provider/"
-    type: article
-    provider:
-      name: GlobeSt.com
-      domain: globest.com
-    quality: 19
-  - title: "FBI, Pentagon helped research facial recognition for street cameras, drones"
-    excerpt: "The FBI and the Defense Department were actively involved in research and development of facial recognition software that they hoped could be used to identify people from video footage captured by ..."
-    publishedDateTime: 2023-03-09T23:10:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/07/facial-recognition-fbi-dod-research-aclu/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 17
 
 secured: "/0tV4roiCMyEfXlacoGori7Au+/T8R4Xn4r3NmUJWSiyPmTjjHuHvkPTC8UJ507bhAJGgKjk+etvbhJMOI94l32ui+XzwItKcp7spABBeesnbJ9UYwsk63givcCdqze9PmzfZxe1Yu3hqkXlECLHsCE69Exh2g6vxcppmvWyAj+sAJOCShsVIpvcESbS9yeWAmHjIyhLF/8biPq0zqWJgAqnWH1t2ze5xwmGdkKt2nnVJATjPZ7u0N5lpkJ13YiSdBd26LUQpjWlbj7kZtGZnkpXH9spixckLnrgRqrjX3XOZq1Jo6ojBJC6Haniww1bX7JrR6UNbkPQnWfRUUMsce4BdUbIWbNvzaHQuRzrHwE=;toaOMAl5ugv8KjKPrCicvQ=="
 ---

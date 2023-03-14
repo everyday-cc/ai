@@ -29,61 +29,65 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Manufacturing and Supply Chain Market : Geographical Analysis till 2028"
-    excerpt: "Short Description About Artificial Intelligence in Manufacturing and Supply Chain Market: Artificial Intelligence in Manufacturing and Supply Chain Market 2023 research is a key process that helps businesses gather and analyze information about their target Artificial Intelligence in Manufacturing and Supply Chain market,"
-    publishedDateTime: 2023-03-13T17:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-and-supply-chain-market-geographical-analysis-till-2028-2023-03-13"
+  - title: "Facial Recognition Market Size and Share | Industry Size"
+    excerpt: "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec"
+    publishedDateTime: 2023-03-13T17:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "New Report on Machine Learning in Retail Market with Size and Latest Trends Analysis, Geographic Growth Factors During 2023 to 2028"
-    excerpt: "GlobalMachine Learning in Retail MarketNew Research Report 2022 | The Machine Learning in Retail market size is"
-    publishedDateTime: 2023-03-10T07:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/new-report-on-machine-learning-in-retail-market-with-size-and-latest-trends-analysis-geographic-growth-factors-during-2023-to-2028-2023-03-10"
+  - title: "Stop the spies with the facial recognition"
+    excerpt: "If, like us, your initial and overriding opinion of sweeping electronic surveillance of literally everyone by law enforcement is that it is bad — bad to the bone — your attitude about a proposed"
+    publishedDateTime: 2023-03-10T15:00:00Z
+    webUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+    ampWebUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-sgvtribune-com.cdn.ampproject.org/c/s/www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: San Gabriel Valley Tribune
+      domain: sgvtribune.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.sgvtribune.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+        width: 1024
+        height: 578
         isCached: true
-  - title: "Global Machine Learning in Medical Imaging Market Analysis: Future Investments and Growth Factors until 2028"
-    excerpt: "The purpose of this report onMachine Learning in Medical Imaging Marketanalysis is to assist business owners in"
-    publishedDateTime: 2023-03-10T07:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-in-medical-imaging-market-analysis-future-investments-and-growth-factors-until-2028-2023-03-10"
+  - title: "Stop the spies with the facial recognition"
+    excerpt: "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ..."
+    publishedDateTime: 2023-03-10T23:02:00Z
+    webUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+    ampWebUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-presstelegram-com.cdn.ampproject.org/c/s/www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Press-Telegram
+      domain: presstelegram.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.presstelegram.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+        width: 1024
+        height: 578
         isCached: true
-  - title: "Global Data Science and Machine Learning Service Market Analysis: Future Investments and Growth Factors until 2028"
-    excerpt: "The global Data Science and Machine Learning Service market is anticipated to rise at a considerable rate during the forecast period, from 2022 to 2028. The market is growing at a stable rate and with the rising adoption of strategies by key players ..."
-    publishedDateTime: 2023-03-10T03:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-service-market-analysis-future-investments-and-growth-factors-until-2028-2023-03-10"
+  - title: "Jharkhand university to use facial recognition-based attendance and here’s why we’re not happy"
+    excerpt: "Jharkand University to mark employee and staff attendance using facial recognition software, raising concerns about privacy and surveillance."
+    publishedDateTime: 2023-03-13T08:53:00Z
+    webUrl: "https://www.medianama.com/2023/03/223-jharkhand-university-to-use-facial-recognition-based-attendance/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: MediaNama
+      domain: medianama.com
+    quality: 27
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1-e1637751682262.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "dBWnIV3fLqVqIl52reOrhW3l4DapAv61CCP5FilLx82iWZmoIqB3fCASAhPUDHXl49VyAIZupRCvL8JaAI2xkXvwS1aBSHS5IJOThuJU8rKziaY+ZiYee0kRBUB7z9yMqDrvHx4GmygeKlc0jLG5FIZiKD1A6O/YDpMpiN/TpU2huLaTtJsYVmhtXHLpKEVKOiDJ7X5CysSGgOvvQ3NXATnDWbJKL55UA4ijMIfD5flqpJgwZp86q81JmcVuQDDAaYqLMF7aXSQoMEQIBZhsok6ZfL+OTgoCTe+3JREamkp45Vs3EsMYLnj45dIZWw6vnqxWLmnHhKSgbbMVaaAP0u9st9RFoJ6L6YuRaymK2+U=;w/bDRcA4sbH6RZp76bzLkw=="

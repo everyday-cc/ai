@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/groq-adapts-metas-chatbot-its-own-chips-race-against-nvidia-3675533?amp=1"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 800
     isCached: true
 
-secured: "zFGQRWJHlxLv0aue58dlTwhPXchyCF+G0izZkEyZhY3BGwNxQXx1jRWr/au8dwQCoIKsVOiR0Bd7yAm6XN5ccRMuyGoz6vzosbrbJ3Yn3QkRuQi/YyZ2YD+VIv9eSPjcD3lMdRTiWEloj60ks38Gc5QHNzNHsqHfr/gMPyVqhcuZVocImJNSb9kCEvwSMUvAgL4JL8Src+OLZFR1fqDqUVW6+kA++LueaZvmVji1s3PCdob4mOCmvreS8tcPudyzZvhdMKibtygal7LKD8Jvie89Fe1mhTtUTW1s9e7y6NPgmi2Pu6VqkLllYNCLvogvJ7kHv9iI9v94OmxOosPpURV1r4UftvC8b8SXpKnT2gg=;+riyUGtG5GCOEMN92c22Sg=="
+related:
+  - title: "Nvidia's early investment in AI bears fruit as its A100 chip now powers ChatGPT"
+    excerpt: "Every chip that we made was focused on artificial intelligence.\" Thanks to its early investment in AI, Nvidia is reaping the rewards as its chips are now used as the engine behind large language ..."
+    publishedDateTime: 2023-03-09T13:56:00Z
+    webUrl: "https://www.ibtimes.co.uk/nvidias-early-investment-ai-bears-fruit-its-a100-chip-now-powers-chatgpt-1713839"
+    ampWebUrl: "https://amp.ibtimes.co.uk/nvidias-early-investment-ai-bears-fruit-its-a100-chip-now-powers-chatgpt-1713839"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/nvidias-early-investment-ai-bears-fruit-its-a100-chip-now-powers-chatgpt-1713839"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 70
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1712783/logo-nvidia-corporation-seen-during-annual-computex-computer-exhibition-taipei.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "eF0mXYbJBFVNiW/vMusAS5+p3m/P2/vt4PKeDw7bODONUbvydaFcbaTSozHtF+772VXwFtZinPHHr07Lu+t4ebVqwwFLICIISreZuxjXhvc0Ypshxign4RyjxV02HMsN/PxhqyAESSofC3ido7ZHV5dySH+rnGfNDx+MgSb91eABBwfn7osKEePubjq9g6Vmj5GMgJseMmCg4o0YZfn0x2gSgBxem0lxYC6iig6fXhjGQCjmPHcONTQ0k23WNk72fFYxS+Vb2zSSfKTUrZ4nDpx9puyjRtyjDLVEv/jhUD1MdW4Jw6E60MEymp0Gw/UicvM158EBJ2muc1UGFAbseuz+pQsw0LTmY8Py92t07OA=;iToo/ax4AIYL1BppuKZEoQ=="
 ---
 

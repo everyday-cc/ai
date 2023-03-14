@@ -25,26 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Azure previews powerful and scalable virtual machine series to accelerate generative AI"
-    excerpt: "In the competitive race for AI innovation, pushing the envelope requires both experience and leadership-class supercomputing scalability. Powerful and massively scalable infrastructure is paramount as the complexity and size of AI models accelerate."
-    publishedDateTime: 2023-03-13T06:00:08Z
-    webUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/"
+  - title: "Artificial intelligence can realistically replicate voices, raising new tech concerns"
+    excerpt: "New artificial intelligence technology can replicate voices, giving users the ability to manufacture content involving celebrities, politicians or just about anyone. NBC News’ Gadi Schwartz shares more on the groundbreaking AI technology and the ethical implications."
+    publishedDateTime: 2023-03-13T23:03:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/artificial-intelligence-can-realistically-replicate-voices-raising-new-tech-concerns-165109829933"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo165109829933"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo165109829933"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
-  - title: "Making scalable computing easy: Anyscale harnesses foundational machine learning models at scale"
-    excerpt: "But, given their depth, these models also require large amounts of compute resources to perform at a meaningful scale. And that computing at scale is the problem that Anyscale Inc. is working to solve."
-    publishedDateTime: 2023-03-09T21:01:00Z
-    webUrl: "https://siliconangle.com/2023/03/09/making-scalable-computing-easy-anyscale-harnesses-foundational-machine-learning-models-scale-awsshowcases3e1/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
+      name: NBC News
+      domain: nbcnews.com
+    quality: 95
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Robert-Nishihara-CLEAN-1.jpg"
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_03/1678748553630_nn_gsc_ai_voice_cloning_230313_1920x1080-cex58r.jpg"
         width: 1920
         height: 1080
         isCached: true
