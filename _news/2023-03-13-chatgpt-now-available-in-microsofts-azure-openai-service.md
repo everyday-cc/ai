@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Microsoft Supercomputers Use NVIDIA H100 GPUs To Drive Generative AI"
+    excerpt: "By now, you've probably heard of OpenAI's chatbot, the aptly named ChatGPT, and how Microsoft recently incorporated it into Bing."
+    publishedDateTime: 2023-03-14T08:01:00Z
+    webUrl: "https://www.lowyat.net/2023/296295/microsoft-supercomputers-use-nvidia-h100-gpus-to-drive-generative-ai/"
+    ampWebUrl: "https://www.lowyat.net/2023/296295/microsoft-supercomputers-use-nvidia-h100-gpus-to-drive-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2023/296295/microsoft-supercomputers-use-nvidia-h100-gpus-to-drive-generative-ai/amp/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 91
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2023/03/Microsoft-Azure-NVIDIA-H100-stock-server-photo-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT on Azure OpenAI Service: How Microsoft is helping companies adopt AI"
     excerpt: "With the availability, developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps, which will help them"
     publishedDateTime: 2023-03-10T08:27:00Z
@@ -90,20 +106,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-98538794,width-1070,height-580,imgsize-3588,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
-        isCached: true
-  - title: "Tomahawk Robotics Adds KxM to the Microsoft Azure Marketplace"
-    excerpt: "The KxM provides users with a ruggedized platform to ingest large amounts of data for high-speed body-worn computation at the tactical edge, reduce cognitive load, and fuse raw intelligence data to enable real-time decision-making."
-    publishedDateTime: 2023-03-09T17:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-tomahawk-robotics-adds-kxm-the-microsoft-azure-marketplace-/2023/03/09/9774538.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 86
-    images:
-      - url: "https://mma.prnewswire.com/media/2029687/Tomahawk_Robotics_KxM.jpg"
-        width: 400
-        height: 320
         isCached: true
   - title: "Microsoft Introduces Generative AI VM on Azure with Scaling up to Thousands of GPUs"
     excerpt: "Microsoft today introduced the ND H100 v5 VM on the Azure cloud, a virtual machine for development generative AI applications. The VM can scale from eight to thousands of NVIDIA H100 GPUs with Quantum-2 InfiniBand networking,"

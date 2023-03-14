@@ -1,0 +1,60 @@
+---
+category: news
+title: "How AI could write our laws"
+excerpt: "Lobbying has long been part of the give-and-take among human policymakers and advocates working to balance their competing interests. The danger of microlegislation—a danger greatly exacerbated by AI—is that it can be used in a way that makes it difficult to figure out who the legislation truly benefits."
+publishedDateTime: 2023-03-14T09:00:00Z
+originalUrl: "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/"
+webUrl: "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/"
+ampWebUrl: "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/"
+type: article
+quality: 57
+heat: 77
+published: true
+
+provider:
+  name: MIT Technology Review
+  domain: technologyreview.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/ai-lobbyists.jpeg?w=3000"
+    width: 3000
+    height: 1688
+    isCached: true
+
+related:
+  - title: "AI could forever change our lives, tech experts warn. And it could happen in months"
+    excerpt: "Roughly one in 10 AI researchers said the technology could lead to the extinction of the human race or its severe “disempowerment,” according to a 2022 survey by Oxford University and the Machine Intelligence Research Center, Klein noted. One in 10."
+    publishedDateTime: 2023-03-13T16:06:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/op-ed/philboas/2023/03/13/ai-artificial-intelligence-could-change-lives-within-months-experts-warn/70003280007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 33
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/c7201397a094fbdc20cb6571e2b996028ab9cc4f/c=0-197-2998-1891/local/-/media/2016/02/26/Phoenix/Phoenix/635920942838350949-GettyImages-512414892.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "AI could forever change our lives, tech experts warn. And it could happen in months"
+    excerpt: "Artificial intelligence may be the most disruptive technology advancement in history. And it could change our lives a lot faster than we think."
+    publishedDateTime: 2023-03-13T22:52:00Z
+    webUrl: "https://www.tennessean.com/story/opinion/op-ed/philboas/2023/03/13/ai-artificial-intelligence-could-change-lives-within-months-experts-warn/70003280007/"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 33
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/c7201397a094fbdc20cb6571e2b996028ab9cc4f/c=0-197-2998-1891/local/-/media/2016/02/26/Phoenix/Phoenix/635920942838350949-GettyImages-512414892.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+
+secured: "DMp7US7/uZu//A9xilk43XaUfnSZi6zJqeJwvcAbWm2i76bnQc8eOsUhG7EOifi8F0UUuqFhGLNhna82/DUmimexNH/zhUYYv4O9dgOtco62ICrI9C86VSoGcgCBjA8UiOC9BKPU8fHmPCY1Lm8iTgGGrxMplCMIasA18Ftp4w35w6/oEO3GnnOeEp5Gx6CaVyPbFY/bWQZqEX/bcsla3WV9Tlq3Xah6TdIv7ccW61KXawy0DLRO4oWk/1Pw6tM8Am+7RpUwYmXLX5Qs4FGGcbLZgkwLKUyMYAnPYXORc7Q8RXgC9N1eQp+JwwVaCiO0f+XhD9H9/IovbAUUbP+dFOjRupH0ev/1J97D1Fi5s18=;SLf1p7BOLarUlu8DtcWcAw=="
+---
+

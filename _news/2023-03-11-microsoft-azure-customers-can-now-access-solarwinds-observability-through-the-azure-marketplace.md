@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cyclotron Taps Microsoft technology stack expert Seth Sanusi to Lead Azure Initiatives"
-    excerpt: "Cyclotron, a San Francisco-based business technology consultancy, is proud to announce the hiring of long-time Microsoft technology stack expert Seth Sanusi to lead its Microsoft Azure consulting practice."
-    publishedDateTime: 2023-03-09T18:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31283675/cyclotron-taps-microsoft-technology-stack-expert-seth-sanusi-to-lead-azure-initiatives"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
 
 secured: "IEtLKr5rMVewKmX3wIKvo3O4risz8q0zAXfO1RufIHZqhRge6PgHF54m/biWUCdTK2RButYUjS0OLt305PFfkX6Ysqmrg/eGCWGvCHinn5c2h8DJW9BrhUy1SGKa8YLZLOwbV50qD+JkvS6ra145M0JeDbgCxHUrUucRERJYcEc0ewUQTfCzODSrqyRmSFsI6p63E/kZZWpKjdEmyG2Ks8gUNC5OAdYO0lYLs2NIFvuijJQY+RHKLOXy6ZwrR+DzfPeEpi1VVCrXp6g9ALy3JfbUdjpVyV9i0/4IQtf8pEgxjpfEPl5hIEvICTnfJ8V4UuEyh3mpxUwxefuHIZbTpV/8YiPQtrWKyTCjnz8wzOg=;w5JhvjfTCd1fA4j4oDrBSA=="
 ---

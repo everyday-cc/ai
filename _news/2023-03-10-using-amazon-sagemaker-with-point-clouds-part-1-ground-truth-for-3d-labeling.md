@@ -43,20 +43,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Use a data-centric approach to minimize the amount of data required to train Amazon SageMaker models"
-    excerpt: "As machine learning (ML) models have improved, data scientists, ML engineers and researchers have shifted more of their attention to defining and bettering data quality. This has led to the emergence of a data-centric approach to ML and various techniques to improve model performance by focusing on data"
-    publishedDateTime: 2023-03-09T18:04:56Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-data-centric-approach-to-minimize-the-amount-of-data-required-to-train-amazon-sagemaker-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/09/data-centric-approach-sagemaker.jpg"
-        width: 1565
-        height: 781
-        isCached: true
   - title: "Accelerate time to insight with Amazon SageMaker Data Wrangler and the power of Apache Hive"
     excerpt: "Amazon SageMaker Data Wrangler reduces the time it takes to aggregate and prepare data for machine learning (ML) from weeks to minutes in Amazon SageMaker Studio. Data Wrangler enables you to access data from a wide variety of popular sources (Amazon S3, Amazon Athena,&nbsp;Amazon Redshift, Amazon EMR"
     publishedDateTime: 2023-03-10T18:24:25Z

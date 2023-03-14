@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Cambridge Launches AI Research Ethics Policy"
-excerpt: "New guidelines will help researchers use generative AI tools like ChatGPT while upholding academic standards around transparency, plagiarism, accuracy and originality. The rules are set out in the fir"
-publishedDateTime: 2023-03-14T00:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/03/b31332608/cambridge-launches-ai-research-ethics-policy"
-webUrl: "https://www.benzinga.com/pressreleases/23/03/b31332608/cambridge-launches-ai-research-ethics-policy"
-ampWebUrl: "https://www.benzinga.com/amp/content/31332608"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31332608"
+title: "Cambridge launches AI research ethics policy"
+excerpt: "Our new guidelines will help researchers use generative AI tools like ChatGPT, while upholding academic standards around transparency, plagiarism, accuracy and originality."
+publishedDateTime: 2023-03-14T09:26:00Z
+originalUrl: "https://www.cambridge.org/news-and-insights/news/cambridge-launches-ai-research-ethics-policy"
+webUrl: "https://www.cambridge.org/news-and-insights/news/cambridge-launches-ai-research-ethics-policy"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Cambridge University Press
+  domain: cambridge.org
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Cambridge University Press: Cambridge Launches AI Research Ethics Policy"
@@ -37,6 +29,6 @@ related:
       domain: finanznachrichten.de
     quality: 33
 
-secured: "7BG0axv2Y/CPgJgiuPv/oakkeQ4xy6hF0JrsdwLE4iufFpJRO+RosUid+Zr1/atDcQk3Qd+w1r8NH22R5WMxB46mBNBpN+XFfOE40Ve0aBnsRwe5pI/HOm4miW0twH0a40sYaQRf9PteoW2JCWhVOxzE2jwEkNO1nnJCAhSpqS+q3GrJTQTEN/BIkF5JVeWJtv6c9Rj2VDwuH7B+WR0N28aawCJNGOFpzxOZeboZdpkSSUdi/Oggs8penpMwXoGZIGOIbXZ9SqUEVXXOF3Dj00FAcJF4n+LmBY8NQb+ekeP/y8kbXWGJ3S9vP6L8+XLKSSqLTLs3u7h+QctSdxN9HO2sCvFqmHlZ59r7LzL8g8Y=;XJvwARRgMLEb4pFTjRcUtw=="
+secured: "SRa83jCJcghfCdZBJxkMm2Ffy5GYLJ1lHYyR7AwsAcM5+Elc57z/TdodrXDrUVJjzOkYICDSueBpZP0AwMBWkHaESh9zgwl2fB4F7+zvaFiZ1nJySVt8oqfIMARqo2wKcLpwf22iAEqcfZynZtb4uTQ5tRl5gmdoGLXUmgJmDDqK1wytOBYfrZmp36MBYV1LLSr2ebh6BdPGA724/npx5NSGNiwCS2DAZa0Bvx78wc0E9LrB76nr7p2rc8sencn554Ou1agnZqFViCsiZ+3tBuRIRhyE347Ao9wkw44n+xRzz7lDZEUqenjIB59N28/Sq7by6rJjqH1FkkHLARLow/LCFtaIlRgviLqKSwfFyv0=;ujFNoIi3ojsYyfVQ9kGXfA=="
 ---
 

@@ -72,6 +72,15 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Microsoft Layoffs: Ethics and Society Team Fired"
+    excerpt: "As Microsoft continues its string of layoffs, the company’s ethics and society team is the latest part of the workforce to be fired. The sacking of the ethical AI team at the tech giant has naturally led to controversies regarding whether or not ..."
+    publishedDateTime: 2023-03-14T09:17:00Z
+    webUrl: "https://techreport.com/news/3493451/microsoft-layoffs-ethics-and-society-team-fired/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 36
 
 secured: "yKNgqGytViAA5NPJQ2j4XcXYcCnxltAxSFRhfNGKMbLqB9meBZ2FKCWXACoOJB0xiPf9LDwXMb7yNRXU1urKZi2tAt2j9Yx8b0rR7aN5Lljs+vHbO3ZFg5RZlLzM2ye51KXIGlFWWNi4FE3Hsc+0uN9v30ughZ4VF9QfATAoMsBjEZ6VzYKHAisIxWjeKp1RmsX9FQMoxOvC8NPbptRywUol70MHFjITwl0cUpisxrfq8FfZ2c4wwrzrIv7556SwqDaiXVP6WUW572ce9UvyXCbsrHWKMux1a02w5nsMIf5hS7zvG9Cf7riYeicQlFcdBX1gEH6R+MpHv7BVUaa/VuRK/VppbptkxwyiVdmRQvM=;4KiaLFluQ5vmlQOWBzqIGA=="
 ---

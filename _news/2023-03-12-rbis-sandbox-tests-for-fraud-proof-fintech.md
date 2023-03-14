@@ -7,7 +7,7 @@ originalUrl: "https://www.thehindubusinessline.com/business-laws/rbis-sandbox-te
 webUrl: "https://www.thehindubusinessline.com/business-laws/rbis-sandbox-tests-for-fraud-proof-fintech/article66608800.ece"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "UBS Teams With Fintech Firm Tenity: Tech Roundup"
-    excerpt: "Among the goals is to “strengthen innovation in the fintech sector,” the firms said ... Catchlight’s insights and AI will be used by advisors to “better understand and prioritize their lead,” the companies said. adding, “Catchlight distills ..."
-    publishedDateTime: 2023-03-09T16:14:00Z
-    webUrl: "https://www.thinkadvisor.com/2023/03/09/ubs-teams-with-fintech-firm-tenity-tech-roundup/"
-    type: article
-    provider:
-      name: Think Advisor
-      domain: thinkadvisor.com
-    quality: 24
-    images:
-      - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2023/02/11_UBS_Sign_HQ_BB_640x640.jpg"
-        width: 640
-        height: 640
-        isCached: true
 
 secured: "6wmltxQD3iU3hK/9ptsz/PMpWTUIBZpHORWop460kMyVldWrvx0Rfv/7wVscSHAkf1IzIXUa32ZdndxM1+XMPAiOFfE7GV1FkRLAUxO+i+sARPxtlYNyK1shFPJnlrOARea60/rFjkOXVLxeCTkdNCbpAp/5Rqv6IDwmKCVE73YL4SacYlsZH04ZRhUlJgF2dM4hcMm3kOeMwL+A0X5yznHR9qoQ77nY72vqV9YfDAnXybYU2DhgO2uF7NS3AoI66WcMKb4b3kAF1RonVycHIqYlY//SY1kYivxLVDOSPW5FUv29HHOMH5pcHlHlsxhC93I0qDDhnNAK1+ciQ3biCNtD1eHqkJ7mei+DHIO7pLt0WiC31GycJGnC1l5OhoDAtbwbaCq62bPnnzNlQNA3QcJEjsJU1QtQ6zxr2HfzM9ZqOYhu0X9Sq3c7G29TzAGKLvsxsaOtKZVs1or7NNlSC3EaTiQNqR8vzvmfHoFeugWq8IPyGkcno1RtN/I5syDXpgPf1ccUaE5SHT0SmnKQ4w==;Up+rR+lxSXD9MIPDRB1cMg=="
 ---

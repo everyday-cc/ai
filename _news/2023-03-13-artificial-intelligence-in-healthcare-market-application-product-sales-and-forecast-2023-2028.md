@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13"
 type: article
 quality: 89
-heat: 369
+heat: 389
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -186,6 +186,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Market Worldwide Business Growth and Consumption Status by 2029"
+    excerpt: "The \"Artificial Intelligence (AI) Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-13T20:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-worldwide-business-growth-and-consumption-status-by-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Size | Industry Report from 2023 - 2029"
     excerpt: "Natural Language Processing For Healthcare And Life Sciences Market” information for each competitor includes |"
     publishedDateTime: 2023-03-12T17:44:00Z
@@ -311,6 +325,20 @@ related:
     excerpt: "Artificial Intelligence based Personalization Marketinformation for each competitor includes (, Apple, Symantec,"
     publishedDateTime: 2023-03-10T03:10:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-personalization-market-valuation-worldwide-2023-2029-2023-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Make Informed Decisions with Our Detailed Mobile Speech Recognition Software Market Analysis and Forecast [2023-2026]"
+    excerpt: "Pages Report] Global “ Mobile Speech Recognition Software Market ” [2023-2026] latest research report provides size, share, growth, developments, new technology, trends, and forecasts for 2026. Also,"
+    publishedDateTime: 2023-03-13T11:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/make-informed-decisions-with-our-detailed-mobile-speech-recognition-software-market-analysis-and-forecast-2023-2026-2023-03-13"
     type: article
     provider:
       name: MarketWatch

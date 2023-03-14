@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/the-instabase-platform-now-a
 webUrl: "https://www.datanami.com/this-just-in/the-instabase-platform-now-available-in-microsoft-azure-marketplace/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cyclotron Taps Microsoft technology stack expert Seth Sanusi to Lead Azure Initiatives"
-    excerpt: "Cyclotron, a San Francisco-based business technology consultancy, is proud to announce the hiring of long-time Microsoft technology stack expert Seth Sanusi to lead its Microsoft Azure consulting practice."
-    publishedDateTime: 2023-03-09T18:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31283675/cyclotron-taps-microsoft-technology-stack-expert-seth-sanusi-to-lead-azure-initiatives"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
   - title: "Microsoft Azure Customers Can Now Access SolarWinds Observability Through the Azure Marketplace"
     excerpt: "SolarWinds, a provider of powerful and secure IT management software, announced SolarWinds Observability is now available on the Microsoft Azure Marketplace, empowering SolarWinds customers to take advantage of the Azure cloud platform."
     publishedDateTime: 2023-03-10T19:00:00Z

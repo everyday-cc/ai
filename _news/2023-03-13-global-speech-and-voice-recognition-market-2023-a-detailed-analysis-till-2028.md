@@ -29,10 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Size and Share | Industry Size"
-    excerpt: "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec"
-    publishedDateTime: 2023-03-13T17:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
+  - title: "Face Recognition Device Market with Data Research Source 2028"
+    excerpt: "Face Recognition Device Market research report aims to provide valuable insights and a regional outlook for future"
+    publishedDateTime: 2023-03-14T08:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-with-data-research-source-2028-2023-03-14"
     type: article
     provider:
       name: MarketWatch
@@ -43,51 +43,35 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Stop the spies with the facial recognition"
-    excerpt: "If, like us, your initial and overriding opinion of sweeping electronic surveillance of literally everyone by law enforcement is that it is bad — bad to the bone — your attitude about a proposed"
-    publishedDateTime: 2023-03-10T15:00:00Z
-    webUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
-    ampWebUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-sgvtribune-com.cdn.ampproject.org/c/s/www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+  - title: "Global Mobile Speech Recognition Software Market to Reach $940.8 Million by 2030"
+    excerpt: "ReportLinker is an award-winning market research solution. Reportlinker finds and organizes the latest industry data so you get all the market research you need - instantly, in one place."
+    publishedDateTime: 2023-03-10T16:27:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31298831/global-mobile-speech-recognition-software-market-to-reach-940-8-million-by-2030"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31298831"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31298831"
     type: article
     provider:
-      name: San Gabriel Valley Tribune
-      domain: sgvtribune.com
-    quality: 59
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
     images:
-      - url: "https://www.sgvtribune.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
-        width: 1024
-        height: 578
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Stop the spies with the facial recognition"
-    excerpt: "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ..."
-    publishedDateTime: 2023-03-11T00:06:00Z
-    webUrl: "https://www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
-    ampWebUrl: "https://www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+  - title: "Ultimate Machine Learning Infrastructure as a Service Market Analysis [2023-2028] | Our Research Report on Top Countries Data"
+    excerpt: "GlobalMachine Learning Infrastructure as a Service Market(2023-2028) Latest Research Report | Industry research"
+    publishedDateTime: 2023-03-10T03:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ultimate-machine-learning-infrastructure-as-a-service-market-analysis-2023-2028-our-research-report-on-top-countries-data-2023-03-09"
     type: article
     provider:
-      name: Daily Breeze
-      domain: dailybreeze.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
-      - url: "https://www.dailybreeze.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
-        width: 1024
-        height: 578
-        isCached: true
-  - title: "Jharkhand university to use facial recognition-based attendance and here’s why we’re not happy"
-    excerpt: "Jharkand University to mark employee and staff attendance using facial recognition software, raising concerns about privacy and surveillance."
-    publishedDateTime: 2023-03-13T08:53:00Z
-    webUrl: "https://www.medianama.com/2023/03/223-jharkhand-university-to-use-facial-recognition-based-attendance/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 27
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1-e1637751682262.jpg"
-        width: 1280
-        height: 720
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "dBWnIV3fLqVqIl52reOrhW3l4DapAv61CCP5FilLx82iWZmoIqB3fCASAhPUDHXl49VyAIZupRCvL8JaAI2xkXvwS1aBSHS5IJOThuJU8rKziaY+ZiYee0kRBUB7z9yMqDrvHx4GmygeKlc0jLG5FIZiKD1A6O/YDpMpiN/TpU2huLaTtJsYVmhtXHLpKEVKOiDJ7X5CysSGgOvvQ3NXATnDWbJKL55UA4ijMIfD5flqpJgwZp86q81JmcVuQDDAaYqLMF7aXSQoMEQIBZhsok6ZfL+OTgoCTe+3JREamkp45Vs3EsMYLnj45dIZWw6vnqxWLmnHhKSgbbMVaaAP0u9st9RFoJ6L6YuRaymK2+U=;w/bDRcA4sbH6RZp76bzLkw=="

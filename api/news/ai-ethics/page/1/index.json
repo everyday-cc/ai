@@ -10,7 +10,7 @@
       "originalUrl": "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -43,49 +43,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-cambridge-launches-ai-research-ethics-policy.md",
-      "title": "Cambridge Launches AI Research Ethics Policy",
-      "excerpt": "New guidelines will help researchers use generative AI tools like ChatGPT while upholding academic standards around transparency, plagiarism, accuracy and originality. The rules are set out in the fir",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/b31332608/cambridge-launches-ai-research-ethics-policy",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/b31332608/cambridge-launches-ai-research-ethics-policy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31332608",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31332608",
-      "publishedDateTime": "2023-03-13T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -369,15 +326,15 @@
       "title": "How will artificial intelligence reshape our world? | The Ethical Life podcast",
       "excerpt": "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other.",
       "sourceUrl": null,
-      "webUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
-      "originalUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
+      "webUrl": "https://missoulian.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_74dba4da-9198-50ee-9470-09c1c5c5d3a4.html",
+      "originalUrl": "https://missoulian.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_74dba4da-9198-50ee-9470-09c1c5c5d3a4.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/4/f0/4f0cd688-a294-5d1b-aad8-c741806100e4/63ff740138a57.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/7/4d/74dba4da-9198-50ee-9470-09c1c5c5d3a4/63ff73fcb1efe.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
           "width": 1196,
           "height": 628,
           "title": null,
@@ -392,8 +349,8 @@
       "publishedDateTime": "2023-03-01T15:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Casper Star-Tribune",
-        "domain": "trib.com",
+        "name": "Missoulian",
+        "domain": "missoulian.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1398,6 +1355,58 @@
         "name": "In These Times",
         "domain": "inthesetimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-10-your-essential-guide-to-generative-ai-chatgpt-via-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights.md",
+      "title": "Your Essential Guide To Generative AI ChatGPT Via The Super Bowl, Plus Bonus AI Ethics And AI Law Insights",
+      "excerpt": "Those in AI Ethics and AI Law are notably worried about this burgeoning trend of outstretched claims. You might politely say that some people are overstating what today’s AI can actually do. They assume that AI has capabilities that we haven’t yet been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/10/your-essential-guide-to-generative-ai-chatgpt-and-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/10/your-essential-guide-to-generative-ai-chatgpt-and-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63e5ee0f389df072e721a49e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/02/10/your-essential-guide-to-generative-ai-chatgpt-and-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/02/10/your-essential-guide-to-generative-ai-chatgpt-and-the-super-bowl-plus-bonus-ai-ethics-and-ai-law-insights/amp/",
+      "publishedDateTime": "2023-02-10T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

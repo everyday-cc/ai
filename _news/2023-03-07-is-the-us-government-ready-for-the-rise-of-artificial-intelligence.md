@@ -3,8 +3,8 @@ category: news
 title: "Is the US government ready for the rise of artificial intelligence?"
 excerpt: "AI could benefit society, but it could also become a monster. To guide the way, we need leadership and understanding"
 publishedDateTime: 2023-03-07T14:20:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?bingParse"
+webUrl: "https://www.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich?bingParse"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/mar/07/us-government-artificial-intelligence-robert-reich"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 372
     isCached: true
 
-secured: "iNK77An43rsXzhoXdK3uEUHmx2u63opHtTzCU3gP5sPZnZIHcFD8NA833vRUai3e8Kf6Z+A0zNwCra+/KBmm7ZdiOju3F6oMtFeJgKSzfCmef4Oa30Cm1zYpdN8rOye/ipxEo7rt/DolDvXgmg/nWfqtzhrxY4RsTe30/IUqWMkcFyjAjNXOiJLMW90CPn/+zJrZbBSBQMvVskn93ldh1udrNFKm8Ib4MbVAEOT/It0Ep/Puwm4nNkUrAr2uHaP3vsRR10evoZMxd0AD/EbJofJuRfM0OiaE1WG2aQKb8hIC9Pjwk+EiSv5sRszKrTqgu7wiRhakKw9QwhfAXUFGF42U6arUqZ/1KFfOUMCcs6VVeqqXvWxZuS+bLcXXjgX3q1lNeXfLfmL4TQjroPH9uq8NvQ5142I+reEQ4i/B/so4mS1SQQqdVFMYahyNsLiKABZ0+z7RTi1Dj+injTqWfHh9f/G0z6hKGS8Tb8Wbfmvyqb5zIUUmlcGRBq8YIb6ipo6ahmisLuEvahqSwmqznQ==;WRiXeKpxFHfHo/uCxcO3qQ=="
+secured: "ELmnyYFQ+v64iyNJboLMOcTVwJD7HDd/vQbDjTd7xxD9GQyD1iSZoVQ9K2/kMqOwbUdKwI+mIiQgAsYR+izvDSTjc8kSbrhhtR1ltrx9Ko5QbBgklI/hK1t/WVFpK2jqJkM2KJVvqxhraWPGjA5nQAb7SXr/SbzXwxtpu11bFmKh5R4M2Gf9FkSkcd+zzjWZhw9YsRCqz/twNQWFTzk4INfOzDbcE9wPkjB4eJAGOuTste8gOgGeHsFK98xxbv+bH30hiKVmz1AGA9KrA33DEFdsPNBybN4vnn0f2LZV9IO8zuzYJYcqtPrZCIPeHPXk84mbxrB/w65R7oMCCZJLfdtHm2smowA1RO10fDNKtkc=;+UI2NBXkydBbZqmrBSmIiA=="
 ---
 

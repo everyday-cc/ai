@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 782
         isCached: true
+  - title: "Machine Learning & Big Data Analytics Education Market 2023, Size And Share An Expand Worldwide Business Opportunities"
+    excerpt: "Machine Learning and Big Data Analytics Education Market Size 2023 | New Report (111 Pages) | Information Technology |"
+    publishedDateTime: 2023-03-14T03:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QfWIF4bDrmdHvZA9yMSDXkoWGhbPzsXIxxXWREsKmaUrRRxXzIF4VeilDMx8cofxmrz9gIG2Ywvqhyb2X/OiN3d9KQJltPQ1Y2DhxLm0jv4vRbc2/G898Ug9M7hcltYfZGX17LVacHsOrf2S7lGoVTjHdcn0dIfJ7kX67s5jVCtZJfgEzJa8OuTjGzuxjqy5Q54y2RiKGqpTQGahwZXu3TdFlunIYQqJvG73/MJxJY+2GtcMMON3F34dV1UTIOHpGvfzSHpnHCjWmwQd6lZ+7tugVZFpKBL5oTvU5syWiCNkIT+v+EZ08wV25sxapSOCs4Bpl03NLIn9HeZRrouL6ECufocz/oh8wpOJ85NKBwc=;W8xb4ZOWn1LRAArVgyi9Mg=="
 ---

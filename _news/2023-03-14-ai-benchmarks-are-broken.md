@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-14T07:02:00Z
 originalUrl: "https://semiengineering.com/ai-benchmarks-are-broken/"
 webUrl: "https://semiengineering.com/ai-benchmarks-are-broken/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://semiengineering.com/wp-content/uploads/Siemens-logo.png"

@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Driverless Car Market Industry Insights, Drivers, Top Trends, Global Analysis, Forecast, And Opportunities To 2023-2033"
-    excerpt: "Be it artificial intelligence (AI), internet of things (IoT) or digital reality, the increased rate of technological advancements around the world is directly proportional to the growth of global Driverless Car Market. In the next two years, more than 20 ..."
-    publishedDateTime: 2023-03-10T07:12:00Z
-    webUrl: "https://menafn.com/1105746911/Driverless-Car-Market-Industry-Insights-Drivers-Top-Trends-Global-Analysis-Forecast-And-Opportunities-To-2023-2033"
+  - title: "Global \"Artificial Intelligence (Chipsets) Market\" Size and Growing Regions 2023 | Latest Opportunities and Threats Analysis by Top Players"
+    excerpt: "Global “Artificial Intelligence (Chipsets) Market” [Latest Research Report 98 Pages] 2023 is a vital resource for"
+    publishedDateTime: 2023-03-13T11:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-size-and-growing-regions-2023-latest-opportunities-and-threats-analysis-by-top-players-2023-03-13"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 15
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?81557"
-        width: 281
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "X-Ray Inspection Systems Market Set to Witness Unprecedented CAGR of 7.2% by 2029, Size, Share, Trends, Demand, Growth and Opportunity Analysis"
     excerpt: "Ray Inspection Systems Market\" is the title of a new report from Data Bridge Market Research. Key growth strategies, drivers, opportunities, key segments, Porter's"

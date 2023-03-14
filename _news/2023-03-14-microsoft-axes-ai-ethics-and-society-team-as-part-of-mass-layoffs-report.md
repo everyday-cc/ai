@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-m
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619?amp=1"
 type: article
 quality: 90
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Microsoft Layoffs: Ethics and Society Team Fired"
+    excerpt: "As Microsoft continues its string of layoffs, the company’s ethics and society team is the latest part of the workforce to be fired. The sacking of the ethical AI team at the tech giant has naturally led to controversies regarding whether or not ..."
+    publishedDateTime: 2023-03-14T09:17:00Z
+    webUrl: "https://techreport.com/news/3493451/microsoft-layoffs-ethics-and-society-team-fired/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 36
 
 secured: "1NI3Qzh42grq+jbLPnRfbiZM0SuW0+RMDXNrXAZy8+WiT1K2HT0AUIFS26SFM2XnTUvjvp8C235zq8zi4vVUlHe/OUEwbgU/L/24CIdKrCEznZZdyLx2+503FWyu95ymkBpyh2DW+sPeIt+FclitRGqgy4FeRqiAfC2wzw39W4Pmr0JzEGxkdGhdjRbZRsddFUrBWns7C8GM/4HhG3vceAnU+Id+AA0C3D6zBCTZyqElwZBpbw/fX22t3Z/C1E97/9aQBUFvFUCIyMvuZi3FCjzxFz9Yf1Ib6WTnVyUMBmv/hn2IzaKtEeOTRHa1Yw1T/RaPpzcB2AxH2plmt9uUdLLnGNpDumZwwjlU89xcjkLvGMP/Ew4bPrfIVX0SsUAKhAsibvpHQ1ktvg8H7qtiU1eIq2lelWgNjnw9GTV0rZAe+JMavU/lmbjX4XwCAvd6vtMep26QzxoMfmYV0mT5ELGQWjG01EICwKfV+4kVCKQhTQfOlmyqVKcJy/3KXP9iHoPMnXoVBc5oi8YmZIbaVg==;YDPoDljop4Wyp/FQvCRWYg=="
 ---

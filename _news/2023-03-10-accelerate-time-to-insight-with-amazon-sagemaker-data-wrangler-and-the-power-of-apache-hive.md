@@ -43,20 +43,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Use a data-centric approach to minimize the amount of data required to train Amazon SageMaker models"
-    excerpt: "As machine learning (ML) models have improved, data scientists, ML engineers and researchers have shifted more of their attention to defining and bettering data quality. This has led to the emergence of a data-centric approach to ML and various techniques to improve model performance by focusing on data"
-    publishedDateTime: 2023-03-09T18:04:56Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-a-data-centric-approach-to-minimize-the-amount-of-data-required-to-train-amazon-sagemaker-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/03/09/data-centric-approach-sagemaker.jpg"
-        width: 1565
-        height: 781
-        isCached: true
   - title: "Using Amazon SageMaker with Point Clouds: Part 1- Ground Truth for 3D labeling"
     excerpt: "In this two-part series, we demonstrate how to label and train models for 3D object detection tasks. In part 1, we discuss the dataset we’re using, as well as any preprocessing steps, to understand and label data. In part 2, we walk through how to train a model on your dataset and deploy it to […]"
     publishedDateTime: 2023-03-10T18:20:54Z
