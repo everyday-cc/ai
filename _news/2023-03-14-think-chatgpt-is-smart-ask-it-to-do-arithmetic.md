@@ -26,6 +26,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "'AI, what's for dinner?' 5 cool things to ask ChatGPT, from business names to recipes"
+    excerpt: "AI in education:Schools nationwide are banning ChatGPT ... You can see a towering building in the distance that seems to be your destination. As you start to walk towards it, a group of people approaches you, looking suspicious.\" It gave three options ..."
+    publishedDateTime: 2023-03-14T20:40:00Z
+    webUrl: "https://www.jsonline.com/story/tech/2023/03/13/best-questions-ask-chatgpt-open-ai/11439179002/"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 30
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/02/09/USAT/6bc4064a-d665-4467-9cc7-5aa0429fe734-AP_Microsoft_Artificial_Intelligence_2.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "Qd8RrIlxZkACytRSZPt/+aQPj7DMuAOd7jQzktuZglkABHTuQWWK58U2ekV+Z1rEFH6nMYN+dJPz761V7ISI239brYKVlUtueRhu8U7idX9ZYfVtOPs+kUh8Tv+ykCxAzKhxuwRp5DNOiFxZ7+bKiUM9stDNqvWXZa9psdLpwQfboQHcwfdQ7VK03GlR/cEXB8b3muGHBar0uglC8kxhI98ZghDAgBodd+TSrD2kZeYUtcD7QnwLUYs8ql0zSR/MrejgnkFXSmzDPTeDDYdBKMkARtZ0hlmoD2QNMswQwr650jj2kL9ZRUUBPcsrKBoJviyumjk04FyoJKWCPWWkqQltNxi7DT3XKgddivESdlY=;LE8wQP1gjHV0cnGcT4PFXA=="
 ---
 

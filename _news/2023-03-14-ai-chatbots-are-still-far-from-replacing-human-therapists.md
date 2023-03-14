@@ -34,6 +34,15 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "GPT-4 unleashed: Here’s what it will mean for AI chatbots"
+    excerpt: "The company also brought in 50 human experts to provide feedback in terms of AI safety. That, of course ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot ..."
+    publishedDateTime: 2023-03-14T19:31:00Z
+    webUrl: "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 49
   - title: "A Fort Worth artist uses painting robots. Here are his thoughts on the future of AI art"
     excerpt: "Some artists worry AI will threaten their jobs. Others are questioning the ethics of AI art as research shows the influence of racial, socioeconomic and other biases in works produced by AI. Pindar Van Arman, who is based in Fort Worth, has been an AI ..."
     publishedDateTime: 2023-03-13T15:00:00Z
@@ -94,6 +103,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 29
+  - title: "AI chatbots are still far from replacing human therapists"
+    excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... at implementing psychotherapy approaches such as cognitive behavioral therapy (CBT) in a structured, concrete and skill-based way."
+    publishedDateTime: 2023-03-14T19:49:00Z
+    webUrl: "https://www.winnipegfreepress.com/uncategorized/2023/03/14/ai-chatbots-are-still-far-from-replacing-human-therapists"
+    type: article
+    provider:
+      name: Winnipeg Free Press
+      domain: winnipegfreepress.com
+    quality: 19
 
 secured: "ksLUmmPb0v/qS49mwUrvmUZwT24YYgyREzdEoEU00pdnHSEh85c4e4tc6D0LQJ31/33Wrj5Weq6+tF678q+OvFOKks7+U/DY+WePf4U/E+KGu11+6UWKoeDXDsTcvAQIVEfiPhXsA2DEJkl9ryA+4UbbX2l3Hw2g26RNWdpqea9O52B4EEORSkoCkXlYLHwgYSQogqjc8Fn56PDWX8dOLsaNCRuXqWChviTFTWJs0RFuJrd2K+XLu9IRoaD0NKJ7K7XWCIYt1zVzTaR1dT62gY4DLg1cLcDxsXK6ZmMGb42he55fFlu84kirbiG8zd3nuDP88tVBRhvmJMOcnX7WRR+x961tQiJPogCdgD8eIlI=;YpK9oCoMK3gRjNQuO6QQjQ=="
 ---

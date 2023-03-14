@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T17:51:00Z
 originalUrl: "https://www.fox13now.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
 webUrl: "https://www.fox13now.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: fox13now

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial intelligence (AI) in Supply Chain and Logistics Market Size, Growth | Soaring Demand | 2023 - 2029"
+    excerpt: "Also, it splits Artificial intelligence (AI) in Supply Chain and Logistics market Segmentation by Type and by Applications to fully and deeply research and reveal market profile and prospects. The report provides a detailed evaluation of the market by ..."
+    publishedDateTime: 2023-03-14T21:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-size-growth-soaring-demand-2023---2029-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Machine Learning in Medical Imaging Market Analysis: Future Investments and Growth Factors until 2028"
     excerpt: "The purpose of this report onMachine Learning in Medical Imaging Marketanalysis is to assist business owners in"
     publishedDateTime: 2023-03-10T07:09:00Z
@@ -52,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Data Science and Machine Learning Service Market Analysis: Future Investments and Growth Factors until 2028"
-    excerpt: "The global Data Science and Machine Learning Service market is anticipated to rise at a considerable rate during the forecast period, from 2022 to 2028. The market is growing at a stable rate and with the rising adoption of strategies by key players ..."
-    publishedDateTime: 2023-03-10T03:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-data-science-and-machine-learning-service-market-analysis-future-investments-and-growth-factors-until-2028-2023-03-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

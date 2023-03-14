@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T18:28:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-speech-to-text-api-market-reach-10-billion-/2023/03/14/9776805.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-speech-to-text-api-market-reach-10-billion-/2023/03/14/9776805.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TMCnet

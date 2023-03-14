@@ -69,6 +69,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
+  - title: "KPM Analytics Acquires Food Focused AI Developer Smart Vision Works"
+    excerpt: "About Smart Vision Works Smart Vision Works specializes in computer vision systems developed with advanced artificial intelligence technology for a wide range of customers - from startups to Fortune 500 companies. The company provides hi-tech solutions ..."
+    publishedDateTime: 2023-03-14T18:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312248&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "/ysVGzUaRhfHiEFMa4hfu8E8qQl1911TcVKdVFs/Fxt0XzvMBAaWnCOm1u8QnQuiNiyVbOuol8V1gUGQHBRSe3jiL4D1kylgPdrorziLH18/HL3qacuZR6q6GVKzWq8sKMivS/opkrcINx4URpqUtTDX+7Aylwaps/nOkNkKAdbcFYjrPxRp5DTIcW7JvtC3rkuaLjcoPwf+3jEs8oTTjY14QN1lnwQYYXUMDiXMxhwhLfo0jnuQrobAKvAJziu/hC1CfeQiA7qwBuFFyR/Yn+5Mxv7MQQ3jrGTHY8NMBnvYHTR2jTpQ9YBxqLX0zMiEdUcfDv7TK461gu+lUW/BRi+aQjOwdUP1lz37MI6MGpg=;eHHGBPjP29PD3cp0pgOMJw=="
 ---

@@ -323,20 +323,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence based Personalization Market Valuation Worldwide 2023-2029"
-    excerpt: "Artificial Intelligence based Personalization Marketinformation for each competitor includes (, Apple, Symantec,"
-    publishedDateTime: 2023-03-10T03:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-personalization-market-valuation-worldwide-2023-2029-2023-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Neural Networks Market : Detailed Analysis of Industry, Attractive Valuation and Growth Forecast Up to 2029"
     excerpt: "The \"Artificial Neural Networks Market\" study describes how the technology industry is evolving and how major and"
     publishedDateTime: 2023-03-14T00:51:00Z
@@ -374,6 +360,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Massive Growth Expected for “Speech and Voice Recognition Market” till 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Furthermore, The Speech and Voice Recognition market research report spread across 104 pages and analyses the global and regional markets, providing an in-depth analysis of ..."
+    publishedDateTime: 2023-03-14T20:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/massive-growth-expected-for-speech-and-voice-recognition-market-till-2029-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Software Market Size, Growth | Soaring Demand | 2023 - 2029"
+    excerpt: "Mar 14, 2023 (The Expresswire) -- [105+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Voice Recognition Software Market” Size 2023 Key players Profiled in ..."
+    publishedDateTime: 2023-03-14T20:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-size-growth-soaring-demand-2023---2029-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T19:16:00Z
 originalUrl: "https://www.theverge.com/2023/3/14/23638033/openai-gpt-4-chatgpt-multimodal-deep-learning"
 webUrl: "https://www.theverge.com/2023/3/14/23638033/openai-gpt-4-chatgpt-multimodal-deep-learning"
 type: article
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -17,6 +20,49 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI Gets Smarter, Safer, More Visual With GPT-4 Release, OpenAI Says"
+    excerpt: "The hottest AI technology foundation, OpenAI's GPT, got a big upgrade Tuesday that's now available in the premium version of the ChatGPT chatbot. The new GPT-4 can generate much longer strings of text,"
+    publishedDateTime: 2023-03-14T19:27:00Z
+    webUrl: "https://www.cnet.com/tech/computing/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-gets-smarter-safer-more-visual-with-gpt-4-release-openai-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/aec4ae4989aa06e9d658ce589449b5535d70159b/hub/2023/02/08/ab062053-b8ba-4938-9711-5f0cc97f4f0e/20230207-openai-ceo-sam-altman-01.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "OpenAI releases GPT-4, a multimodal AI that it claims is state-of-the-art"
+    excerpt: "After months of anticipation, OpenAI has released a powerful new image- and text-understanding AI model, GPT-4, that the company calls ... s testing it with a single partner, Be My Eyes, to start with. Powered by GPT-4, Be My Eyes’ new Virtual Volunteer ..."
+    publishedDateTime: 2023-03-14T17:25:00Z
+    webUrl: "https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/"
+    ampWebUrl: "https://techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/14/openai-releases-gpt-4-ai-that-it-claims-is-state-of-the-art/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1173441590.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "OpenAI unveils GPT-4 and touts ‘human-level performance’ from new AI model"
+    excerpt: "OpenAI has released GPT-4, its latest artificial intelligence model that it claims exhibits “human-level performance” on several academic and professional benchmarks such as the US bar exam, advanced placement tests and the SAT school exams."
+    publishedDateTime: 2023-03-14T19:41:00Z
+    webUrl: "https://www.ft.com/content/8bed5cd7-9d1e-4653-8673-f28bb8176385"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 15
 
 secured: "xFu+o3kERetC07Mlnfje/wxD+JXHjlq/TtFhtAJkhzTHmR3dBi5C8MbjLc2LRElfgNE2/jgse6an/IzP5MyJzZOAod+4B7nU5gXbFRVVmd/eU7JZ3jKx8OkUIhKEE73fpcgXceSg3i4aj8lFbt5PDgd4UqOFGFV7pt2/Lh+/7HY7W/Z7n8qYNAajokJzly6AP3JhzgOBz3uGgCUQNqHQLzGFhi0LPac9CYDpVKrykXcNqAEscZUlRYh6AMQ14BAF0s0GwpuojtNfLgKFxKIhW8t57RKkHY+ZkuG9c5L6JvBx2jTDD/BoodltxiS0qyZ1J4x3CDfu1xMux/giN3Stk/BbiDIkBWKuR8ffiivgjebU3HtXjl/35it2bR7Cs0lROt4L3uTKrWphvhyRCB0FDt8W4sBWUnlbuTJkpk7Oysw9/agqlrXlEN5him+2RMzlMlNPD0oURk+l1uHPPhEfhM8ZkQzJJQzGda14w+pRAzAQC5RPdUKTgIiyxcTgaLbyG/q0ybXQNxG4DfxW+E97sQ==;bs2+5RKr6SAgJJ5ggnFbnQ=="
 ---

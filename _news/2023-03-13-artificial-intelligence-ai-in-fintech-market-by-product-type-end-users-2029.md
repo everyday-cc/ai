@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 110
+published: true
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Education Market Size, Drivers Update and Featuring Outlook 2029"
-    excerpt: "Artificial Intelligence (AI) in Education Marketinformation for each competitor includes (, ALEKS, Microsoft, AWS,"
-    publishedDateTime: 2023-03-10T03:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-size-drivers-update-and-featuring-outlook-2029-2023-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 88
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI and Big Data Analytics in Telecom Market to 2023-2029"
     excerpt: "AI and Big Data Analytics in Telecom Marketinformation for each competitor includes (, Cloudera, Affirm, Fico,"
     publishedDateTime: 2023-03-13T03:36:00Z
@@ -57,34 +43,31 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence-based Cybersecurity Market Valuation Worldwide 2023-2029"
-    excerpt: "Artificial Intelligence-based Cybersecurity Marketinformation for each competitor includes (, Imperva, Palo Alto"
-    publishedDateTime: 2023-03-10T03:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-cybersecurity-market-valuation-worldwide-2023-2029-2023-03-09"
+  - title: "Meet the women shaping the booming fintech sector in India"
+    excerpt: "Equity funding into Indian Fintech has grown at a CAGR of 26% over the last four ... The adoption of data-based, AI/ML-led decision models has improved risk assessment, enabling us to analyze customer data and predict potential risks, as in the case ..."
+    publishedDateTime: 2023-03-13T05:52:00Z
+    webUrl: "https://www.livemint.com/news/india/swati-bhargava-hardika-shah-puja-srivasatva-kinara-capital-cashkaro-women-shaping-the-booming-fintech-sector-in-india-11678683601833.html"
+    ampWebUrl: "https://www.livemint.com/news/india/swati-bhargava-hardika-shah-puja-srivasatva-kinara-capital-cashkaro-women-shaping-the-booming-fintech-sector-in-india/amp-11678683601833.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/swati-bhargava-hardika-shah-puja-srivasatva-kinara-capital-cashkaro-women-shaping-the-booming-fintech-sector-in-india/amp-11678683601833.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: Mint
+      domain: livemint.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.livemint.com/img/2023/03/13/600x338/women-entrepreneurs_1678686346634_1678686347045_1678686347045.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Latest Highlights on \"Artificial Intelligence (AI) Consulting Market\" Size 2023-2028, Newly Updated Report Contains 109 Pages"
-    excerpt: "Consulting Highlights:-The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period,"
-    publishedDateTime: 2023-03-13T14:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latest-highlights-on-artificial-intelligence-ai-consulting-market-size-2023-2028-newly-updated-report-contains-109-pages-2023-03-13"
+  - title: "13/03 – Weekly Fintech Recap"
+    excerpt: "Fintech Pioneer Railsr Announces Sale to Consortium led by D ... Provenir Appoints Vincent Camara as Regional Leader in France Provenir, a global leader in data and AI-powered risk decisioning software, announced that Vincent Camara has been appointed ..."
+    publishedDateTime: 2023-03-13T12:58:00Z
+    webUrl: "https://financialit.net/news/open-banking/1303-weekly-fintech-recap"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Financial IT
+      domain: financialit.net
+    quality: 4
 
 secured: "hJ8fUuUjsAda9e9QEyopMzzRJk/6bINP2ayt+PR4LOGT9HkaqWn+wwNVY350xm1B3qBqg5rnTCrWP8Y3i+iiRLb/OzQKjMAELLmmg6BoOMmE8pdcLI8JZzplzZ5KWXIeLIMYXzV1FdattyVZsTRrFvaQGTuZHg87n6BpTGvsQbCfbJXUcHJzktrVlZS0myOqU44kDDqWfK/DYICj+zIBG4HOqad3tpD4EcULQHearUbYnATsXsV2YDiwPTArSHg84QH4FZfCY0RydcIB/goelaF2kyiO+GLKInOj7Hdf5AuVQrRUblUh/UWW7Mfj1McopoNIOXtTmfFfuO8/5NbKAI6uZ7vaV3u1zBTIeAYsasQ=;RDeozt4ZTOLvnd9cUOHCAw=="
 ---

@@ -59,17 +59,12 @@ related:
   - title: "Ex-Apple execs net $100 million in investments for AI startup Humane"
     excerpt: "Microsoft, Volvo and OpenAI are among the company's partners. It is also working with LG on research and development."
     publishedDateTime: 2023-03-10T14:25:00Z
-    webUrl: "https://www.wxyz.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
+    webUrl: "https://www.wtkr.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
     type: article
     provider:
-      name: WXYZ
-      domain: wxyz.com
-    quality: 37
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/54154b9/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1678464059_f3PddI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: WTKR
+      domain: wtkr.com
+    quality: 17
 
 secured: "LLEE0gtv1JtwqLxj81kYByDDypHLNSqi/rrFOmBv7xcGm4nueEZjpSI361/kUq6XSaJ67SEaP2Gvxng1e+Ae1ih6DXZHBCfMEdCeIWvT67V2tbWXFzSM27sInVKaLpVkLNZfx7bBG+EElw7lqWkfljF6o6Om8hfQnAVFwb1xpmDxfVC5xcVZd7U7ZDiXyfBca2XAU6j9aKEH44sJTP7aL0u0b0hbyyJC1fOvj4LV2N9ANxL/6DmtW1FHfjQcLkBv0JChkLBpeuXM+dDEnGADBYZ+wlGkH+1Ox3B6XnXUsQ0DQMcjQavwGJaelMCGyYrlQvc0y2L/wUwQVmEHNKgJw3ZTNTXXR1MY5XhGWmaJdVw=;AzCrFLDEEt1ZsgJiYSzRsA=="
 ---

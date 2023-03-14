@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T19:08:00Z
 originalUrl: "https://www.dailymail.co.uk/health/article-11859375/Can-recognize-famous-faces-not-COVID-thank.html"
 webUrl: "https://www.dailymail.co.uk/health/article-11859375/Can-recognize-famous-faces-not-COVID-thank.html"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Daily Mail

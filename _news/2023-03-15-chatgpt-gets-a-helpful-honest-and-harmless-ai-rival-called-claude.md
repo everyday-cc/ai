@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T17:53:00Z
 originalUrl: "https://www.pcmag.com/news/chatgpt-gets-a-helpful-honest-and-harmless-ai-rival-called-claude"
 webUrl: "https://www.pcmag.com/news/chatgpt-gets-a-helpful-honest-and-harmless-ai-rival-called-claude"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: PC Magazine

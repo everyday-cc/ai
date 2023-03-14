@@ -8,9 +8,9 @@ webUrl: "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-war
 ampWebUrl: "https://www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/amp/"
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/21711966/ai-brain-chips-human-machine-warning/amp/"
 type: article
-quality: 53
-heat: 53
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: The Sun

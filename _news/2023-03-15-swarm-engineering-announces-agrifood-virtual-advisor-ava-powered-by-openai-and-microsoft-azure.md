@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T18:02:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/n31347181/swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/n31347181/swarm-engineering-announces-agrifood-virtual-advisor-ava-powered-by-openai-and-microsoft-azure"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Benzinga.com

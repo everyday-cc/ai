@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/this-ai-startup-just-raised-350-million-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/this-ai-startup-just-raised-350-million-for-generative-ai-trained-to-use-every-software-tool-and-api/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
+  - title: "Adept Latest AI Startup To Raise Big — Nabs $350M"
+    excerpt: "Another week, another huge raise for a generative AI startup. This week it’s Adept AI, which raised $350 million in what the company called “part of our Series B.” It was reported the new money gives the San Francisco-based startup a post-money valuation of at least $1 billion."
+    publishedDateTime: 2023-03-14T18:35:00Z
+    webUrl: "https://news.crunchbase.com/ai-robotics/adept-ai-anthropic-chatgpt-openai/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 39
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "nOaW0eImWHjbI/OjKZhKRUxpLSnawLGoWhJ6wAbXpctkorsNpRJ7dm4cJfAlgRajuSAPO/Bv3so1on6cyLG+XbminPd7Pa4AtDCKpcCouxDc6fLFwvPgJ8XsQz3t6GwWvvAyRA3yTCmiVjoOTr736RLMJF+TdzliVP5pvztdckPVbNMhFqrN+Gbnko3KVQCC8EBSh+Av0sSACRjp7t2YFf+aq8vJyoB6XjXtdaEHxBBp8NQnxMNETT+IYxcd5dchnDccxYzPtHV3oHyEGn8Zc80YrdzYbPdGJxLREc+QTlBjiPOZJEqnIGAyxvjMdA5OC9G8qRZfr6ZIkzbw8jg2siE+a4C4zjs809ZOX6Ct+//Vpm7F3f63Pytai5dPeeEM6oK+Abs1NAoYVL34zLYH0dwvzn2SO38xyPBDtvG5C2dROFe16p8FhXL8ArJwzCxx/LE1PJUyDVxzr9M4tC56crO8gmLFF/l6WzUP/ew7eEySLZtYEdJGWp0tU//yESk8JzBKplbDAwvVQbo5xNQgvg==;tiwVveLNH+rzxXuWzCrtww=="
 ---

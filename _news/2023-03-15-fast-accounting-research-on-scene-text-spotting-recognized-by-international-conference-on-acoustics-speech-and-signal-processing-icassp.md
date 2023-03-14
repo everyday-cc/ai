@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T18:46:00Z
 originalUrl: "https://menafn.com/1105777996/Fast-Accounting-Research-On-Scene-Text-Spotting-Recognized-By-International-Conference-On-Acoustics-Speech-And-Signal-Processing-ICASSP"
 webUrl: "https://menafn.com/1105777996/Fast-Accounting-Research-On-Scene-Text-Spotting-Recognized-By-International-Conference-On-Acoustics-Speech-And-Signal-Processing-ICASSP"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Mena FN

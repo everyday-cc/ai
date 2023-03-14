@@ -42,6 +42,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Gmail, Docs are getting generative AI tools, too: What they can do for you"
+    excerpt: "Advancements in generative AI can mean lots of improvements to how we work and communicate. Here's how Google is applying the technology in Google Workspace."
+    publishedDateTime: 2023-03-14T18:17:00Z
+    webUrl: "https://www.zdnet.com/article/gmail-docs-are-getting-generative-ai-tools-too-what-they-can-do-for-you/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 45
+  - title: "Google rolling out huge AI upgrades for Google Docs and Gmail — here’s all the new features"
+    excerpt: "Google Bard may still be largely under wraps, but that’s not Google’s only AI venture. Google and its parent company Alphabet are working on a wide variety of AI products and they just announced several more — including AI upgrades to Google Docs and Gmail."
+    publishedDateTime: 2023-03-14T19:14:00Z
+    webUrl: "https://www.tomsguide.com/news/google-rolling-out-huge-ai-upgrades-for-google-docs-and-gmail-heres-all-the-new-features"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 7
 
 secured: "4JU7Ss2o6W/Y2YKavnCLi5TP2rnHT9Zv4RB9QBdlTNJlW7KwerUBSK6PfN2bo0Sw9LAac5OwzkLSzgWS921CYY5VWFmzIh2LTbXOXZHqdT7aiM8ccn+oQ5zKyNrt+TKrNP39JR8Iiugq1thZmItxEcRQANSO4B56iPLCB4s9Iyi5lLUlK9NIyrDHJWPQvTNu2VhS3dL4rL6h+jkpgI94kF4Psxap++Qeg3KUejs/vBErKQjS7vbcJk+351TqK9l02mfQFWtVAZ3U79+YljHxdCrxJQ7i6itduYu4fCWw99cKVyCOEHxVxCJhACESY9PSQulOzPBe0w1eMuoYGI7R/fQn8Hs1QwEcOH5SrW2x3zcv9aknrT5aAmg0AnETKSUJ+I2jO93PgFPChkemxHBcUiw3uAPvvGBZC6rTEeNiZ56V11Fno8uQyCmxTq2XsL1ZQMJxuzsEmbAInBwDDYKhAtOPXrS061B87bVMJkuSW95NRZSmhvRP8q7Xh8UcikfJO9YwSlOFD49QaMKM1NeWtg==;5igzzjGK919EBEjnjD26UA=="
 ---

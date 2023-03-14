@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2023/03/10/technology/facial-recognition-sto
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/10/technology/facial-recognition-stores.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "How many sports stadiums are tracking your face?"
+    excerpt: "Madison Square Garden recently took heat in the news for its use of facial recognition technology, which resulted in some fans who had a ticket being removed from the premises. But Madison Square Garden is far from the only sports venue using the ..."
+    publishedDateTime: 2023-03-14T18:35:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/how-many-sports-stadiums-are-tracking-your-face"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 4
 
 secured: "mos+P+gt++dNtfZpeXhYvNuXA5nLxwTmeLHYACRWhI3lLelXp7UPNAAsyLsM8FA1tlCFmN3PG3/frQvIqseoKaydn3fjm8ab+hn//Mt5l7TbSjV5jtRnPVxdr8QSjKZQ1vfE8cRX2rKsz9QeOXzmir3w+DZjGjcKdZHmNxHA5xG8yhj6U+kZl62wG+1fBoyuoNck46fA5s/W1eFiw+TMuqhjvArBrXUyhvPoglajkR49/m2o5WDyiURbusWFkvG4w2RJ2sos7QH19KfmPrbWPPQgvcmq4jdDc6FqvBR3z+qjnoD4423I4c0kQ83N50RXQ+GkZP2qbijxrd5JtwJwNf69YjTPhMBwS6Fj2hq04xE=;ik/a6NrhbZYpxgN8pGFdzQ=="
 ---

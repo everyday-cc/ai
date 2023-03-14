@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T18:48:00Z
 originalUrl: "https://nypost.com/2023/03/14/nys-senate-dems-budget-plan-includes-stripping-msg-of-42m-annual-tax-break/"
 webUrl: "https://nypost.com/2023/03/14/nys-senate-dems-budget-plan-includes-stripping-msg-of-42m-annual-tax-break/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: New York Post

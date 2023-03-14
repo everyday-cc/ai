@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/newyorklawjournal/2023/03/10/facial-recognitio
 webUrl: "https://www.law.com/newyorklawjournal/2023/03/10/facial-recognition-surveillance-is-creating-new-problems-for-litigators/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Axis Pens New Vendor Partnership With Facial Recognition Provider"
-    excerpt: "The Alcatraz AI Rock is a modern facial authentication solution that works natively with Axis Communications access control systems and door controllers to use a person’s face as their credential to quickly and privately authenticate users at the point of entry,"
-    publishedDateTime: 2023-03-10T12:53:00Z
-    webUrl: "https://www.globest.com/2023/03/10/axis-pens-new-vendor-partnership-with-facial-recognition-provider/"
+  - title: "Sports Direct uses facial recognition cameras to catch shoplifters as campaigners say Mike Ashley’s firm is using 'Orwellian surveillance'"
+    excerpt: "One of Britain’s biggest retailers is using controversial facial recognition cameras to identify thieves – amid claims police have given up arresting shoplifters. Frasers Group, the owner of ..."
+    publishedDateTime: 2023-03-12T00:50:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-11849347/Sports-Direct-uses-facial-recognition-cameras-catch-shoplifters.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-11849347/amp/Sports-Direct-uses-facial-recognition-cameras-catch-shoplifters.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11849347/amp/Sports-Direct-uses-facial-recognition-cameras-catch-shoplifters.html"
     type: article
     provider:
-      name: GlobeSt.com
-      domain: globest.com
-    quality: 19
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 40
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2023/03/12/00/68594819-0-image-a-31_1678581680267.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "vPEeNpeyddwZd94m84NBhSuXBNmN6KJP69I6p8/VT2l4EMU+7aA64Bz1D7rUY1+c2w2soSn7y5sna+yKbACTcRWZlnveMBHJiM6nJPvxJ6+549WaeY58jIcIUm/ufZf1sWdRJJtSESkc5/34TtaaNkDC5EdZY9Hkk+jRg41FJ6uEuhkMJATxNpiqfC/COUZrjKZDnbw1vES4xdvOvHzAb6VY9QIPPqN+ETJPPpnjDNaHzzYXa/47nmiOcefsr/hgXTALfJnTj2A/QTHjGvNdAmPbKGYseBgPpyaan4VXCyR03xNZ1rLPu8cUFt6jjsaVrU5NlE35wk5d1NmAwPACzDyW9iAaFzL4oJmjHGuGNg8=;H75L4HgNgBOILzQGBabIwQ=="
 ---

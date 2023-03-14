@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T19:00:00Z
 originalUrl: "https://neworleanscitybusiness.com/blog/2023/03/14/uno-researchers-to-utilize-artificial-intelligence-to-spot-flood-control-defects/"
 webUrl: "https://neworleanscitybusiness.com/blog/2023/03/14/uno-researchers-to-utilize-artificial-intelligence-to-spot-flood-control-defects/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: New Orleans City Business

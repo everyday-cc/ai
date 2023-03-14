@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational AI Platform Market 2023, Top Factors that Will Boost the Conversational AI Platform Market"
-    excerpt: "To know How COVID-19 and Russia-Ukraine War Influence Will Impact This Market/Industry - Request a sample copy of the report-:  Moreover, the Conversational AI Platform Market Report includes data on research and development,"
-    publishedDateTime: 2023-03-13T04:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/conversational-ai-platform-market-2023-top-factors-that-will-boost-the-conversational-ai-platform-market-2023-03-13"
+  - title: "Uncovering Hidden Opportunities in the Computer Vision Development Market (2023-2029)"
+    excerpt: "Computer Vision Development Market Size 2023-2029 | New Report (115 Pages) | Analytics | In This Reports Computer"
+    publishedDateTime: 2023-03-13T04:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

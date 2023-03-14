@@ -5,8 +5,10 @@ excerpt: "General Motors, in partnership with Microsoft, is developing a car-spe
 publishedDateTime: 2023-03-14T12:47:00Z
 originalUrl: "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/"
 webUrl: "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/"
 type: article
-quality: 50
+quality: 90
 heat: -1
 published: false
 
@@ -22,6 +24,12 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://www.zdnet.com/a/img/resize/30051b27a5691c27ffed11025cd6578511214c0b/2023/03/14/a12d42bd-3fda-484f-b3cf-248c22f59c8d/gettyimages-1133517091.jpg?auto=webp&fit=crop&height=675&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "ChatGPT and Generative AI are booming, but at a very expensive price"
@@ -87,6 +95,22 @@ related:
       - url: "https://d.newsweek.com/en/full/2207559/openai-chatgpt-logos-pictured.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "OpenAI rival Anthropic introduces Claude, an AI assistant to take on ChatGPT"
+    excerpt: "Anthropic, a startup funded by Google and founded by ex-OpenAI employees, today launched Claude, Claude, a chatbot seen as a ChatGPT rival."
+    publishedDateTime: 2023-03-14T20:20:00Z
+    webUrl: "https://venturebeat.com/ai/google-funded-anthropic-introduces-claude-chatgpt-rival-through-chat-and-api/"
+    ampWebUrl: "https://venturebeat.com/ai/google-funded-anthropic-introduces-claude-chatgpt-rival-through-chat-and-api/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-funded-anthropic-introduces-claude-chatgpt-rival-through-chat-and-api/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_432173706.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft's Azure OpenAI service gets ChatGPT for preview: Know everything"
     excerpt: "In January 2023, the tech giant announced the general availability of the Azure OpenAI service, which enables enterprises to power their application with large-scale AI."
@@ -196,6 +220,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "ChatGPT’s AI powers make better writers, MIT study finds"
+    excerpt: "In other words, while ChatGPT may help writers, they may be competing against AI, too. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
+    publishedDateTime: 2023-03-14T18:30:00Z
+    webUrl: "https://www.pcworld.com/article/1658007/chatgpts-ai-powers-make-people-better-writers-mit-study-shows.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 49
   - title: "How will ChatGPT, AI change college? Here's what some LSU professors and students think."
     excerpt: "The meteoric rise of artificial intelligence tools in recent years has created powerful new tools for fields ranging from traffic and cancer treatment to flood prediction. But what about in the ..."
     publishedDateTime: 2023-03-11T10:03:00Z
@@ -212,6 +245,20 @@ related:
         width: 1024
         height: 729
         isCached: true
+  - title: "OpenAI founder talks ChatGPT, Dall-E and what's next for artificial intelligence at SXSW"
+    excerpt: "As artificial intelligence tools such as ChatGPT and Dall-E become more mainstream and accessible to the general public, concerns about what their future will hold have come with them. If you ask ..."
+    publishedDateTime: 2023-03-12T03:47:00Z
+    webUrl: "https://www.statesman.com/story/business/technology/2023/03/11/openai-founder-talks-chatgpt-dall-e-and-whats-next-for-artificial-intelligence-at-sxsw/69987320007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 47
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2023/01/27/USAT/d3d81034-726a-4549-ad06-6ef697eb72b9-AFP_AFP_337P9FE.jpg?auto=webp&crop=8106,4560,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Learn how to take full advantage of ChatGPT and to code your own AI chatbot"
     excerpt: "ChatGPT has made significant waves in recent weeks and months. While the bot has been roasted for its strange mistakes and lack of logical reasoning skills,"
     publishedDateTime: 2023-03-13T12:27:00Z
@@ -221,20 +268,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 47
-  - title: "OpenAI founder talks ChatGPT, Dall-E and what's next for artificial intelligence at SXSW"
-    excerpt: "As artificial intelligence tools such as ChatGPT and Dall-E become more mainstream and accessible to the general public, concerns about what their future will hold have come with them. If you ask ..."
-    publishedDateTime: 2023-03-12T03:47:00Z
-    webUrl: "https://www.statesman.com/story/business/technology/2023/03/11/openai-founder-talks-chatgpt-dall-e-and-whats-next-for-artificial-intelligence-at-sxsw/69987320007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 45
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2023/01/27/USAT/d3d81034-726a-4549-ad06-6ef697eb72b9-AFP_AFP_337P9FE.jpg?auto=webp&crop=8106,4560,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "du showcases Generative AI like ChatGPT capabilities at an exclusive governmental entities padel tournament"
     excerpt: "Emirates Integrated Telecommunications Company (EITC), has successfully concluded its participation at an exclusive padel tournament organised"
     publishedDateTime: 2023-03-12T08:25:00Z
@@ -290,6 +323,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'ChatGPT, Draft a Catchy Title:' The Risks of Using AI"
+    excerpt: "Will generative AI make lawyers obsolete? Can ChatGPT help streamline a legal practice? In considering whether to adopt generative AI tools, lawyers should consider the risks."
+    publishedDateTime: 2023-03-14T20:36:00Z
+    webUrl: "https://www.law.com/texaslawyer/2023/03/13/chatgpt-draft-a-catchy-title/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/404/2021/06/Klevens-Clair-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Lifesaver or job killer? Why AI tools like ChatGPT are so polarizing."
     excerpt: "As sectors ranging from education to health care to insurance to marketing consider how AI might reshape their businesses, a crescendo of hype has given rise to wild hopes and des"
     publishedDateTime: 2023-03-12T15:19:00Z
@@ -342,6 +389,6 @@ related:
       domain: carscoops.com
     quality: 21
 
-secured: "uC6ft/WX5imPXqom8m/RTposdfkTZ+MYJeHrjFIoWY0f7IUnLvnKl1IZkCuNV7ZZr1SRYf1trX6VoXuTsT/k2W/oBNJH87/hLpSrvFxnfC6IpXZuRyFsiZDaSjQe4BRwMRsD4n18H80VuKDx+wjrPaAbUWneq0A7uir4JW4hxoodzu53GglSIMkpt5SfhnEGZru5/uDKlToGK4mIrtW4XFuKB7DBkf8SXpJDhImXpQj4RaED6labEps0cN7CG5DWKHD/lh+4AfX+TMucEEOnNVMvWOonNLOvjDFPSqOHBOpkYMu3OX8C8uJc916TagP6ztbAGXmF0vdNx0D1n2SLiQdVQY4ap9OiWocRR4887eI=;H+mPPJwpHX5rf65petwcTA=="
+secured: "s+oa6gcr6B0x8c8gC52AAG3ZzfWMhgr/UMcMvHtJ7zTT0d9izPtX1Wozm99AmdQBxxgLDtJPpB9hVw0+84jzEot78g4z7X+BpdtOkoWpKM45Q6dARK6BNHKCCepUzcwh0KoveDrbDAya82/WR2C0+DIljFxkqvRJ6adTHNU9gow21ydJGrhWK0jVqWZMT2lzA1BBfIHgZMEzL5qa5gyCntrfyva97JS8A1s+iskn25PPXketlLWZsiLDGD+Q2PxzehqIYCToWzU8Ej7d3BNt12y8u2Cs4lOrUiiRnEKg/Zxtc059g8i3tTe88rVk6F8gykZu7OdYNJTzRAdnxnyN7nmwxP33ZPKOY1z7cxeEBMM=;MrGfdE7JlTg+y/uJNjbT7Q=="
 ---
 

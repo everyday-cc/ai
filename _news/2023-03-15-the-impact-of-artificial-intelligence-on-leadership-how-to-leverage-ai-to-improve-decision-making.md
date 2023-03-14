@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T18:18:00Z
 originalUrl: "https://www.forbes.com/sites/karadennison/2023/03/14/the-impact-of-artificial-intelligence-on-leadership-how-to-leverage-ai-to-improve-decision-making/"
 webUrl: "https://www.forbes.com/sites/karadennison/2023/03/14/the-impact-of-artificial-intelligence-on-leadership-how-to-leverage-ai-to-improve-decision-making/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Forbes

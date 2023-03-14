@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Reading protects long-term cognitive health"
-    excerpt: "Older adults recognize the threat posed by cognitive decline, which can make it hard for individuals to live independently. Since the mid-1990s, rates of dementia cases in the United States have ..."
-    publishedDateTime: 2023-03-10T05:16:00Z
-    webUrl: "https://www.thedailynewsonline.com/lifestyles/reading-protects-long-term-cognitive-health/article_f87c92d8-51fa-5958-8cbd-843a134f2710.html"
-    type: article
-    provider:
-      name: The Daily News Online
-      domain: thedailynewsonline.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thedailynewsonline.com/content/tncms/assets/v3/editorial/b/70/b70ecd5c-2ab0-5092-a76d-f55e2e80a8fe/640aa318cf29d.image.jpg?crop=1400%2C735%2C0%2C99&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Prevalence of Subjective Cognitive Decline 9.6 Percent in Ages 45 and Up"
     excerpt: "MONDAY, March 13, 2023 (HealthDay News) -- The age-adjusted prevalence of subjective cognitive decline (SCD) is 9.6 percent among adults aged 45 years and older, according to research published in the March 10 issue of the U.S. Centers for Disease Control ..."
     publishedDateTime: 2023-03-13T21:39:00Z

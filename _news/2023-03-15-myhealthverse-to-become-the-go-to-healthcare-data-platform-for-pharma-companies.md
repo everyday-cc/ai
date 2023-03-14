@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T19:49:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/03/g31348509/myhealthverse-to-become-the-go-to-healthcare-data-platform-for-pharma-companies"
 webUrl: "https://www.benzinga.com/pressreleases/23/03/g31348509/myhealthverse-to-become-the-go-to-healthcare-data-platform-for-pharma-companies"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Benzinga.com

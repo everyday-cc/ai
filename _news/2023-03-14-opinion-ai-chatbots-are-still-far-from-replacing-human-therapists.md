@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-the
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-opinion-ai-chatbots-human-therapists.amp"
 type: article
 quality: 59
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "GPT-4 unleashed: Here’s what it will mean for AI chatbots"
+    excerpt: "The company also brought in 50 human experts to provide feedback in terms of AI safety. That, of course ... As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot ..."
+    publishedDateTime: 2023-03-14T19:31:00Z
+    webUrl: "https://www.pcworld.com/article/1658174/gpt-4-unleashed.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 49
   - title: "A Fort Worth artist uses painting robots. Here are his thoughts on the future of AI art"
     excerpt: "Some artists worry AI will threaten their jobs. Others are questioning the ethics of AI art as research shows the influence of racial, socioeconomic and other biases in works produced by AI. Pindar Van Arman, who is based in Fort Worth, has been an AI ..."
     publishedDateTime: 2023-03-13T15:00:00Z
@@ -87,6 +96,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 29
+  - title: "AI chatbots are still far from replacing human therapists"
+    excerpt: "An automated chatbot that draws on conversational artificial intelligence (CAI) is on the other end of ... at implementing psychotherapy approaches such as cognitive behavioral therapy (CBT) in a structured, concrete and skill-based way."
+    publishedDateTime: 2023-03-14T19:49:00Z
+    webUrl: "https://www.winnipegfreepress.com/uncategorized/2023/03/14/ai-chatbots-are-still-far-from-replacing-human-therapists"
+    type: article
+    provider:
+      name: Winnipeg Free Press
+      domain: winnipegfreepress.com
+    quality: 19
   - title: "AI chatbots are still far from replacing human therapists"
     excerpt: "You feel your face overheating as your thoughts start to race along ... The World Health Organization (WHO) has developed six key principles for the ethical use of AI in health care. With their first and second principles — protecting autonomy ..."
     publishedDateTime: 2023-03-13T19:18:00Z

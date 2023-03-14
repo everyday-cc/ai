@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T18:37:00Z
 originalUrl: "https://www.benzinga.com/news/23/03/31347122/openai-ceo-sam-altman-funds-longevity-startup-with-goal-to-increase-human-lifespan-by-10-years"
 webUrl: "https://www.benzinga.com/news/23/03/31347122/openai-ceo-sam-altman-funds-longevity-startup-with-goal-to-increase-human-lifespan-by-10-years"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Benzinga.com

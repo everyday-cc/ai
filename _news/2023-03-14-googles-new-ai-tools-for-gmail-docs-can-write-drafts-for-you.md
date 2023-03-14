@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
 type: article
 quality: 87
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -46,6 +46,24 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Gmail, Docs are getting generative AI tools, too: What they can do for you"
+    excerpt: "Advancements in generative AI can mean lots of improvements to how we work and communicate. Here's how Google is applying the technology in Google Workspace."
+    publishedDateTime: 2023-03-14T18:17:00Z
+    webUrl: "https://www.zdnet.com/article/gmail-docs-are-getting-generative-ai-tools-too-what-they-can-do-for-you/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 45
+  - title: "Google rolling out huge AI upgrades for Google Docs and Gmail — here’s all the new features"
+    excerpt: "Google Bard may still be largely under wraps, but that’s not Google’s only AI venture. Google and its parent company Alphabet are working on a wide variety of AI products and they just announced several more — including AI upgrades to Google Docs and Gmail."
+    publishedDateTime: 2023-03-14T19:14:00Z
+    webUrl: "https://www.tomsguide.com/news/google-rolling-out-huge-ai-upgrades-for-google-docs-and-gmail-heres-all-the-new-features"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 7
 
 secured: "Nt+4NbNwZ+kR6+0ek95/tQPokjj8wuRCPuIA7WyeeM4jIBfFYaKycmge+RA/AwQ4b6pgI0E75iOX4WrKF0LYLzhglKVnDmjoy1Gu5rneTI1bSyE/e4Wq4U7kPxtoe3+DmG5cIAKFvr/2eEWEjI7soeLusCcLz/Yrgtd5kKZHicj7YKUX0u//Woxa6m1CRVify9i8nSRcbZai2nO8QbXvzFo1vpSuWzk5La+b3KMFI06O5D4AVSTlh8hJfNd6JsZcNfeO7FPQPuQ95wVopajk1f6WQJTZ/7H03aQZSar6nK7JTRlZbw7KaRhIDkZ4XimYRpZBXXygsHkiQ2q5IVVeZZnBd7MihSAxD5hteLU0CKLDxSkjHGdJ11o0scENiXR3zCDQZc6o1D8TXvlrZjDtlAVvKCs4fve2jm42Zbz8E+go6gwLCDMlJ8jFP0JFHlxdMdzjS9YTcQl2AHS9ZB3OJbcfcF7VvLD1qSa2XqABaDmJLfmfFT8mT8EJLkBk4D7zpvgq19a4n+VPUivESbRWug==;iT79ObU6qQlwT+fYltOUcA=="
 ---

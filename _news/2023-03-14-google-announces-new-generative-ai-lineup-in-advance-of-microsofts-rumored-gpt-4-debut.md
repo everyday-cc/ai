@@ -39,6 +39,22 @@ related:
         width: 760
         height: 485
         isCached: true
+  - title: "Microsoft Cuts Team Focused on AI Ethics, Report Says"
+    excerpt: "Among the 10,000 Microsoft employees laid off in January, the entire ethics and society team within the AI section of the company was cut, according to a Monday report by Platformer. Microsoft still has an Office of Responsible AI to create rules and ..."
+    publishedDateTime: 2023-03-14T20:35:00Z
+    webUrl: "https://www.cnet.com/tech/computing/microsoft-cuts-team-focused-on-ai-ethics-report-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-cuts-team-focused-on-ai-ethics-report-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-cuts-team-focused-on-ai-ethics-report-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 121
+    images:
+      - url: "https://www.cnet.com/a/img/resize/33cf84a347e0c3d2235eaafe11802a3edb769c2b/hub/2023/03/14/939fff55-4d96-439d-ad57-4a253cf75239/gettyimages-1246747435.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft fires ethics and society team with AI division"
     excerpt: "A report states that Microsoft maintains an active Responsible AI Office that critically evaluates; creates rules and principles to govern the company's AI initiatives. However, team members"
     publishedDateTime: 2023-03-14T05:40:00Z
@@ -158,6 +174,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Microsoft lays off an ethical AI team as it doubles down on OpenAI"
+    excerpt: "Microsoft laid off an entire team dedicated to guiding AI innovation that leads to ethical, responsible and sustainable outcomes."
+    publishedDateTime: 2023-03-14T16:41:00Z
+    webUrl: "https://techcrunch.com/2023/03/13/microsoft-lays-off-an-ethical-ai-team-as-it-doubles-down-on-openai/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
   - title: "Microsoft Introduces Generative AI VM on Azure with Scaling up to Thousands of GPUs"
     excerpt: "Microsoft today introduced the ND H100 v5 VM on the Azure cloud, a virtual machine for development generative AI applications. The VM can scale from eight to thousands of NVIDIA H100 GPUs with Quantum-2 InfiniBand networking,"
     publishedDateTime: 2023-03-13T19:49:00Z

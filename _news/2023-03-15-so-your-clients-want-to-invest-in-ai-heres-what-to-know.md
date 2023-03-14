@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T18:08:00Z
 originalUrl: "https://www.thinkadvisor.com/2023/03/14/so-your-clients-want-to-invest-in-ai-heres-what-to-know/"
 webUrl: "https://www.thinkadvisor.com/2023/03/14/so-your-clients-want-to-invest-in-ai-heres-what-to-know/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Think Advisor
