@@ -43,6 +43,20 @@ related:
         width: 2560
         height: 1662
         isCached: true
+  - title: "GM Plans to Develop an Artificial Intelligence Automotive Assistant Based on Azure"
+    excerpt: "Being able to get help from a talking machine has been a popular fantasy ever since \"Knight of the Roads\" was broadcast on television."
+    publishedDateTime: 2023-03-14T14:07:00Z
+    webUrl: "https://www.somagnews.com/gm-plans-to-develop-an-artificial-intelligence-automotive-assistant-based-on-azure/"
+    type: article
+    provider:
+      name: Somag News
+      domain: somagnews.com
+    quality: 50
+    images:
+      - url: "https://www.somagnews.com/wp-content/uploads/2023/03/GM.png"
+        width: 812
+        height: 495
+        isCached: true
 
 secured: "ICMJxBAvbyGB5nHN4NRrOcayr7Ihh3cC/IkFhlWefSvq+XIHrtJNMxHZezQNBioqMLIZokUmLXZ9cnOZ15wTRGmTm5TP602eFutPVDiiXyLfpo6HthQJ3N7qk3318u2rHyHEnf/J63mpodRKI1jGy5Fk+3iMQ7LqiheOEJkhsZxfY+MIwbgTiosBTMpLTZR+v7vN79ZqEs+uHqsZlJwMxIj15Y4DxaOhr7GoBm5OMEnhlNoiXlB1vWnNnujPNv7nZIxYO1Aa4EYPIqHGq7/I9Y0DPJxFACdwxGSTjL3gE3MftkZqRQ2JoNjZEHkudpGMbYM4RBdZccDWZy9qN+/RIoyNx8bXAii8dLgLR1B9BqE=;gw9zE2uRe2eRRwG4bNc9Wg=="
 ---

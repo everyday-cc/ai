@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft lays off entire AI ethics team while going all out on ChatGPT"
+    excerpt: "A new report indicates Microsoft will expand AI products, but axe the people who make them ethical. This month saw the surprise dissolution of Microsoft’s entire Ethics & Society team—the latest casualty in the company’s ongoing layoffs affecting 10,"
+    publishedDateTime: 2023-03-14T17:00:00Z
+    webUrl: "https://www.popsci.com/technology/microsoft-ai-team-layoffs/"
+    ampWebUrl: "https://www.popsci.com/technology/microsoft-ai-team-layoffs/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/microsoft-ai-team-layoffs/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 91
+    images:
+      - url: "https://www.popsci.com/uploads/2023/03/14/Depositphotos_249538870_L.jpg?auto=webp"
+        width: 1999
+        height: 1125
+        isCached: true
   - title: "ChatGPT now available in Microsoft’s Azure OpenAI service"
     excerpt: "Developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps enabling conversational AI."
     publishedDateTime: 2023-03-13T14:51:00Z
@@ -301,6 +317,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Shares Inside Look At NVIDIA's Supercomputing AI Tech Powering ChatGPT"
+    excerpt: "Microsoft announces new powerful and scalable virtual machines that integrate the latest NVIDIA H100 Tensor Core GPUs."
+    publishedDateTime: 2023-03-14T17:35:00Z
+    webUrl: "https://hothardware.com/news/microsoft-shares-inside-look-at-nvidias-supercomputing-ai-tech-powering-chatgpt"
+    ampWebUrl: "https://amp.hothardware.com/news/microsoft-shares-inside-look-at-nvidias-supercomputing-ai-tech-powering-chatgpt"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-shares-inside-look-at-nvidias-supercomputing-ai-tech-powering-chatgpt"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 69
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61137/content/hero-microsoft-azure-data-center.jpg"
+        width: 708
+        height: 402
+        isCached: true
   - title: "Microsoft strung together tens of thousands of chips in a pricey supercomputer for OpenAI"
     excerpt: "When Microsoft invested $1 billion in OpenAI in 2019, it agreed to build a massive, cutting-edge supercomputer for the artificial intelligence research start-up. The only problem: Microsoft didn't have anything like what OpenAI needed and wasn't totally sure it could build something that big in its Azure cloud service without it breaking."
     publishedDateTime: 2023-03-13T20:17:00Z
@@ -376,6 +408,6 @@ related:
       domain: techreport.com
     quality: 34
 
-secured: "BEI9Itdktw9yE9a9b0Nu5EbiQ/Ogr/6iYt2/AZO88um7uIzVOsKg+PuGWUG/W3y5d1GRhpIW3L6iTo9aI3cgayxyIsbTo/zpXMIehoeItnGZgAKm8Iip/2xp+gy8MzF5RbMC20IGdY0cJ9gAzAQhbzOcriPiQ61GLnJbCFWfqspa8G4E1vka5wZhUmCgjVuEV4BbRCHVWH/XNcSYOLNTrAj9dUuzrirMv5sgJnScU+SQBBZVtbpgNxz3bnl9sNbmFBWiLL0uAPNlhLtNISTA17CHREHZWzgYqYOFqbFhVWhnLSJJO9zjFhvkP28RvnrYhHculeWTrVF4mx84+N9sDps2dN8r7dWJQEHfCYB80rY=;QSor6+OWQ674rFd+LwLLpA=="
+secured: "LrHWmqD3eau+bXPCmwAdW+NdMB3xEqq6MHwvSx2DJ/wMWe0TytxiwLHlKDkmJSd6j/o8zLsygjeiPCnzxnoR27MkFLFLg5a89FKXFVdUJyxEvPvdHJsvXr3jttrDF6kZ51oQyK45Gher/COwSooz37Ae/0sA6o3Kroa7Za63NAthobDB2U06awS6WTJ9McMnc7bazjbRZk4AvIkO+NejoPfhvxIEQD6Q7/I5DhDQ+TYVaqhVJQVrDCe0CLuVYsks6RjBRda7g+T4chqUuzHp9VVVW+xvPgZnp9aCrupVn/BvFz6PH05XaHS4is4kelYEioPhfGJsSK7TmUCwJGOXvOmfDQiO4N/c0wW8DX0/dog9jz11hrFpiHwN++mCZO0T7kNqobpLjnPyytm/lU4ncN6LcYY+ZW6K3H2KcPyvatHhI79BmvHlzYz9iKH8rF6Leddjd7KrNEaDfQxSKZlyuRG/Q6NVM6EWKcAHc0RyXJMuIsvDERWb9ZZtB3g8wiHLaaiCAr36/VTpqMrZWfCS3w==;Ug1PUDIBlCpxDxqaCWjgAQ=="
 ---
 

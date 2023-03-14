@@ -2,27 +2,19 @@
 category: news
 title: "JMIR AI | MOBILE ARTIFICIAL INTELLIGENCE-POWERED ACCEPTANCE COMMITMENT THERAPY TOOL"
 excerpt: "2023 /PRNewswire/ -- JMIR Publications published \"Adolescents' Well-being While Using a Mobile Artificial Intelligence-Powered Acceptance Commitment Therapy Tool: Evidence From a Longitudinal ..."
-publishedDateTime: 2023-02-28T17:58:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/02/n31098295/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool"
-webUrl: "https://www.benzinga.com/pressreleases/23/02/n31098295/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool"
-ampWebUrl: "https://www.benzinga.com/amp/content/31098295"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31098295"
+publishedDateTime: 2023-02-28T20:14:00Z
+originalUrl: "https://www.victoriaadvocate.com/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool/article_393e6928-54d6-5cad-bd89-cc81761761f5.html"
+webUrl: "https://www.victoriaadvocate.com/jmir-ai-mobile-artificial-intelligence-powered-acceptance-commitment-therapy-tool/article_393e6928-54d6-5cad-bd89-cc81761761f5.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "k7q7wsRV1vHJGWS+DQ2GGkEnrLZd0Bbtp/IcrcNop1X7eF/KQb7hYz5q3/uzBPFHcHZITuXkoh+QzWTfWrUH/hHo5InMOD8m2DLnWrcRMNET1JDXixWPsImYnwHqMIrQHamMAzpYeUCJNg+DOypCIAJYQB0hXNecCz+8yWiOvcXvmGEO+V6UGqY11LGT+4qRd1KcIERVDL4/mZgR4g52xHs4+dBK66RQrEfubAMG65N/3NHT3AsJpulDz51+69I6E7GcFn6VoukUiKzccQdBEKkLpHC7MKr96BjVJCa7MYetGIIb8Ui8l2V6Z1DvvU4goq8EMCPXjbR31BW1Pw5gPRTflyxSQDFWV6Eiyuymo9E=;ShN5qpOUDYVIv7LWXWE4cg=="
+secured: "nkUHo1aNz5Mc8ljNE8Yt9OOZ2qRlZuxQgjQjABbp7yw+LJ+o1/snyRqGvbaoYs0FRYGh9CDxgb8eJWKnV3CrLBqlU1cZ0G8Y06HljmfJnsGkrkNFucJEQZcDTu+qzvJnj7UqSpApkoQ2xNtATem1guiuL+oFoRc3hPMfK0MXrVgw/0kT4JIuWTlfYVde3KNwPs93Irsqsw4yTL9priWa9nYLyoZgt2UuXsS/AAfrC812lbf64ZUR+PmoZt+PLRCRNCdX1uyCrj31tZAeohccNrjCXwO+Z2jYBDOkwEO2iSdQ5BeWgOMPEekEKZGwK2sje4agsBopWoLxnSDXlUgu84HLbfrpFJyPl9eywQXyFO0=;lmo0SiU8zRUU17io5ebwPQ=="
 ---
 

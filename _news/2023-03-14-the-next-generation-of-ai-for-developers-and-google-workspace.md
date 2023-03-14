@@ -7,8 +7,8 @@ originalUrl: "https://blog.google/technology/ai/ai-developers-google-cloud-works
 webUrl: "https://blog.google/technology/ai/ai-developers-google-cloud-workspace/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Google
@@ -23,6 +23,20 @@ topics:
   - Google AI
 
 related:
+  - title: "Google is working on AI for ultrasound diagnosis and cancer therapy"
+    excerpt: "AI isn’t just good for writing term papers or clickbait financial explainers; it could help save lives in the medical field."
+    publishedDateTime: 2023-03-14T17:07:00Z
+    webUrl: "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 84
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/3EZyxH7KjN2WzHYeaplUoA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/21b84540-c1d6-11ed-a7fd-3b2d705efb52.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google Workspace is about to put generative AI to work"
     excerpt: "Google says it’s working on further AI features for Workspace, including summarization in Gmail, Docs, Meet, and Chat; translation for Meet ... are built on the company’s PaLM (Pathways Language Model) large language model, which is also the basis ..."
     publishedDateTime: 2023-03-14T13:48:00Z
@@ -32,20 +46,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 19
-  - title: "Why It Matters: ABA House of Delegates Adopts Guidelines for Developers and Users of Artificial Intelligence"
-    excerpt: "At the recent ABA mid-year meeting in New Orleans, the House of Delegates discussed and adopted by a unanimous vote Resolution 604 that proposes guidelines for counsel and clients involved in the development and use of artificial intelligence (“AI”)."
-    publishedDateTime: 2023-03-13T21:29:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2023/03/13/why-it-matters-aba-house-of-delegates-adopts-guidelines-for-developers-and-users-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 18
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2023/03/Trope-Thomson-Cwik-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "l0szPF646MBlaQ/44Cvk4A8E6Uq1s5GnkGnATLCM4iiTulmVOmZZNEpBnmUOWrc1vYtjWEd3Lj82J6ggnFBWPLrt0fI+RtEkeV2JgxjKMS+aWppHv2GJkxghRA36RjJdTiX9fsnvkT8TXIbG22/2O7o8sONlW17/uBHP2hAnGzdbNkrbJNYEBkZoPXRxXju0RaMpwWY0GzfkbQ5Q6DhIoL9yaLqnJiIoS7B1Vk/hHnGN2HAU9ao9m0hVrB4k7S9g50ihyYV9LwBXtdLbdl2qjGB2RAb6/5ClNvWqvzZCLxEiJO9V72TjCqdYFJ6Q5hs1/LXkUKKBWGhhZ8Vl0qlW4UH7fR0RLal3Ix/B5EoyMaI=;dRDYx7mBDPzN5xB5P/X5SQ=="
 ---

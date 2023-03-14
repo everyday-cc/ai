@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/97922-gm-plans-develop-azure-powered
 webUrl: "https://www.techspot.com/news/97922-gm-plans-develop-azure-powered-car-ai-assistant.html"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -43,7 +43,21 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "GM Plans to Develop an Artificial Intelligence Automotive Assistant Based on Azure"
+    excerpt: "Being able to get help from a talking machine has been a popular fantasy ever since \"Knight of the Roads\" was broadcast on television."
+    publishedDateTime: 2023-03-14T14:07:00Z
+    webUrl: "https://www.somagnews.com/gm-plans-to-develop-an-artificial-intelligence-automotive-assistant-based-on-azure/"
+    type: article
+    provider:
+      name: Somag News
+      domain: somagnews.com
+    quality: 50
+    images:
+      - url: "https://www.somagnews.com/wp-content/uploads/2023/03/GM.png"
+        width: 812
+        height: 495
+        isCached: true
 
-secured: "KVkx88k91u7G1odAaE3XOBgjixPFz2q6uwwPeTXiGZMiDgc1rnuRaEGtdWduobhYbK5TeveQhoGHRN1qHGohkP8HDTEqMIuU4QzcnOcWWM1lFB7b2DH3mLq+rocGC1vqRL5xNzH2xXazmMI19E3V+/G3E+QCDqWUuuM0JiYeqHoMjZwZn8OF9RMAOCC8lPxXGVRK/1jH4v81lo2amWw5BMPFaw9pCIn6IAD1TN3cgDu/NqcTRxVugRC52vILKO67LRy384rCiKZtaQSfsgq9uPhBcG7hAF0ogYtvP2NUCrf+boKi6hI9nE7Inx9Abtjhwxxo2evMqhh3+/0iLTq2oRle/LYKgP17qt6PB76xv/k=;Uoq1bbqxXdvKrNt2DmqiXw=="
+secured: "jnzTBZ/lRdXXS/6sZV4E6pONIJ5oo6GqJJp8OdUdI5BxsrQcdSWaf8bpWxfBdg8Nb1BTV280Dlcyma6sZO0rmbXV/DBYu7b7GADeA9Vp4CPzVk/wgwGU9ZynplGBuJ2TWrNT+CtV9Rsgy44/8VSboikn29GP15HyOQqX1RvzStQEocJiDtKXoxAVuemkrn6zifrXw5Zyt4+qy7qIUn2+XgY+W1D5elyTKUOxjD0oFrVKF0PMCdCQTJfyx7VTKfpFPGJU8TkseRwg0Tn1gzJbG/lkO9xKTzXVxwn2Wte3/PRMnA/Z5bPygybd8tLQrefY/kAs4ntNyFmeSpKrRt00dJPiDUrAaArL0igtT4f9edTGP4km797MBpynq7B8lQlRKjFvdHayEn2FUhHq0ofyM1nR7eAeIAHLk16Rd8XcRZ7iYBsiPoi/QP4omNxSAVLNT7lvumGzf/KicU9ZJlgOicVBoKuR/Mdgz6SSj1picn6qcj1t0U8lw239t31t/yVoWeynpjckH+wAoGaRtjPDow==;/l3Q8+Tiid0+uLH8o1NIAg=="
 ---
 

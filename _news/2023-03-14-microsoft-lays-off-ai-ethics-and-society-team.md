@@ -76,6 +76,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft lays off entire AI ethics team while going all out on ChatGPT"
+    excerpt: "A new report indicates Microsoft will expand AI products, but axe the people who make them ethical. This month saw the surprise dissolution of Microsoft’s entire Ethics & Society team—the latest casualty in the company’s ongoing layoffs affecting 10,"
+    publishedDateTime: 2023-03-14T17:00:00Z
+    webUrl: "https://www.popsci.com/technology/microsoft-ai-team-layoffs/"
+    ampWebUrl: "https://www.popsci.com/technology/microsoft-ai-team-layoffs/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/microsoft-ai-team-layoffs/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 91
+    images:
+      - url: "https://www.popsci.com/uploads/2023/03/14/Depositphotos_249538870_L.jpg?auto=webp"
+        width: 1999
+        height: 1125
+        isCached: true
   - title: "ChatGPT now available in Microsoft’s Azure OpenAI service"
     excerpt: "Developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps enabling conversational AI."
     publishedDateTime: 2023-03-13T14:51:00Z
@@ -285,6 +301,22 @@ related:
       - url: "https://news.microsoft.com/source/wp-content/uploads/2023/03/How-Microsoft-bet-on-Azure-unlocked-an-AI-revolution-1200x630-1.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft Shares Inside Look At NVIDIA's Supercomputing AI Tech Powering ChatGPT"
+    excerpt: "Microsoft announces new powerful and scalable virtual machines that integrate the latest NVIDIA H100 Tensor Core GPUs."
+    publishedDateTime: 2023-03-14T17:35:00Z
+    webUrl: "https://hothardware.com/news/microsoft-shares-inside-look-at-nvidias-supercomputing-ai-tech-powering-chatgpt"
+    ampWebUrl: "https://amp.hothardware.com/news/microsoft-shares-inside-look-at-nvidias-supercomputing-ai-tech-powering-chatgpt"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-shares-inside-look-at-nvidias-supercomputing-ai-tech-powering-chatgpt"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 69
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/61137/content/hero-microsoft-azure-data-center.jpg"
+        width: 708
+        height: 402
         isCached: true
   - title: "Microsoft builds supercomputer with OpenAI: What is it and how will it make AI chatbot robust"
     excerpt: "The aim of building this supercomputer is to provide enough computing power needed to train and retrain an increasingly large set of AI models with great volumes of data for long periods of time. “One of the things we had learned from research is that the larger the model,"

@@ -57,22 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Coral Springs Sports and Orthopedic Center, FAU, Broward Health, & Advanced Research: Revolutionizing Healthcare Using Artificial Intelligence"
-    excerpt: "Say farewell to spending a small fortune on a boring visit to the doctor's office and hello to inexpensive, convenient, and comfortable engaging consultations you can have in your pocket."
-    publishedDateTime: 2023-03-10T00:24:00Z
-    webUrl: "https://coralspringstalk.com/fau-coral-springs-affordable-telehealth-45643"
-    ampWebUrl: "https://coralspringstalk.com/fau-coral-springs-affordable-telehealth-45643/amp"
-    cdnAmpWebUrl: "https://coralspringstalk-com.cdn.ampproject.org/c/s/coralspringstalk.com/fau-coral-springs-affordable-telehealth-45643/amp"
-    type: article
-    provider:
-      name: Coral Springs Talk
-      domain: coralspringstalk.com
-    quality: 38
-    images:
-      - url: "https://coralspringstalk.com/wp-content/uploads/2023/03/AR-Scan-1.png"
-        width: 800
-        height: 448
-        isCached: true
 
 secured: "qne6nUZ3QGYvWXMxL+S+6lLfCB1DTL9o/7aer4DPRD/cuUmygQy4CxRId5lRKfSeNiYC4Oh1tkeVI3tRVUZkiaU/srxQ76liClZSBJa8FbpGmP4iSEB90/ehj1zPeBDSqzCgKaWoA6lqWcy9Nm2L/d/IbpK5YJFhXKj/Ez9vs8+8mHoYPCkTQDeqCetTrD9Q7XyFA8As41Qeb25WL54iIOBMziIC5QSzL0a1FbIlqb4fsmmAayHyFKN+wEVRiMCxXXGUJ3fqqcrDuDdD3FbR2ZFBiDVU4AB4nyiPHDB+STWAzrNQaK0RWZHHhpTCVv2F44pYYOLblqGUNMtACLnoI7Ls6TR3efQ/a7VqvknreNg=;bz1I9PpksXOfCVwvrTzZhg=="
 ---
