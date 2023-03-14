@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-03-03-3-top-artificial-intelligence-stocks-to-buy-in-march.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in March",
+      "excerpt": "AWS. These companies are pushing AI forward, and now is an excellent time to invest in the booming market. The artificial intelligence (AI) market is booming after substantial advances in 2022 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/03/02/top-artificial-intelligence-stocks-to-buy/",
+      "originalUrl": "https://www.fool.com/investing/2023/03/02/top-artificial-intelligence-stocks-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/722889/artificial-intelligence-investing-algorithms.jpg",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T13:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-brave-search-launches-an-ai-powered-summarization-feature.md",
       "title": "Brave Search launches an AI-powered summarization feature",
       "excerpt": "Brave Search launched a new \"Summarizer\" feature, which is powered by different large langue models (LLMs) than OpenAI's GPT.",
@@ -1118,49 +1170,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai.md",
-      "title": "Richard Kyte: Here are the ethical questions we should be asking about AI",
-      "excerpt": "Most expert predictions, however, fall somewhere between those two extremes, depending largely on how the companies designing and implementing AI models deal with a number of ethical concerns. Those concerns are focused on things like who will have oversight,",
-      "sourceUrl": null,
-      "webUrl": "https://greensboro.com/opinion/columnists/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_6c281643-09e3-57a2-b917-fdb3ddb196a0.html",
-      "originalUrl": "https://greensboro.com/opinion/columnists/richard-kyte-here-are-the-ethical-questions-we-should-be-asking-about-ai/article_6c281643-09e3-57a2-b917-fdb3ddb196a0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/6/c2/6c281643-09e3-57a2-b917-fdb3ddb196a0/63ff7d4405d21.preview.jpg?crop=703%2C369%2C32%2C69&resize=703%2C369&order=crop%2Cresize",
-          "width": 703,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T18:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News & Record",
-        "domain": "greensboro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

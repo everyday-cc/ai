@@ -2,6 +2,58 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2023-01-12-microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations.md",
+      "title": "Microsoft Launches Imagine Cup Junior 2023 Empowering Top Innovations",
+      "excerpt": "Imagine Cup Junior (ICJ) 2023 is open for registration creating outstanding paths for students to learn about technology solving world’s biggest challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/",
+      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bf4eb77e8e55f57de4e9c0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2023/01/11/microsoft-launches-imagine-cup-junior-2023-empowering-top-innovations/amp/",
+      "publishedDateTime": "2023-01-11T15:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-12-4-ai-and-ml-job-hunting-tips-from-chip-huyen.md",
       "title": "4 AI and ML job hunting tips from Chip Huyen",
       "excerpt": "It may be a tough market, but author and computer scientist Chip Huyen says there are several ways AI and ML job hunters can stand out.",
@@ -1050,58 +1102,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-cloud-natural-language-processing-market-2023-size-dynamics-prominent-players-business-prospect-generate-revenue-growth-rate-by-2029.md",
-      "title": "Cloud Natural Language Processing Market 2023 Size Dynamics, Prominent Players, Business Prospect, Generate Revenue, Growth Rate By 2029",
-      "excerpt": "Pages Report] The Cloud Natural Language Processing market research report includes the total number of facts and figures with manufacturers, types, applications, and regions. The Cloud Natural Language Processing Market report provides a market overview of the report along with competitive landscape that includes business profile,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2023-size-dynamics-prominent-players-business-prospect-generate-revenue-growth-rate-by-2029-2023-01-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2023-size-dynamics-prominent-players-business-prospect-generate-revenue-growth-rate-by-2029-2023-01-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T20:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

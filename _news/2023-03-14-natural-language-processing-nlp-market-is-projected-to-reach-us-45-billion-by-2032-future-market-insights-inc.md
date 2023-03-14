@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Computer Vision Market Size Worth USD 22.76 Billion in 2032 | Emergen Research"
-    excerpt: "The Computer Vision market size reached USD 11.90 Billion in 2022 and is expected to register a CAGR of 6.7% during the forecast period, according to the latest analysis by"
-    publishedDateTime: 2023-03-09T17:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31282550/computer-vision-market-size-worth-usd-22-76-billion-in-2032-emergen-research"
+  - title: "Artificial Intelligence in Retail Market with Size Expected to Reach by 2030 by Extensive Growth Projected"
+    excerpt: "Final Report will add an analysis of the impact of the Russia-Ukraine War and COVID-19 on theArtificial Intelligence"
+    publishedDateTime: 2023-03-14T06:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected-2023-03-14"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Ay0Wx+wo1OAW3dDXhiQlyV/4lw4Z7TfWk7WLd89drt3T/kISKtbhnau8LWUZ9Fp3LANE4McGSv2UhJ2/+rVPQXXbLyk+mQXSiOsM6IEQIBW5uvJ7Hr5BF3R5a0MYI5ak6Z7V3AhwdxIBx9MRtXWpTsdCROkOXL7YKsnRusFcsPKPH0ylGt3sUHF592aPAUOjz2XMUFMnFjahin9vY3TgCuLqJsvhCb3OI+HUVeX61I94QxF4PaNxxi3IQ67riDX5xnISGE2+83S2Kz0uxlZLtuum1H9Jkk/MjPqiVEojojDAf5h/LeGHnAaV+yd0sr5AHfZO7n+SdZuJnan0c5ZEma5JGULRyi/7iw/dXu8c/dI=;qWRaA3Yf1IgMvdHBPUR1mA=="
 ---

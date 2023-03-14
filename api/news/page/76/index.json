@@ -2,6 +2,49 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2023-01-11-houston-community-college-reveals-first-two-bachelors-degree-programs.md",
+      "title": "Houston Community College reveals first two bachelor’s degree programs",
+      "excerpt": "Students can obtain a four-year degree in Applied Technology in Artificial Intelligence and Robotics and Applied Science in Healthcare Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/",
+      "originalUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.hpm.io/wp-content/uploads/2022/09/22150424/HBU_Aerial-450x294.jpg",
+          "width": 450,
+          "height": 294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/amp/",
+      "cdnAmpWebUrl": "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/education/2023/01/10/440878/houston-community-college-reveals-first-two-bachelors-degree-programs/amp/",
+      "publishedDateTime": "2023-01-10T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Public Media",
+        "domain": "houstonpublicmedia.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-11-robotics-team-begins-their-season-with-annual-kickoff-event.md",
       "title": "Robotics team begins their season with annual kickoff event",
       "excerpt": "On Saturday, January 7 the Robotics team of just over 50 members watched an international Twitch livestream of the season kickoff, which is watched by teams internationally. An animation was shown to introduce the game for the season,",
@@ -1086,49 +1129,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-top-machine-learning-trends-to-watch-out-for-in-2023.md",
-      "title": "Top Machine Learning Trends to Watch out for in 2023",
-      "excerpt": "Using automated machine learning, professionals can design effective tech models that improve production and efficiency. Fremont, CA: We can",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/top-machine-learning-trends-to-watch-out-for-in-2023-nid-10447.html",
-      "originalUrl": "https://www.cioapplications.com/news/top-machine-learning-trends-to-watch-out-for-in-2023-nid-10447.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/zdtphcioapp450-308.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

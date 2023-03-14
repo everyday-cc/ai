@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Students are using artificial intelligence at school. Here's why teachers aren't panicking"
+    excerpt: "Many local college professors and K-12 educators say they aren't worried about ChatGPT's use in the classroom. Why? It's easy to detect."
+    publishedDateTime: 2023-03-14T02:30:00Z
+    webUrl: "https://www.cincinnati.com/story/news/education/2023/03/13/students-use-chatgpt-and-ai-but-teachers-arent-worried/69925517007/"
+    type: article
+    provider:
+      name: The Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 9
 
 secured: "ksLUmmPb0v/qS49mwUrvmUZwT24YYgyREzdEoEU00pdnHSEh85c4e4tc6D0LQJ31/33Wrj5Weq6+tF678q+OvFOKks7+U/DY+WePf4U/E+KGu11+6UWKoeDXDsTcvAQIVEfiPhXsA2DEJkl9ryA+4UbbX2l3Hw2g26RNWdpqea9O52B4EEORSkoCkXlYLHwgYSQogqjc8Fn56PDWX8dOLsaNCRuXqWChviTFTWJs0RFuJrd2K+XLu9IRoaD0NKJ7K7XWCIYt1zVzTaR1dT62gY4DLg1cLcDxsXK6ZmMGb42he55fFlu84kirbiG8zd3nuDP88tVBRhvmJMOcnX7WRR+x961tQiJPogCdgD8eIlI=;YpK9oCoMK3gRjNQuO6QQjQ=="
 ---

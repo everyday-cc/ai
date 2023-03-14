@@ -2,6 +2,48 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-02-18-chuck-todd-are-we-ready-for-a-potential-brave-new-world-of-ai.md",
+      "title": "Chuck Todd: 'Are we ready for a potential brave new world of AI?'",
+      "excerpt": "Lawmakers raise concerns over the spread of unregulated artificial intelligence, which can lead to false narratives and misinformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/chuck-todd-are-we-ready-for-a-potential-brave-new-world-of-ai-163587653890",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/chuck-todd-are-we-ready-for-a-potential-brave-new-world-of-ai-163587653890",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1676669539349_now_mtp_clip_a1_20230217_1920x1080-sl7r74.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo163587653890",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo163587653890",
+      "publishedDateTime": "2023-02-17T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-18-as-interest-in-ai-surges-check-out-this-etf.md",
       "title": "As Interest in AI Surges, Check Out This ETF",
       "excerpt": "Investor interest in artificial intelligence (AI) is surging this year. Just as previously hot segments of tech like social media and",
@@ -1162,58 +1204,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030.md",
-      "title": "Artificial Intelligence in Drug Discovery Market Worth $8.95 Billion by 2030",
-      "excerpt": "Meticulous Research(R)--a leading global market research company, published a research report titled, Artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030-2023-02-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-worth-895-billion-by-2030-2023-02-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T21:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

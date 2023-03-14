@@ -62,6 +62,15 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 17
+  - title: "Students are using artificial intelligence at school. Here's why teachers aren't panicking"
+    excerpt: "Many local college professors and K-12 educators say they aren't worried about ChatGPT's use in the classroom. Why? It's easy to detect."
+    publishedDateTime: 2023-03-14T02:30:00Z
+    webUrl: "https://www.cincinnati.com/story/news/education/2023/03/13/students-use-chatgpt-and-ai-but-teachers-arent-worried/69925517007/"
+    type: article
+    provider:
+      name: The Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 9
 
 secured: "x1zZKxDaB7wMMPre5SFjKYPB/tKydQfjFsuThG7cajrWIVikCI1Y+pKVkcTsiX9BkY7eP0Isfwib+/frPi9072R4oZt/Urad/mEBgBy+09CiCl5kN7i3Tzz+3rEMZOp6oNOMi6Qyj+EvuH7LAAco1QZJ3scnZRZYdwlNBXytPhiZ2pr5H5o/CXmnMcX+JsORk0uLp+4W/MwmhrLPYwAyCpCHbNi6bQCq9QNQBxDGMX3P2YIrQavpfDY1mg0ZFVvh07biRfqpVBuzRelf3wb6ZsO0zmgas3TRQrlgrj/HO9/GPj4Mn/OupmTqnrFi6o+1Sk82hWyOWct7rpg2WYcmTVhEg1Y4fCPNgeQEtCxYW0s=;LTkpwRQBe/tNmkIADWDoDg=="
 ---

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-03-can-facebooks-ai-dream-resolve-its-revenue-nightmare.md",
+      "title": "Can Facebook’s AI Dream Resolve Its Revenue Nightmare?",
+      "excerpt": "Facebook owner Meta is setting up a new “generative AI” product group as it strives to claw back revenues. Can its AI dream resolve its privacy nightmare?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/",
+      "originalUrl": "https://www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61163cbb75226aecbb0e94e9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 824,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/amp/",
+      "publishedDateTime": "2023-03-03T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-ai-in-fintech-market-size-competitive-strategies-forecasts-research-report-2023-2033.md",
       "title": "AI In Fintech Market Size Competitive Strategies & Forecasts Research Report 2023-2033",
       "excerpt": "(MENAFN- America News Hour) “A research report on AI in Fintech Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail. The report ...",
@@ -1150,58 +1202,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-3-top-artificial-intelligence-stocks-to-buy-in-march.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in March",
-      "excerpt": "AWS. These companies are pushing AI forward, and now is an excellent time to invest in the booming market. The artificial intelligence (AI) market is booming after substantial advances in 2022 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/03/02/top-artificial-intelligence-stocks-to-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/03/02/top-artificial-intelligence-stocks-to-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/722889/artificial-intelligence-investing-algorithms.jpg",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-02T13:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

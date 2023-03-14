@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-t
 webUrl: "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 42
-  - title: "Lost In Translation: Harnessing AI For International Efficiency."
-    excerpt: "Harnessing AI For International Efficiency. Legal News and Analysis - Africa/Middle East, Asia Pacific, Europe, North America, Offshore - Telecommunications, Media & Technology -"
-    publishedDateTime: 2023-03-09T14:46:00Z
-    webUrl: "https://conventuslaw.com/report/lost-in-translation-harnessing-ai-for-international-efficiency/"
-    type: article
-    provider:
-      name: Conventus Law
-      domain: conventuslaw.com
-    quality: 39
-    images:
-      - url: "https://conventuslaw.com/wp-content/uploads/2022/09/Hightech.png"
-        width: 871
-        height: 581
-        isCached: true
 
 secured: "6QAd+ANgJfZ+d6sNwcjZGFfIjkiRLBrcSeYOmggvn0Nj5Gc3Ev9Cg52GHkvkMA9cqKAlAvmVfjV3BxCbpXs1awtSM8wEqeghC+8oSPT11ALfrebQKpyVyvEZyu3ZpUtNvIAkqwpzPGm3Ki2PQOUVRmgX5yiyFOEP5oiemCrUjVyndIhT0dSgGjawOkZuvAB5ZoRxHCsUkZrB3cChQ9WaZEmGYnRi20gGHCJhvdttObPnkCNWxJiQQqGwTkAZxBXmvgfsnzJ8rB4jLDZaHrGJQYLpFWQNdYK3E6q/8jKOhcefKNsmv4IvmP+Kz1tRmgdw2H8nqqpSveolUjOZajxbWLjhMeYUV1omqpSKMIo++KU=;HcEVca9XZrkfgvbXFTSLww=="
 ---

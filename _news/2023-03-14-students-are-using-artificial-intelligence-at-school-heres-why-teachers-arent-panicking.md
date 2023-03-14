@@ -19,47 +19,57 @@ topics:
   - AI
 
 related:
-  - title: "Scammers are using AI to impersonate your loved ones. Here's what to watch out for"
-    excerpt: "The next time you get a call from a family member or friend in need, you might want to make sure it's not a robot first."
-    publishedDateTime: 2023-03-09T14:05:00Z
-    webUrl: "https://www.zdnet.com/article/scammers-are-using-ai-to-impersonate-your-loved-ones-heres-what-to-watch-for/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/scammers-are-using-ai-to-impersonate-your-loved-ones-heres-what-to-watch-for/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/scammers-are-using-ai-to-impersonate-your-loved-ones-heres-what-to-watch-for/"
+  - title: "A Fort Worth artist uses painting robots. Here are his thoughts on the future of AI art"
+    excerpt: "Some artists worry AI will threaten their jobs. Others are questioning the ethics of AI art as research shows the influence of racial, socioeconomic and other biases in works produced by AI. Pindar Van Arman, who is based in Fort Worth, has been an AI ..."
+    publishedDateTime: 2023-03-13T15:00:00Z
+    webUrl: "https://www.keranews.org/arts-culture/2023-03-13/a-fort-worth-artist-uses-painting-robots-here-are-his-thoughts-on-the-future-of-ai-art"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
+      name: KERA News
+      domain: keranews.org
+    quality: 48
     images:
-      - url: "https://www.zdnet.com/a/img/resize/7a5309a2e1f200b222a612ed2e738b0b11ce21c0/2023/03/08/4e1f592e-d717-4b04-b262-2f69a4b58f7d/gettyimages-1258096393.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://npr.brightspotcdn.com/dims4/default/f86fdfd/2147483647/strip/true/crop/4096x2150+0+291/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F6a%2Ffe906dc24103aa7f42b80fc155b2%2Fai03.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "In the battle for the future of work, AI is not above the law"
+    excerpt: "Lawsuits against DoNotPay's AI chatbot could signal there is trouble ahead for developers looking to disrupt the status quo"
+    publishedDateTime: 2023-03-13T15:02:00Z
+    webUrl: "https://www.raconteur.net/technology/ai-lawyer-lawsuit-donotpay-sued/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2023/03/robot-lawyer-smol.png"
         width: 1200
         height: 675
         isCached: true
-  - title: "Scam uses artificial intelligence to replicate loved ones’ voices, TN police warn"
-    excerpt: "The person on the other line sounds like your loved one in trouble, but their voice was created by scammers using artificial intelligence."
-    publishedDateTime: 2023-03-11T14:31:00Z
-    webUrl: "https://www.wate.com/news/tennessee/scam-uses-artificial-intelligence-to-replicate-loved-ones-voices-tn-police-warn/"
-    ampWebUrl: "https://www.wate.com/news/tennessee/scam-uses-artificial-intelligence-to-replicate-loved-ones-voices-tn-police-warn/amp/"
-    cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/news/tennessee/scam-uses-artificial-intelligence-to-replicate-loved-ones-voices-tn-police-warn/amp/"
+  - title: "Lazy Artists Use AI to Rip Off Famous Dutch Painting for Museum Exhibition"
+    excerpt: "\"So we chose it, and we hung it.\" Given how popular AI art has become just in the last year alone, it's mighty likely that we'll start seeing more debates like this — and, perhaps, greater criticism from artists, too."
+    publishedDateTime: 2023-03-10T20:43:00Z
+    webUrl: "https://futurism.com/the-byte/artists-ai-vermeer-girl-pearl-earring"
     type: article
     provider:
-      name: WATE 6 On Your Side
-      domain: wate.com
-    quality: 52
+      name: Futurism
+      domain: futurism.com
+    quality: 35
     images:
-      - url: "https://www.wate.com/wp-content/uploads/sites/42/2023/03/audio-wave.png?w=1280"
-        width: 702
-        height: 395
+      - url: "https://wp-assets.futurism.com/2023/03/artists-ai-vermeer-girl-pearl-earring.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Beware artificial intelligence for your home improvement needs"
-    excerpt: "Along with other scam businesses out there, you should be cautious not to fall for AI when it comes to home advice."
-    publishedDateTime: 2023-03-13T14:00:00Z
-    webUrl: "https://www.seattletimes.com/explore/at-home/beware-artificial-intelligence-for-your-home-improvement-needs/"
+  - title: "AI chatbots are still far from replacing human therapists"
+    excerpt: "You feel your face overheating as your thoughts start to race along ... The World Health Organization (WHO) has developed six key principles for the ethical use of AI in health care. With their first and second principles — protecting autonomy ..."
+    publishedDateTime: 2023-03-13T19:18:00Z
+    webUrl: "https://theconversation.com/ai-chatbots-are-still-far-from-replacing-human-therapists-201084"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 19
+      name: The Conversation
+      domain: theconversation.com
+    quality: 17
 
 secured: "vEklsvtrhUEpGBQ9auNXhOyVNYEQeOICEcTeE9Jw90MUrttTukAguK+us3dlIrOml0lVp0sGEE0LyMn9WSmBtd8MIFMuz3e0mF31aZwfctyM1MqMHFVgehtHAvabuKB89/sbD+Ra33NmUlK4FURGVH3A6G2vYo1knu8sqzeRCjRokgvZ/CROyIyU7dB18baokrqDEAVOOaLwjNQiRvnRGBLGT6baqAEcWFC7W/RAJZIx9NnYyDYfBv+4odYe9AIQG+afQbbRcXKUTN5sq0HskpGXJWWqr+z/TQr+qJKwC36nbDs9mEICb5H/fograBWpb5wzbhm/wQ33ZregHoeNiiZ31u/5cTKx5oc7bwOEZAJXnAXK22V1LGb9+hAunjkVYMGtIvBO3OswX7i4mCZa8/Tn3IVewSXb5MBeEh6xIvpd25U8sbeCXskSOnvHpBjwxWGgwc0dbf1NePouzhEoZ3B7NztRYrmp6P6DAWPaWQCzNIj25yTXhcvvkL4WQkwXGyYYbIgwqV6J95pwc0duQA==;Oq19yOT93GImdL835aAYtw=="
 ---

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-14-artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected.md",
+      "title": "Artificial Intelligence in Retail Market with Size Expected to Reach by 2030 by Extensive Growth Projected",
+      "excerpt": "Final Report will add an analysis of the impact of the Russia-Ukraine War and COVID-19 on theArtificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected-2023-03-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected-2023-03-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-microsoft-axes-ai-ethics-and-society-team-as-part-of-mass-layoffs-report.md",
       "title": "Microsoft Axes AI Ethics And Society Team As Part Of Mass Layoffs: Report",
       "excerpt": "Microsoft's AI team that ensured the company's products reflected its AI principles had about 30 employees in 2020 before it was cut down to seven in October.",
@@ -987,7 +1038,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 369,
       "tags": null,
       "images": [
         {
@@ -1167,48 +1218,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-civil-servants-being-trained-in-artificial-intelligence-jitendra-singh.md",
-      "title": "Civil servants being trained in artificial intelligence: Jitendra Singh",
-      "excerpt": "Civil service officers are now being trained in artificial intelligence tools and data analytics for effective performance in the current administrative context, union minister Jitendra Singh said. Under mission karmayogi,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh-11678629063818.html",
-      "originalUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh-11678629063818.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2023/03/12/600x338/jitendrasingh_1678629341268_1678629341570_1678629341570.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh/amp-11678629063818.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh/amp-11678629063818.html",
-      "publishedDateTime": "2023-03-12T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

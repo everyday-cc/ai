@@ -43,6 +43,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Centre in SC opposes plea seeking legal recognition of same-sex marriage, says it can't be compared with Indian family unit"
+    excerpt: "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said. Centre submitted before Supreme Court that statutory recognition of marriage as a union ..."
+    publishedDateTime: 2023-03-12T10:21:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2376487-centre-in-sc-opposes-plea-seeking-legal-recognition-of-same-sex-marriage-says-it-cant-be-compared-with-indian-family-unit"
+    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2376487-centre-in-sc-opposes-plea-seeking-legal-recognition-of-same-sex-marriage-says-it-cant-be-compared-with-indian-family-unit?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2376487-centre-in-sc-opposes-plea-seeking-legal-recognition-of-same-sex-marriage-says-it-cant-be-compared-with-indian-family-unit?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 18
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_03_2023_10_21_37_2483261.jpg?width=1280"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "9fs79ymPTl6uJo7bxQ5XglBnj8O9EgpGqGIU+1Te++v26QxSN4wuwQd/AkVx7DvJWNLfmlg0PtYJDV6gLyB+EJvMpINFuMYxE1pit6UB36fSBxJpwoKvZtQzAurCz+vXbS6yYeRfOykmk+tmr/Rp/dfgW6Ob9pQ+mh1XssrKGZVlQODdOgPq/XVNrggKDM8Tf8d2x5WUg31k6beqUyMUJ/s27t2QN7FMdxlqaufEwF+hIMM/xXwTvNcdZ5tsFz2ml8ugrCwWAxMYerKYm+u773I2Bfo3wDVv8kSZtXmdrxXhwfp+vLpLiQMqZqXL8qaTMEeopnJIIgr/lp2zfducBS2Qcx9XrSwHHG8QnkzrXDM=;ZWt2XeJrDwaLbno1wOscfA=="
 ---

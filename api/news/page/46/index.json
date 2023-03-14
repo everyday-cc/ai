@@ -2,6 +2,49 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-02-06-speech-and-voice-recognition-market-is-booming-worldwide-including-104-pages-report.md",
+      "title": "Speech and Voice Recognition Market Is Booming Worldwide | Including 104 Pages Report",
+      "excerpt": "In 2023] The Global Speech and Voice Recognition Market Size (104 Report Pages) is estimated to be worth USD million",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-including-104-pages-report-2023-02-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-booming-worldwide-including-104-pages-report-2023-02-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T16:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-artificial-intelligence-ai-robots-market-size-related-to-time-and-cost-is-expected-to-grow-the-industry-in-upcoming-years-to-2029.md",
       "title": "Artificial Intelligence (AI) Robots Market Size Related To Time And Cost Is Expected To Grow The Industry In Upcoming Years To 2029",
       "excerpt": "In 2023] The Global Artificial Intelligence (AI) Robots Market Size (110 Report Pages) is estimated to be worth",
@@ -943,40 +986,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-an-interview-with-ai-what-chatgpt-says-about-itself.md",
-      "title": "An interview with AI: What ChatGPT says about itself",
-      "excerpt": "To find out how good ChatGPT really is — and if I'll have a job by this time next year — I decided to give it a test drive, attempting to get as close as possible to interviewing it in the way I would any other source.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/interview-ai-chatgpt-says-itself-135423708.html",
-      "originalUrl": "https://www.aol.com/finance/interview-ai-chatgpt-says-itself-135423708.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-05T07:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

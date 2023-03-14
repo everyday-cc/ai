@@ -2,6 +2,60 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-02-20-2-top-ai-stocks-ready-for-a-bull-run.md",
+      "title": "2 Top AI Stocks Ready for a Bull Run",
+      "excerpt": "Nvidia announced in November that it was teaming up with Microsoft to build a massive cloud AI computer, a multiyear partnership that will take advantage of Microsoft's Azure cloud infrastructure and Nvidia's GPUs. The move should help ensure that Nvidia ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/02/19/2-top-ai-stocks-ready-for-a-bull-run/",
+      "originalUrl": "https://www.fool.com/investing/2023/02/19/2-top-ai-stocks-ready-for-a-bull-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/721046/artificial-intelligence-investing-algorithms.jpg",
+          "width": 8660,
+          "height": 5773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-19T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-02-19-cloud-ai-developer-services-market-set-for-huge-industry-growth-by-2026-reports-and-data.md",
       "title": "Cloud AI Developer Services Market Set for Huge Industry Growth by 2026| Reports and Data",
       "excerpt": "The “Cloud AI Developer Services market” has witnessed significant growth in recent years, and this trend is expected",
@@ -1140,48 +1194,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-18-chuck-todd-are-we-ready-for-a-potential-brave-new-world-of-ai.md",
-      "title": "Chuck Todd: 'Are we ready for a potential brave new world of AI?'",
-      "excerpt": "Lawmakers raise concerns over the spread of unregulated artificial intelligence, which can lead to false narratives and misinformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/chuck-todd-are-we-ready-for-a-potential-brave-new-world-of-ai-163587653890",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/chuck-todd-are-we-ready-for-a-potential-brave-new-world-of-ai-163587653890",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_02/1676669539349_now_mtp_clip_a1_20230217_1920x1080-sl7r74.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo163587653890",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo163587653890",
-      "publishedDateTime": "2023-02-17T13:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

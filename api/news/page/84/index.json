@@ -2,6 +2,60 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2023-01-05-healthcare-ai-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028.md",
+      "title": "Healthcare AI Market 2023 : SWOT Analysis by Players Continues Explosive Growth by 2028",
+      "excerpt": "Pages Report] Rising demand for Medical Devices & Consumables Industry will drive the Healthcare AI segment growth over the next five years. Global Market Analysis for Health",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028-2023-01-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-2023-swot-analysis-by-players-continues-explosive-growth-by-2028-2023-01-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-04T23:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-machine-learning-framework-market-2023-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028.md",
       "title": "Machine Learning Framework Market 2023: Global Trends, Size, Segments, Forces Analysis, Revenue, Challenges and Growth Forecast to 2028",
       "excerpt": "Global Machine Learning Framework Market report gives comprehensive insights into market size, share, growth trends",
@@ -1083,49 +1137,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-new-concerns-that-artificial-intelligence-spreads-misinformation-on-facebook.md",
-      "title": "New Concerns That Artificial Intelligence Spreads Misinformation On Facebook",
-      "excerpt": "Of particular concern is how Facebook uses artificial intelligence - or A.I. for short - and how the technology may be helping spread misinformation online. Reporter Karen Hao has a new article about this at MIT Technology Review, \"How Facebook Got ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wgbh.org/news/local-news/2021/03/19/new-concerns-that-artificial-intelligence-spreads-misinformation-on-facebook",
-      "originalUrl": "https://www.wgbh.org/news/local-news/2021/03/19/new-concerns-that-artificial-intelligence-spreads-misinformation-on-facebook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgbh.brightspotcdn.com/dims4/default/6a83703/2147483647/strip/true/crop/800x400+0+0/resize/800x400!/quality/70/?url=http%3A%2F%2Fcdn-news.wgbh.org%2Fs3fs-public%2Fzuckerberg3_ap_18100671532419_websize.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGBH",
-        "domain": "wgbh.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-02-07-google-unveils-conversational-ai-service-bard.md",
+      "title": "Google Unveils Conversational AI Service Bard",
+      "excerpt": "Tech major Google, owned by Alphabet Inc., has unveiled a new chatbot tool called Bard. The experimental conversational artificial",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/google-unveils-conversational-ai-service-bard-1032073920",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/google-unveils-conversational-ai-service-bard-1032073920",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-microsoft-and-google-are-about-to-open-an-ai-battle.md",
       "title": "Microsoft and Google are about to Open an AI battle",
       "excerpt": "Intel is also planning to bring AI capabilities to PC with its Meteor Lake processors. Microsoft is also hard at work on Azure OpenAI, its service that allows businesses to integrate tools like DALL-E into their own cloud apps. Microsoft has promised ...",
@@ -918,40 +961,6 @@
       "provider": {
         "name": "Scientific American",
         "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-francisconomics-reflections-on-pope-francis-hands-off-africa-speech-in-the-democratic-republic-of-congo.md",
-      "title": "FRANCISCONOMICS: Reflections on Pope Francis’ ‘Hands Off Africa’ Speech in the Democratic Republic of Congo",
-      "excerpt": "To this end, I am sure there will be no shortages of events and reflections focusing on the United States and the African Diaspora. But since black history begins with Africa and BHM is also an opportunity to reconnect with and increase our understanding of the mother land and “the Cradle of Humanity,",
-      "sourceUrl": null,
-      "webUrl": "https://afro.com/francisconomics-reflections-on-pope-francis-hands-off-africa-speech-in-the-democratic-republic-of-congo/",
-      "originalUrl": "https://afro.com/francisconomics-reflections-on-pope-francis-hands-off-africa-speech-in-the-democratic-republic-of-congo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Afro",
-        "domain": "afro.com",
         "images": null,
         "publishers": null,
         "authors": null

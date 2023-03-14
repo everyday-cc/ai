@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-13T20:35:00Z
 originalUrl: "https://www.bnamericas.com/en/news/tim-ibm-humanize-the-voice-of-a-virtual-assistant-with-artificial-intelligence"
 webUrl: "https://www.bnamericas.com/en/news/tim-ibm-humanize-the-voice-of-a-virtual-assistant-with-artificial-intelligence"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - IBM AI
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://www.bnamericas.com/assets/img/opengraphbna.jpg"
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jig8fToSl+oPakfAE3fnaNsgJZwc3+FzUFdsZvb7zhdzHJYjci6SP1hyCGpCmPjE9dD2DeIeYX+9X+sxmu5ahsiJOs/0pCNPonBFLux3Xcjg8Tg6KBfZ9UxAJ6Q8YOJ0GKt1JNjaMxmOhpCdgW23UqVFNA4GDyRZ3hZo8vEyZUk6HO7MFNpdJU6JU0VqP6F9FVyRgN8SzQH5so9PL+Ns44+y8wE3oddBagqzsI8HQaN465kDQHW9DYWc9SJAP3F/RMRZIJ01UW0j9WWpTVy+tmR4V6rXsKwDOjfoGkcGYXr73s9QRArkoUV7Ugkj3EWPbk1spaIwNi6gG/gK9IgcAULMybfxbapjSBK12/kNR18=;tuXk54MsJ4J3kCEBcKzHtQ=="
+secured: "G5zIm0AmdZ7/5h/cdDlxW5Ys58mU77McqJT4qu95IlQTHvDe1pWzA3z22ZZybvih5AYhrktoogk5jQCutHQ9xw+R7zwZ0bw1i4Zw2l2WaIB5RkFDoZm5IwbcQUMJbTzvDax36UA0jve1Fb1nZeG8V3ao23DQtbBdFX7Y7hAxjywdi08Cs03poACv97XjjsOXdHVgav/uXpSP8AhIkKT+/0runGhih21gMrd2R7dz7UZWhz0iqmdMCYRVO1tFH2oPkf8NtjWiYeRfnumhh78qWv3YOsKlgehpAG80UG9pzhCbOxSIySuwR7H3+dBhpvmw9Gbh4uMlGOkZB+GLgUCV1Nvi5WWviAWayEiK4i2oEANIcGebp/aAlWL5Z0WT/MpaTo2u6TONshGBVbkCNHMHSRcKTotk2tgKTOF0phecS8/aSbqzN8Mk5mtiGyIkEWTnxYABnj2aRnAF34z7aPkpKMoJ8OpFtJCUysalcPRCMnT2fpNjNOjP9zZqRuALEeVMWY9hSSEaaDuf4yJrYyUT2Q==;is3x3vnLEIOQUkFXx/71uA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-02-24-meta-to-launch-ai-language-model-llama.md",
+      "title": "Meta to launch AI language model LLaMA",
+      "excerpt": "REUTERS/Dado Ruvic/Illustration/File Photo Feb 24 (Reuters) - Meta Platforms Inc (META.O) said on Friday it will release a new AI large language model called LLaMA designed to generate text, conversations and summarize written material.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
+      "originalUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/fJBJrVyXjYaAylhHFyAuMY-sz8Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SC4LDVC3ZMXJIUUQDZRBHPHU4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-24T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-24-dont-worry-about-ai-breaking-out-of-its-boxworry-about-us-breaking-in.md",
       "title": "Don’t worry about AI breaking out of its box—worry about us breaking in",
       "excerpt": "No AI researcher of substance has suggested that Sydney is within light years of being sentient. But transcripts like this unabridged readout of a two-hour interaction with Kevin Roose of the New York Times,",
@@ -1153,58 +1205,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-23-the-case-for-software-criticism.md",
-      "title": "The Case for Software Criticism",
-      "excerpt": "Software may be the defining cultural artifact of our time. So why isn’t there a culture of critical analysis around it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/software-criticism/",
-      "originalUrl": "https://www.wired.com/story/software-criticism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63f6c2ced35154c5a1727fc0/master/pass/ideas_software_criticism_programming_culture.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/software-criticism/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/software-criticism/amp",
-      "publishedDateTime": "2023-02-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

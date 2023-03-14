@@ -2,6 +2,58 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2023-01-25-biomedical-research-platform-terra-now-available-on-microsoft-azure.md",
+      "title": "Biomedical Research Platform Terra Now Available on Microsoft Azure",
+      "excerpt": "We stand at the threshold of a new era of precision medicine, where health and life sciences data hold the potential to dramatically propel and expand our understanding and treatment of human disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/research/blog/biomedical-research-platform-terra-now-available-on-microsoft-azure/",
+      "originalUrl": "https://www.microsoft.com/en-us/research/blog/biomedical-research-platform-terra-now-available-on-microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2023/01/Terra_TW_LI_FB_with_logo_1200x627.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-25T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-25-alphabet-owned-deepmind-ai-to-shut-office-in-canada-lay-off-employees-in-uk.md",
       "title": "Alphabet-owned DeepMind AI to shut office in Canada, lay off employees in UK",
       "excerpt": "​“DeepMind has made the difficult decision to consolidate its Canadian offices and close the Edmonton office, while maintaining its other Canadian loc",
@@ -1098,58 +1150,6 @@
         "AWS AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029.md",
-      "title": "AI In Medical Imaging Market is Set to Grow in forecast period 2029",
-      "excerpt": "What are the Key Industry Development in AI In Medical Imaging Market? The AI In Medical Imaging market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of %, this market is estimated to reach USD million in 2029.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029-2023-01-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-is-set-to-grow-in-forecast-period-2029-2023-01-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-24T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

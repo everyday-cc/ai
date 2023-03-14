@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-03-06-deep-machine-learning-corrects-neutron-gamma-ray-logs.md",
+      "title": "Deep machine learning corrects neutron, gamma ray logs",
+      "excerpt": "Based on “Deep Learning for Multiwell Automatic Log Correction,” presented at SPWLA Annual Logging Symposium, Stavanger, June 11-15, 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ogj.com/general-interest/article/14290805/deep-machine-learning-corrects-neutron-gamma-ray-logs",
+      "originalUrl": "https://www.ogj.com/general-interest/article/14290805/deep-machine-learning-corrects-neutron-gamma-ray-logs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oil",
+        "domain": "ogj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-drones-and-deep-learning-researchers-develop-a-new-technique-to-quantify-rice-production.md",
       "title": "Drones and deep learning: Researchers develop a new technique to quantify rice production",
       "excerpt": "These images are then processed using a deep learning network that we have developed, called RiceNet, which can accurately identify the density of rice plants in the field, as well as provide ...",
@@ -1094,58 +1128,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-can-facebooks-ai-dream-resolve-its-revenue-nightmare.md",
-      "title": "Can Facebook’s AI Dream Resolve Its Revenue Nightmare?",
-      "excerpt": "Facebook owner Meta is setting up a new “generative AI” product group as it strives to claw back revenues. Can its AI dream resolve its privacy nightmare?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/",
-      "originalUrl": "https://www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61163cbb75226aecbb0e94e9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2023/03/03/can-facebooks-ai-dream-resolve-its-revenue-nightmare/amp/",
-      "publishedDateTime": "2023-03-03T06:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

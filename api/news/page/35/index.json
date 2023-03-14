@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-02-08-first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.md",
+      "title": "First on CNBC: CNBC Transcript: Microsoft CEO Satya Nadella Speaks with CNBC’s Jon Fortt on “Power Lunch” Today",
+      "excerpt": "Microsoft is a global company ... We wouldn't even have all of the Azure Cognitive Services if it was not for what was applied AI. So I would say of course, I want more pace. And what you're seeing I guess this year in particular, is what we've been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
+      "originalUrl": "https://www.cnbc.com/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/02/07/first-on-cnbc-cnbc-transcript-microsoft-ceo-satya-nadella-speaks-with-cnbcs-jon-fortt-on-power-lunch-today.html",
+      "publishedDateTime": "2023-02-07T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-google-is-notifying-canadian-employees-impacted-by-12000-job-cuts-announced-last-month.md",
       "title": "Google is notifying Canadian employees impacted by 12,000 job cuts announced last month",
       "excerpt": "According to a report in CRN, Autodesk, which had more than 12,600 employees (as last reported) with $4.39 billion in revenue in its last fiscal year, \"continues to DeepMind AI to shut Canada ...",
@@ -951,49 +1003,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-google-unveils-conversational-ai-service-bard.md",
-      "title": "Google Unveils Conversational AI Service Bard",
-      "excerpt": "Tech major Google, owned by Alphabet Inc., has unveiled a new chatbot tool called Bard. The experimental conversational artificial",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/google-unveils-conversational-ai-service-bard-1032073920",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/google-unveils-conversational-ai-service-bard-1032073920",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

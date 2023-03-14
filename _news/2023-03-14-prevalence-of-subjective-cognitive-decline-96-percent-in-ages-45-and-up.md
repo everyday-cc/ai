@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Prevalence of Subjective Cognitive Decline 9.6 Percent in Ages 45 and Up"
-excerpt: "The age-adjusted prevalence of subjective cognitive decline (SCD) is 9.6 percent among adults aged 45 years and older, according to research published in"
+excerpt: "MONDAY, March 13, 2023 (HealthDay News) -- The age-adjusted prevalence of subjective cognitive decline (SCD) is 9.6 percent among adults aged 45 years and older, according to research published in the March 10 issue of the U.S. Centers for Disease Control ..."
 publishedDateTime: 2023-03-13T21:39:00Z
-originalUrl: "https://bismarcktribune.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_108664f8-44b1-5427-bdaf-e4a478f5188a.html"
-webUrl: "https://bismarcktribune.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_108664f8-44b1-5427-bdaf-e4a478f5188a.html"
+originalUrl: "https://missoulian.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_a66a30cb-6d54-5dce-b52a-dd9b38a14845.html"
+webUrl: "https://missoulian.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_a66a30cb-6d54-5dce-b52a-dd9b38a14845.html"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: The Bismarck Tribune
-  domain: bismarcktribune.com
+  name: Missoulian
+  domain: missoulian.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/b/8e/b8ed1ba4-ed79-56ec-949b-0b12e56441a7/640fb0da03e3c.image.jpg?crop=600%2C315%2C0%2C62&resize=600%2C315&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/e/cb/ecb322fc-41da-5584-bec0-c0eff4802ecd/640fb2f9f3f8f.image.jpg?crop=600%2C315%2C0%2C62&resize=600%2C315&order=crop%2Cresize"
     width: 600
     height: 315
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 630
         isCached: true
 
-secured: "psTJ0jEBc9o/0cEChPmoR/QIaGXIVHT36qdPFr8qJ1mz+7d0f0J+uXXzhYittw7dn1zfha/ncr+ER1mbAUbGmMY7rIq18P6tyS2Zl7kist8QrWp0teEC8icmAWq8AYW7O32HhgnVT9vy6uuUa56ADhmM64m2JnCs7MSKG3HT9zJ2nKKUSWFydpdRvxaHTEV1A2dQ7vgOgSyOZq9lZ4q48wsIU/yQXdJX7SoLmOCXJL7RtP/5Rtm9ZGnnyL/Mn4fMf7I7bzXnRkAc0pLpgvTatGrKCB1KfUsnUDtamVGBFzdxImJ5WqEEprB8nIDf0uomLGK1+bbkib6VdK5k/ktJDAn2JEmiR6BZ+45jt2ceYa0=;/DCAzGR3KcY/NY6Ubo6EQw=="
+secured: "8MiNqbz15Ep0LFzFSlCadAJVoKdcWMCbkgC7t9dhsbU0d5wvj7FBDqo2PP2uNrR2KnsPeKoZCaARYY24CXb5tiBNX9jw8aq7dhMTUdlJ3hRIpgwA6mX9TTYjPGngqKYfKH7ocoDqd9FkBJyb+wdxaFgG/0oziqev8LnfUKUFKDrCuU+rfdDuhNMPW64ix/g9U/eEgSdriD3x6lP7S8C7LkYNmGAiUrfv+S3/XATjHx4rSN9jhCS5sIv1wJOJTBoKqS0s58Dq8Og6/yF0UKglQ071SNoerX0c1rFjAQI09tfmDckIzgm+dvoeX1B7xEGjx7rWsatOjKveDRnynKUKr2/ca9jbWLccj5wCPwADOk4=;k3W/NdJk3LWpIrr/M+Gzww=="
 ---
 

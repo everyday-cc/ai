@@ -68,20 +68,6 @@ related:
         width: 1536
         height: 1024
         isCached: true
-  - title: "Lost In Translation: Harnessing AI For International Efficiency."
-    excerpt: "Harnessing AI For International Efficiency. Legal News and Analysis - Africa/Middle East, Asia Pacific, Europe, North America, Offshore - Telecommunications, Media & Technology -"
-    publishedDateTime: 2023-03-09T14:46:00Z
-    webUrl: "https://conventuslaw.com/report/lost-in-translation-harnessing-ai-for-international-efficiency/"
-    type: article
-    provider:
-      name: Conventus Law
-      domain: conventuslaw.com
-    quality: 39
-    images:
-      - url: "https://conventuslaw.com/wp-content/uploads/2022/09/Hightech.png"
-        width: 871
-        height: 581
-        isCached: true
 
 secured: "RXiSu0p97b2/xUgfcjgeY+WgqfJnQuFdKyX7kp/a2fj0cjvIptj9CJ+irKviBsAyKTJmW8KkIw1t/IbYi0rXFR1yBUYgiRzCerVfZfhT60yKhEpvTA5xIaBhkEdO53sEY+nSw97izXOHCDtxKFkXg2Caf90rcomGupzk3mb0zuUPxLkQVUmiWAYPhdiBVksaqboDzSvmM4NZnQbitWh0SLZ9s7lIowqCjDo/z/rhVgA5BFZ73ym07cagmRl9jHBKGR3h8W8GZXEgQ1ahZVrOREX/avilO3wOBYWb14ublOebB1CRDqVWqIgdFerNARWkGGqLttkVirSY0b4veUHdHfw83GkmaY1JpBzr12CajAZQ92ldcFpgGN2iTC3xVH7RbQCw5UiYNZr9MN22eNzFjStSAD4EZm+hMfkxzEhXYQsnoaqL7l34EGjy5sJ5RExc7RyuqNDZJah9fV3jP6c+Fx5SGdi2ajx6UMfjOLOwsQXLzi1O7Z4wDd9+8Tp+8Kua1+qxN+TF28PdxP2W+9nzFQ==;RBSxG3c6fJC3G+riFbzaeg=="
 ---

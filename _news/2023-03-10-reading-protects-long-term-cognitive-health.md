@@ -42,16 +42,16 @@ related:
         height: 800
         isCached: true
   - title: "Prevalence of Subjective Cognitive Decline 9.6 Percent in Ages 45 and Up"
-    excerpt: "The age-adjusted prevalence of subjective cognitive decline (SCD) is 9.6 percent among adults aged 45 years and older, according to research published in"
+    excerpt: "MONDAY, March 13, 2023 (HealthDay News) -- The age-adjusted prevalence of subjective cognitive decline (SCD) is 9.6 percent among adults aged 45 years and older, according to research published in the March 10 issue of the U.S. Centers for Disease Control ..."
     publishedDateTime: 2023-03-13T21:39:00Z
-    webUrl: "https://bismarcktribune.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_108664f8-44b1-5427-bdaf-e4a478f5188a.html"
+    webUrl: "https://missoulian.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_a66a30cb-6d54-5dce-b52a-dd9b38a14845.html"
     type: article
     provider:
-      name: The Bismarck Tribune
-      domain: bismarcktribune.com
+      name: Missoulian
+      domain: missoulian.com
     quality: 23
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/b/8e/b8ed1ba4-ed79-56ec-949b-0b12e56441a7/640fb0da03e3c.image.jpg?crop=600%2C315%2C0%2C62&resize=600%2C315&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/e/cb/ecb322fc-41da-5584-bec0-c0eff4802ecd/640fb2f9f3f8f.image.jpg?crop=600%2C315%2C0%2C62&resize=600%2C315&order=crop%2Cresize"
         width: 600
         height: 315
         isCached: true
