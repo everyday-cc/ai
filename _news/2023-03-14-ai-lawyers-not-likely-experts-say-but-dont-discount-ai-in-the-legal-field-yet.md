@@ -1,0 +1,20 @@
+---
+category: news
+title: "AI lawyers? Not likely, experts say. But don't discount AI in the legal field yet"
+excerpt: "While courtrooms are unlikely to see AI-powered judges or lawyers any time soon, the technology already has plenty of practical applications throughout the legal field."
+publishedDateTime: 2023-03-14T11:21:00Z
+originalUrl: "https://www.ksl.com/article/50597536/ai-lawyers-not-likely-experts-say-but-dont-discount-ai-in-the-legal-field-yet"
+webUrl: "https://www.ksl.com/article/50597536/ai-lawyers-not-likely-experts-say-but-dont-discount-ai-in-the-legal-field-yet"
+type: article
+
+provider:
+  name: KSL
+  domain: ksl.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+secured: "m8qwqzpfvg32d6Vv2SU7OKioGVmvvwdJxyQ9qCoJpn/l07Use4Y/J5GepYuYaUHKAiA65+wj7E9t1GYj3RgX2Cfwutwe9B8ZvQ2cgdDsDodd1UwkoNjx3Wh6LRZkiyv3+hWtbfNtdCk7Jyzx7SZUIPCW6GYO63uO3xyFPzZ/VNvKYtMxwmFG/e4s2Dtf626hz4j/wPh3wr8/qyJqipy+ohpF4VKPExztgw/3Y4jmha2pEgcqDdnKSqOHE9uLxcdnr/1vq2HwUQW2KcJmDYdo6MIb7juLj4fCXupt+9zfGAQo0EVUyoP6kxTmsO606mc3kS7z+O1+xkhDGjz3QCYLcxBRwg4qZMnBgECUezAcL6onvMVBkkdSvQi84LExUCM7AjzUCNup9gdeBSoEKxMacEYjsZ3g/XNaO3lSBjQ6ff+HyXlpO62z6LGb/QH0hwJ/79pQZjVdBbdOOd8Z/gk/cOjHb+P+Jvaku/gQR/Aye7ktoRkrHJIUR1nJlMFZ2zidnoE0Yo/jTW16kOP+KT0fww==;idATR6G07Q2SXsJ7UGWAAQ=="
+---
+
