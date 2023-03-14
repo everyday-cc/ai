@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/new-survey-on-artificial
 webUrl: "https://www.marketwatch.com/press-release/new-survey-on-artificial-intelligence-platform-market-augmented-expansion-to-be-registered-by-2023-2028-2023-03-11"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Global \"Artificial Intelligence (Chipsets) Market\" Size and Growing Regions 2023 | Latest Opportunities and Threats Analysis by Top Players"
+    excerpt: "Global “Artificial Intelligence (Chipsets) Market” [Latest Research Report 98 Pages] 2023 is a vital resource for"
+    publishedDateTime: 2023-03-13T11:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chipsets-market-size-and-growing-regions-2023-latest-opportunities-and-threats-analysis-by-top-players-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "GPfQzLMl69/RT2Oopnk+feYW8+FB8TscErOCoZQxfIdxcbbUMqOrvLt6MGO5RsiA+eOIK9Jf2w/D+NT/gbmAuUo5i61xVNKs+3cXdLhyeJQC//s9tvsD055D69X3H7NDhbBhAjlN2SOzQyD2dGiAWNBmnXsTe/1If4RZ6U5XDHLupfHo+8XNTDvNHq6wvNuhh3cZQ5DMrlpGmOjlW/zTR3yBVUZVWKJvo2Ipwzavb87tV7ennpbmxKg4Sc2QCjIG1SfNOGatKzg4VoQvHc2KfR3LvrskkZDTt9Rl0ynFie4ZjFay9eCg2FQ+0vNMHdLsOTOESRtiGz0GGbXlPaSR1+ofIiQVzYza9dEHjR393ZE=;EYlCyBUzm2fc8Mx09OoUTQ=="
 ---

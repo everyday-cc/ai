@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "AI could forever change our lives, tech experts warn. And it could happen in months"
-    excerpt: "Roughly one in 10 AI researchers said the technology could lead to the extinction of the human race or its severe “disempowerment,” according to a 2022 survey by Oxford University and the Machine Intelligence Research Center, Klein noted. One in 10."
-    publishedDateTime: 2023-03-13T21:47:00Z
-    webUrl: "https://www.freep.com/story/opinion/op-ed/philboas/2023/03/13/ai-artificial-intelligence-could-change-lives-within-months-experts-warn/70003280007/"
+    excerpt: "Artificial intelligence may be the most disruptive technology advancement in history. And it could change our lives a lot faster than we think."
+    publishedDateTime: 2023-03-13T22:52:00Z
+    webUrl: "https://www.tennessean.com/story/opinion/op-ed/philboas/2023/03/13/ai-artificial-intelligence-could-change-lives-within-months-experts-warn/70003280007/"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Tennessean
+      domain: tennessean.com
     quality: 33
     images:
       - url: "https://www.gannett-cdn.com/-mm-/c7201397a094fbdc20cb6571e2b996028ab9cc4f/c=0-197-2998-1891/local/-/media/2016/02/26/Phoenix/Phoenix/635920942838350949-GettyImages-512414892.jpg?auto=webp&format=pjpg&width=1200"

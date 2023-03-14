@@ -281,6 +281,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Playground reveals to launch Friendify GPT Chatbot using ChatGPT-3 Open AI"
+    excerpt: "Friendify GPT, an intelligent interactive chatbot powered by artificial intelligence (AI), will be released by Playground. This is the first step in Playground’s path to develop and bring AI technology closer to everyone in order to bridge the technological divide."
+    publishedDateTime: 2023-03-14T00:59:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3313280"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 37
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/03/Friendify_s_ultimate_goal_create_ground_breaking_products_utilize_power_AI_improve.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "‘Artificial intelligence without great data is just artificial’: Generative AI that predicts what and how we eat unveiled"
     excerpt: "Tastewise already incorporates generative AI to help users at companies such as Nestlé, Campbell’s, Mars, Givaudan and PepsiCo, discover dish concepts, validate new product ideas, and generate market research reports. The AI-powered market intelligence ..."
     publishedDateTime: 2023-03-13T10:22:00Z

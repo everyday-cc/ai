@@ -296,6 +296,20 @@ related:
         width: 1440
         height: 915
         isCached: true
+  - title: "Playground reveals to launch Friendify GPT Chatbot using ChatGPT-3 Open AI"
+    excerpt: "Friendify GPT, an intelligent interactive chatbot powered by artificial intelligence (AI), will be released by Playground. This is the first step in Playground’s path to develop and bring AI technology closer to everyone in order to bridge the technological divide."
+    publishedDateTime: 2023-03-14T00:59:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3313280"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 37
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/03/Friendify_s_ultimate_goal_create_ground_breaking_products_utilize_power_AI_improve.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "GM May Introduce ChatGPT AI Assistant Into Its Vehicles"
     excerpt: "While recently speaking with Reuters, GM vice president Scott Miller said that ChatGPT could be used to access information on how to use important vehicle features ordinarily found in an owner’s manual."
     publishedDateTime: 2023-03-13T13:02:00Z

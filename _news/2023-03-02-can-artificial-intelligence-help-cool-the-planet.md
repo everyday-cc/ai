@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.thenation.com/wp-content/uploads/2023/02/cover0306.jpg"

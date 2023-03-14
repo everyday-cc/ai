@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Microsoft strung together tens of thousands of chips in a pricey supercomputer for OpenAI"
-excerpt: "When Microsoft invested $1 billion in OpenAI in 2019, it agreed to build a massive, cutting-edge supercomputer for the artificial intelligence research start-up. The only problem: Microsoft didn't have anything like what OpenAI needed and wasn't totally sure it could build something that big in its Azure cloud service without it breaking."
-publishedDateTime: 2023-03-13T20:17:00Z
-originalUrl: "https://www.spokesman.com/stories/2023/mar/13/microsoft-strung-together-tens-of-thousands-of-chi/"
-webUrl: "https://www.spokesman.com/stories/2023/mar/13/microsoft-strung-together-tens-of-thousands-of-chi/"
+title: "Microsoft Strung Together Tens of Thousands of Chips in a Pricey Supercomputer for OpenAI"
+excerpt: "When Microsoft Corp. invested $1 billion in OpenAI in 2019, it agreed to build a massive, cutting-edge supercomputer for the artificial intelligence research startup. The only pro"
+publishedDateTime: 2023-03-14T01:43:00Z
+originalUrl: "https://tech.hindustantimes.com/tech/news/microsoft-strung-together-tens-of-thousands-of-chips-in-a-pricey-supercomputer-for-openai-71678733079078.html"
+webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-strung-together-tens-of-thousands-of-chips-in-a-pricey-supercomputer-for-openai-71678733079078.html"
+ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-strung-together-tens-of-thousands-of-chips-in-a-pricey-supercomputer-for-openai-71678733079078.html"
+cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-strung-together-tens-of-thousands-of-chips-in-a-pricey-supercomputer-for-openai-71678733079078.html"
 type: article
-quality: 62
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: The Spokesman-Review
-  domain: spokesman.com
+  name: Hindustan Times Tech
+  domain: hindustantimes.com
 
 topics:
   - AI Hardware
@@ -20,9 +22,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://thumb.spokesman.com/AP0lDD2FDYkF4SbwzfTNZWfFBMY=/1200x630/smart/media.spokesman.com/photos/2023/03/13/640f78bbefb0e.hires.jpg"
-    width: 1200
-    height: 630
+  - url: "https://images.hindustantimes.com/tech/img/2023/03/14/1600x900/Microsoft_1672984204326_1678758059588_1678758059588.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -194,6 +196,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft debuts new AI-optimized Azure instances"
+    excerpt: "Microsoft Corp. is extending its Azure cloud platform with the addition of a new instance family designed to run artificial intelligence models. The instance family, known as the ND H100 v5 series, made its debut today."
+    publishedDateTime: 2023-03-13T23:49:00Z
+    webUrl: "https://siliconangle.com/2023/03/13/microsoft-debuts-new-ai-optimized-azure-instances/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 71
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/building-1011876_1280.jpg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "ChatGPT is now available with Microsoft’s Azure OpenAI Service"
     excerpt: "Microsoft has announced that ChatGPT is now available in Azure OpenAI Service, enabling developers to integrate custom AI into their services."
     publishedDateTime: 2023-03-09T22:01:00Z
@@ -222,6 +238,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft spent hundreds of millions on Azure infrastructure to make ChatGPT happen"
+    excerpt: "Microsoft Corp. today revealed how it spent billions of dollars to enable OpenAI LLC to bring ChatGPT to life. The partnership between Microsoft and OpenAI has gotten a lot of attention recently. In January,"
+    publishedDateTime: 2023-03-14T00:26:00Z
+    webUrl: "https://siliconangle.com/2023/03/13/microsoft-spent-hundreds-millions-azure-infrastructure-make-chatgpt-happen/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/emiliano-vittoriosi-vEN1bsdSjxM-unsplash.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "Forget Chatgpt. Nvidia Is The Real AI Winner..."
     excerpt: "Ever since AI chatbot ChatGPT burst onto the scene in November, any stock even remotely related to AI has soared. Gates Capital Management's ECF Value Funds have a fantastic track record. The funds (full-name Excess Cash Flow Value Funds),"
     publishedDateTime: 2023-03-11T04:35:00Z
@@ -246,6 +276,6 @@ related:
       domain: techreport.com
     quality: 34
 
-secured: "bU4oMnQKol7pknDJ3ZyKOghSiwXH95P8t97HiznEr42iKrg6eb3sBrme26HF64OtFYenOQv5eS/JUSoBmlMUYkszCKHb8JPZbdCKQXqHzn7QCgeoygX25dq14jxvMaijpfCsVpf4IHeeujhOqc547cybyXRXTJVH7cu3OaPG3T4w3fdxVNGwO1ayunCnf1D3YALDxYrkiYm/cCH4YSqQ5FkWLy2Vju0M9lRt/jYunnzjfMrGtqafMLaSpe5EeChFkCkVAf5Fkv0lqcJeuF23rhY3bu4ZCKo6y7wgEe8CoETDFLjyq+4y50/rjZpZnuoVe7yvNXTAcdxRwykqVp/SG7OuTc+XslHrjtRKeW/kcsk=;X0ap9MBxcjd4GMx/ibggyQ=="
+secured: "QhPPoVHFpCRmolUQTzQ1JQdMYPXWpszFmFyVZRzE3B+iK6GzIo4B2cu1cn8/FZYjIKJiDy3yE4TpgZLnjokU4ygXVnxhk7jawRZRDR2D9+eRtJXsdD/OffpoqWrAnIcv4g6k1pzlSVpHkEjYXN6vM6wQkDlSN8lRa9oksePV4DeePEMLVpOATd1g34r0BZ2VYomivf9pvdZK1/84Nlkb5z9FxA6nlaQIHUqHf+vBJUrFYJ4toHYjU6USnLpON59HERYy0a8mHVR45t66nUKSoGKwBNQwQcJez9fXl3nms3YnQFfAMfZIikFCH7ivS700XJ4rRFHwH0Mp9AuHIKFGBbFPGE6CPxIEoGCCRx/ExMc=;nypPGP3hxq++ej585Rzt4A=="
 ---
 

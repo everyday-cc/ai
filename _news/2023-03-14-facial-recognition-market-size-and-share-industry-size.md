@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.presstelegram.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
         width: 1024
         height: 578
+        isCached: true
+  - title: "Voice Recognition Biometrics Market Growing Demand and Trends 2023 to 2029"
+    excerpt: "The \"Voice Recognition Biometrics Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-14T01:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-growing-demand-and-trends-2023-to-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Jharkhand university to use facial recognition-based attendance and here’s why we’re not happy"
     excerpt: "Jharkand University to mark employee and staff attendance using facial recognition software, raising concerns about privacy and surveillance."

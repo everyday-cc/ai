@@ -7,8 +7,8 @@ originalUrl: "https://financialit.net/news/open-banking/intellect-launches-emach
 webUrl: "https://financialit.net/news/open-banking/intellect-launches-emachai-worlds-largest-open-finance-platform-empower-banks"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Financial IT
@@ -33,6 +33,15 @@ related:
     provider:
       name: devdiscourse
       domain: devdiscourse.com
+    quality: 31
+  - title: "Intellect launches eMACH.ai for banks to use cloud services with embedded AI"
+    excerpt: "With 285 pre-built microservices available on the cloud, and access to 1,214 application programming interfaces (APIs) and 200 events, eMACH.ai enables financial institutions (FIs) to design the future of banks and FIs,"
+    publishedDateTime: 2023-03-14T00:06:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20230313/4049339.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 31
 
 secured: "Z8c87J5cC8ix0UlzO+ghnkYgZ4qeYEBKDtV1cPQWMuAri/3fZiSCdzxmvgAZOCj794/n3HWFtqd9X00PBccRbHy8RlUb4qCwBcwfSkHFp6usGubpgvhs0SC0M/B74mQZO9KETJnX5xGFzwskVs+QdK+Xh9xNLUF34MrhzUErtIdVNLCqFeqSHYR7RG1v/KBbhiPQ8VFWdJq+RR8JKpMXKaUuEfT3vScjRVuK7CUyvD/5l0L74c5OenvDHFBVLIRhyOS0O+bNxDGXAKt6xtKFVI9H9lXtjKUzCRg//EKxYFJIptUsGR5bWdUn5F3YbaaAoqswpIqwt7NtJ3RccDT0KXiji1d/vRn4LaKPJa2G6KY=;nQQOWjDmBE3ipIvxnQDikA=="

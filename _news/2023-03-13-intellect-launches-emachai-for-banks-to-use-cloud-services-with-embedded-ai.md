@@ -33,6 +33,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Intellect launches eMACH.ai for banks to use cloud services with embedded AI"
+    excerpt: "With 285 pre-built microservices available on the cloud, and access to 1,214 application programming interfaces (APIs) and 200 events, eMACH.ai enables financial institutions (FIs) to design the future of banks and FIs,"
+    publishedDateTime: 2023-03-14T00:06:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20230313/4049339.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 31
 
 secured: "MPIaGXhasMX0P++0C/uHdgoy4b0EkkzN8F9L4s88yqAGxgRfP1LNSD6gaBE3RhJAX9de5+drnecsAqTwV3V6aySU4ur3osEsUA+DdJFxFpwtpdmPAnq+hnfe/Cl6yuMhzameE955UlnqRSSMykOfReS/BLaCRvO2xQSbhJRVcjDdj2wWornbCaC1gYyvSa5APfEG49wQiZ7+DR1mjIFHNaGaqpnOFblCu7+Q/4+3SzvJiJlDQSR4SnUgV7s8as0TKBhqfTdRG4KvqARaQTlBappk3oZfjMFDbTqLBTPf11BV620ndDwMKApEG/EsX9ziIoLRyfOsIjKFib8ShDw8xqbTZlqkQVQm0hvPr+ittw0=;sSIzXeExquTpp3hBc07apA=="
 ---

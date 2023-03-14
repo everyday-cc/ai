@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AI could forever change our lives, tech experts warn. And it could happen in months"
-excerpt: "Roughly one in 10 AI researchers said the technology could lead to the extinction of the human race or its severe “disempowerment,” according to a 2022 survey by Oxford University and the Machine Intelligence Research Center, Klein noted. One in 10."
-publishedDateTime: 2023-03-13T21:47:00Z
-originalUrl: "https://www.freep.com/story/opinion/op-ed/philboas/2023/03/13/ai-artificial-intelligence-could-change-lives-within-months-experts-warn/70003280007/"
-webUrl: "https://www.freep.com/story/opinion/op-ed/philboas/2023/03/13/ai-artificial-intelligence-could-change-lives-within-months-experts-warn/70003280007/"
+excerpt: "Artificial intelligence may be the most disruptive technology advancement in history. And it could change our lives a lot faster than we think."
+publishedDateTime: 2023-03-13T22:52:00Z
+originalUrl: "https://www.tennessean.com/story/opinion/op-ed/philboas/2023/03/13/ai-artificial-intelligence-could-change-lives-within-months-experts-warn/70003280007/"
+webUrl: "https://www.tennessean.com/story/opinion/op-ed/philboas/2023/03/13/ai-artificial-intelligence-could-change-lives-within-months-experts-warn/70003280007/"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Tennessean
+  domain: tennessean.com
 
 topics:
   - Facebook AI
@@ -40,6 +40,6 @@ related:
         height: 678
         isCached: true
 
-secured: "sSIPUh/NEcF0KgH+vWouSCJCzfFuQy8ojCUy/xFpqz30rTRahlvQSFk8kS9K7IjsjwBOFizm4pkFv0yDPU5SqFC4jn1LtZNucCfUXWjypbg82OKVACl1eXyhMxrwSP3+BkNne5S2AzkQIk139+YnAxeNo8WkbpuJ3cpHeJ41X86g/h+4OQcloyo+FpHIxm2g9tavH/HTbhVMNSINVUcSrQgolCF9iLt9lLkW74L7Cv7C/SmB0PJiQFga9O50WNanoBXCkwRc9IAt+a10jPPsieETHIHSRCeMRp+uGE/gwZoQV9dqP37cu5f2wAkSMEBsijtz9EeE+y7oUOW46Z74aobsj55MJRiLV8zizXL0uVo=;AzuVxrCC3Y6ddfeFnXt0ig=="
+secured: "xJExjRBAbYcs5G66d5/E0EjZMVomWcTtGFaGi+onoASSFTzjBavrKMn3Df0veP4Wh5LYvz9DfYFI+phDiGBAlZJjKUE/xEa8WFPMWIJX2HBko3M8gAzjo07zeS6H+hG5vEXYggwZyVWO4DvnvsmbrLUEfKwOv8r+SFtx5h4IvFkJvriNVUMn2WlIaIe3q11a62+o0B7z9ws+IqS+19za/QSvLrzTeUNzvgrNNM3Fwk/49klatVQe7IM53Kp8/p3ORzAlTYeyoe4Grw6SR/WqHRfCQhvzlrwOYDhz6yDYApWm1bvrl8rPaffHBBMH3A/BneicYeASI6oGbgOVyYMpl/zm+B1HwsIrrsfK2nx7CJI=;42HVmWWahS6Ldj8TSZjTCg=="
 ---
 

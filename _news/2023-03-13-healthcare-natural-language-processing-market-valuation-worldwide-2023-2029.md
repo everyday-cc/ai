@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-natural-langu
 webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-valuation-worldwide-2023-2029-2023-03-12"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Communication Market is Booming in Near Future 2023-2029"
+    excerpt: "The \"Machine Learning in Communication Market\" study describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-14T00:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-is-booming-in-near-future-2023-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
