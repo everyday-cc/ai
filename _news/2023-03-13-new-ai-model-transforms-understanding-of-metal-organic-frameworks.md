@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Is AI the Perfect Ally to Complete Digital Transformation?"
-    excerpt: "Digital transformation has become an indispensable initiative by organizations in the form of a wide range of technologies like SaaS, IoT (Internet of Things), VR (Virtual Reality), ML (Machine Learning),"
-    publishedDateTime: 2023-03-09T21:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/is-ai-the-perfect-ally-to-complete-digital-transformation-2023-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How AI is Transforming Financial Services"
     excerpt: "AI is one of the most exciting technologies currently attracting many headlines due to recent developments and innovations. This branch of computer science aims to create programs capable of understanding data and carrying out human tasks."
     publishedDateTime: 2023-03-11T00:03:00Z
@@ -56,15 +42,36 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Accelerating AI deployment and scale with a transformative end-to-end AI platform"
-    excerpt: "AI delivers business value and a competitive advantage for enterprise, but how do you go from proof of concept to production AI at scale?"
-    publishedDateTime: 2023-03-10T20:27:00Z
-    webUrl: "https://venturebeat.com/ai/accelerating-ai-deployment-and-scale-with-a-transformative-end-to-end-ai-platform/"
+  - title: "How artificial intelligence is being used to detect breast cancer"
+    excerpt: "As AI touches seemingly everything, that includes breast cancer screening too. As the era of artificial intelligence, or AI, continues to expand, the groundbreaking technology is now being used as ..."
+    publishedDateTime: 2023-03-10T23:01:00Z
+    webUrl: "https://abcnews.go.com/GMA/Wellness/artificial-intelligence-ai-detect-breast-cancer/story?id=97767530"
+    ampWebUrl: "https://goodmorningamerica.com/amp/wellness/story/artificial-intelligence-ai-detect-breast-cancer-97767530"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/wellness/story/artificial-intelligence-ai-detect-breast-cancer-97767530"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 42
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/GMA/mammogram-gty-bb-230310_1678465544244_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Kreditbee teams with Digitap.AI to enhance its underwriting service"
+    excerpt: "Digitap.AI, a bootstrapped alternate data based risk management solutions provider today announced its partnership with KreditBee, one of India’s leading fintech platforms, to offer its services for strengthening the fintech’s underwriting process."
+    publishedDateTime: 2023-03-10T10:05:00Z
+    webUrl: "https://www.finextra.com/pressarticle/96069/kreditbee-teams-with-digitapai-to-enhance-its-underwriting-service"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "2Q9IcHKdxMn6KcAwJJip8Ct1nc1VMLj0Yf0+5MDjT8Kwpfw77k0usJjmAgZy6LOYLpREKPguk8k3ZAkfBLSX53WQJ8+2UuS+SCqbl+t2sqcFiATwBNRuVQgTuXeL/ucXpNinTjRzYGg8l57N2FW++23WpduR6WHJafLvwTGotpDNlYU38GKsCmggCCSAvlCOWXo6x+mQq/6jxmJY4RLFstoYs/Qospecub9u8sxXmeCkCWTjfU9H4brZ0hu9s4Lspqlmd7JFzqk8I6bKyJPxZfI/CjlXECQrihVaCevEd2cr88xxjdylWSPxUjWuP8zcrN2Y657N9bfckDWd/u/X9rdnt75iQ1JAkUOM2bWiLo1SYqGaaKBleL5zSLbuxPbSW+vN/gxfeHS1jr3Yd7g2k4lJ63T+iwlNyGoLlyVpMQUf3TrpKMyTdkc+XFILMoOPgL3c1aomCSdAcbmEPJyHLg+iOj8T+Tphj8y2Pqm6Lt4oLvTu8ts3fZqdo27eMfr1q7h4/U6nFFEzBsXemJs0xg==;ctwLuKrKkmGcH2Ty/LV9Nw=="
 ---

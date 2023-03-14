@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T10:28:00Z
 originalUrl: "https://www.vanguardngr.com/2023/03/robot-lawyer-sued-for-practising-without-license-in-us/"
 webUrl: "https://www.vanguardngr.com/2023/03/robot-lawyer-sued-for-practising-without-license-in-us/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Vanguard

@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/kenrickcai/2023/03/14/adept-ai-startup-raises-350-million-series-b/"
 webUrl: "https://www.forbes.com/sites/kenrickcai/2023/03/14/adept-ai-startup-raises-350-million-series-b/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Forbes

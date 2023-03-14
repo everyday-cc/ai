@@ -7,7 +7,7 @@ originalUrl: "https://www.irishtimes.com/culture/stage/review/2023/03/14/pl-ai-a
 webUrl: "https://www.irishtimes.com/culture/stage/review/2023/03/14/pl-ai-at-the-intersection-of-experimental-theatre-and-artificial-intelligence/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -24,37 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI be a therapist? How new tech is aiding the mental health-care system"
-    excerpt: "Artificial intelligence is increasingly being incorporated into people's daily lives, including in mental health care in Canada. Many telehealth companies are using AI to give personalized health care to patients,"
-    publishedDateTime: 2023-03-12T12:00:00Z
-    webUrl: "https://www.ctvnews.ca/health/can-ai-be-a-therapist-how-new-tech-is-aiding-the-mental-health-care-system-1.6304944"
-    ampWebUrl: "https://beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
+  - title: "A Cheat Sheet to AI Buzzwords and Their Meanings"
+    excerpt: "Natural Language Processing is a branch of AI that helps computers to understand, process and generate speech and text the way a human would. NLP relies on machine-learning algorithms to extract data from written text, translate languages, recognize ..."
+    publishedDateTime: 2023-03-10T13:11:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/03/10/glossary-of-ai-terms-meaning-of-gpt-openai-machine-learning-chatbots/3c8a59d8-bf44-11ed-9350-7c5fccd598ad_story.html"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 59
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
     images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/12/1_6304950.jpg"
-        width: 960
-        height: 539
-        isCached: true
-  - title: "How a Toronto-made AI therapist could bridge the gap in Canada’s mental health-care system"
-    excerpt: "Artificial intelligence is increasingly being incorporated into people's daily lives, including in mental health care in Canada. Many telehealth companies are using AI to give personalized health care to patients,"
-    publishedDateTime: 2023-03-12T12:00:00Z
-    webUrl: "https://www.ctvnews.ca/health/how-a-toronto-made-ai-therapist-could-bridge-the-gap-in-canada-s-mental-health-care-system-1.6304944"
-    ampWebUrl: "https://beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 49
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/12/1_6304950.jpg"
-        width: 960
-        height: 539
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HPZTF3F7IQI63E2QPRP4ZVMYVU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "+f7ab06Rb08c0JCR2DH/zoHdtrdnzLLVEhPwxDw92gS2lXyt57Dyz0Wjec9H98r/X0TDnM11DCNVqV1YAfIOfHFnHAqh6IGJ89EavYPoxx270xlVzoWL8X5ibqhqis4Cd69047bah5fRlb89H72KZ2CEcMVuoZ7pwNXe0mPPdS4W5uFhr5icj59iCm6Nf1ugEQobV5CcgHlLGl9bCwo1PPvXvthPjo5W6oKAyka6SZWTR2un4q5nx5z89El1bGVR/jiPFiLGpaYNNr6iIecdJEVIT+48P3XQ12abNTWJRND91dgHNHiEkYRhtWZNj8URHBLnR9lfvWFU4ipQ4W/X/koU3YZCm4GOQto9PIJNWvs=;eWfdbRYtLw4dS+Dr//gEew=="

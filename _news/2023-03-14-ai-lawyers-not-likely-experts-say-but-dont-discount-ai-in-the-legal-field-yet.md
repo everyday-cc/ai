@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T11:21:00Z
 originalUrl: "https://www.ksl.com/article/50597536/ai-lawyers-not-likely-experts-say-but-dont-discount-ai-in-the-legal-field-yet"
 webUrl: "https://www.ksl.com/article/50597536/ai-lawyers-not-likely-experts-say-but-dont-discount-ai-in-the-legal-field-yet"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: KSL

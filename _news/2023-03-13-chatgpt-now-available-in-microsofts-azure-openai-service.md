@@ -43,22 +43,6 @@ related:
         width: 760
         height: 485
         isCached: true
-  - title: "ChatGPT comes to Microsoft’s enterprise-focused, Azure-powered managed service"
-    excerpt: "ChatGPT is now available through the Azure OpenAI Service, Microsoft's fully managed, enterprise-focused repackage of OpenAI tech."
-    publishedDateTime: 2023-03-09T20:41:00Z
-    webUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/"
-    ampWebUrl: "https://techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/09/chatgpt-comes-to-microsofts-enterprise-focused-azure-powered-managed-service/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 100
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-655242462.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft fires ethics and society team with AI division"
     excerpt: "A report states that Microsoft maintains an active Responsible AI Office that critically evaluates; creates rules and principles to govern the company's AI initiatives. However, team members"
     publishedDateTime: 2023-03-14T05:40:00Z
@@ -74,6 +58,22 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2023/03/14/1341603-microsoft.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Microsoft lays off AI ethics and society team"
+    excerpt: "Tech giant, Microsoft has laid off its entire ethics and society team within the artificial intelligence department of the organization. According to employees affected by the layoff, the development leaves “Microsoft without a dedicated team to ensure its AI principles are closely tied to product design."
+    publishedDateTime: 2023-03-14T08:34:00Z
+    webUrl: "https://www.ripplesnigeria.com/microsoft-lays-off-ai-ethics-and-society-team/"
+    ampWebUrl: "https://www.ripplesnigeria.com/microsoft-lays-off-ai-ethics-and-society-team/?amp"
+    cdnAmpWebUrl: "https://www-ripplesnigeria-com.cdn.ampproject.org/c/s/www.ripplesnigeria.com/microsoft-lays-off-ai-ethics-and-society-team/?amp"
+    type: article
+    provider:
+      name: All protocol(s) observed
+      domain: ripplesnigeria.com
+    quality: 91
+    images:
+      - url: "https://i0.wp.com/www.ripplesnigeria.com/wp-content/uploads/2023/03/Resizer_16787827011081.jpeg?resize=650%2C350&ssl=1"
+        width: 650
+        height: 350
         isCached: true
   - title: "Microsoft Supercomputers Use NVIDIA H100 GPUs To Drive Generative AI"
     excerpt: "By now, you've probably heard of OpenAI's chatbot, the aptly named ChatGPT, and how Microsoft recently incorporated it into Bing."
@@ -107,6 +107,29 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Microsoft Edge Copilot brings AI content creation to your browser"
+    excerpt: "That’s where you’ll find value in Bing, Edge Copilot, and other AI services. As PCWorld's senior editor, Mark focuses on Microsoft news and chip technology, among other beats. He has formerly written for PCMag, BYTE, Slashdot, eWEEK, and ReadWrite."
+    publishedDateTime: 2023-03-14T14:17:00Z
+    webUrl: "https://www.pcworld.com/article/1656353/microsoft-edge-copilot-adds-ai-content-creation-to-your-browser.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 86
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2023/03/microsoft-edge-logo-100911275-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Microsoft to showcase purpose-built AI infrastructure at NVIDIA GTC"
+    excerpt: "Join Microsoft at NVIDIA GTC, a free online global technology conference (GTC), March 20–23 to learn how organizations of any size can power AI innovation with purpose-built cloud infrastructure from Microsoft."
+    publishedDateTime: 2023-03-14T09:00:03Z
+    webUrl: "https://azure.microsoft.com/blog/microsoft-to-showcase-purposebuilt-ai-infrastructure-at-nvidia-gtc/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 84
   - title: "Microsoft Introduces Generative AI VM on Azure with Scaling up to Thousands of GPUs"
     excerpt: "Microsoft today introduced the ND H100 v5 VM on the Azure cloud, a virtual machine for development generative AI applications. The VM can scale from eight to thousands of NVIDIA H100 GPUs with Quantum-2 InfiniBand networking,"
     publishedDateTime: 2023-03-13T19:49:00Z
@@ -135,6 +158,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft unveils an AI virtual machine powered by Azure and NVIDIA"
+    excerpt: "Microsoft has announced details of its latest VM destined for artificial intelligence workloads as the company continues to develop and release AI products following a substantial investment in OpenAI,"
+    publishedDateTime: 2023-03-14T13:00:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-unveils-an-ai-virtual-machine-powered-by-azure-and-nvidia"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 79
   - title: "Microsoft to launch ChatGPT 4 with AI videos"
     excerpt: "but the GPT 4 will change the app to be the underlying large language model technology that powers it. At the recent “AI in Focus — Digital Kickoff” event, Microsoft explained that GPT-4 would be “multimodal\", which will allow AI to translate a ..."
     publishedDateTime: 2023-03-11T07:02:00Z
@@ -183,6 +215,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Backlash erupts as Microsoft cuts AI ethics staff"
+    excerpt: "Most of the team had already reportedly been moved to other parts of Microsoft, but the remaining employees on the ethics team were laid off on March 6, 2023. “Microsoft is committed to developing AI products and experiences safely and responsibly ..."
+    publishedDateTime: 2023-03-14T14:37:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/backlash-erupts-as-microsoft-cuts-ai-ethics-staff"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 71
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TbCmds2wGiBRfebpbHeURK-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft debuts new AI-optimized Azure instances"
     excerpt: "Microsoft Corp. is extending its Azure cloud platform with the addition of a new instance family designed to run artificial intelligence models. The instance family, known as the ND H100 v5 series, made its debut today."
     publishedDateTime: 2023-03-13T23:49:00Z
@@ -225,20 +271,6 @@ related:
         width: 400
         height: 250
         isCached: true
-  - title: "ChatGPT is now available with Microsoft’s Azure OpenAI Service"
-    excerpt: "Microsoft has announced that ChatGPT is now available in Azure OpenAI Service, enabling developers to integrate custom AI into their services."
-    publishedDateTime: 2023-03-09T22:01:00Z
-    webUrl: "https://bgr.com/tech/chatgpt-is-now-available-with-microsofts-azure-openai-service/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 69
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2021/06/Windows-11.jpg?quality=82&strip=all"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "How Microsoft’s bet on Azure unlocked an AI revolution"
     excerpt: "At the time, nobody knew it would mean AI systems that create pictures of whatever people describe in plain language or a chatbot to write rap lyrics, draft emails and plan entire menus based on a handful of words."
     publishedDateTime: 2023-03-13T19:58:00Z
@@ -252,6 +284,22 @@ related:
       - url: "https://news.microsoft.com/source/wp-content/uploads/2023/03/How-Microsoft-bet-on-Azure-unlocked-an-AI-revolution-1200x630-1.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft builds supercomputer with OpenAI: What is it and how will it make AI chatbot robust"
+    excerpt: "The aim of building this supercomputer is to provide enough computing power needed to train and retrain an increasingly large set of AI models with great volumes of data for long periods of time. “One of the things we had learned from research is that the larger the model,"
+    publishedDateTime: 2023-03-14T13:52:00Z
+    webUrl: "https://www.gadgetsnow.com/featured/microsoft-builds-supercomputer-with-openai-what-is-it-and-how-will-it-make-ai-chatbot-robust/articleshow/98635554.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/featured/microsoft-builds-supercomputer-with-openai-what-is-it-and-how-will-it-make-ai-chatbot-robust/amp_articleshow/98635554.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/featured/microsoft-builds-supercomputer-with-openai-what-is-it-and-how-will-it-make-ai-chatbot-robust/amp_articleshow/98635554.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 63
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-98635554,imgsize-70564,width-800/98635554.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "Microsoft strung together tens of thousands of chips in a pricey supercomputer for OpenAI"
     excerpt: "When Microsoft invested $1 billion in OpenAI in 2019, it agreed to build a massive, cutting-edge supercomputer for the artificial intelligence research start-up. The only problem: Microsoft didn't have anything like what OpenAI needed and wasn't totally sure it could build something that big in its Azure cloud service without it breaking."
@@ -267,6 +315,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google announces new generative AI lineup in advance of Microsoft’s rumored GPT-4 debut"
+    excerpt: "Google announced a laundry list of new generative AI capabilities, both for developers and for users of Google Workspace."
+    publishedDateTime: 2023-03-14T13:01:00Z
+    webUrl: "https://venturebeat.com/ai/google-announces-new-generative-ai-lineup-in-advance-of-microsofts-rumored-gpt-4-debut/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 56
   - title: "Microsoft unveils new AI-powered instance family"
     excerpt: "The tech giant continues to leverage its investment in OpenAI. Microsoft announced this week that it is extending its Azure cloud platform thanks to a new"
     publishedDateTime: 2023-03-14T09:46:00Z

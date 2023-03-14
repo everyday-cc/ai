@@ -170,22 +170,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare"
-    excerpt: "Artificial intelligence or machine intelligence is ... The results are out there for us to see - translating texts, driverless transportation, voice recognition (Siri, Alexa), filtering spam ..."
-    publishedDateTime: 2023-03-10T00:00:00Z
-    webUrl: "https://www.medindia.net/patientinfo/artificial-intelligence-in-healthcare.htm"
-    ampWebUrl: "https://www.medindia.net/amp/patientinfo/artificial-intelligence-in-healthcare.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/patientinfo/artificial-intelligence-in-healthcare.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 76
-    images:
-      - url: "https://images.medindia.net/amp-images/patientinfo/artificial-intelligence-in-healthcare.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Industry Overview of Artificial Intelligence and Machine Learning Market 2022-2028 by Size and Share"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 10, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends, and projection for the ..."
     publishedDateTime: 2023-03-10T09:19:00Z
@@ -312,15 +296,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Systems in Healthcare Market Application, Product, Sales and Forecast 2023-2028"
-    excerpt: "The \"Artificial Intelligence Systems in Healthcare Market\" study describes how the technology industry is evolving and"
-    publishedDateTime: 2023-03-09T23:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
   - title: "Enterprise Artificial Intelligence Market Size, Share, Outlook and Forecast to 2029"
     excerpt: "One major attraction about Enterprise Artificial Intelligence Industry is its growth rate. Many major technology players are [IBM, Wipro, Microsoft, HPE, Google, AWS, Oracle, Sentient Technologies, Intel, SAP] have been looking into Enterprise Artificial ..."
     publishedDateTime: 2023-03-14T07:32:00Z

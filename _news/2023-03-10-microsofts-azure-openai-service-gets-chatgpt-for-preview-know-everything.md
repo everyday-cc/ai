@@ -174,6 +174,24 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "The tech behind ChatGPT could power your next car's AI driving assistant"
+    excerpt: "General Motors, in partnership with Microsoft, is developing a car-specific AI assistant based on the technology found in Dall-E, ChatGPT and Microsoft Bing"
+    publishedDateTime: 2023-03-14T12:47:00Z
+    webUrl: "https://www.zdnet.com/article/the-tech-behind-chatgpt-could-power-your-next-cars-ai-driving-assistant/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 50
+  - title: "Exploring The Ins And Outs Of The Generative AI Boom"
+    excerpt: "Last week Groq demonstrated the capability to run Meta’s LLaMa model on its chip rather than NVIDIA, which currently has about 90% of the AI chips market. I expect AMD and Intel to also step in and play a role in this space. With all of this in mind ..."
+    publishedDateTime: 2023-03-14T13:48:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2023/03/14/exploring-the-ins-and-outs-of-the-generative-ai-boom/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "How will ChatGPT, AI change college? Here's what some LSU professors and students think."
     excerpt: "The meteoric rise of artificial intelligence tools in recent years has created powerful new tools for fields ranging from traffic and cancer treatment to flood prediction. But what about in the ..."
     publishedDateTime: 2023-03-11T10:03:00Z

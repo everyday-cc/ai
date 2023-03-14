@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T12:50:00Z
 originalUrl: "https://businesstech.co.za/news/industry-news/672487/artificial-intelligence-and-machine-learning-are-necessary-to-run-a-modern-network/"
 webUrl: "https://businesstech.co.za/news/industry-news/672487/artificial-intelligence-and-machine-learning-are-necessary-to-run-a-modern-network/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: businesstech.co.za

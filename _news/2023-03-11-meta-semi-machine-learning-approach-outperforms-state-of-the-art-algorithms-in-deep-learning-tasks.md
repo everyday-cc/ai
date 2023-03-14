@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-03-meta-semi-machine-approach-outpe
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-meta-semi-machine-approach-outperforms-state-of-the-art.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1381
     height: 593
     isCached: true
-
-related:
-  - title: "Outperforms state-of-the-art algorithms in deep learning tasks"
-    excerpt: "Deep learning based semi-supervised learning algorithms have shown promising results in recent years. However, they are not yet practical in real semi-supervised learning scenarios, such as medical image processing,"
-    publishedDateTime: 2023-03-10T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/982353"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/dffcd336-d77a-4223-aea4-e3c83c71f705/Rendition/low-res/Content/Public"
-        width: 700
-        height: 301
-        isCached: true
 
 secured: "0VRK6wl6ZHa3tG5hskA2Teo0fQ9LSq13Dt2kzvsUXJ2VZXobiyhCVbaQjeX9ZSWDvDMgeyiSbferAbUdqLeYAyitcA5RLGvxxaN5QsbNjma+hz6Aag6G3dlxy1lrIsx8qJfw76CJz/c9Mkn5WrstUblbK9nJd9Pry0ihdgHMsnF3tziQnnREpgq3LPI9nocXBhwjz9HYT5+ZqSn7/5xtngSQc6ZHSD5qA7dF4S1FvXRa1697KP9kfcJntpBRJ1Q9+0/+W9PhpjzEWf8aWj0iVyHN8OBJF3gwL9jLkE9NVfBMMt0K2T9EKja9oxq2SVG5esRjolTs2AqHz6CqfyiDPPdWwrV+CPoRvm31N7nUwNKRGoOuAhOvBIWK2EGO6468RiEtEaBPmh67rh39JkJQWEPRpFgoV4bwjTkNy9nrhALm8n3esVPjB9aaih5rTz1HD+9IdGzSARPYTsbIN/LE15hDU64QXeBLN+Saby+2/6bRzhFYBk8qoFqWajJ+/0iKBBWKkFmVhMiafXQU5yj9rg==;/xRk4QNLGgOBEHw3RVD9lQ=="
 ---

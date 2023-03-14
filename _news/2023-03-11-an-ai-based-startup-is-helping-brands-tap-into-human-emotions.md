@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2023/03/bengaluru-based-entropik-ai-startup-
 webUrl: "https://yourstory.com/2023/03/bengaluru-based-entropik-ai-startup-helping-brands-tap-into-human-emotion"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "How to Start an AI Panic"
-    excerpt: "The Center for Humane Technology stoked conversation about the dangers of social media. Now it’s warning that artificial intelligence is as dangerous as nuclear weapons."
-    publishedDateTime: 2023-03-10T14:00:00Z
-    webUrl: "https://www.wired.com/story/plaintext-how-to-start-an-ai-panic/"
+  - title: "Can AI learn to understand human emotions?"
+    excerpt: "Aniket Bera, computer science professor at Purdue, is training AI models on data from diverse communities, trying to bring emotional intelligence to artificial intelligence."
+    publishedDateTime: 2023-03-13T09:59:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/can-ai-learn-to-understand-human-emotions/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/640a4ab565ec923715ff3b24/191:100/w_1280,c_limit/Tristan-Harris-On-AI-Plaintext-Business-1426703730.jpg"
-        width: 1280
-        height: 670
-        isCached: true
+      name: Marketplace
+      domain: marketplace.org
+    quality: 19
 
 secured: "+cOMCj0l7rAW/OaOOFLDTv+a6aY2wKmiSP76WthvJCk4LspYeTVFXzuB3nCgQxgsowJvXXEc83QMR4VtdQNCqs7wHetdH9mn68cHQdUa++mbE6/BgzF6u0F+X6tE3DoDPCVFzvmTkUpf7gPx+L5y2CEVx/CKLuTeXEomb9+ILLnRsT8zOR/LFQ2ewYMWrBmpkfBq7bUdrd6dTm4KCWZRVBcs4P9G1CrCuefhwaYtafrmGr8S6CaFkXXDPbAiE2A86Pvf3lpG47AeZnh0GNXI6a6v8Xy1yvZBV28psd8/h8B1raV7SP7DyyJDnGxYX/wICDOyZ3Jr8IspmSSVD/paSGu6LIQ8oxCiLpJbdaeVu5U=;Fw36yALugyPfps21zL3Uew=="
 ---

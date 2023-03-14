@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T12:00:00Z
 originalUrl: "https://www.iol.co.za/technology/techsperts/mark-zuckerberg-faces-a-tremendous-amount-of-cognitive-dissonance-says-ex-microsoft-engineer-0fe9647b-ca98-5dce-8cfd-c41500cfd52f"
 webUrl: "https://www.iol.co.za/technology/techsperts/mark-zuckerberg-faces-a-tremendous-amount-of-cognitive-dissonance-says-ex-microsoft-engineer-0fe9647b-ca98-5dce-8cfd-c41500cfd52f"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: Independent Online

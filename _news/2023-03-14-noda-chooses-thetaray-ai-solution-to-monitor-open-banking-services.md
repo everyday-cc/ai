@@ -18,6 +18,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Noda selects ThetaRay AI solution to monitor Open Banking in Europe"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-03-14T10:17:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/noda-selects-thetaray-ai-solution-to-monitor-open-banking-in-europe/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 34
+
 secured: "jLTEu7s1drhor8NzSSCRxGK+HA6JclgzZa7sLGU8pqs9Ex1h/zellqm+606TRfWRjtG8YpuGTBD3LzhgoDUCJKaL+IqT9ZOQI+338AWp1yFWZl7zRBw0KFsRv1S7pJ8bMJ9abuBs10AX+/6E9RM4zGz1moMP5RASsyq5TTvSh9hOSMHjPlQlq+sfO8+BjVHt78QnMJ+bIvyi6hg62UuFWbh/vMFnpqaAt/hwYfkYMLg8Ofw9gEimVwkSbPbtSZiK1wKrcIUAC+VZRwIKZwvuZA6FgM6WmkaMa3Iw0vE17r4mGDwrC6ToBe5eWU5BzbIGxSjkh51Itz5qEdUvieoezF8emJ/Zayq3Zi9UpshOfOKcpKKs9q1kR936vRKjmPxIvvevNI3+RLfFfB8g7LjbwHp5VxMZqsNx/XULe++/K3XQPTCkiZXT22+1zwmaUH4dmy5Qc2CT9i9R+2CSj1zUPTjZLobvYZYlhtwbQVQnM0o4iSC7PFqwKvN1O+gi4q9U7+0TlWhuUGgD0QK9KntOWQ==;pffFI1aVpASTNZU+WrNPbQ=="
 ---
 

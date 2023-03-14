@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2023/03/13/gm-integrating-chatgpt-with-
 webUrl: "https://www.gizmochina.com/2023/03/13/gm-integrating-chatgpt-with-vehicles/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Gizmochina
@@ -43,6 +43,15 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Automaker General Motors may bring ChatGPT-like digital assistant for cars"
+    excerpt: "Automaker General Motors (GM) is reportedly working on a virtual personal assistant based on the same machine learning models that power ChatGPT"
+    publishedDateTime: 2023-03-14T13:01:00Z
+    webUrl: "https://www.business-standard.com/article/current-affairs/automaker-general-motors-may-bring-chatgpt-like-digital-assistant-for-cars-123031400811_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 2
 
 secured: "S/wWU/UnmfZbz0fmx7sAdsFjzin2mYA8CoPKr3irNYziHx0jEvFjvUVkgylV4EqBr++FSIsS3elcDNZ8bc/Juo2tgHyNJa8UagDcrngcxrC76P9wXD3JLnd3FVZU4k19HJ081j3xGyIJqQKH6rSA82MJ9IphLXgbXcfr5QG3InU6iQHD3sQ20a5pHWjkV2NebQqocrOvA4/WbD7WfH5kijQGiO2n6n2F4Bqy6+OA5ZrotCVuGDUyiq89uqStYiTXhCqgD09QH2CxThyIW1IZqsIOAKDKt3ohiPGR2BkfsjBGNPALhBvdr5ybYrntvoeOLSf6HalwEIusRVWmm2QC37IaOe/+7J/5fP4be8y77JQ10Clq0yd2+ESPI3TpY5Q4YMiyK0uf8TjasdrEACXF26MSvT8z7n4uUbR88CciL+PvmyzVcxxq55i57ILHeRlflcET0T2q5xanVqjOCgchBmBFtdUPMnRDZ73ghHCpyZXtDbzhqtf13VsluGCJ2RH69liD3Hoqjoxot0ittT6N0Q==;RCPDcZ2rezIypAQx/EOYgg=="
 ---

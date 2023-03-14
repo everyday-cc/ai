@@ -41,6 +41,20 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Fintech and tech startups still reeling from SVB shutdown"
+    excerpt: "Some tech startup clients had to scramble to retrieve money as the bank was closing. Many wonder which financial institution will fill the void."
+    publishedDateTime: 2023-03-14T15:15:00Z
+    webUrl: "https://www.americanbanker.com/news/fintech-and-tech-startups-still-reeling-from-svb-shutdown"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 24
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/9c79fdc/2147483647/strip/true/crop/4000x2100+0+281/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F04%2F99%2Fe56a3be44da1890c80134a850ecd%2F396532615-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Moneycontrol’s inaugural India Fintech Conclave 2023 features fintech giants and top policymakers"
     excerpt: "During the India Fintech Conclave, the Union Minister of State for Entrepreneurship ... “Technology is a large waterfront with different aspects like AI, IoT, hyper personalisation etc. In the case of banking, it’s not a traditional product but ..."
     publishedDateTime: 2023-03-10T10:22:00Z

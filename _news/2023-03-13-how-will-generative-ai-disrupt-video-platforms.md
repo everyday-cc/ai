@@ -7,7 +7,7 @@ originalUrl: "https://hbr.org/2023/03/how-will-generative-ai-disrupt-video-platf
 webUrl: "https://hbr.org/2023/03/how-will-generative-ai-disrupt-video-platforms"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Accelerating AI deployment and scale with a transformative end-to-end AI platform"
+    excerpt: "AI delivers business value and a competitive advantage for enterprise, but how do you go from proof of concept to production AI at scale?"
+    publishedDateTime: 2023-03-10T20:27:00Z
+    webUrl: "https://venturebeat.com/ai/accelerating-ai-deployment-and-scale-with-a-transformative-end-to-end-ai-platform/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 42
 
 secured: "wlNp6JN3ir+Ngt7RDqlhbf2n7znlsAO11IyXMcUUtdwkT9+RmFql0RjtrcSRIrcGiGukyL4KI7TGwLAJ475fSK4VWn1CkfM6ZvxNUFJfepXT0zDFduclhvXFFKUJKnOus+wK0H3ksGVTbwFCVN1XSlEq+gGxJiqbzK50EE/GXN0VhPFkuKxaPadF2aR2NXY0WU9aARjr3UnrutA/lUGeyg48zhp0DjRPiQdMLA3Qmr27dAqWX2r+56SXo0QycQ4zQjKnoJQOY3NybUBFuH5nLcrRGacEstS0Vd8pbvc4WWnrDFKQC8oJLTB4T7DqU5MMMjOGGrekCKBspSvgcpQ+xLcdQQEQ1j5wstPeoHyblKaWU1hggYzAOuTRmCan5vjDzIbq0z5EAcHQlxk5GMF1SmvGYmqTRWuRwTN//oVA44vQb4fh1B51Kg6hqr/RkPqGFKWa8Sjdp7WTyZlETf7WO3p/WcYmx2seO9x//ArMYY1WBsOVPpvO3LFXspaxA9rqZ1hlkgM16cnTyfuerKj1vA==;asABgx0fYSRpNtjacholpg=="
 ---

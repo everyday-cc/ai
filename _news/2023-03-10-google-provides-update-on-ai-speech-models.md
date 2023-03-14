@@ -7,7 +7,7 @@ originalUrl: "https://www.mediapost.com/publications/article/383312/google-provi
 webUrl: "https://www.mediapost.com/publications/article/383312/google-provides-update-on-ai-speech-models.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 600
     height: 375
     isCached: true
+
+related:
+  - title: "Our latest health AI research updates"
+    excerpt: "At The Check Up, we shared updates on our medical LLM research, partnerships and new ways AI can help with disease detection."
+    publishedDateTime: 2023-03-14T15:00:00Z
+    webUrl: "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/"
+    ampWebUrl: "https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/health/ai-llm-medpalm-research-thecheckup/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/check_up_hero_2.jpg"
+        width: 2880
+        height: 1200
+        isCached: true
 
 secured: "bscalCvDzJRiaxiNcZjoM/yX84LdMfRJoKHKsA2eLNwWX/P6qlspDvpY/n3Ryf2sXjeFLKCQ2jJB5ZG6pP3GrvQ9XpWaRsHxmgGLVXaPpAqdyquFQjiJUcRq2bbBOS/0TiX77G6Z7mA9ypbKy4JBNTJfecB81LW5DQ7vYArt2jgRIwCafXF6zqh2QtNPE6Gsgtn8dmvy7HmXvy0QoLTBrYt1fK26GWKrTKNQMjjFxzYwBGXKhruFJk91fAwO8wVM3iqbiCvhw9dQ/t96c/411mwx7oiX+Bv/Col5iuJgl5dCqeTTgaKnK1gGCfB15Q5tpFYbJAdNbL/4QB/OoSh+t1W9XwqK43+dDgEpuvPkELo=;GQZ8DDHk/MhFY+0dBZo3vw=="
 ---

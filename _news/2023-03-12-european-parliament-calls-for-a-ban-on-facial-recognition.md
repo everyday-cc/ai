@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/article/european-parliament-ban-facial-recog
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/european-parliament-ban-facial-recognition-brussels/amp/?ref=salesforce-research"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "FBI, Pentagon helped research facial recognition for street cameras, drones"
-    excerpt: "The FBI and the Defense Department were actively involved in research and development of facial recognition software that they hoped could be used to identify people from video footage captured by ..."
-    publishedDateTime: 2023-03-09T23:10:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/03/07/facial-recognition-fbi-dod-research-aclu/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 17
 
 secured: "I4Qxpz0gCXv6LJeWpbix5riHC5v4jW7qwwTfzzFxf3LViaStMeaeP/3DEpmjGHQRBjuLXJpuKPHPSkhQWSgZDZzPL8oyN7M5mWKv8aBeGFYHV5kyzmjbZqXoBojYzF7AsRO+SxJcyi5Ftr0L0YIREGamOXSB6i7BUf+9C0jkVj+8/w3wWWj0yuBm+xfdfDJx5Ud98I00tKHh/3ZyJVdw7ysDYsO/GLf5Sp+V2G78pymS34P1wkwAHMRfi9wZmUp/QJWtYovxkoZ8c1TjfEkFImVGFai2Go7Kc/pAomEX9aT4FjV+cp04w/meMy1PITxEHP1iuFTk7sQC3iEnsVnXaDUpdihbt6NH40wDjYvE6u8=;qz4DCFRLBorkAhoPq7NMNg=="
 ---

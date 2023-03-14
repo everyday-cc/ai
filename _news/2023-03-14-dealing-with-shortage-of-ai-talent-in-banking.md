@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/dealing-with-shorta
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dealing-with-shortage-of-ai-talent-in-banking/"
 type: article
 quality: 74
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3 Factors Driving AI Surge in Health Care"
+    excerpt: "Recent research indicates ways hospitals and health systems can leverage artificial intelligence (AI) to improve performance, identify and resolve gaps in health equity, and reduce costs."
+    publishedDateTime: 2023-03-14T12:49:00Z
+    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-03-14-3-factors-driving-ai-surge-health-care"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 19
 
 secured: "dkb1q/aUGkLVm5hb2xpaF5ai1Pvvr4snIijsziH3nbECG5OJYIYVAbRtjPAck8br8nJGM6ZNilpZ/fIWvw3oyxOBUp1ANKNp0RrjtKT1xdsVmz4YZeO3rI2RIsdaAw4FeK7H8/4KaoS3WyggRq1PqWinbAsFKyLSmp8ijrHoxDutqnnOuvXYPv9/zZRYV0rypmX1Iq/gufFIMNEEghrLT5yjGaBIQbQvXzZGc/5JgpCLhj6NUxtrBGIJ5npTyCC8J/X/dFKcDR2qYdCUSc7g2MkxjAgs7HE8Vh+18OR2anW4kvhUB1QETD869jzM/ULmxU0hV4oX2ZX/4/iIdYUnYSLYIaTALkAUd5XJLsGNkzk=;GVol4Pd3kIZE8uLoP2bGsA=="
 ---

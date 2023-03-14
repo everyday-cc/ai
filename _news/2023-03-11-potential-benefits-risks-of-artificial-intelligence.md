@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2023/03/09/potential-benefits-
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/03/09/potential-benefits-risks-of-artificial-intelligence/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 800
     height: 700
     isCached: true
+
+related:
+  - title: "Media execs weigh risks, challenges of generative AI"
+    excerpt: "Six challenges that media outlets face around AI tools, from the misuse of AI to generate misinformation, errors and accuracy, to job losses."
+    publishedDateTime: 2023-03-14T11:29:00Z
+    webUrl: "https://digitalcontentnext.org/blog/2023/03/14/media-execs-weigh-risks-challenges-of-generative-ai/"
+    type: article
+    provider:
+      name: Digital Content Next
+      domain: digitalcontentnext.org
+    quality: 19
 
 secured: "ohc+BYAvqeWgtugFYAb707nlZ5sF9u9jXAd28OLvVjLoK9uxTATH7PcpSqedepXi2anetj2RmVGwFVcKUbaoigjCuUpf4ExbuqKcpeLKtQ1d5ZXfXl9SG0nPSTKIMPA+fQz5U9h2T3k8LQQWOEtfuOrPuPjwmWx0hTh+jiT7i4MQyg4xVxCqMZWjyJnUJ6qx5Wrl5U54ZKnAESyPIaLQtPur3PZKobQ2agPwD/ZN32Anu3FHzf7eex8oxniYJlTPwFiFSjx2PNlXxpa7XLifL2jaidp3NnTJE6iFHsU05/xIrNseeVGBWf2zFdrkh4Jwd40iHFAFWJIKepy29X6vMLNRDmohI0VKyUa/xIXprlQ=;r5CiMOmGP8K9WKNuwgXnjA=="
 ---

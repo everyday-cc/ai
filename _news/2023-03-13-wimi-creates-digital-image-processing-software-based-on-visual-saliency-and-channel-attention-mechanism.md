@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-13T12:01:00Z
 originalUrl: "https://www.asiaone.com/business/wimi-creates-digital-image-processing-software-based-visual-saliency-and-channel-attention"
 webUrl: "https://www.asiaone.com/business/wimi-creates-digital-image-processing-software-based-visual-saliency-and-channel-attention"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Asia One

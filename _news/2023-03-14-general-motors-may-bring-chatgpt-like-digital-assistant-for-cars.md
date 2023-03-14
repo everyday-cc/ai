@@ -39,6 +39,15 @@ related:
         width: 875
         height: 584
         isCached: true
+  - title: "Automaker General Motors may bring ChatGPT-like digital assistant for cars"
+    excerpt: "Automaker General Motors (GM) is reportedly working on a virtual personal assistant based on the same machine learning models that power ChatGPT"
+    publishedDateTime: 2023-03-14T13:01:00Z
+    webUrl: "https://www.business-standard.com/article/current-affairs/automaker-general-motors-may-bring-chatgpt-like-digital-assistant-for-cars-123031400811_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 2
 
 secured: "JtXY0WrentKUcAPHuU3nLkV01fCSYt/PKTHjamG+swAwmXGNXRKQ/yh/ZO9kcepCe1akQ6Ojv/Yis3fLjwd5Blzn9V/FzyakXvtZFcVYMwRWzGsP5rgwJqwVgxxlmt78x4/cvtOoFRSA1o7bBj0znoXbj+kMC4cnWDaniVHCzvnQREzc3Qg4NAlUtBafg3EbTT130Laaw+X/OMmt46spbamyNDmFP3795CN/FYzMAlN3i6clmEMTeudaaIe26Lr2yTzfXPnqdcYAxar3M3RpJul0H9d/HoY0mcDCpnctCDadw1z2M0PnScaDsa8erOf6dPQgpe1StitVznPix4TDBkLK67erHHfSP+PzFi8thq4=;0Q3RgMMhmjgkRQV5RF++sA=="
 ---

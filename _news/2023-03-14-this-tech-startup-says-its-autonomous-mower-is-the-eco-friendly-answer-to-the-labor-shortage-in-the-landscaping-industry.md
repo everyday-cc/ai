@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T12:17:00Z
 originalUrl: "https://www.benzinga.com/markets/emerging-markets/23/03/31338091/this-tech-startup-says-its-autonomous-mower-is-the-eco-friendly-answer-to-the-labor-shor"
 webUrl: "https://www.benzinga.com/markets/emerging-markets/23/03/31338091/this-tech-startup-says-its-autonomous-mower-is-the-eco-friendly-answer-to-the-labor-shor"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

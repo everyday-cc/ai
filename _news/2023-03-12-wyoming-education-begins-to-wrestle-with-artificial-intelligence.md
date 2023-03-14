@@ -50,6 +50,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "3 Factors Driving AI Surge in Health Care"
+    excerpt: "Recent research indicates ways hospitals and health systems can leverage artificial intelligence (AI) to improve performance, identify and resolve gaps in health equity, and reduce costs."
+    publishedDateTime: 2023-03-14T12:49:00Z
+    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-03-14-3-factors-driving-ai-surge-health-care"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 19
 
 secured: "opGkKq9Ycv/DNuxztvL2ib9mjlK+Pbl3oQU0heh9CQ5+5h1nYhM2KODfwWV9bA9feGankBZ+1O1UsXXfhgTiES0k6eEoyJB6dQtIY4zl7p8YUyFjc+xro/MgNE17Ls2dOsSCK0iUwVbHjqxMDrz7dNLFyvW4zQQnFfpCEHjVbY/liTn2sGSiXE++QaPa0QK/XRs6ca4s5v04E3zP9IS2Pv81W5UqXgID/1tMMU/QTLHirAkeP0Wiv8C8wd3hcBDWDQpy/esuJB73KMai8FPb/sd1Mr8Hkp4B2V4C67ukjK9EfAb+oKlOZm9Q++yaICa12DLEFv8lWxDyvWu2BCV8SOANmHISGdMimkJ8t1Fp6ZIuBhhx5zLpo24MUJJUnSDaipr4ierjJ6G9800R6CErn98WLw1mq8zwITevtvhGgS8RoUgcnsr11jD+Haiihd/oUCqbdsGaKhne4pDOdEnJQeR74yQexdEiMUTopHWA1vcjbfmIM4QPYX6880g/rNxoVyORpBtclEnfXxdJUVfWZg==;YFolAPIlVN3UKF3oadhM9Q=="
 ---

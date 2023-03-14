@@ -20,6 +20,22 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Microsoft eliminates entire AI ethics team amidst ChatGPT craze: Report"
+    excerpt: "which is charged with developing policies and guidelines to guide the business's AI initiatives. But even so, a fired worker in the ethics and society team claimed that it was their responsibility to incorporate the company's responsible AI principles into ..."
+    publishedDateTime: 2023-03-14T15:07:00Z
+    webUrl: "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/microsoft-eliminates-entire-ai-ethics-team-amidst-chatgpt-craze-report-101678796681795-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 91
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/03/14/1600x900/3f035fcc-e8bb-11eb-a22d-c087d3272c6f_1626717748715_1678800442498_1678800442498.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Microsoft Axes AI Ethics And Society Team As Part Of Mass Layoffs: Report"
     excerpt: "Microsoft's AI team that ensured the company's products reflected its AI principles had about 30 employees in 2020 before it was cut down to seven in October."
     publishedDateTime: 2023-03-14T04:46:00Z
@@ -65,20 +81,6 @@ related:
       - url: "https://theshillongtimes.com/wp-content/uploads/2022/12/microsoft.jpg"
         width: 400
         height: 332
-        isCached: true
-  - title: "Latest Microsoft Layoff Wave Hits Supply Chain, Cloud, IoT Employees"
-    excerpt: "manager who worked with Microsoft for about two years and worked on facilitating “the delivery of secure high-quality data to improve machine learning and artificial intelligence models” *A 23-year Microsoft veteran who was a senior content developer ..."
-    publishedDateTime: 2023-03-10T20:27:00Z
-    webUrl: "https://www.crn.com/news/cloud/latest-microsoft-layoff-wave-hits-supply-chain-cloud-iot-employees"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027d-172a91810e2f-573e9d2b7a78-1000/13-microsoft-sign.jpeg"
-        width: 611
-        height: 458
         isCached: true
 
 secured: "QY/jBAwVw4KEl/iMB1qK5tv2+jwecFxjlAz6VMYHcPU/Piz2MbOYE+iRLebiYd8vbt1hK1Wr02sUgqLrRkmy3epFRz+UYllVlUyrKNEif1sUgJtlaFww5lZiN8squGi9HgG1+ZAVa9M4e6M19OGlV5lxVwIZEHYGZ3efv15Nsdn2degYwMGLIniAg3+B8Oi17Z3tQqH83zBoX69jqPqdvxnivpPQvAfdO0IA6Y7HiAzW/Wb+j5H8NP90bLHtoWgY4zKqxQbhospid/lGqsuaZTRokdCVOjVhsfmoUrE5LQ/T48zzgQ5FHg3EUuiqu3/1iovCEqM9XLariRaaqoq/lb6Lg5gtopVfpZPu7X7HBSSqt64xlR9OD4e86LxTnn2nXwrpBbiZFdXUU2qS5pMn3meJRKnLiVO+9CzWk4/2DhRtOA5A+6Ozw2mtG23Z4e9KBXgTE+zh854HCj7Tfq9CpgJflBLfosYgVDwHBzSZwPHiB38zy/NNHMf3zmyBAUfDmAkRZ9UUadaDW/GqMrKyIQ==;WBhQleI/SB4q0ZrbNFkOlQ=="

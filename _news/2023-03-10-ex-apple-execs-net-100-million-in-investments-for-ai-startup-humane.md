@@ -3,26 +3,24 @@ category: news
 title: "Ex-Apple execs net $100 million in investments for AI startup Humane"
 excerpt: "Microsoft, Volvo and OpenAI are among the company's partners. It is also working with LG on research and development."
 publishedDateTime: 2023-03-10T14:25:00Z
-originalUrl: "https://www.wtkr.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
-webUrl: "https://www.wtkr.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
-ampWebUrl: "https://www.wtkr.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
-cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
+originalUrl: "https://www.wxyz.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
+webUrl: "https://www.wxyz.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
 type: article
-quality: 57
-heat: 77
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: WTKR
-  domain: wtkr.com
+  name: WXYZ
+  domain: wxyz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/c6f27c8/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1678464059_f3PddI.jpg"
-    width: 1280
-    height: 720
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/54154b9/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1678464059_f3PddI.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -58,7 +56,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "TIM, IBM 'humanize' the voice of a virtual assistant with Artificial Intelligence"
+    excerpt: "Operator is the first in Brazil to adopt neural voice technology with artificial intelligence from Microsoft, offering more agility and a better experience"
+    publishedDateTime: 2023-03-13T20:35:00Z
+    webUrl: "https://www.bnamericas.com/en/news/tim-ibm-humanize-the-voice-of-a-virtual-assistant-with-artificial-intelligence"
+    type: article
+    provider:
+      name: BN Americas
+      domain: bnamericas.com
+    quality: 38
+    images:
+      - url: "https://www.bnamericas.com/assets/img/opengraphbna.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "FaQLuqR8De/Utii6ar9qb7ZsL2wcjv2eSVPNtiASxLkwy4/69t5aGZOFKUe7AFQqkPXXpyFPUjWKCONCFwN54Fv62dfzxcrgfgt9vtW4H+nzKu0rYiIVgEzd7/o/o/+CE27K7AcRRPLjuO0cpypry80u+Y9uBZt4rFppwkKduFujq66qwB342Lt8ZWkzFJsCvWjlL2JBIMRQwiG545AqKWFyg9acMxErn5n2chJE/r6Rl1+l5OFuFV++mfETO3U++nAEtDuZGaM5yZO8wpNPfk1e0saUgLNu3nN+DCEudPllS4snhwAEeyHWTY3B4oswMTg0qxO6ktrGN7fOzzTzaYrmLuL03XDqMNsF+1qbGw/ncSD3qquTrxOwlN1EzPT8yeDUe/8taSILZDHh+o22wJU+QMGCrfXNrAqJU8tBPALGNTJ8HTzUp5svoUkkq4EgjwbcW34C9Kzt3B9yE4B2q6uWWlTtwgIvmqsP/6lo/P95TTr+UYwFYgTKtgfYc48AI1fBB5UaPsWcft6BsIeq1w==;kETV7rN93rkJusHP2o+pWg=="
+secured: "ZN8GN4l6SdMMLpHmbgpnTypp+J4xGkTYTb9NR+zTSWXTZMXoRAA2ZWmbbl0+BYXg/27jjPrcQd2zKC3Md+kLxLnfDunrrxbLjFLfb6hTZNoaf5s9VETMFZ7BVL2wcL1wE9SjzfbTGUIKXTfcgvNyRCyje3n9JypEEnCDbpAdNOnB5Lbx/buqQDvhiVzMN9/LS2YmxVUa+XTCcMnAjcXPs0OfaigMpgWfon2emwsBcfHhANwpYQjKrf8+k1ndvT3quCav2lDH8ARedbirrKD39kCRG4bHExqFkS08Xt7jHK+tFsTiAr7Xr4h5z6nxisIgHvB53nhpbFtC3l3aeXCr9j0nbXbN9UfgQMjtG6HZ1X4=;d30iUMiAjaarKD+qeJoyXQ=="
 ---
 

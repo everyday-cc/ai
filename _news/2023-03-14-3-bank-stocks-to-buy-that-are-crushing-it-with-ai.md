@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3 Factors Driving AI Surge in Health Care"
+    excerpt: "Recent research indicates ways hospitals and health systems can leverage artificial intelligence (AI) to improve performance, identify and resolve gaps in health equity, and reduce costs."
+    publishedDateTime: 2023-03-14T12:49:00Z
+    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2023-03-14-3-factors-driving-ai-surge-health-care"
+    type: article
+    provider:
+      name: aha.org
+      domain: aha.org
+    quality: 19
 
 secured: "ll41abyE2Mtkhx2XldqExVXS7Lj6GlvMJcclJ0kyAB8aTpx1yQOCF5l/pYpbEV6wZHwt2waBR5CJN3uv+XncMFgsIl8jm/bAoPAXaYFCDe+cx57i5pJRFljRM9UhVkD9KqhAHkX97SL7w93WbBat8o0BNN05KHjGtxrdErUrWxmPV+XCoWRpgqRqbUCAOmngwBd9xF2XgL0eN+b6CwIE3Q16U3erfG6eG89cjy9xWlKyapavLMd8dH/HrF3bVPLbBU8hGSeAbYe+6AnGEFpnMqOfoVjWKrtvZwiib7eEVdAIZtQCN8YE97i1iMYonM/0oumTKUn2/5Nhc2cbJhRkUxbQAhj1KFksOjetZ0+F/8OnpLK+C6NapJE5F37WXRc6jCUejjESyoZsCtYtF2/rZO3+hruHg5aj0jNrf/U8nblqrB6kzxK62A7g33szGPl04CwkqH+ZrYiXiRxpJOHYXWKPG2vWVqDp5fTFiYN+EQCKEg4BYRZXdNAZ0XfC57IdV+kZT5jk/l8iADwAq5rekQ==;UfM1fK8wboZmTca4MCWw0g=="
 ---

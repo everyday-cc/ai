@@ -33,20 +33,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
-  - title: "Making scalable computing easy: Anyscale harnesses foundational machine learning models at scale"
-    excerpt: "But, given their depth, these models also require large amounts of compute resources to perform at a meaningful scale. And that computing at scale is the problem that Anyscale Inc. is working to solve."
-    publishedDateTime: 2023-03-09T21:01:00Z
-    webUrl: "https://siliconangle.com/2023/03/09/making-scalable-computing-easy-anyscale-harnesses-foundational-machine-learning-models-scale-awsshowcases3e1/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Robert-Nishihara-CLEAN-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "LmJFAFRsoXuivHLHw/Vu2lOU3pyYbD9ync5uuDMr48XZD+NlcKFeZHjNeyTg3Y2nstQXq7Cnp5sdVwci8dJb3Gnbpi1Qr0XidUqf/I7zdyJMuLAFwlt37j8QhCaRFiFKyo6ZB3gAjzlMwjC4CZYCBtylthb5CAjMa2ihX2h0FzLxbicvjAG44XmGT9NF3/pfVT/jyE5lN+PFwfK70Hsz+FtnY28QufLHEdDT+Ye2Cy6qTYmztLhqFA/Ilr8yi3NXnE6HUg9RA1y49uP4SaVDSIJCS8i1fquZHhve8oLu64lwT9gXpLD1SbUSOpqtJl6B6dj+8yQyaJe715JdGvGOam5MnrhMyOkzy/FlEYRrZj0=;31G0AwkyvWPx5C+xJWpfxw=="
 ---

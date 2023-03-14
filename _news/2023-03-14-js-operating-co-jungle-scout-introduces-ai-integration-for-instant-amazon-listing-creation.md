@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T13:42:00Z
 originalUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58550371-js-operating-co-jungle-scout-introduces-ai-integration-for-instant-amazon-listing-creation-200.htm"
 webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58550371-js-operating-co-jungle-scout-introduces-ai-integration-for-instant-amazon-listing-creation-200.htm"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Finanznachrichten

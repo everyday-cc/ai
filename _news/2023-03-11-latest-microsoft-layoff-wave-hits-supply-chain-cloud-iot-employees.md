@@ -25,61 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Axes AI Ethics And Society Team As Part Of Mass Layoffs: Report"
-    excerpt: "Microsoft's AI team that ensured the company's products reflected its AI principles had about 30 employees in 2020 before it was cut down to seven in October."
-    publishedDateTime: 2023-03-14T04:46:00Z
-    webUrl: "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619"
-    ampWebUrl: "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619?amp=1"
+  - title: "Microsoft Open-Sources Weather Forecasting Deep Learning Model ClimaX"
+    excerpt: "Researchers from Microsoft's Autonomous Systems and Robotics Research group have open-sourced ClimaX, a deep learning foundation model for weather and climate modeling. ClimaX can be fine-tuned for a variety of prediction tasks and performs as well as or better than state-of-the-art models on several benchmarks."
+    publishedDateTime: 2023-03-14T14:42:00Z
+    webUrl: "https://www.infoq.com/news/2023/03/microsoft-climate-ai/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 90
+      name: InfoQ
+      domain: infoq.com
+    quality: 56
     images:
-      - url: "https://d.ibtimes.com/en/full/4415341/microsoft-logo-seen-day-after-microsoft-corps-msfto-262-billion-purchase-linkedin-corp.jpg"
+      - url: "https://res.infoq.com/news/2023/03/microsoft-climate-ai/en/headerimage/generatedHeaderImage-1677332573863.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Ethics or Profit? Microsoft's Layoffs Reportedly Target AI Team Amid Google Rivalry"
-    excerpt: "The Satya Nadella -led company has slashed its Ethics and Society team within the artificial intelligence organization. The decision is part of recent layoffs that impacts 10,000 employees across the company,"
-    publishedDateTime: 2023-03-14T04:54:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31333533/ethics-or-profit-microsofts-layoffs-reportedly-target-ai-team-amid-google-rivalry"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31333533"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31333533"
+  - title: "VeriSilicon collaborates with Microsoft to deliver Windows 10 to the Edge"
+    excerpt: "VeriSilicon (688521.SH) today announced its collaboration with Microsoft on Windows 10 IoT Enterprise platforms including hardware accelerators and long-term support for powerful embedded platforms. Leveraging VeriSilicon's embedded software design capability and decades of experience in launching successful products,"
+    publishedDateTime: 2023-03-14T07:04:00Z
+    webUrl: "https://it.tmcnet.com/news/2023/03/14/9776072.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 85
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Microsoft._Photo_by_Volodymyr_Kyrylyuk_on_Shutterstock_0.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "‘Ethics and society’ team responsible for AI moderation laid off by Microsoft"
-    excerpt: "Tech giant Microsoft has laid off an entire team of ‘ethics and society’ responsible for Artificial Intelligence (AI) moderation"
-    publishedDateTime: 2023-03-14T04:18:00Z
-    webUrl: "https://theshillongtimes.com/2023/03/14/ethics-and-society-team-responsible-for-ai-moderation-laid-off-by-microsoft/"
-    type: article
-    provider:
-      name: Shillong Times
-      domain: theshillongtimes.com
-    quality: 68
-    images:
-      - url: "https://theshillongtimes.com/wp-content/uploads/2022/12/microsoft.jpg"
-        width: 400
-        height: 332
-        isCached: true
-  - title: "Microsoft Layoffs: Ethics and Society Team Fired"
-    excerpt: "As Microsoft continues its string of layoffs, the company’s ethics and society team is the latest part of the workforce to be fired. The sacking of the ethical AI team at the tech giant has naturally led to controversies regarding whether or not ..."
-    publishedDateTime: 2023-03-14T09:17:00Z
-    webUrl: "https://techreport.com/news/3493451/microsoft-layoffs-ethics-and-society-team-fired/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 36
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "T00stqWxrAaZL2lAXQXuoYfKgIAOeyepzE3rPzdHXLtScxQTchYJm7+HlAO8mJr0eBZr3fq+En8dcoAP/gwkHWHTWi8OE3DgDBxH25MeddTA6D7vbkIIxfqpkSwr3fUvQ6AoYV42GPDUq5NuktqzeEMm9jgvEJnwF/xFC+rs4daZL4s/++FHF2/jSDmKk2+jT74BqqrbpOOieyZmMqE2SylJo2uTYjcMsEBqUtoFxV9FkiOBXiyWrQQDFiwQeVjYOUNpBdjVTRWtkiI8LzxLtPiGz7PzaCf3LELKAxi8TyJlzp6JxKhxkDSlSYoSpwBZnnWRf178n2ffn6VKlze34yBg54GLYxi0ApkPx3QyCtdCufj5wgxK/JZLQxHW0DPgy/DPTN4lIoYVwKWtRwV0VwLK7eYtLeDFPA5B+YPdj5YHsml+W+TnUfDkoabR1ibAzixCd6kCNNUDJTtuY8DbI8NxShRIZo3ZQgZJSuwXLEA5P9b/uw4U+T0JMAl0dRPwAc7b7xPuTNx9xk4Gl4RKyg==;SN7rBF503VNhWBVI2NHapQ=="
 ---

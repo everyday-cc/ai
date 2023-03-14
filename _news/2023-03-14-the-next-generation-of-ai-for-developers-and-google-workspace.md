@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T13:00:00Z
 originalUrl: "https://blog.google/technology/ai/ai-developers-google-cloud-workspace/"
 webUrl: "https://blog.google/technology/ai/ai-developers-google-cloud-workspace/"
 type: article
+quality: 69
+heat: 89
+published: true
 
 provider:
   name: Google
@@ -18,6 +21,31 @@ provider:
 topics:
   - AI
   - Google AI
+
+related:
+  - title: "Google Workspace is about to put generative AI to work"
+    excerpt: "Google says it’s working on further AI features for Workspace, including summarization in Gmail, Docs, Meet, and Chat; translation for Meet ... are built on the company’s PaLM (Pathways Language Model) large language model, which is also the basis ..."
+    publishedDateTime: 2023-03-14T13:48:00Z
+    webUrl: "https://www.fastcompany.com/90865094/google-workspace-docs-gmail-generative-ai"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
+  - title: "Why It Matters: ABA House of Delegates Adopts Guidelines for Developers and Users of Artificial Intelligence"
+    excerpt: "At the recent ABA mid-year meeting in New Orleans, the House of Delegates discussed and adopted by a unanimous vote Resolution 604 that proposes guidelines for counsel and clients involved in the development and use of artificial intelligence (“AI”)."
+    publishedDateTime: 2023-03-13T21:29:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2023/03/13/why-it-matters-aba-house-of-delegates-adopts-guidelines-for-developers-and-users-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 18
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2023/03/Trope-Thomson-Cwik-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "l0szPF646MBlaQ/44Cvk4A8E6Uq1s5GnkGnATLCM4iiTulmVOmZZNEpBnmUOWrc1vYtjWEd3Lj82J6ggnFBWPLrt0fI+RtEkeV2JgxjKMS+aWppHv2GJkxghRA36RjJdTiX9fsnvkT8TXIbG22/2O7o8sONlW17/uBHP2hAnGzdbNkrbJNYEBkZoPXRxXju0RaMpwWY0GzfkbQ5Q6DhIoL9yaLqnJiIoS7B1Vk/hHnGN2HAU9ao9m0hVrB4k7S9g50ihyYV9LwBXtdLbdl2qjGB2RAb6/5ClNvWqvzZCLxEiJO9V72TjCqdYFJ6Q5hs1/LXkUKKBWGhhZ8Vl0qlW4UH7fR0RLal3Ix/B5EoyMaI=;dRDYx7mBDPzN5xB5P/X5SQ=="
 ---

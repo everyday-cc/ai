@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-14T12:46:00Z
 originalUrl: "https://www.businessinsider.com/how-podcasters-podcast-use-chatgpt-other-ai-tools-ethics-2023-3"
 webUrl: "https://www.businessinsider.com/how-podcasters-podcast-use-chatgpt-other-ai-tools-ethics-2023-3"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Business Insider

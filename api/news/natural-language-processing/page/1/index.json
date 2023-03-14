@@ -107,21 +107,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-12-can-ai-be-a-therapist-how-new-tech-is-aiding-the-mental-health-care-system.md",
-      "title": "Can AI be a therapist? How new tech is aiding the mental health-care system",
-      "excerpt": "Artificial intelligence is increasingly being incorporated into people's daily lives, including in mental health care in Canada. Many telehealth companies are using AI to give personalized health care to patients,",
+      "path": "_news/2023-03-13-gm-will-integrate-chatgpt-into-its-vehicles-in-car-digital-assistants.md",
+      "title": "GM will Integrate ChatGPT Into its Vehicles’ In-Car Digital Assistants",
+      "excerpt": "GM states that they are developing an in-car digital assistant powered by the same machine learning models used in ChatGPT.",
       "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/health/can-ai-be-a-therapist-how-new-tech-is-aiding-the-mental-health-care-system-1.6304944",
-      "originalUrl": "https://www.ctvnews.ca/health/can-ai-be-a-therapist-how-new-tech-is-aiding-the-mental-health-care-system-1.6304944",
+      "webUrl": "https://www.gizmochina.com/2023/03/13/gm-integrating-chatgpt-with-vehicles/",
+      "originalUrl": "https://www.gizmochina.com/2023/03/13/gm-integrating-chatgpt-with-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/12/1_6304950.jpg",
-          "width": 960,
-          "height": 539,
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/03/84ddc0c0-c116-11ed-adef-395fc59ecfdd.cf_.jpg",
+          "width": 875,
+          "height": 584,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -129,14 +129,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/health/2023/3/12/1_6304944.amp.html",
-      "publishedDateTime": "2023-03-12T05:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T00:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -146,8 +155,7 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {

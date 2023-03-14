@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google to Weave AI Technology Into Its Health-Care Offerings"
+    excerpt: "Alphabet Inc.’s Google unveiled plans to integrate artificial intelligence into health-related initiatives, including an update on the use of language-generating technology in medical exams and AI-assisted research, ways to help consumers find ..."
+    publishedDateTime: 2023-03-14T15:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-03-14/google-to-integrate-artificial-intelligence-into-health-care-services-products"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifQYiEad1ecc/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Can AI be a therapist? How new tech is aiding the mental health-care system"
     excerpt: "Artificial intelligence is increasingly being incorporated into people's daily lives, including in mental health care in Canada. Many telehealth companies are using AI to give personalized health care to patients,"
     publishedDateTime: 2023-03-12T12:00:00Z
@@ -42,20 +56,6 @@ related:
       - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2023/3/12/1_6304950.jpg"
         width: 960
         height: 539
-        isCached: true
-  - title: "PL-AI: At the intersection of experimental theatre and Artificial Intelligence"
-    excerpt: "PL-AI Civic Theatre, Tallaght ★★★★☆ When you invite artificial intelligence to spice up your evening of theatre, you’re never quite sure where it will take you, but re"
-    publishedDateTime: 2023-03-14T11:52:00Z
-    webUrl: "https://www.irishtimes.com/culture/stage/review/2023/03/14/pl-ai-at-the-intersection-of-experimental-theatre-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 48
-    images:
-      - url: "https://www.irishtimes.com/resizer/pKHg5x9gitdfRmv43WXiScdJcgQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/JEQDDVBQEVHFNPH5FUQ3UNANVY.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "PJtYVjo6eoQpHjiSdXvt0dPrLlu/v9F/csHYVIWvrsTTkQI6t7f0Jf7f14TpGUIMDabARrtV1tmyCyQUJgACtrC+Ep3halkHujf+OXd/oLgArpvmZTnpL1Ytm32JG2VwxI0QqldJZCS//1WKV0ARCtDqe6bXiKGDhCNEEOartFcMcL2BTu3mfYeRa2+hzIUT7xcXjP7Ix63qH01MLVX8r4cQadOLyEKRePLqU7I2FO25nkOHFagfqv/20H9BU6L7bg2NxFxj6h4kWWt4dJ7ro7uIYXFa8MoZw+sw4bhb1BiN+G9zO9BjbKJySF+83UG9YyBzn8N4RgmR4oKV/h9Xd2tFLlu3YjXBN9AeX76QFTk=;m84cZ9cVHWdEaOtOJ9QUkw=="
