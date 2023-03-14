@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-14-microsoft-axes-ai-ethics-and-society-team-as-part-of-mass-layoffs-report.md",
+      "title": "Microsoft Axes AI Ethics And Society Team As Part Of Mass Layoffs: Report",
+      "excerpt": "Microsoft's AI team that ensured the company's products reflected its AI principles had about 30 employees in 2020 before it was cut down to seven in October.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619",
+      "originalUrl": "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4415341/microsoft-logo-seen-day-after-microsoft-corps-msfto-262-billion-purchase-linkedin-corp.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619?amp=1",
+      "publishedDateTime": "2023-03-13T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-when-ai-chips-battle-your-portfolio-makes-money.md",
       "title": "When AI chips battle, your portfolio makes money",
       "excerpt": "The artificial intelligence (AI) revolution is here. And international companies are lining up their strategies. Nearly all the Big Tech names have started designing their own chips. Additionally, some smaller and profitable ones are also listed and could make for interesting stock picks.",
@@ -190,7 +234,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 291,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -346,7 +390,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -935,6 +979,59 @@
       ]
     },
     {
+      "path": "_news/2023-03-13-artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028.md",
+      "title": "Artificial Intelligence in Healthcare Market Application, Product, Sales and Forecast 2023-2028",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 13, 2023 (The Expresswire) -- The \"Artificial Intelligence in Healthcare Market\" Study Describes how the technology industry is evolving and how major and emerging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 319,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-an-ai-start-up-boomed-but-now-it-faces-a-slowing-economy-and-new-rules.md",
       "title": "An A.I. Start-Up Boomed, but Now It Faces a Slowing Economy and New Rules",
       "excerpt": "Eightfold AI, grew cautiously in its first few years. But it hit the accelerator after it raised $220 million in 2021, the pandemic boom year for venture investment, bringing the company’s funding to more than $400 million. The Silicon Valley start-up ...",
@@ -1073,21 +1170,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-13-healthcare-natural-language-processing-market-valuation-worldwide-2023-2029.md",
-      "title": "Healthcare Natural Language Processing Market Valuation Worldwide 2023-2029",
-      "excerpt": "Healthcare Natural Language Processing Market 2023 Will Provide Report Analysis that quickly emerging as one of the [ICT] category in the industry, by Type (, Machine Translation,",
+      "path": "_news/2023-03-13-civil-servants-being-trained-in-artificial-intelligence-jitendra-singh.md",
+      "title": "Civil servants being trained in artificial intelligence: Jitendra Singh",
+      "excerpt": "Civil service officers are now being trained in artificial intelligence tools and data analytics for effective performance in the current administrative context, union minister Jitendra Singh said. Under mission karmayogi,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-valuation-worldwide-2023-2029-2023-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-market-valuation-worldwide-2023-2029-2023-03-12",
+      "webUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh-11678629063818.html",
+      "originalUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh-11678629063818.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://images.livemint.com/img/2023/03/12/600x338/jitendrasingh_1678629341268_1678629341570_1678629341570.jpg",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1095,23 +1192,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T20:39:00-07:00",
+      "ampWebUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh/amp-11678629063818.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh/amp-11678629063818.html",
+      "publishedDateTime": "2023-03-12T18:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1120,112 +1208,6 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-machine-learning-as-a-service-mlaas-market-to-2023-2029.md",
-      "title": "Machine Learning as a Service (MLaaS) Market to 2023-2029",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 12, 2023 (The Expresswire) -- Machine Learning as a Service (MLaaS) Marketinformation for each competitor includes (, MonkeyLearn, Google, BigML, IBM, Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-2023-2029-2023-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-2023-2029-2023-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market by Product Type & End Users-2029",
-      "excerpt": "Artificial Intelligence (AI) in Fintech Marketinformation for each competitor includes (Next IT Corporation, TIBCO",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-by-product-type-end-users-2029-2023-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

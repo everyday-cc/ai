@@ -2,58 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2022-12-18-how-generative-ai-will-change-all-knowledge-work.md",
-      "title": "How Generative AI Will Change All Knowledge Work",
-      "excerpt": "The acceleration of applications around generative AI is showing us how quickly and broadly our work will change.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/",
-      "originalUrl": "https://time.com/charter/6242075/how-generative-ai-will-change-all-knowledge-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2022/12/image-7.png?w&#x3D;1600",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-12-18T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-12-17-need-a-ride-to-or-from-sky-harbor-waymo-driverless-cars-now-open-to-everyone-for-trip.md",
       "title": "Need a ride to or from Sky Harbor? Waymo driverless cars now open to everyone for trip",
       "excerpt": "Friday's announcement not only opens that service to anyone who wants a driverless car ride but also includes nearly doubling the size of the Phoenix service territory. All service to the airport ...",
@@ -1346,6 +1294,58 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-13-artificial-intelligence-ai-in-military-market-outlook-2022-and-forecast-to-2030-by-boeing-bae-systems-caci-international.md",
+      "title": "Artificial Intelligence (AI) in Military Market Outlook 2022 and Forecast to 2030 | By -Boeing, BAE Systems, CACi International",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Dec 13, 2022 (Heraldkeepers) -- New Jersey, United States- The Artificial Intelligence (AI) in Military market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-military-market-outlook-2022-and-forecast-to-2030-by--boeing-bae-systems-caci-international-2022-12-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-military-market-outlook-2022-and-forecast-to-2030-by--boeing-bae-systems-caci-international-2022-12-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

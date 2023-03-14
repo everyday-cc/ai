@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-02-22-image-recognition-in-retail-market-size-2023-growth-statistics-industry-demand-top-players-data-share-upcoming-trends-forecast-2031.md",
+      "title": "Image Recognition in Retail Market Size 2023 Growth Statistics, Industry Demand, Top Players Data, Share, Upcoming Trends, Forecast 2031",
+      "excerpt": "Image recognition is the process of analyzing an input image and predicting its category. The implementation of Image recognition in the retail stores improves in store execution and brand visibility and benefits the retail stores by increasing sales growth,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-growth-statistics-industry-demand-top-players-data-share-upcoming-trends-forecast-2031-2023-02-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-size-2023-growth-statistics-industry-demand-top-players-data-share-upcoming-trends-forecast-2031-2023-02-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T22:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-22-ai-in-fintech-market-growth-forecast-the-latest-market-research-and-what-it-means-for-your-business.md",
       "title": "AI in Fintech Market Growth Forecast: The Latest Market Research and What It Means for Your Business",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb 22, 2023 (Heraldkeepers) -- (Pune) In the past few years, the AI in Fintech market experienced a huge change under the influence of COVID-19 and Russia-Ukraine War ...",
@@ -998,49 +1050,6 @@
       "provider": {
         "name": "RF Globalnet",
         "domain": "rfglobalnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-21-using-model-driven-deep-learning-to-achieve-high-fidelity-4k-color-holographic-display.md",
-      "title": "Using model-driven deep learning to achieve high-fidelity 4K color holographic display",
-      "excerpt": "A new publication from Opto-Electronic Advances, 10.29026/oea.2023.220135 discusses the use of model-driven deep learning to achieve high-fidelity 4K color holographic display.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/980347",
-      "originalUrl": "https://www.eurekalert.org/news-releases/980347",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c3e4cc72-5042-462e-964a-80c3903bb4ee/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

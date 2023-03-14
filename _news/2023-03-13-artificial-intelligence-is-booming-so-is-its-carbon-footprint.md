@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/13/artificial-in
 webUrl: "https://www.thestar.com.my/tech/tech-news/2023/03/13/artificial-intelligence-is-booming---so-is-its-carbon-footprint"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1240
     height: 825
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Is Booming—So Is Its Carbon Footprint"
-    excerpt: "Artificial intelligence has become the tech industry’s shiny new toy, with expectations it’ll revolutionize trillion-dollar industries from retail to medicine. But the creation of every new chatbot and image generator requires a lot of electricity,"
-    publishedDateTime: 2023-03-09T14:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-03-09/how-much-energy-do-ai-and-chatgpt-use-no-one-knows-for-sure"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwxrnxJ0ZpVY/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "1GC5NK72ZAB/MKZpeuENdFJalaKIyLHwp2ldhvJcSbI19FXMZjF35yYsaDZrniZ0oVHnfhjmyGmUPW8+xuU+LSXnbvclSeqz2Y+oFxKNRke9I1F6qeGADyVjz95LHhi4W/dxrpgmBPC9XE5PvQq9rjCThXufyD/oCDFHHD2cKSRDcO/bRZ8Gek+9x0/jrKp2XqfHn4MkGpd5V+8PvrQD/1kEQDrOeXdoYSw7QddeKyTLoYZiQ2zBUSv5X25misbNjOEnKDQ/p576xsOn2NGlsN2oaxntekKOg0ayNkX2JoQndMmJsrJ6Z9SRE65D4rtiuHyE5jA9l5ct0kbxFoSZT+RRD2f+hQaj8KxD+Dpu+VlGIHwKI1DWVLdsPmEKC7Dljh9l1w3TlPjltSrdHEgv+zw4TJyZciUpu9dAx1RF6nMvw5kuajeWbTFXyUl8/GQa7eCTQTfr6XGLlV0cIlT7N7LGC4m6Z8CoD/gh9i7EG68kca9TKh4few4rGzv1UsXpTBAEuBptZ6hQKD1Y0upyWA==;WmMVmoJStT9IRiTT2bvcUQ=="
 ---

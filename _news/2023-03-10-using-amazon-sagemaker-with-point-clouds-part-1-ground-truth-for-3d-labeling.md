@@ -80,20 +80,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 67
-  - title: "UiPath Announces Integration with Amazon Sagemaker"
-    excerpt: "UiPath, a leading enterprise automation software company, has announced data science teams using Amazon SageMaker, an"
-    publishedDateTime: 2023-03-09T13:41:00Z
-    webUrl: "https://www.datanami.com/this-just-in/uipath-announces-integration-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
-        width: 1664
-        height: 674
-        isCached: true
 
 secured: "Jz/v8Kux7GHkYaGH39S43mZW4tiegaCIzjF1aoFi/Wd8tH/V3WaHQm7+uZiRGyhUM2pGas7jj18lI5AWxGtsogClYPaFDIEVHA5UZUZ+mGGMcQydXxZXQP3Zs49QsR6VT3hQzi3ox2jPxta1vKnoSaMPNPXLKF6/M7JxWj3Ki9oR8brmRMk82oSF0gg15ZY58VaLTnDAnBBqu929wpkqX1os1+VqQnQsLxZoDxW0Z7UW/uLsjsecshheoStPjMsmQ6/ho2firbU6Dmnjp9jFKEg56Nu10Z0gY4ZCEjT3uRzYE9y3VhCuC/B6HK2h1j9A9D1SN4PJTAOuShnK0myDsbCOxrGa8AdgqAHC4N7BtHE=;ahDw5u2TBbPG+c7pQfN0vQ=="
 ---

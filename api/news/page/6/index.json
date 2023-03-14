@@ -287,6 +287,40 @@
       ]
     },
     {
+      "path": "_news/2023-03-07-artificial-intelligence-can-now-simultaneously-detect-up-to-nine-pathologies-in-one-image.md",
+      "title": "Artificial intelligence can now simultaneously detect up to nine pathologies in one image",
+      "excerpt": "For almost three years, the service has been helping Moscow doctors to find slightest abnormalities in images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mos.ru/en/news/item/120700073/",
+      "originalUrl": "https://www.mos.ru/en/news/item/120700073/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mos.ru/amp/en/news/item/120700073/",
+      "cdnAmpWebUrl": "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/120700073/",
+      "publishedDateTime": "2023-03-06T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mos",
+        "domain": "www.mos.ru",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-07-healthcare-robotics-engineering-forum-full-conference-agenda.md",
       "title": "Healthcare Robotics Engineering Forum full conference agenda",
       "excerpt": "The Healthcare Robotics Engineering Forum announced its full conference agenda for the May 10-11 2023 event at the Boston Convention and Exhibition Center.",
@@ -1078,49 +1112,6 @@
       "provider": {
         "name": "Oil",
         "domain": "ogj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-drones-and-deep-learning-researchers-develop-a-new-technique-to-quantify-rice-production.md",
-      "title": "Drones and deep learning: Researchers develop a new technique to quantify rice production",
-      "excerpt": "These images are then processed using a deep learning network that we have developed, called RiceNet, which can accurately identify the density of rice plants in the field, as well as provide ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-03-drones-deep-technique-quantify-rice.html",
-      "originalUrl": "https://phys.org/news/2023-03-drones-deep-technique-quantify-rice.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/drones-and-deep-learni.jpg",
-          "width": 2880,
-          "height": 1923,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-03-drones-deep-technique-quantify-rice.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-drones-deep-technique-quantify-rice.amp",
-      "publishedDateTime": "2023-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

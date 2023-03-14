@@ -9,7 +9,7 @@ ampWebUrl: "https://www.woodtv.com/news/washington-dc/artificial-intelligence-to
 cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/news/washington-dc/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence tools becoming ‘unavoidable’, lawmakers say"
-    excerpt: "The Artificial Intelligence revolution is upon us. Emerging technologies, like chatbots, have become almost unavoidable in recent months. But is Washington ready for this new wave of technological"
-    publishedDateTime: 2023-03-09T13:00:00Z
-    webUrl: "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/"
-    ampWebUrl: "https://www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/"
-    cdnAmpWebUrl: "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/artificial-intelligence-tools-becoming-unavoidable-lawmakers-say/amp/"
-    type: article
-    provider:
-      name: WKBN 27 First News
-      domain: wkbn.com
-    quality: 59
-    images:
-      - url: "https://www.wkbn.com/wp-content/uploads/sites/48/2023/03/aiphone_012723_gettyimages_chatgpt.jpg?w=1280"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "Artificial Intelligence tools becoming ‘unavoidable’, lawmakers say"
     excerpt: "WASHINGTON (Nexstar)– The Artificial Intelligence revolution is upon us. Emerging technologies, like chatbots, have become almost unavoidable in recent months. But is Washington ready for this new wave of technological advancement? South Carolina ..."
     publishedDateTime: 2023-03-09T18:09:00Z

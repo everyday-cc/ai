@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-14-microsoft-axes-ai-ethics-and-society-team-as-part-of-mass-layoffs-report.md",
+      "title": "Microsoft Axes AI Ethics And Society Team As Part Of Mass Layoffs: Report",
+      "excerpt": "Microsoft's AI team that ensured the company's products reflected its AI principles had about 30 employees in 2020 before it was cut down to seven in October.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619",
+      "originalUrl": "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4415341/microsoft-logo-seen-day-after-microsoft-corps-msfto-262-billion-purchase-linkedin-corp.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/microsoft-axes-ai-ethics-society-team-part-mass-layoffs-report-3676619?amp=1",
+      "publishedDateTime": "2023-03-13T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers.md",
       "title": "Microsoft shows how it combines Azure with NVIDIA chips to make AI supercomputers",
       "excerpt": "At the same time, it also announced a new AI virtual machine that used upgraded GPUs from NVIDIA. The new ND H100 v5 VM from Microsoft use NVIDIA's H100 GPUs, an upgrade from the previous A100 GPUs. Companies that need to add AI features can access this ...",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-shows-how-it-combines-azure-with-nvidia-chips-to-make-ai-supercomputers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 291,
+      "heat": 311,
       "tags": null,
       "images": [
         {
@@ -1312,49 +1356,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-microsoft-launches-new-cognitive-speech-services-features-to-accelerate-language-learning.md",
-      "title": "Microsoft Launches New Cognitive Speech Services Features to Accelerate Language Learning",
-      "excerpt": "Microsoft Azure Cognitive Speech Services is a comprehensive collection of technologies and services such as Speech to Text, Text to Speech, custom neural voice (CNV) Conversation Transcription ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/03/microsoft-cognitive-new-speech/",
-      "originalUrl": "https://www.infoq.com/news/2023/03/microsoft-cognitive-new-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/03/microsoft-cognitive-new-speech/en/headerimage/generatedHeaderImage-1677605516513.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-02T03:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

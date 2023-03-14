@@ -33,6 +33,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "China self-driving start-up WeRide files for $674 million US IPO, sources say"
+    excerpt: "China’s private companies in areas including semiconductors, artificial intelligence and autonomous driving are poised to benefit from President Xi Jinping’s public backing of the private sector. China, facing what Mr Xi described as suppression by the ..."
+    publishedDateTime: 2023-03-14T03:50:00Z
+    webUrl: "https://www.straitstimes.com/business/china-self-driving-start-up-weride-files-for-673-million-us-ipo-sources-say"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 21
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/03/14/acweride140323_0.jpg?VersionId=_fCIpRU7DpjFHrHAuGBQM9_6ShluD4KS"
+        width: 860
+        height: 573
+        isCached: true
 
 secured: "m7hl43KTq48DrvTKx2S+jeYe7EiIYYP5QJtoNv7KwFPNxnG+QP+aQKubUyyv9AfzoAFjvDiYC5WyoguOmFkCXdypU/7bWWX0Vxu6hv5KtNx/4iHga3oANXqm9xCuXKzP9BWXQaxPlrc22B8Y8IC3ts5wTTxgelaoTbkOfM0261R8TGXmxOI41RrIGvhzqSqtn0WF4VykKQ61ZWMdem1G/Lg6HZ9natcexhqNDg5siPrRwqQiDqn2PPUKqE+0nGmv78hbCNmzeK+tn2dtd3i0AXCZPiMb4UYv9YZSBSeh3GT2T+egUdWra8di5vk21gf+m7qjTkjZm3MlfvpTZ0A7D5+Y5DR4osrAiqt9HA06AqMYktqxUkC3FuL5MtrPQZPgQgALONxO+cydnBPkN/mMy6pHqY1khC7jzarNd0kOdI/CZWxDT6rh4fVS05WwqWMsY28x3114pQp0WUypUa7kIHVRY2P8VF6KmaLawzW3ZR5V85QSz5f73qeMBeQukeSItktO12AnGqDYW2taLiMjQQ==;x98d2nQCArG1aUathWTLAQ=="
 ---

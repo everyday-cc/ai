@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-01-cloud-and-ai-combined-revolutionizing-tech.md",
+      "title": "Cloud and AI Combined: Revolutionizing Tech",
+      "excerpt": "Cloud and AI, both powerful on their own, are merging into a single entity that is radically reshaping business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/cloud-and-ai/",
+      "originalUrl": "https://www.eweek.com/cloud/cloud-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2023/01/cloud-and-ai.jpg",
+          "width": 1400,
+          "height": 1138,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-31T14:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-31-turbohire-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "TurboHire now available in the Microsoft Azure Marketplace",
       "excerpt": "TurboHire now available in the Microsoft Azure Marketplace - Recruitment automation platform TurboHire announced its availabilityin the Microsoft Azure Marketplace, an",
@@ -1337,49 +1389,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-18-microsoft-is-expanding-access-to-its-azure-openai-service-with-chatgpt-available-soon.md",
-      "title": "Microsoft Is Expanding Access to Its Azure OpenAI Service, With ChatGPT Available 'Soon'",
-      "excerpt": "On Monday, Microsoft announced it’s widening access to its Azure OpenAI Service, a move likely to increase business uses of Open AI’s popular GPT-3.5, Codex, and DALL E 2 systems. ChatGPT ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/microsoft-openai-chatgpt-ai-1849995341",
-      "originalUrl": "https://gizmodo.com/microsoft-openai-chatgpt-ai-1849995341",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-17T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

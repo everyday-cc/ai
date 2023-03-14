@@ -71,33 +71,19 @@ related:
         isCached: true
   - title: "Stop the spies with the facial recognition"
     excerpt: "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ..."
-    publishedDateTime: 2023-03-10T23:57:00Z
-    webUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
-    ampWebUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    publishedDateTime: 2023-03-11T00:06:00Z
+    webUrl: "https://www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+    ampWebUrl: "https://www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
     type: article
     provider:
-      name: Orange County Register
-      domain: ocregister.com
+      name: Daily Breeze
+      domain: dailybreeze.com
     quality: 59
     images:
-      - url: "https://www.ocregister.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+      - url: "https://www.dailybreeze.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
         width: 1024
         height: 578
-        isCached: true
-  - title: "Voice Recognition Biometrics Market Growing Demand and Trends 2023 to 2029"
-    excerpt: "The \"Voice Recognition Biometrics Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-14T01:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-growing-demand-and-trends-2023-to-2029-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "yR2QO0O8mHs0jq+WikIUiNDUqFQWnFm6bOnaS4JaxooGVSEykvWFywSIqBFPabA/vtqQ+8NaRS+fuuIF5kv3BeO/3MWzUt5XcKE6oLpJRiDIM2TOXXZB1UiMN6tSkE73ZQgT7wSQRkRS2nuZmTr9P2GJ+iQCRBD2RdNl20g6yUbGP6E7BKCdlmRbcSbf+ykL8j8kNBjfpZuPcZmedCWewCVodBCC34CSKJFMbSDdntT/wj3hLzH3yBoACkzwD4Jbtf6W8QvYihk1hJVcjjAsQkqBfxjt6U4TDQc/BkFazFYAvWCCpnRqR3/b70YRQuGv6V7Kc8cY8t8H4oAcRF14H+9rkX3GDaJFosoPrUSEwHE=;YcrX7zGdlU3mHrvc3RnStA=="

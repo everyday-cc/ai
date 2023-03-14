@@ -2,6 +2,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-02-09-driverless-cars-available-for-rides-around-the-site-of-super-bowl-57-in-glendale.md",
+      "title": "Driverless cars available for rides around the site of Super Bowl 57 in Glendale",
+      "excerpt": "One unique option: driverless cars! The alternative is growing in popularity, and also highlights the big tech industry in the Phoenix region. Action News' Christie Ileto takes us along for a ride.",
+      "sourceUrl": null,
+      "webUrl": "https://6abc.com/phoenix-driverless-cars-super-bowl-57-state-farm-stadium-glendale/12787888/",
+      "originalUrl": "https://6abc.com/phoenix-driverless-cars-super-bowl-57-state-farm-stadium-glendale/12787888/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/12787908_020823-wpvi-self-driving-cars-super-bowl-430pm-video-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://6abc.com/amp/phoenix-driverless-cars-super-bowl-57-state-farm-stadium-glendale/12787888/",
+      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/phoenix-driverless-cars-super-bowl-57-state-farm-stadium-glendale/12787888/",
+      "publishedDateTime": "2023-02-08T19:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "6abc News",
+        "domain": "6abc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-waymo-provides-driverless-rides-for-super-bowl-visitors.md",
       "title": "Waymo provides driverless rides for Super Bowl visitors",
       "excerpt": "But there’s another option if they need a ride around Phoenix. Waymo has been offering driverless rides around the city for a few years. But thousands of people will be in town this week seeing ...",
@@ -1022,49 +1065,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-report-outlines-artificial-intelligence-cyber-risks-solutions-for-health-care.md",
-      "title": "Report outlines artificial intelligence cyber risks, solutions for health care",
-      "excerpt": "A new white paper from the Healthcare and Public Health Sector Coordinating Council (HSCC), a public-private partnership to mitigate risks to the sector, outlines nine cybersecurity concerns for artificial intelligence use in the clinical and enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aha.org/news/headline/2023-02-08-report-outlines-artificial-intelligence-cyber-risks-solutions-health-care",
-      "originalUrl": "https://www.aha.org/news/headline/2023-02-08-report-outlines-artificial-intelligence-cyber-risks-solutions-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aha.org/sites/default/files/2018-07/cybersecurity-hand-lock-graphic_900x400.jpg",
-          "width": 900,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T12:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "aha.org",
-        "domain": "aha.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

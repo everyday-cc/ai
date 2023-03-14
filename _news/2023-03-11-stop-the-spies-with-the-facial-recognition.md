@@ -2,26 +2,26 @@
 category: news
 title: "Stop the spies with the facial recognition"
 excerpt: "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ..."
-publishedDateTime: 2023-03-10T23:57:00Z
-originalUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
-webUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
-ampWebUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+publishedDateTime: 2023-03-11T00:06:00Z
+originalUrl: "https://www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+webUrl: "https://www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+ampWebUrl: "https://www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+cdnAmpWebUrl: "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: Daily Breeze
+  domain: dailybreeze.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+  - url: "https://www.dailybreeze.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
     width: 1024
     height: 578
     isCached: true
@@ -71,20 +71,6 @@ related:
         width: 1024
         height: 578
         isCached: true
-  - title: "Voice Recognition Biometrics Market Growing Demand and Trends 2023 to 2029"
-    excerpt: "The \"Voice Recognition Biometrics Market\" study describes how the technology industry is evolving and how major"
-    publishedDateTime: 2023-03-14T01:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-growing-demand-and-trends-2023-to-2029-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Jharkhand university to use facial recognition-based attendance and here’s why we’re not happy"
     excerpt: "Jharkand University to mark employee and staff attendance using facial recognition software, raising concerns about privacy and surveillance."
     publishedDateTime: 2023-03-13T08:53:00Z
@@ -100,6 +86,6 @@ related:
         height: 720
         isCached: true
 
-secured: "7yrA1/wp2xoezn3XuPBAdo6il5gTieXHes++RE+k6DteueV/AOu8xqel3lIT4SkZwZxmMM92IT7uwQByfsm1YQ1LrYZLiTl3v68KD4m4BFdxDdyQq9HQqjQmK8PGgmTkw83sWmivU+knqqJ+Px+0KAKty2sqX6YTiXCE/RgNttf87h9Y1AZyEQUo/u5FYRboiF5Et/+N5rL6CNbMXblpp+wOkjg7ZHAz26RO/zDO8hCY7GYI/nDy0FYGoDJ47Pa3XFX16y+H43hF02gC5NNqo4Ra5DqufcNLuItLBnnHN3SZI8aIuqM/ycmaeCaoedowofCmr0GqXVPJmB47HbbqjO8Itt+CDhVcwo6pftccFbU=;Vy2wc4UTgoL9qYRPZXg6/w=="
+secured: "d7asUCkceceOfzsy83ZH+NbSi27Z0GWz3dGo16f+T46nWZjqHBfqUCsjGnAZ9ny8iCMSVyY8FttAEtOcQAvQ1NLhGwO5f9fFL33Yjapv3ktyVDCYdLUG4qMUeBO03hH6shcsh+xKyvlK5vG4PiVWzSkQxik3fnQHoTveo5azPrB+GjEFwo39MSKiHvnQ0bSCACj86C5OnF3+SpO5prztf94knfgiyUJrR8TrtpLBk5y7hWTRSpfPVSdKlchnt2kYHBeUQdMJNV2sy2pk4Vmz/Ixr7rB9CeGNX6d5TZGrSBibOThcercuijwqaRAUIzNTrtrj/rPegxfej2lc9P4oPjIj96Ng6wtc+d8eB83qpNI=;ZhiL9+c+CT3EqR6GNFYXlQ=="
 ---
 

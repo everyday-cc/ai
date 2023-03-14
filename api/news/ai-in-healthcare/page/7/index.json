@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-01-05-natural-language-processing-nlp-in-healthcare-and-life-sciences-market.md",
-      "title": "Natural Language Processing (NLP) In Healthcare And Life Sciences Market",
-      "excerpt": "Natural Language Processing (NLP) In Healthcare and Life Sciences Market to Surpass US$ 16,778.1 Million by 2028” - Coherent Market Insights BURLINGAME, CA, UNITED STATES, January 5, 2023 ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105388980/Natural-Language-Processing-NLP-In-Healthcare-And-Life-Sciences-Market-Is-Booming-Worldwide-2023-2028-3M",
-      "originalUrl": "https://menafn.com/1105388980/Natural-Language-Processing-NLP-In-Healthcare-And-Life-Sciences-Market-Is-Booming-Worldwide-2023-2028-3M",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-01/05/EP_18a70image_story.jpeg",
-          "width": 645,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-05T05:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-01-05-using-artificial-intelligence-to-gain-insights-into-personality.md",
       "title": "Using artificial intelligence to gain insights into personality",
       "excerpt": "While those questions are typically devised by subject matter experts, Hernandez has suggested an alternative source—artificial intelligence. Working with research consultant Weiwen Nie of Hogan ...",
@@ -1393,6 +1349,62 @@
         "AI Ethics",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-12-14-artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data.md",
+      "title": "Artificial Intelligence and Machine Learning Market by Product and Geography : Forecast and Analysis 2023 to 2028 with Top Countries Data",
+      "excerpt": "Artificial Intelligence and Machine Learning Market\" Research report encompasses a thorough study of the current",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data-2022-12-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-by-product-and-geography-forecast-and-analysis-2023-to-2028-with-top-countries-data-2022-12-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T17:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance",
+        "Facebook AI",
+        "Google AI",
+        "AI in Healthcare"
       ]
     }
   ],

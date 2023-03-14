@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-01-15-machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing.md",
-      "title": "Machine machinations: How tech remains both a divisive and unifying force can be disturbing",
-      "excerpt": "The Equality Machine is a disturbing book. On the one hand, it tells you about the wonders that artificial intelligence and machine learning can ... supplying goods and services free of cost ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/",
-      "originalUrl": "https://www.financialexpress.com/lifestyle/machine-machinations-how-tech-remains-both-a-divisive-and-unifying-force-can-be-disturbing/2948383/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-14T21:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-15-how-machine-learning-can-help-alleviate-the-us-labor-shortage.md",
       "title": "How machine learning can help alleviate the U.S. labor shortage",
       "excerpt": "Advances in machine learning can identify causalities and correlations to help recruiters and job seekers find successful matches.",
@@ -1369,6 +1335,40 @@
       "provider": {
         "name": "KTLA",
         "domain": "ktla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-04-media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available.md",
+      "title": "Media Advisory: 2023 Trends in CX, Fintech, and AI -- Expert Quotes Available",
+      "excerpt": "Agency focused on fintech, AI development, and customer experience strategy has identified key trends for 2023. Pull quotes available for immediate use. SAN FRANCISCO, Jan. 3, 2023 /PRNewswire ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/01/n30268240/media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/01/n30268240/media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-03T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

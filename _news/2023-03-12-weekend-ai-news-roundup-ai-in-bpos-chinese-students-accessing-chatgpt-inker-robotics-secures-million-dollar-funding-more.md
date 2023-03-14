@@ -43,6 +43,20 @@ related:
         width: 2074
         height: 2560
         isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."
+    publishedDateTime: 2023-03-14T04:24:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/14/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Coral Springs Sports and Orthopedic Center, FAU, Broward Health, & Advanced Research: Revolutionizing Healthcare Using Artificial Intelligence"
     excerpt: "Say farewell to spending a small fortune on a boring visit to the doctor's office and hello to inexpensive, convenient, and comfortable engaging consultations you can have in your pocket."
     publishedDateTime: 2023-03-10T00:24:00Z

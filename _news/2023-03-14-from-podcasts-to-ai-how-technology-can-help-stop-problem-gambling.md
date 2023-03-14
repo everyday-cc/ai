@@ -2,19 +2,19 @@
 category: news
 title: "From podcasts to AI: How technology can help stop problem gambling"
 excerpt: "For Hatch, broadcasting his gambling addiction fight is as much therapy as it is a call to others ... One effort Whyte supports is requiring online gaming companies to use Artificial Intelligence software, like what Mindway AI in Denmark is developing."
-publishedDateTime: 2023-03-13T18:59:00Z
-originalUrl: "https://www.wcpo.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
-webUrl: "https://www.wcpo.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
-ampWebUrl: "https://www.wcpo.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling?_amp=true"
-cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling?_amp=true"
+publishedDateTime: 2023-03-13T18:58:00Z
+originalUrl: "https://www.wtkr.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
+webUrl: "https://www.wtkr.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
+ampWebUrl: "https://www.wtkr.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling?_amp=true"
+cdnAmpWebUrl: "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling?_amp=true"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: WTKR
+  domain: wtkr.com
 
 topics:
   - AI in Healthcare
@@ -26,6 +26,6 @@ images:
     height: 360
     isCached: true
 
-secured: "vkOZDC4pUPDjrZMM8t4H9C/0keBbgt+q+Xxcl/0PJpEeUsw1eo84USLilPlLdfoliE0DSL/dXflzyg4OQ+o+58NDhQWXOJ62QI0oLJAJzcEau82bKSVUCoLq7YTPtLte7AjtfsK86yHdHhgZTQx5+XT1i/dRoy7med/0lNaOhr8Mh/yyiZejcUufBU8TzNk1SP+uZOU0yweBQsE6be3MnelB1ZvOKL9sWUuNhPs1fvJAalAsJQ4EflilfykaJILr/AntSiz0SOUvjYmbCkRiwVxILwq67PXwNyybJJSag0FHHg7Ef3hAjNJE9zvtfWmBB8jEMztstJgqd31hjBzJaUGZ/6/ByOgUGsx8YsiVeQs=;P/Oi986w8LVKS08mQczfUw=="
+secured: "99VLpJrBVkC1/sxgdnp6Oerg0u8rihGHg+q6M8PO7xNFUNg5rR/8y/Li1t0hLWGbLhP+jQrLA4qWoAkYlDPAZfKUcVpDdO3aMdl4wpvkLC6rWT8BHZvXJ9CGDTE8r4VdiVgcV11QtfKx19/AaaGAbqfu/pXhaBjU4Wc6z8dl8SJPQu1b9ZTI6r3m4o5wcQT81dI1HrQq+ObphYlvdaR54zszX0Ak65EAT63WI55zcVblHrdu75Hd4YriU2eKSdvFkCLqQze8TtqZ32M0MtqWs6VqEXK+Fy05mjV81xPzewLTZPxb02Tp/tWlRmsZYYUaHWmD28jHmm8XNmxLltFkslXyIAoJ2u38wsHfUYyFxoE=;Z9DS8/L2Lyrv/OTJn2cmGQ=="
 ---
 

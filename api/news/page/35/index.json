@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-02-08-google-is-notifying-canadian-employees-impacted-by-12000-job-cuts-announced-last-month.md",
+      "title": "Google is notifying Canadian employees impacted by 12,000 job cuts announced last month",
+      "excerpt": "According to a report in CRN, Autodesk, which had more than 12,600 employees (as last reported) with $4.39 billion in revenue in its last fiscal year, \"continues to DeepMind AI to shut Canada ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-is-notifying-canadian-employees-impacted-by-12000-job-cuts-announced-last-month/articleshow/97698898.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-is-notifying-canadian-employees-impacted-by-12000-job-cuts-announced-last-month/articleshow/97698898.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-97699080,width-1070,height-580,imgsize-49409,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1069,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/google-is-notifying-canadian-employees-impacted-by-12000-job-cuts-announced-last-month/amp_articleshow/97698898.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/google-is-notifying-canadian-employees-impacted-by-12000-job-cuts-announced-last-month/amp_articleshow/97698898.cms",
+      "publishedDateTime": "2023-02-07T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-08-us-hyperscalers-cloud-capex-to-prioritize-ai-in-2023.md",
       "title": "US Hyperscalers Cloud CAPEX to Prioritize AI in 2023",
       "excerpt": "According to a newly released report issued by founding analysts of 650 Group, US Hyperscaler Cloud IaaS market revenue will grow nearly 30% Y/Y in 2022 before",
@@ -952,50 +995,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-microsoft-and-google-are-about-to-open-an-ai-battle.md",
-      "title": "Microsoft and Google are about to Open an AI battle",
-      "excerpt": "Intel is also planning to bring AI capabilities to PC with its Meteor Lake processors. Microsoft is also hard at work on Azure OpenAI, its service that allows businesses to integrate tools like DALL-E into their own cloud apps. Microsoft has promised ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
-      "originalUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T05:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

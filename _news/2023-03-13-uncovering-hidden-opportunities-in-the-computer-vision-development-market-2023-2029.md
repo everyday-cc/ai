@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI and Big Data Analytics in Telecom Market to 2023-2029"
-    excerpt: "AI and Big Data Analytics in Telecom Marketinformation for each competitor includes (, Cloudera, Affirm, Fico,"
-    publishedDateTime: 2023-03-13T03:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-to-2023-2029-2023-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "8h18PZSsQ1GOdBxDHlWbH6DHITO+RBOeauHRdUP95UMSQ6I5bxBb+vc/qxX2eyv9mVqyVcTAXkpihGiuJrmFQunYOHS2DJ92+TpTZ5vY75ezpN+3oSVSJJi8P06wfchyMSjd/3VcVOCEkOVONzbC1jHD0Y5wiLGqLZLDgqoI6u+BgeTyiOMhC6gjt9G1ksY+jUgcJoMm8N9RDdJ3QXfBM9Pli70LcV68i0MpKL6mH3aevDlsn9Vh7PUx8zM+Dn3ttTSgi3GZ8sVwO73Qco5Z3R+G2WGdhgx3dCigDyLZu9Mppo+/62jbHq/hCdKM8BclN7RQdYB3k0zRKCe8ZPVOMicmB8afnUFQfORw0XpVS6g=;MsA42QSB0L5V7O2ZQa5s5Q=="
 ---

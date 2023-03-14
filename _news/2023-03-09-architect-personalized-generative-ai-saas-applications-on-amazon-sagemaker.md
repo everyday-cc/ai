@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/architect-personaliz
 webUrl: "https://aws.amazon.com/blogs/machine-learning/architect-personalized-generative-ai-saas-applications-on-amazon-sagemaker/"
 type: article
 quality: 102
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 67
-  - title: "UiPath Announces Integration with Amazon Sagemaker"
-    excerpt: "UiPath, a leading enterprise automation software company, has announced data science teams using Amazon SageMaker, an"
-    publishedDateTime: 2023-03-09T13:41:00Z
-    webUrl: "https://www.datanami.com/this-just-in/uipath-announces-integration-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
-        width: 1664
-        height: 674
-        isCached: true
 
 secured: "NBSgfNspnUit1tV7XS7Z+fZxkr+m1ymbpx6voW5Vuvx7theR3HBdO70uhTM+svgXaJnE1BfeoDEQSkoJGP1KHKX3gnHDt8nkznlQPfdRsLtt17Vgpu0zUF8YPIHWiV9cOwttQcRJObDl2xRi7oJQ44hlBTtMEk0y7Y5XVcRtykV1Vek1Cn5289tqQjBl2zDsnTsofYkfNTCQn/Eqr2mPTvt+KVGA9XlFpsmgAr5gzy5zaYR5Lr0LdM23imvYDIKAEc9QkPuxT6GeJK9aPOlKsJ1Tp2K7nV0JsHafMPQVEfEM9jCEDZV8/G51q2iIYvq6B2l3R9lXzY0lqHoLZfTdHaaTcxT0Zh8bQsrt67GDLww=;8tVOc1h0FX9qdIris/W+Cg=="
 ---

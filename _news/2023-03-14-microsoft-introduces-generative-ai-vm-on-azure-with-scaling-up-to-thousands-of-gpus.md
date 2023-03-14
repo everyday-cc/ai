@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft fires ethics and society team with AI division"
+    excerpt: "A report states that Microsoft maintains an active Responsible AI Office that critically evaluates; creates rules and principles to govern the company's AI initiatives. However, team members"
+    publishedDateTime: 2023-03-14T05:40:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-fires-ethics-and-society-team-with-ai-division-787761"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/microsoft-fires-ethics-and-society-team-with-ai-division-787761"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/microsoft-fires-ethics-and-society-team-with-ai-division-787761"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 91
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/03/14/1341603-microsoft.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "ChatGPT now available in Microsoft’s Azure OpenAI service"
     excerpt: "Developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps enabling conversational AI."
     publishedDateTime: 2023-03-13T14:51:00Z
@@ -180,6 +196,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Microsoft Lays Off Ethical AI Team In Chatgpt Era"
+    excerpt: "Microsoft has laid off its entire ethics and society team dedicated to ensuring artificial intelligence (AI) innovation"
+    publishedDateTime: 2023-03-14T05:54:00Z
+    webUrl: "https://menafn.com/1105770531/Microsoft-Lays-Off-Ethical-AI-Team-In-Chatgpt-Era"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 71
+    images:
+      - url: "https://menafn.com/updates/pr/2023-03/14/I_01675image_story.jpg"
+        width: 400
+        height: 250
+        isCached: true
   - title: "ChatGPT is now available with Microsoft’s Azure OpenAI Service"
     excerpt: "Microsoft has announced that ChatGPT is now available in Azure OpenAI Service, enabling developers to integrate custom AI into their services."
     publishedDateTime: 2023-03-09T22:01:00Z
@@ -260,6 +290,6 @@ related:
       domain: techreport.com
     quality: 34
 
-secured: "12xAs4N6YbgOy3uXGxGNb2oU0pfpRinTU3TkUOmkkpwMmPgTHtzjsMDhhpcd54gSADbF0WkPooLTToB8iwZNs8YGRsfwkm4jouj4YZsemVrWfdxNCLDFWe/8h+glT8B6GicjGkibKTUP1eqJ9aDKpmR5bo6S6vqh94Vx241kwvCOhiQcCsxzBKUOOQTNqgAdF2L85IV0AaD25Q6eBZWHeNB8m0w9tpePk5Jp2bprXscz/SCvCBHOJOM5ICVSpg+M4qri9qSAyaZZzCcnXkBx8o+B7mnglD7PZz1inmYbBNZMtrqn+QxIKleomTm0OYX7wikREjJhz5M6IainQb8lrH4OOtbCdBtVeaeaPTLzwlE=;+MtCX43p/XG9WAKG1DWkKA=="
+secured: "ECLEfQDAZ+3Hfyjg4jesqRBADj3Jh1U4GYHotBdtOEmxK07EPoSicTsTr+IQ02Qw+aNtVvkK5Bp2WVJiYfJZjbqnKtbKbfwUUNAZjuKdmF9qhkwyLdYdghUqok31U1Talr1+a7B4cWvmMFhhFooV8aYusSJ4kIAu+BWQRxlJkg+YHUohES6uur/LAu3PR1NlvEKrD7/n+/0FUiLjeR721bTCjjMRDPc6UC9FnG5viIRuf4WoQCUZNZQhvSxz+yxxIk+MPX57DbVu9jV1qPx0lrIlpA8QwuYbFmCSl3QVJTC+DrqIw3YaJ1twlTWSBaUGipcA1jrIWbGYVaP+YCL5gG6y0ptNawCgd8lXfMpLgSJJ7JAoCM4WjqHbzf59aFuwAZ9SC1Sn+IO1yOiMgYTyKPAhzSzt9sWJM1EwCRfwrz2sIYlHVrQiiRQe+cwmJcypn+Dm7/MO0lHtEmK8zYblGMwOqHSqZTfrt66DlUOeEWJAbki/0EvNpyEU/tMDXmJoYeLRqF29UEYohj0gkNIXNA==;qQ080VtiBDueMS+czDF1IQ=="
 ---
 

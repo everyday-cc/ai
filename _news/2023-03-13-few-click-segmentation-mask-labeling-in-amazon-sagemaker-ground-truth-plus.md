@@ -79,20 +79,6 @@ related:
         width: 1565
         height: 779
         isCached: true
-  - title: "UiPath Announces Integration with Amazon Sagemaker"
-    excerpt: "UiPath, a leading enterprise automation software company, has announced data science teams using Amazon SageMaker, an"
-    publishedDateTime: 2023-03-09T13:41:00Z
-    webUrl: "https://www.datanami.com/this-just-in/uipath-announces-integration-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/02/AI-North-America23.png"
-        width: 1664
-        height: 674
-        isCached: true
 
 secured: "KPA5BTSIgy+tLuBQeSOedPgsAxhpw669BmCH4c45gLXKF0I7iWSO0WTClu9eMq9/cRLlRUl62dTSMeb31B8uKqI8+JOsGHf6Apo6MMsiilku4jBiONQ/nuG2jlbWkjxD50/ZrvfX6yzNACRMNz6VXQLTJbUlr+um5LrVVK9R1OhdLGhEX3Co9WhGG0rYeyq4d+sBNmttSnOmgScwTK3bRGWbiFqhes1lAc708a1tXPKuaFh1gTjhvW3K/ZoUOw2ZAtfZ9BPJjonWLjCr7nKctP4n+78MGYRNJobQK3vk/xEShc5sID4ucXyDXw8memb1of87xDWsvfa7u4kzqM7paPJY3zXWuM9xa6LPXKD8ptA=;7Q7/O6wcDr0LrgutUxGifA=="
 ---

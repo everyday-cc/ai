@@ -2,6 +2,50 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-02-07-microsoft-and-google-are-about-to-open-an-ai-battle.md",
+      "title": "Microsoft and Google are about to Open an AI battle",
+      "excerpt": "Intel is also planning to bring AI capabilities to PC with its Meteor Lake processors. Microsoft is also hard at work on Azure OpenAI, its service that allows businesses to integrate tools like DALL-E into their own cloud apps. Microsoft has promised ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "originalUrl": "https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-07T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-future-toyota-cars-to-be-powerd-by-robosense-lidar-for-safer-self-driving.md",
       "title": "Future Toyota Cars to be Powerd by RoboSense LiDAR for Safer Self-Driving",
       "excerpt": "RoboSense, a world-leading provider of Smart LiDAR Sensor Systems, officially announced its partnership with Toyota, the world's best-selling carmaker, on large-scale production with nominated orders for multiple models.",
@@ -918,40 +962,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-07-chrome-and-edge-browsers-to-get-nvidia-rtx-ai-video-upscaling.md",
-      "title": "Chrome and Edge Browsers to Get Nvidia RTX AI Video Upscaling",
-      "excerpt": "RTX Video Super Resolution works by taking any low-resolution video viewed in a browser and upscaling it to 4K. This should theoretically allow you to watch a 1080p video on a high-resolution monitor without it looking like garbage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.extremetech.com/computing/342885-chrome-and-edge-browsers-to-get-nvidia-rtx-ai-video-upscaling",
-      "originalUrl": "https://www.extremetech.com/computing/342885-chrome-and-edge-browsers-to-get-nvidia-rtx-ai-video-upscaling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-07T03:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

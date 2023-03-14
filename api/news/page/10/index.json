@@ -2,19 +2,62 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2023-03-02-how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast.md",
-      "title": "How will artificial intelligence reshape our world? | The Ethical Life podcast",
-      "excerpt": "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other.",
+      "path": "_news/2023-03-02-mediterranean-diet-may-prevent-cognitive-issues-for-people-with-ms.md",
+      "title": "Mediterranean diet may prevent cognitive issues for people with MS",
+      "excerpt": "The finding suggests that the diet – which features fresh produce, seafood, nuts, olive oil and minimal red meat and sugar – may prevent or even treat cognitive symptoms related to the condition.",
       "sourceUrl": null,
-      "webUrl": "https://missoulian.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_74dba4da-9198-50ee-9470-09c1c5c5d3a4.html",
-      "originalUrl": "https://missoulian.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_74dba4da-9198-50ee-9470-09c1c5c5d3a4.html",
+      "webUrl": "https://www.newscientist.com/article/2361966-mediterranean-diet-may-prevent-cognitive-issues-for-people-with-ms/",
+      "originalUrl": "https://www.newscientist.com/article/2361966-mediterranean-diet-may-prevent-cognitive-issues-for-people-with-ms/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/7/4d/74dba4da-9198-50ee-9470-09c1c5c5d3a4/63ff73fcb1efe.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "url": "https://images.newscientist.com/wp-content/uploads/2023/02/28215538/SEI_146255933.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-01T17:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast.md",
+      "title": "How will artificial intelligence reshape our world? | The Ethical Life podcast",
+      "excerpt": "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other.",
+      "sourceUrl": null,
+      "webUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
+      "originalUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/4/f0/4f0cd688-a294-5d1b-aad8-c741806100e4/63ff740138a57.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
           "width": 1196,
           "height": 628,
           "title": null,
@@ -29,8 +72,8 @@
       "publishedDateTime": "2023-03-01T15:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Missoulian",
-        "domain": "missoulian.com",
+        "name": "Casper Star-Tribune",
+        "domain": "trib.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1147,58 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots.md",
-      "title": "Israeli Startup D-ID Puts A Face On Generative AI Chatbots",
-      "excerpt": "Tel Aviv-based D-ID announced today the next stage in its rapidly evolving ride on top of the generative AI wave, launching at Mobile World Congress their chat API, the first platform to enable face-to-face conversations with an “AI Digital Human” in a natural way.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe71cd4b8a8dd80fcbcbc2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2023/03/01/israeli-startup-d-id-puts-a-face-on-generative-ai-chatbots/amp/",
-      "publishedDateTime": "2023-02-28T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
