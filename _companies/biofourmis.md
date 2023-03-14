@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 50
+heat: 58
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "GSXUF1FnCY44ItggF5ChjG3HvIUAZwix+X/ggVQE01nF/Sui/3FDl6mLVniz51KogmOulGgfSt22FCjoj18xu7UsKjxeDcBckyrpsTCi4feVWX3z8t701Kpe2ic3tMGku0FRfkA7Ay9JuLDfNPxRRnIofmF782TilbnRdAz1A8sWXPAyB9XGf8ADqFClsk/762OOu1XVvkq64G/fhNwsNJnslNGIZArPb0eg93jvjQSq5pVpvbTL4JdkuSBbsw3GCoO3ZjencNLoXzz2KU0V3Tyn3apObK8+7wLIpEvudkgLchYdZ/8c2Kh3Sa4zUhFNdov4Pg2flBHNugtLGkSSo9lGlN6PdIlSS9V6rVIf3lFROvbHrfUXYvsqPMFQ59QS2Wu47cZ19w96IAoBcohYJ8VinJGD2WSMDsZyG9DXIB0=;5ATyy7OySLipRtExxVh9lw=="
+secured: "1DxuxN8p3VEYMfZqlWTLA35hn7l1jg44SNhzBYoPmzHXOzKp3K0aVsvFdgZZNQGlmZRW7edHI/5JP4DzjlYhCCrYXySOSLlfVWEjch8N8pVPw6938/w1JGSTcB9eWtAy13OJP+c5jHsSrGCTAYKPCEUPGet4k/clrUco+OdfmgbsJex5vOzhJQZCrMgzXIWcXTORo3vGYejGKLo0pGVWTNNrJaygGXwoBlBRcMcFNkloSPwdJLP9NKJTmZtx3+uRrcWOgyRL0n+y3f3lW1xjEc6yOK+VXkB2Q0KfDVQyZQuvjgSBuGUWL+L2BXTWqftRJlbhW0fthgBUnwUtBMhX4pDXBexKa3kRxagClRF7PWiZQBFn2hAxBQK7NU8ZQNXazZzLJcDh3JdvfxaFumJkT7xyHXEirJpvUbALfW0eedM=;vFWks98xpwaTE7hLoOk9Gg=="
 ---
 
