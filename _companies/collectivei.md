@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "collectivei"
   url: "https://twitter.com/collectivei"
-  followers: 1361
+  followers: 1360
 
 locations:
   - New York, NY
