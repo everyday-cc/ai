@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-a
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp"
 type: article
 quality: 72
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI boom is dream and nightmare for workers in India, global South"
+    excerpt: "Data annotation is being outsourced as the use of artificial intelligence (AI) explodes, but workers in poorer nations deal with low pay and few protections"
+    publishedDateTime: 2023-03-15T11:38:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/ai-boom-is-dream-and-nightmare-for-workers-in-india-global-south/article66622463.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ai-boom-is-dream-and-nightmare-for-workers-in-india-global-south/article66622463.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ai-boom-is-dream-and-nightmare-for-workers-in-india-global-south/article66622463.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/uiyehb/article65913134.ece/alternates/FREE_1200/26EPBS_DIGITAL%20LITERACY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Salesforce’s AI solution for Air India to improve customer experience"
     excerpt: "AI platform, for which TCS is a launch partner, to provide insights and information to plant operators for taking real-time and autonomous decisions. A part of TCS’ Enterprise 5G Edge suite, the solution integrates with Microsoft Azure private MEC to ..."
     publishedDateTime: 2023-03-14T16:27:00Z

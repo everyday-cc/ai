@@ -33,15 +33,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Weighing the Risks of AI Tools, From Demographic Bias to Privacy Violations"
-    excerpt: "“When it comes to artificial intelligence, machine learning and the things that go with it, perhaps the key topic on which industry thought leaders should be focused is ethics and morality, and where we’re going with this and how we’re going to use i"
-    publishedDateTime: 2023-03-10T19:33:00Z
-    webUrl: "https://marketscale.com/industries/uncategorized/weighing-the-risks-of-ai-tools-from-demographic-bias-to-privacy-violations/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 17
 
 secured: "3QHbjOdfOlxbVoIb+Na8FbTORuTauan+sbWuYbGKzWal6UAb5qB9TVg01uissg/gTVtEn7/jbOiB7RNT1PODbq4Pg13EsuS0qdl5ghPTeZBD/kS9KvP+Ja4fLk9XHdfHB+xzsN7OxCkP4dOd7o55Lqp2YUrf9TN7YxCLdKin+rDzDQo9zbM9iEsFXVLhq7jetLspK+ASZBVt9QHHpuaJOphaK9RztISheDmOXSuiDGngt93suMMspsv6Ub8F1iPVD2h7XSJnnn+mZI8S35YrlJiveX9UY3E2H+6WBZHYt7FpjPuR7kjne33qweQrCUrzblmnn5PmXFgh4WQcQglU+BLLxHm0ReWi5/rjUGoodGia8RK8gYSTmVtOjp9RvHGlkdK7XgJSaPtfQmTFFI/NHBHcA528yy4GKNlfkz3vTO/EXUhg6G1qoO9JbQvcAnPmLkZbUN9vFRG76HdmBivins/F0q4H/eoVfToo/lIUuvknFCHQqrQVXmq+YfsAZFXx4kDDFE7ykhcazwjkO4QPpA==;09OaPjQOZt15iPwMk1xFqQ=="
 ---

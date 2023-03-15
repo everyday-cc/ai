@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "8×8 unveils a bevy of new customer-facing AI capabilities"
-    excerpt: "The company certainly delivered, going news-heavy today by loading up its product with several new artificial intelligence capabilities targeting customer experience improvement. The infusion of AI into CX platforms,"
-    publishedDateTime: 2023-03-10T18:49:00Z
-    webUrl: "https://siliconangle.com/2023/03/10/8x8-unveils-bevy-new-customer-facing-ai-capabilities/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
   - title: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users"
     excerpt: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users - SiliconANGLE"
     publishedDateTime: 2023-03-14T18:30:00Z

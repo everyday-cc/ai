@@ -29,57 +29,48 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence (AI) Chips Market Intelligence Report [2023-2026] | Our Research Gives You the Competitive Edge in the Industry"
-    excerpt: "Pages Report] Global “ Artificial intelligence (AI) Chips Market ” [2023-2026] latest research report with the latest facts and figures, definitions, SWOT analysis, expert opinions, and global developments,"
-    publishedDateTime: 2023-03-13T11:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry-2023-03-13"
+  - title: "Latest \"Artificial Intelligence (AI) Consulting Market\" Estimate, Projection and Pricing Analysis"
+    excerpt: "Mar 15, 2023 (The Expresswire) -- Report Highlights with 109 pages:-\"The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period ..."
+    publishedDateTime: 2023-03-15T10:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-artificial-intelligence-ai-consulting-market-estimate-projection-and-pricing-analysis-2023-03-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Uncovering Hidden Opportunities in the Computer Vision Development Market (2023-2029)"
-    excerpt: "Computer Vision Development Market Size 2023-2029 | New Report (115 Pages) | Analytics | In This Reports Computer"
-    publishedDateTime: 2023-03-13T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13"
+  - title: "Latest Highlights on \"Artificial Intelligence (AI) Consulting Market\" Size 2023-2028, Newly Updated Report Contains 109 Pages"
+    excerpt: "Consulting Highlights:-The global Artificial Intelligence (AI) Consulting market size was valued at USD 93472.06 million in 2022 and is expected to expand at a CAGR of 37.46% during the forecast period,"
+    publishedDateTime: 2023-03-13T14:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latest-highlights-on-artificial-intelligence-ai-consulting-market-size-2023-2028-newly-updated-report-contains-109-pages-2023-03-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Computer Vision System Market [2023-2026] | Growing Industry | Latest Report with Top Countries Data"
-    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-03-13T10:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2023-2026-growing-industry-latest-report-with-top-countries-data-2023-03-13"
+  - title: "Artificial Intelligence in Precision Farming Market 2023 [Latest Report] Is Thriving Worldwide by 2029"
+    excerpt: "Artificial Intelligence in Precision Farming Market 2023 with 109 Pages Report and enhance with extents shares"
+    publishedDateTime: 2023-03-13T03:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-farming-market-2023-latest-report-is-thriving-worldwide-by-2029-2023-03-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Computer Vision in Artificial Intelligence (AI) Market [2023-2026] | Gain a Competitive Edge with Our Professional Analyzed Research Report"
-    excerpt: "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and"
-    publishedDateTime: 2023-03-13T10:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-in-artificial-intelligence-ai-market-2023-2026-gain-a-competitive-edge-with-our-professional-analyzed-research-report-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
 
 secured: "mVmDL9QrFxwmHw01QLpjCMnWA5XL8WbhNuV1QL1mLusgL+H41ExJJE3QYLoRT0ol27c72o2WIbgSClx/fxQyt5SY7FY5MtJigyBO0Pc3493hRJfw6DjLN4VTv+eZk3iIN2ewb6ZtrAEqohtqWAup0VUPNKTgJe8nKqpwHQKmznSvXEqNXAEUY6iL3j4jvQ+O2in9NFEOgEzPg6QuCee8n2oiia1oEDb//wguyET8qQoM1nIdwwLASUpwxikQOAdX9DFGwllLv19cshbrRhwl1EYFe3zfe3JjYLnQLdCBXzQfROXJcCqaM8R01AisLMRitVtx0HBrAwIe218/3P227LkXuzrKXTFDlba4nqjHOb8=;8+ZFVC5waafjyTNEPU9Grw=="
 ---

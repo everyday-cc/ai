@@ -7,8 +7,8 @@ originalUrl: "https://www.texarkanagazette.com/news/2023/mar/11/from-marketing-t
 webUrl: "https://www.texarkanagazette.com/news/2023/mar/11/from-marketing-to-design-brands-adopt-ai-tools/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Texarkana Gazette
@@ -34,15 +34,6 @@ related:
       name: Times-News
       domain: magicvalley.com
     quality: 34
-  - title: "Weighing the Risks of AI Tools, From Demographic Bias to Privacy Violations"
-    excerpt: "“When it comes to artificial intelligence, machine learning and the things that go with it, perhaps the key topic on which industry thought leaders should be focused is ethics and morality, and where we’re going with this and how we’re going to use i"
-    publishedDateTime: 2023-03-10T19:33:00Z
-    webUrl: "https://marketscale.com/industries/uncategorized/weighing-the-risks-of-ai-tools-from-demographic-bias-to-privacy-violations/"
-    type: article
-    provider:
-      name: marketscale
-      domain: marketscale.com
-    quality: 17
 
 secured: "EpXIR3qgmgtSsoCckeM7qodZ9MJRTtssqfLvZJqh1BUaC078vvZpjlUh5dmib+JaLSPzuRdWmJy9LzLcvWQqKeoHiUengj3bw4I5w8eTI/ppBNOndzt10HM+wQdlwz0lPdW4kuIm2yOiZOctQG4XbjvtglcjBVsuhHbK1K3yN+0YfOVKpht81Pc2lwl0RQNPjttrNF7oEDVR8tC6HUF6MGQL473iA/VP8whu1YIzGrHNCKtvRXF7SUPxKT4u87ngrii74DAarDHz//hNYN0Gqyb6Rg4IhC7LF7+0Olan4CDPLEXLtxrCCHUfB4MwYbBKwKLEtBIGI5Sb1ztlvG8RogdvJkai3PPgimC8BWhPlcQ=;2SRybLN+6KNS19Dp9VoERg=="
 ---

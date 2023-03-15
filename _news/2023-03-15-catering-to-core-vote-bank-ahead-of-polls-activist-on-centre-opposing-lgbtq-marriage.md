@@ -2,22 +2,30 @@
 category: news
 title: "\"Catering to core vote bank ahead of polls\": Activist on Centre opposing LGBTQ marriage"
 excerpt: "Amid the ongoing debate over same-sex marriage in the country in the wake of an affidavit filed by the Centre opposing the practice, LGBTQ activist Prijith PK on Tuesday alleged that the government was demonstrating a 'homophobic' attitude in a bid to cater to its traditional vote bank with an eye on the upcoming elections."
-publishedDateTime: 2023-03-15T09:34:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/India/20230315/4049973.html"
-webUrl: "https://news.webindia123.com/news/Articles/India/20230315/4049973.html"
+publishedDateTime: 2023-03-15T01:02:00Z
+originalUrl: "https://www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage"
+webUrl: "https://www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage"
+ampWebUrl: "https://www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage?amp"
 type: article
-quality: 13
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Computer Vision
   - AI
   - AI in Finance
+
+images:
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_03_2023_01_02_56_5952996.jpg?width=1280"
+    width: 1280
+    height: 960
+    isCached: true
 
 related:
   - title: "\"Catering To Vote Bank\": LGBTQ Activist On Centre Opposing Same-Sex Marriage"
@@ -117,6 +125,6 @@ related:
       domain: webindia123.com
     quality: 0
 
-secured: "OU78zeXIOIf37/0/EAAbTY2EOJ0h72EGCMYwYlrpda6cKTinK5zu2djXLspHUqKg1VVCKZ3/bgmuiQaOOpsi+LPXn3gXS82ZZKpZqq6wafe/uT06DG3XfvdJebbNcidiEsk/ZFZ9OHR9nNM5RldR6Tigjhkk3MSGrIb6XfOF3vVlCLs6LoGortOMk9w8oX8EmnERWeesWrmx7jjHQ1G37NVq9UURNQFUIkmIknouu6vBSJr63bvSDKR4SPBX+B5oxGrTsJzyOmRvdzE9ky5yimTwQT9pJrLSrPJ0HZEgExMFkkYvnD6oTYuOt1cfpe27m1iePNag85hYNUxeu5Pc7QEkmlKe1pHDhGvLUBvdCtI=;Sfjn8S/UWhRDFRtJmnPPbA=="
+secured: "0giijtL6BmtuJq9GdrloKUe/k5eQ5bkCuVTSd9sPfR4y/cMLdxg3j+cqfR3KxZqCjqu6NR42jhoLqF64I9DocoZpe/LPRRKYqp3hKEYgam4ACCUTPM89b2Om7qUxvrOUcRltcgXbEJdkAteVXQkVUzwTfNZZ8jqkVZoY+B5GEu7FhRK8XtNOuWPgbtGzriU+imILcyyTioGnpGk8ilTStJdXiboZuSaYHUgXdGOmknMQ+nTU+Rccuni5ooh9sml86Gggas0ty0Aif34q/O+VZk9HOKJLRFS2l6zOOLR5YlzsKXnIbwx4ybOWMZDWlA9yu2SLozwKKTgF6CgHVRsolhy+Kv6po/ZWZqwK02yVtkc=;kKqqh75wDNVxUr3y35uEJw=="
 ---
 

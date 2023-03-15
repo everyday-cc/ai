@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Gmail: Google announces that an AI will soon write your emails"
+    excerpt: "One of the notable features is the AI-powered text generation that ... Google has also been investing in natural language processing and machine learning. With Google Assistant and Google Translate being prime examples of the company’s efforts in these ..."
+    publishedDateTime: 2023-03-15T10:51:00Z
+    webUrl: "https://www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/"
+    ampWebUrl: "https://www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/03/15/gmail-google-announces-that-an-ai-will-soon-write-your-emails/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 61
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2023/03/GWS_Announcement_thumbnail.max-1300x1300-1-1200x675.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google unveils AI tools to beat writer’s block amid scramble to compete with rivals"
     excerpt: "The AI overhaul of Google’s Workspace products is starting with ... multibillion-dollar investment” in OpenAI, the artificial intelligence startup behind ChatGPT, a chatbot that generates text in response to user queries. Microsoft then said in ..."
     publishedDateTime: 2023-03-14T15:31:00Z

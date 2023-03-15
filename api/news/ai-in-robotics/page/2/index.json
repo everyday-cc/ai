@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-01-from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability.md",
+      "title": "From Photons To Behavior: Torc Robotics Fortifies AI-Based Driving Capability",
+      "excerpt": "Aiming to dominate the truck autoimation space, Torc Robotics is acquiring the Algolux team and intellectual property to super-charge their capabilities in deep learning, computer vision, and computational imaging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability/",
+      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63fe8507e236baf80ecbcbc2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/02/28/from-photons-to-behavior-torc-robotics-fortifies-ai-based-driving-capability/amp/",
+      "publishedDateTime": "2023-02-28T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-01-amazons-no-1-best-selling-robot-vacuum-is-39-off-for-spring-cleaning.md",
+      "title": "Amazon's No. 1 best selling robot vacuum is 39% off for spring cleaning",
+      "excerpt": "Eufy makes some of the bestselling robot vacuums on Amazon and best robot vacuums of 2023 overall. Right now, you can snag a new Eufy robot vacuum for a great price. We've found the best Eufy robot vacuum deals at Amazon and Walmart to help you get ready for spring cleaning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-eufy-robot-vacuum-deals/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-eufy-robot-vacuum-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/12/12/a904126a-2b50-4586-98c4-f5524899a74d/thumbnail/1200x630/91575e3d0b126900b46f9f2dec4292eb/eufy-robo-vac.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/best-eufy-robot-vacuum-deals/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/best-eufy-robot-vacuum-deals/",
+      "publishedDateTime": "2023-02-28T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-28-torc-robotics-announces-agreement-to-acquire-algolux.md",
       "title": "Torc Robotics Announces Agreement to Acquire Algolux",
       "excerpt": "Torc Robotics, an independent subsidiary of Daimler Truck AG and a pioneer in commercializing self-driving vehicle technology, announced today that it has signed an",
@@ -1226,92 +1322,6 @@
           "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/6849272319_a3cb362b70_h_700W.jpg",
           "width": 700,
           "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
-      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
-      "excerpt": "DN: How do artificial intelligence and other advanced technologies help in ... contact with their team or is injured and unable to communicate. DN: Explain how robot technology can be used to help with the California wildfires. Karen Panetta: In ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-17-manufacturing-predictions-for-the-next-decade.md",
-      "title": "Manufacturing Predictions for the Next Decade",
-      "excerpt": "“This will involve robotics improving through artificial intelligence, and that artificial intelligence will improve through collaboration with people.” Putman predicts that we’ll see the robot market produce equipment this is increasingly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/manufacturing-predictions-next-decade",
-      "originalUrl": "https://www.designnews.com/automation/manufacturing-predictions-next-decade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/feature_1.jpeg",
-          "width": 1540,
-          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true

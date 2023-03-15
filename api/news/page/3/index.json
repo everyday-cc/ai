@@ -2,6 +2,256 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-13-intellect-launches-emachai-the-worlds-largest-open-finance-platform-to.md",
+      "title": "Intellect Launches eMACH.ai, the World’s Largest Open Finance Platform to...",
+      "excerpt": "Intellect Design Arena, a multi-product FinTech company launched eMACH.ai, a revolutionary cloud-native and future-ready open finance platform with embedded artificial intelligence, powered by AWS. With 285 pre-built microservices available on the cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/open-banking/intellect-launches-emachai-worlds-largest-open-finance-platform-empower-banks",
+      "originalUrl": "https://financialit.net/news/open-banking/intellect-launches-emachai-worlds-largest-open-finance-platform-empower-banks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/emach.png",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-top-10-artificial-intelligence-ai-cryptocurrencies.md",
+      "title": "Top 10 Artificial Intelligence (AI) Cryptocurrencies",
+      "excerpt": "It’s hard to imagine two technologies more of the zeitgeist than artificial intelligence (AI) and cryptocurrency, so it’s no surprise that the two fields converged in the form of AI cryptocurrencies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "originalUrl": "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-can-ai-solve-its-eternal-data-problem.md",
+      "title": "Can AI solve IT’s eternal data problem?",
+      "excerpt": "New data management and integration solutions featuring AI and machine learning signal that help is on the way to meet the ballooning enterprise data challenge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3689668/can-ai-solve-it-s-eternal-data-problem.html",
+      "originalUrl": "https://www.infoworld.com/article/3689668/can-ai-solve-it-s-eternal-data-problem.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/03/shutterstock_289153913-100938103-large.jpg?auto=webp&quality=85,70",
+          "width": 1199,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3689668/can-ai-solve-it-s-eternal-data-problem.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3689668/can-ai-solve-it-s-eternal-data-problem.amp.html",
+      "publishedDateTime": "2023-03-13T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028.md",
+      "title": "Artificial Intelligence in Healthcare Market Application, Product, Sales and Forecast 2023-2028",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 13, 2023 (The Expresswire) -- The \"Artificial Intelligence in Healthcare Market\" Study Describes how the technology industry is evolving and how major and emerging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 429,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-gm-will-integrate-chatgpt-into-its-vehicles-in-car-digital-assistants.md",
+      "title": "GM will Integrate ChatGPT Into its Vehicles’ In-Car Digital Assistants",
+      "excerpt": "GM states that they are developing an in-car digital assistant powered by the same machine learning models used in ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/03/13/gm-integrating-chatgpt-with-vehicles/",
+      "originalUrl": "https://www.gizmochina.com/2023/03/13/gm-integrating-chatgpt-with-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/03/84ddc0c0-c116-11ed-adef-395fc59ecfdd.cf_.jpg",
+          "width": 875,
+          "height": 584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-an-ai-start-up-boomed-but-now-it-faces-a-slowing-economy-and-new-rules.md",
       "title": "An A.I. Start-Up Boomed, but Now It Faces a Slowing Economy and New Rules",
       "excerpt": "Eightfold AI, grew cautiously in its first few years. But it hit the accelerator after it raised $220 million in 2021, the pandemic boom year for venture investment, bringing the company’s funding to more than $400 million. The Silicon Valley start-up ...",
@@ -481,49 +731,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-12-from-marketing-to-design-brands-adopt-ai-tools-despite-risk.md",
-      "title": "From marketing to design, brands adopt AI tools despite risk",
-      "excerpt": "\"We need to embrace those risks intelligently, experiment, build on those experiments, drive scale, but not taking those risks is a hopeless point of view to start from.\" Indeed, some AI experts warn that businesses should carefully consider potential ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.texarkanagazette.com/news/2023/mar/11/from-marketing-to-design-brands-adopt-ai-tools/",
-      "originalUrl": "https://www.texarkanagazette.com/news/2023/mar/11/from-marketing-to-design-brands-adopt-ai-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/203807213_203807213-1f870b69dd0641c78290e78111e08b1a_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-11T20:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Texarkana Gazette",
-        "domain": "texarkanagazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     },
     {
@@ -1018,214 +1225,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-11-first-complete-map-of-a-fly-brain-has-uncanny-similarities-to-ai-neural-networks.md",
-      "title": "First Complete Map of a Fly Brain Has Uncanny Similarities to AI Neural Networks",
-      "excerpt": "Fascinatingly, these recurrent structures mapped from an actual brain appear to closely match the architecture of some artificial intelligence models (called residual neural networks), with nested ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/first-complete-map-fly-brain-neuroscience-1850206820",
-      "originalUrl": "https://gizmodo.com/first-complete-map-fly-brain-neuroscience-1850206820",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b928bb584fd0c79a5074b4fde77d438a.gif",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-10T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-us-chamber-of-commerce-pushes-for-ai-regulation-warns-it-could-disrupt-economy.md",
-      "title": "US Chamber of Commerce pushes for AI regulation, warns it could disrupt economy",
-      "excerpt": "These Experts Are Racing to Protect AI From Hackers. Time is Running Out Motorola's handy Bluetooth device adds satellite messaging Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives Sony's new headphones adopt WH-1000XM5 technology at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/us-chamber-of-commerce-pushes-for-ai-regulation-warns-it-can-disrupt-economy/",
-      "originalUrl": "https://www.zdnet.com/article/us-chamber-of-commerce-pushes-for-ai-regulation-warns-it-can-disrupt-economy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b3c76599a5424ff14ceb4bd2090dbec6a2744b56/2023/03/06/2fe311bb-e016-497b-bc20-171d46f6628b/gettyimages-1364859722.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-chamber-of-commerce-pushes-for-ai-regulation-warns-it-can-disrupt-economy/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-chamber-of-commerce-pushes-for-ai-regulation-warns-it-can-disrupt-economy/",
-      "publishedDateTime": "2023-03-10T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike.md",
-      "title": "What’s next in large language model (LLM) research? Here’s what’s coming down the ML pike",
-      "excerpt": "Large language models (LLMs) have come a long way; but they have a long way to go, too. How evolving techniques are advancing the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike/",
-      "originalUrl": "https://venturebeat.com/ai/whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/conversation.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/whats-next-in-large-language-model-llm-research-heres-whats-coming-down-the-ml-pike/amp/",
-      "publishedDateTime": "2023-03-10T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-spotify-unveils-new-features-including-your-own-ai-dj-heres-how-to-access-it.md",
-      "title": "Spotify unveils new features, including your own AI DJ. Here's how to access it",
-      "excerpt": "As Spotify continues to break the music streaming platform mold, it unveils a DJ powered by AI and a social media-like home screen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/spotify-unveils-new-features-including-ai-dj-heres-how-to-access-it/",
-      "originalUrl": "https://www.zdnet.com/article/spotify-unveils-new-features-including-ai-dj-heres-how-to-access-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9fd491b6f8324c9c9b45b22e395edcb2985184f7/2023/03/09/ba84a3b1-704b-43cd-b2ee-834da245d904/newspotifyinterface.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/spotify-unveils-new-features-including-ai-dj-heres-how-to-access-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spotify-unveils-new-features-including-ai-dj-heres-how-to-access-it/",
-      "publishedDateTime": "2023-03-10T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

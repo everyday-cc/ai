@@ -2,6 +2,291 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-03-03-how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas.md",
+      "title": "How Artificial Intelligence Is Making It Easier To Scout Soccer Players Overseas",
+      "excerpt": "In the past, the cost of overseas scouting meant Africa's best players like Yaya Touré only had a few routes to the top. Now, AI and high-resolution cameras are revolutionizing youth scouting, allowing clubs to scout players from West Africa to Iceland without leaving the office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/",
+      "originalUrl": "https://www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6401ab4a5d18a8b0965a1649/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveprice/2023/03/03/how-artificial-intelligence-is-making-it-easier-to-scout-soccer-players-overseas/amp/",
+      "publishedDateTime": "2023-03-03T00:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-robotaxi-tech-improves-but-can-they-make-money.md",
+      "title": "Robotaxi tech improves but can they make money?",
+      "excerpt": "Cruise, a subsidiary of GM, competes with Waymo, owned by Google's parent ... in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-64742934",
+      "originalUrl": "https://www.bbc.com/news/business-64742934",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3680/production/_128725931_cruisequietsanfranciscostreetcreditchriswensel.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-64742934.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-64742934.amp",
+      "publishedDateTime": "2023-03-03T00:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar.md",
+      "title": "We are building next-gen AI to become a global powerhouse: Rajeev Chandrasekhar",
+      "excerpt": "As the world goes gaga over AI chatbots, To make India a global powerhouse of AI which does not just stop on integrating foreign chatbots but building next-generation of AI-based innovations to empower billions of citizens.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/articleshow/98383176.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/articleshow/98383176.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-790970,msid-98383543/stakeholder-consultation-for-digital-india-bill-likely-from-march-rajeev-chandrasekhar.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/amp_articleshow/98383176.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar/amp_articleshow/98383176.cms",
+      "publishedDateTime": "2023-03-02T22:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-artificial-intelligence-crm-a-future-forward-partnership.md",
+      "title": "Artificial intelligence, CRM: A ‘future-forward’ partnership",
+      "excerpt": "AI develops within CRM, it will have a financial value attached to it, says Mark Annett, head of CRM Sales and Consulting at Camsoft Solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/wbrpO7g2NW5vDLZn",
+      "originalUrl": "https://www.itweb.co.za/content/wbrpO7g2NW5vDLZn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2017/12/resized/-fs-Artificial-intelligence-2017.xl.jpg",
+          "width": 816,
+          "height": 459,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/wbrpO7g2NW5vDLZn",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2NW5vDLZn",
+      "publishedDateTime": "2023-03-02T22:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029.md",
+      "title": "How and Where the Artificial Neural Networks Market is Set to Grow in forecast period 2029",
+      "excerpt": "Mar 02, 2023 (The Expresswire) -- \"Artificial Neural Networks Market\" Insights 2023 By Applications (BFSI, Retail and eCommerce, IT, Healthcare and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029-2023-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/how-and-where-the-artificial-neural-networks-market-is-set-to-grow-in-forecast-period-2029-2023-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T19:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-03-nfl-players-with-concussion-histories-have-reduced-cognitive-performance-study-shows.md",
+      "title": "NFL players with concussion histories have reduced cognitive performance, study shows",
+      "excerpt": "A large study looking at over 350 former National Football League players found that players with a history of concussions and concussive symptoms had reduced cognitive performances later in life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
+      "originalUrl": "https://www.cbsnews.com/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/12/789c2dff-9443-4849-939f-a561171f9869/thumbnail/1200x630/b6a636be6494061d9748a28b1ffebd1d/gettyimages-936299580.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
+      "publishedDateTime": "2023-03-02T18:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-ai-study-evaluates-gpt-3-using-cognitive-psychology.md",
       "title": "AI Study Evaluates GPT-3 Using Cognitive Psychology",
       "excerpt": "A new study published in the Proceedings of the National Academy of Sciences of the United States of America (PNAS) by researchers affiliated with the Max Planck Institute for Biological Cybernetics analyzes the general intelligence of large language model (LLM) GPT-3 using cognitive psychology.",
@@ -917,267 +1202,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-prescription-opioids-could-impact-cognitive-function-in-older-adults.md",
-      "title": "Prescription opioids could impact cognitive function in older adults",
-      "excerpt": "Prescription opioid use could have a negative effect on cognitive function in older adults ... level fellows and junior faculty in health services research. Pain is considered common in older ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/do-prescription-opioid.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-03-prescription-opioids-impact-cognitive-function.amp",
-      "publishedDateTime": "2023-03-02T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-how-to-spruce-up-your-facebook-messenger-chats-by-adding-a-theme.md",
-      "title": "How to spruce up your Facebook Messenger chats by adding a theme",
-      "excerpt": "Facebook Messenger has a hidden gem of an option to make chatting with friends, family, and others a bit more fun.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-spruce-up-your-facebook-messenger-chats-by-adding-a-theme/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-spruce-up-your-facebook-messenger-chats-by-adding-a-theme/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a360814037423836b4312682efeb7cb8b95ba5d7/2023/03/02/d4e0cdf3-7e41-4bff-8c63-09564cadc324/gettyimages-1246111401-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-spruce-up-your-facebook-messenger-chats-by-adding-a-theme/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-spruce-up-your-facebook-messenger-chats-by-adding-a-theme/",
-      "publishedDateTime": "2023-03-02T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-microsoft-and-mitre-create-tool-to-help-security-teams-prepare-for-attacks-on-machine-learning-systems.md",
-      "title": "Microsoft and MITRE Create Tool to Help Security Teams Prepare for Attacks on Machine Learning Systems",
-      "excerpt": "New Arsenal plug-in brings together Microsoft Counterfit, MITRE CALDERA™, and MITRE ATLAS™ to help cybersecurity practitioners better understand threats to machine learning systems Microsoft and MITRE have developed a plug-in that combines several open ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/b31174152/microsoft-and-mitre-create-tool-to-help-security-teams-prepare-for-attacks-on-machine-learning-sys",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/b31174152/microsoft-and-mitre-create-tool-to-help-security-teams-prepare-for-attacks-on-machine-learning-sys",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31174152",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31174152",
-      "publishedDateTime": "2023-03-02T08:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-nvidia-nasdaqnvda-riding-the-ai-chip-buzz.md",
-      "title": "Nvidia (NASDAQ:NVDA): Riding the AI Chip Buzz",
-      "excerpt": "The decline in the end market demand due to macroeconomic weakness and inventory issues dragged chip stocks lower, including Nvidia (NASDAQ:NVDA). However, the growing buzz around AI (Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidia-nasdaq:nvda:-riding-the-ai-chip-buzz",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidia-nasdaq:nvda:-riding-the-ai-chip-buzz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-02T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-how-cognitive-behavioral-therapy-tackles-communication.md",
-      "title": "How Cognitive Behavioral Therapy Tackles Communication",
-      "excerpt": "Communication is one of the major skills covered in cognitive behavioral therapy. Although therapy is often with an individual, relationship problems are a common focus of treatment. Helping ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/all-about-cognitive-and-behavior-therapy/202302/how-cognitive-behavioral-therapy-tackles",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/all-about-cognitive-and-behavior-therapy/202302/how-cognitive-behavioral-therapy-tackles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-02/Assertive_senior-g26db35f1e_1280.jpg?itok=DQVHFqPR",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/all-about-cognitive-and-behavior-therapy/202302/how-cognitive-behavioral-therapy-tackles?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/all-about-cognitive-and-behavior-therapy/202302/how-cognitive-behavioral-therapy-tackles?amp",
-      "publishedDateTime": "2023-03-02T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night.md",
-      "title": "Athena AI, Teal 2 Drone: Computer Vision to Identify Weapons, Friends and Foes at Night",
-      "excerpt": "Red Cat Announces Athena AI as Computer Vision Partner for Teal 2 by DRONELIFE Staff Writer Ian M. Crosby Red Cat Holdings [NASDAQ:RCAT]  is held in the AdvisorShares Drone Technology ETF [NYSE ARCA:U",
-      "sourceUrl": null,
-      "webUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
-      "originalUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dronelife.com/wp-content/uploads/2023/03/Teal_2_View_1-e1677770216137.png",
-          "width": 612,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
-      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2023/03/02/athena-ai-teal-2-drone-computer-vision-to-identify-weapons-friends-and-foes-at-night/amp/",
-      "publishedDateTime": "2023-03-02T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dronelife",
-        "domain": "dronelife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

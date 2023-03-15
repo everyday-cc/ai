@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Facing.jpg"

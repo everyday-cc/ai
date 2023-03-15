@@ -2,6 +2,282 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-02-09-former-salesforce-co-ceo-bret-taylor-to-launch-new-ai-startup-with-google-veteran-clay-bavor.md",
+      "title": "Former Salesforce co-CEO Bret Taylor to launch new AI startup with Google veteran Clay Bavor",
+      "excerpt": "Former Salesforce Inc. co-Chief Executive Officer Bret Taylor (pictured) is teaming up with outgoing Google LLC Vice President Clay Bavor to create a new artificial intelligence startup. The unnamed company will seek to apply AI to “some of the most important problems in business,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/02/08/bret-taylor-former-salesforce-co-ceo-launch-new-ai-startup-google-veteran-clay-bavor/",
+      "originalUrl": "https://siliconangle.com/2023/02/08/bret-taylor-former-salesforce-co-ceo-launch-new-ai-startup-google-veteran-clay-bavor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/02/brettaylor.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-former-salesforce-co-ceo-and-outgoing-vp-of-google-launch-ai-startup.md",
+      "title": "Former Salesforce co-CEO and outgoing VP of Google launch AI startup",
+      "excerpt": "The yet-to-be-named company aims to use AI to tackle \"significant business problems,\" as stated by former Salesforce co-CEO Bret Taylor in a LinkedIn",
+      "sourceUrl": null,
+      "webUrl": "https://www.techzine.eu/news/applications/101704/former-salesforce-co-ceo-and-outgoing-vp-of-google-launch-ai-startup/",
+      "originalUrl": "https://www.techzine.eu/news/applications/101704/former-salesforce-co-ceo-and-outgoing-vp-of-google-launch-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techzine.eu/wp-content/uploads/2023/02/Bret-and-Clay.png",
+          "width": 1092,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techzine",
+        "domain": "techzine.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-investing-in-chatgpts-ai-revolution-where-to-begin.md",
+      "title": "Investing in ChatGPT's AI revolution: Where to begin",
+      "excerpt": "IBM has provided AI solutions for large businesses for many years under the Watson brand. In particular, management is excited about the long-term prospects of large language models for AI -- exactly the type of artificial intelligence that ChatGPT uses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/",
+      "originalUrl": "https://www.usatoday.com/story/money/2023/02/09/investing-in-chatgpt-where-to-begin/69885708007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/images/motleyfool/2023/02/08/USAT/69885703007-2-technicians-and-data-center-racks.jpg?auto=webp&crop=2224,1256,x159,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-openai-rival-cohere-ai-has-flown-under-the-radar-that-may-be-about-to-change.md",
+      "title": "OpenAI rival Cohere AI has flown under the radar. That may be about to change.",
+      "excerpt": "It is available through API as a managed service, via cloud machine learning (ML) platforms like Amazon Sagemaker and Google Vertex AI. For enterprise customers with the highest data-protection and latency demands, Cohere’s platform is available as ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/openai-rival-cohere-ai-has-flown-under-the-radar-that-may-be-about-to-change/",
+      "originalUrl": "https://venturebeat.com/ai/openai-rival-cohere-ai-has-flown-under-the-radar-that-may-be-about-to-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/Cohere-cofounders.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/openai-rival-cohere-ai-has-flown-under-the-radar-that-may-be-about-to-change/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-rival-cohere-ai-has-flown-under-the-radar-that-may-be-about-to-change/amp/",
+      "publishedDateTime": "2023-02-09T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-cloud-ai-in-fintech-market-is-expected-to-witness-incredible-growth-during-2023-2028.md",
+      "title": "Cloud AI in Fintech Market is expected to witness Incredible Growth during 2023-2028",
+      "excerpt": "Feb 09, 2023 (The Expresswire) -- \"Cloud AI in Fintech Market\" Size, Share and Trends Analysis Research Report 2023 - By Applications (Chatbots, Credit Scoring, Quantitative and Asset Management ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-is-expected-to-witness-incredible-growth-during-2023-2028-2023-02-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-is-expected-to-witness-incredible-growth-during-2023-2028-2023-02-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-09-ai-and-robot-innovation-to-boost-shanghais-economic-development.md",
+      "title": "AI and robot innovation to boost Shanghai's economic development",
+      "excerpt": "Employees of Shanghai-based robot firm JAKA are attending a two-week training program, with the company's global expansion plan. A dozen employees from various countries including Russia, Spain and Mexico are attending a two-week cobot operation training program at Shanghai-based JAKA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shine.cn/biz/tech/2302096038/",
+      "originalUrl": "https://www.shine.cn/biz/tech/2302096038/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://obj.shine.cn/files/2023/02/10/2cc07d0b-ccd7-49dd-93a1-dd3090a89ebe_0.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-09T04:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SHINE",
+        "domain": "shine.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-09-global-speech-and-voice-recognition-market-to-hit-281-billion-by-2027-growing-at-a-cagr-of-244.md",
       "title": "Global Speech and Voice Recognition Market to Hit $28.1 billion by 2027, Growing At a CAGR of 24.4%",
       "excerpt": "Chicago, Feb. 09, 2023 (GLOBE NEWSWIRE) -- According to a research report \"Speech and Voice Recognition Market by Deployment Mode (On-Cloud, On-Premises/Embedded ...",
@@ -824,255 +1100,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-waymo-provides-driverless-rides-for-super-bowl-visitors.md",
-      "title": "Waymo provides driverless rides for Super Bowl visitors",
-      "excerpt": "But there’s another option if they need a ride around Phoenix. Waymo has been offering driverless rides around the city for a few years. But thousands of people will be in town this week seeing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/",
-      "originalUrl": "https://www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/9I89BgMQniIZb6zM7Vz5ltjHhiY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/HAIM3WSFBZGXRD2TH34GE47PR4.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/2023/02/09/waymo-provides-driverless-rides-super-bowl-visitors/?outputType=amp",
-      "publishedDateTime": "2023-02-08T19:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZFamily",
-        "domain": "azfamily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-asus-rog-strix-scar-18-redefines-portable-gaming-with-rtx-4000-series-gpu.md",
-      "title": "Asus ROG Strix SCAR 18 redefines portable gaming with RTX 4000 series GPU",
-      "excerpt": "Hi-Res audio support ensures you hear music in the same quality it was recorded whereas Two-Way AI Noise Cancellation ... on a gaming laptop with the latest GPU in the market that gives you ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/technology/consumer-electronics/asus-rog-strix-scar-18-redefines-portable-gaming-with-rtx-4000-series-gpu-1.1675847187461",
-      "originalUrl": "https://gulfnews.com/technology/consumer-electronics/asus-rog-strix-scar-18-redefines-portable-gaming-with-rtx-4000-series-gpu-1.1675847187461",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2023/02/08/-_1863040ab7b_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T19:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-the-road-to-new-recognition-for-lift-every-voice-and-sing.md",
-      "title": "The road to new recognition for ‘Lift Every Voice and Sing’",
-      "excerpt": "W. Bush’s presidential inauguration to Super Bowl Sunday. Now, the hymn, “Lift Every Voice and Sing,” known as the Black National Anthem is on the road to new recognition. First performed by a group of school children, it should come as no surprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/news/black-history-month/the-road-to-new-recognition-for-lift-every-voice-and-sing/",
-      "originalUrl": "https://wgntv.com/news/black-history-month/the-road-to-new-recognition-for-lift-every-voice-and-sing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgntv.com/wp-content/uploads/sites/5/2023/02/snapshot-3.jpg?w=1280",
-          "width": 1280,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wgntv.com/news/black-history-month/the-road-to-new-recognition-for-lift-every-voice-and-sing/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/black-history-month/the-road-to-new-recognition-for-lift-every-voice-and-sing/amp/",
-      "publishedDateTime": "2023-02-08T19:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-new-cognitive-research-shows-gaining-knowledge-and-achieving-mastery-comes-down-to-the-rule-of-7.md",
-      "title": "New Cognitive Research Shows Gaining Knowledge and Achieving Mastery Comes Down to the Rule of 7",
-      "excerpt": "Think you don't have the talent for entrepreneurship? For leadership? For programming, for design... for whatever pursuit you may want to, um, pursue? According to HubSpot co-founder Dharmesh Shah ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.inc.com/jeff-haden/new-cognitive-research-shows-gaining-knowledge-achieving-mastery-comes-down-to-rule-of-7.html",
-      "originalUrl": "https://www.inc.com/jeff-haden/new-cognitive-research-shows-gaining-knowledge-achieving-mastery-comes-down-to-rule-of-7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-08T19:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-study-says-kids-playing-video-games-doesnt-affect-cognitive-abilities.md",
-      "title": "Study says kids playing video games doesn’t affect cognitive abilities",
-      "excerpt": "While parents might be concerned about the cognitive effects of letting children play video games, a study conducted by researchers at multiple universities indicated that video game play had ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/national/study-says-kids-playing-video-games-doesnt-affect-cognitive-abilities",
-      "originalUrl": "https://www.wcpo.com/news/national/study-says-kids-playing-video-games-doesnt-affect-cognitive-abilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/e830480/2147483647/strip/true/crop/4368x2457+0+228/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fb0%2F0a%2Ff44498194ea38b1ac848c430e5d7%2Fshutterstock-663218446.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wcpo.com/news/national/study-says-kids-playing-video-games-doesnt-affect-cognitive-abilities?_amp=true",
-      "cdnAmpWebUrl": "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/study-says-kids-playing-video-games-doesnt-affect-cognitive-abilities?_amp=true",
-      "publishedDateTime": "2023-02-08T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCPO Cincinnati",
-        "domain": "wcpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-barista-robot-that-can-make-20-drinks-and-manage-coffee-shops-on-duty-in-south-korea.md",
-      "title": "Barista robot that can make 20 drinks and manage coffee shops on duty in South Korea",
-      "excerpt": "The AI Barista Robot, which uses a robotic arm powered by “advanced artificial intelligence”, can even close your cup lid when serving beverages, according to its creators. Not content with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.standard.co.uk/tech/barista-robot-south-korea-coffee-shops-b1056117.html",
-      "originalUrl": "https://www.standard.co.uk/tech/barista-robot-south-korea-coffee-shops-b1056117.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.standard.co.uk/2023/01/27/12/FnXAng6aUAAxxcY.jpeg?width=1200&width=1200&auto=webp&quality=75",
-          "width": 1200,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standard.co.uk/tech/barista-robot-south-korea-coffee-shops-b1056117.html",
-      "cdnAmpWebUrl": "https://www-standard-co-uk.cdn.ampproject.org/c/s/www.standard.co.uk/tech/barista-robot-south-korea-coffee-shops-b1056117.html",
-      "publishedDateTime": "2023-02-08T17:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "London Evening Standard",
-        "domain": "standard.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

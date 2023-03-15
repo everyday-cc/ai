@@ -2,6 +2,245 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-02-07-ai-startup-cohere-in-talks-to-raise-funding-at-6b-plus-valuation.md",
+      "title": "AI startup Cohere in talks to raise funding at $6B plus valuation",
+      "excerpt": "Cohere, established by former researchers at Alphabet in 2019, has quickly risen through the AI startup ranks given their intensive research background and close ties to Google.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/ai-startup-cohere-talks-raise-funding-6-billion-plus-valuation",
+      "originalUrl": "https://www.foxbusiness.com/technology/ai-startup-cohere-talks-raise-funding-6-billion-plus-valuation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-oil-companies-announce-large-profits-from-2022-and-meta-stands-out-from-the-tech-crowd-forbes-ai-newsletter-february-4th.md",
+      "title": "Oil Companies Announce Large Profits From 2022 And Meta Stands Out From The Tech Crowd - Forbes AI Newsletter February 4th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/02/06/oil-companies-announce-large-profits-from-2022-and-meta-stands-out-from-the-tech-crowdforbes-ai-newsletter-february-4th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/02/06/oil-companies-announce-large-profits-from-2022-and-meta-stands-out-from-the-tech-crowdforbes-ai-newsletter-february-4th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/02/06/oil-companies-announce-large-profits-from-2022-and-meta-stands-out-from-the-tech-crowdforbes-ai-newsletter-february-4th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/02/06/oil-companies-announce-large-profits-from-2022-and-meta-stands-out-from-the-tech-crowdforbes-ai-newsletter-february-4th/amp/",
+      "publishedDateTime": "2023-02-06T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-exploring-gpt-3s-artificial-intelligence-from-a-psychologists-point-of-view.md",
+      "title": "Exploring GPT-3's 'artificial intelligence' from a psychologist's point of view",
+      "excerpt": "Researchers at the Max Planck Institute for Biological Cybernetics in Tübingen have examined the general intelligence of the language model GPT-3, a powerful AI tool. Using psychological tests, they studied competencies such as causal reasoning and deliberation,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-02-exploring-gpt-artificial-intelligence-psychologist.html",
+      "originalUrl": "https://techxplore.com/news/2023-02-exploring-gpt-artificial-intelligence-psychologist.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-in-depth-analysis-of-the-face-recognition-technology-market-key-findings-throughout-by-2026.md",
+      "title": "In-Depth Analysis of the Face Recognition Technology Market | Key Findings Throughout by 2026",
+      "excerpt": "Pre and Post-Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/in-depth-analysis-of-the-face-recognition-technology-market-key-findings-throughout-by-2026-2023-02-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/in-depth-analysis-of-the-face-recognition-technology-market-key-findings-throughout-by-2026-2023-02-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-openai-says-chatgpt-must-be-regulated-meanwhile-get-ready-for-ai-audits-the-ai-beat.md",
+      "title": "OpenAI says ChatGPT must be regulated. Meanwhile, get ready for AI audits | The AI Beat",
+      "excerpt": "AI regulation is coming, and quickly, Those laws will often require AI audits, so companies need to get ready.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/openai-says-chatgpt-must-be-regulated-meanwhile-get-ready-for-ai-audits-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/openai-says-chatgpt-must-be-regulated-meanwhile-get-ready-for-ai-audits-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/openai-says-chatgpt-must-be-regulated-meanwhile-get-ready-for-ai-audits-the-ai-beat/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/openai-says-chatgpt-must-be-regulated-meanwhile-get-ready-for-ai-audits-the-ai-beat/amp/",
+      "publishedDateTime": "2023-02-06T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-07-spacex-put-a-tesla-sportscar-into-space-five-years-ago-where-is-it-now.md",
+      "title": "SpaceX put a Tesla sportscar into space five years ago. Where is it now?",
+      "excerpt": "SpaceX launched a Tesla roadster belonging to company founder and billionaire Elon Musk in 2018, and what's left of the car may still be in orbit today.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2023/02/06/world/spacex-elon-musk-tesla-roadster-five-years-scn",
+      "originalUrl": "https://edition.cnn.com/2023/02/06/world/spacex-elon-musk-tesla-roadster-five-years-scn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/02/06/world/spacex-elon-musk-tesla-roadster-five-years-scn/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/02/06/world/spacex-elon-musk-tesla-roadster-five-years-scn/index.html",
+      "publishedDateTime": "2023-02-06T08:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-healthcare-crm-market-to-surpass-usd-3154-billion-by-2028-owing-to-key-technological-breakthroughs-brandessence-market-research.md",
       "title": "Healthcare CRM Market to Surpass USD 31.54 billion by 2028 owing to Key Technological Breakthroughs | Brandessence Market Research",
       "excerpt": "The Healthcare CRM Market is anticipated to reach a valuation of USD 31.54 Billion by 2028 from USD 12.53 Billion in 2021, registering a CAGR of 14.1% over the forecast duration of 2022-2028. The healthcare industry is anticipated to experience a surge in the demand for Customer Relationship Management (CRM) solutions due to the growing requirement for structured data and automation within healthcare organizations.",
@@ -712,209 +951,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-nlp-leader-humaai-launches-industrys-first-generative-ai-platform-for-life-sciences.md",
-      "title": "NLP Leader Huma.AI Launches Industry's First Generative AI Platform for Life Sciences",
-      "excerpt": "Enterprise Generative AI Focused on Life Sciences to Bring Life-Saving Drugs to Market Faster PALO ALTO, Calif. (PRWEB) 06, 2023 Huma.AI, a leading healthcare AI company, announced today the launch of",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/p30731429/nlp-leader-huma-ai-launches-industrys-first-generative-ai-platform-for-life-sciences",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/p30731429/nlp-leader-huma-ai-launches-industrys-first-generative-ai-platform-for-life-sciences",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/30731429",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30731429",
-      "publishedDateTime": "2023-02-06T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-chinas-tianjin-to-hold-7th-world-intelligence-congress-in-may.md",
-      "title": "China's Tianjin to hold 7th World Intelligence Congress in May",
-      "excerpt": "A visitor interacts with a robot at the 6th World Intelligence Congress held in Tianjin, June 24, 2022. [Photo/Xinhua] TIANJIN - North China's Tianjin municipality is scheduled to hold the seventh World Intelligence Congress,",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202302/06/WS63e0fa40a31057c47ebad36a.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202302/06/WS63e0fa40a31057c47ebad36a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-machine-learning-model-predicts-physician-departure-with-ehr-use-metrics.md",
-      "title": "Machine Learning Model Predicts Physician Departure With EHR Use Metrics",
-      "excerpt": "The machine learning model found that physician demographics, EHR use metrics, and patient panel characteristics contributed most to the risk of physician departure.",
-      "sourceUrl": null,
-      "webUrl": "https://ehrintelligence.com/news/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
-      "originalUrl": "https://ehrintelligence.com/news/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ehrintelligence.com/news/amp/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
-      "cdnAmpWebUrl": "https://ehrintelligence-com.cdn.ampproject.org/c/s/ehrintelligence.com/news/amp/machine-learning-model-predicts-physician-departure-with-ehr-use-metrics",
-      "publishedDateTime": "2023-02-06T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EHR Intelligence",
-        "domain": "ehrintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-the-download-trapped-by-grief-algorithms-and-image-ai-privacy-issues.md",
-      "title": "The Download: trapped by grief algorithms, and image AI privacy issues",
-      "excerpt": "I started Googling the stages of grief, and books and academic research about loss, from the app on my iPhone, intentionally and unintentionally consuming people’s experiences of grief and tragedy through Instagram videos,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/02/06/1067817/download-trapped-grief-algorithms-image-ai-privacy-issues/",
-      "originalUrl": "https://www.technologyreview.com/2023/02/06/1067817/download-trapped-grief-algorithms-image-ai-privacy-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/02/06/1067817/download-trapped-grief-algorithms-image-ai-privacy-issues/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/02/06/1067817/download-trapped-grief-algorithms-image-ai-privacy-issues/amp/",
-      "publishedDateTime": "2023-02-06T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-law-firms-developing-gpt-35-tools-for-now-they-may-be-few-and-far-between.md",
-      "title": "Law Firms Developing GPT-3.5 Tools? For Now, They May Be Few and Far Between",
-      "excerpt": "While legal tech providers are steadily releasing tools leveraging GPT-3.5, even innovative law firms who regularly develop legal tech may have a challenging time following suit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2023/02/06/law-firms-developing-gpt-3-5-tools-for-now-they-may-be-few-and-far-between/",
-      "originalUrl": "https://www.law.com/legaltechnews/2023/02/06/law-firms-developing-gpt-3-5-tools-for-now-they-may-be-few-and-far-between/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-06-noozai-launches-web-based-version-of-its-app-with-enhanced-features.md",
-      "title": "NOOZ.ai Launches Web-Based Version of Its App With Enhanced Features",
-      "excerpt": "NT CONNECT, an international tech developer, today announces the launch of their app, NOOZ.ai, in a web-based format. The app's web version will be readily available through",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/02/g30729491/nooz-ai-launches-web-based-version-of-its-app-with-enhanced-features",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/g30729491/nooz-ai-launches-web-based-version-of-its-app-with-enhanced-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

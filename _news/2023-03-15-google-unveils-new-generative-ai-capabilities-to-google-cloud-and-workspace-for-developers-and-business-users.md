@@ -32,15 +32,6 @@ related:
         width: 404
         height: 404
         isCached: true
-  - title: "8×8 unveils a bevy of new customer-facing AI capabilities"
-    excerpt: "The company certainly delivered, going news-heavy today by loading up its product with several new artificial intelligence capabilities targeting customer experience improvement. The infusion of AI into CX platforms,"
-    publishedDateTime: 2023-03-10T18:49:00Z
-    webUrl: "https://siliconangle.com/2023/03/10/8x8-unveils-bevy-new-customer-facing-ai-capabilities/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "T++x1DzUdwtF65u809C2bDdB0EqX4s3OHwLIe95WBC6DKY1tWStgcswAatFcenjRGGno+tQtN0cEZq0Z+USeuR9qwlP7+8TIwYaHRKFcfezOiJ0FFSynaRGe85bAKgqO/sK5k4ciruQ9dKdTZNK9eX0F5qmlLWS9OiyhgvC7RUD/AzTEySrVl4P+TeFEuzfUNI5J3LfTpRPLxtCBo8pb8qzOJVgz3+wRKLA8tK7WrvhwJAlHvl2iNFTovgf9m4PnxizcqYgej2kuoCZ0MfX4NGIvNQYfZHdZ7fBklzXtPYptSpjWnyUhgxfKGwrjGQyKaxgLX205nkaVrMxZUX1CVOqCjizvA3jE7DqsHtsA/nKC5I5vRuAVAm3u7+akfH0Ov7NTr3vA3t+FSaXZApLr4J8qcYOuyLqrJRAqPjwBKLYmDB6oyriTPrjCyE5O5FljoCwwA1hfOgzjgQkBl8F9x4Phls9x+hBKD0XcKOZIBeiWsD3vyHcue4F4wLa1mVT+kl5F4Ob4LW3S8k3WhvZf5g==;47JdAGZO7dIMNjsbJGRrew=="
 ---

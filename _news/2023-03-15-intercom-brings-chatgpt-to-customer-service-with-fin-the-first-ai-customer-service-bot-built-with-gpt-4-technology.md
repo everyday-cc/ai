@@ -98,6 +98,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google is shoving generative AI into Gmail, Docs, Sheets, Meet, Chat and Slides"
+    excerpt: "You'd better already be comfortable with using AI in your daily life because Google's about to put the tech front and center in all of its Workspace products.."
+    publishedDateTime: 2023-03-14T18:29:00Z
+    webUrl: "https://www.engadget.com/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html"
+    ampWebUrl: "https://www.engadget.com/amp/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-is-shoving-generative-ai-into-gmail-docs-sheets-meet-chat-and-slides-161711903.html"
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: engadget.com
+    quality: 83
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/iCNq2RcP3wmjEoexBWNb_g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-03/fd4a1800-c27f-11ed-b7ff-02db82aeb64a.cf.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Can AI Tools Like ChatGPT Replace Computer Programmers?"
     excerpt: "Despite the fast-evolving capabilities of AI chatbots to write code as well as human language, many computer science educators see significant limits for these tools in accuracy, security and copyright infringement."
     publishedDateTime: 2023-03-11T00:17:00Z
@@ -232,6 +248,20 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-03/du%20ChatGPT%20-2.jpeg?itok=4zUAKmea"
         width: 1599
         height: 1200
+        isCached: true
+  - title: "ChatGPT and Bing AI to sit as panellists at fintech conference."
+    excerpt: "Artificial intelligence chatbots will be used as panellists for the first time as part of a conference hosted by the Gillmore Centre for Financial Technology this week."
+    publishedDateTime: 2023-03-15T11:38:00Z
+    webUrl: "https://www.finextra.com/newsarticle/41973/chatgpt-and-bing-ai-to-sit-as-panellists-at-fintech-conference"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/robo-ai.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "'ChatGPT, Draft a Catchy Title:' The Risks of Using AI"
     excerpt: "Will generative AI make lawyers obsolete? Can ChatGPT help streamline a legal practice? In considering whether to adopt generative AI tools, lawyers should consider the risks."

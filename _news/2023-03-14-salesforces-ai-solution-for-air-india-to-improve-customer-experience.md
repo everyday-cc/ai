@@ -41,6 +41,22 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "AI boom is dream and nightmare for workers in India, global South"
+    excerpt: "Data annotation is being outsourced as the use of artificial intelligence (AI) explodes, but workers in poorer nations deal with low pay and few protections"
+    publishedDateTime: 2023-03-15T11:38:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/ai-boom-is-dream-and-nightmare-for-workers-in-india-global-south/article66622463.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ai-boom-is-dream-and-nightmare-for-workers-in-india-global-south/article66622463.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ai-boom-is-dream-and-nightmare-for-workers-in-india-global-south/article66622463.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/uiyehb/article65913134.ece/alternates/FREE_1200/26EPBS_DIGITAL%20LITERACY.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "uRbQGKsTdoj/rhL7GJuDHKPbfEPoGf+bhSousu5LaPH9lbojtxZrzds/9walig71kK+1wpb72sw7iH65jjZK8P2ejiCkNri2u+cbirJzgsmN8l0CbkTZmk8NAp5tkyMSMFgN6D1mBofBd4WaF3FGSwF9RI1vnNxIqkJ/pNBN3oj4NjwOx5/pYiNlNkiRueWFcQF9SdtspI8xqODIGRIQUA/tuxw2MAW+SGw6jZNPQltyTYILi+9E/HfuFiXE52Pfa1697mhcGnjWRncgzgtEdNYjvmKC3400+2d/znGJl9btfC1oJbkuKMI9wl1/dT3U7VDJBmv5Y0mzwW5nBy0s79cSbPtFFYKvEyfX+qwbolM=;iYR7dUmombK31gAlYvkPIA=="
 ---

@@ -2,19 +2,16 @@
 category: news
 title: "Ex-Apple execs net $100 million in investments for AI startup Humane"
 excerpt: "Through its partnership with Volvo, Humane will work on a potential collaboration to apply AI in the automotive industry, the company said. “Our first device will enable people to bring AI with ..."
-publishedDateTime: 2023-03-10T16:32:00Z
-originalUrl: "https://www.turnto23.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
-webUrl: "https://www.turnto23.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
-ampWebUrl: "https://www.turnto23.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
-cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
+publishedDateTime: 2023-03-10T16:29:00Z
+originalUrl: "https://www.10news.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
+webUrl: "https://www.10news.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
+ampWebUrl: "https://www.10news.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
+cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
-  name: KERO-TV
-  domain: turnto23.com
+  name: ABC 10 News
+  domain: 10news.com
 
 topics:
   - AI
@@ -25,6 +22,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ee1ECTvqT52cAanWqUBthjLJXo8jMTI2EO7LLbDoBPZy2xZKVxBM132ymtzFxDiXDOtxTDESzOIf1SmoiheYQ/LtdoapRbje8/jDLplZ4HMX+RSqxrQ5BciQEUZbJNzP6nTRPz9c0jlvLafIEIkGC7KZPCCajFhpJf9Qf3744xKBGJ07mCB26eaOvHFMv4VbeUFXXT2UjSNmImz/aK6ychsexPfGnd/YBoKcCkaq87lAsrgjEPrbuAZtrylR5H0d0p+8XkJCVnz95IREpTj0HSoT7+7iFqZa1dfxLMtwo3kp9Juc8H9i7xIx03jP5EXk2kkLYgMZdIxgvtuspKohimhPRdEERmzxoYKyHd7bs/4=;QFJUtac3MY8iIwARFGBJtA=="
+secured: "WIVtdCyYGPbMeTGIWs6S9Y/2dn4eU43Vvt+y+oUKJ1La1YrXm1IO/HUYtvvDALDgkekN74LBCiEFUImGvq8dY3UZGmxC3B+nnkaaqLnypCjV7B5qw2x9uJvmRHB9HbQRjC9TWBojtbP+iOQ5o4mmfybIf1EDfPLkRzUUfxdczSE+lju6HE/9anhDRsoJifdSIoMvbLS9jo7w6G/b3GbA+iHeFoPhR2/Jgw5Q93aJznvzSkCmogJGfpmM8wgRK+ch4ct1srVuB4+tBeNdN0c2f82MHOXNdTxrea6Cu1r7vwPxt3xeshSJAI9aeOz+QPJRgnCwYchgtXHeeXVt7Bm5oj0zJArbBVn4GKWB6Kt7rvg=;eMHHfUw9JD2zVANVcoVEeA=="
 ---
 
