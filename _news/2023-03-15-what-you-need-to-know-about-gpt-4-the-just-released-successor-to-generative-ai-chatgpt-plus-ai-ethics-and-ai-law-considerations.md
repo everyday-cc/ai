@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/64117de68b093e4f8128450d/0x0.jpg?format=jpg&crop=1464,824,x0,y73,safe&width=1200"
@@ -259,6 +260,6 @@ related:
       domain: ft.com
     quality: 15
 
-secured: "uW0jjHHiIkLRtKpfg8PX18XcPteyjbIpymFaUMy1Zc5MSSkopWhI0D13GqXp2iU65od84BcCLRYTOlmfuj4/sAjPpidh0iMdBIhcwJc0jFtqtwuj5EhGhAzhD/Ya1EmsZhIqXvhYA+bUpqafGE59FnGqD319gyQNxYzxVd1wZsZKy1ze4u5cwwJfRFkxFjcRtA8jPk9HEAKAGe51JZy3pACptK2HJfrFJHstAbDECoqf8h5o+PEPB14700EV/z2ijgjFrFIBFLrLKaYtLtkLrUFIDl5dzaqiVPtbI4u/wLbYP8tryLSoOxrLCkCPzLoYNdmfni+l3mHinpKwnQDymsjTomaQcCFHADVY8vGkMCs=;kyvmSrGI/PHpd/lqpzUShw=="
+secured: "GssrKbBLWmBw1MR1m9bqcasqeAMyplbzqlbIVl0HNw40VAj6Ggzg2g9zMTRj26LAGBf8au2pX1rkecnvB4P7e0/odl9z2TjgpaWr3cp/oUJ6eLKevg2ANyETsyAkXeHH6OYXsKkKBTlQjnLZ46H4eElGqKDVvvPB4nylg3tT1/vmtX8m0DBV0SspQdDARY/GH5EtpCCP6xnCrUi/2KNn5wmpNug34y8Vb/7/m7F6R9j1adx0v/jmr4s4vp1krkexP0NQ2O3V9Ny9kLS/wWy8MVcF/DPOWcWyt7AcDxT8D5FbFD0hlGhqnojD0yQdjuBB8trGqYI0tlvPveZxZV0fN/FG9HglVWj5Q0D38j5oZ8AI2V9SFY1dvCBtVnnTKGHnj8ebrf2YBze1UA3vdXiRgEetl/q7jkE7qyfX3rM8DhEk8g0YQVp/iDAoe9A/d9tBhPxX5/38OISVyYz+Ct3VoEZJhV4eHHySmwiNr6WhFIXUC7t4KGJBgXi5nuXtPIPnrHNPM4YUnAVjrs4uxh68pA==;szQqyXxa/bqj0/xP8KENFA=="
 ---
 
