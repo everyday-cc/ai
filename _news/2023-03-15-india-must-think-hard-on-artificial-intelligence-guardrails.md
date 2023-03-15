@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-a
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp"
 type: article
 quality: 72
-heat: 82
+heat: 83
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-di
 webUrl: "https://www.engadget.com/google-is-working-on-ai-for-ultrasound-diagnosis-and-cancer-therapy-150023911.html"
 type: article
 quality: 84
-heat: 105
+heat: 104
 published: true
 
 provider:

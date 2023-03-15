@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-
 ampWebUrl: "https://www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/03/14/1069717/how-ai-could-write-our-laws/amp/"
 type: article
-quality: 57
-heat: 77
+quality: 59
+heat: 79
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/ai-lobbyists.jpeg?w=3000"

@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI (Artificial Intelligence) Image Recognition Market Size, Trends and Forecast 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 14, 2023 (The Expresswire) -- AI (Artificial Intelligence) Image Recognition Market Insights 2023 by Types (Hardware, Software, Services) , Applications (Automotive ..."
+    publishedDateTime: 2023-03-15T05:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-image-recognition-market-size-trends-and-forecast-2029-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing For Healthcare And Life Sciences Market Size | Industry Report from 2023 - 2029"
     excerpt: "Natural Language Processing For Healthcare And Life Sciences Market” information for each competitor includes |"
     publishedDateTime: 2023-03-12T17:44:00Z
@@ -402,6 +416,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Thermometer Market : Share, Top Players Analysis, Size, Demand, Growth Strategy, Trends, Supply, Revenue and 2028"
+    excerpt: "The \"Face Recognition Thermometer Market\" Study Describes how the technology industry is evolving and how major"
+    publishedDateTime: 2023-03-14T04:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-thermometer-market-share-top-players-analysis-size-demand-growth-strategy-trends-supply-revenue-and-2028-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

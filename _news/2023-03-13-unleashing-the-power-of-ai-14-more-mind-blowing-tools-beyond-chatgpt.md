@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "More AI experiences are coming to Discord, including ChatGPT"
-    excerpt: "The social platform is leaning into AI and adding new features to optimize user experience. Here's what you can expect."
-    publishedDateTime: 2023-03-10T14:36:00Z
-    webUrl: "https://www.zdnet.com/article/more-ai-experiences-are-coming-to-discord-including-chatgpt/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/more-ai-experiences-are-coming-to-discord-including-chatgpt/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/more-ai-experiences-are-coming-to-discord-including-chatgpt/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b7165aebd64c0d9cc40a915b1146a82603fb271e/2023/03/09/a90ee5a6-753f-40a1-9328-8e6ad725d8c0/screenshot-2023-03-09-at-4-06-40-pm.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "ChatGPT Passes Huge Milestone as World Swept up in AI Revolution"
     excerpt: "ChatGPT caused a worldwide sensation when it was first released to the public in November 2022. It has the ability to answer questions and craft short essays based on prompts from humans. This picture taken on January 23,"
     publishedDateTime: 2023-03-11T15:00:00Z
@@ -94,6 +78,22 @@ related:
       - url: "https://d.newsweek.com/en/full/2207559/openai-chatgpt-logos-pictured.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "AI And You: How ChatGPT Can Take Your Career To The Next Level"
+    excerpt: "Generative AI is causing a big buzz at the moment ... Augment Your Skills With New Abilities But that’s just the start. Crucially, professionals can use it to augment their abilities to carry out tasks that might happen to fall outside of their skillset ..."
+    publishedDateTime: 2023-03-15T07:41:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/03/15/ai-and-you-how-chatgpt-can-take-your-career-to-the-next-level/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6411757580698ccfebca629f/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Can AI Tools Like ChatGPT Replace Computer Programmers?"
     excerpt: "Despite the fast-evolving capabilities of AI chatbots to write code as well as human language, many computer science educators see significant limits for these tools in accuracy, security and copyright infringement."

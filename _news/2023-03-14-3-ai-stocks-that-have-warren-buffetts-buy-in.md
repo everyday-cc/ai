@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/msft-lmt-aapl-3-ai
 webUrl: "https://markets.businessinsider.com/news/stocks/msft-lmt-aapl-3-ai-stocks-that-have-warren-buffetts-buy-in-1032164253"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -31,7 +31,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 49
 
 secured: "hLEY7zJwyWPfkObUPyc74t+rLdVy4NuNs5hIrJEXoWtitOCrGobUDiiaPOggTbhcUpjXdeNsLo045Zwa3WjLV/cnVt8Thb4nk51smyitxuCB6PlFt11NDr9xVJvTp4Hhu4zDP/wk23Dle1vxBqj3W76dmYS07fDEbs0LIXgz527FJOY0VmrY6lRGZWqKST14DJYrOviNsc8x6GBqTAKTsEBShWtULYOfL3RkDTLsSSdQcAycknozEt3KbLEp8EMqihBZH+RCFgwtk0W8w7EqulkNKNBCpHBCITH2dFCghUeBhvz0YIXUWuK2GFvOKDBDqdrpRwin7otY1Cbci6tFegkxIbO9AlVDgtQ24ZE+m7iVTxWLc4cWXSgZ4L0n5e26s/N7CjizibluVnc11jC5mbGZGon1tRpEtyqzymFPqIYtKwOr1NK70ei6/8GqN8c8hZ0TUrYWIj+cdgLcCDPQL8mEMzSWElvpgQPC9p5XhLjwrSZmCMBDVidmtTl+aLBnRh2vL/pznpJSpLmvioe3RQ==;Y1jnxsQ6LowH+CVEYZ/JaQ=="
 ---

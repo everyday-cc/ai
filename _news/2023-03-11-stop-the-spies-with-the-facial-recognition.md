@@ -2,26 +2,26 @@
 category: news
 title: "Stop the spies with the facial recognition"
 excerpt: "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ..."
-publishedDateTime: 2023-03-10T23:02:00Z
-originalUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
-webUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
-ampWebUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-cdnAmpWebUrl: "https://www-presstelegram-com.cdn.ampproject.org/c/s/www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+publishedDateTime: 2023-03-10T23:57:00Z
+originalUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
+webUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
+ampWebUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Press-Telegram
-  domain: presstelegram.com
+  name: Orange County Register
+  domain: ocregister.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.presstelegram.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+  - url: "https://www.ocregister.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
     width: 1024
     height: 578
     isCached: true
@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Stop the spies with the facial recognition"
-    excerpt: "If, like us, your initial and overriding opinion of sweeping electronic surveillance of literally everyone by law enforcement is that it is bad — bad to the bone — your attitude about a proposed"
-    publishedDateTime: 2023-03-10T15:00:00Z
-    webUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
-    ampWebUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-sgvtribune-com.cdn.ampproject.org/c/s/www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-    type: article
-    provider:
-      name: San Gabriel Valley Tribune
-      domain: sgvtribune.com
-    quality: 59
-    images:
-      - url: "https://www.sgvtribune.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
-        width: 1024
-        height: 578
-        isCached: true
   - title: "Facial Recognition Market to Expand at a Stunning CAGR of 16%, Demand and Opportunities During 2023-2033"
     excerpt: "During the forecast period of 2023-2033, the global facial recognition market is expected to reach an estimated value of ~USD 24 billion by 2033, by expanding at a CAGR of ~16%. The market further generated a revenue of ~USD 5 billion in the year 2022."
     publishedDateTime: 2023-03-14T04:50:00Z
@@ -100,6 +84,6 @@ related:
         height: 720
         isCached: true
 
-secured: "pIeUwYk7q+NcT1HaBIcY70lUzR1red3uk35ajGSrMQLrUpzE/r2ywsIi3M1fNqtrLdgGZclMnt/5eXIK5WigJazQl/NWmShVOSgsJ99Na4t9qRtsJusmK+WMgCs2Ys1FY3gfgMuzu9KvqWblpaFnWGKfEBY5vCZ9mPyFU0dD5B0jWfkfpgY4bSCRqRf/YgAdtyE1WBeCk2/YT/a++LMaQc+8DhY1g5NpvT+HoxWZ2ZUL0x+RDrfJKcxmoZgBE6rBuuEgXJBctz5OqRpnK598T6ONQQYtv+D8sioq+zRHqI7Pgck+ioHBgGRIpAOs9Z1RO/B/QPixN+S8m78nzUs5xIAUJjVpn/MXIVx2soBl8II=;BI2hcSizmzE+oCkyWYkIxg=="
+secured: "h80AD9k2T6V5HODJhfHr7HOpehogXLtKvbuVRtU0fEsbtzezYEWb9YGl/YrXh1Z30jjgevaIzIQCd5S5xPKtyBFlw52fUsY+dSavSn7NtgietsaYakIJuZetjPt2L+h/2QlTrr3ovTI7Vy/7khBTcGc/T4NRSX00Ji81OEfibD+xX0b+9kQb8vJnOdggs1gSvEfz+p1pCZp4v8ENCcFtQwDr2Mr1mfwLinvyGhj5iA9IrwJQHts5xRJJtM13U5izLP4moqqNME/UH9BQZGzPDlBQLWopMhju3hVXddhes15fqQcJ9YFsmXpSFEcJlb31bfyVGGjz3gb2hs2ltG78yY54RMNGdljDrx46eMhWmVw=;xwvP5AhEmaaEf7OPIhcqhQ=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-13T19:38:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/soun-robt-ai-3-ai-stocks-that-can-make-you-a-millionaire-by-2025-1032164252"
 webUrl: "https://markets.businessinsider.com/news/stocks/soun-robt-ai-3-ai-stocks-that-can-make-you-a-millionaire-by-2025-1032164252"
 type: article
-quality: 47
-heat: -1
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "3 AI Stocks That Have Warren Buffett’s Buy-In"

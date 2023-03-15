@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Pagaya to Participate in the Wolfe FinTech Forum"
-    excerpt: "Pagaya Technologies Ltd. (\"Pagaya\" or the \"Company\"), a global technology company delivering artificial intelligence infrastructure for the financial ecosystem, announced today that the Company's management team will be participating in the Wolfe FinTech Forum on March 14,"
-    publishedDateTime: 2023-03-10T14:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pagaya-participate-the-wolfe-fintech-forum-/2023/03/10/9774999.htm"
+  - title: "Advanced fintech puts Qatar on top of the region"
+    excerpt: "The 9th Islamic Finance Conference titled Islamic Finance and Challenges of Web 3.0 kicked off at the Sheraton Hotel, Doha yesterday. The"
+    publishedDateTime: 2023-03-15T06:12:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/15/03/2023/advanced-fintech-puts-qatar-on-top-of-the-region"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 24
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20230315_1678860871-966.jpg?1678860871"
+        width: 1200
+        height: 750
+        isCached: true
 
 secured: "/iPALAkhuQr/cY/e8NkEscK3nvJ2GtqxXwePw8Kk0zwI8drz50M7dY8p+3qaqKnV8epZWMXz+ZE56oPDRo9dNVArJVSN3YJcHaDFGQh0F8t+zJskLn2Iu5ycHPzXzecPuEDQWZTEnai3mPoqIq4pct9sch4e9gvzASiNmBplKV7E1VAMWUOtVD1vA0U6b1FF8EinzA4neeLH+u3FNRgakg4Czy3gWs3WiT0fzEIKr6Yd/qeo8bGTTH6jtMRIG4jaoFYuWDzhCAipSZPCmLs7sKgatDnjVA6TVzC3FVjCqsxMtY5k+IXSu94wftzkvUE0txY3YY1NXhUKdAh5dwByhrB/FkODy9vZNUAGckgPy8E=;Y5QEgeKgXz+giPFjnOP0XQ=="
 ---

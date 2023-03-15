@@ -142,6 +142,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Open-AI releases GPT-4, an even more advanced AI model than ChatGPT"
+    excerpt: "The startup OpenAI on Tuesday said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage for human-like technology to proliferate and mor"
+    publishedDateTime: 2023-03-15T06:33:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2023/03/15/open-ai-releases-gpt-4-an-even-more-advanced-ai-model-than-chatgpt/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 39
+    images:
+      - url: "https://www.pakistantoday.com.pk/wp-content/uploads/2023/01/Downloader.la-63b907a81dfd4-1.jpg"
+        width: 1024
+        height: 695
+        isCached: true
   - title: "OpenAI announces GPT-4, which was powering Bing the whole time"
     excerpt: "OpenAI officially announced its multimodel language model GPT-4 on Tuesday, and the AI is capable of seeing images for the first time."
     publishedDateTime: 2023-03-14T19:09:00Z
