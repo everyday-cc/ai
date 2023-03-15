@@ -406,6 +406,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence-Emotion Recognition Market Statistics and Industry Share Analysis Forecast 2023-2028"
+    excerpt: "Global Artificial Intelligence-Emotion Recognition Market Report (121 Pages) provides exclusive vital statistics, data, information, trends and competitive landscape details in this niche sector. Get a sample PDF of the report at - https ..."
+    publishedDateTime: 2023-03-15T05:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-emotion-recognition-market-statistics-and-industry-share-analysis-forecast-2023-2028-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving Cars Market 2023 | Global Industry Report Forecast 2029"
     excerpt: "Mar 13, 2023 (The Expresswire) -- [94+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Self-driving Cars Market” Size 2023 Key players Profiled in the Report ..."
     publishedDateTime: 2023-03-13T19:15:00Z

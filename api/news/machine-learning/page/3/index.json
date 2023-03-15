@@ -2,6 +2,84 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-02-22-trust-stamp-announces-notice-of-allowance-for-us-patent-related-to-its-artificial-intelligence-ai-based-biometric-authentication-technology.md",
+      "title": "Trust Stamp Announces Notice of Allowance for U.S Patent Related to its Artificial Intelligence (AI) Based Biometric Authentication Technology",
+      "excerpt": "Atlanta, Feb. 21, 2023 (GLOBE NEWSWIRE) -- Trust Stamp (Nasdaq: IDAI), the Privacy-First Identity Company TM providing artificial intelligence (AI)-powered trust and ...",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2023/02/21/9763424.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2023/02/21/9763424.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-21T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-22-deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai.md",
+      "title": "Deep Learning Robotics (DLR) Awarded New Patent for Revolutionary Technology in Robotics and AI",
+      "excerpt": "Deep Learning Robotics (DLR), a leading innovator in the field of robotics and artificial intelligence, announced at the AI Week in Tel-Aviv the grant of a new patent for",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/02/n30993121/deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/02/n30993121/deep-learning-robotics-dlr-awarded-new-patent-for-revolutionary-technology-in-robotics-and-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/30993121",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/30993121",
+      "publishedDateTime": "2023-02-21T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-02-21-neuromorphic-camera-and-machine-learning-aid-nanoscopic-imaging.md",
       "title": "Neuromorphic camera and machine learning aid nanoscopic imaging",
       "excerpt": "Their novel technique, which combines optical microscopy with a neuromorphic camera and machine learning algorithms, presents a major step forward in pinpointing objects smaller than 50 nanometers ...",
@@ -1306,102 +1384,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-11-understanding-and-debugging-deep-learning-models-exploring-ai-interpretability-methods.md",
-      "title": "Understanding and Debugging Deep Learning Models: Exploring AI Interpretability Methods",
-      "excerpt": "Subscribe for free. Deep learning models can be very complex and understanding their internals can be challenging There are several methods of providing interpretability in machine learning To ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/deep-learning-models-ai-interpretability-methods/",
-      "originalUrl": "https://www.infoq.com/articles/deep-learning-models-ai-interpretability-methods/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/deep-learning-models-ai-interpretability-methods/en/headerimage/generatedHeaderImage-1675867673135.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-10-machine-learning-vs-data-science-whats-the-difference.md",
-      "title": "Machine learning vs data science: What’s the difference?",
-      "excerpt": "Financial institutions ... with varying sizes and types of organisations able to access machine learning services to achieve several business aims.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/data-insights/369981/machine-learning-vs-data-science-whats-the-difference",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/data-insights/369981/machine-learning-vs-data-science-whats-the-difference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816583/itpro/2019/05/data_science_shutterstock_746652745.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-10T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

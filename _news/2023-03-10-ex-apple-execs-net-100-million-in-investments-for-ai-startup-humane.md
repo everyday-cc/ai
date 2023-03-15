@@ -25,15 +25,15 @@ images:
 
 related:
   - title: "Ex-Apple execs net $100 million in investments for AI startup Humane"
-    excerpt: "Imran Chaudhri and Bethany Bongiorno announced their company Humane has raised $100 million in investments to help it to “accelerate on its mission to deliver the next era of personal mobile computing, which will be one driven by AI.” Kindred Ventures ..."
-    publishedDateTime: 2023-03-10T16:27:00Z
-    webUrl: "https://www.wcpo.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
-    ampWebUrl: "https://www.wcpo.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
-    cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
+    excerpt: "Through its partnership with Volvo, Humane will work on a potential collaboration to apply AI in the automotive industry, the company said. “Our first device will enable people to bring AI with ..."
+    publishedDateTime: 2023-03-10T16:32:00Z
+    webUrl: "https://www.turnto23.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
+    ampWebUrl: "https://www.turnto23.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
+    cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
     type: article
     provider:
-      name: WCPO Cincinnati
-      domain: wcpo.com
+      name: KERO-TV
+      domain: turnto23.com
     quality: 57
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/c6f27c8/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1678464059_f3PddI.jpg"

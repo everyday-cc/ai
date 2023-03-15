@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Ex-Apple execs net $100 million in investments for AI startup Humane"
-excerpt: "Imran Chaudhri and Bethany Bongiorno announced their company Humane has raised $100 million in investments to help it to “accelerate on its mission to deliver the next era of personal mobile computing, which will be one driven by AI.” Kindred Ventures ..."
-publishedDateTime: 2023-03-10T16:27:00Z
-originalUrl: "https://www.wcpo.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
-webUrl: "https://www.wcpo.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
-ampWebUrl: "https://www.wcpo.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
-cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
+excerpt: "Through its partnership with Volvo, Humane will work on a potential collaboration to apply AI in the automotive industry, the company said. “Our first device will enable people to bring AI with ..."
+publishedDateTime: 2023-03-10T16:32:00Z
+originalUrl: "https://www.turnto23.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
+webUrl: "https://www.turnto23.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane"
+ampWebUrl: "https://www.turnto23.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
+cdnAmpWebUrl: "https://www-turnto23-com.cdn.ampproject.org/c/s/www.turnto23.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true"
 type: article
 quality: 57
 heat: 67
 published: false
 
 provider:
-  name: WCPO Cincinnati
-  domain: wcpo.com
+  name: KERO-TV
+  domain: turnto23.com
 
 topics:
   - AI
@@ -41,6 +41,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TEeAv86f4A153iCk9WyDgKj/b6r6/cSgZmVgaWmDcFm0bN48qeySZSdT0cmqtm0biFpD26eia0zDGplX/P90S4wSqRiZ4+8slOmTBNBPedJg9pNlPO7uoGzccFarCg+wsO8zRxXcrCLDWYvLQ2Xez9lriwOBKYOZeQJefnRKFezewTAALvnT6wdWQXWyh0HD2ydsnLIpJdptOLZipksJ7p56mA4gqUN0bCNy7GcfHa5EbfHg+8ENiJXlXqfOXei+JndilVvZiVVOy/bQQEcKxGPAROkgq3cMcDup/4t7QtQLaKrFuewDEcu1Oz3dyI7Eyiwe+lusmHnLmQrSFfM5G/KlBXT4EzIorpejGsICDRBmwypdR8D+YAtYxpgucSn76uBwKK9o6PmElkxIB5GRfFUx8k/aPz0OxMNQ1p2nXCr8UKaEDDmuxEXQDpX8IR0FVnsX9W8waLsQuKX92igh8CjmVuzJuOtsU0W/WvG6/qiocdYIJeWzgyg7Sr2veEv7eDga9yvjkKtmRVPkaKWnkg==;Z4W8PMleiHJ+i6MRd+qnHQ=="
+secured: "ee1ECTvqT52cAanWqUBthjLJXo8jMTI2EO7LLbDoBPZy2xZKVxBM132ymtzFxDiXDOtxTDESzOIf1SmoiheYQ/LtdoapRbje8/jDLplZ4HMX+RSqxrQ5BciQEUZbJNzP6nTRPz9c0jlvLafIEIkGC7KZPCCajFhpJf9Qf3744xKBGJ07mCB26eaOvHFMv4VbeUFXXT2UjSNmImz/aK6ychsexPfGnd/YBoKcCkaq87lAsrgjEPrbuAZtrylR5H0d0p+8XkJCVnz95IREpTj0HSoT7+7iFqZa1dfxLMtwo3kp9Juc8H9i7xIx03jP5EXk2kkLYgMZdIxgvtuspKohimhPRdEERmzxoYKyHd7bs/4=;QFJUtac3MY8iIwARFGBJtA=="
 ---
 

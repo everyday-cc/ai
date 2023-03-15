@@ -2,6 +2,135 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-03-04-can-religion-save-us-from-artificial-intelligence.md",
+      "title": "Can religion save us from Artificial Intelligence?",
+      "excerpt": "“Indeed, if technological progress increases inequality, it is not true progress,” Pope Francis said in a Nov. 2020 video announcing his prayer intention that robotics and artificial intelligence may always serve humankind. The Vatican’s goal is not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2023-03-03/can-religion-save-us-from-artificial-inte",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/f945c1c/2147483647/strip/true/crop/2400x1260+0+170/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F95%2Fe4%2F38a91b6245bcb0f695100dd36eea%2Funnamed.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-03T17:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-04-report-ai-startup-inflection-in-talks-to-raise-up-to-675m.md",
+      "title": "Report: AI startup Inflection in talks to raise up to $675M",
+      "excerpt": "Inflection has not yet launched a product and offers little information about its plans on its one-page website. The startup first made headlines last May after a regulatory filing revealed it had raised $225 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/03/03/report-ai-startup-inflection-talks-raise-675m/",
+      "originalUrl": "https://siliconangle.com/2023/03/03/report-ai-startup-inflection-talks-raise-675m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/Image-5.png",
+          "width": 1034,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-03T14:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-04-one-expert-thinks-elon-musk-is-wrong-about-ai-heres-why-hes-right.md",
+      "title": "One Expert Thinks Elon Musk Is Wrong About AI. Here’s Why He’s Right.",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips It’s no secret that Elon Musk is highly focused on artificial",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/one-expert-thinks-elon-musk-is-wrong-about-ai-heres-why-hes-right-1032144927",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/one-expert-thinks-elon-musk-is-wrong-about-ai-heres-why-hes-right-1032144927",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-03T13:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-04-these-are-the-ai-trends-that-keep-us-up-at-night.md",
       "title": "These Are The AI Trends That Keep Us Up At Night",
       "excerpt": "BuzzFeed News will round up the biggest, weirdest developments in the rapidly expanding field of artificial intelligence.",
@@ -1042,143 +1171,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-tenstorrent-is-changing-the-way-we-think-about-ai-chips.md",
-      "title": "Tenstorrent Is Changing the Way We Think About AI Chips",
-      "excerpt": "“GPUs are essentially at the end of their evolutionary curve,” Ljubisa Bajic, CEO of AI chip startup Tenstorrent told Design News. “[GPUs] have done a great job; they’ve pushed the field to to the point where it is now. But in order to make any ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
-      "originalUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Tenstorrent%20Grayskull.png",
-          "width": 278,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-how-ibms-supercomputer-found-a-hidden-new-parkinsons-drug.md",
-      "title": "How IBM’s Supercomputer Found a Hidden New Parkinson’s Drug",
-      "excerpt": "Artificial intelligence has been getting a bit of a bad rap recently—albeit, for good reason. The launch of OpenAI’s ChatGPT has ignited fears that it’ll take over writing jobs of all types.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailybeast.com/how-ibms-supercomputer-found-a-hidden-new-parkinsons-drug",
-      "originalUrl": "https://www.thedailybeast.com/how-ibms-supercomputer-found-a-hidden-new-parkinsons-drug",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1677786456/030323-chatgptrx-hero_1_woxd5x",
-          "width": 1480,
-          "height": 832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-02T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Beast",
-        "domain": "thedailybeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-story-machine-demonstrates-how-ai-is-helping-game-development.md",
-      "title": "Story Machine demonstrates how AI is helping game development",
-      "excerpt": "Story Machine, a game creation engine from Robot Invader, uses AI to create art assets for games -- what's its purpose for developers?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/story-machine-demonstrates-how-ai-is-helping-game-development/",
-      "originalUrl": "https://venturebeat.com/games/story-machine-demonstrates-how-ai-is-helping-game-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Story-Machine-Generate-Images.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/story-machine-demonstrates-how-ai-is-helping-game-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/story-machine-demonstrates-how-ai-is-helping-game-development/amp/",
-      "publishedDateTime": "2023-03-02T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

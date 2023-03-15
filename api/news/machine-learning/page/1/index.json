@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-15-the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence.md",
+      "title": "The ChatGPT Debate: Are We Intelligent Enough To Understand ‘Intelligence’?",
+      "excerpt": "What exactly is (natural or artificial) intelligence? Why is it so hard to define, let alone understand. And how will we know when we see it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/641031868f3877ab517aa269/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielasilva/2023/03/14/the-chatgpt-debate-are-we-intelligent-enough-to-understand-intelligence/amp/",
+      "publishedDateTime": "2023-03-14T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-maximize-performance-and-reduce-your-deep-learning-training-cost-with-aws-trainium-and-amazon-sagemaker.md",
       "title": "Maximize performance and reduce your deep learning training cost with AWS Trainium and Amazon SageMaker",
       "excerpt": "Today, tens of thousands of customers are building, training, and deploying machine learning (ML) models using Amazon SageMaker to power applications that have the potential to reinvent their businesses and customer experiences. These ML models have been increasing in size and complexity over the last",
@@ -605,6 +658,49 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-03-09-advanced-machine-learning-company-trellis-data-brings-its-leading-edge-explainable-artificial-intelligence-technology-to-the-united-states-market.md",
+      "title": "Advanced machine learning company Trellis Data brings its leading-edge, explainable Artificial Intelligence technology to the United States market",
+      "excerpt": "Headquartered in Australia, the company maintains a range of global clients across Australia, Southeast Asia and Europe Trellis Data's technology is currently deployed to multiple sectors, including government,",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/advanced-machine-learning-company-trellis-data-brings-its-leading-edge-explainable",
+      "originalUrl": "https://www.asiaone.com/business/advanced-machine-learning-company-trellis-data-brings-its-leading-edge-explainable",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2023/Stills_01.jpg?h=04d92ac6&itok=GtdwvhEh",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-08T17:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1326,92 +1422,6 @@
       "provider": {
         "name": "Oil",
         "domain": "ogj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-drones-and-deep-learning-researchers-develop-a-new-technique-to-quantify-rice-production.md",
-      "title": "Drones and deep learning: Researchers develop a new technique to quantify rice production",
-      "excerpt": "These images are then processed using a deep learning network that we have developed, called RiceNet, which can accurately identify the density of rice plants in the field, as well as provide ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-03-drones-deep-technique-quantify-rice.html",
-      "originalUrl": "https://phys.org/news/2023-03-drones-deep-technique-quantify-rice.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/drones-and-deep-learni.jpg",
-          "width": 2880,
-          "height": 1923,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-03-drones-deep-technique-quantify-rice.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-drones-deep-technique-quantify-rice.amp",
-      "publishedDateTime": "2023-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-05-nasa-captures-sequestered-carbon-of-99-billion-trees-with-deep-learning-and-satellite-images.md",
-      "title": "NASA captures sequestered carbon of 9.9 billion trees with deep-learning and satellite images",
-      "excerpt": "Researchers applied deep-learning-based tree mapping, manually trained on about 90,000 trees, to a data set of nearly 300,000 satellite images to measure more than 9.9 billion woody plants that ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.html",
-      "originalUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/nasa-captures-sequeste.jpg",
-          "width": 2133,
-          "height": 1906,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-03-nasa-captures-sequestered-carbon-billion.amp",
-      "publishedDateTime": "2023-03-04T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

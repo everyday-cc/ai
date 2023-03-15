@@ -1,23 +1,27 @@
 ---
 category: news
-title: "ChatGPT Gets More 'Human' As AI Wave Continues"
-excerpt: "The company behind the ChatGPT app that churns out essays, poems or computing code on command released Tuesday a long-awaited update of its artificial intelligence (AI) technology that it said would be safer and more accurate than its predecessor."
-publishedDateTime: 2023-03-15T00:13:00Z
-originalUrl: "https://www.barrons.com/news/chatgpt-gets-more-human-as-ai-wave-continues-d84819c6"
-webUrl: "https://www.barrons.com/news/chatgpt-gets-more-human-as-ai-wave-continues-d84819c6"
-ampWebUrl: "https://www.barrons.com/amp/news/chatgpt-gets-more-human-as-ai-wave-continues-d84819c6"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chatgpt-gets-more-human-as-ai-wave-continues-d84819c6"
+title: "ChatGPT gets more ‘human’ as AI wave continues"
+excerpt: "The company behind the ChatGPT app that churns out essays, poems or computing code on command released Tuesday a long-awaited update of its artificial"
+publishedDateTime: 2023-03-15T02:29:00Z
+originalUrl: "https://www.digitaljournal.com/tech-science/chatgpt-gets-more-human-as-ai-wave-continues/article"
+webUrl: "https://www.digitaljournal.com/tech-science/chatgpt-gets-more-human-as-ai-wave-continues/article"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI
+
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2023/03/27ba2d82fe7d991f094faa4e79da3632479d657f.jpg"
+    width: 768
+    height: 512
+    isCached: true
 
 related:
   - title: "ChatGPT and Generative AI are booming, but at a very expensive price"
@@ -335,6 +339,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "bN5pR1Bldv1nHSr8lnZ6hA4A3NYTlex4mfi7G+BoezQHwvH4OLMLKEg+DR0XxB1mMYdEDK5nE5uXbO9aKQVSYnYY4NcTyRsHHeG6qtz0UKVo84JTXOIvTQZOF2z8X+nJFVUumM1pTuunf3CC2nRdXkf5tgZlsx5G00k1bqANyiKRi6jHtO16k0HtiqjIsoaymYZnWox9FjOYl7HJyzFuuiaDSJ36VPtCpcni/qEcByTKKmXBfjcy4oURsN/02iK4F/fw4rjMxoNHkO44MYM/RdKdfBBJ4zmQTAQpXAPEGwokko5Xs/Qjshk/YmrvhDzSN/wsN6aoTX3zjJSzhBIvwXL6LyBCDE5iCIHu7oMWZto=;pieTHW/o9to/JamwyFG0Cg=="
+secured: "eXjpeLkhv5w59PoNwhgmWijxJs+Z8qF0wpy+uV2xbVdrn/YYfIwRyRZbLQFGTe1PZLcs016x4W7K7IVn06TigefryGiFthk7rnhmHJCMv2Yto9ceW/YMHssMAUh6cT2UNICGOl+LffCkGB5rzFIiNNEnVM93L+2uee+RO4L/PvQM6NiAfNqIeIpCRIbHI8xpOvYYCmiSvyBguAny5sfG2xzTpLAF+aMlU60jI7qOnzXDcVvVZMe1Arzo2+MyIDFKAT8B1rubwbTECFKdJTsJTrTw5rlGT3ZlM9eaFakCfw4Sh4Rs47dJMRYbl/BWONP85cnSdn+Fvf4C7KlzQqdqIfeGYTc9ocaGSReoTDU9MNg=;/7cixjtFdPDanDKvKxIGOw=="
 ---
 

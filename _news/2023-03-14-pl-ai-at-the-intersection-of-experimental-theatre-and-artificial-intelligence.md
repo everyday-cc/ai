@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Cheat Sheet to AI Buzzwords and Their Meanings"
-    excerpt: "Natural Language Processing is a branch of AI that helps computers to understand, process and generate speech and text the way a human would. NLP relies on machine-learning algorithms to extract data from written text, translate languages, recognize ..."
-    publishedDateTime: 2023-03-10T13:11:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/03/10/glossary-of-ai-terms-meaning-of-gpt-openai-machine-learning-chatbots/3c8a59d8-bf44-11ed-9350-7c5fccd598ad_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HPZTF3F7IQI63E2QPRP4ZVMYVU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Peter Gabriel on the future of AI: 'We might as well just grab the algorithms and dance with them, rather than fight them'"
     excerpt: "\"When an intelligent species is so smart that it can destroy itself, it very often does,\" says Gabriel. \"I hope we don't fall into that trap, but we can have a wonderful party on the way to jumping over the cliff."
     publishedDateTime: 2023-03-14T23:38:00Z

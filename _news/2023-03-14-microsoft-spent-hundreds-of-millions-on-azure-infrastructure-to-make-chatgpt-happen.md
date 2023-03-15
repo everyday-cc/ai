@@ -451,6 +451,20 @@ related:
         width: 2100
         height: 1500
         isCached: true
+  - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4"
+    excerpt: "The startup OpenAI on Tuesday (Mar 14) said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage for human-like technology to proliferate and more competition between its backer Microsoft Corp and Alphabet Inc's Google."
+    publishedDateTime: 2023-03-15T05:36:00Z
+    webUrl: "https://www.channelnewsasia.com/business/microsoft-backed-openai-starts-release-powerful-ai-known-gpt-4-3346856"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--R1XQSR2r--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-03-14t203954z_3_lynxmpej2d0qc_rtroptp_3_openai-chatgpt.jpg?itok=1G1XO2HI"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Forget Chatgpt. Nvidia Is The Real AI Winner..."
     excerpt: "Ever since AI chatbot ChatGPT burst onto the scene in November, any stock even remotely related to AI has soared. Gates Capital Management's ECF Value Funds have a fantastic track record. The funds (full-name Excess Cash Flow Value Funds),"
     publishedDateTime: 2023-03-11T04:35:00Z

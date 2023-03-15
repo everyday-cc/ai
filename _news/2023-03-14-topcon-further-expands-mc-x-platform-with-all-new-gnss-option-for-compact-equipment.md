@@ -7,7 +7,7 @@ originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-3-14
 webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2023-3-14-topcon-further-expands-mc-x-platform-with-all-new-gnss-option-for-compact-equipment"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Topcon Further Expands MC-X Platform with All-new GNSS Option for Compact Equipment"
-    excerpt: "Topcon Positioning Systems has announced the availability of a new global navigation satellite system (GNSS) option for its MC-Mobile compact machine control solution. Rounding out the company's compact solutions portfolio,"
-    publishedDateTime: 2023-03-14T18:41:00Z
-    webUrl: "https://technews.tmcnet.com/news/2023/03/14/9776891.htm"
+  - title: "Topcon Further Expands MC-X Platform with All-New GNSS Option for Compact Equipment"
+    excerpt: "Topcon Positioning Systems has announced the availability of a new global navigation satellite system (GNSS) option for its MC-Mobile com"
+    publishedDateTime: 2023-03-15T03:09:00Z
+    webUrl: "https://insideunmannedsystems.com/topcon-further-expands-mc-x-platform-with-all-new-gnss-option-for-compact-equipment/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: The Future of Autonomy
+      domain: insideunmannedsystems.com
+    quality: 18
+    images:
+      - url: "https://insideunmannedsystems.com/wp-content/uploads/2023/03/Topcon_MC-Mobile_CTL_GNSS_Livermore_2023_R5_DPD_4838.jpg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "2Kyis6i3cZreNReaBCWw2DS/tYolSeMZcFrYSM+aqZt/O01fCeq5K49zj+dwFKe4P4jy3G8B4dXca5+Q8fl90LVxvzJuXpse4m/0FtJb/G3F7SnXvP0u0+KPTFy4yXiwIXVOC1zuDN13WpSBqPpeN6mIX/ZGnW93MRI1QzANKGaRf0SS5xKx0eWWDwy8erTVDJQ96vKvDqmIaiZqFvTpTrQ3GzAqxNo43iW2olnI7OgS19jLWVW0cHpoaKKNZCN8Ueg4onfCH7sQSLer1Bi9ttYm3/G7RrzLG7p4IhKUdj1Wui8O5YEpSd+gSeTw7MXdPpyVgWRlpj4vhfX2UAf9ruamVIK6KKKnDmgwGzf36Fs=;ixm5Rq6F56Nnlh5jMzCyNQ=="
 ---

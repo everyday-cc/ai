@@ -68,6 +68,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 56
+  - title: "Google to weave AI technology into its health-care offerings"
+    excerpt: "Alphabet Inc.'s Google unveiled plans to integrate artificial intelligence into health-related initiatives, including an update on the use of language-generating technology in medical exams and AI-assisted research,"
+    publishedDateTime: 2023-03-15T00:02:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/mar/14/google-to-weave-ai-technology-into-its-health-care/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 39
+    images:
+      - url: "https://thumb.spokesman.com/7OXLTwljw8MOm7AHEkIhL98Ra6s=/1200x630/smart/media.spokesman.com/photos/2023/03/14/6410cdf28ab27.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "PJtYVjo6eoQpHjiSdXvt0dPrLlu/v9F/csHYVIWvrsTTkQI6t7f0Jf7f14TpGUIMDabARrtV1tmyCyQUJgACtrC+Ep3halkHujf+OXd/oLgArpvmZTnpL1Ytm32JG2VwxI0QqldJZCS//1WKV0ARCtDqe6bXiKGDhCNEEOartFcMcL2BTu3mfYeRa2+hzIUT7xcXjP7Ix63qH01MLVX8r4cQadOLyEKRePLqU7I2FO25nkOHFagfqv/20H9BU6L7bg2NxFxj6h4kWWt4dJ7ro7uIYXFa8MoZw+sw4bhb1BiN+G9zO9BjbKJySF+83UG9YyBzn8N4RgmR4oKV/h9Xd2tFLlu3YjXBN9AeX76QFTk=;m84cZ9cVHWdEaOtOJ9QUkw=="
 ---

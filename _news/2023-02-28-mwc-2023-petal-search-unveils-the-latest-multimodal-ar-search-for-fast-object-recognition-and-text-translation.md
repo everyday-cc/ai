@@ -1,10 +1,10 @@
 ---
 category: news
 title: "MWC 2023: Petal Search Unveils the Latest Multimodal AR Search for Fast Object Recognition and Text Translation"
-excerpt: "This year, Petal Search upgrades its AR search capability. The function trains models based on hundreds of millions of data records to learn the abstract features of images and builds an online index library of tens of billions of images."
+excerpt: "Huawei showcased the latest AR search function and On-screen Lens function of its mobile search engine, Petal Search, at MWC Barcelona 2023. These functions allow Petal Search to assist users by serving in roles like interpreter and product narrator,"
 publishedDateTime: 2023-02-28T13:47:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1310080&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1310080&cat=PR News Wire"
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1311093&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1311093&cat=PR News Wire"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 300
     isCached: true
 
-secured: "pX4jNj7j2pyBOdsfOQrxZ0naqMgJWPX44g0ycMNvZNqE1Eez3IEXnO/FW8oYDgLOOkaS7eRsIhl7sH5SLiZC6DfifXHBRV3hApg0kHJNH767ajJk3xISpaQK5ksxTxJhjVzU+cssr9n/d5UkgLKRFo1gcdHK9cH08lm0szFtxUPgy3wQxU2U1KhI4k9W2jIbKVxxmFm1EcQ49lZaUqJ4ycVm3jAG2ru+Hrdl+lSPB3dhBacn2e5Bfj7ljdSd6rihoRiPAEeShmLHJX8WDDEA2PKLQvYi6AaEwzmlNCZsb25gQcZvjB2DXG5SxwrmS5ioLtYYF2GQ0A/EZNST/yYQV3fLCcTgrrsoHbXBx2f5NYw=;CYHKPUbx+kWpGI5Y0QcpMA=="
+secured: "Nc4sQIQD6LuNX2vPPVBQKwyZVKq3ljhh/0+TVVFymPjHxULyoOBSBJ+gQ+XORI/Uk703cjZwUzn0FhMDIwGdo7zxHl6ekDa5V19KEQZGQgABTHhEJT/vqU1z0Ah9dReqex8s1jvzAgw0wiZnszD6v1DeujtHCzxA2Ls9YToFcdiQEHZ1A2WwudQNOmScHGyQWwncvWbyG6wI+brL3CwLisNLCbLetTPchSmjMzkrqZQs3ZjFFzcfMiWkZ1Ex5aagi8OkyCvPJLu07f6B/ToP9QmHhhqi0tAOIzFTZkE81TwnCePbrJqlVwgQRmx7FcJXSofNuR7M7AV6VJanm/IvcvNp+lEIR1jsJC6TKbTLdCU=;vaAMBkLHjkMLC8jUqJYzIQ=="
 ---
 

@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-13-civil-servants-being-trained-in-artificial-intelligence-jitendra-singh.md",
+      "title": "Civil servants being trained in artificial intelligence: Jitendra Singh",
+      "excerpt": "Civil service officers are now being trained in artificial intelligence tools and data analytics for effective performance in the current administrative context, union minister Jitendra Singh said. Under mission karmayogi,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh-11678629063818.html",
+      "originalUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh-11678629063818.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2023/03/12/600x338/jitendrasingh_1678629341268_1678629341570_1678629341570.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh/amp-11678629063818.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/civil-servants-being-trained-in-artificial-intelligence-jitendra-singh/amp-11678629063818.html",
+      "publishedDateTime": "2023-03-12T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-automated-machine-learning-automl-market-the-growing-trend-2029.md",
       "title": "Automated Machine Learning (AutoML) Market: The Growing Trend 2029",
       "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
@@ -1193,57 +1235,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-how-small-and-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai.md",
-      "title": "How Small- And Medium-Sized Businesses Can Navigate The Cybersecurity Risks Of AI",
-      "excerpt": "While AI offers numerous benefits, it also poses significant cybersecurity risks to small- and medium-sized businesses that often lack the resources and expertise to defend against attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627d0d1e1e7516cbb623ad21/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/03/10/how-smalland-medium-sized-businesses-can-navigate-the-cybersecurity-risks-of-ai/amp/",
-      "publishedDateTime": "2023-03-10T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

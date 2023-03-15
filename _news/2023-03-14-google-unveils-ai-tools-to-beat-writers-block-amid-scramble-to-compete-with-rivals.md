@@ -67,6 +67,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 45
+  - title: "Gmail will write your emails for you. Google announces generative AI tools across Workspace"
+    excerpt: "Google announces broad generative AI features for its productivity suite just hours before major announcement from rivals OpenAI and Microsoft."
+    publishedDateTime: 2023-03-14T13:37:00Z
+    webUrl: "https://www.fastcompany.com/90865521/gmail-will-write-your-emails-for-you-google-announces-generative-ai-tools-across-workspace"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 7
   - title: "Google rolling out huge AI upgrades for Google Docs and Gmail — here’s all the new features"
     excerpt: "Google Bard may still be largely under wraps, but that’s not Google’s only AI venture. Google and its parent company Alphabet are working on a wide variety of AI products and they just announced several more — including AI upgrades to Google Docs and Gmail."
     publishedDateTime: 2023-03-14T19:14:00Z

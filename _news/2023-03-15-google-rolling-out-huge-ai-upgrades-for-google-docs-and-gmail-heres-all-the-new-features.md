@@ -75,6 +75,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 45
+  - title: "Gmail will write your emails for you. Google announces generative AI tools across Workspace"
+    excerpt: "Google announces broad generative AI features for its productivity suite just hours before major announcement from rivals OpenAI and Microsoft."
+    publishedDateTime: 2023-03-14T13:37:00Z
+    webUrl: "https://www.fastcompany.com/90865521/gmail-will-write-your-emails-for-you-google-announces-generative-ai-tools-across-workspace"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 7
 
 secured: "kLY/Pn5pvwNBArWC+4RHlql2jfsqL4tgs7doj7TrhPAiUlNWLUPR9Cf28vMVUzXY7LfMFNu8IAXCEUHv9XxX+IrHLTQQF1VAxxC/hJ5Yin6Vc7/nZxMIfDpT9ZpZ/dzLu0KrraUHvz7o9msD7mIEwG4uMzv/H2CMQRsy6OENx95Qph4pWKsAJP36f5vySvXI3Xb9gAc9+1/wptxcLO6hNRmSTzM96lweX42713NMngC02FXrLoaIuR+RhCLtRizKNVOMeNs3uHZT7daTjT7fdIlbVzzRKYixEedJtk36J/v47DDlnrnCWWpfrp6kJvQWtZHR2Jg8XwA0wdN/DabndewE0x0KeDRI/poYeD9nSt0=;OWoTTga4+80ASDIBbWFd2A=="
 ---

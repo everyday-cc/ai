@@ -2,24 +2,24 @@
 category: news
 title: "Prevalence of Subjective Cognitive Decline 9.6 Percent in Ages 45 and Up"
 excerpt: "The age-adjusted prevalence of subjective cognitive decline (SCD) is 9.6 percent among adults aged 45 years and older, according to research published in"
-publishedDateTime: 2023-03-13T21:39:00Z
-originalUrl: "https://bismarcktribune.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_108664f8-44b1-5427-bdaf-e4a478f5188a.html"
-webUrl: "https://bismarcktribune.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_108664f8-44b1-5427-bdaf-e4a478f5188a.html"
+publishedDateTime: 2023-03-14T03:12:00Z
+originalUrl: "https://www.stltoday.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_a8b187c4-7733-5cfe-8e88-e45815a28468.html"
+webUrl: "https://www.stltoday.com/lifestyles/health-med-fit/prevalence-of-subjective-cognitive-decline-9-6-percent-in-ages-45-and-up/article_a8b187c4-7733-5cfe-8e88-e45815a28468.html"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: The Bismarck Tribune
-  domain: bismarcktribune.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/b/8e/b8ed1ba4-ed79-56ec-949b-0b12e56441a7/640fb0da03e3c.image.jpg?crop=600%2C315%2C0%2C62&resize=600%2C315&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/63/d637462d-f89e-59c7-9cf1-68d3ec3c3d4c/640fb210c3946.image.jpg?crop=600%2C315%2C0%2C62&resize=600%2C315&order=crop%2Cresize"
     width: 600
     height: 315
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 800
         isCached: true
 
-secured: "7km68LCnnWnzY6FZsH7m3lDaV/CPdoHtYQUsmVHDQ3oumj/Zm89Eoucar9QA6J5RipoY8yT+zxvUD2YRbRwln1SwpUBAWeNkqniTvfXcv2p2d67CIMhkNHXGey7DbMwXRQyVVl4BPL+dBfOpwSYj6F70hhvlg6yvRJvfJZeoM16OgV7y11qby5qSfqO61DzUBZu3rKaS4VlAOvEyZ4DSSvHKlPK6x33MXDdbJ0TQJBJwNYQIbAazQt+N8Zm4ETrdl6+zVQGGsJfkeXtbKBlyD4cFKin7aCG3DHDfdhjVhp1aSchxl09che7B5E3QMMBCcHBQxP/c5i6zdG+/kuV/taAv+e6QHqfsArNZP0OyUnk=;gF45vqenvnjTPm1zrYVVlQ=="
+secured: "MonrdMJ7Ml0aYtGjnSLIom5J9EFFPH9oMLu9Cm9EnIgI75RkTfgw4WGZ6jWvF4QCc6KrAiekmtglYN/rhiDNTIxT90DqJQSlfvVCZmSd445ViXUCsroTjz31081XfqJ6Gtvq76YYsH/MjOAsuz7/kW2A6p1+OYdwJYLq5NCCQLBElPkKQWbA5LwyNfQlYFaOPOMO4qxbuzZTryJ9ClSQmzuCAFKzIw/HvyBWr8UNLF+guN0roJPHF4+5xb/+R80hN6GfMAg6RgSUzSAcDDALvWZMpZzq5kEUaW/ldoApr4FE4wf+EqIfcpxz5fmhBlRWYx5BYJ3l9yiJKDws3u2l6rdtQbC6jCnK8BkiMpZ7JwA=;dyqE/22BT/NmN44+xAL+7g=="
 ---
 

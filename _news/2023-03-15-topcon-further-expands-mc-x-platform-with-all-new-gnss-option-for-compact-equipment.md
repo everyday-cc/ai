@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Topcon Further Expands MC-X Platform with All-new GNSS Option for Compact Equipment"
-excerpt: "Topcon Positioning Systems has announced the availability of a new global navigation satellite system (GNSS) option for its MC-Mobile compact machine control solution. Rounding out the company's compact solutions portfolio,"
-publishedDateTime: 2023-03-14T18:41:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/03/14/9776891.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/03/14/9776891.htm"
+title: "Topcon Further Expands MC-X Platform with All-New GNSS Option for Compact Equipment"
+excerpt: "Topcon Positioning Systems has announced the availability of a new global navigation satellite system (GNSS) option for its MC-Mobile com"
+publishedDateTime: 2023-03-15T03:09:00Z
+originalUrl: "https://insideunmannedsystems.com/topcon-further-expands-mc-x-platform-with-all-new-gnss-option-for-compact-equipment/"
+webUrl: "https://insideunmannedsystems.com/topcon-further-expands-mc-x-platform-with-all-new-gnss-option-for-compact-equipment/"
 type: article
-quality: 0
-heat: -1
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Future of Autonomy
+  domain: insideunmannedsystems.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://insideunmannedsystems.com/wp-content/uploads/2023/03/Topcon_MC-Mobile_CTL_GNSS_Livermore_2023_R5_DPD_4838.jpg"
+    width: 800
+    height: 534
+    isCached: true
 
 related:
   - title: "Topcon Further Expands MC-X Platform with All-new GNSS Option for Compact Equipment"
@@ -29,6 +35,6 @@ related:
       domain: buffalonews.com
     quality: 0
 
-secured: "85Nvg4XUfcER67hZB81f3wNROw/sccPunL43hxnIRVxYmcE8ofd/Bzd7wKyPMO0baNNxby5qpou3oosGu4uY4K+i88HqsqJ9sgqAOS1bGgJJ3u+mUfd6rsS0eTxopMd8qYXDLuBi3SdM0itOLgzKearZirEGQiIzJUUJ28KQj/CEeCKzj8o+RkOjFSv2kzW8SNA9mJrEsdPkX/2Jnas6Kuuba2XJJgxniO2wzLdYM1qIt7UAG3tyzLTfc0WCstTZvfJ4SjaLGak3DuE3clfQYbICuoShtku1lF9CskrSIjRfbLYQuE+/aV73jKMXiguMIX3MR+fpx5u/wUTQctatMb111+Le1ybvIIAnku+AythiZCwX1vKmYNXDZB8n/NrHY5ba0iwjRhczkoElK/7LBB2Wzri5UXIO6E+DHpy63jn2v9i+HSvYIDOAzAcIJ1zvEhUGvH207hptDV0Ix3o17Gg+RX2fFbnLjclk25bRVXtyXFCysZEtH2FCX2LaERbe62LFTPCx3RpSL0CxyyKgSA==;FpEZnBBakIg7pNcxIyuecw=="
+secured: "UxS5dBlIzR2UI7JxQ5wk5e86Bib3pIBGppfYj5sLB6dwKeE0qmHW78+JDxnQnC1Bfy4EUDYA7qIc08sRgKu24jAObXQhcNi5xon1wOkgtMO6Uu68ydD6x2EXNvWbyOUFLAMhLxSEz83Sc1VgUxpVlx5HlBchdxBHYMv6mcLEGHYRyUwyo/Pq8UugIZKmZ2kMimWxjTXhfNBwDPoeWzHAu6wIv9X9uxp7roif58V1lIEQaBHoVIAOVuQ+nXtJJK1/rdN24MUtnjVIuUiQrV2GDteE/r2NbscJRl1+stYR+bg/86rj7NJ86JTv0jJKauy+HnZ18vMwAzL+la9qhL662jfMm0/eIzxDmbdSZK9eMR4=;otfdzNRunigzGgBHRjjnPA=="
 ---
 

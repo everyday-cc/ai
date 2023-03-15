@@ -69,6 +69,20 @@ related:
         width: 960
         height: 539
         isCached: true
+  - title: "Google to weave AI technology into its health-care offerings"
+    excerpt: "Alphabet Inc.'s Google unveiled plans to integrate artificial intelligence into health-related initiatives, including an update on the use of language-generating technology in medical exams and AI-assisted research,"
+    publishedDateTime: 2023-03-15T00:02:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/mar/14/google-to-weave-ai-technology-into-its-health-care/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 39
+    images:
+      - url: "https://thumb.spokesman.com/7OXLTwljw8MOm7AHEkIhL98Ra6s=/1200x630/smart/media.spokesman.com/photos/2023/03/14/6410cdf28ab27.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tXCCLZG1g/xhEMIexjUMscrK97LdDidWgj8YCHItQXan/ie7l1WE14xbuCb1VnNJvSSZy67J+iD9nGpQtYdMOzzAZeziDARB3PE//3ATGsDwb92FV4P47hs9dKR0vG5NfNvVhuD8K5QFIsgJWmz32AvlWGKUTbw3z0XT2ed62rrKGR61LSYrb/5CbDoGlHKsR1G/CvLP/ZudO4hLBYEqYMdz9TFdWw9f1fdbVT2oG8mDa5CB1xQDPE4JQPLC+wKHkBOsHFzi3cimsZv+tnWkA30IrWN16Nqt9LXrSwcrOUEkBPlJthCtwNIKRStVnXZf8T0XLDvZQMuRVXlQabyi/IWH/qlU7BfbwJTe+AViEvg=;rCDVqpkAmw1gKum2Z8Zf9w=="
 ---
