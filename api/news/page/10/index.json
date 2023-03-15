@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-03-03-ai-study-evaluates-gpt-3-using-cognitive-psychology.md",
+      "title": "AI Study Evaluates GPT-3 Using Cognitive Psychology",
+      "excerpt": "A new study published in the Proceedings of the National Academy of Sciences of the United States of America (PNAS) by researchers affiliated with the Max Planck Institute for Biological Cybernetics analyzes the general intelligence of large language model (LLM) GPT-3 using cognitive psychology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-03/pic8872.jpg?itok=e6Cya6lj",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202303/ai-study-evaluates-gpt-3-using-cognitive-psychology?amp",
+      "publishedDateTime": "2023-03-02T17:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-chinese-automakers-to-participate-in-baidu-ernie-bot-ecosystem.md",
       "title": "Chinese automakers to participate in Baidu Ernie Bot ecosystem",
       "excerpt": "Several Chinese automakers, including Jidu Auto, Geely Auto, and Great Wall Motor, have joined Baidu's ChatGPT-style Ernie Bot ecosystem.",
@@ -1135,49 +1178,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-nvidias-latest-gpu-drivers-to-upscale-blurry-videos-via-ai.md",
-      "title": "Nvidia's Latest GPU Drivers To Upscale Blurry Videos Via AI",
-      "excerpt": "With RTX Video Super Resolution (VSR), GeForce RTX 40 and 30 Series GPU users can tap AI to upscale lower-resolution content up to 4K, matching their display resolution. The AI removes blocky compression artifacts and improves the video's sharpness and ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI",
-      "originalUrl": "https://menafn.com/1105693264/Nvidias-Latest-GPU-Drivers-To-Upscale-Blurry-Videos-Via-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-03/02/I_5f244image_story.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-02T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

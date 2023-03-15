@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/03/10/8x8-unveils-bevy-new-customer-
 webUrl: "https://siliconangle.com/2023/03/10/8x8-unveils-bevy-new-customer-facing-ai-capabilities/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Google Unveils Generative AI Capabilities on Google Cloud and Google Workspace"
+    excerpt: "Today, Google introduced the next wave of generative artificial intelligence (AI) innovation across core areas of its business. Developers and businesses can now try new APIs and products that make it easy, safe, and scalable to start building with Google ..."
+    publishedDateTime: 2023-03-15T09:13:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3314427"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 33
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/03/online-9a09b88a.jpg"
+        width: 404
+        height: 404
+        isCached: true
   - title: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users"
     excerpt: "Google unveils new generative AI capabilities to Google Cloud and Workspace for developers and business users - SiliconANGLE"
     publishedDateTime: 2023-03-14T18:30:00Z

@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ford Reinvests in Automated Driving Technology by Establishing Latitude AI"
-    excerpt: "With its new Latitude AI team focused on hands-free, eyes-off-the-road driver assistance technology, Ford expands its portfolio as it takes into-the-future steps towards transforming how we view driving experiences."
-    publishedDateTime: 2023-03-10T17:57:00Z
-    webUrl: "https://www.iotevolutionworld.com/autonomous-vehicles/articles/455226-ford-reinvests-automated-driving-technology-establishing-latitude-ai.htm"
-    type: article
-    provider:
-      name: iotevolutionworld.com
-      domain: iotevolutionworld.com
-    quality: 17
 
 secured: "uQe//8NnFiLDq86HsPU0BE5aIz3uE7m2JxSYqWmvz4Ufz3yM/VuqPcdtG+bFw8heTJgMIYUpdQ0PPkDGJddHkMfU1bYPkZXGo1QYxLyPPlF36+y9uMFfWI6bGYJYkK6NKRxfv6FhUekz5/DhcRNb3hmUdQemOIGypE6v+jeqLdUwhOvO0bjHDDo2Hz7J0ude7jVmcQVI0cfGjTbFCzEM9vjwa4asZsJio3hOzQ3b8f37h8jaZt0p/U5ViFuCbQ4qtoGso4Qiq6/ikcGvIyg02aZSVfWuS0LdrnZQyjBPTuASiSO4X16e5c5bUfUPWMBRCM4F2KjbnIJtD22zK5IwHuNcz2GPYf4VQWOo7hShqw3mEDI+RcPi5Z5kP4wNQWOGxlNmzibRia9+LwWS2WPhDc7m1PofA5GcPXbZDlmSp/fd3iI1OnMrYV8CvNe7mkActGo1S8BDFEsKR8PjLM9XU3U6R9EiC69K7sqHkNo0e5pijte79yp9pg+Aikzt6vIxYGnJbhRGkShuiy84k6awvg==;5om4kjwX5ykXffD2ML9bUg=="
 ---

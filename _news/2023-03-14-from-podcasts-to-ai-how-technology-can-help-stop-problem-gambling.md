@@ -3,18 +3,18 @@ category: news
 title: "From podcasts to AI: How technology can help stop problem gambling"
 excerpt: "To combat gambling addiction, AI can act as a friend who might tap someone on the shoulder at a casino and ask if they need a break."
 publishedDateTime: 2023-03-13T17:51:00Z
-originalUrl: "https://www.fox13now.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
-webUrl: "https://www.fox13now.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
-ampWebUrl: "https://www.fox13now.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling?_amp=true"
-cdnAmpWebUrl: "https://www-fox13now-com.cdn.ampproject.org/c/s/www.fox13now.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling?_amp=true"
+originalUrl: "https://www.fox17online.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
+webUrl: "https://www.fox17online.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling"
+ampWebUrl: "https://www.fox17online.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling?_amp=true"
+cdnAmpWebUrl: "https://www-fox17online-com.cdn.ampproject.org/c/s/www.fox17online.com/news/national/from-podcasts-to-ai-how-technology-can-help-stop-problem-gambling?_amp=true"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: fox13now
-  domain: fox13now.com
+  name: fox17online
+  domain: fox17online.com
 
 topics:
   - AI in Healthcare
@@ -26,6 +26,6 @@ images:
     height: 360
     isCached: true
 
-secured: "iauxkqGLTDTwGCfKduGcQTX8yTbyoQFOfEQA9vXZEcCZnVN1NxBdcLWlBydO0hElxX3vdP+hay39JjaJ/DEfA0/g4NmO1dNE7QU7VaEFnzZw9LMkuq0pnW9RZyc1xZ/iA5tT3y0x9aCC6JDp7G6EFvWCRgabFdWq9gFRoDrfesoNv8B88AXHDL+Ow9IYFUNpKVZrq9WB/azrW8FBofWhpSoJ3HmvSO7nEwK1pt2AewImeBJAggrbbWthdX+Pm/10nenrBPecsMFFlzyllniiT+BJKpimnpFghH6k1fgY1bsRes+iu3yoqtyq4jDsWTu3bNgfWS4qc1aVDE9wUrmA55ssUN3KB1NxC3e8njX2zgd4W/euKE39R/Aq7JABM9bqeTbisuMQyGIBbhQ/7Jfp2TeHJUd3zdAesA+dj8xHwAj7rn4CJaKbzqtQLCvKXd/NCSqLEeSqBDZfbmQqpW/94bYPkToEu8Gba5A32X9Ad4CDWLUCPMeUQffj7/l0W54woscX2IQTAtQVRMi0zA77Nw==;wsz+/SclXjsqb1e581eqQA=="
+secured: "VzD/+cifSIIP1yAYJVT8BVejZ48VXHe1uvJNQq9oGvsKndwyKbc0VhaGWvLInxvFS1JeFez+0ztj6GU7PvBqa+o2XaGP24E+h8L3yVATe2GoNuO7YYg5uH8C1WHI1s9IPpbWDAOIzoBmuUCw54Q5s9KnkefNssONHCVgTgBfQjm5XcoyP4HxnPVweid5KBYK0VKgurhBo5fxOCanSWQRN45C8n+KAuTBzsb+BHZ+ubSNVLwcZ1nGVB4Z+xIXrkDbxzkxIRy740i8NxRHJNQN+80spsHp03UllGQViMBC+bedcP+smW4jIXe791rw6adDyut4VYJHEuJMfCLjgKu3MXwNvQLiD8XExo2tYY8t0PQ=;XdSOr6i9Xf18vI8/cBoAsg=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-03-13-an-ai-start-up-boomed-but-now-it-faces-a-slowing-economy-and-new-rules.md",
+      "title": "An A.I. Start-Up Boomed, but Now It Faces a Slowing Economy and New Rules",
+      "excerpt": "Eightfold AI, grew cautiously in its first few years. But it hit the accelerator after it raised $220 million in 2021, the pandemic boom year for venture investment, bringing the company’s funding to more than $400 million. The Silicon Valley start-up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.html",
+      "originalUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/03/10/multimedia/00ai-hr-01-jlqw/00ai-hr-01-jlqw-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+          "width": 600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/13/business/ai-hiring-jobs.amp.html",
+      "publishedDateTime": "2023-03-13T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-azure-previews-powerful-and-scalable-virtual-machine-series-to-accelerate-generative-ai.md",
       "title": "Azure previews powerful and scalable virtual machine series to accelerate generative AI",
       "excerpt": "In the competitive race for AI innovation, pushing the envelope requires both experience and leadership-class supercomputing scalability. Powerful and massively scalable infrastructure is paramount as the complexity and size of AI models accelerate.",
@@ -772,49 +823,6 @@
       ]
     },
     {
-      "path": "_news/2023-03-11-is-personalized-ai-the-future-of-investing.md",
-      "title": "Is Personalized AI The Future Of Investing?",
-      "excerpt": "AI-assisted investing is the latest of these transformative technologies to make a wave in the investing landscape. Top investing platforms have AI investing apps, AI trading bots and intuitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/fintech/23/03/31301976/is-personalized-ai-the-future-of-investing",
-      "originalUrl": "https://www.benzinga.com/fintech/23/03/31301976/is-personalized-ai-the-future-of-investing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/03/10/possessed-photography-jjgxjesmxoy-unsplash.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31301976",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31301976",
-      "publishedDateTime": "2023-03-10T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-03-11-how-ai-can-ease-those-data-management-woes.md",
       "title": "How AI can ease those data management woes",
       "excerpt": "Initially, managing the data lifecycle was a task small enough to be handled manually by a team of experts. The volume of information was not that much, the sources were just a handful and the possible applications were also limited.",
@@ -916,6 +924,58 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-03-11-the-big-idea-should-robots-take-over-fighting-crime.md",
+      "title": "The big idea: should robots take over fighting crime?",
+      "excerpt": "Could artificial intelligence offer a fairer and more efficient way of policing? San Francisco’s board of supervisors recently voted to let their police deploy robots equipped with lethal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/books/2023/feb/20/the-big-idea-should-robots-take-over-fighting",
+      "originalUrl": "https://www.theguardian.com/books/2023/feb/20/the-big-idea-should-robots-take-over-fighting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/da969ce677d9960695aaa2e3abd7a7c783db1b21/0_0_1847_1224/master/1847.jpg?width=620&quality=85&auto=format&fit=max&s=cb30fa7845529567a87b7c6625200d6f",
+          "width": 620,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/books/2023/feb/20/the-big-idea-should-robots-take-over-fighting",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/feb/20/the-big-idea-should-robots-take-over-fighting",
+      "publishedDateTime": "2023-03-10T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1158,48 +1218,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-10-ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane.md",
-      "title": "Ex-Apple execs net $100 million in investments for AI startup Humane",
-      "excerpt": "Microsoft, Volvo and OpenAI are among the company's partners. It is also working with LG on research and development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtkr.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane",
-      "originalUrl": "https://www.wtkr.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/c6f27c8/2147483647/strip/true/crop/960x540+0+90/resize/1280x720!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1678464059_f3PddI.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtkr.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true",
-      "cdnAmpWebUrl": "https://www-wtkr-com.cdn.ampproject.org/c/s/www.wtkr.com/news/national/ex-apple-execs-net-100-million-in-investments-for-ai-startup-humane?_amp=true",
-      "publishedDateTime": "2023-03-10T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTKR",
-        "domain": "wtkr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

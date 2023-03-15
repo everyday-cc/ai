@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-02-06-artificial-intelligence-ai-in-fintech-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market Size 2023 Will Touch A New Level In The Upcoming Year 2028",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-size-2023-will-touch-a-new-level-in-the-upcoming-year-2028-2023-02-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-06T03:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-02-06-the-13-top-vc-firms-dedicated-to-investing-in-artificial-intelligence-and-machine-learning-that-founders-should-know.md",
       "title": "The 13 top VC firms dedicated to investing in artificial intelligence and machine learning that founders should know",
       "excerpt": "Here are the 13 top VC firms dedicated to AI and ML investing.",
@@ -1314,6 +1271,49 @@
       "provider": {
         "name": "The Financial Express",
         "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-16-top-10-fintech-and-innovation-trends-to-watch-in-2023.md",
+      "title": "Top 10 Fintech and innovation trends to watch in 2023",
+      "excerpt": "Following the increasing levels of automated processes and digitized transformations in financial services, Fintech companies are leveraging AI and Machine learning in handling “Big data” and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/business/Top-10-Fintech-and-innovation-trends-to-watch-in-2023-1695992",
+      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/business/Top-10-Fintech-and-innovation-trends-to-watch-in-2023-1695992",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ghanaweb.com/imagelib/pics/309/30940531.jpg",
+          "width": 600,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-16T02:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ghanaweb.com",
+        "domain": "ghanaweb.com",
         "images": null,
         "publishers": null,
         "authors": null

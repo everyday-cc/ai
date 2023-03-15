@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI rolls out GPT-4 in deep learning push"
+    excerpt: "“We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling up deep learning,” says the company in a blog post. It explains GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, “while less ..."
+    publishedDateTime: 2023-03-15T09:15:00Z
+    webUrl: "https://www.itweb.co.za/content/dgp45MaBkRnqX9l8"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/dgp45MaBkRnqX9l8"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45MaBkRnqX9l8"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/03/chatGPT-Mar-2023.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "GPT-4 Can Ace Standardized Tests, Do Your Taxes, And More, Says OpenAI"
     excerpt: "However, the new version of ChatGPT could have been a lot more contentious, the company admits and has instituted substantive new guardrails to prevent malicious answers."
     publishedDateTime: 2023-03-14T21:49:00Z

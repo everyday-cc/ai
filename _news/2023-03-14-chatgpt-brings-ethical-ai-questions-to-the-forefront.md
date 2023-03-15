@@ -137,21 +137,21 @@ related:
         width: 345
         height: 230
         isCached: true
-  - title: "Discord Is Bringing Clyde To Life With ChatGPT AI For Millions Of Servers"
-    excerpt: "Discord is looking to take advantage of the nearly 3 million servers already using AI, by introducing new AI-driven tools of its own."
-    publishedDateTime: 2023-03-10T17:26:00Z
-    webUrl: "https://hothardware.com/news/discord-bringing-clyde-to-life-chatgpt"
-    ampWebUrl: "https://amp.hothardware.com/news/discord-bringing-clyde-to-life-chatgpt"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/discord-bringing-clyde-to-life-chatgpt"
+  - title: "Generative AI and what the future holds"
+    excerpt: "The world will be a very small place with optimally planned travel routes and easy language translation tools. One of the most exciting applications of Generative AI is personalized content generation, where AI models can generate customized content based ..."
+    publishedDateTime: 2023-03-15T09:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/generative-ai-and-what-the-future-holds/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 58
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/61101/content/hero-discord-ai-banner.jpg"
-        width: 708
-        height: 399
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Dattaraj-Jagdish-Rao-Chief-Data-Scientist-at-Persistent-Systems-Ltd.-1-.jpg"
+        width: 512
+        height: 512
         isCached: true
   - title: "14 ways new AI bot ChatGPT could be used in healthcare"
     excerpt: "Artificial intelligence has played a larger role in most industries, including healthcare, over the last several years. A new AI tool, ChatGPT, developed by OpenAI, has several potential benefits and"
@@ -225,31 +225,6 @@ related:
       - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-03/du%20ChatGPT%20-2.jpeg?itok=4zUAKmea"
         width: 1599
         height: 1200
-        isCached: true
-  - title: "ChatGPT sparks investment talk in AI and other technology stocks"
-    excerpt: "The ChatGPT artificial intelligence global juggernaut has added spice to the battered technology sector as more investors seek a slice of emerging industries."
-    publishedDateTime: 2023-03-10T16:39:00Z
-    webUrl: "https://www.theaustralian.com.au/business/wealth/chatgpt-sparks-investment-talk-in-ai-and-other-technology-stocks/news-story/1cd71a3bb8f98906c1979ac6efaef5e2"
-    ampWebUrl: "https://www.theaustralian.com.au/business/wealth/chatgpt-sparks-investment-talk-in-ai-and-other-technology-stocks/news-story/1cd71a3bb8f98906c1979ac6efaef5e2?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/wealth/chatgpt-sparks-investment-talk-in-ai-and-other-technology-stocks/news-story/1cd71a3bb8f98906c1979ac6efaef5e2?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 39
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
-    publishedDateTime: 2023-03-13T14:48:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/03/13/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "'ChatGPT, Draft a Catchy Title:' The Risks of Using AI"
     excerpt: "Will generative AI make lawyers obsolete? Can ChatGPT help streamline a legal practice? In considering whether to adopt generative AI tools, lawyers should consider the risks."

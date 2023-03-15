@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% by 2022 to 2029"
+    excerpt: "In addition to some of the most commonplace vision disorders, newly establishing problems such as digital eye strain (more popularly, computer vision syndrome) are strongly necessitating the demand for efficient vision screening tests, particularly among ..."
+    publishedDateTime: 2023-03-15T08:17:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2023-03-15/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-59-by-2022-to-2029"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 21
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
   - title: "X-Ray Inspection Systems Market Set to Witness Unprecedented CAGR of 7.2% by 2029, Size, Share, Trends, Demand, Growth and Opportunity Analysis"
     excerpt: "Ray Inspection Systems Market\" is the title of a new report from Data Bridge Market Research. Key growth strategies, drivers, opportunities, key segments, Porter's"
     publishedDateTime: 2023-03-13T16:43:00Z

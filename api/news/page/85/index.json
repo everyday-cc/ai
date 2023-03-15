@@ -2,6 +2,58 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2023-01-05-amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai.md",
+      "title": "AMD Blitzes CES With Cache-Fueled Zen 4 CPUs, A Ryzen And Radeon 7000 Mobile Arsenal And AI",
+      "excerpt": "There’s one thing for sure and its that this company isn’t taking its foot off the gas in any of its core technologies and market segments anytime soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63b6f6814ba88ddd701fbbc9/0x0.jpg?format=jpg&width=1200",
+          "width": 1158,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/01/05/amd-blitzes-ces-with-cache-fueled-zen-4-cpus-a-ryzen-and-radeon-7000-mobile-arsenal-and-ai/amp/",
+      "publishedDateTime": "2023-01-05T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-05-standigm-cited-as-top-10-generative-ai-based-startup-based-on-vc-investment-2019-2021-in-gartner-report.md",
       "title": "Standigm cited as 'Top 10 Generative AI-based startup based on VC Investment, 2019-2021' in Gartner® report",
       "excerpt": "Standigm ranked seventh of 10 Generative AI-based startups based on its level of VC funding. Generative AI uses generative adversarial networks (GANs) to generate data. Once trained on labeled data, such as cars and buses,",
@@ -1076,58 +1128,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-01-05-ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares.md",
-      "title": "CES 2023 Live Blog: Talking Cars, LG Displays, Robots Dogs and a Smartwatch That Cares",
-      "excerpt": "CES is known as the world's biggest consumer electronics show. In 2023 it's well and truly lived up to that moniker.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news-live/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/",
-      "originalUrl": "https://www.cnet.com/news-live/ces-2023-live-blog-talking-cars-lg-displays-robots-dogs-and-a-smartwatch-that-cares/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/a39163608c5114d42ea75d0a0043b2d4fd9181ed/hub/2023/01/05/212e154d-b025-49a7-8ab0-b8ec7f58e349/ces-2023-3286.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T14:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

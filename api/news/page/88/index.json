@@ -2,6 +2,49 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2023-01-04-profits-surge-at-tuam-based-driverless-car-technology-firm-valeo.md",
+      "title": "Profits surge at Tuam-based driverless car technology firm Valeo",
+      "excerpt": "Pre-tax profits at a Co Galway firm at the cutting edge of driverless car technology ... software intellectual property with artificial intelligence. The directors state that its products and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "originalUrl": "https://www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.independent.ie/business/irish/790a0/42259791.ece/AUTOCROP/w1240h700/FRANCE%20PMS22",
+          "width": 1240,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "cdnAmpWebUrl": "https://www-independent-ie.cdn.ampproject.org/c/s/www.independent.ie/business/irish/profits-surge-at-tuam-based-driverless-car-technology-firm-valeo-42259792.html",
+      "publishedDateTime": "2023-01-03T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent.ie",
+        "domain": "independent.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-04-updated-guidelines-on-cognitive-rehabilitation-after-traumatic-brain-injury.md",
       "title": "Updated guidelines on cognitive rehabilitation after traumatic brain injury",
       "excerpt": "More information: Mark Theodore Bayley et al, INCOG 2.0 Guidelines for Cognitive Rehabilitation Following Traumatic Brain Injury: What's Changed From 2014 to Now? Journal of Head Trauma ...",
@@ -1045,49 +1088,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-01-03-team-writes-letters-with-ultrasonic-beam-develops-deep-learning-based-real-time-ultrasonic-hologram-generation-technology.md",
-      "title": "Team writes letters with ultrasonic beam, develops deep learning based real-time ultrasonic hologram generation technology",
-      "excerpt": "A team has developed a 'deep learning-based ultrasound hologram generation framework' technology that can freely configure the form of focused ultrasound in real time based on holograms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/12/221229115650.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/12/221229115650.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

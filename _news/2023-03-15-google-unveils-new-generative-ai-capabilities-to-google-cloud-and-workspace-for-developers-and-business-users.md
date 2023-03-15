@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Google Unveils Generative AI Capabilities on Google Cloud and Google Workspace"
+    excerpt: "Today, Google introduced the next wave of generative artificial intelligence (AI) innovation across core areas of its business. Developers and businesses can now try new APIs and products that make it easy, safe, and scalable to start building with Google ..."
+    publishedDateTime: 2023-03-15T09:13:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3314427"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 33
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/03/online-9a09b88a.jpg"
+        width: 404
+        height: 404
+        isCached: true
   - title: "8×8 unveils a bevy of new customer-facing AI capabilities"
     excerpt: "The company certainly delivered, going news-heavy today by loading up its product with several new artificial intelligence capabilities targeting customer experience improvement. The infusion of AI into CX platforms,"
     publishedDateTime: 2023-03-10T18:49:00Z

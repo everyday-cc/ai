@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-03-15-kneron-kl720-supports-qualcomm-for-virtually-seamless-ai-for-robotics-drones-and-industry-40.md",
-      "title": "Kneron KL720 supports Qualcomm for virtually seamless AI for robotics, drones and industry 4.0",
-      "excerpt": "Leading edge AI solutions provider Kneron announces today that its KL720 AI SoC now supports the Qualcomm® Robotics RB1 and Qualcomm® Robotics RB2 Platforms from",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31347926/kneron-kl720-supports-qualcomm-for-virtually-seamless-ai-for-robotics-drones-and-industry-4-0",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31347926/kneron-kl720-supports-qualcomm-for-virtually-seamless-ai-for-robotics-drones-and-industry-4-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31347926",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31347926",
-      "publishedDateTime": "2023-03-14T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-03-14-ai-brain-chips-could-turn-humans-into-hive-mind-where-all-minds-become-cogs-in-robot-machine-scientists-warn.md",
       "title": "AI brain chips could turn humans into ‘hive mind’ where all minds become ‘cogs in robot machine’, scientists warn",
       "excerpt": "SOME scientists are predicting a future in which humans and machines become one and people are merely cogs. Futurists are predicting that artificial intelligence and brain chips will irreversibly",
@@ -381,6 +337,58 @@
         "name": "PBS",
         "domain": "pbs.org",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-11-the-big-idea-should-robots-take-over-fighting-crime.md",
+      "title": "The big idea: should robots take over fighting crime?",
+      "excerpt": "Could artificial intelligence offer a fairer and more efficient way of policing? San Francisco’s board of supervisors recently voted to let their police deploy robots equipped with lethal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/books/2023/feb/20/the-big-idea-should-robots-take-over-fighting",
+      "originalUrl": "https://www.theguardian.com/books/2023/feb/20/the-big-idea-should-robots-take-over-fighting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/da969ce677d9960695aaa2e3abd7a7c783db1b21/0_0_1847_1224/master/1847.jpg?width=620&quality=85&auto=format&fit=max&s=cb30fa7845529567a87b7c6625200d6f",
+          "width": 620,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/books/2023/feb/20/the-big-idea-should-robots-take-over-fighting",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/feb/20/the-big-idea-should-robots-take-over-fighting",
+      "publishedDateTime": "2023-03-10T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

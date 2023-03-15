@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-01-04-options-ai-awarded-best-broker-for-options-trading-at-benzinga-global-fintech-awards.md",
-      "title": "Options AI Awarded Best Broker For Options Trading at Benzinga Global Fintech Awards",
-      "excerpt": "Options AI’s goal is to level the playing field for retail investors. NEW YORK, NY, USA, January 4, 2023 /EINPresswire.com/ -- Options AI today announced that it ...",
-      "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/ein-presswire/609049340/options-ai-awarded-best-broker-for-options-trading-at-benzinga-global-fintech-awards/",
-      "originalUrl": "https://ktla.com/business/press-releases/ein-presswire/609049340/options-ai-awarded-best-broker-for-options-trading-at-benzinga-global-fintech-awards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2023/01/KTLA-LOGO_LAS-VERY-OWN-logo.png",
-          "width": 600,
-          "height": 207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-04T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-01-04-media-advisory-2023-trends-in-cx-fintech-and-ai-expert-quotes-available.md",
       "title": "Media Advisory: 2023 Trends in CX, Fintech, and AI -- Expert Quotes Available",
       "excerpt": "Agency focused on fintech, AI development, and customer experience strategy has identified key trends for 2023. Pull quotes available for immediate use. SAN FRANCISCO, Jan. 3, 2023 /PRNewswire ...",
@@ -1408,7 +1365,60 @@
         "AI in Finance",
         "AI"
       ]
+    },
+    {
+      "path": "_news/2022-12-06-bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.md",
+      "title": "Bank of America sees AI transforming the internet over the next five years—top stocks to ride trend",
+      "excerpt": "AI and machine learning will be a \"critical driver of all things Internet,\" Bank of America said in a note Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/12/06/bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.html",
+      "originalUrl": "https://www.cnbc.com/2022/12/06/bank-of-america-sees-ai-transforming-the-internet-over-the-next-five-yearstop-stocks-to-ride-trend.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107157151-1669394314402-gettyimages-1236198615-BPS01_Tablet_Apps_OC_5JPG.jpeg?v=1670304576&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-05T19:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Facebook AI"
+      ]
     }
   ],
-  "nextPage": 6
+  "nextPage": null
 }

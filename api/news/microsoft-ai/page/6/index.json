@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-02-02-hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration.md",
+      "title": "HP Poly Unveils Mini Conferencing PC And Other Microsoft Teams-Certified Solutions For Hybrid Work Collaboration",
+      "excerpt": "Vice President and Principal Analyst, Melody Brue, gives her analysis of Poly's new Mini Conferencing Microsoft Teams-certified solutions that address hybrid work collaboration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63dab362eaa2b55cc39afec2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/01/hp-poly-unveils-mini-conferencing-pc-and-other-microsoft-teams-certified-solutions-for-hybrid-work-collaboration/amp/",
+      "publishedDateTime": "2023-02-01T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-02-samsungs-new-galaxy-s23-and-galaxy-book-bring-incremental-changes-to-samsungs-lineup.md",
+      "title": "Samsung’s New Galaxy S23 And Galaxy Book Bring Incremental Changes To Samsung’s Lineup",
+      "excerpt": "Senior Analyst, Mobility & VR, Anshel Sag, covers Samsung's newest S23 flagship smartphones and its Galaxy Book 3 notebooks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/samsungs-new-galaxy-s23-and-galaxy-book-bring-incremental-changes-to-samsungs-lineup/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/samsungs-new-galaxy-s23-and-galaxy-book-bring-incremental-changes-to-samsungs-lineup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63da98f70e292083aee6ed8a/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/02/01/samsungs-new-galaxy-s23-and-galaxy-book-bring-incremental-changes-to-samsungs-lineup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/02/01/samsungs-new-galaxy-s23-and-galaxy-book-bring-incremental-changes-to-samsungs-lineup/amp/",
+      "publishedDateTime": "2023-02-01T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-01-gem-security-shows-detection-and-response-key-to-cloud-security-raises-11m.md",
       "title": "Gem Security shows detection and response key to cloud security, raises $11M",
       "excerpt": "Gem Security emerges from stealth with $11 million in seed funding for cloud security detection and response solution.",
@@ -1333,101 +1437,6 @@
         "name": "The Taipei Times",
         "domain": "taipeitimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-20-orienteering-could-be-useful-as-an-intervention-or-preventive-measure-to-fight-cognitive-decline.md",
-      "title": "Orienteering could be useful as an intervention or preventive measure to fight cognitive decline",
-      "excerpt": "The sport of orienteering, which draws on athleticism, navigational skills and memory, could be useful as an intervention or preventive measure to fight cognitive decline related to dementia ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20230120/Orienteering-could-be-useful-as-an-intervention-or-preventive-measure-to-fight-cognitive-decline.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20230120/Orienteering-could-be-useful-as-an-intervention-or-preventive-measure-to-fight-cognitive-decline.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-19-the-goldilocks-principle-and-hybrid-cloud.md",
-      "title": "The Goldilocks Principle And Hybrid Cloud",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as The Goldilocks Principle shows up in many places in our lives and business in areas as vast and varied as astrobiology, economics, and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63c96c06ef67aedf79766ebe/0x0.png?format=png&width=1200",
-          "width": 936,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
-      "publishedDateTime": "2023-01-19T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

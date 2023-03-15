@@ -19,21 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "AgTech startup TartanSense rebrands as Niqo Robotics; fortifying mission to commercialise AI robotics for making farming sustainable"
-    excerpt: "Bangalore: AgTech startup TartanSense, has rebranded as Niqo Robotics. The rebranding comes on the heels of the company launching their proprietary green on green AI spot spray robots in India. With a fleet size of 50,"
-    publishedDateTime: 2023-03-14T12:25:00Z
-    webUrl: "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/"
-    ampWebUrl: "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/"
+  - title: "Using Hugging Face machine learning models in Azure"
+    excerpt: "At the heart of the application is an open source machine learning model, part of a library of many thousands of models and data sets developed by the Hugging Face community and built on top of its large selection of different tools and services."
+    publishedDateTime: 2023-03-15T09:28:00Z
+    webUrl: "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.html"
+    ampWebUrl: "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 58
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 106
     images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1"
-        width: 534
-        height: 462
+      - url: "https://images.idgesg.net/images/article/2019/04/gears_automation_robotics_ai_machine-learning_woman-with-binary-code-100793301-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
+    excerpt: "A running compilation of how the legal landscape continues to be shaped by generative AI tools, from GPT technologies to art generation tools and beyond."
+    publishedDateTime: 2023-03-13T14:48:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/03/13/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "zeQSqN/GWkpMV5bELl/aLiH3iL17yykJleiNNs+SY2mxelIdy8hZOf87e9lUzbSubIwEBLSlFjuQjr3ynDj98TobV+WQE759TAvtH6kmcDYhVcJWZX09w2XHFWv2nXFRbe6+Ojd9EKcUvAs62ArvXceiC3oHOmEIzxi9TbSkLbKq8uxsnvkO/oG5wOkl3PWxqt1JiSbJ95lKmKZvYm4woSTKwGkemt5AV3U9pddLVx0Zfa4ZwCxECA3U8FAVcEiixDELN+SqfWOJZN3vpJ0PV8lW1N+thN9SJOvJmYP8esBXNLTu7Gxaw14vvozE3d90DMPp1KClB1+YKl0lTX2jGJZXUpxgIZNkp+07aIX9xLs=;WW6qyRFuyFOMsZhjf9su4g=="

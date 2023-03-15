@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna74916"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna74916"
 type: article
 quality: 100
-heat: 252
+heat: 262
 published: true
 
 provider:
@@ -71,6 +71,22 @@ related:
     quality: 84
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/03/AdobeStock_432173706.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "OpenAI rolls out GPT-4 in deep learning push"
+    excerpt: "“We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling up deep learning,” says the company in a blog post. It explains GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, “while less ..."
+    publishedDateTime: 2023-03-15T09:15:00Z
+    webUrl: "https://www.itweb.co.za/content/dgp45MaBkRnqX9l8"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/dgp45MaBkRnqX9l8"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45MaBkRnqX9l8"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2023/03/chatGPT-Mar-2023.jpg"
         width: 1200
         height: 675
         isCached: true

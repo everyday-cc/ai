@@ -135,7 +135,21 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market Research Report 2023-2028 with Top Countries Data"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Automotive Artificial Intelligence (AI) Market\" Study Describes how the technology industry is evolving and how major and emerging ..."
+    publishedDateTime: 2023-03-15T09:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-research-report-2023-2028-with-top-countries-data-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -290,6 +304,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Device Market Industry Size, Share, Trends, Growth Analysis and Forecast to 2028"
+    excerpt: "The \"Face Recognition Device Market\" Study Describes how the technology industry is evolving and how major and"
+    publishedDateTime: 2023-03-15T06:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-industry-size-share-trends-growth-analysis-and-forecast-to-2028-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

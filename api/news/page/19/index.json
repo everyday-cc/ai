@@ -2,6 +2,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-02-23-machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales.md",
+      "title": "Machine learning could fix the prioritization problem in B2B tech sales",
+      "excerpt": "Machine learning (ML) is at a point where it can enable data-driven precision for approaching the right customer contact with the right pitch at the right moment. Teams wary of trusting ML to date may not have as much of a choice in the matter — but will ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/machine-learning-could-fix-the-prioritization-problem-in-b2b-tech-sales/amp/",
+      "publishedDateTime": "2023-02-22T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-02-23-biomarker-identified-that-helps-diagnose-cause-of-cognitive-decline.md",
       "title": "Biomarker identified that helps diagnose cause of cognitive decline",
       "excerpt": "It can be difficult to determine whether cognitive decline in older adults is caused by vascular problems or dementia. New research has now identified a biomarker associated with the vascular ...",
@@ -1111,40 +1155,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-22-solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india.md",
-      "title": "Solar-powered driverless bus developed by LPU students utilizing resources available within India",
-      "excerpt": "With the evolution and advancement of technology such as artificial intelligence, Open CV, and the wide promotion of utilizing clean energy, our team looks forward to conceptualizing, redesigning, and developing a completely driverless, electric ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/",
-      "originalUrl": "https://www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/solar-powered-driverless-bus-developed-by-lpu-students-utilizing-resources-available-within-india/amp/",
-      "publishedDateTime": "2023-02-21T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

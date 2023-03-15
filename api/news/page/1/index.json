@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-15-using-hugging-face-machine-learning-models-in-azure.md",
+      "title": "Using Hugging Face machine learning models in Azure",
+      "excerpt": "At the heart of the application is an open source machine learning model, part of a library of many thousands of models and data sets developed by the Hugging Face community and built on top of its large selection of different tools and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.html",
+      "originalUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/04/gears_automation_robotics_ai_machine-learning_woman-with-binary-code-100793301-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html",
+      "publishedDateTime": "2023-03-15T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-ai-machine-learning-necessary-to-run-a-modern-network.md",
       "title": "AI, machine learning necessary to run a modern network",
       "excerpt": "Duxbury Networking is holding events in Cape Town, Johannesburg and Durban where it will introduce customers to the features and benefits of ExtremeCloud IQ",
@@ -295,7 +348,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/openai-gpt-4-rcna74916",
       "featuredContent": null,
       "highlight": null,
-      "heat": 252,
+      "heat": 262,
       "tags": null,
       "images": [
         {
@@ -485,21 +538,21 @@
       ]
     },
     {
-      "path": "_news/2023-03-15-kneron-kl720-supports-qualcomm-for-virtually-seamless-ai-for-robotics-drones-and-industry-40.md",
-      "title": "Kneron KL720 supports Qualcomm for virtually seamless AI for robotics, drones and industry 4.0",
-      "excerpt": "Leading edge AI solutions provider Kneron announces today that its KL720 AI SoC now supports the Qualcomm® Robotics RB1 and Qualcomm® Robotics RB2 Platforms from",
+      "path": "_news/2023-03-15-cloud-incident-response-nets-another-45m-with-mitigas-latest-funding.md",
+      "title": "Cloud incident response nets another $45M with Mitiga’s latest funding",
+      "excerpt": "Cloud incident response provider Mitiga announces it has raised $45 million in funding for a solution designed to mitigate cloud breaches.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/03/n31347926/kneron-kl720-supports-qualcomm-for-virtually-seamless-ai-for-robotics-drones-and-industry-4-0",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/03/n31347926/kneron-kl720-supports-qualcomm-for-virtually-seamless-ai-for-robotics-drones-and-industry-4-0",
+      "webUrl": "https://venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/",
+      "originalUrl": "https://venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://venturebeat.com/wp-content/uploads/2023/03/Mitiga_team-photo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 799,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -507,14 +560,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/31347926",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31347926",
-      "publishedDateTime": "2023-03-14T11:49:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/cloud-incident-response-nets-another-45m-with-mitigas-latest-funding/amp/",
+      "publishedDateTime": "2023-03-14T12:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -523,9 +585,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1166,57 +1227,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected.md",
-      "title": "Artificial Intelligence in Retail Market with Size Expected to Reach by 2030 by Extensive Growth Projected",
-      "excerpt": "Final Report will add an analysis of the impact of the Russia-Ukraine War and COVID-19 on theArtificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected-2023-03-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected-2023-03-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-13T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

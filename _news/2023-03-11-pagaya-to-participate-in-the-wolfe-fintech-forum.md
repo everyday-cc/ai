@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Advanced fintech puts Qatar on top of the region"
-    excerpt: "The 9th Islamic Finance Conference titled Islamic Finance and Challenges of Web 3.0 kicked off at the Sheraton Hotel, Doha yesterday. The"
-    publishedDateTime: 2023-03-15T06:12:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/15/03/2023/advanced-fintech-puts-qatar-on-top-of-the-region"
+  - title: "Advanced Fintech Puts Qatar On Top Of The Region"
+    excerpt: "The Peninsula The 9th Islamic Finance Conference titled ' Islamic Finance and Challenges of Web 3.0' kicked off at the"
+    publishedDateTime: 2023-03-15T09:33:00Z
+    webUrl: "https://menafn.com/1105783440/Advanced-Fintech-Puts-Qatar-On-Top-Of-The-Region"
     type: article
     provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
+      name: Mena FN
+      domain: menafn.com
     quality: 24
     images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20230315_1678860871-966.jpg?1678860871"
-        width: 1200
-        height: 750
+      - url: "https://menafn.com/updates/pr/2023-03/15/TP_cd180image_story.jpg"
+        width: 600
+        height: 375
         isCached: true
 
 secured: "/iPALAkhuQr/cY/e8NkEscK3nvJ2GtqxXwePw8Kk0zwI8drz50M7dY8p+3qaqKnV8epZWMXz+ZE56oPDRo9dNVArJVSN3YJcHaDFGQh0F8t+zJskLn2Iu5ycHPzXzecPuEDQWZTEnai3mPoqIq4pct9sch4e9gvzASiNmBplKV7E1VAMWUOtVD1vA0U6b1FF8EinzA4neeLH+u3FNRgakg4Czy3gWs3WiT0fzEIKr6Yd/qeo8bGTTH6jtMRIG4jaoFYuWDzhCAipSZPCmLs7sKgatDnjVA6TVzC3FVjCqsxMtY5k+IXSu94wftzkvUE0txY3YY1NXhUKdAh5dwByhrB/FkODy9vZNUAGckgPy8E=;Y5QEgeKgXz+giPFjnOP0XQ=="

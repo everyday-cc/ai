@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Report: Microsoft cut a key AI ethics team"
+    excerpt: "An entire team responsible for making sure that Microsoft’s AI products are shipped with safeguards to mitigate social harms was cut during the company’s most recently layoff of 10,000 employees, Platformer reported."
+    publishedDateTime: 2023-03-14T22:09:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/03/amid-bing-chat-controversy-microsoft-cut-an-ai-ethics-team-report-says/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 121
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/03/GettyImages-1246861873-800x532.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Amid Bing Chat controversy, Microsoft cut an AI ethics team, report says"
     excerpt: "Calling the work of the ethics and society team “trailblazing,” Microsoft said that the company had focused more over the past six years on investing in and expanding the size of its Office of Responsible AI. That office remains active, along with ..."
     publishedDateTime: 2023-03-14T22:10:00Z
@@ -198,20 +214,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2023/03/NVIDIA-Microsoft-logos-source-Nvidia-0323.jpg"
         width: 600
         height: 300
-        isCached: true
-  - title: "AI-generated videos may be the next big thing as Microsoft confirms GPT-4 reveal"
-    excerpt: "According to Braun, the next iteration of GPT will be shown off next week and it will allow users to create new types of AI-generated content."
-    publishedDateTime: 2023-03-10T16:49:00Z
-    webUrl: "https://www.androidauthority.com/microsoft-gpt4-update-3295203/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 79
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/03/Microsoft-logo-angled-MWC-2022.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft unveils an AI virtual machine powered by Azure and NVIDIA"
     excerpt: "Microsoft has announced details of its latest VM destined for artificial intelligence workloads as the company continues to develop and release AI products following a substantial investment in OpenAI,"

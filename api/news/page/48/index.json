@@ -2,6 +2,40 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-02-06-self-driving-laboratories-do-research-on-autopilot.md",
+      "title": "Self-Driving Laboratories Do Research On Autopilot",
+      "excerpt": "The concept of the self-driving laboratory aims to do exactly that, and could revolutionize materials research in particular. Materials research is a complex field and a challenging one to work in.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/09/29/self-driving-laboratories-do-research-on-autopilot/",
+      "originalUrl": "https://hackaday.com/2022/09/29/self-driving-laboratories-do-research-on-autopilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-06-marin-voice-pushing-for-biodiverse-solutions-at-cop15.md",
       "title": "Marin Voice: Pushing for biodiverse solutions at COP15",
       "excerpt": "It’s a trendy little acronym that means a lot. COP, which is short for “Conference of Parties,” has become slang for a meeting in one of three parallel sequences held to implement the",
@@ -921,48 +955,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-05-artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age.md",
-      "title": "Artificial intelligence uncovers lost work by titan of Spain’s ‘Golden Age’",
-      "excerpt": "Discovery of Lope de Vega play could lead to other important finds, researchers say",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
-      "originalUrl": "https://www.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/feb/05/artificial-intelligence-uncovers-lost-work-by-titan-of-spains-golden-age",
-      "publishedDateTime": "2023-02-04T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

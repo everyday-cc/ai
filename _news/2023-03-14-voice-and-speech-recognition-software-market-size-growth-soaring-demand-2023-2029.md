@@ -57,21 +57,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Mobile Speech Recognition Software Market to Reach $940.8 Million by 2030"
-    excerpt: "ReportLinker is an award-winning market research solution. Reportlinker finds and organizes the latest industry data so you get all the market research you need - instantly, in one place."
-    publishedDateTime: 2023-03-10T16:27:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/n31298831/global-mobile-speech-recognition-software-market-to-reach-940-8-million-by-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31298831"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31298831"
+  - title: "The Voice Recognition Market study provides information, including all market growth factors."
+    excerpt: "The Voice Recognition market is a rapidly growing industry with a wide range of applications. Over the past few years, it has witnessed significant growth due to increasing demand from various end-use industries."
+    publishedDateTime: 2023-03-15T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-voice-recognition-market-study-provides-information-including-all-market-growth-factors-2023-03-15"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "5VsDVE4FHwkhHZeWrDZrJoXMSq9ZlcDe1izTMyc0S0RjClEQC40thqd22oW6uBV+4KQHNFlfFELUiJq43UXhzciVCrXWVlWpvSqiYJoUqdJqrhOL0GmIZ938gVpSRIV+QA0aZcXmtft26oJXawVcLgH1le7WgNHPoYjMDeSHAqB36MZyvFRofez1J78RWKv42+3bA0Tm9m1Qe+UQJDP3P8oDYC339sw4dw5GP/UlWrhTR1xWZZ/vcod56b+XwvYNQctcVwa5KFdqy7pIBfO2jJ7UbR0bESBHuT11Zr7WgH5SKsTCDs3dfuh7TUwuTk5uNGV3NKmrQwgjBD02FbXdW94a4iQpdrFg8dMLEk4tVtI=;KDaM3tWNOn96St86z9SbLg=="

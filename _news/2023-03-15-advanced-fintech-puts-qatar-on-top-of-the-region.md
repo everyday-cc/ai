@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Advanced fintech puts Qatar on top of the region"
-excerpt: "The 9th Islamic Finance Conference titled Islamic Finance and Challenges of Web 3.0 kicked off at the Sheraton Hotel, Doha yesterday. The"
-publishedDateTime: 2023-03-15T06:12:00Z
-originalUrl: "https://thepeninsulaqatar.com/article/15/03/2023/advanced-fintech-puts-qatar-on-top-of-the-region"
-webUrl: "https://thepeninsulaqatar.com/article/15/03/2023/advanced-fintech-puts-qatar-on-top-of-the-region"
+title: "Advanced Fintech Puts Qatar On Top Of The Region"
+excerpt: "The Peninsula The 9th Islamic Finance Conference titled ' Islamic Finance and Challenges of Web 3.0' kicked off at the"
+publishedDateTime: 2023-03-15T09:33:00Z
+originalUrl: "https://menafn.com/1105783440/Advanced-Fintech-Puts-Qatar-On-Top-Of-The-Region"
+webUrl: "https://menafn.com/1105783440/Advanced-Fintech-Puts-Qatar-On-Top-Of-The-Region"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: The Peninsula
-  domain: thepeninsulaqatar.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://thepeninsulaqatar.com/get/maximage/20230315_1678860871-966.jpg?1678860871"
-    width: 1200
-    height: 750
+  - url: "https://menafn.com/updates/pr/2023-03/15/TP_cd180image_story.jpg"
+    width: 600
+    height: 375
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: 01net.it
     quality: 4
 
-secured: "l9VRhkTAsmYZSWdjU4a1WmHaTRDIrLCv1I9oOtXe3bTLBVm27d67LPNK72hBNHntNDS78EVCb9GxE6aWNrP663t206dxQIZP+T+1K1DTg6cxkH9IXuqjWWzZYCNojJOFW7aBobYId7nuW3bh6LuL8dmT3c/1ueGzdDZnLKLW14AdZEeNecF/c5shqmz8pw00XRLbw22GuGLWig30kH12+XCfBzeyNJIzLHC8bUzuVfdm70VBFoTeB11kxrNtgJ34pOTd1Xld0HaeGguwb8uxfW964JB8BuxovezzCigoF1Q9Fa1qNUjcfcWoxdKFUyuQrwcPdJjjnUSeNpvrMIF8XXk7kmYJFmkRQHoEnY29ms8=;86CYVOqCXgMQ/MAuhr2++A=="
+secured: "kbA7H/FpwNCnUg8fahgP706VpubKaFzeKpsPBBeiW4ueQwRyatSNSnr89LoKFuyHVJoJM2/LHewj7tZlA0Uy7bw9OOGI0M/ImGzPi9HCYyzXLda6+0TZ9lCmh02XEL6S2wzIQocCIAHj3mUNdIHneUGFLhrbfR5eJDpQ3KsurWV4F6Y8Elmub7oof0uTA66Q78v5rK0WwwpcZZidJh6QjI7f7VlVGdBSJj/iOIHOpQ48Plsanhv0HkIw/8XST7pg2jfk6NHMSqULlbwrfO5Wb0A7tPausTnl28VoIFwcHlHP6TTSUpzrC8W7nE4qGG5HSN4EvJP3DS+MWy+WdZ74nkuhWgsaZ1AlC3u661PQgFw=;LKxC83iANEC92bIeg+KGpw=="
 ---
 

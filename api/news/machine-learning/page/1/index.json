@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-15-using-hugging-face-machine-learning-models-in-azure.md",
+      "title": "Using Hugging Face machine learning models in Azure",
+      "excerpt": "At the heart of the application is an open source machine learning model, part of a library of many thousands of models and data sets developed by the Hugging Face community and built on top of its large selection of different tools and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.html",
+      "originalUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/04/gears_automation_robotics_ai_machine-learning_woman-with-binary-code-100793301-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3690828/using-hugging-face-machine-learning-models-in-azure.amp.html",
+      "publishedDateTime": "2023-03-15T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-ai-machine-learning-necessary-to-run-a-modern-network.md",
       "title": "AI, machine learning necessary to run a modern network",
       "excerpt": "Duxbury Networking is holding events in Cape Town, Johannesburg and Durban where it will introduce customers to the features and benefits of ExtremeCloud IQ",
@@ -1388,49 +1441,6 @@
       "provider": {
         "name": "Business.com",
         "domain": "business.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-deep-learning-based-anatomical-landmark-identification-in-ct-scans.md",
-      "title": "Deep-learning-based anatomical landmark identification in CT scans",
-      "excerpt": "When planning orthodontic treatments using computed tomography images, surgeons often need to identify points of interest in the bones called “anatomical landmarks,” which help them diagnose conditions and make precise measurements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/981832",
-      "originalUrl": "https://www.eurekalert.org/news-releases/981832",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/876075ca-d045-4893-809f-b4e7d7b6ec8b/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

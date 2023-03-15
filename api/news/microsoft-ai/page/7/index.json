@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-01-20-orienteering-could-be-useful-as-an-intervention-or-preventive-measure-to-fight-cognitive-decline.md",
+      "title": "Orienteering could be useful as an intervention or preventive measure to fight cognitive decline",
+      "excerpt": "The sport of orienteering, which draws on athleticism, navigational skills and memory, could be useful as an intervention or preventive measure to fight cognitive decline related to dementia ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20230120/Orienteering-could-be-useful-as-an-intervention-or-preventive-measure-to-fight-cognitive-decline.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20230120/Orienteering-could-be-useful-as-an-intervention-or-preventive-measure-to-fight-cognitive-decline.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-19-the-goldilocks-principle-and-hybrid-cloud.md",
+      "title": "The Goldilocks Principle And Hybrid Cloud",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives in as The Goldilocks Principle shows up in many places in our lives and business in areas as vast and varied as astrobiology, economics, and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63c96c06ef67aedf79766ebe/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/01/19/the-goldilocks-principle-and-hybrid-cloud/amp/",
+      "publishedDateTime": "2023-01-19T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-01-19-microsoft-ceo-satya-nadella-claims-artificial-intelligence-will-redefine-business-and-work.md",
       "title": "Microsoft CEO Satya Nadella Claims Artificial Intelligence Will Redefine Business And Work",
       "excerpt": "Microsoft CEO Satya Nadella said on Wednesday that the world is approaching a golden age of artificial intelligence by citing a recent instance in which an Indian farmer utilized a ChatGPT interface to access a secret government program online despite only understanding a local dialect.",
@@ -1254,101 +1349,6 @@
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-report-microsoft-could-invest-10b-in-openai-at-29b-valuation.md",
-      "title": "Report: Microsoft could invest $10B in OpenAI at $29B valuation",
-      "excerpt": "The sources believe that Microsoft could be joined by multiple venture capital firms in the investment. Internal OpenAI documents reportedly suggest that the group had sought to close the investment by the end of 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/01/10/report-microsoft-invest-10b-openai-29b-valuation/",
-      "originalUrl": "https://siliconangle.com/2023/01/10/report-microsoft-invest-10b-openai-29b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/01/microsoft.png",
-          "width": 718,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-11-breakingviews-microsofts-ai-bet-heads-i-win-tails-i-also-win.md",
-      "title": "Breakingviews: Microsoft’s AI bet: heads I win, tails I also win",
-      "excerpt": "I-win, tails-I-also win, AI deal. A mooted $10 billion investment, reported by Semafor, in the maker of the popular ChatGPT, could reshape Microsoft’s software business. Even if it flops, CEO Satya Nadella will slow a rival,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/microsofts-ai-bet-heads-i-win-tails-i-also-win-2023-01-10/",
-      "originalUrl": "https://www.reuters.com/breakingviews/microsofts-ai-bet-heads-i-win-tails-i-also-win-2023-01-10/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/rwNtFLLSNeCujhZe8fmQf3oxg1c=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VFTFO3NHBVLKNGZZOK6AJE437U.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

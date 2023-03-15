@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-14-artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected.md",
+      "title": "Artificial Intelligence in Retail Market with Size Expected to Reach by 2030 by Extensive Growth Projected",
+      "excerpt": "Final Report will add an analysis of the impact of the Russia-Ukraine War and COVID-19 on theArtificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected-2023-03-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected-2023-03-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-artificial-intelligence-in-drug-discovery-market-coverage-exposures-2029.md",
       "title": "Artificial Intelligence in Drug Discovery Market Coverage Exposures | 2029",
       "excerpt": "Artificial Intelligence in Drug Discovery Marketinformation for each competitor includes (Atomwise Inc., Accutar Biotechnology Inc., Ardigen S.A., BenevolentAI Limited, Berg LLC, Berkeley Lights Inc.,",
@@ -909,7 +960,7 @@
       "originalUrl": "https://www.cnbc.com/2023/03/13/chatgpt-and-generative-ai-are-booming-but-at-a-very-expensive-price.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 321,
+      "heat": 301,
       "tags": null,
       "images": [
         {
@@ -1107,7 +1158,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-application-product-sales-and-forecast-2023-2028-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 409,
+      "heat": 429,
       "tags": null,
       "images": [
         {
@@ -1200,57 +1251,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-an-ai-start-up-boomed-but-now-it-faces-a-slowing-economy-and-new-rules.md",
-      "title": "An A.I. Start-Up Boomed, but Now It Faces a Slowing Economy and New Rules",
-      "excerpt": "Eightfold AI, grew cautiously in its first few years. But it hit the accelerator after it raised $220 million in 2021, the pandemic boom year for venture investment, bringing the company’s funding to more than $400 million. The Silicon Valley start-up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.html",
-      "originalUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/03/10/multimedia/00ai-hr-01-jlqw/00ai-hr-01-jlqw-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
-          "width": 600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2023/03/13/business/ai-hiring-jobs.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2023/03/13/business/ai-hiring-jobs.amp.html",
-      "publishedDateTime": "2023-03-13T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

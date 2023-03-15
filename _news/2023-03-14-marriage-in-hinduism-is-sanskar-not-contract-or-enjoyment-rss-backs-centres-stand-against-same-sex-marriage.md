@@ -41,22 +41,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "\"Catering to core vote bank ahead of polls\": Activist on Centre opposing LGBTQ marriage"
-    excerpt: "Amid the ongoing debate over same-sex marriage in the country in the wake of an affidavit filed by the Centre opposing the practice, LGBTQ activist Prijith PK on Tuesday alleged that the government was demonstrating a 'homophobic' attitude in a bid to cater to its traditional vote bank with an eye on the upcoming elections."
-    publishedDateTime: 2023-03-15T01:02:00Z
-    webUrl: "https://www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage"
-    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 53
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_03_2023_01_02_56_5952996.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "\"Marriage In Hinduism Is 'Sanskar', Not Contract Or Enjoyment\": RSS On Same-Sex Marriage"
     excerpt: "This classification has a rational relation with the object sought to be achieved (ensuring social stability via recognition of marriages),\" the government said. Centre submitted before the Supreme Court that statutory recognition of marriage as a union ..."
     publishedDateTime: 2023-03-14T15:36:00Z
@@ -105,6 +89,15 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "\"Catering to core vote bank ahead of polls\": Activist on Centre opposing LGBTQ marriage"
+    excerpt: "Amid the ongoing debate over same-sex marriage in the country in the wake of an affidavit filed by the Centre opposing the practice, LGBTQ activist Prijith PK on Tuesday alleged that the government was demonstrating a 'homophobic' attitude in a bid to cater to its traditional vote bank with an eye on the upcoming elections."
+    publishedDateTime: 2023-03-15T09:34:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20230315/4049973.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
   - title: "Centre in SC opposes plea seeking legal recognition of same-sex marriage, says it can't be compared with Indian family unit"
     excerpt: "Centre in its affidavit has opposed the plea seeking legal recognition of same-sex marriage saying that living together as partners by same-sex individuals"
     publishedDateTime: 2023-03-12T11:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/agtech-startup-tartansense-rebrands-a
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/agtech-startup-tartansense-rebrands-as-niqo-robotics-fortifying-mission-to-commercialise-ai-robotics-for-making-farming-sustainable/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 534
     height: 462
     isCached: true
-
-related:
-  - title: "Humanoid Robots Cleaning Your House, Serving Your Food and Running Factories – A Look at Startups Leading the Charge"
-    excerpt: "And it’s happening faster than most expect. Figure Is Leading The Way AI robotics startup Figure is developing the world’s first commercially viable autonomous humanoid robot, known as Figure 01. If recently released images are any indication ..."
-    publishedDateTime: 2023-03-14T18:43:00Z
-    webUrl: "https://www.benzinga.com/news/23/03/31347764/humanoid-robots-cleaning-your-house-serving-your-food-and-running-factories-a-look-at-startups-leadi"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "D85OFyCVCckl7Crsv5c0YeYCoTqHzqJz0PJFrPBd7RVxMy6qxpK5uWd6rfqawpLoBXPf9J7tivpyvlWsIwgpkPJAhi8D4K21/Kx9iss1ILWVQ9pbbNcgDu0q30u7kfdKR09RwDfcARQgBkmhg0OC4AZvZofdyWphKaSCe2UEDdiTuW7St3YrlI0lH8hhjRAZV7+eTdZpc+bbEI5ZvmHWQUyATooNIcXXhoDIc7S346KNYVO1FtL4kXZpQWedP4Y3bV3tBUT4OgcYcZ5kg8hPCykaMrxv6BKvM0mtFb9RYyx4NoKtT0uGdh3RrVDFWdz31IkP1QyTLBTiE1EHG5uM+G7zYY6CIlUk0/rah0Jph8s=;GBQpIxqEJke/TN4eQpyiiw=="
 ---
