@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-a
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp"
 type: article
 quality: 72
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/uiyehb/article65913134.ece/alternates/FREE_1200/26EPBS_DIGITAL%20LITERACY.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Salesforce’s AI solution for Air India to improve customer experience"
-    excerpt: "AI platform, for which TCS is a launch partner, to provide insights and information to plant operators for taking real-time and autonomous decisions. A part of TCS’ Enterprise 5G Edge suite, the solution integrates with Microsoft Azure private MEC to ..."
-    publishedDateTime: 2023-03-14T16:27:00Z
-    webUrl: "https://yourstory.com/2023/03/salesforces-ai-solution-for-air-india-to-improve-c"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Exp-March14-1678808613039.png?fm=png&auto=format"
-        width: 800
-        height: 400
         isCached: true
 
 secured: "iDVHd7GTCGP/xTLrhTQE4Qw82wsxvoFGzx63yGy3yDzMf2rB7pJ6L83i9ItmyRes1XXlvce+JUnfXkSh/I2eYlNIsyoDsV9h/+BkfEazgyRqF2KWQkGcFqSI7j3iOBP8KDskkpzhNJj1wXVXKc4XS1ciOdFIGVUYe///pEDKc2CaNxI816x4aSErYtTxAJZkeyw8yj/+/Wcq1YBJTHaoBob/NkO2nZq5fj1Y3rNfblzpsdyJuyz9pdqfAg1n7XDTty+QdVrpXmBmXkMG30Q6xqTtZ/i0ChnTYEmtryNhwwE+kX128vPolfXsxwoAANKLOfF9FdrPiQssZ7yeKzVNV8h6jN0kl7A+e6kWtdBIq4Y=;ZhQeMBJoZf2drr9Du1XihA=="

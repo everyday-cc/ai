@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/31311771"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31311771"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,38 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Media Alert: BrainChip Demonstrates Edge AI Processing at Embedded World 2023 in Nuremberg"
-    excerpt: "Akida also has a unique ability to learn on device in a secure fashion, without need for cloud retraining. \"On-chip AI that learns close to the sensor, untethered from the cloud, is the future of edge devices, and we are eager to show the leaders in ..."
-    publishedDateTime: 2023-03-10T22:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/ac31305369/media-alert-brainchip-demonstrates-edge-ai-processing-at-embedded-world-2023-in-nuremberg"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31305369"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31305369"
+  - title: "Brainchip Holdings Limited/ADR: BrainChip integrates Akida with Arm Cortex-M85 Processor, Unlocking AI Capabilities for Edge Devices"
+    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / March 12, 2023 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromo"
+    publishedDateTime: 2023-03-12T21:49:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-03/58531694-brainchip-holdings-limited-adr-brainchip-integrates-akida-with-arm-cortex-m85-processor-unlocking-ai-capabilities-for-edge-devices-200.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 64
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Media Alert: BrainChip Talks State of AI With GFT Ventures Co-Founder Jeff Herbst on Latest 'This is Our Mission' Podcast"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / March 13, 2023 / BrainChip Holdings Ltd (ASX:BRN), (OTCQX:BRCHF), (OTC:BCHPY), the world's first commercial producer of ultra-low power, fully digital, event-based, neuromorphic AI IP,"
-    publishedDateTime: 2023-03-13T21:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/03/ac31331487/media-alert-brainchip-talks-state-of-ai-with-gft-ventures-co-founder-jeff-herbst-on-latest-this-i"
-    ampWebUrl: "https://www.benzinga.com/amp/content/31331487"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31331487"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 3
 
 secured: "bHz6tekH4NHS2cIhubti1JW8VASkrP9vQh1KUyUGeQ6LsMB+Ks2785LPpxadC74FFnT239I6aiS0ThVK/JPY15rJ55guLW5F4mjUL9MiqPC9rgPUJlk7OkENEKlHVHLICAnwSu++a5SyoaaXXG1VH79BKz0hoK8OR4uiRi66uGmmjqPzpHp0z6ABVzE0Z5A9K/IP3rTMS2LlKowuFQolC6Z6b7C4Sf7icrvKx4kkaURjmH8sjRsP1rs/jo2Qhhh3dB9HNX6yhBdOAQDI94lomq9kmLJ7fEoNZ+Lqnfrto+MYB4/6Hh8r+QatxdO3ovd9PgBrVuLJDoSVd0eX4kAwlpdnK/PoEfePedN+/VONa4A=;BFdz/Og+BVG4AuC/HQUN9Q=="
 ---

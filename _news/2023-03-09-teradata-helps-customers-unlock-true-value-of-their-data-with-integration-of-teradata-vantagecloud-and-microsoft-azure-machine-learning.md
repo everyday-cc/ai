@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Teradata Helps Customers Unlock True Value of their Data with Integration of Teradata VantageCloud and Microsoft Azure Machine Learning"
-excerpt: "Teradata VantageCloud and Azure Machine Learning work seamlessly, giving customers using VantageCloud on Azure the ability to tap into the power of their data. With this integration, joint customers across industries can realize the benefits from the ..."
-publishedDateTime: 2023-03-08T17:10:00Z
-originalUrl: "https://www.pharmiweb.com/press-release/2023-03-08/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-a"
-webUrl: "https://www.pharmiweb.com/press-release/2023-03-08/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-a"
+excerpt: "Teradata VantageCloud and Azure Machine Learning work seamlessly, giving customers using VantageCloud on Azure the ability to tap into the power of their data. With this integration, joint ..."
+publishedDateTime: 2023-03-09T09:30:00Z
+originalUrl: "https://itwire.com/guest-articles/company-news/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-and-microsoft-azure-machine-learning.html"
+webUrl: "https://itwire.com/guest-articles/company-news/teradata-helps-customers-unlock-true-value-of-their-data-with-integration-of-teradata-vantagecloud-and-microsoft-azure-machine-learning.html"
 type: article
 
 provider:
-  name: PharmiWeb
-  domain: pharmiweb.com
+  name: ITWire
+  domain: itwire.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-secured: "rvyw8gpAs08QkacZe4m0grovsxFD3m85EnQXFcF8/Xmo6v/xhPDpQw18p2XRugCNViCU3fUHqmcJ9ivLJj/+QaG76Z14TwCraEdT5SOYQZ7paHULueZnoNQ0edbGDU2bR06D+obt9g7S73IhXfQfHaWBVHag5DgyYVgToErHO9nbn7LpZ/dtjGN5R32qxVIbwUgwvuW+kETbBSlpkwfgh9toWi0oQi7A4anjl+/fgESO3o6HMED3Ft2W2H2nWeGvnMXVzaWe4R7msBgYLUtTkWYLpGS8S88m/0M9BJvvB83xB88BwRqWPyzx2KsevOtkaWCiramM/GCqN1/4W24UBx10YazrSkgOP33hAy65GcI=;t8Lq0lJUJW0A8vSsGHe6YA=="
+images:
+  - url: "https://itwire.com/media/k2/items/cache/8ecafceb36e2461370d0ea3870ea9bfe_M.jpg"
+    width: 375
+    height: 375
+    isCached: true
+
+secured: "dBPTZCHIAoPFu0qriKb2iQIzIcuizTodY7Gbv/Nmv8I0GX7ZTPOijTxPiYiVHVsBq4embzCbG1o2v1/thHEBpd6HyWi3xTJfvwWl6cfQHNx7IJ63NE+GvRhs4mienK6fjsLfy660joK6fBOgYe1gzHDQccJrUbyj5tUyKUHuE3AV9jjX4a1k1Hl1AXnBXdmmql72oXhVg0qHWaKht0zetO+5lwBjY6XDrBp61EILSZzia8tjwMKIZ3Qz9tnXgV0fuzsk6tTFD71MoepmUUq9nJgCpFwSqfNa2eGlmrShwQyyBxk+1HQ/U+Votu2o6Fu+xD9dLh9n08gK5khsSHfSSjgqDf92lkhqZ6d8gr80Xsw=;hGQF0HJr1EfkrET4kBKIDQ=="
 ---
 

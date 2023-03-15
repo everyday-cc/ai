@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Lazy Artists Use AI to Rip Off Famous Dutch Painting for Museum Exhibition"
-    excerpt: "\"So we chose it, and we hung it.\" Given how popular AI art has become just in the last year alone, it's mighty likely that we'll start seeing more debates like this — and, perhaps, greater criticism from artists, too."
-    publishedDateTime: 2023-03-10T20:43:00Z
-    webUrl: "https://futurism.com/the-byte/artists-ai-vermeer-girl-pearl-earring"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 35
-    images:
-      - url: "https://wp-assets.futurism.com/2023/03/artists-ai-vermeer-girl-pearl-earring.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Students are using artificial intelligence at school. Here's why teachers aren't panicking"
     excerpt: "Many local college professors and K-12 educators say they aren't worried about ChatGPT's use in the classroom. Why? It's easy to detect."
     publishedDateTime: 2023-03-14T02:30:00Z

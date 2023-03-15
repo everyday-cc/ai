@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T13:13:00Z
 originalUrl: "https://timesofindia.indiatimes.com/city/chennai/iit-madras-startup-launches-ai-for-women-initiative/articleshow/98666948.cms"
 webUrl: "https://timesofindia.indiatimes.com/city/chennai/iit-madras-startup-launches-ai-for-women-initiative/articleshow/98666948.cms"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Indiatimes

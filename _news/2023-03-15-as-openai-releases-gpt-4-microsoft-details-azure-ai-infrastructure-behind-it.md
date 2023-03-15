@@ -89,6 +89,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Microsoft Cuts AI Ethics and Society Team as Part of Layoffs"
+    excerpt: "The move has caused questions about whether Microsoft is prioritizing its competition with Google over long-term responsible AI practices. In its most recent round of layoffs in January, Microsoft let go of its ethics and society team, which was dedicated ..."
+    publishedDateTime: 2023-03-14T15:03:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/microsoft-cuts-ai-ethics-and-society-team-as-part-of-layoffs/"
+    ampWebUrl: "https://www.cmswire.com/customer-experience/microsoft-cuts-ai-ethics-and-society-team-as-part-of-layoffs/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/microsoft-cuts-ai-ethics-and-society-team-as-part-of-layoffs/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 91
+    images:
+      - url: "https://www.cmswire.com/-/media/cc2d58a2650646f58a20c1f2c736677a.ashx"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Microsoft fires ethics and society team with AI division"
     excerpt: "A report states that Microsoft maintains an active Responsible AI Office that critically evaluates; creates rules and principles to govern the company's AI initiatives. However, team members"
     publishedDateTime: 2023-03-14T05:40:00Z
@@ -439,20 +455,6 @@ related:
         width: 2100
         height: 1500
         isCached: true
-  - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4"
-    excerpt: "The startup OpenAI on Tuesday (Mar 14) said it is beginning to release a powerful artificial intelligence model known as GPT-4, setting the stage for human-like technology to proliferate and more competition between its backer Microsoft Corp and Alphabet Inc's Google."
-    publishedDateTime: 2023-03-15T05:36:00Z
-    webUrl: "https://www.channelnewsasia.com/business/microsoft-backed-openai-starts-release-powerful-ai-known-gpt-4-3346856"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--R1XQSR2r--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-03-14t203954z_3_lynxmpej2d0qc_rtroptp_3_openai-chatgpt.jpg?itok=1G1XO2HI"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Microsoft spent hundreds of millions on Azure infrastructure to make ChatGPT happen"
     excerpt: "Microsoft Corp. today revealed how it spent billions of dollars to enable OpenAI LLC to bring ChatGPT to life. The partnership between Microsoft and OpenAI has gotten a lot of attention recently. In January,"
     publishedDateTime: 2023-03-14T00:26:00Z
@@ -489,6 +491,15 @@ related:
     provider:
       name: The Tech Report
       domain: techreport.com
+    quality: 34
+  - title: "Microsoft-backed OpenAI starts release of powerful AI known as GPT-4"
+    excerpt: "Also read: Google unveils 'magic wand' AI tool for Docs While the two versions can appear ... The software maker not only is integrating OpenAI's latest technology into its products: its Azure cloud is powering usage of OpenAI just as budget-conscious ..."
+    publishedDateTime: 2023-03-15T13:40:00Z
+    webUrl: "https://tribune.com.pk/story/2406233/microsoft-backed-openai-starts-release-of-powerful-ai-known-as-gpt-4-1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
     quality: 34
 
 secured: "bA9I6Fe6aILpsYXfTLBc2a+l4clu3xy7WqOo79MT26OtDBLrmIW+GdzybuXZGGhzZtDzeKzzbC43LhO3XG8wj8e9Zd1cLiWOv2/KOARVpX6L3VphX7OOmX2IGvoWkwUZJ+fQcpAbZZdooJrWVu3yEgeIe6Icvl0GzWLIvMgBZWgjlT/R5NfXihvH0ye73CDdMnjs4R4+VmxkwEXeMOPWoWS1b9Q6D8WxO2zoSLyfXtsl08SRI7YFu0U7DFout+N6c8Lj43h3n5JFhrXjyuh+cCidzj4DMEEJ9YgDflHEkm68bI2fkJpk6hnnZZ/x3OBMn0jBNQVFwdMKkJZ1h/IiC8IsF2ejUEpEqyL35yB9JV49vzvngCPP2G+Vc2CKLjfim4ktEu8Mw/7YoWu4dPctffLNg9w5G5xoaMSO2R2mn7a2opr0SROa8JTKglA4XyOtgm+uZ7y/rMZdtxd2Zak9WsZcccF1QCtTuHP8oMNJIuQ0Mficgvt2xLmC64egFeWtZICzcKRPcF9CskfjtvqGHg==;oprvH8+g5p8MkU3/xKTeGg=="

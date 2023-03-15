@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T09:28:00Z
 originalUrl: "https://apnews.com/article/child-protective-services-algorithms-artificial-intelligence-disability-02469a9ad3ed3e9a31ddae68838bc76e"
 webUrl: "https://apnews.com/article/child-protective-services-algorithms-artificial-intelligence-disability-02469a9ad3ed3e9a31ddae68838bc76e"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Associated Press

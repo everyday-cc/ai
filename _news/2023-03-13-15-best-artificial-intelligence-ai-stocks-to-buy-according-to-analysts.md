@@ -8,7 +8,7 @@ webUrl: "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-s
 ampWebUrl: "https://www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1"
 cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/15-best-artificial-intelligence-ai-stocks-to-buy-according-to-analysts-1131206/?amp=1"
 type: article
-quality: 75
+quality: 77
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+  - AI in Healthcare
 
 images:
   - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop"
@@ -41,22 +42,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/03/pexels-tara-winstead-8386440-1-scaled.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "Detecting Cancer Early in Slides Using Artificial Intelligence (AI)"
-    excerpt: "A type of automated sorting allow prioritization of malignant slides so that pathologists can review them first and reduce the time to diagnosis for patients with cancer, according to new research ..."
-    publishedDateTime: 2023-03-10T22:00:00Z
-    webUrl: "https://www.medindia.net/news/detecting-cancer-early-in-slides-using-artificial-intelligence-ai-210840-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/detecting-cancer-early-in-slides-using-artificial-intelligence-ai-210840-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/detecting-cancer-early-in-slides-using-artificial-intelligence-ai-210840-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 72
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/endometrial-cancer.jpg"
-        width: 1200
-        height: 1000
         isCached: true
   - title: "5 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts"
     excerpt: "In this article, we discuss 5 best artificial intelligence stocks to buy according to analysts. If you want to see more stocks in this selection, check out 15 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts."

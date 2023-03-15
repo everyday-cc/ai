@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-12T00:00:00Z
 originalUrl: "https://semiengineering.com/how-much-power-will-ai-chips-use/"
 webUrl: "https://semiengineering.com/how-much-power-will-ai-chips-use/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Semiconductor Engineering

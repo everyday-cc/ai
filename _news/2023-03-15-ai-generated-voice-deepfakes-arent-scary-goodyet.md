@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T12:14:00Z
 originalUrl: "https://www.wired.com/story/ai-voice-deep-fakes/"
 webUrl: "https://www.wired.com/story/ai-voice-deep-fakes/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Wired

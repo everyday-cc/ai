@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T13:24:00Z
 originalUrl: "https://thenextweb.com/news/sailing-reimagined-uk-startup-bets-wind-powered-ships-will-cut-emissions"
 webUrl: "https://thenextweb.com/news/sailing-reimagined-uk-startup-bets-wind-powered-ships-will-cut-emissions"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: The Next Web

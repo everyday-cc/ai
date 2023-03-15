@@ -6,8 +6,8 @@ publishedDateTime: 2023-03-11T16:00:00Z
 originalUrl: "https://www.expressandstar.com/news/voices/opinions/2023/03/11/mark-andrews--space-exploration-artificial-intelligence-yet-we-are-still-laid-low-by-a-dusting-of-snow/"
 webUrl: "https://www.expressandstar.com/news/voices/opinions/2023/03/11/mark-andrews--space-exploration-artificial-intelligence-yet-we-are-still-laid-low-by-a-dusting-of-snow/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.expressandstar.com/resizer/DMUs9PpLvROUaDDpnMyirZvRXS4=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/2XWSSEZFJZHLHD4SH7MZLOFPNU.jpg"
@@ -23,6 +24,6 @@ images:
     height: 901
     isCached: true
 
-secured: "kZOHRUhsmnKVU+CczVdsQMg2gJVH4ihalmr+N/ElL761RaSSHYgmdBF5tX7mtJ6nvuSiXce1yzaY15IDvqdSQETPjYYMUIQ+u1t2cukP/M6a17qQtHMGJIf8lGefI9zP4AgRzM418aAkVRLO6Aeb0ahJ26BCy66ssxG3AsbA1Nuo7q5BfyqA3josWOGXYxpcE1aGls1qqApVdyP71+kqXijrpBL4ww67RtDh91oYPJnIWQiKOQzlVfU08ks/WTY+82aPNBCQE0ZwJFqXxKR2NB6kSmO99IoyhaZlLBh8XGR8sg+8N+H6BwsyB69giOAqGErH9FVi5TZ9gsDCjiJNniCH79KXz4DHTAsQFOxRA7I=;5/C/mrV26uNr0eNC0DbwpQ=="
+secured: "CpgcgnOgEE7vDCDmdYxFfnE2E9c73kyQ7BVq9dRt5InoFIfXo98Gnx14lYDjDP25o8Kefjnwu2EnfgQZsyVFZLWTv/fJIl1/TWzQ8OIo77x2R6xhhVo3IPDw+qU+M3AWHKmheKIz+j5KlwvCLRd+35huj3NhSDuCUEQ6eeRje9gQn7m7/1noZebRCHzqn+LFoq7IARueTBRkpvzumWcLVPMnmitWv4zTgxaFwrDC2Rmblxdz3w/ksDxVZFU8tRm/dYuKDUVRobvrJdh45bbXjqn+pJCLQV2zujnenBZ+7gkLKB8JmQhbQrx/Kyt1ADxo3I4EtLii9/9HIYyi+rvdBIwHOZNMC0NQawBTtkEuLqC2Etyqm7xZgbiDh/WPCmaEXzz59WftlHGt/5Y+U+Kv1UvdgtlC3M/tl0ZlK/3NxQyev/96ECTHmrt+xKIx0IqTjXTakECoBfRjnA28odSMwlZSsJM2kVSto6IWl0iY3Ok4tSBII/qymW8y4z7Jr4inERAX1HcXLpYBUer+VbFM2g==;sXFWtQeMTlvRC96JSKxHWw=="
 ---
 

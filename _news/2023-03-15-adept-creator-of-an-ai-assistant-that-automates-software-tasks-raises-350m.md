@@ -52,6 +52,15 @@ related:
         width: 812
         height: 495
         isCached: true
+  - title: "GM studying artificial intelligence assistant that could answer driver questions"
+    excerpt: "General Motors is studying the possibility of an artificial intelligence voice assistant in future vehicles, according to the company. GM Chair and CEO Mary Barra, who was asked for details Tuesday by Fox Business channel anchor Liz Claman, referenced the ..."
+    publishedDateTime: 2023-03-15T13:33:00Z
+    webUrl: "https://www.freep.com/story/money/cars/general-motors/2023/03/15/gm-vehicles-artificial-intelligence-assistant-ultifi/70010009007/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 12
 
 secured: "8NUKwT+vnkzsxqz/Q7g2N30T1rgtz8kze829sMOFUIIkTzVp4idNMWek9BUP+Ti+hU6AOQdUqM4IlRMtXckN1eCSEI21HabMkKrN1dEZWYdx6J1LyFYJ7uzCeMXOiMHWBJwctEHGya5zJ6jxKr3taekqWHx+4ow984R/motRcUaqUE8nKSuP41bBuTpu1jWgkexoBztW7UM6wCHC010rymU3aAJOWY+sspY2ohL3P05b54Dt6Nw062Ce0wXQe9yh9ylMKiH2d6mgenyJVewZoXI+5/Tns6D1/q4pIMFQK+BdsaeM525QW29v32uHs62ubZk0w2DD5PFSP0QrG1G2sC+rjaO8p81+/anYDfqrv0Y=;ak1s09PmPeATtseLYVXrrg=="
 ---

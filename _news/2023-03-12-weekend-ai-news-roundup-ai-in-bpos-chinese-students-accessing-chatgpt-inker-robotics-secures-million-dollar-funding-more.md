@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/weekend-ai-news-roundup
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/weekend-ai-news-roundup-ai-in-bpos-chinese-students-accessing-chatgpt-inker-robotics-secures-million-dollar-funding-more-10237371.html/amp"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: moneycontrol.com
@@ -27,36 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and Machine Learning are revolutionising Business Intelligence"
-    excerpt: "In the modern business landscape, data is king. Companies of all sizes and industries rely on data to make informed decisions that drive their success. However, with the sheer amount of data available today,"
-    publishedDateTime: 2023-03-12T11:59:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/?source=app&frmapp=yes"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/?source=app&frmapp=yes"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-and-machine-learning-are-revolutionising-business-intelligence/?source=app&frmapp=yes"
+  - title: "AI News roundup: Big ChatGPT update around the corner, Koo integrates AI and more"
+    excerpt: "Can AI help with climate change? Machine Learning might help solve the biggest problem on the planet. The shifting climate will significantly impact global environmental, social, and economic systems."
+    publishedDateTime: 2023-03-13T13:31:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-news-roundup-big-chatgpt-update-around-the-corner-koo-integrates-ai-and-more-10242901.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2023/03/Mr.-Piyush-Goel-1-scaled.jpg"
-        width: 2074
-        height: 2560
-        isCached: true
-  - title: "Tracking Generative AI: How Evolving AI Models Are Impacting Legal"
-    excerpt: "Software giant Microsoft has launched general availability of access to OpenAI’s advanced AI models, including GPT-3.5, Codex and DALL•E 2, through Azure OpenAI Service, and says ChatGPT access will follow shortly. A Canadian law professor used Open AI ..."
-    publishedDateTime: 2023-03-14T04:24:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/03/14/tracking-generative-ai-how-evolving-ai-models-are-impacting-legal/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/01/Numbers-Artificial-Intelligence-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 14
 
 secured: "R2e8VV8u4UVv8/Wg/Dy2AHu/SK6XlyQbvsN2X6/6nlkSFgNmvKlY89KgIYt9eeRl2eGvR/rpEulhuVZX0dP5wKV0INVAmldzzFw0iRNTtGuath4iQk34OYHxEpybX6uVlI/ufdsLVrvEFhsFh1sqeLF72/VKfL8J3w4GcNj1D0VqxcAXgDJmrAN4jBMNKF+kihZ8fqqMP02UgmIYTsgYpjLIQ4M+UMi7geBF7htty5Y0/shkSYM2FZAe1k5ALbFvQpXIEQ5Pe4WBYDkfMy8OSHC4dhHgFmNdRm4ikQLDjLa8yPAfRIaYUcJHxij/kSeYxZ+6NMYq6JVr5z8qeqMU5nxGK3pJmXXyNDqkgvqSA7qGO+kYexzjEzoVTNYoDRjYu+WkRzvKKU7fg31FVoUk6wgWsMgx1lGQ79gimlcwPBdf92etOmRIptxhq0or2Qh3EnCHXh7W9cp3Ic6FVj4EE4fJF/AedaRAFJuGL8AKv8W/+90thxphV2NUdll34m8bULaXeg9H5brY2knFdQjtaw==;+OaPt4gW0f3fvJrvfsdPVQ=="
 ---

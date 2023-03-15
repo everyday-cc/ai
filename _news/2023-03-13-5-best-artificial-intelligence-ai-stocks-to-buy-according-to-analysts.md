@@ -49,27 +49,11 @@ related:
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 75
+    quality: 77
     images:
       - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop"
         width: 400
         height: 225
-        isCached: true
-  - title: "Detecting Cancer Early in Slides Using Artificial Intelligence (AI)"
-    excerpt: "A type of automated sorting allow prioritization of malignant slides so that pathologists can review them first and reduce the time to diagnosis for patients with cancer, according to new research ..."
-    publishedDateTime: 2023-03-10T22:00:00Z
-    webUrl: "https://www.medindia.net/news/detecting-cancer-early-in-slides-using-artificial-intelligence-ai-210840-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/detecting-cancer-early-in-slides-using-artificial-intelligence-ai-210840-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/detecting-cancer-early-in-slides-using-artificial-intelligence-ai-210840-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 72
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/endometrial-cancer.jpg"
-        width: 1200
-        height: 1000
         isCached: true
 
 secured: "A1hQ1IEIVNcXRBoD21wBHefVTiYRZlxt5J+WgXy9XkRDqWtFnLz3r5BL/uVUMfkKxmD5qq0uHP9lXeyYUNDAYrwSd998JhRuGH55CbXsT/shW0Br5/9Ch+G8bH7zCWgNobQaPrwmBwgi1LVzZAVBRpTBrUwtouiAOhnnjaHADpQSDW2MFMFwIhwbVYBzp808Y/DQLk3LF0+t+SZWhfbxDyZV3Dd2DOF21E2irqvIEIdx2C2buc8naz3e44M2jeGXcBa71mIAq3WhZVu4jeX5hC0lzThIz/esr/kWpyYajMF+JijKPBD8T59wmJK2T1OVUUGwwgDC/bVE7ku/FVKRjokADNr4cbolYmuwF4UJdNJbjmA6k64Ve7yY9wKs+rY8qIWWVWZZm5cEyK3EtgNiIMhaoycGeR8Hw1/qwGRDkKdQv1tUwVBbbs1bY+Q0eHvOYmafzNCmFw2SU1f5Bb3Gp8Hz1E9bzMq3R2ONUGLRsjuS3wKSkKE1ffCaKSznXIt2H7RHxr748o6jRXpy7tWaQQ==;6PK37W//MhKXoZOA4J9FXg=="

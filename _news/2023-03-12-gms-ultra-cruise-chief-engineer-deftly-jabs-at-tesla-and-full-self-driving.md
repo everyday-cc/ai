@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2023/03/gms-ultra-cruise-chief-engineer-de
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/03/gms-ultra-cruise-chief-engineer-deftly-jabs-at-tesla-and-full-self-driving/amp/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -21,15 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Tesla isn't helping human drivers"
-    excerpt: "Until about 2030, a user of Tesla's or any other \"self-driving\" system uses it at his or her own risk, writes an Automotive News reader in a letter to the editor."
-    publishedDateTime: 2023-03-12T09:00:00Z
-    webUrl: "https://www.autonews.com/letter-editor/tesla-self-driving-system-isnt-helping-human-drivers"
+  - title: "Tesla Full Self-Driving Beta v11 is coming this weekend, if you believe Elon Musk"
+    excerpt: "After months of waiting, Tesla Full Self-Driving Beta v11 is going to a wide release this weekend, if you believe Elon Musk. Tesla FSD Beta v11 is both an exciting and scary step as it is supposed to merge Tesla’s FSD and Autopilot highway stacks."
+    publishedDateTime: 2023-03-15T14:43:00Z
+    webUrl: "https://electrek.co/2023/03/15/tesla-full-self-driving-beta-v11-is-coming-weekend-believe-elon-musk/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
+      name: Electrek
+      domain: electrek.co
+    quality: 64
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "EM3yb0PEgWy51QAbOf22paBC/n5GQO4vLkyph58T1+My/ftmBcjTz44OnVJb7u4Oe77TNKbG+Y3lehWpWikgsxMP1JjjbIDfxE54NBX/Gl5eupProZ9OilrpWN5NS7ycQ/MIvOcw4DK93p9e88XZpIr9WeLe9hE01SxydCUMnKkthlA8fr/AnaAQ1Td5gzcNLgx4mCcKrA7EMnG0i1Wprt/imlkIX+zhQYQyXxqvX2A5uMMjCGWxVBqEk6COGwW7t1fizLmJ3FFuEYyiaI3auTg9JCueUO222rlpRUB79h8Qu104BZtOAFFN3IyS5GAI1Jk6mhgvu1dS1zKSIEYs3fWuICO3joOxEfJ5HD8qh/l7YVXjhl7/HkA4zJ+8LxM/TsQzfqTefkiOXxRqfbAI3dGHpr69GxBn3XLFKRFhyNBi7KNjmi6nkWe7P7VK+shY/a9LqI7COoEUMYPWrLTXavC9PDMoyggnZ5ELL5DP9y92vuclE6H2RCo3Og9PeMxvtfERU9ZjhdCFn+pcaS17nA==;C4Kuypq2cjb8a+j1KSsW+Q=="
 ---

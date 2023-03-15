@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2023/03/11/ai-inference-processes-data-and-augments-human-abilities/amp/"
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "New Tableau AI features and Slack integration aim for data accessibility"
+    excerpt: "The new features include data stories for Tableau Server, which allows customers to use AI to translate graphs, charts and spreadsheets into natural language insights that are easy to interpret and share. In addition, new user-attribute functions ..."
+    publishedDateTime: 2023-03-15T12:01:00Z
+    webUrl: "https://www.computerworld.com/article/3690339/new-tableau-ai-features-and-slack-integration-aim-for-data-accessibility.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 18
 
 secured: "biHcru3qom+k18Zu5whrhXt583i2pticblLiducrI7Ckfi/putku3fzINbs0a5XlscNkWhlmjVBW5bUBySW+N6CNzNz8B64c6Xud1h6iPlyBVk34TlCW3XA6jGxqAWnWkz/IPCJHXeEZmcayIAHKBPenpI7GBH+Z3Y85sLFDgDWj6RxS3QpH+l9Yt/tWMxHJIbG4yRgnU/oN2lLPO5cRW8RsTbtd3sa7v7MieXg+kzCNiiWHOY4oIYHiF92RLB5KVm7xmPcfp99gQRIenlGKoc5fcEMH8urtxB0EulT8W7INDghWrDQxYvaT/PXtDS3Cr1WdOpeA+I6dzJ0ck9FMV7MSXmDj0GHSouMs/GzvmtI=;gDe+ysFXec+qnJHwWHXPSg=="
 ---

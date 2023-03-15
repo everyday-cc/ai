@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T11:15:00Z
 originalUrl: "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Chinese-acoustic-AI-startup-detects-equipment-faults"
 webUrl: "https://asia.nikkei.com/cms/Business/36Kr-KrASIA/Chinese-acoustic-AI-startup-detects-equipment-faults"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Nikkei Asia

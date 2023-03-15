@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scala
 webUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -52,6 +52,22 @@ related:
       - url: "https://www.ciodive.com/imgproxy/Nvwrj8pE7MT8kOQoH9ubKSC4AQJ7l5KWn_8GeygV6BY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDMwOTc0NDEuanBn.jpg"
         width: 770
         height: 434
+        isCached: true
+  - title: "Startup Andi Enhances Generative AI Search Offering with New Generated Content Feature That Provides Unprecedented Accuracy, Cites Reliable Sources"
+    excerpt: "No other startup can do all of this and match Andi's high accuracy ... Andi solved this by pioneering conversational search, the first smart search assistant using generative AI to find the right answers and give you clear summaries of the best results ..."
+    publishedDateTime: 2023-03-15T14:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31361928/startup-andi-enhances-generative-ai-search-offering-with-new-generated-content-feature-that-provid"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31361928"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31361928"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "hsyqMha4edWHoUHW15jAiSfGbL66DRYOGsaqv2/cEdqSG0zSBXlLZ45abiPczimCtcZ4bj+3544tSpD9vIv0ATqctu2h+BBO4SbPfVPJP9hBmlgM5vhqoZTfIMs5U8ukY7R7NmwmFSfzoqrm46tygzKRXpYJg88jS6Bn5rMVkZAyNc96qah3Q8Igv8dzQ3TBu1fQulkBuiPaxwjYx8iKCITCkTptaQXVoRUBI/uUOPvtDhNLRxA86JbuiZLQnRsPvtYc4inl58YzqHRSYpX/vcddP1NwvTbskSSrRJYEadWwIyO+jhMSJim8SOpBIiDluu8/Mkh1g2jKdl+Gw5xRw8SRvAtgS2tfTbFOqbFcH5E=;50unMDbe03URUPqWxCRbcQ=="

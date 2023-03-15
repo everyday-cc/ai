@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-
 webUrl: "https://www.forbes.com/advisor/in/investing/cryptocurrency/top-10-artificial-intelligence-ai-cryptocurrencies/"
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -38,27 +38,11 @@ related:
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 75
+    quality: 77
     images:
       - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2021/07/22051908/breno-assis-r3WAWU5Fi5Q-unsplash.jpg?auto=format&expires=1710201600&w=400&h=225&fit=crop"
         width: 400
         height: 225
-        isCached: true
-  - title: "Detecting Cancer Early in Slides Using Artificial Intelligence (AI)"
-    excerpt: "A type of automated sorting allow prioritization of malignant slides so that pathologists can review them first and reduce the time to diagnosis for patients with cancer, according to new research ..."
-    publishedDateTime: 2023-03-10T22:00:00Z
-    webUrl: "https://www.medindia.net/news/detecting-cancer-early-in-slides-using-artificial-intelligence-ai-210840-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/detecting-cancer-early-in-slides-using-artificial-intelligence-ai-210840-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/detecting-cancer-early-in-slides-using-artificial-intelligence-ai-210840-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 72
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/endometrial-cancer.jpg"
-        width: 1200
-        height: 1000
         isCached: true
   - title: "5 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts"
     excerpt: "In this article, we discuss 5 best artificial intelligence stocks to buy according to analysts. If you want to see more stocks in this selection, check out 15 Best Artificial Intelligence (AI) Stocks To Buy According to Analysts."

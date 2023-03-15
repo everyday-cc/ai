@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T12:16:00Z
 originalUrl: "https://www.cnn.com/2023/03/15/tech/meta-ai-investment-priority/index.html"
 webUrl: "https://www.cnn.com/2023/03/15/tech/meta-ai-investment-priority/index.html"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: CNN

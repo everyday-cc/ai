@@ -49,6 +49,22 @@ related:
         width: 1200
         height: 664
         isCached: true
+  - title: "Startup Andi Enhances Generative AI Search Offering with New Generated Content Feature That Provides Unprecedented Accuracy, Cites Reliable Sources"
+    excerpt: "No other startup can do all of this and match Andi's high accuracy ... Andi solved this by pioneering conversational search, the first smart search assistant using generative AI to find the right answers and give you clear summaries of the best results ..."
+    publishedDateTime: 2023-03-15T14:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/03/g31361928/startup-andi-enhances-generative-ai-search-offering-with-new-generated-content-feature-that-provid"
+    ampWebUrl: "https://www.benzinga.com/amp/content/31361928"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/31361928"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "LmJFAFRsoXuivHLHw/Vu2lOU3pyYbD9ync5uuDMr48XZD+NlcKFeZHjNeyTg3Y2nstQXq7Cnp5sdVwci8dJb3Gnbpi1Qr0XidUqf/I7zdyJMuLAFwlt37j8QhCaRFiFKyo6ZB3gAjzlMwjC4CZYCBtylthb5CAjMa2ihX2h0FzLxbicvjAG44XmGT9NF3/pfVT/jyE5lN+PFwfK70Hsz+FtnY28QufLHEdDT+Ye2Cy6qTYmztLhqFA/Ilr8yi3NXnE6HUg9RA1y49uP4SaVDSIJCS8i1fquZHhve8oLu64lwT9gXpLD1SbUSOpqtJl6B6dj+8yQyaJe715JdGvGOam5MnrhMyOkzy/FlEYRrZj0=;31G0AwkyvWPx5C+xJWpfxw=="
 ---

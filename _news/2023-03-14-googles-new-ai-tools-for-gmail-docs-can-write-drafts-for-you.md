@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/"
 type: article
 quality: 87
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Adds AI-Powered Writing Features to Gmail, Docs"
+    excerpt: "Hot on the heels of Google Drive, Docs, Sheets, and Slides getting a new look, Google this week began testing a new set of AI-powered writing features for its Workspace apps. Planned to roll out throughout the rest of this year,"
+    publishedDateTime: 2023-03-15T12:36:00Z
+    webUrl: "https://www.pcmag.com/news/google-adds-ai-powered-writing-features-to-gmail-docs"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/023w94ztSDNk57L5VzKJGjL-1.fit_lim.size_1200x630.v1678877966.png"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Gmail: Google announces that an AI will soon write your emails"
     excerpt: "One of the notable features is the AI-powered text generation that ... Google has also been investing in natural language processing and machine learning. With Google Assistant and Google Translate being prime examples of the company’s efforts in these ..."
     publishedDateTime: 2023-03-15T10:51:00Z
@@ -78,6 +92,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Google Stock Jumps As It Unveils New AI-Powered Tools For Workspace"
+    excerpt: "The move comes as Microsoft remains aggressive in its approach to AI, with its partnership with OpenAI producing fruitful stock market gains since the start of the year. Let’s get into the details. As the AI wars heat up, you can harness the same ..."
+    publishedDateTime: 2023-03-15T13:34:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2023/03/15/google-stock-jumps-as-it-unveils-new-ai-powered-tools-for-workspace/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Gmail, Docs are getting generative AI tools, too: What they can do for you"
     excerpt: "Advancements in generative AI can mean lots of improvements to how we work and communicate. Here's how Google is applying the technology in Google Workspace."
     publishedDateTime: 2023-03-14T18:17:00Z

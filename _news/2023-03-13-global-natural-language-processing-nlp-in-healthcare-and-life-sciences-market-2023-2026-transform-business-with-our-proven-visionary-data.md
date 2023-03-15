@@ -254,6 +254,43 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market Growth Revenue, Trends 2023-2029"
+    excerpt: "Global “Data and AI Ethics Market” Report 2023-2029 is a comprehensive analysis of the market, providing detailed insights into the industry's growth opportunities, challenges, and trends across all geographical regions. The report covers the latest ..."
+    publishedDateTime: 2023-03-15T13:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-growth-revenue-trends-2023-2029-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+  - title: "The Future of Natural language processing (NLP) Market: Growth Projections and Industry Insights 2023-2028"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- The \"Natural Language Processing (NLP) Market\" research report offers a thorough analysis of the most recent developments, new fashions ..."
+    publishedDateTime: 2023-03-15T15:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-future-of-natural-language-processing-nlp-market-growth-projections-and-industry-insights-2023-2028-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Door Lock Market 2023 Size Growing Rapidly with Recent Trends"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 14, 2023 (The Expresswire) -- Facial Recognition Door Lock Market Insights 2023 by Types (Aluminum magnesium alloy, Zinc alloy, Aluminum, Stainless steel) , Applications ..."
+    publishedDateTime: 2023-03-15T14:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2023-size-growing-rapidly-with-recent-trends-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Enterprise Artificial Intelligence Market Size, Share, Outlook and Forecast to 2029"
     excerpt: "One major attraction about Enterprise Artificial Intelligence Industry is its growth rate. Many major technology players are [IBM, Wipro, Microsoft, HPE, Google, AWS, Oracle, Sentient Technologies, Intel, SAP] have been looking into Enterprise Artificial ..."
     publishedDateTime: 2023-03-14T07:32:00Z
@@ -408,6 +445,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global \"Artificial Intelligence (AI) in BFSI Market\" Forecast and Growth Trends by 2023-2027 | Research Report by Market Research Guru"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 15, 2023 (The Expresswire) -- Global “Artificial Intelligence (AI) in BFSI Market” [Latest Research Report] 2023 provides a comprehensive analysis of the industry ..."
+    publishedDateTime: 2023-03-15T13:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-bfsi-market-forecast-and-growth-trends-by-2023-2027-research-report-by-market-research-guru-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Exploring the Natural Language Processing (NLP) Software Market 2023-2028: A Comprehensive Analysis of Emerging Trends and Untapped Opportunities"
     excerpt: "Mar 13, 2023 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The market size, growth, trends,"
     publishedDateTime: 2023-03-13T10:27:00Z
@@ -482,6 +533,15 @@ related:
     excerpt: "Mar 13, 2023 (The Expresswire) -- [94+ Pages with Synopsis] COVID-19 Impact, Despite Inflation and Fearing Recession, Businesses Across the Globe Expected to Do Better in 2023 Top “Self-driving Cars Market” Size 2023 Key players Profiled in the Report ..."
     publishedDateTime: 2023-03-13T19:15:00Z
     webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-2023-global-industry-report-forecast-2029-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+  - title: "Global \"Artificial Intelligence (AI) Market\" Forecast and Growth Trends by 2023-2027 | Research Report by Market Research Guru"
+    excerpt: "Global “Artificial Intelligence (AI) Market” [Latest Research Report] 2023 provides a comprehensive analysis of"
+    publishedDateTime: 2023-03-15T11:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-market-forecast-and-growth-trends-by-2023-2027-research-report-by-market-research-guru-2023-03-15"
     type: article
     provider:
       name: MarketWatch

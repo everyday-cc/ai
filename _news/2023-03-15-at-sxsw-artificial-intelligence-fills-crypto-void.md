@@ -24,15 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Crypto Are Combining to Create Web3's 'Multiplayer Era'"
-    excerpt: "As AI art tools show us how to communicate ideas quickly, Web3 tools help us create projects together in more equitable ways. If you want to bring an idea to life, you can now get your first ideas created fast. If you want to start building a project for ..."
-    publishedDateTime: 2023-03-14T16:34:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-and-crypto-are-combining-to-create-web3s-multiplayer-era"
+  - title: "Up 750% This Year, Can This AI Crypto Token Hit $1 Soon?"
+    excerpt: "After all, at the start of this year, SingularityNET was trading for ... After all, SingularityNET's technology helps to power Sophia, arguably the most famous AI-powered humanoid robot in the world. What other robot has been on The Tonight Show, given ..."
+    publishedDateTime: 2023-03-15T13:09:00Z
+    webUrl: "https://www.fool.com/investing/2023/03/15/can-this-ai-crypto-token-hit-1-dollar/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 47
+      name: The Motley Fool
+      domain: fool.com
+    quality: 49
 
 secured: "zpsEO9HG+xW/PJXKTguY3FJe7HRpYPGtAaFjWh7uLii1UgSe0QxjJXeWdrTMZqgl1grN2UytbzwzUyOXlEkOpRri7JlqBysGFZdIfXjVZNk/6/BqGV7JljUfMAbifSug5Aeg11pubVZDiPoAShKQjfh8crt3ttyvLiMTgaZU9mBgqJQZkF3zGJAAlppzmOkkGjwcQZmhdxMiHYxSkXZWT7KtDojT2z29hyT1Vvtv9EHqLMs84EuAvm2F4ZHrchyOwwRkCy6WLnCFJYfXZ5/Ui839SVCfvRdYBKGZD60mMNXvRso5W9l3rzKm0O2v9YlTjBFwTsOpD/sHd+VL2thYtL9zDJ7WYXKtHiXOrMtNifLe3K0sEuz+NxtKSa3jPvWw8wQ8lj/Is0LyUhJyhNXsa1gYgac88GSALZTIM2rMSyIO+KwIQYNOIt+JabaCINM+CwA+EfHyMfA52kMTUEUDNX8eBvwsT51tiHEzUJ4JmbpD6n+79Ya9KArXOkWPy866PivXNyqvIl0RvoPQSy7zQA==;c3Pexj5cQ/qS9Hjcw1Uwug=="
 ---

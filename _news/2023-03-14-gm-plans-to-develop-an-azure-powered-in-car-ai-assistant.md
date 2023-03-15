@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/97922-gm-plans-develop-azure-powered
 webUrl: "https://www.techspot.com/news/97922-gm-plans-develop-azure-powered-car-ai-assistant.html"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 994
         height: 559
         isCached: true
+  - title: "GM studying artificial intelligence assistant that could answer driver questions"
+    excerpt: "General Motors is studying the possibility of an artificial intelligence voice assistant in future vehicles, according to the company. GM Chair and CEO Mary Barra, who was asked for details Tuesday by Fox Business channel anchor Liz Claman, referenced the ..."
+    publishedDateTime: 2023-03-15T13:33:00Z
+    webUrl: "https://www.freep.com/story/money/cars/general-motors/2023/03/15/gm-vehicles-artificial-intelligence-assistant-ultifi/70010009007/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 12
 
 secured: "jnzTBZ/lRdXXS/6sZV4E6pONIJ5oo6GqJJp8OdUdI5BxsrQcdSWaf8bpWxfBdg8Nb1BTV280Dlcyma6sZO0rmbXV/DBYu7b7GADeA9Vp4CPzVk/wgwGU9ZynplGBuJ2TWrNT+CtV9Rsgy44/8VSboikn29GP15HyOQqX1RvzStQEocJiDtKXoxAVuemkrn6zifrXw5Zyt4+qy7qIUn2+XgY+W1D5elyTKUOxjD0oFrVKF0PMCdCQTJfyx7VTKfpFPGJU8TkseRwg0Tn1gzJbG/lkO9xKTzXVxwn2Wte3/PRMnA/Z5bPygybd8tLQrefY/kAs4ntNyFmeSpKrRt00dJPiDUrAaArL0igtT4f9edTGP4km797MBpynq7B8lQlRKjFvdHayEn2FUhHq0ofyM1nR7eAeIAHLk16Rd8XcRZ7iYBsiPoi/QP4omNxSAVLNT7lvumGzf/KicU9ZJlgOicVBoKuR/Mdgz6SSj1picn6qcj1t0U8lw239t31t/yVoWeynpjckH+wAoGaRtjPDow==;/l3Q8+Tiid0+uLH8o1NIAg=="
 ---

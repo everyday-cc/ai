@@ -7,8 +7,8 @@ originalUrl: "https://www.infoq.com/news/2023/03/microsoft-climate-ai/"
 webUrl: "https://www.infoq.com/news/2023/03/microsoft-climate-ai/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: InfoQ
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Latest Microsoft Layoff Wave Hits Supply Chain, Cloud, IoT Employees"
-    excerpt: "manager who worked with Microsoft for about two years and worked on facilitating “the delivery of secure high-quality data to improve machine learning and artificial intelligence models” *A 23-year Microsoft veteran who was a senior content developer ..."
-    publishedDateTime: 2023-03-10T20:27:00Z
-    webUrl: "https://www.crn.com/news/cloud/latest-microsoft-layoff-wave-hits-supply-chain-cloud-iot-employees"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027d-172a91810e2f-573e9d2b7a78-1000/13-microsoft-sign.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "VeriSilicon collaborates with Microsoft to deliver Windows 10 to the Edge"
     excerpt: "VeriSilicon (688521.SH) today announced its collaboration with Microsoft on Windows 10 IoT Enterprise platforms including hardware accelerators and long-term support for powerful embedded platforms. Leveraging VeriSilicon's embedded software design capability and decades of experience in launching successful products,"
     publishedDateTime: 2023-03-14T07:04:00Z

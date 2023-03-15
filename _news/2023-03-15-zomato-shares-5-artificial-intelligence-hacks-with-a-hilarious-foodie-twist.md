@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T12:45:00Z
 originalUrl: "https://food.ndtv.com/news/zomato-shares-5-artificial-intelligence-hacks-with-a-foodie-twist-3863453"
 webUrl: "https://food.ndtv.com/news/zomato-shares-5-artificial-intelligence-hacks-with-a-foodie-twist-3863453"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: NDTV

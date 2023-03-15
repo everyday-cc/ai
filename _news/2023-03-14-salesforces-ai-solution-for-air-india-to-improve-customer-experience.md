@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "India must think hard on Artificial Intelligence guardrails"
-    excerpt: "(Source: Shutterstock) Highlights: India has taken a lead in terms of policy intent for adopting Artificial Intelligence and its varied use cases for the economy India expects a big jump in demand for AI and data science professionals, with an ..."
-    publishedDateTime: 2023-03-15T03:26:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp"
+  - title: "Salesforce Tableau 2023.1 uses AI to bring data stories to life"
+    excerpt: "Salesforce released the 2023.1 version of its Tableau Server enterprise platform, a data analytics technology providing insights from data."
+    publishedDateTime: 2023-03-15T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/salesforce-tableau-2023-1-uses-ai-to-bring-data-stories-to-life/"
+    ampWebUrl: "https://venturebeat.com/ai/salesforce-tableau-2023-1-uses-ai-to-bring-data-stories-to-life/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/salesforce-tableau-2023-1-uses-ai-to-bring-data-stories-to-life/amp/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 72
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/hacking_shutterstock_578912143-770x433.jpg"
-        width: 770
-        height: 433
-        isCached: true
-  - title: "AI boom is dream and nightmare for workers in India, global South"
-    excerpt: "Data annotation is being outsourced as the use of artificial intelligence (AI) explodes, but workers in poorer nations deal with low pay and few protections"
-    publishedDateTime: 2023-03-15T11:38:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/ai-boom-is-dream-and-nightmare-for-workers-in-india-global-south/article66622463.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ai-boom-is-dream-and-nightmare-for-workers-in-india-global-south/article66622463.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ai-boom-is-dream-and-nightmare-for-workers-in-india-global-south/article66622463.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/uiyehb/article65913134.ece/alternates/FREE_1200/26EPBS_DIGITAL%20LITERACY.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 616
         isCached: true
 
 secured: "uRbQGKsTdoj/rhL7GJuDHKPbfEPoGf+bhSousu5LaPH9lbojtxZrzds/9walig71kK+1wpb72sw7iH65jjZK8P2ejiCkNri2u+cbirJzgsmN8l0CbkTZmk8NAp5tkyMSMFgN6D1mBofBd4WaF3FGSwF9RI1vnNxIqkJ/pNBN3oj4NjwOx5/pYiNlNkiRueWFcQF9SdtspI8xqODIGRIQUA/tuxw2MAW+SGw6jZNPQltyTYILi+9E/HfuFiXE52Pfa1697mhcGnjWRncgzgtEdNYjvmKC3400+2d/znGJl9btfC1oJbkuKMI9wl1/dT3U7VDJBmv5Y0mzwW5nBy0s79cSbPtFFYKvEyfX+qwbolM=;iYR7dUmombK31gAlYvkPIA=="

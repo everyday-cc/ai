@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2044 Data Science and Machine-Learning Platforms Market: Thorough breakdown for industry leaders Prognosis by 2027"
+    excerpt: "Mar 15, 2023 (The Expresswire) -- A thorough study of the \"Data Science and Machine-Learning Platforms Market\" Growth for 2023 is given in the research report. There are opportunities for local expansion, business planning, product offerings, and end-user ..."
+    publishedDateTime: 2023-03-15T15:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2044-data-science-and-machine-learning-platforms-market-thorough-breakdown-for-industry-leaders-prognosis-by-2027-2023-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mVmDL9QrFxwmHw01QLpjCMnWA5XL8WbhNuV1QL1mLusgL+H41ExJJE3QYLoRT0ol27c72o2WIbgSClx/fxQyt5SY7FY5MtJigyBO0Pc3493hRJfw6DjLN4VTv+eZk3iIN2ewb6ZtrAEqohtqWAup0VUPNKTgJe8nKqpwHQKmznSvXEqNXAEUY6iL3j4jvQ+O2in9NFEOgEzPg6QuCee8n2oiia1oEDb//wguyET8qQoM1nIdwwLASUpwxikQOAdX9DFGwllLv19cshbrRhwl1EYFe3zfe3JjYLnQLdCBXzQfROXJcCqaM8R01AisLMRitVtx0HBrAwIe218/3P227LkXuzrKXTFDlba4nqjHOb8=;8+ZFVC5waafjyTNEPU9Grw=="
 ---

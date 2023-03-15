@@ -6,6 +6,9 @@ publishedDateTime: 2023-03-15T13:50:00Z
 originalUrl: "https://phys.org/news/2023-03-self-driven-laboratory-chemical-discovery.html"
 webUrl: "https://phys.org/news/2023-03-self-driven-laboratory-chemical-discovery.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Phys.org

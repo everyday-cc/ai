@@ -42,6 +42,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Lightning AI CEO slams OpenAI’s GPT-4 paper as “masquerading as research”"
+    excerpt: "I came from Yann LeCun’s lab at Facebook, where everything that they do is open source ... and they don’t really bring these ethical AI research values with them. I think OpenAI is setting a bad precedent for them. They’re basically saying, it ..."
+    publishedDateTime: 2023-03-15T12:45:00Z
+    webUrl: "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/"
+    ampWebUrl: "https://venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/lightning-ai-ceo-slams-openais-gpt-4-paper-as-masquerading-as-research/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 92
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/03/AI-2.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "AI Gets Smarter, Safer, More Visual With GPT-4 Release, OpenAI Says"
     excerpt: "The hottest AI technology foundation, OpenAI's GPT, got a big upgrade Tuesday that's now available in the premium version of the ChatGPT chatbot. The new GPT-4 can generate much longer strings of text,"
     publishedDateTime: 2023-03-14T19:27:00Z
@@ -100,7 +116,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 75
+    quality: 77
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/64117de68b093e4f8128450d/0x0.jpg?format=jpg&crop=1464,824,x0,y73,safe&width=1200"
         width: 1200
@@ -122,6 +138,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI"
+    excerpt: "SAN FRANCISCO, March 15 - Fintech startup Stripe is starting to integrate ... a new version of the powerful artificial intelligence (AI) technology that has powered chatbot sensation ChatGPT. The Stripe move represents one of the first known integrations ..."
+    publishedDateTime: 2023-03-15T15:05:00Z
+    webUrl: "https://www.reuters.com/technology/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-2023-03-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/ZbVYpVZUgbDigTfKtItz_-ruPMQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PCHZ3PMTNRJ4PDY56OOKANCP7Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "GPT-4 Can Ace Standardized Tests, Do Your Taxes, And More, Says OpenAI"
     excerpt: "However, the new version of ChatGPT could have been a lot more contentious, the company admits and has instituted substantive new guardrails to prevent malicious answers."
     publishedDateTime: 2023-03-14T21:49:00Z
@@ -136,15 +166,22 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ChatGPT now chatting via Azure OpenAI Service"
-    excerpt: "Developers can now integrate ChatGPT directly, using a token-based pricing system, into a host of different enterprise and end-user applications."
-    publishedDateTime: 2023-03-10T20:52:00Z
-    webUrl: "https://www.infoworld.com/article/3690335/chatgpt-now-chatting-via-azure-openai-service.html"
+  - title: "What can ChatGPT maker's new AI model GPT-4 do?"
+    excerpt: "Here's a look at San Francisco-based startup OpenAI's latest improvement on the generative AI models that can spit out readable text and unique images: WHAT'S NEW? OpenAI says GPT-4 “exhibits human-level performance.” It's much more reliable ..."
+    publishedDateTime: 2023-03-15T15:56:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/chatgpt-makers-new-ai-model-gpt-4-97881867"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/chatgpt-makers-new-ai-model-gpt-4-97881867"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/chatgpt-makers-new-ai-model-gpt-4-97881867"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 64
+      name: ABC News
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_307e867e3fe4464be9c4f884909f3977_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "OpenAI announces GPT-4 — the next generation of its AI language model"
     excerpt: "(There is a waitlist here, which OpenAI says will start admitting users today ... able to generate not only text but other mediums. Many AI researchers believe that multi-modal systems that integrate text, audio, and video offer the best path toward ..."
     publishedDateTime: 2023-03-14T19:16:00Z
@@ -246,6 +283,24 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
+  - title: "GPT-4 unveiled: OpenAI’s latest language model takes creative leap"
+    excerpt: "OpenAI made their latest language model, GPT-4, available to Plus subscribers on Wednesday. Here's what it could be used for."
+    publishedDateTime: 2023-03-15T12:31:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/technology/gpt-4-openai-creative-leap/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 19
+  - title: "OpenAI's GPT-4 Model Can Ace The SAT, Pass The Bar, And Explain Memes"
+    excerpt: "GPT-4 was just released by OpenAI today, and the company describes it as \"the latest milestone\" in deep learning. As a large AI model, it's essentially similar to GPT-3—it accepts text and images as input, and it can give text outputs in response."
+    publishedDateTime: 2023-03-15T12:59:00Z
+    webUrl: "https://hothardware.com/news/openai-gpt-4-model"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 19
   - title: "OpenAI unveils GPT-4 and touts ‘human-level performance’ from new AI model"
     excerpt: "OpenAI has released GPT-4, its latest artificial intelligence model that it claims exhibits “human-level performance” on several academic and professional benchmarks such as the US bar exam, advanced placement tests and the SAT school exams."
     publishedDateTime: 2023-03-14T19:41:00Z

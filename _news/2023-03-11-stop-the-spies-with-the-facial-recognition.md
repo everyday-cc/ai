@@ -2,88 +2,27 @@
 category: news
 title: "Stop the spies with the facial recognition"
 excerpt: "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ..."
-publishedDateTime: 2023-03-10T23:57:00Z
-originalUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
-webUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
-ampWebUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+publishedDateTime: 2023-03-10T23:02:00Z
+originalUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+webUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+ampWebUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+cdnAmpWebUrl: "https://www-presstelegram-com.cdn.ampproject.org/c/s/www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
 type: article
-quality: 59
-heat: -1
-published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: Press-Telegram
+  domain: presstelegram.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+  - url: "https://www.presstelegram.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
     width: 1024
     height: 578
     isCached: true
 
-related:
-  - title: "Facial Recognition Market Size and Share | Industry Size"
-    excerpt: "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec"
-    publishedDateTime: 2023-03-13T17:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning & Big Data Analytics Education Market 2023, Size And Share An Expand Worldwide Business Opportunities"
-    excerpt: "Machine Learning and Big Data Analytics Education Market Size 2023 | New Report (111 Pages) | Information Technology |"
-    publishedDateTime: 2023-03-14T03:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market to Expand at a Stunning CAGR of 16%, Demand and Opportunities During 2023-2033"
-    excerpt: "During the forecast period of 2023-2033, the global facial recognition market is expected to reach an estimated value of ~USD 24 billion by 2033, by expanding at a CAGR of ~16%. The market further generated a revenue of ~USD 5 billion in the year 2022."
-    publishedDateTime: 2023-03-14T04:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Jharkhand university to use facial recognition-based attendance and here’s why we’re not happy"
-    excerpt: "Jharkand University to mark employee and staff attendance using facial recognition software, raising concerns about privacy and surveillance."
-    publishedDateTime: 2023-03-13T08:53:00Z
-    webUrl: "https://www.medianama.com/2023/03/223-jharkhand-university-to-use-facial-recognition-based-attendance/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 27
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1-e1637751682262.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
-secured: "h80AD9k2T6V5HODJhfHr7HOpehogXLtKvbuVRtU0fEsbtzezYEWb9YGl/YrXh1Z30jjgevaIzIQCd5S5xPKtyBFlw52fUsY+dSavSn7NtgietsaYakIJuZetjPt2L+h/2QlTrr3ovTI7Vy/7khBTcGc/T4NRSX00Ji81OEfibD+xX0b+9kQb8vJnOdggs1gSvEfz+p1pCZp4v8ENCcFtQwDr2Mr1mfwLinvyGhj5iA9IrwJQHts5xRJJtM13U5izLP4moqqNME/UH9BQZGzPDlBQLWopMhju3hVXddhes15fqQcJ9YFsmXpSFEcJlb31bfyVGGjz3gb2hs2ltG78yY54RMNGdljDrx46eMhWmVw=;xwvP5AhEmaaEf7OPIhcqhQ=="
+secured: "EiTTK+tkAUuCnYLVD9TuwLdo72lG8hPeWy2vx4w7sgJMvE84wQMCM0p9nYR4/BcvyD0D4GQPzMy2H5dwuiCaPsyLYnfmYME1+X1ESx/wZGB8jz/KpJbyzc0guGiTnN8KBzOY4VJiAXBXrQmpgs3ibUDkiEEFWchSOoEBy2d3SUguawQ0EY47vzhkAWHOfBE3mPdoCLIaZyWUYBzeba5hrsa8RkQxBQMzmyhnvej/tDsIARf7hCnGHVZ8/9QmGVf+Tlqrm4P5XjQ0j81lNwLhVmxKDgXakPWSU3mlh7ARSqw+28PqVePwp+jkUR9Rj5Ih0wwDLpogw0nKAzQPNyJC9qlcVtYVgifTCN7Ae9sk9JA=;W3/mPdMRUUZrqPoSlsfrGQ=="
 ---
 
