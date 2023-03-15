@@ -2,26 +2,26 @@
 category: news
 title: "Stop the spies with the facial recognition"
 excerpt: "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ..."
-publishedDateTime: 2023-03-10T23:02:00Z
-originalUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
-webUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
-ampWebUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-cdnAmpWebUrl: "https://www-presstelegram-com.cdn.ampproject.org/c/s/www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+publishedDateTime: 2023-03-10T23:57:00Z
+originalUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
+webUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
+ampWebUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Press-Telegram
-  domain: presstelegram.com
+  name: Orange County Register
+  domain: ocregister.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.presstelegram.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+  - url: "https://www.ocregister.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
     width: 1024
     height: 578
     isCached: true
@@ -36,6 +36,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning & Big Data Analytics Education Market 2023, Size And Share An Expand Worldwide Business Opportunities"
+    excerpt: "Machine Learning and Big Data Analytics Education Market Size 2023 | New Report (111 Pages) | Information Technology |"
+    publishedDateTime: 2023-03-14T03:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -86,6 +100,6 @@ related:
         height: 720
         isCached: true
 
-secured: "hfNWPiE9yRPNWgPNWyX/Gs7eTeoW1VoZGe2C7+Ee/6dpl5jY6IE8RGQbS6eMPByK2lFZbysrwLQ3xD6xtSR0OookUzOM5LInXnt88TzHwC8i033VPhSc5vjmr+/fFHNQQs0arDJsKDcA+Qi4R+bzZPOn/GWjlVn4rl5023RsRUWRDnl+rya3RgFUf0g3oHp42pqtcTRZAbwzJ/EyaIWUv+ZwtCeTApfszCvW9oU9oWKfzFCElLe5x3sW7il5J2jR0b4NeWfLDkzmPcx+Cjk6k4yitHpweDb9oUjpDl+kHIfGtPtS9Rg5se+Pfdc/ouAzX+mv05BpvV5rV1u5TjZigPMZ+aOtO2ytAGTGTx6Fqi4=;5Fl4UrvCPXgaH8gKhFV4pA=="
+secured: "OFiHTBiOVWA5JP0nHu4vXJ/GhjcNPfi4SkiwM8GOH6l+4bmX7YLQTcKqhxU0BhyVoDyoM9ifPuIfEgZDrBpXZmwrfcIkRsENSi+uWK5hYuupEgYjf1ZlKOrBc32uxZ1kV6XI9OwhbZFusalzdXOYaHLl7iJCz3Fesx1Qn7W5bpW/iqQggHhYsSn/bPEB8XgwcNqhtTzAtYoivAgZSmVeSj0SRwUC3uniVEhvE3AkN7IINfv4Ih2GGbCcU9aE0oLT3MVm+gq/wU+y3O3By3szoOjfVIkSzRP1TEsspLxSwNrwDsxBdolhbmMKc2OH4VkvjC66WsQUuww0uJjCbSeuV4iY1EsAl2LAzdd0eWMfF8Q=;jdc3JxLNouX2B2le4nNbkA=="
 ---
 

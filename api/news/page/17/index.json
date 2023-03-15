@@ -2,6 +2,162 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-02-25-meta-heats-up-big-techs-ai-arms-race-with-new-language-model.md",
+      "title": "Meta heats up Big Tech's AI arms race with new language model",
+      "excerpt": "REUTERS/Dado Ruvic/Illustration/File Photo Feb 24 (Reuters) - Meta Platforms Inc (META.O) said on Friday it was releasing to researchers a new large language model, the core software of a new artificial intelligence system, heating up an AI arms race as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
+      "originalUrl": "https://www.reuters.com/technology/meta-launch-ai-language-model-llama-2023-02-24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/fJBJrVyXjYaAylhHFyAuMY-sz8Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3SC4LDVC3ZMXJIUUQDZRBHPHU4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-24T16:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-meta-unveils-a-new-large-language-model-that-can-run-on-a-single-gpu-updated.md",
+      "title": "Meta unveils a new large language model that can run on a single GPU [Updated]",
+      "excerpt": "The LLaMA collection of language models range from 7 billion to 65 billion parameters in size. By comparison, OpenAI's GPT-3 model—the foundational model behind ChatGPT —has 175 billion parameters. Meta trained its LLaMA models using publicly available datasets,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/meta_llm_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/02/chatgpt-on-your-pc-meta-unveils-new-ai-model-that-can-run-on-a-single-gpu/amp/",
+      "publishedDateTime": "2023-02-24T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-25-chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should.md",
+      "title": "ChatGPT and ethical decision making: It’s not what can be done, but what should",
+      "excerpt": "It’s important to remember that ChatGPT is an impressive research ... the Microsoft AI chatbot Tay, which was shut down after it began posting offensive tweets, and Facebook bots that created ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should/",
+      "originalUrl": "https://venturebeat.com/ai/chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/chatgpt-and-ethical-decision-making-its-not-what-can-be-done-but-what-should/amp/",
+      "publishedDateTime": "2023-02-24T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-02-25-artificial-intelligence-companies-you-may-want-to-invest-in-now.md",
       "title": "Artificial Intelligence Companies You May Want To Invest In Now",
       "excerpt": "Even if you somehow avoided that news, AI offerings are everywhere. We’ll review some artificial intelligence companies well-positioned to magnify earnings in the coming years. If you’re a seasoned investor, you’ll likely have heard about most of ...",
@@ -1063,142 +1219,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-mind-bending-midjourney-ai-art-and-images-from-simple-prompts.md",
-      "title": "Mind-Bending Midjourney AI Art And Images From Simple Prompts",
-      "excerpt": "Here is Rob Lennon with another amazing Twitter thread about using specific keywords, everyday sorts of terms, nothing too technical like aspect ratio or art styles or software version codes, to come up with that stunning image you see in the post.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tjmccue/2023/02/23/mind-bending-midjourney-ai-art-and-images-from-simple-prompts/",
-      "originalUrl": "https://www.forbes.com/sites/tjmccue/2023/02/23/mind-bending-midjourney-ai-art-and-images-from-simple-prompts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tjmccue/2023/02/23/mind-bending-midjourney-ai-art-and-images-from-simple-prompts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tjmccue/2023/02/23/mind-bending-midjourney-ai-art-and-images-from-simple-prompts/amp/",
-      "publishedDateTime": "2023-02-23T19:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake.md",
-      "title": "AI Startups Boom In San Francisco Amid $100 Billion Google Mistake",
-      "excerpt": "San Francisco’s AI startup scene is blowing up thanks to the ChatGPT craze and investors including Y Combinator, Bessemer Venture Partners, Coatue, Andreessen Horowitz, Tiger Global, Mark Benioff's Time Ventures and Ashton Kutcher's Sound Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63ec34c9ea9d35758ecaa5b2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/02/23/ai-startups-boom-in-san-francisco-amid-100-billion-google-mistake/amp/",
-      "publishedDateTime": "2023-02-23T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-24-blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform.md",
-      "title": "Blue Motor Finance Partners With Zinia for Implementation of Decision Intelligence AI Platform",
-      "excerpt": "Press Release Fintech lender, Blue, has announced a new partnership with Zinia, the pioneering Decision Intelligence company, to supercharge AI driven decisions across the business.Blue is a technology-focused lender delivering innovative motor finance solutions",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/",
-      "originalUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/blue-motor-finance-partners-with-zinia-for-implementation-of-decision-intelligence-ai-platform/amp/",
-      "publishedDateTime": "2023-02-23T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning & Big Data Analytics Education Market 2023, Size And Share An Expand Worldwide Business Opportunities"
+    excerpt: "Machine Learning and Big Data Analytics Education Market Size 2023 | New Report (111 Pages) | Information Technology |"
+    publishedDateTime: 2023-03-14T03:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-big-data-analytics-education-market-2023-size-and-share-an-expand-worldwide-business-opportunities-2023-03-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Stop the spies with the facial recognition"
     excerpt: "If, like us, your initial and overriding opinion of sweeping electronic surveillance of literally everyone by law enforcement is that it is bad — bad to the bone — your attitude about a proposed"
     publishedDateTime: 2023-03-10T15:00:00Z
@@ -61,17 +75,17 @@ related:
         isCached: true
   - title: "Stop the spies with the facial recognition"
     excerpt: "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ..."
-    publishedDateTime: 2023-03-10T23:02:00Z
-    webUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
-    ampWebUrl: "https://www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-presstelegram-com.cdn.ampproject.org/c/s/www.presstelegram.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    publishedDateTime: 2023-03-10T23:57:00Z
+    webUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
+    ampWebUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
     type: article
     provider:
-      name: Press-Telegram
-      domain: presstelegram.com
+      name: Orange County Register
+      domain: ocregister.com
     quality: 59
     images:
-      - url: "https://www.presstelegram.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+      - url: "https://www.ocregister.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
         width: 1024
         height: 578
         isCached: true

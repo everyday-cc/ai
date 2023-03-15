@@ -2,6 +2,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-03-02-future-of-artificial-intelligence-ai-chip-market-by-2029-trends-and-predictions.md",
+      "title": "Future of Artificial Intelligence (AI) Chip Market by 2029: Trends and Predictions",
+      "excerpt": "Get a sample PDF of the report at -  The Artificial Intelligence (AI) Chip market has witnessed growth from USD million to USD million from 2017 to 2022. With the CAGR of Percent, this market is estimated to reach USD million in 2029.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-chip-market-by-2029-trends-and-predictions-2023-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/future-of-artificial-intelligence-ai-chip-market-by-2029-trends-and-predictions-2023-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 303,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-02T00:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-02-no-chatgpt-isnt-going-to-cause-another-gpu-shortage.md",
+      "title": "No, ChatGPT isn’t going to cause another GPU shortage",
+      "excerpt": "“If you do not have enough GPU RAM, your model fitting/inference simply stops.” Heaton, who has a YouTube channel dedicated to how well AI models run on certain GPUs, noted that CUDA cores are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/chatgpt-wont-cause-gpu-shortage/",
+      "originalUrl": "https://www.digitaltrends.com/computing/chatgpt-wont-cause-gpu-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/03/nvidia-hopper-h100.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/chatgpt-wont-cause-gpu-shortage/",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/chatgpt-wont-cause-gpu-shortage/",
+      "publishedDateTime": "2023-03-01T22:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-02-aws-is-building-a-new-infrastructure-region-in-malaysia-with-an-investment-of-6-billion0-0.md",
       "title": "AWS is building a new Infrastructure Region in Malaysia with an investment of $6 billion0 0",
       "excerpt": "AWS cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. Last year, AWS had announced plans to invest $4.4 billion in India by 2030 through AWS Asia Pacific (Hyderabad) Region and $5 billion in Thailand.",
@@ -382,15 +486,15 @@
       "title": "How will artificial intelligence reshape our world? | The Ethical Life podcast",
       "excerpt": "The hosts discuss the promises and pitfalls of this new technology, which is nearly certain to change the way we interact with each other.",
       "sourceUrl": null,
-      "webUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
-      "originalUrl": "https://trib.com/opinion/columnists/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_4f0cd688-a294-5d1b-aad8-c741806100e4.html",
+      "webUrl": "https://bismarcktribune.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_637e4c0a-625d-5e95-ad9f-95e56161d72a.html",
+      "originalUrl": "https://bismarcktribune.com/news/national/how-will-artificial-intelligence-reshape-our-world-the-ethical-life-podcast/article_637e4c0a-625d-5e95-ad9f-95e56161d72a.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/4/f0/4f0cd688-a294-5d1b-aad8-c741806100e4/63ff740138a57.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/6/37/637e4c0a-625d-5e95-ad9f-95e56161d72a/63ff73fa065ee.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
           "width": 1196,
           "height": 628,
           "title": null,
@@ -405,8 +509,8 @@
       "publishedDateTime": "2023-03-01T15:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Casper Star-Tribune",
-        "domain": "trib.com",
+        "name": "The Bismarck Tribune",
+        "domain": "bismarcktribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1109,100 +1213,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-bridgewater-exits-ray-dalio-era-with-hedge-fund-overhaul-bets-on-ai-and-job-cuts.md",
-      "title": "Bridgewater Exits Ray Dalio Era With Hedge Fund Overhaul, Bets on AI and Job Cuts",
-      "excerpt": "Bridgewater Associates was bound to be different once billionaire founder Ray Dalio no longer commanded the world’s largest hedge fund. Very different, it turns out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-03-01/bridgewater-exits-dalio-era-with-hedge-fund-overhaul-bets-on-ai-sustainability",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-03-01/bridgewater-exits-dalio-era-with-hedge-fund-overhaul-bets-on-ai-sustainability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLZRpBFsqaM0/v0/1200x676.jpg",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-01-deep-learning-for-safer-driving.md",
-      "title": "Deep learning for safer driving",
-      "excerpt": "CERN and software company Zenseact have completed a three-year project investigating the use of AI in autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://cerncourier.com/a/deep-learning-for-safer-driving/",
-      "originalUrl": "https://cerncourier.com/a/deep-learning-for-safer-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cerncourier.com/wp-content/uploads/2023/02/CCMarApr23_NA_Zenseact.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-01T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CERN Courier",
-        "domain": "cerncourier.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

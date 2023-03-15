@@ -10,7 +10,7 @@
       "originalUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -158,7 +158,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -252,58 +252,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029.md",
-      "title": "Uncovering Hidden Opportunities in the Computer Vision Development Market (2023-2029)",
-      "excerpt": "Computer Vision Development Market Size 2023-2029 | New Report (115 Pages) | Analytics | In This Reports Computer",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1088,6 +1036,49 @@
       "provider": {
         "name": "Security",
         "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-02-28-mwc-2023-petal-search-unveils-the-latest-multimodal-ar-search-for-fast-object-recognition-and-text-translation.md",
+      "title": "MWC 2023: Petal Search Unveils the Latest Multimodal AR Search for Fast Object Recognition and Text Translation",
+      "excerpt": "This year, Petal Search upgrades its AR search capability. The function trains models based on hundreds of millions of data records to learn the abstract features of images and builds an online index library of tens of billions of images.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1310080&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1310080&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2011776/image_1_AR_search_experience_at_MWC_2023.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-28T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
         "images": null,
         "publishers": null,
         "authors": null

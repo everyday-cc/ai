@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-02-07-how-ai-points-the-way-to-a-new-gold-standard-for-big-data-analytics.md",
+      "title": "How AI points the way to a new gold standard for big data analytics",
+      "excerpt": "By running data analytics on dedicated processors the way AI workloads now run on GPUs we can crack open Big Data for a new level of insights",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/how-ai-points-the-way-to-a-new-gold-standard-for-big-data-analytics/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/how-ai-points-the-way-to-a-new-gold-standard-for-big-data-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-02-06T18:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-02-07-biren-prioritizes-ai-breakthrough-software-stack-key-to-chinese-gpu-industry.md",
       "title": "Biren prioritizes AI breakthrough; software stack key to Chinese GPU industry",
       "excerpt": "Biren has chosen to focus on GPGPU and prioritizing breakthroughs in AI, an application with greater market potential. Data center products have already surpassed traditional GPU products on the ...",
@@ -1230,40 +1273,6 @@
       "provider": {
         "name": "Impacts",
         "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-26-orboanywhere-version-50-released-with-orbnet-ai-free-read.md",
-      "title": "OrboAnywhere Version 5.0 Released With OrbNet AI Free Read",
-      "excerpt": "BURLINGTON, Mass. / ACCESSWIRE /6, 2023 / OrboGraph, a premier supplier of check processing automation and fraud detection software and services, announced the release of OrboAnywhere Version 5.0 to business partners in December 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
-      "originalUrl": "https://www.miamiherald.com/press-releases/article271678367.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-26T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
         "images": null,
         "publishers": null,
         "authors": null

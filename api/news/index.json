@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-15-india-must-think-hard-on-artificial-intelligence-guardrails.md",
+      "title": "India must think hard on Artificial Intelligence guardrails",
+      "excerpt": "(Source: Shutterstock) Highlights: India has taken a lead in terms of policy intent for adopting Artificial Intelligence and its varied use cases for the economy India expects a big jump in demand for AI and data science professionals, with an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/03/hacking_shutterstock_578912143-770x433.jpg",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp",
+      "publishedDateTime": "2023-03-14T20:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-15-startup-tells-new-hires-they-need-to-know-chatgpt-for-a-job.md",
       "title": "Startup Tells New Hires They Need To Know ChatGPT For a Job",
       "excerpt": "with a recent job ad for new graduates making it mandatory for recruits to be tested on their use of the chatbot made by OpenAI Inc., and another called Notion AI.",
@@ -61,7 +103,7 @@
       "originalUrl": "https://www.ndtv.com/india-news/catering-to-vote-bank-lgbtq-activist-on-centre-opposing-same-sex-marriage-3861749",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -157,7 +199,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/openai-gpt-4-rcna74916",
       "featuredContent": null,
       "highlight": null,
-      "heat": 220,
+      "heat": 241,
       "tags": null,
       "images": [
         {
@@ -746,7 +788,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/googles-new-ai-tools-for-gmail-docs-can-write-drafts-for-you/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -995,7 +1037,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-with-size-expected-to-reach-by-2030-by-extensive-growth-projected-2023-03-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1098,7 +1140,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-business-scenario-top-factors-that-will-boost-the-data-and-ai-ethics-market-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1182,58 +1224,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-14-you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi.md",
-      "title": "You can now run a GPT-3 level AI model on your laptop, phone, and Raspberry Pi",
-      "excerpt": "Things are moving at lighting speed in AI Land. On Friday, a software developer named Georgi Gerganov created a tool called \"llama.cpp\" that can run Meta's new GPT-3-class AI large language model, LLaMA,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/llama_laptop_hero_1-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/amp/",
-      "publishedDateTime": "2023-03-13T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -298,6 +298,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-13-artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry.md",
+      "title": "Artificial intelligence (AI) Chips Market Intelligence Report [2023-2026] | Our Research Gives You the Competitive Edge in the Industry",
+      "excerpt": "Pages Report] Global “ Artificial intelligence (AI) Chips Market ” [2023-2026] latest research report with the latest facts and figures, definitions, SWOT analysis, expert opinions, and global developments,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry-2023-03-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-reelgolfs-ai-enabled-video-capture-system-creates-cinematic-souvenirs.md",
       "title": "ReelGolf’s AI Enabled Video-Capture System Creates Cinematic Souvenirs",
       "excerpt": "Austin based autonomous videography startup creates tee-to-green footage of golfers as they play clients signature holes.",
@@ -1379,58 +1431,6 @@
         "name": "Benzinga.com",
         "domain": "benzinga.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-02-nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge.md",
-      "title": "Nvidia’s new AI upscaling tech makes low-res videos look sharper in Chrome, Edge",
-      "excerpt": "Nvidia's latest GPU driver introduces its new AI-based upscaling technique for making lower-resolution videos streamed offline look better on a high-resolution display. Now available via the GeForce driver 531.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/geforce-rtx-3090-product-gallery-inline-850-32x_345947f0-a017-4ca6-8019-2dc97a0d777f-prv-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/03/nvidias-new-ai-upscaling-tech-makes-low-res-videos-look-sharper-in-chrome-edge/amp/",
-      "publishedDateTime": "2023-03-01T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -256,7 +256,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -462,6 +462,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-10-chatgpt-is-now-available-in-microsofts-azure-openai-service.md",
+      "title": "ChatGPT is now available in Microsoft’s Azure OpenAI service",
+      "excerpt": "Microsoft is making ChatGPT available in its own Azure OpenAI service today. Developers and businesses will now be able to integrate OpenAI’s ChatGPT model into their own cloud apps, enabling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/3/9/23632312/microsoft-azure-openai-chatgpt-feature-available",
+      "originalUrl": "https://www.theverge.com/2023/3/9/23632312/microsoft-azure-openai-chatgpt-feature-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/CCAiZOaSXBZ90QlUG4O76gDxwwc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-09T11:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1311,49 +1363,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-nfl-players-with-concussion-histories-have-reduced-cognitive-performance-study-shows.md",
-      "title": "NFL players with concussion histories have reduced cognitive performance, study shows",
-      "excerpt": "A large study looking at over 350 former National Football League players found that players with a history of concussions and concussive symptoms had reduced cognitive performances later in life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
-      "originalUrl": "https://www.cbsnews.com/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/12/789c2dff-9443-4849-939f-a561171f9869/thumbnail/1200x630/b6a636be6494061d9748a28b1ffebd1d/gettyimages-936299580.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/nfl-concussion-study-reduced-cognitive-performance-decades/",
-      "publishedDateTime": "2023-03-02T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

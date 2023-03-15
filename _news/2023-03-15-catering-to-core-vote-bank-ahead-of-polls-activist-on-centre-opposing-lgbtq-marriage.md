@@ -1,18 +1,20 @@
 ---
 category: news
 title: "\"Catering to core vote bank ahead of polls\": Activist on Centre opposing LGBTQ marriage"
-excerpt: "Amid the ongoing debate over same-sex marriage in the country in the wake of an affidavit filed by the Centre opposing the practice LGBTQ activist Prijith PK o"
-publishedDateTime: 2023-03-14T22:17:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/273628910/catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage"
-webUrl: "https://www.bignewsnetwork.com/news/273628910/catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage"
+excerpt: "Amid the ongoing debate over same-sex marriage in the country in the wake of an affidavit filed by the Centre opposing the practice, LGBTQ activist Prijith PK on Tuesday alleged that the government was demonstrating a 'homophobic' attitude in a bid to cater to its traditional vote bank with an eye on the upcoming elections."
+publishedDateTime: 2023-03-15T01:02:00Z
+originalUrl: "https://www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage"
+webUrl: "https://www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage"
+ampWebUrl: "https://www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage?amp"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Computer Vision
@@ -20,9 +22,9 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1678828201.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_03_2023_01_02_56_5952996.jpg?width=1280"
+    width: 1280
+    height: 960
     isCached: true
 
 related:
@@ -113,7 +115,16 @@ related:
       name: Big News Network.com
       domain: bignewsnetwork.com
     quality: 0
+  - title: "Marriage in Hinduism is 'Sanskar', not contract or enjoyment: RSS backs Centre's stand against same-sex marriage"
+    excerpt: "This comes after the Centre, in its affidavit, had opposed the plea seeking legal recognition of same-sex marriage, saying that living together as partners by same-sex individuals, which is decriminalised now,"
+    publishedDateTime: 2023-03-15T03:35:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20230314/4049847.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
-secured: "1GsDbTsYgWjyYSTo9RwIpfQsBmFSTgkwc/HBmzr0Dl0UkpqO+YsOh6JS8cLr5F8cIH6497LGYFjL4nMlGTISEG4vQtS0mkLFmuqtVZO2Vx4hDCLoB/YFKwcyHLU5MmNsePM//1KLqbZQndvOf0HW8WfIdPu5dDfJGVpgcwtoFizKD3muOW4sF/L/hU+bHGlHIojZgqz4ztF7UPeChJodT5SwgnrsbTknoI9HHA43phpAPiR4cWfD0dQIws3jZOP912rQzjKDQe56Bp960VpKyyl6yHeA/4bGSAu+0wcMqd2jReoeyQ0rDy7DSbqhd9uDN1e/z5UKcDFqQ9zPMmQS7JPp0uJLwGDhQshhsaMFtyw=;oJ/gycDfxsd/hI+ToV728g=="
+secured: "JfrUlxGOfzcutR/Ex4al8qagU1EI1GU7rYzmfp0YRI9L4mnIfUPB1dBH2/pXjhiez8jMUK5EU8e4YRwMLbWOEKnZ8aSdBGCMIbDQsKX9rhgOXPQjboq2EbbUPRA+GO2/AJqdrQlnyLs122hrpq9Gb/q+QbrUhTsZtvSxfa4QYvfMECND9t5iXRZSn2i5s1ProjxreN1PhJm4SJp623dp5HOiRIqhrMpOimqx4npZjJORGiCkoPygkJKmhKrvkd0oBdLRcP5ec6zXOnoRlJhkYngLNp2M0xW1NtysOEwOW4e8P9UgTIbOJtrgzrsNzn0zh9jiFA8Qe6MaSMUIXJiZl5x7qy2Q1Mt71DHJNUMmvgk=;YKYEjdAMuSTnl2MGvGCAjw=="
 ---
 

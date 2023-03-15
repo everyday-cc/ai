@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Till 2028, The Artificial Intelligence In Small And Medium Business Market | Exclusive report of 85 Pages"
+    excerpt: "In 2023, the market is growing at a stable rate and with the increasing adoption of strategies by key players, the market is predicted to rise over the projected horizon. Report further studies the market development status and future Artificial Intelligence In Small And Medium Business Market trend across the world."
+    publishedDateTime: 2023-03-14T17:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/till-2028-the-artificial-intelligence-in-small-and-medium-business-market-exclusive-report-of-85-pages-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vb6+a5fTUr3j66QXL1fV3SqRjZSxbZbFJZsLebPPGGCJFnFe8lHseNfDzIrnAc5Jp8zQ0HnO9JBZSOHCenn6ZBK8xpGzK8UJ6k1EOK8wjzakz5J18fUr/5XBy13M/XRzUOzS0/eeXRtk1fVQg6RmXYJbwA0dPYvAm3iLTcax1IALtgkOXOQRSuFqxUw3jQzhYaOMpNB11bYhmpDAhgkZwmnnyZM7Z+LLW6hPMTn3nF/SUY0b642cunoFCA3Rs2lURBDLghcyBeQxqVs+JVwXVsZWKjftQUOYcBuoi1jK140wCJxQLy+tU9KB10EtZPtdTbt+ATqgipjAqkJHhiwrWFRO0ivo4sfH7qQLRwv3j5c=;O3VliITCC9oMlrE2+LXWfQ=="
 ---

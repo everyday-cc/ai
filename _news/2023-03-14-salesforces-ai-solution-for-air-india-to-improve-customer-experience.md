@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2023/03/salesforces-ai-solution-for-air-indi
 webUrl: "https://yourstory.com/2023/03/salesforces-ai-solution-for-air-india-to-improve-c"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "India must think hard on Artificial Intelligence guardrails"
+    excerpt: "(Source: Shutterstock) Highlights: India has taken a lead in terms of policy intent for adopting Artificial Intelligence and its varied use cases for the economy India expects a big jump in demand for AI and data science professionals, with an ..."
+    publishedDateTime: 2023-03-15T03:26:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/india-must-think-hard-on-artificial-intelligence-guardrails-10251151.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 72
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/hacking_shutterstock_578912143-770x433.jpg"
+        width: 770
+        height: 433
+        isCached: true
 
 secured: "uRbQGKsTdoj/rhL7GJuDHKPbfEPoGf+bhSousu5LaPH9lbojtxZrzds/9walig71kK+1wpb72sw7iH65jjZK8P2ejiCkNri2u+cbirJzgsmN8l0CbkTZmk8NAp5tkyMSMFgN6D1mBofBd4WaF3FGSwF9RI1vnNxIqkJ/pNBN3oj4NjwOx5/pYiNlNkiRueWFcQF9SdtspI8xqODIGRIQUA/tuxw2MAW+SGw6jZNPQltyTYILi+9E/HfuFiXE52Pfa1697mhcGnjWRncgzgtEdNYjvmKC3400+2d/znGJl9btfC1oJbkuKMI9wl1/dT3U7VDJBmv5Y0mzwW5nBy0s79cSbPtFFYKvEyfX+qwbolM=;iYR7dUmombK31gAlYvkPIA=="
 ---

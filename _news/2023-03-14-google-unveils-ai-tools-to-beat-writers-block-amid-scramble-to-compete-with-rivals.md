@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google previews generative AI features for Workspace users, developers"
+    excerpt: "Computing giant Google announced today that it will release previews of three new AI features, including AI composition for Google Workspace, developer prototyping and coding via PaLM and MakerSuite,"
+    publishedDateTime: 2023-03-14T19:41:00Z
+    webUrl: "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.html"
+    ampWebUrl: "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.techhive.com/images/article/2017/02/p1200646-100708722-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Gmail, Docs are getting generative AI tools, too: What they can do for you"
     excerpt: "Advancements in generative AI can mean lots of improvements to how we work and communicate. Here's how Google is applying the technology in Google Workspace."
     publishedDateTime: 2023-03-14T18:17:00Z

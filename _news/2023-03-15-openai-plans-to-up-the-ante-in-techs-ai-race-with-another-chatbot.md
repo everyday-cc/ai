@@ -158,6 +158,20 @@ related:
         width: 1920
         height: 1282
         isCached: true
+  - title: "OpenAI starts release of powerful AI GPT-4"
+    excerpt: "OpenAI, a Microsoft-backed startup, announced it is releasing more a powerful artificial intelligence (AI) model known as GPT-4. OpenAI, which created the chatbot sensation ChatGPT, said in a blog post that its latest technology is “multimodal ..."
+    publishedDateTime: 2023-03-15T02:23:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/openai-starts-release-of-powerful-ai-gpt-4-77308"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 39
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2023/03/GPT-4.png"
+        width: 640
+        height: 423
+        isCached: true
   - title: "OpenAI ups the ante in AI wars with GPT-4"
     excerpt: "Inaccurate responses known as “hallucinations” have been a challenge for many AI programs. Microsoft stands to benefit ... OpenAI’s latest technology into its products: its Azure cloud is powering usage of OpenAI just as budget-conscious businesses ..."
     publishedDateTime: 2023-03-14T23:32:00Z
@@ -169,6 +183,20 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 39
+  - title: "GPT-4: OpenAI says its AI has 'human-level performance' on tests"
+    excerpt: "An update to the AI behind ChatGPT has been released by OpenAI. The firm says other companies are already using it, including the language-learning app Duolingo, the payment service Stripe and Microso"
+    publishedDateTime: 2023-03-14T22:55:00Z
+    webUrl: "https://www.newscientist.com/article/2364375-gpt-4-openai-says-its-ai-has-human-level-performance-on-tests/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/03/14203041/SEI_1482974041.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "OpenAI unveils GPT-4 and touts ‘human-level performance’ from new AI model"
     excerpt: "OpenAI has released GPT-4, its latest artificial intelligence model that it claims exhibits “human-level performance” on several academic and professional benchmarks such as the US bar exam, advanced placement tests and the SAT school exams."
     publishedDateTime: 2023-03-14T19:41:00Z

@@ -30,54 +30,80 @@ images:
     isCached: true
 
 related:
-  - title: "The ‘Search’ For Simpler Analytics"
-    excerpt: "Given that “set” refers to a type of yoghurt, a list of numbers, a race start call , something the sun does, some dishes, putting an object down, a television studio & a place where badgers live - you can see why we need large language models to define the relationships between one word & another."
-    publishedDateTime: 2023-03-10T11:40:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/03/10/the-search-for-simpler-analytics/amp/"
+  - title: "Facial Recognition Market Size and Share | Industry Size"
+    excerpt: "Facial Recognition Market” Size 2023 Top Key players Profiled in the Report are (Neurotechnology, Nviso, Cognitec"
+    publishedDateTime: 2023-03-13T17:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/640b1da0ec0c457c717aa269/0x0.jpg?format=jpg&width=1200"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 782
+        height: 630
         isCached: true
-  - title: "KPM Analytics acquires Smart Vision Works"
-    excerpt: "KPM Analytics has announced the acquisition of Smart Vision Works, a specialised AI technology company providing computer vision systems for the agriculture and food industries. Smart Vision Works’ proprietary machine learning algorithms can overcome ..."
-    publishedDateTime: 2023-03-14T11:40:00Z
-    webUrl: "https://www.foodbev.com/news/kpm-analytics-acquires-smart-vision-works/"
+  - title: "Stop the spies with the facial recognition"
+    excerpt: "If, like us, your initial and overriding opinion of sweeping electronic surveillance of literally everyone by law enforcement is that it is bad — bad to the bone — your attitude about a proposed"
+    publishedDateTime: 2023-03-10T15:00:00Z
+    webUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/"
+    ampWebUrl: "https://www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-sgvtribune-com.cdn.ampproject.org/c/s/www.sgvtribune.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
     type: article
     provider:
-      name: FoodBev Media
-      domain: foodbev.com
-    quality: 24
+      name: San Gabriel Valley Tribune
+      domain: sgvtribune.com
+    quality: 59
     images:
-      - url: "https://www.foodbev.com/wp-content/uploads/2023/03/Smart-Vision-Works-1024x638.jpg"
+      - url: "https://www.sgvtribune.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
         width: 1024
-        height: 638
+        height: 578
         isCached: true
-  - title: "KPM Analytics Acquires Food Focused AI Developer Smart Vision Works"
-    excerpt: "About Smart Vision Works Smart Vision Works specializes in computer vision systems developed with advanced artificial intelligence technology for a wide range of customers - from startups to Fortune 500 companies. The company provides hi-tech solutions ..."
-    publishedDateTime: 2023-03-13T18:36:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312175&cat=PR News Wire"
+  - title: "Stop the spies with the facial recognition"
+    excerpt: "So, are two new bills in the California Legislature dealing with facial recognition technology worth supporting? The proposed laws are AB 642 by Assemblyman Phil Ting, D-San Francisco, and AB 1034 ..."
+    publishedDateTime: 2023-03-10T23:57:00Z
+    webUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition"
+    ampWebUrl: "https://www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/03/10/stop-the-spies-with-the-facial-recognition/amp/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
-  - title: "KPM Analytics Acquires Food Focused AI Developer Smart Vision Works"
-    excerpt: "About Smart Vision Works Smart Vision Works specializes in computer vision systems developed with advanced artificial intelligence technology for a wide range of customers - from startups to Fortune 500 companies. The company provides hi-tech solutions ..."
-    publishedDateTime: 2023-03-14T18:37:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1312248&cat=PR News Wire"
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 59
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2023/03/IDB-L-CHINOPD-0212-16x9-1-1.jpg?w=1024&h=578"
+        width: 1024
+        height: 578
+        isCached: true
+  - title: "Facial Recognition Market to Expand at a Stunning CAGR of 16%, Demand and Opportunities During 2023-2033"
+    excerpt: "During the forecast period of 2023-2033, the global facial recognition market is expected to reach an estimated value of ~USD 24 billion by 2033, by expanding at a CAGR of ~16%. The market further generated a revenue of ~USD 5 billion in the year 2022."
+    publishedDateTime: 2023-03-14T04:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-expand-at-a-stunning-cagr-of-16-demand-and-opportunities-during-2023-2033-2023-03-14"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Jharkhand university to use facial recognition-based attendance and here’s why we’re not happy"
+    excerpt: "Jharkand University to mark employee and staff attendance using facial recognition software, raising concerns about privacy and surveillance."
+    publishedDateTime: 2023-03-13T08:53:00Z
+    webUrl: "https://www.medianama.com/2023/03/223-jharkhand-university-to-use-facial-recognition-based-attendance/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 27
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1-e1637751682262.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "/ysVGzUaRhfHiEFMa4hfu8E8qQl1911TcVKdVFs/Fxt0XzvMBAaWnCOm1u8QnQuiNiyVbOuol8V1gUGQHBRSe3jiL4D1kylgPdrorziLH18/HL3qacuZR6q6GVKzWq8sKMivS/opkrcINx4URpqUtTDX+7Aylwaps/nOkNkKAdbcFYjrPxRp5DTIcW7JvtC3rkuaLjcoPwf+3jEs8oTTjY14QN1lnwQYYXUMDiXMxhwhLfo0jnuQrobAKvAJziu/hC1CfeQiA7qwBuFFyR/Yn+5Mxv7MQQ3jrGTHY8NMBnvYHTR2jTpQ9YBxqLX0zMiEdUcfDv7TK461gu+lUW/BRi+aQjOwdUP1lz37MI6MGpg=;eHHGBPjP29PD3cp0pgOMJw=="
 ---

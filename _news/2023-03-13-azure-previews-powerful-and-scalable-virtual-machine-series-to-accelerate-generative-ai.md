@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scala
 webUrl: "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Generative AI Is Just A Wake-Up Call To What Was Always Inevitable. Including Incalculable Profit."
+    excerpt: "AI and machine learning (AI/ML) will unleash the greatest profit engine in history as expensive human-managed processes are replaced by cheaper and more efficient digital ones. What we’ve seen to date is just the beginning of how AI/ML will transform and reinvent business."
+    publishedDateTime: 2023-03-15T01:24:00Z
+    webUrl: "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/"
+    ampWebUrl: "https://www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/03/14/generative-ai-is-just-a-wake-up-call-to-what-was-always-inevitable-including-incalculable-profit/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63c849dfcddeb7fd1f922d82/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 664
+        isCached: true
   - title: "How to set up an enterprise strategy for generative AI"
     excerpt: "Generative AI will likely enhance how businesses operate and find business value. The early days of cloud can yield adoption lessons for the new technology. Editor’s note: The following is a guest post from Patrick Pugh,"
     publishedDateTime: 2023-03-14T11:41:00Z

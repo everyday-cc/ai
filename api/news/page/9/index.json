@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-03-04-these-are-the-ai-trends-that-keep-us-up-at-night.md",
+      "title": "These Are The AI Trends That Keep Us Up At Night",
+      "excerpt": "BuzzFeed News will round up the biggest, weirdest developments in the rapidly expanding field of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-artificial-intelligence-monthly-news-trends?ref=upstract.com",
+      "originalUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-artificial-intelligence-monthly-news-trends?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2023-02/6/21/campaign_images/35488d389fb0/google-just-announced-its-chatgpt-rival-3-1450-1675718238-7_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/pranavdixit/ai-artificial-intelligence-monthly-news-trends",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/pranavdixit/ai-artificial-intelligence-monthly-news-trends",
+      "publishedDateTime": "2023-03-03T11:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "buzzfeednews.com",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-04-guide-to-artificial-intelligence-etfs.md",
+      "title": "Guide to Artificial Intelligence ETFs",
+      "excerpt": "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
+      "originalUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-03T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-04-the-top-us-consumer-watchdog-is-worried-youre-going-to-fall-for-ai-scams-or-overblown-marketing-hype.md",
       "title": "The top US consumer watchdog is worried you're going to fall for AI scams or overblown marketing hype",
       "excerpt": "The FTC is checking the AI claims of tech companies and investors and concerned about AI-powered fraud.",
@@ -511,6 +597,58 @@
       ]
     },
     {
+      "path": "_news/2023-03-03-robotaxi-tech-improves-but-can-they-make-money.md",
+      "title": "Robotaxi tech improves but can they make money?",
+      "excerpt": "Cruise, a subsidiary of GM, competes with Waymo, owned by Google's parent ... in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-64742934",
+      "originalUrl": "https://www.bbc.com/news/business-64742934",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3680/production/_128725931_cruisequietsanfranciscostreetcreditchriswensel.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-64742934.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-64742934.amp",
+      "publishedDateTime": "2023-03-03T00:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-03-we-are-building-next-gen-ai-to-become-a-global-powerhouse-rajeev-chandrasekhar.md",
       "title": "We are building next-gen AI to become a global powerhouse: Rajeev Chandrasekhar",
       "excerpt": "As the world goes gaga over AI chatbots, To make India a global powerhouse of AI which does not just stop on integrating foreign chatbots but building next-generation of AI-based innovations to empower billions of citizens.",
@@ -645,49 +783,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-robotaxi-tech-improves-but-can-they-make-money.md",
-      "title": "Robotaxi tech improves but can they make money?",
-      "excerpt": "Cruise, a subsidiary of GM, competes with Waymo, owned by Google's parent ... in front of empty driver's seats, controlled by artificial intelligence that uses data from camera, Lidar and radar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-64742934",
-      "originalUrl": "https://www.bbc.co.uk/news/business-64742934",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3680/production/_128725931_cruisequietsanfranciscostreetcreditchriswensel.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/business-64742934",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-64742934",
-      "publishedDateTime": "2023-03-02T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1099,109 +1194,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-indent-raises-81m-funding-for-its-ai-powered-customer-video-review-tool.md",
-      "title": "Indent raises $8.1M funding for its AI-powered customer video review tool",
-      "excerpt": "Indent, a South Korean video review platform, raises $8.1 million Series A to continue developing its AI-powered marketing tool.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/03/02/indent-raises-8-1m-funding-to-continue-developing-its-ai-powered-customer-video-review-tool/",
-      "originalUrl": "https://techcrunch.com/2023/03/02/indent-raises-8-1m-funding-to-continue-developing-its-ai-powered-customer-video-review-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/vrw_amp.png?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/03/02/indent-raises-8-1m-funding-to-continue-developing-its-ai-powered-customer-video-review-tool/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/03/02/indent-raises-8-1m-funding-to-continue-developing-its-ai-powered-customer-video-review-tool/amp/",
-      "publishedDateTime": "2023-03-02T15:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-03-68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022.md",
-      "title": "68% Of Americans Afraid Of Self-Driving Cars, Up From 55% In 2022",
-      "excerpt": "Santa Monica, using IONIQ 5 AV Tuesday, Feb. 21, 2023. (Allen J. Schaben / Los Angeles Times via Getty Images) Roughly 68% of Americans say they’re afraid of self-driving cars, according to a new poll by AAA, a huge jump from 2022 when 55% of Americans ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640125a0ec7e342f308619bf/0x0.jpg?format=jpg&crop=1900,1068,x0,y98,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/03/02/68-of-americans-afraid-of-self-driving-cars-up-from-55-in-2022/amp/",
-      "publishedDateTime": "2023-03-02T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

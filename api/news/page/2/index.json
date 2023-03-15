@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-03-14-you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi.md",
+      "title": "You can now run a GPT-3 level AI model on your laptop, phone, and Raspberry Pi",
+      "excerpt": "Things are moving at lighting speed in AI Land. On Friday, a software developer named Georgi Gerganov created a tool called \"llama.cpp\" that can run Meta's new GPT-3-class AI large language model, LLaMA,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/llama_laptop_hero_1-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/03/you-can-now-run-a-gpt-3-level-ai-model-on-your-laptop-phone-and-raspberry-pi/amp/",
+      "publishedDateTime": "2023-03-13T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-03-14-artificial-intelligence-can-realistically-replicate-voices-raising-new-tech-concerns.md",
       "title": "Artificial intelligence can realistically replicate voices, raising new tech concerns",
       "excerpt": "New artificial intelligence technology can replicate voices, giving users the ability to manufacture content involving celebrities, politicians or just about anyone. NBC News’ Gadi Schwartz shares more on the groundbreaking AI technology and the ethical implications.",
@@ -208,7 +260,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-and-share-industry-size-2023-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -440,6 +492,58 @@
       "topics": [
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-03-13-artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry.md",
+      "title": "Artificial intelligence (AI) Chips Market Intelligence Report [2023-2026] | Our Research Gives You the Competitive Edge in the Industry",
+      "excerpt": "Pages Report] Global “ Artificial intelligence (AI) Chips Market ” [2023-2026] latest research report with the latest facts and figures, definitions, SWOT analysis, expert opinions, and global developments,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry-2023-03-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-intelligence-report-2023-2026-our-research-gives-you-the-competitive-edge-in-the-industry-2023-03-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-13T04:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -961,7 +1065,7 @@
       "originalUrl": "https://azure.microsoft.com/blog/azure-previews-powerful-and-scalable-virtual-machine-to-help-customers-accelerate-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1037,58 +1141,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029.md",
-      "title": "Uncovering Hidden Opportunities in the Computer Vision Development Market (2023-2029)",
-      "excerpt": "Computer Vision Development Market Size 2023-2029 | New Report (115 Pages) | Analytics | In This Reports Computer",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/uncovering-hidden-opportunities-in-the-computer-vision-development-market-2023-2029-2023-03-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1183,59 +1235,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-13-automated-machine-learning-automl-market-the-growing-trend-2029.md",
-      "title": "Automated Machine Learning (AutoML) Market: The Growing Trend 2029",
-      "excerpt": "Pre and Post Covid Report Is Covered | Final Report Will Add the Analysis of the Impact of Russia-Ukraine War and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-the-growing-trend-2029-2023-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/automated-machine-learning-automl-market-the-growing-trend-2029-2023-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-12T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

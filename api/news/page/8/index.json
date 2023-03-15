@@ -2,6 +2,83 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-03-06-artificial-intelligence-could-help-detect-breast-cancer-study.md",
+      "title": "Artificial intelligence could help detect breast cancer: study",
+      "excerpt": "The use of artificial intelligence is growing across a myriad of sectors, from being used to detect emissions and predict lightning strikes to monitor aging infrastructure and drive vehicles. Early research has now found it could be effective at helping doctors detect breast cancer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html",
+      "originalUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LLZSV63TI5FEZIKVKAEDJVKO5M.jpg",
+          "width": 2916,
+          "height": 2233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2023/03/artificial-intelligence-could-help-detect-breast-cancer-study.html?outputType=amp",
+      "publishedDateTime": "2023-03-05T18:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Staten Island Advance",
+        "domain": "silive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-03-06-5-ways-machine-learning-is-leading-to-smarter-manufacturing.md",
+      "title": "5 Ways Machine Learning Is Leading to Smarter Manufacturing",
+      "excerpt": "Major companies around the world are heavily investing in machine learning (ML) solutions across their manufacturing processes and seeing impressive results. From bringing down labor costs and reducing downtime to increasing workforce productivity and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.business.com/articles/machine-learning-and-manufacturing/",
+      "originalUrl": "https://www.business.com/articles/machine-learning-and-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business.com",
+        "domain": "business.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-03-06-deep-learning-based-anatomical-landmark-identification-in-ct-scans.md",
       "title": "Deep-learning-based anatomical landmark identification in CT scans",
       "excerpt": "When planning orthodontic treatments using computed tomography images, surgeons often need to identify points of interest in the bones called “anatomical landmarks,” which help them diagnose conditions and make precise measurements.",
@@ -1016,92 +1093,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-these-are-the-ai-trends-that-keep-us-up-at-night.md",
-      "title": "These Are The AI Trends That Keep Us Up At Night",
-      "excerpt": "BuzzFeed News will round up the biggest, weirdest developments in the rapidly expanding field of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-artificial-intelligence-monthly-news-trends?ref=upstract.com",
-      "originalUrl": "https://www.buzzfeednews.com/article/pranavdixit/ai-artificial-intelligence-monthly-news-trends?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2023-02/6/21/campaign_images/35488d389fb0/google-just-announced-its-chatgpt-rival-3-1450-1675718238-7_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/pranavdixit/ai-artificial-intelligence-monthly-news-trends",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/pranavdixit/ai-artificial-intelligence-monthly-news-trends",
-      "publishedDateTime": "2023-03-03T11:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "buzzfeednews.com",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-04-guide-to-artificial-intelligence-etfs.md",
-      "title": "Guide to Artificial Intelligence ETFs",
-      "excerpt": "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
-      "originalUrl": "https://www.nasdaq.com/articles/guide-to-artificial-intelligence-etfs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-03T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

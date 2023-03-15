@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google previews generative AI features for Workspace users, developers"
+    excerpt: "Computing giant Google announced today that it will release previews of three new AI features, including AI composition for Google Workspace, developer prototyping and coding via PaLM and MakerSuite,"
+    publishedDateTime: 2023-03-14T19:41:00Z
+    webUrl: "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.html"
+    ampWebUrl: "https://www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3690341/google-previews-generative-ai-features-for-workspace-users-developers.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.techhive.com/images/article/2017/02/p1200646-100708722-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google unveils AI tools to beat writer’s block amid scramble to compete with rivals"
     excerpt: "The AI overhaul of Google’s Workspace products is starting with ... multibillion-dollar investment” in OpenAI, the artificial intelligence startup behind ChatGPT, a chatbot that generates text in response to user queries. Microsoft then said in ..."
     publishedDateTime: 2023-03-14T15:31:00Z

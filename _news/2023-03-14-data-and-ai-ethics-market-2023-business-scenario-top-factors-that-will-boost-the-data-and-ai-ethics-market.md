@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2023-business-scenario-top-factors-that-will-boost-the-data-and-ai-ethics-market-2023-03-13"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Till 2028, The Artificial Intelligence In Small And Medium Business Market | Exclusive report of 85 Pages"
+    excerpt: "In 2023, the market is growing at a stable rate and with the increasing adoption of strategies by key players, the market is predicted to rise over the projected horizon. Report further studies the market development status and future Artificial Intelligence In Small And Medium Business Market trend across the world."
+    publishedDateTime: 2023-03-14T17:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/till-2028-the-artificial-intelligence-in-small-and-medium-business-market-exclusive-report-of-85-pages-2023-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

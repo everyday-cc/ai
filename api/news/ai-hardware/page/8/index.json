@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-12-15-us-blacklists-chinas-chipmaker-firm-crackdowns-on-ai-chip-sector.md",
+      "title": "US Blacklists China's Chipmaker Firm, Crackdowns On AI Chip Sector",
+      "excerpt": "The Biden administration on Thursday plans to add Chinese memory chipmaker YMTC and 21 \"major\" Chinese players in the artificial intelligence chip industry to a trade blacklist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429",
+      "originalUrl": "https://www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-12/otkls578_chip-generic-istock_625x300_15_December_22.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/us-blacklists-chinas-chipmaker-firm-ymtc-crackdowns-on-ai-chip-sector-3610429/amp/1",
+      "publishedDateTime": "2022-12-15T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-12-15-what-we-got-right-and-wrong-in-our-2022-ai-predictions.md",
       "title": "What We Got Right And Wrong In Our 2022 AI Predictions",
       "excerpt": "To keep ourselves honest, with 2022 now coming to a close, let’s revisit these predictions to see how things actually played out. There is much to learn from these retrospectives about the state and trajectory of AI today.",
@@ -1349,58 +1392,6 @@
         "AI",
         "AI in Finance",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-12-07-intel-just-gave-your-arc-gpu-double-the-frames-per-second-performance.md",
-      "title": "Intel just gave your Arc GPU double the frames-per-second performance",
-      "excerpt": "It’s no secret that Intel’s Arc graphics cards had a rough launch, with multiple delays and even cancellation rumors plaguing Intel’s efforts. But now the company finally has some good news ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/intel-arc-driver-doubles-fps-performance/",
-      "originalUrl": "https://www.digitaltrends.com/computing/intel-arc-driver-doubles-fps-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/Intel-Arc-A750-Limited-Edition.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-arc-driver-doubles-fps-performance/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-arc-driver-doubles-fps-performance/?amp",
-      "publishedDateTime": "2022-12-07T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

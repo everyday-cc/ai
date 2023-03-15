@@ -44,18 +44,20 @@ related:
         height: 400
         isCached: true
   - title: "\"Catering to core vote bank ahead of polls\": Activist on Centre opposing LGBTQ marriage"
-    excerpt: "Amid the ongoing debate over same-sex marriage in the country in the wake of an affidavit filed by the Centre opposing the practice LGBTQ activist Prijith PK o"
-    publishedDateTime: 2023-03-14T22:17:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273628910/catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage"
+    excerpt: "Amid the ongoing debate over same-sex marriage in the country in the wake of an affidavit filed by the Centre opposing the practice, LGBTQ activist Prijith PK on Tuesday alleged that the government was demonstrating a 'homophobic' attitude in a bid to cater to its traditional vote bank with an eye on the upcoming elections."
+    publishedDateTime: 2023-03-15T01:02:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage"
+    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2379450-catering-to-core-vote-bank-ahead-of-polls-activist-on-centre-opposing-lgbtq-marriage?amp"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 33
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 53
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1678828201.jpg"
-        width: 630
-        height: 420
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/15_03_2023_01_02_56_5952996.jpg?width=1280"
+        width: 1280
+        height: 960
         isCached: true
   - title: "Breaking news live: Centre files affidavit before SC, opposes legal recognition of same-sex marriage"
     excerpt: "Stay here for real-time updates on breaking news from India and across the world that you can't miss Centre files affidavit before Supreme Court, opposes the legal recognition of same-sex marriage. Centre tells SC that same-sex relationships & heterosexual relationships are clearly distinct classes which cannot be treated identically."
@@ -111,6 +113,15 @@ related:
     provider:
       name: Big News Network.com
       domain: bignewsnetwork.com
+    quality: 0
+  - title: "Marriage in Hinduism is 'Sanskar', not contract or enjoyment: RSS backs Centre's stand against same-sex marriage"
+    excerpt: "This comes after the Centre, in its affidavit, had opposed the plea seeking legal recognition of same-sex marriage, saying that living together as partners by same-sex individuals, which is decriminalised now,"
+    publishedDateTime: 2023-03-15T03:35:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20230314/4049847.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "GywITfnhO6K9e5PD11+603XO4jPmOarkc77IJRZqJdszH/p0NTSSf8HIOaHeG07k2joZOn72FlPQvS8Yej/Ij/oiuqVw93C8NH8NwQINuaz2swg6GQa+ZS0AprTrzMIlsilcVrqhlQXBniWQuvDD8OYF8m38/sA5OzJEXNSBd51K/TgJU96gemWDmGlAguBIzOKpZn9uul9/G6LYlFDls3oPmhNO6Og0fjLKIUS9xocnip0/bwyLEZebx9DLaqL6QZ23vA/zzu6fy1tJjvUgUSSrIqa5TjulTFTQ6lAODwHrJuKb/UbrGH3OCsk1hgMgz7cQ0yzY3QLB82ddWvZrBh2H3j/YoLO268Bi1hDfVMs=;qCQsjMZu2XqFCvUX4lUuZA=="
